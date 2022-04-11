@@ -1,31 +1,0 @@
- ˇˇœ«ˇˇˇëÖÄcwhoosh.fields
-Schema
-q )Åq}q(X   _fieldsq}q(X   contentqcwhoosh.fields
-TEXT
-q)Åq}q(X   analyzerq	cwhoosh.analysis.analyzers
-CompositeAnalyzer
-q
-)Åq}qX   itemsq]q(cwhoosh.analysis.tokenizers
-RegexTokenizer
-q)Åq}q(X
-   expressionqcre
-_compile
-qX   \w+(\.?\w+)*qK ÜqRqX   gapsqâubcwhoosh.analysis.filters
-LowercaseFilter
-q)Åqcwhoosh.analysis.filters
-StopFilter
-q)Åq}q(X   stopsqc__builtin__
-frozenset
-q]q(X   yourq X   isq!X   mayq"X   yetq#X   notq$X   areq%X   theq&X   atq'X   tbdq(X   ofq)X   canq*X   byq+X   withq,X   weq-X   asq.X   itq/X   thatq0X   anq1X   ifq2X   thisq3X   aq4X   fromq5X   inq6X   usq7X   beq8X   willq9X   andq:X   youq;X   forq<X   orq=X   toq>X   haveq?X   whenq@X   onqAeÖqBRqCX   minqDKX   maxqENX   renumberqFàubesbX   formatqGcwhoosh.formats
-Positions
-qH)ÅqI}qJ(X   field_boostqKG?      X   optionsqL}qMubX   column_typeqNNX   spellingqOâX   spelling_prefixqPX   spell_qQX   multitoken_queryqRX   defaultqSX   scorableqTàX   storedqUâX   vectorqVNubX   rawtextqWh)ÅqX}qY(h	h
-)ÅqZ}q[h]q\(h)Åq]}q^(hhhâubh)Åq_h)Åq`}qa(hh]qb(h h!h"h#h$h%h&h'h(h)h*h+h,h-h.h/h0h1h2h3h4h5h6h7h8h9h:h;h<h=h>h?h@hAeÖqcRqdhDKhENhFàubesbhGhH)Åqe}qf(hKG?      hL}qgubhNNhOâhPhQhRhShTàhUàhVNubX	   referenceqhcwhoosh.fields
-ID
-qi)Åqj}qk(h	cwhoosh.analysis.tokenizers
-IDTokenizer
-ql)ÅqmhGcwhoosh.formats
-Existence
-qn)Åqo}qp(hKG?      hL}qqubhUàX   uniqueqrâhNNubuX
-   _subfieldsqs}qt(h]quhahW]qvhWahh]qwhhauX   _dyn_fieldsqx}qyub.       Äï<      ]îåwhoosh.codec.whoosh3îå	W3Segmentîìî)Åî}î(å	indexnameîåMAINîåsegidîåx8dhpbtd1v22r8o5îå_codecîhåW3Codecîìî)Åî}î(å_blocklimitîKÄå_compressionîKå_inlinelimitîKubå	_doccountîM«-å_deletedîNåcompoundîàå_fieldlengthsîåcollectionsîådefaultdictîìîåbuiltinsîåintîìîÖîRî(åcontentîJŸƒ
- årawtextîJŸƒ
- uuba.

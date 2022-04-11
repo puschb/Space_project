@@ -1,0 +1,315 @@
+Jonathan's Space Report 
+No. 697                                                      2014 May 17   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 39 continued in early May with commander Koichi Wakata and flight engineers
+Tyurin, Mastracchio, Skvortsov, Artem'ev and Swanson. On May 13 the Ex 39 crew
+of Tyurin, Mastracchio and Wakata transferred to Soyuz TMA-11M leaving the ISS under
+the control of Ex-40 commander Steve Swanson and FEs Arteme'v and Skvortsov. ISS
+is in a 413 x 417 km x 51.7 deg orbit.
+
+Dragon CRS-3 completed its rendezvous with the ISS on Apr 20 and was
+grappled by the SSRMS robot arm at 1114 UTC. The arm berthed Dragon on
+the Harmony module's nadir CBM port at 1402 UTC, with the process
+completed at 1406 UTC. The SSRMS Canadarm-2 robot arm and the SPDM
+Dextre robot manipulator were used to remove two pieces of cargo from
+the unpressurized Dragon trunk. HDEV, the high definition Earth viewing
+video package, was installed on the ESA Columbus module EPF-SDN attach
+point on Apr 30. OPALS, a laser communications package, was installed on
+Express Logistics Carrier 1 on the P3 truss segment on May 7.
+
+Soyuz TMA-11M undocked from the Rassvet module at 2236 UTC on May 13 and
+made the deorbit burn at 0105 UTC May 14. Landing in Kazakhstan came at
+0158:30 UTC on May 14.
+
+
+Ekspress AM-4R
+--------------
+
+A Proton vehicle launched from Baykonur on May 15 had a third stage
+failure and reentered over China. Debris was found north of Harbin, in
+Heilongjiang province. The communications satellite payload, Ekspress
+AM-4R, had been built to replace a satellite lost in an earlier Proton
+failure; it used an Astrium Eurostar 3000 bus and was intended for
+the Russian domestic operator Kosmicheskaya Svyaz. The payload section
+reentered without separating from the third stage; orbit achieved
+was around -1600 x 160 km.
+
+
+KazEOSat-1
+----------
+
+The third launch of Europe's Vega light launch vehicle successfully
+placed the  Kazakh DZZ-HR imaging satellite in a 737 x 741 km x 98.6
+deg, 1014 LTDN sun-synchronous orbit on Apr 30. DZZ-HR was renamed
+KazEOSat-1 after launch; it was built by Airbus Defense and Space (Toulouse),
+is based on the Astrosat bus and has an imager with 1 metre resolution.
+
+Luch/Kazsat
+-----------
+
+All four objects from the Luch/Kazsat launch are now being tracked. On May 15
+Luch-5V was in a 35689 x 35739 km x 4.8 deg orbit drifting east over 94.1E at 0.9 deg/day;
+Kazsat-3 was in a 35884 x 35988 km x 0.2 deg orbit drifting west over 67.4E at 1.9 deg/day.
+The Briz stage is in a 35593 x 40606 km x 1.1 deg orbit
+and the DTB tank is in a 364 x 35732 km x 47.8 deg orbit.
+
+
+Kicksat
+-------
+
+A timer problem on Kicksat means that the deployment of the Sprite
+subsatellites was reset to May 16. Unfortunately, Kicksat was destroyed
+when it reentered on May 14. The last orbital data on May 13 showed it
+in a 159 x 174 km x 51.6 deg orbit.
+
+Kobal't-M and missing Kosmos satellites
+----------------------------------------
+
+A Kobal't-M spy satellite, serial number 564, was launched from Plesetsk
+on May 6 into a 176 x 284 km x 81.4 deg orbit. It is the 9th launch of
+an 11F695M Kobal't-M film-return satellite and the first to use the
+Soyuz-2-1A rocket instead of the older Soyuz-U. By May 17 the satellite
+was in a 207 x 248 km x 81.4 deg orbit.
+
+TASS reports that its cover name is Kosmos-2495, which suggests that we
+have missed three Kosmos series launches. Bob Christy (zarya.info) has
+discovered a so-far-unreleased UN registration document from Russia.
+This document reports that the Dec 2013 Rokot launch, which placed three
+Rodnik/Strela class communications satellites in orbit as
+Kosmos-2488/2489/2490, also placed a fourth payload in orbit,
+Kosmos-2491.  This fourth Russian Ministry of Defense payload was not
+previously announced. It probably corresponds to the object tracked as
+2013-076E, SSN 39497, which has a 0.4 sq m radar cross section. Two
+previous Strela class launches on Rokot have carried small additional
+Yubilyeniy scientific payloads of similar RCS; it seems likely that the
+mystery payload is comparable, and may repreresent a Russian military
+small satellite testbed. We may have to wait for further launches in the
+series for a pattern to become clear.
+
+The Glonass-M satellite launched in March 2014 is reported as Kosmos-2491 and Kosmos-2494
+in different official Russian sources, suggesting a degree of administrative
+confusion within the Russian establishment. The two other recently launched
+Russian Defense Ministry payloads are the two calibration satellites which
+the above-mentioned registration document calls SKRL 756 (same name for each satellite).
+My hypothesis is that these two satellites will be renamed Kosmos-2492 and Kosmos-2493
+for official purposes. We then have in the record the following sequences
+
+ Launch    Internal military name   Original public designation   New pub. des.
+ Dec 25    Rodnik-S (8?)            Kosmos-2488                   Kosmos-2488  
+           Rodnik-S (9?)            Kosmos-2489                   Kosmos-2489
+           Rodnik-S (10?)           Kosmos-2490                   Kosmos-2490
+           [Yubilyeniy-class]       [None]                        Kosmos-2491
+ Dec 28    SKRL-756 No. 1           SKRL-756                      Kosmos-2492?         
+           SKRL-756 No. 2           SKRL-756                      Kosmos-2493?         
+ Mar 23    Uragan-M No. 754         Kosmos-2491, Glonass-M        Kosmos-2494
+ May  6    Kobal't-M No. 564                                      Kosmos-2495
+
+The Kosmos series nomenclature was introduced in 1962 to obfuscate the
+missions of Soviet military satellites; analogous approaches were taken
+by the US. I have had the impression for the past few years that the
+system is breaking down, with bulletins from organs such as TASS and
+Novosti sometimes issuing inconsistent names for the same satellite -
+probably reflecting a bureaucratic change which has decentralized
+control of such press releases in some way.
+
+I thank Bob Christy, Claude Lafleur, Geoff Richards and @cosmic_penguin for
+useful Twitter and email discussions on this issue.
+
+GPS 67
+------
+
+The sixth GPS Block IIF satellite, space vehicle number (SVN) 67, nicknamed Rigel,
+was launched from Cape Canaveral on May 17. For the first time on a GPS/Delta 4
+flight, the profile had only two instead of three upper stage burns:
+the Delta 4 second stage skipped the low circular parking orbit phase
+and directly entered a 198 x 20387 km x 52.7 deg transfer orbit at 0018 UTC.
+The second stage 2 burn at 0306 UTC led to the deployment of GPS SVN 67
+in a 20460 x 20476 km x 55.0 deg orbit.
+
+
+Orbital ATK
+-----------
+
+Two major space companies, Orbital Sciences and ATK, have announced that
+they plan to merge. Orbital Sciences was the first successful 'new
+space' company of the first wave (1980s) while ATK is the successor
+corporation to the largest and oldest solid rocket makers (Hercules and
+Thiokol). Between them they already include a lot of space history -
+here is a list  of their ancestor company space/missile-related
+operating locations: (please send corrections)
+
+ Salt Lake City/Magna-Bacchus, Utah
+   Hercules Powder Company            1912-1995
+   Alliant                            1995-2001
+   ATK                                2001-2014
+ Elkton, Maryland
+   Thiokol Chemical Co.               1929-1947
+   Thiokol Propulsion (Elkton)        1947-1982  (Star solid motors, TE series)
+   Morton Thiokol Inc.                1982-1989
+   Thiokol Corp.                      1989-1998
+   Cordant Technologies, Thiokol Prp. 1998-2000
+   Alcoa Industrial, Thiokol Prp.     2000-2001
+   ATK (Elkton)                       2001-2014
+ Cumberland/Rocket Center, West Virginia
+   Alleghany Ballistic Laboratories   1944-1945  (ABL, under NRDC and GWU)
+   Alleghany Ballistic Laboratories   1945-1995  (ABL, under US Navy and Hercules Powder Co.)
+   ATK Tactical Systems ABL           1995-2014?
+ Huntsville, Alabama
+   Thiokol Propulsion (HSV)           1949-2001  (TX series)
+   ATK                                2001-2014?
+ Marshall, Texas
+   Thiokol Longhorn Division          1952-1971
+ Brigham City/Promontory, Utah
+   Thiokol Wasatch Division           1957-2001  (TU series, USAF Plant 78;  Shuttle SRBs)
+   ATK (Promontory)                   2001-2014
+ Salt Lake City, Utah   (I think this was a separate component?)
+   Cordant Technologies, Thiokol Prp. 1998-2000
+   Alcoa Industrial Group/Thiokol     2000-2001
+ Ronkonkoma, New York
+   GASL Inc.                          1956-2000 
+   Allied Aerospace/GASL Inc.         2000-2003   (X-43)
+   ATK GASL                           2003-2014?
+ Tullahoma, Tennessee
+   MicroCraft Inc.                    1958-2001
+   MicroCraft Inc./Allied Aerosp.     2001-2003
+   ATK Propulsion/Controls            2003-2011
+   MicroCraft Inc.                    2011-       (independent again)
+ Phoenix/Chandler, Arizona:
+   Space Data Corp.                   1963-1988   (Sounding rockets)
+   Orbital Sciences Corp.             1988-2014   (Launch vehicles)
+ Rockville/Germantown, Maryland:
+   Fairchild-Hiller Space Systems     1964-1971   (Occasional satellites)
+   Fairchild Space and Electronics    1971-1994
+   Orbital Sciences Corp.             1994-2000?  (Small satellites)
+ Goleta, California
+   AEC/Able Engineering               1975-2004
+   ATK/Able                           2004-2014
+ Beltsville, Maryland
+   Swales Aerospace                   1978-2007
+   ATK Space Division                 2007-2014
+ Washington/McLean, Virginia
+   Defense Systems Inc (DSI)          1984?-1992  (Small satellites)
+   CTA Space Systems Inc              1992-1997
+   Orbital Sciences Corp              1997-2000
+ Fairfax, Virginia:
+   Orbital Sciences Corp.             1986-1993
+ Gilbert, Arizona:
+   Spectrum Astro                     1988-2004   (Satellites)
+   General Dynamics C4 Systems        2004-2010  
+   Orbital Sciences Corp.             2010-2014
+ Ogden, Utah
+   Thiokol Corp.                      1989-1998   (headquarters only?)
+ Minneapolis/Eden Praire, Minnesota 
+   Alliant Techsystems (ATK)          1990-
+ Washington/Dulles, Virginia:
+   Orbital Sciences Corp.             1993-2014   (Satellites)
+ Wallops Island, Virginia
+   Orbital Sciences Corp              2011-2014   (Launch prep facilities)
+   
+Orbital spun off two related companies:
+ New York/Fort Lee, New Jersey
+   Orbcomm -  Orbital spinoff         1993  
+ Washington-Dulles,  Virginia
+   Orbimage -                         1992-2006
+   GeoEye Inc                         2006-2011   (absorbed in DigitalGlobe/Herndon)
+
+
+
+Errata
+-------
+
+My discussion of the ISEE 3 spacecraft in JSR696 was based on the contemporary
+report in Spaceflight magazine. My colleagues at the National Air and Space Museum
+have retrieved the original document, which turns out to be a 'declaration of
+intent' to transfer the title to the Smithsonian at a future date - such transfer
+not having in fact occurred. So it appears that ISEE 3 is still the property of
+NASA.
+
+In JSR 696, the PhoneSat-2.5 cubesat, a 1U experiment from
+NASA-Ames which was ejected from the Falcon 9 second stage, was briefly
+mentioned in the text but inadvertently omitted from the launch table.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Apr  3 1446   DMSP 5D-3 F-19     Atlas V 401      Vandenberg SLC3E  Weather      15A
+Apr  3 2102   Sentinel-1A        Soyuz-2-1A       CSG ELS           Radar        16A
+Apr  4 1144   IRNSS-1B           PSLV-XL          Sriharikota FLP   Navigation   17A
+Apr  9 1526   Progress M-23M     Soyuz-U          Baykonur LC1      Cargo        18A
+Apr  9 1906   'Ofeq-10           Shaviyt          Palmachim         Radar        19A
+Apr 10 1745   USA 250            Atlas V 541      Canaveral SLC41   Sigint       20A
+Apr 16 1620   Egyptsat-2         Soyuz-U          Baykonur LC31     Imaging      21A
+Apr 18 1925   Dragon CRS-3     ) Falcon 9 v1.1    Canaveral SLC40   Cargo        22A
+              SporeSat         )                                    Bio          22B
+              TSat             )                                    Tech         22C
+              All-Star         )                                    Sci          22D
+              PhoneSat-2.5     )                                    Tech         22E
+              Kicksat          )                                    Tech         22F
+              Sprite (00,01)   )                                    Tech         22F
+                 to            )                                    
+              Sprite (206,207) )                                    Tech         22
+Apr 28 0425   Luch-5V      )     Proton-M/Briz-M  Baykonur LC81/24  Comms        23A
+              Kazsat-3     )                                        Comms        23B
+Apr 30 0138   KazEOSat-1         Vega             Kourou ELV        Imaging      24A
+May  6 1349   Kosmos-2495        Soyuz-2-1A       Plesetsk LC43/4   Imaging      25A
+May 15 2142   Ekpress AM-4R      Proton-M/Briz-M  Baykonur LC200/39 Comms        F01
+May 17 0003   GPS SVN 67         Delta 4M+(4,2)   Canaveral SLC37B  Nav          26A
+
+Suborbital missions
+-------------------
+
+A sounding rocket launched from Kapustin Yar on Mar 26 failed and landed
+near a village in an unplanned area of western Kazakhstan; launches within Kazakhstan
+have been suspended pending the accident investigation. The MN-300/MR-30 sounding
+rocket system has a nominal apogee of 300 km, and given the range achieved probably
+attained a comparable height this time despite the failure.
+
+India's DRDO carried out a ballistic missile intercept test on Apr 27. The two-stage
+target, launched from a ship, may be based on the Prithvi-3/Dhanush missile.
+
+Russia carried out a large scale military exercise on May 8, including
+the launch of a Topol' missile from Plesetsk to Kura, an R-29RM Shtil'
+missile from the Northern Fleet submarine K-114 Tula in the Barents Sea,
+also to Kura, and an R-29R Volna missile from the Pacific Fleet
+submarine K-223 Podolsk in the Sea of Okhotsk to the Chiza test range.
+According to Pavel Podvig (russianforces.org) a 53T6 endoatmospheric ABM
+interceptor was also launched from Sary Shagan against an unidentified
+target missile.
+
+NASA launched the University of Arizona HYPE (Hydrogen Polarimetric
+Explorer) suborbital payload from White Sands on May 3 to measure the
+polarized line profile of ultraviolet Lyman-alpha emission from the
+interplanetary medium.
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Mar 26 2225   MR-30            MN-300              Kapustin Yar     Met/Ionos?    300?
+Apr 14 0640   Yars RV x 4?     Yars                Plesetsk         Test         1000?
+Apr 27 0337   SLTGT-02         Prithvi 3?        INS, Bay of Bengal Target        150?
+Apr 27 0340?  PDV              Prithvi 2?          Chandipur        Interceptor   120
+May  3 0800   NASA 36.235US    Black Brant IX      White Sands      UV Astron     278 
+May  8        Topol' RV        Topol'              Plesetsk         Exercise     1000?
+May  8        Shtil' RV        Shtil'            K-114, Barents     Exercise     1000?
+May  8        Volna RV         Volna             K-223, Okhotsk     Exercise     1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

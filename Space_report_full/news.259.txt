@@ -1,0 +1,116 @@
+Jonathan's Space Report
+No. 259                     1995 Oct  9                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The next launch attempt for Columbia/STS-73 will be no earlier than Oct 14. The
+Oct 5 schedule was slipped a day due to Hurricane Opal and then scrubbed
+on Oct 6 prior to the start of fuelling  because of problems with the
+Orbiter landing gear. The Oct 7 attempt was scrubbed at the T-20min mark
+due to failure of one of the Master Events Controller avionics boxes.
+
+Meanwhile, Atlantis was rolled to the VAB on Oct 3 for connection to the
+STS-74 stack.
+
+Discovery was ferried to Palmdale by the NASA 905 SCA aircraft. It
+arrived in Palmdale on Sep 28 after stopping at Fort Worth Naval Air Station 
+and Salt Lake City. (Thanks to Ed Dietz for info). It will remain
+at the Rockwell plant for refurbishment until its next mission in 1997.
+
+Mir
+----
+
+The Progress M-29 cargo ship (factory serial number 229) was launched
+successfully from pad 1 at Baykonur on Oct 8 at 1850:40 UTC. According
+to V. Agapov, it was inserted into a 194 x 242 km x 51.7 deg orbit.
+Progress M-29 will dock at the rear of the Kvant module; Soyuz TM-22
+is docked to the front port of the Mir transfer module. The EO-20
+crew of Gidzenko, Avdeev and Reiter had been in space for 36 days
+as of Oct 9.
+
+Recent Launches
+--------------
+
+Kosmos-2321 was launched at 0323 UTC on Oct 6 from Plesetsk by a
+Kosmos-3M launch vehicle into a 95.13 minute, 246 x 802 km x 82.9 deg
+orbit. The spacecraft is probably a radar calibration satellite, which
+are launched on Kosmos-3M rockets into low elliptical orbits, although
+this particular orbit has not been used before. Another, less likely,
+possibility is that it was a Parus navigation satellite intended for a 1000 km
+circular orbit but which suffered an upper stage failure; Phil Clark has
+also suggested this as an interpretation, and reports that the orbital
+plane is the same as Kosmos-2266.
+
+Kosmos-2320 raised its orbit to 239 x 300 km x 64.9 deg by Oct 1. The
+orbit indicates it is a member of the Kosmos-1426 group of long-lived
+recon satellites. The other member of the group in orbit is Kosmos-2305,
+launched in Dec 1994 and currently in a 229 x 281 km x 64.9 deg orbit.
+The other types of imaging recon satellite currently in use by the
+Russian Ministry of Defence are the Yantar'-class vehicle, most recently
+flown as Kosmos-2311 and Kosmos-2314, with two month lifetimes and lower
+perigees,  and the new Kosmos-2290 class satellite launched on Zenit
+vehicles. Kosmos-2290 flew for a year in Apr 1994-Apr 1995 and has not
+yet been replaced.
+
+AT&T's Telstar 402R reached geostationary altitude by Sep 27 and arrived
+on station at 89.1W around Oct 3. Other recent geostationary launches:
+JCSAT 3 is at 127.5E, N-Star a is at 131.9E. Kosmos-2319 is at 79.8E,
+probably replacing Kosmos-2291 which has moved from its 80 deg E location and
+is drifting west at 2 deg per day. PAS 4 is at 68.5E on station;
+Space Command data released in September showing it drifting were erroneous.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Sep  3 0900   Soyuz TM-22     Soyuz-U2        Baykonur LC1    Spaceship   47A
+Sep  7 1509   Endeavour       Shuttle         Kennedy LC39A   Spaceship   48A
+Sep  8 1543   Spartan-201                     OV-105, LEO     Astronomy   48B
+Sep 11 1125   WSF 2                           OV-105, LEO     Micrograv.  48C
+Sep 24 0006   Telstar 402R    Ariane 4        Kourou ELA2     Comsat      49A
+Sep 26 1120   Resurs-F        Soyuz-U         Plesetsk LC43-4 Rem.sensing 50A
+Sep 29 0425   Kosmos-2320     Soyuz-U         Baykonur LC31   Recon       51A
+Oct  6 0323   Kosmos-2321     Kosmos-3M       Plesetsk LC132  ?           52A
+Oct  8 1851   Progress M-29   Soyuz-U         Baykonur LC1    Cargo       
+                                                                         
+Reentries
+---------
+
+Sep  4        Progress M-28   Deorbited
+Sep  6        Kosmos-2314     Deorbited
+Sep 11        Soyuz TM-21     Landed in Kazakhstan
+Sep 18        Endeavour       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-73  Oct 14
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        VAB Bay 1     STS-74  Nov  
+OV-105 Endeavour       OPF Bay 3     STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-51/ET-74/OV-104   VAB Bay 1  STS-74
+ML3/RSRM-50/ET-73/OV-102   LC39B      STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

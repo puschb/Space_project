@@ -1,0 +1,305 @@
+Jonathan's Space Report
+No. 791                                                        2021 Apr 20   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+On Apr 5 at 1030 UTC the Dragon spaceship Resilience undocked from the IDA-2/PMA-2 docking
+port on the ISS Harmony module, backed off 60 metres, and redocked with the IDA-3/PMA-3
+port on the same module's zenith side.
+
+On Apr 9 at 0742 UTC the Soyuz MS-18 spaceship was launched from Baykonur carrying Oleg Novitskiy,
+Pyotr Dubrov and Mark Vande Hei. It docked with the ISS Rassvet module at 1105:06 UTC the same day.
+
+On Apr 17 at 0134 UTC Soyuz MS-17 undocked from the Poisk module with astronauts Ryzhikov, Kud-Sverchkov
+and Rubins. After a deorbit burn at 0401 UTC the descent module landed in Kazakhstan at 0455 UTC.
+Expedition 65, under the command of Shannon Walker, formally began when Soyuz MS-17 undocked.
+
+As of Apr 22 the ISS visiting vehicle list was:
+ Zvezda aft:    Progress MS-14
+ Pirs:          Progress MS-16
+ Poisk:         -
+ Rassvet:       Soyuz MS-18
+ IDA-2/PMA-2:   -
+ IDA-3/PMA-3:   Dragon C207 (Resilience)
+ Unity nadir:   Cygnus NG-15 (S.S. Katherine Johnson)
+ Harmony nadir: -
+
+OneWeb
+------
+
+On 2021 Mar 25 Starsem launched a Soyuz-2-1b from the Russian eastern launch site of Vostochniy,
+placing the fifth set of OneWeb satellites in a 433 x 445 km x 87.4 deg parking orbit.
+
+Gao Fen 12-02
+-------------
+
+On Mar 30 China's SAST launched a CZ-4C placing the second GF-12 radar satellite in orbit.
+
+
+Unisat-7
+--------
+
+The Gauss srl Unisat-7 host satellite released its tiny payloads on Mar 25.
+
+Shiyan 9
+--------
+
+China made the second launch of the CZ-7A on Mar 11, following a launch failure on the first such mission.
+The payload, Shiyan 9, was placed in geotransfer orbit. It seems likely that this is a test mission
+intended to remain in that orbit, perhaps making radiation measurements, and no 
+apogee burn to geonsynchronous orbit was planned. (This item was inadvertently omitted from JSR 790).
+
+Shiyan 6
+--------
+
+The third Shiyan 6 satellite was launched on Apr 8 from Taiyuan. The satellite went to a higher
+orbit than the two previous Shiyan 6 missions. The purpose of the missions is unclear.
+
+Electron 19
+-----------
+  
+Rocket Lab's Electron mission 19 was launched from Mahia on Mar 22 placing in orbit several small satellites:
+ BlackSky Global 9 (also called BlackSky 7), a 55 kg imaging sat
+ RAAF M2 A and B, a pair of 0.2 x 0.2 x 0.3m satellites for the Royal Australian Air Force
+   with AIS payloads and formation flying tests. The satellites were deployed attached and
+   will separate later.
+ Myriota 7, a 3U cubesat for IoT data relay for Myriota (Australia). Also called Tyvak-0152.
+ Centauri 3, a 6U cubesat for IoT data relay for Fleet (Australia). Also called Tyvak-0210.
+ Veery Hatchling v0.2, a 1U test satellite for Care Weather Technologies (US)
+ Gunsmoke-J, a communications satellite for the US Army SMDC; a similar sat is awaiting deployment from ISS.
+The Electron kick stage also carries the Photon Pathstone payload with test components for the planned Capstone mission.
+
+Starlink
+---------
+
+Starlink mission V1.0-L23 flew from Canaveral on Apr 7, with 60 more satellites. The first
+stage landed on the OCISLY.
+
+I have a new web page with detailed statistics and orbit histories for the Starlink satellites:
+https://planet4589.org/space/stats/star/starstats.html
+
+MEV-2
+-----
+
+The Space Logistics Services/Northrop Grumman MEV-2 satellite docked with the Intelsat 10-02 satellite at 1734 UTC
+on Apr 12. The docked satellites are in GEO at 1.0W; MEV-2 will provide orbit control to extend IS 10-02's useful
+life.
+
+Reentries
+---------
+
+The Falcon 9 second stage from the Mar 4 Starlink mission, mentioned in JSR 790, reentered
+over Oregon and Washington on Mar 26 at 0400 UTC. It was widely observed from the US Pacific Northwest
+and the Vancouver area, and a COPV pressure vessel was found largely intact in eastern Washington state.
+
+Ingenuity
+---------
+
+The Ingenuity Mars Helicopter made its first flight at about 0734:19 UTC
+on Apr 19. It took off from the newly named Wright Brothers Field
+(77.45102 E, 18.44486N in Jezero Crater, Mars; ICAO designator JZRO) and
+reached 3 metres altitude before landing at the same spot 38 seconds
+later.
+
+Errata
+------
+
+In JSR 790, the EVA-72 hatch opening time should have read 1136 UTC, not 1336 UTC.
+Note that Hirogari is another name for OPUSAT-II.
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name                           Launch Vehicle      Site            Mission  INTL.  Catalog  Perigee Apogee  Incl   Notes
+Mar  4 0825   Starlink 2068     )              Falcon 9             Kennedy LC39A   Comms     17A S47222  259 x   280 x 53.1
+              Starlink 2107     )
+              Starlink 2116     )
+              Starlink 2125-2126)
+              Starlink 2129     )
+              Starlink 2131-2132)
+              Starlink 2140-2144)
+              Starlink 2146-2150)
+              Starlink 2152     )
+              Starlink 2154     )
+              Starlink 2156-2164)
+              Starlink 2168-2172)
+              Starlink 2174-2185)
+              Starlink 2189     )
+              Starlink 2192-2198)
+              Starlink 2209-2213)
+              Starlink 2223     )
+Mar 11 0813   Starlink 2257     )              Falcon 9               Canaveral LC40  Comms   18A S47787 258 x     278 x 53.1
+              Starlink 2314-2315)
+              Starlink 2319     )
+              Starlink 2322     )
+              Starlink 2334     )
+              Starlink 2338     )
+              Starlink 2341     )
+              Starlink 2347     )
+              Starlink 2373     )
+              Starlink 2377     )
+              Starlink 2379-2396)
+              Starlink 2399-2403)
+              Starlink 2406-2411)
+              Starlink 2413     )
+              Starlink 2415-2416)
+              Starlink 2419-2420)
+              Starlink 2422-2427)
+              Starlink 2429     )
+              Starlink 2431-2435)
+              Starlink 2446     )
+              Starlink 2453     )
+              Starlink 2456     )
+Mar 11 1330?  EP9                                                  ISS, LEO     Garbage scow   9867RZ S47853  417 x 422 x 51.6
+Mar 11 1751   Shiyan 9                         Chang Zheng 7A         Wenchang LC201  Tech    19A     S47851  250 x35836 x 19.5
+Mar 13 0219   Yaogan 31 hao 04 zu 01 xing)     Chang Zheng 4C         Jiuquan         Sigint  20A     S47854 1092 x 1098 x 63.4
+              Yaogan 31 hao 04 zu 02 xing)                                            Sigint  20B     S47855 1090 x 1096 x 63.4
+              Yaogan 31 hao 04 zu 03 xing)                                            Sigint  20C     S47856 1090 x 1096 x 63.4
+Mar 14 1001   Starlink 2258     )              Falcon 9               KSC LC39A       Comms   21    
+              Starlink 2280     )
+              Starlink 2291     )
+              Starlink 2293     )
+              Starlink 2304     )
+              Starlink 2310     )
+              Starlink 2320-2321)
+              Starlink 2323-2324)
+              Starlink 2326-2333)
+              Starlink 2335-2337)
+              Starlink 2339-2340)
+              Starlink 2342-2346)
+              Starlink 2348-2372)
+              Starlink 2374-2376)
+              Starlink 2378     )
+              Starlink 2397     )
+              Starlink 2398     )
+              Starlink 2405     )
+Mar 14 1120   Hirogari    )                                        ISS, LEO           Tech   9867SG  S47930   419 x 420 x 51.6
+              GuaraniSat-1)                                                           Tech   9867SH?          419 x 420 x 51.6
+              Maya-2      )                                                           Tech   9867SA?          419 x 420 x 51.6
+              Tsuru       )                                                           Tech   9867SD  S47927   419 x 420 x 51.6
+              RSP-1       )                                                           Tech   9867SB  S47925   419 x 420 x 51.6
+Mar 14 1150   Nichirin                                             ISS, LEO           Tech   9867SF?          419 x 420 x 51.6
+Mar 14 1430   TAU-SAT-01                                           ISS, LEO           Tech   9867SC  S47926   419 x 420 x 51.6
+Mar 14 1500   Sanko                                                ISS, LEO           Tech   9867SE  S47928   419 x 420 x 51.6
+Mar 22 0607   CAS500-1                         Soyuz-2-1a/Fregat      Baykonur LC31   Imaging 22A    S47932   495 x 510 x 97.4
+              GRUS 1B                                                                 Imaging 22B    S47933   579 x 605 x 97.7
+              GRUS 1C                                                                 Imaging 22C    S47934   579 x 605 x 97.7
+              GRUS 1D                                                                 Imaging 22D    S47935   579 x 605 x 97.7
+              GRUS 1E                                                                 Imaging 22E    S47936   579 x 605 x 97.7
+              ELSA-d                                                                  Tech    22N    S47944   535 x 558 x 97.6
+              DMSat-1                                                                 Imaging 22J    S47940   534 x 560 x 97.6
+              Najm-1                                                                  Imaging 22R?   S47947   534 x 558 x 97.6
+              Unisat-7                                                                Tech    22P    S47945   534 x 560 x 97.6
+              Kepler-6  (Rocinante)                                                   Comms   22Z    S49755   535 x 563 x 97.6
+              Kepler-7  (C3PO)                                                        Comms   22T    S47949   535 x 563 x 97.6
+              NanoSatC-Br 2                                                           Sci     22
+              KMSL                                                                    Mgrav.  22U    S47950   535 x 563 x 97.6
+              CANYVAL-C                                                               Tech    22
+              Hiber 3                                                                 Comms   22L    S47942   535 x 563 x 97.6
+              Beesat 5                                                                Tech    22AM?  S48083   535 x 565 x 97.6
+              Beesat 6                                                                Tech    22AB?  S47957   535 x 565 x 97.6
+              Beesat 7                                                                Tech    22AN?  S48084   535 x 565 x 97.6
+              Beesat 8                                                                Tech    22AP?  S48085   535 x 565 x 97.6
+              SAMSON 1                                                                Tech    22F?   S47937   534 x 565 x 97.6
+              SAMSON 2                                                                Tech    22H?   S47939   534 x 565 x 97.6
+              SAMSON 3                                                                Tech    22M?   S47943   534 x 565 x 97.6
+              Lacunasat 2b                                                            Tech    22S    S47948   535 x 563 x 97.6
+              3B5GSAT                                                                 Comms   22Y    S47954   535 x 563 x 97.6
+              ChallengeOne                                                            Tech    22AA   S47956   534 x 566 x 97.6
+              GRB-Alpha                                                               Astron  22AD   S47959   534 x 565 x 97.6
+              WildTrackCube-SIMBA                                                     Comms   22
+              KSU-Cubesat                                                             Tech    22Y    S47965   534 x 565 x 97.6
+              OrbiKraft-Zorkiy                                                        Tech    22AE   S47960   534 x 565 x 97.6
+              NIU VsHE-DZZ                                                            Imaging 22W    S47952   534 x 565 x 97.6
+              Sirius-DZZ                                                              Imaging 22V    S47951   534 x 565 x 97.6
+Mar 22 0830   Lawkanat 1                                            ISS, LEO          Imaging 9867SJ S47976  417 x 421 x 51.6
+Mar 22 2230   Black Sky Global                Electron             Mahia LC1A         Imaging 23G    S47971  449 x 460 x 45.0
+              Photon Pathstone                                                        Tech    23H    S47972  448 x 458 x 45.0
+              Centauri 3                                                              Comms   23B    S47966  549 x 557 x 45.0
+              Myriota 7                                                               Comms   23D    S47968  545 x 557 x 45.0
+              RAAF M2 A/B                                                             Comms   23C    S47967  546 x 558 x 45.0
+              Gunsmoke-J                                                              Comms   23E    S47969  544 x 557 x 45.0
+              Veery Hatchling                                                         Tech    23A    S47965  540 x 557 x 45.0
+Mar 24 0828   Starlink 1647                   Falcon 9             Canaveral LC40     Comms   24A            258 x 281 x 53.0
+              Starlink 2087
+              Starlink 2153
+              Starlink 2216
+              Starlink 2218
+              Starlink 2226
+              Starlink 2229
+              Starlink 2239
+              Starlink 2243
+              Starlink 2254
+              Starlink 2259-2268
+              Starlink 2270-2273
+              Starlink 2277-2279
+              Starlink 2281-2290
+              Starlink 2292
+              Starlink 2294-2303
+              Starlink 2305-2309
+              Starlink 2311-2313
+              Starlink 2316-2318
+              Starlink 2325
+Mar 25 0247   OneWeb SL0101                   Soyuz-2-1b/Fregat    Vostochniy PU1S    Comms   25A  S48049-    433 x 445 x 87.4
+              OneWeb SL0107-0108                                                              25AK S48075
+              OneWeb SL0112-0113
+              OneWeb SL0115-0116
+              OneWeb SL0148-0164
+              OneWeb SL0166-0175
+              OneWeb SL0177-0178
+Mar 25        BCCSAT-1                                            Unisat-7, LEO       Imaging 22AK S48041     536 x 559 x 97.6
+              FEES                                                                    Comms   22AL?S48082     536 x 559 x 97.6
+              DIY-1                                                                   Tech    22AH S47963     532 x 559 x 97.6
+              SMOG-1                                                                  Sigint  22AJ S47964     532 x 559 x 97.6
+              STECCO                                                                  Calib   22AG S47962     534 x 558 x 97.6
+Mar 30 2245   Gao Fen 12-02                   Chang Zheng 4C       Jiuquan            Radar   26A  S48079     594 x 600 x 97.8
+Apr  6 2100?  Jackie (AC-10a Probe 5)                            AC-10a, LEO          Calib  19-022P          462 x 475 x 51.6
+Apr  7 1634   Starlink 2048                   Falcon 9             Canaveral LC40     Comms   27A  S48092     261 x 280 x 53.0
+              Starlink 2404
+              Starlink 2412
+              Starlink 2414
+              Starlink 2417-2418
+              Starlink 2421
+              Starlink 2428
+              Starlink 2430
+              Starlink 2436-2440
+              Starlink 2442-2445
+              Starlink 2447-2452
+              Starlink 2454-2455
+              Starlink 2458-2460
+              Starlink 2462-2469
+              Starlink 2471-2476
+              Starlink 2478-2493
+              Starlink 2503
+Apr  8 2301   Shiyan 6-03                     Chang Zheng 4B        Taiyuan            Imaging?  28A  S48157  992 x 1001 x 99.5
+Apr  9 0742   Soyuz MS-18                     Soyuz-2-1a            Baykonur           Spaceship 29A  S48159  192 x 228 x 51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Feb  3        RV                Ghaznavi           Somniani?             Test           80?      Arabian Sea?
+Feb  4        ABM Target        B-611?             Taiyuan               Test          200?      Urumqi        
+Feb  4        Interceptor       DF-21?             Urumqi?               Interceptor   100?      Takla Makan
+Feb  5 0905   OS-X6B            OS-X6B             Jiuquan?              Test          300       Jiuquan?
+Feb  9 2330   USN RV            Trident II        Sub, 76W 28N           Op. Test     1000?      S Atlantic
+Feb 24 0749   GT237GM           Minuteman III      Vandenberg LF10       Op. Test     1300?      Kwajalein
+Feb 27        HE RV             Zulfiqar           Sanaa?                Weapon        150?      Riyadh
+Mar  3        Chem. release     Terr.Terr.Oriole   Wallops               Ionosphere    300?      Atlantic
+Mar 12 1345   SOUREX            RH-560 Mk III     Satish Dhawan          Atmosphere    300?      Bay of Bengal
+Apr 14 1651   NS-15             New Shepard        West Texas            Test          106       West Texas
+Apr 19 0830   SHIELDS           Black Brant IX     White Sands           UV Astron     285       White Sands
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

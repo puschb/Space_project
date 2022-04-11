@@ -1,0 +1,163 @@
+Jonathan's Space Report
+No. 536                                          2004 Oct 16, Somerville, MA.
+-------------------------------------------------------------------------------
+
+* Spaceship One
+
+Scaled Composites' Spaceship One has made two more flights to space.
+Flight 65L/16P took off from Mojave Airport's Runway 30 at 1411:37 UTC on
+Sep 29. The White Knight carried the Spaceship One up to 14 km and
+dropped it at 1509:53 UTC. Pilot Mike Melvill burned the rocket engine for
+77 seconds, cutting it off following a series of unplanned rolls towards
+the end of the burn. Spaceship One reached 1 km/s velocity and coasted
+to  a 102.9 km apogee, landing at 1534:04 UTC after 24m11s.
+
+Flight 66L/17P took off at 1348:57 UTC on Oct 4, with drop at 1449:11 
+UTC. Pilot Brian Binnie burned the engine for 84 seconds and coasted to
+an apogee of 112.1 km, landing back on Runway 30 at Mojave at 1513:07  
+UTC, a flight duration of 23m56s from drop to touchdown. With this
+flight, Scaled Composites won the Ansari X-Prize competition, and no
+further flights of Spaceship One are planned.
+
+The other SpaceshipOne spaceflight was on Jun 21, with launch at 1450
+UTC and landing at 1514 UTC. I don't have timings to the second for that
+flight or the May 13 mesosphere flight - if anyone does, please forward them.
+
+* Soyuz TMA-5
+
+On Oct 14, the Russian Federal Space Agency launched Soyuz-FG rocket
+number 0112  carrying the Soyuz 11F732 No. 215 spaceship, Soyuz TMA-5, 
+on ISS mission 9S. The Soyuz TMA-5 crew are commander Salizhan Sharipov,
+flight engineer-1 Leroy Chiao, and flight engineer-2 Yuriy Shargin.
+Soyuz TMA-5 will dock with the International Space Station's Pirs module
+on Oct 16, at which point NASA astronaut Chiao will take up his role as
+ISS Expedition 10 Commander, Sharipov becomes Expedition 10 Flight
+Engineer, and Shargin becomes Visting Crew 7 (EP-7) Flight Engineer (the
+EP-7 crew consists of just one person!). The Expedition 9 crew of
+Gennadiy Padalka and Michael Fincke will later return with the EP-7
+crewmember Shargin on Soyuz TMA-4, currently docked to Zarya, while
+Chiao and Sharipov take over the Station.
+  
+* Kosmos-2410
+
+Russia launched Kosmos-2410 on Sep 24 from Plesetsk on a Soyuz-U rocket
+into a 165 x 358 km x 67.1 deg orbit. The spacecraft's orbit decayed to
+159 x 312 km by Oct 1, when it raised its orbit to 213 x 330 km. On Oct
+15 the orbit was 206 x 304 km. The initial orbit is typical of Kobal't
+(Yantar'-4KS2) reconnaissance satellites, but the later orbit is higher
+than usual. This is consistent with press reports that the new satellite
+is an improved Kobal't with a longer orbital lifetime. The spacecraft
+was developed by the TsSKB-Progress design bureau and the Arsenal   
+production plant. The old version of the satellite had a main reentry   
+vehicle and two small SpK recoverable film capsules; it's not clear if
+the new version carries extra capsules as originally planned in the mid
+1990s. Another variant, the 17F12 Don, which had 8 small capsules and a
+4 month duration, was last launched in 2003 from Baykonur and uses a
+very similar orbit to Kosmos-2410; if it wasn't for the press reports
+claiming this was a new vehicle, I would have identified this as the
+first Plesetsk-launched Don mission.
+
+* Kosmos-2408 and Kosmos-2409
+
+Two Strela-3 military communications satellites were launched on Sep 23 
+into a 1470 x 1495 km x 82.5 deg orbit and given the designations
+Kosmos-2408 and Kosmos-2409. These were the 127th and 128th Strela-3
+satellites to be launched. Strela-3 missions launched from 1985 to 2001
+went into lower 1400 x 1420 km orbits in groups of 6 aboard Tsiklon-3 
+rockets, but the switch to launching in pairs aboard Kosmos-3M rockets 
+in 2002 also saw a transition to the slightly higher orbit, with one   
+pair being launched each year.
+
+* AMC-15
+
+The Americom-15 communications satellite for SES Americom was launched
+on Oct 14 by International Launch Services on a Krunichev Proton-M with
+a Briz-M upper stage. The 4021 kg satellite, a Lockheed Martin/Sunnyvale
+A2100 has Ku-band and Ka-band transponders. The Briz-M entered a 173 km
+circular orbit, then made a long 38-minute burn to an 890 x 35765 km x 49 deg
+transfer orbit and jettisoned the DTB auxiliary fuel tank. A third burn
+at 0358 UTC on Oct 15 put the payload in a high perigee geostationary   
+transfer orbit of 7132 x 35780 km x 18.6 deg. AMC-15 will use its own  
+engine to circularize the orbit.
+
+The uprated Proton-M rocket has now made six flights, each with the Briz-M
+upper stage:
+
+  Proton-M 53501   2001 Apr  7  Ekran-M        Briz-M 88503
+  Proton-M 53502   2002 Dec 29  Nimiq 2        Briz-M 88504
+  Proton-M 53503   2004 Mar 15  Eutelsat W3A   Briz-M 88507
+  Proton-M 53506   2004 Jun 16  Intelsat 10-02 Briz-M 88509
+  Proton-M 53507   2004 Aug  4  Amazonas       Briz-M 88508
+  Proton-M 53508   2004 Oct 14  AMC-15         Briz-M 88510
+
+* SMART-1
+
+ESA's SMART-1 probe went through its second lunar resonance at a
+distance of about 100000 km on Sep 15, and on Oct 1 was in a 63581 x
+286254 km x 12.5 deg orbit. Its third lunar resonance was on Oct 12, and
+lunar capture is scheduled for Nov 15.
+
+
+* FSW 19/20
+
+The 20th Chinese FSW recoverable satellite to reach orbit was launched on Sep 27 by a CZ-2D
+rocket. Meanwhile, the 19th FSW, launched on Aug 29 by a CZ-2C, returned its recovery capsule to China
+at 2355 UTC on Sep 24. FSW 20 was launched into a 205 x 297 km x 63.0 orbit and raised its
+apogee the next day to 206 x 320 km. In comparison, FSW 19 was in a 167 x 553 km x 63.0 deg
+orbit; analysts have assumed both are FSW type 3 (JB-4) models, but I'm not sure - perhaps
+one is a leftover FSW-2 model.
+
+* Thiruvananthapuram  - my latest vacation
+
+A few kilometers north of the city of Thiruvanathapuram in Kerala,
+former seat of the rajas of Travancore, is the small beachside village
+of Thumba. It was here in 1963 that a small church, founded by Francis
+Xavier in the 1540s but rebuilt in the early 1900s, was converted to the
+first headquarters of INCOSPAR, later the Indian Space Research
+Organization. A small concrete pad on the beach was used for the first
+suborbital space launch from India on 1963 Nov 21, a NASA Nike Apache
+sounding rocket which reached 208 km. This site near the geomagnetic
+equator became TERLS, the Thumba Equatorial Range Launch Station, and is
+still regularly used today for low altitude rocket launches like the
+Rohini-200 middle atmosphere sounder, which reaches about 75 km. The
+concrete pad has one active "Universal" launcher, as well as a Russian
+M-100 rocket launcher retired in 1993 and in storage at the edge of the
+pad. An older French PARCA launcher from the 1960s lies rusting to the
+side, and a new pad and launcher for larger RH-300 and RH-560 rockets,
+used in a 1993 campaign, is in a hangar about 200 meters to the north,
+and the control center is a few hundred meters to the south. Lauches are
+made on azimuth 235 degrees out over the Arabian sea. The Vikram
+Sarabhai Space Centre, which designs India's civilian rockets, is a few
+kilometers inland, while orbital launches are made from the opposite
+coast at the Satish Dhawan Space Center on Sriharikota island. Many
+thanks to the ISRO team for giving me a great tour of the TERLS site.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Sep  6 1053   'Ofeq-6           Shaviyt         Palmachim         Imaging    F01
+Sep  8 2314   SJ-6A )           CZ-4B           Taiyuan           Science    35A
+              SJ-6B )                                             Science    35B
+Sep 20 1031   EDUSAT            GSLV            SDSC              Comms      36A
+Sep 23 1507   Kosmos-2408 )     Kosmos-3M       Plesetsk          Comms      37A
+              Kosmos-2409 )                                       Comms      37B
+Sep 24 1650   Kosmos-2410       Soyuz-U         Plesetsk LC16     Imaging    38A
+Sep 27 0800   FSW 20            CZ-2D           Jiuquan           Imaging?   39A
+Oct 14 0306   Soyuz TMA-5       Soyuz-FG        Baykonur LC1/5    Spaceship  40A
+Oct 14 2123   AMC 15            Proton-M/Briz-M Baykonur LC200/39 Comms      41A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,121 @@
+Jonathan's Space Report
+No 275                          1996 Feb 12                  Cambridge, MA
+--------------------------------------------------------------------------------
+
+Editorial
+---------
+
+I've finally moved into the 1990s and am putting the automatic
+email distribution of JSR onto a Majordomo list rather than maintaining
+the list by hand. To subscribe to JSR by email, send email to
+majordomo@head-cfa.harvard.edu, with any subject you like and with
+the body of the message containing
+ subscribe jsr 
+To get off the list, try
+ unsubscribe jsr
+There are currently about 800 subscribers in 22 countries.
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-75/Columbia, due on Feb 22.
+
+
+Mir
+---
+
+Yuriy Gidzenko and Thomas Reiter carried out a 3 hour 2 min spacewalk on
+Feb 8, starting around 1307 UTC from the Kvant-2 airlock. The walk was
+reportedly  shorter than planned due to a pressurization problem in the
+suit of EO-20 mission commander Gidzenko. The astronauts recovered some
+samples which had been exposed to space  on the exterior of the Spektr
+module (the ESEF or European Space Exposure Facility) to study the
+effects of radiation, vacuum and debris impacts. Launch of the EO-21
+crew, Yuriy Ivanovich Onufrienko and Yuriy Vladimirovich Usachyov
+(callsign Skif-1 and Skif-2) will take place on Feb 21.
+
+
+Recent Launches
+--------------
+
+Ariane V83 was launched on Feb 5 from Arianespace's South
+American launch site, the Centre Spatiale Guyanais. It placed in
+orbit the N-STAR b satellite, built by Space Systems/Loral
+for the Japanese telecommunications company NTT. N-STAR b uses the
+FS-1300 bus. N-STAR b entered a 127 x 37111 km x 6.9 deg
+transfer orbit, raised by Feb 6 to 6723 x 35780 km x 3.6 deg, and
+again by Feb 8 to 29236 x 35766 km x 0.5 deg.
+
+Japan's National Space Development Agency (NASDA) and Institute of Space
+and Astronautical Sciences (ISAS) have test-flown the new J-1 launch
+vehicle in its two-stage version.  The first stage is the NASDA H-II SRB
+(solid rocket strapon for the H-II), and the second stage is the M23
+second stage from the ISAS Mu-3S-II launch vehicle. A three stage
+orbital version of J-1 will also use the M3B third stage from Mu-3S-II.
+J-1 (1F) was launched from Tanegashima's Osaki Range H-1/J-1 launch pad, 
+previously used for the N and H-I launch vehicles, at 2300 UTC on Feb
+11. The M23 stage of the J-1, with the HYFLEX payload attached, was
+expected to reach an apogee of 110 km on its suborbital flight.
+
+At 2304 UTC the HYFLEX payload separated from the M23 stage onto a
+descending suborbital trajectory. HYFLEX is a lifting body developed by
+NASDA and the NAL (National Aerospace Lab) to develop shuttle
+technology. It has ceramic heat shield tiles and a gaseous nitrogen
+reaction control system. After reentry (max Mach number of 15), it
+splashed down by parachute 300 km NE of the Ogasawara Islands in the
+Pacific (NASDA has a downrange station at Ogasawara). A flotation bag
+attachment device failed and HYFLEX sank in the ocean.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jan 11 0941   Endeavour        Shuttle        Kennedy LC39    Spaceship   01A
+Jan 12 2310   Panamsat 3R  )   Ariane 44L     Kourou ELA2     Comsat      02A
+              Measat 1     )                                  Comsat      02B
+Jan 14 1111   Koreasat 2       Delta 7925     Canaveral LC17B Comsat      03A
+Jan 14 1132   OAST-Flyer                      OV105, LEO      Science     01B 
+Jan 16 1534?  Kosmos-2327      Kosmos-3M      Plesetsk        Navsat      04A
+Jan 25 1000?  Gorizont         Proton-K/DM2   Baykonur	      Comsat      05A
+Feb  1 0115   Palapa C-1       Atlas IIAS     Canaveral LC36B Comsat      06A
+Feb  5 0719   N-STAR b         Ariane 44P     Kourou ELA2     Comsat      07A
+
+
+Payloads no longer in orbit
+--------------------------
+
+Dec  7        Galileo Probe   Entered Jovian atmosphere
+Dec 11        Kosmos-398      Reentered over Pacific
+Dec 18        Kosmos-2305     Deorbited
+Jan 20        Endeavour       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       KSC RW15      STS-77  May 16
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-46/ET-77        VAB Bay 3      STS-76                       
+ML3/RSRM-53/ET-76/OV-102 LC39B          STS-75                                     
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

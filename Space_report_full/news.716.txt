@@ -1,0 +1,352 @@
+Jonathan's Space Report 
+No. 716                                                        2015 Oct  7  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+Erratum
+--------
+Last issue's reference to Soyuz TMA-16,17 and 18 of course should have
+said Soyuz TMA-16M, 17M and 18M. 
+
+International Space Station
+---------------------------
+
+Expedition 44 concluded with the undocking of Soyuz TMA-16M from the Zvezda
+aft port at 2129 UTC Sep 11, carrying Expedition 44 commander Padalka and
+EP-18 visiting crew members Mogensen and Aimbetov. Soyuz TMA-16M landed
+in Kazakhstan at 0051:36 UTC Sep 12.
+
+Expedition 45 is now underway under the command of Scott Kelly, with
+flight engineers Mikhail Kornienko, Oleg Kononenko, Sergey
+Volkov, Kimiya Yui, and Kjell Lindgren.
+
+The S-CUBE meteor-observation cubesat from Chiba Institute of Technology
+and the SERPENS cubesat from the University of Brazilia were ejected
+from the J-SSOD deployer on the Kibo robot arm on Sep 17.
+
+The SSRMS arm unberthed the Kounotori-5 from the Harmony module at 1112 UTC Sep 28.
+Release was delayed one orbit due to a robotics problem and occurred at 1653 UTC.
+The next day Kounotori-5 lowered its orbit with two burns and then made a final
+deorbit burn at 2008 UTC, with atmosphere entry around 2033 UTC for destruction
+over the South Pacific.
+
+Progress M-29M was launched from Baykonur on Oct 1 at 1649:40 UTC and
+docked with  the ISS Zvezda module at 2252 UTC the same day. The 7283 kg spacecraft
+delivered a variety of supplies and maintenance equipment to the station.
+
+NanoRacks cubesat deployments resumed Oct 5 with the ESA-sponsored Danish GOMX-3
+and AAUSAT-5, followed by the Flock-2b satellites from PlanetLabs.
+
+Progress M-28M is docked at Pirs.
+Progress M-28M is docked at Zvezda aft port.
+Soyuz TMA-17M is docked at Rassvet.
+Soyuz TMA-18M is docked at Poisk.
+The Harmony nadir CBM port is vacant.
+
+
+GalileoSat-9 and 10
+-------------------
+
+Two more European navigation satellites in the Galileo system were launched
+from French Guiana on Sep 11 aboard a Soyuz-ST-B vehicle. The Fregat stage
+deployed them in plane A of the system, at an inclination of 57.4 degrees
+(satellites in the existing B and C planes are in 55.0 degree orbits).
+
+Each Galileo satellite has at least 5 different names. 
+Here is a summary of the system:
+                                                          Orbit
+   Satellite      FM         GSAT       PRN  Nickname   Plane Slot
+   
+   GIOVE A        GSTB-v2/A  -          E01  GIOVE-A  
+   GIOVE B        GSTB-v2/B  -          E16  GIOVE_B
+   GalileoSat 1   IOC PFM    GSAT-0101  E11  Thijs      B     5
+   GalileoSat 2   IOC FM2    GSAT-0102  E12  Natalia    B     6
+   GalileoSat 3   IOC FM3    GSAT-0103  E19  David      C     4
+   GalileoSat 4   IOC FM4    GSAT-0104  E20  Sif        C     5
+   GalileoSat 5   FOC FM1    GSAT-0201  E18  Doresa    (C)   (2)
+   GalileoSat 6   FOC FM2    GSAT-0202  E14  Milena    (C)   (7)
+   GalileoSat 7   FOC FM3    GSAT-0203  E26  Adam       B     8
+   GalileoSat 8   FOC FM4    GSAT-0204  E22  Anastasia  B     3
+   GalileoSat 9   FOC FM5    GSAT-0205       Alba       A     5
+   GalileoSat 10  FOC FM6    GSAT-0206       Oriana     A     8
+
+  The GIOVE test satellites were retired from the constellation in 2012 although I believe GIOVE-A
+may still be alive and monitoring radiation conditions. 
+
+Chinese satellites 1:  TJS-1 and GF-9 
+----------------------------------------
+
+A new Chinese satellite called Tongxing Jisshu Shiyan Weixing yi hao
+(Communications Engineering Test Satellite No. 1) was launched by a
+Chang Zheng 3B rocket from Xichang on Sep 12. The rocket reached a 208 x
+635 km x 27.1 deg parking orbit 10 min after launch and coasted to the
+equator, where a second burn at 1601 UTC sent the rocket and payload to
+a 195 x 35814 km x  27.1 deg geotransfer orbit.
+
+Another launch two days later from China's Gobi Desert site at Jiuquan
+put the Gaofen 9 high resolution imaging satellite in sun-synchronous
+orbit. GF-9 may be replacing GF-1, launched in 2013 to a similar orbit.
+
+Chinese satellites 2: Chang Zheng 6 first launch
+------------------------------------------------
+
+Then, on Sep 19, the long-awaited first flight of the new generation of
+Chinese launch vehicles took place. China is developing Chang Zheng
+(Long March) 6 (light), 7 (medium) and 5 (heavy) rocket.s The initial
+three-stage CZ-6 took off from pad 16 at Taiyuan space center in Shanxi
+on Sep 19 carrying a cluster of 20 small satellites and placed them in a
+500 km sun-synchronous orbit. CZ-6 uses LOX/kerosene propellant in its
+first two stages and H2O2/kerosene in the lower thrust third stage which
+performs orbit insertion, in contrast to earlier-generation CZ vehicles
+which used toxic N2O4/UDMH propellants. CZ-6 was developed by SAST
+(the Shanghai Academy of Space Technology).
+
+The 20 payloads consist of 10 primary (but still small) satellites and
+10 tiny subsatellites  deployed from the primary ones.
+
+The XiWang-2 ('Hope') cluster of amateur radio satellites is from
+CAMSAT, the Chinese AMSAT chapter, and Aerospace DFH Satellite Co
+(Beijing). The 25 kg XW-2A carried two 1.5 kg subsatellites, XW-2E/2F,
+while the 10 kg XW-2B, 2C and 2D satellites were deployed directly from
+the rocket third stage.
+
+The Tiantuo-3 constellation is from the National University of Defense
+Technology (Guofang Keji Daxue Yan) in Changsha, Hunan. Its primary
+satellite, massing 20 kg, is called Luliang-1 and was developed in
+collaboration with the municipal government of Luliang city in Shanxi,
+near the Taiyuan launch site, for tests of AIS (ship tracking) and ADS-B
+(airplane data relay) systems. Luliang-1 ejected the Zhineng hao shouji
+weixing (Smart Phone Satellite), a 1 kg satellite also known as
+NUDT-Phone-Sat, and built around the motherboard of an Android
+smartphone (a technique pioneered by NASA-Ames a few years ago). The
+phonesat itself carried four even smaller passengers, the Xingchen
+('starlight') picosats with a mass of 0.1 kg and only 98 x 98 x 7mm in
+size. The overall experiment was to control a cluster of satellites
+using intersatellite communications; however there does not appear to be
+a true formation flying element to the experiment since the satellites
+don't seem to have propulsion systems.
+
+Zhejian University (Hangzhou, Zhejiang province) launched the Zheda
+Pixing 2A  and 2B satellites to test MEMS microelectronic technology,
+including a small deployable truss antenna on top of each satellite.
+Mass of the ZDPS-2 satellites is 12 kg each.
+
+Tsinghua University (Beijing)'s Naxing-2 (Nanosatellite-2, NS-2) has a
+mass of 20 kg. NS-2 is testing MEMS microelectronic components and
+carries small Beidou/GPS receivers. It also deploys the Zijing 1 and 2
+picosats. ZJ-1 is 234g while ZJ-2 is 173g. ZJ-2 is also called Kongjian
+Shiyan-1; it was built by the Xi'an University of Electronic Science and
+Technology (Xidian) in Jiangxi.
+
+Zidingxiang-2 ("LilacSat-2") is from the Harbin Inst. of Technology in
+Heilongjiang province in China's far northeast. The 11 kg satellite
+carries an ADS-B reciever, an FPGA radiation exposure test
+
+Chinese satellites 3: Chang Zheng 11 first launch
+-------------------------------------------------
+
+The Chinese Academy of Launch Technology (CALT) and the Academy of
+Rocket Motor Technology in Xi'an, Shaanxi (subsidiary for solid rockets
+of CALT headquarters in Beijing) developed the solid-fuel four-stage
+CZ-11 light launch vehicle and carried out its first launch on Sep 25.
+The vehicle is 2.0m in diameter and I suspect it is related to the
+Xi'an-developed DF-31 and DF-41 ICBMs.
+
+The rocket carried SAST's Pujiang-1 satellite and three small
+cubesats for Shanghai Tech and Nanjing University of Science and Technology (NJUST).
+The fourth stage made an orbit lowering burn after deploying its payloads
+and reentered on Oct 2.
+
+Chinese Satellites 4: Beidou 
+-----------------------------
+
+A Beidou satellite was launched on Sep 29, the first to carry a hydrogen-maser-based clock.
+Beidou daohang weixing 20, or Beidou-3 I-2S, is thought to be heading to inclined synchronous
+orbit. Unlike the previous two flights, this mission does not appear to have used the
+YZ-1 upper stage.
+
+Chinese Satellites 5: Jilin
+----------------------------
+
+A CZ-2D rocket placed the Jilin-1 satellite cluster in orbit on Oct 7;
+they are described as China's first 'self-developed' commercial imaging
+satellite system (excluding by that caveat the British-built
+Tsinghua/BLMIT Beijing-1) and belong to the Chang Guang Satellite
+Technology Co. (Zhangchun guangji suo diaoyan), a spinoff of the
+Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP) in
+Jilin province. The main satellite is the 420-kg Jilin-1 with a 0.7m
+resolution imager. Two 92kg 'smart video imaging' satellites, 'Lingqiao
+shipin chengxiang weixing' and one 50 kg 'Smart imaging verification
+satellite', 'Lingqiao chenxiang yanzheng weixing', complete the cluster.
+Orbital parameters are not known at the time of writing.
+
+
+Ekspress AM-8
+--------------
+
+The Ekpress AM-8 satellite for Kosmicheskaya Svyaz was launched on Sep
+14 by Proton from Baykonur. This flight used the Energiya Blok DM-03
+upper stage instead of the currently-standard Briz-M. AM-8 is a
+Reshetnev Ekspress-1000 bus with a Thales Alenia Ka/C/L-band comms
+payload. On Oct 5 it was in a 35784 x 35788 km x 0.0 deg orbit
+stationary over 80.2E.
+
+Rodnik-S
+--------
+
+Three Russian Defense Ministry Rodnik-S satellites, probably codenamed Kosmos-2507 to 2509,
+were launched on Sep 23 into 1500 km orbits. This series of launches has sometimes
+carried an initially-unannounced fourth payload, but no such payload has yet been
+cataloged by US tracking.
+
+Ariane 5
+---------
+
+Ariane vehicle 580, flight VA226, was launched on Sep 30 and placed two
+communications satellites in geotransfer orbit: ARSAT-2 for Argentina,
+and NBN Co. 1 ("Sky Muster") with a Ka-band payload for the Australian
+NBN Co, a government-owned company running the national broadband
+network.
+
+
+Morelos 3
+---------
+
+Mexico's Morelos 3 communications satellite, a 5400 kg Boeing 702HP
+GeoMobile with a 22-metre L-band antenna reflector, was launched Oct 2
+by an Atlas V 421 from Cape Canaveral. Flight AV-059 entered a 180 x
+31700 km x 30.0 deg parking orbit 18 min after launch, followed by a
+4790 x 35800 km x 27 deg geotransfer deployment orbit.
+
+
+ASTROSAT
+--------
+
+After many years of development India's first space astronomy
+observatory, ASTROSAT, is in orbit. The satellite carries near and far
+ultraviolet telescopes, a large X-ray proportional counter array, a
+soft-X-ray imaging telescope, a hard X-ray coded mask telescope, and a
+monitor to detect flaring X-ray sources.
+
+Indonesia's Lapan-A2 was a secondary payload, together with ExactView-9
+(EV-9), an AIS (ship tracking) payload for ExactEarth of Canada. EV-9
+was built by the U. of Toronto's UTIAS group.
+
+
+A group of four 3U cubesats was also deployed - the LEMUR-2 satellites
+from Spire Global. Spire is based in San Francisco, but these satellites
+were the first built in its new Glasgow factory. The LEMUR-2s carry AIS
+payloads and GPS-RO (GPS radio occultation) equipment. The GPS-RO
+technique uses the bending of GPS radio signals by the atmosphere to
+derive atmospheric temperature and pressure. The satellites are being
+marketed as 'weather satellites' - which is accurate, but they are not
+to be confused with imaging meteorological satellites. The four LEMUR-2
+are named Joel, Peter, Jeroen and Chris, presumably after Spire leaders
+Joel Spark, Peter Platzer, Jeroen Cappaert and Chris Wake.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Aug 19 1150   Kounotori 5         H-IIB              Tanegashima Y2   Cargo          38A   S40873    399 x    401 x  51.6 at ISS
+Aug 20 2034   Eutelsat 8 West B)  Ariane 5ECA        Kourou ELA3      Comms          39B   S40875  35784 x  35790 x   0.1 GEO  1.7E
+              Intelsat IS-34   )                                      Comms          39A   S40874  35771 x  35803 x   0.0 GEO 51.5W
+Aug 27 0231   Yaogan Weixing 27   Chang Zheng 4C     Taiyuan LC9      Imaging        40A   S40878   1194 x   1206 x 100.5 0930LT SSO
+Aug 27 1122   GSAT-6              GSLV Mk II         Sriharikota SLP  Comms          41A   S40880  35676 x  35837 x   1.2 GEO 83E
+Aug 28 1144   Inmarsat 5F3        Proton-M/Briz-M    Baykonur LC200   Comms          42A   S40882  31521 x  41016 x   0.2 
+Sep  2 0437   Soyuz TMA-18M       Soyuz-FG           Baykonur LC1     Spaceship      43A   S40885    401 x    402 x  51.7 at ISS
+Sep  2 1018   MUOS 4              Atlas V 551        Canaveral SLC41  Comms          44A   S40887   3802 x  35786 x  19.1
+Sep 11 0208   GalileoSat-9  )     Soyuz-ST-B/Fregat  CSG ZLS          Navigation     45A   S40889  23545 x  23610 x  57.4
+              GalileoSat-10 )                                         Navigation     45B   S40890  23554 x  23700 x  57.4
+Sep 12 1504   Tongxin Jisshu SW1  Chang Zheng 3B     Xichang LC2      Comms          46A   S40892    195 x  35814 x  27.1
+Sep 14 0442   Gaofen 9            Chang Zheng 2D     Jiuquan LC603    Imaging        47A   S40894    618 x    664 x  98.0 1100LT SSO
+Sep 14 1900   Ekspress AM-8       Proton-M/DM-03     Baykonur LC81/24 Comms          48A   S40895  35814 x  35890 x   0.0 GEO drift
+Sep 17 1202   S-CUBE                                 ISS, LEO         Astronomy    98-67GY S40898    397 x    408 x  51.6    
+Sep 17 1213   SERPENS                                ISS, LEO         Tech         98-67GX S40897    396 x    408 x  51.6    
+Sep 19 2301   Kaituo-1      )                                         Tech/Comms     49A?  S40899    515 x    536 x  97.5 0610LT SSO
+              DCBB          )                                         Tech           49P   S40912    513 x    536 x  97.5
+              Luliang-1     )     Chang Zheng 6      Taiyuan LC16     Comms          49F   S40904    517 x    538 x  97.5
+              Zhineng hao   )                                         Tech           49B   S40900    515 x    536 x  97.5
+              Xingchen 1    )                                         Tech           49              515 x    536 x  97.5
+              Xingchen 2    )                                         Tech           49              515 x    536 x  97.5
+              Xingchen 3    )                                         Tech           49              515 x    536 x  97.5
+              Xingchen 4    )                                         Tech           49              515 x    536 x  97.5
+              Naxing-2      )                                         Tech           49G?  S40905    519 x    541 x  97.5
+              Zijing-1      )                                         Tech           49              519 x    541 x  97.5
+              Kongjian Shiyan 1)                                      Tech           49              519 x    541 x  97.5
+              Zheda Pixing 2A  )                                      Tech           49C   S40901    516 x    536 x 97.5
+              Zheda Pixing 2B  )                                      Tech           49D   S40902    516 x    536 x 97.5
+              Zidingxiang-2 )                                         Tech/Comms     49K   S40908    520 x    542 x 97.5
+              Xiwang-2A     )                                         Comms          49E   S40903    499 x    532 x 97.5
+              Xiwang-2B     )                                         Comms          49N   S40911    519 x    539 x 97.5
+              Xiwang-2C     )                                         Comms          49H   S40906    519 x    539 x 97.5
+              Xiwang-2D     )                                         Comms          49J   S40907    519 x    539 x 97.5
+              Xiwang-2E     )                                         Comms          49L   S40909    519 x    538 x 97.5
+              Xiwang-2F     )                                         Comms          49M   S40910    518 x    541 x 97.5
+Sep 23 2200   Kosmos-2507)        Rokot              Plesetsk LC133/3 Comms          50A   S40920   1502 x   1508 x 82.5
+              Kosmos-2508)                                            Comms          50B   S409210  1494 x   1507 x 82.5
+              Kosmos-2509)                                            Comms          50C   S40922   1496 x   1506 x 82.5
+Sep 25 0141   Pujiang-1     )     Chang Zheng 11     Jiuquan SLS-E    Tech?          51A   S40925    468 x    486 x 97.3 0800LT SSO
+              Shangkeda-2   )                                         Tech?          51B   S40926    466 x    487 x 97.3 0800LT SSO
+              NJUST-2?      )                                         Tech?          51C   S40927    466 x    487 x 97.3 0800LT SSO
+              NJFA-1?       )                                         Tech?          51D   S40928    466 x    487 x 97.3 0800LT SSO
+Sep 28 0430   Astrosat         )                                      Astronomy      52A   S40930    633 x    650 x  6.0
+              LAPAN-A2         )                                      Tech           52B   S40931    631 x    650 x  6.0
+              ExactView-9      )   PSLV-XL           Sriharikota FLP  Comms (AIS)    52C   S40932    630 x    650 x  6.0
+              Lemur-2-Joel     )                                      Comms/Atm      52D   S40933    629 x    650 x  6.0
+              Lemur-2-Peter    )                                      Comms/Atm      52E   S40934    634 x    650 x  6.0
+              Lemur-2-Jeroen   )                                      Comms/Atm      52F   S40935    635 x    650 x  6.0
+              Lemur-2-Chris    )                                      Comms/Atm      52G   S40936    635 x    650 x  6.0
+Sep 29 2313   Beidou DW20         Chang Zheng 3B/G2  Xichang LC3      Navigation     53A   S40938    190 x  35881 x 55.0
+Sep 30 1630   Sky Muster )        Ariane 5           Kourou ELA3      Comms          54A   S40940    180 x  35563 x  6.0
+              ARSAT-2    )                                            Comms          54B   S40941    205 x  35550 x  6.0
+Oct  1 1649   Progress M-29M      Soyuz-U            Baykonur LC1     Cargo          55A   S40944    400 x    408 x 51.6 Docked ISS
+Oct  2 1028   Morelos-3           Atlas V 421        Canaveral SLC41  Comms          56A   S40946   4790?x  35800?x 27.0?
+Oct  5 1405   GOMX-3   )                             ISS, LEO         Comms (ADS-B)98-67GZ S40948?   395 x    408 x 51.6
+              AAUSAT-5 )                                              Comms (AIS)  98-67HA S40949?   395 x    408 x 51.6
+Oct  6 0115   Flock 2b-1 )                           ISS, LEO         Imaging      98-67HB S40950    400 x    404 x 51.6
+              Flock 2b-2 )                                            Imaging      98-67HC S40951    398 x    406 x 51.6
+Oct  6 0430   Flock 2b-3 )                           ISS, LEO         Imaging      98-67HD S40952    399 x    405 x 51.6
+              Flock 2b-4 )                                            Imaging      98-67HE S40953    401 x    403 x 51.6
+Oct  6 0831   Flock 2b-5 )                           ISS, LEO         Imaging      98-67HF S40954    396 x    409 x 51.6
+              Flock 2b-6 )                                            Imaging      98-67HG S40955    396 x    409 x 51.6
+Oct  6 1145   Flock 2b-7 )                           ISS, LEO         Imaging      98-67HH S40956    396 x    408 x 51.6
+              Flock 2b-8 )                                            Imaging      98-67HJ S40957    397 x    408 x 51.6
+Oct  7 0010   Flock 2b-9 )                           ISS, LEO         Imaging      98-67HK S40958?   397 x    408 x 51.6
+              Flock 2b-10)                                            Imaging      98-67HL S40959?   397 x    408 x 51.6
+Oct  7 0413   Jilin-1        )    Chang Zheng 2D     Jiuquan          Imaging        57A?
+              Lingqiao SCW-1 )                                        Imaging        57B?
+              Lingqiao SCW-2 )                                        Imaging        57C?
+              Lingqiao CYW   )                                        Imaging        57D?
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+JAXA launched the S-520-30 rocket on Sep 11, carrying an experiment to simulate and study the nucleation of oxides in cosmic dust.
+NRL's CARE-II (NASA 39.012DR) was launched from Norway on Sep 16, and used 37 small CRV-7 rocket motors to eject high
+velocity dusty plasma that was observerd to study radar scattering.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Aug 12 1004   NASA 46.012UO    Terrer Imp.Malemute Wallops, Virginia     Education     151       Atlantic O.
+Aug 19 1003   GT213GM RV       Minuteman 3         Vandenberg LF10       Op.Test      1300?      Kwajalein
+Aug 22 1513   Topol'-E RV      Topol'              Kapustin Yar          Test          500?      Sary Shagan
+Aug 26        Warhead          Hwasong-6?          Sana'a, Yemen         Weapon         80?      Jizan, Saudi Arabia
+Aug 27 1745   NASA 36.282US    Black Brant 9       White Sands, NM       Solar EUV     250?      White Sands 
+Sep  3 1701   NASA 36.291US    Black Brant 9       White Sands, NM       Solar UV      287       White Sands 
+Sep 11 1100   S-520-30         S-520               Uchinoura, Kyushu     Physics       312       Phillipine Sea
+Sep 16 1906   NASA 39.012DR    Black Brant XI      Andoya, Norway        Ionos/Calib   299       Norwegian Sea
+Sep 30 0828   M51 RVs          M-51                Landes, France        Test          500?      Atlantic O.
+Oct  2 0539   O-STATES         S31/Orion           Kiruna, Sweden        Atmosphere    246       ESRANGE Area B, Sweden
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

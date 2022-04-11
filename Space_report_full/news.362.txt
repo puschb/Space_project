@@ -1,0 +1,89 @@
+Jonathan's Space Report
+No. 362                                      1998 Jun 2 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Shuttle mission STS-91 was launched at 2206 UTC on Jun 2. This was the
+first test of the super lightweight Al-Li external tank, which seems to
+have worked fine. At 2215 UTC Discovery entered a temporary 74 x 324 km
+x 51.6 deg orbit, with the OMS-2 burn due within the hour.
+
+Discovery is scheduled to dock with the Mir space station, and pick up
+astronaut Andy Thomas, ending the final US long duration flight to Mir.
+It also carries a test flight of the AMS particle physics experiment.
+
+The Shuttle schedule continues in flux. Although NASA will probably
+announce an STS-88 target in December and a delay of STS-93 to January,
+Russian delays in funding the ISS Service Module lead to me expect
+STS-88 will continue to slip, which would mean STS-93 staying at its
+current December date.
+
+Recent Launches
+---------------
+
+China launched a Chang Zheng 3B launch vehicle from Xichang on May 30.
+It orbited the Zhongwei 1 (Chinastar 1) satellite, an A2100 class comsat
+built by Lockheed Martin/Sunnyvale. Zhongwei 1 will serve China, India,
+Korea and southeast Asia with 18 C-band and 20 Ku-band transponders. It
+is operated by the China Orient Telecommunications Satellite Co, part of
+the Chinese telecoms ministry. Zhongwei 1 and the CZ-3B's final liquid
+hydrogen upper stage were placed in an initial supersynchronous 216 x
+85035 km x 24.4 deg  transfer orbit.
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  2 0916   Iridium 69        CZ-2C/SD      Taiyuan           Comsat     26A
+              Iridium 71                                        Comsat     26B
+May  7 0853   Kosmos-2351       Molniya-M     Plesetsk          Early Warn 27A
+May  7 2345   Echostar 4        Proton-K/DM3  Baykonur          Comsat     28A
+May  9 0138   USA 139           Titan Centaur Canaveral SLC40   Sigint     29A
+May 13 1552   NOAA 15           Titan 2       Vandenberg SLC4W  Weather    30A
+May 14 2212   Progress M-39     Soyuz-U       Baykonur LC1      Cargo      31A
+May 17 2116   Iridium 70)       Delta 7920    Vandenberg SLC2W  Comsat     32A
+              Iridium 72)                                       Comsat     32B
+              Iridium 73)                                       Comsat     32C
+              Iridium 74)                                       Comsat     32D
+              Iridium 75)                                       Comsat     32E
+May 30 1000   Zhongwei 1        CZ-3B         Xichang           Comsat     33A
+Jun  2 2206   Discovery    )    Shuttle       Kennedy LC39A     Spaceship  
+              Spacehab     )
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Unknown
+OV-103 Discovery       LEO           STS-91  
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Unknown
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/
+MLP2/
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+

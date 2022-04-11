@@ -1,0 +1,142 @@
+Jonathan's Space Report 
+
+No. 172       1993 Oct 12
+------------------------------------------------------------------------------
+
+Shuttle 
+------- 
+
+Columbia/STS-58 is due for launch on Oct 14. The payload is Spacelab
+Life Sciences 2; the orbiter will carry the Extended Duration
+Orbiter kit in the payload bay for the second time.
+Crew are John Blaha (Commander), Richard Searfoss (Pilot),
+Rhea Seddon, William McArthur, David Wolf, and Shannon Lucid
+(Mission Specialists) and Martin Fettman (Payload Specialist)
+plus 48 rats.
+
+Mir
+---
+
+The Progress M-20 cargo spaceship was launched on Oct 11 from
+Baykonur. It was due to link up with the Mir station on Oct 13.
+
+
+Launches
+--------
+
+Another bad day for the US space program - the long awaited Landsat 6
+remote sensing satellite is on the bottom of the Pacific. The Martin
+Marietta Titan 23G launch vehicle lifted off successfully from  Space
+Launch Complex 4-West at Vandenberg AFB at 1756 UTC on Oct 5; the two
+stage launch vehicle delivered the payload to the planned suborbital
+trajectory and separated at 1802 UTC an altitude of 724 km. The Thiokol
+Star 37XFP apogee motor was meant to fire at 1810 UTC to place Landsat
+in a circular orbit, but the burn was not monitored and there has been
+no sign of Landsat since. (Thanks to Joel Runes for getting these
+details for me). The apogee motor is considered to be part of the
+payload, although earlier Landsats, which were all launched on Deltas,
+didn't need one. The first Landsat was launched in 1972 and was then
+called Earth Resources Technology Satellite 1. The first three Landsats
+used the Nimbus weather satellite bus, while the last three have used
+the Multimission Spacecraft (MMS) bus first used for Solar Max.
+
+   Landsat program
+   ---------------
+
+ERTS 1          1972 Jul 23     903x921 km x 99 deg
+Landsat 2       1975 Jan 22     907x918 km x 99 deg
+Landsat 3       1978 Mar  5     900x918 km x 99 deg
+Landsat 4       1982 Jul 16     683x700 km x 98 deg
+Landsat 5       1984 Mar  1     699x700 km x 98 deg
+Landsat 6       1993 Oct  5       0x724 km x 98 deg
+
+    Unclassified MMS buses
+    ----------------------
+
+Solar Max       1980 Feb 14     566x569 km x 29 deg
+Landsat 4       1982 Jul 16     683x700 km x 98 deg
+Landsat 5       1984 Mar  1     699x700 km x 98 deg
+UARS            1991 Sep 12     574x581 km x 57 deg
+EUVE            1992 Jun  9     514x528 km x 28 deg
+TOPEX/Poseidon  1992 Aug 10     1331x1343 km x 66 deg
+Landsat 6       1993 Oct  5       0x724 km x 98 deg
+
+The Star 37 motor has a long and illustrious history, descending
+from the retro-rockets used to land the Surveyor probes on
+the Moon in the 1960s. The 37XF was used as an apogee motor
+on Intelsat V, and the new 37XFP version was used successfully
+on the Satcom K1 and K2, Astra 1A and ACTS satellites.
+
+A recoverable satellite was launched from Jiuquan space
+center in the Gobi desert on Oct 8. The Chinese FSW-1
+(Fanhui Shi Weixing) satellite was placed in a 207 x 295 km
+orbit inclined 57 degrees to the equator. 
+
+The Galileo probe made a TCM (Trajectory Correction Maneuver) last week
+(in five daily segments from Oct 4 to Oct 8). The reboost of the Compton
+Observatory's orbit is proceeding; after the first two burns the orbit
+had been raised from 337 km to 355 km; the original orbit was 452 km
+high.
+
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Sep 16 0736     Kosmos-2263     Zenit           Baykonur LC45   SIGINT     59A
+Sep 17 0043     Kosmos-2264     Tsiklon-M       Baykonur LC90   EORSAT     60A
+Sep 20 0012     IRS-1E          PSLV            Sriharikota     Remote s.  FTO
+Sep 26 0145     SPOT 3      )   Ariane 40       Kourou ELA 2    Remote s.  61A
+                Stella      )                                   Geodesy    61B
+                KITSAT-OSCAR 25                               Remote s,com 61C
+                ITAmsat/OSCAR 26                                Comsat     61F
+                Eyesat 1/OSCAR 27                               Comsat     61G
+                Posat 1     )                                   Test       61D
+                Healthsat 1 )                                   Comsat     61E
+Sep 30 1706     Raduga          Proton/Blok DM  Baykonur LC81   Comsat     62A
+Oct  5 1756     Landsat 6       Titan 23G       Vandenberg SLC4W Remote s. FTO
+Oct  8 0800     FSW-1           Chang Zheng 2C  Jiuquan         Remote s.  63A
+Oct 11 2133     Progress M-20   Soyuz           Baykonur        Cargo      64A
+
+Reentries
+---------
+
+Sep 22          Discovery       Landed at KSC
+Sep 28          Molniya-1 (1977-82A) reentered
+
+Erratum
+-------
+
+The first KITSAT was renamed Uribyol 1 after launch. I haven't managed to 
+confirm that the new one was also renamed, so I'm returning to the KITSAT
+name in this week's listing.
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39B         STS-58
+OV-103 Discovery       OPF Bay 3     STS-60
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-34/ET-57/OV-102 LC39B       STS-58
+ML2/RSRM-23/             VAB Bay 1   STS-61
+ML3/RSRM-35?             VAB Bay 3   STS-60
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+
+        

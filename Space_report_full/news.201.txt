@@ -1,0 +1,121 @@
+Jonathan's Space Report 
+No. 201      1994 Jun 27           Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Launch of STS-65 is due on July 8 from pad 39A into a 28 degree orbit.
+The cargo bay of Columbia contains a Spacelab Long Module and the
+Extended Duration Orbiter pallet. Crew are Robert Cabana (Commander), 
+James Halsell (Pilot), Richard Hieb (Payload Commander), Carl Walz,
+Leroy Chiao, and Donald Thomas (Mission Specialists), and Dr. Chiaki
+Mukai (Payload Specialist), a NASDA astronaut. The International
+Microgravity Laboratory-2 contains  experiments from NASA, the European
+Space Agency and its member national  space agencies, and the National
+Space Development Agency (NASDA) of Japan. Dr. Mukai will become the
+first Japanese woman to fly in space.
+
+
+LAUNCHES
+--------
+
+General Dynamics successfully launched an Atlas I Centaur from pad 36B
+at Cape Canaveral on Jun 24. The AC-76 flight placed a Hughes HS-601
+communications satellite in geostationary transfer orbit. The satellite,
+UHF Follow-On F3, is operated by Hughes for the United States Navy. This
+marks seven successful flights in a  row for Atlas, following some
+problems in 1991-93. The next Atlas launch is due on July 28, with
+DirecTV 2.  [Thanks to Al Hegemann for info].
+
+  Here  is a log of recent Atlas launches. There have been 519 Atlas 
+launches since 1957. (Atlas I first stages have 5000-series tail
+numbers; Atlas II's have 8100-series tail numbers, but I don't have the
+numbers for most of the recent flights). 
+
+Atlas Centaur  Model   Date         Payload type and name
+5054  AC-74  Atlas I    1993 Mar 25  Hughes HS-601 "UHF F/O F1"
+?     AC-104 Atlas II   1993 Jul 19  MM Astro DSCS III
+34E          Atlas E    1993 Aug  8  MM Astro Advanced Tiros-N "NOAA-13"
+?     AC-75  Atlas I    1993 Sep  3  Hughes HS-601 "UHF F/O F2"
+?     AC-106 Atlas II   1993 Nov 28  MM Astro DSCS III
+?     AC-108 Atlas IIAS 1993 Dec 16  MM Astro GE7000 "Telstar 401"
+?     AC-73  Atlas I    1994 Apr 13  SS/Loral GOES-Next "GOES 8"
+?     AC-76  Atlas I    1994 Jun 24  Hughes HS-601 "UHF F/O F3"
+
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Apr 23 0802     Kosmos-2278     Zenit-2         Baykonur LC45   SIGINT      23A
+Apr 26 0214     Kosmos-2279     Kosmos-3M       Plesetsk LC133  Navsat      24A
+Apr 28 1714     Kosmos-2280     Soyuz-U         Baykonur LC31   Recon       25A
+May  3 1555     USA-103         Titan Centaur   Canaveral LC41  SIGINT      26A
+May  4 0000     SROSS C2        ASLV            Sriharikota     Science     27A
+May  9 0247     MSTI-2          Scout G-1       Vandenberg SLC5 Technology  28A
+May 19 1703     P91-A (STEP 2)  Pegasus/HAPS    Point Arguello WA  Science  29A
+May 20 0201     Gorizont 42     Proton/DM2      Baykonur LC81   Comsat      30A
+May 22 0430     Progress M-23   Soyuz-U         Baykonur LC1?   Cargo       31A
+May 25 1015     Kosmos          Tsiklon-3       Plesetsk        SIGINT?     FTO
+Jun  7 0720     Kosmos-2281     Soyuz-U         Plesetsk LC16   Recon       32A
+Jun 14 1605     Foton No. 9     Soyuz-U         Plesetsk LC43   Materials   33A
+Jun 17 0707     Intelsat 702 )  Ariane 44LP     Kourou ELA2     Comsat      34A
+                STRV 1       )                                  Technology  34B
+                STRV 2       )                                  Technology  34C
+Jun 24 1350     UHF F/O F3      Atlas I Centaur Canaveral LC36B Comsat      35A
+
+Reentries
+---------
+
+May 23          Progress M-22   Deorbited
+Jun  3          Tiros VII       Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39A         STS-65
+OV-103 Discovery       OPF Bay 2     STS-64
+OV-104 Atlantis        OPF Bay 3     STS-66
+OV-105 Endeavour       OPF Bay 1     STS-68
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65          VAB Bay 3 STS-68
+ML2/                       
+ML3/RSRM-39/ET-64/OV-102   VAB Bay 1 STS-65
+
+Shuttle Processing Status Explanation (or,  what are all these acronyms
+anyway?):
+
+ The Shuttle consists of an Orbiter (OV), an expendable External Tank
+(ET), and a reusable pair of Redesigned Solid Rocket Motors (RSRM), also
+known as Solid Rocket Boosters (SRBs).  The OV is prepared for flight in
+the Orbiter Processing Facility (OPF) which consists of three bays (one
+of which is actually a separate building) after which it is towed to the
+Vehicle Assembly Building (VAB) and `mated to the stack' or joined to
+the ET and RSRM. First, the segments of the RSRM are stacked up on a
+Mobile Launch Platform (ML) and then the ET is connected to it. After
+the OV is mated, a Crawler-Transporter is moved underneath the ML and
+carries the ML/RSRM/ET/OV stack to one of the two pads (A or B) at
+launch complex 39 (LC39) where it is eventually launched on a Space
+Transportation System (STS) mission. Occasionally an OV is returned to
+the Rockwell International plant in Palmdale, California for refit - an
+Orbiter Maintenance Down Period or OMDP. 
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+
+
+
+

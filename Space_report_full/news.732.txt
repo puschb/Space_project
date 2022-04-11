@@ -1,0 +1,230 @@
+Jonathan's Space Report 
+No. 732                                                       2016 Nov 30   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 50 continues. Soyuz MS-03 was launched on Nov 17 carrying
+Oleg Novitskiy (Roskosmos), Thomas Pesquet (ESA) and Peggy Whitson (NASA).
+The Soyuz docked with the Rassvet module at 2158 UTC Nov 19.
+
+The Cygnus cargo vehicle SS Alan Poindexter (OA-5) was unberthed
+from the Unity module at about 1125 UTC Nov 21 and released into space
+at 1322 UTC. It raised its orbit on Nov 25 to 495 x 504 km and released
+two pairs of Spire Global cubesats in the Lemur-2 series. Cygnus
+was deorbited on Nov 27, reentering over the S Pacific at 2336 UTC.
+
+Shenzhou/Tiangong
+-----------------
+
+The Chinese astronauts Jing and Chen completed work aboard the Tiangong-2
+spacelab on Nov 17 and undocked in Shenzhou-11 at 0441 UTC. Shenzhou
+11 landed near Zhurihezen in Inner Mongolia province at 0559 UTC.
+
+Schiaparelli
+------------
+
+The ESA investigation into the Schiaparelli crash on Mars
+continues. Bad data from the IMU made the lander think it was already on the
+surface while still over 4 km high, prematurely triggering the landing sequence.
+
+According to Cyrille Vanlerberghe of Le Figaro, the actual timeline was   
+
+UTC 2016 Oct 19
+ 14:42:22   E+0:00   Entry
+ 14:45:23   E+3:01   Parachute deployment  
+ 14:46:19   E+3:57   Heat shield separation
+                     Radar altimeter on
+ 14:46:49   E+4:27   Parachute premature sep, 4.3 km
+ 14:46:53   E+4:31   Thrusters on,3.7 km
+ 14:46:56   E+4:34   Thrusters off
+ 14:47:26   E+5:04   Impact, 540 km/hr
+
+Himawari 9
+-----------
+
+Japan's Himawari 9 weather satellite was launched to geotransfer orbit
+by H-IIA-31 on Nov 2. By Nov 8 the satellite was on station in GEO at
+140.8E.
+
+Chang Zheng 5
+-------------
+
+The long awaited first launch of the CZ-5 (Long March 5) rocket took
+place on Nov 3 from Wenchang Space Centre in Hainan. The CZ-5
+configuration used four large liquid strapon boosters around a central 5
+metre diameter core stage, with a second stage consisting of a stepped
+cylinder similar in configuration to the Delta 4/H-2A second stages. On
+this mission a Yuanzheng-2 third stage was also installed.
+
+The payload was Shi Jian 17, an experimental communications technology
+satellite with a secondary experiment to observe orbital debris.
+
+After launch at 1243 UTC the CZ-5 second stage achieved a 170 km parking
+orbit at 1257 UTC. At 1307 UTC the second stage made a six-minute-long
+second burn to 178 x 29127 km x 19.5 deg. The YZ-2 separated at 1313 UTC
+and shortly afterwards made a burn to 212 x 35802 km x 19.5 deg. YZ-2
+then coasted to apogee and restarted at 1836 UTC to place itself in near
+geosynchronous orbit. The SJ-17 payload separated at about 1855 UTC into
+a 35886 x 38811 km x 0.8 deg orbit and drifted around the GEO arc.
+On Nov 12 it entered a 35771 x 35804 km geostationary orbit over 162.9E.
+
+Chang Zheng 11
+---------------
+
+On Nov 9 China carried out the second launch of the small solid-fuel
+CZ-11 launch vehicle from Jiuquan. It carried the 240 kg Maichong Xing
+Shiyan Weixing (Pulse Star Experimental Satellite) which will test the
+concept of navigation using the signals from  X-ray millisecond pulsars.
+These compact stars spin hundreds of times a second and the X-ray
+flashes from their magnetic poles swishing past us at that high rate can
+be used as a very accurate clock, the key component of a GPS-like
+navigation system. The concept was developed some years ago by the NRL
+team and it is hoped to use it in future US space systems.
+
+The launch also carried four cubesat-class payloads.  The Xiaoxiang-1
+from Tianyi Research Institute in Changsha is a 6U cubesat with a
+precision attitude control system experiment intended for future
+astronomy missions. A Lishui-1 imaging satellite was launched to begin a
+commercial constellation for Zhejiang LiYi Electronic Technology Co. The
+KS-1Q instrument package, attached to the CZ-11 final stage, measured
+the launch vehicle environment. The CAS-2T amateur radio payload in a 1U
+cubesat also remained attached to the launch vehicle.
+
+Atlas AV-062/Worldview-4
+------------------------
+
+A United Launch Alliance Atlas V, serial AV-062, placed the DigitalGlobe
+WorldView-4 commercial imaging satellite in orbit on Nov 11. WV-4 was
+originaly GeoEye-2 before the GeoEye/DG merger, and has a resolution of
+only 0.25 metres. AV-062 reached a 600 km orbit at 1846 UTC and deployed
+WV-4 at 1849 UTC.
+
+AV-062 also carried four cubesat deployers on its Aft Bulkhead Carrier.
+Two 1.5U DoD Nanosat Program satellites (probably in the Prometheus
+series) were ejected at 2042 UTC. Two 1.5U cubesats for the Aerospace
+Corporation, Aerocube 8C and 8D, were ejected at 2045 UTC. At 2054 UTC
+the CELTEE 1U cubesat for the Air Force ResearchLab was ejected together
+with a 2U tracking calibration satellite, CalPoly's Opticube.  Finally
+at about 2055 UTC the 3U RAVAN satellite for APL jumped free. It carries
+an experimental radiometer for Earth energy balance studies.
+
+At 2120 UTC AV-062 made its second burn, accelerating to escape velocity
+to avoid it contributing to LEO space junk. The stage departed the
+Earth's gravitational sphere of influence on Nov 15 to enter
+a solar orbit of 0.93 x 1.57 AU x 3.4 deg.
+
+Galileo
+--------
+
+Four more European navigation satellites in the Galileo system were
+launched on Nov 17. An Ariane 5ES rocket was used; the restartable EPS
+upper stage placed the satellites (FM07, FM12, FM13 and FM14,
+redesignated GalileoSat 15 to 18 after launch) in orbit. The 5ES model
+was previously used for ATV cargo ship launches.
+
+GOES R
+------
+
+Geostationary Operational Environmental Satellite R, which will become
+GOES 16 when it is operational, is the first in a new series of
+Lockheed-Martin-built GOES weather satellites for NOAA. It was launched by
+a ULA Atlas V on Nov 19. The satellite mass is 2857 kg dry, 5192 kg 
+when full of propellant.
+
+GOES-R carries the Advanced Baseline Imager, a new camera
+similar in capabilities to those on the Japanese Himawari 8/9 series. 
+Also aboard are the Geostationary Lightning Mapper, a Space Environment
+suite, a Solar Ultraviolet Imager, an EUV/X-Ray Irradiance Sensor,
+a Search and Rescue comm payload, and comm payloads to relay weather data.
+
+Tianlian-1 04
+-------------
+
+The fourth in China's Tianlian-1 series of data relay satellites was
+launched on Nov 22 into an elliptical geotransfer orbit. On Nov 23 at
+about 1000 UTC  it raised its orbit with a burn over the Indian Ocean.
+Although of Nov 29 no new US tracking data was available, I expect it to
+replace Tianlian-1 01 at the 80E location.
+
+     TL-1 01   2008 Apr    80E
+     TL-1 02   2011 Jul   177E
+     TL-1 03   2012 Jul    11E
+     TL-1 04   2016 Nov   TBD
+
+Cassini
+-------
+
+The Cassini probe made Titan flyby T-124 at 2357 UTC on Nov 13, at a height of
+1582 km, and flyby T-125 at 2216 UTC on Nov 29 at a height of 3158 km. The
+two encounters lowered the probe's Saturn orbit periapsis from 278000 km
+to only 90000 km, setting on course for the 'Ring-Grazing Orbits' phase
+of the mission. At its next ring plane crossing on Dec 4, Cassini
+will pass 91200 km above Saturn's cloudtops; the F ring extends
+from 79558 to 80344 km.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Oct  5 2030   Sky Muster II )       Ariane 5          Kourou ELA3      Comms         60B    S41794  35292 x 35806  x  0.1
+              GSAT-18       )                                          Comms         60A    S41793  24135 x 35831  x  0.5
+Oct 16 2330   Shenzhou 11           Chang Zheng 2F    Jiuquan          Spaceship     61A    S41812    378 x   389  x 42.8 Docked to TG2
+Oct 17 2345   SS Alan Poindexter    Antares 230      Wallops MARS LA0A Cargo         62A    S41818    373 x   395  x 51.6
+Oct 19 0805   Soyuz MS-02           Soyuz-FG          Baykonur LC31    Spaceship     63A    S41820    289 x   306  x 51.6 Docked ISS
+Oct 22 2331   TG-2 bansui weixing                    TG-2, LEO         Tech          57H    S41834    374 x   384  x 42.8
+Nov  2 0620   Himawari 9            H-IIA 202         Tanegashima LP1  Weather       64A    S41836    243 x 35857  x 22.4
+Nov  3 1243   Shi Jian 17           Chang Zheng 5/YZ2 Wenchang LC101   Comms/Tech    65A    S41838  35771 x 35804  x  0.8 GEO 163E
+Nov  9 2342   Maichong Xing SW   )  Chang Zheng 11    Jiuquan SLS-E    Astronomy     66A    S41841    493 x   512  x 97.4
+              Xiaioxiang-1       )                                     Tech          66B?   S41842    492 x   511  x 97.4
+              Lishui 1-01        )                                     Imaging       66C?   S41843    491 x   511  x 97.4
+              KS-1Q              )                                     Imaging       66D?   S41844    491 x   511  x 97.4
+              CAS-2T             )                                     Imaging       66D?   S41844    491 x   511  x 97.4
+Nov 11 1830   WorldView-4       )   Atlas V 401       Vandenberg SLC3E Imaging       67A    S41848    607 x   611  x 98.0
+              Prometheus 2.1    )                                      Comms         67     S41849    572 x   585  x 98.0
+              Prometheus 2.2    )                                      Comms         67     S41850    571 x   584  x 98.0
+              Aerocube 8C       )                                      Tech          67     S41851    573 x   586  x 98.0
+              Aerocube 8D       )                                      Tech          67     S41852    575 x   585  x 98.0
+              CELTEE            )                                      Tech          67     S41853    576 x   586  x 98.0
+              Opticube 4        )                                      Cal           67     S41854    576 x   585  x 98.0
+              RAVAN             )                                      Tech/Sci      67     S41855    569 x   583  x 98.0
+Nov 11 2314   Yunhai-1 01           Chang Zheng 2D    Jiuquan          Weather       68A    S41857    760 x   787  x 98.5
+Nov 17 1306   GalileoSat-15  )      Ariane 5ES        Kourou ELA3      Nav           69A    S41859  22879 x 22906  x 54.6
+              GalileoSat-16  )                                         Nav           69B    S41860  22890 x 22926  x 54.6
+              GalileoSat-17  )                                         Nav           69C    S41861  22901 x 22912  x 54.6
+              GalileoSat-18  )                                         Nav           69D    S41862  22898 x 22899  x 54.5
+Nov 17 2020   Soyuz MS-03           Soyuz-FG          Baykonur LC1     Spaceship     70A    S41864    195 x   228  x 51.6
+Nov 19 2342   GOES 16 (GOES R)      Atlas V 541       Canaveral SLC41  Weather       71A    S41866   8157 x 35269  x 10.6
+Nov 22 1524   Tianlian-1 04         Chang Zheng 3C    Xichang          Data relay    72A    S41869    201 x 41776  x 17.4
+Nov 25 2015   Lemur-2-Sokolsky)                     Cygnus OA-5, LEO   Weather/AIS   62C    S41871    498 x   507  x 51.6  
+              Lemur-2-Xiaoqing)                                        Weather/AIS   62D    S41872    498 x   507  x 51.6  
+Nov 26 0010   Lemur-2-Anubhavthakur )               Cygnus OA-5, LEO   Weather/AIS   62E    S41873    498 x   507  x 51.6  
+              Lemur-2-Wingo         )                                  Weather/AIS   62F    S41874    498 x   507  x 51.6  
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Apparently a quiet month for suborbital launches. Let me know if I missed any!
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Oct  5 1536   New Shepard      New Shepard         West Texas            Abort test     94       West Texas
+Oct 12        RV               Volna              K-433, Sea of Okhotsk  Test         1000?      Chiza 
+Oct 12        RV               Sineva             K-407, Barents Sea     Test         1000?      Kura
+Oct 12        RV               Topol'              Plesetsk              Test         1000?      Kura
+Oct 25 0858   RV               UR-100NU            Yasniy                Test         1000?      Kura
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   

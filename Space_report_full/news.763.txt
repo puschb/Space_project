@@ -1,0 +1,335 @@
+Jonathan's Space Report 
+No. 763                                                        2019 Apr  6  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Soyuz MS-12 was launched on Mar 14 carrying Aleksey Ovchinin, Nick Hague and Christina
+Koch. It docked with the Rassvet module at 0101:43 UTC Mar 15, beginning ISS Expedition 59.
+
+Progress MS-10 made a 0.7m/s burn to adjust the ISS orbit at 1422 UTC Mar 23.
+
+The new Li-ion batteries delivered by HTV-7 last September on the External Pallet EP7 are finally being installed
+in a mixture of robotic (SSRMS/Dextre SPDM) operations and manual work on spacewalks.
+EP7 is stored on the POA location on the Mobile Base System.
+
+Here is the chronology of activities (most of you will want to skip this bit!)
+  Mar 19       SPDM move NiH battery 0070 from P4 truss IEA 4A slot 3 to Dextre's EOTP3 stowage point.
+               SPDM move NiH battery 0073 from P4 4A slot 1 to EP7 slot X for disposal
+               SPDM move Li-ion battery 0006 from EP7 slot C to P4 4A slot 3
+                      Unfortunately this battery failed on Mar 22.
+  Mar 20       SPDM move NiH battery 0074 from P4 4A slot 5 to EP7 slot Z for disposal
+               SPDM move NiH battery 0069 from P4 4A slot 6 to EP7 slot Y for disposal
+               SPDM move Li-ion battery 0010 from EP7 slot B to P4 4A slot 5
+               SPDM move Li-ion battery 0008 from EP7 slot A to P4 4A slot 1
+  Mar 22 1155? Quest airlock depress, Anne McClain EV1 in EMU 3008, SAFER 13
+                                      Nick Hague EV2 in EMU 3003, SAFER 15
+         1158       Hatch open
+         1351-1410  Hague move adapter plate 0005 from EP7 slot A to P4 4A slot 6 
+         1355-1452  McClain move adapter plate 0006 from EP7 slot B to P4 4A slot 4
+         1430-1442  Move NiH battery 0072 from P4 4A slot 4 to adapter 0005 on slot 6
+         1513-1526  Move NiH battery 0071 from P4 4A slot 2 to adapter 0006 on slot 4
+         1623-1648  Move adapter plate 0007 from EP7 slot C to P4 4A slot 2
+         1836       Hatch closed
+         1840       Repressurized
+  Mar 26       SPDM move NiH battery 0065 from P4 2A slot 1 to EP7 slot B for disposal
+               SPDM move NiH battery 0066 from P4 2A slot 3 to EP7 slot A for disposal
+  Mar 27       SPDM move NiH battery 0068 from P4 2A slot 5 to Dextre
+               SPDM move Li-ion battery 0003 from EP7 slot D to P4 2A slot 1
+               SPDM move Li-ion battery 0019 from EP7 slot E to P4 2A slot 5
+               SPDM move Li-ion battery 0018 from EP7 slot F to P4 2A slot 3
+  Mar 28       SPDM move NiH battery 0063 from P4 2A slot 6 to EP7 slot C? for disposal
+               SPDM move NiH battery 0067 from P4 2A slot 4 to Dextre 
+  Mar 29 1137? Quest airlock depress, Nick Hague EV1 in EMU 3006, SAFER 13
+                                      Christina Koch EV2 in EMU 3008, SAFER 15
+         1139         Hatch open
+         1310         Remove adapter plates 13 and 14 from EP7 slots E and F
+         1330         Adapter plate 14 (F) installed on P4 2A slot 6
+         1351         Adapter plate 13 (E) installed on P4 2A slot 4
+         1419         NiH battery 0064 removed from P4 2A slot 2
+         1455         NiH battery 0064 installed on adapter plate 13 in 2A slot 4.
+         1514         Adapter plate 12 (D) removed from EP7 slot D
+         1529         Adapter plate 12 (D) installed on P4 2A slot 2
+         1821         Hatch closed
+         1828         Airlock repressurized          
+   Mar 30       SPDM move NiH battery 0067 from SPDM arm 1? to EP7 slot D?
+                SPDM move NiH battery 0068 from SPDM arm 2? to EP7 slot E?
+   I believe NiH battery 0070 is still on the SPDM EOTP.
+   But I haven't seen any confirmation of this.
+
+   On Apr 2, the spare BCDU (Battery Charge/Discharge Unit) which was
+   launched as part of ELC-1's initial cargo in 2009
+   was moved from ELC-1 to replace P4 IEA's 4A3 BCDU which is thought to have failed.
+   On Apr 3, the new-but-failed Li-Ion battery 0006 was removed from P4 4A3 and returned
+   to the EP7, possibly on slot F?
+
+ With these changes, and a few more still to come, the 2A and 4A solar arrays on the
+P4 truss are back in action using the new batteries.
+
+The Progress MS-11 cargo ship was launched on Apr 4 and docked with the Pirs module
+only 3h20 min after launch.
+
+
+S5
+--
+
+The US Air Force Research Lab's S5 satellite appears to have separated from its
+Nusantara Satu host satellite at about 1800 UTC on Mar 4. Part of the Beresheet probe's
+adapter structure was jettisoned in the `GEO graveyard' first to allow S5 to emerge.
+
+Orbits of the three GEO objects on Mar 8 were:
+ 44048  Nusantara Satu             35779 x 35791 km x 0.1 deg  GEO 145.9E
+ 44065  S5                         36053 x 36055 km x 0.1 deg  GEO 139.3E+3.3deg W/day
+ 44066  Beresheet adapter          36131 x 36170 km x 0.1 deg  GEO 133.2E+4.6deg W/day
+
+ZX-6C
+------
+
+China launched the Zhongxing-6C satellite from Xichang on Mar 9. ZX-6C is a C-band
+communications satellite using the DFH-4 bus. By Mar 19 the satellite was
+on station in GEO at 129.9E.
+
+WGS-10
+------
+
+The US Air Force communications satellite Wideband Global Satcom 10 was launched
+on Mar 16 by a Delta 4 Medium from Cape Canaveral into a supersynchronous transfer
+orbit. The Boeing-built spacecraft carries X- and Ka-band communications payloads
+and has both bipropellant and electric propulsion systems. 
+  The orbital data for WGS satellites were declassified last year; it's nice to
+see public TLE data flowing for the new satellite. By Mar 22 it was in
+a 13246 x 45069 km x 5.3 deg orbit.
+
+PRISMA
+------
+
+The Italian Space Agency's PRISMA imaging satellite was launched by an
+Arianespace Vega on Mar 22. Its 0.21m aperture telescope has a
+hyperspectral detector with high spectral resolution near infrared and
+visible imaging.
+
+Beresheet
+---------
+
+The SpaceIL Beresheet probe (I'm told "B'reshit" is a better
+transliteration from the Hebrew) has made a further orbit raising burn
+for translunar injection. The 60 second perigee burn at 1230 UTC Mar 19
+raised apogee beyond the Moon to 405 000 km. It entered  an estimated
+400 x 10000 km lunar orbit on Apr 4, with a 324m/s burn starting at 1418
+UTC and lasting 350s.
+
+Kicksat-2
+---------
+
+The Kicksat-2 cubesat, developed by Zac Manchester (Stanford U.) and
+funded on Kickstarter, deployed at least some of its circa 104 Sprite
+chipsats on Mar 19 at 0340 UTC, as the satellite orbited over the
+eastern Pacific southwest of California. Cees Bassa detected radio
+signals from some of the Sprites. There are no US satellite catalog
+entries for them. Their area-to-mass ratio is rather high, so they are
+strongly affected by drag, and Manchester reports that they are expected
+to have reentered within a few days.
+
+
+Microsat-R
+----------
+
+On Mar 27 India's Defense Research Development Organization (DRDO) launched the first PDV Mk II
+antisatellite interceptor from Kalam Island. After a three minute flight the missile collided
+with the 740 kg Microsat-R satellite in LEO. Microsat-R was in a 260 x 282 km x 96.6 deg orbit
+at the time, travelling north over the Bay of Bengal; PDV-II flew south from Orissa to intercept
+it. PDV-II is reported to be a three stage vehicle - two solid boost stages and a kill vehicle
+with liquid-propellant terminal guidance thrusters.
+
+As of Mar 31 US authorities were reporting over 250 debris pieces detected. On Apr 5, 57 of them
+were publicly cataloged, 13 showing apogees over 1000 km.
+
+PSLV-C45
+--------
+
+India launched PSLV-C45 from Sriharikota on Apr 1. This was the first launch of
+the PSLV-QL variant which has 4 strapon boosters, and the first time the PS4
+upper stage carried solar panels to support long-term in-orbit attached payloads.
+
+The main payload was EMISAT, a signals intelligence satellite for the Indian
+defense research agency DRDO. 
+
+Cubesats on PSLV-C45 include: BlueWalker 1, a test IoT data relay
+satellite for Avellan Space Technology and Science of Midland, Texas
+built by NanoAvionics of Vilnius, whose own test satellite, M6P, is also
+aboard; Astrocast 0.2 is another IoT test satellite for Astrocast of
+Lausanne.  Danu Pathfinder 1 is the third in the AISTECHSAT series of
+ship tracking  satellites from AistechSpace of Barcelona. Four Lemur-2
+satellites for SpireGlobal are aboard, and twenty Planet cubesats
+in the improved Flock 4 series.
+
+Preliminary data suggest that (1) the final burn of the PS4 stage
+may have been retrograde instead of posigrade, leading to an elliptical
+rather than circular final orbit and (2) two of the satellite deployments
+inadvertently occured only after this burn, leaving them in the PS4's
+orbit rather than the higher target one. 
+
+
+R3D2
+----
+
+RocketLab launched the fifth Electron on Mar 28, carrying the DARPA R3D2
+ (Radio-frequency Risk Reduction Deployment Demonstration) satellite.
+R3D2 is a  150 kg Northrop Grumman satellite with a 2.3m diameter
+deployable lightweight antenna.
+
+TL2-01
+------
+
+China launched the first of its second-generation tracking and data relay satellites on Mar 31.
+Tianlian-2 sat 01  (Tianlian erhao 01 xing) is a CAST DFH-4. The TL2 series will replace the four
+TL1 sats already in orbit:
+
+    Satellite             Launch date    Current GEO Location           Location History
+    Tianlian-1 01 xing    2008 Apr 25    Indian O. Backup   80E          77E (2008-2013); 80E (2013-2019)
+    Tianlian-1 02 xing    2011 Jul 11    Pacific           167E         177E (2011-2013); 167E (2013-2016) 
+                                                                        171E (2016) 177E (2016-Jan 2019) 167E (2019)
+    Tianlian-1 03 xing    2012 Jul 25    Africa             17E          17E (2012-2016); 20E (2016); 10.5E (2016-Jan 2019); 17E (2019)
+    Tianlian-1 04 xing    2016 Nov 22    Indian Ocean       77E          77E (2016-2019)
+    Tianlian-2 01 xing    2019 Mar 31     TBD
+
+As of Apr 6, geotransfer orbit TLEs for TL2-01 had stopped on Apr 1; this suggests it made an
+apogee maneuver on that date but has not yet been located by US tracking in GEO. TL2-01's
+apogee at 0800 UTC Apr 1 was at around 114E. 
+
+
+O3B
+----
+
+The final four satellites in the first-generation SES O3b constellation were launched
+from French Guiana on Apr 4 on a Soyuz/Fregat to medium equatorial Earth orbit. The O3b satellites
+provide broadband internet to developing countries.
+
+Hayabusa-2
+-----------
+
+At 0400 UTC on Apr 4 Haybusa 2 began another descent from its 20 km home
+point towards the surface of Ryugu. At an altitude of 500m, at 0156 UTC
+Apr 5, it ejected the SCI (Small Carry-On Impactor), a 14 kg vehicle
+with a 5 kg explosive shaped charge and a 2 kg copper mass. Hayabusa-2
+then performed an avoidance burn to head off several km to the side of
+the asteroid, over the horizon from the SCI location. Early in this
+retreat, at 0214 UTC, it ejected the DCAM-3 camera package. At 0236 UTC
+the SCI detonated, propelling the copper payload into the asteroid with
+the intention of creating a new crater. DCAM-3 imaged this operation and
+relayed the data to the main spacecraft. Hayabusa-2 will image Ryugu
+from a safe distance and search for the resulting crater, before
+returning to its 20 km home point on around Apr 20. The plan is to then
+make a further descent to sample the freshly exposed material in the new
+crater.
+
+
+Erratum
+-------
+In JSR 760 I said that Progress MS-10 did a reboost on Dec 2; this should have read Dec 27
+(with further reboosts Jan 18 and Feb 26).
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Feb  1?       SeeMe?                                     EXCITE, LEO     Imaging     99BS   S43822   571 x   594 x 97.8 1017LT SSO
+Feb  5        Dousti                 Safir               Semnan          Imaging      F02   F01533 -6000?x    10?x 55.0
+Feb  5 2101   Saudi Geosat 1 )       Ariane 5ECA         Kourou ELA3       Comms      07A   S44034   242 x 35770 x  3.0
+              GSAT-31        )                                             Comms      07B   S44035   245 x 35841 x  3.0
+Feb  9 0000   Quantum Radar 1 )                        Cygnus NG10,LEO     Tech     18092C  S44041   455 x   459 x 51.6 
+              Quantum Radar 2 )                                            Tech     18092D  S44042   457 x   457 x 51.6 
+Feb 13 1200   MySat-1  )                               Cygnus NG10,LEO     Tech     18092E  S44044?  455 x   471 x 51.6  
+              CHEFSAT-2 )	                                           Tech     18092F  S44045?  455 x   471 x 51.6  
+Feb 13 2245   Kicksat-2                                Cygnus NG10,LEO     Tech     18092G  S44046   297 x   306 x 51.6
+Feb 21 1647   EgyptSat-A             Soyuz-2-1b/Fregat   Baykonur LC31     Imaging    08A   S44047   652 x   656 x 98.0 0950LT SSO
+Feb 22 0145   Nusantara Satu  )      Falcon 9            Canaveral SLC40   Comms      09A   S44048 35779 x 35791 x  0.1
+              Beresheet       )                                           Lunar probe 09B   S44049   242 x 68845 x 27.6
+Feb 27 2137   OneWeb-0006 )          Soyuz ST-B/Fregat   CSG ELS           Comms      10E   S44061   984 x  1007 x 87.8
+              OneWeb-0007 )                                                Comms      10D   S44060   984 x  1007 x 87.8
+              OneWeb-0008 )                                                Comms      10C   S44059   985 x  1009 x 87.8
+              OneWeb-0010 )                                                Comms      10B   S44058   986 x  1010 x 87.8
+              OneWeb-0011 )                                                Comms      10F   S44062   987 x  1005 x 87.8
+              OneWeb-0012 )                                                Comms      10A   S44057   985 x  1010 x 87.8
+Mar  2 0749   Crew Dragon DM-1       Falcon 9            Kennedy LC39A    Spaceship   11A   S44063   235 x   351 x 51.6
+Mar  4 1800?  S5                                       Nus.Satu, GEO       Imaging    09D? S44065? 36043 x 36055 x  1.0
+Mar  9 1628   Zhongxing 6C           Chang Zheng 3B      Xichang LC3       Comms      12A   S44067   181 x 40603 x 24.6
+Mar 14 1914   Soyuz MS-12            Soyuz-FG            Baykonur LC1     Spaceship   13A   S44069   406 x   411 x 51.6 Docked ISS 
+Mar 16 0026   WGS 10                 Delta 4M+(5,4)      Canaveral SLC37B  Comms      14A   S44071   462 x 44261 x 27.0
+Mar 19 0340   Sprite (00,01)  ]                        Kicksat-2, LEO      Tech     18092H           251 x   261 x 51.6
+              Sprite (02,03)  ]                                            Tech     18092J           251 x   261 x 51.6
+              ....            ]                                                    [104 satellites]
+              Sprite (206,207)]                                            Tech     18092DQ          251 x   261 x 51.6
+Mar 22 0150   PRISMA                 Vega                CSG ELV           Imaging    15A   S44072   617 x   620 x 97.9 1030LT SSO
+Mar 27 0939?  Linqgue 1A             OS-M1               Jiuquan           Tech       F03   F01537 -6300?x    10?x 98?
+Mar 28 2327   R3D2                   Electron            Mahia             Tech       16A   S44073   421 x   438 x 39.5
+Mar 31 1551   TianLian 2-01          Chang Zheng 3B      Xichang           Comms      17A   S44076   200 x 35817 x 27.1
+Apr  1 0357   EMISAT               ) PSLV-QL             Satish Dhawan SLP Sigint     18A   S44078   736 x   758 x 98.4 0930LT SSO
+              BlueWalker 1         )                                       IoT Comms  18AD  S44105   434 x   515 x 97.5
+              M6P                  )                                       IoT Comms  18AF  S44109   434 x   515 x 97.5
+              Astrocast-0.2        )                                       IoT Comms  18F   S44083   494 x   510 x 97.5
+              Danu Pathfinder 1    )                                       AIS Comms  18AB  S44103   490 x   507 x 97.5
+              Lemur-2-JohanLoran   )                                   AIS/ADS-B/Met  18G   S44084   494 x   510 x 97.5
+              Lemur-2-Beaudacious  )                                   AIS/ADS-B/Met  18H   S44085   493 x   510 x 97.5
+              Lemur-2-Elham        )                                   AIS/ADS-B/Met  18J   S44086   493 x   510 x 97.5
+              Lemur-2-Victor-Andrew)                                   AIS/ADS-B/Met  18K   S44087   493 x   510 x 97.5
+              Flock 4a-1/ Dove 2218)                                       Imaging    18B   S44079   494 x  510 x  97.5
+              Flock 4a-2/ Dove 2201)                                       Imaging    18C   S44080   494 x  510 x  97.5
+              Flock 4a-3/ Dove 2206)                                       Imaging    18D   S44081   494 x  510 x  97.5
+              Flock 4a-4/ Dove 2220)                                       Imaging    18E   S44082   494 x  510 x  97.5
+              Flock 4a-5/ Dove 2227)                                       Imaging    18T   S44095   493 x  507 x  97.5
+              Flock 4a-6/ Dove 220b)                                       Imaging    18S   S44094   494 x  507 x  97.5
+              Flock 4a-7/ Dove 222d)                                       Imaging    18R   S44093   494 x  507 x  97.5
+              Flock 4a-8/ Dove 2213)                                       Imaging    18Q   S44092   494 x  507 x  97.5
+              Flock 4a-9/ Dove 2224)                                       Imaging    18W   S44098   493 x  507 x  97.5
+              Flock 4a-10/Dove 2205)                                       Imaging    18V   S44097   493 x  507 x  97.5
+              Flock 4a-11/Dove 2223)                                       Imaging    18U   S44096   493 x  507 x  97.5
+              Flock 4a-12/Dove 2209)                                       Imaging    18AE  S44108   494 x  507 x  97.5
+              Flock 4a-13/Dove 220c)                                       Imaging    18AA  S44102   492 x  507 x  97.5
+              Flock 4a-14/Dove 222c)                                       Imaging    18Z   S44101   492 x  507 x  97.5
+              Flock 4a-15/Dove 2207)                                       Imaging    18Y   S44100   493 x  507 x  97.5
+              Flock 4a-16/Dove 222b)                                       Imaging    18X   S44099   493 x  507 x  97.5
+              Flock 4a-17/Dove 2212)                                       Imaging    18L   S44088   493 x  510 x  97.5
+              Flock 4a-18/Dove 2215)                                       Imaging    18M   S44089   493 x  510 x  97.5
+              Flock 4a-19/Dove 2235)                                       Imaging    18N   S44090   493 x  510 x  97.5
+              Flock 4a-20/Dove 2232)                                       Imaging    18P   S44091   493 x  510 x  97.5
+              AISAT-1/PSLV-C45-PS4                                         Tech/Comms 18AC  S44104   435 x  515 x  97.5
+Apr  4 1101   Progress MS-11         Soyuz-2-1A          Baykonur LC31     Cargo      19A   S44110   407 x  411 x  51.6   
+Apr  4 1703   O3b FM17  )            Soyuz ST-B/Fregat   CSG ELS           Comms      20A   S44112  7809 x 7839 x   0.0
+              O3b FM18  )                                                  Comms      20B   S44113  7818 x 7839 x   0.0
+              O3b FM19  )                                                  Comms      20C   S44114  7830 x 7840 x   0.0
+              O3b FM20  )                                                  Comms      20D   S44115  7839 x 7841 x   0.0
+Apr  5 0156   SCI                            Hayabusa-2, Ryugu space       Weapon    14076  D00957   Ryugu impact
+Apr  5 0214   DCAM-3                         Hayabusa-2, Ryugu space       Imaging   14076  D00958   Ryugu space
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Feb  6 0701   Mk 21 RV/FTU-1    Minuteman 3        Vandenberg            Test         1300?      Pacific Ocean
+Feb  6 0831   Yars RV           Yars               Plesetsk              Test         1300?      Kura
+Feb 22 1654   VSS Unity VF-01   Spaceship Two      Kelso Valley          Test           89.9     Mojave
+Mar 11 0920   REXUS 25          Imp. Orion         Kiruna                Micrograv      82       ESRANGE
+Mar 19 0940   REXUS 26          Imp. Orion         Kiruna                Micrograv      80       ESRANGE
+Mar 25 1720?  FTG-11 Target     ICBM-T2?           Kwajalein             Target       1000?      Pacific Ocean
+Mar 25 1730?  FTG-11 KV 1       GBI                Vandenberg LF23?      Interceptor  1000?      Intercept
+Mar 25 1730?  FTG-11 KV 2       GBI                Vandenberg LF05?      Interceptor  1000?      Intercept
+Mar 27 0540   Mission Shakhti   PDV-II             Kalam Island          ASAT          270?      Intercept
+Apr  5 2214   AZURE 1           Black Brant XIA    Andoya                Auroral       320       Norwegian Sea
+Apr  5 2214   AZURE 2           Black Brant XIA    Andoya                Auroral       320       Norwegian Sea
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

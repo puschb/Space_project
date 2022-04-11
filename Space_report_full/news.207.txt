@@ -1,0 +1,119 @@
+Jonathan's Space Report 
+No. 207               1994 Aug 12             Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Launch of STS-68 is still scheduled for Aug 18 with the Space Radar Lab
+payload. Crew are Capt. Michael Baker, USN (Commander), Maj. Terry Wilcutt,
+USMC (Pilot), Dr. Tom Jones, NASA (Payload Commander, MS4), Steve Smith,
+NASA (Mission Specialist 1), Cdr. Dan Bursch, USN (Mission Specialist 2),
+Dr. Jeff Wisoff, NASA (Mission Specialist 3). Smith and Wilcutt are making
+their first flights.
+
+Discovery was rolled over to the VAB for stacking with the External
+Tank and Solid Rocket Boosters on Aug 11. It is due for launch
+on Sep 9 on mission STS-64.
+
+Launches
+--------
+
+Ariane V66 was launched at 2305 on Aug 10. Payloads were a Hughes HS376W
+satellite, Brasilsat B1, and an Aerospatiale Spacebus 2000 satellite,
+Turksat 1B. Brasilsat B1 carries a solid Thiokol Star 30 apogee motor,
+which makes a single burn to geosynchronous altitude. Turksat 1B has an
+MBB S400 liquid apogee engine, and will make several burns to raise its
+altitude from transfer orbit.
+
+Brasilsat B1 is the first of Brazil's second generation communications
+satellites, replacing the Embratel agency's Brasilsat S1 and S2,
+launched in 1985 and 1986 by Ariane. Those satellites were an earlier
+version of the HS376 model. Brasilsat B1 is the first 'widebody' HS376,
+3.6m in diameter compared to 2.2m for all earlier HS376 satellites,  and
+is the 40th HS376 to be launched by my count. It carries 28 C-band
+transponders for the Telebras television organization and, reportedly, a
+single military X-band transponder.
+
+Turksat 1B should become Turkey's first successful comsat. Turksat 1A was lost
+in an Ariane launch failure earlier this year. Turksat will be delivered
+to the Turkish Ministry of Posts and Communications once it reaches
+its final  orbit. It has 16 55W Ku-band transponders.
+
+Kosmos-2286, launched on Aug 5, is a missile early warning satellite in the Oko
+("Eye") series. It carries a large telescope to detect ballistic missile launches.
+The spacecraft and upper stage were placed in low earth orbit at an inclination
+of 62.8 deg to the equator; the upper stage then ignited to place the Oko
+in a high elliptical orbit with a 12 hour orbital period. The Oko's on board
+engine refines the orbit to be exactly semi-synchronous, with alternate passes
+over the same longitude.
+
+Kosmos-2287, Kosmos-2288, Kosmos-2289, launched on Aug 11, are Uragan-class
+GLONASS navigation satellites, the Russian equivalent of the Navstar Global
+Positioning System. They operate in orbits at an altitude of 19000 km.
+
+Note: The intended apogee for APEX was in fact 2500 km (very close to the
+acheived 2551 km), not 2000 km as I stated in JSR206. Congratulations
+to Orbital Sciences on a successful mission.
+
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jul  1 1224     Soyuz TM-19     Soyuz-U2        Baykonur LC1    Spaceship   36A
+Jul  3 0800     FSW-2           Chang Zheng 2   Jiuquan         Remote sens 37A
+Jul  6 2358     Kosmos-2282     Proton/DM2      Baykonur LC81   EarlyWarn   38A
+Jul  8 1643     Columbia      ) Space Shuttle   Kennedy LC39A   Spaceship   39A
+                Spacelab IML-2)
+Jul  8 2305     PAS 2     )     Ariane 44L      Kourou ELA2     Comsat      40A
+                BS-3N     )                                     Comsat      40B
+Jul 14 0513     Nadezhda        Kosmos-3M       Plesetsk LC133  Navsat      41A
+Jul 20 1735     Kosmos-2283     Soyuz-U         Plesetsk LC43   Recon       42A
+Jul 21 1055     APStar 1        Chang Zheng 3   Xichang         Comsat      43A
+Jul 29 0929     Kosmos-2284     Soyuz-U         Baykonur LC31   Recon       44A
+Aug  2 2000     Kosmos-2285     Kosmos-3M       Plesetsk LC132  ?           45A
+Aug  3 1439     P90-6 APEX      Pegasus/NB-52   Point Arguello  Technology  46A
+Aug  3 2357     DBS 2           Atlas IIA       Canaveral LC36A Comsat      47A
+Aug  5 0112     Kosmos-2286     Molniya         Plesetsk LC16   Early Warn  48A
+Aug 10 2305     Brasilsat B1  ) Ariane 44LP     Kourou ELA2     Comsat      49A
+                Turksat 1B    )                                 Comsat      49B
+Aug 11 1533?    Kosmos-2287   ) Proton-K/DM2    Baykonur        Navsat      50A
+                Kosmos-2288   )                                 Navsat      50B
+                Kosmos-2289   )                                 Navsat      50C
+
+Reentries
+---------
+
+Jul  9          Soyuz TM-18     Landed in Kazakhstan
+Jul 18		FSW-2           Landed in China
+Jul 23          Columbia        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     OMDP    -
+OV-103 Discovery       VAB Bay 1     STS-64  Sep 9
+OV-104 Atlantis        OPF Bay 3     STS-66  Oct
+OV-105 Endeavour       LC39A         STS-68  Aug 18
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65/OV-105   LC39A     STS-68
+ML2/RSRM-41/ET-66/OV-103   VAB Bay 1 STS-64 
+ML3/                       VAB Bay 3? STS-66   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

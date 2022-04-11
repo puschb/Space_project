@@ -1,0 +1,144 @@
+Jonathan's Space Report
+No. 456                                          2001 Jul 15, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Orbiter OV-104 Atlantis was launched on Jul 12 from Kennedy Space Center
+on mission STS-104. Launch was at 0903:59 UTC. Main engine cutoff and
+external tank separation was at 0913 UTC.  Atlantis was then in an orbit
+of around 59 x 235 km x 51.6 deg. The OMS-2 burn at 0942 UTC increased
+velocity by 29m/s and raised the orbit to 157 x 235 km x 51.6 deg and
+another burn at around 1240 UTC raised it further to 232 x 305 km.
+Atlantis docked with the Station at 0308 UTC on Jul 14.
+
+The main payload on STS-104 is the Joint Airlock, which has now been
+named Quest. The Quest module was built by Boeing/Huntsville. It
+consists of an Equipment Lock for storage and the actual airlock, called
+the Crew Lock. The Crew Lock is based on the Shuttle airlock and may
+have been built by Rockwell/Palmdale. The Equipment Lock was berthed
+to the Unity module at one of the large-diameter CBM hatches.
+
+Based on on-orbit video, my guesses last issue as to the payload bay
+layout are about right; the IMAX camera appears to be on the starboard
+sidewall in bay 3.
+
+On Jul 15 astronauts Gernhardt and Reilly made the first spacewalk of
+the mission. The airlock was depressurized at 0306 UTC and the hatch
+opened at 0307 UTC. The astronauts removed thermal covers from Quest and
+added handrails to it and to the O2/N2 tanks stored in the Spacelab
+pallets. The Station SSRMS arm grappled Quest at 0449 UTC and unberthed
+it from Atlantis at 0510 UTC, docking it to the Unity module at 0734
+UTC. Quest was firmly bolted to Unity's +X CBM at 0740 UTC. The
+astronauts returned to the airlock at 0853 UTC, closing the hatch
+sometime around 0859 UTC and repressurized it at 0909 UTC, for a
+duration of 6h03m (depress/repress), 5h52m (hatch open/close), or 5h59m
+(NASA rule).
+
+
+Recent Launches
+---------------
+
+NASA's Microwave Anisotropy Probe (MAP) was launched on Jun 30 at
+1946:46 UTC. The Boeing Delta 7425-10 launch vehicle entered a 167 x 204
+km x 28.8 deg parking orbit at 1958 UTC. At 2104 UTC the second stage
+ignited again for a brief 4s burn raising the orbit to around 181 x 308
+km; the third stage spun up and ignited at 2108 UTC, accelerating MAP to
+a highly elliptical orbit of 182 x 292492 km x 28.7 deg. MAP will use
+on-board fuel to tweak the orbit and make a lunar flyby at fourth apogee
+on July 30 and arrive at the L2 point 1.5 million km from Earth
+in about three months. From L2, MAP will observe the dark extragalactic
+sky with differential microwave radiometers using two 1.5-meter
+reflectors working at 22 to 90 GHz, and measure fluctuations in the
+cosmic 3 Kelvin microwave background down to 35 microKelvin on scales of
+down to 0.2 degrees. Ground based  experiments have recently provided
+convincing evidence that the background fluctuations are consistent with
+a model in which the total density of the universe is closely equal to
+the critical density; MAP will refine and extend these observations. The
+spacecraft has a dry mass of 768 kg and carries 72 kg of propellant; it
+was built at NASA-Goddard, and the microwave instrument was built in
+collaboration with Princeton University.
+
+MAP is the second MIDEX mid-sized Explorer - the first was IMAGE,
+which is studying the magnetosphere. The third MIDEX will be SWIFT,
+for gamma ray burst studies, due for launch in two years.
+
+
+Arianespace's Ariane 510 vehicle failed to reach its correct orbit on
+Jul 12. The EAP solid boosters and EPC liquid hydrogen fuelled main
+stage worked as planned and put the EPS upper stage in a marginal orbit,
+probably with perigee just above zero although reported velocities near
+EPC cutoff are lower than for previous missions. The EPS stage then
+fired to increase velocity - but not by enough: instead of reaching an
+858 x 35853 km orbit, only a 592 x 17528 km orbit was reached. The
+Aestus engine failed to reach full thrust and cut off 1 min early.
+
+The two satellites on Ariane 510 were the Artemis and BSAT-2b
+communications satellites. The 3105 kg Artemis carries an Astrium S400
+liquid apogee engine with 1538 kg of bipropellant feeding a 400N main
+thruster as well as a set of 10N  RCS thrusters, and also carries four
+20mN ion thrusters with 40 kg of xenon. The much simpler BSAT 2b
+satellite, using Orbital's Star 1 bus with a launch mass of 1298 kg,
+probably carries a Thiokol Star 30 solid apogee motor and a set of
+stationkeeping thrusters with perhaps about 200 kg of fuel, which gives
+it much less flexibility than Artemis in recovering its intended orbit.
+
+Artemis is a European Space Agency satellite to test out new
+communications technologies. It carries the Silex laser communications
+experiment, an S-band inter-orbit link, a Ka-band data relay package, a
+large L-band antenna for mobile services, and an L-band navigation
+package. BSAT-2b is a television broadcast satellite for the Japanese
+B-SAT company.
+
+The US Air Force launched a Minuteman II ICBM from Vandenberg AFB at
+0240 UTC on Jul 15; it flew a suborbital trajectory with an apogee of
+around 1600 km and reentered near Kwajalein Atoll. The US Army launched
+a two-stage Payload Launch Vehicle (PLV) from Meck Island to intercept
+it at an altitude of 225 km.  The test was part of the NMD (National
+Missile Defense) program, which apparently was  recently and tediously
+renamed the Ground-Based Midcourse Defence Segment. The Boeing 
+Minuteman II has a M55E1 first stage, an SR19 second stage and a M57A1
+third stage. The Lockheed Martin PLV consists of just the SR19 and M57A1
+stages.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  8 1508   Kosmos-2378       Kosmos-3M      Plesetsk LC132   Navsat       23A
+Jun  9 0645   Intelsat 901      Ariane 44L     Kourou ELA2      C/Ku telecom 24A
+Jun 16 0149   Astra 2C          Proton-K/DM3   Baykonur LC81/23 Ku video     25A
+Jun 19 0441   ICO-2             Atlas IIAS     Canaveral SLC36B C/S phone/data 26A
+Jun 30 1946   MAP               Delta 7425     Canaveral SLC17B Astronomy    27A
+Jul 12 0904   Atlantis STS-104) Shuttle        Kennedy LC39B    Spaceship    28A
+              Quest           )                                 Station module
+Jul 12 2158   Artemis   )       Ariane 5G      Kourou ELA3      Expt. comms  29A
+              BSAT-2b   )                                       Ku video     29B
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       LC39A         STS-105 2001 Aug  5  ISS 7A.1
+OV-104 Atlantis        ISS           STS-104 2001 Jul 12  ISS 7A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

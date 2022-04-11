@@ -1,0 +1,174 @@
+Jonathan's Space Report
+No. 396                                          1999 Apr 29 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Human spaceflight
+-------------------
+
+The next Shuttle launch, STS-96, is scheduled for May 20. Discovery and
+the STS-96 stack have been rolled out to pad 39B. No news yet on how
+long the delay to STS-93 will be because of the IUS-21 failure.
+
+Viktor Afanas'ev and Jean-Pierre Haignere remain on board the Mir
+complex. Orbit raising burns are underway with the Progress M-41 cargo
+ship's engine.
+
+Space Command have corrected the designation of Sputnik-99 to 1999-15C.
+
+Recent Launches
+---------------
+
+* UoSAT-12
+
+Surrey's UoSAT-12 satellite is undergoing orbital checkout. I have
+confirmed that the SNAP-1 nanosatellite was not aboard the UoSAT-12
+launch. The two objects in circular orbit are UoSAT-12 and part of the
+Dnepr payload shroud; the object initially cataloged as 1999-22B/SNAP-1
+(now 1999-21B) is actually UoSAT-12. The object in eccentric orbit,
+1999-21C, is the Dnepr third stage. Although the R-36M2 is considered a
+two-stage vehicle, it in fact has a third stage maneuvring bus for
+dispensing multiple warheads (similar to the post-boost vehicle on
+Minuteman 3),  and it is this bus which performed orbit insertion. The
+two main R-36M2 stages were suborbital. The Dnepr was launched at
+0459:03 UTC and the third stage  separated from the payload at 0513 UTC
+on Apr 21.
+
+* Ikonos-1
+
+The Athena rocket has suffered its second launch failure. Ikonos-1 was
+launched at 1822 UTC on Apr 27 on a Lockheed Martin  Athena-2, serial
+LM-005, from Vandenberg AFB. The Athena-2 uses the old MOL/Shuttle pad
+at SLC-6, and is launched from one of the SRB mount points.  Athena-2
+has four stages: two Thiokol Castor 120s, one UTC Orbus 21, and one
+Lockheed Martin/Primex OAM (Orbit Adjust Module). The OAM performs
+transfer orbit insertion and an apogee burn. The flight was apparently
+successful through Orbus 21 burn and the beginning of the first OAM
+burn,  but tracking stations downrange did not pick up the spacecraft.
+It was later determined from telemetry that the rocket nose fairing
+failed to separate 4 minutes after launch, and the extra mass caused the
+vehicle to reenter on the first partial orbit. The planned orbit after
+the  first OAM burn was 220 x 689 km x 98.1 deg; the second OAM burn
+would have placed Ikonos in a 680 x 690 km x 98.1 deg circular orbit.
+Instead, the vehicle reentered over the South Pacific well before the
+planned second burn.
+
+Athena launches to date: (LLV-1 and LMLV-1 were earlier names for Athena-1)
+Date        Serial   Type     Site     Payload
+1995 Aug 15 DLV      LLV-1    V SLC6   Gemstar   (failed)
+1997 Aug 23 LM-001   LMLV-1   V SLC6   Lewis
+1998 Jan  7 LM-004   Athena-2 CC SLC46 Lunar Prospector
+1999 Jan 27 LM-006   Athena-1 CC SLC46 Rocsat
+1999 Apr 27 LM-005   Athena-2 V SLC6   Ikonos 1  (failed)
+
+Space Imaging's Ikonos 1 used an LM-900 bus built by Lockheed
+Martin/Sunnyvale. It carried a 1-m resolution panchromatic camera, the
+first commercial imaging satellite with this high a resolution. A 4-m
+resolution color imager was also aboard.
+
+* ABRIXAS
+
+A Kosmos-3M (11K65M) rocket was launched successfully on Apr 28, the
+first orbital launch since 1988 from GTsP-4 (State Test Range 4) at
+Kapustin Yar. The Kosmos-3M is built by Polyot of Omsk and marketed by
+OHB-System (Bremen)'s Cosmos International. 
+
+The Kosmos-3M (11K65M) launch vehicle consists of a first stage derived
+from Yangel's R-14 (8K65) intermediate range missile, designated SS-5 by
+NATO. The upper stage, developed in the early 1960s, has a restartable
+engine. First launch of the 65S3 satellite launch vehicle was in August
+1964; the modified 11K65M version flew in 1967, and Polyot took over
+production in 1970. Kosmos-3M usually flies from Plesetsk (GIK-1), with 
+occasional launches from GTsP-4 since 1973. I understand there used to
+be two launch pads at area LC107, LC107/1 and LC107/2 - I don't know
+which was used for this launch.
+
+GTsP-4 was first used for satellite launches in October 1961, with the
+first attempted launch of a small Kosmos satellite on the 63S1 (later
+11K63) rocket derived from the smaller R-12 (SS-4) missile from the
+Mayak-2 silo. In late 1964 launches switched to the LC86 complex's pads
+1 and 4. 11K63 orbital launches from LC86 stopped in 1973 shortly after
+11K65M launches from LC107 began.
+
+Payload of the Kosmos-3M on this launch was the DLR (German space
+agency) ABRIXAS satellite, built by OHB-System. Mass of ABRIXAS is 470
+kg.  MPE/Garching and the Astrophysical Institute in Potsdam developed
+the scientific payload, a set of seven hard X-ray imaging telescopes
+with an X-ray CCD detector which will carry out an all-sky survey in the
+1-10 keV band with 30 arcsecond resolution. The last all-sky survey in
+this band was carried out in the 1970s by HEAO-1, which had no optics
+and therefore very poor spatial resolution. The new mission will
+complement MPE's existing all sky survey with the ROSAT satellite,
+carried out in the 0.1-2 keV soft band.  It'll be interesting to see
+what kinds of objects turn up at the harder energies; it's possible that
+there are whole classes of sources which are obscured at ROSAT energies
+(the galaxy is much more transparent in the ABRIXAS band).
+Congratulations to Gunter Hasinger and his team and best wishes for a
+very successful survey.
+
+ABRIXAS separated from the Kosmos-3M second stage one hour after launch
+into a 544 x 603 km x 48.4 deg orbit. The 48.4 deg inclination was
+familiar to Soviet space watchers in the early 1960s, used by Kosmos
+satellites on 63S1 rockets from Kapustin Yar,  but this is the first
+time it's been used since 1973. A secondary payload on the same launch
+was Megsat-0, a small technology development satellite  built and owned
+by MegSat, the space division of the Gruppo Meggiorin  companies based
+in Brescia (Italy). The 0.4-meter box has a mass of 35 kg. It carries an
+experimental high bit rate data transmission payload.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  5 0256   WIRE              Pegasus XL     Vandenberg       Astronomy  11A
+Mar 15 0306   Globalstar M022 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     12A
+              Globalstar M041 )                                 Comsat     12B
+              Globalstar M046 )                                 Comsat     12C
+              Globalstar M037 )                                 Comsat     12D
+Mar 21 0009   Asiasat 3S        Proton-K/DM3   Baykonur LC81L   Comsat     13A
+Mar 28 0130   DemoSat           Zenit-3SL      Odyssey, POR     Test       14A
+Apr  2 1128   Progress M-41     Soyuz-U        Baykonur LC1     Cargo      15A
+Apr  2 2203   Insat 2E          Ariane 42P     Kourou ELA2      Comsat     16A
+Apr  9 1701   DSP F19           Titan 4/IUS    Canaveral LC41   Early Warn 17A
+Apr 12 2250   Eutelsat W3       Atlas 2AS      Canaveral LC36A  Comsat     18A
+Apr 15 0046   Globalstar M019 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     19A
+              Globalstar M042 )                                            19B
+              Globalstar M044 )                                            19C
+              Globalstar M045 )                                            19D
+Apr 15 1832   Landsat 7         Delta 7920-10  Vandenberg SLC2W Imaging    20A
+Apr 16 1030?  Sputnik-99        -              Mir, LEO         Comsat     15C
+Apr 21 0459   UoSAT-12          Dnepr          Baykonur LC108   Test       21B
+Apr 27 1822   Ikonos 1          Athena 2       Vandenberg SLC6  Imaging    F01
+Apr 28 2030   ABRIXAS  )        Kosmos-3M      Kap. Yar LC107?  Astronomy  22A
+              Megsat-0 )                                        Technol.   22B
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 1     STS-93  Unknown
+OV-103 Discovery       LC39B         STS-96  May 20
+OV-104 Atlantis        OPF Bay 3     STS-101 Oct 14?
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/RSRM-70/ET-100/OV-103     LC39B     STS-96
+MLP3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+

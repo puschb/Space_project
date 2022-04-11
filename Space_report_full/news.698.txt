@@ -1,0 +1,167 @@
+Jonathan's Space Report 
+No. 698                                                  2014 Jun 17   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 40 is continuing with ISS in a 411 x 417 km x 51.7 deg orbit.
+On May 28 Soyuz TMA-13M was launched with Maksim Suraev, Reid Wiseman
+and Alexander Gerst; the spaceship docked with the Rassvet module at
+0144 UTC May 29 and their crew joined commander Steve Swanson and FEs
+Arteme'v and Skvortsov already aboard.
+
+The hatch to Dragon CRS-3 was closed on May 17. Dragon was unberthed by the SSRMS Canadarm-2
+at about 1200 UTC May 18 and released at 1326 UTC. The deorbit burn at 1812 to 1822 UTC
+was followed by trunk separation at about 1824 UTC, atmosphere entry at 1845 UTC
+and splashdown west of Baja California at 1905 UTC. 
+
+Dragon's return cargo includes EMU 3015, launched on the last Shuttle
+mission in 2011 - it was only used for one spacewalk on its current
+flight - by Aki Hoshide on US EVA 18- and had a cooling malfunction.
+However, EMU 3015 has been used for 30 spacewalks during its 16 flights
+in space since 1996. Its core component, PLSS 1015, made 8 earlier
+flights as part of other EMUs). It has been reported by Aviation Week
+that some water leaked into the Dragon cabin after splashdown, but NASA says
+the cargo was not damaged.
+
+Progress M-21M undocked from Zvezda on Jun 9 at 1330 UTC and was deorbited the
+same day, with debris falling in the S Pacific around 1723 UTC. Progress M-23M
+remains docked to Pirs and Soyuz TMA-12M remains docked to Poisk.
+
+Cassini
+--------
+
+Cassini flew past Titan at 1613 UTC on May 17 at a height of 2994 km.
+The flyby was designated T-101. The T-102 flyby will be at 1329 UTC Jun
+18, at a height of 3659 km above Titan, following which Cassini will be
+in an 837000 x 2919000 km x 46.5 deg orbit around Saturn on course for
+the T-103 flyby on Jul 20.
+
+NROL-33
+-------
+
+Atlas flight AV-046 left the USA 252 payload in an 840 x 35745 km x 20.7 deg geostationary
+transfer orbit, according to hobbyist observers (satobs.org). It is expected to
+enter geostationary orbit and is thought to be a QUASAR communications and data relay
+satellite for the National Reconnaissance Office - either QUASAR 18 or 19, I'm not sure
+because of the difficulty of distinguising early QUASAR and JUMPSEAT satellites in the 1970s.
+
+Rodnik
+------
+
+On May 23 Russia launched three Strela-3M/Rodnik-S LEO messaging relay
+satellites into 1480 x 1510 km x 82.4 deg orbits; they were given the
+Kosmos codenames Kosmos-2496, 2497 and 2498. The Briz-M stage  ended up
+in an 1151 x 1503 km orbit after its depletion burn. An additional
+object, 39765/2014-028E, is suspected to be an additional small military
+payload, which may be eventually given the cover name Kosmos-2499. It is probably
+built by the Reshetnev company and may have a mass of around 45 kg.
+
+ALOS-2
+------
+
+Japan has launched the Advanced Land Observing Satellite 2, nicknamed Daichi-2,
+into a 629 x 635 km x 97.9 deg, noon/midnight sun-synchronous orbit. The 2120 kg Daichi-2
+carries the PALSAR-2 radar imager.
+
+The second stage of the H-II rocket also deployed four small Japanese
+satellites: SOCRATES for the Japanese comms research lab NICT, with a
+laser communications experiment; UNIFORM-1 for Wakayama University,
+carrying a 10-12 micron IR microbolometer array for wildfire monitoring;
+RISING-2 (or Raijin-2?), a Tohoku University mission for studies of
+lightning with visible and mid-IR imagers and a VLF receiver; and
+SPROUT, a 7 kg Nihon University experiment to deploy a 1.5m inflatable
+triangular membrane. SOCRATES, UNIFORM and RISING-2 have masses of
+around 50 kg.
+
+Eutelsat 3B
+------------
+
+The Sea Launch project returned to flight with launch of Eutelsat 3B on May 26.
+Zenit-2S No. SL37 and upper stage Blok DM-SL No. 36L made up the Zenit-3SL
+launch vehicle which took off from the Sea Launch Odyssey platform in the Pacific
+at 154W 0N. 
+
+Eutelsat 3B is an Airbus/Toulouse Eurostar 3000 satellite with C, Ku and
+Ka band comms payloads for the Paris-based company Eutelsat S.A.
+(Eutelsat was originally the European Telecom Satellite Organization, privatized in 2001;
+the Toulouse factory was formerly MATRA Espace (1968-89), Matra Marconi Space (1989-2000)
+and Astrium-F (2000-2013)). On Jun 16 the satellite had reached a checkout location
+at 1.7E, in a 35784 x 35788 km x 0.1 deg orbit.
+
+Glonass
+-------
+
+Glonass-M satellite No. 55 was launched on Jun 14 into a 19125 x 19153 km x 64.8 km
+orbit to supplement the Russian navigation satellite constellation.
+The spacecraft is expected to be given the Kosmos-2500 designation.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+May  6 1349   Kosmos-2495        Soyuz-2-1A       Plesetsk LC43/4   Imaging      25A
+May 15 2142   Ekpress AM-4R      Proton-M/Briz-M  Baykonur LC200/39 Comms        F01
+May 17 0003   GPS SVN 67         Delta 4M+(4,2)   Canaveral SLC37B  Nav          26A
+May 22 1309   USA 252            Atlas V 401      Canaveral SLC41   Comms?       27A
+May 23 0528   Kosmos-2496  )     Rokot            Plesetsk LC133/3  Comms        28A
+              Kosmos-2497  )                                        Comms        28B
+              Kosmos-2498  )                                        Comms        28C
+              Kosmos-2499? )                                        Tech?        28E
+May 24 0305   Daichi-2  )        H-IIA 202        Tanegashima Y1    Radar        29A
+              Raijin-2  )                                           Science      29D
+              UNIFORM-1 )                                           IR imaging   29B
+              SOCRATES  )                                           Laser Com    29C
+              SPROUT    )                                           Tech         29E
+May 26 2110   EUTELSAT 3B        Zenit-3SL        SL Odyssey, Pacific Comms      30A
+May 28 1957   Soyuz TMA-13M      Soyuz-FG         Baykonur LC1/5    Spaceship    31A
+Jun 14 1716   Glonass M55        Soyuz-2-1B       Plesetsk LC43/4   Navigation   32A
+               (= Kosmos-2500?)
+	       
+
+Suborbital missions
+-------------------
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+DLR and ESA launched two small REXUS rockets  in May to study the upper atmosphere
+and demonstrate technology experiments. On May 24 NASA launched a University of Colorado
+experiment, CHESS/36.285UG, to measure the interstellar medium's UV absorption along
+the line of sight to Delta Sco.
+
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+May  3 0800   NASA 36.235US    Black Brant IX      White Sands      UV Astron     278 
+May  8        Topol' RV        Topol'              Plesetsk         Exercise     1000?
+May  8        Shtil' RV        Shtil'            K-114, Barents     Exercise     1000?
+May  8        Volna RV         Volna             K-223, Okhotsk     Exercise     1000?
+May 20 1708   Topol'-E RV      Topol'              Kapustin Yar     Test         1000?
+May 21 0535   Aegis KV         SM-3-IB             Kauai AAMDTC     Test          150?
+May 24 0735   NASA 36.285UG    Black Brant IX      White Sands      UV Astron     300?
+May 28 1130   REXUS-16         Orion               Kiruna          Atmos/Tech      87
+May 29 1000   REXUS-15         Orion               Kiruna          Atmos/Tech      80
+Jun  2        USN Mk 4 RV? )   Trident II D-5   SSBN 736, Atlantic  Test         1000?       
+              USN Mk 4 RV? )
+              USN Mk 4 RV? )
+              USN Mk 4 RV? )
+Jun  2        USN Mk 4 RV? )   Trident II D-5   SSBN 736, Atlantic  Test         1000?       
+              USN Mk 4 RV? )
+              USN Mk 4 RV? )
+              USN Mk 4 RV? )
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

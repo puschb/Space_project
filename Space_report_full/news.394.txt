@@ -1,0 +1,78 @@
+Jonathan's Space Report
+No. 394                                        1999 Apr 8   Cambridge, MA
+-------------------------------------------------------------------------------
+
+Human spaceflight
+-------------------
+
+Progress M-41 was launched on Apr 2. The automatic cargo ship, based on
+the Soyuz spaceship, docked with the Mir complex two days later. A
+Soyuz-U (11A511U) launch vehicle placed it in a 51.6 degree parking
+orbit, and the onboard engines were used to carry out the rendezvous
+sequence.
+
+The Spacehab/Oceaneering SHOSS box on STS-96 mentioned in the last
+report is a refrigerator/freezer unit for the Space Station. STS-96 is
+once again scheduled for May 20. STS-96's external tank, ET-100, has
+been connected to the solid rocket boosters. The STS-101 flight to the
+station has now apparently been delayed to Dec 2.
+
+Tests of the solar panel deployment mechanism on the Chandra
+X-ray Observatory went well, and fuelling of the spacecraft's
+propulsion system is imminent.
+
+Recent Launches
+---------------
+
+Arianespace launched mission V117 on Apr 2, an Ariane 42P
+vehicle carrying an Indian communications satellite.
+ISRO's Insat 2E was placed in geostationary transfer orbit.
+The Insat 2 series are built in India and carry a C and S band
+communications package.
+
+The Sea Launch Blok DM-SL made a small separation burn
+after deploying DemoSat. The DM-SL doesn't make a large
+lifetime reduction burn as I suggested last week.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  5 0256   WIRE              Pegasus XL     Vandenberg       Astronomy  11A
+Mar 15 0306   Globalstar M022 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     12A
+              Globalstar M041 )                                 Comsat     12B
+              Globalstar M046 )                                 Comsat     12C
+              Globalstar M037 )                                 Comsat     12D
+Mar 21 0009   Asiasat 3S        Proton-K/DM3   Baykonur LC81L   Comsat     13A
+Mar 28 0130   DemoSat           Zenit-3SL      Odyssey, POR     Test       14A
+Apr  2 1128   Progress M-41     Soyuz-U        Baykonur LC1     Cargo      15A
+Apr  2 2203   Insat 2E          Ariane 42P     Kourou ELA2      Comsat     16A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        VAB Bay 2     STS-93  Jul  9
+OV-103 Discovery       OPF Bay 1     STS-96  May 20
+OV-104 Atlantis        OPF Bay 3     STS-101 Dec  2
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 16
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/RSRM-70/ET-100            VAB Bay 3 STS-96
+MLP3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

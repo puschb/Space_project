@@ -1,0 +1,186 @@
+Jonathan's Space Report 
+No. 718                                                  2015 Nov 12  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 45 continues under the command of Scott Kelly, with flight
+engineers Mikhail Kornienko, Oleg Kononenko, Sergey Volkov, Kimiya Yui,
+and Kjell Lindgren.
+
+Following US EVA-32 describedin JSR 717, Kelly and Lindgren performed
+spacewalk US EVA-33 on Nov 6. The airlock was depressurized around 1120
+UTC and repressurized at 1910 UTC. The astronauts successfully
+reconfigured part of the station's cooling system on the P6 truss
+segment. The work went a bit slower than planned, though, and a backup
+radiator panel (the P6 TTCR) had to be redeployed because there wasn't
+enough time to fasten it down; this leaves it a bit more vulnerable to
+space debris than NASA would have liked. 
+
+
+WF1190F
+-------
+
+Work by Bill Gray of Project Pluto identified the mystery object WT1190F
+with other unidentifed observations dating back to 2009. Kudos to Bill -
+this is tricky work since every time the object flies near the Moon the
+uncertainties on its subsequent position increase (small errors are
+magnified). But we still don't know what it is. Bill's FAQ page at
+http://www.projectpluto.com/temp/wt1190f.htm discusses the object. His
+argument that probably such objects must be fairly recently launched
+since they are probably perturbed out of the Earth-Moon system on a
+few-year timescale makes sense - but there aren't any really good
+candidates for known metre-sized objects lost in translunar orbits in
+the years immediately preceding 2009. It seems unlikely that any of the
+Lagrange-bound pieces of the Herschel/Planck launch ended up remaining
+in orbit, and all of the pieces of the LRO/LCROSS mission seem to be
+accounted for. The third stage of the Stereo mission was predicted to
+reenter on its first orbit, and I don't think the two despin weights
+from the mission would have the right mass-to-area ratio. So I'm still
+open to the idea that it's an older (Apollo era?) object that either
+miraculously remained bound, or was recaptured like the Apollo 12 third
+stage was a few years ago. For objects that were gently pertubed out into
+heliocentric orbit, such recapture might not be that unlikely.
+
+Current prediction is that the object will reenter at 11 km/s over
+Sri Lanka at around 0620 UTC Nov 13.
+
+
+Dawn
+----
+
+On Nov 1, Dawn was in a 1100 x 1140 km x 90.9 deg orbit around Ceres, in the process
+of lowering its orbit from the 1440 x 1460 km x 91.3 deg HAMO orbit it was in until Oct 23.
+Thanks to Marc Rayman, the Dawn team and the JPL Horizons team for updating the orbital data.
+
+
+Zhongxing 2C
+------------
+
+The Zhongxing-2C communications satellite was launched from Xichang on Nov 3.
+It is thought to be a new military strategic communications payload in the
+Shentong-2 series.
+
+Yaogan 28
+---------
+
+Yaogan 28 was launched from Taiyuan on Nov 8. It is thought to be
+the second Jianbing-11 imaging reconnaissance satellite with an 0.8m
+resolution imager, and appears to be replacing the first Jianbing-11,
+codenamed Yaogan 14.
+
+Ariane 5
+--------
+
+Ariane 5 vehicle 581 placed  Indian and Arab communications satellites in
+geotransfer orbit. GSAT-15 has a Ku-band payload for Indian domestic
+television broadcasting as well as a GAGAN navigation payload.
+Badr-7 (Arabsat-6B) has Ku and Ka-band communications payloads; it is an Airbus
+Eurostar 3000 satellite with a launch mass of 5800 kg.
+
+
+Super Strypi
+------------
+
+The USAF/Sandia Super Strypi launch vehicle took off from the Kauai Test
+Facility's Kokole Point pad at 0345 UTC on Nov 4, but went out of
+control during first stage burn and was destroyed. The University of
+Hawaii's Hiakasat and 12 cubesats were aboard. The vehicle had three
+solid stages (LEO-46, LEO-7 and LEO-1) developed by Aerojet.
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Oct 16 1616   Apstar 9             Chang Zheng 3B    Xichang          Comms          59A   S40982    190 x 41767  x 27.2 
+Oct 16 2040   Turksat 4B           Proton-M/Briz-M   Baykonur         Comms          60A   S40984  35717 x 35759  x  0.0
+Oct 26 0710   Tianhui 1-03         Chang Zheng 2D    Jiuquan          Imaging        61A   S40988    490 x   500  x 97.4 1330LT SSO
+Oct 31 1613   GPS SVN 73           Atlas V 401       Canaveral SLC41  Navigation     62A   S41019  20426 x 20485 x  55.0
+Nov  3 1625   Zhongxing 2C         Chang Zheng 3B    Xichang          Comms          63A   S41021    195 x 35832 x  27.1
+Nov  4 0345   Hiakasat     )                                          Imaging        F03   F01468  -6378 x    30?x  94.7
+              Argus        )                                          Tech           F03   F01469  -6378 x    30?x  94.7
+              PrintSat     )       Super Strypi      Kauai            Tech           F03   F01470  -6378 x    30?x  94.7
+              Techsat-1    )                                          Tech           F03   F01471  -6378 x    30?x  94.7
+              STACEM       )                                          Imaging        F03   F01472  -6378 x    30?x  94.7
+              EDSN 1       )                                          Tech           F03   F01473  -6378 x    30?x  94.7
+              EDSN 2       )                                          Tech           F03   F01474  -6378 x    30?x  94.7
+              EDSN 3       )                                          Tech           F03   F01475  -6378 x    30?x  94.7
+              EDSN 4       )                                          Tech           F03   F01476  -6378 x    30?x  94.7
+              EDSN 5       )                                          Tech           F03   F01477  -6378 x    30?x  94.7
+              EDSN 6       )                                          Tech           F03   F01478  -6378 x    30?x  94.7
+              EDSN 7       )                                          Tech           F03   F01479  -6378 x    30?x  94.7
+              EDSN 8       )                                          Tech           F03   F01480  -6378 x    30?x  94.7
+Nov  8 0706   Yaogan 28           Chang Zheng 4B     Taiyuan          Imaging        64A   S41026    459 x   482 x  97.2 1414LT SSO
+Nov 10 2134   Badr 7      )       Ariane 5ECA        Kourou ELA3      Comms          65A   S41028    264 x 35717 x   4.0
+              GSAT-15     )                                           Comms          65B   S41029    259 x 35751 x   4.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The US Navy launched Trident II D-5 submarine-launched ballistic
+missiles from the submarine USS Kentucky on Nov 8 and 9. The missiles
+were launched from near San Clemente Island off the coast of California
+and flew to Kwajalein Atoll in the central Pacific. The first missile
+was launched just after local sunset and its expanding exhaust gases
+were illuminated by the sun, causing widespread UFO reports across the
+southwestern United States. The 2-dimensional projection on the sky of
+the missile's westward motion, as seen from the mostly southwest-facing
+southern California coast, fooled many observers into thinking the
+missile was flying north along the coast. California observers were also
+able to see the deployments of the MIRV reentry vehicles as the vehicle's
+final stage approached the horizon.
+
+On Oct 20 a US Navy missile defense test was carried out in the Hebrides
+Range in Scotland. The target Terrier Orion rocket launched from the
+island of South Uist was the first exoatmospheric rocket launch from UK
+territory since 1982.
+
+On Nov 9 India tested an Agni IV missile from its long range military
+missile test site near Chandipur. The IC4 complex is on Inner Wheeler
+Island, which has recently been renamed Abdul Kalam Island after Indian
+missile/space developer and former President Abdul Kalam (1931-2015).
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Oct 19 1409   O-STATES 2       S31/Orion           Kiruna, Sweden        Atmosphere    244       ESRANGE Area B, Sweden
+Oct 20        Aegis Target     Terrier Orion       South Uist, Hebrides  Target        100?      N Atlantic 
+Oct 20        Aegis KV         SM-3          DDG-71, Hebrides Range      Interceptor   100?      (N Atlantic)
+Oct 21 1245   GT216GM RV       Minuteman 3         Vandenberg LF04       Training     1300?      Kwajalein, Marshall Is.
+Oct 28 1130   4 RVs            Yars                Plesetsk              Test         1000?      Kura, Kamchatka
+Oct 30        Topol RV         Topol               Plesetsk              Test         1000?      Kura, Kamchatka
+Oct 30        R-29RM RV x 4?   Sineva        K-117 Bryansk, Barents Sea  Test         1000?      Kura, Kamchatka
+Oct 30        R-29 RV x 4?     Volna         K-223 Podolsk,Sea of Okhotsk Test        1000?      Chizha?, Kanin Penisula
+Oct 31 2300?  Target           B-611?              Jiuquan, China        Target        100?      Korla
+Oct 31 2300?  Interceptor      DF-21?              Korla/Urumqi, China   Interceptor   100       
+Nov  1 0305   SRALT RV         SRALT         C-17, Pacific SE Wake I     Target        300?      Wake Island
+Nov  1 0307?  THAAD KV         THAAD               Wake Island           Interceptor   100?      (Pacific)
+Nov  1 0310?  eMBRM RV         eMRBM         C-17, Pacific SE Wake I     Target        300?      Wake Island
+Nov  1 0312?  THAAD KV         THAAD               Wake Island           Interceptor   100?      (Pacific)
+Nov  8 0200   USN Mk 5 RV (x14?) Trident II  SSBN 737, Pt Mugu           Test         1000?      Kwajalein?
+Nov  9 2000?  USN Mk 5 RV (x14?) Trident II  SSBN 737, Pt Mugu           Test         1000?      Kwajalein?
+Nov  9 0415   Agni RV          Agni IV             Abdul Kalam Island    Test          600       Indian Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+
+</PRE>
+<HR>
+<A HREF="http://planet4589.org/space/space.html">Jonathan's Space Home Page</A>
+<P>
+<A HREF="http://planet4589.org/jcm/jmcdowell.html">Jonathan's Home Page</A>
+</BODY>
+
+

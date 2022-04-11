@@ -1,0 +1,113 @@
+Jonathan's Space Report
+No. 517                                            2004 Jan 2, Cambridge, MA
+-------------------------------------------------------------------------------
+
+The European Space Agency's Mars Express probe entered orbit around Mars
+on Dec 25 at 0321 UTC, completing a 34 minute engine burn begun at 0247
+UTC. (Note: I am fairly confident that these times are actual event
+times as opposed to times the signals reached Earth, but would
+appreciate confirmation. Light time at insertion was 8min 44s.) The
+planned final orbit around Mars is 250 x 10243 km x 89 deg, and earlier
+data suggested the initial orbit would be 3585 x 130000 km x 13 deg, but
+I haven't seen any full orbital elements quoted yet for the actual
+orbit, although it appears the apogee was in fact around 188000 km. An
+apogee burn on Dec 30 changed the inclination to polar.
+
+The UK's Beagle-2 lander reached the surface of Mars on Dec 25 at 0252
+UTC, but no signals have yet been received from it. It is hoped that
+Mars Express may pick up signals from it on Jan 4.  The
+heatshield-encapsulated Beagle-2 entered the Martian atmosphere (at a
+fiducial height of 120 km) at 0247 UTC,  at a speed of 5.5 km/s (does
+anyone know the flight-path entry angle?). Over the next two minutes it
+decelerated to a few hundred meters per second. If the descent went as
+planned, at 0250 UTC the heat shield was ejected together with the
+deployment of the pilot parachute, 7.1 km above the surface, and a
+minute later the main parachute was deployed. At 0251:43 the airbags
+were inflated at a height of 0.3 km and Beagle bounced onto the surface
+at 0252:00 UTC, at which point the parachute and backshell are
+jettisoned. The lander comes to rest and separates from the airbags by
+0254 UTC. If for some reason the parachute system failed to operate, 
+Beagle-2 would have impacted the surface as early as 0251 UTC. However,
+at this writing the British team at the control centers in Leicester and
+Milton Keynes are still very much hunting for the Beagle, and I remain
+mildly optimistic. Even if Beagle-2 is lost, it is still the first
+non-US, non-Soviet artifact to reach the surface of Mars (note: Japan's
+Hiten impacted the Moon in April 1993).
+
+The NASA/JPL Stardust space probe flew 230 km from the nucleus of comet
+81P/Wild-2 at 1922 UTC on 2004 Jan 2. Stardust collected cometary
+material using aerogel dust collectors, and will return the material to
+the Earth in 2006. The flyby was at a relative velocity of 6.1 km/s;
+light time to Earth was 21m 40s.
+
+Israel's Amos-2 communications satellite was launched on Dec 27 by
+a Russian Soyuz-Fregat rocket.  The Soyuz third stage was mildly
+suborbital, and the Fregat made a brief insertion burn, followed
+by two further burns to geostationary transfer orbit. 
+
+A Krunichev Proton-K (No. 410-04) was launched from Baykonur on Dec 28 with
+an Energiya Blok DM-2M (No. 13L) and the Ekspress AM-22 communications
+satellite, built by NPO PM and Alcatel Space for GPKS, the Russian
+Space Communications Co. The Proton third stage entered low orbit, and
+the Blok DM-2M made two burns to geosynchronous orbit.
+
+China has launched Tan Ce 1 (Probe 1), also known in Europe as Double Star
+DSP-E, the equatorial member of a pair of Chinese-European
+magnetospheric research satellites carrying instrumentation from the
+Cluster program. The Chang Zheng 2C rocket carried an SM (or CTS) upper
+stage, derived from the Smart Dispenser used to deploy Iridium
+satellites and believed to be using an FG-47 solid motor. TC-1 reached a
+555 x 78051 km x 28.5 deg orbit according to Xinhua, which says the
+probe has a mass of 350 kg (well, actually Xinhua's English site says a
+weight of 350 kilometers, but we know what they meant). 
+
+This was the first CZ-2C launch from Xichang (it has flown from both
+Jiuquan and Taiyuan in the past). The flight profile doesn't seem to
+match the known properties of the FG-47, which is believed to carry only
+160 kg of propellant. I expected the launch profile would have left
+stage 2 in a 180 to 200 x 555 km parking orbit, with the SM burn at
+apogee. In fact, spaceflightnow.com is reporting the third stage burn
+was complete by 12 min after launch, implying a direct ascent with a
+suborbital stage 2; a third stage burn at 21 min after launch seems
+more likely, since that would put apogee on the equator. No orbital
+data have yet been released for TC-1 from either the European mission
+center or USAF Space Command.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Nov  3 0720   JB-4?             CZ-2D           Jiuquan           Micrograv  51C
+Nov 14 1601   Zhongxing-20      CZ-3A           Xichang           Comms      52A
+Nov 24 0622   Yamal-200 KA-1 )  Proton-K/DM-2M  Baykonur PL81/23  Comms      53A
+              Yamal-200 KA-2 )                                    Comms      53B
+Nov 29 0433   IGS-2a )          H-IIA 2024      Tanegashima       Imaging    F02
+              IGS-2b )                                            Radar      F02
+Dec  2 1004   USA 173        )  Atlas IIAS      Vandenberg SLC3E  Sigint     54A
+              USA 173 P/L 2? )                                    Sigint     54C
+Dec  5 0600   Gruzomaket        Strela          Baykonur PL132    Test       55A
+Dec 10 1742   Kosmos-2402 )     Proton-K/Briz   Baykonur PL81/24  Navigation 56A
+              Kosmos-2403 )                                       Navigation 56B
+              Kosmos-2404 )                                       Navigation 56C
+Dec 18 0230   UHF F/O F11       Atlas IIIB      Canaveral SLC36B  Comms      57A
+Dec 21 0805   GPS SVN 47        Delta 7925      Canaveral SLC17A  Navigation 58A
+Dec 27 2130   Amos-2            Soyuz-FG/Fregat Baykonur PL31/6   Comms      59A
+Dec 28 2300   Ekspress AM-22    Proton-K/DM-2M  Baykonur PL200/39 Comms      60A
+Dec 29 1906   Tan Ce 1          CZ-2C           Xichang           Science    61A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |                                    |
+|   c/o                              |                                    |
+|  Center for Astrophysics,          |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

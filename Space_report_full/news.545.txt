@@ -1,0 +1,137 @@
+Jonathan's Space Report
+No. 545                                        2005 Mar 11, Somerville, MA
+-------------------------------------------------------------------------------
+
+Progress M-52
+-------------
+
+The Russian Federal Space Agency has sent another robot cargo ship to
+the Space Station. Progress vehicle 352  was launched at 1909 UTC on Feb
+28 by a Soyuz-U rocket and entered orbit 9 minutes later becoming
+Progress M-52. It is on ISS mission 17P to deliver  supplies to the
+International Space Station and docked with the Zvezda module at 2010
+UTC on Mar 2.
+
+Progress M-51 (vehicle 351) undocked from the Zvezda module at 1606 UTC
+on Feb 27. It lowered its orbital perigee at around 1830 UTC and remained
+in orbit for several days, with an engine firing dumping it in the
+Pacific on Mar 9.
+
+Expedition 10 crew Leroy Chiao and Salizan Sharipov remain aboard the
+station with their Soyuz TMA-5 ferry ship docked to the Zarya port.
+They are expected to be relieved in April by Expedition 11.
+
+Inmarsat 4 F-1
+--------------
+
+International Launch Services rocketed a Lockheed Martin Atlas V 431
+into  supersynchronous transfer orbit on March 11. The payload, Inmarsat
+4 F-1, was placed in an orbit close to the planned 440 x 90500 km x 21
+deg orbit; inclination will be reduced to near zero at apogee, and then
+the orbit will be lowered and circularized to the 35780 km geostationary
+altitude.
+
+The Astrium Eurostar 3000 class satellite payload has a mass of 5940 kg
+at launch, and spans 45 meters when its solar panels are deployed. It
+will provide L-band mobile communications and wideband data transmission for
+Inmarsat's global network.
+
+Flight AV-004's Atlas V 431 model has three solid boosters, an Atlas V
+CCB core booster, a single engine Centaur upper stage, and an extended
+4-meter diameter payload fairing. This is the fifth Atlas V launch
+following two Atlas V 401s and two Atlas V 521s, all of which have
+launched commercial communications satellites. Three flights used the
+supersynchronous orbit technique and two used the high-perigee transfer
+orbit technique - both approaches save payload propellant compared to
+the traditional geostationary transfer orbit. Below I show the
+orbits reached by the Atlas V flights (thanks to Fran Slimmer for
+the AV-004 parking orbit.) Unlike earlier Atlas vehicles which usually
+used low circular parking orbits, the new vehicle has more energy at
+first Centaur main engine cutoff (MECO-1), giving it a head start
+on the way to higher orbit.
+
+   Date         Flight  Parking orbit        Transfer orbit reached
+                          km x    km x deg   km x    km x deg
+   2002 Aug 21  AV-001   199 x  1482 x 27.4   304 x 45349 x 17.5   
+   2003 May 14  AV-002     ? x     ? x 27.0?  403 x 84651 x 17.0
+   2003 Jul 17  AV-003   167 x  4166 x 27.1  3815 x 35761 x 17.5
+   2004 Dec 17  AV-005   166 x  5239 x 27.2  4820 x 35717 x 18.0
+   2005 Mar 11  AV-004   185 x  2099 x 27.4   440 x 90500 x 20.8
+
+
+MTSAT-1R
+--------
+
+Japan's H2A rocket returned to flight on Feb 26 with the successful
+launch of MTSAT-1R. MTSAT-1R entered geostationary transfer orbit
+and will be placed in geostationary orbit using its liquid apogee motor;
+the first engine burn was made on Feb 27. The H2A second stage
+made two burns to geostationary transfer orbit, and a third small test burn
+after separating from MTSAT which raised the rocket stage's perigee
+slightly. The launch restores some confidence in the troubled 
+JAXA (Japanese Aerospace Exploration Agency); JAXA's next major
+launch is the scientific Astro-E2 satellite on the M-V rocket.
+The previous H2A launch in 2003 failed early in flight; an M-V flight
+in 2000 carrying Astro-E1 also failed, but M-V worked well on the
+2003 launch of the Hayabusa asteroid probe.
+
+MTSAT-1R is an SS/L-1300 satellite built by Space Systems/Loral.
+It will provide weather data for the Japanese Meteorological Agency
+following on from the Himawari-GMS series, and air traffic control
+support (airplane-ATC voice/data links, GPS augmentation and
+airplane position tracking) for the Japanese Civil Aviation Bureau.
+
+XM Radio 3
+----------
+
+XM-3 for XM Radio was launched into geostationary transfer orbit on Mar
+1 by a Zenit-3SL rocket from the Sea Launch platform floating at the
+equator. The DM-SL upper stage entered a 180 x 9452 km x 0 deg parking
+orbit followed by a high-perigee 2491 x 35767 km x 0.1 deg geostationary
+transfer orbit. The low inclination given by the equatorial sea launch
+saves satellite apogee fuel - although this time the launch was delayed
+several days because of rough seas. XM-3 is a 4700 kg Boeing 702
+satellite. It will supplement XM's digital radio service currently
+provided by XM-1 and XM-2.
+
+NASA 40.17UE
+------------
+
+NASA Black Brant XII sounding rocket 40.17UE, carrying Dartmouth
+College's CASCADES auroral research experiment, was launched from Poker
+Flat, Alaska at 1037 UTC on Mar 6 but failed. The Talos and Terrier
+solid-fuel boosters worked but the main Black Brant sustainer did not
+ignite and it, the Nikha fourth stage and the five payloads reached an
+apogee of only 29 km instead of the planned 800 km. Black Brant XII is
+one of the highest performance sounding rockets in current use; its
+(successful) payloads achieve 25 percent of the energy needed to reach
+orbit, compared to 5 percent for a typical scientific sounding rocket.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Feb  3 0227   AMC 12            Proton-M/Briz-M Baykonur PL81/24 Comms       03A
+Feb  3 0741   USA 181       )   Atlas 3B        Canaveral SLC36B Sigint      04A
+              USA 181 P/L 2 )                                                04C
+Feb 12 2103   XTAR-EUR  )       Ariane 5ECA     Kourou ELA3      Comms       05A
+              Maqsat-B2 )                                        Tech        05D
+              SLOSHSAT  )                                        Tech        05C
+Feb 26 0925   MTSAT-1R          H-2A            Tanegashima      Comms       06A
+Feb 28 1909   Progress M-52     Soyuz-U         Baykonur         Cargo       07A
+Mar  1 0351   XM Radio 3        Zenit-3SL       Odyssey, PO      Comms       08A
+Mar 11 2142   Inmarsat 4 F-1    Atlas V 431     Canaveral SLC41  Comms       09A?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

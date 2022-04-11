@@ -1,0 +1,271 @@
+
+Jonathan's Space Report
+No. 436                                             2000 Oct 17, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Orbiter OV-103 Discovery was launched at 2317 UTC on Oct 11 on mission
+STS-92 (Space Station Flight ISS-3A). Crew are Commander Col. Brian
+Duffy (USAF/NASA), Pilot Lt-Col. Pam Melroy (USAF/NASA), and Mission
+Specialists Dr. Leroy Chiao (NASA), Col. William McArthur (US
+Army/NASA), Dr. Jeff Wisoff (NASA), Cmdr. Michael Lopez-Alegria
+(USN/NASA), and Koichi Wakata (NASDA, Japan). The RSRM-76 solid rocket
+boosters separated at 2319 UTC and main engine cutoff (MECO) came at
+2325 UTC. External tank ET-104 separated into a 74 x 323 km x 51.6 deg
+orbit. At apogee at 0001 UTC on Oct 12, Discovery's OMS engines fired to
+raise perigee to a 158 x 322 km x 51.6 deg orbit; ET-104 reentered over
+the Pacific around 0030 UTC. At Oct 12 on 0301 UTC the NC1 burn raised
+the orbit to 180 x 349 km; NC3 on Oct 12 to 311 x 375 km; and the TI
+burn at 1409 UTC on Oct 13 to 375 x 381 km x 51.6 deg. Discovery's
+rendezvous with the International Space Station came at 1539 UTC on Oct
+13, with docking at 1745 UTC. The spaceship docked with PMA-2, the
+docking port on the +Y port of the Space Station's Unity module.
+Hatch was open to PMA-2 at 2030 UTC the same day.
+
+ STS-92 Cargo Manifest
+                                                        Mass (kg)
+Bay 1-2:     Orbiter Docking System                     1800
+             3 EMU spacesuits (S/N unknown)              360?
+Bay 5 Port:  Adapter Beam with DDCU-HP control unit      300? (guess)
+Bay 5 Stbd:  Adapter Beam with DDCU-HP control unit      300?
+Bay 7-8:     Spacelab Pallet MD003 with PMA-3           1400 (PLT)
+                                                        1156 (PMA)
+Bay 10-12:   ISS Z1                                     8765
+Bay 13       Adapter Beam with IMAX Cargo Bay Camera     300? (guess)
+Sill:        Canadarm RMS 301?                           410
+
+                              Total payload bay cargo: 14791 kg (est)
+
+Z1 is the first segment of the space station truss. Z1 was built by
+Boeing/Canoga Park and is 3.5 x 4.5 meters in size; it will be docked to
+the +Z port on Unity. Z1 carries the control moment gyros, the S-band
+antenna, and the Ku-band antenna.
+
+PMA-3, built by Boeing/Huntington Beach, will be docked to the -Z port
+opposite Z1. PMA-3 is installed on a Spacelab pallet for launch. 
+One document I have seen identifies this as pallet MD003; I suspect
+it might be the same as pallet F003 which flew on Spacelab 2, MAPS, and TSS,
+but I'd love to get confirmation of this.
+
+On Oct 14 at 1615 UTC the Z1 segment was unberthed from the payload bay
+and at around 1820 UTC it was docked to the zenith port on the Unity
+module. On Oct 15 at 1420 UTC the ODS airlock was depressurized,
+beginning a spacewalk by Bill McArthur and Leroy Chiao. The hatch was 
+probably unsealed at around 1425 UTC. The spacesuits went to battery
+power at 1427 UTC, and the thermal cover on the airlock was opened at
+1430 UTC. McArthur exited the airlock about 1446 UTC. The astronauts
+connected cables between Z1 and Unity, relocated the SASA S-band antenna
+on Z1, and deployed Z1's SGANT Ku-band antenna. They then took the port
+ETSD (EVA stowage) box from the Spacelab pallet and installed it on Z1.
+The astronauts were back in the airlock around 2040 UTC and closed the
+hatch at about 2050 UTC. Repressurization began at 2055 UTC for a
+depress duration of about 6h 35min, a hatch open/close duration of 6h 25
+min, and a NASA (battery power to repress) duration of 6h 28 min.
+
+The second spacewalk was on Oct 16, with Jeff Wisoff and Mike Lopez-Alegria.
+The airlock was depressurized about 1410 UTC, with the hatch and thermal
+cover opened prior to 1413 UTC. The suits went to battery power at 1415 UTC
+and Wisoff left the airlock at 1421 UTC. Wakata used the RMS arm to unberth
+the PMA-3 docking unit from the SLP pallet at 1614 UTC, and docked it
+to Unity at 1740 UTC. Wisoff and Lopez-Alegria first unbolted PMA-3
+from the SLP and then guided Wakata through the delicate alignment
+process as PMA-3 was removed from the bay and attached to the Station.
+By 2109 UTC the astronauts were back in the airlock and at 2110 UTC
+the thermal cover was closed, with hatch seal at 2115 UTC. Repressurization
+began at 2122 UTC for a duration of 7h 12 min (depress/repress), 7h 03min
+(hatch unseal/seal), or 7h 07min (NASA).
+
+A third EVA was underway on Oct 17.
+
+Meanwhile, on Oct 16 Russia launched the Progress 7K-TGM No. 243 cargo
+ship as Progress M-43. The ship will dock with Mir and raise its
+orbit, delaying reentry to preserve the option of a new MirCorp-financed
+flight next year.
+
+
+Current Launches
+----------------
+
+HETE-2 astronomical satellite
+-----------------------------
+
+The HETE-2 gamma ray burst satellite was succesfully launched by a
+Pegasus over the Pacific near Kwajalein. This was the first orbital
+launch from USAKA (US Army Kwajalein Atoll) in the Pacific Ocean.
+Kwajalein, a circular lagoon, is the aim point for Western Range ICBM
+launches; the US Air Force fires ICBMs at Kwaj and the US Army sits on
+Kwaj and fires back with experimental anti-missiles. The main launch
+site is on Meck Island on the north side of the atoll.
+
+The Orbital Sciences Corp. L-1011 Stargazer aircraft took off from
+Bucholz Army Airfield (PKWA) Runway 06/24 (at 08 42.9N 167 43.6E) on
+Kwajalein Island at the southeast end of the atoll at 0440 UTC on Oct 9.
+The Stargazer flew to the drop zone at 7.65N 167.7E and at 0538 UTC
+dropped the Pegasus launch vehicle at an altitude of 11.9 km. The model
+used was the Standard Pegasus rather than the newer XL model (strictly,
+it was a Hybrid Pegasus with some XL components). Five seconds after
+drop the first, winged, stage ignited and after 10 minutes the third
+stage cutoff to leave HETE-2 in orbit at 0550 UTC.
+
+The second High Energy Transient Explorer was built to replace the first
+HETE, which failed to operate because of a Pegasus adapter failure
+during launch in Nov 1996. The satellite was built by MIT using leftover
+parts from HETE.  MIT operates the satellite; the program is managed by
+NASA GSFC as an Explorer mission of opportunity. HETE's main instrument
+is FREGATE, the French Gamma Telescope, a hard X-ray spectrometer
+operating in the 6 to 400 keV energy range. This gamma ray burst
+detector, together with a Wide Field X-ray Monitor hard X-ray coded mask
+telescope, is used to trigger searches with the two Soft X-ray Imagers
+which have 33-arcsecond spatial resolution. This will let astronomers
+get precise locations for gamma-ray bursts,  allowing detailed followup
+with optical instruments. The satellite is in a 595 x 636 km x 2.0 deg
+equatorial orbit, and sends data to a network of small ground terminals
+spaced around the equator. 
+
+Kosmos-2372 military imaging satellite:
+--------------------------------------
+
+Kosmos-2372 was launched from Baykonur's Area 45 on Sep 25 by a
+two-stage 11K77 Zenit-2. According to a report by Anatoly Zak, the new
+spacecraft's real code name is Yenisey (which is the name of one of the
+great rivers in Russia). Observers speculate that Yenisey is an improved
+version of the Orlets spy satellite launched as Kosmos-2290 in 1994. On
+Oct 16 Kosmos-2372 was in a 201 x 313 km x 64.8 deg orbit.
+
+Kosmos-2373 military/civilian mapping satellite
+-----------------------------------------------
+
+Kosmos-2373 was launched on Sep 29 into a 193 x 267 km x 70.4 deg orbit.
+The satellite is the 20th Kometa (Yantar'-1KFT) mapping payload using
+the Yantar' bus with a Zenit-type recovery sphere. It is announced as a
+dual civil-military geodetic mission. After a day it raised its orbit to
+211 x 285 km x 70.4 deg. The first Kometa was launched in Feb 1981 as
+Kosmos-1246; the previous flight was Kosmos-2349 in Feb 1998.
+
+Dnepr multiple small satellite launch
+-------------------------------------
+
+The second Dnepr launch vehicle made a successful flight on Sep 26 from
+Baykonur, placing five small satellites in a 640 x 644 km x 64.6 deg
+orbit. The Dnepr is a refurbished R-36M2 (15A18 or 15A18M) ballistic
+missile with two main stages and a post-boost stage used to target
+reentry vehicles. The satellites are Tiungsat-1, Megsat-1,
+Unisat, and Saudisat 1A/1B.
+
+Malaysia's Tiungsat-1 is a 50 kg Surrey Uosat-class earth imaging
+satellite with 80-meter resolution, built by Surrey Satellite and
+Astronautic Technology SB for the BKSA (Bahagian Kajian Sains Angkasa,
+the Space Science Studies Div. under the Ministry of Science, Technology
+and Environment). 
+
+Megsat-1 is a 50 kg research satellite  owned and built by MegSat Space
+Division, part of the Gruppo Meggiorin companies in Brescia, Italy.
+(Megsat-0 was launched in Apr 1999).
+
+Unisat is a 10 kg experimental satellite  developed by the GAUSS (Gruppo
+di Astrodinamica dell' Universita degli Studi "la Sapienza") in Roma.
+Unisat was financed by ASI and MURST (Ministero dell'Universtia e della
+Ricerca Scientifica e Tecnologica). It carries NiMH batteries, a
+magnetometer, and a payload consisting of a space debris sensor and a
+camera. 
+
+Saudisat 1A and 1B are 10 kg satellites developed by the Saudi Institute
+for Space Research at KACST (King Abdulaziz City for Science and Tech),
+Riyadh, carrying simple amateur store-forward communications payloads.
+
+GE-1A communications satellite
+------------------------------
+
+GE Americom's GE-1A satellite was launched by International Launch
+Services/Krunichev Proton-K on Oct 1. The Proton entered a 200 km
+parking orbit, and the Blok DM3 upper stage made two burns to deliver
+GE-1A to a 7394 x 35823 km x 15.9 deg transfer orbit. The satellite is a
+Lockheed Martin/Sunnyvale A2100AX model Ku-band  communications
+satellite which will provide broadcast services for eastern Asia. Dry
+mass is 1601 kg. By Oct 16 the satellite was on station at 108E.
+
+N-SAT/Superbird communications satellite
+------------------------------------------
+
+Arianespace launched mission V133, an Ariane 42L model, on Oct 6.
+Payload was another A2100AX satellite, N-SAT-110, also known as
+Superbird 5. N-SAT-110 is jointly owned by SCC (Space Communications
+Corp of Tokyo) and JSat (Japan Satellite Systems); SCC controls the
+vehicle on orbit. Dry mass is 1669 kg; the satellite carries 24 Ku-band
+transponders. By Oct 15 N-SAT-110 was in a 35610 x 35752 km x 0.1 deg
+orbit drifting past 109E.
+
+GLONASS navigation satellites
+------------------------------
+
+Three Uragan ("Hurricane") navigation satellites for the GLONASS system
+were launched on Oct 13. Uragan spacecraft No. 83, No. 87 and No. 88
+were launched on a Krunichev Proton-K with a Blok DM-2 upper stage into
+a  160 km x 64.8 deg parking orbit. The Blok DM-2 made two burns to a 
+19120 x 19120 km x 64.8 deg orbit and deployed the three satellites
+about four hours after launch. The satellites will probably be named
+Kosmos-2374 to Kosmos-2376, but I don't have confirmation of this yet.
+The Uragan satellites, built by AKO Polyot of Omsk, are analogs
+of the USAF Navstar Global Positioning System.
+
+Erratum
+-------
+
+I said last issue that GE 5 had not been launched, even though I was
+present to see it go up! Oops. It is an Alcatel Spacebus 2000. Thanks to
+Thierry Vallee for catching me on that one. Also, David Gendre points
+out that ST-1 is an Astrium Eurostar 2000+.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  1 0325   ZY-2              Chang Zheng 4B Taiyuan          Imaging    50A
+Sep  5 0943   Sirius 2          Proton-K/DM3   Baykonur LC81L   Commsat    51A
+Sep  6 2233   Eutelsat W1       Ariane 44P     Kourou ELA2      Commsat    52A
+Sep  8 1245   Atlantis          Space Shuttle  Kennedy LC39B    Spaceship  53A
+Sep 14 2254   Astra 2B )        Ariane 5       Kourou ELA3      Commsat    54A
+              GE 7     )                                        Commsat    54B
+Sep 21 1022   NOAA 16           Titan 23G      Vandenberg SLC4W Weather    55A
+Sep 25 1010   Kosmos-2372       Zenit-2        Baykonur LC45    Imaging    56A
+Sep 26 1005   Tiungsat-1  )     Dnepr          Baykonur LC109   Imaging    57A
+              MegSat-1    )                                     Science    57B
+              UniSat      )                                     Science    57C
+              SaudiSat 1A )                                     Commsat    57D
+              SaudiSat 1B )                                     Commsat    57E
+Sep 29 0930   Kosmos-2373       Soyuz-U        Baykonur LC31    Imaging    58A
+Oct  1 2200   GE-1A             Proton-K/DM3   Baykonur LC81L   Commsat    59A
+Oct  6 2300   N-SAT-110         Ariane 42L     Kourou ELA2      Commsat    60A
+Oct  9 0538   HETE-2            Pegasus        Kwajalein RW06/24 Astronomy 61A
+Oct 11 2317   Discovery         Space Shuttle  Kennedy LC39A    Spaceship  62A
+Oct 13 1412   Kosmos-2374 )     Proton-K/DM-2  Baykonur         Navsat     63A
+              Kosmos-2375 )                                     Navsat     63B
+              Kosmos-2376 )                                     Navsat     63C
+Oct 16 2127   Progress M-43     Soyuz-U        Baykonur LC1     Cargo      64A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       ISS PMA-2     STS-92  2000 Oct     ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-98  2001 Feb?    ISS 5A
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   

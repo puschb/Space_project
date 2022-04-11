@@ -1,0 +1,189 @@
+
+Jonathan's Space Report
+No. 341                                  1997 Nov 17 Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+Shuttle and Mir
+---------------
+
+Columbia is awaiting a Nov 19 launch on the STS-87 science mission.
+Cargo bay payloads are: (Bay locations are approximate only;
+I will try and correct them later)
+ NaSBE       GABA, Bay 2 Stbd
+ EDFT-OTD    APC?, Bay 3 Port
+ G-036       GABA, Bay 4 Port
+ EDFT-ORU    GABA?, Bay 4 Stbd
+ Spartan     MPESS, Bay 5
+ TGDF        GABA, Bay 6 Port
+ LHP         GABA, Bay 6 Stbd
+ SOLSE       GABA, Bay 7 Stbd
+ USMP-4 Fwd  MPESS, Bay 8? 
+ USMP-4 Aft  MPESS, Bay 9?
+ OARE        Bay 11 keel
+ EDO         Bay 13
+
+The MPESS is a large cross-bay device to carry the big
+experiments. The GABA and APC are small carriers attached
+to the payload bay side wall. 
+
+The main payloads for STS-87 are Spartan 201 and USMP-4. Spartan 201 is
+a small free flying solar observatory that sits on top of an MPESS
+carrier. It will be deployed and recovered with the robot arm; this is
+its fourth flight. USMP-4 is a US Microgravity Payload, with experiments
+to process materials in free fall. It uses two MPESS carries on
+which a variety of furnaces and processing equipment are installed.
+
+The EDFT payloads are equipment for Space Station spacewalk practice;
+the OTD is an experimental crane and the ORU is a dummy Orbital
+Replacement Unit. 
+
+The EDO in the rear of the bay is the Extended Duration Orbiter kit,
+which provides extra power for long duration missions.
+
+The G-036, NaSBE, TGDF, LHP and SOLSE experiments are small experiments
+using GAS (Getaway Special) canisters. LHP is the Loop Heat Pipe, and
+NaSBE is the Sodium Sulfur Battery Experiment. SOLSE and LORE are ozone
+measuring devices. G-036 is a student experiment from El Paso Community
+College to mix cement in space; it was originally going to fly on
+STS-86. TGDF is Turbulent Gas Diffusion Flames, 
+a basic physics experiment.
+
+OARE flies on all Columbia missions, and measures accelerations
+during flight.
+
+During the spacewalk, a small satellite which is brought up inside the
+Shuttle cabin will be taken out and released. AERCam Sprint is a remote
+controlled free-flying TV camera attached to gas thrusters, in a padded 
+sphere. It's a prototype to test out the ability to inspect the Space
+Station exterior without actually sending astronauts outside.
+
+Crew of STS-87 consists of commander Kevin Kregel, pilot Steven Lindsey,
+mission specialists Winston Scott, Kalpana Chawla (a native of India), 
+Takao Doi (from the Japanese NASDA space agency),  and payload
+specialist Leonid Kadenyuk from the Ukrainian space agency.
+
+Atlantis has arrived in Palmdale for its Orbiter Maintenance
+Down Period. New cockpit displays will be installed,
+and the airlock will be relocated to the payload bay docking
+system area. 
+
+The outer Kvant-2 EVA hatch on Mir is still leaking. A new outer hatch
+seal will be delivered by the next Progress cargo ship. Meanwhile, the
+inner airlock compartment is safely sealed and will continue to be used
+for external spacewalks.
+
+Recent Launches
+---------------
+
+A Krunichev Proton was launched from Baykonur on Nov 12 with an Energiya
+Blok DM-2 upper stage and a geostationary payload, the first Kupon
+comsat for the Russian banking system. Kupon is the first commercial
+comsat made by the Lavochkin group, who usually make planetary probes
+and early warning satellites; previous Russian comsats were made by NPO
+Prikladnoi Mekhaniki. Kupon, owned by the Russian Federation Central
+Bank (and possibly Global Information Systems of Moscow), relays
+financial data for the Bankir network.
+
+Ariane V102 successfully launched two communications satellites on Nov
+12 at 2148 UTC. The Ariane 44L type rocket has four strapon PAL liquid
+boosters made by Daimler-Benz Aerospace. The Aerospatiale L220 first
+stage separates after 3 minutes; the Daimler-Benz L33 second stage then
+fires for 2 more minutes, followed by the long 13 minute burn of
+Aerospatiale's H-10-3 high energy liquid-hydrogen third stage, which
+entered orbit at 2208 UTC along with the payload. Unlike Delta, Atlas
+and Proton, the Ariane 4 flies directly to elliptical geostationary
+transfer orbit without first entering a low parking orbit. The
+Sirius 2 satellite was ejected at 2210 UTC, then at 2212 the top of the
+SPELDA structure which encapsulates the lower payload. At 2214 the
+Carkawarta-1 satellite was ejected from the lower part of SPELDA which
+remains attached to the H-10-3.
+
+V102's first payload was Sirius 2, a Spacebus 3000 Ku-band
+communications and broadcast satellite for Sweden's NSAB (Nordiska
+Satellit aktiebolaget), built by Aerospatiale/Cannes. NSAB's first
+satellite was TELE-X, a Spacebus 300 launched in 1989. It was later
+supplemented by  Sirius 1, a much smaller satellite already in orbit.
+Sirius 1 was originally British Satellite Broadcasting's Marcopolo 1,
+and was bought in orbit by NSAB in Dec 1993.
+
+The second payload was Cakrawarta 1, formerly known as Indostar. This is
+the first of a new type of small comsat, the StarBus, developed by CTA
+Inc. of Rockville, Maryland, which has since been bought by Orbital
+Sciences. Although press reports have described StarBus as a lightsat,
+the launch and dry masses of Indostar are 1385 kg and 643 kg, very
+similar to the venerable (but still in production) Hughes HS-376 class.
+The satellite is owned by PT MediaCitra Indostar, which will use it for
+television broadcasting in Indonesia. The satellite features an Primex
+Aerospace liquid propulsion system (maybe! I've seen different
+stories on this - can anyone confirm?) and, unusually, an S-band antenna -
+most television broadcast satellites use 11GHz Ku-band, but apparently
+the 2.5 GHz S-band frequencies give better transmission through the
+rainy Indonesian skies.
+
+Errata: Lacrosse 3 is in a 57.3 degree orbit; the second TRUMPET was
+launched in Jul 1995.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  5 1508   Progress M-36     Soyuz-U       Baykonur LC1     Cargo      58A
+Oct  5 2101   Echostar III      Atlas IIAS    Canaveral LC36B  Comsat     59A
+Oct  9 1808   Foton No. 11  )   Soyuz-U       Plesetsk         Micrograv  60A
+              Mirka         )
+Oct 15 0843   Cassini  )        Titan Centaur Canaveral LC40 Saturn probe 61A
+              Huygens  )                                      Titan probe 
+Oct 16 1913   Apstar 2R         CZ-3B         Xichang         Comsat      62A
+Oct 22 1315   STEP M4           Pegasus XL    Wallops I        Technology 63A
+Oct 24 0232   Lacrosse 3        Titan 4A      Vandenberg SLC4E  Recon     64A
+Oct 25 0046   DSCS III B-13 )   Atlas IIA     Canaveral LC36A  Comsat     65A
+              Falcon Gold   )                                  Technology 65B
+Oct 30 1343   Maqsat H )        Ariane 5      Kourou ELA3      Technology 66A
+              Maqsat B )                                                  66B
+              YES      )                                                  66C
+Nov  2 1225   SCD-2A            VLS           Alcantara        Rem.sens.  FTO
+Nov  3 0405   Sputnik-40                      Mir,LEO          Demo       58C
+Nov  5 0030   GPS 38            Delta 7925    Canaveral LC17A  Navsat     67A
+Nov  8 0205   Trumpet 3         Titan Centaur Canaveral LC41   Signal int 68A
+Nov  9 0134   Iridium 38 )      Delta 7920    Vandenberg SLC2W Comsat     69E
+              Iridium 39 )                                     Comsat     69D
+              Iridium 40 )                                     Comsat     69C
+              Iridium 41 )                                     Comsat     69B
+              Iridium 43 )                                     Comsat     69A
+Nov 12 1700   Kupon             Proton        Baykonur LC200   Comsat     70A
+Nov 12 2148   Sirius 2     )    Ariane 44L    Kourou ELA2      Comsat     71A
+              Cakrawarta 1 )                                   Comsat     71B
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-87  Nov 19
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/RSRM63/ET-89/OV-102 LC39B         STS-87                         
+MLP2/
+MLP3/RSRM64              VAB Bay 1     STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

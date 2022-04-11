@@ -1,0 +1,164 @@
+Jonathan's Space Report
+No. 559                                        2005 Dec 29, Somerville, MA
+-------------------------------------------------------------------------------
+
+After a month without orbital launches, Dec 21 saw three orbital
+launches on a single day (as well as a suborbital Russian submarine
+missile launch). By Dec 29 Russia had launched eight satellites within
+eight days, repeating a familiar Russian operational pattern of a late
+November launch gap followed by a flurry of activity at the end of
+December before the new year holiday. 
+
+Progress M-55
+-------------
+
+The robot cargo spaceship Progress M No. 355 was launched as mission
+Progress M-55, ISS flight 20P, on a Soyuz-U from Baykonur. The 7-tonne
+craft docked with the Station's Pirs module at 1946 UTC on Dec 23. 
+The previous cargo craft, Progress M-54, will remain docked to the
+Zvezda module until March. Soyuz TMA-7 is docked to Zarya.
+
+Gonets
+------
+
+
+A Gonets-D1M ('messenger') low orbit communications satellite was
+launched on a light Kosmos-3M rocket on Dec 21 into a 1440 x 1450 km x
+82.5 deg orbit. Gonets-D1M (or Gonets-M) is the civilian version of the
+military Strela-3 low orbit communications constellation. The launch
+also carried a military satellite called Rodnik, with cover name
+Kosmos-2416. I don't know anything about  Rodnik - the best guess is
+that it is an upgrade of the Strela-3. The Strela-3, originally flown in
+groups of six on the retired Tsiklon rocket, has been launched in pairs
+on Kosmos-3M since 2002 to the same orbit, so it makes sense that this
+is another pair of Strela-3 buses but with improved payloads.
+
+
+Ariane 5
+--------
+
+Arianespace continues its string of successes with the launch of Ariane
+vehicle 525, a standard (5GS) model with the EPS upper stage. It put
+the Insat-4A and MSG-2 satellites in orbit. The EPC core stage reached
+a 44 x 1702 km x 6.5 deg transatmospheric orbit and reentered
+over the Pacific. The EPS stage made a single burn to 620 x 35853 km x 3.9 deg
+and released the two satellites and the Sylda adapter.
+
+Insat-4A is the first of a new series of Indian communications satellites.
+Built at ISAC/Bangalore, it is a 3081 kg (full; 1385 kg dry) satellite
+with Ku-band and C-band transponders. The Insat 4 series are slightly
+heavier than the Insat 2 and Insat 3 satellites they are replacing,
+but represent an enhancement rather than a new bus. Insat 4A made
+three orbit raising burns and reached geostationary altitude over
+the Indian Ocean at 0430 UTC on Dec 26, successfully deploying its solar arrays.
+
+MSG 2 (Meteosat Second Generation) is a spin-stabilized weather
+satellite continuing the European Meteorological Satellite Organization
+(EUMETSAT) series of Meteosat geostationary weather satellites; it will
+become Meteosat 9 once operational. Launch mass is 2036 kg; dry mass is
+around 1000 kg. After reaching geostationary drift orbit, two covers on
+the SEVIRI telescope were ejected on Dec 29 over 30.4 deg E (at 0445 and
+0500 UTC, according to Vladimir Agapov. Space Command has not cataloged
+the two 1-meter covers ejected from MSG-1/Meteosat-8, so probably won't
+see the ones from this launch either).
+
+Glonass
+-------
+
+On Dec 25 Russia launched a Proton with the Block 34 launch of  three
+GLONASS navigation satellites; one Uragan, serial No. 798, and two
+improved Uragan-M, serial number 713 and 714. They were given Kosmos
+cover names. In recent years, GLONASS launches involved two of the old
+Uragan and only one Uragan-M. 
+
+Launch was by Proton serial number 410-12 according to the
+federalspace.ru site; the satellites are in a  19110 x 19130 km x 64.8
+deg orbit; the Proton third stage was tracked in a low parking orbit and
+the Blok-DM2 fourth stage is in a 19072 x 19122 km x 64.9 deg orbit. Two
+small ullage motors used to force fuel to the back of the tanks for the
+DM2 second burn are thought to be in elliptical transfer orbit, but have
+not yet been cataloged.
+
+Giove-A
+-------
+
+On Dec 28 a Starsem Soyuz-FG rocket with a Fregat upper stage delivered
+the 602 kg Surrey-built GIOVE-A satellite to orbit. GIOVE-A, the Galileo
+In-Orbit Validation Element, is Europe's first navigation test satellite
+and is a precursor to the Galileo system which will be the European
+equivalent of GPS. GIOVE-A is owned and developed by the European Space
+Agency, but the  operational GNSS (Galileo Navigation Satellite System)
+itself is a European Union project. GIOVE-A carries two rubidium 
+atomic clocks and a large L-band phased array antenna.
+
+The Soyuz-FG entered a mildly suborbital trajectory and its upper
+stage fell in the Pacific. The first Fregat burn reached a roughly 220
+km circular orbit, probably at 52 deg inclination; the second burn  was
+to a transfer orbit around 220 x 23200 km; and the third burn put
+GIOVE-A in its initial 23011 x  23258 km x 56.05 deg orbit.
+Unfortunately the Starsem press kit does not give details of the Fregat
+rocket burns, so the details here are guesswork. The quoted target orbit
+is 23616 km circular, easily within reach of GIOVE-A's butane propulsion
+system.
+
+The three modern navigation satellite systems are quite similar: the
+United States GPS satellites are in a 20140 x 20220 km x 55.0 deg orbit,
+the Russian GLONASS system is in a 19120 x 19140 km x 64.8 deg orbit,
+and the initial GIOVE planned orbit is 23616 x 23616 x 56.0 deg. All of
+them transmit at L-band (1.5-1.6 GHz). Contrast this with the first
+generation navsat systems, which used Doppler beacons instead of atomic
+clock signals - the now-retired US Navy Transits operated at 1000 x 1200
+km x 90.0 deg and the Russian Tsiklon/Parus/Tsikada continue in a 970 x
+1010 km x 83.0 deg orbit, both using much lower frequencies around 0.15
+MHz. The higher orbits mean fewer satellites, but stronger signals.
+
+
+
+AMC 23
+-------
+
+SES Global's 5035-kg AMC-23 was launched on Dec 29 by an International
+Launch Services/Krunichev Proton-M No. 535-13 with a Briz-M upper stage
+(No. 88514). AMC-23 is an Alcatel Alenia/Cannes Spacebus 4000C3 satellite
+which was originally built as Americom 13, then Worldsat 3, and is now
+to provide Ku-band and C-band multimedia and telecom services over the
+Pacific. The C-band payload will be partly used by the Japanese JSAT
+system. SES, based in Luxembourg, bought the old RCA (later GE) Americom
+system in 2001. The Briz-M delivered the satellite to a 6193 x 35615 km
+x 18.5 deg transfer orbit, leaving its secondary propellant tank in
+a 311 x 15526 km x 49.6 deg intermediate orbit. The Proton third
+stage was suborbital on this launch. AMC-23 will use its Astrium S400
+apogee engine to reach geostationary orbit.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Nov  8 1407   Inmarsat 4F-2     Zenit-3SL       Odyssey, POR     Comms       44A
+Nov  9 0333   Venus Express     Soyuz-Fregat    Baykonur LC31/6  Space probe 45A
+Nov 16 2346   Spaceway 2 )      Ariane 5ECA     Kourou ELA3      Comms       46A
+              Telkom 2   )                                       Comms       46B
+Dec 21 1838   Progress M-55     Soyuz-U         Baykonur LC1/5   Cargo       47A
+Dec 21 1934   Gonets-D1M   )    Kosmos-3M       Plesetsk LC132/1 Comms       48A
+              Kosmos-2416  )                                     Comms       48B
+Dec 21 2233   Insat 4A   )      Ariane 5GS      Kourou ELA3      Comms       49A
+              MSG 2      )                                       Weather     49B
+Dec 25 0507   Kosmos-2417 )     Proton-K/DM2    Baykonur LC81/23 Navigation  50A
+              Kosmos-2418 )                                      Navigation  50B
+              Kosmos-2419 )                                      Navigation  50C
+Dec 28 0519   GIOVE A           Soyuz-FG/Fregat Baykonur LC31/6  Navigation  51A 
+Dec 29 0228   AMC 23            Proton-M/Briz-M Baykonur LC200/39 Comms      52A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

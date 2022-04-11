@@ -1,0 +1,197 @@
+Jonathan's Space Report
+No. 785                                                        2020 Nov 5   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 63 concluded on Oct 21 with the undocking of Soyuz MS-16. 
+Expedition 64 is now underway under the command of Sergey Ryzhikov.
+
+Soyuz MS-17 was launched on Oct 14 at 0545 UTC with Sergey Ryzhikov, Sergey Kud'-Sverchkov and Kate Rubins.
+It docked with the Rassvet module at 0848 UTC. The 3 hr 3min 49s flight from Earth to ISS is
+a record for the ISS program.
+
+Soyuz MS-16 undocked from the Poisk module at 2332 UTC Oct 21 and landed
+in Kazakhstan at 0254 UTC Oct 22, returning Anatoliy Ivanishin, Ivan
+Vagner and Chris Cassidy to Earth.
+
+The Nanoracks NRCSD-19 payloads, delivered to the ISS on Cygnus NG-14, are being prepared for
+deployment from the Kibo airlock. The payloads are:
+   Bobcat-1, 3U cubesat from Ohio U with a technology payload
+   NEUTRON, 3U cubesat from U of Hawaii with a space physics experiment
+   SPOC, 3U cubesat from U of Georgia with an ocean color imager
+   Lemur-2-v4.7 and Lemur-2-v4.8, 3U cubesats from Spire Global with comms and GNSS-RO weather payloads
+   DESCENT Mother and DESCENT Daughter, two 1U cubesats joined by a 100-metre tether from York University (Canada).
+   SATTLA-1, 1U student and amateur radio payload from Ariel University in the West Bank
+
+Starlink
+----------
+
+The Falcon 9 stage 2 from the Oct 6 launch failed to perform its deorbit
+burn and was left in a 262 x 277 km orbit. It reentered on Oct 30.
+
+Another 60 Starlinks (launch 14, V1.0-L13) were launched on Oct 18 from
+KSC. The first stage, B1051, made its sixth flight and landed on OCISLY.
+The second stage made a two-burn insertion; it was not cataloged and may
+have been deorbited.
+
+One of this batch, Starlink 1819, failed at deployment and reentered over Chad on Oct 25.
+
+60 more Starlinks (launch 15, V1.0-L14) went up on Oct 24 from Cape
+Canaveral using booster B1060 on its third flight, landing on JRTI. The
+two-burn insertion profile was used again and this time the second stage was
+again cataloged in orbit with no deorbit burn performed. Starlinks 1915 and 1950
+are in decaying orbits and may have failed.
+
+
+Glonass-K
+---------
+
+The third Glonass-K navigation satellite, No. 15L, was launched on Oct 25. The Glonass-K series
+is expected to replace the current Glonass-M type, but with only 3 launches in 9 years
+the system's deployment rate is not impressive.
+
+The Glonass site confirms that the satellite has been given the cover name Kosmos-2547.
+
+
+Yaogan 30 Group 7
+------------------
+
+On Oct 26 China's CALT launched a CZ-2C from Xichang with three
+Yaogan 30 hao 07 zu  (YG-30 Group 7) satellites. A small Tianqi Xingzuo 06
+secondary payload was also carried.
+
+Electron Launch 15
+------------------
+
+On Oct 28 RocketLab launched its 15th Electron flight, In Focus, carrying the CESAT-IIB satellite
+for Canon Electronics and nine Flock 4e-Prime satellites for Planet to 0942 LTDN sun-sync orbit.
+The nine Planet sats are Doves 225a, 2279, 2251, 227e, 2276, 2280, 2262, 2264, and 2441.
+
+ION-SVC
+-------
+
+Deployment of the 12 Flock 4v cubesats from the ION-SVC carrier was completed on Oct 28.
+
+OSIRIS-REX
+----------
+
+NASA's OSIRIS-REx probe performed a touch-and-go sample retrieval from the surface of minor
+planet (101955) Bennu on Oct 20. It left the 1 km parking orbit at 1730 UTC, began a steep
+descent from 125m at 2133 UTC (Checkpoint Burn), matched horizontal speed with Bennu's rotation
+(Matchpoint Burn) at around 2143 UTC at 50m altitude, and landed at 2153 UTC.
+
+After activation of the TAGSAM sampler, the probe took off again after
+about 9 seconds on the surface. It departed from Bennu at 0.4 m/s, which
+exceeds escape velocity, and left the 48-km-radius Sun-Bennu Hill sphere
+at about 0700 UTC Oct 22. Sample stow was expected on Oct 26, with the TAGSAM observed
+to be overflowing with material.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Oct  2?       Flock 4v-17)                                      ION-SVC, LEO   Imaging   61BF S46529    516 x 521 x 97.5
+              Flock 4v-18)                                                     Imaging   61BG S46597    514 x 527 x 97.5
+Oct  3 0116   S.S. Kalpana Chawla           Antares 230+         MARS Pad 0A   Cargo     69A  S46530    185 x 238 x 51.6
+Oct  6 1129   Starlink 1531      )
+              Starlink 1644      )          Falcon 9             Kennedy LC39A  Comms    70A  S46532    262 x 277 x 53.0
+              Starlink 1648-1650 )                                                         to S46591
+              Starlink 1659-1660 )
+              Starlink 1663-1664 )
+              Starlink 1668      )
+              Starlink 1671-1672 )
+              Starlink 1674-1685 )
+              Starlink 1687      )
+              Starlink 1692-1694 )
+              Starlink 1696-1702 )
+              Starlink 1705-1706 )
+              Starlink 1708-1709 )
+              Starlink 1712      )
+              Starlink 1714      )
+              Starlink 1728-1730 )
+              Starlink 1732-1733 )
+              Starlink 1735-1737 )
+              Starlink 1740-1741 )
+              Starlink 1743-1744 )
+              Starlink 1746-1749 )
+              Starlink 1753-1755 )
+Oct  9?       Flock 4v-19)                                      ION-SVC, LEO   Imaging   61BH S46529    516 x 521 x 97.5
+              Flock 4v-20)                                                     Imaging   61BJ S46597    514 x 527 x 97.5
+Oct 11 1657   Gao Fen 13                   Chang Zheng 3B       Xichang        Imaging   71A  S46610    182 x35836 x 28.5
+Oct 14?       Flock 4v-21)                                      ION-SVC, LEO   Imaging   61BK S46596    515 x 521 x 97.5
+              Flock 4v-22)                                                     Imaging   61BL S46735    515 x 526 x 97.5
+Oct 14 0545   Soyuz MS-17                  Soyuz-2-1A           Baykonur LC31  Spaceship 72A  S46613    417 x  420 x51.6
+Oct 18 1226   Starlink 1715-1718)  
+              Starlink 1720     )          Falcon 9             Kennedy LC39A  Comms     73A  S46670    263 x 277 x 53.0
+              Starlink 1731     )                                                          to S46729  
+              Starlink 1766     )
+              Starlink 1772-1776)
+              Starlink 1778     )
+              Starlink 1780-1781)
+              Starlink 1783     )
+              Starlink 1784     )
+              Starlink 1786     )
+              Starlink 1788-1797)
+              Starlink 1799-1805)
+              Starlink 1807-1811)
+              Starlink 1813-1831)
+              Starlink 1841     )
+Oct 20?       Flock 4v-23)                                      ION-SVC, LEO   Imaging   61BM S46737    515 x 521 x 97.5
+              Flock 4v-24)                                                     Imaging   61BN S46738    515 x 526 x 97.5
+Oct 24 1531   Starlink 1798     )          Falcon 9             Canaveral LC40 Comms     74A  S46739    263 x 277 x 53.0
+              Starlink 1832-1835)                                                          to S46798
+              Starlink 1847-1848)
+              Starlink 1851     )
+              Starlink 1865     )
+              Starlink 1872     )
+              Starlink 1882-1883)
+              Starlink 1892-1894)
+              Starlink 1896-1899)
+              Starlink 1901-1903)
+              Starlink 1905-1906)
+              Starlink 1908     )
+              Starlink 1910-1911)
+              Starlink 1915-1926)
+              Starlink 1928-1937)
+              Starlink 1939     )
+              Starlink 1941-1950)
+Oct 25 1908   Glonass-K No. 15L              Soyuz-2-1B/Fregat   Plesetsk LC43/4 Navigation 75A S46805 19125 x 19150 x 64.8
+Oct 26 1519   Yaogan 30 hao 07 zu 01 xing)   Chang Zheng 2C      Xichang         Sigint     76A S46807   589 x   604 x 35.0
+              Yaogan 30 hao 07 zu 01 xing)                                       Sigint     76B S46808   589 x   604 x 35.0
+              Yaogan 30 hao 07 zu 01 xing)                                       Sigint     76C S46809   589 x   604 x 35.0
+              Tianqi Xingzuo 06          )                                       Comms      76D S46810   589 x   604 x 35.0
+Oct 28 2121   CE-SAT-IIB     )               Electron            Mahia LC1       Imaging    77K S46822?  511 x   528 x 97.5
+              Flock 4e'-1    )                                                   Imaging    77A S46813?  511 x   528 x 97.5
+              Flock 4e'-2    )                                                   Imaging    77H S46820?  511 x   528 x 97.5
+              Flock 4e'-3    )                                                   Imaging    77G S46819?  511 x   528 x 97.5
+              Flock 4e'-4    )                                                   Imaging    77J S46821?  511 x   528 x 97.5
+              Flock 4e'-5    )                                                   Imaging    77E S46817?  511 x   528 x 97.5
+              Flock 4e'-6    )                                                   Imaging    77F S46818?  508 x   528 x 97.5
+              Flock 4e'-7    )                                                   Imaging    77B S46814?  505 x   528 x 97.5
+              Flock 4e'-8    )                                                   Imaging    77D S46816?  507 x   524 x 97.5
+              Flock 4e'-9    )                                                   Imaging    77C S46815?  505 x   525 x 97.5
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+
+Oct  1        Black Dagger      Boosted Zombie     Fort Wingate?         Target        100?      White Sands
+Oct 13 1336   NS-13             New Shepard        W Texas               Test          106       W Texas
+Oct 29 0727   GT236GM           Minuteman 3        Vandenberg LF09       Op. Test     1300?      Kwajalein
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

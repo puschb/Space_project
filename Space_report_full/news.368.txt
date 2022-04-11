@@ -1,0 +1,118 @@
+
+Jonathan's Space Report
+No. 368                                    1998 Aug 12 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The next Shuttle mission is STS-95, in October.  Although I am still
+sceptical of the proposed launch dates for STS-88 and STS-93, things
+seem stable enough at the moment that I've started listing them again
+below.
+
+
+Recent Launches
+---------------
+
+Titan 4A-20 exploded 42 seconds after launch from Cape Canaveral on Aug
+12. The vehicle was a Lockheed Martin Titan 4A-Centaur model, the last
+4A and the last with the UTC/CSD solid rocket boosters to be launched;
+all future Titan 4s will be Titan 4Bs and will have Alliant SRMU solid
+rocket boosters. The payload is thought to have been a signals
+intelligence satellite, one of the follow-ons to the VORTEX series. 
+Earlier payloads in the series were launched in Aug 1994 and Apr 1996.
+The Titan 4 seems to have pitched over 40s after launch, implying a
+probable guidance failure. The vehicle would then have exploded due to
+structural failure, as it is not designed to survive flying sideways. 
+
+Kosmos-2360 was launched on Jul 28 by a Zenit-2 launch vehicle
+from Baykonur. Kosmos-2360 is a Tselina-2 electronic intelligence
+satellite built by the Yuzhnoe company in Dnepropetrovsk,
+Ukraine. 
+
+8 small Orbcomm communications satellites were launched on Aug 2. The
+L-1011 carrier aircraft took off from Wallops Island with a Pegasus
+XL/HAPS rocket aboard. The rocket was launched 100 km E of the Virginia
+coast (I have been unable to find out the latitude and longitude, if
+anyone knows them please let me know). The Pegasus XL has three
+solid stages which delivered the Orbcomm/HAPS stack to a suborbital
+trajectory. The first burn of the HAPS hydrazine engine placed the stack
+in an elliptical transfer orbit, and a second burn circularized the
+orbit at apogee, followed shortly by deployment of the eight
+disk-shaped payloads. Orbcomm is a subsdiary of Orbital Sciences Corp.,
+which builds the Pegasus rocket.
+
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  2 2206   Discovery    )    Shuttle       Kennedy LC39A     Spaceship  34A
+              Spacehab     )
+Jun 10 0035   Thor 3            Delta 7925    Canaveral LC17A   Comsat     35A
+
+
+Jun 15 2258   Kosmos-2352  )    Tsiklon-3     Plesetsk LC32/1   Comsat     36A
+              Kosmos-2353  )                                    Comsat     36B
+              Kosmos-2354  )                                    Comsat     36C
+              Kosmos-2355  )                                    Comsat     36D
+              Kosmos-2356  )                                    Comsat     36E
+              Kosmos-2357  )                                    Comsat     36F
+Jun 18 2248   Intelsat 805      Atlas 2AS     Canaveral LC36A   Comsat     37A
+Jun 24 1830   Kosmos-2358       Soyuz-U       Plesetsk          Recon      38A
+Jun 25 1400   Kosmos-2359       Soyuz-U       Baykonur LC31     Recon      39A
+Jul  1 0048   Molniya-3         Molniya-M     Plesetsk          Comsat     40A
+Jul  3 1812   Nozomi            M-5           Kagoshima         Mars probe 41A
+Jul  7 0315   Tubsat-N   )      Shtil'-1      K-407,Barents     Comsat     42A
+              Tubsat-N1  )                                      Comsat     42B
+Jul 10 0630   Resurs-O1 No. 4 ) Zenit-2       Baykonur LC45     Rem. Sens. 43A
+              Fasat-Bravo      )                                Exptl.     43B
+              TMSAT            )                                Exptl.     43C
+              Gurwin Techsat 1B)                                Exptl.     43D
+              WESTPAC          )                                Geodesy    43E
+              SAFIR-2          )                                Comsat     43F
+Jul 18 0920   Sinosat           CZ-3B         Xichang LC2       Comsat     44A
+Jul 28 0915   Kosmos-2360       Zenit-2       Baykonur LC45     Sigint     45A
+Aug  2 1624   Orbcomm FM13  )   Pegasus XL    Wallops           Comsat     46A
+              Orbcomm FM14  )                                   Comsat     46B
+              Orbcomm FM15  )                                   Comsat     46C
+              Orbcomm FM16  )                                   Comsat     46D
+              Orbcomm FM17  )                                   Comsat     46E
+              Orbcomm FM18  )                                   Comsat     46F
+              Orbcomm FM19  )                                   Comsat     46G
+              Orbcomm FM20  )                                   Comsat     46H
+Aug 12 1130   USA               Titan 4A      Canaveral SLC41   Sigint     FTO
+
+
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Jan 28
+OV-103 Discovery       OPF Bay 2     STS-95  Oct 29
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Dec  3
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+
+
+

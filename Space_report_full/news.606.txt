@@ -1,0 +1,212 @@
+Jonathan's Space Report
+No. 606                                         2009 Feb 15 Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 18 crew of Michael Fincke, Yuriy Lonchakov and Sandra
+Magnus continue work on board ISS. An incorrect configuration during a
+2-minute orbit reboost on Jan 14 caused severe resonance oscillations on
+the Station, but NASA reports that no damage seems to have been done to
+the structure.
+
+Progress M-01M undocked from the Pirs module at 0410 UTC on Feb 6.
+On Feb 8 it fired its engines at 0732 UTC to put it on a disposal
+trajectory into the Pacific; the debris fell in the ocean at 0820 UTC.
+
+Progress M-66 was launched from Baykonur on Feb 10 and docked
+with Pirs on Feb 13 at 0719 UTC.
+
+IRANIAN SATELLITE LAUNCH
+------------------------
+
+The first Iranian satellite was launched into orbit on Feb 2 at around
+1834 UTC +/- 5 min on a southeastern trajectory from an unidentified
+launch site in Iran. Two objects are in orbits of 245 x 378 km x 55.51
+deg and 245 x 439 x 55.6 deg; radio signals picked up by Bob Christy,
+Sven Grahn and Greg Roberts confirm that 2009-04A is the Omid payload
+and the 2009-04B is the Safir rocket final stage. Omid's
+orbit is close to the announced plan of a 250-350 km altitude. The
+Iranian Students News Agency calls the launch vehicle Safir-2; it's not
+clear if this is represents a different vehicle type from Safir-1, or
+just a serial number. Pictures of the launch show "Safir - Omid (2)
+IRILV" painted on the side of the rocket. Based on an Iranian video
+showing an animation of the launch, it appears that Safir is a two-stage
+launch vehicle.
+
+The launch animation shows two half-annular payload clamps jettisoned
+into orbit at the time of spacecraft separation. These have not yet
+been cataloged.
+
+The satellite has a mass of 27 kg (ISA web) or 25 kg (IRINN news agency)
+and it is a 0.40m cube. It carries an instrument to measure the space
+environment, and a GPS receiver modified for use in the unstabilized
+(i.e. tumbling) satellite, according to the Iranian Space Agency web
+site isa.ir. (Thanks to Reza Farivar for translation). IRNA associates
+the project with "Saa Iran Industries", and connects it with the
+celebrations for the 30th anniversary of the revolution that brought
+Ayatollah Khomeini to power.
+
+The launch site is believed to be at 35.23N 53.92E, southeast of Semnan
+(based on the work of Geoff Forden; it's possible another site was used.)
+The ground track passes over this site at 1838 UTC. This isn't the
+launch time, since the orbital track doesn't take the slow first few
+minutes of flight into account. I looked at the difference between
+launch time and time of orbit-over-launch-pad for the two-stage Soviet
+11K63 vehicle and found an offset of 4 to 5 minutes. If this offset
+applies to Safir,  and the identification of the launch site is correct,
+the launch time would have been 1833-1834 UTC. (I also looked at
+1963-1964 two-stage Thor Agenas and got offsets ranging form 1 to 4 minutes
+so I suspect the uncertainty in this correction is itself
+of order 3-4 minutes).
+
+It is still not clear whether the 2008 Aug 16 Safir launch was just a
+test, or an orbital attempt that failed. The conclusion that Safir is a
+two-stage vehicle and not, as had been  speculated, a three-stage one,
+tips me slightly more in favor of the orbital-attempt theory.
+
+
+Koronas-Foton
+-------------
+
+Russia's Koronas-Foton solar physics satellite was launched on Jan 30.
+It will study flares in extreme UV, X-ray and gamma rays. The spacecraft
+is based on VNII EM's Meteor-3 weather satellite bus, unlike earlier
+Koronas missions which were based on the Ukranian AUOS bus. Koronas-Foton
+entered a 539 x 562 km x 82.5 deg orbit.
+
+NOAA 19
+-------
+
+The NOAA-N' satellite was laucnhed on Feb 6 from Vandenberg; it was
+renamed NOAA 19 once it reached its 846 x 865 km orbit.  NOAA 19 is the
+last in a long series of civil POES (Polar Orbiting Environmental
+System) satellites launched since Tiros 1 in 1960. The satellites were
+all built by RCA/East Windsor and its corporate successors (now Lockheed
+Martin). The original NASA Tiros satellites (1 to 9) were followed by
+the the TOS (Tiros Operational Satellites) Tiros 10 and ESSA 1-9, owned
+by the Weather Bureau (later ESSA, later NOAA), and then by the ITOS
+(Improved TOS), ITOS 1 and NOAA 1 to 5. A new design flew as Tiros N in
+1978, with its siblings NOAA 6, B, 7 and 12; finally the Advanced Tiros
+N flew as NOAA 8-11 and 13-19. The DMSP Defense Meteorological Satellite
+Program satellites have a similar design; three remain to be launched.
+
+Ekspress
+--------
+
+Two Ekspress communications satellites were launched on Feb 10 for
+Kosmicheskiya Svyaz, the Russian Communications Satellite Co. Ekspress
+AM-44 is another in the AM series built by Reshetnev, with a mass of
+2532 kg. The satellite has a L, C, Ku and Ka band communications
+payload. Ekspress MD-1 is the first in a new series built by Krunichev
+and based on the Kazsat satellite; it has a mass of 1140 kg and carries
+C and L-band transponders. Both communications payloads were supplied by
+the European company Thales Alenia Space.
+
+The Ekspress satellites were launched by a Proton-M with a Briz-M upper
+stage, using an unusual low (48 degree)  inclination ascent trajectory
+to maximize payload capacity.
+
+Ariane 5 
+--------
+
+Ariane 5 flight V187, vehicle L545 took off from Kourou on Feb 12.
+Its two communication satellite paylods were Eutelsat's Hot Bird 10
+and SES New Skies' NSS 9. Ejected from the ASAP5 adapter on the
+upper stage were two small French military satellites, SPIRALE A and B.
+The 117 kg SPIRALE satellites carry infrared telescopes and will demonstrate
+a French missile early warning capability.
+
+
+Low Earth Orbit debris
+----------------------
+
+On Feb 10 at 1656 UTC two satellites collided in orbit 776 km above the
+Taimyr Peninsula in the Russian Arctic, generating hundreds of debris
+objects. This is the first accidental collision between two large
+payloads. The victims were Iridium 33 (24946), a circa-600-kg
+operational commercial communications satellite, and Kosmos-2251
+(22675), an 800 kg 1993-era Strela-2M communications satellite belonging
+to the Russian Ministry of Defence. The Strela-2M satellites had
+lifetimes of around 3 years, and Gen. Yakushin of the Military Space
+Forces was quoted in Moscow Times as saying Kosmos-2251 went out
+of service in 1995. It did not carry a propulsion system; Iridium
+was active and did have propulsion, but apparently no collision
+avoidance maneuver was made. 
+
+The Iridium satellite spanned about 5 meters across its solar arrays.
+Strela-2M used gravity gradient stabilization, and probably spanned 17
+meters including the gravity boom. When calculating collision
+probabilities, it's important to remember that booms and antennae mean
+that many satellites have much larger cross-sections than the size of
+their main body would imply.
+
+The debris from the collision has not yet been cataloged.
+A bright fireball seen over Texas on Feb 14 is almost certainly
+not related to this or any other artificial space debris.
+
+
+Geosynchronous debris
+---------------------
+
+Several new pieces of debris have been cataloged at geostationary
+altitudes. 33521 (1981-049D) is probably the GOES 5 apogee kick motor,
+and is in a 33801 x 49662 km x 22.1 deg orbit. (A sounder cover from the
+same mission is still unaccounted for). 33519 (1977-92L) is debris from
+the Ekran 2 battery explosion in 1978 Jun. 33509-33513 (1968-81K-P) are
+debris from the disintegration of Transtage 5 in 1992 Feb. This is the
+first time a large group of geosynchronous-band debris objects have been
+added to the catalog, but there must be many more not yet identified by
+the tracking network.
+
+
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jan 18 0247   USA 202 (NROL-26) Delta 4H         Canaveral SLC37B  Sigint    01A
+Jan 23 0354   Ibuki      )      H-IIA 202        Tanegashima       Rem.Sens. 02A
+              SDS-1      )                                         Tech      02C
+              SOHLA-1    )                                         Imaging   02
+              SpriteSat  )                                         Science   02
+              Kagayaki   )                                         Tech      02
+              KKS 1      )                                         Imaging   02
+              Kukai      )                                         Tech      02G
+              PRISM      )                                         Imaging   02B
+Jan 30 1330   Koronas-Foton     Tsiklon-3        Plesetsk         Solar phys 03A
+Feb  2 1834?  Omid              Safir            (Iran)            Test      04A  
+Feb  6 1022   NOAA 19           Delta 7320-10C   Vandenberg SLC2W  Weather   05A
+Feb 10 0549   Progress M-66     Soyuz-U          Baykonur LC31     Cargo     06A
+Feb 11 0003   Ekspress AM-44 )  Proton-M/Briz-M  Baykonur LC200/39 Comms     07A
+              Ekspress MD-1  )                                     Comms     07B
+Feb 12 2209   Hot Bird 10 )     Ariane 5ECA      Kourou ELA3       Comms     08A
+              NSS 9       )                                        Comms
+              Spirale A   )                                       Early Warn
+              Spirale B   )                                       Early Warn
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Dec 23 0300   RV-1 )          Bulava          TK-208, Barents R&D          100?
+              RV-2 )
+              RV-3 )
+              ?    ) (Number of reentry vehicles unknown)
+Jan 10 2317   NASA 30.073UO   Imp. Orion      Poker Flat      Ionosphere    98
+Jan 26 0015   S-310-39        S-310           Andoya          Atmosphere   140?
+Jan 29 0949   NASA 36.242UE   Black Brant IX  Poker Flat      Aurora       364
+Jan 29 0951   NASA 21.139UE   Black Brant VC  Poker Flat      Aurora       133
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   

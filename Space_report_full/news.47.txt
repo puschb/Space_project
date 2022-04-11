@@ -1,0 +1,73 @@
+Jonathan's Space Report
+
+Aug 7 1990 (no.47)
+----------------------------------------------------
+
+Soyuz TM-10 docked with Mir on Aug 3. The new crew, Manakov
+and Strekalov, have taken over the station. The Soyuz TM-9
+crew, Solov'yov and Balandin, are preparing to return to
+Earth.
+
+The USAF Navstar GPS 21 navigation satellite was launched 
+on Aug 2 by a McDonnell Douglas Delta 6925 from Canaveral.
+
+Kosmos-2088, launched by Tsiklon on Jul 30, is a geodetic satellite.
+
+___________________________________
+|Current STS status:              |
+|Orbiters                         |
+|                                 |
+|OV-102 Columbia        VAB Bay 3 |
+|OV-103 Discovery       OPF Bay 1 |
+|OV-104 Atlantis        LC39A     |
+|                                 |
+|ET/SRB stacks                    |
+|                                 |
+|STS-35/OV102           VAB Bay 3 |
+|STS-38/OV104           LC39A     |
+|STS-41                 VAB Bay 1 |
+-----------------------------------
+
+Mir complex current configuration:
+(docking port numbers are my own arbitrary assignments;
+they are in order of use.)
+
+Mir port 1:       Soyuz TM-9
+Mir port 2:       Kvant (port 1)
+Mir port 3:       Kvant-2 (port 1)
+Mir port 4:       Kristall (port 1)
+Mir port 5:       (vacant)
+Mir port 6:       (vacant)
+Kvant port 2:     Soyuz TM-10
+Kvant-2 SPK port: SPK maneuvring unit?
+Kristall port 2+: (vacant)
+                                          ___
+                                         / 2 \
+                                         \   /
+                                        ------- 
+                                    |  /       \
+                                    |  |       |
+                                    |  |   |   |
+                                    |  |   |   |
+                                    |  |   |   |
+                                    | /Kristall \
+              ______  _____________ | \_       _/
+|\_____  __  _|     \ |            \|___\_1___/__  _____/|
+|TM10| \/  \|  Kvant ||    Mir          \/4-\ /  \/ |TM9 |
+| ___|_/\__/|_2     1||2            ____    1|\__/\_|___ |
+|/            |     / |             ____/\3_/           \|
+              ------  |____________/   _/---- \_
+                                      /   1     \
+                                      \_Kvant-2_/
+                                       |       |
+                                       |       |
+                                       |   |   |
+                                       |   |   |
+                                  SPK  |       |
+                                     []|       |
+                                        \_____/
+                                        |-----|
+                                        
+(c) 1990 Jonathan McDowell
+
+

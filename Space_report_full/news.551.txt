@@ -1,0 +1,239 @@
+Jonathan's Space Report
+No. 551                                       2005 Aug 9, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+The Shuttle has completed its return-to-flight mission, but continuing
+problems with debris marred the otherwise successful flight.
+
+Discovery was launched at 1439:00 UTC on Jul 26, reaching a 54 x 229 km
+orbit at 1447 UTC. The OMS-2 burn at 1517 UTC raised the perigee out of
+the atmosphere, with a 155 x 230 km orbit. NC-1 and NC-2 burns resulted
+in 226 x 285 km and 270 x 287 km orbits, as the Shuttle slowly matched
+altitude and speed with the Station in a 350 x 356 km x 51.6 deg orbit.
+Meanwhile, external tank ET-121 fell back into the Pacific with reentry
+at around 1550 UTC.
+
+Spectacular camera views from the External Tank showed minor tile damage
+during ascent, and the loss of a half-meter piece of foam from the ET at
+the time of SRB separation. Although the foam did not hit Discovery, the
+failure to stop large foam loss (a 15-cm piece was also lost from near
+the bipod ramp) will have to be investigated and fixed before Atlantis
+can fly the next mission.
+
+On Jul 19 the Station crew flew Soyuz TMA-6 from the Pirs docking port,
+undocking at 1038 UTC, and redocked with the Zarya docking port at 1108 UTC.
+
+On Jul 28 at 1118 UTC Discovery docked at the Space Station. Hatch
+opening was at 1250 UTC. The first spacewalk was carried out on Jul 30
+and saw tile repair tests in the payload bay, and installation of a
+mounting bracket for the ESP-2 stores platform on the Station's Quest
+module.
+
+The second spacewalk on Aug 1 saw replacement of the Station's CMG-1 gyro.
+The third spacewalk on Aug 3 saw installation of the ESP-2 platform,
+and the removal of two protruding pieces of tile gap-filler material
+from the Shuttle's heat shield.
+
+Discovery undocked from Station at 0724 UTC on Aug 6 and landed safely
+on Runway 22 at Edwards Air Force Base at 1211 UTC on Aug 9.
+
+
+Suzaku
+------
+
+The newly-launched Suzaku mission has lost the use of its premier
+instrument, the XRS, according to a JAXA press release on Aug 9.
+This is a big blow to X-ray astronomy, following a 15-year struggle
+to get the experiment into orbit.
+
+Suzaku extended its optical bench on Jul 12, completing the most
+critical events of its early orbit operations. The first few element
+sets from Space Command seem to have confused Suzaku and its M34 final
+stage; the final stage is in a 248 x 540 km orbit and Suzaku was
+initially in a higher-perigee 295 x 540 km orbit. The satellite carries
+100 kg of hydrazine for its four 23N main orbit raise thrusters which
+were used to reach its 565 x 573 km operational orbit by Jul 22. The XRS
+instrument was cooled down to 60 milliKelvin and showing good resolution
+on the internal calibration source by Jul 29. The three-stage cooler
+involves an active cooler surrounded by liquid helium and solid neon.
+Sadly, on around Aug 7 a leak in the cooler system resulted in loss of the
+liquid helium, and without the coolant XRS can't return the planned
+high resolution spectra.
+
+XRS, the first X-ray microcalorimeter detector in orbit, was developed
+by NASA's Goddard Space Flight Center and Japan's ISAS science division
+of the JAXA space agency. It was originally planned to be aboard the
+AXAF (Chandra) mission, then split off into a separate AXAF-S mission
+that was later cancelled, and eventually added to the Japanese ASTRO-E
+mission which failed in 2000.
+
+Calorimeter detectors are expected to play an important role in future
+X-ray missions, but although an XRS-type instrument successfully made
+astronomical observations on suborbital rocket flight NASA 27.140UH in
+1996, there has been no long duration test of the technology to date.
+Suzaku's other instruments - four X-ray CCD telescopes and a high energy
+X-ray detector - are still being checked out and so far appear to be
+operating well.
+
+Chinese recoverable satellite
+-----------------------------
+
+A Chinese recoverable satellite, FSW 21, was launched on Aug 2
+from Jiuquan into a 165 x 494 km x 63.0 deg orbit.
+
+
+Errata
+-------
+
+The temperature of the XRS on ASTRO-E2 is 60 mK, not 1.5 mK - sorry.
+Deep Space 1 flew past Borrelly at 2230:37TT 2001 Sep 22, not Sep 17.
+
+Delta Confusion
+---------------
+
+In a number of NASA documents in the past year, I've seen alternative
+designations for Boeing's Delta rockets that don't seem to be used
+in Boeing's public documents. For example:
+
+  Boeing designation  NASA designation       
+  7320-10,7326-9.5    2320-10,2326-9.5
+  7420-10             2420-10
+  7920-10L            2920-10L
+  7925H-9.5           2925H-9.5
+  4M                  4040
+  4M+(4,2)            4240
+  4M+(5,4)            4450
+  4H                  4050H
+
+So I'm confused. Are these new names just NASA renaming things to
+confuse the issue (as they have done with their own names for Russian
+Progress and Soyuz spacecraft) or are these official Boeing designations
+and Boeing haven't updated their press kits and web sites? I'd
+appreciate email from anyone who can clarify the status of these
+designation systems. [Indeed, one correspondent seems to confirm
+my suspicion that this is another random NASA renaming of someone
+else's product. I will continue to use the manufacturer's designations.]
+
+I've ranted in the past that the Boeing Delta 4M/4H designation scheme
+is ugly. The form of the new scheme is better, but there's a bit of
+a problem. The first digit in the Delta 4-digit designations indicates
+the first stage configuration; in the new scheme it looks nice and
+sensible, 2 for Delta 2 and 4 for Delta 4. But the reason it's 7 in
+the old scheme for Delta 2 is that there were 6 earlier variants of
+first stage, and indeed earlier Deltas included the Delta
+2310, 2313, 2910, 2913, 2914 and 4925-8. It's a bit confusing that
+the 2310 (old scheme, 1970s Delta) and the 2320 (new scheme, Delta II)
+are such completely different vehicles, and sheer luck that there are
+no exact duplications. I understand the marketing people don't care since
+no-one is trying to sell a 2310 anymore... but for those who maintain
+historical records it's very confusing. How about just renaming Delta II
+and Delta IV to Delta IX and Delta X instead?
+
+By the way, for those without a scorecard, the full scheme is:
+digit 1 - first stage type; digit 2 - number of small strapons; digit 3 -
+second stage type; digit 4 - third stage type; optional letter H for
+'Heavy', means slightly bigger strapons for Delta 2 and strapon core stages
+for Delta 4; - stuff following dash, means diameter of fairing for Delta 2
+(currently coupled to second stage type for Delta 4).
+
+Globalstar
+----------
+
+A number of Globalstar low orbit communications satellites have
+had their orbits raised recently, presumably indicating their retirement.
+The operational orbit is 1412 x 1414 km x 52.0 deg; of the 52 satellites
+which reached orbit, 45 are in this operational orbit. The retirement
+orbit is 1512 x 1514 km; satellite M002, put in the retirement orbit
+in Nov 2001, had its orbit raised again in Apr-Jul 2005 to a still higher
+orbit of 1808 km. I infer that the 1512 x 1514 km orbit is for satellites
+which are out of the operational constellation but still partly functional,
+and that satellite 2's recent orbit raising involves depletion of remaining
+propellants prior to final switch-off. The lower 1450 km orbit
+of satellite 1 may indicate that it didn't have enough fuel to
+reach the standard retirement orbit.
+
+  Retired satellite   Date retired  Current orbit
+? 64    2000-08D      2000 Feb 17    909 x  926 km x 52.0 deg (Never operational)
+   2    1998-08C      2001 Nov 20   1807 x 1809 km x 52.0 deg
+  14    1998-23A      2001 Oct  1?  1499 x 1525 km x 52.0 deg
+  35    1999-37A      2005 Apr  6   1512 x 1514 km x 52.0 deg
+   1    1998-08A      2005 Apr 22   1452 x 1455 km x 52.0 deg
+  27    1999-43C      2005 May 15?  1513 x 1514 km x 52.0 deg  
+  61    1999-62D      2005 May 23   1512 x 1514 km x 52.0 deg
+
+
+It's possible that satellite 64 is in reserve for future use, but
+I think it is more likely that its propulsion system failed to operate.
+
+
+
+Iridium
+-------
+
+There are 66 Iridium satellites in the operational constellation. A
+further 11 working satellites are in orbital storage. 18 other
+satellites appear to have failed, but only three of these failures have
+happened since completion of the initial constellation in 1999. Iridium
+16, retired in Apr 2005, was quickly replaced by Iridium vehicle 86.
+
+  Retired satellite   Date retired  Current orbit
+Iridium 21    1997-34E  1997 Jul     574 x 584 x 86.4
+Iridium 11    1997-30G  1997 Sep     736 x 761 x 86.4
+Iridium 27    1997-51D  1997 Oct     Reentered 2002 Feb  1
+Iridium 20    1997-34C  1997 Dec     758 x 772 x 86.4
+Iridium 46    1997-82B  1998 Apr     758 x 771 x 86.4
+Iridium 51    1998-18A  1998 May     746 x 749 x 86.4
+Iridium 44    1997-77B  1998 Jul     767 x 773 x 86.4
+Iridium 71    1998-26B  1998 Jul     766 x 767 x 86.4
+Iridium 69    1998-26A  1998 Aug     776 x 771 x 86.4
+Iridium 79    1998-51D  1998 Sep     Reentered 2000 Nov 29
+Iridium 14    1997-30A  1998 Nov     765 x 769 x 86.4
+Iridium 85    1998-66C  1998 Nov     Reentered 2000 Dec 30
+Iridium 73    1998-32C  1998 Dec     734 x 737 x 86.4
+Iridium 48    1997-82D  1999 Apr     Reentered 2001 May  5
+Iridium 87    1998-66A  1999 May?    572 x 583 x 85.6
+Iridium  9    1997-30C  2000 Sep     Reentered 2003 Mar 11
+Iridium 38    1997-69E  2003 Aug     775 x 778 x 86.4
+Iridium 16    1997-30F  2005 Apr 11  771 x 777 x 86.4
+
+In storage:
+
+Iridium 77    1998-51E  1998         707 x 711 x 86.5
+Iridium 89    1998-74B  1998         707 x 711 x 86.5
+Iridium 92    1999-32A  1999         706 x 712 x 86.5
+Iridium 93    1999-32B  1999         707 x 711 x 86.5
+
+Iridium 90,91,94,95,96,97 in a 670 x 673 km storage orbit
+Iridium 98 (2002-31B) raised to a pre-operational 744 x 752 km orbit
+in Jun 2005.
+Iridium 86 put in operation Apr 2005 after 6.5 years of storage.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun 16 2310   Progress M-53     Soyuz-U         Baykonur LC1     Cargo       21A
+Jun 21 0049   Molniya-3K        Molniya-M       Plesetsk LC16/2  Comms       F01
+Jun 21 1946   Cosmos-1          Volna           Borisoglebsk,BAR Tech        F02
+Jun 23 1402   Intelsat A-8      Zenit-3SL       Odyssey,POR      Comms       22A
+Jun 24 1941   Ekspress AM-3     Proton-K/DM2    Baykonur         Comms       23A
+Jul  5 2240   SJ-7              CZ-2D           Jiuquan          Sci         24A
+Jul 10 0330   Suzaku            M-V             Uchinoura        XR Astron.  25A
+Jul 26 1439   Discovery         Shuttle         Kennedy LC39B    Spaceship   26A
+Aug  2 0730   FSW 21            CZ-2C           Jiuquan          Imaging     27A 
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,200 @@
+Jonathan's Space Report
+No. 589                                          2007 Dec 21, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+The next launch is Shuttle mission STS-122, Station flight 1E, carrying
+the European Columbus module to the Station. Launch will be no earlier
+than 2008 Jan.
+
+Peggy Whitson and Dan Tani made a spacewalk, US EVA-13, on Dec 18. The
+Quest airlock was depressurized at about 0948 UTC and repressurized at
+1646 UTC; the astronauts inspected the malfunctioning solar array
+rotation joint and beta gimbal assembly.
+
+
+Kosmos-2434
+------------
+
+A Globus communications satellite built by NPO PM for the Russian
+Defense Ministry  was launched on Dec 9 on a Proton-M/Briz-M and given
+the cover name Kosmos-2434. Previous Globus satellites were given the
+Raduga-1 cover name. The Briz-M probably entered an initial 173 x 173 km
+orbit; it then reached a 273 x 4991 km x 49 deg intermediate orbit, and
+next a 400 x 35815 km x 49 deg geostationary transfer orbit. By Dec 18
+the payload was at 79.6E in a 35569 x 35956 km x 0.1 deg orbit. It's not
+clear what happened to the Briz-M jettisonable propellant tank.
+
+Cosmo 2
+--------------
+
+The second Italian military radar satellite in the Cosmo-Skymed system
+was launched on Dec 9 by a Boeing Delta 7420-10. At second stage first
+cutoff the orbit was 185 x 645 km x 97.8 deg; a second burn at 0325 UTC
+put the satellite in a 620 x 637 km orbit.
+
+Space Command is now calling the satellite Skymed 2, but the Boeing
+launch booklet referred to it as Cosmo.
+
+Radarsat 2
+----------
+
+Canada's Radarsat 2 satellite was launched on Dec 14 by a Russian
+Soyuz-FG/Fregat into a 790 x 798 km x 98 deg orbit. The Soyuz third
+stage was in a 169 x 206 km parking orbit and reentered later the
+same day; the Fregat stage was deorbited after releasing Radarsat.
+
+
+Erratum:
+--------
+In my discussion of the Delta 4 Heavy launch I inadvertently referred
+to the upper stage as a Centaur. Although it uses a similar RL-10 family
+rocket engine, the Delta 4 Second Stage is of course not a Centaur.
+
+A source reports that the orbit of the Nanosat-2 satellite launched in
+Dec 2004 on the first Delta 4 Heavy was 105 x 196 km x 27 deg.
+Nanosat-2, which consisted of two small satellites which remained
+attached to each other, is believed to have reentered less than one hour
+after launch.
+
+Yaogan 3
+--------
+
+As I reported previously, China's new radar satellite Yaogan 3 was
+launched at 2248 UTC on Nov 11. The Yaogan 3 satellite originally
+reached a 456 x 612 km x 97.9 deg orbit and separated from the third
+stage at 2309 UTC on Nov 11. Although China announced that the rocket
+had a new restart capability on the third stage, I can't tell if this
+was used. At first apogee about 2315 UTC on Nov 11, Yaogan used its own onboard
+engine to raise orbit to 613 x 623 km; on Nov 20 and 21 small adjustment
+burns trimmed the orbit to 627 x 629 km.
+
+EPOXI
+-----------
+
+The EPOXI (formerly Deep Impact) probe made a course correction on Nov 1
+to set up for a Dec 31 Earth flyby, and an encounter with comet
+103P/Hartley 2 on 2010 Oct 11, just before the comet reaches perihelion
+at 1.06AU on 2010 Oct 28.
+
+EPOXI will pass 15566 km over Australia at 1930 UTC on Dec 31. The flyby
+will change its solar orbit from 0.98 x 1.64 AU x 0.7 deg to 0.91 x 1.09
+AU x 4.2 deg.
+
+NROL-24
+-------
+
+Atlas V mission AV-015 launched a classified satellite for the US
+National Reconnaissance Office (NRO). The payload for launch NROL-24 has
+been given the cover name USA-198 and is thought to be
+an SDS (Satellite Data System) data relay satellite used to relay
+surveillance imagery and data from low altitude polar orbiting 
+NRO spacecraft.
+
+The Centaur entered a low parking orbit and then a deployment orbit of
+261 x 16776 km x 60.0 deg (according to visual observations reported by
+independent sources). This compares with the 267 x 15379 km x 58.0 deg
+deployment orbit of the previous mission in the series, USA 179. The
+payload will use its own on-board propulsion to raise the orbit to
+around 1000 x 39400 km x 63 deg.
+
+Some observers speculated that the SBIRS HEO-2 infrared missile warning
+package and the TWINS-B magnetospheric research package might also be
+aboard, although I believe that next year's NROL-28 mission is a more
+likely fit for these and for the third Interim Polar Adjunct
+communications package.
+
+The first generation SDS satellites were launched by Titan 34B/Agena D
+rockets and deployed directly into 12-hour orbits. Here is a list of
+more recent SDS HEO (highly elliptical orbit) satellites:
+
+SDS HEO Launches
+                                     Parking orbit      Deployment orbit
+
+1989-61B  USA 40                     401 x 502 x 57.0   532 x  8135 x 57.0
+1992-86B  USA 89                     364 x 380 x 57.0   372 x  7300?x 56.9
+1996-38A  USA 125                    292 x 300 x 54.9   383 x 14072 x 55.4
+1998-05A  USA 137 (CAPRICORN)        191 x 795 x 62.5   Unknown
+2004-34A  USA 179 (NROL-1/NEMESIS)   191 x 400 x 58.4   267 x 15379 x 58.0
+2007-60A  USA 198 (NROL-24/SCORPIUS) 209 x 262 x 60.0   261 x 16776 x 60.0
+
+Another constellation of NRO spacecraft uses a similar final orbit and
+are thought to be primarily signals intelligence payloads associated
+with the code-name TRUMPET. There were three such launches in 1994-1997.
+A more recent launch may be related; USA 184 also carries the TWINS-A
+and SBIRS HEO-1 payloads. NROL-28 is likely to be similar to USA-184. 
+Unlike the SDS launches, these flights deploy their payloads directly
+into the 12-hour orbit.
+
+1994-26A  USA 103                    200 x 200?x 57    1323 x 39035 x 64.4
+1995-34A  USA 112                    245 x 255 x 56.1  Unknown
+1997-68A  USA 136 (+IPA-1?)          185 x 185 x 55.0  1098 x 39012 x 63.6
+
+2006-27A  USA 184 (NROL-22)          193 x 2215 x 62.5 1111 x 37594 x 62.4
+          (+TWINS-A/SBIRS-HEO-1/IPA-2?)
+2008?     USA ? (NROL-28 + TWINS-B/SBIRS-HEO-2/IPA-3?)
+
+
+GPS 57
+------
+
+The Navstar Global Positioning System GPS  space vehicle 57, the 18th
+GPS IIR and 5th upgraded IIR-M, was launched from Cape Canaveral at 2004
+UTC on Dec 20. It reached a preliminary 174 x 203 km x 37.5 deg parking
+orbit at 2014 UTC and was delivered to elliptical transfer orbit at 2114 UTC.
+
+Ariane L530
+-----------
+
+Arianespace launched Ariane 5GS vehicle L530 (flight V180) on Dec 21.
+The EPC core stage reached a 30 x 1730 km x 7.3 deg orbit, reentering
+on the first perigee. The EPS upper stage reached geostationary
+transfer orbit and deployed two telecommunications satellites,
+RASCOM-QAF-1 and Horizons 2.
+
+RASCOM-QAF-1 is a Thales (Cannes) Spacebus 4000B3 with a hybrid Ku/C-band
+payload for RascomStarQAF of Port Louis, Mauritius, a subsidiary of the
+Regional African Satellite Communications Organization (RASCOM) based
+in Cote d'Ivoire. The mission and satellite control centers are
+in Cameroun and Libay; the satellite will provide voice, data and
+internet in Africa.
+
+Horizons 2 is an Orbital Star 2 Ku-band satellite for Horizons Satellite
+Holdings LLC, a joint venture of Intelsat and the Japanese JSAT company.
+
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Nov  1 0051   SAR-Lupe 3 )      Kosmos-3M        Plesetsk LC132/1 Radar      53A
+              AIS        )                                                   53B
+Nov 11 0150   DSP 23            Delta 4H         Canaveral SLC37B Early Warn 54A
+Nov 11 2248   Yaogan 3          Chang Zheng 4C   Taiyuan          Radar      55A
+Nov 14 2206   Skynet 5B   )     Ariane 5ECA      Kourou ELA3      Comms      56B
+              Star One C1 )                                                  56A
+Nov 17 2239   Sirius 4          Proton-M/Briz-M  Baykonur LC200/39 Comms     57A
+Dec  9 0015   Kosmos-2434       Proton-M/Briz-M  Baykonur LC81/24  Comms     58A
+Dec  9 0231   Cosmo 2           Delta 7420-10    Vandenberg SLC2W  Radar     59A
+Dec 10 2205   USA 198 (NROL-24) Atlas V 401      Canaveral SLC41   Comms?    60A
+Dec 14 1317   Radarsat-2        Soyuz-FG/Fregat  Baykonur LC31     Radar     61A
+Dec 20 2004   GPS 57            Delta 7925       Canaveral SLC17A  Nav       62A?
+Dec 21 2141   Rascom-QAF-1 )    Ariane 5GS       Kourou ELA3       Comms     63A?
+              Horizons 2   )                                       Comms     63B?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+

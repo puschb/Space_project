@@ -1,0 +1,160 @@
+Jonathan's Space Report
+No. 302                          1996 Oct 29               Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Columbia is now on pad 39B awaiting the STS-80 launch, still scheduled
+for Nov 8 pending resolution of worries about the SRBs. Korzun, Kaleri
+and Blaha remain on Mir awaiting the Progress M cargo launch which has
+been delayed.
+
+Recent Launches
+---------------
+
+A meteoroid travelling in solar orbit bounced off the Earth's atmosphere
+above New Mexico at 0200 UTC on Oct 4. It apparently entered a marginal
+Earth orbit and reentered over the Pacific and impacted in California
+almost one orbit later. NORAD numbers and international designations
+only get given to *artificial* satellites, and even then usually only
+to ones which make a complete orbit, so this natural object won't
+get in the satellite catalogs.
+
+China has launched an FSW-2 class recoverable satellite using a Chang
+Zheng 2D rocket from the Jiuquan space center. The satellite is in a 170
+x 323 km orbit at 63.0 deg inclination with an orbital period of 89.45
+minutes.  The CZ-2D second stage is in a similar orbit. The FSW carries
+cameras for Earth photography, and will return a capsule to Earth.
+
+A Molniya-3 comsat, built by NPO Prikladnoi Mekhaniki for the Russian
+government, was launched into elliptical orbit on Oct 24 from Plesetsk.
+
+Launch time of Kosmos-2334 was 1247 UTC not 1347 UTC as I said earlier;
+there was a confusion about summer time.
+
+Launch of a Pegasus XL with the Argentine satellite SAC-B and the US
+HETE satellite is currently scheduled for Oct 30.
+
+Transit Symposium
+-----------------
+
+On Oct 18, the Applied Physics Lab (APL) hosted a symposium on the
+Transit or Navy Navigation Satellite (NNS) system. Transit was one of
+the first operational satellite systems, and has provided 24-hour
+service since 1964, initially for Polaris submarines and more recently
+for civilian users. It is being superseded by the Navstar global
+positioning system. Individual satellites were remarkable for their 
+longevity, many operating for over 10 years. Users measure the changing
+Doppler shift of the satellite's radio signal as it rises and sets,
+combined with knowledge of its orbit, to derive their position.
+
+The symposium participants recalled Transit's technical achievements
+including early work on orbiting frequency standards, gravity gradient
+stabilization, the use of radio-isotope thermoelectric generators (RTG), and
+on-board electronics to store the orbital ephemeris. The TRIAD satellite
+launched in 1972 to test improvements, used a remarkable device with a
+proof mass  floating inside a cavity in the spacecraft to enable
+automatic correction for atmospheric drag. Small rocket motors fired to
+adjust the satellite's orbit to keep the floating mass in the middle of
+the cavity. Designers had to take into account the self-gravity of the
+TRIAD satellite itself!
+
+Although the navigation data stops being updated at the end of this
+year,  the satellites will continue transmitting with NNS becoming NIMS,
+the Navy Ionospheric Monitoring System. Researchers monitor the
+distortion of the Transit  radio signals by the ionosphere to derive
+maps of electron density versus height and position. The O-16 and O-17
+satellites were modified for auroral and ionospheric research and were
+not part of the navigation system.
+
+Here is a summary of the Transit launches:
+
+Early Transit R&D sats:
+
+ I-A   1959 Sep 17   Launch failure
+ I-B   1960 Apr 13   
+ II-A  1960 Jun 22
+ III-A 1960 Nov 30   Launch failure
+ III-B 1961 Feb 22   Launch failure
+ IV-A  1961 Jun 29
+ IV-B  1961 Nov 15   RTG power supply
+TRAAC  1961 Nov 15   Gravity gradient test
+
+Prototype Transit satellites:                Transit-based research sats:
+
+ VA-1  1962 Dec 19 
+ VA-2  1963 Apr  6   Launch failure
+ VA-3  1963 Jun 16
+ VBN-1 1963 Sep 28   RTG                     VE-1  1963 Sep 28
+ VBN-2 1963 Dec  5   RTG                     VE-3  1963 Dec  5 
+ VBN-3 1964 Apr 21   RTG; Launch failure     VE-2  1964 Apr 21
+ VC    1964 Jun  4                           VE-4  1964 Oct  6
+
+Operational Transits (`Oscars')
+
+ O-1   1964 Oct  6      O-11 1977 Oct 28  
+ O-2   1964 Dec 13      O-16 1983 Jun 27 Hilat experiment
+ O-3   1965 Mar 11      O-24 1985 Aug  3
+ O-4   1965 Jun 24      O-30 1985 Aug  3 
+ O-5   1965 Aug 13      O-17 1986 Nov 14 Polar Bear expt.
+ O-6   1965 Dec 22      O-27 1987 Sep 16
+ O-7   1966 Jan 28      O-29 1987 Sep 16
+ O-8   1966 Mar 26      O-23 1988 Apr 26
+ O-9   1966 May 19      O-32 1988 Apr 26 
+ O-10  1966 Aug 18      O-25 1988 Aug 25 
+ O-12  1967 Apr 14      O-31 1988 Aug 25
+ O-13  1967 May 18
+ O-14  1967 Sep 25      Improved Transits and Nova
+ O-18  1968 Mar  2    
+ O-19  1970 Aug 27      TRIAD  1972 Sep  2  Nova 1  1981 May 15
+ O-20  1973 Oct 30      TIP 2  1975 Oct 12  Nova 3  1984 Oct 12
+                        TIP 3  1976 Sep  1  Nova 2  1988 Jun 16
+
+ 
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  4 0901   Kosmos-2333      Zenit-2        Baykonur LC45L  Sigint      51A
+Sep  5 1247   Kosmos-2334 )    Kosmos-3M      Plesetsk LC132/1 Navsat     52A
+              UNAMSat     )                                               52B
+Sep  6 1737   Inmarsat III F2  Proton         Baykonur LC81   Comsat      53A
+Sep  8 2149   GE-1             Atlas IIA      Canaveral LC36B Comsat      54A
+Sep 11 0000   Echostar II      Ariane 42P     Kourou ELA2     Comsat      55A
+Sep 12 0849   Navstar 30       Delta 7925     Canaveral LC17A Navsat      56A
+Sep 16 0855   Atlantis         Shuttle        Kennedy LC39A   Spaceship   57A
+Sep 26 1751   Ekspress         Proton-K       Baykonur        Comsat      58A
+Oct 20 0730?  FSW-2            Chang Zheng 2D Jiuquan         Remote sen. 59A
+Oct 24 1137   Molniya-3        Molniya-M      Plesetsk        Comsat      60A
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-80  Nov 8
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        OPF Bay 3     STS-81  Jan 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-54                VAB Bay 1      STS-81
+ML3/RSRM-49/ET-80/OV-102   LC39B          STS-80
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

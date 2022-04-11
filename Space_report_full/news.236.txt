@@ -1,0 +1,144 @@
+Jonathan's Space Report 
+No. 236               1995 Apr 4                   Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Endeavour arrived at Kennedy Space Center on Mar 27
+and is now being prepared for the STS-69 flight.
+Launch of the Spektr module to Mir will be delayed, and
+this may delay the planned launch of Atlantis in June.
+
+
+Recent Launches
+--------------------------------------------------------------------------------
+
+The last Atlas E was launched on Mar 24 from Space Launch Complex 3-West
+at Vandenberg Air Force Base in California. The Atlas E launch vehicles
+were refurbished intercontinental ballistic missiles which had been
+built in the early 1960s. Atlas 45E carried an Air Force DMSP (Defense
+Meteorological Satellite Program) satellite into space. The DMSP's Star
+37S solid motor fired to insert the satellite in a 101.9 min, 846 x 854
+km x 98.8 deg orbit. It is one of the Block 5D-2 series; all DMSP
+satellites were built by RCA Astro Space, which is now Lockheed Martin
+Astro Space. The satellite carries the OLS (Operational Linescan System)
+weather imager, and a set of microwave sounders and particle
+detectors. The satellite is 5D F-13 (the 13th flight satellite of
+the Block 5D class), and is also designated DMSP 24547 (probably,
+I haven't got confirmation of this). The 24547 designation says that
+this is the 24th Block 5 satellite to be launched, and is spacecraft
+construction number 47 (these last two digits do not necessarily
+reflect the launch order). 
+
+Three satellites were lost when a Russian launch vehicle fell in the Sea
+of Okhotsk on Mar 28. The five-stage Start launch vehicle, which took
+off from Plesetsk, is based on the Nadiradze bureau's three stage Topol'
+ballistic missile. A four stage Start-1 variant  successfully placed a
+test satellite in orbit in Mar 1993. This time, although the basic four
+stages worked fine, the new fifth stage failed and the payloads did not
+reach orbit.
+
+The two commercial payloads on the Start were Gurwin-1 and UNAMSAT.
+The Start also carried a prototype satellite, the EKA
+(Eksperimental'niy Kosmicheskiy Apparat). Gurwin-1, also known as Techsat,
+was built by the Technion Institute of Technology in  Israel.
+The 50 kg satellite carried a CCD camera, a radiation detector,
+an ozone monitor, and an amateur radio packet BBS as well as satellite
+technology tests.  UNAMSAT was an AMSAT Microsat class amateur radio
+satellite built by UNAM, the Autonomous University of Mexico. 
+
+The Ariane launch vehicle returned to flight on Mar 28, following a
+failure last December. It successfully placed in geostationary transfer
+orbit two communications satellites, Eutelsat Hot Bird 1 and Brasilsat
+B2. Hot Bird 1, an Aerospatiale-built Spacebus 2000 satellite,
+is also known as Eutelsat II F-6. It was enhanced from the standard
+Eutelsat II configuration to carry extra Ku band transponders.
+Eutelsat satellites are owned by the European Telecommunications Satellite
+Organization and broadcast TV to Europe and the Mediterranean.
+Brasilsat B2 is owned by Embratel, the Brazilian government telephone
+company. It is the second HS-376W, a wide diameter variant of the
+classic Hughes HS-376 comsat in use since 1980. 
+
+The new generation Zenit-launched spy satellite Kosmos-2290 was launched
+on 1994 Aug 26. In late March of this year (between Mar 24 and 29) it
+raised its apogee by 200 km, from an orbit of 181 x 382 km x 64.8 deg to
+181 x 571 km x 64.8 deg, and four new small objects were tracked in the
+post-manouevre orbit. It seems likely that this marks the end of the
+Kosmos-2290 mission. Russian spy satellites are usually deorbited at the
+end of their mission, and it is not clear whether the orbit raise of
+Kosmos-2290 reflects a new operational regime, a new disposal strategy, 
+a deorbit burn that went in the wrong direction, or (less likely) a
+tracking by US Space Command of a residual part of the spacecraft
+following recovery of a reentry vehicle.
+
+There was another launch on Apr 3, but I don't have any details yet.
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar  2 0638   Endeavour    )  Space Shuttle   Kennedy LC39A   Spaceship   07A
+              Astro 2      )
+Mar  2 1300   Kosmos-2306     Kosmos-3M       Plesetsk LC132  Calibration 08A
+Mar  7 0923   Kosmos-2307  )  Proton-K/DM2    Baykonur LC200  Navigation  09A
+              Kosmos-2308  )                                  Navigation  09B
+              Kosmos-2309  )                                  Navigation  09C
+Mar 14 0611   Soyuz TM-21     Soyuz-U2        Baykonur LC1    Spaceship   10A
+Mar 18 0801   SFU          )  H-II            Tanegashima     Science     11A
+              GMS-5        )                                  Weather     11B
+Mar 22 0405?  Kosmos-2310     Kosmos-3M       Plesetsk        Navigation  12A
+Mar 22 0618   Intelsat 705    Atlas IIAS      Canaveral LC36B Comsat      13A
+Mar 22 1645?  Kosmos-2311     Soyuz-U         Plesetsk        Recon       14A
+
+Mar 24 1405   DMSP 24547      Atlas E         Vandenberg SLC3 Weather     15A
+
+Mar 28 0900   Gurwin-1     )  Start           Plesetsk        Technology  FTO
+              UNAMSAT      )                                  Comsat      FTO
+              EKA          )                                  Dummy       FTO
+
+Mar 28 0618   Eutelsat HB1 )  Ariane 44LP     Kourou          Comsat      16B
+              Brasilsat B2 )                                  Comsat      16A
+
+Apr  3 1500?  ?                                                           17A
+
+Reentries
+---------
+
+Mar  2        ODERACS II D    Reentered
+Mar  3        ODERACS E       Reentered
+Mar  3        Foton 10        Landed in Russia
+Mar 10        Kosmos-2280     Deorbited
+Mar 15        Progress M-26   Deorbited over Pacific
+Mar 18        Endeavour       Landed at Edwards AFB
+Mar 18        Kosmos-2244     Deorbited
+Mar 22        Soyuz TM-20     Landed in Kazakhstan
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-70  Jun 22  
+OV-104 Atlantis        OPF Bay 3     STS-71  Under review
+OV-105 Endeavour       OPF Bay 1     STS-69  Jul 20 
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-44                VAB Bay 3 STS-70                                 
+ML3/RSRM-45/ET-70          VAB Bay 1 STS-71
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

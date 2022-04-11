@@ -1,0 +1,182 @@
+
+Jonathan's Space Report : 1993 Launch Summary
+
+No. 181		1993 Jan  24
+------------------------------------------------------------------------------
+Mir Flash: Soyuz TM-17 collided with the Mir station during its
+flyaround after undocking. The collision was minor and at low
+velocity and apparently caused no serious damage, but a spacewalk
+to inspect the station is expected.
+
+Erratum: As usual, I failed to subtract correctly: The EO-14 expedition to Mir 
+lasted 196 days 17hr 45 min, an hour shorter than my claim in JSR180.
+Also, Ken Reightler is making his second flight on STS-60, not his
+first as I stated in JSR 180; he was pilot of STS-48. Thanks to Pawel
+Moskalik for pointing out these goofs.
+
+Launches: The Gals 1 comsat was launched from Baykonur on Jan 20.
+Details in the regular issue next week. This week JSR is devoted to the
+usual annual launch summary.
+------------------------------------------------------------------------------
+  ORBITAL PAYLOADS 1993
+
+ Orbits are given for early Jan 1993: 
+ perigee (km) x apogee (km) x inclination (deg)
+
+INT'L	NAME		AGENCY	TYPE      LAUNCH     ORBIT OR STATUS
+DESIGN.					  DATE
+
+1993-
+01A  Kosmos-2230       MO RF    Navsat     Jan 12     970 x  1008 x 82.9
+02A  Molniya-1         MSvyazi  Comsat     Jan 13     519 x 39832 x 62.8
+03A  Endeavour STS-54  NASA     Spaceship  Jan 13   Landed at KSC Jan 19
+03B  TDRS F6           NASA     Comsat     Jan 13   35779 x 35795 x  0.7  45.8W
+04A  Kosmos-2231       MO RF    Recon      Jan 19   Deorbited Mar 25
+05A  Soyuz TM-16       NPOE     Spaceship  Jan 24   Landed in Kazakhstan Jul 22
+06A  Kosmos-2232       PVO      Early Warn Jan 26     844 x 39509 x 62.8
+07A  Navstar GPS 22    USAF     Navsat     Feb  2   19995 x 20371 x 54.7
+-    Znamya            NPOE     Technology Feb  4   Reentered Feb 5
+08A  Kosmos-2233       MO RF    Navsat     Feb  9     952 x  1010 x 82.9
+09A  Orbcomm CDS       OSC      Comsat     Feb  9     727 x   789 x 25.0
+09B  SCD-1             INPE     Technology Feb  9     725 x   788 x 25.0
+10A  Kosmos-2234       MO RF    Navsat     Feb 17   19106 x 19153 x 64.9
+10B  Kosmos-2235       MO RF    Navsat     Feb 17   19110 x 19148 x 64.9
+10C  Kosmos-2236       MO RF    Navsat     Feb 17   19093 x 19166 x 65.0
+11A  Asuka             ISAS     Astronomy  Feb 20     535 x   642 x 31.1
+12A  Progress M-16     NPOE     Cargo      Feb 21   Deorbited Mar 27
+13A  Raduga            MSvyazi  Comsat     Mar 25   35776 x 35793 x  0.9  11.4E
+14A  Start-1           NPOK     Comsat     Mar 25     682 x   970 x 75.7
+15A  UFO F1            HCI      Comsat     Mar 25   36037 x 36110 x 26.9
+16A  Kosmos-2237       MO RF    SIGINT     Mar 26     846 x   855 x 71.1
+17A  Navstar GPS 31    USAF     Navsat     Mar 30   20072 x 20290 x 55.0
+17B  SEDS 1            NASA     Technology Mar 30   Reentered Mar 30
+18A  Kosmos-2238       MO RF    SIGINT     Mar 30     403 x   417 x 65.0
+19A  Progress M-17     NPOE     Cargo      Mar 31     235 x   344 x 51.6
+20A  Kosmos-2239       MO RF    Navsat     Apr  1     966 x   988 x 82.9
+21A  Kosmos-2240       MO RF    Recon      Apr  2   Deorbited Jun  7
+22A  Kosmos-2241       PVO      Early Warn Apr  6     896 x 39458 x 63.9
+23A  Discovery STS-56  NASA     Spaceship  Apr  8   Landed at KSC Apr 17
+23B  Spartan 201       NASA     Astronomy  Apr 11   Retrieved Apr 13
+24A  Kosmos-2242       MO RF    SIGINT     Apr 16     632 x   668 x 82.5
+25A  Molniya-3         MSvyazi  Comsat     Apr 21     763 x 39585 x 63.3
+26A  Alexis            USAF     Astronomy  Apr 25     747 x   835 x 69.9
+27A  Columbia STS-55   NASA     Spaceship  Apr 26   Landed at Edwards AFB Apr 26
+28A  Kosmos-2243       GUGK     Mapping    Apr 27   Reentered May 6
+29A  Kosmos-2244       MO RF    SIGINT     Apr 28     403 x   418 x 65.0
+30A  Kosmos-2245       MO RF    Comsat     May 11    1397 x  1417 x 82.6
+30B  Kosmos-2246       MO RF    Comsat     May 11    1400 x  1417 x 82.6
+30C  Kosmos-2247       MO RF    Comsat     May 11    1403 x  1417 x 82.6
+30D  Kosmos-2248       MO RF    Comsat     May 11    1401 x  1417 x 82.6
+30E  Kosmos-2249       MO RF    Comsat     May 11    1404 x  1417 x 82.6
+30F  Kosmos-2250       MO RF    Comsat     May 11    1403 x  1418 x 82.6
+31A  Astra 1C          SES      Comsat     May 12   35750 x 35822 x  0.0  19.2E
+31B  Arsene            RACE     Comsat     May 12   17221 x 36832 x  1.4
+32A  Navstar GPS 37    USAF     Navsat     May 13   20046 x 20318 x 55.1
+33A  Resurs-F          RKA      Rem/Sen    May 21   Landed in Kazakhstan Jun 20
+34A  Progress M-18     NPOE     Cargo      May 22   Landed in Kazakhstan Jul  4
+35A  Molniya-3         MSvyazi  Comsat     May 26     751 x 39603 x 62.9
+FTO  Gorizont          MSvyazi  Comsat     May 27   Fell in Pacific Ocean May 27
+36A  Kosmos-2251       MO RF    Comsat     Jun 16     780 x   806 x 74.0
+37A  Endeavour STS-57  NASA     Spaceship  Jun 21   Landed at KSC Jul 1
+38A  Kosmos-2252       MO RF    Comsat     Jun 20    1404 x  1416 x 82.6
+38B  Kosmos-2253       MO RF    Comsat     Jun 20    1410 x  1425 x 82.6
+38C  Kosmos-2254       MO RF    Comsat     Jun 20    1393 x  1414 x 82.6
+38D  Kosmos-2255       MO RF    Comsat     Jun 20    1405 x  1414 x 82.6
+38E  Kosmos-2256       MO RF    Comsat     Jun 20    1401 x  1414 x 82.6
+38F  Kosmos-2257       MO RF    Comsat     Jun 20    1409 x  1420 x 82.6
+39A  Galaxy 4H	       HCI      Comsat     Jun 25   35774 x 35799 x  0.0  99.1W
+40A  Resurs-F          RKA      Rem/Sen    Jun 25   Landed in Kazakhstan Jul 12
+41A  RADCAL            USAF     Calib      Jun 25     754 x   887 x 89.5
+42A  Navstar GPS 39    USAF     Navsat     Jun 26   20114 x 20248 x 54.6
+42B  PMG               NASA     Technology Jun 26   Reentered Aug 30
+43A  Soyuz TM-17       NPOE     Spaceship  Jul  1   Landed in Kazakhstan 94 Feb
+44A  Kosmos-2258       MO RF    SIGINT     Jul  7     404 x   417 x 65.0
+45A  Kosmos-2259       MO RF    Recon      Jul 14   Deorbited Jul 25
+46A  DSCS III F-7?     USAF     Comsat     Jul 19   35780 x 35780 x  0.0 ??
+47A  Kosmos-2260       GUGK     Rem/Sen    Jul 22   Landed in Kazakhstan Aug  5
+48A  Hispasat 1B       HISPA    Comsat     Jul 22   35772 x 35801 x  0.0  30.1W
+48B  Insat 2B          ISRO     Comsat     Jul 22   35773 x 35798 x  0.0  93.5E
+FTO  Adv. NOSS 3?      USN      Recon      Aug  2   Exploded on launch
+49A  Molniya-3         MSvyazi  Comsat     Aug  4     623 x 39736 x 62.9
+50A  NOAA 13           NOAA     Metsat     Aug  9     849 x   863 x 98.9
+51A  Kosmos-2261       PVO      Early Warn Aug 10     813 x 39545 x 63.1
+52A  Progress M-19     NPOE     Cargo      Aug 10   Deorbited Oct 13
+53A  Resurs-F          RKA      Rem/Sen    Aug 24   Landed in Kazakhstan Sep 10
+54A  Navstar GPS 35    USAF     Navsat     Aug 30   20115 x 20249 x 54.9
+55A  Meteor-2          RKA      Metsat     Aug 31     936 x   969 x 82.5
+55C  Temisat           Telespz  Comsat     Aug 31     936 x   969 x 82.5
+56A  UFO F2            HCI      Comsat     Sep  3   35766 x 35804 x  5.0  71.6E
+57A  Kosmos-2262       MO RF    Recon      Sep  7   Deorbited Dec 18
+58A  Discovery STS-51  NASA     Spaceship  Sep 12   Landed at KSC Sep 22
+58B  ACTS              NASA     Comsat     Sep 12   35777 x 35796 x  0.0 100.1W
+58C  ORFEUS-SPAS       DARA     Astronomy  Sep 13   Retrieved Sep 19
+59A  Kosmos-2263       MO RF    SIGINT     Sep 16     844 x   858 x 71.0
+60A  Kosmos-2264       MO RF    SIGINT     Sep 17     401 x   419 x 65.0
+FTO  IRS-1E            ISRO     Rem/Sen    Sep 20   Destroyed on launch
+61A  SPOT 3            CNES     Rem/Sen    Sep 26     824 x   825 x 98.7
+61B  STELLA            CNES     Geodesy    Sep 26     796 x   806 x 98.7
+61C  Uribyol 2         KAIST    Comsat     Sep 26     793 x   806 x 98.7
+61D  Posat 1           LNETI    Technology Sep 26     792 x   806 x 98.7
+61E  Healthsat 1       Satelife Comsat     Sep 26     792 x   805 x 98.7
+61F  Eyesat A          Interf   Comsat     Sep 26     792 x   805 x 98.7
+61G  ITAMsat           ARI      Comsat     Sep 26     791 x   805 x 98.7
+62A  Raduga            MSvyazi  Comsat     Sep 30   35754 x 35815 x  1.3  84.2E
+FTO  Landsat 6         NOAA     Rem/Sen    Oct  5   Fell in Pacific Ocean Oct 5
+63A  Jian Bing         PRC      Rem/Sen    Oct  8     192 x  2874 x 56.6
+64A  Progress M-20     NPOE     Cargo      Oct 11   Landed in Kazakhstan Nov 21
+65A  Columbia STS-58   NASA     Spaceship  Oct 18   Landed at Edwards AFB Nov 1
+66A  Intelsat 701      INTELSAT Comsat     Oct 22   35608 x 35967 x  0.1 121.7E
+67A  Kosmos-2265       PVO      Calib      Oct 26     293 x  1560 x 82.9
+68A  Navstar GPS 34    USAF     Navsat     Oct 26   20109 x 20256 x 55.1
+69A  Gorizont          MSvyazi  Comsat     Oct 28   35772 x 35803 x  1.3  90.2E
+70A  Kosmos-2266       MO RF    Navsat     Nov  2     948 x  1020 x 82.9
+71A  Kosmos-2267       MO RF    Recon      Nov  5     241 x   282 x 70.4
+72A  Gorizont/Rimsat   Rimsat   Comsat     Nov 18   35770 x 35798 x  1.3 129.8E
+73A  Solidaridad 1     TdM      Comsat     Nov 20   35776 x 35796 x  0.0 109.2W
+73B  Meteosat 6        EUMETSAT Metsat     Nov 20   35772 x 35801 x  1.3  10.1W
+74A  DSCS III F-8?     USAF     Comsat     Nov 28   35780 x 35780 x  0.0 ??
+75A  Endeavour STS-61  NASA     Spaceship  Dec  2   Landed at KSC Dec 13
+76A  NATO IVB          NATO     Comsat     Dec  8   35116 x 36445 x  4.1  (54W)
+77A  Telstar 401       AT&T     Comsat     Dec 16   19132 x 35822 x  3.8  
+78A  DBS 1             DirecTV  Comsat     Dec 18   35767 x 35806 x  0.0 101.3W
+78B  Thaicom 1         Shinaw.  Comsat     Dec 18   35772 x 35804 x  0.1  78.6E
+79A  Molniya-1T        MSvyazi  Comsat     Dec 22     444 x 39247 x 62.8
+
+ARI      Associazone Radioamatori Italiani
+AT&T     American Telephone and Telegraph Corp., USA
+CNES	 Centre National d'Etudes Spatiales (Paris, France)
+DARA     Deutsche Agentur fur Raumfahrtgelegenheiten, Germany
+DirecTV  DirecTV Corp., USA
+EUMETSAT European Meteorological Satellite Organization
+GUGK     Central Agency for Geodesy and Cartography, Russia
+HCI	 Hughes Communications Inc.
+INPE     Instituto Nacional de Pesquisas Espacias, Brazil
+INTELSAT Int'l Telecommunications Satellite Organization
+ISAS	 Institute of Space and Astronautical Science, Japan
+ISRO	 Indian Space Research Organization
+KAIST	 Korea Advanced Institute of Science and Technology
+HISPA    Hispasat SA, Spain
+Interf.  Interferometrics Inc, USA
+ISRO     Indian Space Research Organization
+LNETI    National Engineering Lab, Portugal
+MO RF    Ministry of Defense of the Russian Federation
+MSvyazi  Ministry of Communications of the Russian Federation
+NASA	 United States National Aeronautics and Space Administration
+NOAA     United States National Oceanic and Atmospheric Administration
+NPOE 	 NPO Energiya (Kaliningrad, Russia)
+NPOK     NPO Kompleks
+OSC      Orbital Sciences Corp. (VA).
+PRC	 Chinese Ministry of Astronautics
+PVO      Air Defence Forces, part of MO RF
+RACE     Radio Amateur Club de l'Espace (France)
+Rimsat   Rimsat Corp, USA.
+RKA	 Russian Space Agency (Moskva, Russia)
+Satelife Satelife Corp, USA
+SES      Societe Europeene des Satellites, Luxembourg
+Shinaw.  Shinawatra Corp. (Bangkok, Thailand)
+TdM      Telecommunicaciones de Mexico
+Telespz. Telespazio, Italy
+USAF	 United States Air Force
+USN      United States Navy
+
+

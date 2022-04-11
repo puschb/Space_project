@@ -1,0 +1,237 @@
+Jonathan's Space Report
+No. 777                                                         2020 Apr 17  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+COVID-19
+--------
+I am the one entity you get emails from who is *not* sending you a special email about
+what I'm doing about the pandemic. But: I hope you are all safe and well.
+
+
+International Space Station
+---------------------------
+
+The Cygnus NG-12 cargo ship S.S. Alan Bean was deorbited over the Pacific on Mar 17;
+the last telemetry signal was at 2316:56 UTC.
+
+The Dextre robot arm removed the Bartolomeo experiment platform Dragon CRS-20's trunk on Mar 25.
+Bartolomeo was attached to the Columbus module on Apr 2.
+
+Dragon CRS-20 was unberthed from the Harmony module at about 1030 UTC
+Apr 7 and released into orbit at 1306 UTC. After a deorbit burn the
+cabin splashed down at about 117.5W 26.5N in the Pacific at 1850 UTC.
+
+Soyuz MS-16 was launched on Apr 9 at 0805 UTC and docked with the Poisk module after 6hr 8min at 1413 UTC.
+Crew of Soyuz MS-16 are Anatoliy Ivanishin, Ivan Vagner and Chris Cassidy. This was the
+first launch of a Soyuz-2-1a launch vehicle carrying a crew.
+
+After a one-week handover to the new crew, Chris Cassidy took command of ISS.
+Soyuz MS-15 undocked from the Zvezda module at 0153 UTC Apr 17 with Oleg
+Skripochka, Jessica Meir and Drew Morgan aboard, bringing Expedition 62
+to a close and marking the start of Expedition 63. The deorbit burn was
+at 0422 UTC for 4m 41s, lowering the orbit to about -18 x 423 km. Soyuz
+MS-15 landed in Kazakhstan at 0516 UTC.
+
+Ariane
+-------
+
+Last issue I inadvertently omitted discussion of the Ariane launch on Feb 18.
+On Feb 18 at 2218 UTC Ariane vehicle L5111, flight VA252, took off from Kourou and headed
+to a 6 degree inclination geotransfer orbit. This was the third launch of the new Ariane 5ECA+
+variant with an ESC-D upper stage, stretched by 4 cm relative to the older ESC-A allowing it
+to carry 360 kg of additional propellant. The earlier 5ECA+ flights were VA249 and VA251.
+
+The upper payload was JCSAT-17 for Sky Perfect JSAT. with a launch mass
+of 5857 kg. Unlike previous JCSAT satellites, this one carries a large
+18-metre-dia Harris S-band antenna on a long boom. The S-band system
+supports communications for disasters and other high traffic events. The
+satellite, using a Lockheed Martin A2100 buss, also carries the usual
+Ku-band and C-band communications payloads.
+
+The lower payload is GEO-Kompsat 2B, for South Korea's aerospace
+institute KARI. In the launch table I had accidentally labelled
+GEO-Kompsat 2B as "Comms" but it is a weather/remote sensing satellite,
+not a communications satellite. GEO-Kompsat 2B, with a launch mass of
+3379 kg, carries the GOCI-II ocean color imager and the GEMS
+spectrometer. GEMS, built by Ball Aerospace, is a visible/UV spectrometer
+which gives hourly time resolution measurements of ozone and pollutants in the
+Asia-Pacific region.
+
+OSIRIS-REX
+----------
+
+The OSIRIS-REX space program remains in orbit around Bennu. It began the
+Recon B mission phase in January, with 620m altitude flybys of sites
+Nightingale and Osprey on Jan 22 and Feb 13 respectively. The Recon C
+phase is now underway. On Mar 3 at 1900 UTC the probe departed from its
+1.4 km altitude orbit to perform a `swoop' over the Nightingale
+candidate landing site. It passed only 251.6 metres above Bennu's
+surface at 2129:48 UTC Mar 3 and reentered the 1.4 km orbit with a burn
+at 0005 UTC Mar 4. A 250m pass of site Osprey is expected in May.
+(Thanks to Erin Morton for the Mar 3-4 details).
+
+On Apr 14 O-REX carreid out a Checkpoint Rehearsal; at 1852 UTC it
+maneuvered from a 1.0 x 1.0 km orbit to a 0.13 x 1.0 km one. At 2251 UTC
+at 0.13 km altitude it made the `checkpoint burn' to begin descent to
+the asteroid. Then at 2300 UTC, as it reached a  record close distance
+of 75m to the asteroid surface, it made a preplanned abort of the
+approach in a `backaway burn' and began its return to the 1 km orbit.
+The TAGSAM sampler was deployed and retracted during the operation.
+
+Starlink
+---------
+
+Starlink-1220, one of the satellites on the 5th Starlink launch, was
+deorbited on Mar 9 from a 324 x 361 km orbit. 
+
+As of Mar 10 there were 20 sats from launch 3 and 39 sats from launch 4
+undergoing orbital plane drift at the 350 km `pause' altitude, with 40
+of the launch 5 satellites reaching or paused at that altitude.
+On Mar 11 to 13 all 99 of these sats abruptly began raising their orbits
+again, without waiting for their target orbital planes to be reached.
+I speculate that the plane-relocation process requires extra personnel
+and the abrupt orbit raising towards the operational 550 km orbit is
+a contingency activity in response to COVID19.
+
+On Mar 18 SpaceX launched the sixth batch of satellites, A single
+burn of the upper stage placed the satellites in a 209 x 366 km orbit.
+The Falcon 9 first stage, on its fifth flight, suffered one engine
+shutdown during ascent, and failed to land on the droneship on descent.
+This did not affect the successful orbit insertion of the second
+stage. The second stage was deorbited over the eastern Pacific.
+
+Recent observations by Richard Cole (Res.Notes.AAS, in press) and
+Tregloan-Reed et al (arxiv2003.07251) show that in the days after
+reaching its operational orbit at the beginning of March, Starlink-1130
+(Darksat) was indeed about a magnitude fainter than other Starlink
+satellites, indicating that the special coating has been reasonably
+successful. My own analysis of the astronomical impact of Starlink has
+been published as
+https://iopscience.iop.org/article/10.3847/2041-8213/ab8016
+(Astrophysical Journal Letters, v. 892) and
+https://arxiv.org/abs/2003.07446 
+
+OneWeb
+------
+
+34 more OneWeb satellites were launched from Baykonur on Mar 21 into a 440 x 475 km parking
+orbit. The satellites will later raise their orbits to over 1000 km altitude.
+Meanwhile, the OneWeb operating company has gone bankrupt (although the associated
+manufacturing company OneWeb Satellites emphasizes that it, in contrast, is not bankrupt.)
+
+CZ-7A
+-----
+
+The first Chang Zheng 7A failed to reach orbit on Mar 16, sometime after
+second stage ignition. It's unclear whether the failure was in the third
+stage's first burn, or possibly due to a second stage explosion. 
+
+Planned parking orbit was 195 x 195 km x 20 deg; a second burn of the third stage would
+have delivered CAST/Beijing's XJS-6 (Xinjishu Yanzheng 6, New Technology
+Validation Satellite) to geotransfer orbit. My guess is XJS-6 was
+something similar to a DFH-5 communications satellite, of order 5 tonnes
+mass. The CZ-7A combines the earlier CZ-7 vehicle with a hydrogen/oxygen
+upper stage from the CZ-3 series.
+
+Nusantara Dua
+-------------
+
+China suffered another launch failure on Apr 7, when a Chang Zheng 3B
+failed late in the first burn of the third stage and reentered over the
+Pacific near Guam and Saipan. The payload was Nusantara Dua (also called
+Palapa N1), a Chinese DFH-4E communications satellite for the Indonesian
+company PSNS (a consortium of Pasifik Satelit Nusantara and Indosat).
+The 5550 kg satellite was destroyed as a result of the failure.
+
+Glonass
+--------
+
+Russia launched a Soyuz-2-1B from Plesetsk on Mar 16. The Fregat No. 112-11 upper stage put the Uragan-M No. 760
+(codename Kosmos-2545) navigation satellite in orbit. The satellite will form part of the GLONASS system,
+probably replacing satellite no. 735.
+
+YG-30
+-----
+
+The sixth group of three Yaogan-30 satellites were launched on Mar 24. The YG-30 satellites
+are thought to be for signals intelligence.
+
+AEHF 6
+------
+
+A United Launch Alliance Atlas V, flight AV-086, flew from Cape Canaveral on Mar 26,
+After the second Centaur burn, to geotransfer orbit, the TDO 2 tracking calibration satellite was
+ejected from the Centaur aft bulkhead. A further burn will raise perigee, putting the AEHF 6
+communications satellite in transfer orbit for the US Space Force.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Mar  7 0450   Dragon CRS-20                Falcon 9           Canaveral SLC40 Cargo     16A  S45341  204 x   384 x 51.6
+Mar  9 1155   Beidou DW 54                 Chang Zheng 3B     Xichang         Nav       17A  S45344  231 x 35775 x 28.4
+Mar 16 1334   XJS 6                        Chang Zheng 7A     Wenchang LC201  Tech      F02  F01450 -2000?x  200?x 20.0
+Mar 16 1828   Kosmos-2545                  Soyuz-2-1B/Fregat  Plesetsk LC43/4 Nav       18A  S45358 19131x 19155 x 64.8
+Mar 18 1216   Starlink 1207      )         Falcon 9           Kennedy SLC39A  Comms     19A           209 x  366 x 53.0
+              Starlink 1213      )
+              Starlink 1255-1260 )
+              Starlink 1262-1268 )
+              Starlink 1272-1293 )
+              Starlink 1295-1313 )
+              Starlink 1316-1319 )
+Mar 21 1707   OneWeb 0018     )            Soyuz-2-1B/Fregat  Baykonur         Comms    20A  S45424   433 x  463 x 87.4
+              OneWeb 0019     )
+              OneWeb 0027     )
+              OneWeb 0029     )
+              OneWeb 0031     )
+              OneWeb 0034     )
+              OneWeb 0037     )
+              OneWeb 0042     )
+              OneWeb 0046     )
+              OneWeb 0050     )
+              OneWeb 0055     )
+              OneWeb 0060     )
+              OneWeb 0061     )
+              OneWeb 0063     )
+              OneWeb 0064     )
+              OneWeb 0066-0069)
+              OneWeb 0080-0082)
+              OneWeb 0085-0088)
+              OneWeb 0090     )
+              OneWeb 0092-0096)
+              OneWeb 0098     )
+Mar 24 0343   Yaogan-30 06 zu 01 xing )    Chang Zheng 2C     Xichang          Sigint  21A  S45460   591 x 602 x 35.0
+              Yaogan-30 06 zu 02 xing )                                        Sigint  21B  S45461   591 x 602 x 35.0
+              Yaogan-30 06 zu 03 xing )                                        Sigint  21C  S45462   591 x 602 x 35.0
+Mar 26 2018   AEHF 6 )                     Atlas V 551        Canaveral SLC41  Comms   22B  S4546  11366 x 35311 x 13.7
+              TDO 2  )                                                         Calib   22A  S45464   201 x 35459 x 26.5
+Apr  9 0805   Soyuz MS-16                  Soyuz-2-1a         Baykonur LC31  Spaceship 23A  S45476   217 x   389 x 51.8
+Apr  9 1115   Nusantara Dua                Chang Zheng 3B     Xichang          Comms   F03  F01522 -1070?x   200?x 27.5?
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The Zulfiqar missile launched on Mar 28 by the Houthis in Yemen is a
+liquid propellant  Scud-type vehicle similar to the Burkan, and is not
+related to Iran's solid fuel rocket of the same name. I am denoting it
+as Zulfiqar (YE) to maintain the distinction.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Feb 12        USN RVs           Trident D5LE         USS Maine, Pacific  Test         1000?      Wake Island
+Feb 16        USN RVs           Trident D5LE         USS Maine, Pacific  Test         1000?      Wake Island
+Mar 20 0830   C-HGB             STARS                Kauai LC42          Test          500?      Pacific
+Mar 28 2020?  HE RV             Zulfiqar (YE)        Sadah?              Weapon        150?      Riyadh
+Apr 15 1500?  Nudol' dummy KV?  Nudol'               Plesetsk            Test          500?      Laptev Sea
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

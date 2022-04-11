@@ -1,0 +1,172 @@
+Jonathan's Space Report
+No. 479                                            2002 May 29 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The next launch is STS-111, which will swap the Expedition 4 and 5 crews
+and deliver the MBS and some interior experiment racks. Orbiter 105
+Endeavour will use solid motors RSRM-84 and external tank ET-113 to
+reach orbit; it will dock with PMA-2 on the Station and carry out the
+UF-2 utilization flight.
+
+Here is my payload manifest estimate for STS-111 (congratulations to the
+USA team for putting together a much better press kit this time around).
+
+                                                        Mass/kg
+Bay 1-2    Orbiter Docking System                        1800
+           2 EMU spacesuits?                              240?
+Bay 4      Mobile Base System (MBS)                      1600
+Bay 6P     Adapter Beam / Wrist Roll Joint                150?
+Bay 7-12   MPLM FM1 "Leonardo"                          10557
+Bay 13P    ICAPC Beam / PGDF                               75
+Bay 13S    Adapter Beam / SMDP                            200? 
+---------------------------------------------------------------
+Total                                                   14622?
+
+The Mobile Base System is made by MD Robotics of Brampton, Ontario.
+It will be attached to the Mobile Transporter and is used to mount
+the SSRMS Canadarm-2 arm and heavy payloads.
+
+The Leonardo module carries 8 Resupply Stowage Racks and 4 Resupply
+Stowage Plaftorms, with equipment to be transferred to the station. It
+also carries two science racks: the MSG (Microgravity Science Glovebox)
+and  Express-3, which will be installed on Destiny. Leonardo, built by
+Alenia Spazio in Torino, also flew on STS-102 and STS-105.
+
+The PGDF (Power-Data Grapple Fixture) will be installed on the P6
+truss. The WRJ (Wrist Roll Joint) will be swapped with the broken one
+on the SSRMS arm.
+
+The Service Module Debris Panels (SMDP) package contains 6 panels
+which will be stowed on PMA-1 until a later spacewalk attaches
+them to the Zvezda module to protect it from space debris hits.
+
+The STS-111 crew are Ken 'Taco' Cockrell, Paul Lockhart, Franklin
+Chang-Diaz, and Phillipe Perrin. The Ex-5 crew are Valery Korzun, Peggy
+Whitson and Sergey Treshchev.
+
+
+Recent Launches
+---------------
+
+DirecTV-5 was launched on May 7 by Proton from Baykonur. The Krunichev
+Proton placed the payload in low orbit, and the Energiya DM3 upper stage
+then made two burns to put the DirecTV satellite in a 6568 x 35809 km x
+17.7 deg transfer orbit. The Loral FS-1300 class satellite used its R-4D
+apogee engine to reach geostationary orbit at 129W by May 19.
+The DirecTV satellite broadcasting company is a subsidiary of GM/Hughes.
+
+DirecTV satellites in orbit:
+ 
+             Launch       Type     GEO location
+ DirecTV-1   1993 Dec 18  BSS-601  110W
+ DirecTV-2   1994 Aug  3  BSS-601  101W
+ DirecTV-3   1995 Jun  8  BSS-601  101W
+ DirecTV-6   1997 Mar  8  FS-1300  119W
+ DirecTV-1R  1999 Oct 10  BSS-601  101W
+ DirecTV-4S  2001 Nov 27  BSS-601  101W
+ DirecTV-5   2002 May  7  FS-1300  129W
+
+ (Note: DirecTV-6 was formerly Tempo-2)
+
+Fengyun 1D and Haiyang 1 were launched on May 15 from Taiyuan. The
+Chinese CZ-4B launch vehicle took off at 0150 UTC and the second stage
+separated six minutes later on a suborbital trajectory. After a brief
+coast up to 860 km the third stage fired at around 0200 UTC to
+circularize the orbit. FY-1D, a 950 kg weather satellite with a
+10-channel radiometer, separated from the stack followed by a small
+adapter. Then the HY-1 (Haiyang-1) marine observation satellite
+separated; the 360 kg HY-1 is based on the SJ-5 bus and carries an IR
+radiometer and CCD imager for oceanographic studies. Both satellites
+entered an 851 x 871 km x 98.8 deg orbit; the final stage was left in a
+slightly lower 812 x 883 km orbit. Between May 21 and May 26, FY-1D
+seems to have lowered its orbit to 793 x 799 km using on-board
+propulsion; this behaviour has not been seen in previous FY satellites.
+
+ Fengyun weather satellites:
+           Launch date    Orbit
+   FY-1A   1988 Sep  6    874 x 895 x 98.9
+   FY-1B   1990 Sep  3    875 x 898 x 99.0
+   FY-1C   1999 May 10    845 x 867 x 98.7
+   FY-1D   2002 May 15    851 x 871 x 98.8; 792 x 792 x 98.8
+
+   FY-2A   1997 Jun 10    35783 x 35795 x 1.9 GEO  85E
+   FY-2B   2000 Jun 25    35780 x 35793 x 0.6 GEO 104E
+
+ Note: the index letters 'A', 'B' etc are the standard Chinese
+ translations of Chinese designations which are, of course, not
+ precisely 'letters'. For instance, Shi Jian-2B was (according to one
+ source of mine) really Shi Jian Er Hao Yi which is more like SJ-2/2.
+ If any Chinese-speaking readers
+ can give me Pinyin transliterations of what the FY satellites are
+ actually called, I'd appreciate it.
+
+Israel launched the 'Ofeq-5 imaging satellite at 1525 UTC on May 28. The
+three-stage Shaviyt rocket took off from Palmachim Air Force Base and
+flew westward to put the satellite in a retrograde orbit. The AUS-51
+third stage solid motor entered a 262 x 774 km x 143.5 deg orbit and
+separated from the 'Ofeq satellite. Both coasted up to apogee at around
+1620 UTC when 'Ofeq made a burn to increase its velocity by 33 m/s,
+raising the orbit to 369 x 771 km x 143.5 deg. (Note:
+www.haaretzdaily.com gave a time of 1330 UTC but this is inconsistent
+with tracking data). 
+
+'Ofeq-5 has a mass of about 300 kg, and is 2.3m high and 1.2m dia.
+It was built by IAI/MBT for the Israeli Space Agency and carries
+an imaging reconnaissance camera.
+
+'Ofeq-4, which was also EROS-A (a prototype for a civilian remote
+sensing satellite) failed to orbit in Jan 1998.
+
+Re JSR 478: My Quebecois friends inform me that the venting of the
+SPOT-5 Ariane third stage was also observed from other places, not just
+the US.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  1 2207   Kosmos-2388       Molniya-M      Plesetsk LC16/2  Early Warn   17A
+Apr  8 2019   Atlantis STS-110) Space Shuttle  Kennedy LC39B    Spaceship    18A
+              S0              )                                 Station piece
+Apr 16 2302   NSS 7             Ariane 44L     Kourou ELA2      Comms        19A
+Apr 25 0626   Soyuz TM-34       Soyuz-U        Baykonur LC1     Spaceship    20A
+May  4 0131   SPOT 5    )       Ariane 42P     Kourou ELA2      Imaging      21A
+              Idefix    )                                      Amateur radio 21B
+May  4 0954   Aqua              Delta 7920-10L Vandenberg SLC2W Rem.sensing  22A
+May  7 1700   DirecTV-5         Proton-K/DM3   Baykonur LC81    Comms        23A
+May 15 0150   FY-1D )           Chang Zheng 4B Taiyuan          Weather      24A
+              HY-1  )                                           Rem.sensing  24B
+May 28 1525   'Ofeq-5           Shaviyt        Palmachim        Imaging      25A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107 2002 Jul 19  Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        OPF           STS-112 2002 Aug 22  ISS 9A
+OV-105 Endeavour       LC39A         STS-111 2002 May 30  ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

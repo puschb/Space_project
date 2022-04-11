@@ -1,0 +1,120 @@
+Jonathan's Space Report
+No. 528                                          2004 Jun 18, Somerville, MA
+-------------------------------------------------------------------------------
+
+The Cassini space probe entered Saturn's gravitational sphere of
+influence on Mar 9. This is the Laplacian sphere at 54.8 million km; the
+Hill tidal sphere at 94.4 million km was crossed on Dec 16, while the
+equigravisphere (static gravitational force ratio) at 23 million km was
+not reached until May 18; the latter ignores the effects of Saturn's
+orbital acceleration, so the Laplacian sphere is the relevant one for
+deciding whether to approximate Cassini's orbit as being around Saturn
+rather than around the Sun. On 2004 Mar 8, Cassini was in a  1.40 x 9.28
+AU x 0.7 deg heliocentric orbit approaching the Saturnian system (as
+usual, I give the orbital figures as periapsis - closest approach - x 
+apoapsis - furthest distance - x inclination angle between orbit plane
+and reference plane, with the reference plane being the ecliptic in this
+case. The astronomical unit is 1 AU = 149.6 million km.) 
+On Mar 10 the probe's osculating, hyperbolic Saturnian orbit was
+-24450 x infinity km, nominally an impact trajectory. The continuing
+effects of solar gravity raised the periapsis height (perichronon
+height, if you want to be preciously erudite) above zero on May 4, and
+by Jun 11 its orbit was +18093 x infinity km inclined 17.3 deg to
+Saturn's equator, with a mildly hyperbolic eccentricity of 1.06 and a
+Saturn distance of 11.7 million km.
+
+Cassini flew 2068 km from the moon Phoebe (Saturn IX) at 1933 UTC
+on Jun 11. The scheduled Saturn orbit insertion burn is from 0112 to
+0248 UTC on Jul 1, putting Cassini in a 19980 x 10000000 km x 16.8 deg
+orbit and setting it up for a distant 339000 km flyby of Titan (Saturn
+VI) at 0930 UTC on Jul 1.
+
+  Approximate heliocentric orbits, showing how Cassini's flybys
+  set it up for the Saturn encounter:
+  
+  Earth   0.97 x  1.01 AU x 0.00 deg (Mar 2004)
+  Saturn  9.03 x 10.09 AU x 2.49 deg (Mar 2004)
+
+  Cassini 0.67 x  1.01 AU x 1.24 deg (Jan 1998) Post launch
+  Cassini 0.73 x  1.58 AU x 3.51 deg (Aug 1998) Post Venus 1
+  Cassini 0.72 x  2.60 AU x 1.14 deg (Jul 1999) Post Venus 2
+  Cassini 0.86 x  7.16 AU x 0.71 deg (Oct 1999) Post Earth flyby
+  Cassini 1.40 x  9.28 AU x 0.70 deg (Mar 2004) Post Jupiter flyby
+
+Transit of Venus: on Jun 8, we had the first transit of Venus across the
+face of the Sun that has been visible from Earth since 1882. Several
+hundred members of the public patiently queued up at 5 am here at
+Harvard to wait for the Sun to emerge from the horizon's murk; those who
+were far enough ahead in the queue to get a look before it clouded over
+at 6:30 am were rewarded with crisp telescopic  views of the Venusian
+disk as a perfect black circle against the Sun. Not an intrinsically
+spectacular sight, but for those familiar with the travails of previous
+generations of astronomers who observed - or were clouded out at - the
+previous 1639, 1761, 1769, 1874, and 1882 transits, the emotional
+connection to the dawn of quantitative science was profound. The 1761/69
+ expeditions in particular seem to me to have been the 18th-century
+equivalent of Project Apollo, with the efforts of figures like Legentil,
+Captain Cook, and Mason and Dixon reminding us of a day when performing
+scientific observations from then-remote (to Europeans) parts of the
+planet was as difficult as landing rovers on Mars is now. Observations
+of the transit were used to determine the distance from the Earth to the
+Sun, setting the fundamental scale for the cosmos. If you missed this
+week's transit, mark your calendars for the next one in 2012 - the one
+after that is not until 2117.
+
+The Russian Space Forces have renamed Kosmos-2405 as Molniya-1T;
+Kosmos-2406 has been renamed Raduga-1. The US-PU satellite launched on
+May 28 was named Kosmos-2405, not Kosmos-2407 as I reported last issue.
+The new names are consistent with previous Russian practice, so it seems
+that the old Kosmos-2405/2406 names were just a bureaucratic error.
+
+The folks at Space Command are also competing in the 'confusing
+designation' game. There are now two debris objects called 1968-097CQ
+(SSN 05279 and SSN 05515) and two objects called 1968-097CY (SSN 05432
+and SSN 05632). In each case one object previously had a designation in
+the 1970-089 series; both 1968-097 and 1970-089 launches have large
+numbers of debris objects in similar orbits resulting from antisatellite
+weapons tests. The logic of the new duplicate designations escapes me.
+
+A Tselina-2 electronic intelligence satellite for the Russian Defense
+Ministry was launched on Jun 10  and has been given the name
+Kosmos-2406. Launch vehicle was a Yuzhnoe Zenit-2, and the satellite
+entered an 846 x 865 km x 71.0 deg orbit characteristic of the series.
+
+The Intelsat 10-02 satellite, a 5575 kg Eurostar 3000 communications
+spacecraft built by EADS Astrium, was launched on a Proton-M with a
+Briz-M upper stage on Jun 16. This was the fourth orbital launch from
+Baykonur in less than a month. After a first Briz burn to a 173 x 173 km
+x 51.5 deg orbit, a second burn to a 258 x 5000 km x 50.3 deg orbit, and
+a third burn to 309 x 12967 km x 49.7 deg, the torus tank was
+jettisoned. At 0214 UTC on Jun 17 the fourth burn went to a 414 x 35849
+km x 49.0 deg geostationary transfer orbit, and a final burn raised
+perigee and lowered inclination to deploy Intelsat 10-02 in a 4184 x
+35804 km x 23.7 deg orbit. In contrast to other recent high altitude launches,
+Space Command quickly cataloged all three expected objects - Intelsat,
+Briz and the torus tank.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+May  4 1242   DirecTV-7S        Zenit-3SL       Odyssey, Pacific  Comms      16A 
+May 19 2222   AMC-11            Atlas IIAS      Canaveral SLC36B  Comms      17A
+May 20 1747   ROCSAT-2          Taurus          Vandenberg 576-E  Imaging    18A
+May 25 1234   Progress M-49     Soyuz-U         Baykonur LC1      Cargo      19A
+May 28 0600   Kosmos-2405       Tsiklon-2       Baykonur LC90/20  Sigint     20A
+Jun 10 0128   Kosmos-2406       Zenit-2         Baykonur LC45     Sigint     21A
+Jun 16 2227   Intelsat 10-02    Proton-M/Briz-M Baykonur LC200/39 Comms      22A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

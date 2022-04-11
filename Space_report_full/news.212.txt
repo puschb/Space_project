@@ -1,0 +1,114 @@
+Jonathan's Space Report 
+No. 212               1994 Sep 29                 Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Launch of Endeavour on mission STS-68 is due on Sep 30. Payload is a
+Spacelab pallet with the Shuttle Radar Lab's SIR-C and X-SAR radars; an
+MPESS pallet with the MAPS ozone monitor;  and five GAS Beam Adapter
+mounted GAS cans: G-316, G-503, G-541, and two unnumbered cans with US
+Postal Service commemorative stamps.
+
+Discovery left Edwards AFB aboard Shuttle Carrier Aircraft 905
+on Sep 26 and arrived at the Cape on Sep 27 after a stop at
+Kelly AFB, Texas. Its next flight is STS-63, the Mir rendezvous
+mission. Columbia is scheduled to fly to Palmdale next week
+for refurbishment at the Rockwell plant.
+
+Mir
+---
+
+Launch of the EO-17 crew to Mir is scheduled for Oct 3 at 2242 UT. Crew commander
+is veteran cosmonaut Alexander Viktorenko of the Russian air force.
+Flight engineer is Elena Kondakova of NPO Energiya. Cosmonaut-research
+is Ulf Merbold of the European Space Agency. The crew will be launched aboard
+Soyuz TM-20. The flight will mark the first time that a Russian woman has
+formed part of a regular space crew (as opposed to being flown on a special
+propaganda flight as 'the first woman to do x'.)
+
+Launches
+--------
+
+Kosmos-2291 was launched on Sep 21. It is a geostationary satellite,
+probably one of the Geyzer series for military communications.
+On Sep 29 it was drifting west at 1 deg per day past 80 deg E longitude,
+after a small braking maneuver on Sep 28. Orbit was 35853x  35886 km x 1.3 deg.
+
+Kosmos-2292 was launched on Sep 27. The satellite is one of a series
+launched infrequently into ellipical orbits, possibly for radar calibration
+purposes. The launch vehicle was the Kosmos-3M 11K65M, built by PO Polyot
+of Omsk and based on the Ukranian Yangel' bureau's R-14 IRBM missile.
+
+    Kosmos-2292 class satellites
+  Satellite    Launched     Orbit (km x km x deg)
+  Kosmos-660   1974 Jun 18  397x1972 x 83.0
+  Kosmos-807   1976 Mar 12  398x1973 x 83.0
+  Kosmos-1238  1981 Jan 16  406x1958 x 83.0
+  Kosmos-1263  1981 Apr  9  397x1970 x 83.0
+  Kosmos-1508  1983 Nov 11  400x1966 x 83.0
+  Kosmos-2098  1990 Aug 28  396x1976 x 83.0
+  Kosmos-2292  1994 Sep 27  400x1953 x 83.0
+
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug 10 2305     Brasilsat B1  ) Ariane 44LP     Kourou ELA2     Comsat      49A
+                Turksat 1B    )                                 Comsat      49B
+Aug 11 1527     Kosmos-2287   ) Proton-K/DM2    Baykonur LC81   Navsat      50A
+                Kosmos-2288   )                                 Navsat      50B
+                Kosmos-2289   )                                 Navsat      50C
+Aug 23 1431     Molniya-3       Molniya         Plesetsk LC43   Comsat      51A
+Aug 25 1425     Progress M-24   Soyuz-U         Baykonur LC1    Cargo       52A
+Aug 26 1200     Kosmos-2290     Zenit-2         Baykonur LC45   Recon       53A
+Aug 27 0858     USA-105         Titan Centaur   Canaveral LC41  SIGINT      54A
+Aug 27 2310     Optus B3        CZ-2E           Xichang         Comsat      55A
+Aug 28 0750     Kiku 6          H-II            Tanegashima     Comsat      56A
+Aug 29 1738     DMSP 23545      Atlas 20E       Vandenberg      Weather     57A
+Sep  9 0029     Telstar 402     Ariane 42L      Kourou ELA2     Comsat      58A
+Sep  9 2222     Discovery       Space Shuttle   Kennedy LC39B   Spaceship   59A
+Sep 13 2130     Spartan 201     -               Discovery, LEO  Astronomy   59B
+Sep 16 1516     SAFER/M. Lee    -               Discovery, LEO
+Sep 16 1740?    SAFER/C. Meade  -               Discovery, LEO
+Sep 21 1753     Kosmos-2291     Proton-K/DM-2   Baykonur LC200  Comsat?     60A
+Sep 27 1400     Kosmos-2292     Kosmos-3M       Plesetsk LC132  Calibration 61A
+
+Reentries
+---------
+
+
+Sep 11          Kosmos-2284     Landed 
+Sep 13          FSW-2 service module  Reentered
+Sep 20          Discovery       Landed at Edwards AFB
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-63  Feb   
+OV-104 Atlantis        OPF Bay 3     STS-66  Oct 27
+OV-105 Endeavour       LC39A         STS-68  Sep 30
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65/OV-105   LC39A     STS-68
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/RSRM-42/ET-67          VAB Bay 3 STS-66   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

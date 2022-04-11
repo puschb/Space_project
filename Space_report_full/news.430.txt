@@ -1,0 +1,245 @@
+Jonathan's Space Report
+
+No 430                                           2000 Jul 18, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+The eighth civilian Salyut-class space station 17KSM No. 128-1, the
+Zvezda  module, was successfully launched on Jul 12 at 0456 UTC. The
+three stage Krunichev Proton-K rocket reached orbit at 0505 UTC. This
+was the fifth Proton launch in a month. Launch mass of Zvezda is 20295
+kg according to Vladimir Agapov. Docking of Zvezda and the ISS
+Unity/Zarya complex is due later this month. Zvezda's initial orbit was
+179 x 332 km x 51.6 deg. On Jul 14 the orbit was raised to 288 x 357 km.
+ISS is in a 365 x 372 km orbit.
+  
+Zvezda is outwardly almost identical to the Mir core module launched in   
+1986, and the main structure is similar to all the civilian DOS orbital
+stations launched since 1971 built by the Krunichev company and
+developed and operated by Energiya.
+  
+     DOS civilian space stations
+     --------------------------
+  Prelaunch names        Postlaunch   Launch       Notes
+                         name         date
+
+  DOS 1   17K No. 121    Salyut      1971 Apr 19   Soyuz-11 crew died on reentry
+  DOS 2   17K No. 122    -           1972 Jul 29   Launch failure
+  DOS 3   17K No. 123    Kosmos-557  1973 May 11   Failed at orbit insertion
+  DOS 4   17K No. 124    Salyut-4    1974 Dec 26   Set new duration record
+  DOS 5   17K No. 125    Salyut-6    1977 Sep 29   First use of Progress tankers
+  DOS 6   17K No. 125-2  Salyut-7    1982 Apr 19   Backup to Salyut-6
+  DOS 7   17K No. 127    Mir         1986 Feb 19   Multiple docking port node
+  DOS 8? 17KSM No. 128-1 Zvezda      2000 Jul 12   Space Station Service Module
+
+
+The military Almaz space stations (Salyut-2, Salyut-3, Salyut-5), the TKS ferry
+spaceship, and the FGB type modules share a similar design.
+
+
+Deep Space One
+--------------
+
+Deep Space 1 was launched into solar orbit in Oct 1998 with a perihelion
+near that of the Earth and an aphelion half way to the orbit of Mars.
+Managed by JPL, tt was the first of NASA's New Millennium missions to   
+test advanced space technology, and featured experimental on-board  
+software, miniature sensors, and the first use of an ion engine for
+extensive orbital changes. Although DS1 is the first craft to use ion
+drive to reach a target orbit, there's been very little information     
+available in the public domain about its trajectory. DS1 mission manager
+Marc Rayman has been kind enough to rectify this by providing me with 
+orbital data, and I've extracted some highlights here. (The JSR catalog
+of full heliocentric orbital elements for all the probes since Luna-1 is
+still slowly taking shape, I hope to release it sometime next year).    
+
+The early tests  of its ion engine in Nov 1998 - Jan 1999 increased the
+aphelion by 6 million km.  A second burn phase in Mar-Apr 1999 increased
+perihelion by 4.8 million km, leaving DS1 in an orbit which flew past
+minor planet (9969) Braille in Jul 1999 near aphelion. A third burn
+phase in Jul-Oct 1999 raised perihelion by 10 million km more, and
+lowered inclination to 0.2 deg. In the meantime, on Sep 18 DS1 had
+successfuly completed its primary mission. The failure of DS1's star
+tracker soon afterwards left a follow-on mission in doubt - without the
+star tracker, DS1 did not know which way it was pointing, which makes it
+hard to steer. In a remarkable success for JPL, the DS1 team
+reprogrammed the spacecraft to use images from its MICAS science camera
+- with a field of view a hundred times smaller than the star tracker -
+and reformat them into a data stream compatible with the navigation
+system. They were helped by one of DS1's advanced technology tests, an
+autonomous navigation software package that used MICAS data, but its
+processing is only the first step in a long chain of software, so it's
+darn impressive that they managed to make it work. They can only fire
+the ion engine in directions where they can see an appropriately bright
+guide star in the MICAS. Developing a way of navigating using as few
+stars as possible was another challenge: only half a dozen will be  
+needed for its new target, comet 19P/Borrelly, which requires a much
+bigger orbit change than the earlier burns. The trajectory can be
+fine-tuned by changing the date on which one star is replaced by
+another. After a massive effort, all was ready by June, with the ion
+engine starting again on Jun 28. DS1 will encounter comet 19P/Borrelly
+in Sep 2001.
+
+ --------  DS1 Orbital Data ---------------------
+
+ Date          Period Perihelion x Aphelion x Incl
+ 1998 Nov 10   446.6d 0.990 x 1.287 AU x 0.37 deg
+ 1999 Jan 22   459.5d 0.990 x 1.331 AU x 0.38 deg
+ 1999 Apr 27   470.4d 1.022 x 1.336 AU x 0.26 deg
+ 1999 Oct 27   492.6d 1.090 x 1.342 AU x 0.19 deg
+ 2001 Feb     (564.9d 1.287 x 1.378 AU x 0.20 deg) planned
+ 2001 May     (584.8d 1.291 x 1.436 AU x 0.21 deg) planned
+
+ Perihelia: Oct 1998, Feb 2000, May 2001.
+
+ -------- Thanks to Marc Rayman, JPL ------------
+
+Current Launches
+----------------
+
+Kosmos-2371 was launched from Baykonur on Jul 4 at 2344 UTC. The
+spacecraft is a Geizer military communications relay.  The Blok DM upper
+stage inserted the Geizer into geosynchronous orbit at 0620 UTC on Jul
+5. Geizer satellites are built by NPO PM using the KAUR-3 bus.
+
+
+The Sirius 1 digital radio satellite was inserted into a 6166 x 47110 km
+x 63.4 deg transfer orbit by its Proton-K/Blok DM3 launch vehicle. Its  
+onboard R4D liquid apogee engine made several burns to raise its orbit
+to 24388 x 47097 km x 63.3 deg by July 8. This elliptical, inclined  
+orbit has a 24 hour period, and its looping orbit keeps the satellite
+between longitude 60W and 140W, with apogee over the northern
+hemisphere. The Sirius 1 satellite is a Space Systems/Loral LS-1300 
+satellite with a dry mass of 1570 kg.
+
+Echostar Communication Corp's Echostar VI comsat was launched by   
+International Launch Services on Jul 14 using a Lockheed Martin Atlas
+IIAS rocket. Flight AC-161 reached a 155 x 436 km x 28.3 deg parking   
+orbit, and then reignited the Centaur to deliver Echostar to a 166 x
+38191 km x 26.6 deg transfer orbit. Echostar VI is a Space Systems/Loral
+LS-1300 satellite with a dry mass of 1493 kg.
+
+Germany's CHAMP minisatellite was launched on Jul 15 from Plesetsk by a
+Polyot Kosmos-3M rocket into a 421 x 476 km x 87.3 deg orbit.  This was
+the second recent Kosmos-3M launch to a new inclination: before last
+week's sun-synchronous launch the highest inclination achieved from
+Plesetsk was 83 degrees. CHAMP is a geophysics research satellite
+operated by GFZ, the Potsdam geophysics center to study the magnetic
+field and the gravitational field. The satellite has a mass of 550 kg.
+
+Along with CHAMP were launched MITA, an Italian Space Agency
+experimental microsatellite built by Carlo Gavazzi Space of Milano,  and
+Rubin, a microsatellite to measure launch vehicle parameters developed
+by OHB and students of the Hochschule Bremen. MITA has a mass of 170 kg
+and carries the NINA particle detector and an experimental attitude
+control system.  The Rubin payload remains attached to the payload
+adapter on the Kosmos-3M final stage. Rubin is also called BIRD-Rubin in
+some references, but confusingly is not related to the BIRD
+microsatellite originally slated for this launch. Thanks to Christian
+Stelter, Carlo Cicone and Eduard Muller for information.
+
+The first two European Space Agency Cluster II satellites, Samba (FM7)  
+and Salsa (FM6) were launched on Jul 16. The remaining pair,  Rumba     
+(FM5) and Tango (FM8) will be launched next month. The Soyuz-U launch
+vehicle took off from Area 31 (Pad 6); third stage separation delivered
+the Upper Composite consisting of the Fregat upper stage and two
+Clusters to a suborbital trajectory. Fregat's first burn was to a 200 km
+circular orbit with a 64.8 deg inclination. A second burn placed the
+Clusters in a 250 x 18072 km x 64.7 deg transfer orbit. FM7 was ejected
+first, followed by FM6 ten seconds later. The Soyuz launch vehicle is
+built by TsSKB-Progress, with the Fregat upper stage developed by
+Lavochkin, and the Soyuz-Fregat launch services provided by the French  
+company Starsem.
+
+The Cluster satellites are built by Astrium/Friedrichshafen (former
+Dornier). Both satellites carry Astrium (former MBB) S400 liquid engines
+which will be used to enter a much higher polar orbit. The remaining two
+satellites will rendezvous with them for formation flying to sample  
+magnetospheric properties. Each satellite will deploy four 50-meter wire
+antennas and has a dry mass of 550 kg. The first perigee burns were made
+on Jul 17 and Jul 18 to 240 x 35300 km; the satellites will first go to
+a  18000 x 121000 km x 65 deg orbit and then change inclination at
+apogee (where the velocity is low, so it's cheap to make a big change)
+to a 90 deg polar orbit.
+
+A Navstar GPS navigation satellite was launched on Jul 16 at 0917 UTC by
+Boeing Delta 7925 from Cape Canaveral. I believe this to be satellite
+SVN 44, although Space Command has cataloged it as Navstar 48. The GPS
+IIR series are built by Lockheed Martin/Sunnyvale and have a dry mass of
+980 kg. The Delta second stage entered a 151 x 337 km x 36.9 deg parking
+orbit at 0928 UTC. It fired again to raise apogee; after depletion stage
+2 was in a 195 x 1322 km x 37.6 deg orbit. The PAM-D third stage then   
+fired and placed the GPS satellite in a 209 x 20445 km x 38.9 deg
+transfer orbit. The GPS will fire its Thiokol Star 37XFP solid kick
+motor to circularize at apogee on Jul 18.
+
+An Orbital Sciences Minotaur was being prepared for launch
+from Vandenberg as I write this; details next issue.
+
+Errata
+-------
+
+The Soyuz TM-30 descent times I gave were incorrect (multiple time  
+zone conversion errors). Actual times: Jun 15 2124 UTC, undocking.
+2352 UTC, deorbit burn. Jun 16 0044 UTC, landing.
+
+The Nadezhda launch from Plesetsk was northbound, not southbound;
+a bug in my groundtrack code led me astray. The launch flew north  
+and west from Plesetsk over the Arctic.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  6 0259   Gorizont          Proton-K/Briz-M Baykonur LC81P   Comsat    29A
+Jun  7 1319   TSX 5             Pegasus XL     Vandenberg RW30/22 Science  30A
+Jun 24 0028   Ekspress A No. 3  Proton-K/DM-2M Baykonur LC200?  Comsat     31A
+Jun 25 1150   Fengyun-2         CZ-3           Xichang LC1      Weather    32A
+Jun 28 1037   Nadezhda  )       Kosmos-3M      Plesetsk LC132   Navsat     33A
+              Tsinghua  )                                       Tech       33B
+              SNAP 1    )                                       Tech       33C
+Jun 30 1255   TDRS 8            Atlas 2A       Canaveral SLC36A Comsat     34A
+Jun 30 2208   Sirius 1          Proton-K/DM3   Baykonur LC81P   Comsat     35A
+Jul  4 2344   Kosmos-2371       Proton-K/DM-2? Baykonur LC200?  Comsat     36A
+Jul 12 0456   Zvezda            Proton-K       Baykonur LC81L   Station    37A
+Jul 14 0521   Echostar VI       Atlas 2AS      Canaveral SLC36B Comsat     38A
+Jul 15 1200   CHAMP   )         Kosmos-3M      Plesetsk LC132   Science    39
+              MITA    )                                         Science    39
+              Rubin   )                                         Imaging    39
+Jul 16 0917   GPS SVN 44        Delta 7925     Canaveral LC17A  Navsat     40A
+Jul 16 1239   Samba   )         Soyuz-Fregat   Baykonur LC31    Science    41A
+              Salsa   )                                         Science    41B
+
+ 
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Oct     ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-106 2000 Sep     ISS 2A.2b
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+MLP-1 
+MLP-2/RSRM-75/ET-103         VAB Bay 1  STS-106
+MLP-3/RSRM-76/ET-104         VAB Bay 3  STS-92
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

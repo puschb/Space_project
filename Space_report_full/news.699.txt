@@ -1,0 +1,311 @@
+Jonathan's Space Report 
+No. 699                                               2014 Jul 13   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 40 is continuing with ISS in a 412 x 420 km x 51.7 deg orbit.
+
+On Jul 13 the third Orbital Sciences Cygnus cargo ship, SS Janice Voss,
+was launched from the Mid-Atlantic Regional Spaceport at Wallops Island
+on an Antares 120 rocket. The 5000 kg Voss carries supplies for the ISS, as well
+as two Nanoracks bags containing a total of 29 3U cubesats - 1
+Techedsat-4 exobrake technology test for NASA-Ames and San Jose State U,
+and 28 Flock-1b imaging satellites for PlanetLabs. They are intended to be deployed
+from the Kibo airlock over the coming months. The Voss is scheduled to arrive
+at the ISS on Jul 16.
+
+
+Dnepr cluster
+-------------
+
+On Jun 19, launch of a Dnepr rocket from the Yasniy missile base put a record 38 payloads
+in sun-synchronous orbits ranging from 550 to 610 km at perigee and 620 to 715 km at apogee.
+
+The largest payload, Deimos-2, is a 300 kg Earth imaging satellite with 0.75m resolution
+from Elecnor Deimos of Spain. It is in a 597 x 618 km x 98 deg orbit.
+
+Hodoyoshi-3 and Hodoyoshi-4 are 60 kg payloads built by AXELSPACE for the University of Tokyo.
+H-3 carries a 40-m resolution camera, a store-forward comm payload 
+and a hydrogen peroxide propulsion system. H-4 carries a 5-m res Earth imaging camera, a comm
+payload and an ion thruster.
+
+Kazeosat-2 is a Surrey Satellite SSTL-150 Earth imaging satellite with a 6.5km resolution
+for Kazakhstan.
+
+Saudisat-4 is a 100 kg satellite from KACST, Saudi Arabia, with a technology payload
+including a graviational reference sensor (similar to the San Marco/TRIAD systems of the 1970s,
+I believe, with an isolated mass allowing drag effects to be isolated).
+
+TabletSat-Aurora is a 25 kg tech demo satellite from the Sputniks (Satellite Innovation Space
+Systems) company in Moscow.
+
+Tita (BugSat-1) is a technology demo of Satellogic SA (Argentina)'s 22 kg Earth observation
+satellite. Resolution of the imager is not known.
+
+AprizeSat-9 and 10 are technology development satellites for SpaceQuest, with AIS maritime
+location payloads.
+
+Perseus-M1 and Perseus-M2 are 6U cubesats carrying AIS maritime location payloads
+built by Canopus Systems, a California subsidiary of Russia's Dauria Aerospace.
+
+POPSAT-HIP1 is a 3U cubesat from Microspace Rapid in Singapore.
+
+QB50P1 and QB50P2 are 2U scientific satellites forming part of the European QB50 consortium project
+coordinated by the Von Karman Institute near Brussels and built by ISIS BV in Delft.
+
+PACE is a 2U cubesat from National Chen Kung University in Tainan, Taiwan, with an attitude
+control experiment.
+
+DTUSAT-2 is payload for relaying data from transmitters attached to migrating birds. The
+1U cubesat is from DTU in Copenhagen.
+
+DUCHIFAT-1 is a 1U cubesat from Herzilya Science Center, Israel, with a position reporting relay
+payload.
+
+NanoSatC-BR-1 is a 1U cubesat from INPE's Southern Center and UFSM, in Santa Maria, Brazil.
+
+PolyITAN 1 is a 1U cubesat from Kiev Polytechnic Institute.
+
+Unisat-6, from the Gauss Team in Rome, is a small satellite for dispensing other satellites.
+It ejected Tigrisat, Lemur, ANTELSAT and Aerocube.
+
+Tigris is a 3U cubesat built by students at the University of Roma La Sapienza,
+including a group of Iraqi students. The satellite was funded by the Iraqi Ministry
+of Science and Technology. (The Iraqi name for the satellite in Arabic is 'Tigris',
+the name used by the Italians is 'Tigrisat'.)
+
+
+Lemur 1 is a 3U technology development cubesat for NanoSatisfi Inc. of San Francisco
+with a 5 m resolution Earth imaging system.
+
+ANTELSAT is a 2U cubesat from ANTEL (Administracion Nacional de Telecomunicaciones) of Uruguay
+and the University of the Republic in Montevideo.
+
+Aerocube 6 is a 1U cubesat from the Aerospace Corporation (El Segundo, California)
+which separated into two 0.5U halves around Jun 22. The satellites carry radiation
+dosimeters and are testing upgraded systems for the Aerocube series.
+
+BRITE-Toronto and BRITE-Montreal are Canadian astroseismology observatories with
+small telescopes for observation of oscillations of bright stars. It is believed that
+BRITE-Montreal failed to separate from the Dnepr final stage and remains 
+in its deployer in a 608 x 1453 km x 97.9 deg orbit. (The Dnepr final stage continues
+propulsive burning while deploying its payloads, and always ends up in a higher apogee
+orbit.)
+
+Eleven Flock-1c satellites for PlanetLabs replenish their constellation of 3U satellites,
+each with 3-m-resolution Earth imaging payloads. 28 Flock-1 satellites were launched earlier
+this year, but according to Space-Track all but three have now reentered.
+
+PSLV cluster
+-------------
+
+India's Polar Satellite Launch Vehicle put France's SPOT 7 imaging satellite
+in orbit on Jun 30. Small satellites from Canada, Germany and Singapore were
+ejected as well. CanX-4 and CanX-5 will perform a formation flying experiment.
+The Germany agency DLR's AISat-1 carries a ship tracking AIS payload, not to be
+confused with Norway's AISSat-1. VELOX-I N-Sat is a 3U cubesat from Nanyang Tech U.
+in Singapore, and will eject the tiny 0.25 kg VELOX-I P-Sat.
+
+OCO-2
+-----
+
+The Orbiting Carbon Observatory 2 was launched on Jul 2 into a 688 x 694 km x 98.2 deg 
+0135 LTDN orbit. It carries a near-IR spectrometer with three bands (two CO2 and one O2)
+to map global CO2 sources and sinks. It replaces OCO-1, lost in a launch failure in 2009.
+This was the first use of the semi-retired Delta II rocket since 2011.
+
+The Delta 2 second stage made two depletion burns, first to 604 x 3743 km and finally
+to 2375 x 10139 km.
+
+
+Gonets-M
+--------
+
+Three Gonets-M low Earth orbit message relay satellites were placed in a 1480 x 1510 km x 82.5 deg
+orbit by a Rokot vehicle on Jul 3. The Briz-KM stage (serial number 72522 according to Rui
+Barbosa's www.zenite.nu/orbita) made a depletion burn to 1162 x 1505 km.
+
+
+Meteor-M
+--------
+
+On Jul 8 at 1558 UTC Russia launched a Soyuz-2-1B with a Fregat upper
+stage. The Blok-I stage entered a 183 x 198 km orbit; the Fregat then
+maneuvered to 191 x 813 km and 818 x 828 km x 98.8 deg, where it
+deployed the Meteor-M No. 2 weather satellite in an 0900LTDN SSO. The
+Fregat then restarted at 1736 UTC to enter a 638 x 825 km orbit, ejected
+a payload adapter frame and the Relek (MKA-FKI) satellite which will
+study relativistic electrons in the magnetosphere. A further burn to 635
+x 635 km was followed by deployment at 1828 to 1832 UTC of the TDS-1,
+SkySat-2, DX-1, AISSat-2, and UKube-1 satellites. A mass model of
+Canada's M3MSat was also ejected; the actual M3MSat was pulled from the
+launch following the Ukraine crisis.
+
+TDS-1 is a UK technology demonstration satellite built by Surrey Satellite.
+UKube-1 is a 3U cubesat from ClydeSpace, the first satellite to be built in Scotland.
+DX-1 is a technology satellite from the Russian private company Dauria Aerospace.
+SkySat-2 is Skybox Imaging's second Earth observing satellite.
+AISSAT-2 is a Norwegian-owned, Canadian-built AIS (ship tracking) satellite.
+
+At 1926 UTC the Fregat stage made a deorbit burn to 14 x 665 km and reentered
+over the S Pacific at about 2010 UTC. The Blok-I third stage reentered
+over southern Australia at 1142 UTC on Jul 10 in a widely observed fireball.
+
+O3b
+----
+
+The second quartet of O3b communications satellites was launched by Soyuz from
+the Centre Spatial Guyanais on Jul 10 into 7830 x 7840 km x 0.0 deg orbits.
+The Fregat stage was left in a 7657 x 7692 km orbit. O3B Networks Ltd, based
+in the UK Channel Islands, intends to provide space-based broadband service
+to the `other 3 billion' people without internet access. The 700 kg satellites
+are built by Thales Alenia/Roma.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+May  6 1349   Kosmos-2495        Soyuz-2-1A       Plesetsk LC43/4   Imaging      25A
+May 15 2142   Ekpress AM-4R      Proton-M/Briz-M  Baykonur LC200/39 Comms        F01
+May 17 0003   GPS SVN 67         Delta 4M+(4,2)   Canaveral SLC37B  Nav          26A
+May 22 1309   USA 252            Atlas V 401      Canaveral SLC41   Comms?       27A
+May 23 0528   Kosmos-2496  )     Rokot            Plesetsk LC133/3  Comms        28A
+              Kosmos-2497  )                                        Comms        28B
+              Kosmos-2498  )                                        Comms        28C
+              Kosmos-2499  )                                        Tech?        28E
+May 24 0305   Daichi-2  )        H-IIA 202        Tanegashima Y1    Radar        29A
+              Raijin-2  )                                           Science      29D
+              UNIFORM-1 )                                           IR imaging   29B
+              SOCRATES  )                                           Laser Com    29C
+              SPROUT    )                                           Tech         29E
+May 26 2110   EUTELSAT 3B        Zenit-3SL        SL Odyssey, Pacific Comms      30A
+May 28 1957   Soyuz TMA-13M      Soyuz-FG         Baykonur LC1/5    Spaceship    31A
+Jun 14 1716   Glonass M55        Soyuz-2-1B       Plesetsk LC43/4   Navigation   32A
+               (= Kosmos-2500)
+Jun 19 1911   Deimos-2       )   Dnepr            Yasniy            Imaging      33D
+              KazEOSat-2     )                                      Imaging      33A
+	      Saudisat-4     )                                       Tech        33G
+              TabletSat-Aurora)                                     Imaging      33H
+              Tita            )                                      Tech        33E
+              AprizeSat-9     )                                      Com         33J
+              AprizeSat-10    )                                      Com         33K
+              Unisat-6        )                                      Tech         33C
+              Tigris          )                                      Tech         33AK
+              Lemur-1         )                                      Tech         33AL
+              ANTELSAT        )                                      Tech         33AA
+              Aerocube 6A     )                                      Tech         33AM
+	      Aerocube 6B     )                                      Tech         33AN
+              BRITE-Toronto   )                                      Astron       33L
+              BRITE-Montreal  )                                      Astron       33
+              Hodoyoshi-3     )                                      Imaging      33F
+              Hodoyoshi-4     )                                      Imaging      33B
+              Perseus-M 1     )                                      Com (AIS)    33AF
+              Perseus-M 2     )                                      Com (AIS)    33AD
+              POPSAT-HIP1     )                                      Imaging      33U
+              QB50P1          )                                      Science      33R
+              QB50P2          )                                      Science      33Y
+              PACE            )                                      Tech         33N?
+              NanoSatC-Br 1   )                                      Science      33Q
+              Duchifat-1      )                                      Tech         33P?
+              PolyITAN 1      )                                      Imaging      33AJ
+              DTUSat-2        )                                      Com          33W?
+              Flock 1c-1      )                                      Imaging      33T
+              Flock 1c-2      )                                      Imaging      33V
+              Flock 1c-3      )                                      Imaging      33AH
+              Flock 1c-4      )                                      Imaging      33X
+              Flock 1c-5      )                                      Imaging      33AE
+              Flock 1c-6      )                                      Imaging      33AC
+              Flock 1c-7      )                                      Imaging      33S
+              Flock 1c-8      )                                      Imaging      33AG
+              Flock 1c-9      )                                      Imaging      33AB
+              Flock 1c-10     )                                      Imaging      33M?
+              Flock 1c-11     )                                      Imaging      33Z
+Jun 30 0422   SPOT-7      )      PSLV             Sriharikota        Imaging      34A    
+              AISat       )                                          Com AIS      34B
+              CanX-4      )                                          Tech         34C
+              CanX-5      )                                          Tech         34D
+              VELOX-I-NSat)                                          Tech         34E
+              VELOX-I-PSat)                                          Tech         34
+Jul  2 0956   OCO-2              Delta 7320       Vandenberg SLC2W   Science      35A
+Jul  3 1243   Gonets-M No. 18 )  Rokot            Plesetsk LC133/4   Comms        36A            
+              Gonets-M No. 19 )                                      Comms        36B
+              Gonets-M No. 20 )                                      Comms        36C
+Jul  8 1558   Meteor-M No. 2 )   Soyuz-2-1B/Fregat Baykonur LC31     Weather      37A
+              Relek          )                                       Space sci    37B
+              TDS-1          )                                       Tech         37
+              SkySat-2       )                                       Imaging      37
+              DX-1           )                                       Tech         37
+              AISSAT-2       )                                       Comms AIS    37
+              UKube-1        )                                       Tech         37
+Jul 10 1855   O3b No. 3    )     Soyuz ST-B/Fregat CSG ELS           Comms        38D
+              O3b No. 6    )                                         Comms        38C
+              O3b No. 7    )                                         Comms        38B
+              O3b No. 8    )                                         Comms        38A
+Jul 13 1652   SS Janice Voss     Antares 120       Wallops MARS LA0  Cargo        39A
+              
+			    
+ 
+
+Suborbital missions
+-------------------
+
+The FTG-06B missile defense test on Jun 22 saw the intercept of a target launched by
+a Trident-I-based LV-2 missile launched from Kwajalaein Atoll, using an EKV CE-II interceptor
+launched on a GBI missile from Vandenberg AFB in California.
+
+A Terrier-Improved-Malemute rocket was launched from Wallops I on Jul 2 carrying the
+SubTec-6 payload. However the second stage tumbled during its burn, and the payload
+only reached 8 km altitude.
+
+The Angara-1.2PP rocket was launched from Plesetsk on Jul 9 on a suborbital flight
+to test components of the Angara satellite launch vehicle. According to Rui Barbosa's
+site www.zenite.nu/orbita the trajectory was -1008 x 189 km x 75.2 deg.
+A 1430 kg mass-size payload model (gabaritno-massovogo maketa PN) was sent
+to crash into the Kura test range in Kamchatka.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+May  3 0800   NASA 36.235US    Black Brant IX      White Sands      UV Astron     278 
+May  8        Topol' RV        Topol'              Plesetsk         Exercise     1000?
+May  8        Shtil' RV        Shtil'            K-114, Barents     Exercise     1000?
+May  8        Volna RV         Volna             K-223, Okhotsk     Exercise     1000?
+May 20 1708   Topol'-E RV      Topol'              Kapustin Yar     Test         1000?
+May 21 0535   Aegis KV         SM-3-IB             Kauai AAMDTC     Test          150?
+May 24 0735   NASA 36.285UG    Black Brant IX      White Sands      UV Astron     300?
+May 28 1130   REXUS-16         Orion               Kiruna          Atmos/Tech      87
+May 29 1000   REXUS-15         Orion               Kiruna          Atmos/Tech      80
+Jun  2        USN Mk 4 RV? )   Trident II D-5   SSBN 736, Atlantic  Test         1000?       
+              USN Mk 4 RV? )
+              USN Mk 4 RV? )
+              USN Mk 4 RV? )
+Jun  2        USN Mk 4 RV? )   Trident II D-5   SSBN 736, Atlantic  Test         1000?       
+              USN Mk 4 RV? )
+              USN Mk 4 RV? )
+              USN Mk 4 RV? )
+Jun 22 1849?  FTG-06B Target   LV-2                Kwajalein        Target       1000?
+Jun 22 1855   FTG-06B          GBI                 Vandenberg       Interceptor  1000?
+Jun 26 1121   NASA 41.110UO    Terrier Imp.Orion   Wallops I        Education     118
+Jun 29        Hwasong 6 RV     Hwasong 6           Kittaeryong      Test          100?
+Jun 29        Hwasong 6 RV     Hwasong 6           Kittaeryong      Test          100?
+Jul  9 1200   Dummy satellite  Angara-1.2PP        Plesetsk LC35/1  Test          188
+Jul 12 1620   Hwasong 6 RV?    Hwasong 6?          Chiha?           Test          100?
+Jul 12 1620   Hwasong 6 RV?    Hwasong 6?          Chiha?           Test          100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

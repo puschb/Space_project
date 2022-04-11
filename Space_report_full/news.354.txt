@@ -1,0 +1,118 @@
+Jonathan's Space Report
+No. 354                                         1998 Apr 5 Cambridge, MA 
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Columbia rolled out to pad 39B on Mar 23. Launch of mission
+STS-90 (Neurolab) is planned for Apr 16. Columbia contains
+the following cargo:
+ Spacelab transfer tunnel
+ Spacelab Long Module, with Neurolab experiments
+ Extended Duration Orbiter pallet
+ Two GAS beams with canisters G-197, G-467, G-772 and one
+ other. 
+The G-772 payload carries Colorado's COLLIDE experiment,
+which will bang small particles into each other to simulate
+the formation of planets and rings.
+
+The Neurolab mission will carry out life science studies. It seems to be
+managed by NASA-Johnson at Houston, unlike earlier Spacelab flights
+which were NASA-Marshall/Huntsville's responsibility. 
+
+Musabaev and Budarin carried out a spacewalk on Apr 1; the work ran
+behind schedule and was not completed. The repaired EVA hatch was opened
+at 1335 UTC and closed at 2015 UTC. The astronauts transferred to the
+Spektr module and installed handrails near the damaged solar panel.
+Splinting the panel will have to be done on the next spacewalk.
+
+External Tank ET-96, the first aluminium-lithium Super Lightweight Tank,
+has been mated to the solid rocket boosters for mission STS-91, which
+will fly in May.
+
+Recent Launches
+---------------
+
+Two more Motorola Iridium satellites were launched Mar 25 by a Chinese
+CZ-2/SD launch vehicle from Taiyuan Space Center. The two stage CZ-2D
+places the Smart Dispenser stage in transfer orbit; the SD then fires
+at apogee and deploys the two satellites before moving to a lower orbit.
+
+Five days later, a Boeing Delta 7920-10C placed a further quintet of
+Iridium payloads in orbit from Space Launch Complex 2 at Vandenberg
+Air Force Base. Seven more are waiting for launch on a Proton in
+Kazakstan.
+
+NASA's third Small Explorer, the Transition Region and Coronal Explorer
+(TRACE), was successfully launched by an Orbital Pegasus XL on Apr 2.
+The L-1011 carrier aircraft took off from Vandenberg and dropped the
+Pegasus over the Pacific Ocean. TRACE was placed in a 602 x 652 km x
+97.8 deg sun-synchronous orbit. This makes 11 successful flights out of
+the last 12 for Pegasus, which had a rocky early history. TRACE, a
+project led by Lockheed's solar physics group, carries a 30-cm extreme
+ultraviolet imaging telescope which will study the Sun. The telescope
+mirrors were made by the Smithsonian Astrophysical Observatory. TRACE
+has an 8.5 arcmin field of view and 1 arcsecond resolution.
+
+TRACE is in a sun-synchronous polar orbit around the Earth, chosen so
+that its plane is at  right angles to the line joining Earth and Sun.
+This means that TRACE can look at the Sun all the time without Earth
+getting in the way. An orbital plane will normally stay fixed relative
+to the stars, and so shift relative to the Sun during the Earth's motion
+around it.  The combination of TRACE's orbital height and inclination
+with the gravitational effects of the Earth's flattened poles cause its
+orbit to shift by exactly the amount needed to compensate for Earth's
+orbital motion, keeping TRACE's orbit perpendicular to the Earth-Sun
+line. Orbital inclinations between about 95 and 110 degrees (depending
+on orbital height) are needed for a sun-synch orbit.
+
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar 14 2246   Progress M-38     Soyuz-U       Baykonur LC1      Cargo      15A
+Mar 16 2132   UHF F/O F8        Atlas II      Canaveral SLC36A  Comsat     16A
+Mar 24 0146   SPOT 4            Ariane 40     Kourou ELA2       Imaging    17A
+Mar 25 1701   Iridium 51 )      CZ-2C/SD      Taiyuan           Comsat     18A
+              Iridium 61 )                                      Comsat     18B
+Mar 30 0602   Iridium 55        Delta 7920    Vandenberg SLC2   Comsat     19A
+              Iridium 57                                        Comsat     19B
+              Iridium 58                                        Comsat     19C
+              Iridium 59                                        Comsat     19D
+              Iridium 60                                        Comsat     19E
+Apr  2 0242   TRACE             Pegasus XL    Vandenberg        Solar obs. 20A
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        LC39B         STS-90  Apr 16
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Sep 17?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/RSRM66/ET-96        VAB Bay 1     STS-91
+MLP2/RSRM65/ET-91/OV-102 LC39B         STS-90
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

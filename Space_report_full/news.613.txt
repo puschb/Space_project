@@ -1,0 +1,277 @@
+Jonathan's Space Report
+No. 613                                            2009 Jul 16 Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Gennadiy Padalka (Commander, Russia), Mike Barratt (Flight Engineer 1,
+NASA), Koichi Wakata (FE2, Japan-JAXA), Roman Romanenko (FE3, Russia),
+Frank DeWinne (FE4, European Space Agency) and Bob Thirsk (FE5, Canadian
+Space Agency) are aboard the station as Expedition 20. Soyuz TMA-15 and
+Soyuz TMA-14 are also docked to the Station.
+
+The Progress M-02M cargo ship undocked at 1820 UTC on Jun 30. Padalka,
+Barratt and Wakata boarded TMA-14 on Jul 2 and undocked from the Zvezda
+aft port at 2129 UTC, redocking at Pirs at 2155 UTC. Soyuz TMA-15 is
+docked at Zarya nadir.
+
+On Jul 12 at around 1600 UTC Progress M-02M returned to the Station
+and carried out a close approach to the newly active zenith docking port
+on Zvezda to test the rendezvous equipment installed on the port in
+recent spacewalks. Progress M-02M approached to a distance of about 10m 
+at 1707 UTC and then returned to an independent orbit. The next day,
+at 1543 UTC on Jul 13, the cargo ship fired its engines to reenter
+over the southern Pacific Ocean.
+
+Space Shuttle Endeavour was launched from Kennedy Space Center on Jul 15,
+carrying the Kibo Exposed Facility and the Kibo ELM Exposed Section.
+The flight is Shuttle mission STS-127, Station mission 2J/A.
+Launch was at 2203 UTC; at 2211 UTC, Endeavour and external tank ET-131
+reached a 58 x 230 km x 51.6 deg orbit. At 2241 UTC Endeavour
+fired its engines to raise its orbit to 155 x 232 km x 51.6 deg.
+
+Crew of Endeavour are Mark Polansky, Doug Hurley, Dave Wolf, Chris
+Cassidy, Julie Payette, Tom Marshburn and Tim Kopra. Kopra will join the
+Ex 20 crew on ISS, replacing Wakata.
+
+The Kibo Exposed Facility and Experiment Logistics Module (Exposed
+Section) will be addeed to the Station. On the ELM-ES the  Japanese MAXI
+(Monitor of All Sky X-ray Image) experiment will be installed, which
+should replace the aging Rossi XTE All Sky Monitor as an early warning
+system for flaring X-ray sources.
+
+  STS-127 cargo manifest
+  ----------------------
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3003, 3018 suits                       260?
+  APC/SPDU                         3 port           17?
+  APC/SSPL                         3 stbd           51
+   Dragonsat                                         6
+  Kibo JEM Exposed Facility        4-7            3820
+  APC/ECSH                         5 port           33?
+  APC/PPSU                         5 stbd           20
+  APC/PPSU                         6 stbd           20
+  Kibo ELM Exposed Section         8-9            2453
+  ICC-VLD                          11             3946
+  APC/ECSH                         13 port          33?
+  SPA/CAPE/ANDE-2                  13 stbd         265
+   ICU container                                    54
+   ANDE Active satellite                            50
+   ANDE Passive satellite                           25
+  RMS                              Sill            410
+  OBSS                             Sill            382?
+ ------------------------------------------------------
+                                   Cargo total  13645 kg?
+
+
+
+
+LRO and LCROSS
+--------------
+
+LRO, the Lunar Reconnaissance Orbiter,
+ entered a 220 x 3100 km x 90 deg lunar orbit on Jun 23. The four 80N
+thrusters burned from 0947 to 1026 UTC. On Jun 24 at 1056 UTC a 12 min
+LOI-2 burn reduced the orbit to 200 x 1680 km; at 1032 UTC on Jun 25
+LOI-3 sent LRO to a 199 x 740 km x 89.93 deg path; and LOI-4 at 1225 on
+Jun 26 resulted in a roughly 200 x 200 km orbit. On Jun 27 it entered
+the commissioning orbit of 31 x 209 km x 90.5 deg, and its first high
+resolution images of the lunar surface are now being returned. By Aug 3,
+when the commissioning orbit will have been perturbed to 43 x 197 km x
+89.7 deg,  LRO will be ready to go lower, entering an orbit which ranges
+from 47 x 53 km at its most circular to 35 x 66 km at its most
+elliptical.
+
+LCROSS flew 3270 km from the Moon at 1030 UTC on Jun 23 and now
+is in an orbit that will take it out to 582000 km from the Earth.
+It will impact the Moon in October.
+
+
+USA 193
+-------
+
+It had been thought that all the debris from the USA 193 satellite,
+destroyed by an Aegis SM-3 missile on 2008 Feb 21, had reentered.
+However during a routine update of debris found in orbit, a new
+piece of the satellite has been found in a 234 x 934 km x 56.1 deg
+orbit and cataloged as 2006-057GH.
+
+GOES 14
+------
+
+A new Geostationary Operational Environmental Satellite is in orbit. The
+GOES satellites provide wide-area weather imaging and solar flare
+monitoring. GOES O, which became GOES 14 after reaching geostationary
+orbit on Jul 9, went up on a Delta 4 Medium+ variant with a 4-meter
+fairing and two strap-on solid boosters. The three Delta burns put it
+sucessively in 187 x 554 km x 28.5 deg, 268 x 34603 km x 26.6 deg, and
+6634 x 35155 km x 12.0 deg orbits. The on-board R-4D apogee engine
+raised the orbit to geostationary. GOES O is a 601 class satellite built
+by Boeing (El Segundo). Early orbit checkout is done by NASA Goddard,
+and then it will be controlled by the NOAA satellite center in Suitland,
+Maryland.
+
+Sirius FM5
+----------
+
+Sirius XM Radio's FM5 satellite was launched on Jun 30 from Baykonur.
+The Loral 1300-class satellite with a launch mass of 5976 kg and a dry
+mass of 2900 kg flew aboard an ILS/Krunichev Proton-M/Briz-M. The Proton
+reached a suborbital trajectory (unusually, the coopi.khrunichev.ru site
+did not give the parameters, which were probably around -750 x 150 km x
+51.6 deg) and separated from Briz. The Briz burns reached 179 x 179 km x
+51.6 deg, 270 x 5000 km x 50.3 deg, 325 x 14534 km x 49.6 deg, 425 x
+35818 x 49.2 deg and 4201 x 35975 km x 23.0 deg. The Briz propellant
+tank was jettisoned into the third orbit of this sequence. Briz
+separated from Sirius FM5 at 0423 UTC on Jul 1. By Jul 13 FM5
+was drifting past 96 deg W in a 35773 x 35781 km x 0.1 deg orbit.
+
+Terrestar 1
+-----------
+
+The second launch of a Loral 1300 satellite in two days was the most
+massive communications satellite to date, the 6910 kg Terrestar 1,
+which carries an 18-meter deployable antenna for S-band mobile communications.
+Ariane 5ECA vehicle 547 reached an initial -1159 x 176 km x 11.8 deg
+trajectory and then a 235 x 35901 km x 6.0 deg transfer orbit.
+(The suborbital part of the trajectory, quoted in the EADS press kit,
+has an unusually high inclination for a Kourou launch and may be a typo).
+Terrestar Networks is based in Reston, Virginia.
+
+The histories of Terrestar Corp, its subsidiary Terrestar Networks, and
+the related L-band companies SkyTerra Communications and SkyTerra LP are
+very tangled. As far as I understand it - which is not very far - it
+goes like this:
+
+1995-1996: AMSC (American Mobile Satellite Co) launched AMSC-1, and TMI (Telesat
+           Mobile, Canada) launched M-SAT 1, two similar L-band M-SAT satellites.
+2000:      AMSC becomes Motient
+2001:      Motient and TMI spin off MSV (Mobile Satellite Ventures) as a
+           joint venture to operate the M-SATs
+2001?      Motient creates Terrestar Networks to build S-band system,
+            with other investors.
+2003?:     SkyTerra Communications (SkyTC) is an 
+           investor in MSV and to some extent in Terrestar.
+2006:      Big ownership swap.
+           - MSV becomes a subsidiary of SkyTC
+           - Terrestar Networks becomes a subsidiary of Motient
+2007:      Motient renamed Terrestar Corp.
+2008:      MSV renamed SkyTerra LP, planning launch of SkyTerra 1 and 2.
+
+DICE
+----
+
+The University of Colorado's suborbital Diffuse Interstellar Cloud
+Experiment was launched from White Sands on Jun 29. DICE, flown on Black
+Brant 9 rocket flight NASA 36.244UG, carried a high-resolution far
+ultraviolet spectrograph intended to study the O VI line along two lines
+of sight towards Sco.
+
+Kosmos-2450
+-----------
+
+Russia's Kobal't-M class spy satellite, Kosmos-2450, had been in orbit
+for 65 days on Jul 3, when it was in a 177 x 325 km x 67.1 deg orbit.
+Typical lifetimes for this time of satellite range from 75 to 120 days.
+In an unusual maneuver, on Jun 7 at 2332 UTC Kosmos-2450 raised its
+orbit from 181 x 325 km to 247 x 381 km and then 26.5 hours later
+lowered it again to 178 x 357 km, presumably shifting the ground track
+to cover a different set of targets. Regular orbit raising burns were
+carried out on May 2, May 14, May 27 and Jun 21.
+
+Kosmos-2451/2452/2453
+---------------------
+
+Three military communications satellites were launched from Plesetsk by
+a Rokot launch vehicle on  Jul 6. According to Bob Christy, at least two
+of them are of the Strela-3 type, based on their radio transmissions.
+Rokot is a converted UR-100N two-stage missile with a Briz-KM third
+stage. The Kosmos satellites were inserted into a 1500 x 1505 km x 82.5
+deg orbit; the Briz-KM then lowered itself to a 1204 x 1504 km orbit.
+The satellites have a mass of around 225 kg each.
+
+Razaksat
+--------
+
+The Malaysian RazakSat imaging satellite was launched from Omelek Island
+in the Pacific by SpaceX's Falcon 1 rocket on Jul 14 at 0336 UTC. 
+By 0345 UTC RazakSat, attached to the Falcon 1 second stage, was
+in parking orbit, probably around 200 x 685 km. The second burn at 0424
+UTC was followed by separation of the satellite into an orbit of 665 x
+688 km x 9.0 deg. The second stage ended up in a slightly lower
+616 x 687 x 9.1 deg orbit.
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+May  5 2024   STSS-ATRR         Delta 7920-10C   Vandenberg SLC2W  Tech      23A
+May  7 1837   Progress M-02M    Soyuz-U          Baykonur LC1      Cargo     24A
+May 11 1802   Atlantis STS-125  Space Shuttle    Kennedy LC39A     Spaceship 25A 
+May 14 1312   Herschel )        Ariane 5ECA      Kourou ELA3       Astronomy 26A
+              Planck   )                                           Astronomy 26B
+May 16 0057   Protostar-2       Proton-M/Briz-M  Baykonur          Comms     27A
+May 19 2355   Tacsat 3    )     Minotaur I       Wallops LA0B      Imaging   28A
+              Pharmasat   )                                        Bio       28
+              CP6         )                                        Tech      28
+              HawkSat-1   )                                        Tech      28
+              Aerocube 3  )                                        Tech      28
+May 21 2153   Meridian-2?       Soyuz-2-1a/Fregat Plesetsk LC43/4  Comms     29A
+May 27 1034   Soyuz TMA-15      Soyuz-FG         Baykonur LC1      Spaceship 30A
+Jun 18 2132   LRO     )         Atlas V 401      Canaveral SLC41  Lunar probe 31A
+              LCROSS  )                                           Lunar probe 31B
+Jun 21 2150   Measat 3a         Zenit-3SLB       Baykonur LC45    Comms      32A
+Jun 27 2251   GOES 14           Delta 4M+(4,2)   Canaveral SLC37B  Weather   33A
+Jun 30 1910   Sirius FM5        Proton-M/Briz-M  Baykonur         Radio      34A
+Jul  1 1752   Terrestar 1       Ariane 5ECA      Kourou ELA3      Comms      35A
+Jul  6 0126   Kosmos-2451 )     Rokot            Plesetsk LC133?  Comms      36A
+              Kosmos-2452 )                                                  36B
+              Kosmos-2453 )                                                  36C
+Jul 14 0336   Razaksat          Falcon 1         Omelek I.        Imaging    37A
+Jul 15 2203   Endeavour STS-127 )  Space Shuttle Kennedy LC39A    Spaceship  38A
+              Kibo Exposed Facil)  
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Apr 10 0810   RV              Topol'          Plesetsk        Op Test     1000?
+Apr 15 0450   Prithvi RV      Prithvi II      Chandipur       Test          80?
+Apr 17 1118   FalconLaunch 7  FalconLaunch    White Sands     Test         108
+May  7        HIFIRE-0        Terrier Orion?  Woomera         Hypersonic   200?
+May 19 0436   RV              Agni 2          Chandipur       Test         300?
+May 20        RV              Sejjil-2        Semnan          Test         800
+May 22 1032   MAPHEUS         Nike Orion      Esrange         Micrograv    140
+May 28 1652   NASA 41.080NR   Terrier Orion   Wallops         Hypersonic   130?
+              (SOAREX VII)
+May 29 1325   Maracati 1      Improved Orion  Alcantara       Test          93
+Jun  6        ABL Target      Terrier Lynx    San Nicolas     Target       100?
+Jun 13        ABL Target      Terrier Lynx    San Nicolas     Target       100?
+Jun 26 0930   NASA 41.083UO   Terrier Orion   Wallops         Education    117
+Jun 29 0730   NASA 36.244UG   Black Brant 9   White Sands     UV Astron    300?
+Jun 29 1001   Mk 12 RV )      Minuteman 3     Vandenberg      Op Test     1300?
+              Mk 12 RV )      (GT199)
+              Mk 12 RV )
+Jul 13        RV (x 10?)      Sineva          K-84,  N Pole   Test        1000?
+Jul 14        RV (x 10?)      Sineva          K-117, N Pole   Test        1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+
+
+

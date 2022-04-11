@@ -1,0 +1,157 @@
+
+Jonathan's Space Report
+No. 459                                       2001 Aug 26  Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+Shuttle and Station
+--------------------
+
+STS-105 was launched on Aug 10 at 2110 UTC. MECO (main engine cutoff)
+was at 2218 UTC with separation of external tank ET-110 into a 58 x 234
+km x 51.6 deg orbit. At 2248 UTC Discovery reached apogee and fired its
+OMS engines to enter a 155 x 233 km x 51.6 deg orbit; another burn at
+around 0100 UTC raised the orbit to 198 x 277 km. Meanwhile the External
+Tank fell back towards the Pacific and reentered at its first perigee at
+around 2340 UTC.
+
+Discovery docked at the Station's PMA-2 port at 1842 UTC on Aug 12.
+After some problems aligning the docking system, the docking
+ring was retracted and latched at 1905 UTC and the hatch was opened
+to ISS at 2042 UTC.
+
+Expedition 3 began on Aug 13 at 1915 UTC when the new crew's seat liners
+were installed on the Soyuz transport ship. The formal EX-2/EX-3
+change-of-command ceremony was held on Aug 17 in Destiny.
+
+Barry (EV1) and Forrester (EV2) made two spacewalks from the external
+airlock on Discovery. EVA-1, on Aug 16,  transferred the Early Ammonia
+Servicer (EAS) device from the ICC carrier in the payload bay to the P6
+truss on the station. Then the astronauts took two MISSE materials
+exposure experiment boxes from the ICC and attached them to the outside
+of the  Quest airlock. The airlock was depressurized at about 1356 UTC
+and the duration was 6h18m (depress/repress), 6h10m (hatch open/close), or
+6h16m (NASA rule).
+
+The second spacewalk on Aug 18 installed Orbit-Installed Handrails and
+Launch-to-Activation Heater Cables on Destiny. The cables are needed for
+the installation of the S0 truss to be launched in early 2002. The
+airlock was depressurized at about 1339 UTC and spacewalk duration was
+5h31m (depress/repress), 5h24m (hatch open/close), or 5h29m (NASA rule).
+
+The Leonardo MPLM module was lifted out of Discovery's payload bay at 1326
+UTC on Aug 13 and docked to Unity's nadir at 1554 UTC. 3300 kg of cargo
+from it was loaded on to the Station and 1700 kg of cargo was returned
+to it; it was unberthed from Unity at 1816 UTC on Aug 19 and berthed
+back in the payload bay for the return to Earth at 1917 UTC the same
+day. Discovery undocked at 1452 UTC on Aug 20 with the Expedition 2
+crew aboard, leaving Expedition 3 on the Station.
+
+At 1830 UTC on Aug 20 the Simplesat satellite was ejected from a GAS
+canister in the cargo bay. Simplesat has a 0.3m optical telescope and a
+GPS attitude control system. It is intended to test methods for building
+cheap astronomical satellites and controlling them from a cheap ground
+station. As of Aug 25 the ground station was still having teething
+problems.
+
+Discovery landed at Kennedy Space Center at 1822:58 UTC on Aug 22.
+Landing was on runway 15, after a deorbit burn at 1715 UTC. The
+Expedition Two crew of Usachyov, Voss and Helms had been in space for
+167 days.
+
+Discovery will now have some downtime for structural inspections. Its
+last maintenance down period was in 1995-1996. Atlantis is being stored
+in the VAB for a while since only three Orbiter parking spots are
+available in the Orbiter Processing Facility. The VAB has been empty of
+Shuttle stacks  for a while during refurbishments, and the stack for
+STS-108 will start being built up this week on Mobile Launch Platform 1
+in VAB High Bay 1; External Tank ET-111 is hanging in High Bay 2 and
+Endeavour will roll to the VAB sometime in late October.
+
+Recent Launches
+---------------
+
+A classified Russian satellite was launched on Aug 24 by Proton-K from
+Baykonur. Launch time was 2034 UTC (although one wire report implied
+2045 UTC, but that is less consistent with the orbital data). A Blok DM
+class upper stage put the payload, code-named Kosmos-2379, in
+geostationary transfer orbit after its first burn at 2152 UTC. A second
+burn was expected at 0310 UTC to put the payload in GEO. The payload is
+probably a Prognoz-class early warning satellite built by NPO Lavochkin,
+the Russian equivalent of the DSP satellites.
+
+
+Editorial: US - and others - Not Compliant With UN Resolution 1721B
+-------------------------------------------------------------------
+
+In JSR 453 I criticized the  US Government for its spotty compliance
+with the 1975 Convention on Registration of Outer Space Objects, which
+grew out of UN Resolution 1721B. This is not a new issue, Jim Oberg drew
+attention to it years before I did, but it's worth re-airing the facts
+in this time when strategic treaty regimes are under reconsideration.
+However, the story is now being repeated by other news outlets,
+sometimes in stronger terms than I would use. I have therefore put
+together a more detailed statement at
+
+http://hea-www.harvard.edu/~jcm/space/un/untxt.html  
+
+to clarify what I'm saying. My intent is to draw attention to
+the importance of openness in the military use of space and to call on
+all countries, not just the US, to be more careful about complying with
+their obligations under UN Resolution 1721 and the 1975 Convention.
+
+In the context of controversial developments in the military use of
+space, it is perhaps worth mentioning that JSR is intended as a 
+non-partisan source of technical information, and if you spot my own
+admittedly strong views creeping in to the newsletter you are encouraged
+to give me a hard time about it.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul 12 0904   Atlantis STS-104) Shuttle        Kennedy LC39B    Spaceship    28A
+              Quest           )                                 Station module
+Jul 12 2158   Artemis   )       Ariane 5G      Kourou ELA3      Expt. comms  29A
+              BSAT-2b   )                                       Ku video     29B
+Jul 20 0017   Molniya-3         Molniya-M      Plesetsk LC43/4  Comms        30A
+Jul 23 0723   GOES 12           Atlas IIA      Canaveral SLC36A Weather      31A
+Jul 31 0800   Koronas-F         Tsiklon-3      Plesetsk LC32    Astronomy    32A
+Aug  6 0728   DSP 21            Titan 4B/IUS   Canaveral SLC40  Early Warn   33A
+Aug  8 1613   Genesis           Delta 7326     Canaveral SLC17A Space probe  34A
+Aug 10 2110   Discovery  )      Shuttle        Kennedy LC39     Spaceship    35A
+              Leonardo   )
+Aug 20 1830   Simplesat         -              Discovery, LEO   Astronomy    35B
+Aug 21 0924   Progress M-45     Soyuz-U        Baykonur LC1     Cargo        36A
+Aug 24 2034   Kosmos-2379       Proton-K/DM2M? Baykonur LC200?  Early Warn?  37A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       OPF Bay 2     Maintenance
+OV-104 Atlantis        VAB           STS-110 2002 Feb 28  ISS 8A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+
+
+
+

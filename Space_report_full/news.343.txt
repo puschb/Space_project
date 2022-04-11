@@ -1,0 +1,153 @@
+Jonathan's Space Report
+No. 343                                      1997 Dec  4  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Errata
+------
+
+Several recent mistakes have been pointed out to me: the first STS-87
+EVA ended 0745 UTC not 0945! Sorry about that. The GPS launch last month
+was Nov 6 at 0030 UTC, not Nov 5. In JSR 334, I reported the Mars Global
+Surveyor insertion burn time as 0015 UTC, should have been 0117 UTC. As
+always, I will try and correct mistakes when folks bring them to my
+attention.
+
+Shuttle and Mir
+---------------
+
+STS-87/Columbia continues its flight with microgravity science research
+on the USMP-4 payload. NASA has decided not to redeploy Spartan on this
+mission. On Dec 2, Spartan was unberthed with the RMS arm and used while
+attached to the arm for tests of an instrument called the Video Guidance
+Sensor which will be used during space station dockings. During an EVA
+on Dec 3, Doi and Scott carried out more tests of the Space Station
+crane. They also deployed the AERCam/Sprint 'football' remote-controlled
+camera for a free flight in the payload bay. The astronauts went to
+battery power at 0909 UTC Dec 3, by which time the airlock was already
+depressurized. Scott deployed the camera at 1215 UTC and recovered it at
+1327 UTC. Airlock was repressurized at 1409 UTC. Landing is expected Dec
+5.
+
+Meanwhile, Endeavour is being prepared for a January launch
+and will soon be connected to the external tank; and stacking
+of solid boosters for Columbia's next flight has already begun.
+
+Recent Launches
+---------------
+
+NASDA, Japan's applications space agency, launched an H-2 rocket from
+Tanegashima Space Center on Nov 27 carrying TRMM and ETS-7. ETS-7
+(Engineering Test Satellite 7) is also called Hikoboshi; a small target
+satellite, Orihime, will separate and Hikoboshi will carry out
+rendezvous and docking experiments with it. ETS-7 is built by Toshiba,
+with the docking system developed by Mitsubishi. ETS-7 is having some
+problems with its solar array drive, and orbit raising burns have been
+delayed. Although Space Command is tracking an object 1997-74C in a
+similar orbit which Goddard has identified as the ETS-7 target
+satellite, it seems unlikely that the latter has actually separated from
+ETS-7 at this point. Does anyone have definite info on the
+identification of objects 1997-74C and 74D? I suspect it is more likely
+that they are adapters connecting ETS-7 to the launch vehicle, or TRMM
+sensor covers. TRMM (Tropical Rainfall Measuring Mission) is a joint
+NASDA/NASA project. Built by NASA-Goddard and part of NASA's Earth Probe
+series, it will improve climate models and study El Nino. 
+
+JCSAT-5 is a comsat for Japan Satellite Systems (JSAT) built by
+Hughes/El Segundo using the HS-601 bus. It was launched on an
+Arianespace Ariane 44P rocket on Dec 2 into geostationary transfer
+orbit of 214 x 35758 km x 4.0 deg.
+
+Usually dual payload launches on Ariane involve an adapter called
+SPELDA which covers the lower satellite; on this mission a simpler
+and smaller cylinder called Cyclade covered the lower payload,
+a small space science satellite, Equator-S. (Cyclade was used once
+before, on the May 1993 launch of the Arsene satellite).
+
+Equator-S was built by Germany's MPE (Max-Planck-Institut fur
+Extraterrestrische Physik) and is part of the International
+Solar-Terrestrial physics Program. It will study particles and fields in
+the equatorial magnetosphere. A Thiokol Star 13A solid motor will fire
+to place Equator-S in an orbit with a 65000 km apogee.
+
+Astra 1G, launched on Dec 2, is an HS-601HP comsat from Hughes for the
+SES (Societe Europeene des Satellites, based in Luxembourg), which provides
+television broadcasting in Europe.
+
+Astra 1G was launched by International Launch Services on a Krunichev
+Proton-K rocket with an RKK Energiya upper stage, Blok DM3 No. 2L After
+six hours the second burn of the Blok DM3 placed Astra 1G in a 10211 x
+35989 km x 12.3 deg transfer orbit.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  5 1508   Progress M-36     Soyuz-U       Baykonur LC1     Cargo      58A
+Oct  5 2101   Echostar III      Atlas IIAS    Canaveral LC36B  Comsat     59A
+Oct  9 1808   Foton No. 11  )   Soyuz-U       Plesetsk         Micrograv  60A
+              Mirka         )
+Oct 15 0843   Cassini  )        Titan Centaur Canaveral LC40 Saturn probe 61A
+              Huygens  )                                      Titan probe 
+Oct 16 1913   Apstar 2R         CZ-3B         Xichang         Comsat      62A
+Oct 22 1315   STEP M4           Pegasus XL    Wallops I        Technology 63A
+Oct 24 0232   Lacrosse 3        Titan 4A      Vandenberg SLC4E  Recon     64A
+Oct 25 0046   DSCS III B-13 )   Atlas IIA     Canaveral LC36A  Comsat     65A
+              Falcon Gold   )                                  Technology 65B
+Oct 30 1343   Maqsat H-Teamsat) Ariane 5      Kourou ELA3      Technology 66A
+              Maqsat B        )                                           66B
+              YES             )                                           66C
+Nov  2 1225   SCD-2A            VLS           Alcantara        Rem.sens.  FTO
+Nov  3 0405   Sputnik-40                      Mir,LEO          Demo       58C
+Nov  6 0030   GPS 38            Delta 7925    Canaveral LC17A  Navsat     67A
+Nov  8 0205   Trumpet 3         Titan Centaur Canaveral LC41   Signal int 68A
+Nov  9 0134   Iridium 38 )      Delta 7920    Vandenberg SLC2W Comsat     69E
+              Iridium 39 )                                     Comsat     69D
+              Iridium 40 )                                     Comsat     69C
+              Iridium 41 )                                     Comsat     69B
+              Iridium 43 )                                     Comsat     69A
+Nov 12 1700   Kupon             Proton        Baykonur LC200   Comsat     70A
+Nov 12 2148   Sirius 2     )    Ariane 44L    Kourou ELA2      Comsat     71A
+              Cakrawarta 1 )                                   Comsat     71B
+Nov 18 1115   Resurs-F1M        Soyuz-U       Plesetk          Rem.sens.  72A
+Nov 19 1946   Columbia          Shuttle       Kennedy LC39B    Spaceship  73A
+Nov 21 2105   Spartan 201                     OV-102, LEO      Astronomy  73B
+Nov 27 2127   TRMM    )         H-2           Tanegashima      Rem.sens.  74A
+              Hikoboshi  )                                     Technology 74B
+              Orihime    )        
+Dec  2 2252   JCSAT-5    )      Ariane 44P    Kourou           Comsat     75A
+              Equator-S  )                                     Space sci  75B
+Dec  2 2310   Astra 1G          Proton        Baykonur         Comsat     76A
+Dec  3        AERCam/Sprint                   OV-102, LEO      Technology 
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-87  
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                                             
+MLP2/RSRM65              VAB Bay 3     STS-90
+MLP3/RSRM64/ET-90        VAB Bay 1     STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

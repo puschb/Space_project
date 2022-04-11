@@ -1,0 +1,157 @@
+Jonathan's Space Report
+No. 550                                           2005 Jul 10, Somerville, MA
+-------------------------------------------------------------------------------
+
+Astro-E2/Suzaku
+----------------
+
+Japan's Astro-E2 astronomy satellite was launched on Jul 10 into a 248 x
+540 km x 31.4 deg orbit and renamed "Suzaku".
+
+Thanks to Randall Smith for forwarding Kunieda-san's explanation of the name,
+reproduced below with minor editing:
+
+ "Project manager, Inoue-san, announced Suzaku as the new name of
+  Astro-E2 with the following reasons in the [press] conference.
+
+  1. Suzaku is a legendary red bird which guards us from evil and
+  brings us fortune. Japanese X-ray astronomy satellites have been called
+  mostly with the names of birds. Therefore, Suzaku, a red bird, fits into
+  this tradition.
+
+  2. X-ray astronomy in Japan started with the recovery mission
+  Hakuchou ("swan" or "white bird" in Chinese characters) [Jonathan's note:
+  usually written just "Hakucho" in English language sources and often translated
+  specifically as the constellation "Cygnus"]
+  following the failure of CORSA-A. [Jonathan's note: Japan's first X-ray
+  astrononomy satellite was to be CORSA-A which failed to reach orbit. The
+  replacement CORSA-B was named Hakucho on reaching orbit.]
+  The scientific results we have obtained so far are based on 
+  the series of missions starting from Hakucho. Now we would like to
+  start a new chapter in the history of X-ray astronomy with the 
+  new satellite named Suzaku ('red bird'), making a good contrast with Hakuchou.
+
+  3. In Japanese history, emperors after Asca era in the 7th
+  century built big capitals in the manner of Chinese dynasties. 
+  These cities were guarded by four deities in Chinese legend. 
+  The white tiger is the guardian of the west, the black turtle for the 
+  north, blue dragon for the east, and the red bird for the south. Suzaku, 
+  the red bird, became the leading deity of the time following the
+  ASCA era. [Jonathan's note: and of course, in Japanese X-ray astronomy
+  the previous era was indeed that of ASCA (Astro-D) launched in 1993.]
+
+  4. In Chinese astrology, 28 constellations are "governed" by the four
+  deities mentioned above. The red bird, Suzaku, governs the southern
+  sky. The Virgo cluster of galaxies, one of the most important targets of
+  the new mission, is located in the area governed by Suzaku."
+  [Jonathan's note: of course, "southern sky" here means as seen from Japan;
+  Virgo of course is in the northern hemisphere but near the equator.]
+
+Astro-E2 replaces the first Astro-E lost in the M-V-4 launch failure in
+2000. It is the first X-ray satellite to carry a microcalorimeter,
+providing high resolution spectra from a detector refrigerated to 1.5
+milliKelvin. The satellite has five 0.4-meter diameter X-ray telescopes,
+one with the XRS microcalorimater and the others with X-ray CCD cameras;
+a hard (10-700 keV) X-ray detector is also aboard. Mass of Astro-E2 is
+1700 kg. Astro-E2's spatial resolution is lower than Chandra and
+XMM-Newton, so it won't be sending back pretty pictures, but the new XRS
+spectrometer makes it a breakthrough facility for some kinds of
+observation. Although XMM-RGS and Chandra-LETG are more sensitive and
+higher spectral resolution than XRS at soft energies, the reverse is
+true at 2-10 keV energies where XRS surpasses other missions in both
+sensitivity and spectral resolution. I look forward to seeing the initial
+results!
+
+The M-V-6 launch vehicle has three solid stages; it was launched from
+the Uchinoura Space Center (formerly called the Kagoshima Space Center).
+The first stage, M-14, separated 1 min after launch; the second stage
+is the M-25, which separated 3min 20s after launch. The third stage, M-34,
+is spin-stablized and has an extending nozzle; it burned for about 1min 42s
+and entered orbit at about 5min7s after launch. The M-34/ASTRO-E2 then
+maneuvered to put the payload in the correct attitude, and M-34 separated
+21 min after launch. ASTRO-E2 carries some kind of onboard propulsion,
+probably a small hydrazine engine, and will make three apogee burns
+to reach its final 550 km circular orbit. It will then deploy its
+solar panels and extend the optical bench - ASTRO-E2 is truly a 'telescoping'
+telescope, and extends its length from 4.5m at launch to 6.5m when
+operational. Note that the two most recent M-V launches, M-V-5 (Hayabusa)
+and M-V-6 (Suzaku), use an uprated stage 2 motor: M-25 replaced the earlier
+M-24 used for the first three M-V launches. This and other improvements
+followed the ASTRO-E launch failure.
+
+The M-V-4 launch of ASTRO-E on 2000 Feb 10 suffered a first stage nozzle
+failure, but the rocket continued firing and tried to make up the
+resulting trajectory error. Some reports suggest that ASTRO-E made
+a marginal orbit of 80 x 410 km and therefore would have completed
+most of one orbit, while other reports indicate it had a much lower
+velocity and fell in the Pacific not that far from the launch site;
+if anyone has accurate data, please let me know.
+
+Hayabusa
+--------
+
+The Hayabusa probe launched by M-V-5 in 2003 is slowly approaching
+asteroid (25143) Itokawa. On Jul 7, range to Itokawa was 143100 km.
+
+Deep Impact
+-----------
+
+The DI Impactor spacecraft separated from the DI Flyby vehicle at 0600
+UTC on Jul 3. Impactor  hit comet 9P/Tempel 1 at 10.2 km/s at 0544:58
+UTC on Jul 4, as the DI Flyby spacecraft sent back spectacular pictures
+of the resulting plume. Flyby passed about 500 km from the comet at 0559
+UTC, at which time it was in 'shields up' mode pointing away from the
+comet to protect itself from the plume.
+
+Previous close encounters with cometary nuclei:
+
+ Comet                        Spacecraft       Date          Closest Approach
+
+ 21P/Giacobini-Zinner         ICE              1985 Sep 11     7870 km
+  1P/Halley                   Vega-1           1986 Mar  6     8900 km
+  1P/Halley                   Vega-2           1986 Mar  9     8030 km
+  1P/Halley                   Giotto           1986 Mar 13      596 km
+ 26P/Grigg-Skjellerup         Giotto           1992 Jul 10      200 km
+ 45P/Honda-Mrkos-Pajdusakova  Sakigake         1996 Feb 11?   10000?km
+ 19P/Borrelly                 Deep Space 1     2001 Sep 17     2171 km
+ 81P/Wild 2                   Stardust         2004 Jan  2      250 km
+  9P/Tempel 1                 Deep Impact IS   2005 Jul  4      < 0 km
+  9P/Tempel 1                 Deep Impact FS   2005 Jul  4      500?km
+
+SJ-7
+----
+
+China's Shi Jian 7 scientific satellite was orbited on Jul 5 by a Chang
+Zheng 2D rocket from the northern launch site at Jiuquan. SJ-7 is in a
+547 x 570 km x 97.6 deg orbit. This is the first CZ-2D used for a
+non-recoverable satellite launch and the first launch in the SJ series
+from Jiuquan since 1981.
+
+Errata: Ekspress AM-3 is scheduled to be located at 140E, not 40E (JSR 549);
+DirecTV 6 was launched on 1997 Mar 8, not Apr 7 (JSR 548).
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun 16 2310   Progress M-53     Soyuz-U         Baykonur LC1     Cargo       21A
+Jun 21 0049   Molniya-3K        Molniya-M       Plesetsk LC16/2  Comms       F01
+Jun 21 1946   Cosmos-1          Volna           Borisoglebsk,BAR Tech        F02
+Jun 23 1402   Intelsat A-8      Zenit-3SL       Odyssey,POR      Comms       22A
+Jun 24 1941   Ekspress AM-3     Proton-K/DM2    Baykonur         Comms       23A
+Jul  5 2240   SJ-7              CZ-2D           Jiuquan          Sci         24A
+Jul 10 0330   Suzaku            M-V             Uchinoura        XR Astron.  25A
+ 
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

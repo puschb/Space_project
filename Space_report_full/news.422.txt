@@ -1,0 +1,162 @@
+
+Jonathan's Space Report
+No. 422                                       2000 Mar 28 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+The next Shuttle mission is STS-101, to the international space station.
+Crew are James Halsell, Scott Horowitz, Mary Ellen Weber, Jeffrey
+Williams, James Voss, Susan Helms, and Yuriy Usachev. Atlantis will
+carry the External Airlock/Orbiter Docking System, the Spacehab Long
+Tunnel, the Keel Yoke Device with the Integrated Cargo Carrier (ICC)
+pallet, and the Spacehab Logistics Double Module. A GAS canister
+in bay 13 port contains the SEM-6 and MARS high school experiments.
+The ICC carries parts of the ISS Strela robot arm and a Shuttle
+GPS navigation experiment.
+
+The launch of Soyuz TM-30 with the EO-28 Mir crew is scheduled
+for Apr 4. Commander is Sergey V. Zalyotin; flight engineer is
+Aleksandr Kaleri.
+
+Recent Launches
+---------------
+
+The Multispectral Thermal Imager (MTI), USAF Space Test Program mission
+P97-3, was launched by Orbital Sciences Taurus on Mar 12. MTI is a
+Sandia Labs mission to test out a multispectral imager for treaty
+monitoring applications. The mission used a Taurus 1110 rocket with a
+63-inch fairing and a Peacekeeper first stage. The satellite is in a 577
+x 613 km x 97.4 deg orbit.
+
+The first ICO Global Communications satellite was lost when its
+Zenit-3SL launch vehicle failed on Mar 12. ICO F-1 was a 2750 kg Hughes
+HS-601M satellite and would have entered a 10300 km x 45 deg circular
+orbit.  ICO's satellites carry multiple spot beams for mobile
+communications. The Zenit-3SL vehicle took of from Boeing Sea Launch's
+Odyssey platform in the Pacific at 154W 0N. The Zenit second stage shut
+down prematurely due to a valve commanding mistake in the prelaunch
+sequence, and the satellite fell in the South Pacific, possibly south of
+Pitcairn. The fact that the error has been discovered quickly and seems
+to be a simple software mistake means the downtime for Sea Launch may be
+relatively short.
+
+The second Ekspress A Russian communications satellite was successfully
+launched on Mar 12 by a Krunichev Proton-K from Baykonur. Ekspress A No.
+2 will be assigned to the Ekspress 6A slot at 80E, providing
+communications for GO Kosmicheskaya Svyaz. The first Ekspress A was lost
+in a launch failure last year. The Ekspress A is built by NPO PM,
+with a communications payload from Alcatel. The Proton-K used an
+Energiya Blok DM-2M upper stage.
+
+
+USAF Space Command launched a Peacekeeper missile from silo LF-05 at
+Vandenberg at 0940 UTC on Mar 8. Operational test mission GT29PA was
+scheduled to carry 8 reentry vehicles to the Kwajalein Atoll target
+area. These suborbital flights reach apogees of around 1000 km. The
+Peacekeeper's first stage is similar to the first stage of the Taurus
+and Athena space launch vehicles.
+
+The second test launch of the Soyuz-Fregat launch vehicle succeeded
+on Mar 20. The Fregat upper stage placed a dummy satellite, Dumsat,
+into orbit. Dumsat, built by Aerospatiale Matra, is a mass model
+of a pair of Cluster II scientific satellites. Dumsat remained
+attached to the Fregat stage, in a 244 x 18016 km x 64.6 deg orbit.
+The Soyuz third stage flew a suborbital trajectory.
+
+
+The first fully commercial Ariane 5 flight successfully placed two
+comsats, Asiastar and Insat 3B, in geostationary transfer orbit on Mar
+21. Worldspace's second digital radio satellite is Asiastar, a Matra
+Marconi Space Eurostar 2000+ satellite with a dry mass of 1220 kg.
+Asiastar joins Afristar in orbit with a mission of providing radio
+broadcasting to and by communities in the developing world. Insat 3B was
+accelerated to replace the lost Insat 2D and carries a pure telecom
+payload of C, Ku and S band transponders, unlike earlier Insats which
+also had weather instruments. The satellite was built by ISRO, the
+Indian Space Research Organization, and has a dry mass of 970 kg.
+Ariane 5's EPS upper stage was left in a 699 x 35445 km x 7.0 deg
+orbit. The EPC core stage reentered over the Galapagos Islands after
+completing most of one orbit.
+
+
+NASA's IMAGE satellite was launched on Mar 25. IMAGE, the Imager for
+Magnetopause to Aurora Global Exploration, is a MIDEX (mid-sized
+Explorer mission) and was developed by NASA-Goddard and the SWRI
+(Southwest Research Institute of San Antonio, Texas). The
+spin-stabilized spacecraft is a Lockheed Martin LM100. It carries a set
+of neutral atom imagers and ultraviolet imagers, and antennae to study
+radio wavelength emissions from the magnetospheric plasma. The RPI radio
+plasma imager has four long wire antennae which will be deployed to a
+span of half a kilometer. 
+
+IMAGE was launched by a Boeing Delta 7326 from Space Launch Complex
+2-West at Vandenberg AFB. The 7326 uses three strapon GEM-40 boosters, 
+a long tank Delta II Thor first stage, a Delta II second stage with an
+Aerojet AJ-10-118K engine, and a Thiokol Star 37FM third stage solid
+motor. The Delta second stage made a single burn to a 185 x 1076 km x
+93.9 deg orbit and separated from the Star 37 whose burn left IMAGE in a
+987 x 45993 km x 89.9 deg final orbit.
+
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Feb  1 0647   Progress M1-1     Soyuz          Baykonur LC1     Cargo      05A
+Feb  3 0926   Kosmos-2369       Zenit-2        Baykonur LC45    Sigint     06A
+Feb  3 2330   Hispasat 1C       Atlas IIAS     Canaveral SLC36B Comsat     07A
+Feb  7 0334   MEMS 1    )       -              OPAL, LEO        Tech.      04H	
+              MEMS 2    )                                       Tech.      04H
+Feb  8 2124   Globalstar 60)    Delta 7420     Canaveral SLC17B Comsat     08A
+              Globalstar 62)                                    Comsat     08B
+              Globalstar 63)                                    Comsat     08C
+              Globalstar 64)                                    Comsat     08D
+Feb  8 2320   IRDT           )  Soyuz/Fregat   Baykonur LC31    Tech       09
+              Dummy satellite)                                  Tech       09A
+	      Fregat         )                                  Tech       09B
+Feb 10 0130   ASTRO E           M-V            Kagoshima Mu     Astron.    F01
+Feb 11 0510   JAK                              OPAL, LEO        Comsat     04L
+Feb 11 0510   STENSAT                          OPAL, LEO        Comsat     04M
+Feb 11 1743   Endeavour     )   Shuttle        Kennedy LC39A    Spaceship  10A
+              SRL-3         )
+Feb 12 0910   Garuda 1          Proton/DM3     Baykonur LC81L   Comsat     11A
+Feb 12 1343   Thelma    )                      OPAL, LEO        Science    04J
+              Louise    )                                       Science    04K
+Feb 18 0104   Superbird 4       Ariane 44LP    Kourou ELA2      Comsat     12A
+Mar 12 0407   Ekspress A2       Proton         Baykonur         Comsat     13A
+Mar 12 0929   MTI               Taurus         Vandenberg 576E  Imaging    14A
+Mar 12 1449   ICO F-1           Zenit-3SL      Sea Launch       Comsat     F02
+Mar 20 1828   Dumsat            Soyuz/Fregat   Baykonur LC31    Tech       15A
+Mar 21 2328   Asiastar )        Ariane 5       Kourou ELA3      Comsat     16A
+              Insat 3B )                                        Comsat     16B
+Mar 25 2034   IMAGE             Delta 7326     Vandenberg SLC2W Science    17A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Sep?    ISS 3A
+OV-104 Atlantis        LC39A         STS-101 2000 Apr 18? ISS 2A.2a
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

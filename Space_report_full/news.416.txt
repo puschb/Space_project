@@ -1,0 +1,250 @@
+Jonathan's Space Report No. 416                 Y2K Issue
+ Renuntiatio Caelestis CDXVI
+ XVI Kal. Ian., G. Clintonius cos. VII, A. Gore cos. VII, MMDCCLII AVC.   
+                                        Cantabrigium (quondam Oppidum Novum), MA
+--------------------------------------------------------------------------------
+
+Editorial
+---------
+
+To avoid Y2K rollover problems, JSR is looking back instead of forward
+and has switched to the calendar of the Roman Republic. Happy New Year
+to all my readers (and note that the Julian new year is not till Jan 14
+Gregorian - yet another excuse for a party!) - I hope the 2753rd year
+since the founding of Rome and final year of this Common Era millenium
+will be successful for you all.
+
+Shuttle
+-------
+
+Discovery grappled the Hubble Space Telescope with the robot arm at 0034
+UTC on Dec 22, in a 591 x 610 km x 28.5 deg. The first EVA on Dec 22-23,
+by Smith and  Grunsfeld, was successful in replacing the six gyroscopes.
+On EVA-2, by Foale and Nicollier, the 486 computer was installed
+(replacing a 286/386) and the Fine Guidance Sensor (FGS-2) was replaced.
+EVA-3 was by Smith and Grunsfeld, and completed part of the new
+insulation installation. HST was released on Dec 25 at 2303 UTC. The
+deorbit burn at 2248 UTC on Dec 27 placed the orbiter in a 50 x 616 km
+descent orbit, and Discovery landed on runway 33 at Kennedy Space Center
+at 0001 UTC on Dec 28.
+
+In the spacewalks, the axial hatch on the external airlock was used.
+The hatch was opened before the astronauts went on battery power (I
+think this is a recent practice; can someone confirm this?)
+     
+For EVA-3, Grunsfeld's EMU suit had a problem, so he used the suit worn
+by Foale on EVA-2 instead. I believe that a total of 3 EMUs were carried
+on the flight; serial numbers for the EMUs and PLSSs will eventually
+become available in the operational data book summaries, and hopefully
+it will be clear which one was used on which EVA (hi, JBC!). However, the
+new suit also had a problem at the end of the spacewalk, when it refused
+to switch to orbiter power.
+
+I track three different definitions of spacewalk time, none of which are
+quite the same as NASA's. The Hatch open/close time is essentially the
+definition used by Russia, although I'm not sure whether to use the main
+hatch or the thermal cover (values in parentheses) as the 'hatch' in
+question. The times below are approximate.
+
+Spacewalks:
+       Depress (1psi) Depress   Hatch open/close   Ingress/Egress   NASA
+       start/UTC      duration  duration           duration         duration
+EVA-1  Dec 22 1838?   8:32       8:10  (7:57)     7:50              8:15
+EVA-2  Dec 23 1845?   8:31       8:07  (7:52)     7:50              8:10
+EVA-3  Dec 24 1910?   8:15       7:52  (7:35)     7:28              8:08
+
+The next Shuttle launch is the Shuttle Radar Topography Mission (STS-99),
+using orbiter Endeavour. Discovery is now in one of the bays of
+the Orbiter Processing Facility (I don't know which one) and will fly
+again next summer.
+
+Recent Launches
+---------------
+
+Korea's KOMPSAT (Korean Multipurpose Satellite) was launched on Dec 21
+by an Orbital Sciences Taurus from Vandenberg. It carries an ocean color
+sensor developed by TRW and particle detectors. KOMPSAT was built by the
+Korean Aerospace Research Institute (KARI) based on a test model built
+by TRW; it uses the TRW STEP Lightsat bus and has a mass of around 500
+kg, with 73 kg of hydrazine fuel. The NASA ACRIMSAT satellite was
+launched on the same rocket; ACRIMSAT, managed by JPL, will measure the
+integrated solar energy output from 0.2 to 2 microns.  ACRIMSAT was
+built by Orbital Sciences. The satellites are in a 690 x 722 km x 98.3
+deg orbit.
+
+The Taurus used a Castor 120 solid motor first stage (stage zero in
+Orbital's nomenclature) and three Pegasus derived upper stages. Attached
+to the Taurus final stage is a Celestis burial canister containing
+cremated human remains. This is Celestis' third mission - I think; some
+of my sources suggest a Celestis package flew on the May 1999 Pegasus,
+but I believe that is not correct.
+
+Arianespace launched an Ariane 44L from Kourou on Dec 22.  Aboard was
+Hughes' Galaxy 11, the first HS-702 satellite.  Galaxy 11 will be the
+first satellite to use ion propulsion to go from geostationary transfer
+orbit to circular geostationary orbit, using its 25-cm XIPS ion engine. 
+It also carries a bipropellant engine of some kind. Some HS-601
+satellites used the smaller 13-cm XIPS for north-south stationkeeping.
+Galaxy 11 was initially in a 278 x 38900 km x 5.4 deg transfer orbit.
+The first XIPS burn phase seems to have gone well, as on Dec 28 it was
+tracked in a 5516 x 38924 km x 1.4 deg orbit. Launch mass was 4484 kg;
+Hughes refuse to reveal the true (dry) mass of their satellites. 
+
+I am informed that the failed Brazilian SACI-2 satellite launch time was
+1640 local time, which allegedly translates to 1940 UTC. Earlier wire
+reports gave 1830 UTC.
+
+Kosmos-2367, launched Dec 26, is a US-P passive electronic intelligence
+satellite. The US-P satellites, built by KB Arsenal of Sankt-Peterburg,
+are cylindrical with two large solar arrays and a low thrust propulsion
+system which keeps the satellite in a precise orbit. The two-stage 11K69
+Tsiklon-2 launch vehicle (derived from the R-36 ICBM) placed the US-P
+satellite in a low 147 x 442 km orbit at 65 degree inclination. The
+US-P's propulsion module fired to circularize the orbit at apogee as 404
+x 417 km x 65.0 deg. The last US-P satellite ended operations in
+November and reentered earlier this month. US-P is a Russian Navy system
+used to detect radio and electronic transmissions from ships. There's an
+excellent and very detailed history of the US-P program by Asif Siddiqi
+in the Nov/Dec issue of the Journal of the British Interplanetary
+Society.
+
+Kosmos-2368 was launched on Dec 28. It is an Oko-class early warning
+satellite. The Oko satellites are built by the Lavochkin company and
+carry a large telescope to monitor missile launches. The 8K78M
+(Molniya-M) launch vehicle placed the payload and fourth stage in a low
+229 x 523 km x 62.8 deg orbit; the fourth stage (Blok-2BL) fired over
+South America on the first orbit and delivered the payload to a 12-hour
+551 x 39138 km x 62.8 deg elliptical orbit.
+
+Launch times for Kosmos-2367 and Kosmos-2368 have been estimated from
+their orbital ground tracks.
+
+According to a so far unconfirmed report on the FPSPACE list, the
+RVSN-40 satellite and its Rokot launch vehicle were destroyed in an
+accident at Plesetsk on Dec 24. RVSN-40 was a small satellite to test
+spaceborne GLONASS (Russian GPS) receivers and new minisat systems. The
+Rokot launch vehicle, based on the Krunichev UR-100NUTTKh missile with a
+14S12 Briz-K upper stage, would have made its second orbital flight.
+According to the story, the Rokot was undergoing tests when its stage
+separation systems all fired, sending the upper stage and payload flying
+out of the silo.
+
+Now this is a tricky question for a pedant like me. We consider an
+orbital launch attempt to occur if the launch vehicle leaves the pad.
+So, if the Shuttle ignites and then shuts down its main engines at T-2s
+in an RSLS abort, that's not a launch. But if a rocket leaves the pad by
+a few centimeters and then falls back down, it counts and I catalog it
+as a failed launch. The difference there is essentially that you don't
+get to try again. On the other hand, if a rocket explodes on the pad
+before launch, that's a different category. But what about this: it's an
+UNINTENTIONAL launch! Admittedly, with an apogee of only a few meters
+and without rocket propulsion. So, although I could make an argument to
+count this one as an orbital launch failure on the basis that the
+payload left the silo on a ballistic trajectory (if the rumours are
+correct, and I emphasize there's no confirmation yet), I think I'm going
+to group it with the prelaunch explosions (Discoverer 0 et al)  rather
+than the orbital launch failures, and therefore it won't appear in my log.
+Aren't you all glad someone spends this much energy worrying about things
+like this?
+
+Lost and Found Department
+-------------------------
+
+I've nearly completed a survey of world launch pad locations. I'm
+missing several locations, contributions with 0.1 degree accuracy or better
+would be welcome for the following sites whose locations are known poorly
+or not at all:
+
+  Site                                          Approximate location
+
+  Green River, Utah                             39.0N 110.2W 
+  Le Cardonnet, France  (1950s Veronique test)  ?
+  Viking 4 launch site, Atlantic Ocean          ?
+  Marka Range, Lista, Poland                    ?
+  OTRAG Shaba launch site, Zaire                 8.0S 28.5E
+  LC5, GIK-2 Svobodniy                          51.7N 128.0E
+  Qom missile test site, Iran                   34.7N 50.9E
+  Jhelum/Tilla range, Pakistan                  33.4N 73.3E
+  Gillam launch site, Manitoba (1972-1973)      56.1N 96.0W
+  Kwajalein Pegasus drop box (planned 2000)     ?
+  SAC-B Pegasus drop box                        37.0N 72.0W?
+
+I'll post the full list to the web site sometime early next year.
+
+I'm also trying to find details of the TRAILBLAZER project in which
+1-gram pellets were accelerated to escape velocity, and so would have
+entered solar orbit had they not been heading down into the atmosphere
+at the time. It was an experiment to create artificial meteors; but
+I'd like to add the launches to my list of objects that were, however
+briefly, not gravitationally bound to Earth. If anyone knows of a
+reference where results were published, or has the date of the Meteor-6
+flight in 1964/1965, please get in touch.
+
+The special annual launch issue should be out shortly after the new year.
+
+Table of Recent Launches
+-----------------------
+
+--------------------------------------------------------------------------------
+Date SPQR    Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+Julian       Gregorian                                                                 DES.
+
+I Kal Nov.   Nov 13 2255   GE 4              Ariane 44LP    Kourou ELA2      Comsat     60A
+IV Non. Nov  Nov 15 0729   MTSAT             H-2            Tanegashima      Comsat     F04
+Non. Nov     Nov 19 2230   Shenzhou          Chang Zheng 2F Jiuquan          Spaceship  61A
+VI Id. Nov   Nov 22 1620   Globalstar 29 )   Soyuz-Ikar     Baykonur LC1     Comsat     62A
+                           Globalstar 34 )                                   Comsat     62B
+                           Globalstar 39 )                                   Comsat     62C
+                           Globalstar 61 )                                   Comsat     62D
+V Id. Nov    Nov 23 0406   UHF F/O F10       Atlas 2A       Canaveral SLC36B Comsat     63A
+XI Kal. Dec  Dec  3 1622   Helios 1B  )      Ariane 40      Kourou ELA2      Imaging    64A
+                           Clementine )                                      Sigint     64B
+XI Kal. Dec  Dec  3 1951   Mars Polar Lander                MPL Cruise Stage Lander     01D?
+XI Kal. Dec  Dec  3 1951   Scott Probe   )                  MPL Cruise Stage Lander     01E?
+                           Amundsen Probe)                                   Lander     01F?
+X Kal. Dec   Dec  4 1853   Orbcomm FM30 )    Pegasus XL/HAPS Wallops         Comsat     65A
+                           Orbcomm FM31 )                                    Comsat     65B
+                           Orbcomm FM32 )                                    Comsat     65C
+                           Orbcomm FM33 )                                    Comsat     65D
+                           Orbcomm FM34 )                                    Comsat     65E
+                           Orbcomm FM35 )                                    Comsat     65F
+                           Orbcomm FM36 )                                    Comsat     65G
+IV Kal. Dec  Dec 10 1432   XMM               Ariane 5       Kourou ELA3      Astronomy  66A
+III Kal. Dec Dec 11 1940   SACI-2            VLS            Alcantara        Research   F05
+II Kal. Dec  Dec 12 1738   DMSP 5D-3 F-15    Titan 23G      Vandenberg SLC4W Weather    67A
+I Non. Dec   Dec 18 1857   Terra             Atlas 2AS      Vandenberg SLC3E Rem.Sens.  68A
+VIII Id. Dec Dec 20 0050   Discovery         Space Shuttle  Kennedy LC39B    Spaceship  69A
+VII Id. Dec  Dec 21 0712   KOMPSAT    )      Taurus         Vandenberg 576E  Imaging    70A
+                           ACRIMSAT   )                                      Science    70B
+                           Celestis-03)                                      Burial     70C
+VI Id. Dec   Dec 22 0050   Galaxy 11         Ariane 44L     Kourou ELA2      Comsat     71A
+II Id. Dec   Dec 26 0800?  Kosmos-2367       Tsiklon-2      Baykonur LC90    Recon      72A
+I Id. Dec    Dec 27 1920?  Kosmos-2368       Molniya-M      Plesetsk         Early Warn 73A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF           STS-92  2000 Jun?    ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Mar 16  ISS 2A.2
+OV-105 Endeavour       LC39A         STS-99  2000 Jan 13  SRTM
+
+MLP1/
+MLP2/                          LC39B
+MLP3/RSRM-71?/ET?/OV-105       LC39A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'

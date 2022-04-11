@@ -1,0 +1,152 @@
+Jonathan's Space Report 
+No. 195       1994 May 9
+------------------------------------------------------------------------------
+
+Shuttle  
+-------  
+
+Endeavour returned to KSC aboard the NASA 911 carrier aircraft on May 2.
+Thanks to all those who passed on the identification of the aircraft.
+Endeavour has been towed to Orbiter Processing Facility
+Bay 1 and will be recycled for launch with the same Space Radar Lab
+payload in August.
+
+Assembly of the STS-65 stack is proceeding in the Vehicle Assembly
+Building with preparations for connecting the external tank
+to the solid boosters. The Spacelab module will be installed
+in orbiter Columbia this week. Launch of STS-65 is due in July.
+
+Mir ERRATUM
+------------
+
+My brain has been out to lunch recently - the physician cosmonaut aboard
+Mir is of course Valeriy Vladimirovich Polyakov, not Vladimir Polyakov
+as I have been typing recently. Thanks for everyone who caught that
+piece of stupidity.
+
+LAUNCHES
+--------
+
+The Deep Space Program Science Experiment probe, known to its friends as
+Clementine, has completed mapping the Moon (and returned some
+spectacular images!). Dean Bakeris reports that  Clementine left lunar
+orbit on May 4 at 0324:15 UTC. Perigee was due on May 8 at 0556, and
+apogee will be at 0530 on May 16, when a targeting maneuver will be
+performed. Second perigee will be around May 24, and Clementine will fly
+past the moon again on May 27 on its way to solar orbit. It will reach
+asteroid (1620) Geographos at 2116 UTC on Aug 31. It is hoped to send
+the probe on to fly by the unnumbered minor planet 1983 RD in October
+1995.
+
+The second Titan 4 Centaur, TC-10, was launched from Cape Canaveral on
+May 3. The Titan solid boosters and core stages 1 and 2 fell in the
+Atlantic Ocean, and the first Centaur burn placed the Centaur and its
+payload into a parking orbit inclined at 57 deg (estimated). 
+Observations from Europe of a bright comet like object over the US
+suggest that the Centaur made a second burn in the southern hemisphere
+to a highly elliptical orbit with apogee in the northern hemisphere. A
+third burn may have been made to change the orbital inclination about
+3.5 hours after launch. The Centaur then vented its excess propellants,
+giving rise to the "comet". The best guess so far at the resulting orbit,
+based on observations from Italy and the Czech Republic, is
+a 12 hr period orbit around 64 degrees; a solution by Joel Runes gives
+1323 x 39035 km x 64.4 deg, with TLEs as follows: 
+
+1 23098E 94026B   94123.83406471  .00000000  00000-0  00000 0 0    52
+2 23098  64.4000  14.6349 7100000 266.5000  93.5000  2.00600000    29
+ 
+Work by Mike McCants gives similar estimates; the eccentricity is rather
+uncertain. The object may be visible in binoculars to observers in the
+US around 03h UTC tonight.  The payload, USA-103, is probably a signals
+intelligence satellite, the third in a series which is a followon to
+the National Security Agency's JUMPSEAT electronic monitoring series.
+The first two payloads in the series were deployed by the Shuttle
+and used an unknown upper stage (possibly an Orbus 7S solid motor)
+to enter their 12 hour orbits.
+
+ Advanced JUMPSEAT spacecraft:
+Flight Payload    Launch Date   Initial Orbit   Final Orbit     Int'l Designation
+STS-28R USA-40    1989 Aug  8   401 x 502 x 57  ?                 1989-61B
+STS-53  USA-89    1992 Dec  2   364 x 380 x 57  ?                 1992-86B
+TC-10   USA-103   1994 May  3   250?x 600?x 57  1300?x39000?x64.4 1994-26A
+
+The final launch of the Scout rocket took place at 0247 UTC on May 9. 
+It placed the MSTI-2 (Miniature Seeker Technology Integration) satellite
+in orbit for the Ballistic Missile Defense Organization.  The orbit is
+360 x 461 km x 96.8 deg. Vehicle S218C was a Scout G-1 variant,
+consisting of an Algol 3A first stage, a Castor 2 second stage, an
+Antares 3 third stage, and a Thiokol Star 20 fourth stage. The launch
+took place from Space Launch Complex 5 at Vandenberg Air Force Base,
+which was originally Launch Complex D of Point Arguello Naval Missile
+Facility when it saw its first Scout launch in 1962. S218C was the 125th
+launch of an Algol-based Scout (including six launches of the USAF Blue
+Scout version); there were also 22 launches of a variant called Blue
+Scout Junior which omitted the first stage. Scout's first test flight
+was on Apr 18, 1960; the first successful orbital launch on 16 Feb 1961
+(Explorer IX). Among Scout's famous payloads were: Transit VA-3, the
+first successful gravity gradient stabilized satellite; San Marco 1,
+Italy's first satellite; ESRO 2B, Europe's first joint satellite (ESRO
+was ESA's predecessor); Azur, Germany's first satellite; the Dutch
+satellite ANS; and Uhuru and Ariel 5, the early X-ray astronomy
+satellites.
+
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar 22 0454     Progress M-22   Soyuz-U         Baykonur LC1    Cargo       19A
+Apr  9 1105     Endeavour       Space Shuttle   Kennedy LC39A   Spaceship   20A
+                Space Radar Lab
+Apr 11 0749     Kosmos-2275   ) Proton/DM2      Baykonur LC81   Navigation  21A
+                Kosmos-2276   )                                 Navigation  21B 
+                Kosmos-2277   )                                 Navigation  21C
+Apr 13 0604     GOES 8          Atlas Centaur I Canaveral LC36B Weather     22A
+Apr 23 0802     Kosmos-2278     Zenit-2         Baykonur LC45   SIGINT      23A                                                                                 
+Apr 26 0214     Kosmos-2279     Kosmos-3M       Plesetsk LC133  Navsat      24A
+Apr 28 1714     Kosmos-2280     Soyuz-U         Baykonur LC31   Recon       25A
+May  3 1555     USA-103         Titan Centaur   Canaveral LC41  SIGINT      26A
+May  4 0000     SROSS C2        ASLV            Sriharikota     Science     27A
+May  9 0247     MSTI-2          Scout G-1       Vandenberg SLC5 Technology  28A
+
+Reentries
+---------
+
+Mar 15          SEDS 2 end mass Reentered
+Mar 18          Columbia        Landed at KSC
+Mar 23          Progress M-21   Deorbited
+Apr 20          Endeavour       Landed at Edwards AFB
+May  8          SEDS 2 deployer Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-65
+OV-103 Discovery       OPF Bay 3     STS-64
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-59
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       VAB Bay 3 STS-68
+ML2/                       
+ML3/RSRM-39/               VAB Bay 1 STS-65
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 
+
+,
+

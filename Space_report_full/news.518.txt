@@ -1,0 +1,148 @@
+Jonathan's Space Report
+No. 518                                           2004 Jan 16, Cambridge, MA
+-------------------------------------------------------------------------------
+
+ SPIRIT ON MARS
+ --------------
+
+The landing of MER-A "Spirit" near Gusev crater on Mars occurred around
+0426 UTC on 2004 Jan 4.
+
+The cruise stage separated at 0405 UTC and the spacecraft  entered the
+Martian atmosphere at 0420 UTC at 5.4 km/s. (for comparison, Martian
+escape velocity at this altitude is around 4.93 km/s). Intended entry
+angle was 11.5 degrees, which would give a vacuum periapsis around 7 km
+above the surface, but controllers reported the entry was slightly
+shallow.
+By 0425 UTC the parachute was deployed; 20 seconds later the heatshield
+was jettisoned. Next the backshell (attached to the parachute) separated
+from the lander attached to a cable. About a hundred metres up, the
+airbags inflated, the retrorockets fired to stop the descent, and the
+parachute-backshell system was jettisoned. The airbag-enclosed lander
+hit the surface at around 0426 UTC and bounced multiple times, with the
+signal detected on Earth at 0436 UTC and then cutting off. Signal was
+reacquired at 0452 UTC (corresponding to a signal sent at 0443 UTC by
+the lander) confirmed that the landing was complete and the lander was
+the correct way up. Next steps were airbag deflation, petal opening and
+solar array deploy. The first images from the surface were received at
+JPL at 0730 UTC, and the rover rolled off the lander onto the surface
+on Jan 15.
+
+Light time from Mars to Earth at the time of landing was 9 min 28s.
+
+Cancellation of HST SM4  (Warning: editorial content slipping in here)
+------------------------
+
+NASA has cancelled the final servicing mission to the Hubble Space
+Telescope. This is a blow to astronomy, as two expensive new instruments
+had been completed and are ready to fly. HST will continue to operate
+for a while, but plans are to deorbit it before its systems fail -
+probably by 2007. This will leave a big gap in US astronomical
+capabilities, and is sure to be a blow to morale at the Space Telescope
+Science Institute (and the NASA/Goddard program office) who have provided
+us with all those stunning images of deep space.
+
+NASA HQ claims that the cancellation is because the Shuttle cannot fly
+safely to this one remaining mission not involving the Station without
+undue safety risk. However, other sources suggest that Shuttle program
+experts were willing to support such a mission. Many  astronomers I have
+spoken to are skeptical, suggesting that at least part of the reason is
+to free up funding for the human spaceflight exploration program, and
+that Congress will find it much harder to fight this decision if it is
+presented as for safety rather than budgetary reasons. The really big
+question is how other space science programs will fare in the upcoming
+budget; if the previously allocated SM4 funding is redirected to programs
+that can provide a replacement optical and UV astronomy capability
+(perhaps competing against other disciplines), things are not so bad;
+but if it and other space science program funding is redirected to the 
+(however worthy) human exploration program, it could be a major setback
+to our exploration of the wider universe. Stay tuned...
+
+Bush Space Proposals
+--------------------
+Here are some details of the proposals in President Bush's speech at
+NASA on Jan 14.
+
+ - Robot lunar missions would begin in 2008
+ - The new CEV (Crew Exploration Vehicle) would begin (robotic?)
+   testing in 2008
+ - ISS assembly would be complete by 2010  
+ - The Shuttle would be retired in 2010  
+ - The CEV would enter (crewed) service in 2014  as a Station ferry. 
+   In the intervening 4 years, 
+   non-US vehicles such as Soyuz would be used to ferry crews.
+ - CEV would start flying to the Moon in around 2015-2020
+ - No US funding for ISS after 2016 (I wonder what happens if
+   ESA and NASDA want to keep it flying? Will the US and Russia
+   sell their pieces?)
+ - Human missions to Mars and beyond sometime later.
+ - International participation invited (but not emphasized)
+ - Small increase above inflation to NASA budget for next 5 years,
+ - No mention of the status of NASA's space science. The
+   budget chart presented by O'Keefe shows "Aeronautics and Other
+   Science Activities' with a significant cut over the next
+   few years, followed by tiny increase in actual dollars
+   and (most importantly) not keeping up with inflation.
+
+Other news
+----------
+
+A leak in a hose mechanism attached to the Destiny lab window appears to
+be the culprit in  a drop of air pressure in the Space Station during
+the first week of 2004. Mike Foale appears to have located and fixed the
+leak on Jan 11. A replacement hose will be delivered on the next
+Progress.
+
+Analysis of orbital data reveals that the Tan Ce 1 magnetospheric
+research satellite launched on Dec 29 used a direct ascent trajectory,
+with the final stage firing  immediately after stage 2 cutoff. (Other
+possibilities involved a coasting period after stage 2, either in a
+parking orbit or with a suborbital coast to the equator). The burn put
+the apogee of Tan Ce 1's elliptical orbit at about 23 deg S, and implies
+a larger kick stage than some observers had suggested, with a propellant
+mass around 1100 kg. If the stage has the same 10.8 kN thrust as the old
+Smart Dispenser, and differs simply by having more propellant, the burn
+time would be around 290s which seems rather long - a thrust in the
+range of 50-100 kN seems more likely.
+
+The Telstar 14 satellite was launched at 0413 UTC on Jan 11 by a Boeing
+Sea Launch Zenit-3SL from the Odyssey platform at 154W 0N in the
+Pacific. The Energiya DM-SL stage reached initial orbit of around 180 x
+913 km x 0 deg at 0426 UTC. A second burn at 0502 UTC put the satellite
+in geostationary transfer orbit. Telstar 14 is also called Estrela do
+Sul, and is operated by Loral Skynet do Brasil. The satellite is a Loral
+LS-1300 with a launch mass of 4694 kg. Reports indicate there have
+been problems deploying one of the solar panels.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Dec  2 1004   USA 173        )  Atlas IIAS      Vandenberg SLC3E  Sigint     54A
+              USA 173 P/L 2? )                                    Sigint     54C
+Dec  5 0600   Gruzomaket        Strela          Baykonur PL132    Test       55A
+Dec 10 1742   Kosmos-2402 )     Proton-K/Briz   Baykonur PL81/24  Navigation 56A
+              Kosmos-2403 )                                       Navigation 56B
+              Kosmos-2404 )                                       Navigation 56C
+Dec 18 0230   UHF F/O F11       Atlas IIIB      Canaveral SLC36B  Comms      57A
+Dec 21 0805   GPS SVN 47        Delta 7925      Canaveral SLC17A  Navigation 58A
+Dec 27 2130   Amos-2            Soyuz-FG/Fregat Baykonur PL31/6   Comms      59A
+Dec 28 2300   Ekspress AM-22    Proton-K/DM-2M  Baykonur PL200/39 Comms      60A
+Dec 29 1906   Tan Ce 1          CZ-2C           Xichang           Science    61A
+Jan 11 0413   Estrela do Sul    Zenit-3SL       Odyssey           Comms      01A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |                                    |
+|   c/o                              |                                    |
+|  Center for Astrophysics,          |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,303 @@
+Jonathan's Space Report
+No. 772 [Corrected]                                                2019 Dec 8 Somerville, MA
+---------------------------------------------------------------------------------------------
+Note: Apologies - I sent the wrong file out first time; this is the correct one.
+
+International Space Station
+---------------------------
+
+Expedition 61 continues.
+
+On Nov 20 the J-SSOD No. 12 deployer, delivered on HTV 8,
+was moved outside the Kibo airlock with the JEM RMS
+robot arm. Three cubesats were ejected:
+ RWASAT-1, built by the University of Tokyo in collaboration with Rwanda's Ministry of Trade and Industry;
+ NARSSCube-1 from the Egyptian Space Agency; and
+ AQT-D from the University of Tokyo which is testing a water thruster.
+
+On Nov 22 Parmitano and Morgan carried out spacewalk EVA-60, the second in the series to
+repair the cooling system of the AMS-02 particle physics experiment.
+The Quest airlock was depressurized from 1200 to 1835 UTC, and the hatch was opened at 1201 UTC
+and closed at 1833 UTC. The astronauts made cuts in cooling pipes, depressurizing the
+old cooling system and preparing for installation of the new pump.
+
+On Nov 29 the Progress MS-12 cargo ship undocked from the Pirs module at
+1025 UTC, performed a deorbit burn at 1339 UTC and entered the
+atmosphere over the South Pacific at 1411 UTC. Its debris impacted the
+ocean at about 1419 UTC.
+
+On Dec 2 Parmitano and Morgan carried out spacewalk EVA-61. The airlock was depressurized
+from 1127 to 1733 UTC. They carried the 158 kg Upgraded Tracker Thermal Pump Systme
+(UTTPS) to the AMS-02 experiment and installed it there, connecting fluid lines.
+
+On Dec 5 SpaceX launched Dragon CRS-19 on its way to the ISS. The Falcon 9 first stage landed
+on the OCISLY droneship. 
+ In Dragon's trunk are:
+  HISUI (Hyperspectral Imager Suite) for Japan's Ministry of Economy, Trade and Industry;
+    to be installed at EFU 8 on the JEM Exposed Facility. Mass about 600 kg; I believe it
+    was developed by Japan Space Systems.
+  Li-Ion battery/Adapter Plate, to replaced one that failed after installation.
+ In the cabin are:
+  RiTS (Robotic Tool Stowage), a box that can store both of the RELL leak locators, to
+   be EVA-installed outside ISS.
+  Cubesats CIRiS (Utah State), CryoCube-1 (NASA KSC), QARMAN (Von Karman Inst,, Belgium),
+   SORTIE (Astra LLC/UNMC), EdgeCube (Sonoma State U), MakerSat 1 (NW Nazarene U), and
+   AztechSat-1 (UPAEP, Puebla, Mexico).
+Dragon was captured by the Canadarm-2 at 1005 UTC Dec 8 and berthed on the Harmony nadir port
+at 1247 UTC.
+
+
+The Dragon's Falcon 9 second stage remained in orbit for several hours
+and then restarted to make a 20s duration out-of-plane deorbit burn to
+reenter southwest of Australia. This was to simulate a GEO 3-burn
+deployment mission. My estimate is that after separation from Dragon at
+1739 UTC, it was in a 204 x 378 km x 51.6 deg orbit until about 2225 UTC
+when it made a 1.8 km/s burn to about -31 x 280 km x 58.5 deg,
+reentering in the target zone shortly after 2300 UTC, having completed 3
+orbits of the Earth. Unfortunately it was not cataloged and no TLEs are
+available for it; the old rule was that things that completed one orbit
+should get a catalog number but this rule is no longer being followed.
+
+On Dec 6 Roskosmos launched Progress MS-13 from Baykonur. It is expected
+to reach ISS on Dec 9.
+
+On Dec 5 at 1840 UTC the S.S. Roger Chaffee (Cygnus NG-11) lowered its
+orbit from 462 x 469 km to 212 x 376 km; on Dec 6, probably about 1620
+UTC, it was deorbited over the south Pacific with impact near 140W 45S
+at about 1655 UTC.  NG-11 arrived at ISS Apr 19 and left on Aug 6,
+spending time demonstrating extended operations.
+
+
+Beidou
+-------
+
+China launched two more Beidou navigation satellites on Nov 23. Beidou 50 and 51
+are satellites M19 and M20 in the Beidou-3 medium Earth orbit series.
+Meanwhile, Beidou 49 has been found in its target inclined geosynchronous orbit (IGSO).
+
+Kosmos-2542
+-----------
+
+Russia launched a Soyuz-2-1V on Nov 25. The Blok I second stage reached
+a 289 x 364 km x 97.9 deg orbit; the Volga third stage then fired to
+reach a 367 x 857 km x 97.9 deg orbit and deployed its payload, probably
+to be codenamed Kosmos-2542. The Volga then appears to have deorbited
+within 24 hours. On Dec 6 the payload released a subsatellite reported
+by the Russian press as a satellite-inspector; this will probably be
+codenamed Kosmos-2543.
+
+Ariane VA250
+------------
+
+Arianespace flight VA250 used launch vehicle Ariane 5 L5108. The
+payloads were TIBA-1, a 5600 kg AirbusDS Eurostar 3000 Ka-band satellite
+for the Egyptian Space Agency, and  Inmarsat GX5, a 4007 kg Thales
+Alenia Spacebus 4000B2 Ka-band satellite for Inmarsat's Global Xpress
+fleet.
+
+Tiba is the Arabic name for the ancient city known in English as Thebes
+and in ancient Egyptian as Waset. It's unclear why the satellite's name
+is always rendered in upper case in English transliteration.
+
+PSLV-C47/Cartosat-3
+--------------------
+
+ISRO launched PSLV C47 from Sriharikota on Nov 27 to place the Cartosat-3 high resolution
+imaging satellite in sun-sync orbit. Cartosat-3's main camera has a resolution of 0.25m.
+The PS4 fourth stage also deployed the Meshbed 3U cubesat, an antenna test satellite
+for Analytical Space of Cambridge, MA, and a dozen Planet SuperDove imaging cubesats.
+
+GF-12
+-----
+
+China launched the Shanghai-built Gao Fen 12 high resolution SAR radar satellite on Nov 27.
+
+Electron 10
+-----------
+
+Rocket Lab's tenth mission, dubbed 'Running Out Of Fingers', was
+launched from New Zealand on Dec 6. The main payload was the 75 kg ALE-2
+for Astro Live Experiences (Tokyo), which plans to create artificial
+meteors for entertainment. Several small PocketQube payloads were also
+put in orbit. The PQ sats are smaller than a 1U cubesat; a 1P is 0.25
+kg, 0.05m cube. The PQ deployers were developed by Alba Orbital of
+Glasgow, and ejected:
+
+   NOOR 1A and 1B, 3P satellites with communications test payloads for Stara Space of Los Angeles, built by Alba Orbital.
+   SMOG-P, a 1P from Budapest Univ. of Tech and Economics, mapping radio-frequency `pollution' from terrestrial emitters
+   ATL-1, a 2P from ATL Ltd of Csapas, Hungary, also with a spectrum monitoring payload.
+   FossaSat, a 1P from Fossa Systems of Madrid.
+   TRSI-Sat, a 1P from Paul Kocyla of Aachen, formerly of STADOKO and now operating as 'TRSI Club' and 'My Radar'.
+
+The first stage performed a controlled, instrumented reentry and
+impacted the ocean. The second stage reached a 180 x 409 km orbit at
+0827 UTC. At apogee at 0908 UTC, the kick stage fired to a 398 x 415 km
+orbit and deployed ALE-2.  It appears another small burn may have been
+done at 0916 UTC, with the PQs deployed to an orbit with a 50 km lower
+perigee at 0918 UTC.
+   
+KZ-1A launches
+---------------
+
+On Dec 7 two Kuaizhou-1A rockets were launched from Taiyuan within 6
+hours. The first, KZ-1A Y2, placed the Jilin-1 GaoFen 2B imaging
+satellite in 1000LTDN sun-sync  orbit for Chuangguang Satellite. The
+second put six small satellites in 1600 LTDN sun-sync orbit: HEDE-2A/2B
+with AIS payloads for HEDE Aerospace's Tian Xingzhe (Skywalker)
+constellation; Tianyi-16 and 17 remote sensing satellites for Tianyi
+Research;  and Tianqi-4A/4B with IoT relay payloads for Guodian Gaokeji
+YG.
+
+Starlink flight 0
+------------------
+
+After several months at 550 km the main group of flight 0 (2019-029)
+satellites have lowered their orbits to 530 km. 
+
+Satellites lowering orbit below 530 km constellation:
+ - Starlink 26 (44240/29F) is undergoing rapid orbit lowering and is now at 455 km and falling.
+ - Starlink 46 (44246/29M), previously stored in a 390 km orbit, is also
+   lowering and is now at 309 km, lower even than Starlink 67.
+ - Starlink 67 (44278/29AV) continues slow decay in an elliptical 300 x 325 km orbit.
+ - Starlink 60 (44723/29AQ) continues slow decay in a 416 x 425 km orbit.
+
+Satellites in storage orbit below 530 km constellation:
+ - Starlink 29 (44243/29J)  in 440 x 448 km
+ - Starlink 52 (44259/29AA) in 443 x 445 km
+ - Starlink 43 (44257/29Y)  in 477 x 479 km
+ - Starlink 80 (44282/29AZ) in 492 x 497 km
+ - Starlink 48 (44289/29BG) in 507 x 508 km
+
+Satellites lowering orbits toward 530 km constellation:
+ - Starlink 37 (44252/29S), 41 (44277/29AU), 22 (44236/29B), 64 (44275/29AS) at 547 to 551 km and descending.
+
+47 of 60 satellites are in 530 km orbit:
+ - Starlink 21, 23, 24, 25, 27, 28, 30-36, 40, 42, 44, 45, 49, 50, 51, 53-59, 61, 62, 62, 65, 66, 68-79, 81
+
+
+Starlink flight 1
+------------------
+
+The flight 1 (2019-074) satellites, in a plane 36 deg east of the flight
+0 batch, split into two groups on Nov 24, with 40 satellites ceasing
+their ascent at 350 km and 20 satellites continuing to ascend steadily -
+passing 435 km as of Dec 8.
+ 
+Satellites in the lower group are:
+ 1007-1017, 1019-1021, 1023-1037, 1040, 1044, 1047, 1048, 1049, 1051, 1052, 1057, 1059, 1060, 1068.
+
+Satellites in the ascending group are:
+ 1022, 1038, 1039, 1041-1043, 1045, 1046, 1050, 1043-1056, 1058, 1061-1065, 1067
+
+Reports of visual observations of these satellites as naked-eye objects continue.
+
+Parker Solar Probe
+------------------
+
+After completing three perihelia (2018 Nov 6 0329UTC, 2019 Apr 4
+2240UTC, 2019 Sep 1 1740UTC) at 0.166AU, Parker is in a 0.166 x 0.938 AU
+x 3.4 deg solar orbit approaching its second Venus flyby. It will be in
+the Venusian sphere of influence from 0605 Dec 26 to 0626 Dec 27, with a
+flyby on Dec 26 1815 UTC in a 3008 x -16349 km x 3.6 deg hyperbola
+(i.e., passing 3008 km above Venus' surface). This will lower its solar
+orbit perihelion to 0.130 AU. Perhelion 4 will be at 0938 UTC (0939 TDB)
+Jan 29 at a distance of 0.1296 AU from the center of the Sun and a
+heliocentric inertial velocity of 109.18 km/s (393,000 km/hr or 0.36
+millilight). The corresponding kinematic Lorentz factor is 1.0 + 6.5E-8.
+The gravitational redshift z is slightly larger, 1.0 + 7.6E-8.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Nov  2 1359   S.S. Alan Bean              Antares 230+       MARS LA0       Cargo      71A S44701    186 x   257 x 51.6
+Nov  3 0322   Gao Fen 7          )        Chang Zheng 4B     Taiyuan LC9    Imaging    72A S44703    489 x   518 x 97.5 1030LT SSO
+              Huangpu-1          )                                          Imaging?   72C S44706    485 x   505 x 97.5
+              Dianfeng           )                                          Imaging    72D S44705    485 x   505 x 97.5
+              Sudan Kexue Shiyan )                                          Tech       72B S44704    487 x   504 x 97.5
+Nov  4 1743   Beidou DW49                 Chang Zheng 3B     Xichang        Navigation 73A S44709  35674 x 35887 x 58.7
+Nov 11 1456   Starlink 1007    )
+                 to            )                                                      74A  S44713    298 x   303 x 53.0
+              Starlink 1017    )          Falcon 9           Canaveral SLC40 Comms     to
+              Starlink 1019    )                                                      74BM S44772    298 x   303 x 53.0
+                 to            )
+              Starlink 1065    )
+              Starlink 1067    )
+              Starlink 1068    )
+Nov 13 0340   Jilin-1 Gaofen 02A          Kuaizhou-1A        Jiuquan        Imaging    75A S44777    532 x   546 x 97.5 1000LT SSO
+Nov 13 0635   Ningxia-1 01   )            Chang Zheng 6      Taiyuan        Sigint     76A S44779    886 x   898 x 45.0
+              Ningxia-1 02   )                                              Sigint     76B S44780    886 x   898 x 45.0
+              Ningxia-1 03   )                                              Sigint     76C S44781    886 x   898 x 45.0
+              Ningxia-1 04   )                                              Sigint     76D S44782    886 x   898 x 45.0
+              Ningxia-1 05   )                                              Sigint     76E S44783    886 x   898 x 45.0
+Nov 17 1000   KL-Alpha-A )                Kuaizhou-1A        Jiuquan        Comms      77A S44785   1044 x  1058 x 88.9
+              KL-Alpha-B )                                                  Comms      77B S44786   1045 x  1432 x 88.8
+Nov 20 0850   RWASAT-1                                       ISS, LEO       Tech     98-67QV?        411 x   420 x 51.6
+Nov 20 0910   NARSSCube-1                                    ISS, LEO       Tech     98-67QW?        411 x   420 x 51.6
+Nov 20 0925   AQT-D                                          ISS, LEO       Tech     98-67QX?        411 x   420 x 51.6
+Nov 23 0055   Beidou DW50 )               Chang Zheng 3B     Xichang LC3    Navigation 78A S44793  21533 x 22193 x 55.0
+              Beidou DW51 )                                                 Navigation 78B S44794  21533 x 22193 x 55.0
+Nov 25 1752   Kosmos-2542?                Soyuz-2-1V         Plesetsk LC43/4 Tech      79A S44797    383 x   863 x 97.9
+Nov 26 2123   TIBA-1       )              Ariane 5ECA        Kourou ELA3    Comms      80A S44800    259 x 35753 x  5.0
+              Inmarsat GX5 )                                                Comms      80B S44801    256 x 35719 x  5.0
+Nov 27 0358   Cartosat-3 )                PSLV-XL            Sriharikota SLP Imaging   81A S44804    500 x   519 x 97.5 0930LT
+              Meshbed    )                                                  Tech       81C S44806    500 x   517 x 97.5
+              Flock 4p-1 )                                                  Imaging    81L S44814    500 x   517 x 97.5
+              Flock 4p-2 )                                                  Imaging    81K S44813    500 x   517 x 97.5
+              Flock 4p-3 )                                                  Imaging    81J S44812    500 x   517 x 97.5
+              Flock 4p-4 )                                                  Imaging    81J S44811    500 x   517 x 97.5
+              Flock 4p-5 )                                                  Imaging    81Q S44818    500 x   517 x 97.5
+              Flock 4p-6 )                                                  Imaging    81P S44817    500 x   517 x 97.5
+              Flock 4p-7 )                                                  Imaging    81N S44816    500 x   517 x 97.5
+              Flock 4p-8 )                                                  Imaging    81M S44815    500 x   517 x 97.5
+              Flock 4p-9 )                                                  Imaging    81D S44807    500 x   517 x 97.5
+              Flock 4p-10)                                                  Imaging    81E S44808    500 x   517 x 97.5
+              Flock 4p-11)                                                  Imaging    81F S44809    500 x   517 x 97.5
+              Flock 4p-12)                                                  Imaging    81G S44810    500 x   517 x 97.5
+Nov 27 2352   Gao Fen 12                  Chang Zheng 4C     Taiyuan        Radar      82A S44819    595 x   599 x 97.9 0700LT
+Dec  5 1729   Dragon CRS-19               Falcon 9           Canaveral SLC40 Cargo     83A S44821    203 x   378 x 51.7
+Dec  6 0800?  Kosmos-2543?                              Kosmos-2542, LEO     Inspector 79D S44835    368 x   858 x 97.9
+Dec  6 0818   ALE-2     )                 Electron           Mahia LC1       Tech      84A S44824    397 x   415 x 97.0
+              NOOR 1A   )                                                    Com       84            348 x   403 x 97.0
+              NOOR 1B   )                                                    Com       84            348 x   403 x 97.0
+              SMOG-P    )                                                    Sigint    84            348 x   403 x 97.0
+              TRSI-Sat  )                                                    Tech      84            348 x   403 x 97.0
+              FossaSat-1)                                                    Tech      84            348 x   403 x 97.0
+              ATL-1     )                                                    Sigint/Tech 84          348 x   403 x 97.0
+Dec  6 0934   Progress MS-13              Soyuz-2-1A         Baykonur LC31   Cargo     85A S44833    186 x   219 x 51.6
+Dec  7 0255   Jilin-1 Gaofen 02B          Kuaizhou-1A        Taiyuan         Imaging   86B S44837    531 x   544 x 97.5
+Dec  7 0852   HEDE-2A   )                 Kuaizhou-1A        Taiyuan         Comms     87  S44839    495 x   511 x 97.4
+              HEDE-2B   )                                                    Comms     87            495 x   511 x 97.4
+              Tianqi-4A )                                                    Comms     87            495 x   511 x 97.4
+              Tianqi-4B )                                                    Comms     87            495 x   511 x 97.4
+              Tianyi-16 )                                                    Imaging   87            495 x   511 x 97.4
+              Tianyi-17 )                                                    Imaging   87            495 x   511 x 97.4
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Nov 15 0935   TEXUS 56          VSB-30               Kiruna              Micrograv     256       ESRANGE
+Nov 16 1402   RV                Agni 2               Kalam Island        Test          600?      Indian O.
+Nov 22 1030?  RV                DF-41                Taiyuan             Test         1000?      Gobi Desert
+Nov 22 1519   SL-14             SpaceLoft XL         Spaceport America   Micrograv      92       White Sands?
+Nov 26 0743   ICI 5             Terrer Imp.Malemute  Svalbard            Ionosphere    253       Arctic
+Nov 28        Topol-E RV        Topol'               Kapustin Yar        Reentry test 1000?      Balkhash
+Nov 28 0759   RV                DPRK MLRS            Ryonpo              Test           97       Sea of Japan
+Nov 28 0759   RV                DPRK MLRS            Ryonpo              Test           97       Sea of Japan
+Nov 30 1350   Agni 3 RV         Agni 3               Kalam Island        Test          500?      Indian O.
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

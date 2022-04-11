@@ -1,0 +1,145 @@
+Jonathan's Space Report
+No. 567                                          2006 Jul 6, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Space Shuttle Discovery took off from Launch Complex 39B at 1837:55 UTC
+on Jul 4, on mission STS-121. The OMS-2 burn at 1915 UTC put Discovery
+in a 155 x 253 km x 51.6 deg orbit, while ET-119 fell back to Earth in
+its 56 x 230 km x 51.6 deg trans-atmospheric orbit and reentered over
+the Pacific at about 1950 UTC. Discovery completed its rendezvous with
+the International Space Station on Jul 6 and docked with the
+PMA-2 adapter on the Destiny module at 1452 UTC.
+
+Following the loss of Columbia on mission STS-107 in Jan 2003, the
+Shuttle's External Tank was redesigned to reduce the amount of thermal
+protection foam that falls off during ascent, and methods were developed
+to fix any damage to the Orbiter's thermal protection system due to foam
+hits. The loss of OV-102 Columbia was due to damage to the RCC leading
+edge panels of its left wing caused by foam from External Tank ET-93.
+Orbiter OV-103 Discovery then flew on mission STS-114 in July 2005, but
+to general consternation it turned out that its tank, ET-121, lost
+larger pieces of foam than expected. The Shuttle stood down again and
+the future of the program is riding on the new mission, STS-121.
+Early look data seems good: no significant foam loss in the lower
+atmosphere part of the flight.
+
+Orbiter OV-103 Discovery is using tank ET-119 and solid motors RSRM-93.
+In the payload bay, the cargo is:
+
+ Location       Cargo                            Mass
+ Bay 1-2        Orbiter Docking System           1800 kg?
+ Bay 4S?        APC with SPDU?                     20 kg?
+ Bay 5-6        Integrated Cargo Carrier (ICC)   1500 kg?
+                Keel Yoke Device (KYD)
+                TUS/RA, EATCS-PM, FGB
+ Bay 7S?        ROEU?                              20 kg?
+ Bay 7-12       Leonardo (MPLM-1)                9500 kg
+ Bay 13         LMC, DTO 848                      954 kg
+ Sill           OBSS 202                          450 kg?
+ Sill           RMS 303                           390 kg
+ --------------------------------------------------------
+ Total cargo:                                   14594 kg?
+ Note: NASA uses a different definition of "cargo".
+ Note: OBSS serial number from Bill Harwood's page,
+       http://www.cbsnews.com/network/news/space/current.html
+ Note: There are probably a couple of APC sidewall carriers
+       with SPDU power distribution units and suchlike, but they don't appear
+       on recent cargo diagrams I've seen.
+
+
+The LMC (Lightweight MPESS Carrier) carries the DTO 848 thermal
+protection system repair kit demo; the ICC carries the TUS (Trailing
+Umbilical System) for the ISS Mobile Transporter repair, as well as the
+EATCS-PM pump module for the ISS truss, and a fixed grapple bar. The
+Multipurpose Logistics Module, Leonardo, carries the MELFI freezer rack,
+the Express Transportation Rack with the EMCS (European Modular
+Cultivation System) and the OGS oxygen generation system rack, as well
+as 3 RSR (Resupply Stowage Rack) and 5 RSP (Resupply Stowage Platform).
+The ROEU (Remotely Operated Electrical Umbilical) on the payload bay
+sidewall provides power to the MPLM. The MEPSI picosatellite deployer
+originally meant to fly on STS-121 appears to have been reassigned to
+another launch.
+
+STS-121 will dock with the Station at PMA-2. Crew of Discovery are
+Steven Lindsey (CDR), Mark E. Kelly (Pilot), Michael Fossum (MS1), Lisa
+Nowak (MS2), Stephanie Wilson (MS3) and Piers Sellers (MS4), all from
+NASA. ESA astronaut Thomas Reiter (MS5) is flying as part of the
+Expedition 13 crew and is expected to remain aboard the Station
+with Vinogradov and Williams.
+
+
+
+Ares
+----
+
+NASA has announced that the Crew Launch Vehicle, being developed on the
+basis of the Shuttle SRB to launch the next NASA human-carrying
+spaceship, will be called the Ares I. The planned heavy-lift followon
+will be called the Ares V.
+
+
+NROL-22
+-------
+
+A Boeing Delta 4 was launched from Space Launch Complex 6 at Vandenberg
+AFB in California on Jun 28 carrying a secret payload for the National
+Reconnaissance Office. The launch was codenamed NROL-22 and the
+satellite received the designation USA 184, held over from last year.
+
+The intended orbit is an elliptical 12-hour orbit with an inclination of
+63 degrees; NRO data relay and signals intelligence satellites have used
+this orbit in the past. I suspect this payload is likely to be one of
+the signals intelligence series that began with the JUMPSEAT satellites
+in 1971.  Aviation Week, on the other hand, thinks that it's a Satellite
+Data System data relay satellite. At the moment, I don't think there's
+compelling evidence either way.
+
+NROL-22 probably also carries NASA's TWINS-A science payload which
+carries neutral atom imagers to map the Earth's magnetosphere.
+It may also have an additional USAF SBIRS-HEO test payload. SBIRS-HEO is
+the highly elliptical orbit component of the new Space-Based Infrared
+missile early warning satellite system that will replace the old DSP
+satellites. The HEO-1 payload was delivered to the USAF in 2004
+which is consistent with a launch on this mission, originally scheduled
+to go up in early 2005.
+
+HST
+---
+
+The Hubble Space Telescope's Advanced Camera for Surveys (ACS) was
+reactivated on Jun 30 after being out of action since Jun 19. Failure of
+ACS would have been a blow to the telescope, whose main spectrograph has
+also failed. A Shuttle servicing mission to HST hangs in the balance
+with the forthcoming test flight of Discovery on mission STS-121.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun 15 0800   Resurs-DK No. 1   Soyuz-U         Baykonur LC1     Imaging     21A
+Jun 17 2244   KazSat            Proton-K/DM3    Baykonur LC200/39 Comms      22A
+Jun 18 0750   Galaxy 16         Zenit-3SL       Odyssey, POR     Comms       23A
+Jun 21 2215   USA 187 )         Delta 7925      Canaveral SLC17A Tech        24A
+              USA 188 )                                          Tech        24B
+              USA 189 )                                          Tech        24B
+Jun 24 1508   Progress M-57     Soyuz-U         Baykonur LC1     Cargo       25A
+Jun 25 0400   Kosmos-2421       Tsiklon-2       Baykonur LC90?   Sigint      26A
+Jun 28 0333   USA 184 (NROL-22) Delta 4M+(4,2)  Vandenberg SLC-6 Sigint?     27A
+Jul  4 1838   Discovery (STS-121) Shuttle       Kennedy LC39B    Spaceship   28A
+              Leonardo (MPLM-1)                                  Module      28
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

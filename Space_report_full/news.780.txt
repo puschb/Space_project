@@ -1,0 +1,171 @@
+Jonathan's Space Report
+No. 780                                                            2020 Jul 9   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 63 continues.
+
+The DARPA REDEYE-2 satellite was deployed at 1750:00 Jun 17. Deployment was by the Dextre SPDM, not the JRMS.
+The SPDM extracted the Nanoracks Kaber deployer from the Kibo airlock slide table, and the satellite
+was ejected from the Kaber. REDEYE-3 was deployed around 2110 UTC on Jun 23, using the same system.
+REDEYE-1, 2 and 3 have the alternate nicknames PINOT, MERLOT and CABERNET. (You should not confuse
+these with the 1961-1962 USAF/SAFSP sigint payloads GRAPE JUICE 1, 2 and 3.)
+
+On Jun 26 Chris Cassidy and Bob Behnken made spacewalk US EVA-65 to replace batteries supporting the 1B solar array
+channel, in the Integrated Equipment Assembly (IEA) on the S6 truss segment.
+Cassidy used suit EMU 3006 and SAFER 15; Behnken used EMU 3004 and SAFER 18.
+The airlock was depressurized at 1128 UTC with hatch open at 1131 UTC. At 1138 UTC, just after
+Cassidy emerged from the airlock, his left wrist mirror (0.04 kg, 0.1 x 0.1 x 0.02m) floated off and
+was lost. It's pretty small, so it may not get a catalog number.
+
+The Canadarm-2 removed the EP9 external pallet (delivered by HTV-9) from the MBS POA and
+positioned it near S6. The astronauts then moved batteries and adapter plates between S6 and EP9:
+ at 1246 UTC, NiH battery 0075 was removed from S6/1B slot 1, and installed in EP9 slot X at 1300 UTC.
+ at 1314 UTC, Li-ion battery 0025 was removed from EP9 slot A and installed in S6/1B slot 1 at 1329 UTC.
+ at 1343 UTC, NiH battery 0076 was removed from S6/1B slot 2 and installed in EP9 slot A at 1415 UTC.
+ at 1406 UTC, Adapter plate (unknown serial) was removed from EP9 slot A, and put in S6/1B slot 2 at 1417 UTC.
+ at 1435 UTC, NiH battery 0091 was removed from S6/1B slot 3 and installed on the AP in slot 2 at 1442 UTC
+ at 1500 UTC, Li-ion battery 0024 was removed from EP9 slot B and installed in S6/1B slot 3 at 1517 UTC.
+ at 1535 UTC, NiH battery 0092 was removed from S6/1B slot 4 and installed in EP9 slot B at 1558 UTC.
+ at 1553 UTC, Adapter plate (unknown serial) was removed from EP9 slot B and installed in S6/1B slot 4 at 1605 UTC.
+ at 1645 UTC, NiH battery 0090 was removed from S1/1B slot 6 and installed on the AP on slot 4 at 1648 UTC.
+
+The hatch was closed at 1736 UTC and the airlock repressurization began at 1739 UTC after 6h 11 min.
+
+On Jul 1 Cassidy and Behnken made spacewalk US EVA-66, completing the 1B battery work.
+Airlock depress 1108 UTC, hatch open 1112 UTC.
+ At 1156 UTC, Li-ion battery 0026 was removed from EP9 slot D and installed in S6/1B slot 6 at 1207 UTC.
+ At 1224 UTC, NiH battery 0089 was removed from S6/1B slot 5 and installed in EP9 slot D at 1245 UTC.
+ At 1240 UTC, Adapter plate (unknown serial) was removed from EP9 slot D and installed in S6/1B slot 5 at 1248 UTC.
+The astronauts then prepared the 3B worksite for the next spacewalk, routed some cables, and
+attempted but failed to remove an old fixture from one of the solar array masts.
+They closed the airlock hatch at 1711 UTC and repressurized the airlock at 1714 UTC after  6hr 6min.
+
+On Jul 3 at 1553 UTC Progress MS-14 fired its engines to raise the ISS orbit 1 km for
+debris collision avoidance (COLA). This was the first COLA burn for ISS since 2015.
+The debris object 27923 (1987-079AG) was predicted to pass within 1 km of the station at 1828 UTC Jul 3
+over the South Atlantic near the Falkland Islands. The object was one of 42 cataloged from the 1996 breakup
+of a SOZ motor from a Sep 1987 Proton launch that put three Glonass satellites in orbit.
+
+On Jul 8 at 1822 UTC the older Progress MS-13 cargo ship undocked from the Pirs module to complete
+its mission. It fired its engines at 2131 UTC to deorbit over the South Pacific, with reentry at 2205 UTC.
+
+
+GaoFen 9-03
+-----------
+
+The GaoFen 9 03 satellite was launched on Jun 17. It is a high resolution imaging satellite.
+Two small satellites were also aboard: Zheda Pixing 3A from Zhejiang U., and HEAD-5
+from HEAD Aerospace.
+
+Beidou DW55
+----------
+
+The final Beidou-3 satellite was launched on Jun 23, completing China's flagship navigation
+satellite system. Beidou DW55 is the third of the geostationary Beidou-3 satellites.
+Beidou DW55 probably made its apogee burn on Jun 24; it was tracked on Jul 6 in
+a 35764 x 35809 km x 3.1 deg GEO over 110.5 deg East.
+
+
+GPS III SV03
+------------
+
+The third of the third generation GPS satellites was launched on Jun 30. A SpaceX Falcon 9
+took off from Cape Canaveral at 2010 UTC with the first stage landing on the droneship Just Read The Instructions
+at 2019 UTC. The second stage reached a 168 x 434 km parking orbit at 2018 UTC. A second burn
+of the second stage boosted the payload to a 402 x 20197 km x  55 deg deployment orbit at 2115 UTC; the 4311 kg GPS
+satellite separated from the stage at 2140 UTC and the stage fired for a third time a few minutes later
+to lower its perigee into the atmosphere; it reentered south of S Africa at about 0230 UTC Jul 1.
+
+As of Jul 9 no TLEs had been released for the payload since Jul 1, so it cannot yet be confirmed
+whether the apogee burn was successful.
+
+
+GaoFen DuoMo
+-------------
+
+On Jul 3 China's SAST launched a CZ-4B from Taiyuan with CAST's GaoFen DuoMo Weixing (High Resolution MultiMode
+Satellite), carrying a 1 metre aperture imager, into a 1026 LTDN sun-synchronous orbit.
+The BY70-2 (Baiyu-02) amateur radio cubesat was a secondary payload.
+
+Electron Flight 13
+------------------
+
+Rocket Lab's Electron Flight 13, nicknamed 'Pics or it Didn't Happen', was launched on Jul 4 from New Zealand
+but failed during second stage burn. It carried the Canon Electronics CE-SAT-1B, In-Space Missions' Faraday 1
+6U cubesat, and five Planet imaging satellites, Flock 4e-1 to 5. The vehicle probably impacted 700 km S of Wellington.
+
+Shiyan 6-02
+-----------
+
+China's SAST launched a CZ-2D from Jiuquan on Jul 4 with the Shiyan weixing 6 02 xing payload.
+The satellite entered a 686 x 706 km x 98.2 deg sun-sync orbit with 0600 LTDN.
+
+Ofeq' 16
+--------
+
+Israel launched the Ofeq'-16 spy satellite at 0100 UTC Jul 6. The satellite was soon located
+by observers in a 331 x 604 km x 140.9 deg orbit.
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+Jun  4 0125   Starlink 1351     )          Falcon 9           Canaveral LC40  Comms        35A S45657-  291 x  365 x 53.0
+              Starlink 1370     )                                                         35BM S45716      
+              Starlink 1392-1423)
+              Starlink 1433-1458)
+              Starlink 1460     )
+Jun 10 1831   Haiyang-1 D                  Chang Zheng 2C     Taiyuan LC9     Imaging      36A S45721   770 x  786 x 98.4
+Jun 13 0512   USA 301  )                                                      Sigint?      37A S45723   590 x  590 x 97.8
+              USA 302  )                                                      Sigint?      37B S45724   590 x  590 x 97.8
+              USA 303  )                   Electron           Mahia LC1       Sigint?      37C S45725   590 x  590 x 97.8
+              ANDESITE )                                                      Science      37D S45726   590 x  590 x 97.8
+              RAAF M2PF)                                                      Tech         37E S45727   590 x  590 x 97.8
+Jun 13 0921   Starlink 1391     )          Falcon 9           Canaveral LC40  Comms        38A          212 x  367 x 53.0
+              Starlink 1459     )
+              Starlink 1461-1513)
+              Starlink 1516-1517)
+              Starlink 1521     )
+              Skysat 16         )                                              Imaging    38BL S45788  212 x 362 x 53.0
+              Skysat 17         )                                              Imaging    38BN S45790  214 x 361 x 53.0
+              Skysat 18         )                                              Imaging    38BM S45789  212 x 361 x 53.0
+Jun 17 0719   GaoFen 9-03)                 Chang Zheng 2D     Jiuquan          Imaging    39A S45794   485 x 504 x 97.3
+              HEAD-5     )                                                     Comms      39  S45795?  486 x 502 x 97.3
+              ZDPS-3A    )                                                     Tech       39  S45796?  485 x 502 x 97.3
+Jun 17 1750   REDEYE-2                                     ISS, LEO            Tech    9867RM          417 x 420 x 51.6
+Jun 23 0143   Beidou DW55                  Chang Zheng 3B     Xichang          Nav        40A S45807   218 x35784x 28.4
+Jun 23 2110?  REDEYE-3                                     ISS, LEO            Tech    9867RN S45809   417 x 420 x 51.6
+Jun 30 2010   GPS III SV03                 Falcon 9           Canaveral LC40   Nav        41A S45854   387 x20168x 55.0
+Jul  3 0310   GaoFen Duomo )               Chang Zheng 4B     Taiuyan   LC9    Imaging    42A S45856   631 x  649 x 98.0
+              Baiyu-02     )                                                   Comms      42B S45857   631 x  649 x 98.0
+Jul  4 2119   CE-SAT-1B  )                 Electron           Mahia LC1A       Imaging    F05 F01558 -5500 x  194 x 97.0
+              Faraday 1  )                                                     Tech       F05 F01559 -5500 x  194 x 97.0
+              Flock 4e-1 )                                                     Imaging    F05 F01560 -5500 x  194 x 97.0
+              Flock 4e-2 )                                                     Imaging    F05 F01561 -5500 x  194 x 97.0
+              Flock 4e-3 )                                                     Imaging    F05 F01562 -5500 x  194 x 97.0
+              Flock 4e-4 )                                                     Imaging    F05 F01563 -5500 x  194 x 97.0
+              Flock 4e-5 )                                                     Imaging    F05 F01564 -5500 x  194 x 97.0
+Jul  4 2344   Shiyan 6-02                  Chang Zheng 2D      Jiuquan         Tech       43A S45859   685 x  707 x 98.2
+Jul  6 0100   Ofeq'-16                     Shaviyt             Palmachim       Imaging    44A S45860   331 x  604 x140.9
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+A rare test of the French nuclear SLBM M51 was carried out on Jun 12.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jun 12        M51 RV            M51             S617, Baie d'Audierne    Test         1200?      Atlantic Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,146 @@
+Jonathan's Space Report 
+
+No. 171       1993 Oct 4
+Today is the 36th anniversary of the first Earth satellite launch.
+------------------------------------------------------------------------------
+
+Thanks to Bob McGwier, Win Decker, Joel Runes for input this week.
+
+Shuttle 
+------- 
+
+Columbia/STS-58 is due for launch on Oct 14.
+
+Mir
+---
+
+The Expedition 14 crew of Vasiliy Tsibliev and Aleksandr Serebrov 
+continue in orbit aboard the Mir complex. On their Sep 16 and Sep 20
+spacewalks they installed a boom called Ripana on the station;
+experiments will be mounted on the boom. On the third spacewalk they
+were intending to carry out a detailed photo survey of the station's
+exterior but Tsibliev's spacesuit overheated, and the spacewalk was cut
+short after only 1 hr 55 min. It began at 0052 UT on Sep 28, and the
+astronauts did manage to exchange some  exposure sample containers
+before the problems arose.
+
+
+Launches
+--------
+
+The Eyesat and Itamsat satellites which went into orbit piggyback with
+SPOT 3 are based on the AMSAT-NA Microsat bus. AMSAT-NA is the North
+American branch of the Radio  Amateur Satellite organization which took
+over in the 1970s from the original Project OSCAR (Orbiting Satellite
+Carrying Amateur Radio). Below I give a listing of the satellites which
+have used the AMSAT bus; I'm not sure this list is correct and offer it
+as a lure for people to send me corrections.
+
+--------------------------------------------------------------------------------
+ AMSAT-NA class microsatellites (provisional)
+
+PO-16   PACSAT          1990 Jan 20 788x804 km x 98.7 deg AMSAT-NA, USA
+DO-17   DOVE            1990 Jan 20 788x804 km x 98.7 deg AMSAT-BR, Brasil
+WO-18   WEBERSAT        1990 Jan 20 788x804 km x 98.7 deg Weber CAST, Utah
+LO-19   LUSAT           1990 Jan 20 788x804 km x 98.7 deg AMSAT-LU, Argentina
+IO-26   ITAMSAT         1993 Sep 26 793x805 km x 98.7 deg ARI/ITAMSAT, Italia
+AO-27   Eyesat/AMRAD    1993 Sep 26 793x805 km x 98.7 deg Interferometrics
+                                                                /AMRAD, Va.
+--------------------------------------------------------------------------------
+
+According to John Macagliane's SpaceNews, several of the SPOT 3
+piggyback satellites have also received OSCAR numbers. Eyesat carries an
+AMRAD amateur radio package which is AMRAD-OSCAR 27; Uribyol 2 is 
+KITSAT-OSCAR 25; and ITAMSAT-OSCAR 26 and POSAT-OSCAR 28 round out the
+quartet (POSAT's OSCAR number is still provisional). OSCAR 24 has been
+reserved for the ARSENE satellite in case it decides to join the OSCAR
+system.
+
+The Stella geodetic satellite is a copy of Starlette, a small satellite
+launched as primary payload on the first Diamant B P.4 test flight in
+1975. They are, roughly speaking, French versions of the Lageos
+satellite, with laser retroreflectors to allow precise determination of
+the position of the satellite from the ground (or, really, of the
+position of the ground relative to the satellite!). The Stella and Starlette
+satellites are owned by the French space agency CNES (Centre National
+d'Etudes Spatiales) and continue a French involvement in space geodesy
+which began early in their space program.
+
+
+--------------------------------------------------------------------------------
+  French geodetic satellites
+Name            Launch Vehicle          Launch Date        Initial Orbit
+
+Diapason        Diamant A               1966 Feb 17     499x 2738 km x 34.0 deg
+Diademe 1       Diamant A               1967 Feb  8     569x 1350 km x 40.0 deg
+Diademe 2       Diamant A               1967 Feb 15     591x 1881 km x 39.5 deg
+Peole           Diamant B               1970 Dec 12     517x 747 km x 15.0 deg
+Starlette       Diamant B P.4           1975 Feb  6     806x1108 km x 49.8 deg
+Stella          Ariane 40               1993 Sep 26     797x 805 km x 98.7 deg
+--------------------------------------------------------------------------------
+
+
+A geostationary satellite was launched from Baykonur on Sep 30. This
+was the first launch of the 8K82K Proton launch vehicle since a
+failure in May dropped a Gorizont in the drink. 
+
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Sep  3 1117     UHF F2          Atlas I  AC-75  Canaveral LC36  Comsat     56A
+Sep  7 1325     Kosmos-2262     Soyuz           Baykonur        Recon      57A
+Sep 12 1145     Discovery       Shuttle         Kennedy LC39B   Spaceship  58A
+Sep 12 2113     ACTS            TOS             Discovery, LEO  Comsat     58B
+Sep 13 1506     ORFEUS-SPAS     -               Discovery, LEO  Astronomy  58C
+Sep 16 0736     Kosmos-2263     Zenit           Baykonur LC45   SIGINT     59A
+Sep 17 0043     Kosmos-2264     Tsiklon-M       Baykonur LC90   EORSAT     60A
+Sep 20 0012     IRS-1E          PSLV            Sriharikota     Remote s.  FTO
+Sep 26 0145     SPOT 3      )   Ariane 40       Kourou ELA 2    Remote s.  61A
+                Stella      )                                   Geodesy    61B
+                Uribyol 2/OSCAR 25 (KITSAT B)                   Remote s,com 61C
+                ITAmsat/OSCAR 26                                Comsat     61F
+                Eyesat 1/OSCAR 27                               Comsat     61G
+                Posat 1     )                                   Test       61D
+                Healthsat 1 )                                   Comsat     61E
+Sep 30 1706     Raduga          Proton/Blok DM  Baykonur LC81   Comsat     62A
+
+
+Reentries
+---------
+
+Sep 10          Resurs-F        Landed
+Sep 22          Discovery       Landed at KSC
+Sep 28          Molniya-1 (1977-82A) reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39B         STS-58
+OV-103 Discovery       OPF Bay 3     STS-60
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-34/ET-57/OV-102 LC39B       STS-58
+ML2/RSRM-23/             VAB Bay 1   STS-61
+ML3/RSRM-35?             VAB Bay 3   STS-60
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+
+        

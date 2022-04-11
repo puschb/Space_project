@@ -1,0 +1,383 @@
+Jonathan's Space Report 
+No. 740                                                  2017 Aug 13   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+The Dragon CRS-11 cargo ship was unberthed from the ISS at about 1800
+UTC Jul 2 and released at 0641 UTC Jul 3. It splashed down in the
+Pacific at about 1214 UTC Jul 3, returning about 1700 kg of cargo to Earth.
+
+On Jul 7 the five BIRDS cubesats were ejected from the J-SSOD No. 7
+deployer, which was extracted from the Kibo module by the JEM RMS arm.
+
+On Jul 20 at 1746 UTC Progress MS-05 undocked; it was deorbited and
+reentered at 2141 UTC the same day.
+
+On Jul 28 Soyuz MS-05 was launched at 1541 UTC and docked with the
+Rassvet module at 2154 UTC. Crew are Ryazanskiy, Bresnik and Nespoli,
+joining the existing Expedition 52 crew of Yurchikin, Fischer and
+Whitson.
+
+On Aug 8 the SSRMS/SPDM robot arms were used to begin moving the broken
+MBSU (Main Bus Switching Unit) from the ESP-2 platform. It was brought
+inside ISS for repair via the Kibo airlock on Aug 9 - something that
+hasn't been done before. The MBSU, launched in 2002, was removed from the
+S0 truss on May 5 and was stashed on ESP-2 until now. Different sources
+give the MBSU mass as 100 kg or around 250 kg.
+
+SpaceX were scheduled to launch Dragon CRS-12 on Aug 14. The mission
+carries the 1258 kg CREAM  package to study TeV cosmic rays, as well as
+the 45 kg KestrelEye IIM imaging satellite for the US Army and three
+NASA-sponsored cubesats: the 3U OSIRIS-3U space weather package for Penn
+State, the 6U Dellingr technology and space physics satellite for
+NASA-Goddard, and the 6U ASTERIA spacecraft for JPL and MIT. ASTERIA
+(formerly known as ExoplanetSat) will demonstrate arcsecond pointing
+with a cubesat, and perform stellar exoplanet transit photometry.
+
+
+IS-35e
+-------
+
+The Intelsat IS-35e communications payload was launched into geotransfer orbit
+by a Falcon 9 on Jul 5. By Jul 21 it was in GEO over 33.0W.
+
+
+Soyuz cluster launch
+--------------------
+
+On Jul 14 Roskosmos launched a Soyuz with the Kanopus-V-IK imaging satellite and 72 small secondary
+payloads deployed in three batches. 
+It's still not clear which catalog number goes with which payload for the 19 satellites deployed in the second batch.
+
+The Soyuz placed the Fregat upper stage on a suborbital trajectory. Fregat
+made multiple burns to several different orbits to dispense its payloads.
+ 0636 UTC      Launch                Orbit
+ 0645-0652     Fregat burn 1         180? x 500? km
+ 0735-0736     Fregat burn 2         480  x 522
+ 0738          Kanopus deployed
+ 0813-0814     Fregat burn 3         500? x 600?
+ 0858-0859     Fregat burn 4         600? x 600?
+ 0901-0905     Deployed 5 satellites  - probably FLP, Technosat, WNISAT, Norsat-1/2
+ 0910-0926     Deployed 19 satellites - probably MKA-N 1/2, CICERO, Corvus, LEMUR, NanoACE, Mayak, Iskra, EUTE-YuzGU
+ 0951-0953     Fregat burn 5         485? x 600?
+ 1034-1035     Fregat burn 6         485  x 485 
+ 1418-1441     Deployed 48 Flock-2k Dove satellites
+ 1451-1453     Fregat burn 7         -50? x 485
+ 1518          Fregat reentry
+
+ FLP, the Flying Laptop, is from the U. of Stuttgart. The 120 kg satellite has a Ka-band propagation
+ study experiment and a multispectral camera.
+
+ NORSAT-1 and 2 are Norwegian Space Center satellites with AIS payloads and an experiment to measure
+ total solar irradiance. They use a variant of the Toronto UTIAS/SFL GNB bus.
+
+ WNISAT-1R is a 40 kg Japanese commercial weather satellite using the AXELSPACE Hodoyoshi bus.
+
+ Technosat from the Tech. U of Berlin carries a variety of technology tests using the new TUBiX20
+ satellite bus.
+
+ MKA-N 1 and 2 are  6U cubesats built by Russia's Dauria Aerospace for Rosksmos with 22-m resolution
+ multispectral imagers. CICERO 1 to 3 are 6U cubesats for the US company GeoOptics built by Tyvak, with GPS-RO weather
+ payloads. Corvus-BC 1 and 2 are 6U cubesats from the US company AstroDigital (formerly Canopus) with imaging payloads.
+ NanoACE is a 3U technology test cubesat from Tyvak.
+ 
+ Iskra-MAI-85 is a 3U student cubesat from MAI (Moscow Aviation Inst.); I don't know what payloads are on it.
+
+ Ekvador-UTE-YuZGU is a 1U cubesat built by students at the SW State Univ in Kursk in collaboration with
+ Ecuadorian engineers from Universidad Tecnologica Equinoccial in Quito. I don't know whether it will be UN-registered
+ as Russian or Ecuadorian.
+
+ Mayak ("beacon") is a 3U cubesat from Moscow Polytechnic University. It was designed to deploy a highly
+ reflective structure about 2m across which would act as a drag brake but also as an optical beacon.
+ The intent was that Mayak will be one of the brightest objects in the night sky; different calculations
+ put the maximum brightness in the mag -5 to mag -10 range; however, the reflector failed to deploy.
+
+ The mission also deployed 8 SpireGlobal 3U-cubesat Lemur satellites and 48 Planet 3U-cubesat Dove imaging
+ satellites forming the Flock-2k constellation.
+
+Cassini
+-------
+
+The Cassini probe passed through Saturn orbital periapsis 287 at 1730
+UTC Aug 7; it is in a 2534 x 1213722 km x 61.8 deg orbit around Saturn.
+By Aug 20, on periapsis 289, the  minimum height above the cloud tops
+will drop to 1300 km. A distant encounter with Titan on Sep 11 will
+perturb the orbit to drop periapsis by a further 2000 km, which will
+lead to a fatal 31 km/s (112000 km/hr) plunge into the Saturnian
+atmosphere on Sep 15.
+
+
+Simorgh
+-------
+
+On Jul 27 Iran carried out a test flight of its Simorgh satellite launch
+vehicle. (It is believed there was an earlier test of the rocket in Apr
+2016.) Iranian sources indicate the flight was a  suborbital test of the
+vehicle rather than an orbital attempt. Despite news reports citing US
+government sources saying it was a failure, but giving no details, I am
+carrying it as a successful suborbital mission for the time being.
+Simorgh is similar in design to the Unha space rockets launched by North
+Korea in 2012.
+
+Biarri Point
+------------
+
+I now suspect that the Biarri-Point satellite, carrying an Australian GPS receiver, is
+actually the AFRL's SHARC satellite under another name. Recent press reports indicate
+that Biarri-Point is a 6U (0.6m long) cubesat like SHARC, rather than a 3U as claimed
+earlier.
+
+Electron
+--------
+
+The "It's a Test" mission on May 25 reportedly reached 224 km altitude
+before the second stage was commanded to shut down, resulting in the
+vehicle falling back into the ocean. The mission was aborted because the
+telemetry link was lost.
+
+
+Vega VV10
+---------
+
+The European solid-propellant Vega launcher placed two Israeli-built satellites in orbit on
+Aug 2. OptSat-3000 is an imaging satellite for the Italian military (developed as part of an exchange
+of military equipment between Israel and Italy). Venus is a vegetation monitoring satellite;
+the last-but-one letter is annoyingly spelt with a Greek letter mu rather than a u, just to make
+things difficult.
+
+Tianzhou-1
+----------
+
+The Tianzhou-1 freighter continues its independent flight. On Aug 1 it
+ejected the Silu-1 (Silk Road 1) 3U cubesat, buit by
+SpaceStarTech/Beijing for the Xian Survey Bureau.
+
+
+CanX-7
+------
+
+Henry Spencer reminds me that I didn't mention Toronto's CanX-7 satellite deployed its drag sails on May 2.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Jun  1 0017   Michibiki 2           H-2A              Tanegashima       Navigation    28A   S42738  7090 x 35991 x  38.8
+Jun  1 2345   ViaSat 2      )       Ariane 5ECA       Kourou ELA3       Comms         29A   S42740   266 x 35686 x   6.0
+              EUTELSAT 172B )                                           Comms         29B   S42741   262 x 35689 x   5.9
+Jun  3 2107   Dragon CRS-11         Falcon 9          Kennedy LC39A     Cargo         30A   S42744   204 x   360 x  51.6
+Jun  5 1158   GSAT-19E              GSLV-III          Sriharikota SLP   Comms         31A   S42747   163 x 34592 x  21.5
+Jun  8 0345   Echostar 21           Proton-M/Briz-M   Baykonur LC81     Comms         32A   S42749  2217 x 35810 x  30.7
+Jun  8 1753   Lemur-2-JennyBarna)                     Cygnus OA7,LEO    Weather/AIS   19B   S42752   477 x   491 x  51.6
+              Lemur-2-Angela    )                                       Weather/AIS   19C   S42753   477 x   491 x  51.6
+Jun  8 2103   Lemur-2-Spirovision)                    Cygnus OA7,LEO    Weather/AIS   19D   S42754   477 x   491 x  51.6
+              Lemur-2-RobMoore   )                                      Weather/AIS   19E   S42755   477 x   491 x  51.6
+Jun 14 0920   Progress MS-06        Soyuz-2-1A        Baykonur LC31     Cargo         33A   S42756   300 x   321 x  51.6  
+Jun 15 0300   Huiyan     )          Chang Zheng 4B    Jiuquan           X-ray Astron  34A   S42758   536 x   546 x  43.0
+              OVS-1A     )                                              Imaging       34D   S42761   536 x   546 x  43.0
+              OVS-1B     )                                              Imaging       34B   S42759   536 x   546 x  43.0
+              Milanesat  )                                              Imaging       34C   S42760   536 x   546 x  43.0
+Jun 18 1611   Zhongxing 9A          Chang Zheng 3B    Xichang LC2       Comms         35A   S42763   193 x 16357 x  25.7
+Jun 23 0359   Cartosat 2 Series )   PSLV XL           Sriharikota FLP   Imaging       36C   S42767   503 x   521 x  97.5
+              CE-SAT-I                     )                            Imaging       36E   S42769   496 x   518 x  97.5
+              NIUSAT                       )                            Imaging       36B   S42766   497 x   516 x  97.5
+              CICERO-6                     )                            Weather       36AE  S42793   497 x   516 x  97.5
+              Max Valier                   )                            X-ray Astron  36P   S42778   497 x   513 x  97.5
+              Venta-1                      )                            Comms (AIS)   36AC  S42791   497 x   517 x  97.5
+              TYVAK-53b                    )                            Tech          36AG  S42795   497 x   517 x  97.5
+              D-SAT                        )                            Tech          36AF  S42794   497 x   509 x  97.5
+              Aalto-1                      )                            Tech          36L   S42775   497 x   509 x  97.5
+              Pegasus        (QB50-AT03)   )                            Science       36V   S42784   497 x   512 x  97.5
+              NUDTSat        (QB50-CN06)   )                            Science       36Y   S42787   497 x   518 x  97.5
+              VZLUSat        (QB50-CZ03)   )                            X-ray Astron  36AB  S42790   497 x   511 x  97.5
+              COMPASS-2      (QB50-DE04)   )                            Science       36N   S42777   497 x   515 x  97.5
+              UCLSat         (QB50-GB03)   )                            Science       36A   S42765   497 x   512 x  97.5
+              InflateSail    (QB50-GB06)   )                            Tech          36F   S42770   491 x   518 x  97.5
+              URSA MAIOR     (QB50-IT02)   )                            Science       36M   S42776   497 x   515 x  97.5
+              LituanicaSat-2 (QB50-LT01)   )                            Science       36D   S42768   497 x   518 x  97.5
+              Red Diamond                  )                            Comms         36U   S42783   497 x   512 x  97.5
+              Green Diamond                )                            Comms         36W   S42785   497 x   512 x  97.5
+              Blue Diamond                 )                            Comms         36X   S42786   497 x   518 x  97.5
+              Lemur-2-ShainaJohl           )                            Weather/AIS   36G   S42771   497 x   513 x  97.5
+              Lemur-2-XueniTerence         )                            Weather/AIS   36H   S42772   497 x   513 x  97.5
+              Lemur-2-LucyBryce            )                            Weather/AIS   36J   S42773   497 x   513 x  97.5
+              Lemur-2-KungFoo              )                            Weather/AIS   36K   S42774   497 x   512 x  97.5
+              Lemur-2-McPeake              )                            Weather/AIS   36T   S42782   497 x   513 x  97.5
+              Lemur-2-Sam-Amelia           )                            Weather/AIS   36S   S42781   497 x   511 x  97.5
+              Lemur-2-Lisasaurus           )                            Weather/AIS   36R   S42780   497 x   512 x  97.5
+              Lemur-2-Lynsey-Symo          )                            Weather/AIS   36Q   S42779   497 x   510 x  97.5
+              ROBUSTA 1B                   )                            Tech          36AD  S42792   497 x   511 x  97.5
+              skCUBE                       )                            Tech          36AA  S42789   497 x   514 x  97.5
+              SUCHAI                       )                            Tech          36Z   S42788   497 x   512 x  97.5
+Jun 23 1804   Kosmos-2519           Soyuz-2-1V        Plesetsk LC43/4   Geodesy?      37A   S42798   654 x   669 x  98.0
+Jun 23 1910   BulgariaSat-1         Falcon 9          Kennedy LC39A     Comms         38A   S42801   212 x 65512 x  24.1
+Jun 25 2025   Iridium SV 113 )      Falcon 9          Vandenberg SLC4E  Comms         39A   S42803   607 x   625 x  86.7
+              Iridium SV 115 )                                          Comms         39D   S42806   607 x   625 x  86.7
+              Iridium SV 117 )                                          Comms         39F   S42808   607 x   625 x  86.7
+              Iridium SV 118 )                                          Comms         39E   S42807   607 x   625 x  86.7
+              Iridium SV 120 )                                          Comms         39C   S42805   607 x   625 x  86.7
+              Iridium SV 121 )                                          Comms         39K   S42812   609 x   625 x  86.7
+              Iridium SV 123 )                                          Comms         39B   S42804   607 x   625 x  86.7
+              Iridium SV 124 )                                          Comms         39H   S42810   608 x   625 x  86.7
+              Iridium SV 126 )                                          Comms         39G   S42809   607 x   625 x  86.7
+              Iridium SV 128 )                                          Comms         39J   S42811   609 x   625 x  86.7
+Jun 26 2115   ROSA                                     ISS, LEO         Tech       98-067MT S42813   410 x   407 x  51.6
+Jun 28 2115   HellasSat 3/Inmarsat S EAN ) Ariane 5    Kourou ELA3      Comms         40A   S42814   253 x 35750 x   2.9
+              GSAT-17                    )                              Comms         40B   S42815   258 x 35817 x   3.0
+Jul  2 1123   Shi Jian 18             Chang Zheng 5    Wenchang         Comms         F03   F01493 -5000?x   170 x  19.0?
+Jul  5 2338   Intelsat IS-35e         Falcon 9         Kennedy LC39A    Comms         41A   S42818   294 x 42860 x  25.8
+Jul  7 0850   TOKI      )                              ISS, LEO         Imaging    98-067MU S42820   399 x   405 x  51.6
+              GhanaSat-1)                                               Imaging    98-067MV S42821   399 x   405 x  51.6
+              Mazaalai  )                                               Imaging    98-067MW S42822   399 x   405 x  51.6
+Jul  7 0910   BRAC ONNESHA     )                       ISS, LEO         Imaging    98-067MX S42823   399 x   405 x  51.6
+              Nigeria EduSat-1 )                                        Imaging    98-067MY S42824   399 x   405 x  51.6
+Jul 14 0637   Kanopus-V-IK        )   Soyuz-2-1a/Fregat Baykonur LC31   Imaging       42A   S42825   506 x   510 x  97.4
+              NORSAT-1            )                                     AIS           42B   S42826   587 x   606 x  97.6
+              NORSAT-2            )                                     AIS           42D   S42828   587 x   605 x  97.6
+              Technosat           )                                     Tech          42E   S42829   589 x   605 x  97.6
+              Corvus-BC 1         )                                     Imaging       42Y   S42846   587 x   599 x  97.6
+              Corvus-BC 2         )                                     Imaging       42X   S42847   587 x   598 x  97.6
+              Flying Laptop       )                                     Tech          42G   S42831   586 x   604 x  97.6
+              WNISAT-1R           )                                     Meteo         42L   S42835   587 x   604 x  97.6
+              NanoACE             )                                     Tech          42V   S42844   585 x   602 x  97.6
+              MKA-N No. 1         )                                     Tech          42             587 x   604 x  97.6
+              MKA-N No. 2         )                                     Tech          42             587 x   604 x  97.6
+              CICERO-1            )                                     Meteo         42             587 x   604 x  97.6
+              CICERO-2            )                                     Meteo         42             587 x   604 x  97.6
+              CICERO-3            )                                     Meteo         42             587 x   604 x  97.6
+              Iskra-MAI-85        )                                     Tech          42             587 x   604 x  97.6
+              Mayak               )                                     Tech          42             587 x   604 x  97.6
+              Ekvador-UTE-YuZGU   )                                     Tech          42             587 x   604 x  97.6
+              Lemur-2 Greenberg   )                                     AIS/Meteo     42N   S42837   586 x   604 x  97.6
+              Lemur-2 AndiS       )                                     AIS/Meteo     42P   S42838   586 x   604 x  97.6
+              Lemur-2 Monson      )                                     AIS/Meteo     42Q   S42839   586 x   604 x  97.6
+              Lemur-2 Furiaus     )                                     AIS/Meteo     42R   S42840   586 x   604 x  97.6
+              Lemur-2 PeterG      )                                     AIS/Meteo     42S   S42841   586 x   604 x  97.6
+              Lemur-2 Dembitz     )                                     AIS/Meteo     42T   S42842   586 x   604 x  97.6
+              Lemur-2 Zachary     )                                     AIS/Meteo     42W   S42845   586 x   604 x  97.6
+              Lemur-2 ArtFisher   )                                     AIS/Meteo     42             586 x   604 x  97.6
+              Flock-2k-1          )                                     Imaging       42AD  S42852   460 x   477 x  97.0
+              Flock-2k-2          )                                     Imaging       42AE  S42853   460 x   477 x  97.0
+              Flock-2k-3          )                                     Imaging       42AB  S42850   460 x   477 x  97.0
+              Flock-2k-4          )                                     Imaging       42AC  S42851   460 x   477 x  97.0
+              Flock-2k-5          )                                     Imaging       42AR  S42864   460 x   477 x  97.0
+              Flock-2k-6          )                                     Imaging       42CA  S42897   460 x   477 x  97.0
+              Flock-2k-7          )                                     Imaging       42AP  S42862   460 x   477 x  97.0
+              Flock-2k-8          )                                     Imaging       42AQ  S42863   460 x   477 x  97.0
+              Flock-2k-9          )                                     Imaging       42BZ  S42896   460 x   477 x  97.0
+              Flock-2k-10         )                                     Imaging       42BY  S42895   460 x   477 x  97.0
+              Flock-2k-11         )                                     Imaging       42BX  S42894   460 x   477 x  97.0
+              Flock-2k-12         )                                     Imaging       42BW  S42893   460 x   477 x  97.0
+              Flock-2k-13         )                                     Imaging       42BU  S42891   460 x   477 x  97.0
+              Flock-2k-14         )                                     Imaging       42BV  S42892   460 x   477 x  97.0
+              Flock-2k-15         )                                     Imaging       42BT  S42890   460 x   477 x  97.0
+              Flock-2k-16         )                                     Imaging       42BS  S42889   460 x   477 x  97.0
+              Flock-2k-17         )                                     Imaging       42BR  S42888   460 x   477 x  97.0
+              Flock-2k-18         )                                     Imaging       42BQ  S42887   460 x   477 x  97.0
+              Flock-2k-19         )                                     Imaging       42BP  S42886   460 x   477 x  97.0
+              Flock-2k-20         )                                     Imaging       42BN  S42885   460 x   477 x  97.0
+              Flock-2k-21         )                                     Imaging       42AM  S42860   460 x   477 x  97.0
+              Flock-2k-22         )                                     Imaging       42AN  S42861   460 x   477 x  97.0
+              Flock-2k-23         )                                     Imaging       42AL  S42859   460 x   477 x  97.0
+              Flock-2k-24         )                                     Imaging       42AJ  S42857   460 x   477 x  97.0
+              Flock-2k-25         )                                     Imaging       42BM  S42884   460 x   477 x  97.0
+              Flock-2k-26         )                                     Imaging       42BL  S42883   460 x   477 x  97.0
+              Flock-2k-27         )                                     Imaging       42BK  S42882   460 x   477 x  97.0
+              Flock-2k-28         )                                     Imaging       42BH  S42880   460 x   477 x  97.0
+              Flock-2k-29         )                                     Imaging       42AY  S42871   460 x   477 x  97.0
+              Flock-2k-30         )                                     Imaging       42AZ  S42872   460 x   477 x  97.0
+              Flock-2k-31         )                                     Imaging       42AW  S42869   460 x   477 x  97.0
+              Flock-2k-32         )                                     Imaging       42AX  S42870   460 x   477 x  97.0
+              Flock-2k-33         )                                     Imaging       42BG  S42879   460 x   477 x  97.0
+              Flock-2k-34         )                                     Imaging       42BF  S42878   460 x   477 x  97.0
+              Flock-2k-35         )                                     Imaging       42BE  S42877   460 x   477 x  97.0
+              Flock-2k-36         )                                     Imaging       42BD  S42876   460 x   477 x  97.0
+              Flock-2k-37         )                                     Imaging       42AU  S42867   460 x   477 x  97.0
+              Flock-2k-38         )                                     Imaging       42AV  S42868   460 x   477 x  97.0
+              Flock-2k-39         )                                     Imaging       42AT  S42866   460 x   477 x  97.0
+              Flock-2k-40         )                                     Imaging       42AS  S42865   460 x   477 x  97.0
+              Flock-2k-41         )                                     Imaging       42BC  S42875   460 x   477 x  97.0
+              Flock-2k-42         )                                     Imaging       42Z?  S42848?  460 x   477 x  97.0
+              Flock-2k-43         )                                     Imaging       42BB  S42874   460 x   477 x  97.0
+              Flock-2k-44         )                                     Imaging       42BA  S42873   460 x   477 x  97.0
+              Flock-2k-45         )                                     Imaging       42AH  S42856   460 x   477 x  97.0
+              Flock-2k-46         )                                     Imaging       42AK  S42858   460 x   477 x  97.0
+              Flock-2k-47         )                                     Imaging       42AF  S42854   460 x   477 x  97.0
+              Flock-2k-48         )                                     Imaging       42AG  S42855   460 x   477 x  97.0
+Jul 28 1541   Soyuz MS-05             Soyuz-FG         Baykonur         Spaceship     43A   S42898   400   x 409  x 51.6
+Aug  1 0703   Silu-1                                  Tianzhou-1, LEO   Tech          21F   S42903   385   x 395  x 42.8
+Aug  2 0158   OptSat-3000         )   Vega             Kourou           Imaging       44A   S42900   440   x 450  x 97.2
+              Ven{\mu}s           )                                     Imaging       44B   S42901   720   x 724  x 98.4
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+North Korea test-launched the Hwasong-14 (HS-14) missile from Kusong on Jul 4 to
+a range of 930 km and a high apogee of 2802 km. On Jul 28 a second
+flight of Hwasong-14, this time from Chagang province, reached an apogee
+of around 3700 km. If launched for maximum range, it appears this
+missile could reach over 11000 km, and so counts as an ICBM. 
+
+Each of these launches was followed a few hours later by  launches by
+the US 8th Army and South Korean forces of two small missiles from a
+beach near the N Korean border. 
+
+On Aug 8 North Korea, protesting US bomber flights in S Korea near the
+DMZ, announced it was considering a quadruple test launch of the HS-12
+with targets in the Pacific around the island of Guam.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jun 18        HE Warhead        Zulfiqar           Kermanshah            Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kermanshah?           Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kermanshah?           Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kermanshah?           Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kurdistan Prov.?      Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kurdistan Prov.       Weapon        200?      Deir-es-Zor,Syria
+Jun 22 0520   SFTM-02 Target  Terrier Terrier Oriole   Kauai             Target        300?      Pacific
+Jun 22 0523?  SFTM-02 KV        SM-3 Block IIA     DDG-53, Pacific       Interceptor   100?      (Failed?)
+Jun 22 0930   NASA 41.121UO     Terrier Imp.Orion  Wallops I.            Education     118       Atlantic
+Jun 23 0130?  RV                Hyunmoo-2C         Anhueng               Test          200?      E China Sea?
+Jun 26        RV                Bulava             K-535, Barents Sea    Test         1000?      Kura
+Jun 27 0510   CHESS 3           Black Brant IX     White Sands           UV Astron     300?      White Sands
+Jun 29 0825   NASA 46.015GT    Terrier Imp.Malemute Wallops I.           Test/Aeron.   189       Atlantic
+Jul  4 0040   RV                Hwasong-14         Kusong                Test         2802       Sea of Japan
+Jul  4 2200?  RV                ATACMS             Goseong               Test           80?      Sea of Japan
+Jul  4 2200?  RV                Hyunmoo-2B?        Goseong               Test          100?      Sea of Japan
+Jul  9?       HiFire-4          VSB-30             Woomera               Hypersonic    300?      Woomera Range
+Jul 11        MBRV-8?           IRBM-T1?           C-17, Pacific         Target        500?      Pacific
+Jul 11        THAAD FTT-18      THAAD              Kodiak                Interceptor   100?      Intercepted IRBM target
+Jul 23 1400?  Target            B-611?             Jiuquan?              Target        100?      China
+Jul 23 1400?  Interceptor       DF-21?             Urumqi?               Interceptor   100?      China
+Jul 27 0930?  Test payload?     Simorgh            Khomeini Space Ctr.   Test          200?      Dasht-e-Lut?
+Jul 28 1441   RV                Hwasong-14         Mupyong               Test         3725       Sea of Japan
+Jul 28 2200?  RV                ATACMS             Goseong               Test           80?      Sea of Japan
+Jul 28 2200?  RV                Hyunmoo-2B?        Goseong               Test          100?      Sea of Japan
+Jul 30        MBRV              eMRBM?             C-17, Pacific         Target        300?      Pacific
+Jul 30        THAAD FET-1       THAAD              Kodiak                Interceptor   100?      Intercepted MRBM target
+Aug  2 0910   GT223GM           Minuteman 3        Vandenberg LF10       Test         1000?      Kwajalein
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+
+</PRE>
+<HR>
+<A HREF="http://planet4589.org/space/space.html">Jonathan's Space Home Page</A>
+<P>
+<A HREF="http://planet4589.org/jcm/jmcdowell.html">Jonathan's Home Page</A>
+</BODY>
+
+
+

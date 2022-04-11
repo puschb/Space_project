@@ -1,0 +1,100 @@
+Jonathan's Space Report
+No. 260                    1995 Oct 17                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The next launch attempt for Columbia/STS-73 will be no earlier than Oct 20. 
+A planned attempt on Oct 14 was postponed due to a crack discovered in an SSME engine
+under test at Stennis Space Center. Columbia's engines were inspected to check
+they have no cracks. The Oct 15 attempt was called off because of bad weather.
+
+Atlantis/STS-74 was rolled to pad 39A on Oct 12.
+
+Mir
+----
+
+Progress M-29 docked with the Mir complex at 2032:40 UTC on Oct 10.
+The cargo ship delivered supplies to the EO-20 crew of Gidzenko,
+Avdeev and Reiter.
+
+Recent Launches
+--------------
+
+It has been confirmed that Kosmos-2321 is a failed Parus navigation
+satellite. Kosmos-2321 is in a 95.11 minute, 257 x 790 km x 82.9 deg
+orbit. Its intended orbit was about 960 x 1010 km x 83.0 deg but
+the second stage of the Kosmos-3M launch vehicle malfunctioned.
+
+The first Luch-1 satellite was launched from Baykonur on Oct 11 at 1626
+UTC (other reports giving the launch time as 1426 UTC are incorrect).
+The satellite is a more powerful version of the earlier Luch (Al'tair)
+series satellites, with a launch mass of 2400 kg. The Proton-K launch vehicle
+used the new 11S861-01 (Blok DM-2M) upper stage. The Luch and Luch-1
+satellites perform data relay  services for the Mir station and are the
+equivalent of the TDRS system.
+
+ Previous Al'tair/Luch satellites:
+
+  Kosmos-1700  1985 Oct 25  Drifting
+  Kosmos-1897  1987 Nov 26  53.3 deg E
+  Kosmos-2054  1989 Dec 27  15.8 deg W
+  Luch         1994 Dec 16  94.9 deg E
+  Luch-1       1995 Oct 11  due at 77 deg E
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Sep  3 0900   Soyuz TM-22     Soyuz-U2        Baykonur LC1    Spaceship   47A
+Sep  7 1509   Endeavour       Shuttle         Kennedy LC39A   Spaceship   48A
+Sep  8 1543   Spartan-201                     OV-105, LEO     Astronomy   48B
+Sep 11 1125   WSF 2                           OV-105, LEO     Micrograv.  48C
+Sep 24 0006   Telstar 402R    Ariane 4        Kourou ELA2     Comsat      49A
+Sep 26 1120   Resurs-F        Soyuz-U         Plesetsk LC43-4 Rem.sensing 50A
+Sep 29 0425   Kosmos-2320     Soyuz-U         Baykonur LC31   Recon       51A
+Oct  6 0323   Kosmos-2321     Kosmos-3M       Plesetsk LC132  Navsat      52A
+Oct  8 1851   Progress M-29   Soyuz-U         Baykonur LC1    Cargo       53A
+Oct 11 1626   Luch-1          Proton-K/DM2M   Baykonur        Data Relay  54A
+                                                                         
+Reentries
+---------
+
+Sep  4        Progress M-28   Deorbited
+Sep  6        Kosmos-2314     Deorbited
+Sep 11        Soyuz TM-21     Landed in Kazakhstan
+Sep 18        Endeavour       Landed at KSC
+Sep 29        ODERACS IIB     Reentered
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-73  Oct 20
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        LC39A         STS-74  Nov  
+OV-105 Endeavour       OPF Bay 3     STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-51/ET-74/OV-104   LC39A      STS-74
+ML3/RSRM-50/ET-73/OV-102   LC39B      STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

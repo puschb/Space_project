@@ -1,0 +1,266 @@
+Jonathan's Space Report
+No. 784                                                          2020 Oct 7    Somerville, MA
+---------------------------------------------------------------------------------------------
+
+[Revised version: Unicode chars in previous version annoyed some mail programs]
+
+International Space Station
+---------------------------
+
+Expedition 63 continues with Chris Cassidy (commander) and Anatoliy Ivanishin and Ivan Vagner (flight
+engineers).
+
+On Oct 3 Northrop Grumman launched the Cygnus NG-14 cargo ship, the S.S. Kalpana Chawla.
+The Chawla arrived at the ISS on Oct 5. Canadarm-2 grappled it at 0932 UTC and berthed
+it at Unity nadir at 1201 UTC.  The Antares second stage rocket reentered on Oct 7.
+
+
+CZ-11 Sea Launch
+-----------------
+
+The second sea-launched Chang Zheng 11 flight took place on Sep 15 from a barge called Debo-3
+in the Yellow Sea off the coast of Haiyang. It placed nine imaging satellites in orbit for
+Chuangguang Satellite Technology: six Jilin-1 Gaofen 03B pushbroom imager satellites and
+three Jilin-1 Gaofen 03C video satellites.
+
+Haiyang 2-03
+------------
+
+A CZ-4B placed the Haiyang 2-03 oceanographic satellite in orbit on Sep 21. The satellite
+has a radar altimeter, a scatterometer and a microwave imager.
+
+Huanjing Jianzai 2A/2B
+----------------------
+
+Another CZ-4B placed two HJ-2 (Huanjing Jianzai, `Enviroment and Disaster Management') satellites
+in sun-synchronous orbit on Sep 27. The satellites carry low resolution imagers and hyperspectral
+instruments.
+
+Soyuz rideshare launch
+----------------------
+
+On Sep 28 Roskosmos launched a Soyuz from Plesetsk with a cluster of
+small satellites. The primary payload was a cluster of three 225-kg
+Gonets-M communications satellites, launched to a 1484 x 1504 km x 82.5 deg
+orbit.  Gonets-M are used for low-bandwidth message relay. They used to fly on the
+Rokot launch vehicle but that has now been retired. Flying on Soyuz
+gives a lot of spare capaciity, hence the rideshare. The Fregat made
+a 16 degree plane change and lowered the orbit by 950 km before deploying the cubesats.
+
+The small satellites were:
+ICEYE X6 and X7,  X-band radar imager sats from ICEYE/Finland;  
+SALSAT, an experiment from Tech. Univ. Berlin (TUB) to monitor global radio emissions;  
+NetSat 1 to 4, a formation flying experiment from Zentrum fur Telematik e.V. of Wurzbrug (ZfaT).
+Antilles and Amidala, the first two Gen1 sats from Toronto's Kepler Communications for IoT data relay 
+(amazingly, I think this is the first time satellites have been named after anything StarWars, although
+  DARPA's R3D2 may have at least been an allusion).
+LacunaSat-3, another IoT data relay prototype from Lacuna Space of
+ Harwell (Oxfordshire), built by NanoAvionics of Lithuania
+MeznSat, a 3U cubesat built by students at AURAK (American University of Ras Al-Khaimah)
+ and Khalifa U of Sci and Tech  in the UAE, with a greenhouse gas monitoring experiment;
+Four more so-far-unnamed satellites from SpireGlobal
+ with GNSS-RO meteorology and air/ship tracking payload
+Yarilo-1 and 2, solar physics cubesats from Bauman MSTU, Moscow
+Norbi, space weather measurement cubesat from Novosibirsk State University,
+Dekart (Descartes), a cubesat from MGU (Moscow State U) with space physics and ADS-B payloads.
+
+I made a speculative reconstruction of the flight based on the fact that a burn at the descending
+node of the Gonets deployment orbit allowed me to intersect the cubesat TLEs in both time and space.
+Later, the actual profile became available via ZfT, but I've included my reconstruction
+here so you can see how well it's possible to do just from the post deployment TLEs (the 1500 km
+and 540 km circular orbits respectively). Also because I put a lot of effort into it!
+
+Speculative reconstruction:
+ 1120  Launch
+ 1130  Soyuz Blok I orbit :           65? x 212 km x 82.5 deg, 
+ 1131  Fregat burn 1:   375 m/s to   191 x 1500 km x 82.5 deg
+ 1210  Blok I reentry over Pacific E of NZ
+ 1220? Fregat burn 2:   330 m/s to  1487 x 1506 km x 82.5 deg
+ 1221? Gonets deploy
+ 1350? Fregat burn 3:  1840 m/s  to  535 x 1500 km x 97.7 deg, 75 deg yaw, at descending node
+ 1437? Fregat burn 4:   290 m/s to   535 x  540 km x 97.5 deg
+ 1500? Minisats and Cubesats deployed
+ 1510? Fregat burn 5:   140 m/s to    50? x 540 km x 97.5 deg
+ 1555? Fregat entry over Antarctic?
+
+Actual data:
+ 1120  Launch
+ 1130  Soyuz Blok I orbit :           48 x 191 km x 82.5 deg, 
+ 1131-1136 Fregat burn 1:            190 x 1468 km x 82.5 deg
+ 1221-1224 Fregat burn 2:           1487 x 1506 km x 82.5 deg
+ 1304  Gonets deploy
+ 1346-1352 Fregat burn 3:        to  578 x 1507 km x 94.2 deg
+ 1441-1443 Fregat burn 4:        to  535 x  540 km x 97.5 deg
+ 1446-1452 Minisats and Cubesats deployed
+ Unk   Fregat burn 5:            to  -200 x 582 km x 97.7 deg
+
+I think I did pretty well except for the Fregat deorbit burm, which wasn't constrained by the data.
+
+
+Starlink retirements
+--------------------
+
+SpaceX is retiring the V0.9 constellation of 60 prototype satellites launched in May 2019.
+As of Oct 7, 39 of the 60 satellites have reentered.
+
+This is a new kind of reentry: it's not a normal impulsive deorbit and
+not a normal orbital decay, but something inbetween. The Starlink
+satellites are, apparently,  retired by continuously lowering their
+orbit with electric propulsion. Reentry occurs in a way similar to
+uncontrolled reentry - eventually the satellite is low enough and the
+ambient density is high enough that the vehicle heats, breaks up and is
+destroyed. The crucial point here is that the *location* of the breakup
+on the Earth is unpredictable and uncontrolled, in contrast to an
+impulsive deorbit where the rapid elliptical-orbit descent from a
+relatively high apogee means that reentry location is determined
+relatively precisely by the orbital parameters. These Starlink
+retirements should perhaps be termed `propulsion-assisted orbital decay'
+- they are more like normal uncontrolled orbital decay but speeded up by
+the thrusters.
+
+Starlink launch 13
+------------------
+
+The 13th Starlink launch (the 12th of the V1.0 series) took off from KSC on Oct 6,
+deploying another 60 satellites. The Falcon 9 first stage (B1058, on its third mission)
+landed on the droneship Of Course I Still Love You. The second stage
+was deorbited southwest of Australia.
+
+As of Oct 7, 775 Starlinks have been launched and 728 remain in orbit.
+
+
+Kosmos-2535/2536
+----------------
+
+Kosmos-2536 returned the the vicinity of Kosmos-2535 on Aug 18 and has
+remained within 1 km of it for the past month. One can't tell from the TLEs
+whether the two are docked, or just stationkeeping. But to stay that close
+for that long, I suspect they are in fact physically connected, i.e. docked.
+
+Parker Solar Probe
+------------------
+
+Parker passed through Perhelion 6 at 0916 TDB on 2020 Sep 27, at a record close distance
+of 0.095 AU to the Sun and a record heliocentric velocity of 129.6 km/s. Parker's
+orbit is 0.095 x 0.817 AU x 3.4 deg.
+
+Tianwen-1
+---------
+
+On September 11, Tianwen-1 ejected a small camera (like Hayabusa-2's DCAM) to take a picture of the probe.
+It was referred to as a `separate measurement sensor' (fenli celiang chuangan).
+
+ION-SVC
+--------
+
+D-Orbit's ION-SVC satellite, launched on Vega VV16 on Sep 3, has begun to deploy the Planet cubesats
+inside it. Three were cataloged as of Oct 3.
+
+Vega launch
+-----------
+
+The number of cataloged objects from the Vega launch does not match the number of satellites
+aboard reported in the press kit. There are two remaining tracked objects without IDs (46284 and 46294)
+and four satellites remaining to be identified: TTU100, Dido 3, and two of the eight Lemur satellites.
+It is possible that the press kit was in error, or that two of the satellites failed to separate from
+their deployers (but Arianespace reported that the separations were successful).
+
+
+Erratum
+--------
+
+In the launch table in JSR 783 there were some errors in the names of Starlink satelites
+launched on Sep 3. I omitted Starlink 1652 and incorrectly included Starlinks 1708 and 1709
+which have not been launched yet. In JSR 779 and 782, Starlinks 1435 and 1609 should also
+be omitted. Thanks to Steven Pietrobon for pointing out the mistakes.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Sep  4 0730?  Chongfu Shiyong Sh. Han.Qi   Chang Zheng 2F      Jiuquan         Spaceship 63A  S46389    331 x  348  x 52.0
+Sep  7 0557   Gao Fen 11-02                Chang Zheng 4B      Taiyuan         Imaging   64A  S46396    247 x  694  x 97.3
+Sep 11        Separate measurement sensor                     TW-1, solar orbit Imaging  49   D01044    1.02 x 1.60 AU x 1.05
+Sep 12 0320?  Astra Test Payload           Astra Rocket 3.1    Kodiak LP3B     Test      F07  F01569  -6378?x    2? x 86
+Sep 12 0502   Jilin-1 Gaofen 02C           Kuaizhou 1A         Jiuquan         Imaging   F08  F01572  -5000?x  100??x 97.5
+Sep 15 0123   Jilin-1 Gaofen 03B 01 xing)  Chang Zheng 11  Debo-3,Yellow Sea   Imaging   65A? S46454    538 x  550  x 97.5 
+              Jilin-1 Gaofen 03B 02 xing)                                      Imaging   65B? S46455    538 x  550  x 97.5 
+              Jilin-1 Gaofen 03B 03 xing)                                      Imaging   65C? S46456    538 x  550  x 97.5 
+              Jilin-1 Gaofen 03B 04 xing)                                      Imaging   65D? S46457    538 x  550  x 97.5 
+              Jilin-1 Gaofen 03B 05 xing)                                      Imaging   65E? S46458    538 x  550  x 97.5 
+              Jilin-1 Gaofen 03B 06 xing)                                      Imaging   65F? S46459    538 x  550  x 97.5 
+              Jilin-1 Gaofen 03C 01 xing)                                      Imaging   65G? S46460    538 x  550  x 97.5 
+              Jilin-1 Gaofen 03C 02 xing)                                      Imaging   65H? S46461    538 x  550  x 97.5 
+              Jilin-1 Gaofen 03C 03 xing)                                      Imaging   65J? S46462    538 x  550  x 97.5 
+Sep 21 0540   Haiyang 2-03                 Chang Zheng 4B      Jiuquan         Imaging   66A  S46469    930 x  949  x 66.0
+Sep 27 0323   Huanjing Jianzai 02A)        Chang Zheng 4B      Taiyuan         Imaging   67A  S46478    600 x  655  x 98.0
+              Huanjing Jianzai 02B)                                            Imaging   67B  S46479    600 x  655  x 98.0
+Sep 28 1120   Gonets-M No. 27        )     Soyuz-2-1b/Fregat   Plesetsk LC43/4 Comms     68A  S46486   1487 x 1506  x 82.5
+              Gonets-M No. 28        )                                         Comms     68B  S46487   1487 x 1506  x 82.5
+              Gonets-M No. 29        )                                         Comms     68C  S46488   1487 x 1506  x 82.5
+              ICEYE-X6               )                                         Radar     68 
+              ICEYE-X7               )                                         Radar     68 
+              MeznSat                )                                         Sci       68D  S46489    544 x  568  x 97.7
+              Dekart                 )                                         Sci       68
+              Norbi                  )                                         Sci       68J  S46494    545 x  568  x 97.8
+              Yarilo-1               )                                         Sci       68E  S46490    544 x  568  x 97.7
+              Yarilo-2               )                                         Sci       68F  S46491    544 x  568  x 97.7
+              NetSat-1               )                                         Tech      68
+              NetSat-2               )                                         Tech      68
+              NetSat-3               )                                         Tech      68
+              NetSat-4               )                                         Tech      68
+              SALSAT                 )                                         Sigint    68K  S46495    546 x 568 x  97.7
+              Antilles               )                                         Comms     68
+              Amidala                )                                         Comms     68
+              LacunaSat-3            )                                         Comms     68
+              Lemur-2-Slicers        )                                         Com/Meteo 68Q  S46500    552 x  568  x 97.7
+              Lemur-2-Nichol         )                                         Com/Meteo 68T  S46503    553 x  568  x 97.7
+              Lemur-2-Unnamed        )                                         Com/Meteo 68
+              Lemur-2-Unnamed        )                                         Com/Meteo 68
+Sep 30?       Flock 4V-15 )                                     ION-SVC, LEO   Imaging   61BE S46528    516 x 521 x 97.5
+              Flock 4V-16 )                                                    Imaging   61BD S46527    516 x 521 x 97.5
+Oct  2?       Flock 4V-17                                       ION-SVC, LEO   Imaging   61BF S46529    516 x 521 x 97.5
+Oct  3 0116   S.S. Kalpana Chawla           Antares 230+         MARS Pad 0A   Cargo     69A  S46530    185 x 238 x 51.6
+Oct  6 1129   Starlink 1531      )
+              Starlink 1644      )          Falcon 9             Kennedy LC39A  Comms    70A  S46532    262 x 277 x 53.0
+              Starlink 1648-1650 )                                                         to S46591
+              Starlink 1659-1660 )
+              Starlink 1663-1664 )
+              Starlink 1668      )
+              Starlink 1671-1672 )
+              Starlink 1674-1685 )
+              Starlink 1687      )
+              Starlink 1692-1694 )
+              Starlink 1696-1702 )
+              Starlink 1705-1706 )
+              Starlink 1708-1709 )
+              Starlink 1712      )
+              Starlink 1714      )
+              Starlink 1728-1730 )
+              Starlink 1732-1733 )
+              Starlink 1735-1737 )
+              Starlink 1740-1741 )
+              Starlink 1743-1744 )
+              Starlink 1746-1749 )
+              Starlink 1753-1755 )
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Sep  8 1800   DUST-2            Black Brant IX     White Sands           Physics       346       White Sands
+Oct  1        Black Dagger      Boosted Zombie     Fort Wingate?         Target        100?      White Sands
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

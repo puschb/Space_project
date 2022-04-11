@@ -1,0 +1,146 @@
+Jonathan's Space Report
+No. 504                                            2003 Jul 15, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew, Yuriy Malenchenko and Edward Lu, are on board the
+Space Station. 
+
+In a dramatic test in Texas on July 7, foam shot at RCC panel 8 in a
+Shuttle wing mockup smashed a huge (half-meter) hole in the panel,
+lending strong credibility to the hypothesis that external tank foam
+caused a breach in Columbia's wing during launch. The actual breach was
+more likely only of order 0.2m. The most likely scenario for the breakup
+can now be summarized (below); the remarkable thing is the continued
+stable flight of Columbia for several minutes after serious breaches in
+the left wing. 
+
+ Time (UTC)                Event
+
+ 2003 Jan 16 1539:00       Launch
+             1540:21       ET bipod foam piece separates;
+                           Drag slows it by 200 m/s;
+                           Hits lower part of RCC panel 8
+             1541:06       SRB separation
+             1547:33       Main engine cutoff
+             1547:44       ET separation
+             1620:24       OMS-2 burn
+             1736:01       Payload bay doors open
+ 2003 Jan 17 1517          Yaw attitude change
+             1517?         Fragment of panel 8 drifts out 
+                           of damaged leading edge area
+                           Tracked on radar as 2003-03B
+ 2003 Jan 19 2100?         Fragment 2003-03B reenters
+ 2003 Feb  1               Payload bay doors close (time uncertain)
+             1315:30       Deorbit burn, completed 1318:08
+             1344:09       Entry interface (reaches fiducial 120.4km altitude)
+             1348:39-59    First data showing stress and heating on left wing
+             1350:00       Fragments of RCC panel 8/9 breaking off?
+             1351:14       Aluminium wing spar melts through in RCC 8/9 region
+             1354:33       Parts of left wing skin and tiles breaking off
+             1359:38       Loss of signal
+             1359:46       Left wing breaking up
+             1400:14       End of recorder data
+             1400:18       Orbiter breaks up
+
+
+Recent Launches
+---------------
+
+NASA's second Mars Exploration Rover, MER-B (MER-1) 'Opportunity', was
+launched from Cape Canaveral at 0318 UTC on Jul 8. The launch vehicle is
+a Delta 7925H, which is similar to the standard 7925 model but with
+larger GEM-46 solid strapon motors previously used only on the Delta III
+8930.  MER-B separated from the Delta third stage at 0436 UTC and is on
+its way to Mars.
+
+Eurockot and Krunichev have launched a Rokot vehicle from Plesetsk
+carrying nine small satellites. The two stages of the UR-100N missile
+separated from the Briz-KM stage at 5 min after launch. The first
+Briz-KM burn lasted 8.2 minutes and resulted in an approximately -200 x
+320 km x 96.8 deg suborbital transfer ellipse. Briz burnt again at 44
+min after launch and entered a 317 x 846 km x 96.8 deg orbit. The Czech
+MIMOSA satellite then separated at 1502 UTC.
+
+A third Briz-KM burn at 1541 UTC resulted in an 817 x 830 km x 98.7 deg
+circular orbit. At 1542 UTC the NLS-1 nanosatellite launcher attached to
+Briz  ejected three small 1 kg Cubesats, Can X-1, DTUSat and
+AAU-Cubesat. Almost simultaneously, the NLS-2 launcher ejected Quakesat,
+a 3 kg satellite based on a triple-Cubesat design. At 1546 UTC the 60 kg
+Canadian MOST astronomical satellite was ejected, and a minute later two
+more 1 kg Cubesats, Cubesat XI-IV and CUTE-I, separated from Briz. At
+1556 UTC Briz-KM made a depletion burn to lower its orbit to 250 x 830
+km x 98.4 deg. The largest payload is Krunichev's Monitor-E mockup,
+which remains attached to the Briz-KM stage, and is cataloged as
+2003-31A. MIMOSA is 2003-31B, MOST is 2003-31D, and Quakesat is
+2003-31F; XI-IV is very probably 2003-31J. The NLS-1 payloads are 31C,
+31G and 31H but their actual orbits  and respective identifications are
+not clear yet; DTUSat and AAU-Cubesat are not yet in communication with
+their owners due to ground station problems.
+
+
+Mimosa is a 65 kg polyhedron built by Space Devices Ltd. of Praha, and
+operated by the Astronomical Insitute of the Czech Academy of Sciences
+(Astronomicky ustav AV CR). It carries an accelerometer to study
+atmospheric density. MOST (Microvariability and Oscillations of Stars)
+is a Canadian Space Agency project with a 0.15m telescope which will
+make photometric observations of stars  down to mag 6 with 1 part per
+million accuracy in the 3500-7000 Angstrom band.
+
+The Stanford University/Quakesat LLC  Quakesat will be used for
+detection of ELF radio emission from seismic activity. CanX-1, from the
+University of Toronto, carries a camera for attitude determination.
+CUTE-I carries engineering tests and was built by the Tokyo Inst. of
+Technology (Tokyo Kogyo Daigaku);  Cubesat XI is similar and is from the
+University of Tokyo (Tokyo Daigaku).  Two Danish Cubesats are AAU
+Cubesat from Aalborg Universitet (University of Aalborg) and DTUSat from
+ Danmarks Tekniske Universitet (Technical University of Denmark), at
+Lyngby. DTUSat carries a 450-meter copper wire tether for lowering the
+satellite orbit. AAU Cubesat carries a 100-meter-resolution Earth
+imaging camera.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  2 1745   Mars Express      Soyuz-FG/Fregat Baykonur LC31    Probe       22A
+Jun  4 1923   Kosmos-2398       Kosmos-3M       Plesetsk         Navigation  23A
+Jun  6 2215   AMC-9             Proton-K/Briz-M Baykonur LC200/39 Comms      24A
+Jun  8 1034   Progress M1-10    Soyuz-U         Baykonur LC1     Cargo       25A
+Jun 10 1356   Thuraya 2         Zenit-3SL       Odyssey, Pacific Phone comms 26A
+Jun 10 1758   MER-A Spirit      Delta 7925      Canaveral SLC17A Mars probe  27A
+Jun 11 2238   BSAT-2c    )      Ariane 5G       Kourou ELA3      Comms       28A
+              Optus/D C1 )                                       Comms       28B
+Jun 19 2000   Molniya-3         Molniya-M       Plesetsk LC43/3  Comms       29A
+Jun 26 1853   Orbview-3         Pegasus XL      Vandenberg RW30/12 Imaging   30A
+Jun 30 1415   Monitor-E mockup)                                   Tech       31A
+              Mimosa          )                                   Science    31B
+              MOST            ) Rokot           Plesetsk LC133    Astronomy  31D
+              CUTE-I          )                                   Tech       31E
+              Quakesat        )                                   Science    31F
+              Can X-1         )                                   Tech       31
+              Cubesat XI-IV   )                                   Tech       31J
+              AAU-Cubesat     )                                   Imaging    31
+              DTUSat          )                                   Tether     31
+Jul  8 0318   MER-B Opportunity Delta 7925H     Canaveral SLC17B  Mars probe 32A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

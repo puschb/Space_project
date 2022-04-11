@@ -1,0 +1,153 @@
+Jonathan's Space Report 
+No. 238               1995 Apr 24                    Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Atlantis was rolled to the VAB on Apr 20 and was mated with the external
+tank and SRBs on Apr 21. Launch is to be no earlier than Jun 19.
+Atlantis should be on pad 39A by Apr 26; Discovery could
+be on pad 39B by May 11. 
+
+The SCA 905 carrier aircraft returned Columbia to Kennedy Space
+Center on Apr 14. It was stored in Vehicle Assembly Building Bay 2 pending
+availability of a parking space in the Orbiter Processing Facility.
+On Apr 21 it was towed to OPF Bay 3 after that bay was vacated by
+Atlantis.
+
+
+Mir
+---
+
+The docking time of Progress M-27 was 2100 UT on Apr 11, not 2300 UT as
+I reported last week. Included in Progress M-27's cargo was a small
+geodetic satellite built by Kayser-Threde for the Geoforschungszentrum
+Potsdam, Germany. GFZ-1 is a 21 cm diameter, 20 kg sphere covered with
+laser retroreflectors. It was ejected from Mir's science airlock on Apr
+19 and given the international designation 1986-17JE. I don't have the
+time of ejection yet. GFZ-1's orbit was 92.34 min, 383 x 394 km x 51.6
+deg on Apr 20. 
+
+Recent Launches
+--------------------------------------------------------------------------------
+
+ESA's ERS-2 Earth Resources Satellite was launched on Apr 21 by Ariane
+flight V72. The spacecraft, built by Dornier for the European Space
+Agency, will be operated in tandem with ERS-1. It is based on Matra's
+SPOT bus, and carries a hydrazine engine for precise orbit control.
+ERS-2 has a 10-m long SAR (Synthetic Aperture Radar) for C-band radar
+imaging of the Earth. Its primary mission is to study the sea surface
+and polar ice. The SAR is linked to an Active Microwave Imager
+instrument; also carried are a radar altimeter for wave heights, the
+ATSR Along Track Scanning Radiometer for sea surface  temperatures, and
+the PRARE orbit determination experiment. These are all similar to
+experiments aboard ERS-1; ERS-2 also carries a new GOME global ozone
+monitoring experiment. ERS-2 entered a 100.56 min, 783 x 786 km x 98.6
+deg orbit.
+
+According to Michelle Lyle of Arianespace, this V72 launch and
+the preceding V71 launch both used the H-10+ third stage.
+An enhanced third stage, the H-10-3, was first used on V70 and will
+be phased in to eventually replace the H-10+. The Ariane is usually
+flown to geostationary transfer orbit; flights to sun-synchronous
+orbits are rarer, and usually carry secondary microsatellite payloads.
+No secondary payloads were carried on this latest mission.
+
+                Ariane Polar Flights
+ Date           Flight   Model    Payload   Secondary       Orbit
+                                                          km x km x deg
+ 1986 Feb 22     V16      AR1      Spot      Viking      824 x 825 x 98.8
+ 1990 Jan 22     V35      AR40     Spot 2    ASAP 1      825 x 825 x 98.7
+ 1991 Jul 17     V44      AR40     ERS-1     ASAP 2      776 x 782 x 98.5
+ 1992 Aug 10     V52      AR42P    Topex     ASAP 3     1316 x1331 x 66.1
+ 1993 Sep 26     V59      AR40     Spot 3    ASAP 4      816 x 818 x 98.7
+ 1995 Apr 21     V72      AR40     ERS-2                 783 x 786 x 98.6
+
+
+Geostationary satellite movements
+---------------------------------
+
+EUTELSAT's Hot Bird 1 satellite has been on station at 12.5 deg E since
+Apr 9. Brasilsat B2, launched on the same Ariane flight, reached its
+60.9 deg W station on Apr 7. 
+
+Intelsat 705 is now at 56 deg W. Meanwhile, during April Intelsat 507 left 
+its GEO position at 56.5 deg E and by Apr 21 was at 48E drifting 0.2 deg
+per day W.
+
+The AMSC-1 mobile communications satellite has reached geostationary
+altitude. On Apr 11 it raised its orbit from 367 x 40142 km x 25.6 deg
+to 10064 x 40165 km x 9.0 deg. By Apr 16 the orbit was 35666x  40110 km
+x  0.92 deg, and by Apr 19 it was circularized at 35759 x 35797 km x 0.1
+deg, drifting 0.1 deg per day eastward over 102 deg W.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar 22 0409   Kosmos-2310     Kosmos-3M       Plesetsk LC132  Navigation  12A
+Mar 22 0618   Intelsat 705    Atlas IIAS      Canaveral LC36B Comsat      13A
+Mar 22 1645   Kosmos-2311     Soyuz-U         Plesetsk LC43   Recon       14A
+
+Mar 24 1405   DMSP 24547      Atlas E         Vandenberg SLC3 Weather     15A
+
+Mar 28 1000   Gurwin-1     )  Start           Plesetsk LC158  Technology  FTO
+              UNAMSAT      )                                  Comsat      FTO
+              EKA-2        )                                  Dummy       FTO
+
+Mar 28 0618   Eutelsat HB1 )  Ariane 44LP     Kourou ELA2     Comsat      16B
+              Brasilsat B2 )                                  Comsat      16A
+
+Apr  3 1348   Orbcomm 1  )    Pegasus L1011   VAFB/PAWA       Comsat      17A
+              Orbcomm 2  )                                    Comsat      17B
+ 	      Microlab 1 )                                    Science     17C
+
+Apr  5 1116   'Ofeq-3         Shaviyt         Palamchim       Technol.    18A
+Apr  7 2347   AMSC-1          Atlas IIA       Canaveral LC36A Comsat      19A
+Apr  9 1934   Progress M-27   Soyuz-U         Baykonur LC1    Cargo       20A
+Apr 19?       GFZ-1           -               Mir             Geodesy     8617JE
+Apr 21 1344   ERS-2           Ariane 40       Kourou ELA2     Rem Sensing 21A
+
+
+Reentries
+---------
+
+Mar 10        Kosmos-2280     Deorbited
+Mar 15        Progress M-26   Deorbited over Pacific
+Mar 18        Endeavour       Landed at Edwards AFB
+Mar 18        Kosmos-2244     Deorbited
+Mar 22        Soyuz TM-20     Landed in Kazakhstan
+Apr  3        Kosmos-2137     Reentered
+Apr  4        Kosmos-2290     Deorbited over Pacific
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-73  Sep 21
+OV-103 Discovery       OPF Bay 2     STS-70  Jun? Under review
+OV-104 Atlantis        VAB Bay 1     STS-71  Jun? Under review
+OV-105 Endeavour       OPF Bay 1     STS-69  Jul 20 
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-44/ET-71          VAB Bay 3 STS-70                                 
+ML3/RSRM-45/ET-70/OV-104   VAB Bay 1 STS-71
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

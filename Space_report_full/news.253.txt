@@ -1,0 +1,109 @@
+Jonathan's Space Report
+No. 253                   1995 Aug 19                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+STS-69 SRB repairs are beginning. Columbia will soon be rolled to the
+VAB and mated with the STS-73 stack.
+
+
+Recent Launches
+--------------
+
+The first flight of the Lockheed Launch Vehicle, LLV-1, was a failure.
+The vehicle was destroyed 2 minutes and 40 seconds after launch from
+Space Launch Complex 6 at Vandenberg AFB, California. The first stage
+separated on time, but the rocket started oscillating toward the end of
+first stage flight. Shortly after second stage ignition the vehicle was
+destroyed on command. The rocket was at an altitude of 148 km.
+
+The LLV-1 consists of a Castor 120 first stage, an Orbus 21D second
+stage, and an OAM Orbit Adjust Module hydrazine third stage. The payload
+was VITASAT, a comsat for the Volunteers In Technical Assistance (VITA)
+of Arlington, Virginia.  The 136 kg satellite was built using CTA Inc.'s
+GEMSTAR bus, and is used by both VITA and CTA (CTA refer to the
+satellite as GemStar 1).
+
+By Aug 18, Mugunghwa-ho (Koreasat 1) was in a 1120.0 min, 27961 x 30731
+km x 0.2 deg orbit, a period increase of 45 minutes over the past week
+(out of a required increase of 6 hours to reach geostationary orbit.)
+The Series 3000 satellite has a dry mass of 652 kg, and at launch
+carried 625 kg of solid apogee motor fuel and 187 kg of hydrazine 
+propellant for for a total mass of 1464 kg.  (Thanks to Jeongjoo Park
+for Koreasat information).
+
+On Aug 14, PAS 4 was at 69.5 deg E drifting 0.3 deg E per day.
+
+Space Command data indicate that Himawari 4, 1989-70A, moved into
+geostationary orbit and was on station at 120.0E on Aug 9. Spacenet 2,
+1984-114A, has left its 69.1W location and is slowly drifting west at
+0.1 deg/day. TDRS 1 is at 138.7W. Galaxy 6 is back at 74.1W; its
+apparent excursion to 75W in early Aug. may have been an error.
+
+Erratum
+-------
+
+In my note on DSCS, the 28 Nov 1993 Atlas launch should have
+been AC-106, not AC-108. Thanks to several readers for catching this.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jul  5 0309   Kosmos-2315     Kosmos-3M       Plesetsk LC132  Navigation  32A
+Jul  7 1623   Helios 1A  )    Ariane 40       Kourou ELA2     Recon       33A
+              CERISE        )                                 Sigint      33B
+              UPM LBSAT 1   )                                 Technology  33C
+Jul 10 1238   USA 112         Titan 4 Centaur Canaveral LC41  Sigint      34A
+Jul 13 0530   Galileo Probe   -               Galileo, Solar orb.      89-84E
+Jul 13 1342   Discovery       Space Shuttle   Kennedy LC39B   Spaceship   35A
+Jul 13 1955   TDRS 7          IUS             Discovery,LEO   Comsat      35B
+Jul 20 0304   Progress M-28   Soyuz-U         Baykonur LC1    Cargo       36A
+Jul 24 1552   Kosmos-2316 )   Proton-K/DM2    Baykonur LC??   Navigation  37A
+              Kosmos-2317 )                                   Navigation  37B
+              Kosmos-2318 )                                   Navigation  37C
+Jul 31 2330   DSCS III F9     Atlas IIA Centaur Canaveral LC36A Comsat    38A
+Aug  2 2359   Prognoz-M2  )   Molniya-M       Plesetsk LC43/3 Science     39A
+              Magion 4    )                                   Science     39F
+Aug  3 2358   PAS 4           Ariane 4        Kourou ELA2     Comsat      40A
+Aug  5 1110   Mugunghwa-ho    Delta 7925      Canaveral LC17B Comsat      41A
+Aug  9 0121   Molniya-3       Molniya-M       Plesetsk LC43   Comsat      42A
+Aug 15 2230   Gemstar 1       LLV-1           Vandenberg SLC6 Comsat      FTO
+   
+Reentries
+---------
+
+Jul  7        Atlantis        Landed at KSC
+Jul 22        Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-73  Sep 21
+OV-103 Discovery       OPF Bay 1     OMDP
+OV-104 Atlantis        OPF Bay 2     STS-74  Oct 26
+OV-105 Endeavour       LC39A         STS-69  Aug ?
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-48/ET-72/OV-105   LC39A      STS-69
+ML2/RSRM-51                VAB Bay 1? STS-74
+ML3/RSRM-50                VAB Bay 3  STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

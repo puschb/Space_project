@@ -1,0 +1,284 @@
+Jonathan's Space Report
+No. 793                                                           2021  Jun  4  Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+On May 4 and 5 the Dextre robot arm was used to move an old NiH battery pack
+(possibly S/N 0072) and its FRAM adapter from External Stowage Platform
+3 Site 6 to the external attach area on the Cygnus cargo ship S.S.
+Katherine Johnson. The battery will be destroyed with the ship when it
+is eventually deorbited over the Pacific.
+
+On Jun 2 astronauts Novitskiy and Dubrov made a spacewalk from the Poisk module
+in spacesuits Orlan MKS-5 and MKS-4 respectively. During the spacewalk the Pirs
+module was decommissioned and prepared for future removal from ISS.
+The Poisk airlock was depressurized at 0525 UTC and the hatch was opened from 0553 to 0555 UTC.
+The astronauts installed a commemorative kit for the Energiya company on a handrail
+outside Poisk. They then took a pressurized container from Poisk to Zarya. The container
+had the new SP RRZh flow regulator inside; the regulator was swapped with the failed one
+on Zarya, which was sealed inside the container. The container was stowed on Poisk and
+then later, at 1056 UTC, jettisoned into space. It was cataloged 
+with international designation 1998-067SK; I believe it has a mass of about 50 kg.
+The GStM-2 crane was moved from Pirs to Poisk. The Kurs AFU cabling was disconnected
+from Poisk and reconnected to Zarya. A `gap spanner' ladder between Pirs and Zvezda was
+removed (and taken inside?). Finally, two exposure experiment packages, in the 'Vinoslivost' and
+'Test' series, were installed outside the Poisk airlock.
+The Poisk airlock hatch was closed at 1312 UTC.
+
+I'm not sure when the new flow regulator and container were launched, but I'm guessing it
+was on Progress MS-15. 
+
+On Jun 3 SpaceX launched cargo ship Dragon CRS-22 from Kennedy Space Center. The B1067 first
+stage, on its first flight, landed on the droneship OCISLY. The second stage was deorbited
+south of Australia. CRS-22 carries the 2B/4B IROSA solar array package in its unpressurized
+trunk section. The array package has a mass of 1380 kg.
+
+A second object was cataloged from the CRS-22 launch in a 209 x 545 km orbit; it appears
+to be a small debris object of unknown origin, maybe something minor that came off stage 2 during
+the deorbit burn. Sources have confirmed that the Falcon  9 second stage deorbit was
+successful.
+
+
+Tianwen-1
+----------
+
+The Chinese Tianwen-1 probe has made the country's first successful landing on Mars, on May 14.
+The Tianwen-1 Orbiter made an orbit adjust at 1717 UTC to lower its orbit around
+Mars from 277 x 57761 km x 88.7 deg to -37 x 57040 km x 89.2 deg. At about 2000 UTC
+the Tianwen-1 Lander separated from the Orbiter; and at 2054 UTC the Orbiter then raised
+periares again to return to a safe 431 x 57591 km x 89.2 deg orbit. The Lander then descended, beginning
+atmospheric entry at 2254 UTC at an altitude of 125 km, a velocity of 4.8 km/s and
+an entry angle of -11.2 degrees. At about 2259 UTC the main parachute deployed, and then the
+heat shield was jettisoned. The backshell and parachute separated about a minute later
+and rocket-powered descent began, leading to a landing at 109.7E 25.1N on Utopia Planitia at 2301 UTC.
+The signal from the landing was received on Earth at 2318 UTC after a light travel time of 17m 44s.
+
+On May 17 at about 0025 UTC the orbiter lowered its apogee, reaching a 259 x 12572 km x 89.2 deg orbit
+to begin its new role as a communications relay.
+
+The above analysis uses the excellent work of Daniel Estevez and the AMSAT-DL team, as well as data
+from Scott Tilley.
+
+Starlink and OneWeb
+--------------------
+
+52 Starlink satellites were launched on May 9 to a higher than usual deployment orbit.
+Two rideshare satellites were carried: Capella 6, a radar imaging satellite for Capella Space,
+and Tyvak-0130, a 6U cubesat for Tyvak and Lawrence Livermore Lab to test new astronomical
+telescope optics.
+
+60 Starlink satellites were launched on May 26 to the usual 300 km, 53 degree orbit.
+
+36 OneWeb satellites were launched on May 28 on a Soyuz from Vostochniy.
+
+Electron flight 20
+------------------
+
+Two BlackSky Global imaging satellites were lost in the failure of RocketLab's Electron mission 20.
+Shortly after second stage ignition the stage shut down, tumbled out of control and the vehicle
+did not reach orbit. Apogee was 136 km.
+
+SBIRS 
+-----
+
+The SBIRS GEO-5 satellite was launched on May 18. SBIRS GEO-5 uses an infrared telescope to detect
+missile launches. Two 12U cubesats for the Air Force Academy were also carried and released
+to a 180 x 4520 km x 26.2 deg orbit. The Centaur then restarted to put SBIRS in
+an 897 x 35744 km x 21.2 deg geotransfer orbit. By Jun 1
+SBIRS GEO-5 had raised its orbit to 25960 x 35734 km x 9.1 deg.
+
+HY-2D
+-----
+
+On May 19 China's SAST launched a Chang Zheng 4B with the HY-2D (Hai Yang 2D) oceanographic
+satellite.
+
+Tianzhou-2
+-----------
+
+China's CALT launched a CZ-7 from Wenchang on May 29 carrying the
+Tianzhou-2 cargo ship. Tianzhou-2 made a rapid rendezvous with Tianhe
+and docked with it at 2101 UTC, 8 hr 6 min after launch. The CZ-7 second
+stage, with a mass around 6 tonnes, was left in a 196 x 321 km x 41.5
+deg orbit.
+
+FY4-02
+------
+
+The Fengyun 4 satellite 02 (also called FY4B) meteorological satellite was launched to
+geotransfer orbit on Jun 2.
+
+ION-SVC
+--------
+
+The D-Orbit ION-SVC PULSE spacecraft released its final passengers, twelve 0.25U SpaceBEEs for Swarm
+Technologies, on May 11.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name                           Launch Vehicle      Site            Mission  INTL.  Catalog  Perigee Apogee  Incl   Notes
+May  4 1901   Starlink 1904                   Falcon 9              Kennedy LC39A      Comms     38A
+              Starlink 2499
+              Starlink 2505
+              Starlink 2526
+              Starlink 2560-2561
+              Starlink 2563
+              Starlink 2568
+              Starlink 2570-2576
+              Starlink 2578
+              Starlink 2581
+              Starlink 2585-2596
+              Starlink 2598-2614
+              Starlink 2521-2624
+              Starlink 2626
+              Starlink 2628
+              Starlink 2630-2631
+              Starlink 2635-2637
+              Starlink 2641
+              Starlink 2643
+              Starlink 2674
+May  6 1811   Yaogan 30 hao 08 zu 01 xing )  Chang Zheng 2C         Xichang            Sigint?  39A S48423  592 x 602 x 35.0 
+              Yaogan 30 hao 08 zu 02 xing )                                            Sigint?  39B S48424  592 x 602 x 35.0 
+              Yaogan 30 hao 08 zu 03 xing )                                            Sigint?  39C S48425  592 x 602 x 35.0 
+              Tianqi 12                   )                                            Comms    39D S48426  589 x 598 x 35.0
+May  9 0642   Starlink 2247                    Falcon 9             Canaveral SLC40    Com      40A-BM      257 x 282 x 53.0
+              Starlink 2269
+              Starlink 2461
+              Starlink 2494
+              Starlink 2496-2497
+              Starlink 2500
+              Starlink 2508
+              Starlink 2525
+              Starlink 2529
+              Starlink 2531
+              Starlink 2579
+              Starlink 2582-2583
+              Starlink 2619-2620
+              Starlink 2632-2634
+              Starlink 2638-2640
+              Starlink 2642
+              Starlink 2644-2645
+              Starlink 2652
+              Starlink 2654-2655
+              Starlink 2658-2661
+              Starlink 2663
+              Starlink 2675
+              Starlink 2680-2687
+              Starlink 2689-2690
+              Starlink 2692-2693
+              Starlink 2696-2700
+              Starlink 2702-2703
+              Starlink 2706
+              Starlink 2722-2723
+              Starlink 2728-2729
+              Starlink 2749
+              Starlink 2755
+May 11        SpaceBEE-64 to  75                                  ION-SVC 2, LEO     Comms    06ES-FD      511 x 534 x 97.3
+May 15 1111   BlackSky 8     )                 Electron             Mahia LC1        Imaging  F02 F01582  -6060 x 117? x 50.0
+              BlackSky 9     )                                                       Imaging  F02 F01583  -6060 x 117? x 50.0
+May 15 2256   Starlink 2063                   Falcon 9              Kennedy LC39A      Comms  41A
+              Starlink 2139
+              Starlink 2145
+              Starlink 2151
+              Starlink 2155
+              Starlink 2166-2167
+              Starlink 2173
+              Starlink 2186-2191
+              Starlink 2214-2215
+              Starlink 2217
+              Starlink 2219-2222
+              Starlink 2224-2225
+              Starlink 2227-2228
+              Starlink 2231-2238
+              Starlink 2240-2242
+              Starlink 2244-2246
+              Starlink 2248-2253
+              Starlink 2255-2256
+              Starlink 2274-2276
+              Starlink 2713-2714
+              Starlink 2757
+              Capella 6                                                                 Radar 41BF? S48606?
+              Tyvak-0130                                                               Astron 41BE? S48605?
+May 18 1737   SBIRS GEO 5)                     Atlas V              Canaveral SLC41 EarlyWarn 42A S48618    898 x 35744 x 21.1
+              TDO-3      )                                                            Tech    42B S48619    179 x 4518 x 26.1
+              TDO-4      )                                                            Tech    42C S48620    180 x 4516 x 26.1
+May 19 0403   HaiYang 2D                       Chang Zheng 4B       Jiuquan         Rem.Sen.  43A S48621    932 x  950 x 66.0
+May 26 1859   Starlink 2521                    Falcon 9             Canaveral SLC40    Com      44A-BM      257 x 282 x 53.0
+              Starlink 2615-2618
+              Starlink 2627
+              Starlink 2629
+              Starlink 2646-2649
+              Starlink 2651
+              Starlink 2653
+              Starlink 2657
+              Starlink 2666-2667
+              Starlink 2672-2673
+              Starlink 2688
+              Starlink 2691
+              Starlink 2695
+              Starlink 2701
+              Starlink 2704-2705
+              Starlink 2707-2709
+              Starlink 2711-2712
+              Starlink 2715
+              Starlink 2717
+              Starlink 2719-2720
+              Starlink 2725-2727
+              Starlink 2731-2743
+              Starlink 2745-2746
+              Starlink 2748
+              Starlink 2750-2754
+              Starlink 2756
+              Starlink 2758
+              Starlink 2763
+May 28 1737   OneWeb SL0190                   Soyuz-2-1b/Fregat     Vostochniy PU1     Comms  45A-AM       442 x 452 x 87.4
+              OneWeb SL0210-0216
+              OneWeb SL0221-0248
+May 29 1255   Tianzhou-2                      Chang Zheng 7         Wenchang LC102     Cargo  46A   S48803 369 x 377 x 41.5
+Jun  2 1617   Fengyun 4 02 xing               Chang Zheng 3B        Xichang LC2        Weather 47A  S48808 186 x 35808 x 28.5
+Jun  3 1729   Dragon CRS-22                   Falcon 9              Kennedy LC39A      Cargo   48A  S48831 193 x 212 x 51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The Missile Defense Agency's FTM-31 Event 1 test on May 29 or May 30
+appears to have involved launch of an MRBM-T3c2 target rocket with a
+Trident C-4 first stage and M57 second stage, from Meck Island at
+Kwajalein towards the central Pacific near Hawaii. The planned intercept
+by two SM-6 missiles launched from an Aegis ship near Hawaii did not
+take place, but it's not clear if the SM-6 missiles were launched but
+missed, or weren't launched at all.
+
+Further missile defense tests were carried on in late May from South
+Uist in the Hebrides, with Aegis intercepts by ships off the west coast
+of Scotland.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Apr 14 1651   NS-15             New Shepard        West Texas            Test          106       West Texas
+Apr 19 0830   SHIELDS           Black Brant IX     White Sands           UV Astron     285       White Sands
+Apr 28 0800?  M51 payload       MSBS M51           Landes                Test?        1000?      Atlantic
+May 17 0441   KiNET-X           Black Brant XIIA   Wallops I LA1?        Plasma        486       Atlantic
+May 18 1830   EUNIS 4           Black Brant IX     White Sands           Solar EUV     335       White Sands
+May 22 1526   VG-021            Spaceship Two      Elephant Butte        Test           89       Spaceport America
+May 24 0535   MAPHEUS 11        IM/IM              Kiruna                Micrograv     216?      ESRANGE
+May 27 0115   VIPER             Terr. Imp. Mal.    Wallops               Ionosphere    151?      Atlantic
+May 26        T4-B Target       Terrier Oriole     South Uist            Target        300?      Atlantic
+May 26        AEGIS KV          SM-3             DDG-117, D-701 Atlantic Interceptor   150?      Intercept T4-B
+May 29?       FTM-31E1 Target   MRBM-T3c2          Kwajalein Meck I.     Target        500?      Pacific
+May 30        T4-B Target       Terrier Oriole     South Uist            Target        300?      Atlantic
+May 30        AEGIS KV          SM-3             DDG-117, D-701 Atlantic Interceptor   150?      Intercept T4-B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'

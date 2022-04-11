@@ -1,0 +1,175 @@
+Jonathan's Space Report
+No 273                         1996 Jan 20                   Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Shuttle mission STS-72 has been completed with two satellite retrievals
+and two spacewalks. Endeavour completed its rendezvous with the Space
+Flyer Unit satellite on Jan 13. The SFU successfully retracted its solar
+panels, but failed to latch them, so the decision was made to jettison
+them. The first panel was ejected at 0935 UTC and the second at 0947
+UTC. At 1057 UTC the RMS 303 robot arm was used to grapple SFU, and it
+was berthed in Endeavour's payload bay at 1139 UTC. SFU carried science
+and technology experiments for Japan's National Space Development
+Agency.
+
+Endeavour then lowered its orbit to 302 x 311 km x 28.5 deg. The
+OAST-Flyer (Spartan 206) satellite was released using the RMS arm at
+1132 UTC on Jan 14. OAST-Flyer carries an experiment to measure
+contamination caused by spacecraft outgassing, and a test of a
+laser-fired explosive separation device to make sure the device doesn't
+go off accidentally in sunlight. It also carried an amateur radio
+experiment.
+
+Astronauts Leroy Chiao and Daniel Barry carried out a spacewalk on Jan
+15. The airlock was depressurized at 0525 UTC, and NASA declared the EVA
+in progress at 0535 UTC. The hatch was opened at 0540 UTC. Chiao and
+Barry  tested out Space Station equipment including a portable work
+platform and a rigid umbilical truss for carrying electrical cables and
+fluid lines. The astronauts returned to the airlock at 1130 UTC and
+closed the hatch 3 minutes later, returning their suits to orbiter power
+and repressurizing the airlock at 1144 UTC. NASA's official time for the
+walk was 6h 9m 19s, while I would give it an extra ten minutes (counting
+from depressurization rather than battery power). 
+
+On Jan 15-16 the Shuttle carried out a series of rendezvous burns to
+approach the OAST-Flyer Spartan, and on Jan 16 at 0947 UTC Wakata
+grappled the satellite with the RMS arm.
+
+The second spacewalk to test out Space Station tools and equipment was
+performed by Chiao and Winston Scott. It started a little behind
+schedule, with depressurization at 0534 UTC on Jan 17, and hatch opening
+at 0554. The spacewalk ended at 1234 UTC, for a duration of 7 hours 0
+min (depress to repress) or 6h 53m 41s (on-battery-power to repress, the
+official NASA number). Scott tested out the thermal modifications
+to the spacesuit by standing in shadow on the Spartan Flight Support
+Structure while the Orbiter was turned to make the payload bay
+as cold as possible.
+
+Endeavour closed its payload bay doors early on Jan 20, firing its
+braking rockets at 0641 UTC and reentered to a nighttime landing on
+runway 15 at Kennedy Space Center at 0742 UTC on Jan 20.
+The next Shuttle mission is STS-75, with orbiter Columbia and the
+reflight of the 20 km long tethered satellite, which failed on
+its first flight in 1992.
+
+Errata
+--------
+
+I was wrong! Fred Cerkan informs me that STS-72 was not the
+first flight with no TAL requirement - STS-1, the very
+first mission, had no TAL requirement or TAL capability.
+
+IRS-1C's panchromatic camera has a resolution of under 6 m, not
+10m as I said earlier. Thanks to several readers for the correction.
+
+
+Request for Info
+----------------
+
+Know anyone who worked for ABL in the 1960s? I'm trying to find
+information on the MG-18 rocket, a version of the X-258 Altair II used
+as an upper stage on Scout and Thor. Any info welcome.
+
+Recent Launches
+--------------
+
+Ariane V82 was launched on Jan 12 from Kourou. It was an Ariane 44L
+model with the H-10-III upper stage. V82 carried two communications
+satellites, PAS 3R and Measat 1. PAS 3R is a Hughes HS-601 comsat with a
+launch mass of 2918 kg, to provide C and Ku band communications and
+television broadcasting services for the Atlantic Ocean region. It is
+due to be stationed at 43 deg W, and carries 16 C-band and 16 Ku-band
+transponders. PAS 3R replaces PAS 3, lost in a launch accident in 1994.
+MEASAT 1 (Malaysia/East Asia Satellite) is another Hughes satellite,
+this time the older HS-376 spin-stabilized model. Measat 1 is owned by
+Binariang Sdn. Bhd., the Malaysian telecommunications agency, and will
+provide C and Ku-band telecommunications services over Malaysia and the
+rest of SE Asia.
+
+Delta 231 was launched on Jan 14 from Cape Canaveral Air Station and
+successfully rocketed to geostationary transfer orbit of 1357 x 35418 km
+x 21.0 deg. Payload of Delta 231 was Koreasat 2, a Lockheed Martin Astro
+Space AS3000 class comsat. Koreasat 1, launched last year, used up half
+its stationkeeping fuel reaching geostationary orbit after a launch
+malfunction left it in a lower than normal transfer orbit. The Koreasat
+(Mugunghwa) satellites are owned by Korea Telecom. The McDonnell Douglas
+launch vehicle was a 7925 model.
+
+Kosmos-2327 was launched on Jan 16 from Plesetsk into a 947 x 1020 km x
+83.0 deg orbit, characteristic of a navigation satellite in the Parus
+series. It is in the same plane as the Parus satellite launched in Nov
+1993 and named Kosmos-2266. The ground track is consistent with an
+ontime launch at 1534 UTC. Launch vehicle was a Kosmos-3M from the Polyot
+organization.
+
+It has now been confirmed that the capsule found in Ghana last year
+is the reentry vehicle from the German Express microgravity satellite
+which failed to reach its planned orbit in Jan 1995. Negotiations are
+underway for its return to Germany.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Dec  2 0808   SOHO             Atlas IIAS     Canaveral LC36B Astronomy   65A
+Dec  5 2118   USA 116          Titan 4        Vandenberg SLC4E Recon      66A
+Dec  6 2323   Telecom 2C   )   Ariane 44L     Kourou ELA2     Comsat      67A
+              Insat 2C     )                                  Comsat      67B
+Dec 14 0610   Kosmos-2323  )                                  Navsat      68A
+              Kosmos-2324  )   Proton-K/DM2   Baykonur LC200L Navsat      68B
+              Kosmos-2325  )                                  Navsat      68C
+Dec 15 0023   Galaxy IIIR      Atlas IIA      Canaveral LC36A Comsat      69A
+Dec 18 1431   Progress M-30    Soyuz-U        Baykonur LC1    Cargo ship  70A
+Dec 20 0052   Kosmos-2326      Tsiklon-2      Baykonur LC90   Eorsat/Sci  71A
+Dec 28 0645   IRS-1C     )     Molniya-M      Baykonur LC31   Rem.sensing 72A
+              Skipper    )                                    Military    72B
+Dec 28 1150   Echostar 1       Chang Zheng 2E Xichang         Comsat      73A
+Dec 30 1348   XTE              Delta 7920     Canaveral LC17A Astronomy   74A
+Jan 11 0941   Endeavour        Shuttle        Kennedy LC39    Spaceship   01A
+Jan 12 2310   Panamsat 3R  )   Ariane 44L     Kourou ELA2     Comsat      02A
+              Measat 1     )                                  Comsat      02B
+Jan 14 1111   Koreasat 2       Delta 7925     Canaveral LC17B Comsat      03A
+Jan 14 1132   OAST-Flyer                      OV105, LEO      Science     01B 
+Jan 16 1534?  Kosmos-2327      Kosmos-3M      Plesetsk        Navsat      04A
+
+Payloads no longer in orbit
+--------------------------
+
+Dec  7        Galileo Probe   Entered Jovian atmosphere
+Dec 11        Kosmos-398      Reentered over Pacific
+Dec 18        Kosmos-2305     Deorbited
+Jan 20        Endeavour       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       KSC RW15      STS-72
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/                       
+ML3/RSRM-53               VAB Bay 1  STS-75                                     
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

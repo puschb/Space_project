@@ -1,0 +1,197 @@
+
+Jonathan's Space Report
+
+No. 440 draft                                      2000 Dec 6, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Endeavour was launched at 0306 UTC on Dec 1 on mission STS-97
+to the International Space Station. The external tank and the Orbiter
+entered a 74 x 325 km orbit at 0314 UTC. Endeavour's OMS burn raised
+its perigee to 205 km at around 0347 UTC; the ET reentered over the Pacific.
+Endeavour docked with the Station's PMA-3 docking port at 1959 UTC on Dec 2.
+Astronauts will install the P6 solar panel truss during a series
+of spacewalks.
+
+The crew of STS-97 are: Commander - Brent Jett, Cmdr USN; Pilot -
+Michael Bloomfield, LtCol USAF; Mission Specialists - Joseph Tanner,
+NASA, Dr. Marc Garneau, CSA, and Carlos Noriega, LtCol USMC.
+
+The payload bay of Endeavour for STS-97 contains:
+
+                                               Est. Mass (kg)
+Bay 1-2:     Orbiter Docking System                     1800
+             3 EMU spacesuits (S/N unknown)              360?
+             FPPU experiment (in airlock)                 23
+Unknown      APCU Assembly Power Converter Unit           35
+Unknown      APCU Assembly Power Converter Unit           35
+Bay 3-6:     ITS P6 Long Spacer                         4000?
+                   TCS radiator (aft)                    500?
+                   TCS radiator (starboard)              500?
+Bay 8-11:    ITS P6 Integrated Equipment Assembly       7200?
+                   PV  radiator P6                       500?
+Bay 12-13:   ITS P6 Photovoltaic Array/Beta Gimbal Asy. 1000?
+                   Solar array wing 2B                  1070
+                   Solar array wing 4B                  1070
+Bay 13S      IMAX Cargo Bay Camera                       238
+Sill:        Canadarm RMS 303                            410
+                                                      ------
+                      Total payload bay cargo          18740 kg
+
+The main cargo is P6, which is made up of the LS (Long Spacer),
+PV-1 IEA (Integrated Equipment Assembly) and the PVAA (Photovoltaic
+Array). The LS carries two Thermal Control Systems with radiators
+to eject waste heat from the Station; these radiators will be moved
+to truss segments S4 and S6 later in assembly. The PVAA has
+solar array wings SAW-2B and SAW-4B, which were deployed to a span
+of 73 meters.
+
+The FPPU (Floating Potential Probe Experiment) will be installed
+on P6 to measure charge buildup as the arrays pass through
+the ionospheric plasma. P6 has devices to bleed off excess charge,
+and FPPU will see how well they are doing. 
+
+I'm still trying to confirm details of the Boeing Rocketdyne APCUs. They
+are  technically counted as orbiter support equipment rather than
+payloads by NASA, but I count anything mounted in the payload bay as a
+payload. There don't seem to be any photos online of Endeavour in the
+OPF and NASA PAO's don't have any documentation describing the APCUs.
+Thanks are due to Bill Harwood (of CBS and SpaceflightNow.com) for
+confirmation of the existence of these extra payload elements. As far as
+I can tell, the APCUs are boxes which provide Orbiter power to the
+Station; they first flew on STS-91 (providing simulated ISS power to the
+AMS experiment) and are probably attached to APCs (Adaptive Payload
+Carriers) somewhere in the bay - I suspect near the front at the ODS,
+but if anyone knows for sure please let me know.
+
+Readers should note that the STS-97 press kit contains wildly incorrect
+weight information for the Long Spacer and the PVA. I've had to guess
+at the subcomponent masses.
+
+The first STS-97 spacewalk began with airlock depress and hatch open at
+1831 UTC on Dec 3. The suits went to battery power at 1835 UTC and Joe
+Tanner and Carlos Noriega left the airlock around 1845 UTC. Around 1932
+UTC the RMS arm berthed P6 on the Z1 truss, and the astronauts
+manually latched it in place by 1940 UTC. There were some problems
+releasing latches on the solar array wings, but the first solar
+array began to deploy at 0123 UTC on Dec 4. This was the
+"starboard" (+X) array, wing SAW-2B. The  port (-X) array, SAW-4B,
+was left undeployed. The astronauts closed the hatch at 0202 UTC on
+Dec 4 and repressurized at 0209 UTC for an EVA-1 duration of 7:38
+(depress), 7:31 (hatch open/close), or 7:34 (NASA rule). The P6 PVR
+radiator was deployed on the +Y side of the IEA at 0414 UTC on Dec 4.
+The SAW-4B wing was deployed starting at 0052 UTC on Dec 5.
+
+The second spacewalk began on Dec 5 with depress at 1718 UTC, hatch open
+around 1719 UTC and battery power at 1721 UTC. Repress was at 2358 UTC.
+Duration was 6:40 (depress), 6:35 (hatch open/close), or 6:37 (NASA rule).
+The astronauts connected up P6 to the station, inspected the tension
+wires on wing 2B, and relocated the S-band antenna to the top of P6.
+They unlatched the aft TCS radiator, which was deployed sometime
+early on Dec 6.
+
+
+Progress M1-4 undocked from ISS's Zarya nadir port at 1623 UTC on Dec 1.
+The vehicle remains in orbit.
+
+
+
+Current Launches
+----------------
+
+The Israeli commercial imaging satellite EROS A1 was launched
+by a Start-1 (modified Topol' ICBM) rocket 
+from the Russian Far Eastern spaceport 2-GIK at Svobodniy
+on Dec 6. EROS A1 is owned by ImageSat (an Israeli-led
+company registered in the Netherlands Antilles) and built by
+IAI using the Ofeq-3 design. Earlier Israeli-built satellites
+were launched by the Shaviyt rocket from Palmachim south
+of Tel Aviv. EROS A1 is in a 491 x 506 km x 97.3 deg
+sun-synchronous orbit together with the DS 5th stage.
+The fourth stage of Start-1 also normally reaches orbit,
+but has not yet been cataloged in this case.
+
+The third Sirius digital radio broadcast satellite was launched on
+Nov 30. International Launch Services launched a Krunichev Proton-K
+with an Energiya Blok DM3 upper stage from Baykonur. The Sirius
+satellite is a Loral FS-1300 series vehicle and will enter
+an elliptical 63 degree orbit.
+
+The QuickBird satellite launched on Nov 20 was 3.0m high and 1.6m x 1.6m
+in cross-section with a 5.2m solar array span; mass was 931 kg full
+and 899 kg dry (the satellite had four 4.4N hydrazine thrusters).
+QuickBird 1 was the second use of the Ball Aerospace BCP-2000 satellite;
+NASA's QuikScat, launched in Jun 1999, continues to operate. QuickBird 2
+is under construction. Visual observations from Uruguay of reentering
+debris suggest that QB-1 reentered at around 0015 UTC on Nov 21.
+The last Kosmos-3M failure, in 1995, had a similar profile and
+was attributed to contamination in the oxidizer lines for the 
+second stage main engine.
+
+
+A classified National Reconnaissance Office payload was launched
+on Dec 7 by a Lockheed Martin Atlas 2AS from Cape Canaveral.
+The Centaur placed the payload in a 176 x 831 km parking
+orbit and then in a 270 x 37490 km x 26.5 deg geostationary transfer orbit;
+it is probably either a data relay satellite which transfers
+spy satellite imagery to the ground, or a signals intelligence
+satellite. 
+
+
+
+Errata
+------
+
+NASA's EO-1 is actually called Earth Observing 1; its original "Earth Orbiter 1"
+name was changed some time ago.
+
+The P6 IEA is the Integrated Equipment Assembly, not Integrated Electronics Assembly.
+
+I can't spell "millennium". 
+ 
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Nov 10 1714   GPS SVN 41        Delta 7925     Canaveral SLC17A Navsat     71A
+Nov 16 0107   PAS 1R   )        Ariane 5       Kourou ELA3      Commsat    72A
+              AMSAT-Oscar-40)                                   Commsat    72B
+              STRV-1c  )                                        Tech       72C
+              STRV-1d  )                                        Tech       72D
+Nov 16 0132   Progress M1-4     Soyuz-U        Baykonur LC1     Cargo      73A
+Nov 20 2300   QuickBird 1       Kosmos-3M      Plesetsk LC132   Imaging    74A
+Nov 21 1824   EO-1  )           Delta 7320     Vandenberg SLC2W Imaging    75A
+              SAC-C )                                           Imaging    75B
+              Munin )                                           Science    75C
+Nov 21 2356   Anik F-1          Ariane 44L     Kourou ELA2      Commsat    76A
+Nov 30 1959   Sirius 3          Proton-K/DM3   Baykonur LC81L   Commsat    77A
+Dec  1 0306   Endeavour)        Space Shuttle  Kennedy LC39     Spaceship  78A
+              ITS P6   )                                       Station seg.
+Dec  6 1232   EROS A1           Start-1        Svobodniy        Imaging    79A   
+Dec  7 0247   USA 155?          Atlas 2AS      Canaveral SLC36A Commsat?   80A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-102 2001 Feb 15  ISS 5A.1
+OV-104 Atlantis        VAB Bay 1     STS-98  2001 Jan 18  ISS 5A
+OV-105 Endeavour       LEO           STS-97  2000 Dec  1  ISS 4A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   

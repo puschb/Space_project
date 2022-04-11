@@ -1,0 +1,218 @@
+Jonathan's Space Report 
+No. 768                                                       2019 Aug  22   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 60 continues.
+
+On Aug 6, the Canadarm-2 unberthed the S.S. Roger Chaffee (Cygnus NG-11)
+from the Unity module at 1330 UTC and released it into orbit at 1615
+UTC.
+
+On Aug 7 at 1300 UTC, cubesats Aerocube-10a and Aerocube-10b were
+deployed from the Nanoracks NRCSD-E deployer on Cygnus. The satellites
+are nicknamed JimSat and DougSat respectively.
+
+Sometime probably on Aug 7 the Hypergiant
+SEOPS/Spaceflight Inc Slingshot deployer was also used to deploy four
+cubesats: RTFSat (3U), from Northwest Nazarene University, NARSScube-2
+(1U) from Egypt,  Quantum Radar 3 (3U) from Hypergiant, and the
+DARPA/Hypergiant ORCA  6U cubesat to test an intersatellite radio link.
+Unfortunately the deployment time has not been made public.
+
+On Aug 19 the Dextre arm unberthed the IDA-3 docking adapter from Dragon
+CRS-18's trunk. On Aug 21 at about 1100 UTC Dextre soft docked IDA-3 to
+the PMA-3 docking port. Then, at 1219 UTC, the Quest airlock was
+depressurised and astronauts Hague and Morgan began spacewalk ISS
+EVA-55, with spacesuits 3006 and 3008 and SAFER backpack units 18 and 13
+respectively. The hatch was open at 1226 UTC and the astronauts went to
+battery power a minute later. They connected cables to IDA-3 and
+activated it; IDA-3 was firmlymated to PMA3 between 1443 and 1500 UTC.
+At 1614 UTC Dextre released the IDA and at 1641 UTC the astronauts
+removed its thermal cover (which was stuffed in a bag and returned to
+the airlock). Two `hemi reflectors' were installed and after some final
+connections the astronauts returned to the Quest airlock, with hatch
+close at 1855 UTC and repressurization at 1859 UTC.
+
+The PMA-3 port with its APAS adapter was designed for Shuttle dockings;
+the IDA-3 converts it to be suitable for Crew Dragon and Starliner dockings.
+
+
+On Aug 22 Roskosmos launched Soyuz MS-14 on a Soyuz-2-1a rocket. This
+was the first launch of the comnbination and tested the interaction of
+the modern rocket's digital control system with the old-fashioned Soyuz
+spaceship's abort system. Soyuz MS-14 was launched without a crew,
+but a humanoid robot Skybot F-850 'Fyodor' takes up one of the seats.
+Soyuz MS-14 also carries 658 kg of cargo for ISS.
+
+
+Blagovest
+----------
+
+On Aug 5 Russia launched a Proton-M with the Blagovest No. 14L military communications
+satellite. The Briz-M upper stage delivered it to geosynchronous orbit. On Aug 20
+it was drifting west over the Indian Ocean.
+
+Ariane
+------
+
+Arianespace flew an Ariane 5 on Aug 6 placing the EDRS-C and Intelsat
+IS-39 comms satellites in geotransfer orbit. By Aug 20 both satellites
+were in near-GEO drift orbits.  EDRS-C (European Data Relay Satellite),
+to be located at 31E, has a laser communications payload. It also
+carries a secondary Ka-band payload, Hylas 3, for Avanti Communications.
+IS-39 will replace Intelsat 901 over the Indian Ocean.
+
+Amos 17
+-------
+
+SpaceX launched a Falcon 9 on Aug 6. No attempt was made to recover the
+B1047 first stage, which was on its third flight. The second stage
+placed the AMOS 17 communications satellite in geotransfer orbit. AMOS
+17 is a Boeing 702MP satellite for Israel's Spacecom. By Aug 19 it was
+on station in GEO at 13.8E.
+
+AEHF-5
+------
+
+ULA's Atlas V flight AV-083, using the powerful 551 model, was launched
+on Aug 8. Centaur AV-083 made three burns to a high perigee GTO to drop
+off the strategic US military communications satellite AEHF 5. After the
+second burn, a 12U cubesat called TDO was ejected into geotransfer
+orbit. TDO, for the USAF Space and Missile Command, tests satellite and
+space debris tracking technologies.
+
+By Aug 21, AEHF 5 was in a 24870 x 35300 km orbit.
+
+Jielong-1
+---------
+
+The Changzheng Houjian YG (China Long March Rocket Co), a
+commercialization subsidiary of the government CALT launch vehicle
+manufacturer, carried out its first orbital launch on Aug 17. The
+Jielong-1 (Smart Dragon 1) four-stage solid rocket put three satellites
+in sun-synchronous orbit.
+
+Qiancheng-1 01 xing is an imaging satellite for Qiancheng Exploration Tech Co (Beijing).
+Xingshidai-5 is a test satellite for Guoxing Aerospace (Chengdu), using a Weina MN10 bus.
+Tianqi-2 is a satellite for Guodian Gaokeji (Beijing) for IoT data relay.
+
+
+Zhongxing-18
+------------
+
+The Zhongxing-18 (Chinasat-18) C/Ku/Ka-band communications sat, using
+the enhanced DFH-4E bus, was launched by CZ-3B S/N Y58 on Aug 19 to
+geotransfer orbit. However, it was announced that the payload was
+malfunctioning following its separation from the upper stage.
+
+Electron 8
+----------
+
+The 8th Rocket Lab Electron launch from New Zealand placed the BlackSky Global 4
+imaging satellite in orbit together with three 6U cubesats: the signals
+intelligence (spectrum monitoring) BRO-ONE for the Breton company Unseen
+Labs and two Pearl White technology cubesats for USAF Space Command.
+On this flight, the kick stage does not appear to have been cataloged
+and may have been deorbited. Although RocketLab videos describing Electron
+tout its ability to deorbit and not leave junk around, most and possibly
+all of the previous Electron flights have actually left their kick stages up.
+
+
+    Flight           Kick stage             Current orbit
+    -----------      ----------------       -----------------------
+    Electron 1       Failed to orbit        -
+    Electron 2       43164  2018-010B       488 x 529 km x 82.9 deg
+    Electron 3       43692  2018-088C       495 x 516 km x 85.0 deg
+    Electron 4       43851/53? 2018-104C/F? Unclear (more unid track objects than missing payloads)
+    Electron 5       44074  2019-016B       410 x 428 km x 39.5 deg
+    Electron 6       44427  2019-026C       494 x 510 km x 40.0 deg
+    Electron 7       44365/68? 2019-037A/D? Unclear (more unid track objects than missing payloads)
+    Electron 8       Deorbited?  Number of unid tracked objects same as number of payloads
+
+
+GPS
+---
+
+The second GPS Block III satellite, nicknamed Magellan, was launched on
+Aug 22 aboard a Delta 4 from Cape Canaveral. The Delta 4 second stage
+deorbited itself south of South Africa at the end of its first orbit.
+
+Chandrayaan-2
+-------------
+
+Chandrayaan-2 made its translunar injection burn  at 2051 UTC Aug 13,
+raising apogee to 408,000 km. Lunar orbit insertion occurred around 0330
+UTC Aug 20 into a 114 x 18072 km x 87.8 deg orbit.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Jul 11 0153   FalconEye 1                Vega              CSG ZLV          Imaging   F05         -6175? x   75?x  98.5?       
+Jul 12 1230   Spektr-RG                  Proton-M/DM-03    Baykonur LC81/24 Astronomy 40A            500 x1240000 x 51.6                            
+Jul 20 1628   Soyuz MS-13                Soyuz-FG          Baykonur LC1/5   Spaceship 41A  S44437    200 x   211 x 51.6
+Jul 22 0913   Chandrayaan 2              GSLV-3            Satish Dhawan    Lunar     42A  S44441    133 x 45171 x 21.4
+Jul 25 0500   CAS-7B                  )  Shuang Quxian 1   Jiuquan          Comms     43   S44443    280 x   299 x 42.7
+              Hangtian KKG Fazhang sat)                                     Tech      43
+Jul 25 2201   Dragon CRS-18              Falcon 9          Canaveral SLC40  Cargo     44A  S44446    203 x   386 x 51.6
+Jul 26 0357   Yaogan-30 05 zu 01 xing )  Chang Zheng 2C    Xichang          Sigint    45A  S44449    590 x   605 x 35.0
+              Yaogan-30 05 zu 02 xing )                                     Sigint    45B  S44450    590 x   605 x 35.0
+              Yaogan-30 05 zu 03 xing )                                     Sigint    45C  S44451    590 x   605 x 35.0
+Jul 30 0557   Meridian-M No. 18L         Soyuz-2-1A/Fregat Plesetsk LC43/4  Comms     46A  S44453    985 x 39734 x 62.8
+Jul 31 1210   Progress MS-12             Soyuz-2-1A        Baykonur LC31    Cargo     47A  S44455    185 x   218 x 51.6
+Aug  5 2156   Kosmos-2539                Proton/Briz-M     Baykonur LC81/24 Comms     48A  S44457  35673 x 35851 x  0.0 
+Aug  6 1930   EDRS C         )           Ariane 5 ECA      Kourou ELA3      Comms     49A  S44475?   217 x 35528 x  4.5
+              Intelsat IS-39 )                                              Comms     49B  S44476?   231 x 35801 x  4.5
+Aug  6 2323   AMOS 17                    Falcon 9          Canaveral SLC40  Comms     50A  S44479    215 x 35733 x 26.0
+Aug  6 or 7?  RTFSat          )                          Chaffee, LEO       Tech      22G  S44417    470 x   485 x 51.6
+              Quantum Radar 3 )                                             Tech      22F  S44416    470 x   485 x 51.6
+              NARSScube-2     )                                             Tech      22H  S44418    470 x   485 x 51.6
+              ORCA            )                                             Tech      22E  S44415    470 x   485 x 51.6
+Aug  7 1300   Aerocube-10a  )                            Chaffee, LEO       Tech      22D  S44485    471 x   485 x 51.7
+              Aerocube-10b  )                                               Tech      22C  S44484    469 x   481 x 51.7
+Aug  8 1013   AEHF 5 )                   Atlas V 551       Canaveral SLC41  Comms     51A  S44481  14366 x 35286 x 10.0
+              TDO    )                                                      Sp.Surv.  51B  S44482    207 x 35259 x 26.4
+Aug 17 0411   Qiancheng-1 01 )           Jielong-1         Jiuquan          Imaging   52A  S44486    532 x   559 x 97.6
+              Xingshidai-5   )                                              Tech      52   S44487?   529 x   559 x 97.6
+              Tianqi-2       )                                              Comms     52   S44488?   529 x   560 x 97.6
+Aug 19 1203   Zhongxing-18               Chang Zheng 3B    Xichang          Comms     53A  S44493    228 x 35879 x 28.4
+Aug 19 1212   BlackSky Global 4)         Electron          Mahia            Imaging   54   S44496?   531 x   558 x 45.0
+              Pearl White 1    )                                            Tech      54   S44497?   531 x   558 x 45.0
+              Pearl White 2    )                                            Tech      54   S44498?   531 x   558 x 45.0
+              BRO-ONE          )                                            Sigint    54   S44499?   531 x   558 x 45.0
+Aug 22 0338   Soyuz MS-14                Soyuz-2-1a        Baykonur LC31    Spaceship  55A S44504    194 x   226 x 51.6
+Aug 22 1306   GPS III SV02               Delta 4M+(4,2)    Canaveral SLC37B Navigation 56A S44506   1199 x 20177 x 55.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jul 15?       MRBM Target       eMRBM?             C-17, Kauai?          Target        300?      Alaska
+Jul 15?       Arrow 3 KV        Arrow 3            Kodiak                Interceptor   100?      Intercept MRBM
+Jul 24        Shahab RV         Shahab 3           Iran                  Test          250?      Iran?
+Jul 26        Topol-E RV        Topol'             Kapustin Yar          Reentry test 1000?      Sary Shagan
+Jul 22?       MRBM Target       eMRBM?             C-17, Kauai?          Target        300?      Alaska
+Jul 22?       Arrow 3 KV        Arrow 3            Kodiak                Interceptor   100?      Intercept MRBM
+Jul 27?       MRBM Target       eMRBM?             C-17, Kauai?          Target        300?      Alaska
+Jul 27?       Arrow 3 KV        Arrow 3            Kodiak                Interceptor   100?      Intercept MRBM
+Aug  1?       Warhead           Burkan-3           Yemen                 Weapon        300?      Dammam, S. Arabia
+Aug  7 1510?  RV                DF-31/41?          Taiyuan               Test         1000?      Xinjiang
+Aug 11 0607   SISTINE           Black Brant IX     White Sands           UV Astronomy  259       White Sands
+Aug 12 0944   RockSat-X 9       Terrier Imp.Mal.   Wallops Island        Education     154       Atlantic
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

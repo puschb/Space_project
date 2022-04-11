@@ -1,0 +1,134 @@
+Jonathan's Space Report
+
+No. 438                                           2000 Nov  6, Honolulu
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+The Expedition One crew was launched on a Soyuz transport ship to the
+International Space Station at 0753 UTC on Oct 31. Soyuz TM-31 flew from
+Pad 5, Area 1 at 5 GIK Baykonur. Soyuz TM-31 commander (komandir) is
+Yuriy Gidzenko; Flight engineer-1  (bortinzhener) is Sergey Krikalyov;
+Flight engineer-2 is Bill Shepherd of NASA. The astronauts are using
+Gidzenko's callsign "Uran". 
+
+The Progress M1-3 cargo ship undocked from Zvezda's rear port at 0405
+UTC Nov 1 and was deorbited over the Pacific at 0705 UTC.
+
+Soyuz TM-31 docked at Zvezda's rear port at 0921 UTC on Nov 2. The hatch
+to Zvezda was opened at 1023 UTC. Once aboard ISS, Shepherd became the
+ISS Commander; I gather the Russians will continue to be referred to as
+'Soyuz Commander' and 'Flight Engineer' rather than giving Gidzenko an
+ISS-specific role title. NASA Administrator Goldin has approved 'Station
+Alpha' as the ISS callsign for the duration of the first expedition.
+
+Space Command appears to have cataloged the vehicle as "Soyuz TMA-1",
+but the Energiya web site calls it Soyuz TM-31. The first Soyuz TMA will
+not fly till next year; this vehicle is a standard Soyuz TM,
+probably 11F732 No. 205, and the TMA-1 name is simply incorrect.
+
+In last week's report I inadvertently omitted descriptions of the last two
+STS-92 spacewalks. EVA-3, by Chiao and McArthur, was on Oct 17 with
+depress around 1425 UTC, on battery at 1430 UTC, and hatch open possibly
+around 1432 UTC (the thermal cover was opened at 1433). McArthur emerged
+at 1439 UTC. At 1606 the port DDCU, DDCU-HP 4B, was unberthed from its
+sidewall carrier and taken up to Z1 for installation by 1615. DDCU-HP 3B
+was installed by 1648 UTC. Next, Z1's cables were attached to Unity. An
+ETSD spacewalk toolbox was then taken from the Spacelab pallet to Z1,
+and the Z1 keel pin was relocated. The astronauts were back inside at
+2113, with hatch close at 2114 and repress at 2118. Duration was about
+6h53min (depress/repress), 6h42min (hatch open/close), or 6h48m (NASA
+scheme).
+
+The final EVA, by Wisoff and Lopez-Alegria,  began with depressurization
+ around 1450 UTC on Oct 18. The hatch was opened early,  probably around
+1455 UTC, and the astronauts then went onto battery power at 1500 UTC.
+The thermal cover was opened at 1507 UTC and the astronauts emerged at
+that point. They tested a latch on Z1, removed a grapple fixture, and
+deployed a cable tray for the ammonia cooling system. The main tasks
+complete, it was time for the most spectacular moment of the mission -
+tests of the SAFER spacesuit backpack propulsion units.  Wisoff and
+Lopez-Alegria took turns with semi-free flights, still attached to
+Discovery by a long, slack tether but otherwise floating free. Wisoff
+flew first, starting at 1855 UTC and flying from Lopez-Alegria on the
+RMS near Zarya to the payload bay. By 1939 he was back on the RMS, with
+a flight duration of under 46 min. Lopez-Alegria then flew from 1949 to
+2016, a duration of 27 min. The astronauts entered the airlock at 2145,
+closed the hatch at 2149, and repressurized the airlock at 2156.
+Duration was about 7h06m (depress/repress), 6h54m (hatch open/close), or
+6h56m (NASA scheme).
+
+
+Current Launches
+----------------
+
+China's first experimental navigation technology satellite,  Beidou,
+was launched on Oct 30 by CZ-3A from
+Xichang into a 195 x 41889 km x 25.0 deg orbit. According to Chinese
+space expert Chen Lan, Beidou was developed by CAST/Beijing.
+Launch was at 0002 Beijing time Oct 31 which corresponds to 1602 UTC on
+Oct 30. Richard Langley informs me that "Beidou" is the Chinese for
+"Northern Dipper", equivalent to "Ursa Major".
+
+X-38 test vehicle V-131R was drop-tested over Edwards AFB on Nov 2.
+The first space flight by X-38 vehicle V-201 is now scheduled for 2002.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  1 2200   GE-1A             Proton-K/DM3   Baykonur LC81L   Commsat    59A
+Oct  6 2300   N-SAT-110         Ariane 42L     Kourou ELA2      Commsat    60A
+Oct  9 0538   HETE-2            Pegasus        Kwajalein RW06/24 Astronomy 61A
+Oct 11 2317   Discovery         Space Shuttle  Kennedy LC39A    Spaceship  62A
+Oct 13 1412   Kosmos-2374 )     Proton-K/DM-2  Baykonur         Navsat     63A
+              Kosmos-2375 )                                     Navsat     63B
+              Kosmos-2376 )                                     Navsat     63C
+Oct 16 2127   Progress M-43     Soyuz-U        Baykonur LC1     Cargo      64A
+Oct 20 0039   DSCS III B11      Atlas IIA      Canaveral SLC36A Commsat    65A
+Oct 20?       K-2306 subsat 7 )                Kosmos-2306, LEO Calib   95-08N
+              K-2306 subsat 8 )                                 Calib   95-08P
+              K-2306 subsat 9 )                                 Calib   95-08Q
+              K-2306 subsat 10)                                 Calib   95-08R
+              K-2306 subsat 11)                                 Calib   95-08S
+              K-2306 subsat 12)                                 Calib   95-08T
+              K-2306 subsat 13)                                 Calib   95-08U
+              K-2306 subsat 14)                                 Calib   95-08V
+              K-2306 subsat 15)                                 Calib   95-08W
+              K-2306 subsat 16)                                 Calib   95-08X
+              K-2306 subsat 17)                                 Calib   95-08Y
+              K-2306 subsat 18)                                 Calib   95-08Z
+              K-2306 subsat 19)                                 Calib   95-08AA
+Oct 21 0552   Thuraya 1         Zenit-3SL      Odyssey, POR     Commsat    66A
+Oct 21 2200   GE 6              Proton-K/DM-3  Baykonur LC81L   Commsat    67A
+Oct 29 0559   Europe*Star FM1   Ariane 44LP    Kourou ELA2      Commsat    68A
+Oct 30 1602   Beidou            Chang Zheng 3A Xichang LC1      Navsat     69A
+Oct 31 0753   Soyuz TM-31       Soyuz-U        Baykonur LC1     Spaceship  70A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1?    STS-102 2001 Feb 15  ISS 5A.1
+OV-104 Atlantis        OPF Bay 3     STS-98  2001 Jan 18  ISS 5A
+OV-105 Endeavour       VAB Bay 1     STS-97  2000 Nov 30  ISS 4A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

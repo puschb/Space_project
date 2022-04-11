@@ -1,0 +1,141 @@
+Jonathan's Space Report
+No. 301                    1996 Oct 15               Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+
+The next Shuttle launch is STS-80. The payload bay will include the
+ORFEUS ultraviolet telescope on the ASTRO-SPAS free flying
+satellite and the Wake Shield Facility, another free-flying satellite
+which will grow crystals in vacuum and microgravity. Another
+Space Station development spacewalk is planned.
+
+Launch of the Progress M-33 cargo ship to Mir has been delayed
+to early November. It will resupply Mir crewmembers Korzun, Kaleri
+and Blaha.
+
+Joel Powell points out that mission STS-79 used external tank ET-82,
+not ET-81 as I said. Geoff Perry spotted my error on the undocking
+time: Atlantis undocked from Mir at 0133 UTC on Sep 24.
+
+Recent Launches
+---------------
+
+The world's launch pads have been quiet recently, so I'll take
+the opportunity to talk about space history instead.
+
+40 Years Ago: The Jupiter C and JPL Cluster Program
+---------------------------------------------------
+
+In 1953 the Redstone missile, developed by Werner Von Braun's Army
+Ballistic Missile Agency (ABMA) in Huntsville, Alabama, made its first
+flight. Launches after Sep 1955 were designated Jupiter A, as they were
+nominally in support of ABMA's Jupiter IRBM program. (Jupiter itself is
+a significantly different rocket). Meanwhile, the Jet Propulsion Lab  in
+Pasadena, California developed the JPL Cluster, a multi-stage clustered
+rocket to be used as an upper stage velocity package. The Cluster
+consisted of a Stage 2 Assembly with 11 small rocket motors known as
+Scaled Sergeants or Baby Sergeants (they were  scaled down from the
+design of JPL's Sergeant missile), a Stage 3 Assembly with three Scaled
+Sergeants, and a Stage 4 assembly with a single Scaled Sergeant. The
+Cluster was spin-stabilized and mounted on the Redstone's nose. The
+initial tests of the Cluster had no Stage 4 and were known as Jupiter C,
+with the first launch 40 years ago on 1956 Sep 20 achieving a world
+altitude record of 1097 km.
+
+The fourth Cluster launch on 1958 Feb 1 (UTC) placed the first US
+satellite in orbit, Explorer 1. The orbital Jupiter C's were designated
+Juno I. Unfortunately the available records at JPL for these launches
+are patchy and I'm not certain of the Cluster unit serial number for the
+historic Explorer I launch, but one diagram gives the designation
+'RTV-7'. If anyone can fill in the missing Cluster designations, I'd
+love to get them. The final Redstone/Cluster launch carried the Army's
+Beacon balloon satellite, together with the first ever apogee motor, a
+small 2 lb solid rocket. Unfortunately the Stage 2 Assembly failed and
+Beacon did not reach orbit. Explorer II and V were also failures.
+
+Following the final Juno I launch, the JPL Cluster was used as
+an upper stage to the Jupiter rocket, the combination being
+known as Juno II. Meanwhile, the Explorer name was used for
+scientific satellites developed at NASA-Goddard and NASA-Langley.
+
+Launch Date   Redstone No.   JPL Cluster No.    Payload
+--------------------------------------------------------
+1956 Sep 20   RS-27          Cluster 1    Dummy stage 4, Microlock beacon
+1957 May 15   RS-34          Cluster 2    Scaled Jupiter nosecone
+1957 Aug  8   RS-40          Cluster 5?   Scaled Jupiter nosecone
+1958 Feb  1   RS-29          Cluster 7?   Explorer I
+1958 Mar  5   RS-26          Cluster 6?   Explorer II
+1958 Mar 26   RS-24          Cluster 4?   Explorer III
+1958 Jul 26   RS-44          Cluster 8    Explorer IV
+1958 Aug 24   RS-47          Cluster 9    Explorer V
+1958 Oct 23   RS-49          Cluster 10?  Apogee motor/Beacon
+
+The Juno II launches, carried out by ABMA under NASA auspices, were:
+
+Launch Date   Jupiter No.    JPL Cluster No.    Payload
+---------------------------------------------------------
+1958 Dec  6   AM-11          Cluster 11   Pioneer III
+1959 Mar  3   AM-14          Cluster 12   Pioneer IV
+1959 Jul 16   AM-16          Cluster 14   NASA S-1
+1959 Aug 15   AM-19B         Cluster 15   Beacon 2
+1959 Oct 13   AM-19A         Cluster 13   NASA S-1A
+1960 Mar 23   AM-19C         Cluster 16   NASA S-46
+1960 Nov  3   AM-19D         Cluster 17   NASA S-30
+1961 Feb 24   AM-19F         Cluster 19   NASA S-45
+1961 Apr 27   AM-19E         Cluster 18   NASA S-15
+1961 May 24   AM-19G         Cluster 20?  NASA S-45A
+
+Cluster 14 and Cluster 15, used in the unsuccessful S-1 and Beacon 2
+launch attempts, did not have an Assembly 4 stage.  S-1A was named
+Explorer VII after the successful launch; S-30 became Explorer VIII, and
+S-15 became Explorer XI. Pioneer IV entered solar orbit.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  4 0901   Kosmos-2333      Zenit-2        Baykonur LC45L  Sigint      51A
+Sep  5 1347   Kosmos-2334 )    Kosmos-3M      Plesetsk LC132/1 Navsat     52A
+              UNAMSat     )                                               52B
+Sep  6 1737   Inmarsat III F2  Proton         Baykonur LC81   Comsat      53A
+Sep  8 2149   GE-1             Atlas IIA      Canaveral LC36B Comsat      54A
+Sep 11 0000   Echostar II      Ariane 42P     Kourou ELA2     Comsat      55A
+Sep 12 0849   Navstar 30       Delta 7925     Canaveral LC17A Navsat      56A
+Sep 16 0855   Atlantis         Shuttle        Kennedy LC39A   Spaceship   57A
+Sep 26 1751   Ekspress         Proton-K       Baykonur        Comsat      58A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        VAB Bay 2     STS-80  Nov 8
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        OPF Bay 3     STS-81  Jan 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-54                VAB Bay 1      STS-81
+ML3/RSRM-49/ET-80/OV-102   VAB Bay 3      STS-80
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+
+</PRE>
+</BODY>

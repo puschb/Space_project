@@ -1,0 +1,200 @@
+
+Jonathan's Space Report
+No. 573                                     2006 Nov 18,    Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Progress M-58 was launched on Oct 23 carrying supplies for the Station.
+It soft-docked with the Zvezda module at 1429 UTC on Oct 26. However
+there were indications that the Kurs rendezvous orientation antenna
+mounted on the docking ring at the forward end of the Progress did not
+retract correctly. The Station remained in free drift for several hours;
+eventually it was decided that the antenna was fine, the latches between
+Progress and Zvezda were driven closed at around 1806 UTC, and the
+Station resumed active attitude control.
+
+
+STEREO
+------
+
+NASA's STEREO mission was launched on Oct 26 at 0052 UTC. The Delta
+entered a 165 x 171 km parking orbit at 0102 UTC; the second burn raised
+it to 166 x 3179 km x 28.49 deg at 0109 UTC. Stage 2 separated and the
+spinning stage 3 fired to place itself in a translunar orbit, planned
+prelaunch to be 182 x 403810 km x 28.5 deg. At 0117 UTC two despin
+weights were jettisoned and the STEREO A/B pair separated from the Star
+48B stage. At 0119 UTC STEREO A and B were scheduled to separate from
+one another. They will remain in the translunar orbit several months and
+then use lunar gravity assists to enter solar orbit. The third stage was
+expected to reenter early on Nov 6; it was not cataloged.
+On Dec 15 at 1350 UTC STEREO B will
+pass 10745 km above the lunar surface and be thrown into a 130000 x
+870000 km x 27.9 deg phasing orbit. Five minutes later, STEREO A will
+fly 5937 km above the Moon and enter a 180000 x 1750000 km x 33.6 deg
+orbit; ignoring the Sun's gravity, the instantaneous Keplerian orbit is
+formally bound  (below escape velocity) but in fact STEREO A will escape
+the Earth-Moon system around Dec 24. On Jan 21 at 1552 UTC, STEREO B
+will re-encounter the Moon with a 16029 km altitude flyby and also end
+up on a departure orbit. STEREO A will end up in a 0.95 x 0.97 AU x 0.12
+deg, 344 day orbit around the Sun, leading the Earth. STEREO B will end
+up in a 0.99 x 1.09 AU x 0.03 deg, 389 day orbit trailing the Earth.
+
+The two spacecraft will observe the Sun, allowing coordinated observations
+of solar activity from vantage points inaccessible for Earth-orbiting
+spacecraft. Optical and UV imagers, radio burst monitors and particle
+detectors will provide space weather information and allow study
+of Earthbound coronal mass ejections from the side.
+
+
+Messenger
+---------
+
+The Messenger probe, launched in 2004, made its first Venus flyby
+on Oct 24. It passed 2990 km from the surface of Venus at 0834 UTC
+on a hyperbolic trajectory with an inclination of 116 deg
+to the Venus equator and an eccentricity of 3.27.
+
+Before the flyby Messenger's orbit around the Sun was 0.60 x 1.05 AU 
+inclined 2.6 deg to the ecliptic. Now it is 0.55 x 0.90 AU
+with an increased inclination of 8.1 deg.
+
+
+ MESSENGER
+ Date               Flyby          Closest Approach
+ 2004 Aug  3 0616   Launch          
+ 2005 Aug  2 1913   Earth-1        2336 km
+ 2006 Oct 24 0834   Venus-1        2990 km
+ 2007 Jun  6        Venus-2         300 km
+ 2008 Jan 14        Mercury-1       200 km
+ 2008 Oct  6        Mercury-2       200 km
+ 2009 Sep 30        Mercury-3       200 km
+ 2011 Mar 18        Mercury-4       200 km, orbit insertion
+
+Sinosat-2
+---------
+
+Xinnuo-2 (Sinosat-2) was launched on Oct 28 by a Chang Zheng 3B
+rocket into geostationary transfer orbit. It is the first of a
+new heavy Chinese communication satellite series, DFH-4,
+with a communications payload by Alcatel Alenia.
+
+Xinnuo-2 and the CZ-3B third stage were placed in a 186 x 35797 km x
+28.7 deg  geostationary transfer orbit. After the first burn of
+Sinosat-2's apogee motor its orbit was 3372 x 35827 km x 18.1 deg. It
+reached geosynchronous orbit at 92E on Nov 5.
+
+
+XM Radio-4
+----------
+
+Boeing Sea Launch orbited another Zenit-3SL on Oct 30 (reaching initial
+parking orbit early on Oct 31). The rocket put a Boeing 702 class
+satellite for XM Satellite Radio into geostationary transfer orbit. XM
+Radio-4, or XM Blues, joins the company's existing fleet of three
+satellites (XM Rock, Roll and Rhythm). By Nov 13 Blues was in
+geosynchronous drift orbit over 111 deg W.
+
+DMSP
+----
+
+A Boeing Delta 4M launched a US Air Force weather satellite on Nov 4.
+The Defense Meteorological Satellite Program (DMSP) Block 5D-3
+spacecraft S-17, which became F-17 (Flight 17) when assigned to a
+launch, reached an 846 x 850 km x 98.8 deg sun-synchronous orbit after a
+single burn of the Delta 4 second stage, and separated at 1411 UTC. The
+Delta 4M could have launched a much heavier satellite and the stage had
+a lot of fuel left over. This was meant to be  used to nosedive the used
+rocket stage into the Pacific with impact at around 1550 UTC, leaving
+only the DMSP in orbit together with two instrument covers from the main
+OLS (Operational Linescan System) imager. Justin Ray of
+spaceflightnow.com confirms to me that the stage was indeed tracked to
+reentry. However, SpaceTrack has now cataloged  a large number of debris
+objects in orbit; this debris appears to have been generated around the
+time of the Delta deorbit, suggesting some kind of problem during the
+firing. The payload appears to be operating correctly although NOAA
+reports indicate a safemode associated with software issues.
+
+In addition to the OLS, DMSP S-17 also carries a microwave
+imager-sounder, ultraviolet spectrometers, particle detectors, a
+magnetometer, and a laser threat warning sensor which will alert
+operators if the spacecraft is attacked with a laser.
+
+Mass of DMSP F-17 is probably about 1200 kg, slightly smaller than
+its civilian cousin NOAA 18. Both DMSP and NOAA satellites are
+now operated by the NOAA weather agency.
+
+Badr 4
+------
+
+Arabsat 4B, also known as Badr 4, was launched from Baykonur
+on Nov 8 by a Proton-M with a Briz-M upper stage.
+Dry mass of the EADS-Astrium Eurostar 2000+ satellite
+is 1487 kg; fully fuelled it is 3304 kg. It provides
+Ku-band communications for the Arab League.
+
+The Proton reached a near-orbital -390 x 173 km x 51.5 deg
+trajectory; the Arabsat/Briz separated and at the end of the first
+Briz burn was in a low 173 x 174 km orbit. Briz made 4 burns
+and deployed Arabsat into a 3127 x 35802 km x 14.1 deg orbit.
+It reached a near-geosynchronous  35593 x 35782 km x 0.1 deg orbit
+on Nov 16.
+
+Erratum
+-----------
+The Sep 25 GPS launch was SVN 52, not SVN 58.
+
+GPS 58
+------
+
+GPS navigation spacecraft SVN 58, the 3rd of the IIRM type, was launched by a
+Boeing Delta 2 on Nov 17.
+
+Kosmos-2423
+-----------
+
+Russia's Don spy satellite, Kosmos-2423, was destroyed in orbit
+on Nov 17 at the end of its mission.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep  9 0700?  SJ-8              Chang Zheng 2C  Jiuquan          Micrograv.  35A
+Sep  9 1515  Atlantis (STS-115) Shuttle         Kennedy LC39B    Spaceship   36A
+Sep 11 0435   IGS Optical-2     H2A             Tanegashima      Imaging     37A
+
+Sep 12 1602   Zhongxing-22A     Chang Zheng 3A  Xichang          Comms       38A
+Sep 14 1341   Kosmos-2423       Soyuz-U         Baykonur LC31    Imaging     39A
+Sep 18 0408   Soyuz TMA-9       Soyuz-FG        Baykonur LC1     Spaceship   40A
+Sep 22 2136   Hinode   )        M-V             Uchinoura        Astronomy   41A
+              HIT-SAT  )                                         Tech        41F
+              SSSAT    )                                         Tech        41D?
+Sep 25 1850   GPS 52            Delta 7925-9.5  Canaveral SLC17A Navigation  42A
+Oct 13 2056   DirecTV 9S  )     Ariane 5ECA     Kourou ELA3      Comms       43
+              Optus D1    )                                      Comms       43
+              LDREX 2     )                                      Tech        43
+Oct 19 1628   METOP A           Soyuz-2-1A      Baykonur LC31    Weather     44A
+Oct 23 1340   Progress M-58     Soyuz-U         Baykonur LC1     Cargo       45A
+Oct 23 2334   SJ-6-2A )         Chang Zheng 4B  Taiyuan          Sigint?     46A
+              SJ-6-2B )                                          Sigint?     46B
+Oct 26 0052   STEREO Ahead  )   Delta 7925-10L  Canaveral SLC17B Science     47A
+              STEREO Behind )                                    Science     47B
+Oct 28 1620   Xinnuo 2          Chang Zheng 3B  Xichang          Comms       48A
+Oct 30 2349   XM-Blues          Zenit-3SL       SL Odyssey       Radio       49A
+Nov  4 1353   DMSP 5D-3 F-17    Delta 4M        Vandenberg SLC6  Weather     50A
+Nov  8 2001   Badr 4            Proton-M/Briz-M Baykonur LC200/39 Comms      51A
+Nov 17 1912   GPS 58            Delta 7925-9.5  Canaveral SLC17A Navigation  52A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

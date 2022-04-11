@@ -1,0 +1,71 @@
+Jonathan's Space Report
+No. 498                                             2003 Apr 26, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+On the International Space Station, the Progress M-47 cargo craft is
+docked to the aft Zvezda port and the Soyuz S/N 211 (Soyuz TMA-1)
+transport ship is docked to the Pirs module. Soyuz spacecraft S/N 212
+(Soyuz TMA-2)  was launched on April 26 carrying the new Expedition 7
+crew of Yuriy Malenchenko and Edward Lu.  Launch aboard the Soyuz-FG
+rocket was at 0353 UTC on Apr 26 from complex 1, pad 5 at Baykonur. The
+third stage ignited at 0358 UTC and shut down at 0402 UTC with a
+successful orbit insertion. Soyuz TMA-2 will dock at the Zarya nadir
+port on the Station.
+
+Recent Launches
+---------------
+
+Kosmos-2397 was launched on Apr 24 from Baykonur by a Krunichev Proton-K
+with an Energiya Blok-DM2 upper stage. The DM2 first burn placed the
+payload complex into a 47 degree geostationary transfer orbit; the
+second burn is believed to have occurred at 1100 UTC and put Kosmos-2397 into
+geostationary orbit (however, US tracking had not released any new
+orbital data as of Apr 25). Kosmos-2397 is believed to be a 71Kh6 US-KMO
+geostationary early warning satellite built by NPO Lavochkin.
+
+NASA has announced that the first Mars Exploration Rover launch has been
+delayed by one week. They also announced that the delay will probably
+make the second rover miss its launch window - however I think they
+didn't mean to say this, but just confused the (in the context,
+completely opposite) meanings of the verbs "effect" and "affect".
+Meanwhile, the SIRTF launch has been delayed to August.
+
+Amateur observers report that the secret Japanese IGS-1b satellite
+lowered its perigee on Apr 22. Amateur tracking puts IGS-1a in a 483 x
+495 km x 97.4 deg orbit and IGS-1b at 489 x 500 km x 97.4 deg.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar 11 0059   DSCS III A-3      Delta IVM       Canaveral SLC37B Comms       08A
+Mar 28 0127   IGS Optical-1 )   H2A 2024        Tanegashima      Imaging     09A
+              IGS Radar-1   )                                    Radar       09B
+Mar 31 2209   GPS SVN 45        Delta 7925      Canaveral SLC17A Navigation  10A
+Apr  2 0153   Molniya-1T        Molniya-M       Plesetsk         Comms       11A
+Apr  8 1343   Milstar 6         Titan 4 Centaur Canaveral SLC40  Comms       12A
+Apr  9 2252   Galaxy 12  )      Ariane 5G       Kourou ELA3      Comms       13B
+              Insat 3A   )                                       Comms       13A
+Apr 12 0047   Asiasat 4         Atlas 3B/SEC    Canaveral SLC36B Comms       14A
+Apr 24 0423   Kosmos-2397       Proton-K/DM2    Baykonur LC81/24 Early Warn  15A
+Apr 26 0353   Soyuz TMA-2       Soyuz-FG        Baykonur LC1/5   Spaceship   
+        
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,214 @@
+Jonathan's Space Report
+No. 377                                          1998 Oct 24 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+STS-95 is due to be launched on Oct 29. Meanwhile, Endeavour has been
+moved to pad 39A in preparation for STS-88 with a Space Station module
+payload. At Mir, the crew are awaiting the launch of the next Progress
+cargo ferry.
+
+Erratum
+-------
+
+Oops! John Glenn is Col. USMC (Ret.), not USAF of course. Apologies to
+the hundreds of Marines and their friends who emailed to remind me of
+this.
+
+
+Recent Launches
+---------------
+
+*Ariane 5 - fully successful flight
+
+The third Ariane 5 test vehicle was launched on Oct 21 from the Ensemble
+de Lancement Ariane No. 3 (ELA 3) at the Centre Spatial Guyanais,
+Kourou. The Ariane 5, Europe's largest ever rocket, consists of two EAP
+solid boosters, the EPC core stage powered by the LOX/LH2 Vulcain
+engine, and the EPS (L9) upper stage with storable propellants.
+
+Ariane 503 carries the ARD and Maqsat-3 payloads. Maqsat-3, built by
+Kayser-Threde, is a dynamic model of Eutelsat W2, the payload originally
+scheduled for the Ariane 503 mission. Mass is 2730 kg. Size is 2.0m
+diameter, 2.5m long. The satellite is not instrumented except for a few
+shock transducers and strain gauges to monitor the launcher environment.
+Maqsat-3 will remain attached to the EPS stage in orbit. It is launched
+inside the Speltra adapter.
+
+The ARD (Atmospheric Reentry Demonstrator) spacecraft, built by
+Aerospatiale for ESA, will make a suborbital flight. It is launched
+upsidedown on top of the Speltra and is jettisoned before the EPS upper
+stage ignites. The ARD shell is an 80 percent scale model of the Apollo
+Command Module. ARD carries GPS recievers, a SARSAT beacon, and a TDRS
+relay system. It features an experimental heat shield 2.8m in diameter,
+a recovery system with three 23-m parachutes, and 7 of DASA's 400N
+hydrazine thruster systems for attitude control.
+
+Launch was at 1637:21 UTC. At T+2:23, the EAP boosters separated at 72
+km altitude. The nose fairing separated at T+3:13. The EPC engine cutoff
+at T+9:53 and EPC separated from the EPS. At T+12:02, the ARD separated
+from the EPS/Speltra/Maqsat-3. ARD and the EPC stage entered a 1 x 830
+km orbit. This doesn't count as truly in orbit, since the low perigee
+ensures reentry on the first revolution. ARD reached apogee of 830 km at
+T+43:21 as it arced around the world to a landing at 153.35W, 3.69N in
+the Pacific at T+1h43min (Thanks to Stefan Barensky for the position).
+
+At T+12:43 the Speltra adapter cover separated revealing Maqsat-3. At
+T+15:14 the EPS stage Aestus engine ignited; it burned until T+31:00. At
+this point on a normal mission the satellite would separate from the
+EPS, but to avoid extra space debris Maqsat did not do this. The
+EPS/Maqsat-3 satellite is in a 1027 x 35863 km x 7.0 deg geostationary
+transfer orbit.
+
+Ariane 5 is now qualified for operational use. Meanwhile, an Ariane
+4 is due for launch on Oct 28 on mission V113.
+
+* Orbital's Pegasus launches SCD-2
+
+Brasil's SCD-2 satellite was launched on Oct 23 by a Pegasus, mission
+P-33. This flight used the old `standard' Pegasus in its L-1011
+configuration, not the Pegasus XL which has been used for all recent
+missions. Orbital's L-1011 Stargazer aircraft took off from the Cape
+Canaveral Air Station's Skid Strip (Runway 02/20, 28.2N 80.6W) at 2305
+UTC on Oct 22 and flew to the drop zone near Cape Canaveral (in the
+Mayport, Florida, Warning Area) at 29.0N 78.3W.  This is the first
+Pegasus launch staged from Cape Canaveral Air Station; the SCD-1 launch
+in 1993 took off from the Shuttle Landing Facility (RW15/33) at the NASA
+Kennedy Space Center next door and probably (can anyone confirm?) used
+the same drop location.
+
+The three stage Pegasus ignited 5 seconds after drop. The first  stage
+carried a NASA experiment attached to its right wing, to study
+hypersonic boundary layer separation. The third stage reached an orbit 
+of 743 x 768 km x 25.0 deg with the SCD-2 satellite. This orbit is very
+close to the planned one, which will be a relief for Orbital after
+difficulties on the last mission, when a second stage problem led to a
+low initial orbit that could only be corrected because of the presence
+of a Primex hydrazine fourth stage not carried on the current mission.
+The next Pegasus mission, an XL, will launch NASA's SWAS astronomy
+satellite.
+
+The 115 kg Satelite de Coleta de Dados (Data Collection Satellite)
+relays data from environmental monitoring stations. It is owned and
+operated by INPE, the Instituto Nacional de Pesquisas Espacias de
+Brasil.  As well as the SCD-1 and SCD-2 satellites, INPE launched
+an SCD-2A test satellite in Nov 1997 on the first, unsuccessful
+flight of INPE's own VLS launch vehicle.
+
+
+* Deep Space 1 on its way
+
+NASA carried out its first launch in the New Millenium Program (NMP) on
+Oct 24. Deep Space 1 was placed in solar orbit by a Boeing Delta 7326
+rocket. Delta 7326 is a new variant of Delta II which uses three solid
+Alliant GEM-40 strapons, the standard Delta II   first and second
+stages, and a Thiokol Star 37FM solid motor as the third stage. This
+third stage is smaller than the usual Delta II Star 48 third stage, but
+much more powerful than the earlier Star 37E model used as Delta's third
+stage in the 1970s and 1980s.
+
+Ejected from the Delta second stage was the SEDSAT microsatellite, built
+by the Huntsville, Alabama chapter of SEDS (the Students for the
+Exploration and Development of Space). SEDSAT has two amateur radio
+transponders and an earth imaging camera.
+
+Delta entered a 185 km parking orbit, then fired again to enter a 174 x
+2744 km x 28.5 deg orbit. The third stage separated and accelerated to
+solar orbit with DS1, while the second stage burned again to a planned
+556 x 1042 km x 31.5 deg orbit with SEDSAT. DS1's orbit is around
+1.0 x 1.3 AU with an inclination to the ecliptic around zero,
+but I haven't been able to find solar orbital elements or state vectors
+to give an accurate orbit. (1 AU = mean Earth orbit radius = 149.6
+million km).
+
+The 475 kg Deep Space 1 probe was built by Spectrum Astro for JPL using
+the SA-200HP bus. Its mission is to test new technology for  future
+probes, and the main experiment is a xenon ion propulsion drive. DS1
+will fly past the high inclination Mars-crossing minor planet 1992 KD,
+which is about 2 to 5 km in diameter. 1992 KD's orbit  comes to within
+1.33 AU of the Sun, just within the perihelion of Mars' orbit (1.38 AU).
+ Although JPL is describing 1992 KD as a Near Earth Object (NEO) of the
+subclass called Amor asteroids, the IAU Minor Planet Center's definition
+of an Amor requires a perihelion of 1.30 AU or less, so officially it
+doesn't quite count as an NEO.
+
+An additional 2001 flyby of Comet 19P/Borrelly is also an option. That
+comet has a similar perihelion distance and inclination but its orbit is
+much more elliptical, so the flyby speed would be much higher. By that
+time DS1's engine will have moved it to an orbit of around 1.12 x 1.42 AU.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  8 2113   Iridium SV77)     Delta 7920    Vandenberg SLC2   Comsat     51E
+              Iridium SV79)                                     Comsat     51D
+              Iridium SV80)                                     Comsat     51C
+              Iridium SV81)                                     Comsat     51B
+              Iridium SV82)                                     Comsat     51A
+Sep  9 2029   Globalstar FM5 )  Zenit-2       Baykonur          Comsat     F05
+              Globalstar FM7 )                                  Comsat     F05
+              Globalstar FM9 )                                  Comsat     F05
+              Globalstar FM10)                                  Comsat     F05
+              Globalstar FM11)                                  Comsat     F05
+              Globalstar FM12)                                  Comsat     F05
+              Globalstar FM13)                                  Comsat     F05
+              Globalstar FM16)                                  Comsat     F05
+              Globalstar FM17)                                  Comsat     F05
+              Globalstar FM18)                                  Comsat     F05
+              Globalstar FM20)                                  Comsat     F05
+              Globalstar FM21)                                  Comsat     F05
+Sep 16 0631   PAS 7             Ariane 44LP   Kourou ELA2       Comsat     52A
+Sep 23 0506   Orbcomm FM21 )    Pegasus XL/HAPS Wallops I       Comsat     53A
+              Orbcomm FM22 )                                    Comsat     53B
+              Orbcomm FM23 )                                    Comsat     53C
+              Orbcomm FM24 )                                    Comsat     53D
+              Orbcomm FM25 )                                    Comsat     53E
+              Orbcomm FM26 )                                    Comsat     53F
+              Orbcomm FM27 )                                    Comsat     53G
+              Orbcomm FM28 )                                    Comsat     53H
+Sep 28 2341   Molniya-1T?       Molniya-M      Plesetsk         Comsat     54A
+Oct  3 1004   STEX   )          ARPA Taurus    Vandenberg 576E  Technol.   55A
+              ATEX   )
+Oct  5 2251   Eutelsat W2 )     Ariane 44L     Kourou ELA2      Comsat     56A
+              Sirius 3    )                                     Comsat     56B
+Oct  9 2250   Hot Bird 5        Atlas IIA      Canaveral SLC36B Comsat     57A
+Oct 20 0719   UHF F/O F9        Atlas IIA      Canaveral SLC36A Comsat     58A
+Oct 21 1637   ARD     )         Ariane 5       Kourou ELA3      Technol.  
+              Maqsat 3)                                         Technol.   59A
+Oct 23 0002   SCD-2             Pegasus        Canaveral RW02/20 Rem.Sens. 60A
+Oct 24 1208   Deep Space 1       Delta 7326    Canaveral SLC17A  Probe    61A?
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  
+OV-103 Discovery       LC39B         STS-95  Oct 29
+OV-104 Atlantis        OPF Bay 2     ?
+OV-105 Endeavour       LC39A         STS-88  Dec  3
+
+MLP2/RSRM-68/ET-98/OV-103      LC39B     STS-95
+MLP3/RSRM-67/ET-97/OV-105      LC39A     STS-88
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+
+

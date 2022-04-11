@@ -1,0 +1,236 @@
+Jonathan's Space Report
+No. 686                                                       2013 Sep 23, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 37 is underway with commander Fyodor Yurchikin, FE-5 Luca Parmitano and
+FE-6 Karen Nyberg.
+
+Ferry ship Soyuz TMA-09M is at Rassvet. Cargo ship ATV-4 is at the Zvezda module and
+Progress M-20M is at the Pirs module.
+
+On Sep 18 the second Antares 110 rocket took off from the Mid Atlantic
+Regional Spaceport (MARS) at Wallops Island and placed the first Orbital
+Sciences Cygnus cargo ship in orbit. Cygnus #1 is named SS G. David Low
+after the late astronaut and Orbital employee (1956-2008); Low was also
+the son of a former NASA administrator.
+
+The 4127 kg Cygnus spacecraft consists of a pressurized cargo module
+(PCM), serial PCM-0, built by Thales Alenia in Torino, and a service
+module (SM) built by Orbital/Dulles. The craft carries 700 kg of cargo
+on this mission. It is scheduled to rendezvous with the ISS. Intiial
+orbit was 261 x 277 km x 51.6 deg; at 2007 UTC orbit was raised to 274 x
+384 km. On Sep 22 the first attempt at rendezvous was cancelled due to a software
+problem in the GPS navigation system, and Cygnus passed ISS at a distance of
+4 km at 0845 UTC.
+
+Voyager 1
+---------
+
+JPL and NASA have reported that Voyager 1 appears to have left the heliosphere and
+entered a transitional part of the interstellar medium. Plasma wave measurements
+show that the ambient plasma density increased after 2012 Aug to a value consistent
+with being the ISM, consistent with the change in energetic particle density on
+2012 Aug 25.
+
+Voyager is outside the solar atmosphere with escape velocity, but it has
+NOT yet 'left the Solar System' and won't do for many centuries yet.
+JPL were VERY careful not to use the words 'left the Solar System' but the media
+quite understandably elided the technical distinction; we're all pedants here, though,
+so let's be careful.
+
+Gravitationally, the System stretches out to 1000 times Voyager's
+current distance until the galactic tidal potential dominates. For a
+smaller scale analogy, think of space probe launched from Earth on an
+escape trajectory. Leaving parking orbit, it passes through the
+geostationary belt and then out to the magnetopause at a few tens of
+thousands of km, where it it emerges into the interplanetary medium. But
+its orbit is still influenced by the Earth rather than the Sun until it
+leaves the sphere of influence at around 1 million km ( 1.5 million if
+you use the equipotential surface marked by the L1 point).
+
+Nevertheless, VGR-1 is the first human artifact to directly taste the interstellar air,
+a milestone worth celebrating.
+
+LADEE
+-----
+
+Following the first perigee burn on Sep 13 at 1641 UTC, LADEE's orbit
+changed from 2059 x 289461 km x 33.9deg to 2063 x 325450 km x 35.4 deg.
+LADEE's second perigee burn was on Sep 21 at 1153 UTC. It was expected
+to raise the orbit to 1352 x 373000 km x 38.2 deg, reaching apogee
+around Sep 26, and perigee on Oct 1. On the following apogee on Oct 6
+LADEE will enter lunar orbit.
+
+Cassini
+-------
+
+Cassini flew past Titan on the T-94 flyby at a height of 1400 km at 0745
+UTC Sep 12. The spacecraft is now in a 1.14 x 2.65 Mkm x 52.0 deg orbit
+around Saturn; this is the highest its periapsis has been during the
+mission. Listed here are the targeted flybys so far this year.
+  
+   Date UTC          Rev  Target   Flyby  height
+   
+   2013 Feb 17 0156  181  Titan    T-89  1978 km
+   2013 Mar  9 1819  183  Rhea     R-4    997 km
+   2013 Apr  5 2143  185  Titan    T-90  1400 km
+   2013 May 23 1733  190  Titan    T-91   970 km
+   2013 Jul 10 1323  194  Titan    T-92   964 km
+   2013 Jul 26 1158  195  Titan    T-93  1400 km
+   2013 Sep 12 0745  197  Titan    T-94  1400 km
+
+Gonets-M
+--------
+
+Three Gonets-M low orbit communications satellites were launched on Sep 11
+by a Rokot vehicle with a Briz-KM upper stage. They reached a 1494 x 1510 km x 82.5 deg
+orbit.
+
+
+EPSILON
+-------
+
+Japan's new solid fuel launch vehicle, Epsilon, made a successful first flight 
+from Uchinoura on Sep 14. It placed the 340 kg SPRINT-A satellite in orbit.
+SPRINT-A is the Spectroscopic Planet Observatory for Recognition of Interaction of
+Atmosphere, carrying a 0.20-meter silicon carbide mirror with 
+an extreme ultraviolet spectrometer observing in the 550 to 1450 Angstrom range,
+which will be used to study the exospheres of planets in our solar system.
+After the launch, SPRINT-A was renamed "Hisaki" after Cape Hisaki (which I believe
+is at 31.28N 131.13E, but welcome corrections).
+
+The Epsilon rocket uses the H2A's solid rocket booster SRB-A3 as its first stage.
+Second stage uses the M-34c solid motor, which is an improved version of the third
+stage of the old ISAS M-V rocket. Third stage is the KM-V2b, derived from the
+KM-V2 kick motor used as the insertion stage for the Hayabusa probe in 2003.
+Final stage is a new liquid propulsion Post-Boost System (PBS; in Japanese,
+Kogata ekitai suishin-kei, small liquid propulsion system) with 8 50N thrusters.
+
+Hisaki is in a 952 x 1155 km x 29.7 deg orbit; the PBS fourth stage is
+in an 847 x 1115 km x 29.7 deg orbit; and the third stage is in an 808 x
+973 km x 29.8 deg orbit.
+
+
+AEHF
+----
+
+The third Advanced EHF communications satellite for the US Air Force was launched
+on Atlas AV-041 on Sep 18. AV-041 reached a 178 x 1041 km x 27.5 deg parking
+orbit followed by a 225 x 50057 km x 20.52 deg supersynchronous deployment orbit.
+The satellite has a Japanese IHI BT-4 bipropellant thruster and an Aerojet
+electric propulsion system.
+
+Deep Impact
+-----------
+
+The Deep Impact/EPOXI mission has come to an end. Last contact with the Deep Impact Flyby
+spacecraft was on Aug 11, and attempts to revive it have been abandoned.
+In Oct 2012 the probe was targeted towards minor planet (163249) 2002 GT, which
+it might have reached in 2020. DIF is in a 0.97 x 1.21 AU x 3.2 deg heliocentric orbit.
+
+
+
+Erratum - Amos
+--------------
+
+Mass of Amos 4 at launch was 4260 kg. It turns out that the object initially tracked
+as Amos 4 was actually the DM-SLB, and the orbit quoted in JSR 685 was the post depletion
+burn orbit of that stage. Amos 4's initial perigee was around 3090 km. Thanks to
+Andrey Krasil'nikov for these corrections.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Aug  3 1948   Konoutori 4        H-IIB            Tanegashima LP2   Cargo       40A
+Aug  8 0029   WGS 6              Delta 4M+(5,4)   Canaveral SLC37   Comms       41A
+Aug 22 1439   Arirang-5          Dnepr            Yasniy Sh370/13   Imaging     42A
+Aug 28 1803   USA 245            Delta 4H         Vandenberg SLC6   Imaging     43A
+Aug 29 2030   Es'hail 1  )       Ariane 5ECA      Kourou ELA3       Comms       44A
+              GSAT-7     )                                          Comms       44B
+Aug 31 2005   AMOS 4             Zenit-3M         Baykonur LC45     Comms       45A
+Sep  1 1916   Yaogan 17     )    Chang Zheng 4C   Jiuquan LC603     SIGINT      46A
+              YW-17 subsat 1)                                       SIGINT      46B
+              YW-17 subsat 2)                                       SIGINT      46C
+Sep  7 0327   LADEE              Minotaur V       Wallops I. LA0B   Lunar probe 47A
+Sep 11 2323   Gonets-M No. 14 )  Rokot            Plesetsk LC133/3  Comms       48A
+              Gonets-M No. 16 )                                     Comms       48B
+              Gonets-M No. 17 )                                     Comms       48C
+Sep 14 0500   Hisaki             Epsilon          Uchinoura         Astronomy   49A
+Sep 18 0810   AEHF 3             Atlas V 531      Canaveral SLC41   Comms       50A
+Sep 18 1458   Cygnus Demo        Antares 110      Wallops I. LA0A   Cargo       51A
+	      
+Suborbital launches
+-------------------
+
+
+The Missile Defense Agency's FTO-01 exercise on Sep 10 involved the launch of
+the first eMRBM extended-medium range ballistic missile target from a C-17 aircraft
+over the Pacific, intercepted by a THAAD missile launched from Meck Island on Kwajalein
+Atoll. The eMRBM uses two SR-19 solid motors (retired Minuteman second stages) and
+is integrated at Lockheed Martin's Courtland, Alabama factory.
+Another target was launched at the same time from Wake Island; the type of rocket
+is not known but is probably another variant using SR-19 motors. It was intercepted
+by an Aegis/Standard Missile-3 launched from the USS Decatur; a second THAAD launch
+from Meck was also sent to intercept it in case the Aegis missed. Two more
+Aegis launches, of SM-3 Block IB missiles, took place on Sep 19, against
+an ARAV-C++ separating target (probably a Talos-Castor rocket) launched from Kauai.
+
+I've removed the Aug 15 PAC-3 target launch as it seems likely it involved a lower
+altitude, smaller endo-atmospheric rocket.
+
+A Bulava missile launch from the submarine K-550 Aleksandr Nevskiy on Sep 6
+was meant to fly from the White Sea to the Kura range in Kamchatka, but 
+the second stage failed (http://russianforces.org). 
+It's not clear whether the flight made it out of the atmosphere.
+
+Apparent high altitude rocket burns were observed from the Canary Islands
+on Sep 10. In the 1970s Poseidon MIRV reentries were observed in this area,
+and I speculate that the event may represent a classified Trident missile
+launch.
+
+The University of Queensland's Scramspace 1 hypersonic research payload
+was launched 1115 UTC Sep 18 from Andoya by the German space agency DLR,
+but the first stage of the VS30/Orion rocket failed and it did not reach
+space. In a new winning entry for 'most ridiculous PR euphemism', trying to
+avoid using the word 'crashed', the  statement from the University said
+that the experiment "has been discontinued".
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Aug  8 1810   NASA 36.239DS    Black Brant IX      White Sands       Solar UV     280
+Aug 12 0345   Prithvi RV       Prithvi II          Chandipur         Training     100?
+Aug 13 1000   Rocksat-X        Terrier Imp. Mal.   Wallops I         Education    151
+Sep  3 0616   Radar target     Silver Sparrow      F-15, Med. Sea    Target       150?
+Sep  6 0520   Bulava RV        Bulava            K-550, White Sea    Test         100?
+Sep 10        MBRV?            Unknown             Wake Island       Target       300?
+Sep 10        MBRV?            eMRBM               C-17, Pacific     Target       300?
+Sep 10        Aegis KV         SM-3              USS Decatur,Pacific Interceptor  150?
+Sep 10        THAAD KV         THAAD               Meck Island       Interceptor  100?
+Sep 10        THAAD KV         THAAD               Meck Island       Interceptor  100?
+Sep 10 2110?  RV?              Trident D-5??    Atlantic Ocean    Test?     
+Sep 15 0920   Agni RV          Agni V              Wheeler I. IC4    Test         800?
+Sep 19 0030   Target           ARAV-C++            Kauai             Target       150?
+Sep 19 0032?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  150?
+Sep 19 0032?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  150?
+Sep 22 1001   Mk 21 RV?        Minuteman 3         Vandenberg LF10   Op. test    1300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

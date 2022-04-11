@@ -1,0 +1,194 @@
+Jonathan's Space Report
+No. 587                                          2007 Oct 30, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+The Expedition 15 crew of Fyodor Yurchikin and Oleg Kotov, and visiting
+Malaysian astronaut  Sheikh Muszaphar Shukor, undocked from the
+Station's Zvezda port in Soyuz TMA-10 at 0714 UTC on Oct 21. Soyuz
+TMA-10 fired its deorbit engines at 0947 and, after a ballistic reentry,
+landed in Kazakhstan at 1036 UTC. The Expedition 16 crew of Peggy
+Whitson (Commander), Yuriy Malenchenko (Flight Engineer 1) and Clay
+Anderson (Flight Engineer 2) remained aboard the Station. Spaceship
+Soyuz TMA-11, docked at the Zarya port, serves as the emergency ferry
+ship for the Expedtion 16 crew. The Progress M-61 cargo ship is docked
+at the Pirs port.
+
+Orbiter OV-103 Discovery took off from pad 39A at Kennedy Space Center 
+on Shuttle mission STS-120, Station flight 10A, at 1538 UTC on Oct 23.
+Discovery, commanded by astronaut Pam Melroy, docked with the PMA-2 port
+on the Destiny module at 1240 UTC on Oct 25.  Here is my estimated
+cargo manifest for the mission:
+
+STS-120 Cargo Manifest
+----------------------
+                           Bay      Mass (kg)
+Orbiter Docking System     1-2      1800
+ EMU 3004                            130?
+ EMU 3003                            130?
+SPDU                       3P        100?  Station Power Distribution Unit
+SASA FSE                   4S        100?  Fixture for return of S-band Antenna
+PDGF                       5P         50?  Power/Data Grapple Fixture for Node-2
+MBSU                       6S        238   Main Bus Switching Unit
+                                     122   MBSU adapter
+SPDU                       7P        100?  Station Power Distribution Unit
+Node-2 Harmony             8-12    14300
+OBSS 203?                  Sill      450?
+RMS 301?                   Sill      410?
+-----------------------------------------
+                                   17390 kg
+
+At 1001 UTC on Oct 26 the Quest airlock was depressurized and the hatch opened,
+and astronauts Parazynski and Wheelock began the first STS-120 spacewalk
+in EMU suits 3004 and 3003 respectively. They removed an antenna from
+the Z1 truss and stowed it in the payload bay, prepared the P6 truss
+for separation from Z1, and supervised the installation of the Node-2
+Harmony module. Harmony was unberthed from Discovery's payload bay at 1340 UTC
+by the Station Canadarm-2, and installed on Node-1 Unity at 1538 UTC.
+The astronauts reentered Quest, closing the hatch at 1558 UTC and repressurizing
+the airlock at 1616 UTC.
+
+On Oct 28 astronauts Parazynski and Tani, in suits 3004 and 3018, 
+depressurized Quest at 0927 UTC, opening the hatch at 0932 UTC. At 1103
+UTC the P6 truss was unberthed from Z1 and moved to a park position. The
+spacewalkers installed handrails and a grapple fixture on Harmony and
+inspected the malfunctioning Solar Array Rotary Joint (SARJ) on the
+S3/S4 truss. They closed the hatch at 1600 UTC and repressurized the
+airlock at 1605 UTC.
+
+On Oct 29 two more radiators were deployed from the S1 truss at 0530 and
+0550 UTC. The Shuttle RMS grappled P6 at 0704 UTC and the Station arm
+released it at 0832 UTC; then the Station arm on its MBS truck moved along
+the truss, and regrappled P6 at 1314 UTC, with the Shuttle RMS releasing
+it again at 1321 UTC; the following morning, the Station arm moved P6 to
+near the end of P5.
+
+On Oct 30 at 0841 UTC the Quest was again depressurized for the third
+spacewalk, this time by Parazynski and Wheelock. The hatch was open at 0844 UTC
+and the astronauts supervised the mating of P6 to P5 which was completed at
+1110 UTC. A radiator was deployed on P6 at 1253 UTC; Wheelock transferred
+a spare Main Bus Switching Unit (MBSU) from the Shuttle bay to the External
+Stowage Platform 3 (ESP3) on the Station at 1430 UTC. From 1441 to 1532 UTC
+the P6 solar array wing 2B was redeployed; array 4B on the other
+side of P6 was deployed starting at 1609 UTC but at 1624 UTC a tear
+developed in the solar array and the process was halted. The astronauts
+had reentered the airlock, closing the hatch at 1545 UTC and repressurizing
+at 1553 UTC.
+
+GPS 55
+------
+
+GPS satellite SVN 55, the Block IIR(M)-17 launch, was orbited on Oct 17.
+This is the 4th IIR(M) launch. ULA (United Launch Alliance)
+launched the Boeing Delta 7925 into a 197 x 20368 km x 40.0 deg transfer
+orbit. The solid apogee motor was fired on Oct 19 to put the GPS satellite
+in a 20149 x 20213 km x 54.9 deg orbit.
+
+Kosmos-2430
+------------
+
+An Oko early warning satellite was launched on Oct 23 from Plesetsk into
+a 521 x 39057 km x 62.8 deg orbit and named Kosmos-2430. The Oko satellites
+are built by NPO Lavochkin.
+
+Chang'e-1
+---------
+
+China's first deep space probe was launched on Oct 24. Chang'e-1 
+is designed to enter lunar orbit; its initial orbit was
+221 x 50602 km x 31.0 deg, and by Oct 26 this had been raised to 594 x 71317 km.
+
+
+Kosmos-2431/32/33
+-----------------
+
+Three Uragan-M navigation satellites, Nos. 718, 719 and 720, were
+launched to replenish the Glonass navigation system. A Krunichev
+Proton-K rocket with an Energiya DM-11S861 upper stage put the three
+satellites in 19120 x 19130 km 64 deg orbits. The satellites
+were given Kosmos cover names after deployment.
+
+Globalstar
+----------
+
+Four more Globalstar satellites were launched by Soyuz-FG/Fregat on Oct
+20. Globalstar FM 66, 67, 68 and 70 are the last of the first generation
+constellation. The satellites were inserted into 913 x 930 km x 52.0 deg
+orbits. The Soyuz third stage entered a 187 x 218 km orbit; the Fregat
+fourth stage made a first burn to around 200 x 930 km, a second burn to
+circularize the orbit and deploy the satellites, and a third burn to
+deorbit itself over the Pacific.
+
+
+Ariane
+-------
+
+On Oct 5 at 2328 UTC, the EPS third stage of Ariane 5GS vehicle L526
+reignited in the first in-orbit restart test of an Aestus engine. The
+test, which followed successful deployment of the Intelsat IS-11 and
+Optus D-2 satellites, sets ESA up for the launch of the Jules Verne ATV
+cargo ship in 2008. The burn lowered the orbit slightly from 590 x 35790
+km to 358 x 33480 km.
+
+Erratum - Dawn
+--------------
+
+I said that Dawn's asteroid orbit insertion would be done by the hydrazine
+engines rather than the ion engines, but this is wrong. Marc Rayman writes:
+
+ Asteroid orbit insertion as well as transfers between science orbits and
+ Vesta escape all will be accomplished with the ion propulsion system. 
+ The hydrazine is principally for reaction wheel desaturation and safe
+ mode entry (including rate control after launch vehicle separation).  To
+ extend reaction wheel life, we may also fly part of the mission using
+ hydrazine for attitude control.  We do have a budget of 10 m/s for a
+ contingency orbit change maneuver with hydrazine, but the range of cases
+ in which that would be needed is small.
+
+
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep  2 1250   Insat 4CR         GSLV             SDSC             Comms      37A
+Sep  5 2243   JCSAT 11          Proton-M/Briz-M  Baykonur         Comms      F03
+Sep 11 1305   Kosmos-2429       Kosmos-3M        Plesetsk LC132/1 Navigation 38A
+Sep 14 0131   Kaguya            H-IIA 2022       Tanegashima      Moon probe 39A
+Sep 14 1100   Foton M-3  )      Soyuz-U          Baykonur         Micrograv  40A
+              YES-2      )                                        Tech       40C
+              Fotino     )                                        Tech       40
+              MASS       )                                        Tech       40
+Sep 18 1835   WorldView 1       Delta 7920       Vandenberg SLC2W Imaging    41A
+Sep 19 0326   CBERS-2B          Chang Zheng 4B   Taiyuan          Imaging    42A
+Sep 27 1134   Dawn              Delta 7925H      Canaveral SLC17B Probe      43A
+Oct  5 2202   Intelsat IS-11 )  Ariane 5GS       Kourou ELA3      Comms      44B
+              Optus D-2      )                                    Comms      44A
+Oct 10 1322   Soyuz TMA-11      Soyuz-FG         Baykonur LC1     Spaceship  45A
+Oct 11 0022   WGS SV-1          Atlas V 421      Canaveral SLC41  Comms      46A
+Oct 17 1223   Navstar GPS 55    Delta 7925       Canaveral SLC17A Navigation 47A
+Oct 20 2012   Globalstar FM66)  Soyuz-FG/Fregat  Baykonur LC31    Comms      48
+              Globalstar FM67)                                    Comms      48
+              Globalstar FM68)                                    Comms      48
+              Globalstar FM70)                                    Comms      48
+Oct 23 0439   Kosmos-2430       Molniya          Plesetsk LC16/2  Early Warn 49A
+Oct 23 1538   Discovery   )     Shuttle          Kennedy LC39A    Spaceship  50A
+              Harmony     )                                       Module     50
+Oct 24 1005   Chang'e-1         Chang Zheng 3A   Xichang         Lunar probe 51A
+Oct 26 0735   Kosmos-2431  )    Proton-K/DM2     Baykonur LC81    Navigation 52A
+              Kosmos-2432  )                                      Navigation 52B
+              Kosmos-2433  )                                      Navigation 52C
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

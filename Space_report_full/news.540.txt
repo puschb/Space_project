@@ -1,0 +1,118 @@
+Jonathan's Space Report
+No. 540                                   2004 Dec 14, Somerville, MA.
+-------------------------------------------------------------------------------
+
+No new launches for almost a month, but lots of activity in space:
+
+* Space Station
+
+Soyuz TMA-5 was reparked on Nov 29. The Ex-10 crew entered Soyuz,
+undocked it from the Pirs module at 0932 UTC and redocked it at the
+nearby Zarya module at 0953 UTC.
+
+* Cassini
+
+The Cassini spacecraft flew past Titan (Saturn VI) at 1138 UTC on Dec
+13, lowering its Saturnian orbit further to 231000 km x 3533000 km x 8.2
+deg from its previous 313000 x 4.6M km x 13.8 deg path. Only small orbit
+changes are now needed to set the Huygens probe up for its Titan entry
+on Jan 14. The Titan-B flyby was at an altitude of 1200 km above Titan's
+surface, similar to the earlier Titan-a flyby on Oct 26. At 0252 UTC on
+Dec 15, Cassini made a 72500 km flyby of Dione (Saturn IV), outside
+its gravitational sphere of influence but closer than Voyager 1's 161000
+km approach.
+
+* Swift
+
+The Swift observatory has successfully activated its Burst Alert
+Telescope. The X-ray Telescope has also made its first observations
+of the sky, but a faulty cooler means the Swift team may have to
+run the CCD detectors hot, partly compromising their sensitivity.
+They were due to open the door on the Ultraviolet/Optical Telescope on
+Dec 14.
+
+* Intelsat Americas-7
+
+Intelsat's IA-7 satellite had a power failure on Nov 28 and was briefly
+declared lost. Intelsat had recovered control of the satellite by
+Dec 4. The satellite was a Loral LS-1300 originally launched
+as Telstar 7 in Sep 1999 for Loral Skynet, the successor organization
+to AT&T's comms satellite business. It was sold to Intelsat in March
+this year.
+
+* Delta 89
+
+This is one of those items for the 'special friends of JSR...'
+
+Space Command seems to have swapped the identities of catalog number
+SSN 06127 (1972-58B) and 07832 (1972-58C), debris fragments from the
+explosion of the Delta 89 rocket. Delta 89 was launched in 1972 July
+carrying ERTS 1 (Landsat 1) to orbit. On 1975 May 22 residual propellants
+leaked together and had a party causing the rocket stage to
+explode into hundreds of debris objects.
+
+Before the explosion, Delta 89 was cataloged as object 06127 and was in
+a 632 x 909 km x 98.3 deg orbit. In 1975 Nov new elements were issued
+for 06127, now in a 486 x 691 km x 98.5 deg orbit and with a small radar
+cross section (RCS) value of about 0.2 sq m. This object reentered in
+1977 Feb. 
+
+Meanwhile, on 1975 May 29 new objects 07832 to 07876 were cataloged
+as 1975-58C to 1975-58AY in a variety of orbits from 400 x 700 km to 700
+x 1400 km. Among these, 07832 (1972-58C) had an orbit of 641 x 921 km x
+98.3 deg, a fairly small difference from the pre-explosion rocket stage,
+and a large radar cross section of 2.3 sq m. Other large RCS objects
+are 07857 (1972-58AD) with RCS of 9.3 sq m in a very similar 641 x 920
+km orbit, and 07854 (1975-58AA) with RCS of 1.1 sq m in a 651 x 910 km
+orbit. This compares with unexploded Delta stages from the same era with
+RCS values from 6 to 10 sq m. 
+
+The last elements issued for 06127 had been on 1977 Feb 10 in a 311 x
+330  km orbit. On 2004 Nov 20, object 07832's orbit finally became lower
+than this and four days later Space Command stopped issuing orbital data
+for 07832, listed it as having reentered in 1977, and started giving
+data for 06127, while still also listing that object as 'decayed in
+1977'. It appears that Space Command thinks that the object formerly
+known as 07832 is actually the main remnant of Delta 89, and has
+redesignated it as 06127. This object is expected to reenter on Dec 8.
+Meanwhile, 07857 (1972-58AD), which has even larger RCS, is decaying
+more slowly, and started off in the same orbit, is still in a 587 x 757
+km x 98.5 deg orbit and from the data available in the public domain I
+infer it to be the largest part of Delta 89, probably including the
+engine.
+
+Summary:
+  Delta 89 stage: was 06127 prior to 1975 explosion, 
+                  largest piece was 07857 afterwards
+  Large fragment: was 07832 from 1975 explosion till 2004 Nov; 
+                      06127 from 2004 Nov to Dec.
+  Small fragment: was 06127 from 1975 explosion till reentry in 1977, 
+                  but now retrospectively
+                  recataloged as 07832 (with no associated data).
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Oct 14 0306   Soyuz TMA-5       Soyuz-FG        Baykonur LC1/5    Spaceship  40A
+Oct 14 2123   AMC 15            Proton-M/Briz-M Baykonur LC200/39 Comms      41A
+Oct 19 0120   FY-2C             CZ-3A           Xichang           Weather    42A
+Oct 29 2211   Ekspress AM-1     Proton-K/DM-2M  Baykonur LC200/39 Comms      43A
+Nov  6 0310   ZY-2C             CZ-4B           Taiyuan           Imaging    44A
+Nov  6 0539   GPS SVN 61        Delta 7925      Canaveral SLC17B  Navigation 45A
+Nov  8 1830   Oblik             Soyuz-2-1A      Plesetsk LC43/4   Test       U01
+Nov 18 1045   Shiyan 2          CZ-2C           Xichang           Imaging    46A
+Nov 20 1716   Swift             Delta 7320      Canaveral SLC17A  Astronomy  47A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

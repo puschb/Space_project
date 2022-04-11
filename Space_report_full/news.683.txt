@@ -1,0 +1,214 @@
+Jonathan's Space Report
+No. 683                                                     2013 Jul 30, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 36 is continuing. The crew are commander Pavel Vinogradov, 
+Flight Engineers FE-2 Alexandr Misurkin, FE-3 Chris Cassidy, FE-4
+Yurchikin, FE-5 Parmitano and FE-6 Nyberg. Ferry ship Soyuz TMA-08M is
+at Poisk and TMA-09M at Rassvet. Cargo ship ATV-4 is at the Zvezda module
+and Progress M-20M is at the Pirs module.
+
+Progress M-18M undocked from the Pirs module at 2053 UTC on Jul 25 and
+was deorbited over the South Pacific 3 hours later, with debris ocean
+impact around 0042 UTC Jul 26. Progress M-20M was launched from Baykonur
+on Jul 27 at 2045 UTC into a 189 x 218 km x 51.6 deg orbit and carried
+out a series of maneuvers to reach the ISS orbit of 413 x 419 km and
+dock with the Pirs module 5hr 41min after launch. Unusually, the US did
+not release any orbital data for Progress M-20M during its flight to the
+ISS.
+
+IRNSS-1A
+---------
+
+India's navigation satellite is now in inclined geostationary orbit at
+35702 x 35870 km x 27.0 deg, orbiting over the 52 to 58 deg E range.
+
+IRIS
+----
+
+NASA's IRIS ultraviolet solar observatory opened its telescope door on
+Jul 17, and has taken its first images of the solar transition region.
+
+MUOS 2
+------
+
+The second Mobile User Objective System satellite was launched on Jul 19
+into geostationary transfer orbit (possibly around 3800 x 35786 km x
+19.1 deg according to estimates by Ted Molczan). MUOS 2 provides UHF
+communications links for the US Navy. The satellite is built by Lockheed
+Martin and has a mass of around 6700 kg full 3800 kg dry. It probably
+reached geostationary orbit in late July.
+
+
+Chinese triple launch
+---------------------
+
+A CZ-4C rocket launched on Jul 19 placed three experimental satellites 
+in a 666 x 673 km x 98.1 deg sun-synchronous orbit with an 06:42 local
+time descending node. The SJ-15 satellite is thought to be carrying out
+observations of space debris, while SY-7 is testing a robotic arm.
+debris. The CX-3 small satellite is thought to have been built by the
+Chinese Academy of Sciences and may be carrying technology experiments
+and/or serve as a target for the robotic arm tests.
+
+Ariane launch
+--------------
+
+Ariane vehicle 569, on flight VA214, placed the Alphasat and Insat 3D
+satellites in a 224 x 35827 km x 3.5 deg geostationary transfer orbit on
+Jul 25. Alphasat is a major joint project between the European Space
+Agency and the maritime satellite operator Inmarsat. The new Alphabus
+class spacecraft is intended to demonstrate advanced technologies for
+ESA, including a laser communications system and radio communications
+links in Q and V band, while carrying a useful `extended L-band' payload
+to add to Inmarsat's satellite broadband capacity. The Alphabus propulsion system
+features what I believe is the first flight of the new Astrium/Lampoldshausen
+500N EAM (European Apogee Motor), a MON/MMH system with an Isp of about 325s.
+Alphasat has a launch mass of 6650 kg; dry mass is probably around 3500 kg.
+By Jul 30 Alphasat was in a 25608 x 35809 km x 0.3 deg orbit.
+
+Insat 3D carries a meteorological payload for the Indian Space Research
+Organization. In addition to a 6-channel imager and a 19-channel
+sounder, the satellite has a data relay system for Earth-based meteo
+stations and a Satellite Aided Search and Rescue transponder. Insat 3D
+is 2090 kg full, 935 kg dry. On Jul 27 Insat 3D raised its orbit to
+15780 x 35800 km x 0.7 deg, and on Jul 28 it reached 31800 x 35795 km x
+0.02 deg,  although US tracking seems to have missed these orbit
+manuevers.
+
+
+Delta 114 reentry
+------------------
+
+Delta 114 reentered over Africa on Jul 14, with debris landing near the
+Zimplats platinum mine (about 18.7S 30.4E) in the Mhondoro district of
+Zimbabwe south of Harare.
+
+Delta 114 was a Model 2914 Delta launch vehicle launched
+from Cape Canaveral on 1975 Aug 27, and placed the French-German
+Symphonie 2 satellite in orbit. The second stage made two burns
+to a 410 x 2020 km x 25.3 deg orbit; the third stage then 
+fired to get to geostationary transfer orbit. By April this year,
+the Delta 114 second stage orbit had decayed to a nearly-circular
+300 x 410 km and rapid decay set in, with the last orbit data on
+Jul 13 showing 174 x 185 km x 25.3 deg. SpaceTrack's TIP decay notice
+gives a reentry time of Jul 14 0600 UTC +/- 2 min, over the Gulf of Guinea.
+Extrapolating the final ground track shows that reentering debris
+would have passed over central Zimbabwe at around 0612 UTC.
+Reports from Zimbabwe indicate multiple high altitude sonic booms heard
+on Jul 14, with photographs of what appears to be a dented second stage
+propellant tank found on the ground.
+
+
+Erratum - the leaky spacesuit
+------------------------------
+
+EMU 3011, which leaked water into Luca Parmitano's helmet during the
+recent spacewalk, had three previous station tours, not two. Here is its flight history:
+  Flight 1  STS-79     1996 Sep 16-1996 Sep 25  (Apt, not used)
+  Flight 2  STS-83     1997 Apr  4-1997 Apr  8  (Spacelab, Gernhardt, not used)
+  Flight 3  STS-94     1997 Jul  1-1997 Jul 17  (Spacelab, Gernhardt, not used)
+  Flight 4  STS-91     1998 Jun  2-1998 Jun 12  (Chang, not used)
+  Flight 5  STS-95     1998 Oct 29-1998 Nov  7  (Robinson, not used)
+  Flight 6  STS-96     1999 May 27-1999 Jun  6  (Barry, 1 EVA)
+  Flight 7  STS-101    2000 May 19-2000 May 29  (Horowitz, not used)
+  Flight 8  STS-106    2000 Sep  8-2000 Sep 20  (Backup, not used)
+  Flight 9  STS-97     2000 Dec  1-2000 Dec 11  (Tanner, 3 EVA)
+  Flight 10 STS-100    2001 Apr 19-2001 Jul 25 (ISS tour, Hadfield (2), down on 104)
+  Flight 11 STS-109    2002 Mar  1-2002 Mar 12   (HST, Massimino(2))
+  Flight 12 STS-111    2002 Jun  5-2005 Aug  9 (ISS tour, Sellers (3),Pettit(2), down on 114)
+  Flight 13 STS-126    2008 Nov 15-2009 Nov 27 (ISS tour, down on 129, not used)
+  Flight 14 STS-132    2010 May 14-present     (ISS tour; Williams (1), Hoshide (2), Parmitano(2))
+
+EMU 3011 incorporates the PLSS 1011 backpack - this contains most of the systems
+and you can think of it as the core of the suit considered as its own spaceship, 
+with the other components as a relatively inert bubble containing the human occupant.
+Before the EMU 3000 series nomenclature was adopted, PLSS 1011 flew multiple times:
+
+  Flight  1 STS 61-B   1985 Nov 27-1985 Dec  3  EMU 1070/PLSS 1011 (Spring, 1 EVA)
+  Flight  2 STS-26R    1988 Sep 29-1988 Oct  3  EMU 1090/PLSS 1011 (Lounge, not used)
+  Flight  3 STS-27R    1988 Dec  2-1988 Dec  6  EMU 1090/PLSS 1011 (Ross, not used)
+  Flight  4 STS-29R    1989 Mar 13-1989 Mar 18  EMU 1090/PLSS 1011 (Springer, not used)
+  Flight  5 STS-28R    1989 Aug  8-1989 Aug 13  EMU 1098/PLSS 1011 (Brown, not used)
+  Flight  6 STS-36     1990 Feb 28-1990 Mar  4  EMU 2008/PLSS 1011 (Thout, not used)
+  Flight  7 STS-41     1990 Oct  6-1990 Oct 10  EMU 2008/PLSS 1011 (Akers, not used)
+  Flight  8 STS-39     1991 Apr 28-1991 May  6  EMU 2008/PLSS 1011 (Harbaugh, not used)
+  Flight  9 STS-48     1991 Sep 12-1991 Sep 18  EMU 2008/PLSS 1011 (Buchli, not used)
+  Flight 10 STS-46     1992 Jul 31-1992 Aug  8  EMU 2021/PLSS 1011 (Chang, not used)
+  Flight 11 STS-73     1995 Oct 20-1995 Nov  5  EMU 2034/PLSS 1011 (Coleman, not used)
+
+So, this PLSS has flown a total of 25 times in space over 28 years -
+although of course there's a bit of a "grandfather's axe" paradox
+involved as it's not clear how many of the original components remain.
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Jun  3 0918   SES-6              Proton-M/Briz-M  Baykonur LC200/39 Comms       26A
+Jun  5 2152   ATV-4              Ariane 5ES       Kourou ELA3       Cargo       27A
+Jun  7 1837   Kosmos-2486        Soyuz-2-1B       Plesetsk LC43/4   Imaging     28A
+Jun 11 0938   Shenzhou 10        Chang Zheng 2F   Jiuquan           Spaceship   29A
+Jun 25 1728   Resurs-P           Soyuz-2-1B       Baykonur LC31/6   Imaging     30A
+Jun 25 1927   O3b SC1/PFM)       Soyuz ST-B       Kourou ELS        Comms       31D
+              O3b SC2/FM2)                                          Comms       31C
+              O3b SC3/FM4)                                          Comms       31B
+              O3b SC4/FM5)                                          Comms       31A
+Jun 27 1653   Kosmos-2487        Strela           Baykonur LC175    Radar       32A
+Jun 28 0227   IRIS               Pegasus XL       L1011, Vandenberg Solar       33A
+Jul  1 1811   IRNSS-1A           PSLV-XL          Sriharikota LP1   Navigation  34A
+Jul  2 0238   Glonass-M No. 48 ) Proton-M/DM-03   Baykonur LC81/24  Navigation  F02
+              Glonass-M No. 49 )                                    Navigation  F02
+              Glonass-M No. 50 )                                    Navigation  F02
+Jul 15 0927   SJ-11-05           Chang Zheng 2C   Jiuquan           Early Warn  35A
+Jul 19 1300   MUOS 2             Atlas V 551      Canaveral SLC41   Comms       36A
+Jul 19 2337   Shi Jian 15 )      Chang Zheng 4C   Taiyuan           Tech        37
+              Shiyan 7    )                                         Surveill.   37
+              Chuangxin 3 )                                         Tech        37
+Jul 25 1954   Alphasat )         Ariane 5ECA      Kourou ELA3       Comms       38A
+              Insat 3D )         Ariane 5ECA      Kourou ELA3       Weather     38B
+Jul 27 2045   Progress M-20M     Soyuz-U          Baykonur LC31     Cargo       39A
+
+Suborbital launches
+-------------------
+
+JAXA launched two sounding rockets on Jul 20 to study medium-scale travelling
+ionospheric disturbances. S-310-42 released a TMA package (trimethyl-aluminium)
+to study E-region neutral winds, while S-520-27 carried out measurements
+of density and electric field, and released lithium to study 
+F-region neutral winds.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jun  6 0305   CIBER            Black Brant XII     Wallops I.        IR Astron    577
+Jun  6 1745   RV               Rubezh              Kapustin Yar      R&D launch  1000?
+Jun 20 0930   NASA 41.106UO    Terrier Imp. Orion  Wallops I.        Education    118
+Jun 21 1357   SL-7/FOP-1       SpaceLoft XL        Spaceport America Tech         119
+Jul  4 1431   NASA 21.140GE    Black Brant V       Wallops I.        Ionosphere   135?
+Jul  4 1431   NASA 41.090GE    Terrier Imp. Orion  Wallops I.        Ionosphere   160?
+Jul  5 1829?  FTG-07 Target?   LV-2?               Kwajalein         Target      1000?
+Jul  5 1835   FTG-07 CE-I EKV  GBI                 Vandenberg        Intercept   1000?
+Jul 15 0553   MAPHEUS 4        VS-30               ESRANGE,Kiruna    Micrograv    151
+Jul 20 0200   S-310-42         S-310               Uchinoura         Atmos sci    139
+Jul 20 0257   S-520-27         S-520               Uchinoura         Atmos sci    316
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

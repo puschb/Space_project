@@ -1,0 +1,247 @@
+Jonathan's Space Report
+No. 783                                                        2020 Sep 13   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 63 continues. Progress MS-14 made an orbit adjustment on Sep 10 at 2032 UTC.
+
+SAOCOM 1B
+----------
+
+SpaceX launched Argentina's second SAOCOM radar satellite, SAOCOM-1B, on Aug 30. The Falcon 9 first
+stage returned for a landing at Canaveral's Landing Zone 1. The second stage maneuvered south-westwards
+to complete the first polar orbit insertion from Florida since 1969. 
+
+The second stage then deployed two small satellites, the GNOMES-1 radio-occultation meteorology satellite
+for PlanetIQ, and Tyvak-0172 for Tyvak. The satellites are in a 600 km SSO with descending node at 17:52 local time.
+
+Sequoia 
+-------
+
+Rocket Lab's Electron rocket returned to flight on Aug 31 and orbited Capella Space's Sequoia radar
+satellite. The kick stage was then revealed to be RocketLab's first Photon satellite, dubbed 'First Light'.
+The mass of First Light and its specific experiment/instrument payload have not been released.
+
+SSMS
+----
+
+Arianespace's Vega returned to flight on Sep 3 with the first flight of its Small Spacecraft Mission
+Service, carrying 65 small satellites.
+
+Vega released 7 microsatellites in a 515 km orbit:
+  Athena, for Facebook subsidiary Point View, a 150 kg Maxar SSL-100 satellite for E-band comms tests
+  Iris (GHGSat-C1) for GHGSat, a 15 kg UTIAS-SFL satellite to measure greenhouse gases
+  NEMO-HD, a 65 kg Earth imaging sat for Space-SI of Slovenia, built by UTIAS-SFL.
+  UPMSat-2, a 45 kg test satellite for the Universidad Politecnica de Madrid.
+  ESAIL, a 110 kg AIS (ship tracking) satellite for exactEarth, built by LuxSpace.
+  Hypatia, a 44 kg imaging satellite for the Uruguayan/Argentine company Satellogic 
+  ION-SVC LUCAS, a maneuverable cubesat deployer from Italy's D-Orbit.
+
+It then moved to a 530 km orbit to deploy a series of cubesats:
+   FSSCAT A and B, two 6U satellites for the Universidad Politecnica de Catalunya, Barcelona with microwave
+     and multispectral imaging payloads.
+   OSM-1 Cicero, a 6U GNSS-RO satellite for OSM (Orbital Solutions Monaco) in collaboration with Tyvak.
+   NAPA 1, a 6U 40-meter-res imaging satellite for the Royal Thai Air Force, built by ISIS-BV/Delft.
+   TARS, a 6U satellite built by AAC Microtec/Clyde for Kepler Comms (Toronto)'s IoT data relay system.
+   Tyvak-0171, a 6U satellite built by Tyvak for an unknown customer
+   Dove 227c, 2256, 2412, 2274, 240f, 225b, 227b, 2416, 2419, 2254, 2424, 2307, 241c, 227a, 3U imaging satellites for Planet.   
+    also called Flock-1v 1 to 14.
+   Lemur-2 (8 unnamed 3U satellites) carrying AIS/ADS-B/GNSS-RO payloads for Spire
+   Dido 3, a 3U satellite built by ISIS-BV for the Israeli/Swiss SpacePharma microgravity processing company
+   PICASSO, a 3U satellite from the Institut d'Aeronomie Spatiale de Belgique (Brussels) for ionospheric and ozone study
+   SIMBA, a 3U satellite from Koninklijk Meteorologisch Instituut (Brussels) to study the Earth's radiation balance
+   TRISAT, a 3U satellite from the University of Maribor in Slovenia to test an infrared imager.
+   AMICAL-Sat, a 2U satellite from CSUG/Uni. Grenoble Alpes in France, for auroral imaging
+   Hamarik (TTU100), a 1U satellite for Tallinn University of Tech, Estonia.
+   SpaceBee 10 to 21, a dozen 0.25U communications satellites for the US company Swarm Technologies.
+
+The ION-SVC LUCAS satellite contains 12 additional Flock-1v Dove satellites which will be ejected
+later: Dove 2402, 2403, 2426, 2413, 2414, 2406, 2408, 240a, 2401, 2405, 240c, 2407
+
+
+Starlink
+---------
+
+The 12th Starlink launch (V1.0-L11) on Sep 3 carried 60 more Starlinks into orbit.
+
+Chinese Spaceplane
+------------------
+
+On Sep 4 at 0730 UTC (plus or minus one minute, based on analysis of
+TLEs) China's CALT launched a Chang Zheng 2F (probably S/N T3) carrying
+an experimental spacecraft into a 332 x 348 km x 50.2 deg orbit. The
+spacecraft was referred to as Chongfu Shiyong Shiyan Hangtian Qi
+which translates as Reusable Test Spacecraft.
+
+Xinhua reported early on Sep 6 that the spacecraft had landed successfully.
+Likely landing time is around 0200 UTC with a candidate landing site being
+runway 05 at an air base at 89.27E 40.78N near Lop Nor.
+
+Sometime around 2230 Sep 5, a few orbits before the landing, a new
+object separated from the spacecraft and was cataloged as 2020-063G. It
+may be a service module or solar array jettisoned prior to the deorbit
+burn.
+
+Gao Fen 11-02
+-------------
+
+On Sep 7 China's SAST launched a CZ-4B carrying the CAST-built Gao Fen 11 hao 02 xing
+(GF-11-02) imaging satellite to an elliptical sun-synchronous orbit. The orbit is similar
+to the initial orbit of GF-11-01, which was launched in 2018 and changed to a circular
+500 km orbit 9 months after launch. Igor Lissov has suggested that the GF-11 satellites
+have the internal military name Jianbing-16.
+
+Astra Rocket 3.1
+----------------
+
+Launch startup company Astra made their first orbital attempt on Sep 12 from Pacific Spaceport
+Complex Alaska on Kodiak Island. Target orbit was 340 x 340 km x 86.3 deg. Payload was
+test instrumentation only. During first stage flight, guidance oscillations caused the rocket
+to go off course, and the engines were commanded to shut down. The rocket tumbled back to Earth
+and exploded on impact with the ground.
+
+Jilin-1 Gaofen 02C
+------------------
+
+An imaging satellite for the Changuang Sat Tech company, Jilin-1 Gaofen 2C, was lost in
+the launch failure of an EXPACE Kuaizhou-1A rocket from Jiuquan on Sep 12. Details of
+the failure are unknown.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Aug  6 0401   Gao Fen 9-04            )    Chang Zheng 2D      Jiuquan         Imaging    54A S45025    486 x   506 x 97.5
+              Zhongli yu Daqi Kexue W.)                                        Science    54B S45026    483 x   505 x 97.5
+Aug  7 0512   Starlink 1514     )
+              Starlink 1515     )
+              Starlink 1522-1527)
+              Starlink 1529     )
+              Starlink 1530     )                                                              S46027
+              Starlink 1532-1536)          Falcon 9            Kennedy LC39A   Comms    55A-BJ   to     386 x   403 x 53.0  
+              Starlink 1538-1544)                                                              S46083 
+              Starlink 1548     )
+              Starlink 1549     )
+              Starlink 1551     )
+              Starlink 1552     )
+              Starlink 1554-1574)
+              Starlink 1576-1584)
+              Starlink 1591     )
+              Global-7          )                                              Imaging  55BP  S46088    385 x   402 x 53.0
+              Global-8          )                                              Imaging  55BQ  S46089    385 x   402 x 53.0
+Aug 15 2204   Galaxy 30  )                 Ariane 5ECA         Kourou ELA3     Comms    56C   S46114    254 x 35741 x  6.0
+              MEV-2      )                                                     Servicing56B   S46113    268 x 35756 x  6.0
+              BSAT-4b    )                                                     Comms    56A   S46112    261 x 35783 x  6.0
+Aug 18 1431   Starlink 1545      )         Falcon 9            Canaveral SLC40 Comms   57A-BK S46117    290 x   356 x 53.0
+              Starlink 1585-1590 )                                                              to
+              Starlink 1592-1616 )                                                            S46174
+              Starlink 1618-1643 )
+              Starlink 1667      )
+              Skysat C17         )                                             Imaging   57BQ S46179     250 x  359 x 53.0
+              Skysat C18         )                                             Imaging   57BR S46180     250 x  359 x 53.0 
+              Skysat C19         )                                             Imaging   57BS S46235     236 x  353 x 53.0
+Aug 23 0227   Gao Fen 9-05  )              Chang Zheng 2D      Jiuquan         Imaging   58A? S46232     485 x  505 x 97.5
+              Tiantuo 5     )                                                  Comms     58B? S46233     485 x  505 x 97.5
+              DGSW          )                                                  Tech      58C? S46234     485 x  505 x 97.5
+Aug 30 2318   SAOCOM-1B  )                 Falcon 9            Canaveral SLC40 Radar     59A  S46265     600 x  609 x 97.9
+              GNOMES-1   )                                                     Met-RO    59B? S46266     600 x  609 x 97.9
+              Tyvak-0172 )                                                     Tech?     59C? S46267     600 x  609 x 97.9
+Aug 31 0305   Sequoia     )                Electron            Mahia LC1       Radar     60B  S46269     528 x  546 x 45.1
+              First Light )                                                    Tech      60A  S46268     530  x 546 x 45.1
+Sep  3 0151   SSMS                 )       Vega                CSG ZLV         Tech      61              515 x  525 x 97.5
+              Athena               )                                           Comms     61              515 x  525 x 97.5
+              Iris                 )                                           Rem.Sen.  61D  S46278     515 x  525 x 97.5
+              NEMO-HD              )                                           Imaging   61              515 x  525 x 97.5
+              UMPSat-2             )                                           Tech      61              515 x  525 x 97.5
+              ESAIL                )                                           AIS       61B  S46273     515 x  525 x 97.5
+              ION-SVC Lucas        )                                           Tech      61C  S46274     515 x  525 x 97.5
+              Hypatia              )                                           Imaging   61A  S46272     515 x  525 x 97.5
+              Lemur-2 Unnamed      )                                          AIS/Met-RO 61              533 x  535 x 97.5
+              Lemur-2 Unnamed      )                                          AIS/Met-RO 61              533 x  535 x 97.5
+              Lemur-2 Unnamed      )                                          AIS/Met-RO 61              533 x  535 x 97.5
+              Lemur-2 Unnamed      )                                          AIS/Met-RO 61              533 x  535 x 97.5
+              Lemur-2 Unnamed      )                                          AIS/Met-RO 61              533 x  535 x 97.5
+              Lemur-2 Unnamed      )                                          AIS/Met-RO 61              533 x  535 x 97.5
+              Lemur-2 Unnamed      )                                          AIS/Met-RO 61              533 x  535 x 97.5
+              Lemur-2 Unnamed      )                                          AIS/Met-RO 61              533 x  535 x 97.5
+              FSSCAT A             )                                           Imaging   61              533 x  535 x 97.5
+              FSSCAT B             )                                           Imaging   61              533 x  535 x 97.5
+              OSM-1 CICERO         )                                           Met-RO    61              533 x  535 x 97.5
+              NAPA 1               )                                           Imaging   61              533 x  535 x 97.5
+              TARS                 )                                           Comms     61              533 x  535 x 97.5
+              Tyvak-0171           )                                           Unknown   61              533 x  535 x 97.5
+              Dido 3               )                                           Micrograv 61              533 x  535 x 97.5
+              PICASSO              )                                           Science   61              533 x  535 x 97.5
+              SIMBA                )                                           Science   61              533 x  535 x 97.5
+              TRISAT               )                                           Imaging   61              533 x  535 x 97.5
+              AMICal-Sat           )                                           Imaging   61              533 x  535 x 97.5
+              Hamarik              )                                           Tech      61              533 x  535 x 97.5
+              SpaceBEE 10 to 21    )                                           Comms     61              533 x  535 x 97.5
+              Flock 4v-1 to 4v-14  )                                           Imaging   61              533 x  535 x 97.5
+              Flock 4v-15 to 4v-26 )                                           Imaging   Aboard ION-SVC
+Sep  3 1246   Starlink 1546      )         Falcon 9            Kennedy LC39A   Comms   62A-BM S46325    242 x   334 x 53.0
+              Starlink 1547      )                                                              to
+              Starlink 1550      )                                                            S46385
+              Starlink 1553      )
+              Starlink 1575      )
+              Starlink 1617      )
+              Starlink 1646      )
+              Starlink 1651      )
+              Starlink 1653      )
+              Starlink 1654      )
+              Starlink 1656-1658 )
+              Starlink 1661      )
+              Starlink 1662      )
+              Starlink 1665      )
+              Starlink 1666      )
+              Starlink 1670      )
+              Starlink 1673      )
+              Starlink 1686      )
+              Starlink 1688-1691 )
+              Starlink 1695      )
+              Starlink 1707-1711 )
+              Starlink 1713      )
+              Starlink 1719      )
+              Starlink 1721-1727 )
+              Starlink 1734      )
+              Starlink 1738-1739 )
+              Starlink 1742      )
+              Starlink 1745      )
+              Starlink 1750-1752 )
+              Starlink 1756-1760 )
+              Starlink 1762-1765 )
+              Starlink 1767-1771 )
+Sep  4 0730?  Chongfu Shiyong Sh. Han.Qi   Chang Zheng 2F      Jiuquan         Spaceship 63A  S46389    331 x  348  x 52.0
+Sep  7 0557   Gao Fen 11-02                Chang Zheng 4B      Taiyuan         Imaging   64A  S46396    247 x  694  x 97.3
+Sep 12 0320?  Astra Test Payload           Astra Rocket 3.1    Kodiak LP3B     Test      F07  F01569  -6378?x    2? x 86
+Sep 12 0502   Jilin-1 Gaofen 02C           Kuaizhou 1A         Jiuquan         Imaging   F08  F01572  -5000?x  100??x 97.5
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Aug  4 0721   Mk 12 RV)         Minuteman 3        Vandenberg LF10       Op. Test     1300?      Kwajalein BOA
+              Mk 12 RV)
+              Mk 12 RV)
+Aug 12        Sparrow Target    Silver Sparrow?    F-15, Med. Sea        Target        100?      Israel (intercepted)
+Aug 25        DF-26 RV          DF-26              Da Qaidam             Test          500?      S China Sea
+Aug 25        DF-21 RV          DF-21D?            Ningbo                Test          500?      S China Sea
+Sep  2 0703   GT233GM RV        Minuteman 3        Vandenberg LF04       Op. Test     1300?      Kwajalein BOA
+Sep  8 1800   DUST-2            Black Brant IX     White Sands           Physics       346       White Sands
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

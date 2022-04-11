@@ -1,0 +1,138 @@
+Jonathan's Space Report
+No. 295                    1996 Aug 13               Cambridge, MA
+-------------------------------------------------------------------------------
+Time to catch up after my vacation...
+
+Shuttle and Mir
+---------------
+
+The new cargo ship, Progress vehicle No. 232 (Progress M-32) was
+successfully launched on Jul 31 by a Soyuz-U rocket. This was the first
+successful launch of a Soyuz-U after two failures. Progress M-32  docked
+with the Mir complex at the forward (-X) docking port at 2203 UTC on Aug
+2. The old cargo ship, Progress M-31, undocked from the same port on Aug
+1 at 1645 UTC and was deorbited over the south Pacific later that day.
+Meanwhile, EO-22 crew commander Gennady Manakov has been taken ill and
+removed from the Soyuz TM-24 crew due for launch this month (the exact
+date is in question because of possible launch vehicle  problems). The
+new crew is reportedly:
+
+ Komandir (Commander)- Valeriy Korzun, RKA cosmonaut  (first flight)
+ Bortinzhener (Flight Engineer)- Aleksandr Kaleri, RKA cosmonaut
+   (flew on Soyuz TM-14 in 1992).
+ Kosmonavt-issledovatel' (Researcher Cosmonaut) - Claudie Andre-Deshays,
+   CNES (French Space Agency, first flight).
+Currently aboard the station are the EO-21 crew of Yuriy Onufrienko,
+Yuriy Usachyov and NASA astronaut Shannon Lucid. 
+
+Note: A reader asked about the use of UTC (Coordinated Universal Time).
+It's the precisely defined equivalent of the colloquial GMT (Greenwich
+Mean Time), and is distinguished from other GMT type timescales
+like TAI (atomic time), TT (Terrestrial dynamical time), etc. which
+are different by under a minute. Since I don't often give times to
+the closest second, you can just read `GMT' if you like.
+
+The new external tank for STS-79, ET-81, has been connected to the solid
+boosters; Atlantis was towed back from the Orbiter Processing Facility
+to the Vehicle Assembly Building today (Aug 13) and will be added to the
+new stack later today. The old stack will eventually be disassembled
+for refurbishment.
+
+Recent Launches
+---------------
+
+Another successful Ariane launch - Arianespace flight V90  placed two
+European domestic comsats in orbit on Aug 8. Italsat F2 is a domestic
+Ka-band comsat built by Alenia Spazio for the Italian Space Agency, and
+is operated (and owned?) by Telecom Italia. The second satellite,
+Telecom 2D, is a Matra Marconi Space Eurostar 2000 satellite, owned
+jointly by France Telecom and the French Defense Ministry. V90 used an
+Ariane 44L rocket, with 4 PAL strapon rockets, an L220 first stage, an
+L33 second stage, and an H-10-3 third stage. The H-10-3 entered
+geostationary transfer orbit, and then released Italsat F2 which was
+mounted on a compartment called SMS (a nested bilingual acronym! SMS =
+Stretched Mini SPELDA, SPELDA = Structure Portuese Enceinte de Lancement
+Double Ariane, if I remember correctly. Way to go, ESA!). The SMS cover
+was ejected followed by release of the Telecom 2D which was stored
+underneath it. The two satellites entered a 260 x 36877 km x 5.3 deg
+transfer orbit. Both have US-built R-4D liquid apogee engines to raise their
+orbits to geostationary. Italsat F2 made its first burn on Aug 10,
+raising perigee to 9200 km and lowering inclination to 2.4 deg.
+Telecom 2D was still in its original orbit on Aug 11.
+
+Note that Ariane flight V88 never happened; the press kit for the June launch
+was V87, and for the July launch was V89. I assume that
+the Ariane V501 flight has been retrospectively designated V88 (or V87)
+- can anyone confirm?
+
+The Atlas AC-125 launch was from pad 36A. The Progress M-23
+launch was probably from pad 1.
+
+NASA's DC-XA reusable suborbital rocket was destroyed  after a test
+flight on Jul 31 when it toppled over after touchdown.
+
+The Martians
+------------
+
+The McKay et al paper on alleged possible Martian fossil biota in
+meteorite ALH84001 is available on the Web at 
+<URL:http://www.eurekalert.org/E-lert/current/public_releases/mars/Prerelease.htm>.
+I am intruiged but skeptical.
+
+Historical Note
+---------------
+
+Inspection of launch photographs indicates that the launch of 1963 Jan 16
+from Vandenberg was a Thor Agena B and not a Thor Agena D as most
+records indicate. Can anyone confirm?
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+
+Jul  2 0748   TOMS             Pegasus XL     Vandenberg      Rem.sens.   37A
+Jul  3 0031   USA 125          Titan 404      Canaveral LC40  Comsat?     38A
+Jul  3 1047   Apstar 1A        Chang Zheng 3  Xichang         Comsat      39A
+Jul  9 2224   Arabsat 2A  )    Ariane 44L     Kourou ELA2     Comsat      40A
+              Turksat 1C  )                                   Comsat      40B
+Jul 16 0050   Navstar SVN 40   Delta 7925     Canaveral LC17B Navsat      41A
+Jul 25 1242   UHF F7           Atlas 2        Canaveral LC36A Comsat      42A
+Jul 31 2006   Progress M-23    Soyuz-U        Baykonur        Cargo       43A
+Aug  8 2249   Italsat F2  )    Ariane 44L     Kourou ELA2     Comsat      44A
+              Telecom 2D  )                                   Comsat      44B
+
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-80  Nov 11
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        OPF Bay 3     STS-79  Sep 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-56/ET-81          VAB Bay 3      STS-79 (new)
+ML2/RSRM-54/ET-80          VAB Bay 1      STS-79 (old)
+ML3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+
+</PRE>
+</BODY>

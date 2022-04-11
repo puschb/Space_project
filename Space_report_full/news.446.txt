@@ -1,0 +1,188 @@
+Jonathan's Space Report
+
+No. 446                                         2001 Feb 10, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Progress M1-4 undocked from Zarya's nadir port at 1126 UTC on Feb 8.
+According to Chris van den Berg, it was deorbited over the Pacific 
+and reentered at 1350 UTC the same day.
+
+Atlantis rolled out to the pad on Jan 26 after further wiring checks.
+Launch occurred on Feb 7 at 2313:02 UTC. The solid rocket boosters
+separated at 2315 UTC and the main engines cut off at 2321 UTC, followed
+10 seconds later by separation of the external tank. The Orbiter and the
+ET were then in a 74 x 323 km x 51.6 deg orbit; the spacecraft was
+easily visible from Harvard as it passed above the Boston skyline. At
+2357 UTC the OMS engines fired for the OMS-2 burn which raised Atlantis'
+orbit to 204 x 322 km x 51.6 deg while the ET fell back for impact in
+the Pacific. Atlantis docked with Station at 1651 UTC on Feb 9. Docking
+was at the PMA-3 port on Unity's nadir.
+
+Crew of STS-98 are Ken Cockrell (commander), Mark Polansky (pilot),
+Robert Curbeam, Marsha Ivins and Thomas Jones (mission specialists).
+Polansky was a support crewmember on the Chandra/STS-93 mission and
+those of us on the Chandra team congratulate him on his first
+spaceflight.
+
+
+Meanwhile, Discovery is now in the VAB and has been connected to
+the external tank in preparation for mission STS-102.
+
+On Feb 8, Mir was in a 275 x 296 km x 51.6 deg orbit. Perigee
+has been decreasing at about 1 km/day.
+
+Current Launches
+----------------
+
+GPS spacecraft SVN 54 (GPS Block IIR production no. SV 14) was launched
+on Jan 30 by a Boeing Delta 7925. This is the 7th IIR to be launched.
+The GPS (Global Positioning System) satellites provide navigation
+signals using on-board atomic clocks; following Block I, II and IIA
+constellations, launches of Block IIR replenishment satellites
+began in Jan 1997.
+
+Launch was at 0755 UTC; the Delta stage two, powerered by an Aerojet
+AJ10-118K liquid N2O4/AZ-50 engine, entered a 175 x 390 km x 36.9 deg
+parking orbit at 0806 UTC. It restarted at 0815 UTC to raise the orbit
+to 189 x 1265 km x 37.2 deg (prelaunch estimate) and released the third
+stage; most of the second stage depletion burn went into a plane change,
+after which the second stage was in a 169 x 1277 km x 32.6 deg orbit.
+The Thiokol Star 48B solid motor propelled the payload into a 160 x
+20397 km x 39.1 deg transfer orbit and separated at 0820 UTC. On its
+10th transfer orbit apogee, GPS SVN 54 fired its onboard Thiokol Star
+37FM solid apogee motor and entered a 20104 x 20266 km x 55.0 deg orbit.
+The orbit will be refined to an 11hr 58min period (half of the
+geostationary period). The satellite will transmit navigation signals as
+PRN 18 and will be placed in slot E4 of the GPS system. SVN 54 was built
+by Lockheed Martin/Sunnyvale. The GPS program is managed by  USAF SMC at
+Los Angeles AFB, and the satellites are operated by  2 SOPS (the 2nd
+Space Operations Squadron of USAF Space Command) at Schriever AFB,
+Colorado.
+
+Arianespace launched an Ariane 44L from Kourou just minutes before the
+launch of STS-98 from Kennedy Space Center - it's very unusual for CSG
+and KSC/CCAFS launches to be so close together because they often share
+downrange tracking, although the high inclination Shuttle launch didn't
+clash. The Ariane carried Skynet 4F, a communications satellite for the
+UK Ministry of Defense, and Sicral, (Sistema Italiana de Communicazione
+Riservente Allarmi) a communications satellite for the Italian  defense
+ministry's procurement division, the Segretariato Generale della
+Difesa's Direzione Nazionale degli Armamenti.  Sicral is built by Alenia
+Aerospazio and derived from the Italsat series. Its mass is 2596 kg
+full, 1253 kg dry and it carries a liquid apogee engine, possibly an
+Astrium S400 although I haven't confirmed this yet. Skynet 4F is the
+last of the venerable ECS (European Communications Satellite) class of
+satellites and was built by Astrium/Stevenage. It carries a Thiokol Star
+30 apogee motor and its mass is 1489 kg full, 830 kg dry - a dry mass
+more than twice the first OTS. The OTS/ECS satellites were the first
+European-developed operational communications satellites, after
+groundwork laid by two experimental French/German Symphonie satellites
+in the 1970s. 
+
+ History of OTS/ECS satellites
+   Name       Launch date  Operator   Dry mass  Apogee motor type
+
+1  OTS 1      1977 Sep 13  ESA        390 kg    Aerojet SVM-7  (Launch failed)
+2  OTS 2      1978 May 11  ESA        390       Aerojet SVM-7
+3  Marecs 1   1981 Dec 20  ESA        400?      TE-M-700-5
+4  Marecs B   1982 Sep  9  ESA        400?      TE-M-700-9     (Launch failed)
+5  ECS 1      1983 Jun 16  Eutelsat   500       Mage 2
+6  ECS 2      1984 Aug  4  Eutelsat   500       Mage 2
+7  Telecom 1A 1984 Aug  4  France Tel 653       Mage 2
+8  Marecs 2   1984 Nov 10  ESA        400?      Mage 2
+9  Telecom 1B 1985 May  8  France Tel 701       Mage 2
+10 ECS 3      1985 Sep 12  Eutelsat   500       Mage 2  (Launch failed)
+11 ECS 4      1987 Sep 16  Eutelsat   700?      Mage 2
+12 Telecom 1C 1988 Mar 11  France Tel 704       Mage 2
+13 ECS 5      1988 Jul 21  Eutelsat   700       Mage 2
+14 Skynet 4B  1988 Dec 11  UK MoD     655       TE-M-700-19
+15 Skynet 4A  1990 Jan  1  UK MoD     655       TE-M-700-19
+16 Skynet 4C  1990 Aug 30  UK MoD     655       TE-M-700-19
+17 NATO 4A    1991 Jan  8  NATO       731       TE-M-700-19
+18 NATO 4B    1993 Dec  8  NATO       731       TE-M-700-19
+19 Skynet 4D  1998 Jan 10  UK MoD     760       TE-M-700-19
+20 Skynet 4E  1999 Feb 26  UK MoD     760       TE-M-700-19
+21 Skynet 4F  2001 Feb  7  UK MoD     830       TE-M-700-19
+
+The Extreme Ultraviolet Explorer, launched in 1992, was switched off on
+Feb 2. NASA decided to terminate funding for the mission, even though
+the spacecraft was still operating well. EUVE was launched on 1992 June
+7 into a 514 km x 528 km x 28.4 deg orbit. It carried  three sky survey
+scanner EUV telescopes and a deep survey telescope with a 1.4m focal
+length and a 2-degree field of view. The sky survey was completed in Jan
+1993 and since then EUVE has been used by guest astronomers for
+observations of specific targets. Most EUV observations are of nearby
+stars and the interstellar medium, since hydrogen absorption makes the
+galaxy almost opaque at EUV (0.01-0.09 micron) wavelengths, but a few
+extragalactic objects do shine through. The EUVE project was led by
+Berkeley, and in 1997 the Center for EUV Astrophysics at Berkeley took
+over operational control of the satellite. It is now in a 424 x 433 km x
+28.4 deg orbit and will probably reenter next year. The final
+observations were made on Jan 26. After end-of-life tests of the
+never-used backup high voltage supplies and checking the remaining
+battery capacity, EUVE was stabilized pointing away from the Sun and
+sent into safehold at 2359 UTC on Jan 31. The transmitters were
+commanded off on Feb 2.
+
+ History of NASA's Delta-class Explorers
+ ---------------------------------------
+                                          Launch    End of ops  Current orbit
+ Int'l Sun-Earth Explorer 1    ISEE-1  1977 Oct 22  1987 Sep 26 Reentered 1987
+ Int'l Ultraviolet Explorer    IUE     1978 Jan 26  1996 Sep 30 29474 x 42211 x 38
+ Int'l Sun-Earth Explorer 3    ISEE-3  1978 Aug 12  1997 May  5 Solar orbit 
+ Dynamics Explorer 1           DE-1    1981 Aug  3  1991 Feb 28   581 x 23192 x 88
+ Dynamics Explorer 2           DE-2    1981 Aug  3  1983 Feb 19 Reentered 1983
+ Solar Mesosphere Explorer     SME     1981 Oct  6  1986 Dec    Reentered 1991
+ Charge Composition Explorer AMPTE-CCE 1984 Aug 16  1989 Jan     1102 x 49679 x  3
+ Cosmic Background Explorer    COBE    1989 Nov 18  1997 May  1   873 x   887 x 99
+ Extreme Ultraviolet Explorer  EUVE    1992 Jun  7  2001 Feb  2   424 x   433 x 28
+ X-ray Timing Explorer         RXTE    1995 Dec 30  Operational   540 x   555 x 23
+ Advanced Composition Explorer ACE     1997 Aug 25  Operational Earth-Sun L1
+ Far UV Spectroscopic Explorer FUSE    1999 Jun 24  Operational   751 x   766 x 25
+--------------------------------------------------------------------------------
+Note: I include FUSE since it was originally planned as a Delta Explorer,
+and although later descoped it does not fit in other Explorer subcategories.
+ISEE-1 was the first Delta-launched Explorer following the ending
+of the numbered Explorers.
+ 
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Jan  9 1700   Shenzhou 2        Chang Zheng 2F Jiuquan          Spaceship  01A
+Jan 10 2209   Turksat 2A        Ariane 44P     Kourou ELA2      Commsat    02A
+Jan 24 0428   Progress M1-5     Soyuz-U        Baykonur LC1     Cargo      03A
+Jan 30 0755   Navstar GPS 54    Delta 7925     Canaveral SLC17A Navsat     04A
+Feb  7 2306   Sicral    )       Ariane 44L     Kourou ELA2      Commsat    05A
+              Skynet 4F )                                       Commsat    05B
+Feb  7 2313   Atlantis (STS-98))Space Shuttle  Kennedy LC39A    Spaceship  06A
+              Destiny          )                                Module
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       VAB Bay 1     STS-102 2001 Mar  8  ISS 5A.1
+OV-104 Atlantis        LEO           STS-98  2001 Feb  7  ISS 5A
+OV-105 Endeavour       OPF Bay 2     STS-100 2001 Apr 19  ISS 6A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

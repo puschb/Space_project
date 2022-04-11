@@ -1,0 +1,275 @@
+Jonathan's Space Report 
+No. 710                                                    2015 Mar 20     Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+On Mar 11 at 2244 UTC Soyuz TMA-14M undocked from the Poisk module with
+Expedition 42 crewmembers Aleksandr Samokutyaev, Barry Wilmore and Elena
+Serova. Expedition 43 then began under the command of Terry Virts, with
+FE-3 Anton Shkaplerov and FE-4 Samantha Cristoforetti also aboard. The
+crew will be rounded out later this month with  Gennadiy Padalka,
+Mikhail Kornienko and Scott Kelly who are preparing for launch on Soyuz
+TMA-16M. Launch is currently scheduled for Mar 27.
+
+Soyuz TMA-14M performed its deorbit burn at 0116 UTC Mar 12 and landed in 
+Kazakhstan at around 0208 UTC.
+
+Soyuz TMA-15M is docked at Rassvet; Progress M-25M is docked at Pirs and
+Progress M-26M at Zvezda. 
+
+DSCOVR
+------
+
+I inadvertently omitted coverage of the DSCOVR launch from the last JSR.
+
+The Deep Space Climate Observatory, DSCOVR, was launched on Feb 11 after
+many years of gestation. Originally a NASA mission called Triana and
+centered around its Earth observation camera,  it had at  one point been
+scheduled for launch on the fatal STS-107 flight of Columbia, but was
+cancelled amid political controversy (it grew out of an idea by
+Vice-President Gore for whole-Earth imaging to raise eco-awareness) and
+placed in storage. The mission was reactivated as part of a NOAA (US
+National Oceanic and Atmospheric Administration) effort to monitor
+`space weather', the flux of particles and radiation in the solar wind
+and its interaction with the Earth's outer atmosphere. 
+
+DSCOVR is a 425 kg vehicle with an additional 145 kg of hydrazine
+propellant, and will be stationed at the Earth-Sun L1 point, 1.5 million
+km noonward from Earth. It carries a Faraday cup instrument to measure
+solar wind speed, an electron spectrometer and a magnetometer to measure
+local plasma and fields, as well as a broad band (0.2 to 100 microns)
+radiometer to measure the Earth's total energy output and the Earth
+Polychomatic Imaging Camera to return images of the full Earth disk.
+
+DSCOVR was launched on a Falcon 9 from Cape Canaveral into a 184 x 186
+km x 37 deg parking orbit; 30 min after launch the Falcon 9 second stage
+restarted to boost DSCOVR into a 187 x 1371156 km x 37 deg transfer
+orbit. When the probe reaches the L1 point it will enter a Lissajous
+orbit, tracing out a complex pattern  around the gravitationally stable
+balance point. Radius of this pattern will initially be around 250000
+km.
+
+I haven't obtained any orbital ephemeris data yet for DSCOVR, but today a colleague
+showed me some of the first science data to arrive. Congrats to the DSCOVR team.
+
+MMS
+---
+
+NASA's Magnetospheric Multiscale Mission was launched on Mar 13. The
+mission consists of four identical spacecraft, each with a mass of 1000
+kg plus 400 kg of propellant. The spacecraft will fly in a tetrahedral
+formation some tens of kilometres apart to disentangle spatial and
+temporal fluctuations in the magnetospheric particle and field
+environment. They will deploy wire booms with a span of 112 metres
+to measure electric fields.
+
+Use for formation-flying groups of spacecraft to study the magnetosphere
+began with Penn State's suborbital 'Mother-Daughter' payload NASA 8.28UI
+in Jan 1965. Early projects to use multiple widely separated satellite
+platforms for simultaneous magnetosphere measurements included the USSR
+2D project (Elektron 1/2 and 3/4) in 1964 and NASA's Interplanetary
+Monitoring Platforms A to J in the 1960s and 1970s. The first close pair
+of magnetosphere probes was the NASA ISEE-1 and ESA ISEE-2, launched on
+the same rocket in Oct 1977. followed by the Interkosmos AUOS-Z/Czech
+Magion pair launched in 1978. Further AUOS-Z/Magion pairs were succeeded
+by the Interbol/Magion missions of 1995 and 1996. ESA's Cluster II
+mission which began in 2000 and continues in operation today introduced
+the 4-spacecraft tetrahedron approach that is being used by MMS. (Cluster I's
+quartet ended up in the Kourou swamp as a result of the first Ariane 5's 
+ill-advised attempt to fly sideways.). The NASA/UC Berkely Themis mission
+used five spacecraft in disparate orbits; three remain operating around Earth while
+two have been reassigned to the ARTEMIS mission and are orbiting the Moon.
+
+    Operational high Earth orbit magnetospheric observatories
+    ---------------------------------------------------------
+				Launch Date    Current Orbit		  Operator	  Program
+					       km x km x deg
+    
+    Geotail			1992 Jul 24	48970 x 191278 x   8.5	  JAXA/ISAS	  ISTP/GGS
+    Cluster II FM5/C1 "Rumba"	2000 Aug  9	22016 x 110774 x 135.6	  ESA		  ESA CS
+    Cluster II FM6/C2 "Salsa"	2000 Jul 16	23452 x 109230 x 132.9	  ESA		  ESA CS
+    Cluster II FM7/C3 "Samba"	2000 Jul 16	22536 x 109702 x 132.8	  ESA		  ESA CS
+    Cluster II FM8/C4 "Tango"	2000 Aug  9	19254 x 113536 x 132.0	  ESA		  ESA CS
+    THEMIS A/P5 		2007 Feb 17	 802 x	 70805 x  13.4	  NASA/UCB	  NASA MIDEX
+    THEMIS D/P3 		2007 Feb 17	 855 x	 70723 x   8.3	  NASA/UCB	  NASA MIDEX
+    THEMIS E/P4 		2007 Feb 17	 852 x	 70721 x   9.2	  NASA/UCB	  NASA MIDEX
+    TWINS-A			2006 Jun 28	1285 x	 39065 x  63.7	  NRO/SWRI	  NASA MOppEX
+    TWINS-B			2008 Mar 13	1614 x	 38739 x  63.1	  NRO/SWRI	  NASA MOppEX
+    Van Allen Probe A		2012 Aug 30	 582 x	 30515 x   9.8	  NASA/APL	  NASA LWS
+    Van Allen Probe B		2012 Aug 30	 591 x	 30672 x   9.8	  NASA/APL	  NASA LWS
+    MMS 1			2015 Mar 13	 556 x	 70139 x  28.9	  NASA/LASP-CU	  NASA STP
+    MMS 2			2015 Mar 13	 551 x	 70158 x  28.9	  NASA/LASP-CU	  NASA STP
+    MMS 3			2015 Mar 13	 551 x	 70180 x  28.8	  NASA/LASP-CU	  NASA STP
+    MMS 4			2015 Mar 13	 552 x	 70198 x  28.8	  NASA/LASP-CU	  NASA STP
+
+    WIND			1994 Nov  1	 Earth-Sun L1		  NASA-GSFC	  NASA GGS
+    ACE 			1997 Aug 25	 Earth-Sun L1		  NASA-GSFC	  NASA MIDEX
+    DSCOVR			2015 Feb 11	 En route to Earth-Sun L1 NOAA		  NOAA
+
+
+Ekspress AM-7
+-------------
+
+A new Ekspress satellite for Russia's Kosmicheskaya Svyaz (Space Comms.
+Co.) was launched on Mar 18. It is a Eurostar 3000 built by
+AirbusDS/Toulouse and had a launch mass of 5700 kg.
+
+Dawn
+----
+
+The Dawn probe flew past Ceres at 1900 UTC Feb 23 at an altitude of
+38000 km; after several more days of ion engine thrust it was captured
+into orbit around Ceres at 1239 UTC Mar 6, at a distance of 61000 km.
+Dawn reached an apocereal height of 75000 km on Mar 18 and then began to
+descend towards its initial science orbit; scheduled orbit for Mar 20
+was around 13000 x 76000 km x 31 deg.
+
+RRTV-SM
+--------
+
+China's Phase 3 Lunar Program's Reentry Return Test Vehicle Service Module 
+continues operations in lunar orbit. From Mar 3 to Mar 7 it simulated rendezvous
+and docking with an ascent vehicle, maneuvering in a 18 x 180 km orbit.
+
+Zwicky's pellets
+-----------------
+
+On 1957 Oct 17 at 0505 UTC the US Air Force launched a sounding rocket,
+Aerobee USAF-88, from Holloman Air Force Base in New Mexico to an apogee of
+114 km. 
+The ejected rocket nose cap carried three explosive devices (loosely, 'grenades')
+which were detonated at about 80 km altitude. Charge A, built by Thomas Poulter
+of Stanford, was expected to accelerate about 0.1 gram of material to very
+high velocities of order 14 km/s; Charge B, developed by John Rinehart of Smithsonian
+Astrophysical Observatory (SAO) in collaboration with Poulter, was designed to 
+accelerate a slightly higher mass of particles to somewhat lower speed; Charge C,
+built by Fritz Zwicky of CalTech, used an iron oxide/aluminium thermite mixture
+that was intended to accelerate self-luminous material to velocities above 11 km/s.
+In the event two meteor trails were seen emanating from the explosion of the
+nose cone. Zwicky claimed that his pellet had reached Earth escape velocity
+and gone into orbit around the Sun (Engineering and Science, Jan 1958, p 20).
+This claim is often repeated uncritically, most recently in a fun article by
+Nick D'Alto in Smithsonian's Air and Space magazine:
+http://www.airspacemag.com/daily-planet/1957-two-tiny-pellets-were-first-man-made-objects-escape-earths-gravity-180954622/
+The article prompted me to look more deeply into the story, of which I've always been
+a bit skeptical.
+
+Zwicky was a genius. We revere him in astronomy because so many of his
+crazy ideas - like dark matter - turned out to be right - but not all of
+them. He is famous for many things, but from what I've heard, accepting
+that he might be wrong about something wasn't one of them.
+
+He never published a science paper on the pellet experiment. The only
+serious analysis I've seen is by R. McCrosky of SAO (Observations of
+Simulated Meteors, Smithsonian Contributions to Astrophysics, 5, 29
+(1961) which can be found at
+http://adsabs.harvard.edu/abs/1961SCoA....5...29M indicates that the
+observed meteor trails were from charges A and B, which were not
+self-luminous and so would only glow as they reentered the atmosphere
+heading down and burning up. A's speed was measured at 14.4 km/s
+(Earth-relative) while B's was in the range of 5 to 9 km/s.  McCrosky
+doesn't say so explicitly, but the implication is that Zwicky's grenade
+didn't work. 
+
+We may conclude that Poulter's Charge A pellet, with a mass around 0.1
+grams, was (briefly) the first artifact to reach escape speed - but not
+escape velocity (i.e. it was going in the wrong direction). I really
+wanted the story of Zwicky's solar orbit pellets to be true, but it
+doesn't look good. Maybe McCrosky's analysis was wrong - I'm going to
+check if the relevant tracking plates are in the Harvard Plate Stacks
+but I doubt it, the plates from the NMSU ballistic cameras would
+probably have stayed in McCrosky's possession and I expect that they no longer
+exist. Without being able to check the raw data, it is reasonable to
+assume McCrosky's analysis is at least roughly correct.
+
+I conclude that Zwicky's claim is unlikely to be true and, sadly, should not be
+accepted as historical fact.
+
+There were more artificial meteor experiments in the 1960s and 1970s, with pellets
+smashed down into the atmosphere at super-escape-speeds. In the 1960s the use of grenades
+to create shock waves used to measure upper atmosphere temperatures and wind speeds
+was common, but I don't think they would have had the energy to accelerate material
+to escape speeds.
+
+
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Feb  1 0121   IGS Radar Spare    H-IIA 202          Tanegashima      Radar Imager    04A   S40381    490 x    511 x  97.5
+Feb  1 1231   Inmarsat 5F2       Proton-M/Briz-M    Baykonur LC200/39 Comms          05A   S40384   4366 x  64968 x  26.8
+Feb  2 0850?  Fajr               Safir              Semnan           Imaging         06A   S40387    224 x    469 x  55.5
+Feb  5 1250?  AESP-14            -                  Kibo RMS, ISS    Tech          98-67FM S40389    397 x    405 x  51.6
+Feb 11 1340   IXV       )        Vega               Kourou ZLV       Reentry Test    U01   A08334     76 x    416 x   5.4
+              AVUM VV04 )                                            Tech            U01   A08335    220 x    430 x   5.4
+Feb 11 2303   DSCOVR             Falcon 9 v1.1      Canaveral SLC40  Space sci       07A   S40390    187 x1371156 x  33.1
+Feb 17 1100   Progress M-26M     Soyuz-U            Baykonur LC1/5   Cargo           08A   S40392    186 x    237 x  51.6 Docked ISS
+Feb 27 1101   Kosmos-2503        Soyuz-2-1A         Plesetsk LC43/4  Imaging         09A   S40420    327 x    539 x  97.6 0245LT
+Feb 27 1430   Flock 1b-27  )                        ISS Kibo, LEO    Imaging       98-67FN S40422    396 x    404 x  51.7 
+              Flock 1b-28  )                                         Imaging       98-67FP S40423    396 x    404 x  51.7 
+Mar  2 0125   Flock 1b-21  )                        ISS Kibo, LEO    Imaging       98-67FQ S40427    395 x    402 x  51.7
+              Flock 1b-22  )                                         Imaging       98-67FR S40428    395 x    402 x  51.7
+Mar  2 0350   ABS-3A           ) Falcon 9 v1.1      Canaveral SLC40  Comms           10A   S40424    358 x  63319 x  24.8
+              Eutel.115 West B )                                     Comms           10B   S40425    360 x  63379 x  24.8
+Mar  2 0845   Flock 1b-9   )                        ISS Kibo, LEO    Imaging       98-67FS S40429    392 x    407 x  51.6
+              Flock 1b-10  )                                         Imaging       98-67FT S40430    398 x    413 x  51.6
+Mar  3 0300   Flock 1d'-1  )                        ISS Kibo, LEO    Imaging       98-67FU S40451    393 x    405 x  51.6
+              Flock 1d'-2  )                                         Imaging       98-67FV S40452    393 x    406 x  51.6
+Mar  3 1050   Flock 1b-5   )                        ISS Kibo, LEO    Imaging       98-67FW S40453    394 x    407 x  51.6
+              Flock 1b-6   )                                         Imaging       98-67FX S40454    392 x    407 x  51.6
+Mar  4 0120   TechEdSat-4  )                        ISS Kibo, LEO    Tech          98-67FY S40455    393 x    402 x  51.6
+              GEARRSat     )                                         Comms         98-67FZ S40456    395 x    404 x  51.6
+Mar  4 0830   MicroMAS     )                        ISS Kibo, LEO    Sci           98-67GA S40457    393 x    406 x  51.6
+              LambdaSat    )                                         Tech/Comms    98-67GB S40458    393 x    405 x  51.6
+Mar  5 0145   Flock 1b-11  )                        ISS Kibo, LEO    Imaging       98-67GC S40459    395 x    405 x  51.6
+              Flock 1b-12  )                                         Imaging       98-67GD S40460    395 x    405 x  51.6
+Mar 13 0244   MMS 1 )             Atlas V 421       Canaveral SLC41  Sci             11A   S40482    559 x  70130 x  28.9
+              MMS 2 )                                                Sci             11B   S40483    554 x  70159 x  28.9
+              MMS 3 )                                                Sci             11C   S40484    554 x  70174 x  28.9
+              MMS 4 )                                                Sci             11D   S40485    554 x  70190 x  28.9
+Mar 18 2205   Ekspress AM-7       Proton-M/Briz-M   Baykonur LC200/39 Comms          12A   S40505   5406 x  35752 x  19.9
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Feb 19 2206   ICI-4            VS-30/Imp. Orion    Andoya           Aurora        365
+Feb 22 0752   Cryofenix        VSB-30              Kiruna           Tech          265
+Feb 22        USN RV )         Trident II D-5      SSBN, Pacific    Test         1000?
+              USN RV )
+              USN RV )
+              USN RV )
+Feb 22        USN RV )         Trident II D-5      SSBN, Pacific    Test         1000?
+              USN RV )
+              USN RV )
+              USN RV )
+Feb 24 0730   FTX-19 Target    Terrier Oriole      Wallops I        Target        150?
+Feb 24 0730   FTX-19 Target    Terrier Oriole      Wallops I        Target        150?
+Feb 24 0730   FTX-19 Target    Terrier Oriole      Wallops I        Target        150?
+Feb 25 1226   NASA 36.299DR    Black Brant IX      White Sands      Ionosphere    300?
+Mar  1 2133   RV               Hwasong 6?          Nampo, N Korea   Test          134
+Mar  1 2141   RV               Hwasong 6?          Nampo, N Korea   Test          134
+Mar  5 0144   WADIS 2          VS-30               Andoya           Atm.Sci       126
+Mar  9        RV               Shaheen 3           Somniani?        Test          500? 
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+	 
+

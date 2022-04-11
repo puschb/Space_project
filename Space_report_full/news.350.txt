@@ -1,0 +1,184 @@
+Jonathan's Space Report
+No. 350                                        1998 Feb 22 Cambridge, MA 
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Anatoliy Solov'yov and Pavel Vinogradov of the Mir EO-24 crew
+and Leopold Eyharts of the CNES Pegase mission undocked from the -X
+port on Mir at 0552 UTC on Feb 19 aboard the Soyuz TM-26 ship.
+Soyuz TM-26 fired its deorbit engines at 0816 UTC and the craft
+landed in Kazakstan at 50 11N, 67 31E at 0910 UTC.
+
+Solov'yov handed over command of Mir to the EO-25 commander, Talgat
+Musabaev on Feb 18 or Feb 19 (can anyone tell me when the official   
+transfer occurred?) On Feb 20, the Mir EO-25 crew, Talgat Musabaev and
+Nikolai Budarin, together with Andy Thomas of the NASA-7 mission,
+boarded their Soyuz TM-27 transport and undocked from the Kvant +X port
+at 0848 UTC. They redocked with the -X port on Mir at 0932 UTC. This
+frees up the Kvant port for a test redocking of the Progress M-37 cargo
+ship, currently parked in orbit.
+
+Recent Launches
+---------------
+
+
+Boeing/Huntingdon Beach (former McDonnell Douglas) carried out two Delta
+launches within a week in mid-Feb, placing a total of 9 payloads in
+orbit. The first four Globalstar satellites, built by Space
+Systems/Loral, were launched on Feb 14. The Boeing Delta 7420 placed
+them in  a 1400 km orbit. Most sources are    naming them Globalstar U1,
+U2, L1 and L2; as far as I can tell these just denote that on this
+particular launch they were the upper and lower pairs on the Delta
+dispenser, so there will be a U1,U2,L1,L2 on every Delta Globalstar
+launch and they don't really reflect unique names for  the satellites.
+If anyone has the actual production or post-launch names for these
+satellites, please let me know. 
+
+The Globalstar launch was the first Delta 7420-10 variant, one of a
+number of new cheaper Delta variants. The first digit in the Delta
+indicates the first stage variety; 7 means the Delta II first stage with
+Alliant GEM solid motors. The second digit indicates the number of solid
+motors; the third digit gives the type of second stage; and the fourth
+digit gives the type of third stage ( 0 means no third stage ). The
+fairing designation is then given after a hyphen; -10 means the 10-foot
+(3.1m) diameter fairing. Versions in use in 1998-99 are:
+
+  Delta 7320     Delta II Lite with 3 strapons
+  Delta 7326     Delta II Lite with 3 strapons and Star 37FM third stage
+  Delta 7420     Delta II Lite with 4 strapons
+  Delta 7425     Delta II Lite with 4 strapons and PAM-D (Star 48) stage
+  Delta 7426     Delta II Lite with 4 strapons and Star 37FM
+  Delta 7920     Delta II standard, LEO missions
+  Delta 7925     Delta II with PAM-D third stage for GEO and escape missions
+  -              Delta III with GEM LDXL strapons and LH2/LOX second stage
+
+Boeing hasn't announced a corresponding designation for the Delta III
+yet. For consistency with the existing 28-year-old tradition, I suggest
+it should be  the Delta 8930, with the 8 indicating the change to the
+LDXL strapons, 9 indicating the number of strapons, and 3 indicating a
+new type of second stage. They'll need some designation like this as
+soon as someone orders a slightly different kind of Delta 3, say one
+with fewer strapons, and they could then denote the planned Delta 4
+variants as 9020/9025, 9030, and 9240 in the same system. However, since
+consistency of nomenclature has never been the space program's strong
+point, I expect they'll ignore my suggestion and introduce an entirely
+different scheme.
+
+
+Five more Motorola/Lockheed Iridium satellites were launched on Feb 18
+by a Boeing Delta 7920-10C from Vandenberg. The five satellites will
+use their own on-board propulsion systems to reach their final orbits.
+
+The two recently launched Orbcomm satellites are Orbcomm G1 and G2,  
+production numbers FM3 and FM4. With Iridium, Globalstar and Orbcomm
+launches now underway, the expected shift of commercial emphasis from
+geostationary to low orbit constellations is now a fact.
+
+Kosmos-2349, launched on Feb 17, is an imaging satellite for the Russian
+Defense Ministry. On Feb 19, Kosmos-2349 was in a 212 x 276 km x 70.4
+deg orbit. The satellite is built by TsSKB-Progress of Samara and is 
+based on the Yantar' bus. It is probably a Kometa mapping satellite,  
+using the 11F660 Yantar'-1KFT spacecraft. The last Kometa launch in May 1996
+was a failure.
+
+
+Japan's largest launch vehicle, the H-II, suffered its first failure
+this week during launch of the Kakehashi satellite. The Japanese
+applications space agency NASDA carried out the launch of  H-II No. 5F
+on 1998 Feb 21. This was actually the 6th H-II launch, as H-II No. 6F
+was launched last November with the TRMM and ETS-7 satellites. The
+payload for the new flight was COMETS, or Communuications and
+Broadcasting Experimental Test Satellite. COMETS, based on the ETS-6
+bus, carries an experimental Ka-band communications payload and a
+payload for inter-satellite data relay. The H-II was meant to deliver
+COMETS and its attached LAPS transfer engine into geostationary transfer
+orbit with 35000 km apogee, but orbital     tracking data indicate a
+much lower 250 x 1883 km x 30.0 deg orbit. This was reportedly due to 
+premature shutdown 44s into the H-II second stage's second burn. 
+COMETS, renamed Kakehashi now it is in orbit, has successfully  deployed
+its solar arrays and checked out its on-board systems. It may still be
+possible to use the LAPS-derived UPS (Unified Propulsion System) apogee
+engine to raise COMETS to some kind of useful orbit. This engine itself
+failed the last time it was  used, on the ETS-6 flight in 1994.
+Meanwhile, troubles with control of   the ETS-7 satellite continue, and
+it is not clear when the rendezvous/docking experiments will take place.
+NASDA have run into a lot of trouble recently, also suffering the
+failure of ADEOS and problems in their engine development program.
+However, their previous  record of success, and the fact that all 6 H-II
+flights have at least reached orbit, suggests they have the expertise to
+eventually overcome their current difficulties.
+
+I now understand that the informal name change of the USAF operated pads
+at Cape Canaveral from LC (Launch Complex) to SLC (Space Launch Complex)
+was made official at some point during 1997, so I am adopting the change
+in my launch listings. I'm guessing, however, that NASA KSC  retains the
+honorable name of LC39 for their Shuttle pads. Vandenberg introduced
+the SLC abbreviation for their orbital pads in July 1966.
+
+Erratum:  Apogee motor for Inmarsat is Star 37FM, not Star 30.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+            
+Jan  7 0228   Lunar Prospector  Athena-2      Canaveral SLC46   Probe      01A
+Jan 10 0032   Skynet 4D         Delta 7925    Canaveral SLC17B  Comsat     02A
+Jan 22 1256   'Ofeq-4           Shaviyt       Palmachim         Imaging    F01
+Jan 23 0248   Endeavour         Shuttle       Kennedy LC39A     Spaceship  03A
+Jan 29 1633   Soyuz TM-27       Soyuz-U       Baykonur LC1      Spaceship  04A
+Jan 29 1837   CAPRICORN         Atlas IIA     Canaveral SLC36A  Comsat?    05A
+Feb  4 2329   Brasilsat B3   )  Ariane 44LP   Kourou ELA2       Comsat     06A
+              Inmarsat 3 F5  )                                  Comsat     06B
+Feb 10 1320   GFO         )     Taurus        Vandenberg 576E   Altimeter  07A
+              Orbcomm G1  )                                     Comsat     07B
+              Orbcomm G2  )                                     Comsat     07C
+              Celestis-02 )                                     Burial     07D
+Feb 14 1434   Globalstar 1 )                                    Comsat     08A
+              Globalstar 2 )    Delta 7420    Canaveral SLC17A  Comsat     08B
+              Globalstar 3 )                                    Comsat     08C
+              Globalstar 4 )                                    Comsat     08D
+Feb 17 1030?  Kosmos-2349       Soyuz-U       Baykonur LC31?    Recon      09A
+Feb 18 1358   Iridium 50 )      Delta 7920    Vandenberg SLC2   Comsat     10A
+              Iridium 51 )                                      Comsat     10B
+              Iridium 52 )                                      Comsat     10C
+              Iridium 53 )                                      Comsat     10D
+              Iridium 54 )                                      Comsat     10E
+Feb 21 0755   Kakehashi         H-II          Tanegashima Y     Comsat     11A
+
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-90  Apr  2
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Sep 17?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/
+MLP2/RSRM65              VAB Bay 3     STS-90
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

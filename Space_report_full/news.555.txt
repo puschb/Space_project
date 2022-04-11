@@ -1,0 +1,64 @@
+Jonathan's Space Report
+No. 555                                       2005 Oct 4, El Escorial, Madrid
+-------------------------------------------------------------------------------
+
+Soyuz TMA-7
+-----------
+
+Soyuz spacecraft No. 217 was launched as Soyuz TMA-7 on Oct 1. Soyuz
+TMA-7 separated from the Soyuz-FG rocket's final stage about 9 minutes
+after launch, beginning its rendezvous with the Station which was
+completed with docking at 0527 UTC on Oct 3.
+
+The crew of TMA-7 consisted of Valeriy Tokarev (Soyuz commander), Bill
+McArthur (Soyuz flight engineer), and Greg Olsen (spaceflight
+participant). Once aboard Station, McArthur became the Expedition 12
+commander and Tokarev the Expedition 12 flight engineer. Olsen is a
+tourist who paid the Russians for his ride. The Expedition 11 crew
+of Sergey Krikalyov and John Phillips will return to Earth with
+Olsen on TMA-6, leaving Expedition 12 on the Station.
+
+GPS IIR-M1
+----------
+
+The US DoD's latest navigation satellite was launched on Sep 26 aboard a
+Boeing Delta 7925 from Cape Canaveral. GPS space vehicle 57 is the first
+Block IIR-M version, which has the same basic design as the IIR
+satellites using the Lockheed Martin 4000 series satellite, but adds
+extra navigation signals for both civil and military users.
+
+POPPY
+-----
+
+The release of pictures of the POPPY satellite (see JSR 554) confirms
+that the early POPPY were almost identical to the ellipsoidal,
+Vanguard-derived, GGSE satellites. A latter POPPY version seems to have
+the same basic structure but is entirely covered with solar cells for
+extra power; this is probably the version launched in groups of four
+in 1969 and 1971.
+
+
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep  2 0950   Kosmos-2415       Soyuz-U         Baykonur LC31    Imaging     34A
+Sep  8 1308   Progress M-54     Soyuz-U         Baykonur LC1     Cargo       35A
+Sep  8 2153   Anik F1R          Proton-M/Briz-M Baykonur LC200/39 Comms      36A
+Sep 23 0224   STP-R1            Minotaur        Vandenberg SLC8  Tech        37A
+Sep 26 0337   Navstar GPS 57    Delta 7925      Canaveral SLC17A Navigation  38A
+Oct  1 0355   Soyuz TMA-7       Soyuz-FG        Baykonur LC1     Spaceship   39A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,230 @@
+Jonathan's Space Report 
+No. 703                                                 2014 Oct 17  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+LVDB
+----
+
+The orbital/suborbital launch vehicle database http://planet4589.org/space/lvdb/ has been updated.
+
+
+International Space Station
+---------------------------
+
+Expedition 41 is underway with commander Max Suraev and flight engineers FE-5 Reid Wiseman and
+FE-6 Alex Gerst. On Sep 25 at 2025 UTC the Soyuz TMA-14M ferry ship was launched
+from Baykonur with the remaining Ex-41 crewmembers FE-1 Aleksandr Samokutyaev, FE-2 Elena Serova
+and FE-3 Barry 'Butch' Wilmore. The port solar array failed to deploy after Soyuz separated
+from the launch vehicle third stage, but this did not impact the rendezvous. Soyuz TMA-14M
+docked with the Poisk module at 0211 UC Sep 26. Serova is the fourth Russian woman in space
+and the first since 1997.
+
+Dragon CRS-4 has arrived at ISS. The SSRMS Canadarm-2 grappled it at 1052 UTC Sep 23
+and berthed it to the Harmony node at 1321 UTC.
+
+The NanoRacks cubesat deployer package was returned to the Kibo airlock on Sep 16
+following trouble with the deployments. The problems have been traced to incorrectly
+tightened screws, and replacement deployers are expected to be sent to ISS.
+
+Astronauts Wiseman and Gerst made US spacewalk EVA-27 on Oct 7. The airlock was depressurized
+at about 1225 UTC and repressurized at 1843 UTC. The failed Pump Module, serial number 04, which was stowed
+on the Mobile Base System's POA mount during an EVA on 2013 Dec 21, was relocated to External
+Stowage Platform 2. A new unit called the Mobile Transporter Relay Assembly (MTRA) was
+attached to the transporter to provide backup power. I'm not sure what flight the MTRA was launched on.
+Wiseman used EMU 3010 and Gerst used EMU 3003.
+
+On Oct 15 Wiseman and Wilmore made spacewalk EVA-28. They replaced the SSU (Sequential Shunt Unit)
+on solar wing 3A, attached to the S4 truss, and worked on external cameras and electronics.
+The replacement SSU has been on the ISS for some time; again, I'm not sure which launch it
+went up on; I'm also not certain which EMUs were used for this EVA.
+
+Kosmos reentry over Colorado
+-----------------------------
+
+Ted Molczan remarked on the discussion in the last JSR that his analysis shows
+that a relatively small piece of debris (50-100 kg class compared to the multi tonne
+Kosmos satellite) matches the visual observations from the Colorado area,
+and that the timing is more consistent with an object ejected just prior to the
+Sep 2 deorbit burn with drag properties similar to other Kobal't-M ejected
+debris. I find his analysis convincing; it is still unclear exactly what the ejected debris
+from Kobal't-M satellites is, but my best guess remains the solar panels.
+
+
+X-37B
+-----
+
+The third X-37B mission, launched in 2012 Dec, is expected to land
+shortly after almost two years in space. On May 5 it was observed to
+still be in a 382 x 405 km x 43.5 deg orbit, similar to the parameters
+achieved a few months after launch. However between then and early
+October it made several orbit lowering burns; it was last observed on
+Oct 6 in a 259 x 285 km orbit. As of Oct 17 its orbital lifetime was 674
+days.
+
+The record durations in space for vehicles that have been recovered on Earth are:
+
+     Hayabusa               7.1 years
+     Stardust               6.9 years
+     Genesis                3.1 years (crashed) 
+    (X-37B FLT-3            674 days so far)
+     X-37B FLT-2            469 days
+     HEXAGON 1218-4         270 d
+     USERS                  261 d
+     HEXAGON 1216-4         260 d
+     Salyut 5 KSI           249 d
+     X-37B FLT-1            224 d
+     Soyuz TMA-9            215 d
+     Kosmos-2290 SpK-22   ca. 210 d?
+     Soyuz TM-27            207 d
+
+
+Luch
+----
+
+The Khrunichev Proton launch vehicle returned to flight Sep 27, launching the Luch
+satellite for the Russian Defense Ministry. The satellite is built by ISS Reshetnev.
+Earlier-generation Luch satellites were used for data relay, analogously to the NASA
+TDRS and NRO SDS systems.  On Oct 16 Luch was in a 35796 x 35896 km x 0.0 deg orbit
+drifting west over 54 deg E.
+
+       Luch series satellites
+ 
+       Cover name        Russian secret name    Active               Status
+
+       Kosmos-1700       Al'tair 11             1985 Oct-1986 Aug    Drifting in GEO
+       Kosmos-1897       Al'tair 12             1987 Nov-1992 Oct?   Drifting in GEO
+       Kosmos-2054       Al'tair 14             1989 Dec-1997 Mar    Drifting in GEO
+       Luch              Al'tair 13             1994 Dec-1998 Aug    Drifting in GEO
+       Luch-1            Gelios 11              1995 Oct-1999 Jun?   Drift near 74E
+       Luch-5A           -                      2011 Dec             GEO 167.1E
+       Luch-5B           -                      2012 Nov             GEO  16.0W
+       Luch-5V           -                      2014 Apr             GEO  95.2E
+       Luch              Olimp-K?               2014 Sep             GEO drift
+
+SJ-11
+-----
+
+China launched the 7th satellite in the Shi Jian 11 constellation on Sep
+28 into a 686 x 705 km x 98.1 deg orbit. 'Shi Jian Shiyihao 07 xing' was
+placed in an 1130 local time sun-synchronous orbit. This is one of the
+larger Chinese military satellite constellations and remains mysterious;
+the speculation that it carries infrared missile warning sensors remains
+unconfirmed.
+
+   SJ-11 (Shi Jian Shiyihao) series satellites
+   Satellite Launch        Current orbit           Local time of desc.node
+   01 xing   2009 Nov 12   683 x 701 km x 98.0 deg  0837
+   02 xing   2011 Jul 29   684 x 700    x 98.2      1356
+   03 xing   2011 Jul  6   687 x 699    x 98.1      1045
+   04 xing   2011 Aug 18   Failed to orbit
+   05 xing   2013 Jul 15   687 x 701    x 98.2      1534
+   06 xing   2014 Mar 31   686 x 704    x 98.2      0908
+   07 xing   2014 Sep 28   685 x 699    x 98.1      1130
+
+Himawari-8
+----------
+
+A Mitsubishi Heavy Industries H-IIA rocket placed the Japan Meteorological Agency's
+Himawari-8 weather satellite in geostationary transfer orbit Oct 7. On Oct 15
+the satellite was in a 35756 x 35813 km x 0.1 deg orbit over 140.8E.
+
+IRNSS
+------
+
+India's PSLV-XL rocket launched the country's third dedicated navigation
+satellite  on Oct 16. The 1425 kg  IRNSS-1C was launched to a
+subsynchronous transfer orbit of 271 x 20600 km x 17.9 deg.
+
+
+Ariane 5
+---------
+
+Ariane mission VA220, vehicle 574, launched two communications satellites to GTO on Oct 16.
+Payloads were the Intelsat/DirectTV joint venture, IS-30/ISDLA-1; and Argentina's first domestic GEO
+comsat, ARSAT-1. IS-30's Ku-band payload is leased to DirectTV as DLA-1 for broadcast to
+Latin America.
+
+
+Chinese UN registration
+-----------------------
+
+China recently submitted satellite registration information to the UN
+for satellites launched between Jan 2012 and Mar 2014. They registered
+33 satellites, but  failed to register 11: the two spaceflights Shenzhou
+9 and 10, the secret military satellite Kuaizhou-1, the Hong Kong based
+ABS-2, and several secondary payloads: Tiantuo-1, Fengniao-1, XY-1,
+Yaogan 16 subsats 1 and 2, and Yaogan 17 subsats 1 and 2. This low level
+of compliance is disappointing, since earlier Chinese registrations
+were much more complete.
+
+Galileo/Soyuz and Proton failures
+---------------------------------
+
+Russian officials report that the failure of the Fregat stage during
+the Aug 22 Galileo launch was caused when a cryogenic helium line
+installed too close to a hydrazine propellant supply
+line caused the hydrazine to freeze. The root cause, according to Arianespace,
+was a design error that failed to require thermal separation of the lines
+(and so, specifically, not a quality control error as previously suggested).
+The failure of a Proton third stage in May is reported to have occurred when a turbopump
+attachment bracket suffered structural failure - the statement is less clear
+this time whether or not the this was due to poor workmanship.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+
+Sep  4 0015   Chuangxin 1-04 )                     Jiuquan           Comms        51B
+              Ling Qiao      )                                       Comms        51A
+Sep  5 0929   Flock 1b-17 )                        ISS, LEO          Imaging     98-67FF
+              Flock 1b-18 )                                          Imaging     98-67FE
+Sep  7 0500   Asiasat 6          Falcon 9 v1.1     Canaveral SLC40   Comms        52A
+Sep  8 0322   Yaogan 21  )       Chang Zheng 4B    Taiyuan           Imaging      53A
+              Tiantuo 2  )                                           Imaging      53B
+Sep 11 2205   Measat 3b )        Ariane 5ECA       Kourou ELA3       Comms        54A
+              Optus 10  )                                            Comms        54B
+Sep 17 0010   CLIO               Atlas V 401       Canaveral SLC41   Sigint?      55A
+Sep 21 0552   Dragon CRS-4       Falcon 9 v1.1     Canaveral SLC40   Cargo        56A
+Sep 25 2025   Soyuz TMA-14M      Soyuz-FG          Baykonur LC1      Spaceship    57A
+Sep 27 2028   Luch               Proton-M/Briz-M   Baykonur LC81/24  Data relay   58A
+Sep 28 0513   SJ-11 07           Chang Zheng 2C    Jiuquan         Surveillance?  59A
+Oct  7 0516   Himawari-8         H-IIA             Tanegashima       Weather      60A
+Oct 15 2002   IRNSS-1C           PSLV-XL           Sriharikota FLP   Navigation   61A
+Oct 16 2144   Intelsat IS-30 )   Ariane 5ECA       Kourou ELA3       Comms        62
+              ARSAT-1        )                                       Comms        62
+
+Suborbital missions
+-------------------
+
+Flight NASA 36.288DS was launched from White Sands Sep 30 with the Naval
+Research Lab's VAULT 2.0 solar telescope.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Sep  2 0202   EPL-ME           VS-30/EPL           Alcantara        Test          130?
+Sep  9        Sparrow Target   Blue Sparrow?       F-15D, Med.Sea   Target        100?
+Sep 10        RV               Bulava              K-551,White Sea  Test         1000?
+Sep 11 0541   Agni RV          Agni I              Chandipur        Op. Test      500?
+Sep 12 1300   USN RV           Trident D-5         Sub, Pacific O.  Test         1000?
+Sep 12 1300   USN RV           Trident D-5         Sub, Pacific O.  Test         1000?
+Sep 12 1300   USN RV           Trident D-5         Sub, Pacific O.  Test         1000?
+Sep 23 1445   Mk 12/21 RV?     Minuteman III       Vandenberg LF09  Op. Test     1300?
+Sep 30        VAULT 2.0        Black Brant IX      White Sands      Solar UV      290?
+Oct 12 0427   MDA Target?      Terrier Lynx        Wallops I        Target?       150?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

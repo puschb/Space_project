@@ -1,0 +1,126 @@
+Jonathan's Space Report
+No. 486                                            2002 Sep 9, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 5 crew remain aboard the Station.  The next mission to
+Station is the STS-112 flight in early October.
+
+Fabrizio Bernardini provided me with some details of the installation
+during the Aug 26 spacewalk of amateur radio antennas on the Zvezda 
+module as part of the Amateur Radio on International Space Station
+(ARISS) project. This system has four antenna setups positioned at 90
+deg interval around the aft edge of the Zvezda module. Each antenna
+setup, attached to the module by means of a clamp to some of the EVA
+handrails, has an L-band/S-band spiral antenna, a vertical flexible whip
+for VHF/UHF (one of the four is however for HF operations), and a
+diplexer which enables use of the two antennas with a single coax cable.
+The four cables are routed via feedthroughs on the aft Zvezda bulkhead
+and brought behind an internal Zvezda panel which will eventually host
+the ISS Amateur Radio station equipment (which is now located at the +Y,
+or Unity end, of Zarya). Next year it will be possible to receive  slow
+scan TV images using a PC with soundcard connected to a basic VHF FM
+receiver.
+
+
+
+Recent Launches
+---------------
+
+Arianespace launched the Ariane 513 vehicle (V155 mission) on Aug 28,
+placing two satellites in geostationary transfer orbit. Ariane 513 was a
+standard Ariane 5G; the EPC main stage shut down 9 min after launch, and
+entered a trans-atmospheric orbit with a perigee probably around 50 km
+and an apogee probably around 2000 km; it reentered over the Pacific
+about 45 min after launch. The EPS upper stage fired from T+9 minutes to
+T+26 min and entered a 585 x 35865 km x 5.4 deg  geostationary transfer
+orbit. Atlantic Bird 1, the upper payload, separated at 
+2313 UTC. The SYLDA 5C adapter separated at 2316 UTC and the lower
+payload, MSG 1, separated at 2321 UTC.
+
+Atlantic Bird 1 is an Alenia Spazio (Torino) GeoBus (Italsat) class 
+Ku-band communications satellite for Eutelsat, the European
+communications operator. It will replace Eutelsat II F-2 at 12.5W. The
+satellite has a dry mass of 1550 kg and carries 1150 kg of propellant
+for its Astrium 400N liquid apogee engine. 
+
+MSG 1 is the first of the Meteosat Second Generation satellites, built
+by Alcatel (Cannes) for Eumetsat, the European weather satellite
+organization. The MSG satellite is a spin-stabilized cylinder looking
+much like the old Meteosats (the first of which went up in 1977), but
+significantly larger. The 3.2m diameter satellite has a dry mass of
+about 1000 kg and carries about 1010 kg of propellant. It has a pair of
+Astrium 400N bipropellant thrusters for orbit raising. The SEVIRI imager
+will take pictures of cloud cover as the satellite spins at 100 revs per
+minute. MSG 1 also carries an Earth radiation budget experiment (GERB)
+and the GEOSAR search-and-rescue transponder.
+
+An Ariane 44L launch on Sep 6 put the Intelsat 906 satelite in 
+geostationary transfer orbit. Intelsat 906 is a Space Systems Loral
+FS1300-extended satellite and will provide international communications
+services over the Indian Ocean.
+
+Tracking of the three fragments of the Contour space probe suggests they
+will return to the Earth around 2003 Aug 16, a year after the apparently
+fatal motor firing. Fragments A and B will pass well beyond the
+Earth-Moon system's gravitational sphere of influence, with a closest
+approach of 5 to 7 million km. Fragment C's orbit is much more uncertain
+but it seems it will pass much closer to Earth, with the best fit value
+according to JPL's navigation team of 736000 km, but an uncertainty of
+over 1.2 million km. The C flyby will occur on 2003 Aug 15 between 0400
+and 2300 UTC. The three objects are in an 0.876 x 1.131 AU orbit around
+the Sun inclined at 8.7 deg  to the ecliptic plane and left the 1 million
+km nominal range of Earth's sphere of influence on Aug 17.
+
+Meanwhile, the Delta third stage from the Contour launch is being
+tracked in a 200 x 106160 km orbit around the Earth; in JSR 483 I
+mentioned an early orbital dataset which indicated a lower than planned
+perigee for the launch, but it is now clear that the data was in error
+(as I speculated at the time) and the Delta rocket performed correctly.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  3 0647   CONTOUR           Delta 7425-9.5 Canaveral SLC17A Space probe  34A
+Jul  5 2322   Stellat 5 )       Ariane 5G      Kourou ELA3      Comms        35A
+              NStar c   )                                                    35B
+Jul  8 0636   Kosmos-2390 )     Kosmos-3M      Plesetsk         Comms        36A
+              Kosmos-2391 )                                     Comms        36B
+Jul 25 1513   Kosmos-2392       Proton-K/DM5?  Baykonur LC81/24 Imaging      37A
+Aug 21 2205   Hot Bird 6        Atlas V 401    Canaveral SLC41  Comms        38A
+Aug 22 0515   Echostar VIII     Proton-K/DM3   Baykonur LC81/23 Comms        39A
+Aug 28 2245   Atlantic Bird 1 ) Ariane 5G      Kourou ELA3      Comms        40A
+              MSG 1           )                                 Weather      40B
+Sep  6 0644   Intelsat 906      Ariane 44L     Kourou ELA2      Comms        41A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107  2003 Jan 16 Spacehab
+OV-103 Discovery       VAB           Maintenance
+OV-104 Atlantis        VAB           STS-112  2002 Oct  2 ISS 9A
+OV-105 Endeavour       OPF           STS-113  2002 Nov  2 ISS 11A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

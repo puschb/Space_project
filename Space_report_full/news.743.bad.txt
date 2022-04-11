@@ -1,0 +1,322 @@
+Jonathan's Space Report 
+No. 743                                                       2017 Dec 25 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 54 began at 0514 UTC Dec 14 when ferry ship Soyuz MS-05
+undocked from the Rassvet module returning Ryazinskiy, Bresnik and
+Nespoli to Earth, leaving Misurkin, Vande Hei, and Acaba aboard ISS.
+Soyuz MS-05 landed in Kazakhstan at 0837 UTC Dec 14.
+
+Cargo ship Cygnus OA-8E (SS Gene Cernan) was unberthed from Unity at
+1752 UTC Dec 5 and released into orbit at 1311 UTC Dec 6. On Dec 6
+it raised its orbit from 402 x 407 km to 447 x 456 km. It then deployed 14
+cubesats on Dec 6 and 7, and lowered its orbit on Dec 8 to 384 x 396 km, below
+the ISS. The ship remained in orbit for tests until it was deorbited
+on Dec 18, with entry over the South Pacific at 1254 UTC.
+
+The cubesats deployed include 8 Lemur-2 AIS/weather satellites for Spire Global,
+the ISARA experiment from JPL to test using the back of a solar array
+as a radio antenna, the Aerocube 7C and 7D satellites from Aerospace Corp.
+to test proximity operations using cold gas thrusters as well as ground-space
+laser communications, NRL's CHEFSat to space-qualify a new radio system,
+and the Naval Postgraduate School's PropCube to study ionspheric propagation.
+Also deployed was the 2U cubesat Asgardia-1, built by Near Space Ltd. (Indiana)
+for Asgardia Space, an organization based in Vienna whose goal is to create
+an independent space nation (I am skeptical of their chances).
+
+Cargo ship Dragon CRS-13 was launched on Dec 15 at 1536 UTC. CRS-13 uses reused
+capsule C108 and a new trunk (no. 15); it was launched on a Falcon 9
+using reused stage 1 B1035 and new stage 2 no. 46. The second stage was
+deorbited southwest of Australia at about 1630 UTC. CRS-13 arrived at
+the ISS on Dec 17; it was grappled by the Canadarm-2 at 1057 UTC and
+berthed on the Harmony nadir port at 1326 UTC.
+
+The Dragon trunk carries the TSIS solar observatory and the SDS space
+debris sensor. TSIS will be installed on ELC3; SDS will go on the
+Columbus external payload location replacing RapidScat.
+
+Ferry ship Soyuz MS-07 was launched on Dec 17 at 0721 UTC and docked with the
+Rassvet module at 0839 UTC on Dec 29. Crew are Shkaplerov, Tingle and
+Kanai. Soyuz MS-07 is vehicle no. 737, and ISS flight 53S.
+
+
+Meteor-M launch failure
+-----------------------
+
+On Nov 28 Russia's Roskosmos launched a Soyuz-2-1B/Fregat from
+Vostochniy, the second launch from that new spaceport (formerly
+Svobodniy). The Soyuz reached its planned orbit of around 35 x 200 km
+but then the Fregat upper stage fired in the wrong direction due to a
+bug in its control algorithm. Its first burn should have put the stack
+in an orbit of roughly 200 x 800 km, but instead reached about -470 x
+202 km and drove the payload down into the atmosphere over the Atlantic
+Ocean. Airliners flying near 50N 35W saw the reentry. Roskosmos
+reported a likely crash site at 42N 38W.
+
+The third stage continued on in the original orbit and plunged into the
+ocean further south, near 15N 45W, off the north coast of S America.
+
+The primary payload was the Meteor-M No. 2-1 weather satellite.
+Secondary payloads lost on the launch were LEO Vantage 2
+(Telesat/Canada, built by UTIAS/Toronto and SSLMDA); Baumanets-2 from
+Bauman Technical University; the Astroscale IDEA-OSG-1 space debris
+experiment, Corvus-BC-3 and 4 for AstroDigital, AISSAT-3 for Norway, the
+SEAM and D-Star cubesas from KTH/Sweden and German Orbital Systems, and
+ten Lemur-2 satellites from Spire Global.
+
+Kosmos-2524
+-----------
+
+Russia launched a signals intelligence satellite on Dec 2 into an
+elliptical orbit of 240 x 900 km. The satellite, Lotos-S1 No. 803
+(codenamed Kosmos-2524), maneuvered at 0655 UTC on Dec 4 into a circular
+900 x 909 km orbit.
+
+LKW
+---
+
+China launched a high resolution imaging satellite, Ludi Kancha Weixing
+1 (LKW 1, Land Survey Satellite 1), into 500 km sun-sync orbit on Dec 3.
+A second such satellite, LKW 2, was launched on Dec 23 into the same
+orbit but phased 180 degrees away.
+
+Shikisai/Tsubame
+-----------------
+
+Japan launched an H-IIA rocket from Tanegashima on Dec 23 carrying two satellites
+into different orbits. First, the Global Change Observation Mission - Core Satellite
+(GCOM-C, named 'Shikisai') was inserted in 790 x 793 km sun-synchronous orbit.
+Shikisai carries the SLGO (Second generation GLobal Land Imager) 250-metre-resolution
+visible/IR camera to monitor changes in aerosols, cloud cover and vegetation.
+
+Then the H-IIA second stage moved to a 461 x 795 km orbit and ejected a small adapter.
+A further burn lowered apogee somewhat to 457 x 629 km, at which point the Super Low
+Altitude Test Satellite (SLATS, named 'Tsubame') was deployed. SLATS will use its
+own propulsion to lower its orbit further and test satellite control at low orbital
+altitudes.
+
+Note that Tsubame is also the name of a satellite launched by the Tokyo Institute
+of Technology in Nov 2014. I deplore JAXA's habit of reusing existing satellite names 
+(they did it for Hitomi as well) - it will cause unnecessary confusion for historians
+for the next thousand years or so.
+
+
+Iridium
+--------
+
+Ten more Iridium communications satellites were launched on a Falcon 9
+from Vandenberg on Dec 23. No attempt was made to recover the first
+stage (B1036, on its second flight), although it is rumoured that an
+attempt to recover half of the nose fairing was made. The launch came at
+local sunset, so the rocket plume was illuminated and widely observed in
+the southern California area. The second stage was deorbited after
+deploying the payloads.
+
+Launch of the Falcon 9 came 72 seconds after the H2A launch. This is a
+new record for the shortest time between two orbital launch attempts,
+breaking the 4m44s interval between Kosmos-385 and Peole in Dec 1970.
+
+
+Alcomsat
+--------
+
+China launched a DFH-4 communications satellite for Algeria on Dec 10.
+By Dec 24 the satellite was stationary over 24.8W.
+
+Beijing's China Academy of Space Technology (CAST) has now launched
+5-tonne GEO comsats for a variety of countries: Nigeria, Venezuela,
+Pakistan, Bolivia, Laos, Belarus and Algeria. 
+
+GalileoSat
+----------
+
+Four European Union Galileo navigation satellites were placed in Plane A
+by an Ariane 5ES on Dec 12. The Ariane 5ES uses the older EPS upper
+stage, and the EPC core stage makes almost a whole orbit with
+a high apogee, 42 x 3340 km x 55.4 deg! (Thanks to @DutchSpace
+for passing on the data). It reentered over the east
+Pacific at 2038 UTC after two hours in space. The EPS, meanwhile,
+entered an elliptical orbit to coast to a 22900 km apogee where it
+restarted to circularize to a 22900 x 22930 km x 57.0 deg orbit
+for payload deployment.
+
+The payloads are the FM 15 to 19 FOC satellites, GSAT0215 to 0219,
+GalileoSat 19-22 (Galileo has a ridiculous number of parallel
+designation systems). This is the first launch under the aegis of the
+GSA (European GNSS Agency) which took over Galileo operations from ESA
+in July. GSA's control centre is colocated with the German national
+control center GSOC at Oberpfaffenhofen southwest of Munich.
+
+None of the Galileo satellites have been registered with the UN, in
+violation of UN Resolution 1721B and the UN Registration Convention. The
+satellites were launched by France (via Arianespace) and operated until
+now by ESA; both France and ESA have UN satellite registers, and the
+fact that the EU does not (yet) have a register suggests to me that ESA
+should be the effective `launching state' since they had effective
+control of the satellites.
+
+ Galileo satellite launches -
+FM               GSAT      Code   Name                    SVID/Slot   LV                  Site      LaunchDate      Peri    Apo     Inc   COSPAR
+
+Giove A                           GIOVE A                 E01,E51/-  Soyuz-FG/Fregat     KB LC31   2005 Dec 28     23314 x 23362 x 56.1   2005-51A                
+Giove B                           GIOVE B                 E16,E52/-  Soyuz-FG/Fregat     KB LC31   2008 Apr 26     23095 x 23237 x 55.9   2008-20A               
+Galileo IOV PFM,  GSAT0101        GalileoSat-1 (Thijs)      E11/B05  Soyuz ST-B/Fregat   CSG ELS   2011 Oct 21     23215 x 23229 x 54.7   2011-60A              
+Galileo IOV FM2,  GSAT0102        GalileoSat-2 (Natalia)    E12/B06  Soyuz ST-B/Fregat   CSG ELS   2011 Oct 21     23212 x 23232 x 54.7   2011-60B              
+Galileo IOV FM3,  GSAT0103        GalileoSat-3 (David)      E19/C04  Soyuz ST-B/Fregat   CSG ELS   2012 Oct 12     23221 x 23223 x 55.3   2012-55A   
+Galileo IOV FM4,  GSAT0104        GalileoSat-4 (Sif)        E20/C05  Soyuz ST-B/Fregat   CSG ELS   2012 Oct 12     23220 x 23224 x 55.3   2012-55B   
+Galileo FOC FM01, GSAT0201  261   GalileoSat-5  (Doresa)    E18/X01  Soyuz ST-B/Fregat   CSG ELS   2014 Aug 22     17022 x 26176 x 50.4   2014-50A   
+Galileo FOC FM02, GSAT0202  262   GalileoSat-6  (Milena)    E14/X02  Soyuz ST-B/Fregat   CSG ELS   2014 Aug 22     17021 x 26178 x 50.4   2014-50B   
+Galileo FOC FM03, GSAT0203  263   GalileoSat-7  (Adam)      E26/B08  Soyuz ST-B/Fregat   CSG ELS   2015 Mar 27     23210 x 23234 x 55.8   2015-17A   
+Galileo FOC FM04, GSAT0204  264   GalileoSat-8  (Anastasia) E22/B03  Soyuz ST-B/Fregat   CSG ELS   2015 Mar 27     23214 x 23230 x 55.8   2015-17B   
+Galileo FOC FM05, GSAT0205  205   GalileoSat-9  (Alba)      E24/A08  Soyuz ST-B/Fregat   CSG ELS   2015 Sep 11     23212 x 23232 x 56.7   2015-45A   
+Galileo FOC FM06, GSAT0206  206   GalileoSat-10 (Oriana)    E30/A05  Soyuz ST-B/Fregat   CSG ELS   2015 Sep 11     23215 x 23230 x 56.7   2015-45B   
+Galileo FOC FM08, GSAT0208  268   GalileoSat-11 (Andriana)  E08/C07  Soyuz ST-B/Fregat   CSG ELS   2015 Dec 17     23213 x 23231 x 54.9   2015-79B   
+Galileo FOC FM09, GSAT0209  269   GalileoSat-12 (Liene)     E09/C02  Soyuz ST-B/Fregat   CSG ELS   2015 Dec 17     23216 x 23229 x 54.9   2015-79A   
+Galileo FOC FM10, GSAT0210  26A   GalileoSat-13 (Danielle)  E01/A02  Soyuz ST-B/Fregat   CSG ELS   2016 May 24     23209 x 23235 x 57.0   2016-30B   
+Galileo FOC FM11, GSAT0211  26B   GalileoSat-14 (Alizee)    E02/A06  Soyuz ST-B/Fregat   CSG ELS   2016 May 24     23210 x 23234 x 57.0   2016-30A   
+Galileo FOC FM07, GSAT0207  267   GalileoSat-15 (Antonianni)E07/C06  Ariane 5ES          CSG ELA3  2016 Nov 17     23215 x 23230 x 54.6   2016-69A               
+Galileo FOC FM12, GSAT0212  26C   GalileoSat-16 (Lisa)      E03/C08  Ariane 5ES          CSG ELA3  2016 Nov 17     23216 x 23229 x 54.6   2016-69B               
+Galileo FOC FM13, GSAT0213  26D   GalileoSat-17 (Kimberley) E04/C03  Ariane 5ES          CSG ELA3  2016 Nov 17     23218 x 23227 x 54.6   2016-69C               
+Galileo FOC FM14, GSAT0214  26E   GalileoSat-18 (Tijmen)    E05/C01  Ariane 5ES          CSG ELA3  2016 Nov 17     23220 x 23225 x 54.6   2016-69D               
+Galileo FOC FM15, GSAT0215  2C5   GalileoSat-19 (Nicole)    E21/A03  Ariane 5ES          CSG ELA3  2017 Dec 12     22818 x 22923 x 57.0   2017-79A
+Galileo FOC FM16, GSAT0216  2C6   GalileoSat-20 (Zofia)     E25/A07  Ariane 5ES          CSG ELA3  2017 Dec 12     22906 x 23046 x 57.0   2017-79B
+Galileo FOC FM17, GSAT0217  2C7   GalileoSat-21 (Alexandre) E27/A04  Ariane 5ES          CSG ELA3  2017 Dec 12     22905 x 23172 x 57.2   2017-79C
+Galileo FOC FM18, GSAT0218  2C8   GalileoSat-22 (Irina)     E31/A01  Ariane 5ES          CSG ELA3  2017 Dec 12     22903 x 22911 x 56.9   2017-79D
+
+Simorgh
+-------
+
+In JSR 740 I noted Iran's Simorgh launch and characterized it as
+probably a successful  suborbital test. I am now leaning towards it
+being a failed orbital launch attempt, so I am redesignating the launch
+as 2017-F04  (hence, the Meteor failure is 2017-F05). This is not
+necessarily the final answer, though!
+
+D-SAT
+-----
+
+The 3U cubesat from D-Orbit of Lomazzo, Italy carried a small solid
+motor to demonstrate a commercial satellite deorbiting system. The motor
+was fired at 2018 UTC on Oct 2 (I missed this at the time!). The
+satellite lost attitude during the burn and the net delta-V was about 65
+m/s, mostly posigrade; the orbit was raised from 496 x 508 km to 506 x
+686 km instead of being lowered to negative perigee. The expected
+delta-V had been 180 m/s retrograde.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+Oct 30        Kosmos-2523                              Kosmos-2521, LEO  Tech         37E   S42986   555 x   664 x 97.9
+Nov  5 1145   Beidou DW 24 )          Chang Zheng 3B/YZ1  Xichang LC3    Comms        69A   S43001 21485 x 21614 x 55.0
+              Beidou DW 25 )                                             Comms        69B   S43002 21541 x 22194 x 55.0
+Nov  8 0142   Mohammed VI-A           Vega              CSG ZLV          Imaging      70A   S43005   620 x   673 x 98.0
+Nov 12 1219   SS Gene Cernan          Antares 230       MARS LA0B        Cargo        71A   S43006   200 x   299 x 51.6
+Nov 14 1835   FY-3D  )                Chang Zheng 4C    Taiyuan          Weather      72A   S43010   798 x   812 x 98.7
+              HEAD-1 )                                                   Imaging      72B   S43011   798 x   809 x 98.7
+Nov 18 0947   NOAA-20/JPSS-1 )        Delta 7920-10C    Vandenberg SLC2W Weather      73A   S43013   817 x   820 x 98.7
+              EagleSat       )                                           Tech         73    S43016?  455 x   818 x 98.7   
+              MakerSat-0     )                                           Tech         73    S43017?  454 x   818 x 97.7
+              RadFxSat       )                                           Tech         73    S43018?  454 x   818 x 97.7
+              Buccaneer-RMM  )                                           Tech         73B   S43014   460 x   819 x 97.7
+              MiRaTa         )                                           Tech         73C   S43015   455 x   818 x 97.7
+Nov 20 0805   EcAMSat                                   ISS, LEO         Sci        98-67NG S43019   399 x   407 x 51.6
+Nov 20 1225   ASTERIA                                   ISS, LEO         Ast        98-67NH S43020   401 x   405 x 51.6
+Nov 20 1702   Dellingr                                  ISS, LEO         Sci        98-67NJ S43021   401 x   405 x 51.6
+Nov 21 0450   Jilin-1 Shipin 4  )     Chang Zheng 6     Taiyuan          Imaging      74A   S43022   532 x   545 x 97.5
+              Jilin-1 Shipin 5  )                                        Imaging      74B   S43023   532 x   545 x 97.5
+              Jilin-1 Shipin 6  )                                        Imaging      74C   S43024   532 x   545 x 97.5
+Nov 21 0825   TechEdSat-6                               ISS, LEO         Tech       98-67NJ S43026   398 x   406 x 51.6
+Nov 21 1140   OSIRIS-3U                                 ISS, LEO         Sci        98-67NJ S43027   395 x   409 x 51.6
+Nov 24 1810   Yaogan-30 02 zu 01 xing ) Chang Zheng 2C  Xichang          Sigint       75A   S43028   590 x   604 x 35.0
+              Yaogan-30 02 zu 02 xing )                                  Sigint       75B   S43029   590 x   604 x 35.0
+              Yaogan-30 02 zu 03 xing )                                  Sigint       75C   S43030   590 x   604 x 35.0
+Nov 28 0541   Meteor-M No. 2-1 )      Soyuz-2-1B/Fregat Vostochniy       Weather      F05   F01505    35?x   200?x 97.4
+              LEO Vantage 2    )                                         Comms        F05   F01506    35?x   200?x 97.4
+              Baumanets 2      )                                         Tech         F05   F01507    35?x   200?x 97.4
+              IDEA-OSG 1       )                                         Sci          F05   F01508    35?x   200?x 97.4
+              Corvus-BC 3      )                                         Imaging      F05   F01509    35?x   200?x 97.4
+              Corvus-BC 4      )                                         Imaging      F05   F01510    35?x   200?x 97.4
+              AISSAT-3         )                                         AIS          F05   F01511    35?x   200?x 97.4
+              SEAM             )                                         Tech         F05   F01522    35?x   200?x 97.4
+              D-Star One       )                                         Tech         F05   F01523    35?x   200?x 97.4
+              Lemur-2-McGarvey )                                         AIS/Weather  F05   F01512    35?x   200?x 97.4
+              Lemur-2-BenYeoh  )                                         AIS/Weather  F05   F01513    35?x   200?x 97.4
+              Lemur-2-Harvey   )                                         AIS/Weather  F05   F01514    35?x   200?x 97.4
+              Lemur-2-Matthew  )                                         AIS/Weather  F05   F01515    35?x   200?x 97.4
+              Lemur-2-MaxiMillie  )                                      AIS/Weather  F05   F01516    35?x   200?x 97.4
+              Lemur-2-SMillie-Face)                                      AIS/Weather  F05   F01517    35?x   200?x 97.4
+              Lemur-2-NRE-Metts   )                                      AIS/Weather  F05   F01518    35?x   200?x 97.4
+              Lemur-2-CylonRaider )                                      AIS/Weather  F05   F01519    35?x   200?x 97.4
+              Lemur-2-Ector       )                                      AIS/Weather  F05   F01520    35?x   200?x 97.4
+              Lemur-2 Craig       )                                      AIS/Weather  F05   F01521    35?x   200?x 97.4
+Dec  2 1043   Kosmos-2524             Soyuz-2-1B        Plesetsk LC43/4  Sigint       76A   S43032   245 x   900 x 67.1
+Dec  3 0411   LKW-1                   Chang Zheng 2D    Jiuquan LC603    Imaging      77A   S43034   478 x   592 x 97.5 1030LT SSO
+Dec  6 1924   Lemur-2-YongLin                         SS Cernan, LEO     AIS/Weather  71E?  S43041?  449 x   454 x 51.6
+              Lemur-2-Kevin                                              AIS/Weather  71F?  S43042?  449 x   454 x 51.6
+              CHEFSat                                                    Tech         71G?  S43043?  449 x   454 x 51.6
+              Aerocube 7B                                                Tech         71H?  S43044?  449 x   454 x 51.6
+              Aerocube 7C                                                Tech         71J?  S43045?  449 x   454 x 51.6
+Dec  6 2240   Lemur-2-BrianDavie                      SS Cernan, LEO     AIS/Weather  71K?  S43046?  449 x   454 x 51.6
+              Lemur-2-RomaCoste                                          AIS/Weather  71L?  S43047?  449 x   454 x 51.6
+              PropCube Fauna                                             Tech         71M?  S43048?  449 x   454 x 51.6
+              Asgardia 1                                                 Tech         71N?  S43049?  449 x   454 x 51.6
+              ISARA                                                      Tech         71P?  S43050?  449 x   454 x 51.6
+Dec  7 0200   Lemur-2-RocketJonah                     SS Cernan, LEO     AIS/Weather  71Q?  S43051?  449 x   454 x 51.6
+              Lemur-2-Liu-Poh-Chun                                       AIS/Weather  71R?  S43052?  449 x   454 x 51.6
+              Lemur-2-McCullagh                                          AIS/Weather  71S?  S43053?  449 x   454 x 51.6
+              Lemur-2-Dunlop                                             AIS/Weather  71T?  S43054?  449 x   454 x 51.6
+Dec 10 1640   Alcomsat 1              Chang Zheng 3B    Xichang LC2      Comms        78A   S43039   180 x 41795 x 26.4
+Dec 12 1836   GalileoSat 19 )         Ariane 5ECA       Kourou ELA3      Navigation   79A   S43055 22818 x 22922 x 57.0
+              GalileoSat 20 )                                            Navigation   79B   S43056 22906 x 23046 x 57.0
+              GalileoSat 21 )                                            Navigation   79C   S43057 22905 x 23172 x 57.2
+              GalileoSat 22 )                                            Navigation   79D   S43058 22903 x 22911 x 56.9
+Dec 15 1536   Dragon CRS-13           Falcon 9          Canaveral LC40   Cargo        80A   S43060   204 x   356 x 51.6
+Dec 17 0721   Soyuz MS-07             Soyuz-FG          Baykonur LC1     Spaceship    81A   S43063   185 x   238 x 51.6
+Dec 23 0126   Shikisai )              H2A 202           Tanegashima      Imaging      82A   S43065   790 x   793 x 98.7 1015LT SSO
+              Tsubame  )                                                 Tech         82B   S43066   470 x   655 x 98.7 
+Dec 23 0127   Iridium SV116           Falcon 9          Vandenberg SLC4E Comms        83C   S43072   609 x   626 x  86.7
+              Iridium SV130                                              Comms        83D   S43073   609 x   626 x  86.7
+              Iridium SV131                                              Comms        83K   S43079   609 x   626 x  86.7
+              Iridium SV134                                              Comms        83F   S43075   609 x   626 x  86.7
+              Iridium SV135                                              Comms        83A   S43070   609 x   626 x  86.7
+              Iridium SV137                                              Comms        83G   S43076   609 x   626 x  86.7
+              Iridium SV138                                              Comms        83B   S43071   609 x   626 x  86.7
+              Iridium SV141                                              Comms        83H   S43077   609 x   626 x  86.7
+              Iridium SV151                                              Comms        83E   S43074   609 x   626 x  86.7
+              Iridium SV153                                              Comms        83J   S43078   609 x   626 x  86.7
+Dec 23 0414   LKW-2                   Chang Zheng 2D    Jiuquan          Imaging      84A   S43080   492 x   511 x  97.5 1033 LT SSO
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Another Burkan-2H missile (modified derivative of Scud, probably from an Iranian Qiam) was launched on
+Dec 19 by Al Ansar forces from the Dammaj Valley area south of Sa'dah in north Yemen to Riyadh.
+Saudi reports again stated that it was intercepted by PAC-2 missiles.
+
+The third New Shepard booster made its first flight on Dec 12, carrying the second New Shepard
+Crew Capsule to an apogee of 99.3 km. The booster landed back at the launch site and the capsule
+was recovered by parachute. As part of preparations for human crews on the vehicle, the capsule
+carried a dummy with the outstandingly punny (and timely) moniker "Mannequin Skywalker".
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Nov  4 1707   RV/Warhead        Burkan 2H          Sa'dah?               Weapon        150?      Riyadh
+Nov 28 1817   RV                Hwasong-15         Pyongsong             Test         4475       Sea of Japan
+Nov 28 1823   RV                Hyunmoo 2          Goeseong?             Demo          150?      Sea of Japan
+Dec 12 1659   New Shepard CC2   New Shepard        West Texas            Test           99       West Texas
+Dec 19        RV/Warhead        Burkan 2H          Sa'dah                Weapon        150?      Riyadh
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

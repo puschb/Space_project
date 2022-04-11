@@ -1,0 +1,182 @@
+
+Jonathan's Space Report
+No. 469                                            2001 Dec 11   Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Progress M1-7 soft docked to the Zvezda module at 1943 UTC on Nov 28.
+The docking probe was connected to Zvezda, but the vehicle was not
+firmly latched, preventing hatch opening and raising fears that
+vibration from a Shuttle docking could knock the spacecraft loose. A
+rubber seal left over from the previous occupant of the docking port,
+Progress M-45 was blocking the docking system and a spacewalk was
+required to clear it out of the way before a final seal could be made.
+This was very similar to the situation in April 1987 when astronauts had
+to make a spacewalk to fix an almost identical problem with the docking
+of the Kvant module to Mir.
+
+Dezhurov and Tyurin depressurized the Pirs airlock on Dec 3;  by 1306
+UTC pressure passed 50 mbar. After a 5 minute leak check at 21 mbar, 
+the spacesuits went to battery power, the pressure was brought down even
+lower to 14 mbar and the hatch was opened  at 1320 UTC. Dezhurov and
+Tyurin emerged at around 1327 UTC and by 1440 UTC were at the aft end of
+Zvezda. They identified the debris fouling the docking port as the
+rubber O-ring from the Progress M-45 docking system. At 1453 UTC the
+debris was removed and a minute later ground controllers successfully
+commanded the Progress M1-7 to complete a firm docking. Dezhurov and
+Tyurin returned to Pirs at 1559 UTC, closing the hatch at 1606 and
+repressurizing at 1609 for an EVA duration of 3hr3min (depress/repress),
+2hr46min (hatch open/close, Russian rule) or 2hr 55min (NASA rule).
+
+Note: NASA refers to the new Progress as `Progress 6', a shorthand for
+the fact that Progress M1-7 is space station flight 6P. However, the
+real `Progress-6' was launched to Salyut-6 in May 1979, so I recommend
+that this nomenclature be avoided - use `Progress mission 6P' or `ISS
+6P' if you must, but Progress M1-7 or Progress No. 256 (the factory
+serial number) is better.
+
+Space Shuttle mission STS-108 (ISS mission UF-1) was launched on Dec 5
+at 2219:28 UTC. Endeavour reached an orbit of approximately 58 x 230 km
+(according to the NASA PAO) at 2228 UTC. At 2259 UTC Endeavour fired
+its OMS engines to raise perigee to 225 km. Mass after OMS-2 was
+114692 kg. Endeavour docked with the Station at 2003 UTC on Dec 7;
+problems aligning the vehicles delayed hard dock until 2051 UTC, and
+the hatch was opened at 2243 UTC.
+
+The Raffaello module was unberthed from Endeavour at 1701 UTC on Dec 8
+and berthed to Unity at 1755 UTC.
+
+STS-108 astronauts Linda Godwin and Dan Tani carried out a spacewalk on
+Dec 10 to install thermal blankets on the P6 solar array gimbal motor
+bearings, which were distorting due to temperature changes. The
+Shuttle's airlock was depressurized at about 1747 UTC, hatch was open at
+1749 UTC, and the astronauts emerged at 1803 and 1814 UTC. The blankets
+were installed by 2010 UTC; after failing to engage a solar array latch,
+the crew moved on to retrieve tools for the next mission and returned to
+the airlock to close the hatch about 2157 UTC. The airlock was
+repressurized at 2204 UTC, for a duration of 4hr17m (depress/repress),
+4h08m (hatch open/close) or 4h11m (NASA rule).
+
+Recent Launches
+---------------
+
+Three Uragan (`Hurricane') navigation satellites were launched on Dec 1
+as Block 30 of the Global Navigation Satellite System (GLONASS).  The
+satellites, Uragan 790, Uragan 789 and Uragan-M 711, were renamed
+Kosmos-2380, Kosmos-2381 and Kosmos-2382 on orbit. One of the new trio
+is the first Uragan-M improved model. The first Uragan satellite was
+launched in 1982; the Uragans are the Russian analogs of the Navstar GPS
+satellites. Thanks to Richard Langley for passing on Russian data.
+
+The Proton-K launch vehicle reached orbit at 1813 UTC and the Blok DM
+lower adapter separated from the payload complex. Reentry of the adapter
+and the Proton final stage were observed in the USA and Europe. The DM
+made its first burn from low parking orbit at about 1908 UTC, raising
+apogee to 19000 km. The orbit was circularized at apogee at about 2200
+UTC and the satellites were deplyed by 2228 UTC. On Dec 7 the satellites
+were in 19100 x 19130 km x 64.8 deg orbits.
+
+The JASON/TIMED mission took off on Dec 7 at 1507 UTC. The Boeing Delta
+7920-10C flew a complicated profile; the Delta second stage reached an
+initial orbit of 215 x 1343 km x 66.2 deg at 1517 UTC. A second burn at
+1559 UTC circularized at apogee to 1320 x 1330 km x 66.0 deg, and the
+Jason 1 satellite was ejected at 1602 UTC. Five minutes later the DPAF
+adapter separated to reveal the TIMED satellite inside it. Burn 3 at
+1614 UTC put Delta/TIMED in a descending 636 x 1330 km x 71.3 deg orbit;
+at perigee at 1706 UTC a fourth burn circularized at 627 x 640 km x 74.1
+deg and TIMED was ejected six minutes later. A final depletion burn left
+the Delta stage in a low perigee orbit.
+
+Jason 1 is a joint mission between CNES (the French space agency) and
+NASA/JPL, following on the Topex satellite which carried the Poseidon
+sea surface altimeter. Jason carries Poseidon 2, as well as orbital
+tracking experiments and a microwave radiometer which measures the
+amount of water vapor, allowing path delay errors to be calibrated. The
+satellite uses the Alcatel Proteus bus and has a dry mass of 472 kg plus
+28 kg of hydrazine propellant.
+
+The second payload, TIMED, is the first NASA Solar Terrestrial Probe,
+operated by Johns Hopkins Applied Physics Lab to study the thermosphere,
+mesosphere and lower ionosphere. TIMED was built in-house at APL and has
+a mass of 587 kg; the project is managed at NASA-Goddard. It measures
+solar and auroral energy input, atmospheric cooling rates, and
+atmospheric composition, temperature and wind profiles.
+
+Russia launched a Meteor-3M weather satellite on Dec 10 into a 996 x
+1015 km x 99.7 deg orbit. The Meteor-3M No. 1, with a mass around 2500
+kg, is an improved version of the Meteor-3 satellite first flown in
+1984, and carries visible and IR sensors and NASA's SAGE III instrument
+which studies aerosols and the ozone layer. Four small subsatellites
+were also carried into orbit: Badr B, Maroc-Tubsat, Kompas and
+Reflektor. The Zenit final stage and four small separation motor covers
+(which will be in higher apogee orbits) are expected to be in orbit too,
+for a total of 10 objects; 5 have been cataloged so far and it will
+probably take a while to sort them out.
+
+Badr B is Pakistan's second satellite. Built in collaboration with the
+English company SIL, it has a mass of 70 kg and carries an Earth imager.
+Maroc-Tubsat was built by the Technical University of Berlin for the
+Centre Royal de Teledetection Spatiale, Morocco, and has a mass of 45
+kg. It carries an imager and a store-forward communications test. The
+Russian Kompas satellite, built by Makeev for the IZMIRAN geophysics
+institute, is an 80 kg satellite with a magnetometer and other sensors
+designed to attempt prediction of  earthquakes. The satellite was
+originally built for use on the Shtil' rocket. Finally, the 8 kg
+Reflektor was built by NII KP in Russia for space debris studies in a
+joint experiment with the USAF's AF Research Lab.
+
+
+Four Trident I C-4 submarine-launched ballistic missiles flew a
+suborbital trajectory down the Eastern Range on Dec 9 after launched
+from the USS Ohio. Lockheed Martin reports that 221 Trident Is have been
+launched, although I have only been able to find public records of 153.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Nov 26 1824   Progress M1-7     Soyuz-FG       Baykonur LC1     Cargo        51A
+Nov 27 0035   DirecTV 4S        Ariane 44LP    Kourou ELA2      TV broadcast 52A
+Dec  1 1804   Kosmos-2380 )     Proton-K/DM2   Baykonur         Navsat       53A
+              Kosmos-2381 )                                     Navsat       53B
+              Kosmos-2382 )                                     Navsat       53C
+Dec  5 2219   Endeavour )       Shuttle        Kennedy LC39B    Spaceship    54A
+              Raffaello )
+Dec  7 1507   Jason 1   )       Delta 7920-10  Vandenberg SLC2W Science      55A
+              TIMED     )                                       Science      55B
+Dec 10 1719   Meteor-3M )       Zenit-2        Baykonur LC45    Weather      56A
+              Badr B    )                                       Imaging      56
+              Maroc-Tubsat)                                     Imaging      56
+              Kompas    )                                       Science      56
+              Reflektor )                                       Technology   56
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Feb 14  HST SM-3B
+OV-103 Discovery       OPF Bay 1?    Maintenance
+OV-104 Atlantis        OPF Bay 2?    STS-110 2002 Mar 21  ISS 8A
+OV-105 Endeavour       ISS           STS-108 2001 Dec  7  ISS UF-1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

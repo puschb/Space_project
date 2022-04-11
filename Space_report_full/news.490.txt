@@ -1,0 +1,172 @@
+Jonathan's Space Report
+No. 490                                            2002 Nov 22, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The next Shuttle mission is STS-113. Orbiter OV-105 Endeavour will carry
+the P1 truss to the Station and attach it to the S0 truss.  Launch is scheduled
+for Nov 23.
+
+Endeavour's crew are Jim Wetherbee (CDR), Paul Lockhart (PLT), Michael
+Lopez-Alegria (MS1) and John Herrington (MS2). In addition, Ken Bowersox
+(MS3), Nikolai Budarin (MS4) and Don Pettit (MS5) will fly on Endeavour
+and replace the current station crew, becoming Expedition 6 (EO-6)
+Commander, Flight Engineer 1, and Flight Engineer 2/Science Officer
+respectively. The current EO-5 crew of Valeriy Korzun, Sergey Treshchev
+and Peggy Whitson will return to Earth.
+
+Soyuz TMA-1 docked with the Pirs module at 0501 UTC on Nov 1. The EP-4
+visiting crew of Zalyotin, De Winne and Lonchakov have joined Korzun,
+Treshchev and Whitson on the Station. On Nov 9 the EP-4 crew boarded
+Soyuz TM-34 and undocked from the Zarya nadir port at 2044 UTC, leaving
+Soyuz TMA-1 for the resident crew. Soyuz TM-34 landed in Kazakstan at
+0004 UTC on Nov 10.
+
+Recent Launches
+---------------
+
+
+Galileo passed 160 km from Amalthea (Jupiter V) on its final Jovian moon
+flyby. Closest approach was at 0618 UTC on Nov 5; perijove was at 0724
+UTC at 71500 km above the cloud tops.  A safemode at about 0648 UTC
+caused loss of some data from the encounter.
+
+Galileo is now in an orbit which  will reach an apojove of 26.4 million
+km in Apr 2003. The Sun's gravity perturbs the orbit and causes the
+current orbit periapsis height of 71000 km to slowly drop, becoming
+negative in Jun 2003; Galileo will fall back to destructive entry into
+the Jovian clouds on Sep 2003 with a final Jovicentric/ecliptic orbit at
+that time of -9700 x 25434600 km x 1.7 deg.
+
+The first Boeing Delta IV was launched successfully on Nov 20 at 2239
+UTC. In Boeing's arcane nomenclature system the vehicle was a Delta
+4M+(4,2) and had two Alliant GEM-60 solid strapons, a single 5-m
+diameter Delta CBC core stage with an RS-68 LOX/LH2 engine, and a
+4-meter Delta 4 Second Stage with an RL10B-2 LOX/LH2 engine. The Delta 4
+Second Stage is a stretched version of the Delta 3 stage 2. As far as I
+know it doesn't really have a name or designation of its own, but I'll
+refer to it as the D4SS-4 (Delta 4 Second Stage, 4-m version), to
+distinguish it from what I'll call the D3SS from Delta 3 and the D4SS-5
+(5-m version of the same stage). The D4SS-4 is about 2850 kg on orbit
+with a length of 12m to the end of the extended rocket nozzle and a
+diameter of 4.0m.
+
+D3SS (Delta 3 Second Stage) and derivatives
+
+Flt. Type   LV type        Mission Date        Payload      Orbit
+                                                           (km x km x deg)
+ 1  D3SS   Delta 8930      D259    1998 Aug 27 Galaxy 10    -
+ 2  D3SS   Delta 8930      D269    1999 May  5 Orion 3      159 x  1373 x 29
+ 3  D3SS   Delta 8930      D280    2000 Aug 23 DM-F3        163 x 20219 x 28
+ 4  D4SS-4 Delta IVM+(4,2) DIV-1   2002 Nov 20 Eutelsat W5  562 x 35777 x 13
+
+
+Note: Flight 1 was lost prior to D3SS ignition. Flight 2 failed at the
+start of the second burn. The second stage seems to have worked well on
+Flight 3 although there is some dispute about how successful the overall
+flight was. In contrast to the dismal record of the Delta III, the Delta
+IV has gotten off to an excellent start. Its rival, the Lockheed Martin
+Atlas V, has also had one launch.
+
+  Planned Delta IV variants:
+                     Strapons   Core    Stage 2
+  Delta IV-M         -          CBC     D4SS-4
+  Delta IV-M+(4,2)   2x GEM-60  CBC     D4SS-4
+  Delta IV-M+(5,2)   2x GEM-60  CBC     D4SS-5
+  Delta IV-M+(5,4)   4x GEM-60  CBC     D4SS-5
+  Delta IV-H         2x CBC     CBC     D4SS-5
+
+The GEM60 motors separated 1min 40s after launch; the CBC separated at
+4min 15s and the Delta 4 Stage 2 ignited, burning until 13min 6s and
+entered parking orbit of 186 x 596 km x 27.2 deg (I think -
+unfortunately, the Boeing webcast commentators had a habit of talking
+over the voice of Delta launch control whenever critical data was being
+reported, but these figures are consistent with the prelaunch plan.) At
+23min after launch the second stage restarted for a 5 minute burn to
+geostationary transfer orbit. The Eutelsat W5 payload separated from the
+second stage at 37 min after launch into a 562 x 35777 km x 13.6 deg
+orbit.  The D4SS-4 then made a small depletion burn to end up in a 556 x
+34635 km x 13.1 deg orbit.
+
+Eutelsat W5 is an Alcatel Spacebus 3000B2 communications satellite for
+the European Telecommunications Satellite Organization. The launch mass
+is 3170 kg; the other Eutelsat W series satellites were about 3000 kg
+full, 1400 kg empty, 4.6m high 2.5m diameter with a span of 29m across
+the 2 solar panels. W5 carries 24 Ku-band transponders.
+  
+  Eutelsat W series
+
+  Eutelsat W2  Spacebus 3000B2  1998 Oct  5   Ariane 44LP   
+  Eutelsat W3  Spacebus 3000B2  1999 Apr 12   Atlas 2AS
+  Eutelsat W4  Spacebus 3000B2  2000 May 24   Atlas 3A
+  Eutelsat W1  Eurostar 2000+   2000 Sep  6   Ariane 44P
+  Eurobird     Spacebus 3000B2  2001 Mar  8   Ariane 5G
+  Eutelsat W5  Spacebus 3000B2  2002 Nov 20   Delta IVM+(4,2)
+
+This is the first launch from the rebuilt Space Launch Complex 37B.
+Previous launches from the old LC37B site were:
+
+  1964 Jan 29   Saturn I SA-5     Jupiter nose cone and ballast
+  1964 May 28   Saturn I SA-6     Dummy Apollo BP-13
+  1964 Sep 18   Saturn I SA-7     Dummy Apollo BP-15
+  1965 Feb 16   Saturn I SA-9     Dummy Apollo BP-16/Pegasus 1
+  1965 May 25   Saturn I SA-8     Dummy Apollo BP-26/Pegasus 2
+  1965 Jul 30   Saturn I SA-10    Dummy Apollo BP-9A/Pegasus 3
+  1966 Jul  5   Saturn IB SA-203  Apollo AS-203
+  1968 Jan 22   Saturn IB SA-204  Lunar Module 1 (Apollo 5)
+
+It's interesting to note that the Saturn I second stage, the Douglas
+S-IV, was powered by an earlier version of the RL-10 engine used by the
+Delta IV's D4SS-4. 
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  6 0644   Intelsat 906      Ariane 44L     Kourou ELA2      Comms        41A
+Sep 10 0820   Kodama)           H2A 2024       Tanegashima      Comms        42B
+              USERS)                                            Micrograv    42A
+Sep 12 1025   METSAT            PSLV           Sriharikota      Weather      43A
+Sep 15 1030   HTSTL-1?          KT-1           Taiyuan          Technology   F01
+Sep 18 2204   Hispasat 1D       Atlas IIAS     Canaveral SLC36A Comms        44A
+Sep 25 1658   Progress M1-9     Soyuz-FG       Baykonur         Cargo        45A
+Sep 26 1427   Nadezhda-M        Kosmos-3M      Plesetsk         Navigation   46A
+Oct  7 1946   Atlantis )        Shuttle        Kennedy LC39B    Spaceship    47A
+              S1       )                                        Station module
+Oct 15 1820   Foton-M           Soyuz-U        Plesetsk         Micrograv    F02
+Oct 17 0441   Integral          Proton         Baykonur         Astronomy    48A
+Oct 27 0317   ZY-2              CZ-4B          Taiyuan          Imaging      49A
+Oct 30 0311   Soyuz TMA-1       Soyuz-FG       Baykonur         Spaceship    50A
+Nov 20 2239   Eutelsat W5       Delta 4M+(4,2) Canaveral SLC37B Comms        51A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107  2003 Jan 16 Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        OPF           STS-114  2003 Mar  1 ISS ULF1
+OV-105 Endeavour       LC39A         STS-113  2002 Nov 23 ISS 11A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

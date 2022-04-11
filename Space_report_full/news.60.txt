@@ -1,0 +1,102 @@
+
+Jonathan's Space Report
+
+Nov 26 1990 (no.60)
+----------------------------------------------------
+STS-38/Atlantis was launched on Nov 15 and reportedly deployed the
+AFP-658 recon satellite into a 28 degree inclination orbit.  Atlantis
+landed at the Kennedy Space Center on Nov 20. 
+
+STS-35/Columbia is due for launch in early December.
+Crew are Vance Brand, commander; Guy Gardner, pilot; 
+Mike Lounge, Dr. Jeffrey Hoffman, Dr. Robert Parker, mission
+specialists; Dr. Ron Parise and Dr. Sam Durrance, payload
+specialists. This will be the last spaceflight by an Apollo astronaut;
+Brand first flew on the last Apollo mission, the 1975 Apollo-Soyuz flight.
+
+The EO-5 (5th long stay) crew, Gennadiy Manakov and Gennadiy Strekalov
+continue in orbit aboard the Mir/Kvant/Kvant-2/Kristall/Soyuz TM-10/
+Progress M-5 complex.  Soyuz TM-11 is due for launch on Dec 2, carrying
+the replacement EO-6 crew, Viktor Afanas'ev of the Soviet Air Force and
+Musa Manarov of NPO Energiya (the organization that operates the
+civilian cosmonaut team).  The third seat will be filled by passenger
+Toyohiro Akiyama of the Tokyo Broadcasting System, who will return with
+the EO-5 crew on board Soyuz TM-7. 
+
+Kosmos-2103 was launched on Nov 14 by a two-stage version of the
+Tsiklon from Baykonur, It is a Soviet Naval Intelligence ferret
+satellite which listens to the electronic emissions from ships;
+it is in a 400 km circular orbit at 65 degrees to the equator.
+
+Kosmos-2104 was launched on Nov 16 by Soyuz from Plesetsk. It is
+a GRU (Soviet military intelligence) imaging recon satellite.
+
+Kosmos-2105 was launched on Nov 20 by Molniya from Plesetsk.  It is a
+PVO (Soviet Air Defence Command) missile early warning satellite in a
+600x39300 km x 63 degree orbit. 
+
+Two US comsats, Satcom C1 and GSTAR 4, were launched by Ariane 42P on
+Nov 20.  Satcom C1 is a C-band (6/4 GHz) cable TV relay satellite
+operated by GE American Communications (formerly RCA Americom).  GSTAR 4
+is operated by GTE Spacenet as part of its Ku-band (14/12 GHz)
+communications network. Both satellites were built by GE Astro Space.
+
+--- Hubble Space Telescope update ----
+
+At a workshop at the Space Telescope Science Institute (STScI) on Nov
+16, HST observers and STScI staff started to revise the telescope's
+observing program.  The Orbital Verification period is now essentially
+complete and Science Verification is beginning (lots of calibration
+observations and test exposures).  Proper scheduled observing will begin
+around July '91.  Contrary to initial expectations, it seems to me that
+programs using the cameras are in better shape than the spectrographs. 
+Because of the aberration, HST can't see extremely faint objects, or
+moderately faint objects which are right next to rather bright ones
+(they get lost in the fuzzed out image of the bright one, and if the
+brightness of your faint object is comparable to the uncertainty in the
+shape of the point spread function of the bright object, no amount of
+deconvolution will help you).  But it can do very good imaging of groups
+of bright objects very close to one another, like the R136 cluster, or,
+with some extra observing time, of a point source on a diffuse
+background (like the core of NGC 7457).  Deconvolution techniques seem
+to work pretty well; relative to radio astronomy, you have a a much
+better sampled point spread function, but it varies in shape from one
+part of the detector to another in nasty ways, so it's not an easy task. 
+FOC seems to be working really well and will get nice UV pictures.  The
+spectrographs, however, have the problem that because of the fuzzed out
+images, not all the light goes down the spectrograph slit.  If you can
+open up the aperture to let more light in, that's no problem, but that
+can lose spectral resolution or let in light from a nearby object.  If
+that's a problem for you, you're stuck with integrating for 5 times as
+long, and the time reallocation committee is going to take a lot of
+convincing. The Faint Object Spectrograph itself seems to be working
+fine except for substandard shielding against the Earth's magnetic field,
+but that shouldn't be too bad for most programs. The telescope's
+pointing software and the solar array jitter are still giving problems,
+but in a few months things should improve enough for most purposes.
+All in all my impression is that while the telescope is not what it
+might have been, and some of the key projects (particularly the distance
+scale) are dead in the water until the repair mission, most observer's
+projects really can still be done without too much loss of science - I'm much
+more optimistic than I was a month or so ago. 
+
+___________________________________
+|Current STS status:              |
+|Orbiters                         |
+|                                 |
+|OV-102 Columbia        LC39B     |
+|OV-103 Discovery       OPF Bay 1 |
+|OV-104 Atlantis        OPF Bay 2 |
+|                                 |
+|ML/ET/SRB stacks                 |
+|                                 |
+|ML1                    VAB       |
+|ML2/STS-39             VAB       |
+|ML3/STS-35/ET/OV102    LC39B     |
+-----------------------------------
+
+(c) 1990 Jonathan McDowell
+
+
+
+

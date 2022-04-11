@@ -1,0 +1,148 @@
+Jonathan's Space Report 
+
+No. 153		1993 May 11
+------------------------------------------------------------------------------
+
+STS-55
+-------
+
+Columbia was diverted to Edwards AFB due to bad weather at Kennedy Space
+Center. Deorbit was at 1329 UTC May 6 with main gear touchdown on Runway
+22 at Edwards at 1430.00 UTC. On this mission, Columbia retook the lead
+from Discovery for the orbiter with most flight hours. The current
+rankings are:
+   
+ Orbiter	Number of Flights  	Hours:Minutes
+
+ Columbia	14			2609:19
+ Discovery	16			2392:51
+ Atlantis	12			1737:51
+ Challenger	10			1495:58
+ Endeavour	 3			 556:25
+-------------------------------------------------
+ Total		55 			8792:24 = 366 days 8 h 24 m
+
+The long flight (4th longest mission) put Steve Nagel and Jerry Ross into
+the top five active NASA astronauts ranked by total flight hours:
+
+Astronaut	No Flts  Hours  'Rank'
+
+Bonnie Dunbar 	3	761:15	Payload Commander
+Steve Nagel 	4	721:35	Commander
+Guy Bluford 	4	688:34	Mission Specialist
+Jerry Ross 	4	653:23	Payload Commander
+Hoot Gibson 	4	632:56	Chief Astronaut
+
+
+
+Orbits for Classified Satellites
+--------------------------------
+
+The latest US submissions to the United Nations (ST/SG/SER.E/258 and
+260) reports a number of orbits for classified satellites. The
+reports cover the period Sep 1990 to Sep 1992. The orbits
+give only apogee, perigee and inclination rather than the full 2-line
+set needed to track the objects. In some cases the orbits agree well
+with those established from direct observation by the group coordinated
+by T. Molczan.  In other cases the orbits reported by the US government
+are highly implausible, sometimes because of sloppiness and sometimes
+because of deliberate deception. Note that the names assigned to pieces below
+are my guesses; the UN info contains only the designation (e.g. 1991-17B)
+and the orbit.
+
+
+DESIG    PERIOD  PERI    APO     INC    NAME-GUESS  	NOTES
+1990-50F  129.2  1228 x  2960 x 63.5   NOSS part
+1990-50G  125.4  1224 x  2601 x 63.4   NOSS part
+1990-95A 1421.8 35614 x 35699 x  3.1   USA-65 (DSP)
+1990-95B  142     171 x 35352 x 27.4   SRM-1		1
+1990-95C  622.1 35311 x 35702 x  3.1   SRM-2		1
+1990-97B   87.5    78 x   226 x 28.5   USA-67		2
+1990-97C   87.5    78 x   226 x 28.5   SRM-1		2
+1990-97D   87.5    78 x   226 x 28.5   SRM-2		2
+1991-17A   95.5   420 x   662 x 68.0   USA-69 (Lac.2)	3
+1991-17B   95.5   420 x   662 x 68.0   Titan 4
+1991-31C   ELEMENTS NOT AVAILABLE      USA-70 (MPEC)    4
+1991-76A   ELEMENTS NOT AVAILABLE      USA-72           4
+1991-76B   ELEMENTS NOT AVAILABLE      Titan 4          4
+1991-76C  113.9  1399 x  1427 x 82.6   USA-74		5
+1991-76D   (Omitted from UN report)    USA-76		6
+1991-76E   (Omitted from UN report)    USA-77		6
+1991-76F   93.3   275 x   614 x 61.0   NOSS part
+1991-80B 1421.8 35795 x 53787 x  2.5   USA-75		7
+1991-82A  101.9   844 x   871 x 98.9   USA-73 (DMSP)
+1991-82B  ELEMENTS NOT AVAILABLE       DMSP part	8
+1991-82C   93.3   596 x   275 x 61.0   DMSP part	8
+1991-82D   93.3   596 x   275 x 61.0   DMSP part	8
+1991-82E  101.8   835 x   853 x 98.9   DMSP part
+1992-06A 1300.5 30675 x 35503 x  0.9   USA-78 (DSCS)     9
+1992-06B  608.8   265 x 34669 x 26.4   Centaur
+1992-06C 1298.0 27397 x 38679 x  0.3   IABS
+1992-23A   89.3   145 x   175 x 84.9   USA-81		10
+1992-23B   89.1   145 x   175 x 85.0   Titan 4
+1992-37A 1436.2 35775 x 35800 x  0.2   USA-82 (DSCS)    
+1992-37B  617.3   223 x 35053 x 26.5   Centaur
+1993-37C 1416.6 35289 x 35520 x  0.3   IABS
+
+1  Period clearly a typo, violates  Kepler's third law
+2  These orbits are probably completely spurious. The low perigee would
+  cause rapid reentry. Most analysts believe that the initial
+  orbit of the spacecraft B was more like 241x241 km x28.5 deg,
+  with an immediate upper stage burn to geostationary transfer
+   before separation of C and then D.
+3  This is in very good agreement with the orbit derived by
+  observers. However 17A changed its orbit within a month
+  of launch, so the information is misleading.
+4  ELEMENTS NOT AVAILABLE is blatantly a fiction
+  for 'Elements still classified in violation of UN convention'.
+5  Orbit reported by observers as 107.5 1052x1164x63.4; 
+   this is in serious disagreement with the UN orbit.
+6  Omitted from UN report in violation of UN convention.
+7  Apogee clearly a typo for 35787.
+8  Orbits are spurious. This launch is unclassified and
+   NORAD released elements for these objects which were
+   similar to 1991-82A, 1991-82E. Possibly the listed orbits
+   are really part of the 1991-76 launch.
+9  This orbit was probably later raised using the satellite's
+   on-board propulsion system.
+10 Orbit later raised; found by observers in the following orbit:
+	100.77 788 x 801 x 85.0
+
+Reentries
+---------
+
+Apr 29		Kosmos-925	Reentered
+May  6		Columbia	Landed at Edwards AFB
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        Edwards       STS-55
+OV-103 Discovery       OPF Bay 3     STS-51
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LC39B         STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/                   
+ML2/STS-57/ET/OV-105   LC39B
+ML3/                   
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+
+

@@ -1,0 +1,188 @@
+Jonathan's Space Report
+No. 395                                          1999 Apr 21 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Human spaceflight
+-------------------
+
+On the Mir orbital station, Viktor Afanas'ev and Jean-Pierre Haignere
+made  a spacewalk on Apr 16 for 6h 19m during which Haignere launched 
+by hand the Sputnik-99 amateur radio satellite. The satellite
+was delivered by Progress M-41 in April; apparently the backup
+Sputnik-40 is still stored on the station. The spacewalk began at 0437
+UTC (0837 Moscow local time) and the hatch was closed at 1056 UTC.  The
+satellite deployment was probably around 1030 UTC, but if anyone has an
+accurate time please send it to me.
+
+Sputnik-99 is at the center of a controversy over use of the amateur
+radio band. The satellite was developed by AMSAT-F and AMSAT-R the
+French  and Russian amateur radio satellite groups, with help from the
+Russian Space Agency's flight control center, TsUP.  Apparently TsUP
+made the mistake of arranging with a commercial company for messages to
+be broadcast from the satellite including a trademarked advertising
+slogan, a flagrant misuse of the amateur radio band. At the last moment
+it was decided to launch the satellite without turning it on, avoiding
+breaking ITU regulations but at the cost of losing the original amateur
+radio mission. 
+
+Space Command has given the satellite the designation 1999-21A, which
+would be a big change to the way international designations (stricly the
+province of the ICSU Committee on Space Research) are allocated.
+Normally the '21' would refer to the 21st launch from the Earth's
+surface in 1999. Sputnik-99 (called Sputnik Jr. 3 by Space Command, a
+name they seem to have made up) was delivered to Mir by Progress M-41
+Under the traditional scheme, the satellite would be
+designated 1999-15C (3rd object cataloged from the Progress M-41 launch)
+or 1986-17NG (yet another  object from the Mir launch). Other objects
+released into space during the same spacewalk were designated 1986-17MZ
+to 1986-17NF. It's perfectly reasonable for COSPAR to change the rules
+and count launches 'from a space station' as a new launch, and although
+I doubt that Space Command has the formal international authority to
+make such a rule change on its own, in practice I suspect others will
+follow along. It will be interesting to see if the new rule is applied
+consistently, and not clear why the debris gets a 1986-17 label but
+the payload gets the 1999-21 label.
+
+Discovery was moved to the VAB on Apr 16. Columbia took its
+parking spot in OPF bay 1. We don't know yet how the failure of the
+IUS (see below) will affect the launch date for STS-93 (the Chandra
+observatory uses the IUS to get to a highly elliptical orbit) but
+we are crossing our fingers and hoping the situation will be resolved
+speedily.
+
+Recent Launches
+---------------
+
+Titan 4B-27 was launched on Apr 9 at 1701 UTC, the first Lockheed Martin
+Titan 4 launch since last August's failure. The SRMU-8 solid motors and
+K-32 two-stage liquid Titan core vehicle worked well, placing the DSP
+F19 payload and its Boeing IUS-21 upper stage vehicle in a 188 x 718 km
+x 28.6 deg parking orbit. The IUS is a two stage system; the first
+stage, SRM-1, using a UTC Orbus 21 solid motor, burned at 1814 UTC and
+increased apogee to geostationary altitude and separated. The SRM-2
+stage was then meant to fire its Orbus 6E solid motor at 2334 UTC to
+lower inclination and increase perigee, placing DSP in a circular
+geosynchronous orbit. However, something went wrong: because the orbital
+data is classified, it's not clear whether SRM-2 did not fire at all or
+whether the burn was incomplete, but in any case DSP remained in an
+orbit far from geosynchronous, and is reportedly tumbling out of
+control. This is the first serious failure of the IUS since an April
+1983 mission left the TDRS 1 satellite in a low orbit.  The Titan's
+payload is a TRW Defense Support Program missile early warning satellite
+with an infrared telescope to detect rocket launches. 
+
+Eutelsat W3 was launched by Atlas from Canaveral on Apr 12. The W3
+satellite is an Alcatel Spacebus 3000B2 model for the European
+Telecommunications Satellite Organization. The Lockheed Martin Atlas
+IIAS vehicle entered a 153 x 385 km x 27.4 deg parking orbit nine
+minutes after launch. The second Centaur stage burn then delivered the
+satellite to a 166 x 46076 km x 19.7 deg transfer orbit. W3 will be
+stationed at 7E and carries 24 Ku-band transponders with a wide beam
+covering Europe, N Africa and Asia, and a spot beam for digital TV to
+Turkey.
+
+Four more Globalstar satellites were launched by Soyuz-U/Ikar from
+Baykonur on Apr 15. The third Soyuz-U/Ikar flight followed the same
+profile as the last one, and delivered the four spacecraft to a 900 x
+950 km x 52.0 deg parking orbit. The on-board propulsion systems will
+raise the orbit of each satellite to the 1410 km operating altitude. The
+Blok-I stage entered a 234 x 900 km transfer orbit; the 50KS Ikar stage 
+deorbited itself after one day. The new satellites are M19, M42, M44 and
+M45. Globalstar satellites, built by Alenia and Loral, are L-band
+comsats which will provide satellite phone service. 20 Globalstar
+satellites are now in orbit after two Delta and three Soyuz-U/Ikar
+launches (12 more satellites were lost in a Zenit-2 failure).
+
+The Landsat 7 remote sensing satellite was launched by Delta from
+Vandenberg on Apr 15. NASA's new remote sensing satellite will be
+operated by NASA/Goddard until Oct 2000, when operations will be
+transferred to the US Geological Survey. Its single instrument is the
+Enhanced Thematic Mapper Plus (ETM+), a scanning radiometer with visible
+and infrared bands giving 30-meter resolution in the visible bands and
+15-m resolution in black and white. Launch mass was 1969 kg. The 
+spacecraft was built by Lockheed Martin/Valley Forge, using a design
+derived from the Tiros-N/DMSP weather satellites. The Boeing Delta
+7920-10 launch vehicle entered a 175 x 706 km x 98.2 deg initial orbit,
+then 57 min after launch circularized the orbit to 668 x 698 km and
+deployed Landsat 7. After the depletion burn, the Delta stage ended up
+in a  184 x 710 km x 107.5 deg orbit.
+
+Surrey Satellite's UoSAT-12 spacecraft was placed in orbit with the
+first launch of Russia's Dnepr rocket. The Dnepr is a converted R-36M2
+(15A18M) ballistic missile (NATO codename SS-18 mod 4), developed by the
+Yuzhnoye (Pivdenne) organization in the Ukraine and marketed by MK
+Kosmotras. The R-36M2 is a  two stage launch vehicle; both stages use
+nitrogen tetroxide and  UDMH (unsymmetrical dimethyl hydrazine). The
+vehicle is 3.0m in diameter. A third stage, probably the S5M used on
+Tsiklon-3, will usually be added, but it wasn't on this test mission
+which doesn't involve the full Dnepr configuration. The Dnepr was
+launched from a silo (sources tell me it is probably LC108) at GIK-5,
+the Baykonur spaceport and delivered UoSAT-12
+to a 638 x 652 km x 64.6 deg orbit. The final stage
+appears to have made some kind of depletion burn and is being tracked in
+a 599 x 1403 km x 64.6 deg orbit. UoSAT-12 is the first test of the
+Minibus platform, at 325 kg a larger spacecraft than earlier 50 kg
+Surrey UoSATs. It carries a  mobile radio experiment (MERLION), a GPS
+receiver, and imaging cameras. 
+
+Space Command have also cataloged SNAP-1, a 2.5 kg Surrey Nanosatellite
+Applications Program test of micro-electromechanical systems which was
+intended to be launched with UoSAT-12. However, Stefan Barensky informs
+me that his sources indicate SNAP-1 was not actually aboard the launch
+and is to be launched later in the year. I'll try and clarify this
+situation next week.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  5 0256   WIRE              Pegasus XL     Vandenberg       Astronomy  11A
+Mar 15 0306   Globalstar M022 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     12A
+              Globalstar M041 )                                 Comsat     12B
+              Globalstar M046 )                                 Comsat     12C
+              Globalstar M037 )                                 Comsat     12D
+Mar 21 0009   Asiasat 3S        Proton-K/DM3   Baykonur LC81L   Comsat     13A
+Mar 28 0130   DemoSat           Zenit-3SL      Odyssey, POR     Test       14A
+Apr  2 1128   Progress M-41     Soyuz-U        Baykonur LC1     Cargo      15A
+Apr  2 2203   Insat 2E          Ariane 42P     Kourou ELA2      Comsat     16A
+Apr  9 1701   DSP F19           Titan 4/IUS    Canaveral LC41   Early Warn 17A
+Apr 12 2250   Eutelsat W3       Atlas 2AS      Canaveral LC36A  Comsat     18A
+Apr 15 0046   Globalstar M019 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     19A
+              Globalstar M042 )                                            19B
+              Globalstar M044 )                                            19C
+              Globalstar M045 )                                            19D
+Apr 15 1832   Landsat 7         Delta 7920-10  Vandenberg SLC2W Imaging    20A
+Apr 16 1030?  Sputnik-99        -              Mir, LEO         Comsat     21A?
+Apr 21 0500   UoSAT-12          Dnepr          Baykonur LC108   Test       22A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        VAB Bay 2     STS-93  Unknown
+OV-103 Discovery       VAB Bay 3     STS-96  May 20
+OV-104 Atlantis        OPF Bay 3     STS-101 Oct 14?
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/RSRM-70/ET-100/OV-103     VAB Bay 3 STS-96
+MLP3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

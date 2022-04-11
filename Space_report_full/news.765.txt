@@ -1,0 +1,295 @@
+Jonathan's Space Report 
+No. 765                                                      2019 Jun 2   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+On May 1-2 the Canadarm-2 and Dextre arms were used to replace a failed Main Bus Switching
+Unit on the ISS S0 truss. The failed MBSU supported the channel 3 solar arrays.
+It was exchanged with an MBSU on External Stowage Platform 2. This replacement unit was originally
+the channel 2 MBSU, which failed in 2017, was brought inside ISS, repaired, and replaced on ESP-2.
+There are 7 MBSUs on ISS:
+
+   Launch order   Launch year   Current role
+   MBSU 1         2002          Failed, on ELC-2 since 2013
+   MBSU 2         2002          Active as MBSU-3 since 2019
+   MBSU 3         2002          Failed, on ESP-2 since 2019
+   MBSU 4         2002          Active as MBSU-4 since 2002
+   MBSU 5         2005          Active as MBSU-2 since 2017
+   MBSU 6         2007          Active as MBSU-1 since 2012
+   MBSU 7         2013          Spare on ESP-2 since 2013
+
+
+On May 4 SpaceX launched Dragon CRS-17 towards the Station. The CRS-17 trunk carries
+OCO-3, a carbon measuring experiment, and STP-H6, with a set of USAF Space Test Program
+experiments. STP-H6's experiments include XCOM, an X-ray transmitter which will carry
+out communications experiments using the ISS NICER X-ray observatory as a receiver -
+giving a whole different meaning to "X-band". 
+
+Dragon arrived at ISS on May 6, with SSRMS grapple at 1101 UTC and
+berthing on Harmony nadir at 1422 UTC.  On May 10-11 OCO-3 was installed
+on site EFU3 of the Kibo Exposed Facility, and STP-H6 was installed on
+site 3 of Express Logistics Carrier ELC-3. The CATS experiment, launched
+in 2015, was removed from the Kibo EF and installed in Dragon's trunk
+for disposal; the SCAN testbed, launched in 2012, was similarly removed
+from the ELC-3 and stowed in the trunk.
+
+A failed BCDU (battery charge-discharge unit), launched in 2006, was removed from 
+the P4 truss on Apr 3 and placed on ELC-1; on May 16 it was brought inside the Kibo
+airlock.
+
+On May 29 astronauts Ovchinin and Kononenko made a spacewalk, VKD-46, from the
+Pirs module, using spacesuits Orlan MKS-4 and MKS-5. For this spacewalk, to celebrate
+the 85th birthday of the first spacewalker on May 30, they wore backpacks decorated
+with the slogans "Leonov Number 1" and "Happy Birthday Aleksey Arkhipovich" (in Russian,
+of course).
+
+They depressurized the airlock at about 1530 UTC and opened the hatch at 1542 UTC.
+They installed a commemorative portrait of Leonov on the EVA ladder, retrieved
+a decontamination towel left tied to a handrail by Yuriy Lonchakov in Dec 2008;
+retrieved a thermal sensor boom, 'Test' exposure cassettes, the IMPAKT experiment
+and Vinoslivost' panels, cleaned windows on the airlock module,
+and disassembled the Obstanovka experiment. Two Obstanovka experiment boxes
+and two mounting booms were jettisoned between 1945 and 2101 UTC.
+The hatch was closed at 2143 UTC and the airlock was repressurized at 2148 UTC.
+
+Electron
+--------
+
+On May 5 Rocket Lab launched Electron mission 6, nicknamed 'That's A Funny Looking Cactus'.
+The payload was USAF Space Test Program mission STP-27RD, consisting of the 150 kg
+Harbinger satellite and two cubesats.
+
+Harbinger is a small imaging radar satellite built by York Space Systems (Denver)
+and will carry out a mission for the US Army Space and Missile Defense Command.
+
+SPARC-1 (Space Plug-and-Play Architecture Cubesat)  is a 6U mission from
+the USAF Research Lab and the Swedish defense agency FMV, testing
+advanced computing hardware in space.
+
+The Falcon Orbital Debris Experiment (Falcon-ODE) 1U cubesat from the USAF Academy, will release
+2cm and 4cm steel spheres to act as tracking targets.
+
+
+Beidou DW45
+-----------
+
+The 45th Beidou satellite was  Beidou-2 G8, a replenishment satellite for the older Beidou phase 2
+system. It was launched to geotransfer orbit on May 17.
+
+RISAT-2B
+--------
+
+India's RISAT-2B radar imaging satellite was launched on May 22. It replaces the Israeli-built 
+RISAT-2, launched in 2009. Mass of RISAT-2B is 615 kg.
+
+Yaogan-33
+---------
+
+The launch of China's Yaogan-33 radar satellite on May 23 was a failure.
+The third stage burn was not performed successfully and the vehicle did
+not reach orbit.
+
+
+Starlink
+--------
+
+SpaceX launched its first batch of 60 Starlink Ku-band internet
+satellites on May 24.  The Falcon 9 rocket placed the satellites in a
+434 x 442 km x 53.0 deg. Each one is about 200-250 kg (the press kit
+says 227 kg, but this is suspiciously close to the metric equivalent of
+500 pounds, so it's possible they really mean 500+-50 lb = 227 +- 23
+kg). The satellites are a flat panel with krypton-propellant electric
+thrusters and a single deployable solar panel.
+
+Observers in Europe saw the satellites as a spectacular string of mag 2
+to 3 objects a few hours after launch. As of May 30 it appears the
+satellites are mostly in the mag 4 to 7 range with frequent flares to
+mag 2 and occasional brighter flares, depending on illumination
+conditions and satellite orientation. (For the nonastronomers:
+bigger mag is fainter, mag 1 = brightest stars in the sky and
+mag 6 = barely naked-eye visible at a dark site).
+
+The brightness of the satellites has raised concerns in the astronomical
+community - a full constellation of many thousand satellites could
+interfere with observations and, if they are brighter than mag 5 or so,
+might dominate the naked-eye night sky in dark locations. However, it is
+likely to take some weeks before we really understand how much of the
+time the satellites are bright and whether it's a real problem. SpaceX
+have now stated that they will look at ways to reduce the reflectivity
+of later satellites.
+
+In the meantime, the  60 satellites launched so far are fascinating to
+watch, if you live somewhere less cloudy than Boston has been lately.
+
+SpaceX report that 56 of the 60 satellites are working as expected,
+and 4 have some problems but are in communication with the ground.
+In addtion, there are a further 4 debris objects which tumble with
+large observed brightness variations
+
+
+Glonass
+-------
+
+Glonass-M No. 58 (Uragan-M No. 758) was launched on May 27, replenishing
+the Russian navigation system. It will probably get the official cover name Kosmos-2534. 
+
+Yamal-601
+---------
+
+Yamal-601, a communications satellite for the Russian company Gazprom Space Systems built
+by ISS Reshetnev, was launched on May 30 by a Proton from Baykonur into geotransfer
+orbit. 
+
+
+Hayabusa-2
+----------
+
+Hayabusa-2 ejected a second small `target marker' onto the surface of Ryugu
+at about 0219 UTC May 30, during another descent to about 10 metres above
+the asteroid.
+
+WGS 10
+------
+
+The USAF Wideband Global Satcom 10 satellite, launched on Mar 16 to a mildly
+supersynchronous 462 x 44260 km x 27.0 deg transfer orbit, is using an unusual ascent
+path to GEO. By Mar 26 its orbit was near-synchronous and equatorial but elliptical, 
+25876 x 45130 km x 0.2 deg. Since then it has slowly circularized and by May 30
+its orbit was 34716 x 36850 km. This is in contrast to the usual practice of getting
+one end of the ellipse to the GEO height quickly and only then adjusting the other.
+The WGS 10 strategy may allow comms with a single ground station more quickly.
+
+SSO-A
+-----
+
+Three more SSO-A cubesats have been identified: objects J, U and W are SPAWAR-CAL-O,
+SPAWAR-CAL-R, and SPAWAR-CAL-OR. They are 1U cubesats for the US Navy Space and 
+Naval Warfare Systems Command (SPAWAR) used for calibration of space tracking systems
+and carry optical and radar reflectors.
+
+
+Erratum
+-------
+
+IOD-1 GEMS is owned by Satellite Applications Catapult Ltd., although
+built by Orbital Microsystems and ClydeSpace. Catapult has a ground
+station at Goonhilly in Cornwall, site of the first transatlantic satcom
+link.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Apr  1 0357   EMISAT               ) PSLV-QL             Satish Dhawan SLP Sigint     18A   S44078   736 x   758 x 98.4 0930LT SSO
+              BlueWalker 1         )                                       IoT Comms  18AD  S44105   434 x   515 x 97.5
+              M6P                  )                                       IoT Comms  18AF  S44109   434 x   515 x 97.5
+              Astrocast-0.2        )                                       IoT Comms  18F   S44083   494 x   510 x 97.5
+              Danu Pathfinder 1    )                                       AIS Comms  18AB  S44103   490 x   507 x 97.5
+              Lemur-2-JohanLoran   )                                   AIS/ADS-B/Met  18G   S44084   494 x   510 x 97.5
+              Lemur-2-Beaudacious  )                                   AIS/ADS-B/Met  18H   S44085   493 x   510 x 97.5
+              Lemur-2-Elham        )                                   AIS/ADS-B/Met  18J   S44086   493 x   510 x 97.5
+              Lemur-2-Victor-Andrew)                                   AIS/ADS-B/Met  18K   S44087   493 x   510 x 97.5
+              Flock 4a-1/ Dove 2218)                                       Imaging    18B   S44079   494 x  510 x  97.5
+              Flock 4a-2/ Dove 2201)                                       Imaging    18C   S44080   494 x  510 x  97.5
+              Flock 4a-3/ Dove 2206)                                       Imaging    18D   S44081   494 x  510 x  97.5
+              Flock 4a-4/ Dove 2220)                                       Imaging    18E   S44082   494 x  510 x  97.5
+              Flock 4a-5/ Dove 2227)                                       Imaging    18T   S44095   493 x  507 x  97.5
+              Flock 4a-6/ Dove 220b)                                       Imaging    18S   S44094   494 x  507 x  97.5
+              Flock 4a-7/ Dove 222d)                                       Imaging    18R   S44093   494 x  507 x  97.5
+              Flock 4a-8/ Dove 2213)                                       Imaging    18Q   S44092   494 x  507 x  97.5
+              Flock 4a-9/ Dove 2224)                                       Imaging    18W   S44098   493 x  507 x  97.5
+              Flock 4a-10/Dove 2205)                                       Imaging    18V   S44097   493 x  507 x  97.5
+              Flock 4a-11/Dove 2223)                                       Imaging    18U   S44096   493 x  507 x  97.5
+              Flock 4a-12/Dove 2209)                                       Imaging    18AE  S44108   494 x  507 x  97.5
+              Flock 4a-13/Dove 220c)                                       Imaging    18AA  S44102   492 x  507 x  97.5
+              Flock 4a-14/Dove 222c)                                       Imaging    18Z   S44101   492 x  507 x  97.5
+              Flock 4a-15/Dove 2207)                                       Imaging    18Y   S44100   493 x  507 x  97.5
+              Flock 4a-16/Dove 222b)                                       Imaging    18X   S44099   493 x  507 x  97.5
+              Flock 4a-17/Dove 2212)                                       Imaging    18L   S44088   493 x  510 x  97.5
+              Flock 4a-18/Dove 2215)                                       Imaging    18M   S44089   493 x  510 x  97.5
+              Flock 4a-19/Dove 2235)                                       Imaging    18N   S44090   493 x  510 x  97.5
+              Flock 4a-20/Dove 2232)                                       Imaging    18P   S44091   493 x  510 x  97.5
+              AISAT-1/PSLV-C45-PS4                                         Tech/Comms 18AC  S44104   435 x  515 x  97.5
+Apr  4 1101   Progress MS-11         Soyuz-2-1A          Baykonur LC31     Cargo      19A   S44110   407 x  411 x  51.6   
+Apr  4 1703   O3b FM17  )            Soyuz ST-B/Fregat   CSG ELS           Comms      20A   S44112  7809 x 7839 x   0.0
+              O3b FM18  )                                                  Comms      20B   S44113  7818 x 7839 x   0.0
+              O3b FM19  )                                                  Comms      20C   S44114  7830 x 7840 x   0.0
+              O3b FM20  )                                                  Comms      20D   S44115  7839 x 7841 x   0.0
+Apr  5 0156   SCI                            Hayabusa-2, Ryugu space       Weapon    14076  D00957   Ryugu impact
+Apr  5 0214   DCAM-3                         Hayabusa-2, Ryugu space       Imaging   14076  D00958   Ryugu space
+Apr 11 2235   Arabsat 6A             Falcon Heavy        Kennedy LC39A     Comms      21A   S44186   320 x89807 x  23.0
+Apr 17 2046   S.S. Roger Chaffee )   Antares 230         MARS LA0B         Cargo      22A   S44188   285 x  380 x  51.6
+              SASSI-2            )                                         Science    22C?  A09407   201 x  291 x  51.6
+              ThinSat 1A         )                                         Tech       22D?  A09408   201 x  291 x  51.6
+              ThinSat 1B         )                                         Tech       22E?  A09409   201 x  291 x  51.6
+              ThinSat 1C         )                                         Tech       22F?  A09410   201 x  291 x  51.6
+              ThinSat 1D         )                                         Tech       22G?  A09411   201 x  291 x  51.6
+              ThinSat 1E         )                                         Tech       22H?  A09412   201 x  291 x  51.6
+              ThinSat 1F         )                                         Tech       22J?  A09413   201 x  291 x  51.6
+              ThinSat 1G         )                                         Tech       22K?  A09414   201 x  291 x  51.6
+              ThinSat 1H         )                                         Tech       22L?  A09415   201 x  291 x  51.6
+              ThinSat 1I         )                                         Tech       22M?  A09416   201 x  291 x  51.6
+              ThinSat 1J         )                                         Tech       22N?  A09417   201 x  291 x  51.6
+              ThinSat 1K         )                                         Tech       22P?  A09418   201 x  291 x  51.6
+              ThinSat 1L         )                                         Tech       22Q?  A09419   201 x  291 x  51.6
+Apr 20 1441   Beidou DW44                Chang Zheng 3B   Xichang          Navigation 23A   S44205   193 x35788 x  28.5
+Apr 29 2252   Tianhui-2 01 zu 01 xing )  Chang Zheng 4B   Taiyuan          Imaging    24A   S44207   506 x  517 x  97.4 0600LT SSO
+              Tianhui-2 01 zu 02 xing )                                    Imaging    24B   S44208   506 x  517 x  97.4 0600LT SSO
+May  4 0648   Dragon CRS-17              Falcon 9         Canaveral SLC40  Cargo      25A   S44222   204 x  382 x  51.6
+May  5 0600   Harbinger )                Electron         Mahia LC1        Radar      26E   S44229   484 x  512 x  40.0
+              SPARC-1   )                                                  Tech       26B   S44226   493 x  511 x  40.0
+              AFOTEC-1  )                                                  Cal        26A   S44225   496 x  511 x  40.0
+May 17 1548   Beidou DW45                Chang Zheng 3C   Xichang LC2      Navigation 27A   S44231   198 x35743 x  19.4
+May 22 0000   RISAT-2B                   PSLV-CA         Satish Dhawan FLP Radar      28A   S44233   550 x  558 x  37.0
+May 22 2249   Yaogan 33                  Chang Zheng 4C   Taiyuan          Radar      F04   F01439  -6000?x 500?x  97.8?
+May 24 0230   Starlink 01 )              Falcon 9         Canaveral SLC40  Comms      29A   S44235   434 x  443 x  53.0
+              Starlink 02 )                                                Comms       .
+              ...         )                                                            .
+              Starlink 60 )                                                Comms      29BM  S44294   450 x  453 x  53.0
+May 27 0623   Glonass-M No 58            Soyuz-2-1B/Fregat Plesetsk LC43/4 Navigation 30A   S44299 19128 x19156 x  64.8
+May 30 1742   Yamal-601                  Proton-M/Briz-M   Baykonur        Comms      31A   S44307  6423 x35712 x  17.8
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Sandia National Labs launched two Terrier Malemute rockets with technology payloads in April,
+according to T. Rummler from Sandia.
+
+The Trident II test on May 9 sent its reentry vehicles into the South Atlantic Ocean off the
+coast of Namibia.
+
+The University of Southern California's student rocket group RPL flew a rocket called Traveler IV
+to 103 km on Apr 21, a record apogee for a student built rocket.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Apr  5 2214   AZURE 1           Black Brant XIA    Andoya                Auroral       320       Norwegian Sea
+Apr  5 2216   AZURE 2           Black Brant XIA    Andoya                Auroral       320       Norwegian Sea
+Apr 11 1651   CLASP 2           Black Brant IX     White Sands           Solar UV      274       White Sands
+Apr 21        Traveler IV       Traveler           Spaceport America     Test          103       Spaceport America
+Apr 23        HOT SHOT 2        Terrier Malemute   Kauai                 Tech          320?      Pacific
+Apr 24        HOT SHOT 3        Terrier Malemute   Kauai                 Tech          320?      Pacific
+May  1 0942   GT230GM           Minuteman III      Vandenberg LF10       Op Test      1300?      Kwajalein
+May  2 1334?  New Shepard NS-12 New Shepard        West Texas            Test          105       West Texas
+May  3 2045   Momo TF-3         Momo               Taiki                 Test          118       Pacific Ocean
+May  9 0740   GT229GM           Minuteman III      Vandenberg LF09       Op Test      1300?      Kwajalein
+May  9        DASO-29           Trident II D-5    USS Rhode Island, ETR  Op Test      1000?      S Atlantic
+May 10        SM-3 KV           SM-3-IB           USS Roosevelt, Hebrides   Test       150?      Atlantic
+May 23        Shaheen II RV     Shaheen II         Somniani?             Op Test       300?      Arabian Sea   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

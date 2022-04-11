@@ -1,0 +1,178 @@
+Jonathan's Space Report 
+No. 247               1995 Jul 7                     Cambridge, MA
+--------------------------------------------------------------------------------
+
+Editorial
+---------
+
+Please note the slight change in URLs for the WWW and FTP locations
+of this report. 
+
+Shuttle
+-------
+
+After undocking from Mir on Jul 4, Atlantis spent several days on orbit,
+carrying out medical research work with the Spacelab-Mir
+module in the cargo bay. On Jul 5 Atlantis was in a 92.44 min, 390 x 398 km
+x 51.65 deg orbit. The orbit of Mir was 92.47 min, 393 x 398 km. 
+
+The payload bay doors were closed in preparation for the deorbit burn on
+Jul 7 at 1211 UTC (scheduled), and at 1345 UTC the OMS engines ignited
+for the 3h 32s deorbit burn. Atlantis reached the nominal entry
+interface with the atmosphere at 1422. The landing gear was lowered at
+1454:21 UTC, and main gear touchdown on runway 15 at the Kennedy Space
+Center was at 1454:36 UTC. The drag chute was deployed at 1454:39, with
+nose gear touchdown at 1454:44. Atlantis rolled down RW15, releasing the
+chute at 1455:10 and coming to a stop at 1455:27.
+
+The Atlantis flight duration (launch to main gear touchdown) was 9 days
+19 h 22 min 15s. The Mir EO-18 crew spent 114 days, 8 h 43 min in space,
+setting a US record for Norm Thagard. Career totals for the astronauts
+of both crews:
+ Gibson     868 h 18m (5 flights)
+ Precourt   475 h 02m (2 flights)
+ Baker      686 h 31m (3 flights)
+ Harbaugh   578 h 22m (3 flights)
+ Dunbar     996 h 37m (4 flights)
+ Dezhurov  2744 h 43 m (1 flight)
+ Strekalov 6430 h 21 m (5 flights)
+ Thagard   3349 h 27 m (5 flights)
+
+The previous US record was 2017h 16m (Carr, Gibson, Pogue)
+and the previous career record for currently active US astronauts
+was Story Musgrave's 858 h 6m, now surpassed by both Dunbar and Thagard.
+Of course, the world record is held by Valeriy Polyakov with 16288 hr 34m.
+
+As Atlantis sits on the runway at Kennedy Space Center, Discovery
+and Endeavour are on pads 39B and 39A ready for the STS-70 and
+STS-69 missions in July and August. Endeavour was rolled out to the
+pad on Jul 6.
+
+Obituary
+--------
+
+Georgiy Timofeevich Beregovoy died on 1995 Jun 30 at the age of 74.
+Beregovoy, born in the Ukraine on 15 Apr 1921, was a World War II pilot
+and later a test pilot. In 1964 he joined the Soviet Air Force cosmonaut
+detachment as a late addition to the 1963 group which included 
+younger pilots such as Shatalov and Filipchenko. Beregovoy trained on
+a backup crew for the cancelled Voskhod-3 mission, and in 1968
+flew into space to test-fly the Soyuz spaceship after the fatal
+1967 accident which resulted in the death of Komarov. Beregovoy's
+Soyuz-3 carried out a rendezvous with the automated Soyuz-2 but was
+unable to dock with it. Beregovoy left flight status in 1969 but
+remained attached to the cosmonaut training team until his retirement
+in 1987. [Thanks to Jim Oberg for passing on news of Beregovoy's death.]
+
+Recent Launches
+--------------------------------------------------------------------------------
+
+
+Russian launched a Tsikada class navigation satellite on Jul 5 from Plesetsk
+into a 104.7 min, 959 x 1004 km x 82.9 deg orbit. The Tsikada satellites
+are built by PO Polyot of Omsk. Satellites of this
+type have been named in the Kosmos, Tsikada, and Nadezhda at various times;
+this one is probably Nadezhda, the subtype that carries a COSPAS/SARSAT
+search and rescue transponder. It was launched into orbital plane 11.
+Recent launches into each of the Tsikada system orbital planes are:
+
+ Plane 11           Plane 12           Plane 13           Plane 14
+
+ Nadezhda    (7/89) Kosmos-1861 (6/87) Kosmos-2123 (2/91) Nadezhda (2/90)
+ Kosmos-2181 (3/92)  (+RS-10/RS-11)     (+RS-12/RS-13)    Nadezhda (7/94)
+ Kosmos-2230 (1/93) Nadezhda    (3/91) Tsikada     (1/95)
+ Nadezhda?   (7/95)
+
+The Kosmos-2314 spy satellite raised its orbit from 164 x 328 km x 67.1 deg
+to 168 x 350 km x 67.1 deg on Jul 3. Such orbit raising maneuvers
+are carried out several times during the mission for satellites of this
+class.
+
+
+Ariane V75 was launched at 1623 UTC on Jul 7 from Kourou, and launched the
+first European spy satellite, Helios 1A. Matra Marconi Space's 
+2537 kg Helios 1A is based on the SPOT remote sensing satellite bus.
+It was originally going to be a purely French satellite, but
+Spain and Italy have joined the program. The Ariane 40 launch vehicle
+also carried an ASAP (Ariane Structure for Auxiliary Payloads)
+with two microsatellites, CERISE and UPMSAT 1. 
+CERISE is a 50 kg satellite built by Alcatel Espace for the 
+French civil space agency CNES and the Delegation General de l'Armament
+(DGA) of the French defense ministry. CERISE is a technology precursor
+for French electronic intelligence satellites and is based on 
+Surrey Satellite Technology's UOSAT bus. UPMSAT 1 is a small 47
+kg satellite for microgravity and telecommunications research
+built by the Polytechnic University of Madrid. (Does anyone know
+if this is also a UOSAT bus?)
+
+The DC-X made its seventh flight on Jul 7.
+
+Geostationary Satellite Movements
+---------------------------------
+
+1982-110B, The SBS 3 satellite, launched in 1982 and previously at
+ 74.0W, was moved out of geostationary orbit on about Jun 2.
+1988-91B, TDRS 3 is on station at 84.8E.
+1995-27A, UHF F5 was at 173.0W drifting 0.05 deg W per day on Jul 1.
+1986-26B, Brasilsat 2 moved out of geostationary orbit at 65W 
+ in early June and is now drifting W at 0.3 deg per day.
+The current list of geostationary satellites is available at
+http://hea-www.harvard.edu/QEDT/jcm/space/jsr/geo.log.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+May 14 1345   USA 110         Titan 4 Centaur Canaveral LC40  Sigint?     22A
+May 17 0634   Intelsat 706    Ariane 44LP     Kourou ELA2     Comsat      23A
+May 20 0333   Spektr          Proton          Baykonur LC81   Mir module  24A
+May 23 0552   GOES 9          Atlas Centaur   Canaveral LC36B Weather     25A
+May 24 2010   Kosmos-2312     Molniya-M       Plesetsk LC16   Early Warn  26A
+May 31 1527   UHF F/O F5      Atlas Centaur   Canaveral LC36A Comsat      27A
+Jun  8 0443   Kosmos-2313     Tsiklon-2       Baykonur LC90   Recon       28A
+Jun 10 0024   DBS 3           Ariane 42P      Kourou ELA2     Comsat      29A
+Jun 22 1958   STEP 3          Pegasus XL/L1011 PAWA           Science     FTO
+Jun 27 1932   Atlantis        Space Shuttle   Kennedy LC39A   Spaceship   30A
+Jun 28 1825   Kosmos-2314     Soyuz-U         Plesetsk LC43   Recon       31A
+Jul  5 0310?  Nadezhda?       Kosmos-3M       Plesetsk LC132? Navigation  32A
+Jul  7 1623   Helios 1A  )    Ariane 40       Kourou ELA2     Recon       33A?
+              CERISE     )                                    Sigint      33B?
+              UPMSAT 1   )                                    Technology  33C?
+
+Reentries
+---------
+
+May 23        Progress M-27   Deorbited
+May 31        Kosmos-2311     Landed?
+Jun  8        Kosmos-2258     Reentered
+Jul  7        Atlantis        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-73  Sep 21
+OV-103 Discovery       LC39B         STS-70  Jul 13
+OV-104 Atlantis        KSC RW15      STS-71  
+OV-105 Endeavour       LC39A         STS-69  Aug  3
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-48/ET-72/OV-105   LC39A     STS-69
+ML2/RSRM-44/ET-71/OV-103   LC39B     STS-70                                 
+ML3                        VAB       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

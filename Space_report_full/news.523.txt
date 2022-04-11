@@ -1,0 +1,158 @@
+
+Jonathan's Space Report
+No. 523                                          2004 Apr  7, Somerville, MA
+-------------------------------------------------------------------------------
+
+  Kosmos-2406
+  ===========
+
+Russia launched Kosmos-2406 on Mar 27 into geostationary orbit. The
+launch vehicle was a Proton-K with a Blok DM-2 upper stage, in contrast
+to the Mar 15 launch of the more modern Proton-M and Briz-M combination.
+ Kosmos-2406 is a Globus military communications satellite. The first
+orbital data show the satellite in an unusual subsynchronous 1329.92
+minute, 32307 x 35056 km x 0.0 deg drift orbit, with a perigee over 3000
+km lower than normal Russian GEO insertions. (As of April 7, no further
+orbital data was available). The previous Globus satellite, launched in
+Oct 2001, also was tracked in such an orbit the day after launch, and
+then found again in a normal GEO orbit two weeks later. The reason for
+this new launch profile is not obvious.
+
+WDC-A and Space Command are reporting the satellite as Kosmos-2407,
+presumably because the original Russian launch schedule stated the
+now-delayed Zenit-2 launch would be Kosmos-2406. However, after launch
+Novosti called the new satellite Kosmos-2406, implying that the Kosmos
+numbers will continue to be assigned in launch order, and so provisional
+numbers released before launch may change. This makes sense since the
+Kosmos numbers are used purely for public consumption, with internal
+classified military  names used in all technical documentation, so
+changing the Kosmos number at a late date doesn't break anything.
+
+TASS reported the launch as a `four tonne satellite' which is simply an
+error, as the Proton does not have the capacity to put such a heavy
+satellite in the orbit achieved. The Kommersant story says 2 tonnes,
+which is correct.
+
+The Blok-DM final stage from Kosmos-2406 has not yet been cataloged;
+neither has the Briz-M stage from the Eutelsat launch two weeks ago.
+
+There were two kinds of Kosmos satellite launched in the recent past to
+GEO - the Lavochkin US-KMO Prognoz early warning series, and the NPO-PM
+Geizer military communications satellites. The last Geizer launch was
+Kosmos-2371 in Feb 2000; the last US-KMO launch was Kosmos-2397 in Apr
+2003.  The US-KMO series has been plagued with failures, with only the
+2001-launched Kosmos-2379 still operating, and Kosmos-2371 is the last
+operating Geizer, so originally I suspected Kosmos-2406 could be a
+replacement in either series. David Todd suggested to me that instead it
+might be a Globus military communications satellite and this has now
+been confirmed by a story in the Kommersant newspaper. Earlier Globus
+launches were given the Raduga-1 cover name, but it looks like the
+Russian Defense Ministry may be consolidating all its launches under the
+Kosmos cover name now (as for last month's Kosmos-2405 launch).
+
+
+ Navstar 59
+ ==========
+
+A new Navstar GPS (Global Positioning System) satellite was launched on
+Mar 20. SVN 59, the 11th Block IIR launch, rode to space on a Boeing
+Delta 2 from Cape Canaveral's Space Launch Complex 17B.  The Delta
+second stage reached a 174 x 200 km orbit at 1803 UTC; after its second
+burn the third stage separated at 1857 UTC and fired to enter an
+elliptical transfer orbit. The GPS satellite separated from the third
+stage at 1901 UTC, followed two seconds later by a `yo weight', a small
+weight attached to a 1-meter cable which unwinds from the spinning PAM-D
+stage and whose departing angular momentum is used to tumble the stage
+and make sure that residual thrust doesn't cause it to hit the payload.
+
+I've been obssessing about these yo weights recently. Humour me,  Gentle
+Reader - it's harmless and keeps me off the street where I might be
+fomenting revolution instead. Here's the problem: solid propellant upper
+stages are usually fired while spinning rapidly to keep them stabilized.
+After separation of the stage, you usually don't want your payload
+spinning fast. One way of fixing this, invented independently by JPL and
+APL in the early years of the space age, is the despin weight or `yo-yo
+device', in which a pair of long wires with masses on the ends are
+wrapped around the vehicle. When the masses are unclamped from the
+satellite, the spin unwinds the wires, and angular momentum is
+transferred from the satellite to the masses.  When the wires have fully
+unwound they are released and each wire-plus-mass pair becomes a piece
+of space debris. For early satellites the despin weights were wrapped
+around the satellite itself, but for modern Delta launches the weights
+are attached to the third stage and are released after third stage
+burnout but about 5 seconds before third stage/satellite separation.
+
+The despin weight idea is a one-use-only solution and some satellites
+have more sophisticated forms of spin control, using magnets or gas jets
+- for instance, the GPS satellite has its own solid motor for orbit
+circularization, and so it needs to be still spinning for that burn. In
+those cases a single weight is used by Delta third stages, and is
+released 2 seconds after third stage separation instead of 5 seconds
+before. The asymmetric transfer of angular momentum to the weight causes
+the third stage to tumble, so that if rocket exhaust is still escaping
+from the embers in the thrust chamber it won't go in the direction of
+the payload but will average out to zero net thrust. In the early days,
+there were several cases of a rocket stage bumping into its payload
+again after separation and causing damage, because of this residual
+thrust problem. The despin weight analogy with a yo-yo is a bit
+strained, and to the extent that it holds a single weight+wire is really
+the equivalent of a yo-yo, but nevertheless not only has the name stuck
+but the single-weight tumbler case has become known as a `yo' (half a
+yo-yo)!
+
+Every three-stage Delta 2 variant uses either a yo or a yo-yo, and so
+leaves one or two pieces of debris in orbit each with a mass of 1 kg and
+a cable length of 1.0m. In 1994 Space Command started cataloging
+some of these debris pieces, and it was a while before I figured out
+what they were. Not all the pieces have been cataloged; I present here
+a list of recent three-stage Delta 2 launches and their despin type.
+
+Date        Delta Model Payload               Despin type  Catalog
+
+1998 Dec 11 7425-9.5    Mars Climate Orbiter  Yo-Yo        No
+1999 Jan  3 7425-9.5    Mars Polar Lander     Yo-Yo        No
+1999 Feb  7 7426-9.5    Stardust              Yo           No
+1999 Oct  7 7925-9.5    GPS IIR-3             Yo           26789
+2000 Mar 25 7326-9.5    IMAGE                 Yo-Yo        No
+2000 May 11 7925-9.5    GPS IIR-4             Yo           27764
+2000 Jul 16 7925-9.5    GPS IIR-5             Yo           27765
+2000 Nov 10 7925-9.5    GPS IIR-6             Yo           No
+2001 Jan 30 7925-9.5    GPS IIR-7             Yo           27766
+2001 Apr  7 7925-9.5    2001 Mars Odyssey     Yo-Yo        No
+2001 May 18 7925-9.5    GeoLITE               Yo-Yo        No
+2001 Jun 30 7425-10     MAP                   Yo-Yo        No
+2001 Aug  8 7326-9.5    Genesis               Yo-Yo        No
+2002 Jul  3 7425-9.5    CONTOUR               Yo           No
+2003 Jan 29 7925-9.5    GPS IIR-8             Yo           27773
+2003 Mar 31 7925-9.5    GPS IIR-9             Yo           No
+2003 Jun 10 7925-9.5    MER-A                 Yo-Yo        No
+2003 Jul  8 7925H       MER-B                 Yo-Yo        No
+2003 Dec 21 7925-9.5    GPS IIR-10            Yo           28189
+2004 Mar 20 7925-9.5    GPS IIR-11            Yo           28193
+
+ 
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Feb  5 2346   AMC-10            Atlas IIAS      Canaveral SLC36A  Comms      03A
+Feb 14 1850   DSP 22            Titan 4B/IUS    Canaveral SLC40   Early Warn 04A
+Feb 18 0705   Kosmos-2405       Molniya-M       Plesetsk          Comms      05A
+Mar  2 0717   Rosetta           Ariane 5G+      Kourou ELA3      Comet probe 06A
+Mar 13 0540   MBSAT             Atlas IIIA      Canaveral SLC36B  Comms      07A
+Mar 15 2306   Eutelsat W3A      Proton-M/Briz-M Baykonur PL81     Comms      08A
+Mar 20 1753   Navstar SVN 59    Delta 7925      Canaveral SLC17B  Navigation 09A
+Mar 27 0330   Kosmos-2406       Proton-K/DM-2?  Baykonur PL81     Comms      10A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

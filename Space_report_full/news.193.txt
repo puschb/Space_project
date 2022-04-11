@@ -1,0 +1,122 @@
+Jonathan's Space Report 
+No. 193       1994 Apr 29
+------------------------------------------------------------------------------
+
+Editorial
+---------
+
+I receive a number of inquiries from readers who see this newsletter on
+bulletin boards about direct email subscriptions. To be added to the
+mailing list, just send me a message telling me that you want to be sent
+JSR. (As I am a human, not a mail exploder, please  do not just send a
+one-word 'subscribe' command!). Back issues of JSR are available by FTP
+from sao-ftp.harvard.edu in directory pub/jcm/space/news. For real fans,
+I note that extensive archaelogical research among some 9-track tapes
+has turned up JSR 1 to 31 which were previously missing from the
+archive.
+
+
+Shuttle  
+-------  
+
+Endeavour has been mated to the Boeing 747 Shuttle Carrier Aircraft
+at Edwards AFB, but as of Apr 29 remained unable to depart for
+Florida because of bad weather.
+
+The next Shuttle mission is STS-65, scheduled for July. Orbiter
+OV-102 Columbia will carry a Spacelab long module on the
+International Microgravity Lab 2 flight. SRB stacking continues
+for the mission in the Vehicle Assembly Building.
+
+LAUNCHES
+--------
+
+Three Kosmos satellites were launched this week for the Russian
+Ministry of Defense. Kosmos-2278 is a heavy electronic intelligence
+satellite which was placed in an 800 km high orbit at an inclination of
+71 degrees. The launch used a large Zenit booster; both satellite and
+booster were made by NPO Yuzhnoe of the Ukraine, and the launch was from
+the Baykonur spaceport in Kazakhstan.
+
+Kosmos-2279 is a navigation satellite in the Parus ('sail') series,
+built by NPO Prikladnoi Mekhaniki. The Parus satellites are analogous to
+the US Navy Transit spacecraft and are placed in 1000 km high orbits at
+an inclination of 83 degrees. Kosmos-2279 replaces Kosmos-2180, launched
+in 1992. The first Parus spacecraft was Kosmos-700, launched in 1974. A
+more advanced version with civilian applications, called Tsikada, is
+also launched into similar orbits. 
+
+Kosmos-2280 is an advanced imaging reconnaissance satellite, probably
+an improved variant of the Yantar' series. It was launched into a
+187 x 264 km orbit with an inclination of 70 degrees; it is expected
+to manoeuvre to a more circular orbit within one day and remain operational
+for six months to a year.
+
+Maxim Tarasenko communicates an amplification to my report on the GLONASS
+Uragan satellites: "NPO Prikladnoi mekhaniki of Krasnoyarsk-26 is a lead
+contractor for the WHOLE  "Glonass" system. Uragan satellites are
+DESIGNED JOINTLY by NPO PM and AKO  Polyot of Omsk (AKO is for AeroSpace
+Association - "AeroKosmicheskoye  Ob'edineniye"). MANUFACTURING of the
+satellites is performed by AKO Polyot."
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar  2 0324     Koronas-I       Tsiklon         Plesetsk LC32   Solar phys  14A
+Mar  4 1353     Columbia        Shuttle         Kennedy LC39B   Spaceship   15A
+Mar 10 0340     Navstar GPS 36) Delta 7925      Canaveral LC17  Navsat      16A
+                SEDS 2        )                                             16B
+Mar 13 2232     P90-5    )      Taurus          Vandenberg      Technology  17A
+                DARPASAT )                                      Technology? 17B
+Mar 17 1630     Kosmos-2274     Soyuz-U         Plesetsk LC43   Recon       18A
+Mar 22 0454     Progress M-22   Soyuz-U         Baykonur LC1    Cargo       19A
+Apr  9 1105     Endeavour       Space Shuttle   Kennedy LC39A   Spaceship   20A
+                Space Radar Lab
+Apr 11 0749     Kosmos-2275   ) Proton/DM2      Baykonur LC81   Navigation  21A
+                Kosmos-2276   )                                 Navigation  21B 
+                Kosmos-2277   )                                 Navigation  21C
+Apr 13 0604     GOES 8          Atlas Centaur I Canaveral LC36B Weather     22A
+Apr 23 0802     Kosmos-2278     Zenit           Baykonur LC45   SIGINT      23A                                                                                 
+Apr 26 0214     Kosmos-2279     Kosmos-3M       Plesetsk LC133  Navsat      24A
+Apr 28 1714     Kosmos-2280     Soyuz-U         Baykonur LC31   Recon       25A
+
+Reentries
+---------
+
+Mar 15          SEDS 2          Reentered
+Mar 18          Columbia        Landed at KSC
+Mar 23          Progress M-21   Deorbited
+Apr 20          Endeavour       Landed at Edwards AFB
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-65
+OV-103 Discovery       OPF Bay 3     STS-64
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       Edwards AFB   STS-59
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/ 
+ML2/                       
+ML3/RSRM-39/               VAB Bay 1 STS-65
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 
+
+,

@@ -1,0 +1,145 @@
+Jonathan's Space Report
+No. 269                      1995 Dec 24                    Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-72, still scheduled for January 11.  Crew of
+Endeavour will be Brian Duffy, Brent Jett, Leroy Chiao, Winston Scott,
+Koichi Wakata, and Daniel Barry. Wakata is an astronaut from Japan's
+NASDA space agency, while the others are from NASA.
+
+Mir
+---
+
+RKK Energiya's 7K-TGM transport craft 11F615A55 No. 230 was launched on
+Dec 18 from pad 1 at Baykonur and named Progress M-30. Launch was at
+1431:35 UTC and it entered an orbit of 89.61 min, 194 x 315 km x 51.6
+deg. After correction burns at 1810 and 1904 UTC it was in a 89.90 min,
+240 x 298 km x 51.6 deg orbit. (Times are from Vladimir Agapov; orbital
+data is based on Space Command elements).
+
+On Dec 19 at 0915:05 UTC, transport ship No. 229 (Progress M-29)
+undocked from the rear port of Mir, on the Kvant module, into a 92.47
+min, 391 x 400 km x 51.6 deg orbit. and at 1526 UTC it fired its engine
+to reenter over the Pacific Ocean.  Half an hour later, at 1600 UTC,
+Progress M-30 raised its orbit to 90.13 min, 248 x 312 km x 51.6 deg.
+At 1615 UTC Progress M-29 burnt up over 48.5 deg S, 158.7 deg W.
+
+Progress M-30 made two more manouvres at 1404 and 1447 UTC on Dec 20,
+entering a 92.46 min, 390 x 399 km x 41.6 deg orbit and completing its
+rendezvous with Mir. It docked to the vacant port at 1610:15 UTC on Dec
+20, delivering cargo to the Mir crew of Gidzenko, Avdeev and Reiter.
+The Progress M (11F615A55) series of spacecraft consist of a cargo
+module, a fuel section, and a service module. They are based on the
+Soyuz (7K) spaceship design. 73 robot cargo ships in the Progress
+and Progress M series have now been launched towards the DOS-5, 6 and 7
+(Salyut-6, Salyut-7 and Mir) space stations; every single one
+has successfully delivered its cargo, although several of the Progress M
+ferries had to make more than one attempt at docking.
+
+Recent Launches
+--------------
+
+Kosmos-2326 was launched on Dec 20. It is an electronic intelligence
+ocean reconnaissance satellite built by KB Arsenal for the Russian
+Defense Ministry, and uses a low thrust engine to maintain its 400 km
+high, 65 degree orbit. Kosmos-2326 also carries a supplementary
+scientific experiment from the Ioffe Institute in St Petersburg,
+according to V. Agapov. The experiment is the Konus-A gamma ray
+spectrometer, used to detect cosmic gamma ray bursts. Konus-A is a
+successor to earlier Konus experiments carried on Venera probes in the
+1970s and 1980s.
+
+Launch of Delta 230 with the X-ray Timing Explorer satellite was
+scrubbed on Dec 18 at 1501 UTC when the liquid oxygen valve on the first
+stage failed to open and the main engine did not ignite. The vernier
+engines ignited briefly but the solids were not commanded to ignite and
+the vehicle remained safely on the pad.
+
+The Russian spy satellite Kosmos-2305 may have completed its mission and
+been deorbited  around 0h UTC on Dec 19. Two new objects were tracked in
+orbit around that time. Orbit of Kosmos-2305 on Dec 18 was 89.77 min,
+239 x 286 km x 64.9 deg. Kosmos-2305 was launched in Dec 1994; its
+companion spacecraft Kosmos-2320 remains in a similar orbit.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Nov  4 1422   Radarsat )       Delta 7920     Vandenberg SLC2 Rem sensing 59A
+              SURFSAT  )                                                  59B
+Nov  6 0515   Milstar DFS 2   Titan 4 Centaur Canaveral LC40  Comsat      60A
+Nov 12 1230   Atlantis       ) Shuttle        Kennedy   LC39A Spaceship   61A
+              Docking Module )
+Nov 17 0120   ISO              Ariane 44P     Kourou ELA2     Astronomy   62A
+Nov 17 1425   Gals-2           Proton-K/DM2   Baykonur LC200L Comsat      63A
+Nov 28 1130   Asiasat 2        Chang Zheng 2E Xichang         Comsat      64A
+Dec  2 0808   SOHO             Atlas IIAS     Canaveral LC36B Astronomy   65A
+Dec  5 2118   USA 116          Titan 4        Vandenberg SLC4E Recon      66A
+Dec  6 2323   Telecom 2C   )   Ariane 44L     Kourou ELA2     Comsat      67A
+              Insat 2C     )                                  Comsat      67B
+Dec 14 0610   Kosmos-2323  )                                  Navsat      68A
+              Kosmos-2324  )   Proton-K/DM2   Baykonur LC200L Navsat      68B
+              Kosmos-2325  )                                  Navsat      68C
+Dec 15 0023   Galaxy IIIR      Atlas IIA      Canaveral LC36A Comsat      69A
+Dec 18 1431   Progress M-30    Soyuz-U        Baykonur LC1    Cargo ship  70A
+Dec 20 0052   Kosmos-2326      Tsiklon-2      Baykonur LC90   Eorsat/Sci  71A
+
+Payloads no longer in orbit
+--------------------------
+
+Nov  5        Columbia        Landed at KSC
+Nov 18        Molniya-1 (80-92A) Reentered
+Nov 20        Atlantis        Landed at KSC
+Dec  7        Galileo Probe   Entered Jovian atmosphere
+Dec 11        Kosmos-398      Reentered over Pacific
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       LC39B         STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-52/ET-75/OV-105  LC39B      STS-72                       
+ML2/                       
+ML3/RSRM-53               VAB Bay 1  STS-75                                     
+
+Shuttle Processing Explanation (or,  what are all these acronyms
+anyway?):
+
+ The Shuttle consists of an Orbiter (OV), an expendable External Tank
+(ET), and a reusable pair of Redesigned Solid Rocket Motors (RSRM).  The
+OV is prepared for flight in the Orbiter Processing Facility (OPF) which
+consists of three bays (one of which is actually a separate building)
+after which it is towed to the Vehicle Assembly Building (VAB) and
+`mated to the stack' or joined to the ET and RSRM. First, the segments
+of the RSRM are stacked up on a Mobile Launch Platform (ML) and then the
+ET is connected to it. After the OV is mated, a Crawler-Transporter is
+moved underneath the ML and carries the ML/RSRM/ET/OV stack to one of
+the two pads (A or B) at launch complex 39 (LC39) where it is eventually
+launched on a Space Transportation System (STS) mission. Occasionally
+an OV is returned to the Rockwell International plant in Palmdale,
+California for refit - an Orbiter Maintenance Down Period or OMDP. 
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

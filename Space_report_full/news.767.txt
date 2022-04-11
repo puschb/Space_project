@@ -1,0 +1,252 @@
+Jonathan's Space Report 
+No. 767                                                       2019 Aug  2   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 60 continues. Soyuz MS-13 was launched on Jul 20 and docked with the Zvezda module 6h 19 min
+after launch. Crew were Aleksandr Skvortsov, Luca Parmitano and Drew Morgan. They joined
+Aleksey Ovchinin, Nick Hague and Christina Koch aboard the ISS.
+
+Cargo ship Dragon CRS-18 was launched on Jul 25. The Falcon 9 stage 1 landed back at Cape Canaveral's LZ1.
+Dragon was grappled by the Canadarm-2 at 1311 UTC Jul 27 and berthed on the Harmony nadir port by 1601 UTC
+Jul 27.
+
+Cargo ship Progress MS-11 undocked from the Pirs module at 1043 UTC Jul 29 and was deorbited
+over the Pacific, with deorbit burn at 1350 UTC and atmosphere entry at 1423 UTC. Progress MS-12
+was launched on Jul 31 and docked with Pirs after a 3h 18m flight, the fastest trip to date from Earth
+to ISS.
+
+
+Soyuz-2-1v
+-----------
+
+On Jul 10 Russia launched a Soyuz-2-1v (light Soyuz with no strapon
+boosters) from Plesetsk. The Volga third stage placed 4 Russian Defense
+Ministry satellites in a 620 km sun-sync orbit and then maneuvered to a
+lower 475 x 510 km disposal orbit. At least one of the satellites is
+thought to be similar to the Kosmos-2519 (possible Nivelir-L) payload
+launched two years ago and used for rendezvous experiments.
+
+Vega
+----
+
+Flight VV15 of Europe's Vega launch vehicle was the rocket's first failure.
+Problems developed about 2 min 15s into flight during the second stage burn
+and the rocket fell into the Atlantic. The payload was Falcon Eye 1,
+a French-built spy satellite for the United Arab Emirates Armed Forces.
+
+SRG
+---
+
+On Jul 13 Russia's Spectrum-Rontgen-Gamma X-ray observatory was launched
+by Proton/DM-03 from Baykonur, after a 30 year development process. In
+its current form, SRG carries the Russian ART X-ray telescope and the
+European eROSITA X-ray telescope. eROSITA will carry out a sky survey in
+the relatively unexplored 2-10 keV energy band. The spacecraft is on its
+way to the Sun-Earth Lagrange 2 point.
+
+Chandrayaan-2
+-------------
+
+ISRO launched a GSLV-3 on Jul 22, putting the Chandrayaan-2 lunar probe in geotransfer orbit.
+The probe will use its own engine to raise its orbit and reach the Moon. The Vikram lander
+will then deliver the Pragyan rover to the lunar surface.
+
+By Aug 2, Chandrayaan-2 had raised its orbit to 277 x 89472 km.
+
+
+SQX-1
+-----
+
+On Jul 25 the first launch of the orbital version of the Shuang Quxian-1
+(Hyperbola-1) rocket was a success. It placed a Beijing Inst of
+Technology amateur radio satellite and another payload in orbit, as well
+as several experiments attached to the liquid-propellant 4th stage. The
+second payload, believed to be an inflatable air density experiment from
+Aerospace Science and Tech. Space Eng. Dvpt.  Co Ltd of Beijing, and the
+fourth stage are believed to have reentered within 24 hours and no
+orbital data for them was released by US tracking.
+
+The Shang Quxian-1 rocket was developed by the Beijing xingji rongyao
+kongjian keji YG (Beijing Interstellar Glory Space Tech Co. Ltd., also
+known as iSpace). This represents the first successful orbital launch by
+a commercially-developed and operated Chinese rocket.
+
+YG-30
+-----
+
+The three Yaogan-30 group 05 satellites were launched on Jul 26 from Xichang.
+The CZ-2C first stage was modified to use grid fins, which helped it steer its trajectory
+to a relatively precise impact location.
+
+Meridian-M
+----------
+
+The first upgraded Meridian-M military communications satellite, No.
+18L, was launched on Jul 30. It will supplement the original Meridian
+satellites Nos. 11-17L. 
+
+
+Hayabusa-2
+----------
+
+Hayabusa-2 made its second sampling touch-and-go on the surface of Ryugu at 0106UTC Jul 11.
+
+Note
+----
+
+Many of the payloads from the 2019-032, 2019-036 and 2019-038 launches remain unassociated with specific
+tracked objects. 
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Jun  5 0406   Jilin-1 GaoFen 03A   )     Chang Zheng 11H  Barge, Yellow Sea Imaging   32    S44310   558 x  576 x  45.0 
+              Tianqi-3             )                                        Comms     32    S44311   556 x  576 x  45.0
+              Xiaoxiang-1 04 xing  )                                        Imaging   32    S44312   557 x  575 x  45.0
+              Bufeng-1A            )                                        Meteo     32    S44313   555 x  576 x  45.0
+              Bufeng-1B            )                                        Meteo     32    S44314   555 x  576 x  45.0
+              Tianxiang 1          )                                        Tech      32    S44315   552 x  576 x  45.0
+              Tianxiang 2          )                                        Tech      32    S44316   556 x  576 x  45.0
+Jun 12 1417   RCM-1 )                    Falcon 9          Vandenberg SLC4E Radar     33A   S44322   584 x  604 x  97.8 0600LT SSO
+              RCM-2 )                                                       Radar     33B   S44323   584 x  604 x  97.8 0600LT SSO
+              RCM-3 )                                                       Radar     33C   S44324   584 x  604 x  97.8 0600LT SSO
+Jun 17 1015   Uguisu      )                                ISS, LEO         Tech    9867QG  S44331   405 x  417 x  51.6
+              Raavana-1   )                                                 Tech    9867QF  S44330   405 x  417 x  51.6
+              NepaliSat-1 )                                                 Tech    9867QE  S44329   405 x  417 x  51.6
+Jun 17 1020   SpooQy-1                                     ISS, LEO         Tech    9867QH  S44332   405 x  417 x  51.6
+Jun 20 2143   T-16        )              Ariane 5          Kourou ELA3      Comms     34A   S44333   255 x35737 x   6.0
+              Eutelsat 7C )                                                 Comms     34B   S44334   251 x35714 x   6.0
+Jun 24 1809   Beidou DW46                Chang Zheng 3B    Xichang LC3      Nav       35A   S44337   200 x35822 x  28.6 
+Jun 25 0630   OCULUS-ASR           )                                        Tech      36T   S44356   305 x  858 x  28.5
+              TEPCE 1              )     Falcon Heavy      Kennedy LC39A    Tech      36             305 x  858 x  28.5
+              TEPCE 2              )                                        Tech      36             305 x  858 x  28.5
+              DOTSI/Falconsat-7    )                                        Tech      36             305 x  858 x  28.5
+              ARMADILLO            )                                        Tech      36             305 x  858 x  28.5
+              PSAT-2               )                                        Comms     36U   S44357   305 x  858 x  28.5
+              BRICSAT-2            )                                        Tech      36             305 x  858 x  28.5
+              Prometheus-2.6       )                                        Comms     36AB  S44386   305 x  858 x  28.5
+              Prometheus Mass Sim  )                                        Inert     36             305 x  858 x  28.5
+              E-TBEx A             )                                        Science   36             305 x  858 x  28.5
+              E-TBEx B             )                                        Science   36             305 x  858 x  28.5
+              LEO-CP9              )                                        Tech      36X   S44360   305 x  858 x  28.5
+              StangSat             )                                        Tech      36             305 x  858 x  28.5
+              PROX-1               )                                        Tech      36A   S44339   710 x  724 x  24.0
+              NPSAT-1              )                                        Science   36B   S44340   710 x  724 x  24.0
+              OTB                  )                                      Tech/Burial 36C   S44341   710 x  724 x  24.0
+              GPIM                 )                                        Tech      36D   S44342   710 x  724 x  24.0
+              COSMIC 2-1           )                                        Meteo     36L   S44349   710 x  724 x  24.0
+              COSMIC 2-2           )                                        Meteo     36N   S44351   710 x  724 x  24.0
+              COSMIC 2-3           )                                        Meteo     36E   S44343   710 x  724 x  24.0
+              COSMIC 2-4           )                                        Meteo     36M   S44350   710 x  724 x  24.0
+              COSMIC 2-5           )                                        Meteo     36V   S44358   710 x  724 x  24.0
+              COSMIC 2-6           )                                        Meteo     36Q   S44353   710 x  724 x  24.0
+              DSX                  )                                        Science   36F           5994 x12012 x  42.2
+Jun 27 2005   RED-EYE                                      ISS, LEO        Tech     9867QJ  S44364   408 x  418 x  51.6
+Jun 29 0430   BlackSky Global 3 )        Electron          Mahia LC1       Imaging    37C   S44367   452 x  460 x  45.0
+              SpaceBEE 8        )                                          Comms      37             452 x  460 x  45.0
+              SpaceBEE 9        )                                          Comms      37             452 x  460 x  45.0
+              ACRUX 1           )                                          Tech       37             452 x  460 x  45.0
+              Prometheus 2.7    )                                          Comms      37K   S44374   452 x  460 x  45.0
+              Prometheus 2.9    )                                          Comms      37B   S44366   452 x  460 x  45.0
+              UNIDENTIFIED PAYLOAD)                                        UNK        37             452 x  460 x  45.0
+Jul  1?       Oculus-ASR Sphere 1                          Oculus-ASR,LEO  Cal        36AA  S44376   306 x  796 x  28.5
+Jul  2 0749   LightSail-2                                  PROX-1, LEO     Tech       36AC  S44420   710 x  724 x  24.0
+Jul  3 1015   IOD-1 GEMS                                   ISS, LEO        Tech     9867QK  S44385   408 x 418 x  51.6
+Jul  3 1150   KrakSat   )                                  ISS, LEO        Tech     9867QL  S44426   408 x 418 x  51.6
+              Swiatowid )                                                  Tech     9867QM  S44427   408 x 418 x  51.6
+Jul  3 1450   VCC-A Aeternitas)                            ISS, LEO        Tech     9867QN  S44428   408 x 418 x  51.6
+              VCC-B Libertas  )                                            Tech     9867QR  S44431   408 x 418 x  51.6
+              VCC-C Ceres     )                                            Tech     9867QQ  S44430   408 x 418 x  51.6
+Jul  3 1625   EntrySat                                     ISS, LEO        Tech     9867QP  S44429   408 x 418 x  51.6
+Jul  5 0541   Meteor-M No. 2-2 )       Soyuz-2-1B/Fregat   Vostochniy      Weather    38A   S44387   812 x 816 x  98.7
+              ICEYE-X4         )                                           Radar      38D   S44390   574 x 595 x  97.7
+              ICEYE-X5         )                                           Radar      38C   S44389   574 x 595 x  97.7
+              CarboNIX         )                                           Tech       38             574 x 595 x  97.7
+              DoT-1            )                                           Tech       38P   S44399   574 x 595 x  97.7
+              El Camino Real   )                                           Tech       38Y   S44408   574 x 595 x  97.7
+              NSLSat-1         )                                           Tech/Comm  38             574 x 595 x  97.7
+              SEAM 2.0         )                                           Science    38             574 x 595 x  97.7
+              SONATE           )                                           Tech       38             574 x 595 x  97.7
+              JAISAT 1         )                                           Comm       38             574 x 595 x  97.7
+              EXOCONNECT       )                                           Comm       38             574 x 595 x  97.7
+              LightSat         )                                           Comm       38             574 x 595 x  97.7
+              Ecuador-UTE      )                                           Tech       38             574 x 595 x  97.7
+              Lucky-7          )                                           Tech       38W   S44406   574 x 595 x  97.7
+              MOVE-IIb         )                                           Tech       38             574 x 595 x  97.7
+              MTCube           )                                           Tech       38             574 x 595 x  97.7
+              Koit TTU101      )                                           Imaging    38             574 x 595 x  97.7
+              BEESAT 9         )                                           Tech       38             574 x 595 x  97.7
+              BEESAT 10        )                                           Tech       38             574 x 595 x  97.7
+              BEESAT 11        )                                           Tech       38             574 x 595 x  97.7
+              BEESAT 12        )                                           Tech       38             574 x 595 x  97.7
+              BEESAT 13        )                                           Tech       38             574 x 595 x  97.7
+              Lemur-2-Morag    )                                           Met/AIS    38T  S44403    574 x 595 x  97.7
+              Lemur-2-Wanli    )                                           Met/AIS    38S  S44402    574 x 595 x  97.7
+              Lemur-2-Yndrd    )                                           Met/AIS    38U  S44404    574 x 595 x  97.7
+              Lemur-2-EJatta   )                                           Met/AIS    38Z  S44409    574 x 595 x  97.7
+              Lemur-2-LillyJo  )                                           Met/AIS    38L  S44396    574 x 595 x  97.7
+              Lemur-2-DustInTheWind )                                      Met/AIS    38V  S44405    574 x 595 x  97.7
+              Lemur-2-Alex-Maddy    )                                      Met/AIS    38X  S44407    574 x 595 x  97.7
+              Lemur-2-GregRobinson  )                                      Met/AIS    38AB S44411    574 x 595 x  97.7
+              AmGU 1           )                                           Tech       38J  S44394    574 x 595 x  97.7
+              Sokrat           )                                           Tech       38             574 x 595 x  97.7
+              VDNKh-80         )                                           Tech       38G  S44392    574 x 595 x  97.7
+Jul 10 1714   Kosmos-2535  )             Soyuz 2-1V        Plesetsk LC43/4  Tech      39A  S44421    611 x 622 x  97.9
+              Kosmos-2536  )                                                Tech      39B  S44422    611 x 622 x  97.9
+              Kosmos-2537  )                                                Tech      39C  S44423    611 x 622 x  97.9
+              Kosmos-2538  )                                                Tech      39D  S44424    611 x 622 x  97.9
+Jul 11 0153   FalconEye 1                Vega              CSG ZLV          Imaging   F05         -6175? x  75?x  98.5?       
+Jul 12 1230   Spektr-RG                  Proton-M/DM-03    Baykonur LC81/24 Astronomy 40A            500 x1240000 x 51.6                            
+Jul 20 1628   Soyuz MS-13                Soyuz-FG          Baykonur LC1/5   Spaceship 41A  S44437    200 x  211 x 51.6
+Jul 22 0913   Chandrayaan 2              GSLV-3            Satish Dhawan    Lunar     42A  S44441    133 x45171 x 21.4
+Jul 25 0500   CAS-7B                  )  Shuang Quxian 1   Jiuquan          Comms     43   S44443    280 x  299 x 42.7
+              Hangtian KKG Fazhang sat)                                     Tech      43
+Jul 25 2201   Dragon CRS-18              Falcon 9          Canaveral SLC40  Cargo     44A  S44446    203 x  386 x 51.6
+Jul 26 0357   Yaogan-30 05 zu 01 xing )  Chang Zheng 2C    Xichang          Sigint    45A  S44449    590 x  605 x 35.0
+              Yaogan-30 05 zu 02 xing )                                     Sigint    45B  S44450    590 x  605 x 35.0
+              Yaogan-30 05 zu 03 xing )                                     Sigint    45C  S44451    590 x  605 x 35.0
+Jul 30 0557   Meridian-M No. 18L         Soyuz-2-1A/Fregat Plesetsk LC43/4  Comms     46A  S44453    985 x39734 x 62.8
+Jul 31 1210   Progress MS-12             Soyuz-2-1A        Baykonur LC31    Cargo     47A  S44455    185 x  218 x 51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The FTA-01 exercise saw three US Missile Defense Agency medium range
+targets of undisclosed type launched from an undisclosed location on
+undisclosed dates in July, all intercepted by Israeli Arrow 3
+interceptors launched from Kodiak, Alaska.  Dates, target types and
+target launch location shown below are speculative.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jun  1 2015?  RV                JL-3?             Submarine,Bohai Sea    Test         1000?      Taklamakan Desert
+Jun 13 0221   ATEK/MAPHEUS 8    IM/VS-30           ESRANGE               Microgravity  240       ESRANGE
+Jun 19 1128   TooWINDY 1        Black Brant IX     Kwajalein             Ionosphere    373       Pacific
+Jun 19 1133   TooWINDY 2        Black Brant IX     Kwajalein             Ionosphere    412       Pacific
+Jun 20 0938   NASA 41.126UO     Terrier Imp.Orion  Wallops Island        Education     117       Atlantic
+Jun 24 0652   MASER 14          VSB-30             ESRANGE               Microgravity  260       ESRANGE
+Jul 15?       MRBM Target       eMRBM?             C-17, Kauai?          Target        300?      Alaska
+Jul 15?       Arrow 3 KV        Arrow 3            Kodiak                Interceptor   100?      Intercept MRBM
+Jul 24        Shahab RV         Shahab 3           Iran                  Test          250?      Iran?
+Jul 26        Topol-E RV        Topol'             Kapustin Yar          Reentry test 1000?      Sary Shagan
+Jul 22?       MRBM Target       eMRBM?             C-17, Kauai?          Target        300?      Alaska
+Jul 22?       Arrow 3 KV        Arrow 3            Kodiak                Interceptor   100?      Intercept MRBM
+Jul 27?       MRBM Target       eMRBM?             C-17, Kauai?          Target        300?      Alaska
+Jul 27?       Arrow 3 KV        Arrow 3            Kodiak                Interceptor   100?      Intercept MRBM
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

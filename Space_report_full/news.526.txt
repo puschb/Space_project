@@ -1,0 +1,139 @@
+Jonathan's Space Report
+No. 526                                       2004 May 23, Somerville, MA
+-------------------------------------------------------------------------------
+
+   A New Mesonaut
+   --------------
+
+The Scaled Composites craft Spaceship One was launched to a 64.4 km
+apogee on May 13. The White Knight carrier aircraft took off from Mojave
+Airport at 1441 UTC on May 13, and released Spaceship One at 1531 UTC at
+an altitude of 14.0 km. After a 10 second drop,  the rocket engine
+ignited and burned for 55s. Engine cutoff came at an altitude of about
+46 km and an Earth-relative velocity of about 0.8 km/s. (I don't know
+the launch azimuth or location, and so can't calculate the inertial
+velocity.) Pilot Mike Melvill coasted to apogee and then glided back
+down to land at Mojave 20min 44s after launch. This mission, Spaceship
+One flight 56L/14P, was higher than all other piloted flights except for
+36 flights of the X-15 rocket plane and all conventional spaceflights.
+Melvill, born in South Africa, joins a select group of `mesonauts' who
+have flown above the stratopause and into the mesosphere (between 50 and
+80 km). To date, Milt Thompson was the only mesonaut who never became an
+astronaut (flying above the mesopause at 80 km into the exosphere; regular
+readers will know that I adopt a boundary of 80 km as the edge of space).
+
+There have been 15 people who have made suborbital flights into
+the mesosphere and exosphere. Here I list the date and altitude
+of their highest suborbital flight. Armstrong, Engle, Shepard,
+Grissom, Lazarev and Makarov also made higher altitude orbital flights;
+the lowest apogee orbital flight was probably Vostok-5 with an apogee
+of around 209 km.
+
+Table of Mesonauts: (suborbital flights above 50 km)
+
+Neil Armstrong   (b.1930   )   X-15 3-4-8          1962 Apr 20   63.3  
+Mike Melvill     (b.1942?  )   SS-1 56L/14P        2004 May 13   64.4
+Milt Thompson    (1926-1993)   X-15 1-57-96        1965 Aug 25   65.3
+Mike Adams       (1930-1967)   X-15 3-65-97        1967 Nov 15   81.1
+Pete Knight      (1929-2004)   X-15 3-64-95        1967 Oct 17   85.5
+Joe Engle        (b. 1932)     X-15 3-44-67        1965 Jun 29   85.5
+Bob Rushworth    (1924-1993)   X-15 3-20-31        1963 Jun 27   86.9
+John McKay       (1922-1975)   X-15 3-49-73        1965 Sep 28   90.1
+Bill Dana        (b. 1930)     X-15 3-56-83        1966 Nov  1   93.5
+Robert White     (b. 1924)     X-15 3-7-14         1962 Jul 17   95.9
+Joe Walker       (1921-1966)   X-15 3-22-36        1963 Aug 22  108.0
+Alan Shepard     (1923-1998)   Mercury MR-3        1961 May  5  187.5
+Gus Grissom      (1926-1967)   Mercury MR-4        1961 Jul 21  190.0
+Vasiliy Lazarev  (1928-1991)   Soyuz 7K-T No. 39   1975 Apr  5  192.0
+Oleg Makarov     (1933-2003)   Soyuz 7K-T No. 39   1975 Apr  5  192.0
+
+
+  ROCSAT-2
+  --------
+
+Orbital Sciences launched Taurus flight 7, its first Taurus XL model, on
+May 20, orbiting the ROCSAT-2 remote sensing satellite for Taiwan's
+National Space Program Office. The satellite was built by Astrium
+(Toulouse) and  uses the Leostar 500XO bus. It has a 0.60m diameter
+telescope with a 2-m resolution black-and-white imager and an 8-m
+resolution color imager as well as a detector to study lightning
+'sprites'. The Taurus 3210 model has a Castor 120 solid motor lower
+stage, and the three motors from the Pegasus XL - Orion 50SXL, Orion
+50XL and Orion 38 - as upper stages. The Orion 50XL stage burnt out in a
+-2836 x 714 km x 99 deg suborbital trajectory four minutes after launch;
+the final stage and payload coasted to apogee, and at 11 min after
+launch the Orion 38 motor fired to put ROCSAT-2 in a 720 x 742 km x 99.1
+deg orbit. The satellite will use its onboard propulsion system (with
+about 50 kg of hydrazine) to raise its orbit to around 890 km. 
+
+  Superbird-6
+  -----------
+
+According to a report in Space News, the Superbird 6 communications
+satellite was damaged on a lower than expected first perigee passage.
+The spacecraft was launched into an orbit with around 200 km perigee,
+but lunar perturbations - which  reportedly had not been taken into
+account - lowered the perigee to around 100 km during the first orbit.
+An engine firing raised the perigee to over 1000 km, and later burns up
+to May 10  put the satellite in a near-geosynchronous drift orbit at
+35834 x 35964 km x 0.1 deg over the Pacific at 157 deg E. No tracking
+data was released for the Centaur stage, but Space Command estimates it
+reentered on Apr 19, presumably at its second perigee.
+
+  AMC-11
+  ------
+
+Atlas Centaur flight AC-166, another Atlas IIAS model with four solid
+strapons, roared into a 186 x 35926 km x 12.4 deg geostationary transfer
+orbit on May 19 with the AMC 11 (Americom 11) communications satellite
+for SES Americom. AMC 11 will replace Satcom C-3 and is a Lockheed
+Martin A2100 series model.
+
+ Mars Express
+ ------------
+
+Mars Express lowered the apoapsis of its orbit around Mars on May 6,
+changing the orbit from about 266 x 11580 km x 86.6 deg to about 266 x
+10046 km x 86.6 deg.
+
+ Hayabusa
+ --------
+
+The Japanese Hayabusa probe made an Earth flyby on May 19 with
+a closest approach altitude of 3725 km at 0623 UTC. It is expected
+to reach asteroid (25143) Itokawa in 2005.
+
+ Kosmos-2406
+ -----------
+
+The Blok DM-2 stage from the Globus (Kosmos-2406) launch  has been
+tracked in a 1438 minute orbit, drifting just above the geostationary
+ring. If this identification is correct, the earlier Space Command
+publication of a 1330 minute initial orbit for Kosmos-2406 must have
+been an error.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Apr 16 0045   Superbird 6       Atlas IIAS      Canaveral SLC36A  Comms      11A
+Apr 18 1559   Shiyan 1 )        CZ-2C           Xichang           Imaging    12A  
+              Naxing 1 )                                          Tech       12
+Apr 19 0319   Soyuz TMA-4       Soyuz-FG        Baykonur LC1      Spaceship  13A
+Apr 20 1657   Gravity Probe B   Delta 7920      Vandenberg SLC2W  Science    14A
+Apr 26 2037   Ekspress AM-11    Proton-K/DM-01  Baykonur LC200/39 Comms      15A
+May  4 1242   DirecTV-7S        Zenit-3SL       Odyssey, Pacific  Comms      16A 
+May 19 2222   AMC-11            Atlas IIAS      Canaveral SLC36B  Comms      17A
+May 20 1747   ROCSAT-2          Taurus          Vandenberg 576-E  Imaging    18A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

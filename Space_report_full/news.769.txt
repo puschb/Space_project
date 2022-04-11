@@ -1,0 +1,176 @@
+Jonathan's Space Report 
+No. 769                                                       2019 Sep 22   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 60 continues.
+
+Soyuz MS-14, flying without a crew, completed a rendezvous with the ISS
+at 0513 UTC on Aug 24. However, at 0532 UTC after a flyaround at a
+distance of 400 metres, it failed to lock on to the Kurs system on the
+Poisk module. It was later determined that Poisk's system was not
+working correctly. The crew sent the abort signal at 0536 UTC and the
+Soyuz was ordered to retreat to a safe distance.
+
+On Aug 26 astronauts Skvortsov, Parmitano and Morgan undocked from the
+Zvezda module in Soyuz MS-13 at 0335 UTC and redocked with the Poisk
+module at 0359 UTC. This left the Zvezda module, with its working Kurs
+system, free for a second docking attempt for Soyuz MS-14.
+On Aug 27 at 0308 UTC Soyuz MS-14 indeed succeeded in docking with the
+Zvezda aft port, delivering cargo and the Fyodor robot.
+
+On Aug 27 the Canadarm-2 unberthed Dragon CRS-18 from the Harmony nadir
+port and released it into orbit at 1459 UTC. Dragon fired its Draco
+thrusters for a 12m53s deorbit burn at 1922 UTC and splashed down at
+about 123.6W 32.5N at 2021 UTC.
+
+The Fyodor robot was loaded back into Soyuz MS-14 along with some
+return cargo and Soyuz MS-14 undocked from Zvezda at 1814 UTC Sep 6,
+landing in Kazakhstan at 2132 UTC to complete its test flight.
+
+Robotic operations were carried on Sep 3 to Sep 5 on two Main Bus
+Switching Units (MBSUs). MSBU 3 (S/N X700385) was brought inside Kibo
+from ELC-2 for repairs and then returned outside to ESP-2. MBSU 1 (S/N
+C250636) was brought inside Kibo from ESP-2 and will be returned to
+Earth on the next Dragon flight.
+
+
+
+Cygnus NG-11
+------------
+
+On Aug 29 the Aerocube-10a satellite, released from Cygnus NG-11, itself
+released its first atmospheric probe, labelled Venturini in the US satellite
+catalog.
+
+On Sep 16 Cygnus NG-11 released the Seeker cubesat, which was designed to
+perform proximity operations with Cygnus.
+
+Geo-IK
+-------
+
+On Aug 30 Russia launched the Geo-IK-2 No. 13L (Nusson-2 No. 13L, codename Kosmos-2540)
+geodetic satellite.
+
+KX-09
+-----
+
+KX-09 is a Chinese Academy of Sciences microgravity research satellite, launched on the
+small Kuaizhou-1A launcher. A 6U cubesat from Tianyi Research, Xiaoxiang-1 07 xing, was
+also aboard.
+
+ZY-1
+----
+
+The 1840 kg Ziyuan-1 02D xing imaging satellite was launched on Sep 12 by CZ-4B. The launch
+also carried two small satellites: Jingshi 1 is a 16 kg imaging satellite from Beijing
+Normal University; Jinniuzuo naxing is a 3U cubesat from Shanghai ASES Spaceflight Technology
+Co Ltd which is testing a drag sail.
+
+
+Zhuhai-1 Group 3
+----------------
+
+The Zhuhai yiaho 03 zu (Zhuhai-1 Group 3) cluster was launched by CZ-11 on Sep 19.
+The cluster consists of one video satellite and four hyperspectral imaging satellites
+for the Zhuhai Orbital company. Each satellite has a name to commemorate a sponsor:
+     
+    Sat     Name                    Sponsor
+
+    OVS-3   Chunlei Jihua Zhixing   Zhuhai Orbit Co, China Children and Teens Foundation
+    OHS-3A  Xiahaian 1              West Coast New District Govt, Qindao, Shandong Prov.
+    OHS-3B  Feitian Maotai          Guizhou Maotai Distillery Co.
+    OHS-3C  Gaomi-1                 Gaomi City Govt, Shandong Prov.
+    OHS-3D  GuoyuanV9               Jiangsu Jinshiyuan Wine Co Ltd.
+
+Chandrayaan-2
+-------------
+
+The Vikram lander separated from the Chandrayaan-2 Orbiter at 0745 UTC
+Sep 2. It carried out a landing attempt on Sep 6, but lost attitude and
+contact at an altitude of 2.3 km. It appears that Vikram impacted the
+surface at about 2023 UTC not far from the planned landing iste at 70.9S
+22.7E.
+
+Hayabusa-2
+----------
+
+On Sep 16 Hayabusa-2 released two 10-cm-diameter target markers (TM-E at 1617 UTC
+and TM-C at 1624 UTC) about 1 km above the surface of Ryugu. The spacecraft is observing
+the target markers as they descend slowly in Ryugu's weak gravitational field. The
+TMs are expected to impact the surface by Sep 23.
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Aug  5 2156   Kosmos-2539                Proton/Briz-M     Baykonur LC81/24 Comms     48A  S44457  35673 x 35851 x  0.0 
+Aug  6 1930   EDRS C         )           Ariane 5 ECA      Kourou ELA3      Comms     49A  S44475?   217 x 35528 x  4.5
+              Intelsat IS-39 )                                              Comms     49B  S44476?   231 x 35801 x  4.5
+Aug  6 2323   AMOS 17                    Falcon 9          Canaveral SLC40  Comms     50A  S44479    215 x 35733 x 26.0
+Aug  6 or 7?  RTFSat          )                          Chaffee, LEO       Tech      22G  S44417    470 x   485 x 51.6
+              Quantum Radar 3 )                                             Tech      22F  S44416    470 x   485 x 51.6
+              NARSScube-2     )                                             Tech      22H  S44418    470 x   485 x 51.6
+              ORCA            )                                             Tech      22E  S44415    470 x   485 x 51.6
+Aug  7 1300   Aerocube-10a  )                            Chaffee, LEO       Tech      22D  S44485    471 x   485 x 51.7
+              Aerocube-10b  )                                               Tech      22C  S44484    469 x   481 x 51.7
+Aug  8 1013   AEHF 5 )                   Atlas V 551       Canaveral SLC41  Comms     51A  S44481  14366 x 35286 x 10.0
+              TDO    )                                                      Sp.Surv.  51B  S44482    207 x 35259 x 26.4
+Aug 17 0411   Qiancheng-1 01 )           Jielong-1         Jiuquan          Imaging   52A  S44486    532 x   559 x 97.6
+              Xingshidai-5   )                                              Tech      52   S44487?   529 x   559 x 97.6
+              Tianqi-2       )                                              Comms     52   S44488?   529 x   560 x 97.6
+Aug 19 1203   Zhongxing-18               Chang Zheng 3B    Xichang          Comms     53A  S44493    228 x 35879 x 28.4
+Aug 19 1212   BlackSky Global 4)         Electron          Mahia            Imaging   54   S44496?   531 x   558 x 45.0
+              Pearl White 1    )                                            Tech      54   S44497?   531 x   558 x 45.0
+              Pearl White 2    )                                            Tech      54   S44498?   531 x   558 x 45.0
+              BRO-ONE          )                                            Sigint    54   S44499?   531 x   558 x 45.0
+Aug 22 0338   Soyuz MS-14                Soyuz-2-1a        Baykonur LC31    Spaceship  55A S44504    194 x   226 x 51.6
+Aug 22 1306   GPS III SV02               Delta 4M+(4,2)    Canaveral SLC37B Navigation 56A S44506   1199 x 20177 x 55.0
+Aug 29?       AC-10 Probe 1                               AC-10a, LEO       Atmosphere 22J S44516    471 x   484 x 51.6
+Aug 30 1400   Geo-IK-2 No. 13            Rokot             Plesetsk LC133   Geodesy    57A S44517    945 x   958 x 99.3
+Aug 30 2341   KX-09   )                  Kuaizhou-1A       Jiuquan          Micrograv  58B S44520    592 x   609 x 97.8
+              XX-1 07 )                                                     Imaging    58A S44519    592 x   607 x 97.8
+Sep 12 0326   Zi Yuan 1 02D   )          Chang Zheng 4B    Taiyuan          Imaging    59A S44528?   748 x   758 x 98.6
+              Jingshi 1       )                                             Imaging    59B S44529?   732 x   750 x 98.6
+              Jinniuzuo naxing)                                             Tech       59C S44530?   731 x   750 x 98.6
+Sep 16        Seeker                                      Chaffee, LEO      Tech       22K S44533    466 x   484 x 51.6
+Sep 19 0642   OVS-3  )                   Chang Zheng 11    Jiuquan          Imaging    60A S44534?   494 x   512 x 97.4
+              OHS-3A )                                                      Imaging    60C S44536?   494 x   511 x 97.4
+              OHS-3B )                                                      Imaging    60D S44537?   494 x   511 x 97.4
+              OHS-3C )                                                      Imaging    60E S44538?   494 x   511 x 97.4
+              OHS-3D )                                                      Imaging    60F S44539?   494 x   511 x 97.4
+
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Aug  1?       Warhead           Burkan-3           Yemen                 Weapon        300?      Dammam, S. Arabia
+Aug  7 1500?  RV                DF-31/41?          Taiyuan               Test         3000?      Xinjiang
+Aug 11 0607   SISTINE           Black Brant IX     White Sands           UV Astronomy  259       White Sands
+Aug 12 0944   RockSat-X 9       Terrier Imp.Mal.   Wallops Island        Education     154       Atlantic
+Aug 23 2145   RV                DPRK-MLRS          Sondok, N Korea       Test           97       Sea of Japan
+Aug 23 2202   RV                DPRK-MLRS          Sondok, N Korea       Test           97       Sea of Japan
+Aug 24        RV x 4?           Sineva            K-114, N Pole region   Test         1000?      Chizha
+Aug 24        RV x 6?           Bulava            K-535, Barents Sea     Test         1000?      Kura
+Aug 30        MBRV              eMBRM?             C-17, off Kauai?      Target        300?      Pacific
+Aug 30        THAAD FTT-23      THAAD              Kwajalein             Intercept     100?      MBRV intercept
+Sep  4        USN Mk 4 RV x 4?  Trident D-5       SSBN 739, WTR          Test         1000?      Pacific/Guam 
+Sep  4        USN Mk 4 RV x 4?  Trident D-5       SSBN 739, WTR          Test         1000?      Pacific/Guam 
+Sep  6        USN Mk 4 RV x 4?  Trident D-5       SSBN 739, WTR          Test         1000?      Pacific/Guam 
+Sep  6        USN Mk 4 RV x 4?  Trident D-5       SSBN 739, WTR          Test         1000?      Pacific/Guam 
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,117 @@
+
+Jonathan's Space Report: 10th anniversary year
+No. 385 draft                                     1999 Jan 13 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+------------------------
+
+The next Shuttle launch is STS-93, which will deploy the Chandra X-ray
+Observatory. Columbia will be transferred to the Vehicle Assembly
+Building in early February; Chandra flies from TRW's Redondo Beach plant
+in California to Florida at the end of the month.
+
+Recent Launches
+---------------
+
+A Krunichev Proton-K launch vehicle with an Energiya 11S861 DM-2 upper
+stage placed three Uragan navigation satellites in orbit for the Russian
+Ministry of Defence GLONASS system on Dec 30. The GLONASS satellites
+operate in  19000 km circular orbits and are analogous to the US Navstar
+GPS system; the Uragan spacecraft were designed by NPO PM of
+Zheleznogorsk and built by Polyot of Omsk. The three satellites  are
+Uragan Nos. 86, 84 and 79 (GLONASS numbers 786, 784 and 779), and are in
+orbital plane 1, according to the KNITs web page.
+
+NASA's Mars Polar Lander was launched on Jan 3 at 2021 UTC by a Boeing
+Delta 7425 rocket. The first burn of the second stage placed it in a 157
+x 245 km x 28.35 deg parking orbit. The second stage started again
+around 2055 UTC and was follwed by the burn of the Star 48B third stage.
+The third stage and MPL entered solar orbit, with third stage separation
+at around 2102 UTC. The second stage was left in a 226 x 740 km x 25.8 deg
+Earth orbit.
+
+MPL is part of the Mars Surveyor program. It consists of a cruise stage
+and a lander, built by Lockheed Martin Astronautics/Denver. Attached to
+the cruise stage are two Deep Space 2 Mars Microprobes, penetrator
+probes which will slam into the Martian surface a few hundred km away
+from the MPL landing site. DS2 is part of NASA's New Millenium Program.
+Both MPL and DS2 are managed by the Jet Propulsion Lab in Pasadena.
+
+The LP team tell me that the report of a drift in Lunar Prospector's
+inclination to 85 deg was a typo, and the actual orbit inclination
+remains close to 90.0 degrees. 
+
+Following its propulsion problems, ISAS' Nozomi probe will remain in
+solar orbit until Dec 2003, entering Mars orbit four years late.
+
+
+Launch Logs
+-----------
+
+I've updated the various launch logs in 
+http://hea-www.harvard.edu/~jcm/space/log/
+
+Several new launch times for early (1958-1962) Soviet satellites have
+been added from recent Russian publications. Also, the Kosmos-2285
+satellite launched in Aug 1994, which I flagged as an unusual mission in
+JSR 206, is implicitly identified in a recent Russian book as Obzor No.
+1, an experimental remote sensing satellite.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  4 0835   Endeavour  )      Shuttle        Kennedy LC39A    Spaceship  69A
+              Unity      )                                      Station    69F
+              PMA-1      )
+              PMA-2      )
+Dec  6 0043   Satmex 5          Ariane 42L     Kourou ELA2      Comsat     70A
+Dec  6 0057   SWAS              Pegasus XL     Vandenberg       Astronomy  71A
+Dec 10 1157   Nadezhda  )       Kosmos-3M      Plesetsk         Navsat     72A
+              Astrid-2  )	                                Science    72B
+Dec 11 1845   Mars Climate Orb. Delta 7425     Canaveral SLC17A Mars probe 73A
+Dec 14 0431   SAC-A                            Endeavour,LEO    Science    69B
+Dec 15 0209   Mightysat                        Endeavour,LEO    Technol.   69C
+Dec 19 1130   Iridium 88?)      CZ-2C/SD       Taiyuan          Comsat     74A
+              Iridium 89?)                                      Comsat     74B
+Dec 22 0108   PAS 6B            Ariane 42L     Kourou ELA2      Comsat     75A
+Dec 24 2003   Kosmos-2361       Kosmos-3M      Plesetsk         Navsat     76A
+Dec 30 1835   Kosmos-2362  )    Proton-K/DM2   Baykonur         Navsat     77A
+              Kosmos-2363  )                                    Navsat     77B
+              Kosmos-2364  )                                    Navsat     77C
+Jan  3 2021   Mars Polar Lander) Delta 7425    Canaveral SLC17B Mars probe 01A
+              MPL Cruise Stage )
+              DS2 Microprobe 1 )
+              DS2 Microprobe 2 )
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Apr 1999
+OV-103 Discovery       OPF Bay 1     STS-96  May 1999
+OV-104 Atlantis        VAB Bay 2     STS-101 Aug 1999
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 1999
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/
+MLP3/                          
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

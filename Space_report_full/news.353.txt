@@ -1,0 +1,122 @@
+Jonathan's Space Report
+No. 353                                   1998 Mar 25 Cambridge, MA 
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+
+RKK Energiya's automated cargo vehicle Progress 7K-TGM No. 240 was
+launched on Mar 14 and named Progress M-38. Vehicle 240 is specially
+modified to carry the second VDU  (Vynosnaya Dvigatel'naya Ustanovka,
+External Engine Unit) propulsion unit. If vehicle 240 is similar to the
+vehicle 209 (Progress M-14) which carried the first VDU in 1992, the
+unit is mounted externally on a special structure between the cargo
+module and the service module, replacing the OKD fuel section present on
+normal Progress vehicles. The crew will spacewalk to extract the VDU
+from Progress and place it on the end of a Sofora boom extending from
+the Kvant module. The VDU is used to provide attitude control capability
+for the station.
+
+Launch mass of Progress M-38 was 7007 kg. By 0320 UTC on Mar 15 it had
+successfully completed its first two orbital maneuvers. It replaced
+Progress M-37 at the docking port on the Kvant module, with a successful
+docking on Mar 16. Progress M-37 undocked on Mar 15 at 1916 UTC
+and was deorbited at 2303 UTC over the Pacific.
+
+Columbia was moved to the VAB on March 16 in preparation for STS-90.
+On Mar 24 it was rolled out to pad 39B.
+
+Recent Launches
+---------------
+
+NASA has begun drop testing of an X-38 test vehicle. The X-38 is a
+project to develop a lifeboat (crew return vehicle) for the Space
+Station. X-38 V-131 was dropped from a B-52 on Mar 12, flying 7 km over
+Edwards AFB, and parachuted to the desert. Vehicle 131 is a subscale
+test prototype, not a spaceworthy craft. Two other 130-series X-38's
+will be drop tests prior to the space flight of the full-scale V-201 in
+the year 2000.
+
+Lockheed Martin Astronautics launched the last Atlas II, AC-132, from
+Cape Canaveral on Mar 16. It placed a Hughes HS-601 satellite in orbit
+for the US Navy. UHF Follow-On F8 is the first Block III UHF Follow-On
+satellite, replacing the old FLTSATCOM satellites. It carries UHF, EHF
+and Ka-band transponders, including a video broadcast payload. Future
+Atlas launches will use the IIA and IIAS models, as well as the
+forthcoming IIAR variant.
+
+The French SPOT 4 remote sensing satellite was launched on Mar 24.  
+Developed by Matra Marconi Space/Toulouse for CNES, the 2755 kg
+satellite provides 10-m resolution images with a wide field of view.
+SPOT 4 also carries a wide field 'vegetation' imager and a laser
+communications experiment. Launch was by an Arianespace Ariane 40
+rocket, the base Ariane 4 model with no strap-on boosters. The
+liquid hydrogen fuelled third stage of the Ariane 40 entered an 800 km
+sun-synchronous orbit together with SPOT 4.
+
+The Kakehashi satellite has begun orbit raising maneuvers.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Feb  4 2329   Brasilsat B3   )  Ariane 44LP   Kourou ELA2       Comsat     06A
+              Inmarsat 3 F5  )                                  Comsat     06B
+Feb 10 1320   GFO         )     Taurus        Vandenberg 576E   Altimeter  07A
+              Orbcomm G1  )                                     Comsat     07B
+              Orbcomm G2  )                                     Comsat     07C
+              Celestis-02 )                                     Burial     07D
+Feb 14 1434   Globalstar FM1 )                                  Comsat     08A
+              Globalstar FM2 )  Delta 7420    Canaveral SLC17A  Comsat     08B
+              Globalstar FM3 )                                  Comsat     08C
+              Globalstar FM4 )                                  Comsat     08D
+Feb 17 1030?  Kosmos-2349       Soyuz-U       Baykonur LC31?    Recon      09A
+Feb 18 1358   Iridium 50 )      Delta 7920    Vandenberg SLC2   Comsat     10A
+              Iridium 52 )                                      Comsat     10C
+              Iridium 53 )                                      Comsat     10D
+              Iridium 54 )                                      Comsat     10E
+              Iridium 56 )                                      Comsat     10B
+Feb 21 0755   Kakehashi         H-II          Tanegashima Y     Comsat     11A
+Feb 26 0707   SNOE        )     Pegasus XL    Vandenberg        Science    12A
+              Teledesic 1 )                                     Comsat     12B
+Feb 27 2238   Hot Bird 4        Ariane 42P    Kourou ELA2       Comsat     13A
+Feb 28 0021   Intelsat 806      Atlas IIAS    Canaveral SLC36B  Comsat     14A
+Mar 14 2246   Progress M-38     Soyuz-U       Baykonur LC1      Cargo      15A
+Mar 16 2132   UHF F/O F8        Atlas II      Canaveral SLC36A  Comsat     16A
+Mar 24 0146   SPOT 4            Ariane 40     Kourou ELA2       Imaging    17A
+
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        LC39B         STS-90  Apr 16
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Sep 17?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/RSRM66              VAB Bay 1     STS-91
+MLP2/RSRM65/ET-91/OV-102 LC39B         STS-90
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

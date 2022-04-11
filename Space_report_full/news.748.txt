@@ -1,0 +1,182 @@
+Jonathan's Space Report 
+No. 748                                                      2018 Apr  24  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 55 continues with  Anton Shkaplerov in command, Scott Tingle,
+Norishige Kanai, Oleg Artemev, Ricky Arnold and Drew Feustel as flight
+engineers.  Ferry ships Soyuz MS-07 and Soyuz MS-08 are docked to the
+station.
+
+Dragon CRS-14 arrived at the ISS on Apr 4. Canadarm-2 grappled it at
+1040 UTC and berthed it at Harmony nadir at 1300 UTC. 
+
+On Apr 6-8 the Canadarm-2 and Dextre robot arms removed the PFCS (Pump
+Flow Control System) and MISSE-FF payloads from the Dragon trunk.
+MISSE-FF was installed on Express Logistics Carrier 2; the DCSU-2 spare
+unit was temporarily removed to provide easier access to the install
+location and reinstalled afterwards. On Apr 11 the Canadarm-2 was used
+to remove the old PFCS (PFCS 3) from the P6 truss segment; it was later
+moved to Dragon's trunk for disposal. There were four PFCS on P6, all
+there since P6 was launched in 2000. In May 2013 during US EVA-21
+astronauts moved malfunctioning PFCS 3 from the channel 2B slot and put
+it in a spare slot, replacinging it with PFCS 1, which had been part of
+the old EATCS thermal control system. The new PFCS, which I label PFCS
+12, went in PFCS 3's old storage slot. 
+
+Also aboard the Dragon, as well as RemoveDebris discussed in the last
+issue, was a Japanese Small Satellite Orbital Deployer (J-SSOD) carrying
+three cubesats: 1KUNS-PF, a 1U cube for the University of Nairobi,
+Kenya; the 3U UBAKUSAT for Istanbul Technical  University, Turkey; and
+the 1U Irazu from Tecnologico de Costa Rica. They will be deployed from
+the Kibo module at a later date.
+
+TESS
+----
+
+The Transiting Exoplanet Survey Satellite (TESS), an astronomical
+observatory in NASA's Explorer program, was launched on Apr 18 by Falcon
+9. TESS will survey the sky to find exoplanets transiting bright stars
+and nearby stars. The Falcon 9 entered an initial 250 x 250 km orbit and
+then restarted to place TESS in a 280 x 272166 km x 29.6 deg  highly
+elliptical orbit. The second stage then made a third burn for disposal,
+and entered a hyperbolic orbit leading to a 0.83 x 1.00 AU x 0.3 deg
+solar orbit.
+
+TESS will make a lunar flyby on May 27 and reach a half-month-period
+operational orbit on Jun 12. It will spend two years staring at sectors
+of the sky for a month at a time until it has searched the entire sky
+for transiting exoplanets. While the search is limited by the brightness
+of the host stars and the large (21 arcsecond) camera pixels, and by
+the probability that a planet and its star are oriented in such a way
+as to cause a transit seen from Earth, TESS should discover a large
+number of exoplanets that are, unlike the Kepler planets, close enough
+for detailed spectroscopic followup by other observatories.
+
+
+Arianespace
+------------
+
+Flight VA242 (launch vehicle L5102) successfully delivered two
+communications satellites to low-inclination geotransfer orbit on Apr 5.
+Hylas 4 for Avanti Communications is an Orbital ATK Geostar-3 and will
+provide Ka-band broadband coverage for Europe and Africa. The DSN-1
+satellite, built by Mitsubishi Electric for Sky Perfect JSAT, carries
+the Kirameki-1/DSN-1 military X-band communications payload operated by
+DSN Corporation on behalf of the Japanese armed forces,  and Sky Perfect
+JSAT's Superbird-8 Ku-band commercial television payload.
+Kirameki-1/Superbird-8 is now on station at 158E and Hylas 4 is at 21E.
+
+
+Yaogan 31
+---------
+
+On Apr 10 China launched the YG-31 Group 1 mission. Satellites Yaogan
+Weixing 31 hao 01 zu 01, 02 and 03 xing (which can be rendered as
+YG-31-01 Sat 1, 2 and 3) were launched to an 1100 km orbit similar to
+the Yaogan-9 series.
+
+IRNSS-1I
+--------
+
+ISRO launched the Indian Regional Navigation Satellite Systems's IRNSS-1I satellite to transfer
+orbit on Apr 11. The successful launch follows the failure of IRNSS-1H after a fairing separation
+failure during launch last year; it was left in a 6500 km apogee orbit which has now decayed
+to 4500 km. IRNSS-1H is in an inclined geosynchronous orbit.
+
+Kosmos-2526
+-----------
+
+The Russian Defense Ministry's second Blagovest communications satellite, Blagovest No. 12L,
+was launched on Apr 19. It will be given the cover name Kosmos-2526. According to Russian
+sources, the satellite reached geosynchronous orbit successfully.
+As of Apr 24, only the discarded propellant tank in transfer orbit had public US orbit data.
+
+
+X-37B
+-----
+
+The USAF OTV-5 spaceplane mission launched in Sep 2017 has finally been located in orbit by hobbyists.
+On Apr 11 orbit was 355 x 356 km x 54.5 deg - a higher orbit inclination than earlier X-37B missions.
+Around 0500 UTC Apr 19 it lowered its orbit to 310 x 323 km x 54.5 deg.
+
+
+Orbituary
+---------
+
+Japan's Jikiken (EXOS-B) magnetospheric research satellite, which operated in elliptical orbit
+from 1978 to 1985, reentered on Apr 22. The small satellite, with a mass of 92 kg, deployed
+long wire antennae to measure the electric field in the magnetosphere. The antennae were
+designed to span 206 metres, although in the end they were only deployed to 103m span.
+
+
+Erratum:
+--------
+
+MISSE-FF is owned by Alpha Space of Houston, not Astra LLC.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+Mar 29 1126   GSAT-6A                 GSLV Mk II        Satish Dhawan SLP Comms       27A   S43241 25979 x 36370 x  3.3
+Mar 29 1738   Kosmos-2525             Soyuz-2-1V        Plesetsk         Imaging      28A   S43243   315 x   318 x 96.6
+Mar 29 1756   Beidou DW 30 )          Chang Zheng 3B/YZ1 Xichang         Nav          29A   S43245 21537 x 22913 x 55.0
+              Beidow DW 31 )                                             Nav          29B   S43245 21542 x 22192 x 55.0
+Mar 30 1413   Iridium SV140 )         Falcon 9          Vandenberg SLC4E Comms        30D   S43252   608 x   626 x 86.7
+              Iridium SV142 )                                            Comms        30J   S43257   608 x   626 x 86.7
+              Iridium SV143 )                                            Comms        30K   S43258   608 x   626 x 86.7
+              Iridium SV144 )                                            Comms        30G   S43255   608 x   626 x 86.7
+              Iridium SV145 )                                            Comms        30E   S43253   608 x   626 x 86.7
+              Iridium SV146 )                                            Comms        30F   S43254   608 x   626 x 86.7
+              Iridium SV148 )                                            Comms        30A   S43249   608 x   626 x 86.7
+              Iridium SV149 )                                            Comms        30B   S43250   608 x   626 x 86.7
+              Iridium SV150 )                                            Comms        30H   S43256   608 x   626 x 86.7
+              Iridium SV157 )                                            Comms        30C   S43251   608 x   626 x 86.7
+Mar 31 0322   Gaofen 1-02 )           Chang Zheng 4C    Taiyuan LC9      Imaging      31A   S43259?  639 x   643 x 98.0
+              Gaofen 1-03 )                                              Imaging      31B   S43260?  638 x   642 x 98.0
+              Gaofen 1-04 )                                              Imaging      31C   S43261?  638 x   642 x 98.0
+Apr  2 2030   Dragon CRS-14           Falcon 9          Canaveral SLC40  Spaceship    32A   S43267   204 x   357 x 51.6
+Apr  5 2134   Superbird-8/DSN-1 )     Ariane 5ECA       Kourou ELA3      Comms        33A   S43271 35781 x 35793 x  0.1
+              Hylas 4           )                                        Comms        33B   S43272 35781 x 35788 x  0.0
+Apr 10 0425   Yaogan 31-01 01   )     Chang Zheng 4C    Jiuquan          Sigint       34A   S43275  1090 x  1100 x 63.4
+              Yaogan 31-01 02   )                                        Sigint       34B   S43276  1090 x  1100 x 63.4
+              Yaogan 31-01 03   )                                        Sigint       34C   S43277  1090 x  1100 x 63.4
+              Weina Jishu Shiyan)                                        Tech         34D   S43278  1090 x  1100 x 63.4
+Apr 11 1834   IRNSS-1I                PSLV-XL           Sriharikota      Navigation   35A   S43286 35464 x 35740 x 28.5
+Apr 14 2313   CBAS    )               Atlas V 551       Canaveral SLC41  Comms        36A   S43339 38992 x 38992 x  0.0
+              EAGLE   )                                                  Tracking     36B   S43340 38992 x 38992 x  0.0
+              Mycroft )                                                  Tech         36D   S43342 38992 x 38992 x  0.0
+Apr 18 2212   Kosmos-2526 (Blagovest) Proton-M/Briz-M   Baykonur         Comms        37A   S43432 35780?x 35800?x  0.0?
+Apr 18 2251   TESS                    Falcon 9          Canaveral SLC40  Astronomy    38A   S43435   249 x268294 x 29.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Mar           Dummy KV?         Nudol'             Plesetsk              Test          100?      Russia
+Mar 25 1051   NASA 46.019UO     Terrier Im.Mal.    Wallops I             Education     172       Atlantic
+Mar 25 2025?  Burkan RV         Burkan 2H          Yemen                 Weapon        100?      Riyadh Airport
+Mar 27 0240?  Trident RV x n?   Trident II         USS Nebraska, Pacific Test         1000?      Kwajalein?
+Mar 27 0240?  Trident RV x n?   Trident II         USS Nebraska, Pacific Test         1000?      Kwajalein?
+Apr  4 1040   WRX-R             Black Brant 9      Roi-Namur, Kwajalein  XR Astron     204       Kwajalein
+Apr  4 1800   Hyperbola-1S      Shian Quxian 1S    Haikou, Hainan        Test          108       S China Sea
+Apr 11        Burkan RV         Burkan 2H          Yemen                 Weapon        100?      Riyadh Airport
+Apr 16 1647   CHESS 4           Black Brant 9      Roi-Namur, Kwajalein  UV Astron     200?      Kwajalein
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+
+

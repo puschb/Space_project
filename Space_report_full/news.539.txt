@@ -1,0 +1,103 @@
+Jonathan's Space Report
+No. 539                                           2004 Nov 28, Somerville, MA.
+-------------------------------------------------------------------------------
+
+* Swift
+
+The Swift Gamma Ray Burst Explorer was launched at 1716 UTC on Nov 20 by
+a Boeing Delta 7320-10C from pad 17A at Cape Canaveral. Swift went into
+a 185 x 185 km x 28.5 deg parking orbit at 1720 UTC, the Delta restarted
+to enter a 181 x 618 km x 25.1 deg transfer orbit at 1742 UTC, and a
+third burn at 1827 UTC to reach the final 584 x 604 km x 20.6 deg orbit.
+Swift separated from the second stage at 1836 UTC, and the stage lowered
+its own orbit to 197 x 596 km x 19.5 deg to reduce its orbital lifetime.
+
+Gamma ray bursts - at least, most of them - occur in distant galaxies
+during a particular kind of supernova, and last only a few seconds. As
+the X-rays fade, the shockwave from the gamma-ray burst hits
+interstellar gas causing an optical 'afterglow'.  The difficulty up to
+now has been that gamma-ray telescopes have fuzzy eyesight and only find
+rough positions for the bursts, making it hard to locate the much
+fainter optical-ultraviolet afterglow - by carrying both a wide-area
+search system and a high resolution followup telescope on the same
+spacecraft, Swift should fix this problem.
+Swift carries BAT, the Burst Alert Telescope, which is a coded-mask
+telescope working in the 15 to 150 keV hard-X-ray energy range with a
+cadmium-mercury-telluride  detector. BAT can see ten percent of the sky
+at once, and  when a gamma ray burst occurs will immediately trigger the
+satellite to point roughly at the site of the burst so that the XRT
+(X-ray Telescope), working in the lower 0.2-10 keV energy range
+(comparable to Chandra), and the 30-cm aperture UVOT
+(Ultraviolet/Optical Telescope), will catch the resulting light and can
+locate the burst more exactly. The accurate positions obtained by XRT
+and UVOT will also be flashed to  astronomers worldwide, who will then
+rush to follow up the afterglow before it fades by using ground-based
+telescopes and other satellites. XRT and UVOT also take spectra to
+measure the glow's redshift and physical properties.
+
+Swift is a NASA Midex (medium-class Explorer) mission. It is the third
+to be launched, following IMAGE and WMAP, and the mission is led
+by NASA-Goddard's Neil Gehrels.
+
+* Shiyan-2
+
+China launched another satellite on Nov 18; the Shiyan 2 satellite,
+developed by DFH Satellite Co., is a 300 kg remote sensing payload. 
+It's not clear if it's the same design as the Harbin-developed  Shiyan 1
+launched in April. This is the 8th Chinese launch this year, a record
+for the country. Shiyan-2 is in a 694 x 711 km x 98.2 deg orbit;
+the CZ-2C final stage  entered a more eccentric 705 x 913 km orbit.
+
+* GPS 61
+
+The GPS SVN 61 satellite fired its apogee motor at around 0240 UTC on
+Nov 9 to leave its 159 x 20380 km x 39.1 deg  transfer orbit and enter a
+19794 x 20486 km x 54.9 deg orbit, which will be further trimmed as it
+enters the operational constellation. 
+
+* Soyuz-2-1A
+
+Analysis of the small amount of information released about the
+Soyuz-2-1A rocket test flight, combined with informed guesses and
+unofficial suggestions about the likely Pacific impact point, leads me
+to believe that the rocket entered an orbit with an apogee between 150
+and 250 km and a perigee between -100 and -200 km, and an inclination in
+the 50-52 degree range. My best guess is a -150 x 180 km x 51.8 deg
+orbit with reentry around 1855 UTC on Nov 8, 25 min after launch.
+
+* STS-114
+
+Stacking of booster stack BI-124 with solid motors RSRM-90 on Mobile
+Launch Platform 1 has begun in High Bay 1 of the VAB. The redesigned
+External Tank ET-120 will be added after this is complete. Meanwhile
+work continues on orbiter OV-103 Discovery is in Orbiter Processing
+Facility bay 3. It will eventually be connected to the external tank  in
+preparation for its launch into orbit, currently planned  for May 2005.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Oct 14 0306   Soyuz TMA-5       Soyuz-FG        Baykonur LC1/5    Spaceship  40A
+Oct 14 2123   AMC 15            Proton-M/Briz-M Baykonur LC200/39 Comms      41A
+Oct 19 0120   FY-2C             CZ-3A           Xichang           Weather    42A
+Oct 29 2211   Ekspress AM-1     Proton-K/DM-2M  Baykonur LC200/39 Comms      43A
+Nov  6 0310   ZY-2C             CZ-4B           Taiyuan           Imaging    44A
+Nov  6 0539   GPS SVN 61        Delta 7925      Canaveral SLC17B  Navigation 45A
+Nov  8 1830   Oblik             Soyuz-2-1A      Plesetsk LC43/4   Test       U01
+Nov 18 1045   Shiyan 2          CZ-2C           Xichang           Imaging    46A
+Nov 20 1716   Swift             Delta 7320      Canaveral SLC17A  Astronomy  47A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

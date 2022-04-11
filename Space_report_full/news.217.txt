@@ -1,0 +1,137 @@
+Jonathan's Space Report 
+No. 217               1994 Nov 3              Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Atlantis took from pad 39B at 1659:43 UT on Nov 3, with main engine
+cutoff at 1708 UT. STS-66 payloads are the Spacelab ATLAS 3 (Igloo plus
+pallet), the ASTRO-SPAS carrier with CRISTA, and three GAS beam adapters
+with SSBUV (the Shuttle solar backscatter Ultraviolet spectrometer),
+ESCAPE II (a solar spectrometer), and ITEPC (a radiation dosimeter). The
+expected orbit was 295 x 311 km x 57.0 deg. Crew are Donald McMonagle,
+Curtis Brown, Ellen Ochoa, Joe Tanner, Scott Parazynski, and ESA's
+Jean-Francois Clervoy, a French citizen. Since ESA's Ulf Merbold is
+still aboard Mir, this marks the first time that two ESA astronauts have
+been in space at the same time.
+
+Mir
+---
+
+Malenchenko, Musabaev and Merbold undocked from the rear port of Mir at 
+1030 UT on Nov 3 and flew out to a distance of 190m. They then engaged
+the automatic docking mode and came back in to the same docking port
+with redocking at 1105. This was a special test of the automatic docking
+system after recent failures. The three cosmonauts are now back on Mir,
+but will land tomorrow, leaving the rear port free for the next
+Progress cargo freighter. Viktorenko, Kondakova and Polyakov will remain
+on the station which is currently in a 393 x 395 km x 51.7 deg orbit.
+[Thanks to Jim Oberg for passing on details of the redocking].
+
+There's been some confusion lately about which spaceship used
+which docking port on Mir. Here is a table giving my understanding -
+please send corrections if you disagree. The two ports in regular
+use are the rear port on Kvant and the PKhO port on the nose
+of Mir.
+
+           PKhO                     Kvant
+
+
+Progress M-18  to 1993 Jul 3      Progress M-17  to 1993 Aug 11
+Soyuz TM-17    1993 Jul 3-Jan 14  Progress M-19  1993 Aug 13- Oct 13      
+                                  Progress M-20  1993 Oct 13- Nov 21
+                                  Soyuz TM-18    1994 Jan 10- Jan 21
+Soyuz TM-18    1994 Jan 21-Jul 9  Progress M-21  1994 Jan 30-Mar 23     
+                                  Progress M-22  1994 Mar 24-May 23
+                                  Progress M-23  1994 May 24-Jul  2
+                                  Soyuz TM-19    1994 Jul  3-Nov  3
+Progress M-24  1994 Sep  2-Oct  4      
+Soyuz TM-20    1994 Oct  6-       Soyuz TM-19    1994 Nov  3-4 (due)
+
+
+
+Recent Launches
+---------------
+
+NASA-Goddard's Wind space science satellite was launched on Nov 1. The 
+McDonnell Douglas Delta 7925-10 rocket entered a 186 x 3038 km x 28.7
+deg orbit, and the PAM-D third stage ignited to plance Wind in a lunar
+transfer orbit. Wind carries a set of instruments to study the solar
+wind, as well as two gamma ray burst detectors. It was built by Martin
+Marietta Astro Space. Wind will fly past the Moon, study the outer
+magnetosphere, and eventually be placed in a `halo orbit' around
+the L1 Lagrange point between the Earth and the Sun.
+
+The long awaited Russian geostationary meteorological satellite
+was launched on Oct 31. Elektro, built by VNII ElektroMekhaniki,
+flew into orbit aboard a Proton. On Nov 2, Elektro was in a
+1441.65 min, 35858 x 35931 km x 1.3 deg orbit over 88.4 deg E,
+drifiting 1.4 degrees west per day.
+
+Nov 1 also saw the launch of another Hughes HS601 communications
+satellite. The Ariane V69 flight placed Astra 1D in a 217 x 31006 km x
+7.0 deg geostationary transfer orbit. Astra 1D is a television satellite
+for the Luxembourg-based Societe Europeene des Satellites (SES). 
+
+Kosmos-2293, launched on Nov 2, is an Electronic Intelligence Ocean
+Reconnaissance Satellite (EORSAT), operated by the Russian Ministry of Defence
+for naval intelligence. It was placed in a 403 x 417 km x 65.0 deg orbit.
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Sep 30 1116     Endeavour       Space Shuttle   Kennedy LC39A   Spaceship   62A
+Oct  3 2242     Soyuz TM-20     Soyuz-U2        Baykonur LC1    Spaceship   63A
+Oct  6 0635     Intelsat 703    Atlas Centaur   Canaveral LC36B Comsat      64A
+Oct  8 0107     Solidaridad 2 ) Ariane 44L      Kourou ELA2     Comsat      65A
+                Thaicom 2     )                                 Comsat      65B
+Oct 11 1430     Okean-O1 No. 7  Tsiklon-3       Plesetsk LC32   Rem.sensing 66A
+Oct 13 1619     Ekspress        Proton-K/DM-2-1 Baykonur LC200  Comsat      67A
+Oct 15 0505     IRS-P2          PSLV            Sriharikota     Rem.sensing 68A
+Oct 31 1435?    Elektro         Proton-K/DM-2-1? Baykonur       Weather     69A
+Nov  1 0037     Astra 1D        Ariane 42P      Kourou ELA2     Comsat      70A
+Nov  1 0931     Wind            Delta           Canaveral LC17B Science     71A
+Nov  2 0115?    Kosmos-2293     Tsiklon-2       Baykonur        EORSAT      72A
+Nov  3 1700     Atlantis        Space Shuttle   Kennedy LC39B   Spaceship
+
+Reentries
+---------
+
+
+Oct  2          ODERACS A       reentered
+Oct  4          ODERACS B       reentered
+Oct  4          Progress M-24   Deorbited
+Oct 11          Endeavour       Landed at Edwards AFB
+Oct 12          Magellan        Entered Venus atmosphere
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-63  Feb 2
+OV-104 Atlantis        LEO           STS-66  Nov 3
+OV-105 Endeavour       OPF Bay 1     STS-67  Feb 23
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM                   VAB Bay 3 STS-63                       
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/                       LC-39B    STS-66   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http:/hea-www.harvard.edu/QEDT/jcm/jsr.html                        |
+!      ftp:/sao-ftp.harvard.edu/pub/jcm/space/news/news.*                 |
+'-------------------------------------------------------------------------'
+
+

@@ -1,0 +1,146 @@
+Jonathan's Space Report
+No. 316                           1997 Mar 27 Cambridge, MA
+-------------------------------------------------------------------------------
+Editorial
+---------
+Apologies for the delay in this report. I've been very busy at work
+(for which see the AXAF article below).
+
+Shuttle and Mir
+---------------
+
+After the failure of Progress M-33 to redock with Mir, it was deorbited
+at 0235 UTC on Mar 12 and reentered at 0323 UTC over the Pacific Ocean.
+
+The next Shuttle launch is STS-83, scheduled for launch Apr 3 using
+OV-102 Columbia. It carries a Spacelab Long Module (probably the CD
+module, Flight Unit 1, which last flew on STS-73/USML-2 - can anyone
+confirm this?) and an Extended Duration Orbiter pallet. The Spacelab
+payload is MSL-1 (Microgravity Science Laboratory 1). This is actually
+the second payload called MSL-1 to fly on the Shuttle, as the STS-7
+OSTA-2 payload was also called MSL-1. An MSL-2 flew on mission 61-C in
+1986. The earlier MSL-1 and MSL-2 are nothing to do with the new ones.
+Crew of STS-83 are James Halsell and Susan Still (Commander and Pilot),
+Janice Voss (Payload Commander), Mike Gernhardt and Donald Thomas
+(Mission Specialists), and Roger Crouch and Gregory Linteris (Payload
+Specialists). Cady Coleman is backup to Thomas, who broke his ankle
+during training, but it now looks like Thomas will be OK to fly.
+Crouch is a NASA HQ employee, and was backup on IML-1. Linteris works
+at the National Institute of Standards and Technology (NIST).
+
+OV-105 Endeavour returned to Kennedy Space Center on Mar 27 after its
+refurbishment period at Boeing North American in California.
+It was scheduled to take up the first Shuttle payload to Space
+Station on STS-88, but the mission has now been postponed and
+the manifest is being reworked.
+
+AXAF
+----
+
+The Advanced X-ray Astrophysics Facility is NASA's next
+observatory-class astronomy satellite. It is due for launch in Aug 1998
+on Shuttle OV-102 Columbia. A two-stage IUS will place it in a highly
+elliptical orbit, and an onboard liquid propulsion system will then
+raise the orbit to 10000 x 140000 km x 28.5 deg. The telescope has a ten
+meter focal length. Two cameras (ACIS, which contains ten X-ray CCD
+imagers based on ASCA/SIS technology, and HRC, which has four
+microchannel plate pairs similar to the ROSAT/HRI but much bigger)
+will detect the X-rays, and two gratings may be placed in the beam
+for high resolution spectroscopy. AXAF will make high spatial and
+spectral resolution observations of X-ray sources such as quasars,
+clusters of galaxies, supernova remnants, binary and active stars,
+and even comets.
+
+Prime contractor TRW, which is building the spacecraft in California,
+has completed structural tests of the spacecraft bus and fit checks of
+the telescope tube. Meanwhile in Alabama, scientists from NASA's
+Marshall Space Flight Center, the Smithsonian Astrophysical Observatory,
+MIT, Penn State, Utrecht and MPE/Garching are calibrating the telescope
+and its science instruments. In a recent press release we announced that
+mirror tests show we can focus 70 percent of the X-rays from a point
+source into an image half an arcsecond across, which is much better than
+X-ray telescopes now on orbit. This is very exciting news, confirming
+that we've constructed the mirrors correctly; next we test the mirrors
+in combination with the flight cameras. The calibration tests began in
+December and have been running 24 hours a day, 7 days a week. The
+telescope is in a two-story-high vacuum chamber at NASA-MSFC, and
+scientists from here are taking turns going down for a week or two to do
+12-hour shifts overseeing the operations and data reduction. 
+
+Recent Launches
+---------------
+
+The Tempo 2 direct broadcast satellite was launched by Lockheed Martin's
+Atlas IIA AC-128 from Cape Canaveral on Mar 8. Tempo is owned by TCI
+Satellite Entertainment Inc and is a Space Systems/Loral FS-1300 class
+spacecraft. The Centaur IIA second stage made two burns to place
+Tempo 2 in a sub-synchronous 369.9 min, 256 x 21125 km x 25.0 deg
+transfer orbit. It used its own engine to raise orbit to geosynchronous,
+and on Mar 27 it was on station at 109.9W.
+
+Based on info from Ron Pedersen, I understand that that the Intelsat 8
+satellites (like Intelsat 801 launched on Mar 1) use the British Royal
+Ordnance Leros 1 apogee engine.
+
+Erratum: Igor Lissov reports that he believes earlier reports that the
+Zeya satellite  is the same as the Mozhaets satellite are incorrect. So
+I don't know for sure who built Zeya, although NPO-PM is probably
+still the contractor and the Russian Defense Ministry is the owner.
+It may be primarily for communications rather than navigation/geodesy.
+Zeya is in a 424 x 467 km x 97.3 deg orbit. If anyone has any more
+details on Zeya, please let me know.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan 12 0928   Atlantis         Shuttle        Kennedy LC39B   Spaceship   01A
+Jan 17 1628   GPS 42           Delta 7925     Canaveral LC17A Navsat      FTO
+Jan 30 2204   GE 2     )       Ariane 44L     Kourou ELA2     Comsat      02A	
+              Nahuel 1A)                                      Comsat      02B
+Feb 10 1409   Soyuz TM-25      Soyuz-U        Baykonur LC1    Spaceship   03A
+Feb 11 0855   Discovery STS-82 Shuttle        Kennedy LC39A   Spaceship   04A
+Feb 12 0450   Haruka           M-V            Kagoshima       Astronomy   05A
+Feb 14 0347   Kosmos-2337      Tsiklon-3      Plesetsk LC32/1 Comsat      06A
+              Kosmos-2338                                     Comsat      06B
+              Kosmos-2339                                     Comsat      06C
+              Gonets-D1 No. 4                                 Comsat      06D
+              Gonets-D1 No. 5                                 Comsat      06E
+              Gonets-D1 No. 6                                 Comsat      06F
+Feb 17 0142   JCSAT 4          Atlas IIAS     Canaveral LC36B Comsat      07A
+Feb 23 2020   DSP F18          Titan 4B       Canaveral LC40  Early Warn  08A
+Mar  1 0107   Intelsat 801     Ariane 44P     Kourou ELA2     Comsat      09A
+Mar  4 0200   Zeya             Start-1        Svobodniy LC5   Comsat      10A
+Mar  8 0601   Tempo 2          Atlas IIA      Canaveral LC36A Comsat      11A
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39A         STS-83  Apr  3
+OV-103 Discovery       OPF Bay 2     STS-85  Jul 17
+OV-104 Atlantis        OPF Bay 3     STS-84  May 15
+OV-105 Endeavour       KSC SLF       STS-88  Postponed
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-60/ET-85           VAB Bay 3      STS-84
+ML3/RSRM-59/ET-84/OV-102    LC39A          STS-83
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

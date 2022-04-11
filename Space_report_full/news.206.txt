@@ -1,0 +1,171 @@
+Jonathan's Space Report 
+No. 206               1994 Aug  4             Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Endeavour and the STS-68 stack was rolled out to pad 39A on Jul 27. In
+the orbiter's payload bay is the Space Radar Lab, which first flew on
+Endeavour's last flight (STS-59 in April). This is the first time that
+the same main payload has flown on two successive flights of an orbiter.
+(In 1991 and 1992 the Unit 1 Spacelab Long Module flew on successive
+flights of Columbia, but the experiment payload was changed from 
+Spacelab Life Sciences to International Microgravity Lab).  SRL-2
+carries JPL's SIR-C Shuttle Imaging Radar and the German/Italian X-SAR
+radar. Also aboard are an MPESS pallet carrying the MAPS (Measurement of
+Air Pollution from Satellites) experiment on its fourth flight, and
+Getaway Special payloads G-316 (North Carolina A&T Univ. student biology
+and chemistry experiments), G-503 (U of Alabama Huntsville SEDS student
+experiments) and G-541 (Swedish Space Corp. gradient furnace for crystal
+growth experiment). US Postal Service commemorative Apollo 11
+anniversary covers will also be carried in two GAS cans. Launch of
+STS-68 is due on Aug 18 at 1054 UTC.
+
+Launches
+--------
+
+Martin Marietta Commercial Launch Services (formerly the General Dynamics
+team) successfully launched an Atlas IIA from Cape Canaveral on Aug 3.
+The AC-107 Centaur stage and the Hughes HS-601 satellite payload were
+delivered into a 211 x 39459 km x 26.9 deg geostationary transfer orbit.
+The satellite, named DBS-2, is a direct broadcast TV satellite jointly
+owned by DirecTV (a subsidiary of Hughes) and USSB (United States
+Satellite Broadcasting, a subsidiary of Hubbard Broadcasting). Its
+ARC490N liquid fuel apogee engine will be fired several times to raise
+the orbit to a circular geostationary one. [Thanks to special correspondent
+Joel Runes for his report from the launch site.]
+This was the second launch of the Atlas IIA configuration (the IIAS has
+also flown once). All Atlas II class flights have been successful:
+
+--------------------------------------------------------------------------------
+ Flight Date        Payload                                      Type of Atlas
+ AC-102 1991 Dec  7 Aerospatiale Spacebus 100 "Eutelsat II F-3"  Atlas II
+ AC-101 1992 Feb 11 MM Astro Space DSCS III F-5                  Atlas II
+ AC-105 1992 Mar 14 MM Astro Space Series 5000 "Intelsat K"      Atlas IIA
+ AC-103 1992 Jul  2 MM Astro Space DSCS III F-6                  Atlas II
+ AC-104 1993 Jul 19 MM Astro Space DSCS III F-7                  Atlas II
+ AC-106 1993 Nov 28 MM Astro Space DSCS III F-8                  Atlas II
+ AC-108 1993 Dec 16 MM Astro Space Series 7000 "Telstar 401"     Atlas IIAS
+ AC-107 1994 Aug  3 Hughes HS-601 "DBS 2"                        Atlas IIA
+--------------------------------------------------------------------------------
+ (MM = Martin Marietta)
+
+Orbital Sciences Corporation also had a successful launch earlier the
+same day. NASA's NB-52 carrier aircraft took off from Edwards AFB around
+1325 UTC and dropped a standard Pegasus over the Point Arguello Warning
+Area at 1439 UTC on Aug 3 and the three stage solid rocket successfully
+inserted the APEX satellite into the intended orbit. APEX (Advanced
+Photovoltaic and Electronics Experiments) is an OSC Pegastar bus and
+carries a variety of advanced solar cell experiments for the US Air
+Force: Photovoltaic Array and Space Power Plus Diagnostics (PASP-Plus),
+Ferroelectric Experiment (FERRO), and Cosmic Ray Upset Experiment
+(CRUX). Versions of CRUX have previously flown as Shuttle GAS can
+experiments. The APEX satellite is part of the USAF Space Test Program
+and also has the designation P90-6. The intended orbit was 360 x 2000 km
+x 70 deg, and the actual one was 365 x 2551 km x 69.9 deg. The
+elliptical orbit gives high plasma densities at perigee and high
+radiation levels at apogee; the USAF reports that the orbit achieved is
+excellent for the mission. [Thanks to V. Arruda of USAF for info]. In
+June, the first launch of an advanced Pegasus XL from the L-1011 
+Stargazer carrier plane ended in failure; the cause has been identified
+as aerodynamic problems due to faulty hydro simulations (no wind tunnel
+testing was done). The Pegasus XL will probably be cleared for flight
+later in the year. 
+
+Kosmos-2284, launched Jul 29, is an imaging satellite. Based on its
+orbit, it is presumably the 17th in the 'Kometa' series of topographic
+mapping satellites, based on the Yantar' spy satellite design. Vladimir
+Agapov reports that the Kometa satellite imagery is commercially
+distributed by AO Sovinformsputnik.  The last Kometa satellite,
+Kosmos-2243, was damaged during launch in Apr 1993. Typical mission
+length is 44 days. The first Kometa satellite was Kosmos-1246, in 1981.
+All the Kometa satellites are launched by Soyuz-U from Baykonur.
+
+Kosmos-2285 was launched Aug 2 by the light Kosmos-3M launch vehicle.
+Kosmos-3M, built by PO Polyot of Omsk, is derived from the R-14 (NATO
+designation SS-5) IRBM built originally by the Yangel design bureau.
+Kosmos-2285 was inserted in a 974 x 1013 km x 74.0 deg orbit, which is
+quite unusual. The altitude range is that used by Parus-class navigation
+satellites, but the inclination has not been used by those satellites
+since the early 1970s. The most likely missions for Kosmos-2285 are
+radar calibration or geodesy.
+
+I have confirmed that the Apstar 1 satellite was launched
+using the CZ-3 (Long March 3) and not the more advanced CZ-3A,
+and that the launch time was 1055 UT on Jul 21 (Chen Baosheng, CGWIC, 
+personal communication). On Aug 7, Apstar 1 was in a 35646 x 35920 km 
+x 0.04 deg orbit stationary over 138.4 deg E. Some other recent
+geostationary satellites are also now on station: PAS 2 at 165.4W;
+BS-3N at 122.0E, and Kosmos-2282 at 24.1W. Elements for UHF F/O F3
+have not been released.
+
+
+Erratum
+-------
+
+Progress M-23 was undocked at 0847 UTC and not 0947 UTC on Jul 2.
+Apologies for the error which was caused by confusion between
+Moscow decree time and Moscow daylight time. (Thanks Sven for catching this.)
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jun  7 0720     Kosmos-2281     Soyuz-U         Plesetsk LC16   Recon       32A
+Jun 14 1605     Foton No. 9     Soyuz-U         Plesetsk LC43   Materials   33A
+Jun 17 0707     Intelsat 702 )  Ariane 44LP     Kourou ELA2     Comsat      34A
+                STRV 1       )                                  Technology  34B
+                STRV 2       )                                  Technology  34C
+Jun 24 1350     UHF F/O F3      Atlas I Centaur Canaveral LC36B Comsat      35A
+Jun 27 2115     STEP 1          Pegasus XL      Point Arguello  Science     FTO
+Jul  1 1224     Soyuz TM-19     Soyuz-U2        Baykonur LC1    Spaceship   36A
+Jul  3 0800     FSW-2           Chang Zheng 2   Jiuquan         Remote sens 37A
+Jul  6 2358     Kosmos-2282     Proton/DM2      Baykonur LC81   EarlyWarn   38A
+Jul  8 1643     Columbia      ) Space Shuttle   Kennedy LC39A   Spaceship   39A
+                Spacelab IML-2)
+Jul  8 2305     PAS 2     )     Ariane 44L      Kourou ELA2     Comsat      40A
+                BS-3N     )                                     Comsat      40B
+Jul 14 0513     Nadezhda        Kosmos-3M       Plesetsk LC133  Navsat      41A
+Jul 20 1735     Kosmos-2283     Soyuz-U         Plesetsk LC43   Recon       42A
+Jul 21 1055     APStar 1        Chang Zheng 3   Xichang         Comsat      43A
+Jul 29 0929     Kosmos-2284     Soyuz-U         Baykonur LC31   Recon       44A
+Aug  2 2000     Kosmos-2285     Kosmos-3M       Plesetsk LC132  ?           45A
+Aug  3 1439     P90-6 APEX      Pegasus/NB-52   Point Arguello  Technology  46A
+Aug  3 2357     DBS 2           Atlas IIA       Canaveral LC36A Comsat      47A
+ 
+Reentries
+---------
+
+Jul  9          Soyuz TM-18     Landed in Kazakhstan
+Jul 18		FSW-2           Landed in China
+Jul 23          Columbia        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 1     OMDP
+OV-103 Discovery       OPF Bay 2     STS-64
+OV-104 Atlantis        OPF Bay 3     STS-66
+OV-105 Endeavour       LC39A         STS-68
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65/OV-105   LC39A     STS-68
+ML2/RSRM-41/ET-66          VAB Bay 1 STS-64 
+ML3/                       
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

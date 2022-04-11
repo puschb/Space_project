@@ -1,0 +1,295 @@
+Jonathan's Space Report
+No. 673                                            2013 Jan 29     Somerville, MA USA
+--------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 34 is underway with commander Kevin Ford and flight engineers
+FE-1 Oleg Novitskiy, FE-2 Yevgeniy Tarelkin, FE-4 Roman Romanenko, FE-5
+Chris Hadfield, and FE-6 Tom Marshburn. Ferry ship Soyuz TMA-06M is
+docked at the Poisk module; Soyuz TMA-07M is at Rassvet; cargo ship
+Progress M-16M is at the Pirs module and Progress M-17M is at the Zvezda
+aft port.
+
+On Jan 16-24, the Dextre SPDM robot `hand' was used with the Robotic Refuelling
+Mission hardware on the ELC-4 platform to demonstrate remotely controlled
+refuelling of a simulated satellite.
+
+Erratum
+--------
+
+The Pleiades launch was on Dec 2, not Dec 1.
+
+Rokot launch
+------------
+
+The first orbital launch on 2013, on Jan 15, was a Rokot from Plesetsk
+carrying three Rodnik-S (Strela-3M) communications satellites for the
+Russian Ministry of Defense into a 1480 x 1500 km x 82.5 deg orbit. They
+were given the cover names Kosmos-2482 to 2484. In this type of mission
+the Briz-KM upper stage usually makes a depletion burn to lower perigee
+to around 1200 km, but the extra burn failed to take place this time.
+
+Japanese IGS launch
+------------------
+
+H-2A rocket F22 was launched from Tanegashima on Jan 27 carrying two
+intelligence payloads in the 'Joho Shushu Eisei' (Information Gathering
+Satellite) series. The top payload is 'JSE Reda 4-goki' (IGS Radar No.
+4) carrying a synthetic aperture radar payload. The lower payload is
+'Jissho eisei' (Demo Satellite), believed to be an optical imaging
+payload. The satellites are in 508 x 513 km x 97.5 deg and 512 x 522 km
+x 97.5 deg orbits.
+
+Resurs-OE reentry
+-----------------
+
+Resurs-OE No. 3-2, a Soviet remote sensing satellite codenamed
+Kosmos-1484, reentered on Jan 28 sometime around 0230 UTC over the
+eastern United States. The satellite was launched in 1983 and ended
+operations in 1984; in 1993 it partially disintegrated (probably a
+battery explosion?) generating 48 pieces of cataloged  space debris. 
+
+
+Historical Essay: GAMBIT 4352
+------------------------------
+
+The NRO has declassified details of  NRO's GAMBIT-3 mission 4352,
+launched on 1982 Jan 21 and deorbited 1982 May 23. The analysis
+in this essay is based on comparison of the newly declassified documents
+with existing information on the mission and on the GAMBIT program.
+
+This 52nd GAMBIT-3 flight was the only 'Dual Mode' GAMBIT mission, with
+both high and low orbit (search and surveillance) mission phases.
+Previous GAMBIT flights used only low orbits. The mission observed
+Soviet and Chinese military targets as well as assessing their agricultural
+output; I will leave others to discuss details of the intelligence mission
+and broader programmatic issues (for example, see Dwayne Day's article
+http://www.thespacereview.com/article/2218/1 )
+and here focus on the orbital history of the vehicle.
+
+British Interplanetary Society analyst Tony Kenden spotted the mission
+as unusual and wrote an article about it later that year (JBIS 35, 441),
+basing his analysis on two-line element (TLE) data which at that point
+were publicly available even for NRO satellites. (That changed a few
+months after Anthony's article came out, possibly not coincidentally).
+However it now turns out that the TLE data for the later part of the
+mission is bogus, which prevented analysts from understanding the full
+story until now.
+
+The 4500 kg Mission 4352 spacecraft was launched by Titan 34B Agena D
+from Space Launch Complex 4-West at Vandenberg AFB at 1930 UTC on 1982
+Jan 21 and reached a 147 x 543 km x 97.3 deg sun-synchronous orbit ten
+minutes later. It was cataloged as object 1982-06A. Another object,
+1982-06B, reentered quickly - it was probably a camera aperture cover.
+At around 0500 UTC on Jan 22, the Gambit orbit was boosted slightly to
+189 x 563 km; a series of three burns the next day boosted it to a 571 x
+659 km orbit - unprecedented for the normally atmosphere-surfing Gambit
+series - and it began its high orbit mission. Orbit maintenance burns
+were performed once a week, slowly raising the orbit to 636 x 672 km by
+Mar 9 and then lowering it to 616 x 630 km by Apr 22.
+
+The Gambit-3 consists of an Agena stage connected via a rotating joint
+to the PPS (Photographic Payload Section), which in turn is connected
+to a fairing containing two SRVs (Satellite Recovery Vehicles). Each SRV consists of a capsule
+with a film container, a heat shield, a thermal cover, and a `thrust cone'
+with a solid rocket to deorbit the system for mid-air recovery over the Pacific.
+
+On Mar 20 SRV-1, now full of film,  was commanded to eject from the nose
+of Gambit 4352 in its 633 x 666 km orbit. But the pyro failed to fire
+and a backup timer separated the capsule from the thrust cone. The
+capsule, heat shield and thermal cover were stranded circling the Earth
+in high orbit, while the thrust cone remained attached to the spacecraft
+fairing. The objects were cataloged as 1982-06C (possibly the heat shield; reentered
+1999 Feb), 1982-06D (possibly the thermal cover; reentered 1998 Sep per estimate
+by Ted Molczan in http://www.satobs.org/seesat/Jan-2013/0059.html) 
+and 1982-06E (the SRV-1 film capsule, reentered 2002 Sep 28). All the film from
+the first part of the mission was lost, and it was decided to continue high
+orbit operations a little longer than had originally been planned.
+
+On around Apr 27 the spacecraft fairing, with SRV-1's thrust cone
+attached, was ejected from the spacecraft. It was cataloged as 1982-06F
+and per Ted Molczan's estimate may have reentered in about 1995 Apr.
+Then, on 1982 Apr 28-29, Gambit 4352 made a series of five burns to
+lower its orbital perigee to only 155 km. Two more burns on Apr 29-30
+lowered apogee to 343 km and low orbit operations began; a final burn on
+May 3 set the orbit at 152 x 308 km. These orbit changes are NOT
+reflected in the published NORAD tracking data, which shows the
+satellite remaining in a 633 x 645 km orbit until the end of the flight.
+My first assumption was that this discrepancy was an inadvertent error,
+with NORAD tracking the wrong object and not communicating with NRO,
+rather than deliberate disinformation (which would be out of character
+for that era). However, it is a bit mysterious - did NORAD really fail to
+spot a 5 ton satellite in very low polar orbit for almost a whole month?
+Isn't that the sort of thing they were set up to spot in the first
+place?
+
+Daily reboosts from May 3 to May 20 maintained the low orbit, and at
+around 1700 UTC on May 20 the photographic mission was concluded and
+attempts to recover SRV-2 began. Since it was thought to have the same
+pyro problem, the only way to get it down was to deorbit the entire
+spacecraft and then separate the capsule during descent. The Agena main
+engine was to be used for the deboost, but when the propellant valves
+were opened the spacecraft oscillated out of control. That plan was
+abandoned in favor of using the Agena's integrated secondary propulsion
+system (ISPS) for the deboost. On May 22, with control recovered, the
+orbit was only about 140 x 250 km, and four more reboosts put the
+perigee back up to 160 km to keep the spacecraft in orbit for another
+day. Finally at around 2225 UTC on May 23 the ISPS fired to send the
+spacecraft into the atmosphere, and the SRV-2 capsule was successfully
+recovered in mid-air over the Pacific at 2246 UTC on 1982 May 23, completing the
+unusual mission.
+
+Deep Space Missions
+--------------------
+
+Here is a list of current deep space missions that I believe to be still operating,
+with barycentric locations as of 2013 Jan 27 - let me know what I have missed. 
+I've also included a few defunct probes of interest.
+I don't have accurate current orbital data for Pioneer 6 and 8. Note that Voyager 1 is
+the most distant probe from the Sun (and Earth), but Pioneer 10 is the one that
+is farthest out in the ecliptic plane.
+
+I'm playing with the science-fiction trope of `sectors' as a way of
+describing solar system geography - so I include a sector made up of
+zones in ecliptic plane radius (where the boundaries are determined by
+which of the two closest major planets has the dominant gravitational
+perturbation, with a few exceptions) and directions labelled by  the "barycentric
+constellation" - the constellation the spacecraft would appear to be in
+if you were sitting at the solar system barycenter. Don't take these too seriously,
+but I find having a coarse binning like this helps give a better sense of where the
+different probes than the raw numbers. The more conventional 
+'Geo Con' column gives the constellation the probe is in when seen from Earth's center, 
+
+                                                                       
+Spacecraft    Radial      Status               Radial Dist  Dist above  ----- Sector ----
+              Dist                             in Ecliptic  Ecliptic    Zone     BaryCon  GeoCon
+
+       ============  Outer System ==========================
+
+Voyager 1      123.1 AU Exploring heliopause   100.9 AU    35.0 AU   Transneptunian Oph   Oph
+Pioneer 10     107.6    Defunct                107.5        5.6      Transneptunian Tau   Tau 
+Voyager 2      100.7    Exploring heliopause    83.1      -34.4      Transneptunian Tel   Tel 
+Pioneer 11      85.8    Defunct                 83.2       21.1      Transneptunian Sct   Sct
+New Horizons    25.3    En route Pluto          25.3        0.0      Cisneptunian   Sgr   Sgr
+Cassini          9.8    In Saturn orbit          9.8        0.0      Saturn         Vir   Lib
+Rosetta          5.2    En route Comet C-G       5.2       -0.3      Parajovian     Sco   Oph
+Dawn             2.54   En route (1) Ceres       2.5       -0.1      Main Belt      Ori   Tau
+
+       ============  Mid System ==========================
+
+Juno             2.00   En route Earth flyby     2.0        0.0      Transmartian   Vir   Vir
+Stardust         1.71   Defunct                  1.7        0.1      Transmartian   Cap   Aqr
+Mars Odyssey     1.38   In Mars orbit                                Mars           Aqr   Cap
+Mars Express     1.38   In Mars orbit                                Mars           Aqr   Cap
+Mars Recon Orb   1.38   In Mars orbit                                Mars           Aqr   Cap
+Opportunity      1.38   Mars surface                                 Mars           Aqr   Cap
+Curiosity        1.38   Mars surface                                 Mars           Aqr   Cap
+Pioneer 8        1.08?  Dormant                   1.1        0.0     Trans-Earth    Vir?  Oph?
+Stereo B         1.07   Observatory               1.1        0.0     Trans-Earth    Aqr   Aqr
+Chang'e-2        1.03   Dormant?                  1.0        0.0     Near-Earth     Cnc   Ari
+Deep Impact      1.02   En route (163249)         1.0       -0.1     Near-Earth     Psc   Aqr
+Spitzer          1.01   Observatory               1.0        0.0     Near-Earth     Tau   Psc
+ICE              0.98   Dormant                   1.0        0.0     Near-Earth     ?     ?
+Kepler           0.97   Observatory               1.0        0.0     Near-Earth     Gem   Psc
+Stereo A         0.96   Observatory               1.0        0.0     Near-Earth     Oph   Sgr
+Pioneer 6        0.94?  Dormant                   0.9        0.0     Sub-Earth      Cnc?  Oph?
+
+       ============  Earth-Moon System ==========================
+
+ARTEMIS P1       0.98   Lunar orbit
+ARTEMIS P2       0.98   Lunar orbit
+LRO              0.98   Lunar orbit
+Wind             0.98   At Earth-Sun L1
+SOHO             0.98   At Earth-Sun L1
+ACE              0.98   At Earth-Sun L1
+Herschel         0.98   At Earth-Sun L2
+Planck           0.98   At Earth-Sun L2
+
+       ============  Inner System ==========================
+
+Venus Express    0.73   In Venus orbit            0.7        0.0     Venus         Sgr   Sgr
+Akatsuki         0.65   En route Venus            0.7        0.0     Transvenusian Psc   Aqr
+Ikaros           0.65?  Dormant                   0.7        0.0     Transvenusian Psc   Aqr
+Messenger        0.40   In Mercury orbit          0.4        0.0     Mercury       Aqr   Cap
+
+In Deep Earth orbit:
+  Geotail, Chandra, XMM, Cluster FM5/FM6/FM7/FM8, Integral, IBEX, Spektr-R
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Dec  2 0202   Pleiades 1B        Soyuz ST-A/Fregat Kourou ELS        Imaging   68A
+Dec  3 2044   Eutelsat 70B       Zenit-3SL         SL Odyssey        Comms     69A
+Dec  8 1313   Yamal 402          Proton-M/Briz-M   Baykonur LC39/200 Comms     70A
+Dec 11 1803   X-37B OTV-3        Atlas V 501       Canaveral SLC41   Spaceplane 71A
+Dec 12 0049   Kwangmyongsong-3 F2 Unha-3            Sohae             Test      72A
+Dec 18 1612   Gokturk 2          Chang Zheng 2D    Jiuquan           Imaging    73A
+Dec 19 1212   Soyuz TMA-07M      Soyuz-FG          Baykonur LC1      Spaceship  74A
+Dec 19 2149   Skynet 5D          ) Ariane 5ECA     Kourou ELA3       Comms      75A
+              Mexsat-Bicentenario)                                   Comms      75B
+Jan 15 1625   Kosmos-2482  )     Rokot             Plesetsk LC133/3  Comms      01A
+              Kosmos-2483  )                                         Comms      01B
+              Kosmos-2484  )                                         Comms      01C
+Jan 27 0440   JSE Reda-4   )     H-2A 202          Tanegashima       Radar      02A
+              Jissho eisei )                                         Imaging    02B
+
+
+Suborbital flights
+-------------------
+
+Iran reports that it launched a suborbital mission carrying a monkey in
+late January, in preparation for future human spaceflights. The Pishgam
+(`Pioneer') rocket seems to be basically the same as the Kavoshgar
+sounding rocket launched previously. The launch was announced Jan 28,
+but it is not 100 percent clear whether the flight was that morning or
+at an earlier date, with the original Farsi news stories saying only
+that it was done at the time of Prophet's birthday (actually Jan 29 in
+Iran, definitely after the flight) - previous rocket launches have
+sometimes been announced weeks after the fact.  The rocketing rhesus
+(macaca mulatta) was recovered in good condition.
+
+The US, India and China carried out missile tests on Jan 26-27. The US
+Missile Defense Agency's GM CTV-01 carried the CE-II EKV interceptor
+kill vehicle on a flight to test fixes to the problems which caused
+previous failures; no target was launched. The BO-5 missile was launched
+by India from under the sea - probably from a container on a submerged
+pontoon at the Visakhapatnam test site, although some news reports
+claimed it was launched from the INS Arihant submarine. The BO-5 is
+thought to be the same missile as the K-15 launched since 2008, but there's
+also reportedly a K-5 missile whose status is unclear. The Chinese test
+involved interception of a target missile, apparently repeating a Jan
+2010 exercise.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Dec  8 2100   AEB VS30/O V10   VS-30/Orion      Alcantara             Ionosphere   428
+Dec 13 0520   NASA 36.283UH    Black Brant IX   White Sands           XR Astron    257?
+Dec 17 0700   S-520-28         S-520            Uchinoura             Micrograv    312
+Dec 20 0351   Prithvi RV       Prithvi II       Chandipur IC3         Op Test      100?
+Jan 26 2200   EKV CTV-01       GBI              Vandenberg LF23       Test flight 1000?
+Jan 27 0810   RV               BO-5             Visakhapatnam?        Test flight  300?
+Jan 27 1210?  Target RV        DF-21?           Jiuquan?              Target       200?
+Jan 27 1210?  Interceptor      DF-21?           Urumqi?               ABM Test     100?
+Jan 28?       Pishgam          Pishgam?         Semnan?               Life Sci     120
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

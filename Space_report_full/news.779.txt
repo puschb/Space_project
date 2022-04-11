@@ -1,0 +1,190 @@
+Jonathan's Space Report
+No. 779                                                           2020 Jun 14  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 63 continues.
+
+Cygnus NG-13 was deorbited over the Pacific on May 29, with reentry
+at 1930 UTC.
+
+Crew Dragon mission DM-2 (Demo-2) was launched on May 30 with capsule
+C206, named `Endeavour' after launch. DM-2 flew to orbit aboard a Falcon
+9 from Kennedy Space Center. The first stage landed on the OCISLY
+droneship and the second stage was deorbited in the ocean near Australia
+on the first orbit. DM-2 crew are NASA astronauts Doug Hurley
+(spacecraft commander)  and Bob Behnken (joint operations commander).
+This is the first human spaceflight launched by SpaceX.
+
+Earlier spaceships called 'Endeavour' were the Apollo CSM 112 (for Apollo 15)
+and Space Shuttle Orbiter OV-105.
+
+Endeavour completed a rendezvous with the ISS and docked with
+International Docking Adapter 2 (IDA-2) at 1416 UTC May 31. The crew
+entered the ISS at 1722 UTC. IDA-2 is attached to PMA-2, which is on the
+end of the Harmony module.
+
+
+The Japanese HTV cargo ships carry an External Pallet (EP), used in recent missions
+to carry the replacement ISS batteries. The EP is 900 kg empty and 2.3 tonnes
+fully loaded. EP-8 was launched on HTV-8 in Sep 2019, and on Jan 21,
+following the battery replacement spacewalks in January, was stowed on
+the ISS truss; specifically, on LEE 201 on the Mobile Base System's Payload ORU Accomodations
+(MBS POA). It is full of old NiH batteries removed from the P6 truss during the
+spacewalks (batteries 0087, 0093, 0099, 0097, 0104, 0106, 0103 and 0102).
+EP-9 was launched on HTV-9 in May with a load of new Li-ion batteries (serial numbers
+currently unknown, please pass on the data if you have access to it).
+
+Early on Jun 1 Canadarm-2 removed EP-8 from the POA and handed it to the
+Japanese JRMS arm (which, unlike Canadarm and Dextre and rather
+surprisingly for JAXA, does not have its own cute name).  Then, at 0359
+UTC on Jun 1, Canadarm-2 removed EP-9 from Kounotori-9 and later
+installed it on the POA. Now the JRMS gave EP-8 back to Canadarm-2 which
+stashed EP-8 in the Kounoutori-9 cargo bay at 0248 UTC Jun 2. It will
+eventually share a fiery demise with the cargo ship.
+
+On Jun 3 the Kibo RMS removed the EFU Adapter from JEM-EF EFU 5 and
+returned it to the Kibo airlock. The EFU Adapter was carrying the
+SOLISS and HDTV-EF2 experiments; they were swapped for the iSIM-170
+camera delivered by HTV-9. The adapter was reinstalled on June 11.
+
+Kupol      
+------      
+
+On May 22 the Russian Space Forces launched the fourth Kupol (EKS) missile
+early warning satellite on a Soyuz-2-1B. The Fregat upper stage made three
+burns to place the satellite in a high-perigee Molniya type orbit.
+
+
+Launcher One update
+---------------------
+
+Virgin Orbit report that the first stage ignited correctly and flew stably
+until 9 seconds after drop (which I think is 4s after ignition?) when the
+engine prematurely shut down and the vehicle fell intact to the ocean.
+
+Sources confirm that Starshine 4 was the inert payload on Launcher One.
+An additional small payload, INTERNSAT, was intended to remain
+attached to the upper stage.
+
+OTV 6
+-----
+
+The X-37B OTV-6 released a subsatellite on around May 28. The satellite has been given the
+cover name USA 300. It is likely the US Air Force Academy satellite Falconsat-8 which we
+know was to be released from the vehicle, but this has not been confirmed.
+
+
+XJS G/H
+-------
+
+On May 29 China's CALT launched a CZ-11 from Xichang for the first time. It carried
+two technology development payloads: XJS G (also known as Chuangxin 6-01), from the Shanghai
+Engineering Center for Microsatellites, and XJS H, from the National University of Defense
+Technology.
+
+Gao Fen 9-02
+-------------
+
+On May 31 it was the Shanghai SAST team's turn, launching a CZ-2D from the Jiuquan space centre.
+The main payload was a high resolution imaging satellite, Gao Fen 9 hao 02 xing. Some Gao Fen satellites
+are civilian, but some, including the GF-9 series, are thought to be for military/intelligence use.
+
+A small secondary payload, HEAD-4, was also aboard. HEAD-4 is owned by 
+HEAD Aerospace Tech Co Ltd (Beijing) and has AIS, ADS-B, and IoT relay
+communication spayloads.
+
+Haiyang 1D
+----------
+
+The HY-1D oceanographic satellite launched on June 10 carries ocean-color imagers and a coastal zone imager,
+like previous satellites in the HY-1 series. It was built by DFH satellite.
+
+Electron 12
+-----------
+
+Electron 12 was launched from New Zealand on Jun 13 and placed three small NRO satellites in orbit.
+Also aboard were two cubesats: RAAF M2 Pathfinder for the University of New South Wales and the Royal
+Australian Air Force, and Boston University's ANDESITE. ANDESITE consists of ANDESITE Mule, a 6U
+parent spacecraft, and ANDESITE Node 1 to Node 8, small magnetometer subsatellites to be ejected
+from it to study magnetospheric variation. Each Node is 0.20 x 0.10 x 0.025m in size with a mass of
+0.38 kg.
+
+The mission of the three NRO satellites is unknown; likely either communications or signals intelligence.
+
+Starlink 
+--------
+
+SpaceX carried out the 8th Starlink launch on Jun 4. The Falcon 9 first stage landed on the
+droneship Just Read The Instructions; the second stage deployed 60 Starlinks in orbit.
+One of them (Starlink 1436) is VisorSat, with an experimental deployable cover for the nadir antennae.
+
+The 9th Starlink launch on Jun 13 carried only 58 Starlinks. Mounted on top of the Starlinks 
+was an adapter carrying three SkySat satellites for Planet. The first stage landed on
+droneship Of Course I Still Love You.
+
+Parker Solar Probe
+------------------
+
+Parker passed through its 5th perihelion, 0.1296 AU from the Sun, at 0823 UTC Jun 7.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+May  5 1000   XZF-SC      )                Chang Zheng 5B     Wenchang LC101  Spaceship    27A S45599   162 x  377 x 41.1
+              RCS-FC-SC   )                                                   Reentry Test 27B S45600   163 x  372 x 41.1
+May 12 0116   Xingyun-2 01 )               Kuaizhou-1A        Jiuquan         Comms        28A S45602   557 x  573 x 97.6
+              Xingyun-2 02 )                                                  Comms        28B S45603   557 x  573 x 97.6
+May 13 2325   Lynk                                       NG-13, LEO           Comms        11D S45604   476 x  486 x 51.6
+May 17 1314   OTV 6                        Atlas V 501        Canaveral SLC41 Spaceplane   29A S45606   389 x  390 x 45.0
+May 20 1731   Kounotori 9                  H-IIB              Tanegashima     Cargo        30A S45607   187 x  301 x 51.7
+May 22 0731   Kosmos-2546                  Soyuz-2-1B/Fregat  Plesetsk        EarlyWarn    31A S45608  1654 x35807 x 63.8
+May 25 1950   Starshine 4)                 Launcher One       Mojave          Test         F04 F01554 -6362 x    9 x 67.0?
+              INTERNSAT  )                                                    Test         F04 F01555 -6362 x    9 x 67.0?
+May 28?       USA 300                                    OTV 6, LEO           Unknown      29B S45610   389 x  389 x 45.0
+May 29 2013   XJS G )                      Chang Zheng 11     Xichang LC4     Tech         32A S45611   467 x  486 x 35.0
+              XJS H )                                                         Tech         32B S45612   467 x  486 x 35.0
+May 30 1922   Endeavour                    Falcon 9           Kennedy LC39A   Spaceship    33A S45623   190 x  211 x 51.6
+May 31 0853   Gao Fen 9-02)                Chang Zheng 2D     Jiuquan         Imaging      34A S45624   485 x  502 x 97.3
+              HEAD-4      )                                                   Comms        34B S45625   487 x  503 x 97.3
+Jun  4 0125   Starlink 1351     )          Falcon 9           Canaveral LC40  Comms        35A S45657-  291 x  365 x 53.0
+              Starlink 1370     )                                                         35BM S45716      
+              Starlink 1392-1423)
+              Starlink 1433-1458)
+              Starlink 1460     )
+Jun 10 1831   Haiyang-1 D                  Chang Zheng 2C     Taiyuan LC9     Imaging      36A S45721   770 x  786 x 98.4
+Jun 13 0512   USA 301  )                                                      Sigint?      37A S45723   590 x  590 x 97.8
+              USA 302  )                                                      Sigint?      37B S45724   590 x  590 x 97.8
+              USA 303  )                   Electron           Mahia LC1       Sigint?      37C S45725   590 x  590 x 97.8
+              ANDESITE )                                                      Science      37D S45726   590 x  590 x 97.8
+              RAAF M2PF)                                                      Tech         37E S45727   590 x  590 x 97.8
+Jun 13 0921   Starlink 1391     )          Falcon 9           Canaveral LC40  Comms        38A          212 x  367 x 53.0
+              Starlink 1459     )
+              Starlink 1461-1513)
+              Starlink 1516-1517)
+              Starlink 1521     )
+              Skysat 16         )
+              Skysat 17         )
+              Skysat 18         )
+
+Table of Recent Suborbital Launches
+-----------------------------------
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Apr 15 1500?  Nudol' dummy KV?  Nudol'               Plesetsk            Test          500?      Laptev Sea
+Jun 12        M51 RV            M51             S617, Baie d'Audierne    Test         1200?      Atlantic Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

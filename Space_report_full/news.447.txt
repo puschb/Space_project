@@ -1,0 +1,171 @@
+
+Jonathan's Space Report
+
+No. 447                                        2001 Feb 19 Mt Hopkins, Arizona
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Atlantis docked to ISS Alpha on Feb 9. At 1500 UTC on Feb 10 Marsha
+Ivins used the RMS arm to unberth the PMA-2 docking port from Unity. Tom
+Jones and Bob Curbeam have begun the first spacewalk from the ODS
+airlock on Atlantis, supervising the assembly operations. The airlock
+was depressurized at 1544 UTC; the hatch was opened at 1546 UTC and the
+astronauts went to suit battery power at 1550 UTC. PMA-2 was berthed on
+Z1 at 1650 UTC; Destiny was unberthed from the payload bay at 1735 UTC
+and docked to Unity at 1900 UTC.  At 1935 UTC Curbeam was connecting
+ammonia coolant lines when a leaking connector sprayed ammonia into
+space, contaminating his suit. He was ordered to stay in sunlight to
+bake off the ammonia. At around 2311 UTC the spacewalkers returned to
+the airlock, closing the hatch at 2318 UTC. Repressurization began at
+2324 UTC, for a duration of 7h40m (depress), 7h34m (NASA), or 7h32m
+(hatch open/close). 
+
+The airlock reached 5psi (34 kPa) at 2326 UTC and was held there, with
+the astronauts still in suits. A new depressurization for
+decontamination was begun at 2342 UTC, with the airlock fully
+depressurized at 2350 UTC. The hatch was then opened and closed quickly
+at 2351-2352 UTC, to flush the airlock of any ammonia residue, and
+repressurization began anew at 2353 UTC, reaching 5psi again prior to
+2357 UTC. This new spacewalk lasted 3 minutes (depress), or 1 minute
+(hatch open/close); it was not counted as an EVA by NASA.
+
+EVA-2 began at 1555 UTC on Feb 12 with depressurization of the airlock.
+The astronauts went to battery power at 1559 UTC. The PMA-2 docking port
+was attached to Destiny at 1728 UTC. The Power Data Grapple Fixture
+(PDGF) was removed from its location on an adaptive payload carrier on
+the port side of the payload bay (probably bay 5P) and installed on
+Destiny. The PDGF will be used by the Station's robot arm, and is an
+improved grapple fixture with electrical power and data ports. The hatch
+was closed at 2240 UTC and the  airlock was repressurized at 2249 UTC.
+Duration was 6h54m (depress), about 6h50m (hatch open/close), or
+6h50m (NASA rule).
+
+
+The third official EVA was on Feb 14. The airlock was depressurized at
+1443 UTC, with hatch open at around 1445 and battery power at 1448. The
+spare SASA S-band antenna was unberthed from an adapter beam in the
+payload bay  (around bay 4P?) and installed on Z1. The +X (starboard)
+TCS radiator on P6, launched on the previous mission, was deployed at
+1649 UTC. The astronauts completed the spacewalk with repressurization
+of the airlock at 2013 UTC. Time was 5h30m (depress), about 5h24m (hatch
+open/close), or 5h25m (NASA).
+
+Atlantis undocked from Alpha at 1406 UTC on Feb 16.
+Landing was waved off on Feb 18 and is expected on Feb 19.
+
+Destiny has been cataloged by US Space Command as 2001-06B (SSN 26700).
+Unity was also given a catalog number, but for some reason Z1 and P6
+were not. 
+
+At the end of the docked phase, Atlantis mass is 95242 kg and
+the Station mass is 104401 kg for a total mass of 199643 kg.
+
+Discovery was rolled out to pad LC39B on Feb 12 in preparation for
+the next flight,  STS-102.
+
+On Feb 12, the Mir complex was in a 272 x 293 km orbit.
+Reentry is expected in mid-March.
+
+NEAR-Shoemaker at Eros
+----------------------
+
+The NEAR-Shoemaker probe has completed its descent to the surface of 
+minor planet (433) Eros. The deorbit burn, at an altitude of 26 km above
+the surface, was at 1515 UTC into a 7.5 km x 35 km orbit relative to
+Eros center, with periapsis below the surface. Touchdown was at 1944:35
+UTC at location 35S 279W. Signals continued to be received from NEAR
+hours after the landing, confirming that it survived the 2m/s impact.
+
+Readers should note that APL has been reporting times of radio signal
+receipt as if they were the actual times that the events occurred, and
+most media reports, even Spaceflightnow.com and the New York Times, have
+propagated this error.  Light travel time from Eros at the time of
+landing was 17 minutes 35 seconds, so the touchdown signal was received
+on Earth at 2002:10 UTC, and this has been incorrectly reported as the
+actual landing time.
+
+NEAR-Shoemaker was built and operated by Johns Hopkins University's
+Applied Physics Lab (APL). It was the first launch in NASA's Discovery
+Program, on 1996 Feb 17 by a Delta 7925 from Cape Canaveral. After a
+13-minute stay in a 185 km parking orbit around the Earth, NEAR was
+boosted to a 0.99 x 2.18 AU x 0.8 deg orbit around the Sun. Following a
+1200 km flyby of (253) Mathilde on 1997 Jun 27, a burn on 1997 Jul 3 put
+NEAR in a 0.95 x 2.18 AU x 0.5 deg orbit on track for an Earth flyby 532
+km over Iran on 1998 Jan 23. This lowered the orbit to 0.99 x 1.77 AU
+and increased ecliptic inclination to 10 degrees. NEAR flew past (433)
+Eros on 1998 Dec 23, after an aborted rendezvous burn. A new burn put
+NEAR in a 1.13 x 1.78AU orbit and set it up for a second Eros approach
+on 2000 Feb 14, with insertion into a 321 x 366 km polar orbit, soon
+reduced to 100 x 100 km and later to 35 km. Later in 2000 the orbital
+inclination around Eros was increased to 130 deg, and finally in Dec
+2000 to 179 deg. NEAR spent one year in Eros orbit prior to this week's
+final descent. Below I list the Discovery program missions.
+
+   NASA Discovery program
+   ----------------------
+                     Launch       Completion   Operator  Mission
+
+ 1  NEAR             1996 Feb 17  2001 Feb 14?  APL      Eros orbit and landing
+ 2  Mars Pathfinder  1996 Dec  4  1997 Oct  7   JPL      Mars landing
+ 3  Lunar Prospector 1998 Jan  7  1999 Jul 31   NASA-ARC Lunar orbit, impact
+ 4  Stardust         1999 Feb  7  2006 (plan)   JPL      Wild-2 flyby, sample return
+ 5  Genesis          2001 (plan)  2004 (plan)   CalTech  L1 sample collection
+ 6  Contour          2002 (plan)  2008?         APL      Multiple comet flybys
+ 7  Deep Impact      2004 (plan)  2005 (plan)   JPL      P/Tempel-1 impact
+ 8  Messenger        2004 (plan)                APL      Mercury orbiter
+
+
+
+Errata
+-------
+
+Skynet 4F belongs to the UK Ministry of Defence, not the (non-existent)
+Ministry of Defense.
+
+SICRAL actually stands for   Satellite Italiano per Comunicazioni
+Riservate e ALlarmi (Italian Satellite for Restricted Communications and
+Warnings) and its manufacturer is now called Alenia Spazio. Apparently
+FiatAvio makes the biprop engine, I haven't found any details on it yet.
+
+Dry mass for the Telecom 1 satellites was actually more like 560 kg.
+Thanks to J-P. Donnio for the correction.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Jan  9 1700   Shenzhou 2        Chang Zheng 2F Jiuquan          Spaceship  01A
+Jan 10 2209   Turksat 2A        Ariane 44P     Kourou ELA2      Commsat    02A
+Jan 24 0428   Progress M1-5     Soyuz-U        Baykonur LC1     Cargo      03A
+Jan 30 0755   Navstar GPS 54    Delta 7925     Canaveral SLC17A Navsat     04A
+Feb  7 2306   Sicral    )       Ariane 44L     Kourou ELA2      Commsat    05A
+              Skynet 4F )                                       Commsat    05B
+Feb  7 2313   Atlantis (STS-98))Space Shuttle  Kennedy LC39A    Spaceship  06A
+              Destiny          )                                Module     06B
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-102 2001 Mar  8  ISS 5A.1
+OV-104 Atlantis        LEO           STS-98  2001 Feb  7  ISS 5A
+OV-105 Endeavour       OPF Bay 2     STS-100 2001 Apr 19  ISS 6A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,123 @@
+
+Jonathan's Space Report
+No. 457                                         2001 Jul 25, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The STS-104 mission continued with spacewalks to stick gas tanks on the
+outside of the new Quest airlock, the first spacewalk from that airlock,
+and then undocking and landing. The Expedition 2 crew (Usachyov, Voss
+and Helms) remain on board Station until their replacements arrive next
+month on STS-105.
+
+The second STS-104 spacewalk was carried out on Jul 18. The airlock was
+depressurized at 0302 UTC and the hatch opened a minute later. Gernhardt
+and Reilly emerged at 0310 UTC and assisted in the installation of the
+oxygen and nitrogen tanks on the Quest module. O2 Tank 1, on the port
+side of the aft Spacelab pallet, was grappled by the Station's SSRMS arm
+at 0317 UTC and installed on Quest's nadir by 0421 UTC. N2 Tank 4, on
+the aft pallet's starboard side, was installed by 0639 UTC and O2 Tank 2
+was moved from the port side of the forward pallet to Quest by 0845 UTC.
+Minor problems with valve configurations and recalcitrant connectors
+were soon overcome. The astronauts entered the airlock at 0921 UTC. The
+spacewalk lasted 6h31m (depress/repress), 6h24m (hatch open/close), or
+6h29m (NASA rule).
+
+
+The same astronauts made the first spacewalk from the Quest module on
+Jul 21. The airlock depressurized slowly from 0329 UTC  to 0434 UTC,
+when it reached 35 mbar and the airlock hatch was opened to vacuum. The
+N2 Tank 3 was transferred from the forward Spacelab pallet to the
+exterior of Quest, following which the astronauts climbed the P6 tower
+to inspect the solar arrays and the FPP experiment. The hatch was closed
+at 0832 UTC with repress at 0837 UTC for a duration of 4h03m (dp/rp),
+3h58m (hatch open/close), or 4h02m (NASA rule).
+
+The STS-104 crew returned to Atlantis on Jul 22, and undocked at 0455
+UTC. After flying around the station they departed the vicinity at 0615
+UTC. Atlantis landed at 0338:55 UTC on Jul 25, touching down at Kennedy
+Space Center runway 15.
+
+
+Recent Launches
+---------------
+
+The Russian Navy launched a three-stage R-29R Volna from a submarine,
+the Borisoglebsk, in the Barents Sea on Jul 20, on a suborbital flight.
+The payload was a joint project between the Planetary Society and NPO
+Lavochkin's Babakin center, and consisted of a solar sail deployment
+test with an inflatable reentry shield. The payload failed to separate
+from the final stage.
+
+The Russian Space Forces launched a TsSKB-Progress 8K78M Molniya-M
+rocket on Jul 20 from Plesetsk, placing a Molniya-1K military comsat in
+12-hour elliptical orbit. The last launch of a Molniya-1T was in 1998;
+the new satellite is an improved model (Russian sources via Phil Clark;
+other sources are calling this a Molniya-3, and I am waiting for
+confirmation). The Molniya-M third stage reached a 214 x 420 km x 62.8
+deg orbit at 0026 UTC. At around 0110 UTC, about half an orbit later
+over the SE Pacific, the NPO Lavochkin Blok-ML fourth stage fired to put
+the payload in a 407 x 40831 km x 62.9 deg orbit. The Molniya satellites
+are built by NPO-PM.
+
+International Launch Services launched a Lockheed Martin Atlas IIA from
+Cape Canaveral on Jul 23 carrying the GOES-M weather satellite. Flight
+AC-142 entered a 164 x 505 km parking orbit and then a supersynchronous
+transfer orbit of 274 x 42275 km x 20 deg. GOES-M is a Loral 1300-series
+satellite with a single solar array and a solar attitude control sail.
+Launch mass was 2279 kg and dry mass is 1042 kg. The Geostationary
+Operational Environmental Satellites are developed by NASA-Goddard and
+transferred to the NOAA weather agency when operational. In addition to
+the usual weather imager/sounder, GOES-M carries a new solar soft X-ray
+imager. Earlier GOES satellites carried simple X-ray collimator
+detectors, but the new SXI is a full-fledged grazing incidence telescope
+similar to the SXT on Japan's Yohkoh satellite. The GOES-M satellite
+becomes GOES 12 now that it is on orbit.
+
+On Jul 22 the MAP probe was in a 4055 x 355935 km x 28.0 deg orbit,
+scheduled for a Jul 31 lunar flyby.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  8 1508   Kosmos-2378       Kosmos-3M      Plesetsk LC132   Navsat       23A
+Jun  9 0645   Intelsat 901      Ariane 44L     Kourou ELA2      C/Ku telecom 24A
+Jun 16 0149   Astra 2C          Proton-K/DM3   Baykonur LC81/23 Ku video     25A
+Jun 19 0441   ICO-2             Atlas IIAS     Canaveral SLC36B C/S phone/data 26A
+Jun 30 1946   MAP               Delta 7425     Canaveral SLC17B Astronomy    27A
+Jul 12 0904   Atlantis STS-104) Shuttle        Kennedy LC39B    Spaceship    28A
+              Quest           )                                 Station module
+Jul 12 2158   Artemis   )       Ariane 5G      Kourou ELA3      Expt. comms  29A
+              BSAT-2b   )                                       Ku video     29B
+Jul 20 0017   Molniya-1K?       Molniya-M      Plesetsk LC43/4  Comms        30A
+Jul 23 0723   GOES 12           Atlas IIA      Canaveral SLC36A Weather      31A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       LC39A         STS-105 2001 Aug  5  ISS 7A.1
+OV-104 Atlantis        KSC RW15      STS-110 2002 Feb 28  ISS 8A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

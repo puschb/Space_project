@@ -1,0 +1,106 @@
+
+Jonathan's Space Report 
+
+No. 144		1993 Feb 23
+------------------------------------------------------------------------------
+
+STS-55
+------
+
+The launch of Columbia on mission STS-55 has been delayed until March.
+
+Mir
+---
+
+Progress M-15 was deorbited on Feb 7 after completion of the
+Znamya and autonomous operation experiments.
+Another spacecraft was launched on Feb 21 from Baykonur; it is probably the
+Progress M-16 cargo craft, to deliver fuel, air, water and supplies to
+the Mir complex.
+
+I have been unable to find the landing time for Soyuz TM-15. If anyone
+has it, please let me know!
+
+--------------------------------------------------------------------------------
+
+Launches
+--------
+
+A new X-ray astronomy observatory is in orbit. The Institute for Space
+and Astronautical Sciences (ISAS), Japan's scientific space agency,
+launched the Asuka satellite from Kagoshima Space Center on Feb 20. The
+three stage Mu-3S-2 launch vehicle placed Asuka, formerly known as
+ASTRO-D, into a 515 x 606 km x 31.1 deg orbit, which should give a good
+lifetime for the mission and reasonable radiation background. Asuka is
+Japan's first X-ray imaging telescope (its previous X-ray satellites
+have carried x-ray detectors without focussing optics). It carries CCD
+detectors and an imaging proportional counter. The spacecraft is
+sensitive to the 0.5-12 keV energy range; this can be compared to the
+soft 0.1-2.4 keV X-rays observed by ROSAT, the other main x-ray
+satellite currently in orbit. The Asuka telescope has a 30 arcmin field
+of view and 2 arcmin spatial resolution. Before the telescope enters
+operation, it must be extended from its present folded configuration.
+Asuka is the 22nd satellite successfully launched by ISAS.
+
+Kosmos-2233, launched on Feb 9 from Plesetsk, is a 150 MHz doppler
+navigation satellite. 
+
+Kosmos-2234, 2235, and 2236, launched by Proton on Feb 17 from
+Baykonur, are GLONASS atomic-clock navigation satellites.
+
+The Orbcomm OXP-1 Capabilities Demonstration Satellite was carried
+into orbit piggyback on the SCD-1 Pegasus flight on Feb 9. Orbcomm
+is a satellite communications company which is a subsidiary of
+Orbital Sciences, the company which builds the Pegasus.
+
+Date		Name		Launch Vehicle	Site		Mission	   INTL.
+									   DES.
+
+Feb  3 0255	Navstar GPS 22	Delta 		Canaveral	Navsat	   07A
+Feb  4 		Znamya 		-		Prog.M15,LEO	R&D	   1986-17GZ
+Feb  9 0250?	Kosmos-2233	Kosmos R-14	Plesetsk	Navsat	   08A
+Feb  9 1430	SCD-1	     )	NB52/Pegasus F3	Kennedy		Comsat	   09B
+                Orbcomm OXP-1)                                  Comsat     09A
+Feb 17 2025?	Kosmos-2234 )	Proton/Blok DM	Baykonur	Navsat	   10A
+		Kosmos-2235 )					Navsat	   10B
+		Kosmos-2236 )				  	Navsat	   10C
+Feb 20 0220	Asuka		Mu-3S-2		Kagoshima	Astronomy  11A
+Feb 21 1830?	Progress M-16?	Soyuz?		Baykonur	Cargo	   12A
+
+
+Reentries
+---------
+
+Jan 24		Kosmos-1463	Reentered
+Feb  1		Soyuz TM-15	Landed in Kazakhstan
+Feb  5		Znamya		Reentered
+Feb  7		Progress M-15	Deorbited over Pacific?
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39A         STS-55
+OV-103 Discovery       OPF Bay 3     STS-56
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-56	       VAB Bay 1 
+ML2/STS-57	       VAB Bay 3
+ML3/STS-55/ET/OV-102   LC39A
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+

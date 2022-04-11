@@ -1,0 +1,212 @@
+Jonathan's Space Report
+No. 533                                       2004 Aug 27, Somerville, MA
+-------------------------------------------------------------------------------
+
+* Space Station
+
+Russia launched the Progress M-50 (spacecraft No. 350) robot cargo
+tanker on Aug 11. It docked with Zvezda at 0501 UTC on Aug 14, bringing
+supplies to the Expedition 9 crew, who are slated to do another
+spacewalk next week.
+
+* Scout, and Blue Scout Jr.
+
+Since this has been a very quiet month for launches, I'll fill this
+short issue out with a note on some historical research I've been doing
+on one of my favorite topics, the Scout launch vehicle. This will
+be of particular interest to about five of my readers, you know who you are.
+Scout was a four-stage solid propellant rocket developed by NASA and was the
+standard small US launch vehicle from 1960 to 1990; it was last launched
+in 1994. Many famous early scientific satellites - San Marco, Uhuru, Ariel 5,
+ESRO 2, etc. - were launched by Scout.
+
+The standard Scout used an Algol solid propellant first stage, a Castor
+second stage, an Antares third stage and an Altair final stage; for some
+reentry missions it had a NOTS-100B Cetus fifth stage. The Castor motor
+was an improved version of the Sergeant missile, while the early
+versions of Altair came from a third stage built for the last Vanguard
+rocket. Antares was a scaled-up Altair developed just for Scout, while
+Algol was also a scaled-up 1.02m diameter motor developed for Scout.
+Later versions of Scout (D onwards) used a larger 1.14m diameter Algol
+III motor. One of the interesting things about Scout is that, as well as
+orbital missions, it flew quite a few suborbital probe and reentry test
+missions, and many of these reached orbital energies - the Scout
+missions dominate the list of suborbital flights which were close to
+being orbital, in a precise sense I'll explain in some future article.
+
+What's less well documented, though, is Scout's relative, the Air
+Force's Blue Scout. There were a bunch of versions of this rocket.
+Sometimes - the source of much confusion - the five Air Force-funded
+NASA-launched Scouts (X-2M variant and relatives) used to launch
+classified NRO weather satellite payloads from Vandenberg in 1962-63 are
+called Blue Scout, but properly the Blue Scout refers to a separately
+managed all-Air-Force vehicle. Blue Scout I and II were almost identical
+to the NASA Scout X-1, except that the Blue Scout I omitted the fourth
+stage. They launched 6 of these in 1961-62 and decided they weren't much
+good. 
+
+  Air Force Scout launches  - owned by AF, launch services by NASA
+  ------------------------
+
+ Date        S/N  Type              Stages
+
+1962 May 24 S-112 X-2M  AF Scout    Algol/Castor/Antares/MG-18
+1962 Aug 23 S-117 X-2M  AF Scout    Algol/Castor/Antares/MG-18
+1963 Feb 19 S-126 X-3M  Sold to AF  Algol/Castor/Antares 2/MG-18
+1963 Apr 26 S-121 X-2M  AF Scout    Algol/Castor/Antares/MG-18
+1963 Sep 27 S-132 X-2B  Sold to AF  Algol/Castor/Antares 2/Altair 2
+
+Note: AF bought 4 X-2M Scouts direct from manufacturer (S112, S117, S121
+and one other which had its motors split up and used for other missions; AF then
+bought motors from NASA Scout program for S126 and S132).
+
+   Blue Scout I and II launches
+   ----------------------------
+ Date       S/N  Type   Mission
+
+1961 Jan 7  D-3  BS-I  Suborbital probe
+1961 Mar 3  D-4  BS-II Suborbital probe
+1961 Apr 12 D-5  BS-II Suborbital probe
+1961 May  9 D-6  BS-I  Suborbital probe
+1961 Nov  1 D-8  BS-II Mercury tracking satellite, orbital failure
+1962 Apr 12 D-7  BS-I  Reentry test
+
+More interesting is the Blue Scout Junior (hereafter BSJr),  and that's
+where I've found out some new stuff. The classic work on the BSJr is
+Joel Powell's article in Journal of the British Interplanetary Society
+(35, 22, 1982). Hi, Joel! It notes that the standard (SLV-1B) BSJr had a
+Castor first stage, an Antares second stage, an Alcor third stage and a
+Cetus fourth stage (so it's a bit like a 5-stage reentry Scout with the
+big first stage missing, but the Altair is replaced by Alcor). But there
+were at least two other variants - a modified SLV-1B used for suborbital
+ion engine tests and an SLV-1C used for Project Beanstalk, the Emergency
+Rocket Communications System,  a funky idea in which communications
+payloads were launched on high altitude suborbital flights so that the
+Pentagon could still communicate with the folks in the missile silos and
+tell them to nuke the Soviets, even if normal comm channels had been
+nuked themselves by a Soviet attack. (I am *so* glad the Cold War is
+over...)
+
+By combining information from a NASA document (TM-X-72628) and
+declassified USAF launch reports, I have figured out that the modified
+SLV-1B used for the three ion engine tests in 1962-1964 was just a
+three-stage Castor-Antares-Alcor, the normal SLV-1B with no fourth
+stage, but that the SLV-1C model used for Beanstalk was a three-stage
+Castor-Antares-Altair. The NASA memo shows that the Beanstalk budget
+included the purchase of X-248 Altair stages. Note that the AvWeek
+report, cited by Joel, that the May 1962 SLV-1C used an M-18 final stage
+is clearly a mistake - they got confused with the Scout X-2M launch 7
+days earlier which was the first use of the LPC M-18 (MG-18) motor, as
+I've documented elsewhere. I've never seen the Altair connection to BSJr
+mentioned anywhere before. (Mark, Gunter, etc., you may now take a
+break to correct your encylopedia pages).
+
+The last normal use of the BSJr was in June 1965, and the operational
+Beanstalk system was retired in 1967 in favor of another system using
+Minuteman. I've long been confused by two later launches: a 'modified
+three-stage BSJr' used for George Carruthers' UV astronomy suborbital
+mission NB22.208 in November 1970, and a single-stage Castor rocket used
+for a scramjet development test in 1967 incorrectly described by
+Technology Week (1967 Jan 23 p3) as a Blue Scout launch. I've now
+realized that the Beanstalk program must have had several rockets left
+over (a couple are still on display) and I strongly suspect that these
+two missions were reassigned SLV-1Cs. Only the first stage was used in
+the case of the 1967 test, but programmatically it was part of the Blue
+Scout project and so that's why Tech Week called it that (in the
+official Vandenberg launch list it's "Castor/Scramjet"). An odd echo of
+the X-43 scramjet, which uses the first stage of a Pegasus, Scout's
+successor.
+
+The biggest remaining mystery in the BSJr program is mission O-1 in
+1961, which various sources claim reached anywhere from 104000 km to
+225000 km apogee, the highest suborbital mission ever (although it
+wasn't actually tracked, since the telemetry failed on the way up). It
+would be great to find a launch time and some kind of trajectory data
+for this record-breaking mission - perhaps a declassifiable mission
+report is gathering dust in a USAF archive somewhere, but I haven't
+managed to find it.
+
+  Blue Scout Jr SLV-1B four-stage launches  (Castor/Antares/Alcor/Cetus)
+  ----------------------------------------
+ Date        S/N  Mission
+
+1960 Sep 21  D-1  Suborbital probe
+1960 Nov  8  D-2  Suborbital probe
+1961 Aug 17  O-1  Suborbital deep space probe
+1961 Dec  4  O-2  Suborbital deep space probe
+1963 Jul 30  22-1 Radio astronomy suborbital probe
+1964 Mar 13  22-2 Magnetosphere suborbital probe
+1965 Jan 28  22-3 Magnetosphere suborbital probe
+1965 Mar 30  22-4 Magnetosphere suborbital probe
+1965 Apr  9  22-9 Magnetosphere suborbital probe
+1965 May 12  22-8 Magnetosphere suborbital probe
+1965 Jun  9  22-5 Magnetosphere suborbital probe
+
+  Blue Scout Jr SLV-1B three-stage launches  (Castor/Antares/Alcor)
+  ----------------------------------------
+
+1962 Nov 21  21-1 Ion engine test
+1964 Aug 29  21-2 Ion engine test
+1964 Dec 21  21-3 Ion engine test
+
+
+  Blue Scout Jr SLV-1C launches  (Castor/Antares/Altair)
+  -----------------------------
+
+1962 May 31  102  Beanstalk 1
+1962 Jul 24  101  Beanstalk 2
+1962 Nov 12  201  Beanstalk 3
+1963 Feb  2  202  Beanstalk 4
+1963 Mar 14  203  Beanstalk 5
+1963 May 17  301  Beanstalk 6
+1963 Dec 17  302  Beanstalk 7
+1967 Jan 11  -    Scramjet test (first stage only)
+1970 Nov 25  -    NB22.208 astronomy suborbital launch
+
+
+
+
+
+* Astrofizika
+
+In last issue's item on the Astrofizika spacecraft, I failed to mention
+that the Russian article I cited was by, and reporting the research work
+of, Belgian space historian Bart Hendrickx. Sorry Bart, I didn't
+recognize your name transliterated into Cyrillic! What's worse, the
+information already appeared in English in his massive paper in the
+Journal of the British Interplanetary Society (2004, Vol 57, Suppl.1, p
+56), and somehow I didn't notice it when I read that article a few
+months ago. Further discussion with Bart about his interview with
+Trifonov leads me to lean slightly away from the laser-test explanation;
+Trifonov explained that the detection of light sources on the ground was
+used by Astrofizika essentially as a navigation device, to give an
+accurate measurement of the ability of the ion engine to allow
+overflight of a precise location. If this is the complete story, it
+makes Astrofizika basically a propulsion technology mission.
+
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+
+Jul 15 1002   Aura              Delta 7920      Vandenberg SLC2W  Science    26A
+Jul 18 0044   Anik F2           Ariane 5G+      Kourou ELA3       Comms      27A
+Jul 22 1746   Kosmos-2407       Kosmos-3M       Plesetsk LC132    Navigation 28A
+Jul 25 0705   Tan Ce 2          CZ-2C/SM        Taiyuan           Science    29A
+Aug  3 0616   MESSENGER         Delta 7925H     Canaveral SLC17B  Probe      30A
+Aug  4 2232   Amazonas          Proton-M/Briz-M Baykonur LC200/39 Comms      31A
+Aug 11 0503   Progress M-50     Soyuz-U         Baykonur LC1      Cargo      32A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

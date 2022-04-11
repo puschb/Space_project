@@ -1,0 +1,111 @@
+Jonathan's Space Report 
+
+No. 150		1993 Apr 19
+------------------------------------------------------------------------------
+
+STS-56 
+----------------- 
+
+The Spartan-201 satellite was deployed using the RMS arm on Apr 11 at
+0611 UTC. It carried an ultraviolet coronagraph and a white light
+coronagraph for studies of the Sun. On Apr 12 the NIXT x-ray telescope
+was launched on a sounding rocket from White Sands to get a simultaneous
+x-ray image of the Sun. Discovery carried out re-rendezvous maneuvers
+on Apr 12 and the Spartan satellite was grappled with the arm at
+0720 on Apr 13. By 0802 it was reberthed in the payload bay.
+Discovery fired its OMS engines to return from orbit at 1034 on Apr 17;
+main gear touchdown on RW33 at Kennedy Space Center was at 1137 on Apr 17,
+for a mission duration of 9d 6h 8m 19s. Discovery's next mission
+is STS-51 in June. Columbia is due to launch on mission STS-55 on Apr 24.
+
+
+Erratum: The Apr 6 launch attempt of STS-56 was an RSLS hold, not an
+RSLS abort. The distinction is that the main engines had not started, so
+it was not considered an abort. The hold was due to a faulty sensor and
+not a software problem as was reported by various media;  the workaround
+for the successful Apr 8 launch was to modify the software to ignore the
+sensor and monitor it manually. To keep the statistics hounds happy, I
+here present a revised list of all occasions on which a Shuttle countdown
+got past the T-31s point (when the RSLS computers take over the count)
+but either did not launch or did not reach the planned orbit. This
+includes 8 FRF static tests, where the orbiter engines were fired
+to test them out. Each orbiter had one of these tests carried
+out before its first launch. The Challenger one had to be repeated
+because of engine problems on the first try. In addition, an FRF
+was carried out for Discovery before the first `return to flight'
+mission after the loss of Challenger. This one also had to be repeated
+because of an abort one second after engine ignition.
+
+ Space Shuttle Holds and Aborts after T-31s
+
+Date		 Where	Orbiter	Mission		Description
+1981 Feb 20,1345 LC39A	102	STS-1 FRF	FRF for 20s
+1982 Dec 18	 LC39A	099	STS-6 FRF 	FRF for 20s
+1983 Jan 25	 LC39A	099	STS-6 FRF-2 	FRF for 20s
+1984 Jun  2	 LC39A  103	STS 41-D FRF	FRF for 20s?
+1984 Jun 26,1243 LC39A	103	STS 41-D	RSLS abort at T-6s
+1985 Jul 12,2030 LC39A	099	STS 51-F	RSLS abort at T-3s
+1985 Jul 29,2105 Ascent	099	STS 51-F	ATO abort at T+345s
+1985 Sep 12 	 LC39A	104	STS 51J	FRF  	FRF for 20s
+1985 Dec 18	 LC39A	102	STS 61-C	RSLS hold at T-14s
+1986 Jan 28,1639 Ascent	099	STS 51-L	Contingency abort at T+72s
+1988 Aug  4	 LC39B  103	STS-26R FRF 	RSLS abort T-5, 1s of planned 22s FRF
+1988 Aug 10	 LC39B	103	STS-26R	FRF-2	FRF for 22s
+1992 Apr  6,1513 LC39B  105	STS-49 FRF	FRF for 22s
+1993 Mar 22,1451 LC39A	102	STS-55		RSLS abort at T-3s
+1993 Apr  6,0632 LC39B	103	STS-56		RSLS hold at T-11s
+
+FRF: Flight Readiness Firing (static test of Shuttle engines, intentionally
+stopped after 20 second firing)
+RSLS: Redundant Set Launch Sequencer
+ATO : Abort To Orbit (ends up in low orbit)
+
+
+Hiten Mission Ends
+------------------
+
+The Hiten space probe, operated by the Japanese scientific space agency
+ISAS, has impacted the lunar surface. Hiten (MUSES-A) was launched on
+1990 Jan 24 from the Kagoshima Space Center. On 1990 Mar 18 it made a
+16000 km lunar flyby and separated the Hagoromo subsatellite which
+entered lunar orbit. Further lunar flybys occurred on 1990 Jul 10, Aug
+4, Sep 7, Oct 2, 1991 Jan 3, Jan 27, Mar 3, Apr 26 and Oct 2, at
+distances between 12000 and 76000 km. On 1991 Mar 19 Hiten carried out
+the first aerobraking experiment in Earth's atmosphere, with a perigee
+of 125.5 km. A second aerobraking pass was made on Mar 30 at 120.2 km,
+to make a planned change in Hiten's orbit. On 1992 Feb 15 after a final
+2000 km flyby of the Moon Hiten fired its engine to enter a 9600 km x
+49400 km x 35 deg lunar orbit. On 1993 Apr 10 at 1803.38 its orbit, by
+this time perturbed to a lower periapsis, intersected the lunar surface
+at 55.5 deg E, 34.0 deg S. Hiten and Hagoromo were the first new
+probes in lunar orbit since Luna-24 in 1976.
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39A         STS-55
+OV-103 Discovery       KSC           STS-51
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       VAB Bay 1     STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/                   
+ML2/STS-57/ET/OV-105   VAB Bay 1
+ML3/STS-55/ET/OV-102   LC39A
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+

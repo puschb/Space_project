@@ -1,0 +1,107 @@
+
+Jonathan's Space Report
+
+Jul 8 1991 (no.79)
+----------------------------------------------------
+
+Atlantis is on the pad.  The STS-43 mission will deploy a Tracking and
+Data Relay Satellite (TDRS), launch is scheduled for the last week of
+the month.  Crew are Col John Blaha (Commander), Cdr Mike Baker (Pilot),
+Dr Shannon Wells Lucid (Mission Specialist 1), David Low (Mission
+Specialist 2), Col.  James Adamson (Mission Specialist 3). 
+
+Anatoliy Artsebarksiy and Sergey Krikalyov continue in orbit aboard the
+Mir/Kvant/Kvant-2/Kristall/Soyuz TM-12/Progress M-8 complex.  
+Correction: the atmospheric study satellite deployed from Mir was 'Mak',
+which is the Russian word for the poppy flower.
+
+The 11th Resurs-F remote sensing satellite was launched from Plesetsk
+on Jun 28. The 23rd Gorizont communications satellite was launched
+by Proton from Baykonur on Jul 2.
+
+The X-248 Altair I rocket stage used to orbit the first Tiros weather satellite
+reentered on Jul 2 after 31 years in orbit. It was launched into
+orbit on 1 Apr 1960 as the third stage of a Thor Able II launch vehicle, 
+and had the catalog number 28 and the international designation
+1960 Beta 1. Tiros 1 (1960 Beta 2) remains in a 660x700 km orbit.
+The only object with a lower catalog number to reenter in the past
+twenty years was the Baby Sergeant upper stage used to orbit Explorer 7,
+which reentered in Jul 1989. 
+___________________________________
+|Current STS status:              |
+|Orbiters                         |
+|                                 |
+|OV-102 Columbia        OPF Bay 2 |
+|OV-103 Discovery       OPF Bay 1 |
+|OV-104 Atlantis        LC39A     |
+|OV-105 Endeavour       VAB Bay 2 |
+|                                 |
+|ML/ET/SRB stacks                 |
+|                                 |
+|ML1/STS-43/ET/OV-104   LC39A     |
+|ML2                              |
+|ML3/STS-48             VAB Bay 3 |
+-----------------------------------
+
+Launches 1991 Jun
+
+Launch	Date	Payload		Launch vehicle		Site		Payload User/Contractor
+
+1991-39	Jun 4	Okean		Tsiklon 3		Plesetsk	GUGK/NPO Yuzhnoy
+1991-40	Jun 5	STS-40		Space Shuttle		Kennedy		NASA/Rockwell
+1991-41	Jun 11	Kosmos-2150	Kosmos R-14		Plesetsk	KGB?/NPO Yuzhnoy?
+1991-42	Jun 13	Kosmos-2151	Tsiklon 3		Plesetsk	GRU/NPO Yuzhnoy
+1991-43	Jun 18	Molniya-1	Molniya			Plesetsk	MSvyazi/NPO-PM
+1991-44	Jun 28	Resurs-F	Soyuz			Plesetsk	GUGK/KB Foton
+1991-45	Jun 29	REX		Scout G-1		Vandenberg	USAF/DSI
+
+New objects in orbit 1991 Jun 
+
+Jun  4	1991-39B	Tsiklon 3 rocket		633x664x82.5
+Jun  4	1991-39A	Okean satellite			634x665x82.5	Ocean studies
+Jun  5	1991-40A	OV-102 Columbia spaceship	278x296x39.0	Landed Edwards AFB Jun 14
+Jun  5	1991-40A	Spacelab SLS 1			278x296x39.0	Aboard OV-102
+Jun  9? 1986-17DJ to DT	Mir garbage bags (9)		355x392x51.6	
+Jun 11	1991-41B	Kosmos R-14 rocket		802x812x74.0
+Jun 11	1991-41A	Kosmos-2150 satellite		783x808x74.0	Communications
+Jun 11	1991-41C	Kosmos-2150 adapter?		802x812x74.0
+Jun 12	1986-17DV	Mak satellite			377x388x51.6	Deployed from Mir
+Jun 12	1986-17DU	Mak satellite container?	305x369x51.6	
+Jun 13	1991-42B	Tsiklon 3 rocket		636x661x82.5
+Jun 13	1991-42A	Kosmos-2151 satellite		636x662x82.5	Electronic intelligence sat
+Jun 18	1991-43B	Blok-I rocket			209x402x62.8	Reentered Jul 2
+Jun 18	1991-43C	Blok-L rocket adapter		175x448x62.8	Reentered Jun 27
+Jun 18  1991-43D	Blok-L rocket			442x40627x62.9	
+Jun 18	1991-43A	Molniya-1 satellite		449x39900x62.9	Communications
+Jun 20	1986-17DW to ED	Mir garbage bags (8)		384x390x51.6
+Jun 20	1991-35C	Resurs-F engine			217x228x82.3	Jettisoned from Resurs-F
+Jun 20	1991-35D,E	Resurs-F engine adapters	205x220x82.3	Reentered Jun 20, Jun 23
+Jun 25	1986-17EE to EH	Kvant antenna repair parts (4)	388x392x51.6	Debris from EVA?
+Jun 28	1991-44B	Blok-I rocket			180x240x82.3 ??	Reentered Jun 30
+Jun 28	1991-44A	Resurs-F satellite		230x235x82.3 ??	Remote sensing
+Jun 29	1991-45B	Star 20 rocket			830x830x90   ??	
+Jun 29	1991-45A	REX satellite			830x830x90   ??	USAF radiation experiment
+Jun 29	1991-45C	REX part			830x830x90   ??
+
+Also cataloged during June
+
+Jun  	1991-09BP to BX	Kosmos R-14 rocket debris,9 obj 1400x1700x74.0	Exploded 1991 Mar?
+Jun	1975-52DN to GU	Delta 111 debris, 78 objects	1000x1500x99.9	Exploded 1991 May 1
+
+
+Note: the names and descriptions of satellites are my own guesses at the most
+likely identifications of given objects. Orbits are perigee height (km) x apogee height (km) x 
+inclination (deg).
+
+Copyright 1991 Jonathan McDowell. Information in this report is obtained
+from public sources and does not reflect the official views of NASA.
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (205)544-7724                 |
+ |  Space Science Lab ES65            | uucp:                                  |
+ |  NASA Marshall Space Flight Center | bitnet :                               |
+ |  Huntsville AL 35812               |  inter : mcdowell@xanth.msfc.nasa.gov  |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+

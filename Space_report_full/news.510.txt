@@ -1,0 +1,153 @@
+Jonathan's Space Report
+No. 510                                             2003 Sep 29, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Jim Oberg reports that the new plan for Shuttle flights includes a
+stripped-down ISS ULF-1 mission, with added on-orbit tile inspection and
+repair tests, to fly on STS-114 next summer (no earlier than Jul 15),
+followed by a new ISS ULF-1.1 mission to complete the original
+objectives and perform extra tests; this new mission will be STS-121.
+
+Recent Launches
+---------------
+
+The Galileo Orbiter spacecraft entered the Jovian atmosphere on Sep 21
+at 1857 UTC. Entry was at 48.2 km/s from an orbit with a periapsis 9700
+km below the 1-bar atmospheric layer (used by convention as the nominal
+'surface' of Jupiter). The spacecraft continued transmitting at least
+until it passed behind the limb of Jupiter at 1850:54 UTC, at which point
+it was 9283 km above the 1-bar level, surprising Galileo veterans who
+feared it might enter safemode due to the high radiation environment. It
+crossed the orbit of Callisto at around 1100 UTC on Sep 20, the orbit of
+Ganymede at around 0500 UTC on Sep 21, Europa's orbit at about 1145 UTC,
+Io's orbit at about 1500 UTC, Amalthea's orbit at 1756 UTC, and the
+orbits of Adrastea and Metis at 1825 UTC. No close approaches were made
+to any of the moons during this final suicide dive. Galileo was destroyed
+to prevent the possibility that its orbit would eventually be perturbed
+in such a way that it would crash on and biologically contaminate Europa,
+which is considered a possible place to search for life. Light travel
+time from Jupiter to Earth was 52 min 20 sec at the time of impact,
+and the final signal reached Earth at 1943:14 UTC.
+
+Chinese space analyst Chen Lan passes on a report from
+china-spacenews.com that the Chinese solid-fuel launch vehicle KT-1 was
+launched on Sep 16, one year after the first KT-1 launch failure. The
+official release claims the  new launch as a test flight which was
+successful overall, including satellite/launch vehicle separation, but
+did not achieve all objectives. Since Space Command have not cataloged
+any new orbiting objects, it seems fair to infer that one of the
+secondary objectives not achieved was orbit insertion, and I am
+including this launch as a failed orbital attempt. Since the report
+implies any failure came late in the process and states that guidance
+was successful, I speculate wildly that fourth stage propulsion is the
+most likely source of the failure. As far as I know, the exact launch
+time has not been released.
+
+ Mr. Chen also reports from other sources that the launch was intended
+to place a 40 kg microsatellite called PS2 into a 300 x 300 km polar
+orbit. According to him, the CASIC (China Aerospace Science and Industry
+Corp) is privately developing the KT-1 rocket, and leads two consortia
+ASLVC (Aerospace Solid Launch Vehicle Corp) and  Harbin Fenghua
+Aerospace acting as prime contractor and launch provider.
+
+A Polyot Kosmos-3M rocket was launched from Russia's Plesetsk spaceport
+on Sep 27. It placed into orbit a cluster of seven satellites:
+
+ - STSat-1 (or KAISTSAT-4), a Korean satellite which carries an
+   extreme ultraviolet telescope built by UC Berkeley;
+ - Three satellites built by Surrey Satellite for the Disaster Monitoring
+   Constellation: UK-DMC for the British National Space Center, 
+   NigeriaSat-1 for the National Space Research and Development Agency
+   of Nigeria, and BILSAT-1 for TUBITAK-ODTU-BILTEN, the Information
+   Tech and Electronics Research Institute of Middle East Technical University
+   in Ankara, Turkey;
+ - Mozhaets-4, a modified NPO-PM Strela-1M satellite carrying experiments
+   built by students at the Mozhaiskiy space engineering academy.
+ - Larets, a small Russian satellite about which very little is known. A TASS
+   report (pointed out to me by spaceflightnow.com's Justin Ray)
+   claimed it is for radar calibration.
+ - Rubin-4-DSI, an instrument package attached to the Kosmos-3M final
+   stage to measure the launch environment. The Rubin packages are built
+   by OHB System of Bremen, the European partner in the commercialization
+   of the Kosmos-3M rocket, 
+The satellites were placed in a 674 x 696 km x 98.2 deg sun-synchronous orbit.
+They have been cataloged as objects 2003-42A to 42G, but it isn't clear
+yet which is which.
+
+An additional object was cataloged by Space Command as SSN 27947
+(2003-42J) and then reported by them as having "decayed" from this
+fairly high orbit the following day; I believe this is a bureaucratic
+way of dealing with the fact that they messed up and had a duplicate
+entry for one of the other satellites in the launch, since their
+software doesn't have a way of saying 'this is a mistake and we deleted
+it'. This sort of thing is not uncommon when trying to sort out the
+radar data from a cluster of closely spaced small objects.
+
+Arianespace launched an Ariane 5G rocket, vehicle 516, from Kourou on
+Sep 27. It carried three payloads - Insat 3E, e-Bird, and SMART-1. 
+SMART-1 is a European Space Agency satellite which will use ion drive to
+reach lunar orbit; it was built by the Swedish Space Corp. Insat 3E is
+an Indian communications satellite, while e-Bird is a Boeing BSS 376
+class satellite owned by Eutelsat, and will provide data transmission in
+Europe. The Ariane EPC core stage reached a 55 x 1512 km x 7.0 deg orbit
+and reentered at around 0100 UTC, The EPS upper stage placed the
+payloads in a 670 x 35830 km x 6.9 deg geostationary transfer orbit. 
+ 
+The Telstar 4 (former Telstar 402R) satellite suffered a power failure
+on Sep 19 and appears to be a total loss. Telstar 402R was launched on
+1995 Sep 24 on Ariane flight V78. It was part of AT&T's satellite
+fleet, later sold to Loral Skynet and now in the process of being
+sold to Intelsat.
+
+Telstar 402R had replaced the Telstar 402 satellite which exploded
+shortly after launch in Sep 1994. Only one object was cataloged, and
+that object (SSN 23249) is designated Telstar 402 by Space Command,
+implying that the Ariane third stage did not remain in orbit. Anyone who
+can confirm that the third stage from that flight reentered on its first
+orbit is invited to contact me.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Aug  8 0331   Echostar 9        Zenit-3SL       Odyssey, POR      Comms      34A
+Aug 12 1420   Kosmos-2399       Soyuz-U         Baykonur LC31/6   Imaging    35A
+Aug 13 0209   Scisat-1          Pegasus XL      Vandenberg RW30/12 Science   36A
+Aug 19 1050   Kosmos-2400 )     Kosmos-3M       Plesetsk LC132/1  Comms      37A
+              Kosmos-2401 )                                                  37B
+Aug 25 0535   SIRTF             Delta 7920H     Canaveral SLC17B  Astronomy  38A
+Aug 29 0148   Progress M-48     Soyuz-U         Baykonur          Cargo      39A
+Aug 29 2313   DSCS III B-6      Delta IVM       Canaveral SLC37B  Comms      40A
+Sep  9 0429   USA 171           Titan 4B/Centaur Canaveral SLC40  Sigint     41A
+Sep 16        PS2               KT-1            Taiyuan           Test       F01
+Sep 27 0612   STSat-1      )                                      Astronomy  42A
+              UK-DMC       )                                      Imaging    42
+              NigeriaSat-1 )    Kosmos-3M       Plesetsk LC132    Imaging    42
+              BILSAT-1     )                                      Imaging    42
+              Mozhaets-4   )                                      Comms?     42
+              Larets       )                                      Calib?     42
+              Rubin-4-DSI  )                                      Test       42
+Sep 27 2314   Insat 3E  )       Ariane 5G       Kourou ELA3       Comms      43
+              e-Bird    )                                         Comms      43
+              SMART-1   )                                         Lunar      43
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  1 Fitchburg St C-205              |                                    |
+|  Somerville MA 02143               |                                    |
+|    and                             |                                    |
+|  Center for Astrophysics,          |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

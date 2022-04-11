@@ -1,0 +1,340 @@
+Jonathan's Space Report
+No. 646                                       2011 Sep 12    Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Soyuz TMA-21 and Soyuz TMA-02M remain docked at the Station.
+Progress M-11M undocked from Zvezda at 0938 UTC on Aug 23. After
+several maneuvers to carry out the Radar-4 experiment, the vehicle
+was deorbited over the Pacific at 0934 UTC on Sep 1.
+
+The Progress M-12M cargo vessel (mission 44P) failed to reach orbit
+after launch on Aug 24. 5 min 25s in to flight  a clogged fluid line in
+the third stage engine's gas generator caused it to shut down. The
+vehicle reentered after a suborbital flight and impacted in the
+Gorno-Altai region of Russia. This was the first launch failure in 135
+Progress launches. The launch vehicle was a Soyuz-U, one of many rocket
+variants based on the original R-7 ICBM. The failure leaves the Station
+crew with sufficient supplies, but will delay the launch of the
+Expedition 29 replacement crew and the Soyuz TMA-03M spaceship on a
+Soyuz-FG rocket  (ISS mission 28S) until the  Soyuz family is
+requalified. The return to Earth of the first half of the Expedition 28
+crew has also been briefly delayed and is now scheduled for  Sep 15-16.
+
+Launch statistics of the Soyuz rocket family
+---------------------------------------------
+
+Overall statistics are:
+ Soyuz-U:            21 failures in 767 launches since 1973  (97.3% success)
+ All Soyuz variants: 37 failures in 1209 launches since 1965 (96.9%, includes 8K78M)
+ All R-7 family:     99 failures in 1775 launches since 1957 (94.4%)
+The previous R-7-class failure was the Molniya launch in June 2005.
+
+The Soyuz rocket was originally designed by Korolev's OKB-1 (now Energiya)
+with production at the Progress factory in Samara; later versions were
+designed at Samara.
+
+The Soyuz-U (11A511U) rocket consists of the 11S59 `packet' with the core stage
+and four strapons, and the 11S510 `Blok-I' third stage. The U stands
+for `unified' and it followed an original 11A511 model Soyuz and
+two minor variants, 
+ - the 11A511L used for the T2K lunar vehicle tests
+ - and the 11A511M used for the Orion cartographic satellite.
+Later,
+ - a Soyuz-U2 (11A511U2) version was developed using the higher-performance
+    synthetic kerosene Syntin fuel, and 
+ - the Soyuz-FG (11A511U-FG) with uprated main engines. 
+
+All of these versions are very similar; the Soyuz-U and the Soyuz-FG are
+still in service. A four-stage version, the Molniya-M (8K78M), was
+basically a Soyuz or Soyuz-U with a `Blok-L' upper stage. Other fourth
+stages, the Ikar (used in 1999) and the Fregat (since 2000) can be added
+to the Soyuz but don't change  its designation, although I have included
+the success or failure of Fregat in the statistics (it failed once).
+
+Newly introduced are the Soyuz-2-1a and Soyuz-2-1b (14A14 series) with the
+14S53 packet. The 1a has the same upper stage engine as the Soyuz-U while the 1b
+has a new engine. 
+
+How many launches has Soyuz had? We can distinguish the following cases
+which I will include in the statistics -
+ Successes:
+  (C1) Orbital launch attempt, reaching the correct orbit  (success)
+  (C2) Orbital launch attempt, success, with Soyuz stages suborbital and 
+      additional fourth stage (Fregat, Blok L) performing orbit insertion
+  (C3) Suborbital launch attempt, good trajectory and payload separation (success)
+ Failures:
+  (C4) Orbital launch attempt, failing to reach orbit
+  (C5) Orbital launch attempt, reached orbit but not the right one
+       (for example, fourth stage failures of the Molniya-M) or
+      reached orbit but no payload separation (other rocket types have
+      sometimes done this).
+  (C6) Suborbital launch attempt, failure (wrong traj. or payload didn't sep.)
+  (C7) Pad explosion during launch attempt - rocket destroyed,
+      with no liftoff, or liftoff of escape tower and spacecraft only.  
+  (C8) Pad explosion prior to launch attempt - e.g. while fuelling
+ Not counted:
+  (C9) Pad abort  (Engine ignition but no takeoff, rocket could be later reused)
+ (C10) Scrub (no engine ignition, rocket could be reused),
+ (C11) Rocket damaged or destroyed before reaching the launch pad. 
+
+Readers should note that some authors do not include failures in
+categories (C7) and (C8) in the failure count, which is fair enough.
+Others are not interested in categories (C3) and (C6), so I provide
+the detailed breakdown to let you pick your favorite numbers.
+I'm sure some of you will suggest additional categories.
+
+The breakdown for Soyuz in categories C1-C8 is:
+
+             |---- SUCCESS-- | ---- FAIL -----------|
+               C1   C2    C3  C4   C5   C6   C7  C8
+ Soyuz         30    0    0   1    0    0    1    0   1966-76
+ Soyuz-L        3    0    0   0    0    0    0    0   1970-71
+ Soyuz-M        8    0    0   0    0    0    0    0   1971-76
+ Soyuz-U      741    5    0  20    0    0    1    0   1973-
+ Soyuz-U2      72    0    0   0    0    0    0    0   1982-95
+ Molniya-M    266    1    0   2   11    0    0    0   1965-
+ Soyuz-FG      29    6    0   0    0    0    0    0   2001-
+ Soyuz-2-1a     0    6    1   0    1    0    0    0   2004-
+ Soyuz-2-1b     3    0    1   0    0    0    0    0   2006-
+ ---------------------------------------------------
+ All Soyuz   1152   18    2  23   12    0    2    0  Total: 1209
+
+We can also consider older versions using the same core stage design.
+ - The original R-7 (8K71) missile was also used for satellite launch as
+   8K71PS (Sputnik).
+ - Its 8A91 variant was specifically designed for satellite use. 
+ - The operational R-7A (8K74) missile replaced the R-7.
+ - The 11A59 rocket was an R-7A used for space launch. 
+ - An 11A510 rocket used an early version of the Soyuz core packet 
+   without an upper stage. The 11A59 and 11A510 delivered their payloads
+   to a suborbital trajectory and engines on the payload were used for 
+   orbit insertion.
+
+More widely used was the Vostok, which had a `Blok-E' upper stage and
+had four closely similar variants:
+ - the 8K72 (8K71 missile with E stage),
+ - the 8K72K (with improved E stage engine),
+ - the 8A92 (8K74 missile with improved E stage), 
+ - and 8A92M (variant similar to 8A92 designed in Samara). 
+ - The 11A57 Voskhod was an 8K74 with an early version of the Soyuz's Blok-I upper stage. 
+ - The 8K78 Molniya added a Blok-L upper stage to the 11A57. (This may seem like a
+complicated tangle but experts will realize I am over-simplifying... the
+classification of Molniya sub-variants is especially controversial.)
+
+             |---SUCCESS---- | ---- FAIL -----------|
+                C1   C2   C3   C4   C5  C6    C7  C8
+
+ R-7 (8K71)     0    0    16   0    0   10    0    0   1957-60
+Sputnik 8K71PS  2    0     0   0    0    0    0    0   1957
+Sputnik 8A91    1    0     0   1    0    0    0    0   1958
+
+ R-7A (8K74)    0    0    26   0    0    2    0    0   1959-67
+ 11A59          0    2     0   0    0    0    0    0   1963-64
+ 11A510         0    2     0   0    0    0    0    0   1965-66
+ Vostok 8K72    6    0     0   7    0    0    0    0   1958-60
+ Vostok 8K72K  11    0     0   2    0    0    0    0   1950-64
+ Vostok 8A92   40    0     0   4    0    0    1    0   1962-67
+ Vostok 8A92M  92    0     0   1    0    0    0    1   1964-91
+ Voskhod      286    0     0  13    0    0    0    0   1963-76
+Molniya 8K78   20    0     0   9   11    0    0    0   1960-67
+------------------------------------------------
+Non-Soyuz     458    4    42  37   11   12    1    1  Total: 566
+Everything   1610   22    44  60   23   12    3    1  Total: 1775
+
+ There are two marginal cases of (C4) which might be counted
+as (C5) (it depends what you mean by 'orbit'): 
+the 15 Apr 1960 launch of an E-3 probe which may have reached some
+200000 km altitude, and the Oct 1979 Zenit-6 failure which happened in
+the last seconds of ascent so might have had a positive perigee.
+
+Of the 98 failures, 
+  - 45 were in the lower `packet' stages (Blok A,B,V,G,D; including one 
+    A/I stage separation failure),  
+  - 24 were third stage failures (4 Blok E, 20 Blok I), 
+  - 21 were fourth stage (20 Blok L, 1 Fregat), 
+  - 2 were nose fairing failures and 7 are for causes which as yet
+are not known in open sources, as far as I know. Note that some category
+(C5) failures were due to explosions in Blok-I which did not prevent
+orbit insertion but which damaged Blok-L enough that it didn't fire -
+they used to be counted against Blok-L. It's hard to derive individual
+stage reliabilities without resolving the 7 remaining cases.
+
+Dnepr
+-----
+
+Kosmotras launched a Dnepr rocket from the Yasniy spaceport carrying a
+cluster of small satellites on Aug 17.  The Dnepr emerged from its silo
+at 0712 UTC and the first two stages had separated by 0716 UTC. After
+coast to a 700 km apogee, at 16 min after launch the third stage
+satellite-carrier separated its protective cover (`gas-dynamic shield',
+gasodinamicheskiy ekran) and then the payloads were ejected
+at two-second intervals.
+
+First to separate were AprizeSat 5 and 6, which were built by SpaceQuest
+of Fairfax, Virginia for COM DEV subsidiary exactEarth, Ltd. of       
+Cambridge, Ontario and carry AIS (maritime Automatic Identification
+System) payloads for ship location tracking. The exactEarth system also
+includes the SpaceQuest-owned satellites AprizeSat 3 and 4, and a COM DEV 
+attached payload on ISRO's ResourceSat-2 satellite. AprizeSat 5 and 6
+mass 14 kg each.
+
+Next was the 10 kg Edusat technology satellite for the Universita di
+Roma la  Sapienza, and the small  86 kg SSTL-100 NigeriaSat-X
+demonstration satellite, built by  Surrey Satellite with participation
+by Nigerian engineers. 
+
+The fifth payload was Rasat, a 95 kg  Turkish Earth observation
+satellite for TUBITAK UZAY, with a Korean-built imager. TUBITAK
+is the Turkish science research council and UZAY is its Space Technology
+Research Insitute in Ankara, formerly called BILTEN - its earlier
+satellite, built by Surrey, was BILSAT-1 launched in 2003.
+
+Sixth was Sich-2, a Ukrainian remote sensing satellite built by the Yuzhnoe
+company with a mass of 175 kg. The first six payloads were launched
+attached to a payload deck called `Platform A' which itself was ejected
+at 0728 UTC, exposing the largest payload, NigeriaSat-2. NigeriaSat-2 is
+a 268 kg Surrey SSTL-300 satellite with a 2.5m  resolution imager for
+Nigeria's National Space Research Development Agency; it was separated
+at 0728:36 UTC. Finally, a Yuzhnoe launch vehicle engineering payload
+BPA-2 is attached to the Dnepr final stage, which as usual in Dnepr
+launches ended up in a higher altitude orbit.
+
+   Payload                              Orbit
+   44E  AprizeSat-5 (exactEarth)        610 x 696 km x 98.3 deg
+   44F  AprizeSat-6 (exactEarth)        627 x 697 km x 98.3 deg
+   44A  Edusat (Roma-La Sapienza)       587 x 697 km x 98.3 deg
+   44C  NigeriaSat-X  (NASRDA)          656 x 697 km x 98.3 deg
+   44D  Rasat  (TUBITAK UZAY)           667 x 697 km x 98.3 deg
+   44G  Sich-2 (NKAU)                   685 x 702 km x 98.3 deg
+   44J  Platform A (Kosmotras)          692 x 710 km x 98.3 deg
+   44B  NigeriaSat-2  (NASRDA)          693 x 728 km x 98.3 deg
+   44H  BPA-2 (Yuzhnoe)                 692 x1295 km x 98.2 deg
+
+Proton
+-------
+
+The Russian Ekspress AM-4 communications satellite was delivered to
+an incorrect orbit on Aug 18 when a Proton-M's Briz-M upper stage
+malfunctioned.
+
+The first two Briz-M burns, to 173 x 173 km, and 270 x 4998 km were
+successful. The third burn, at 0052 UTC on Aug 18, seems to have gone
+wrong and the DTB tank separated to a low 145 x 11340 km x 49 deg orbit;
+after the fourth burn the payload ended up in a 694 x 20242 km orbit
+instead of one with geosynchronous apogee. The Briz-M stage orbit was
+1016 x 20900 km following a depletion burn at around 0946 UTC on Aug 18.
+Russian authorities have announced that a timing error in the inertial
+platform led to incorrect orientiation of the stage during the later
+burns.
+
+SJ-11-04
+---------
+
+The fourth satellite in China's SJ-11 system, speculated by some
+analysts to be an early warning constellation, was launched on Aug 18
+but failed to reach orbit. At stage 2 ignition the CZ-2C rocket's
+vernier engine suffered a mechanical failure.
+
+Chang'e-2
+---------
+
+China's Chang'e-2 space probe, which left lunar orbit on Jun 9,
+arrived at the Sun-Earth L2 point on Aug 25, according to the Xinhua
+news agency.
+
+GRAIL
+-----
+
+GRAIL, a NASA Discovery mission, was launched from Cape Canaveral on Sep
+10. The Delta rocket reached Earth orbit at 1316 UTC and a deep space
+coast trajectory at 1419 UTC. The two GRAIL spacecraft were attached to
+the Delta rocket's second stage; GRAIL-A was deployed at 1428 UTC and GRAIL-B
+at 1437 UTC. The spacecraft will reach the Sun-Earth L1 point 1.5 million km
+from Earth and then fall back towards the Moon, reaching lunar orbit at
+New Year. GRAIL-A lunar insertion is scheduled for 0100 UTC on Jan 1,
+with GRAIL-B at 0200 UTC on Jan 2.
+
+
+Suborbital flights
+-------------------
+
+On Aug 27 the Russian Navy launched several reentry vehicles aboard a
+Bulava missile from a submarine in the White Sea to impact in the
+Pacific Ocean. A Topol' missile was flown from Plesetsk to Kamchatka
+on Sep 3. Meanwhile, the first test flight of the Block IB version of
+the SM-3 missile interceptor failed to hit its target on Sep 1.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  6 0428   SJ-11-3           Chang Zheng 2C     Jiuquan           Unknown   30A
+Jul  8 1529   Atlantis STS-135  Space Shuttle      Kennedy LC39A     Spaceship 31A
+Jul 11 1541   TianLian 1-02     Chang Zheng 3C     Xichang           Data rel. 32A
+Jul 13 0227   Globalstar M083 ) Soyuz-2-1A/Fregat  Baykonur LC31     Comms     33A  
+              Globalstar M088 )                                      Comms     33B
+              Globalstar M091 )                                      Comms     33C
+              Globalstar M085 )                                      Comms     33D
+              Globalstar M081 )                                      Comms     33E
+              Globalstar M089 )                                      Comms     33F
+Jul 15 1118   GSAT-12           PSLV-XL            Sriharikota       Comms     34A
+Jul 15 2316   SES-3   )         Proton-M/Briz-M    Baykonur LC200/39 Comms     35A
+              Kazsat-2)                                              Comms     35B
+Jul 16 0641   GPS SVN 63        Delta 4M+(4,2)     Canaveral LC37B   Nav       36A
+Jul 18 0231   Spektr-R          Zenit-3F/Fregat    Baykonur LC45/1   Astronomy 37A
+Jul 20 0749   PSSC-2                               Atlantis,LEO      Tech      31B
+Jul 26 2144   Beidou DW9        Chang Zheng 3A     Xichang           Nav       38A
+Jul 29 0742   SJ11-02           Chang Zheng 2C     Jiuquan           Unknown   39A
+Aug  3 1843   Radioskaf-V       -                  EVA, ISS          Comms   98-67CK
+Aug  5 1625   Juno              Atlas 551          Canaveral SLC41   Probe     40A
+Aug  6 2252   Astra 1N )        Ariane 5ECA        Kourou ELA3       Comms     41A
+              BSAT 3c  )                                             Comms     41B
+Aug 10 1615   Paksat 1R         Chang Zheng 3B     Xichang           Comms     42A
+Aug 15 2257   Haiyang 2         Chang Zheng 4B     Taiyuan LC2       Rem.Sens. 43A
+Aug 17 0712   NigeriaSat-X)                                          Tech      44C
+              NigeriaSat-2)                                          Imaging   44B
+              Edusat      )                                          Tech      44A
+              Sich-2      )     Dnepr              Yasniy            Rem.Sens. 44G
+              Rasat       )                                          Imaging   44D
+              AprizeSat-5 )                                          Comms/AIS 44E
+              AprizeSat-6 )                                          Comms/AIS 44F
+              BPA-2       )                                          Tech      44H
+Aug 17 2125   Ekspress AM-4     Proton-M/Briz-M    Baykonur          Comms     45A
+Aug 18 0928   SJ11-04           Chang Zheng 2C     Jiuquan           Unknown   F02
+Aug 24 1300   Progress M-12M    Soyuz-U            Baykonur          Cargo     F03
+Sep 10 1308   GRAIL-A   )       Delta 7920H        Canaveral SLC17B  Lunar     46A    
+              GRAIL-B   )                                            Lunar     46B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jul  8 1404   SRALT            SR-19              C-17, Point Mugu    Target       200?
+Jul 10 1400   NASA 21.140GE    Black Brant V      Wallops I LA2       Ionosphere   158?
+Jul 10 1400   NASA 41.090GE    Terrier Orion      Wallops I LA2       Ionosphere   158?
+Jul 11 1535?  Gradicom         Gradicom 2         Chamical            Test         100
+Jul 21 1158   NASA 41.092GO    Terrier Orion      Wallops I           Edu          160?
+Jul 27 1001   GT205 RV         Minuteman III      Vandenberg LF04     Test        1300?
+Jul 27        RV x 4?          Sineva             K-84, Barents Sea   Test        1000?
+Aug 11 1445   HTV-2b           Minotaur 4 Lite    Vandenberg SLC8     Test         100?
+Aug 27 0320   RV x 6?          Bulava             K-535, White Sea    Test        1000?
+Sep 1  1343   ARAV?            Terrier Oriole?    Kauai               Target       150?
+Sep 1  1344   Aegis KV         SM-3 Block 1B      CG-70, Kauai        Interceptor  150?
+Sep 3  0946   RV               Topol'             Plesetsk            Test        1000?
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

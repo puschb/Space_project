@@ -1,0 +1,273 @@
+Jonathan's Space Report
+No. 451                                          2001 Apr 28, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Note: apologies for technical difficulties which prevented
+the distribution of JSR 451 last week. This is an updated version.
+
+Shuttle and Station
+--------------------
+
+The Expedition 2 crew of Usachev, Voss and Helms remain aboard the
+International Space Station. Progress M-44 undocked from Zvezda's aft
+port on Apr 16 at  0848 UTC and was deorbited at 1323 UTC over the 
+Pacific. Soyuz TM-31 undocked from the Zarya nadir port Apr 18 at 1240
+UTC and redocked with the Zvezda aft port at 1301 UTC, leaving clearance
+for the Raffaello MPLM module to dock at the Unity nadir during STS-100.
+(Don't be confused by the graphic on Houston's screen which as of Sunday
+still showed Soyuz docked to Zarya.)
+
+Space Shuttle OV-105 Endeavour was launched on mission STS-100 at
+1840:42 UTC on Apr 19. It will carry out International Space Station
+Flight 6A which will continue the outfitting of the Station. The SSRMS
+robot arm is also called Canadarm-2; the first generation Canadarm (of
+which there were five) is used on the Orbiter itself. RMS 302  was lost
+with Challenger; RMS 201 seems to have been retired in 1995. This leaves
+three active RMS shared between four orbiters.
+
+  Canadarm history
+  ---------------
+
+  Serial No.      First Use                 Most recent use
+
+  201             Columbia    STS-2  1981   Discovery STS-63
+  202             Columbia    STS-80 1990s  Atlantis STS-98
+  301             Discovery   41-D   1984   Discovery STS-102
+  302             Challenger  41-C   1984   Lost with Challenger 51-L
+  303             Atlantis    STS-37 1991   Endeavour STS-100
+  SSRMS           Destiny     ISS 6A 2001   - 
+
+Here is an improved estimate of what's in the STS-100 payload
+bay; corrections still welcome. Note that the MPLM mass given in the
+Shuttle press kit is the empty mass without any cargo loaded.
+The MPLM cargo is probably about 3400 kg.
+(thanks to Bill Harwood for info).
+
+  STS-100 cargo: The JSR guess (revised)
+                                               Est. Mass (kg)
+Bay 1-2:     Orbiter Docking System                     1800
+             and External Airlock
+             3 EMU spacesuits (S/N unknown)              360?
+Bay 3 Stbd:  Adapter Beam with                           180?
+                DCSU switching unit
+Bay 5?:      Spacelab Pallet                            1400
+	     with SSRMS (Space Station Remote           1800
+               Manipulator System)
+                  LDA                      
+                  UHF Antenna                             56?
+Bay 6 Port?: Adapter Beam with IMAX Camera               238
+Bay 8-12:    Rafaello Module (MPLM-2)                   4100
+             MPLM racks and cargo                       3400?
+Sill:        Canadarm RMS 303                            410
+                                                      ------
+                      Total payload bay cargo          13744 kg
+
+
+Endeavour reached an 80 x 317 km orbit at 1849 UTC; at 1924 UTC the OMS
+engines fired to raise perigee. After a series of rendezvous burns, the
+spaceship docked with the PMA-2 port on the ISS at 1359 UTC on Apr 21.
+Launch mass of Endeavour was quoted in the press kit as 103504 kg but I
+calculate it was much larger, probably 115652 kg at ET separation and
+114740 kg after the OMS-2 burn.
+
+Crew of STS-100 are Commander Kent Rominger (NASA), Pilot Jeff Ashby
+(NASA), and Mission Specialists Chris Hadfield (Canadian Space Agency),
+John Phillips (NASA), Scott Parazynski (NASA), Umberto Guidoni (ESA),
+and Yuriy Lonchakov (RAKA).
+
+Hadfield and Parazynski made a spacewalk on Apr 22 to begin installation
+of the Canadarm-2. The airlock was depressurized at 1144 UTC; the hatch
+was probably opened around the same time. The astronauts went to battery
+power at 1145 UTC; the thermal cover was opened at 1152 UTC as Hadfield
+emerged to become the first Canadian spacewalker. After a successful
+spacewalk in which the UHF comm antenna was installed on Destiny and the
+SSRMS initial setup was completed, they returned to the airlock, closing
+the hatch at 1845 UTC and repressurizing 10 min later for a duration of
+7h11m (depress/repress), 7h01m (hatch open/close) or 7h10m (NASA rule).
+
+Unlike the RMS, the SSRMS has a `hand' ("latching end effector" or LEE)
+at each end and can `walk' along the station from fixture to fixture.
+The two LEE's are LEE A and LEE B; LEE B was used to connect
+to the PDGF fixture on Destiny. It was unberthed from the SLP (Spacelab
+pallet) at 1114 UTC on Apr 23 and latched on to the PDGF at 1416 UTC.
+During the second spacewalk on Apr 24, it started getting power through
+the PDGF at 1455 UTC and Susan Helms aboard Destiny started to use the
+arm's LEE A to lift up the SLP from Destiny. The SLP was unberthed
+from the Lab Cradle Assembly at 1825 UTC.
+
+At 1458 UTC on Apr 23 the MPLM-2 Raffaello module was unberthed
+from Endeavour using the Shuttle's RMS and docked to the nadir
+port on Unit at 1600 UTC. Over the next few days, the cargo racks
+on the MPLM were transferred to Destiny. Raffaello was then
+unberthed from Unity at 2003 UTC on Apr 27 and reberthed in
+the rear of Endeavour's bay at 2059 UTC.
+
+The second spacewalk began with depressurization of the airlock at
+around 1232 UTC on Apr 24. The hatch was probably open around the same
+time, with the astronauts switching to battery power at 1234 UTC. They
+removed a temporary communications antenna from Unity, connected up
+power to the Canadarm-2, and moved the DCSU switching unit from a
+sidewall carrier on the port side of Endeavour's cargo bay to the ESP
+(External Stowage Platform) on Destiny, next to the PFCS (Pump Flow
+Control System) which was installed on the ESP on the previous mission.
+The astronauts returned to the airlock at 2000 UTC, closed the hatch at
+2003 UTC, and repressurized the airlock at 2014 UTC, for a duration of
+7h42m (depress/repress), 7h31m (hatch open/close) or 7h40m (NASA rule).
+
+Undocking of Endeavour has been delayed due to a series of computer
+problems on the Station. After three days, failures in the Station's
+command and control computers are still unresolved and only one of the
+three computers is up and running. The SLP remains attached to SSRMS LEE
+A; it is still hoped to return it to the cargo bay before Endeavour
+leaves.
+
+Soyuz spacecraft 7K-STM No. 206 was launched from Baykonur on Apr 28 and
+became Soyuz TM-32. The `taxi' mission is ISS flight 2S according to
+NASA, and flight EP-1 (Visting Crew 1) according to Energiya.  The EP-1
+crew deliver spacecraft 206 to Station and return in the old spacecraft
+205 which has been at the Station since November, making sure the
+long-stay crew have a Soyuz on hand which isn't past its sell-by date.
+
+The crew are Talgat Musabaev (Komandir, commander), Yuriy Baturin
+(Bortinzhener, flight engineer) and Dennis Tito (Uchastnik poleta,
+flight participant).  Musabaev, a colonel in the Russian Air Force, was
+originally selected as a Kazakh cosmonaut but is now a member of the
+Russian astronaut corps; Baturin first flew as an adviser to former
+president Yeltsin and is now also a regular member of the corps. Dennis
+Tito is a business executive from Los Angeles who is flying as a
+tourist.  Soyuz TM-32 will dock with the Zarya nadir port on the
+Station; this is near to the current position of Endeavour's tail and
+NASA wants to make sure the Orbiter is undocked before Soyuz arrives.
+
+The first non-governmental paying customer to orbit was McDonnell
+Douglas' Charles Walker, who operated commercial experiments on the
+Space Shuttle in 1984. (The list below excludes the arguable case of
+Prince Al-Saud of Arabsat in 1985, since I'm considering Arabsat to be a
+Saudi goverment agency).
+
+   Commercial and Tourist Astronauts
+--------------------------------------------------------------------------------
+Charles Walker    STS 41-D   Discovery    1984 Aug   McDonnell Douglas 
+                                                       Astronautics Corp. (MDAC)
+Charles Walker    STS 51-D   Discovery    1985 Apr   MDAC
+Charles Walker    STS 61-B   Atlantis     1985 Nov   MDAC
+Robert Cenker     STS 61-C   Columbia     1986 Jan   RCA Astro-Electronics Corp
+Toyohiro Akiyama  TBS        Soyuz TM-11  1990 Dec   Tokyo Broadcasting System
+Helen Sharman     Juno       Soyuz TM-12  1991 May   Project Juno
+Dennis Tito       ISS EP-1   Soyuz TM-32  2001 Apr   Space flight participant
+
+   Other Passengers
+
+Jake Garn         STS 51-D   Discovery    1985 Apr   US Senate (R-Utah)
+Bill Nelson       STS 61-C   Columbia     1986 Jan   US House of Reps. (D-Fla.)
+Christa McAuliffe STS 51-L   Challenger   1986 Jan   Teacher-In-Space 
+                                                 (launch failed to reach space)
+Yuriy Baturin     Mir EO-26  Soyuz TM-28  1998 Aug   Russian Federation
+John Glenn        STS-95     Discovery    1998 Oct   US Senate (D-Ohio)
+
+
+Recent Launches
+---------------
+
+India's first GSLV launch was carried out successfully on Apr 18 from
+the Sriharikota range. The GSLV (Geostationary Launch Vehicle) is a
+derivative of ISRO's earlier PSLV. It uses the solid first stage and
+storable propellant second stage (with an Ariane-derived Vikas engine)
+from PSLV. The four liquid strapons are a new design, derived from the
+second stage and using the Vikas engine. The third stage was supplied by
+Russia, and is the first Russian liquid hydrogen cryogenic upper stage
+to fly (the Energiya core stage also used LH2). The Isaev KVD-1M
+(11D56M) engine has a thrust of 74 kN. The Krunichev 12KRB upper stage
+is 8.7m long, 2.8m diameter. The rocket underperformed slightly leaving
+the 1500 kg GSAT-1 experimental communications satellite in a 166 x
+31977 km x 19.3 deg geostationary transfer orbit.  GSAT-1 has a 440N 
+ISRO liquid apogee motor, and S-band and C-band communications
+transponders; it is similar to the Insat 2 satellites. By Apr 26 it was
+in a 33804 x 35738 km x 1.0 deg near-geosynchronous orbit. More fuel
+than planned was using during the orbit raising, and GSAT-1 was unable
+to reach its final planned stationary position.
+
+2001 Mars Odyssey is in a 0.982 x 1.384 AU x 3.05 deg solar orbit. It
+escaped Earth's nominal gravitational sphere of influence at around 1900
+UTC on Apr 10 and will enter Mars orbit on Oct 24.
+
+Space Command has cataloged the expected three objects from the Ekran
+launch. 2001-13B is the Briz-M torus tank, and 2001-13C is the Briz-M
+itself in synchronous orbit. 2001-13A, the Ekran, was expected to reach
+its 99E location on around Apr 24.
+
+The Russian Ministry of Defense's Kosmos-2372 spy satellite reentered on
+Apr 20 after a 7 month mission.
+
+
+Not-so-recent launches
+----------------------
+
+On 1961 Apr 12 the spacecraft Vostok-3A No. 3 was launched from the 5
+NIIP test range carrying pilot-astronaut of the Soviet Union, Major of
+the Soviet Military Air Forces Yuriy Alexeevich Gagarin. At around 0613
+UTC the 8K72K launch vehicle passed the 80 km point (which I use as the
+boundary of space) and at 0618 UTC the Blok-E third stage shut down and
+separated leaving the Vostok spaceship in orbit. After one orbit, the
+spaceship landed near Saratov at 0747 UTC. The pilot ejected at around
+0743 UTC and landed nearby by parachute a few minutes later.
+
+Thanks to the MIT crew who organized the Yuri's Night 40th anniversary
+celebrations here in Boston and congratulations to all those around the
+world who celebrated with us. 
+
+2001 Apr 12 also marked the 20th anniversary of the first Space Shuttle
+flight by John Young and Bob Crippen aboard OV-102 Columbia.
+
+Erratum
+-------
+
+Looks like I goofed on the Proton-M launch time last issue: the reported
+launch time was 0747 Moscow Time, but apparently this was summer time
+and not standard time, and so corresponds to 0347 UTC not 0447 UTC. All
+the times reported for the mission in  JSR 450 should be amended
+accordingly. The Ekran has been redesignated 2001-13A by Space Command.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  8 1142   Discovery (STS-102) Shuttle      Kennedy LC39B    Spaceship  10A
+              Leonardo                                          Module
+Mar  8 2251   Eurobird  )       Ariane 5G      Kourou ELA3      Commsat    11A
+              BSAT-2a   )                                       Commsat    11B
+Mar 18 2233   XM-2 Rock         Zenit-3SL      Odyssey,Pacific  Commsat    12A
+Apr  7 0347   Ekran-M No. 18    Proton-M       Baykonur LC81/24 Commsat    13A
+Apr  7 1502   2001 Mars Odyssey Delta 7925     Canaveral SLC17A Mars probe 14A
+Apr 18 1013   GSAT-1            GSLV           Sriharikota      Commsat    15A
+Apr 19 1840   Endeavour  )      Space Shuttle  Kennedy LC39A    Spaceship  16A
+              Raffaello  )                                      Module
+              Canadarm-2 )
+Apr 28 0737   Soyuz TM-32       Soyuz-U        Baykonur LC1     Spaceship  17A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 1     STS-109 2001 Nov 19  HST SM-3B
+OV-103 Discovery       OPF Bay 2     STS-105 2001 Jul 12  ISS 7A.1
+OV-104 Atlantis        OPF Bay 3     STS-104 2001 Jun  7  ISS 7A
+OV-105 Endeavour       ISS           STS-100 2001 Apr 19  ISS 6A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

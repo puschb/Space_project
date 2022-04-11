@@ -1,0 +1,135 @@
+Jonathan's Space Report
+No. 351                                        1998 Mar 2 Cambridge, MA 
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Progress M-37 redocked with the Kvant module on the Mir complex
+on Feb 23. Musabaev took official command of Mir in the early
+hours (UTC) of Feb 19.
+
+Launch of STS-90 is now due for Apr 16.
+
+Recent Launches
+---------------
+
+The final fuel dump from the Japanese H-II second stage
+was observed from Argentina as a mag -2 cometary object
+at 0850 UTC on Feb 21. The name of the COMETS satellite, 
+"Kakehashi" reportedly means "bridge" or "intermediary" (thanks
+to Geoff Perry for forwarding tht info). Kakehashi's apogee motor
+will be fired to place it in a higher orbit.
+
+Orbital's L-1011 Stargazer launch plane took off from Vandenberg at 0605
+UTC on Feb 26 and launched a Pegasus XL over the Pacific an hour later
+over 36.0N 123.0W. The three stage Pegasus placed two satellites in a
+535 x 580 km x 97.8 deg orbit.
+
+The main payload for the Pegasus launch was SNOE, the Student Nitric
+Oxide Explorer. This small satellite built by the University of Colorado
+measures the NO density as a function of altitude. It's the first
+satellite in the small STEDI (Student Explorer Demonstration Initiative)
+program, or University Explorer (UNEX) series. (Technically, HETE was
+also managed under the UNEX umbrella).
+
+The secondary payload is T1, Bill Gates' first satellite.  This
+demonstration payload is an Orbital-built Microstar bus (used for the
+Orbcomm satellites), but with an experimental Boeing/Seattle Ka-band high
+frequency, broadband, high throughput data communications payload.  It's
+a pathfinder for the Teledesic LEO constellation which will build a
+global space-based Internet.
+
+The T1 satellite was cloaked in secrecy prior to launch, hidden behind a
+cover story called BATSAT.  BATSAT was advertised as a small technology
+satellite from the Texas Space Grant Consortium, intended to transmit
+Ka-band and X-band signals to test out signal attenuation with the Jet
+Propulsion Lab's Deep Space Network. It now seems possible that this
+story was largely a fiction. 
+
+Hot Bird 4 was launched on Feb 27. Hot Bird 4 is a high power television
+satellite for EUTELSAT, the European Telecommunications Satellite Organization.
+It was launched by Arianespace's Ariane 42P launch vehicle, with two
+solid strapon motors. The Eurostar class satellite was built by
+Matra Marconi Space/Toulouse.
+
+On Feb 28, a Lockheed Martin/Denver Atlas IIAS rocket, AC-151, was
+launched with the Intelsat 806 international telecommunications
+satellite. The LM7000 class satellite, built by Lockheed Martin/East
+Windsor, will provide communications to Europe and Latin America.
+Transfer orbit for Intelsat 806 was 190 x 35656 km x 23.0 deg.
+
+The Iridium folks have provided me with the correct names for the
+Feb 18 Iridium launch. Upcoming launches include Iridium 51 and 61
+on Long March, and 55, 57, 58, 59, 60 on Delta; Globalstar inform me
+the prelaunch name for their payloads are simply FM1 to FM4, but
+names based on the satellites' position in the constellation will
+be assigned later. The initial Globalstar orbital heights were 1250
+km; their on-board propulsion will raise the orbits later.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+            
+Jan  7 0228   Lunar Prospector  Athena-2      Canaveral SLC46   Probe      01A
+Jan 10 0032   Skynet 4D         Delta 7925    Canaveral SLC17B  Comsat     02A
+Jan 22 1256   'Ofeq-4           Shaviyt       Palmachim         Imaging    F01
+Jan 23 0248   Endeavour         Shuttle       Kennedy LC39A     Spaceship  03A
+Jan 29 1633   Soyuz TM-27       Soyuz-U       Baykonur LC1      Spaceship  04A
+Jan 29 1837   CAPRICORN         Atlas IIA     Canaveral SLC36A  Comsat?    05A
+Feb  4 2329   Brasilsat B3   )  Ariane 44LP   Kourou ELA2       Comsat     06A
+              Inmarsat 3 F5  )                                  Comsat     06B
+Feb 10 1320   GFO         )     Taurus        Vandenberg 576E   Altimeter  07A
+              Orbcomm G1  )                                     Comsat     07B
+              Orbcomm G2  )                                     Comsat     07C
+              Celestis-02 )                                     Burial     07D
+Feb 14 1434   Globalstar FM1 )                                  Comsat     08A
+              Globalstar FM2 )  Delta 7420    Canaveral SLC17A  Comsat     08B
+              Globalstar FM3 )                                  Comsat     08C
+              Globalstar FM4 )                                  Comsat     08D
+Feb 17 1030?  Kosmos-2349       Soyuz-U       Baykonur LC31?    Recon      09A
+Feb 18 1358   Iridium 50 )      Delta 7920    Vandenberg SLC2   Comsat     10A
+              Iridium 52 )                                      Comsat     10C
+              Iridium 53 )                                      Comsat     10D
+              Iridium 54 )                                      Comsat     10E
+              Iridium 56 )                                      Comsat     10B
+Feb 21 0755   Kakehashi         H-II          Tanegashima Y     Comsat     11A
+Feb 26 0707   SNOE        )     Pegasus XL    Vandenberg        Science    12A
+              Teledesic 1 )                                     Comsat     12B
+Feb 27 2238   Hot Bird 4        Ariane 42P    Kourou ELA2       Comsat     13A
+Feb 28 0021   Intelsat 806      Atlas IIAS    Canaveral LC36    Comsat     14A
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-90  Apr 16
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Sep 17?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/
+MLP2/RSRM65/ET           VAB Bay 3     STS-90
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

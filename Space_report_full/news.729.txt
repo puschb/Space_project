@@ -1,0 +1,167 @@
+Jonathan's Space Report 
+No. 729                                                     2016 Aug 16 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 48 continues.
+
+SpaceX's Dragon CRS-9 cargo ship was launched on Jul 18, carrying the
+IDA-2 docking adapter and spacesuit EMU 3006. The Falcon 9 first stage
+returned to Cape Canaveral for a landing at Landing Complex 1. The
+second stage was deorbited south of Australia.  CRS-9 arrived at the ISS
+on Jul 20; it was grappled by the SSRMS at 1056 UTC and berthed at
+Harmony nadir at 1403 UTC. The IDA-2 docking adapter will be installed
+on the end of the old PMA-2 Shuttle docking port to convert it for use
+with the planned upgraded, astronaut-carrying Dragon.
+
+The Progress MS-03 cargo ship was launched Jul 16 and docked with the
+Pirs module at 0020 UTC Jul 19. It carried 2405 kg of cargo (including
+705 kg of ISS propellant) as well as 880 kg of its own onboard propellant.
+
+On Aug 5 the NanoRacks External Payload Platform (NREP) was extracted
+from the Kibo airlock by the JEM RMS arm and installed on position EFU4
+on the Kibo Exposed Facility. NREP was launched in Aug 2015 and had been
+stored inside ISS for a year; it supports small external payloads.
+
+
+USA 269
+--------
+
+The NROL-61 mission was launched on Atlas AV-065 from Canaveral on Jul
+28 and placed the USA 269 satellite in geostationary transfer orbit. 
+The satellite is thought to be an NRO (National Reconnaissance Office)
+data relay communications satellite in the QUASAR series, although there
+is a chance that it instead has a signals intelligence payload. The
+payload made orbital maneuvers to raise its perigee, and hobbyists have
+now tracked the satellite in geostationary orbit at 92 deg E over the
+Indian Ocean.
+
+Tiantong-1
+----------
+
+China launched the first Tiantong-1 satellite on Aug 5. The satellite
+was built by CAST and is operated by China Satcom; it supports a mobile
+communications network operated by China Telecom. The satellite
+has reached geostationary orbit and is drifting east over the Indian Ocean.
+
+Gaofen 3
+--------
+
+China's Gaofen 3 satellite is a 1-meter-resolution C-band radar imaging
+satellite placed in 750 km sun-synchronous orbit. Its primary user is
+the National Satellite Oceanic Applications Center in Mudanjiang. 
+
+JCSAT-16
+--------
+
+SpaceX launched a Falcon 9 on Aug 14 carrying the JCSAT-16 satellite for
+Sky Perfect JSAT, a Japanese satellite broadcasting company. The second
+stage put JCSAT-16 in geostationary transfer orbit, while the first
+stage completed a ballistic trajectory and landed on the droneship 'Of
+Course I Still Love You' in the Atlantic. After its first orbit
+raising burn, JCSAT-16 is in a 5581 x 35905 km x 10.8 deg orbit.
+The Falcon 9 second stage is in an 82 x 34111 km geotransfer orbit; the
+low perigee will cause it to reenter rapidly, with the apogee
+decreasing by several hundred km per day.
+
+Mozi
+----
+
+The QUESS (Quantum Experiment Scientific Satellite, liangzi kexue shiyan
+weixing) was launched on Aug 15 and named 'Mozi hao' after the Chinese
+philosopher Mo Zi (470-390BC), who is credited with the first mention of
+a camera obscura. The Mozi satellite will perform communications
+experiments using quantum entanglement.
+
+Two small satellites were launched on the same vehicle: Lixing-1 (Drag
+Star 1, also referred to as Qibo Daqi Kexue Shiyan Weixing or Upper
+atmosphere scientific experimental satellite), which will study
+atmospheric density after lowering its orbit to 100 to 150 km; and the
+3Cat-2, a 6U cubesat from the Universita Politecnica de Catalunya in
+Spain. 3Cat-2 carries the PYCARO altimeter which uses GPS signal
+reflection off the Earth to measure altitude.
+
+Mozi and Lixing were both developed by the Shanghai Engineering Center
+for Microsatellites.
+
+Chang'e-3
+----------
+
+On the Moon, the Chang'e-3 lander is reported to be still operating
+after over 2.5 years. The Yutu rover entered its 33rd lunar night on Jul
+28; there were reports that it had failed at that time, but research by
+Emily Lakdawalla of the Planetary Society has shown that this is not
+correct, and Yutu is assumed to be still viable (although not mobile).
+
+Cassini
+-------
+
+Cassini performed the T-121 flyby of Titan at 1000 UTC Jul 25, with a
+closest approach of 976 km, and the T-122 flyby at 0832 UTC Aug 10, with
+a closest approach of 1599 km. The next flyby will occur on Sep 27.
+
+CZ-7
+----
+
+The second stage from the first Chang Zheng 7 launch reentered at 0440 UTC
+on Jul 28. The entry was widely observed in the Western USA on a track
+from southern California to Utah.
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Jun 25 1200   DFFC                ) Chang Zheng 7    Wenchang LC201    Reentry test  42     A08387    288 x   382 x  40.8
+              Aoxiang zhixing     )                                    Tech          42B    S41625    289 x   376 x  40.8
+              Aolong 1            )                                    Tech          42F    S41629    198 x   367 x  40.8
+              Tiange feixingqi 1  )                                    Tech          42L    S41636    277 x   289 x  40.8
+              Tiange feixingqi 2  )                                    Tech          42M    S41637    277 x   287 x  40.8
+              ZGZ shiyan zhuangzhi)                                    Tech          42A    S41624    287 x   381 x  40.8
+Jun 29 0321   Shi Jian 16-02        Chang Zheng 4B   Jiuquan           Sigint?       43A    S41634    596 x   616 x  75.0
+Jul  7 0136   Soyuz MS-01           Soyuz-FG         Baykonur LC1      Spaceship     44A    S41639    181 x   239 x  51.7 Docked ISS
+Jul 16 2141   Progress MS-03        Soyuz-U          Baykonur LC31     Cargo         45A    S41670    182 x   225 x  51.6 Docked ISS
+Jul 18 0445   Dragon CRS-9          Falcon 9         Canaveral SLC40   Cargo         46A    S41672    204 x   355 x  51.6
+Jul 28 1237   USA 269               Atlas V 541      Canaveral SLC41   Comms         47A    S41724  35576 x 35996 x   5.0
+Aug  6 1622   Tiantong-1 01 xing    Chang Zheng 3B   Xichang LC3       Comms         48A    S41725  35751 x 35903 x   5.0
+Aug  9 2255   Gaofen 3              Chang Zheng 4C   Taiyuan           Radar imager  49A    S41727    750 x   751 x  98.4 0600LT SSO
+Aug 14 0526   JCSAT-16              Falcon 9         Canaveral SLC40   Comms         50A    S41729    151 x 36183 x  20.9
+Aug 15 1740   Mozi          )       Chang Zheng 2D   Jiuquan           Science       51A    S41731    488 x   584 x  97.4 0000LT SSO
+              Lixing-1      )                                          Atmosphere    51B?   S41732?   483 x   503 x  97.4 0000LT SSO
+              3Cat-2        )                                          Altimeter     51C?   S41733?   485 x   503 x  97.4 0000LT SSO
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jul  1 0718   RV x 6?          M51               S616, Baie d'Audierne   Test         1000?      North Atlantic
+Jul 16 0405   ROTEX-T          Terrier Imp.Orion   Kiruna                Hypersonic    182       ESRANGE
+Jul 18 2045   RV               Hwasong-6?          Eunyul, N Korea       Test          100?      Sea of Japan
+Jul 18 2050?  RV               Hwasong-6?          Eunyul, N Korea       Test          100?      Sea of Japan
+Jul 18 2140   RV               Hwasong-7?          Eunyul, N Korea       Test          200?      Sea of Japan
+Jul 27 1826   Hi-C             Black Brant 9       White Sands           Solar physics 250?      White Sands
+Aug  2 2253   RV               Hwasong-7?          Eunyul, N Korea       Test          200?      Sea of Japan
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+
+</PRE>
+<HR>
+<A HREF="http://planet4589.org/space/space.html">Jonathan's Space Home Page</A>
+<P>
+<A HREF="http://planet4589.org/jcm/jmcdowell.html">Jonathan's Home Page</A>
+</BODY>
+
+

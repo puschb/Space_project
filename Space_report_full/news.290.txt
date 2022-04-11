@@ -1,0 +1,152 @@
+Jonathan's Space Report
+No. 290                     1996 Jun 16               Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Launch of mission STS-78 is scheduled for Jun 20. A Spacelab Long Module
+is in Columbia's cargo bay together with the EDO (Extended Duration
+Orbiter) pallet with extra consumables to support the long 16-day
+mission. Crew of STS-78 are Col. Terence `Tom' Henricks, Kevin Kregel,
+Capt. Susan Helms, Dr. Charles Brady, M.D., Dr. Richard Linnehan,
+D.Vet.M, Dr. Bob Thirsk, M.D., and Dr. Jean-Jacques Favier, Ph.D. Thirsk
+is from the Canadian Space Agency and Favier is from the French CNES
+space agency. The crew will carry out the Life and Microgravity Science
+Spacelab (LMS) mission.
+
+The Mir EO-21 crew's 5th EVA took place at 1656 UTC on Jun 6 and lasted 3 hr
+34 min. Onufrienko and Usachyov installed experiments to study the space
+environment on the outer surface of the station. EVA-6 took place on Jun
+13, and involved the filming of the second part of a commercial for
+Pepsi-Cola. It lasted 5 hr 42 min.
+
+Errata
+-------
+
+I got the launch time of Galaxy 9 wrong - it should have been 0110 UTC
+on May 24.
+
+I missed two types of rocket from my launch vehicle list last week:
+first, the Conestoga, which uses the Castor 4B as its core. As far as I
+know, the Castor 4 series first flew on an Athena H reentry test vehicle
+in 1971. The second one I missed was the NOTSnik Project Pilot air
+launched vehicle, recently declassified, which was used in 1958 and used
+a small HOTROC solid motor cluster as its first stage. Two of the 1958
+Pilot launches may have reached orbit.
+
+   HOTROC       Pilot         1958 Jul  4    F       1958 Jul 25   S?   
+   Castor 4B    Conestoga     1971 Apr  3            1995 Oct 23   F
+
+The LLV-1 (now LMLV-1) was deliberately omitted since it used the
+Castor 120 core, which is part of the same rocket family as
+the TU-904 used for Taurus, although a different variant.
+
+Recent Launches
+---------------
+
+Ariane flight V87 was successfully launched on Jun 15. A member of the
+original Ariane family, the Ariane 44P model rocket placed its H-10-III
+third stage and the Intelsat 709 comsat in geostationary transfer orbit.
+The success is good news for Arianespace after the failure of the first
+Ariane 5 launch.
+
+Intelsat 709 is an Intelsat VIIA satellite using the Space Systems/Loral
+FS-1300 bus. The satellite has a mass of 1473 kg dry, or 3420 kg
+including all its propellant. It has 26 C-band and 10 Ku-band
+transponders and will be stationed at 18 deg W over the Atlantic to
+provide transatlantic telephone, TV and data relay for the International
+Telecommunications Satellite Organization.
+
+Here are more details of the Ariane 5 flight from ESA:
+1233:59 UTC: Vulcain main engine ignition
+1234:06 UTC: EAP ignition, liftoff
+1234:36 UTC: Altitude 3.5 km
+1234:36 UTC: EAP solid booster nozzles swivel to limit
+             Vulcain main engine swivels to limit
+             Ariane 5 tilts sharply
+1234:38 UTC: EPC structural failure
+1234:38 UTC: Onboard destruct system fired 
+
+ESA says: "The direction of inquiry is tending towards the launcher's
+electrical and software system". The on board computer incorrectly
+decided that the vehicle was off course and commanded a sharp
+turn, which then did in fact send Ariane off course. An automatic
+on board destruct system fired once the vehicle started to disintegrate.
+
+The Clipper Graham (DC-XA) made its second flight at 1615 UTC on Jun 7.
+The 62-second flight was successful. A third flight one day later
+was also successful and proved the rapid turnaround concept.
+
+Gorizont No. 44L, launched on May 25, is now on station at 53 degrees East.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Apr  3 2301   Inmarsat III F1  Atlas IIA      Canaveral LC36A194z Comsat      20A
+Apr  8 2309   Astra 1F         Proton-K/DM3   Baykonur LC81   Comsat      21A
+Apr 20 2236   M-SAT 1          Ariane 42P     Kourou ELA2     Comsat      22A
+Apr 23 1148   Priroda          Proton-K       Baykonur LC81   Spaceship   23A
+Apr 24 1227   MSX              Delta 7920     Vandenberg SLC2W Mil.tech.  24A 
+Apr 24 1303   Kosmos-2332      Kosmos-3M      Plesetsk        Radar cal   25A
+Apr 24 2337   USA-118          Titan 401      Canaveral LC41  Sigint      26A
+Apr 30 0431   BeppoSAX         Atlas I        Canaveral LC36B Astronomy   27A
+May  5 0704   Progress M-31    Soyuz-U        Baykonur LC1    Cargo       28A
+May 12 2132   USA-119          Titan 403?     Vandenberg SLC4E Recon?     29A
+              USA-120?                                                    29B?
+              USA-121?                                                    29C?
+              USA-122                                                     29D
+May 14 0855   Kometa           Soyuz-U        Baykonur LC31   Recon       FTO
+May 16 0156   Palapa C2   )    Ariane 44L     Kourou ELA2     Comsat      30A
+              AMOS        )                                   Comsat      30B
+May 17 0244   MSTI-3           Pegasus        L-1011,Pacific  Technology  31A
+May 19 1030   Endeavour        Shuttle        Kennedy LC39B   Spaceship   32A
+May 20 1129   Spartan 207                                     Technology  32B
+              IAE                                             Technology  32C
+May 22 0918   PAMS STU                                        Technology  32D
+May 24 0110   Galaxy 9         Delta 7925     Canaveral LC17B Comsat      33A
+May 25 0210?  Gorizont         Proton-K/DM2   Baykonur        Comsat      34A
+Jun  4 1234   Cluster F1  )    Ariane 5       Kourou ELA3     Science     FTO
+              Cluster F2  )
+              Cluster F3  )
+              Cluster F4  )
+Jun 15 0655   Intelsat 709     Ariane 44P     Kourou ELA2     Comsat     
+
+
+Payloads no longer in orbit
+--------------------------
+
+May 13        Kosmos-2293          Reentered
+May 22        IAE                  Reentered
+May 29        Endeavour/Spartan    Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-78  Jun 20
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-79  Jul 31
+OV-105 Endeavour       OPF Bay 3     STS-77  
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                    
+ML2/RSRM-54             VAB Bay 1      STS-79
+ML3/RSRM-55/ET-79/OV102 LC39B          STS-78
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,206 @@
+Jonathan's Space Report
+No. 778                                                           2020 May 26  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 63 continues.
+
+The Progress MS-14 cargo ship, vehicle 448 and mission 75P, was launched on Apr 25
+carrying 2500 kg of cargo. It docked with the ISS Zvezda module at 0511:56 UTC after
+a 3h 20 min flight.
+
+On May 7 the Dextre arm removed the HDEV Earth viewing experiment from its attachment
+point on the Columbus module and installed it on the exterior of the Cygnus NG-13 cargo
+ship for disposal.
+
+The S.S. Robert E. Lawrence, the Cygnus NG-13 cargo ship, was unberthed
+from the Unity module at about 1300 UTC May 11 by the Canadarm-2, which
+released it into orbit at 1609 UTC. It then raised its orbit to 475 x 483 km,
+where it remains as of May 24. It is expected to be deorbited on May 29.
+
+A cubesat payload for the comms provider Lynk was ejected from the
+Slingshot deployer on Cygnus on May 13. Another payload  (another Lynk,
+or perhaps WIDAR) remained attached to Cygnus and deployed a
+communications antenna. The payloads were launched aboard Dragon CRS-20
+and installed on the Cygnus hatch by the ISS crew. 
+
+The final H-II Transfer Vehicle, HTV-9 (Kounotori 9) was launched by the
+also-final H-IIB rocket from Tanegashima on May 20. It carries new
+batteries for the S6 truss. HTV 9 was captured by the Canadarm-2 at 1213
+UTC May 25 and berthed at the Harmony nadir port at 1446 UTC.
+The HTV pressurized module carries six HTV Resupply Racks and two racks
+for the ISS: NASA's Express Rack 11B and ESA's European Drawer Rack EDR2.
+Also aboard is the iSIM Earth observation camera to be installed on the Kibo
+Exposed Facility.
+
+
+Iranian launch
+--------------
+
+On Apr 22 Iran opened its military space program with the launch of a Qased rocket from Shahroud by the
+Iranian Revolutionary Guard Corps (Sepah-e Pasdaran-e Enghelab-e Eslami). Previous Iranian civilian launches
+were carried out by the Iranian Space Agency from Semnan using Safir and Simorgh rockets. The Qased
+uses a 1.25m dia Shahab-3-derived first stage (like the Safir) and appears to use a Salman solid motor
+as the second stage and an unknown small solid motor as a third, orbital insertion, stage.
+The Qased placed the Noor-1 satellite in a 426 x 444 km x 59.8 deg orbit. An illustration on the
+rocket fairing suggests that Noor-1 is a 6U cubesat, probably therefore in the 10 to 15 kg mass range.
+
+Starlink
+--------
+
+The seventh group of 60 Starlink satellites was launched on Apr 22 from Kennedy Space Center.
+The Falcon 9 first stage landed on the OCISLY droneship and the second stage was deorbited in the Eastern
+Pacific at the end of the first orbit.
+
+CZ-5B launch
+------------
+
+On May 5 China's CALT carried out the first test launch of the Chang Zheng 5B. This rocket is largely the
+same as the Chang Zheng 5, with small modifications to the 4 strapon boosters and core stage, but
+with the upper stage omitted. The CZ-5B can deliver 22 tonnes to low Earth orbit.
+
+Primary payload of CZ-5B Y1 was a 21.6 tonne spacehip, with a 3.3m dia
+3.0m long conical crew module and a 3.3m dia 5.8m long service module.
+The ship, developed by CAST/Beijing, is referred to in Chinese
+announcements as Xinyidai Zairen Feichuan - Shiyan Chuan  (New
+Generation Crewed Spaceship - Test Ship). I will abbreviate it as XZF-SC
+or just XZF.  XZF raised its orbit to 299 x 719 km x 41 deg on the first
+day in space and by May 7 had reached 523 x 6278 km x 42.9 deg. On May
+7, possibly about 1130 UTC, a final orbit raising burn put the apogee at
+around 8000 km, but no TLEs are available for this phase. At about 0415
+UTC the ship began a deorbit burn of about 120 m/s which was concluded
+at 0421 UTC. This lowered perigee into the atmosphere. The return cabin
+(fanhui cang) separated from the  service module (fuwu cang) at 0533
+UTC. Entry interface was at 0538 UTC with a 9.0 km/s entry speed,
+followed by parachute descent and an airbag-assisted landing near
+Jiuquan Space Centre at 0549 UTC. Total delta-V of the XZF mission was
+around 2.0 km/s, implying a propellant load of over 10.3 tonnes and a
+dry mass of at most 11.3 tonnes. (Most likely there was a propellant
+reserve and the spacecraft dry mass is around 10 tonnes, divided in an
+unknown ratio between the cabin and the service module).
+
+A second payload was referred to as Rouxing Chongqi Shihuowu Fanhui Cang
+- Shiyan Cang,  (Flexible Inflatable Cargo Return Module - Test Module).
+It is a recovery test of a capsule with an inflatable heat shield, and
+was developed by the CASIC organization. The 1.0 x 1.5m experiment was
+ejected from the rear of the XZF service module and inflated a 3-metre
+conical heat shield. The vehicle was deorbited on May 6 for a landing
+east of Jiquan at around 0515 UTC. However the recovery was reported to
+be unsuccessful.
+
+The 21.6 tonne CZ-5B core stage was left in a 157 x 372 km orbit, which
+decayed by May 11 to 124 x 153 km. During its last orbit it flew
+directly over Los Angeles and New York City. The core stage began an
+uncontrolled reentry at 1534 UTC May 11 over 20W 20N, as it flew over
+the Atlantic heading towards Nouakchott, Mauritania. Some of the denser
+debris impacted the ground 2200 km further downtrack, in the Bocanda
+region of Cote d'Ivoire. 10-metre-long metal rods fell from the sky in
+several villages, causing minor damage to houses and equipment but no
+reported casualties. Infrasound measurements confirm the identification
+of the event as related to the reeentry. CZ-5B-Y1 was the 5th most
+massive object ever to make an uncontrolled reentry, after OV-102
+Columbia (2003), Skylab (1979), Skylab S-II rocket (1975), and Salyut-7
+(1991).
+
+Xingyun
+-------
+
+EXPACE carried out a Kuaizhou-1A launch from Jiuquan on May 12. KZ-1A S/N Y6
+placed two Xingyun-2 satellites in 560 km sun-synch orbit after two burns of the fourth
+stage. A further fourth stage burn left the stage in a low-perigee 162 x 958 km orbit.
+
+The Xingyun-2 satellites are 93 kg L-band IoT data relay satellites for
+Sanjiang Hangtian Xingyun Keji YG, a subsidiary of CASIC. The earlier Xingyun-1 satellite
+was a small cubesat precursor mission.
+
+OTV-6/USSF-7
+------------
+
+United Launch Alliance launched Atlas AV-081 on US Space Force mission
+USSF-7 on May 17. The Atlas placed an X-37B spaceplane in orbit, OTV
+flight 6.  The Centaur AV-081 upper stage reached orbit around 1330 UTC.
+OTV-6 separated a few minutes later. It was assigned catalog 45606, code
+name USA 299. The Centaur AV-081 stage made a deorbit burn at about 1340
+UTC and reentered over the Indian Ocean about 1410 UTC. OTV-6 was
+quickly located by observers in a 380 x 399 km x 45.0 deg orbit.
+
+The OTV missions are run by the US Air Force's Rapid Capabilities
+Office, located in Washington DC (and I think also at Wright Patterson
+AFB,at least at one point?), and not by the usual USAF space
+organizations in the Los Angeles area.
+
+This mission carries an additional service module for the first time,
+attached to the aft end of the X-37B. No pictures or drawings of the
+service module have been released. It is unclear whether the service
+module will be left in orbit as debris at the end of the mission, or
+whether it has its own propulsion. A small satellite, the USAF Academy's FalconSat-8,
+will be deployed from the SM. FalconSat-8 is an ESPASat-class satellite with
+a mass of about 140 kg and is 0.61 x 0.71 x 0.97 m in size.
+
+LauncherOne
+-----------
+
+Virgin Orbit made its first orbital launch attempt on May 25. The Boeing
+747 tail number N744VG,  'Cosmic Girl', took off from Mojave Air and
+Space Port at 1856 UTC and flew out over the Pacific southwest of San
+Nicolas Island. At 1950 UTC, near 119.83W 33.14N on a heading 155 deg E
+of N, the aircraft dropped LauncherOne and the rocket's first stage
+ignited - but a few seconds later the engine shut down and the mission
+was lost. It's unclear yet whether the vehicle underwent any kind of
+range safety destruct before crashing into the sea.
+
+This was the first orbital launch attempt by an air-launched liquid-fuelled rocket.
+The mission carried a small inert test payload, possibly the Starshine 4 satellite.
+
+Erratum
+--------
+
+The CZ-3B/Nusantara Dua launch was at 1146 UTC Apr 9, not 1115 UTC as I wrote in last issue's launch table.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Apr  9 0805   Soyuz MS-16                  Soyuz-2-1a         Baykonur LC31  Spaceship 23A  S45476   217 x   389 x 51.8
+Apr  9 1146   Nusantara Dua                Chang Zheng 3B     Xichang          Comms   F03  F01522 -1070?x   200?x 27.5?
+Apr 22 0359   Noor 1                       Qased              Shahroud LC1    Imaging  24A  S45529   426 x   444 x 59.8
+Apr 22 1930   Starlink 1261     )          Falcon 9           Kennedy LC39A   Internet 25A-BK         212 x  364 x 53.0
+              Starlink 1294     )
+              Starlink 1320-1350)
+              Starlink 1352-1358)
+              Starlink 1360-1369)
+              Starlink 1371-1379)
+              Starlink 1390     )
+Apr 25 0151   Progress MS-14               Soyuz-2-1a         Baykonur LC31   Cargo        26A S45595  189 x  227 x 51.7  
+May  5 1000   XZF-SC      )                Chang Zheng 5B     Wenchang LC101  Spaceship    27A S45599  162 x  377 x 41.1
+              RCS-FC-SC   )                                                   Reentry Test 27B S45600  163 x  372 x 41.1
+May 12 0116   Xingyun-2 01 )               Kuaizhou-1A        Jiuquan         Comms        28A S45602  557 x  573 x 97.6
+              Xingyun-2 02 )                                                  Comms        28B S45603  557 x  573 x 97.6
+May 13 2325   Lynk                                       NG-13, LEO           Comms        11D S45604  476 x  486 x 51.6
+May 17 1314   OTV 6                        Atlas V 501        Canaveral SLC41 Spaceplane   29A S45606  389 x  390 x 45.0
+May 20 1731   Kounotori 9                  H-IIB              Tanegashima     Cargo        30A S45607  187 x  301 x 51.7
+May 25 1950   Starshine 4?                 Launcher One       Mojave          Test         F04 F01554 -6362x    9 x 67.0?
+
+Table of Recent Suborbital Launches
+-----------------------------------
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Mar 20 0830   C-HGB             STARS                Kauai LC42          Test          500?      Pacific
+Mar 28 2020?  HE RV             Zulfiqar (YE)        Sadah?              Weapon        150?      Riyadh
+Apr   ?       Hyunmoo RV        Hyunmoo 4            Anhueng             Test          150?      East China Sea
+Apr 15 1500?  Nudol' dummy KV?  Nudol'               Plesetsk            Test          500?      Laptev Sea
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

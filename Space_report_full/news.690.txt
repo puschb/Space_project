@@ -1,0 +1,302 @@
+Jonathan's Space Report
+No. 690                                                   2013 Dec 6, Somerville, MA, USA
+---------------------------------------------------------------------------------------------
+
+Editorial
+---------
+
+The Cubesat Era has truly begun with the launch of 90 payloads
+in the past month, most of them picosatellites with masses under 10 kg.
+Let's hope my data entry skills can keep up!
+
+
+International Space Station
+----------------------------
+
+Expedition 38 continues with commander Oleg Kotov, and flight engineers
+FE-2 Sergey Ryazanskiy, FE-3 Michael Hopkins, FE-4 Mikhail Tyurin, FE-5
+Rick Mastracchio and FE-6 Koichi Wakata. Ferry ship Soyuz TMA-10M is at
+Poisk and TMA-11M is at Rassvet.  Cargo ship Progress M-20M is at the
+Pirs module. 
+
+The last of the cubesats delivered by HTV-4, TechEdSat-3p, was
+deployed from the Kibo module at 0758 UTC on Nov 20.
+
+A new cargo ship, Progress M-21M, was launched on Nov 25. It made a 1.5 km
+flyby of ISS at 2150 UTC on Nov 27 to test the new Kurs-NA rendezvous system,
+and then a re-rendezvous on Nov 29. A glitch forced a switch to manual TORU
+control for the last 60m to docking with the Zvezda module at 2230 UTC.
+
+ORS-3
+-----
+
+Several of the ORS-3 cubesat operators have reported successful contact
+with their satellites, suggesting that the deployments occurred as scheduled.
+However, there is no orbital data for most of them yet.
+
+Yaogan 19
+---------
+
+China launched a Yaogan satellite on Nov 20; it is thought to be an
+imaging satellite similar to Yaogan 8. According to nasaspaceflight.com
+the launch time was 0331 UTC. Orbit is 1201 x 1207 km x 100.5 deg; the
+CZ-4C depletion burn left the final stage in a 991 x 1201 km orbit.
+
+Shiyan 5
+---------
+
+A Chinese launch on Nov 25 put the Shiyan wu hao weixing (Experiment
+Satellite No 5) into a 739 x 754 km x 97.8 deg orbit. The CZ-2D final
+stage may have been deorbited on the first revolution.
+
+
+Dnepr launch
+-------------
+
+A Dnepr rocket launched from an ICBM silo at Yasniy in Russia placed a 
+cluster of 24 satellites in orbit on Nov 21. Although this is fewer than
+the ORS-3 launch the day before, the Unisat-5 satellite carries a
+further eight tiny satellites within it, and one of those (PUCP-Sat)
+carries a further nested satellite, Pocket-PUCP. Most of the
+subsatellites were ejected from Unisat-5 between 0810 and 0825 UTC on
+Nov 21. If all are dispensed successfully, the launch total will be a
+record 33 satellites.
+
+The primary payloads were 
+  Dubaisat-2, a 300 kg imaging satellite
+     for the United Arab Emirates build by Satreci of South Korea.
+  SkySat-1, a 90 kg imaging satellite, the first for the US company Skybox.
+  STSat-3, a 170 kg payload for KAIST of South Korea, carrying the MIRIS
+   infrared astronomy experiment (an 8cm telescope operating at 0.9-2 microns
+   with a 4 degree field of view for spectroscopy of diffuse extended emission)
+   as well as earth imaging and technology payloads.
+  Aprizesat 7 and 8, 14 kg communications satellites for SpaceQuest.
+
+Smaller payloads were
+  WNISAT-1, a 10 kg, 30cm cube for Weather News Inc. and Axelspace, to monitor
+    northern sea routes and atmospheric CO2.
+  Unisat-5, a 19 kg technology satellite for the University of Rome containing
+    deployers for Cubesats and PocketQubes (see below).
+  Lem, a 6 kg satellite using Toronto's GNB bus carrying the BRITE-PL astronomical photometry payload
+    for the Polish Academy of Sciences.
+
+Cubesats deployed from the Dnepr final stage were
+  Dove-3, a 3U imaging satellite from PlanetLabs, San Francisco;
+  GOMX-1, a 6kg 2U cubesat test an ADS-B air traffic
+    control receiver, for GOMSpace, Aalborg, Denmark.
+  OPTOS, a 3U satellite from INTA of Spain;
+  Delfi-n3Xt, a 3U cubesat from Delft U. of Tech.;
+  Triton-1, a 3U test of an AIS receiver from ISIS b.v., Netherlands;
+  KHUSAT-1 and 2 3U cubesats from Kyung Hee U., Seoul, to join the CINEMA constellation;
+  Cubebug-2 'Manolito' (2U) from Argentina,
+  NEE-2 'Krysaor' from Ecuadorian Space Agency,
+  and ZACUBE-1 'Tshepiso' from South Africa's Cape Peninsula U. of Tech (CPUT);
+  VELOX-P2 from Singapore's Nanyang Tech U., UWE-3 from U. Wurzburg,
+  and First-MOVE from Tech. U. Munich;
+  FUNCUBE-1 for AMSAT-UK, and Hincube-1 from Narvik University College.
+
+Cubesats to be deployed from Unisat-5 were
+  ICUBE-1 for Inst. of Space Technology, Islamabad.
+  PUCPSat-1 for Pontifica Universidad Catolica del Peru, Lima.
+  HUMSAT-D for University of Vigo, Spain.
+  Dove-4  (3U), Earth imaging satellite for PlanetLabs.
+ One of these may not yet have been deployed.
+
+The flight saw the launch of the first PocketQubes, ejected
+from Unisat-5.
+The 1P size are 0.15 kg 5 x 5 x 5cm cubes; $50Sat, WREN and Pocket-PUCP. 
+  $50Sat (Eagle-2, 50DollarSat) from Morehead State Univ.
+  WREN from StaDoKo (spinoff company of the Univ. Aachen).
+  Pocket-PUCP was further nested inside PUCPSat-1 and it is not clear if 
+   it has been ejected yet.
+2.5P PocketQubes deployed were 
+   BeakerSat (Eagle-1) from Morehead State Univ.
+   QubeScout-S1 from U.Maryland/Baltimore County
+
+NROL-39/GEMSAT
+---------------
+
+The NRO L-39 mission was launched from Vandenberg on Dec 6. The mission
+appears to have carried the third TOPAZ radar satellite, which entered a
+1075 x 1089 km, 123 degree retrograde orbit around 0732 UTC.  The
+satellite is being tracked by hobbyist observers. The Centaur AV-042
+upper stage then made two orbit lowering burns to a 467 x 883 km x 120.5
+deg orbit. Attached to AV-042 was GEMSAT, the second NPSCuL cubesat
+launcher, which ejected 12 cubesats between around 1022 and 1038 UTC.
+  
+   - FIREBIRD A and B, two 1.5U cubesats from the Montana Space Grant Consortium
+       to study electron microbursts in the magnetosphere.
+   - CUNYSAT, a 1U from the  City University of New York's
+       Medgar Evers College, with a GPS ionospheric receiver.
+   - MCUBED-2, 1 1U from the University of Michigan with technology experiments.
+       including a low resolution imager.
+   - IPEX-CP8, a 1U built by Cal Poly to test systems and algorithms for JPL.
+   - ALICE, a 1U from the Air Force Institute of Technology carrying
+      technology experiments.
+   - SMDC-ONE C and D (Charlie and David), 3U communications satellites for the
+      US Army Space and Missile Defense Command.
+   - Aerocube 5a and 5b, 1.5U technology cubesats for the Aerospace Corporation.
+   - SNAP, a 3U cubesat for the SMDC Nanosatellite Program, with an unknown mission.
+   - Tacsat-6, a 3U cubesat for SMDC with an unknown mission, probably tactical
+      communications or imaging.
+
+
+Chang'e-3
+---------
+
+China's most ambitious lunar mission began on Dec 1 with the launch
+of the Chang'e-3 spacecraft from Xichang into a 210 x 389109 km x 28.5 deg
+lunar transfer orbit. On Dec 6 at 0950 the spacecraft entered a 100 km
+polar orbit around the Moon.
+
+The heavy (3800 kg wet, 1200 kg at landing) spacecraft has a descent
+engine and landing legs, and has a variety of lunar surface science
+experiments. It also carries Yutu, a small 140 kg rover.
+Landing on the lunar surface is scheduled for Dec 14 at 1535 UTC.
+
+Mars Orbiter 
+------------
+
+India's Mars Orbiter Spacecraft made a perigee burn at 1919 UTC Nov 30
+to accelerate to a hyperbolic Earth escape trajectory, and entered
+an 0.98 x 1.45 AU solar orbit on Dec 3 on the way to Mars.
+
+
+Cassini
+-------
+
+Cassini flew 1400 km from Titan on Dec 1 at 0041 UTC. The T-96 flyby
+occurred at perigee 199 and led to a 1.12 x 2.64 million km x 51.3 deg
+orbit around Saturn. The Titan encounter lowered the apoapsis; the
+previous orbit was 1.15 x 3.80 million km x 49.7 deg.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Nov  5 0908   Mars Orbiter Spacecraft   PSLV-XL   Sriharikota       Mars probe  60A
+Nov  7 0414   Soyuz TMA-11M       Soyuz-FG        Baykonur LC1      Spaceship   61A
+Nov 11 2346   Raduga-1M          Proton-M/Briz-M  Baykonur LC81/24  Comms       62A
+Nov 18 1828   MAVEN              Atlas V 401      Canaveral SLC41   Mars probe  63A
+Nov 19 1218   PicoDragon   )                      ISS, LEO          Tech      98-067DA
+              Ardusat-1    )                                        Tech      98-067DB
+              Ardusat-X    )	                                    Tech      98-067DC
+Nov 20 0115   STPSAT-3       )   Minotaur I       Wallops I LA0B    Tech        64A?
+              ORS-3          )                                      Tech        64
+              TJ3Sat         )                                      Tech        64
+              DragonSat      )                                      Tech        64
+              COPPER         )                                      Tech        64
+              ChargerSat 1   )                                      Tech        64
+              SwampSat       )                                      Tech        64
+              Ho'oponopono 2 )                                      Radar cal   64
+              KySat-2        )                                      Tech        64
+              CAPE 2         )                                      Tech        64
+              Trailblazer    )                                      Tech        64
+              Vermont Lunar Cubesat )                               Tech        64
+              PhoneSat-2.4   )                                      Tech        64
+              NPS-SCAT       )                                      Tech        64
+              Black Knight 1 )                                      Tech        64
+              Firefly        )                                      Science     64
+              Horus/STARE-B  )                                      Space Surv. 64
+              SENSE-A        )                                      Ionospheric 64
+              SENSE-B        )                                      Ionospheric 64
+	      ORSES          )                                      Comms       64
+              ORS Tech 1     )                                      Tech        64
+              ORS Tech 2     )                                      Tech        64
+              Prometheus 1A? )               	                    Comms       64
+              Prometheus 1B? )               	                    Comms       64
+              Prometheus 2A? )               	                    Comms       64
+              Prometheus 2B? )               	                    Comms       64
+              Prometheus 3A? )               	                    Comms       64
+              Prometheus 3B? )               	                    Comms       64
+              Prometheus 4A? )               	                    Comms       64
+              Prometheus 4B? )               	                    Comms       64
+Nov 20 0331   Yaogan 19          Chang Zheng 4C   Taiyuan           Imaging     65A
+Nov 20 0758   TechEdSat-3p                        ISS, LEO          Tech      98-067DD
+Nov 21 0710   Dubaisat-2       )                                    Imaging     66D
+              SkySat-1         ) Dnepr            Yasniy            Imaging     66C
+              STSat-3          )                                    Astronomy   66G
+              AprizeSat-7      )                                    Comms       66A
+              AprizeSat-8      )                                    Comms       66K
+              WNISAT-1         )                                    Weather     66H
+              Lem              )                                    Astronomy   66R
+              GOMX-1           )                                    Comms       66Q
+              Dove-3           )                                    Imaging     66P
+              Delfi-3nXt       )                                    Tech        66N
+              Triton 1         )                                    Comms/AIS   66M
+              KHUSAT-1         )                                    Science     66J
+              KHUSAT-2         )                                    Science     66L
+	      OPTOS            )                                    Tech        66E
+              Manolito         )                                    Tech        66AB
+              Krysaor          )                                    Tech        66AA
+              UWE-3            )                                    Tech        66
+              VELOX-P2         )                                    Tech        66
+              First-MOVE       )                                    Tech        66
+              FUNcube-1        )                                    Tech        66
+              HINCube-1        )                                    Tech        66
+              Tshepiso         )                                    Tech        66
+              BPA-3            )                                    Tech        66AJ
+              Unisat-5         )                                    Tech        66F
+                Dove-4         )                                    Imaging     66
+                ICUBE-1        )                                    Tech        66
+                PUCPSat-1      )                                    Tech        66
+                Pocket-PUCP    )                                    Tech        66
+                HUMSAT-D       )                                    Tech        66
+		QBScout-1      )                                    Tech        66
+		BeakerSat-1    )                                    Tech        66
+                $50SAT         )                                    Tech        66
+                WREN           )                                    Tech        66
+Nov 22 1202   SWARM-1   )        Rokot            Plesetsk          Science      67A
+              SWARM-2   )                                           Science      67B
+              SWARM-3   )                                           Science      67C
+Nov 25 0212   Shiyan 5 Weixing   Chang Zheng 2D   Jiuquan           Tech/Sci?    68A
+Nov 25 2053   Progress M-21M     Soyuz-U          Baykonur LC31     Cargo        69A
+Dec  1 1730   Chang'e-3 )        Chang Zheng 3BE  Xichang           Moon probe   70A
+              Yutu      )                                           Rover
+Dec  3 2241   SES-8              Falcon 9 v1.1    Canaveral SLC40   Comms        71A
+Dec  6 0714   TOPAZ 3?    )      Atlas V 501      Vandenberg SLC3E  Radar        72A
+              Aerocube 5a )                                         Tech         72
+              Aerocube 5b )                                         Tech         72
+              SMDC-ONE C  )                                         Comms        72
+              SMDC-ONE D  )                                         Comms        72
+              Tacsat 6    )                                         Tech?        72
+              ALICE       )                                         Tech         72
+              SNAP        )                                         Tech?        72
+              FIREBIRD A  )                                         Sci          72
+              FIREBIRD B  )                                         Sci          72
+              MCubed-2    )                                         Tech/Imaging 72
+              IPEX        )                                         Tech         72
+              CUNYSAT 1   )                                         Sci          72
+           
+
+Suborbital launches
+-------------------
+
+Congrats to Stefan McCandliss on the second flight of his ultraviolet FORTIS telescope,
+launched on Nov 20 (flight 36.296UG) to get spectra of comet ISON. Boston University's
+John Clarke launched his VeSpR payload on Nov 27 to study the Venus exosphere with
+an ultraviolet telescope.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Nov  3 0925   NASA 36.294UH    Black Brant IX      White Sands      X-ray Astron  280?
+Nov 12 1615?  SL-8             SpaceLoft XL        Spaceport America Tech         116 
+Nov 20 1140   NASA 36.296UG    Black Brant IX      White Sands      UV Astron     277
+Nov 27 0350   NASA 36.261UG    Black Brant IX      White Sands      UV Astron     280?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

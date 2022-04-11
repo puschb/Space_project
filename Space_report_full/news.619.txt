@@ -1,0 +1,190 @@
+Jonathan's Space Report
+No. 619                                            2009 Dec 17  Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+After Atlantis returned to Earth, remaining on the Station were
+commander Jeff Williams (NASA) and astronauts Frank De Winne
+(ESA/Belgium), Robert Thirsk (CSA/Canada), Roman Romanenko (FKA/Russia),
+and Maksim Suraev (FKA/Russia). Expedition 22 began at 1500 UTC on Nov
+24; Williams assumed command from De Winne at 1812 UTC. 
+
+On Dec 1 at 0356 UTC Romanenko, De Winne and Thirsk undocked from
+Station aboard Soyuz TMA-15, which had been docked to the Zarya
+nadir port since May 29.  The deorbit engine was fired at 0626 UTC.
+Soyuz TMA-15 landed at 0715:34 UTC.
+
+The MIM-2 Poisk module was launched to the Station using a Progress
+service module or 'priborno-agregatniy otsek' (PAO) as its propulsion
+unit. The combination was called Progress M-MIM2. On Dec 8 at 0016 UTC,
+the Progress M-MIM2 PAO separated from the Poisk, leaving the latter's
+docking port available for use by visiting vehicles. Three orbits later,
+at 0448 UTC, the PAO main engine fired for its deorbit burn and the PAO
+reentered over the Pacific at 0527 UTC. [Although the PAO flew separately
+for three complete orbits, no new entry was added to the satellite
+catalog and it appears  that no decay notice for 36086 (2009-060A) has
+been issued. As orbits were issued for 36086 on Dec 12 and 13, it can be
+assumed that 36086 continues to refer to the Poisk module and that
+the PAO has so far been omitted from the catalog.]
+
+WISE
+----
+
+NASA's Wide Field Infrared Explorer (WISE) astronomy satellite was
+launched from Vandenberg on Dec 14 aboard a two-stage Delta II into a
+524 x 533 km x 97,5 deg orbit. If all goes well, WISE will pop its
+telescope cover off in late December and begin an infrared all-sky
+survey at 3.4, 4.6, 12 and 22 microns. For the time being, astronomers
+are still working with the 1983 IRAS survey, although the results from
+the Japanese Akari satellite which surveyed the sky at 10, 20, 60 and
+170 microns are expected to be public soon. WISE will catalog sources
+100 times fainter than either previous satellite. The spacecraft has a
+40cm telescope cooled to 12K by a cryostat filled with solid hydrogen.
+PI for the mission is Ned Wright of UCLA, whose work I've followed since
+my thesis days at Cambridge studying high-redshift cosmic dust, a
+subject Ned's the expert on. The science team includes galaxy expert
+Pete Eisenhardt, who I only just discovered overlapped with me in
+Cambridge, and brown-dwarf-fan and instrument-builder-extraordinaire Amy
+Mainzer. WISE will be returning key data on all these specialties -
+here's wishing the best of luck to the team!
+
+
+IGS
+---
+
+Japan's latest Information Gathering Satellite, the Optical-3 vehicle,
+was launched on Nov 28 by H-IIA serial number 16. The IGS is an
+imaging spy satellite operated by the Cabinet Satellite Intelligence Center.
+
+Intelsat IS-15
+--------------
+
+IS-15 was launched by Land Launch Zenit-3SLB from Baykonur on Nov 30.
+The satellite is an Orbital Star-2 and will provide services to Russia,
+the Middle East and the Indian Ocean region.
+
+The first two burns of the 3SLB put IS-15 in a 200 x 35907 km x 48.9 deg
+transfer orbit; a final third burn occurred at 0314 UTC.
+By Dec 13 IS-15 was in a 35797 x 35791 km orbit at 63.2E.
+
+Eutelsat W7
+------------
+
+Eutelsat W7 had reached a 10726 x 35609 km x 12.2 deg orbit by Nov 26;
+when next tracked, on Dec 16, the object was in a 35785 x 35787 km x 0.1
+deg geostationary orbit at 50.1E.
+
+Several other Eutelsat satellites were relocated recently. Hot Bird 2,
+launched in 1996 and renamed Eurobird 9 in 2007, was moved from 9E to 48E 
+and renamed again to Eutelsat W48. Hot Bird 3, launched in 1997
+and renamed Eurobird 4 earlier this year, was relocated to 75E
+as part of a deal with Asia Broadcast Satellite and re-renamed W75/ABS-1B.
+There have been a large number of satellite on-orbit resales and renamings,
+and one of these days I may make a comprehensive table of them,
+but it will have to be a much less busy day than any I've had lately.
+
+WGS 3
+-----
+
+The third Wideband Global Satcom was launched on Dec 6 on a Delta 4 into
+supersynchronous transfer orbit of around 439 x 66981 km x 24.0 deg. The
+5990 kg Boeing 702-class satellite is managed by the USAF and operated
+by Space Command/Schriever AFB; it carries US Army-led X-band and
+Ka-band communications payloads. The satellite is also designated
+USA 211.
+
+Yaogan Weixing 7
+----------------
+
+China launched a Yaogan Weixing on Dec 9: 'yaogan weixing qihao',
+Remote-Sensing Satellite Number 7 appears to be similar to YW-2 and
+YW-4, which are thought to have been imaging satellites. Orbit of YW-7
+is 623 x 659 km x 97.8 deg.
+
+Yaogan Weixing 8
+----------------
+
+On Dec 15, another Yaogan launch, this time from the Taiyuan space
+center. YW-8 ('yaogan weixing bahao') is in a 1192 x 1204 km x 100.5 deg
+sun-synchronous orbit, a new  orbital regime for Chinese satellites. It
+is probably a low resolution imaging satellite, either for civilian
+Earth resource studies or military weather forecasting - Western
+analysts have suspected that previous YW satellites had an at least
+partly military mission.
+
+The 50 kg amateur radio satellite Xi Wang 1 was also placed in orbit.
+
+Russian missile tests
+---------------------
+
+Widespread reports of a strange spiral in the sky over Norway on Dec 9
+were due to the Russian Navy's Bulava missile test. It has been
+suggested that the third stage lost guidance and began to spiral during
+its rocket burn. Jim Oberg has suggested that the spiral pattern could
+even have been a deliberate evasive maneuver in a test of technology to
+defeat US missile defense; I can't rule that out, but I feel it's
+unlikely. Russian authorities finally confirmed the failed launch on Dec
+10. The Russian Rocket Forces had more success than the Navy the next
+day, when Topol', the land-based sibling of Bulava, made a successful flight
+from Kapustin Yar to Sary Shagan.
+
+GLONASS
+--------
+
+Three Uragan-M navigation satellites, Nos. 730, 733, 734 were launched on
+Dec 14 to supplement the GLONASS navigation system. As usual, they 
+have been given code names in the Kosmos series, Kosmos-2456 to 2458.
+Launch was on a Proton with the now-rarely-used Blok DM-2 upper stage.
+The satellites are in 19130 x 19140 km x 64.8 deg orbits.
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+Nov  2 0151   SMOS    )         Rokot            Plesetsk        Rem.Sensing 59A
+              PROBA-2 )                                           Tech       59B
+Nov 10 1422   Poisk             Soyuz-U          Baykonur LC1/5  Station mod.60A
+Nov 12 0245   SJ-11-01          Chang Zheng 2C   Jiuquan          Tech       61A
+Nov 16 1928   Atlantis          Space Shuttle    Kennedy LC39A    Spaceship  62A
+Nov 20 1044   Kosmos-2455       Soyuz-U          Plesetsk         Sigint     63A
+Nov 23 0655   Intelsat IS-14    Atlas V 431      Canaveral SLC41  Comms      64A
+Nov 24 1419   Eutelsat W7       Proton-M/Briz-M  Baykonur LC200/39 Comms     65A
+Nov 28 0121   IGS O-3           H-2A             Tanegashima      Imaging    66A
+Nov 30 2100   Intelsat IS-15    Zenit-3SLB       Baykonur LC45/1  Comms      67A
+Dec  6 0147   WGS 3             Delta 4M+(5,4)   Canaveral SLC37B Comms      68A
+Dec  9 0842   Yaogan Weixing 7  Chang Zheng 2D   Jiuquan          Imaging?   69A
+Dec 14 1038   Kosmos-2456 )     Proton-M/DM2     Baykonur LC81    Navigation 70A
+              Kosmos-2457 )                                       Navigation 70B
+              Kosmos-2458 )                                       Navigation 70C
+Dec 14 1409   WISE              Delta 7320       Vandenberg SLC2W Astronomy  71A
+Dec 15 0231   Yaogan Weixing 8) Chang Zheng 4C   Taiyuan          Imaging?   72A
+              Xi Wang 1       )                                   Comms      72B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Nov  1        Sineva RV )     Sineva?         K-117, Barents  Op. Test    1000?
+                 x4?
+Nov  5        ARAV C          Talos Castor    Kauai           Target       300?
+Nov 14 0230?  NASA 36.252UH   Black Brant IX  White Sands     XR Astron    300?
+Nov 22 1115   TEXUS 46        VSB-30          Esrange         Micrograv    252
+Nov 29 0900   TEXUS 47        VSB-30          Esrange         Micrograv    264
+Nov 30 0128   Manu Karere     Atea-1          Gt Mercury I    Test         120?
+Dec  9 0645?  RV              Bulava        TK-208, White Sea Test         500?
+Dec 10 1135   RV              Topol'          Kapustin Yar    Test        1000?
+Dec 16        Sejjil RV       Sejjil 2        Iran            Test         800?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

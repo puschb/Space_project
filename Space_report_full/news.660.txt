@@ -1,0 +1,205 @@
+Jonathan's Space Report
+No. 660                                        2012 Jun 19  Somerville, MA USA
+--------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+Expedition 31 continues with commander Oleg Kononeko, and astronauts
+FE-1 Gennadiy Padalka, FE-2 Sergey Revin, FE-3 Joe Acaba, FE-5 Andre Kuipers and 
+FE-6 Don Pettit.
+
+Space station docking ports:
+
+  Port      Spacecraft
+  ---------------------
+  PMA-2     vacant
+  PMA-3     vacant
+  Zvezda    Edoardo Amaldi  (cargo)
+  Pirs      Progress M-15M  (cargo)
+  Poisk     Soyuz TMA-04M   (ferry)
+  Rassvet   Soyuz TMA-03M   (ferry)
+  Harmony   vacant (was Dragon C2+,cargo)
+
+The mass of Dragon C2+ was probably around 6650 kg at launch.
+(Thanks to Bernd Leitenberger for useful pointers to Dragon masses).
+It's still not clear how much of this is the mass of the trunk versus
+the mass of the reentry capsule; my guess is around 500 to 1000 kg for
+the trunk and solar panels.
+
+Dragon C2+ was unberthed from Harmony at 0807 UTC May 31 by the station
+SSRMS arm, and released at 0949 UTC. The deorbit burn from 1451 UTC to
+1501 UTC reduced the spacecraft's velocity by 100 m/s and lowered the
+orbit to around 62 x 392 km. The trunk separated at 1509 UTC and entry
+began at 1525 UTC. Splashdown at approximately 120N 27W in the Pacific
+occurred at 1542 UTC.
+
+Shenzhou 9
+----------
+
+The Shenzhou 9 mission is a major step for the Chinese space program,
+featuring their first piloted docking. It's roughly comparable to a
+combination of the Gemini 8/Agena and Soyuz-11/Salyut-1 missions (but I
+hope it will end more successfuly than either of those flights).
+Tiangong-1  is smaller than the early Salyuts, and has caused some
+pedantic discussion about the definition of a space station (regular
+readers will appreciate that pedantic is not a derogatory term in my
+book :-)); In the spirit of my friends the Pluto-killers, I will
+count TG-1 as a 'dwarf space station'.
+
+Launch of China's Shenzhou 9 spacecraft took place on Jun 16. The crew
+is commanded by Brig. (daxiao) Jing Haipeng (who flew on SZ-7) and
+includes Brig. Liu Wang and Maj. (shaoxiao) Liu Yang. Major Liu  is the
+first woman to fly in a Chinese space crew, and her launch as the 56th
+woman in space came on the 49th anniversary of the flight of Valentina
+Vladimirovna Tereshkova.
+(Note: the daxiao rank is sometimes translated 'Senior Col.' and is
+roughly equivalent to UK 'Brig.', but no direct US equivalent I think.)
+
+The Shenzhou program is managed by the  Zhongguo zairen hangtian
+gongcheng bangonghsi (China Manned Space Engineering Office)
+which is part of the PLA's Zong Zhuangbei Bu (General Armaments Dept).
+
+At about 1440 UTC on Jun 17 the ship maneuvered from 261 x 315 km to 315
+x 326 km. On June 18 at 0608 UTC the Shenzhou 9 spaceship docked with
+the Tiangong 1 spacelab. At 0910 UTC the three astronauts opened the
+TG-1 hatch and entered the lab for the first time. (The robot Shenzhou 8
+ship had docked with TG-1, but this is the first visit with a crew).
+
+ZX-2A
+-----
+
+On May 26 China launched a CZ-3B rocket from Xichang placing the ZX-2A
+(Zhongxing-2A, Chinastar-2A) spacecraft in a 207 x 35786 km x 27.1 deg
+geostationary transfer orbit. ZX-2A is believed to be a new generation
+strategic military communications satellite for the Zhonggou Renmin Jiefangjun 
+(Chinese People's Liberation Army) and may have the classified name Shentong-2.
+On Jun 15 the spacecraft was in a 35780 x 35793 km x 0.2 deg geostationary
+orbtit over 98E, following an apogee burn sometime around May 30.
+
+YW-15
+-----
+
+On May 29 Yaogan Weixing shiwu hao ('Remote Sensing Satellite No. 15')
+was launched from Taiyuan space center by a three-stage CZ-4C into
+a 1201 x 1206 km x 100.1 deg sun-synchronous orbit with a 2:30pm local time
+descending node. The CZ-4C third stage made a depletion burn to
+lower its orbit to 966 x 1207 km.
+
+
+GRAIL
+-----
+
+The two GRAIL spacecraft, Ebb and Flow, in a 25 x 86 km lunar orbit,
+completed their primary mission on May 29 and their science instruments
+were turned off until Aug 30, when they will begin a several-month
+extended mission in a 23-km altitude orbit.
+
+IS-19
+-----
+
+On Jun 1 Sea Launch flew a Zenit-3SL from the Odyssey launch platform on
+the equator, at 154W 0 N. The rocket's second stage flew to a
+-2174 x 188 km trajectory, followed by the first burn of the DM-SL
+third stage which reached a 180 x 1065 km x 0.0 deg parking orbit
+at 0536 UTC. After a second burn the payload was delivered
+to an 882 x 35804 km x 0.4 deg geostationary transfer orbit. On Jun 15
+the spacecraft was in a 35665 x 35866 km x 0.2 deg orbit over 170.8E.
+
+Payload of the Zenit is Intelsat IS-19, a Loral 1300 type satellite
+with a C and Ku-band communications payload for Intelsat. One
+of the satellite's solar arrays was damaged during ascent, shortly
+after fairing separation, and investigation is still underway.
+
+NuStar
+------
+
+NASA's NuStar satellite was launched on Jun 13. It is the first X-ray
+astronomy satellite with optics able to focus `hard' X-rays (about
+10-100 keV in general, 6-80 keV in this particular case); an extendable
+mast carries two optics modules, each 0.38m in diameter and focussing
+images onto 64 x 64 pixel CdZnTe detector arrays, with 40 arcsecond
+spatial resolution. The spacecraft will be particularly useful
+for studying obscured black holes (ones whose other radiation is absorbed
+by surrounding material) and the distribution of chemical elements in
+supernova remnants.
+
+The L-1011 airplane took off from Kwajalein at 1500 UTC and dropped the
+Pegasus at 1600:37 UTC over 167.70E 6.74N. The vehicle reached orbit at
+1610 UTC, and NuStar separated from the third stage at 1613 UTC in a 627
+x 633 km x 6.0 deg orbit. The equatorial orbit avoids the high particle
+background seen by polar orbit satellites. 
+
+The NuStar optics module boom will be deployed on June 20 if all goes well.
+The 360 kg satellite is a small telescope, but the hard X-ray band
+is relatively little-explored. The major X-ray observatories - Chandra
+and XMM-Newton - work in the 0.5-10 keV `normal' X-ray range, and
+the gamma-ray observatories start paying attention around 100 keV and upwards.
+
+
+
+
+Suborbital launches
+-------------------
+
+On Jun 7 a training launch of a Topol' missile from Kapustin Yar to Sary Shagan
+was widely observed from Armenia, Iran and other countries in the region.
+Several astronomy sounding rockets are at White Sands preparing for launch
+in the coming weeks.
+
+
+2012 Orbital launch summary to date
+-----------------------------------
+
+33 launches: China 10, Russia 9, US 7, Europe 3, India 1, Japan 1,
+Iran 1, N Korea 1 (failed). I am counting Sea Launch as US, taking into
+account that the Blok DM-SL upper stage of the Sep 2011
+AB-7 launch was registered with the United Nations by the United States.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+May  4 1842   AEHF 2             Atlas V 531       Canaveral SLC41   Comms     19A
+May  6 0710   Tianhui 1-02       Chang Zheng 2D    Jiuquan SLS2      Imaging   20A
+May 10 0706   Yaogan Weixing 14) Chang Zheng 4B    Taiyuan           Imaging   21A
+              Tiantuo 1        )                                     Tech/Sci  21B
+May 15 0301   Soyuz TMA-04M      Soyuz-FG          Baykonur LC1/5    Spaceship 22A
+May 15 2213   JCSAT 13   )       Ariane 5ECA       Kourou ELA3       Comms     23A?
+              Vinasat 2  )                                           Comms     23B?
+May 17 1405   Kosmos-2480        Soyuz-U           Plesetsk LC16     Imaging   24A
+May 17 1639   Shizuku    )       H-2A              Tanegashima Y1    Climate   25A
+              Arirang-3  )                                           Imaging   25B
+              SDS-4      )                                           Tech      25C?
+              Horyu-2    )                                           Tech      25D
+May 17 1912   Nimiq 6            Proton-M/Briz-M   Baykonur LC81/24  Comms     26A
+May 22 0744   Dragon C2  )       Falcon 9          Canaveral LC40    Cargo     27A
+              Celestis 11)                                           Burial    27B
+May 26 1556   Zhongxing 2A       Chang Zheng 3B/E  Xichang           Comms     28A
+May 29 0731   Yaogan Weixing 15  Chang Zheng 4C    Taiyuan           Radar?    29A
+Jun  1 0523   Intelsat IS-19     Zenit-3SL         Odyssey, Pacific  Comms     30A
+Jun 13 1600   NuStar             Pegasus XL        L-1011,Kwajalein  Astronomy 31A
+Jun 16 1037   Shenzhou 9         Chang Zheng 2F    Jiuquan           Spaceship 32A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+May 10 0618   FTM-16/2A Target Terrier Orion      Kauai               Target       100?
+May 10 0620?  FTM-16/2A KV     SM-3 Block IB      USS Lake Erie       Intercept    100?
+May 23 0615   RV               Topol'-M2?         Plesetsk            R&D         1000?
+Jun  7 1739   RV               Topol'             Kapustin Yar        Op Test     1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

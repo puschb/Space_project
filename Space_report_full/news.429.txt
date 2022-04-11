@@ -1,0 +1,183 @@
+
+Jonathan's Space Report
+
+No 429                                             2000 Jul 4, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Soyuz TM-30 landed on Jun 16 at 0044 UTC. Zalyotin and Kaleri closed the
+hatch to Mir at 1817 UTC on Jun 15 and undocked at 0124 UT on Jun 16.
+The deorbit burn was at 0352 UTC; a few minutes later the orbital module
+and service module were jettisoned, with the central descent module
+reentering for a landing at 0044 UTC near Arkalyk in Kazakstan. The Mir
+complex remains operational in automated mode.
+
+Current Launches
+----------------
+
+An Ekspress A communications satellite was launched on Jun 24. The
+Krunichev Proton-K launch vehicle flew a standard profile to place the
+Energiya Blok DM-2M upper stage in a low parking orbit at 51.6 deg
+inclination. Two Blok DM burns then delivered Ekspress A No. 3 to
+geostationary orbit; on Jul 3 it was in a drift orbit of 35965 x 36081
+km x 0.2 deg. Ekspress A No. 3 will use the on-orbit name Ekspress 3A.
+
+China launched its second Fengyun-2 weather satellite on  Jun 25 using a
+Chang Zheng 3 three-stage launch vehicle. The CZ-3 third stage and the
+FY-2 satellite were placed in geostationary transfer orbit. The CZ-3
+took off from Xichang at 1150 UTC; the third stage placed it in a
+parking orbit at 1201 UTC and reignited for a second burn to transfer
+orbit with spacecraft separation at 1213 UTC. FY-2 is around 1400 kg and
+is spin-stabilized, similar to the older generation GOES satellites and
+the Himawari and Meteosat satellites. It carries a solid apogee motor
+which is ejected after use; this appears to have fired early on Jun 26. 
+The first FY-2 was retired in April after a three year mission. By July
+3, the new FY-2 was in a 35791 x 35804 km x 1.1 deg orbit drifting over
+the Pacific.
+
+A Nadezhda navigation/search and rescue satellite was launched from
+Plesetsk on Jun 28. It was placed in a 684 x 708 km x 98.1 deg orbit,
+the first ever sun-synchronous launch from the northern Plesetsk launch
+site. Previous Nadezhdas went into 970 x 1000 km x 83 deg orbits.  The
+Kosmos-3M rocket appears to have launched southbound into a suborbital
+trajectory with an apogee of around 700 km.  A second stage 2 engine
+burn around half an hour after launch circularized the orbit.
+
+The Nadezhda satellite, built by AKO Polyot of Omsk, is an 800 kg
+cylinder with a gravity gradient boom for stabilization and derives from
+the Tsiklon navigation-communications satellite of the early 1970s,
+which was the Soviet analog to the US Navy's Transit. The system was
+developed by the NPO PM organization in Krasnoyarsk but later
+transferred to Polyot.
+
+The 11F617 Tsiklon satellite flew from 1967 to 1978. Its successor the
+11F627 Tsiklon-B (or Parus) began flight tests in 1974 and is still in
+service.  An advanced version used also for civilian navigation, the
+11F643 Tsikada,  first flew in 1976. The 11F643N modification of
+Tsikada, referred to as Nadezhda, made 3 flights from 1982 to 1984
+carrying French-developed COSPAS search and rescue packages.These were
+followed by the operational 17F118 Nadezhda satellites, of which six
+have now been launched.
+
+
+After Nadezhda was placed in orbit it ejected two subsatellites,
+Tsinghua and SNAP-1, built by Surrey Satellite (SSTL) of England.
+Tsinghua is owned by Tsinghua University of Beijing and carries imager
+and communications payloads. The 50 kg, 0.69 x 0.36 x 0.36m box-shaped 
+satellite is a standard SSTL microsat bus. Earlier SSTL microsats
+deployed a 6-meter gravity gradient boom for stabilization; although
+Tsinghua and its precursor UoSat-12 also carry such a boom, it isn't
+deployed as these new satellites have momentum wheels for 3-axis
+stabilization.
+
+The SNAP-1 Surrey Nanosatellite Applications Platform is a 6 kg
+satellite with imager and propulsion and will test rendezvous techniques
+by formation flying with Tsinghua.
+
+The first Advanced Tracking and Data Relay Satellite was launched on Jun
+30 by International Launch Services for NASA-Goddard. TDRS H, to be
+named TDRS 8 in orbit, is a Hughes HS-601 class comsat with a dry mass
+of around 1600 kg.  It features an S-band phased array antenna and two
+Ku/Ka band reflectors 4.6 meters in diameter. TDRS H was launched into a
+subsynchronous transfer orbit of  237 x 27666 km x 27.0 deg by Lockheed
+Martin's Atlas Centaur AC-139, a two-stage Atlas IIA variant. AC-139
+took off from Space Launch Complex 36A at 1255 UTC on Jun 30, entered a
+167 x 577 km x 28.3 deg parking orbit at 1305 UTC, and made the Centaur
+second burn to transfer orbit at 1321 UTC. TDRS H carries a
+Primex/Marquardt R4D liquid apogee engine which will be used for orbit
+raising. The previous TDRS satellites were built by TRW and launched from
+the Space Shuttle with the Boeing Inertial Upper Stage (IUS).
+
+  TDRS missions
+  -------------
+
+TDRS 1    Challenger STS-6/IUS-1    Apr 1983
+TDRS B    Challenger STS 51L/IUS-3  Jan 1986 (launch failure)
+TDRS 3    Discovery  STS-26/IUS-7   Sep 1988 
+TDRS 4    Discovery  STS-29/IUS-9   Mar 1989
+TDRS 5    Atlantis   STS-43/IUS-15  Aug 1991
+TDRS 6    Endeavour  STS-54/IUS-13  Jan 1993
+TDRS 7    Discovery  STS-70/IUS-26  Jul 1995
+TDRS 8    Atlas AC-139              Jun 2000
+
+Another in the current busy round of Krunichev Proton launches was
+completed successfully on Jun 30. Its payload was an Energiya Blok DM3
+commercial upper stage and the Sirius CD Radio satellite Sirius 1. This
+satellite is not to be confused with  Nordiska Satellit AB's Sirius 1,
+an HS-376 satellite launched in 1989 as Marcopolo 1 but purchased and
+renamed by NSAB in Dec 1993 (I wish satellite operators would use
+original names, you can bet this will be an endless source of
+confusion!)
+
+The new Sirius 1 is a Digital Audio Radio Satellite, and will be used
+for transmission of S-band radio broadcasts direct to receivers in cars
+in the United States. Sirius 1 is a Loral LS-1300 class satellite; dry
+mass is probably around 1500-1600 kg. The Sirius satellites are launched
+to inclined elliptical orbits, and the Proton used a new launch profile.
+The third stage entered a 170 km parking orbit inclined at 64.8 deg
+(the usual comsat parking orbit has a 51.6 deg inclination but the 64.8
+deg is also used by GLONASS navigation satellites). The first
+DM burn was to an orbit of approximately 170 x 6200 km; the second
+burn, 2 hours after launch, left Sirius 1 in a 6166 x 47110 km x 63.4 deg
+orbit. Quoted final orbit is 24000 x 47000 km, so presumably the satellite
+apogee engine will be used to raise perigee.
+
+Errata
+-------
+
+I am reliably informed that the change of name of STEP 5 to TSX 5  was
+not prompted by any chagrin over the program's record. The IR imager in
+TSX-5's STRV-2 payload was developed by DERA at Farnborough, but the
+rest of STRV-2 was built in the US.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  3 0707   GOES 11           Atlas 2A       Canaveral SLC36A Weather    22A
+May  3 1325   Kosmos-2370       Soyuz-U        Baykonur LC1     Imaging    23A
+May  8 1601   DSP 20            Titan 4B       Canaveral LC40   Early Warn 24A
+May 11 0148   GPS SVN 51        Delta 7925     Canaveral SLC17A Navsat     25A
+May 16 0828   Simsat-1 )        Rokot          Plesetsk LC133   Test       26A
+              Simsat-2 )                                                   26B
+May 19 1011   Atlantis          Space Shuttle  Kennedy  LC39A   Spaceship  27A
+May 24 2310   Eutelsat W4       Atlas 3A       Canaveral SLC36B Comsat     28A
+Jun  6 0259   Gorizont          Proton/Briz-M  Baykonur LC81P   Comsat     29A
+Jun  7 1319   TSX 5             Pegasus XL     Vandenberg RW30/22 Science  30A
+Jun 24 0028   Ekspress A No. 3  Proton/DM-2M   Baykonur LC200?  Comsat     31A
+Jun 25 1150   Fengyun-2         CZ-3           Xichang LC1      Weather    32A  
+Jun 28 1037   Nadezhda  )       Kosmos-3M      Plesetsk LC132   Navsat     33A
+              Tsinghua  )                                       Tech       33B
+              SNAP 1    )                                       Tech       33C
+Jun 30 1255   TDRS 8            Atlas 2A       Canaveral SLC36  Comsat     34A
+Jun 30 2208   Sirius 1          Proton/DM3     Baykonur LC81R   Comsat     35A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Oct     ISS 3A    
+OV-104 Atlantis        OPF Bay 3     STS-106 2000 Sep     ISS 2A.2b 
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A    
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

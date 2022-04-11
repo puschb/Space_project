@@ -1,0 +1,264 @@
+Jonathan's Space Report
+No. 472                                              2002 Feb 16 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The next Shuttle launch is STS-109, the Hubble Servicing Mission 3B.
+Orbiter OV-102 Columbia will fly to rendezvous with HST, grapple it with
+the RMS and berth it on the FSS pallet in Columbia's payload bay. In the
+course of five spacewalks, the crew will install new equipment on HST.
+This is the first flight of Columbia since the launch of Chandra in
+1999; it's been in the garage undergoing refurbishment.
+
+In the first two spacewalks, two new solar arrays will be installed, and
+the two old arrays will be stowed on the RAC carrier. The RWA-1R
+reaction wheel assembly on the MULE carrier will replace the faltering
+RWA-1 in the telescope. The third spacewalk is the most difficult, as
+HST will be entirely powered down while astronauts replace its power
+controller unit, not designed for on-orbit replacement. They'll have to
+cover some key equipment with thermal blankets before the shutdown. The
+fourth spacewalk will see the astronauts remove the European FOC camera,
+aboard HST since launch in 1990, and replace it with the new ACS
+(Advanced Camera for Surveys). They will also install the CASH wire
+harness, part of the aft shroud cooling system. On the final spacewalk,
+the astronauts will install the NCS (NICMOS cooling system) cryocooler
+in the aft shround and the  associated NCS radiator on the telescope's
+exterior. The NICMOS infrared camera has been idle since its original
+thermal control system failed, and it's hoped that NCS will allow it to 
+resume science. On the next servicing mission, an extra cooling system,
+the ASCS, will be connected to ACS and STIS.
+
+
+Jonathan's cargo manifest estimate:
+                                                            Mass/kg
+
+(middeck) 4 EMU spacesuits                                    480?
+Bay 4     RAC (Rigid Array Carrier)                          2393
+Bay 7-8   SAC (Second Axial Carrier)                         2517
+Bay 11    FSS (Fixed Servicing Structure)                    2111
+Bay 12    MULE (Multi Use Light Eqpt Carrier)                1409
+Sill      RMS arm No 201                                      410
+-------------------------------------------------------------------------
+Total                                                        9320?
+
+
+The RAC carries the two folded SA-III rigid solar arrays
+which will replace the SA-II roll-up arrays. It calso carries
+the DBA2 diode box assembly which controls the arrays, and
+a wire harness and containers associated with the NICMOS
+cooling system. The RAC is a Spacelab pallet, and it's possible
+that it is the same pallet that flew as ORUC on the three
+earlier servicing missions (and probably on earlier flights,
+but I don't know the pallet's serial).
+
+The SAC is a specially designed pallet that flew on the first two Hubble
+SM flights, STS-61 and STS-82. On this flight it carries the ACS camera
+up (and the FOS camera down) as well as the NCS cryocooler, the PCU-R
+power controller, the CASH wire harness, and the thermal covers used in
+the PCU replacement.
+
+The FSS first flew on STS 41-C (the Solar Max Repair) and was reused for
+each of the HST SM flights. It carries the BAPS Berthing and Positioning
+System, which is the docking ring for HST. Stowed on the FSS are a
+support post for BAPS and a cover for the HST low gain antenna.
+
+The MULE carries the NCS radiator, the NCS electronics support module,
+and the RWA-1R reaction wheel unit. MULE first flew on STS-48 carrying
+the UARS satellite, and then on STS-95 carrying the HOST payload which
+tested out the NCS.
+
+With the removal of FOC, the COSTAR device (which deployed contact
+lenses for the original instruments) is obsolete, since the newer
+instruments make the corrections to the incorrect HST mirror internally.
+A final servicing mission will replace WFPC-2 and COSTAR with the WFC-3
+and COS instruments.
+
+Let's review the list of HST instruments in each of the five
+instrument bays:
+ Radial instrument: WFPC   (1990-1993)     Optical imaging
+                    WFPC-2 (1993-2004?)    Optical imaging
+                    WFC-3  (2004?)         Optical imaging (planned)
+ Axial +V3/+V2:     FOC    (1990-2002)     UV imaging
+                    ACS    (2002?-)        Optical/UV imaging
+ Axial +V2/-V3      HSP    (1990-1993)     Photometer
+                    COSTAR (1993-2004?)    Corrective optics for 
+                                            FOC, GHRS, FOS
+                    COS    (2004?)         Spectrograph (planned)
+ Axial -V3/-V2      GHRS   (1990-1997)     High res spectrograph
+                    STIS   (1997-)         Spectrograph
+ Axial -V2/+V3      FOS    (1990-1997)     Low res spectrograph
+                    NICMOS (1997-)         IR imaging
+
+Launch of STS-109/HST SM-3B is scheduled for Feb 28. Crew are Scott
+Altman (commander), Duane Carey (pilot), Nancy Currie (flight engineer),
+John Grunsfeld (payload commander and spacewalker), Rick Linnehan, James
+Newman, and Michael Massimino (mission specialists and spacewalkers).
+Grunsfeld, on his fourth flight, is the Ph.D. astronomer on the crew,
+and we his earthbound colleagues will be eagerly looking over his
+shoulder and wishing him well.
+
+The International Space Station lost attitude control on Feb 4 for
+several hours. After Zvezda computers developed communications problems
+and failed to transfer data to the US gyros on the Z1 module, the GNC
+MDM computer on the US side stopped stabilizing the station. The
+computer problems also prevented Z1 from handing over control to the
+backup thruster system on Zvezda.. At 1318 UTC the Station tumbled, in
+danger of losing electrical power, and experiments were shut down as
+systems were put in emergency mode. In fact, the crew were able to
+manually point the US solar arrays, preventing any loss of power. The
+station was restored to operation later in the day, with attitude
+control resuming at 1843 UTC on thrusters and 1920 UTC on gyros.
+Although I don't think this situation endangered the crew, it was still
+potentially quite serious - more so perhaps than the tone of NASA's
+press release would lead one to believe, and indeed an internal status
+report admitted `free drift with GNC MDM nonfunctional can become quite
+problematic'.
+
+The rapid response of ground controllers and crew in fixing things is
+good news and shows that even when the station's systems are massively
+degraded, it can be recovered (albeit one would rather not reach that
+point in the first place). Losing attitude control can be really bad
+news - Japan's Yohkoh observatory  is still cold and almost dead two
+months after a comparable problem, and is unlikely to be revived. Of
+course, spacecraft with  human crews are built with more redundancy
+anyway, and as in this case the astronauts contribute to keeping the
+systems going, so such vehicles are less likely to  be lost, but some
+observers of the Station program had expressed concern that its
+fault-tolerance margins were too slim.
+
+Recent Launches
+---------------
+
+Japan's second H-2A rocket was launched on Feb 4. The MDS-1 was deployed
+successfully but no contact has been made with DASH.
+
+The H-2A rocket is developed by Japan's applications space agency NASDA.
+The first launch used the basic H-2A 202 variant with the 4S fairing.
+The 202 consists of two SRB-A large solid boosters, the cryogenic H-2A
+main stage with the LE-7A engine, and the H-2A second stage with a
+cryogenic LE-5B engine. This second H-2A was the 2024 variant, which
+features an extra set of four smaller Thiokol Castor IVXL solid boosters
+in addition to the two SRB-As. It used the 4/4D-LC fairing which has an
+extra cylindrical adapter containing a second payload. On this test
+flight, the upper satellite position was basically empty, but attached
+to the adapter was the VEP-3 monitoring payload and the DASH reentry
+test satellite. The main payload, MDS-1, was carried in the lower
+position.
+
+Launch was at 0245 UTC from Tanegashima Space Center's Yoshinubu
+complex. The second stage began its first burn at 0251 UTC and at 0257
+UTC entered a 500 km circular parking orbit. After a 12 minute coast the
+second burn put stage 2 in geostationary transfer orbit. At 0315 UTC the
+small DASH vehicle was meant to separate from the upper adapter, but
+this apparently did not occur. At 0325 UTC VEP-3/upper adapter/DASH
+combination separated from the second stage, followed by
+two semi-cylindrical side panels, revealing the previously
+enclosed MDS-1 satellite which was ejected at 0331 UTC. At 0425 UTC the
+second stage was scheduled to make a third burn to test engine restart,
+completing the H-2A-2F mission.
+
+MDS-1 is NASDA's Mission Demonstration Satellite, built by NEC with a
+mass of 449 kg. The satellite is a technology demonstrator to
+flight-qualify commercial subsystems, including a parallel computer, a
+solid state recorder, a nickel-hydrogen battery, and solar cells. It
+carries a space environment experiment to monitor heavy ions and
+magnetic fields. MDS-1 is 3.3m by 1.6m in size after deployment
+of its two solar panels.
+
+The upper adapter is a 1.0m long 4.0m diameter cone, with a mass of
+perhaps 100 kg or so. The VEP-3 launch instrumentation package mounted
+on top has a mass of 33 kg.  The side adapter panels are halves of a
+4.1m long 4.0m diameter cylinder.
+
+DASH (Demonstrator of Atmospheric Reentry System and Hypervelocity) is a
+small secondary payload built by ISAS, the scientific space agency whose
+operations are to be merged with NASDA over the next few years. DASH's
+mission was to test the reentry system for the MUSES-C asteroid probe.
+The main spacecraft is 0.7 x 0.5m in size with a mass of 70 kg including
+the solid deorbit motor and two small orbit adjust thrusters. Attached
+to this is a reentry capsule which is 0.4m in diameter and 0.2m high,
+with a mass of only 16 kg. The plan was  to fire the deorbit motor three
+days after launch, then separate the reentry capsule which would enter
+the Earth's atmosphere at 10 km/s and land in the Hodh el Gharbi region
+of Mauritania at about 8.5W 17.2N. Typical satellite reentries are at
+only 7.5 km/s, while hyperbolic (escape) velocity at the top of the
+atmosphere is over 11 km/s, so DASH would have been travelling much
+faster than typical reentry vehicles, but not quite at escape velocity.
+
+Space Command has cataloged three objects in a 480 x 35740 km x 28.5 deg
+orbit. These three objects are presumably MDS-1, the DASH/VEP-3/adapter
+combination, and the H-2A second stage, but it is not yet clear
+which is which or where the side adapter panels are.
+
+Orbital Sciences successfully launched a Pegasus XL rocket on Feb 5,
+carrying NASA's HESSI solar telescope into orbit. The L-1011 Stargazer
+aircraft took off at 1929 UTC from the Cape Canaveral Skid Strip
+RW30/12, and headed out to the drop area at 28.0N 78.5W over the
+Atlantic. Drop was at 2058 UTC, with ignition 5 seconds later. The three
+stage Pegasus reached orbit at 2107 UTC and separated from HESSI a
+minute later in a 588 x 609 km x 38 deg orbit. On the first pass it was
+confirmed that the solar panels had opened.
+
+HESSI, the sixth Small Explorer, is a Spectrum Astro satellite derived
+from the SA-200S design, with a mass of 304 kg carrying a rotating
+modulation collimator transform telescope. The satellite rotates at 15
+rpm, imaging hard X-ray flares from the Sun by reconstructing the
+Fourier components from the time modulation of the flux through a set of
+9 grids each 9 cm in diameter. It is expected to make images with a
+resolution of 2 arcseconds at 40 keV energies and 36 arcseconds at 1 MeV
+energies. Launch delays mean HESSI has missed some of the best flares at
+solar max, but it should still see quite a few reasonably big ones.
+
+Five Motorola Iridium satellites were launched from Vandenberg on Feb 11
+by a Boeing Delta 7920-10C rocket. The satellites are owned by Iridium
+Satellite LLC, the new company that bought out the bankrupt Iridium LLC,
+and this is the first system replenishment launch since the bankruptcy.
+If anyone knows the individual designations or serial numbers of
+the five new satellites, please let me know and I'll update everyone
+in the next report.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Jan 16 0030   Milstar FLT-5     Titan Centaur  Canaveral SLC40  Comms        01A
+Jan 23 2347   Insat 3C          Ariane 42L     Kourou ELA2      Comms        02A
+Feb  4 0245   MDS-1  )          H-2A           Tanegashima      Tech         03A
+              DASH   )                                          Tech         03
+	      VEP-3  )                                          Tech         03
+Feb  5 2058   HESSI             Pegasus XL     Canaveral        Astronomy    04A
+Feb 11 1743   Iridium   )       Delta 7920     Vandenberg SLC2W Comms        05A
+              Iridium   )                                                    05B
+              Iridium   )                                                    05C
+              Iridium   )                                                    05D
+              Iridium   )                                                    05E
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        LC39A         STS-109 2002 Feb 28  HST SM-3B
+OV-103 Discovery       VAB           Maintenance
+OV-104 Atlantis        OPF Bay 2?    STS-110 2002 Apr  4  ISS 8A
+OV-105 Endeavour       OPF Bay 1?    STS-111 2002 May  2  ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

@@ -1,0 +1,200 @@
+Jonathan's Space Report
+No. 336                                     1997 Sep 30 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Atlantis was launched on Sep 26 at 0234 UTC on mission STS-86 to Mir.
+The TI rendevous terminal initiation burn was carried out at
+1732 UTC on Sep 27, and Atlantis docked with the SO (Docking Module)
+on the Mir complex at 1958 UTC. The crew exchange was completed on
+Sep 28, with David Wolf replacing Michael Foale on the Mir crew.
+The crews are currently:
+ Atlantis STS-86:
+  Commander, Jim Wetherbee, USN, NASA
+  Pilot,     Mike Bloomfield, USAF, NASA
+  Mission Specialists: 
+   (MS1)  Vladimir Titov, Russian Air Force; 
+   (MS2)  Dr. Scott Parazynski, NASA;
+   (MS3)  Gen. Jean-Loup Chretien, CNES/France;
+   (MS4)  Wendy Lawrence, USN, NASA.
+   (MS5)  Dr. Michael Foale, NASA; 
+
+ Mir EO-24:
+  Commander: (KE) Aleksandr Solov'yov, Russian Air Force
+  Flight Engineers: (BI-1) Pavel Vinogradov, RKK Energiya; 
+                    (BI-2) Dr. David Wolf, NASA.
+
+Titov and Parazynski are scheduled to make a spacewalk on Oct 1.
+Launch of the Progress M-36 cargo ship is expected on Oct 5.
+
+Recent Launches
+---------------
+
+A Kosmos-3M (11K65M) rocket built by AO Polyot, Omsk, was launched on
+Sep 23 at 1644 UTC. The two-stage 11K65M is based on Yangel's R-14 IRBM,
+and is used to launch small payloads. The restartable S3 third stage
+placed the Kosmos-2346 payload in a circular 1000 km orbit. The payload
+is a navigation satellite also built by AO Polyot for the Russian Navy.
+The first Soviet navigation satellite was called Tsiklon and was
+launched in 1967; the current satellite is of similar design and is
+probably one of the Parus series.
+
+A small secondary payload was carried on the mission: FAISAT-2V,
+a data messaging satellite built and operated by Final Analysis, Inc.
+of Lanham, Maryland. Vladimir Agapov reports that FAISAT separated
+from the Kosmos-2346 satellite on Sep 23 at 2204 UTC.
+
+An 8K78M Molniya-M rocket built by TsSKB-Progress of Samara, with a
+Blok-ML upper stage probably built by NPO Lavochkin of Khimki, was
+launched on Sep 24 and placed in elliptical orbit a Molniya-1T
+communications satellite for the Russian Defense Ministry. The 
+Molniya-1T satellites are built by NPO Prikladnoi Mekhaniki of the
+former city Krasnoyarsk-26 (I forget its new name). The original
+Molniya-1 satellite bus was developed by the Korolyov bureau and first
+launched in 1964; the elliptical 12 hour orbit allowed it to spend long
+times above the horizon in the Russian far north. The Molniya-1T
+replaced the older Molniya-1 model at some point in the 1970s, but the
+details of which satellites were Molniya-1 and which were Molniya-1T
+have not yet been released by the Russians.
+
+Five more Iridium satellites were launched on Sep 27. The new group
+includes the SV019 satellite which was left out of an earlier launch.
+The two stage Boeing Delta 7920-10C was launched from Space Launch
+Complex 2 at Vandenberg AFB and deployed the satellites
+in a 540 x 564 km x 86.7 deg parking orbit. The second stage then
+restarted to enter a disposal orbit of 488 x 607 km x 86.9 deg.
+
+Boeing is planning some new variants of the Delta II to launch NASA's
+Med-Lite class payloads. The standard Delta 7920 has nine Alliant GEM
+solid strapons, an extra-extended long tank Thor first stage, and a
+Delta/AJ10-118K second stage. The Delta 7925 version adds a Star 48
+(PAM-D) solid motor third stage. The new variants are the Delta 7320 and
+7420, which are like the Delta 7920 but with only 3 or 4 solid strapons,
+and the Delta 7326 and 7426, which add a Star 37FM solid third stage.
+The small Star 37C,D and E motors were used as Delta third stages from
+the late 1960s to early 1980s, when they were phased out in favour of
+the much more powerful Star 48. The Star 37FM is an improved version of
+the older Star 37 models.
+  Stage      Impulse     Mass
+
+  Star 37E   2910 kNs    1123 kg
+  Star 37FM  3053 kNs    1148 kg
+  Star 48    5700 kNs    2140 kg
+
+
+The Indian Space Research Organization (ISRO) launched the IRS-1D remote
+sensing satellite on Sep 29 from Sriharikota range. IRS-1D was placed in
+a 306 x 822 km x 98.6 deg orbit by the 4-stage PSLV (Polar Satellite
+Launch Vehicle). The intended orbit for IRS satellites is around 800 km
+circular, possibly indicating a launch vehicle problem since earlier IRS
+satellites did not have their own orbit-changing propulsion system.
+We'll have to wait and see if it maneuvers to raise perigee. The 1200 kg
+satellite is similar to IRS-1C and carries the 23-m resolution CCD-based
+LISS sensor, a 6-m resolution black and white imager, and a low res wide
+field sensor with an 800 km image width.
+
+The CZ-3B launch of Aug 19, which placed Agila 2 in orbit, was apparently
+not as successful as first thought. The initial transfer orbit was
+170 x 44499 km x 24.63 deg, which is  higher apogee than the standard
+GTO orbit. However, reportedly the intended apogee was several thousand
+km higher still, and extra fuel had to be used to let the satellite
+reach its final orbit.
+
+
+Not So Recent Launches
+----------------------
+
+40 years ago, on 1957 Oct 4, the 8K71PS launch vehicle, a minor
+modification of the experimental 8K71 ICBM, was launched from the NIIP-5
+test range in Kazakstan (then the Kazakh SSR). Despite premature
+shutdown of the Blok A core stage, the core stage and its satellite
+payload, PS-1, reached orbit to become the first artificial earth
+satellites. The PS-1 and the 8K71 (R-7) were developed by Sergei
+Korolyov's design bureau at NII-88/Podlipki, now RKK Energiya.
+ Here at the Smithsonian Astrophysical Observatory we will be
+celebrating the 40th anniversary of the optical satellite tracking
+project which led to improved understanding of geodesy and atmospheric
+density; our former director Fred Whipple will be giving his
+reminiscences. We extend our best wishes to all veterans of the
+Baker-Nunn, Moonwatch, and related programs around the world.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug  1 2020   OrbView 2         Pegasus XL    Vandenberg       Remote sen.37A 
+Aug  5 1536   Soyuz TM-26       Soyuz-U       Baykonur LC1     Spaceship  38A
+Aug  7 1441   Discovery         Shuttle       Kennedy LC39A    Spaceship  39A
+Aug  7 2227   CRISTA-SPAS                     OV-103,LEO       Remote sen.39B
+Aug  8 0646   PAS 6             Ariane 4      Kourou ELA2      Comsat     40A
+Aug 14 2049   Kosmos-2345       Proton-K/DM-2 Baykonur         Early Warn 41A
+Aug 19 1750   Agila 2           CZ-3B         Xichang LC2      Comsat     42A
+Aug 21 0038   Iridium SV022)    Delta 7920    Vandenberg SLC2W Comsat     43E
+              Iridium SV023)                                   Comsat     43D
+              Iridium SV024)                                   Comsat     43C
+              Iridium SV025)                                   Comsat     43B
+              Iridium SV026)                                   Comsat     43A
+Aug 23 0651   Lewis             LMLV-1        Vandenberg SLC6 Remote sen. 44A
+Aug 25 1439   ACE               Delta 7920    Canaveral LC17A Space sci.  45A
+Aug 28 0033   PAS 5             Proton-K/DM3  Baykonur         Comsat     46A
+Aug 29 1502   FORTE             Pegasus XL    Vandenberg      Space sci.  47A
+Sep  1 1400   Iridium MFS   )   CZ-2C         Taiyuan          Inert      48B
+              Iridium MFS   )                                  Inert      48F
+Sep  2 2221   Hot Bird 3  )     Ariane 44LP   Kourou ELA2      Comsat     49A
+              Meteosat 7  )                                    Weather    49B
+Sep  4 1203   GE-3              Atlas IIAS    Canaveral LC36A  Comsat     50A
+Sep 14 0136   Iridium SV027 )   Proton-K/DM2  Baykonur         Comsat     51D
+              Iridium SV028 )                                  Comsat     51E
+              Iridium SV029 )                                  Comsat     51A
+              Iridium SV030 )                                  Comsat     51F
+              Iridium SV031 )                                  Comsat     51G
+              Iridium SV032 )                                  Comsat     51B
+              Iridium SV033 )                                  Comsat     51C
+Sep 23 1644   Kosmos-2346  )    Kosmos-3M     Plesetsk LC132   Navsat     52A
+              FAISAT-2V    )                                   Comsat     52B
+Sep 23 2358   Intelsat 803      Ariane 42L    Kourou ELA2      Comsat     53A
+Sep 24 2132   Molniya-1T        Molniya-M     Plesetsk LC43/4  Comsat     54A
+Sep 26 0234   Atlantis          Shuttle       Kennedy LC39     Spaceship  55A
+Sep 27 0123   Iridium SV019 )   Delta 7920    Vandenberg SLC2W Comsat     56A
+              Iridium SV034 )                                             56E
+              Iridium SV035 )                                             56D
+              Iridium SV036 )                                             56C
+              Iridium SV037 )                                             56B
+Sep 29 0447   IRS-1D            PSLV          Sriharikota      Rem sens.  57A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       OPF Bay 3     STS-91  May 28
+OV-104 Atlantis        Mir           STS-86  Sep 25
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/RSRM63/ET-89      VAB           STS-87                         
+MLP2/
+MLP3/RSRM64?           VAB           STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

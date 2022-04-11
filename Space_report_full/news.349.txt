@@ -1,0 +1,142 @@
+Jonathan's Space Report
+No. 349                                        1998 Feb 10 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Despite problems with his Sokol emergency spacesuit, Andy Thomas
+replaced David Wolf as a Mir crew member on Jan 25. Endeavour undocked
+from Mir on Jan 29 at 1657 UTC and made one flyaround of the
+station before its sep burn. Endeavour landed on Jan 31 at Kennedy
+Space Center's runway 15 at 2235 UTC.
+
+Shortly before Endeavour's undocking, Soyuz TM-27 was launched carrying
+the new Mir crew. Commander is Talgat Musabaev from Kazakstan, and
+flight engineer is Russian Nikolai Budarin. French astronaut Leopold
+Eyharts is Soyuz TM-27 cosmonaut-researcher, and will stay aboard Mir
+until returning with the Soyuz TM-26 crew of Anatoliy Solov'yov and
+Pavel Vinogradov in February. After Soyuz TM-27 reached orbit and
+Endeavour undocked, there were 13 humans in space on three separate
+spacecraft, equalling the previous record.
+
+Progress M-37 undocked from the Kvant module at 1253 UTC on Jan 30.
+Soyuz TM-27 then docked at this port (+X) at 1754 UTC Jan 31.
+After the departure of Soyuz TM-26 from the -X port on Mir, TM-27
+will fly around to the -X port and Progress M-37 may attempt
+to dock again at +X in a further test of the remote control TORU
+system.
+
+The next Shuttle mission is STS-90/Neurolab, using orbiter Columbia.
+
+Recent Launches
+---------------
+
+A classified satellite for the National Reconnaissance Office was put
+into elliptical 63 degree inclination orbit on Jan 29 by a Lockheed
+Martin Atlas IIA Centaur rocket. This rocket, AC-109, was launched way
+out of production sequence and it seems likely  launch of the payload is
+several years late. Rumour has it that the satellite's name is
+CAPRICORN. It may be a follow-on to the SDS communications data relay
+satellites used to pass on spy satellite imaging data, and may also have
+either infrared missile warning or signals intelligence secondary
+payloads aboard. Another theory is that it may be the COBRA BRASS
+payload for infrared early warning satellite technology development,
+which was announced as due to fly this year.
+
+Arianespace's first launch of the year was an Ariane 44LP model, 
+placing two satellites in geostationary transfer orbit. The upper
+payload was Brasilsat B-3, a communications satellite for Brazil's
+EMBRATEL. The satellite is the third Hughes HS-376W, a spin-stabilized
+satellite which is actually much larger than the old standard HS-376 and
+which uses a liquid apogee engine instead of a solid motor. The lower
+satellite was Inmarsat 3 F5, for the International Maritime
+Communications Satellite Organization (based in London). Inmarsat 3 F5
+is an LM Series 4000 satellite with a solid Thiokol Star 30 apogee
+motor, built by Lockheed Martin/East Windsor.
+
+Orbital Sciences Corp.'s second Taurus rocket reached orbit on
+Feb 10, making two successes on two attempts for Taurus. The first
+Taurus flight was a hybrid using a refurbished Peacekeeper stage 1
+as its first stage; this one is believed to be the first `true' 
+Taurus, using a Castor 120 first stage. Castor 120 is Thiokol's civilian
+version of the Peacekeeper stage. This Taurus also uses a new, larger,
+payload fairing for its multiple satellite payload.
+
+The primary payload on Taurus was the Geosat Follow-On (GFO), built by
+Ball Aerospace for the US Navy Space and Naval Systems Warfare Command
+using a modified Techstar bus with a mass of 365 kg. The original Geosat
+was a larger research satellite launched in 1985 on an Atlas, and
+provided sea surface height information (and thus information on the
+shape of the Earth's gravity field) with a radio altimeter. Geosat it
+turn was a successor to NASA's 1978 Seasat mission. GFO is a smaller
+satellite which will be the first to directly provide tactical altimeter
+information, downlinking to USN ships allowing them to avoid strong
+head-on currents; GFO data may also have a role in anti-submarine
+warfare. GFO carries a 13.5 GHz pulse radar altimeter, a radiometer for
+spotting underwater currents and ice packs, GPS receiver for determining
+its orbit, and hydrazine thrusters for fine orbit adjust. GFO's final
+planned orbit is expected to be  800 x 800 km x 108 deg; its initial
+orbit is 777 x 875 km x 108.0 deg.
+
+Two Orbcomm low orbit comsats were also carried on the flight, stacked
+beneath GFO. They join the eight satellites orbited on a  Pegasus in
+December. The final stage of the Taurus carries the second CPAC
+(Celestis Payload Attach Container) with the cremated remains of several
+individuals.
+
+
+Erratum for JSR 347: Tony Stroeve informs me that although the Lockheed
+Martin LM700 bus is derived from the Lockheed Martin/Motorola Iridium
+bus, the Iridium is not considered an LM700.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan  7 0228   Lunar Prospector  Athena-2      SP Florida LC46  Probe      01A
+Jan 10 0032   Skynet 4D         Delta 7925    Canaveral LC17B  Comsat     02A
+Jan 22 1256   'Ofeq-4           Shaviyt       Palmachim        Imaging    F01
+Jan 23 0248   Endeavour         Shuttle       Kennedy LC39A    Spaceship  03A
+Jan 29 1633   Soyuz TM-27       Soyuz-U       Baykonur LC1     Spaceship  04A
+Jan 29 1837   CAPRICORN?        Atlas IIA     Canaveral LC36   Comsat?    05A
+Feb  4 2329   Brasilsat B3   )  Ariane 44LP   Kourou ELA2      Comsat     06A
+              Inmarsat 3 F5  )                                 Comsat     06B
+Feb 10 1320   GFO         )     Taurus        Vandenberg 576E  Altimeter  07A
+              Orbcomm     )                                    Comsat     07B
+              Orbcomm     )                                    Comsat     07C
+              Celestis-02 )                                    Burial     07D?
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-90  Apr  2
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Jul  9?
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                                             
+MLP2/RSRM65              VAB Bay 3     STS-90
+MLP3/                   
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

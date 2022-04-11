@@ -1,0 +1,103 @@
+Jonathan's Space Report 
+
+No. 149		1993 Apr 10
+------------------------------------------------------------------------------
+
+STS-56
+-----------------
+
+The first attempt to launch STS-56 on Apr 6 at 0632 UTC ended in an RSLS
+hold at T-11s, prior to main engine ignition. This turned out to be due
+to software problems. Discovery finally took off at 0529 UTC on Apr 8
+and entered a 290 x 299 km x 57 degree orbit. Payload is the Atlas-2
+Spacelab pallet for Earth resources monitoring and the Spartan 201 solar
+observatory.
+
+Mir
+----
+
+The Progress M-16 cargo craft was undocked and deorbited on Mar 27.
+It was replaced by Progress M-17, launched on Mar 31.
+
+Astronaut Notes
+----------------
+
+Robert Rushworth, who flew in space on a 10 minute suborbital mission
+of the X-15-3 in Jun 1963, died this month at the age of 68.
+
+
+Launches
+--------
+
+Errata: 1993-13A is a Raduga government comsat, not a Gorizont civil
+comsat. 1993-14A has not received an official name.
+
+The Russian launch rate has picked up again following a hiatus. This was
+a particularly long gap between launches; similar but shorter gaps in
+years past have occurred after major launch vehicle failures and during
+repainting of the Plesetsk cosmodrome.
+
+Kosmos-2238, launched Mar 30, is an EORSAT (Electronic Intelligence
+Ocean Reconnaissace Satellite), which tracks naval vessels by their
+radio emissions. It replaced Kosmos-2122 which was deorbited a few
+days earlier. Its R-36 launch vehicle is a converted ICBM which
+was phased out during the original SALT 1 treaty; the R-36 is known
+as the SS-9 in the West.
+
+Date		Name		Launch Vehicle	Site		Mission	   INTL.
+									   DES.
+
+Mar 25 0240?	Raduga 		Proton		Baykonur	Comsat	   13A
+Mar 25 1330?	Start-1?	Start		Plesetsk	Comsat	   14A
+Mar 25 2138	UFO F1		Atlas I		Canaveral LC36	Comsat	   15A
+Mar 26 0225?	Kosmos-2237	Zenit		Baykonur	SIGINT	   16A
+Mar 30 0309	Navstar GPS 31)	Delta		Canaveral LC17	Navsat	   17A
+		SEDS 1	      )
+Mar 30 1200	Kosmos-2238	R-36		Baykonur	SIGINT	   18A
+Mar 31 0334	Progress M-17	Soyuz		Baykonur	Cargo	   19A
+Apr  1 1900?	Kosmos-2239	Kosmos R-14	Plesetsk	Navsat	   20A
+Apr  2 1410?	Kosmos-2240	Soyuz		Plesetsk	Recon?	   21A
+Apr  6 1910?	Kosmos-2241	Molniya		Plesetsk	Early Warn 22A
+Apr  8 0529	Discovery	Shuttle		Kennedy	LC39	Spaceship  23A
+
+Reentries
+---------
+
+Mar 11		Kosmos-1116	Reentered
+Mar 14		NSA B7 		Reentered (1967-43B)
+Mar 16		DUVE		Reentered
+Mar 25		Kosmos-2231	Landed in Kazakhstan?
+Mar 27		Progress M-16	Deorbited
+Mar 28		Kosmos-2122	Deorbited
+Mar 30		SEDS 1		Deorbited by tether
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39A         STS-55
+OV-103 Discovery       LEO           STS-56
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       VAB Bay 1     STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/                   LC39B 
+ML2/STS-57/ET/OV-105   VAB Bay 1
+ML3/STS-55/ET/OV-102   LC39A
+
+
+Thanks to Ed O'Grady for information on recent Russian launches.
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 

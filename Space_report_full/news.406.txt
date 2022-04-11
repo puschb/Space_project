@@ -1,0 +1,174 @@
+
+Jonathan's Space Report
+No. 406                                           1999 Aug 23   Cambridge, MA
+-------------------------------------------------------------------------------
+
+Chandra
+---------------
+
+The IPS-5 burn was carried out on Aug 7. We are now in our final orbit
+and the spacecraft is working well. In fact, a lot of the experts are
+heading back to the left coast and the flight controllers now seem
+pretty bored with the whole thing... thanks TRW for building us a
+nice bird.
+
+Here  are some extracts from the latest press release: "Spontaneous
+cheers and applause erupted from managers and controllers clustered
+around consoles at NASA's Chandra X-ray Observatory Operations Control
+Center in Cambridge, Mass., today  [Aug 12] as data from the observatory
+confirmed that its sunshade door is open. "
+
+"Over the next week or two, the control team will do an initial
+calibration and early focusing of the telescope and take the first
+images with the observatory. NASA plans to unveil the first significant
+image and report on the observatory's early status at a news media
+briefing later this month. "
+
+"Today's activities culminated a busy week for the observatory control
+team during which they replaced pre-launch software aboard Chandra's
+computers with software that will be used during the operational part of
+the mission; opened the aft contamination cover which protected
+Chandra's sensitive mirrors from contamination prior-to and during
+launch; began characterizing the reflectivity of the mirrors (using
+special x-ray sources constructed by Marshall and mounted to the inside
+of the sunshade door); and continued activation and checkout of the
+telescope's two primary science instruments."
+
+NASA has announced that the first light images, including one of
+supernova remnant Cas A, will be released at a press conference on
+Thursday Aug 26. 
+
+Shuttle and Mir
+---------------
+
+The Mir spacewalk on Jul 23 started at 1106 UTC and lasted 6h 7min.
+The spacewalk on Jul 28 started at 0937 UTC and lasted 5h 22min.
+During the second spacewalk, Afanas'ev and Avdeev erected an
+experimental 6-meter antenna. At the end of the experiment the
+antenna was jettisoned.
+
+The next Shuttle mission is being delayed because of electrical
+wiring problems discovered on Columbia, which caused the short
+during the STS-93 launch. It's not clear yet whether the STS-99
+radar mapper or the STS-103 Hubble repair will fly first.
+
+Recent Launches
+---------------
+
+Arianespace is back in the launch business, with Indonesia's Telkom 1
+placed in geostationary transfer orbit on Aug 12. Launches had been
+delayed because of problems with comsat manufacturing. The Ariane 42P
+launch vehicle delivered its LOX/LH2 H-10-3 third stage and the Telkom 1
+payload to a 221 x 35687 km x 7.0 deg GTO 21 min after launch. Telkom 1
+is an A2100 series satellite build by Lockheed Martin/Sunnyvale. The
+owner is PT Telkomunikasi of Indonesia. Telkom 1 is a successor to the
+Palapa  series of satellites, the first of which was launched in 1976.
+Mass of Telkom 1 is 2763 kg launch, 1700 kg in GEO; dry mass not
+available.
+
+Four more Globalstar comsats were launched on Aug 17 by a Boeing
+Delta 2 rocket.
+
+
+The Russian Strategic Rocket Forces launched a Soyuz-U rocket from
+Plesetsk on Aug 18, placing a Yantar'-class spy satellite in orbit for
+the Russian Defense Ministry. The satellite is in a 166 x 342 km x 67.1
+deg orbit, and  is one of the low-perigee, high resolution series that
+followed on from the Kobal't satellites launched since 1981.
+
+Cassini flew past Earth at a distance of 1171 km at 0328 UTC Aug 18.
+Before the swingby, Cassini was in an orbit passing near Venus, with a
+perihelion of 0.7 AU, and stretching out the the middle of the asteroid
+belt at 2.6 AU. Picking up speed from the Earth encounter, the probe's
+perihelion has slightly increased to 0.86 AU but its aphelion is now 7.2
+AU, between Jupiter and Saturn.
+
+US Air Force Space Command launched two Minuteman 3 missiles from
+Vandenberg to Kwajalein on Aug 20. The three stage missiles probably
+reached an apogee of 1500 km or so. Flight GT170-1GM was launched from
+silo LF-10 at 0845 UTC, and flight GT171GM was launched from LF-09 at
+1127 UTC. These were the first Minuteman test flights since February.
+
+
+Space History
+-------------
+
+For the record,  the results on launch pad locations from my trip
+to KSC. These positions have low absolute accuracy (100m) but good relative
+accuracy. I've never been able to distinguish LC1 to LC4 on maps, so I wanted
+to establish more clearly where they were.
+ LC1 80 32.23W 28 27.91N
+ LC2 80 32.21W 28 27.93N
+ LC3 80 32.17W 28 27.95N
+ LC4 80 32.16W 28 27.99N
+ LC5 80 34.42W 28 26.36N
+ LC6 80 34.35W 28 26.42N
+ LC26A 80 34.26W 28 26.67N
+ LC26B 80 34.30W 28 26.62N
+
+I'd still like to get pads LC9/10/31/32 recorded,  also not well located
+on maps. These positions are WGS-84 as realized by cheapo $100 GPS set.
+Pad 3 was the site of the first launch from Cape Canaveral almost 50
+years ago. It was also the site of X-17 launches, used to develop
+Polaris technology. Pad 4 was used for Redstone launches from 1953 to
+1955. Pads 1 and 2 were used for tests of the Snark cruise missile. Pads
+5,6, 26A, 26B were used for launches of Redstone and Jupiter class
+rockets, including the Explorer satellites and the Mercury-Redstone.
+There's been some discussion about which pad is 5 and which is 6, so
+if anyone can confirm that LC5 is the southern one, further from the
+Space Museum, I'd appreciate it.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  5 1332   Raduga            Proton-K/BrizM Baykonur LC81P   Comsat     F02
+Jul  8 0846   Molniya-3         Molniya-M      Plesetsk         Comsat     36A
+Jul 10 0845   Globalstar 32)    Delta 7420-10  Canaveral SLC17B Comsat     37A
+              Globalstar 30)                                    Comsat     37B
+              Globalstar 35)                                    Comsat     37C
+              Globalstar 51)                                    Comsat     37D
+Jul 16 1636   Progress M-42     Soyuz-U        Baykonur LC1     Cargo      38A
+Jul 17 0638   Okean-O           Zenit-2        Baykonur LC45    R/Sensing  39A
+Jul 23 0428   Columbia          Shuttle        Kennedy LC39B    Spaceship  40A
+Jul 23 1147   Chandra           IUS            OV-102, LEO      Astronomy  40B
+Jul 25 0746   Globalstar 26)    Delta 7420     Canaveral SLC17A Comsat     41A
+              Globalstar 28)                                    Comsat     41B
+              Globalstar 43)                                    Comsat     41C
+              Globalstar 48)                                    Comsat     41D
+Aug 12 2252   Telkom 1          Ariane 42P     CSG ELA2         Comsat     42A
+Aug 17 0437   Globalstar 24)    Delta 7420     Canaveral SCL17  Comsat     43A
+              Globalstar 27)
+              Globalstar 53)
+              Globalstar 54)
+Aug 18 1800   Kosmos-2365       Soyuz-U        Plesetsk LC43/4  Recon      44A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     OMDP
+OV-103 Discovery       OPF Bay 1     STS-103 Nov?
+OV-104 Atlantis        VAB Bay 2     STS-101 Dec  2
+OV-105 Endeavour       OPF Bay 2     STS-99  Oct  7?
+
+MLP1/                          
+MLP2/                          
+MLP3/RSRM-71?/ET?              VAB Bay 3   STS-99
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

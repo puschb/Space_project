@@ -1,0 +1,143 @@
+
+Jonathan's Space Report
+No. 366                               1998 Jul 11 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The next Shuttle mission is STS-95, in October; best wishes to
+all of the folks down at KSC, hoping their homes have escaped
+the depredations of the Florida wildfires.
+
+Talgat Musabaev and Nikolai Budarin are continuing work aboard the Mir
+complex. Launch of the replacement crew of Padalka and Avdeev has
+slipped a couple of weeks to mid-August. On Jun 30 Mir was in a 367 x
+377 km x 51.6 deg orbit; the orbit will be slowly lowered over the next
+year prior to Mir's  deliberate reentry.
+
+Recent Launches
+---------------
+
+The Japanese Planet-B probe has been renamed Nozomi ("Hope"). Nozomi is
+a project of the Institute of Space and Astronautical Sciences (ISAS),
+Japan's scientific space agency.  The M-V-3 launch vehicle took off from
+Kagoshima Space Center; the third stage and payload entered a 146 x 417
+km x 31.1 deg parking orbit. The KM-V1 kick (fourth) stage then fired to
+place Nozomi in a 359 x 401491 km x 28.6 deg deep orbit, from which it
+will make lunar and Earth gravity assist passes to increase its energy
+for solar orbit insertion and the cruise to Mars. M-V-3 was the second
+M-V launch (M-V-2, carrying the Lunar A probe, has been delayed).
+Thanks to T. Imachi for information on the kick stage.
+
+On Jul 7 at 0315 UTC Russia carried out the first satellite launch from
+a submarine. The Shtil'-1 launch vehicle is a converted R-29RM (RSM-54)
+three stage liquid propellant submarine launched ballistic missile made
+by the Makeev design bureau; the satellite payload is placed in the
+standard Shtil'  reentry vehicle. The launch plaform was the  K-407
+`Novomoskovsk', a 667BDRM Del'fin class submarine of the Russian
+Northern Fleet's 3rd Flotilla,  from a range in the Barents Sea off the
+coast of the Kol'skiy Peninsula, at approximately 35.3 deg E 69.3 deg N.
+This is the first orbital launch of a rocket from the GRTs KB Makeev and
+the first orbital launch carried out by the VMF (Voenno-Morskiy Flot,
+the Russian Navy).
+
+The Shtil'-1 launched the German 8 kg Tubsat-N `nanosatellite' and its
+companion 3 kg Tubsat-N1. Tubsat-N entered a 400 x 776 km x 78.9 deg
+orbit.  Both Tubsat-N and Tubsat-N1 carry a small store-forward
+communications payload which will be used to keep track of transmitters
+placed on vehicles, migrating animals, and marine buoys.  They are
+owned, operated and built by the Technische Universitat Berlin (TUB).
+TUB's earlier satellites were Tubsat-A, launched on an Ariane in Jul
+1991, and Tubsat-B, launched on an 11K68 Tsiklon-3 from Plesetsk in Jan
+1994.  Thanks to Igor Lissov, Asif Siddiqi, Steve Zaloga and Veit
+Zimmermann  for background info.
+
+The 11K77 Zenit-2 launch vehicle returned to service on Jul 10 with the
+launch of the Resurs-O1 No. 4 satellite from Baykonur. Resurs-O1, built
+by VNII Elektromekhaniki and based on the Meteor weather satellites, is
+a Russian civil remote sensing satellite analogous to the Landsats. The
+satellite may also be designated Resurs-O2 No. 1 according to some
+sources. As well as remote sensing equipment, the satellite carries the
+Belgian LLMS (Little LEO Messaging System) communications payload for
+the IRIS system. The satellite entered an 815 x 818 km x 98.8 deg
+sun-synchronous orbit; the launch appears to have been fully successful.
+This launch was critical in restoring confidence in the Zenit vehicle
+prior to planned launches of Globalstar satellites from Baykonur and the
+first Sea Launch flights using a three-stage Zenit. 
+
+Four subsatellites were launched with Resurs-O1 No. 4.  They are
+Fasat-Bravo, a 50 kg Microbus class test satellite built by Surrey
+Satellite for the Chilean Air Force, Safir 2, a German space agency 60
+kg relay satellite built by OHB System of Bremen, TMSAT, another Uosat
+Microbus-class payload built by Surrey Satellite for the Thai
+Microsatellite Co. of Bangkok and carrying a combined Earth observation
+and data comms. payload, and Gurwin Techsat 1B, built by the
+Technion-Israel Institute of Technology  and replacing an earlier
+Techsat which failed to orbit in 1995.
+
+The Kosmos-2359 recon satellite manuevered to its operational orbit of
+240 x 302 km x 64.9 deg on Jun 27.
+
+The Orihime and Hikoboshi satellites undocked and redocked on Jul 7
+in its FP-1 test of automated docking systems. Despite the claims of
+the NASDA space agency that this is a first, automated Russian craft have
+docked on many occasions since the Kosmos-186/188 docking in 1968.
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  2 2206   Discovery    )    Shuttle       Kennedy LC39A     Spaceship  34A
+              Spacehab     )
+Jun 10 0035   Thor 3            Delta 7925    Canaveral LC17A   Comsat     35A
+Jun 15 2258   Kosmos-2352  )    Tsiklon-3     Plesetsk LC32/1   Comsat     36A
+              Kosmos-2353  )                                    Comsat     36B
+              Kosmos-2354  )                                    Comsat     36C
+              Kosmos-2355  )                                    Comsat     36D
+              Kosmos-2356  )                                    Comsat     36E
+              Kosmos-2357  )                                    Comsat     36F
+Jun 18 2248   Intelsat 805      Atlas 2AS     Canaveral LC36A   Comsat     37A
+Jun 24 1830   Kosmos-2358       Soyuz-U       Plesetsk          Recon      38A
+Jun 25 1400   Kosmos-2359       Soyuz-U       Baykonur LC31     Recon      39A
+Jul  1        Molniya-3         Molniya-M     Plesetsk          Comsat     40A
+Jul  3 1812   Nozomi            M-5           Kagoshima         Mars probe 41A
+Jul  7 0315   Tubsat-N   )      Shtil'-1      K-407,Barents     Comsat     42A
+              Tubsat-N1  )                                      Comsat     42B
+Jul 10 0627?  Resurs-O1 No. 4 ) Zenit-2       Baykonur LC45     Rem. Sens. 43A
+              Fasat-Bravo      )
+              TMSAT            )
+              SAFIR-2          )
+              Gurwin Techsat 1B)
+
+
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Unknown
+OV-103 Discovery       OPF Bay 2     STS-95  Oct 29
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Unknown
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+
+

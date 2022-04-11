@@ -1,0 +1,326 @@
+Jonathan's Space Report 
+No. 749                                                       2018 May 28  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 55 continues with  Anton Shkaplerov in command, Scott Tingle,
+Norishige Kanai, Oleg Artemev, Ricky Arnold and Drew Feustel as flight
+engineers.  Ferry ships Soyuz MS-07 and Soyuz MS-08 are docked to the
+station.
+
+On May 5 Dragon CRS-14 returned to Earth. The Canadarm-2 released it at 1323 UTC;
+the deorbit burn as at 1806 UTC and it splashed down at 30 N 123W around 1900 UTC.
+
+On May 11, three cubesats were ejected from the J-SSOD-8 deployer carried
+up on CRS-14; they were described in the last issue. The Costa Rican cubesat
+Irazu has been renamed Batsu-CS1.
+
+On May 16 astronauts Feustel and Arnold conducted spacewalk US EVA-50
+in spacesuits 3006 and 3003. The Quest airlock was depressurized at 1133 UTC
+and repressurized at 1810 UTC. During the spacewalk the astronauts worked with
+the Pump Flow Control System (PFCS) units for the ammonia cooling system.
+As of Apr 11 there were 12 PFCS units on ISS: the serial numbers here are my own
+invention, but I have confirmed that my PFCS 4 is indeed S/N 0004. I tabulate
+their histories below - I think this is right but I welcome corrections.
+Each of the solar-panel-bearing segments P4, P6, S4, S6 has two PFCS;
+in addition P6 has two extra PFCS slots for the Early Active Thermal
+Control System which operated from 2000 to 2007. One spare unit is
+stored on External Stowage Platform 1 (ESP1).
+
+             Location            Dates                         Nickname
+
+  PFCS 1     P6 EATCS1           2000 Dec  1 to 2013 May 11.   
+             P6 Channel 2B,      2013 May 11 to present
+
+  PFCS 2     P6 EATCS2           2000 Dec  1 to 2018 Apr 11    'Trippy'
+             Dextre EOTP         2018 Apr 11 to 2018 Apr 14
+             Dragon CRS-14 Trunk 2018 Apr 14 to 2018 May  5, destroyed on reentry
+   
+  PFCS 3     P6 Channel 4B       2000 Dec  1 to present
+
+  PFCS 4     P6 Channel 2B       2000 Dec  1 to 2013 May 11    'Leaky' S/N 0004
+             P6 EATCS 1          2013 May 11 to 2018 May 10
+             Dextre EOTP         2018 May 10 to 2018 May 16
+             ESP-1               2018 May 16 to present
+
+  PFCS 5     ESP-1  (spare)      2001 Mar 13  to 2018 May 16   'Frosty'
+             Dextre EOTP         2018 May 16  to 2018 May 17
+             P6 EATCS1           2018 May 17  to present
+
+  PFCS 6     P4 Channel 2A       2006 Sep  9  to present
+  PFCS 7     P4 Channel 4A       2006 Sep  9  to present
+  PFCS 8     S4 Channel 1A       2007 Jun  8  to present
+  PFCS 9     S4 Channel 3A       2007 Jun  8  to present
+  PFCS 10    S6 Channel 1B       2009 Mar 15  to present
+  PFCS 11    S6 Channel 3B       2009 Mar 15  to present
+
+  PFCS 12    Dragon CRS-14 Trunk 2018 Apr  2  to 2018 Apr 11   'Motley'
+             P6 EATCS2           2018 Apr 11  to present
+
+
+PFCS 2 'Trippy' was moved to the  Dragon CRS-14 trunk on Apr 14, and it
+was destroyed on the trunk's reentry on May 5. CRS-14 had delivered PFCS
+12 'Motley' to replace it. PFCS 4 'Leaky' was then robotically extracted
+from the P6 and placed on Dextre's temporary holding location, the EOTP.
+During the spacewalk the astronauts moved PFCS4 to ESP-1, exchanging it
+with PFCS 5 'Frosty' which ended up on the EOTP. PFCS 5 was moved the
+next day to a spare slot in the P6 truss where its functionality could
+be partially tested.
+
+In addition to the PFCS work, the EVA-50 crewmembers replaced a camera group
+on location CP13 and an SGTRC relay box on the Z1 truss.
+
+The Orbital ATK Cygnus OA-9 mission, SS J.R. Thompson, was launched on May 21
+by Antares from Wallops/MARS. It arrived at ISS on May 24, with Canadarm-2
+capture at 0926 UTC and berthing on Unity at 1213 UTC.
+
+TESS
+----
+
+The TESS exoplanet hunter reached its first perigee at 0542 UTC Apr 25
+and made a successful burn to raise apogee to lunar distance. Apogee 2
+was at 1903 UTC Apr 29, at 353440 km. TESS made an 8119 km lunar flyby
+at 0632 UTC May 17, leaving it in a 100000 x 449000 km x 36.4 deg orbit
+around Earth. Meanwhile, the TESS cameras were tested successfully;
+regular observations should begin in June.
+
+Queqiao 
+--------
+
+China's Queqiao deep-space communications relay satellite was launched
+on May 20. It will unfurl a 4.2m dish antenna. After a 100 km lunar
+flyby on about May 25 it will take up station in a 13000-km-wide 'halo
+orbit' around the Earth-Moon L2 point,  64445 km behind the Moon, to
+provide farside radio communications to support the planned Chang'e 4
+farside lander.
+
+Earth-Moon L1 and L2 (EML1, EML2) are on the lunar Hill sphere that
+marks the approximate point where lunar gravity dominates over Earth
+gravity. Don't confuse them with Sun-Earth L1 and L2 (SEL1, SEL2) on the
+1.5-million-km radius Earth-Moon system Hill sphere which marks the
+point  at which the Earth's gravity (with the Moon's help) dominates
+over the Sun. (I'm using 'dominate' here in a very loose way, to mean
+`this is the point at which it's a better approximation to  pretend
+you're in orbit around object A rather than object B'). SEL1 and SEL2
+have been used a lot since ISEE-3 went to SEL1 in 1978. EML1 and EML2
+are much less well known. They were explored by Japan's Hiten probe in
+1990; the ARTEMIS P1/P2 spacecraft and the Chang'e-5FTD vehicle also
+visited them, but this will be the first time a probe has used either
+EML location as its primary mission destination.
+
+Queqiao made a 100 km lunar flyby at 1340 UTC May 25 and made  a braking
+burn close to perilune to put it on course to reach EML2. The CZ-4C
+third stage made a 9900 km lunar flyby at 1403 UTC May 25, and ended up
+in a 16910 x 444000 km x 14.5 deg Earth orbit.
+
+The CZ-4C also deployed two 45 kg DSLWP (Discovering the Sky at Longest
+Wavelengths Pathfinder) small astronomy satellites, Longjiang-1 and 2
+(DSLWP-A and B). The two satellites also made lunar encounters on May
+25. Longjiang-2 is confirmed to have successfully entered
+lunar orbit; initial orbit parameters were around 350 x 13800 km x 21 deg. 
+Contact was lost with Longjiang-1 on May 21; if it failed to make the
+insertion burn it will probably end up in an orbit similar to the third stage.
+
+
+Mars Insight
+------------
+
+The NASA/JPL Mars Insight probe was launched from Space Launch Complex
+3-East at Vandenberg Air Force Base on May 5. Centaur AV-078 entered a
+185 x 185 km x 64.0 deg parking orbit. After almost one orbit it made a
+second burn to a hyperbolic orbit of 115 x -110126 km x  63.54 deg which
+will lead to a 1.0 x 1.4 AU x 2.3 deg orbit around the Sun and arrival
+in Mars' gravitational sphre on Nov 22. Insight will land on Mars on Nov
+26.
+
+Two 6U cubesats were deployed from the Centaur Aft Bulkhead Carrier.
+Mars Cube One (MarCO) A and B have freon-based propulsion systems and
+will fly independently to Mars on a closely similar trajectory, making a
+flyby to test their ability to relay data from the lander during
+descent.
+
+
+Sentinel-3B
+-----------
+
+ESA's Sentinel 3B Earth observing satellite was launched from Plesetsk on Apr 25
+aboard Eurockot's Rokot/Briz-KM vehicle. Sentinel-3B is in the same orbit plane
+as Sentinel-3A, launched in 2016, and following 10 minutes behind it.
+
+CZ-11
+----
+
+China launched the fourth CZ-11 rocket on Apr 26, carrying Zhuhai Orbita's Zhuhai-1 Group 2
+satellites. These include the 90 kg OVS-2 video satellite and the OHS-01/02/03/04 hyperspectral
+camera satellites.
+
+CBAS/EAGLE
+----------
+
+On Apr 14 ULA launched Atlas AV-079 with a US military payload. The
+Centaur stage made three burns to deliver the CBAS and EAGLE satellites to orbit.
+
+The ULA press kit implied a 38992 x 38992 km x 0 deg orbit thousands of km above the
+geosynchronous belt, but this appears to have been a typo or misinformation, since
+hobbyists soon located the payloads in a near-synchronous 35233 x 35275 km x 0.1 deg
+orbit. By May 11, CBAS was braking to geostationary at 112W.
+
+The CBAS (Continuous Broadcast Augmenting SATCOM) satellite is operated
+by USAF SMC's Military Satellite Communications Directorate. Its
+manufacturer is unknown, and its role is obscure.
+
+EAGLE is a satellite built from the ESPA mutiple satellite adapter 
+first flown in 2007. ESPA is a ring that sits between CBAS and the
+Centaur, with attachment points for small satellites and experiments
+spaced around it. (The LCROSS Shepherding Spacecraft in 2009 was
+similarly built from an ESPA ring attached to its Centaur). EAGLE stands
+for ESPA Augmented Geostationary Laboratory Experiment; ESPA stands for
+EELV Secondary Payload Adapter; and EELV stands for Evolved Expendable
+Launch Vehicle. The EAGLE bus is known as ESPAStar and the satellite was
+built by Orbital ATK. EAGLE is operated by the Air Force Research Lab.
+
+It appears the EAGLE ESPA-ring-based satellite launched on Apr 14
+deployed two secret 100-kg-class  box shaped payloads on about Apr 26
+and a third possibly on May 11. These use the ESPASat bus, designed to
+fit in the ESPAStar azimuthal slots. One of these is Mycroft, an
+experiment which will carry out formation flying between 1 and 35 km
+from EAGLE to test space surveillance and proximity operations
+technology. The second and third payloads are a mystery at the moment.
+
+There is also one debris object released at the time of launch, possibly
+some kind of payload adapter between EAGLE and CBAS.
+
+Apstar 6C
+---------
+
+Asia Pacific Telecom's Apstar 6C (Yatai 6C) communications satellite
+was launched on May 3 to geotransfer orbit. Apstar 6C is a CAST/Beijing DFH-4
+with 26 C-band and 19 Ku/Ka-band transponders. By May 14 it was on station
+at 136.5E.
+
+Gao Fen 5
+----------
+
+China's Gao Fen 5 high resolution imaging satellite was launched on May
+8. Instruments on board are the Advanced Hyperspectral Imager, Visual
+and IR Multispectral Sensor, Greenhouse Gas Monitoring Instrument,
+Atmospheric Infrared Ultraspectral sensor, Environment Monitoring
+Instrument, and the Directional Polarization Camera.
+
+Bangabandhu
+------------
+
+The first major Bangladeshi-owned satellite, Bangabandhu 1, was launched
+on May 11 by the first Block 5 Falcon 9. It reached geostationary
+orbit at 119E on May 23. The satellite is a Spacebus 4000, from
+Thales Alenia's Cannes satellite factory.
+
+The Falcon 9 Block 5 has improvements for reusability and reliability,
+but is generally similar to the earlier Falcon 9.
+
+
+Kosmos-2521
+-----------
+
+As noted by Phillip Clark on nasaspaceflight.com, the Kosmos-2521 inspector
+satellite made a major orbit change on Apr 30, lowering its orbit from
+644 x 660 km to only 350 x 369 km. Since then it has been undergoing
+natural orbit decay.
+
+Iridium/GRACE-FO
+----------------
+
+SpaceX carried out the 6th Iridium-Next launch from Vandenberg on May
+22. 5 more Iridium satellites were deployed, this time to elliptical 500
+x 700 km parking orbits. First, the Falcon 9 second stage dropped off
+two scientific payloads in a 500 km circular orbit. 
+
+The GRACE-FO (Gravity Recovery and Climate Experiment, Follow-on)
+satellites replace GRACE 1 and 2 which were launched in 2002 and
+reentered a few months ago, and will detect subtle changes in the local
+gravitational field due to shifts in the oceans. The GRACE mission is
+led by JPL and Germany's Geoforschungszentrum Potzdam (GFZ).
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+Apr  2 2030   Dragon CRS-14           Falcon 9          Canaveral SLC40  Spaceship    32A   S43267   204 x   357 x 51.6
+Apr  5 2134   Superbird-8/DSN-1 )     Ariane 5ECA       Kourou ELA3      Comms        33A   S43271 35781 x 35793 x  0.1
+              Hylas 4           )                                        Comms        33B   S43272 35781 x 35788 x  0.0
+Apr 10 0425   Yaogan 31-01 01   )     Chang Zheng 4C    Jiuquan          Sigint       34A   S43275  1090 x  1100 x 63.4
+              Yaogan 31-01 02   )                                        Sigint       34B   S43276  1090 x  1100 x 63.4
+              Yaogan 31-01 03   )                                        Sigint       34C   S43277  1090 x  1100 x 63.4
+              Weina Jishu Shiyan)                                        Tech         34E   S43279  1090 x  1100 x 63.4
+Apr 11 1834   IRNSS-1I                PSLV-XL           Sriharikota      Navigation   35A   S43286 35464 x 35740 x 28.5
+Apr 14 2313   CBAS    )               Atlas V 551       Canaveral SLC41  Comms        36A   S43339 35759 x 35776 x  0.0
+              EAGLE   )                                                  Tracking     36B   S43340 35588 x 35608 x  0.1
+Apr 18 2212   Kosmos-2526 (Blagovest) Proton-M/Briz-M   Baykonur         Comms        37A   S43432 35780?x 35800?x  0.0?
+Apr 18 2251   TESS                    Falcon 9          Canaveral SLC40  Astronomy    38A   S43435   249 x268294 x 29.6
+Apr 25 1757   Sentinel-3B             Rokot             Plesetsk LC133   Imaging      39A   S43437   803 x   821 x 98.6
+Apr 26 0442   OVS-2              )    Chang Zheng 11    Jiuquan          Imaging      40A   S43439   496 x   511 x 97.4
+              OHS-01 (Qingkeda-1))                                       Imaging      40B   S43440   496 x   511 x 97.4
+              OHS-02             )                                       Imaging      40C   S43441   496 x   511 x 97.4
+              OHS-03 (Guiyang-1) )                                       Imaging      40D   S43442   493 x   512 x 97.4
+              OHS-04             )                                       Imaging      40E   S43443   492 x   511 x 97.4
+Apr 26?       Mycroft )                                EAGLE, high orbit Tech         36E   S43445 35290?x  35290?x 0.1
+              USA 286 )                                                  Tech         36F   S43446 35290?x  35290?x 0.1
+May  3 1606   Apstar 6C               Chang Zheng 3B    Xichang          Comms        41A   S43450   239 x 41827 x 27.2
+May  5 1105   Mars Insight)           Atlas V 401       Vandenberg SLC3E Mars probe   42A   S43457   115 x-110126x 63.4
+              MarCO-A     )                                              Mars probe   42B   S43458   115 x-110126x 63.4
+              MarCO-B     )                                              Mars probe   42C   S43459   115 x-110126x 63.4
+May  8 1828   GaoFen 5                Chang Zheng 4C    Taiyuan          Imaging      43A   S43461   682 x   688 x 98.1
+May 11 1030   1KUNS-PF  )                              ISS, LEO          Tech       98-67NQ S43467   400 x   402 x 51.6
+              Batsu-CS1 )                                                Tech       98-67NR S43468   400 x   402 x 51.6
+May 11 1040   UBAKUSAT                                 ISS, LEO          Tech       98-67NP S43466   400 x   402 x 51.6
+May 11 2014   Bangabandhu 1           Falcon 9 FT5      Kennedy SLC39A   Comms        44A   S43463   296 x 35515 x 19.3
+May 12?       USA 287                                  EAGLE, high orbit Tech         36G   S43465 35290?x 35290?x  0.1
+May 20 2128   Queqiao    )            Chang Zheng 4C    Xichang          Comms        45A   S43470   159 x376347 x 29.0
+              Longjiang 1)                                               Radio Astron 45B   S43471   184 x400603 x 28.5
+              Longjiang 2)                                               Radio Astron 45C   S43472   184 x400603 x 28.5
+May 21 0844   SS J.R Thompson         Antares 230       MARS LA0B        Cargo        46A   S43474   228 x   319 x 51.6
+May 22 1948   GRACE-FO 1  )           Falcon 9          Vandenberg SLC4E Science      47A   S43478   485 x   504 x 89.0
+              GRACE-FO 2  )                                              Science      47B   S43479   485 x   504 x 89.0
+              Iridium 110 )                                              Comms        47F   S43483   488 x   718 x 86.7
+              Iridium 147 )                                              Comms        47E   S43482   489 x   714 x 86.7
+              Iridium 152 )                                              Comms        47D   S43481   493 x   710 x 86.7
+              Iridium 161 )                                              Comms        47C   S43480   489 x   714 x 86.7
+              Iridium 162 )                                              Comms        47G   S43484   491 x   715 x 86.7
+
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Apr  4 1040   WRX-R             Black Brant 9      Roi-Namur, Kwajalein  XR Astron     204       Kwajalein
+Apr  4 1800   Hyperbola-1S      Shian Quxian 1S    Haikou, Hainan        Test          108       S China Sea
+Apr 11        Burkan RV         Burkan 2H          Yemen                 Weapon        100?      Riyadh Airport
+Apr 16 1647   CHESS 4           Black Brant 9      Roi-Namur, Kwajalein  UV Astron     200?      Kwajalein
+Apr 25 1226   Mk 12 or 21 RV?   Minuteman 3        Vandenberg LF10       Test         1300?      Kwajalein?
+Apr 27 1203   RV                ?                  Taiyuan?              Test         1000?      Korla?
+Apr 29 1706   CC 2.0-1          New Shepard        West Texas            Test          106       West Texas
+May  8        Burkan RV         Burkan 2H          Yemen                 Weapon        100?      Riyadh 
+May  8        Burkan RV         Burkan 2H          Yemen                 Weapon        100?      Riyadh 
+May 13 0830   TEXUS 54          VSB-30             Esrange               Microgravity  261       Esrange B zone
+May 14 0823   Mk 12 or 21 RV?   Minuteman 3        Vandenberg LF04       Test         1300?      Kwajalein?
+May 22        RV x ?            Bulava             K-535, White Sea      Test         1000?      Kura
+May 22        RV x ?            Bulava             K-535, White Sea      Test         1000?      Kura
+May 22        RV x ?            Bulava             K-535, White Sea      Test         1000?      Kura
+May 22        RV x ?            Bulava             K-535, White Sea      Test         1000?      Kura
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+
+

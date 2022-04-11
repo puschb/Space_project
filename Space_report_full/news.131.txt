@@ -1,0 +1,77 @@
+
+Jonathan's Space Report 
+
+No. 131		1992 Oct 22
+------------------------------------------------------------------------------
+
+Columbia was launched at 1709:40 UTC on Oct 22 from Launch Complex 39B
+on mission STS-52 and reached orbit a little over 8 minutes later.  The
+count was held at T-9 minutes for 2 hours because of weather constraints.
+This is the 13th mission for orbiter 102. Atlantis arrived at the Rockwell
+plant in Palmdale, California on Oct 18 for modifications. It will not
+fly again until 1994. Final mission for this year will be Discovery's
+STS-53 military mission, which will deploy a large classified satellite
+in low orbit.
+
+Aviation Week provided more details of the Kopernikus 3 satellite launch
+profile, which uses three burns of the Delta second stage. This new
+Delta launch profile is more complex than for any other geostationary
+launch vehicle; for instance, the Ariane third stage burns only once,
+and the Atlas Centaur makes two Centaur burns. In the new Delta profile,
+the Delta enters a standard low orbit on its first burn. Two further
+burns then raise the apogee and perigee respectively to over 1000 km;
+only at this point does the third stage/spacecraft combination separate.
+The third stage then fires to place the spacecraft in a geostationary
+transfer orbit; this orbit has a high perigee but is otherwise normal.
+The payload apogee engine can then be burned to achieve geostationary
+orbit. This profile was used for the first time in August for the Satcom
+C4 launch, and Kopernikus 3 was its second use. By Oct 16 the three main
+apogee engine burns were complete and Kopernikus 3 was approaching its
+target longitude of 33 degrees East. Erratum: DFS 3 Kopernikus was built
+by Deutsche Aerospace, not Aerospatiale as I said in the last report.
+The companies collaborated on the Spacebus 100 design.
+
+A Molniya communications satellite was launched into 12 hour elliptical orbit
+from Plesetsk on Oct 14. The Molniya launch vehicle consists of a Soyuz
+with an extra fourth stage, the Blok-L; the fourth stage and payload are placed
+in low orbit, and then the fourth stage ignites to place the payload in
+elliptical orbit.
+
+The spacecraft launched on Oct 8 from Plesetsk is confirmed as a Foton 
+materials processing flight.
+
+Six small Gonets-class comsats built by NPO Prikladnoi Mekhaniki of
+Krasnoyarsk were launched by a three stage Tsiklon rocket (built
+by the Ukranian company NPO Yuzhnoye) into 1400 km circular orbits
+on Oct 20. This satellite system was previously used by the Soviet
+military, but NPO-PM are now trying to sell the satellites commercially.
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LEO           STS-52
+OV-103 Discovery       OPF Bay 3     STS-53
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-54
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-53/ET          VAB Bay 3
+ML2/STS-54	       VAB Bay 1
+ML3/		       LC39B
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+

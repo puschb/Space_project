@@ -1,0 +1,177 @@
+Jonathan's Space Report
+No. 670                                            2012 Nov 18  Somerville, MA USA
+----------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 33 continues with commander Suni Williams, FE-4 Yuriy
+Malenchenko and FE-6 Aki Hoshide joined on Oct 25 by Oleg Novitskiy,
+Yevgeniy Tarelkin and Kevin Ford. Soyuz TMA-06M (factory no. 707, ISS
+flight 32S), launched on Oct 23, docked with the Poisk module at 1229
+UTC on Oct 25. 
+
+Dragon CRS-1 returned to Earth on Oct 28. The SSRMS unberthed it from
+the Harmony module at 1119 UTC and released it at 1329 UTC. At 1422 UTC
+Dragon made a burn to lower its orbit and at 1828 UTC made a larger, 10
+minute 40 second long deorbit burn. SpaceX have not reported the size
+(delta-V) or orbital parameters of either of these burns. The Dragon
+trunk was jettisoned at 1841 UTC and the capsule reached entry interface
+at 1902 UTC, with splashdown in the Pacific at around 123W 28N at 1922
+UTC.
+
+The Progress M-17M cargo ship was launched on Oct 31 and docked with
+the Zvezda module after a 5 hour 52 min flight.
+
+On Nov 1 astronauts Williams and Hoshide began spacewalk US EVA-20 with
+depressurization at 1223 UTC and hatch open at 1228 UTC. They rerouted
+the ammonia cooling system on the P6 truss to allow controllers to
+investigate a leak in the system. One of the P6 radiators that was
+stowed before P6 relocation back in 2007 was redeployed to replace the
+isolated radiator. The airlock hatch was closed at 1903 UTC and the
+airlock was repressurized at 1907 UTC.
+
+Williams, Malenchenko and Hoshide are scheduled to land in Soyuz TMA-05M
+on Nov 19, marking the transition from Expedition 33 to Expedition 34.
+
+
+Beidou
+-------
+
+A new Beidou navigation satellite, Beidou Daohang Weixing 16, was launched on Oct 25 into
+geostationary transfer orbit. US tracking data showed it in transfer orbit on Oct 26
+and in GEO at 80.4E on Nov 1 and later. The transfer orbit had an unusually low
+perigee of around 150-160 km.
+
+Luch/Yamal
+----------
+
+Russia's Proton orbited a pair of communications satellites on Nov 2,
+both built by ISS Reshetnev. Luch-5B uses an Ekspress-1000A bus and is 
+the second of a pair of data relay satellites and will provide
+communications support to the Station. Yamal-300K is an Ekspress-1000HTA
+with C and Ku band payload for Gazprom Space Systems, part of the
+massive Russian Gazprom energy company.
+
+The Briz-M upper stage reached a 388 x 35735 km x 48.7 deg transfer
+orbit and ejected the DTB drop tank, which is being tracked. Khrunichev
+reported that the stage then made a circularization burn and relesed the
+satellites in near-synchronous orbit.
+
+On Nov 17, over two weeks later, the US appears only to be tracking the drop tank and not
+the payloads.
+
+Ariane VA210
+------------
+
+Ariane flight VA210 placed two communications satellites in orbit. The
+vehicle 566 core stage reached a -956 x 179 km x 7.0 deg path; the ESC-A
+upper stage raised velocity and lowered inclination to reach a 250 x
+35750 km x 2.0 deg transfer orbit, deploying the EUTELSAT 21B satellite,
+a Thales Alenia Spacebus 4000C3 for Eutelsat SA of Paris and Star One
+C3, an Orbital Geostar-2.4E for Star One of Rio de Janeiro.
+
+The Star One satellites continue the old Brasilsat system, with
+Brasilsat B1-B4 renamed Star One B1-B4; AMC 12 is Star One C12; Star One
+C1 and C2 are Spacebus 3000 class satellites launched in 2007 and 2008.
+
+Meridian
+--------
+
+The 6th Meridian military communications satellite for the Russian Defense Ministry
+was successfully placed in a 974 x 39740 km x 62.8 deg elliptical orbit on Nov 14. The previous
+Meridian flight failed to reach orbit.
+
+
+Orbital Launch Stats 2012 to Date
+---------------------------------
+
+Total 65 attempts:
+Russia 21, China 15, US 14, France/ESA 8, India 2, Japan 2, Iran 1 + 1 fail, North Korea 1 fail
+
+Errata from JSR 669: of course, the Antares first stage has a Russian engine but is Ukrainian-built.
+Also, I mistyped astronaut Tarelkin's name (in my defense, it was wrong in the daily
+ISS On-Orbit Status).
+
+Suborbital launches
+--------------------
+
+On Oct 24 (or possibly early Oct 25) the Missile Defense Agency's FTI-01
+experiment involved coordinated launches of 5 exoatmospheric rockets in
+the Pacific. An Extended Long Range Air Launch Target was dropped from a
+C-17 aircraft north of Wake Island and launched towards the Reagan Test
+Site at Kwajalein.  The E-LRALT consists of two SR-19 motors, an Orbus
+1A motor and a reentry vehicle. Next, a two-stage Terrier Oriole rocket in its
+ARAV-B target configuration was launched from Wake to Kwajalein; the USS Fitzgerald
+launched an SM-3 Block 1A missile which failed to intercept the ARAV-B. A THAAD
+interceptor launched from Kwajalein Atoll's Meck Island successfully intercepted
+the E-LRALT. A short range target missile, possibly a Scud, was launched from the Mobile
+Launch Platform ship; it was intercepted by a Patriot PAC-3 missile launched from Omelek,
+another of the Kwajalein islands. The PAC-3 interception was probably at low altitude
+so is not included in my list of space launches, and nor is some associated 
+low altitude activity with cruise missiles and PAC-2.
+
+On Oct 19 Russia launched an R-29R missile from the K-433 submarine in
+the Sea of Okhotsk to the Chiza test range.
+
+The Nov 16 launch of REXUS 11 from ESRANGE reached 79 km, a few hundred meters
+below the line I use for the boundary of space, and so is not included in the list
+below.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Oct  4 1210   GPS SVN65          Delta 4M+(4,2)    Canaveral SLC37B  Navsat    53A
+Oct  4 1437   RAIKO    )                           ISS Kibo, LEO     Tech      98-067CN
+              We Wish  )                                             Tech      98-067CS
+Oct  4 1544   F-1      )                           ISS Kibo, LEO     Tech      98-067CR
+              Niwaka   )                                             Tech      98-067CP
+              TechEdSat)                                             Tech      98-067CQ
+Oct  8 0035   Dragon CRS-1 )     Falcon 9          Canaveral SLC40   Cargo     54A
+              Orbcomm OG2-1)                                         Comms     54B
+Oct 12 1815   Galileo IOV-3 )    Soyuz ST-B        Kourou ELS        Navsat    55A
+              Galileo IOV-4 )                                        Navsat    55B
+Oct 14 0325   Shi Jian 9 A )     Chang Zheng 2C    Taiyuan           Tech      56A
+              Shi Jian 9 B )                                         Tech      56B
+Oct 14 0837   Intelsat IS-23     Proton-M/Briz-M   Baykonur LC81/24  Comms     57A
+Oct 23 1051   Soyuz TMA-06M      Soyuz-FG          Baykonur LC31     Spaceship 58A
+Oct 25 1533   Beidou DW16        Chang Zheng 3C    Xichang           Navsat    59A
+Oct 31 0741   Progress M-17M     Soyuz-U           Baykonur LC1      Cargo     60A
+Nov  2 2104   Yamal-300K  )      Proton-M/Briz-M   Baykonur LC81/24  Comms     61B?
+              Luch-5B     )                                          Comms     61C?
+Nov 10 2105   Star One C3  )     Ariane 5ECA       Kourou ELA3       Comms     62A?
+              Eutelsat 21B )                                         Comms     62B?
+Nov 14 1142   Meridian No. 16    Soyuz-2-1A/Fregat Plesetsk LC43/4   Comms     63A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Oct  4 0337   RV               Prithvi 2        Chandipur             Op.Test      100?
+Oct  5 0555   RV               Dhanush          Ship, Chandipur       Op.Test      100?
+Oct 19?       RV x 4?          Volna            K-433 sub, S. Okhotsk Op.Test     1000?
+Oct 19 0912   RV               Topol            Plesetsk              Op.Test     1000?
+Oct 24        Sim RV           E-LRALT          C-17, near Wake I     Target       300?
+Oct 24        ARAV-B           Terrier Oriole   Wake I                Target       150?
+Oct 24        Aegis KV         SM-3             DDG-62,near Kwajalein Interceptor  150?
+Oct 24        THAAD KV         THAAD            Meck Island           Interceptor  100?
+Oct 24        Scud RV?         Scud?            MLP, NE of Kwajalein  Target       150?
+Oct 24 1828   Advanced RV      Topol'-M2?       Kapustin Yar          R&D          500?
+Nov  2 1755   NASA 36.255US    Black Brant IX   White Sands           Solar X      310?
+Nov 14 1142   Mk 21 RV?        Minuteman 3      Vandenberg LF10       Op.Test     1300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

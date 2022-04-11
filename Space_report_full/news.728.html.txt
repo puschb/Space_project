@@ -1,0 +1,178 @@
+Jonathan's Space Report 
+No. 728                                                       2016 Jul 12   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+Editorial Note
+--------------
+This issue is coming out early and is centered on the discussion of the claimed
+Juno and Helios velocity records, which I decided needs a permanent URL
+sooner rather than later.
+
+International Space Station
+---------------------------
+
+Soyuz MS-01 was launched on Jul 7 into a 181 x 239 km orbit; it docked
+with the ISS Rassvet module at 0406 UTC Jul 9. The Soyuz MS is a new
+variant of the ferry ship with upgraded onboard systems. Crew are
+Anatoliy Ivanishin (Roscosmos), Takuya Onishi (JAXA) and Kate Rubins
+(NASA).
+
+
+Juno
+----
+
+NASA's Juno probe entered Jupiter orbit on Jul 5. The probe's UK-built
+Leros-1b engine fired for 35min 2s starting at 0230 UTC, slowing the
+vehicle by 0.542 km/s to reach a 3900 x 8029000 km x 89.8 deg orbit
+around the giant planet.
+
+The engine-induced velocity change was, of course small compared to the
+velocity change caused by Jupiter's gravity as Juno passed through
+perijove, but enough that as it arced upwards again, it no longer had
+enough speed to escape the planet's pull - although it won't start
+falling back down again until Apojove 0 on around Jul 31. 
+
+At 0000 UTC Juno had a velocity of 28.1 km/s relative to Jupiter at a
+height of 261000 km above the cloud tops. As it fell inward, by the
+start of the burn at 0230 UTC this had increased to 53.9 km/s at a mere
+19000 km above the planet at 47 deg N latitude. Maximum jovicentric
+velocity, 57.95 km/s, was reached at 0248 UTC, with Juno only about 4400
+km over the Jovian equator. By the end of the burn Juno's speed relative
+to Jupiter had dropped to 54.2 km/s. On Jul 12, a week after orbit
+insertion, Juno was travelling only 4.5 km/s relative to and away from
+the planet, at a distance of almost 5 million km from it.
+
+The almost 58 km/s perijove velocity appears to be the record speed at
+periapsis relative to the central body during an orbit insertion. As it
+happens, the probe's heliocentric velocity was almost the same, 59.3
+km/s. Relative to Earth, the probe was travelling at 61.7 km/s. On its
+third perijove later this year (Aug 27) the velocity vectors of probe
+and Earth will be better aligned and although it will again be
+travelling at 58 km/s relative to Jupiter, relative to Earth it will be
+going 73.7 km/s according to NASA (the predicted trajectory on Horizons
+atually reaches 76 km/s), and this is the maximum expected geocentric
+velocity during the mission.
+
+Fastest ever? - Not so fast!
+-----------------------------
+
+So, Juno is orbiting its host planet faster than any planetary orbiter
+ever. However, this is not, as some media outlets have reported, the
+fastest ever spacecraft relative to the Earth.
+
+The largest geocentric velocity reached by a spacecraft
+was 98.9 km/s, by Helios 2. The Helios 2 mission was a joint German-US
+probe to study the solar wind, placed in an elliptical solar orbit
+of about 0.28 x 1.0 AU.
+
+My media contacts tell me that JPL claims (I haven't heard from
+JPL directly) that the record was only 164000 mph - i.e. about 73 km/s -
+and was set in Apr 1976.  It is true that the HELIOCENTRIC velocity
+record was set on 1976 Apr 16 by Helios 2, reaching a velocity of 68.6
+km/s, beating the 66.1 km/s record of its sibling Helios 1.  And it is
+true that on that day the geocentric velocity of Helios 2 was 73.4 km/s,
+the record quoted by NASA.
+
+But: you don't get the maximum geocentric velocity by taking the date of
+the maximum heliocentric velocity and converting that one to geocentric
+(which is what JPL seem to have done) - the +/- 30 km/s modulation
+caused by the Earth's motion around the Sun means that the heliocentric
+and geocentric velocities don't peak at the same time. For a fixed
+elliptical Keplerian orbit around the Sun, the maximum heliocentric
+velocity always occurs at perihelion and always has the same magnitude.
+The maximum geocentric velocity will happen when perihelion happens on
+the opposite side of the Sun from the Earth, and since the orbital
+periods of probe and Earth are different, that will only happen once
+every many orbits.
+
+In Apr 1976 the Earth was moving almost at right angles to Helios 2, so
+the geocentric velocity was not much bigger than its heliocentric one.
+In contrast, on 1989 Jan 12 I calculate Helios 2 was close to perihelion
+and moving in the opposite direction to the Earth, so a similar
+heliocentric velocity translated to a much larger geocentric velocity of
+98.9 km/s. Caveat: I have extrapolated the 1980 orbital solution
+without including any perturbations, so the date is almost certainly
+wrong, but the magnitude of the maximum velocity probably isn't far off.
+I hope that GSOC and JPL can do a better job. My results, which use
+orbital elements obtained from NASA/NSSDC in 1993, are in good agreement
+with the SPK kernels of L. Wennmacher (2011) available at naif.jpl.nasa.gov
+for the period when they overlap.
+
+But perhaps you don't want to count the 1989 Helios 2 record, because
+Helios 2 died in 1980. What is the maximum geocentric velocity of a
+working space probe? Helios 1 was still transmitting in 1985, and on
+1980 Dec 5, it reached an impressive geocentric velocity of 96.2 km/s
+(215000 mph).
+
+Plots of the Helios 1 and 2 geocentric velocity versus time can be seen
+at <A HREF="http://planet4589.org/space/jsr/Helios1Vel.jpg">http://planet4589.org/space/jsr/Helios1Vel.jpg</A>
+and
+<A HREF="http://planet4589.org/space/jsr/Helios2Vel.jpg">http://planet4589.org/space/jsr/Helios2Vel.jpg</A>
+
+
+So to summarize:
+
+   Fastest geocentric velocity of human artifact:    Helios 2, 1989 Jan 12?, 98.9 km/s
+   Fastest geocentric velocity of active probe:      Helios 1, 1980 Dec  5,  96.2 km/s
+   Fastest planetocentric velocity of artifact
+    in orbit around that planet:                     Juno, 2016 Aug (expected), 73.7 km/s
+   Fastest heliocentric velocity of (active or not)
+    human artifact:                                  Helios 2, 1976 Apr 16,    68.6 km/s
+
+A new record is expected to be set in Dec 2024 when NASA's Solar Probe Plus mission,
+scheduled for launch in 2018, will reach the perihelion of an 0.04 x 0.73 AU solar orbit
+travelling at a searing heliocentric velocity of 205.0 km/s and an even more remarkable
+geocentric velocity of 234.8 km/s (525000 mph for the metrically impaired).
+
+Supplement: sample Ecliptic1950 orbital elements for Helios 1 and 2
+
+Helios 1 - Epoch 1980 Feb 24.00  0.310 x 0.985 AU i=0.006 Node=143.33 e=0.522 AOP=114.17 M=180.33
+Helios 2 - Epoch 1980 May 12.73  0.291 x 0.986 AU i=0.029 Node=138.16 e=0.544 AOP=155.75 M=  0.00
+
+
+MUOS 5
+------
+
+The MUOS 5 spacecraft launched Jun 24 has had problems with its propulsion system and
+is currently parked in a 15242 x 35703 km x 9.8 deg intermediate geotransfer orbit.
+
+Erratum
+-------
+
+The Claire (GHGSat-D) greenhouse gas research satellite was built by the
+Toronto UTIAS-SFL team, but is owned by the Montreal-based company
+GHGSat Inc. 
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Jun 25 1200   DFFC                ) Chang Zheng 7    Wenchang LC201    Reentry test  42     A08387    288 x   382 x  40.8
+              Aoxiang zhixing     )                                    Tech          42B    S41625    289 x   376 x  40.8
+              Aolong 1            )                                    Tech          42F    S41629    198 x   367 x  40.8
+              Tiange feixingqi 1  )                                    Tech          42L    S41636    277 x   289 x  40.8
+              Tiange feixingqi 2  )                                    Tech          42M    S41637    277 x   287 x  40.8
+              ZGZ shiyan zhuangzhi)                                    Tech          42A    S41624    287 x   381 x  40.8
+Jun 29 0321   Shi Jian 16-02        Chang Zheng 4B   Jiuquan           Sigint?       43A    S41634    596 x   616 x  75.0
+Jul  7 0136   Soyuz MS-01           Soyuz-FG         Baykonur LC1      Spaceship     44A    S41639    181 x   239 x  51.7
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jul  1 0718   RV x 6?          M51               S616, Baie d'Audierne   Test         1000?      North Atlantic
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   

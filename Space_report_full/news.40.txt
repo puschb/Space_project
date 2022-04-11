@@ -1,0 +1,85 @@
+Jonathan's Space Report
+
+May 30 1990 (no.40)
+----------------------------------------------------
+
+Launch of STS-35/Columbia was scrubbed yesterday during fuelling due to
+hydrogen leaks near the orbiter/ET attach point.  A new launch date has
+not been set.  The launch of the ROSAT x-ray astronomy satellite is
+scheduled for Jun 1. 
+
+The Hubble Space Telescope is in its Orbital Verification phase.  The
+first WF/PC image gave 0.2 arcsec images; controllers are working to
+improve the focus and stability of the telescope, check out the
+instrument electronics, and resolve problems with acquiring guide stats. 
+Command errors sent the HST into safemode on May 27, but operations were
+resumed the next evening. 
+
+Anatoli Solov'yov (Komandir) and Aleksandr Balandin (Bortinzhener)
+continue in orbit aboard the Mir complex.  The Soyuz TM-9 transport is
+currently at the station.  Progress-42 was due to undock a few days ago. 
+Launch of the Kristall module is due for May 31.  Kristall will carry an
+EVA ladder to assist the planned spacewalk repair of loose insulation
+blankets on the Soyuz TM-9 SA (descent module). 
+Solov'yov and Balandin have been in space for 107 days. 
+
+Kosmos-2078 was launched on May 15 by Soyuz from Baykonur; it is
+a photographic mapping survey satellite.
+
+Kosmos-2079, Kosmos-2080, and Kosmos-2081 are GLONASS navigation
+satellites, the Soviet copy of Navstar.  They were launched on May 19 by
+a single Proton vehicle into a 20,000 km orbit. 
+
+Kosmos-2082, launched on May 22, is a large signals intelligence satellite
+in an 800-km orbit. This was the first use of the new Zenit launch vehicle
+since late 1988; no reason has been given for the hiatus in Zenit launches.
+
+Topic of the week: Zenit
+-----------------------------------------------------------------------------
+There are two variants of the Zenit vehicle; a one-stage version used as
+a strapon for the Energiya launch vehicle, and a two-stage version used
+as a satellite launch vehicle. A three-stage variant is due to fly in 1993.
+The Zenit 2 has carried two types of payload into orbit: a large signals
+intelligence satellite which I call Ferret E, and a series of heavy low 
+orbit payloads which I believe were related to Buran systems development.
+The first two Ferret E craft were launched by 4-stage Proton before 
+Zenit was operational. All Zenit launches have been successful with the
+exception of Kosmos-1714, when the second stage failed to restart and
+the payload was left in an elliptical transfer orbit. Zenit has been offered
+for commercial use, and may be launched from Australia's planned Cape York 
+spaceport.
+	
+	RN Zenit 1 Launch History:
+
+No	Launch Date	Payload			Code			Site
+1	   1987 May 15	Energiya		strap-on		KB
+2	   1987 May 15	Energiya		strap-on		KB
+3	   1987 May 15	Energiya		strap-on		KB
+4	   1987 May 15	Energiya		strap-on		KB
+5	   1988 Nov 15	Energiya/Buran		strap-on		KB
+6	   1988 Nov 15	Energiya/Buran		strap-on		KB
+7	   1988 Nov 15	Energiya/Buran		strap-on		KB
+8	   1988 Nov 15	Energiya/Buran		strap-on		KB
+
+	RN Zenit 2 Launch History:
+
+No	Launch Date	Payload			Code			Site
+1	   1985 Apr 13				suborbital test		KB
+2	   1985 Jun 21				suborbital test 	KB
+3		Oct 22	Kosmos-1697		Ferret E3		KB
+4		Dec 28	Kosmos-1714		Ferret E4		KB
+5	   1986 Jul 30	Kosmos-1767		Korabl' C1		KB
+6		Oct 22	Kosmos-1786		Korabl' C2		KB
+7	   1987 Feb 14	Kosmos-1820		Korabl' C3		KB
+8		Mar 18	Kosmos-1833		Ferret E5 		KB
+9		May 13	Kosmos-1844		Ferret E6		KB
+10		Aug  1	Kosmos-1871		Korabl' C4		KB
+11		Aug 28	Kosmos-1873		Korabl' C5		KB
+12	   1988 May 15	Kosmos-1943		Ferret E7		KB
+13		Nov 23	Kosmos-1980		Ferret E8		KB
+14	   1990 May 20	Kosmos-2082		Ferret E9		KB
+
+
+(c) 1990 Jonathan McDowell
+
+

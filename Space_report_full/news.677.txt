@@ -1,0 +1,234 @@
+Jonathan's Space Report
+No. 677                                             2013 Apr 18    Somerville, MA USA
+---------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 35 continues with astronauts  Hadfield, Romanenko and Marshburn.
+Ferry ship Soyuz TMA-07M is at Rassvet; cargo ship Progress M-18M is at the Pirs module.
+Progress M-17M undocked from Zvezda at 1202 UTC on Apr 15 and is carrying out Radar-Progress
+ionospheric tests.
+
+Soyuz TMA-08M was launched at 2043 UTC on Mar 28, carrying Pavel Vinogradov,
+Aleksandr Misurkin and Chris Cassidy. It is spacecraft Soyuz TMA-M No. 708, on
+ISS flight 34S. The craft docked with the Poisk module at 0228 UTC Mar 29.
+
+The most rapid flights from Earth surface to successful docking in Earth orbit have been:
+                       hh:mm:(ss)
+ Soyuz 7K-OK No. 7      0:46   (Kosmos-213)
+ Soyuz 7K-OK No. 5      1:17   (Kosmos-188)
+ Gemini 11              1:34:16
+ Gemini 12              3:46
+ Progress M-16M         5:43:30
+ Soyuz TMA-08M          5:44 ish?
+ Progress M-17M         5:52:22
+ Progress M-18M         5:52:31
+ Gemini 10              5:52:36
+ Gemini   8             6:33:16
+ Skylab SL-4            8:01
+ Skylab SL-3            8:21
+ Skylab SL-2            8:50  
+
+
+Kepler-62
+---------
+
+NASA has announced the discovery of Kepler-62e and Kepler-62f,  the
+second and third Earth/super-Earth-sized planets found in the 'habitable zone' of
+their parent star. (Most of my readers are currently on living the first
+Earth-size planet found in its star's habitable zone). Kepler-62e is 1.6 
+Earth radii (Re) and Kepler-62f is only 1.4 Re. (In addition, a
+super-Venus, Kepler-69c, is reported.)
+
+The Kepler space telescope is in a 0.98 x 1.05 AU x 0.5 deg solar orbit.
+On Apr 18 it was trailing Earth by 25.2 deg at a distance of 3.7 minutes.
+
+One of the challenges for Kepler is to confirm that its planet
+candidates are really planets. Postdoc Francois Fressin developed the
+Blender code to validate whether Kepler signals are planets or fakes
+from a blend of eclipsing binary stars - this was first used to confirm
+the 2.2-Earth-radius planet Kepler-10c in 2011. Fressin was also involved
+in the discovery of the first Earth-sized Kepler planets.
+
+The planet Kepler-22b, announced in Dec 2011, was the first transiting exoplanet
+in its star's habitable zone but it is over twice the linear size of Earth
+and may be a mini-Neptune class planet.
+
+A paper submitted to Science with Kepler mission lead Bill Borucki
+as first author reports analysis of a new Kepler system, Kepler-62,
+with multiple planets including two Earth-sized planets in the habitable zone.
+Fressin's analysis confirmed that the candidate planets were real.
+
+Theorist Lisa Kaltenegger of Heidelberg has studied the extent of the
+habitable zone around stars and the structure of the atmospheres of
+Earths, super-Earths, waterworlds and mini-Neptunes. Kaltenegger's
+paper, with Dimitar Sasselov and  grad student Sarah Rugheimer, shows
+that Kepler-62e and 62f could be Type I ocean planets, waterworlds made
+mostly of H2O. (Earth's *surface* is water but water is only 0.02
+percent of Earth's total bulk mass).
+
+Antares 
+-------
+
+Orbital's Antares rocket's first launch attempt was scrubbed on Apr 17
+and will be rescheduled. If successful its first stage will be the first
+liquid rocket launch from Wallops to space since 1974.
+
+I reviewed the success rate of new launch vehicles since 1999, separating countries just
+starting their space capabilitiy, largely new LVs for experienced countries,
+and major upgrades of existing LVs for experienced countries. I then scored the
+first launch, the first three launches, and all launches so far (with some partial
+successes given fractional success values). Here are the results:
+
+         First First 3  All
+          
+====  Countries just starting ====
+KT-1       0.00  0.00    0.00   0/ 2
+Naro-1     0.00  0.33    0.33   1/ 3
+Safir      0.00  0.67    0.50   3/ 6 ?
+Unha       0.00  0.33    0.33   1/ 3  
+VLS        0.00  0.00    0.00   0/ 3  (including static explosion)
+------------------------------------
+Subtotal   0.00          0.29   5/17
+
+====  New LVs for experienced countries ====
+Zenit-3SL  1.00  0.66    0.93   39/42
+Vega       1.00  1.00    1.00    1/1  (only 1 so far)
+Atlas 5    1.00  1.00    0.99   28.75/29
+Delta 4    1.00  1.00    1.00   15/ 15  
+Delta 4H   0.45  0.82    0.91   5.45/6
+Falcon 1   0.00  0.00    0.40   2/5   
+Falcon 9   1.00  1.00    0.97   4.85/5
+GSLV       0.80  0.93    0.54   3.8 / 7
+Minotaur1  1.00  1.00    1.00   10/10
+Minotaur4  1.00  1.00    1.00   3/3  
+------------------------------------   
+Subtotal   0.83  0.77    0.92   112.85/123
+
+======  LV major upgrades for experienced countries ===
+Proton-M   1.00  1.00    0.94   60.1/64 (5 partial failures, 1 total)
+Soyuz-FG   1.00  1.00    1.00   43/43
+Soyuz-2-1A 1.00  1.00    0.98   13.75/14
+Soyuz-2-1B 1.00  1.00    0.89   8/9
+Atlas 3    1.00  1.00    1.00   6/6
+Ariane5ECA 0.00  0.67    0.98   39/40    
+CZ-3C      1.00  1.00    1.00   10/10  
+H-IIA      1.00  1.00    0.95   21/22
+H-IIB      1.00  1.00    1.00   3/3   
+========================================
+Subtotal   0.89  0.96    0.97   203.85/211
+
+Total total              0.92   321.7/351
+(only LVs with first flight after 1999)  
+
+
+
+
+Dragon CRS-2
+------------
+
+The Dragon cargo ship began its return to Earth on Mar 26. At 0810 UTC
+Dragon was unberthed from the Harmony nadir CBM port using the SSRMS
+arm. The SSRMS released Dragon at 1056 UTC. At 1542 UTC the Dragon's
+Draco thrusters fired for 9min 59s to change velocity by an unknown
+amount (probably around 120-150 m/s) and lower perigee into the
+atmosphere. The Dragon trunk was jettisoned at 1555 UTC and the reentry
+vehicle passed through nominal atmosphere entry interface at 1614 UTC.
+The parachutes lowered Dragon to the Pacific Ocean, with splashdown
+around 30.52N 120.04W (according to reported positions of the recovery
+vessel American Islander) at about 1635 UTC.
+
+Satmex 8
+--------
+
+The Proton/Briz-M returned to flight on Mar 26 with the launch of Satmex
+8. The first four Briz-M burns raised the orbit from -495 x 171 km x
+51.6 deg to 173 x 173 km x 51.6 deg, 270 x 5000 km x 50.3 deg, 330 x
+18016 km and 425 x 35799 km x 49.1 deg. A fifth burn at 0358 UTC Mar 27
+placed the satellite in a high perigee  6118 x 35824 km x 18.4 deg
+transfer orbit and was followed by spacecraft separation at 0420 UTC.
+The Briz-M disposal burn lowered the discarded stage to 5932 x 34126 km;
+the DTB drop tank was jettisoned into the 330 x 18016 km intermediate
+orbit.
+
+The 5500 kg Satmex-8 communications satellite was built by SS/Loral for
+Satelites Mexicanos SA de CV.
+
+According to a Baykonur veterans blog at georg071941.ru, vehicle Proton-M 93536/Briz-M 99536
+was used for this launch.
+
+Anik G-1
+--------
+
+Another Proton, no. 93537/Briz No. 99538, put the Canadian Anik G-1
+satellite in orbit on Apr 15. The Loral 1300 satellite carries Ku, C and
+X-band communications payloads for Telesat.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Feb  1 0656   Intelsat IS-27     Zenit-3SL        SL Odyssey, Pacific Comms     F01
+Feb  6 1604   Globalstar M078 )  Soyuz-2-1A        Baykonur LC31/6   Comms      05A
+              Globalstar M093 )                                      Comms      05B
+              Globalstar M094 )                                      Comms      05C
+              Globalstar M095 )                                      Comms      05D
+              Globalstar M096 )                                      Comms      05E
+              Globalstar M097 )                                      Comms      05F
+Feb  7 2136   Amazonas 3       ) Ariane 5ECA       Kourou ELA3       Comms      06A
+              Azerspace        )                                     Comms      06B
+Feb 11 1441   Progress M-18M     Soyuz-U           Baykonur          Cargo      07A
+Feb 11 1802   Landsat 8          Atlas V 401       Vandenberg SLC3E  Imaging    08A
+Feb 25 1231   SARAL       )                                         Altimeter   09A
+              Sapphire    )                                         SpSur       09C
+              NEOSSat     )      PSLV-CA           Sriharikota     Astron/SpSur 09D
+              UniBRITE    )                                         Astronomy   09G
+              TUGSAT-1    )                                         Astronomy   09F
+              AAUSAT3     )                                         Ship nav    09B
+              STRaND-1    )                                          Tech       09E
+Mar  1 1510   Dragon CRS-2       Falcon 9          Canaveral SLC40   Cargo      10A
+Mar 19 2121   SBIRS GEO-2        Atlas V 401       Canaveral SLC41  Early Warn  11A
+Mar 26 1907   Satmex 8           Proton-M/Briz-M   Baykonur LC200/39 Comms      12A
+Mar 28 2043   Soyuz TMA-08M      Soyuz-FG          Baykonur LC1/5   Spaceship   13A
+Apr 15 1836   Anik G-1           Proton-M/Briz-M   Baykonur LC200/39 Comms      14A
+
+Suborbital launches
+-------------------
+
+Pakistan and India carried out missile tests in early April; China launched a sounding
+rocket with a barium release from Hainan. Germany launched a Brazilian VSB-30 from Sweden
+with a TEXUS microgravity experiment payload.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Feb  7 0821   NASA 49.001UE    T-T Oriole N.       Poker Flat        Auroral      754
+Feb 13 0910   ARAV-B Target    Terrier Oriole      Kauai             Target       150?
+Feb 13 0915?  FTM-20 KV        Aegis SM-3          CG-20, Pacific    Interceptor  150?
+Feb 15        NASA 41.104GT    Terrier Imp Orion   White Sands       Tech         130?
+Feb (many)    Julan RV?        Scud              An Nasriyah, Syria  Weapon        80?
+Feb 25 0600?  Arrow KV         Arrow 3           Palmachim?          Interceptor  100?
+Mar 11 0610?  Shark            Terrier Lynx        Wallops I         Target       300?
+Apr  4 2155   Kunpeng-1        Tianying-3E         Hainan            Ionosphere   191
+Apr  7 0455   Agni RV          Agni 2              Wheeler I.        Op. Test     200?
+Apr 10        Haft-IV RV       Shaheen 1           Somniani?         Op. Test     100?
+Apr 12 0425   TEXUS 50         VSB-30              Kiruna            Micrograv    261
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+

@@ -1,0 +1,147 @@
+Jonathan's Space Report
+No. 594                                            2008 Mar 29, Los Angeles
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Endeavour landed on Mar 27 after a successful STS-123 mission.
+
+On Mar 15 Linnehan and Foreman carried out the second spacewalk of the
+flight, leaving the Quest airlock with depressurization at 2343 UTC,
+hatch open at about 2348 UTC and egress just after 0000 UTC on Mar 16.
+During the spacewalk they assembled the Dextre robot manipulator, in its
+Spacelab pallet attached to the Station truss. Quest was repressurized
+at 0657 UTC following hatch closure at 0654. On Mar 17 Behnken and
+Linnehan performed EVA-3, depressurizing Quest at 2246 UTC and opening
+the hatch at 2251. They completed assembly of Dextre, installed the
+LWAPA adapter plate on the External Payload Facility of Columbus,
+and transferred spare equipment from Endeavour's payload bay to 
+External Stowage Platform 2. However, attempts to install the MISSE 6
+sample exposure experiment on the LWAPA were not successful on this EVA;
+this was eventually completed on EVA 5.
+
+On Mar 20 Behnken and Foreman made another spacewalk, with depressurization
+to 0.7 psi  by 2159 UTC and hatch open at 2203 UTC. They replaced a
+power control box on the truss and carried out the T-RAD experiment to
+repair sample damaged heat shield tiles using a putty-like material.
+Hatch closed at 0425 UTC and repress at 0428 UTC.
+Behnken and Foreman made EVA-5 from 2030 UTC Mar 22 to 0236 UTC Mar 23
+(depress/repress; 2034 to 0231 hatch open/close). They helped install
+the OBSS arm, used to inspect the underside of the Shuttle, on the
+Station truss. It will be left there until STS-124, since that mission
+can't fit the OBSS in its payload bay. They also made further inspections
+of the damaged SARJ (Solar Alpha Rotary Joint).
+
+Endeavour undocked at 0025 UTC on Mar 25, leaving Garrett Reisman aboard
+the station with Whitson and Malenchenko. After a flyaround completed at
+0136 UTC they prepared for reentry, with deorbit at 2333 UTC on Mar 26
+and landing at 0039 UTC on Mar 27, touching down on Runway 15 at
+Kennedy Space Center.
+
+
+AMC 14
+------
+
+The Russian federal space agency reports that AMC 14's Briz M stage
+second burn was short by 2 min 13s. On Mar 16 it was in a 770 x 26447 km
+x 49.2 deg orbit. 
+
+AMC 14's orbit is now being raised; on Mar 20 the satellite was moved to
+a 767 x 32333 km x 49.1 deg orbit and on Mar 21  to a 772 x 35576 km x
+49.0 deg orbit. 
+
+AMC 14 had a total mass at launch of 4140 kg of which 2130 kg was
+propellant; a rough calculation suggests that reaching geostationary
+orbit will be difficult.
+
+
+DirecTV
+-------
+
+Sea Launch fired a Zenit-3SL from the Odyssey platform in the Pacific
+on Mar 19. The payload was a television satellite for DirecTV.
+The satellite reached a 267 x 36473 km x 0.1 deg transfer orbit.
+
+
+GPS
+---
+
+A Boeing Delta 2 was launched at 0610 UTC on Mar 15 carrying a
+Navstar GPS navigation satellite, SVN 48 (IIR-19/M6). The second
+stage first cutoff was at 0620 UTC in a 174 x 205 km orbit.
+The GPS satellite was delivered to a 188 x 20325 km x 40.0 deg transfer
+orbit. GPS SVN 48 fired its apogee motor at about 0921 UTC on Mar 17,
+reaching a 20134 x 20152 km x 55.1 deg orbit.
+
+SAR-Lupe 4
+----------
+
+Germany's fourth SAR-Lupe radar recon satellite was launched
+on Mar 27 by a Russian Kosmos-3M from Plesetsk into a 470 x 508 x 98.2 deg
+orbit.
+
+ On 2008 Mar 28.0 the orbits of the four satellites were:
+ SAR-Lupe 1   2006 Dec 19   466 x 501 x 98.1  NodeRA = 204 deg
+ SAR-Lupe 2   2007 Jul  2   472 x 496 x 98.2  NodeRA = 304 deg
+ SAR-Lupe 3   2007 Nov  1   473 x 494 x 98.2  NodeRA = 142 deg
+ SAR-Lupe 4   2008 Mar 27   470 x 508 x 98.2  NodeRA = 334 deg
+
+
+The Mystery of 1971-00E - progress
+----------------------------------
+
+Mike Waterman and TS Kelso have kindly sent me element sets for 1971-00E
+(5310) which I have converted to pseudo TLE format at 
+http://www.planet4589.org/space/elements/05300/S05310 They show that the
+object was drifting slowly over the Pacific in 1973-1974 and that its
+elements are identical with those archived for the Tacsat 1 satellite
+(03691, 1969-13A).
+
+USA 200
+-------
+
+The USA 200 satellite has been found by independent observers in
+a 1112 x 37580 km x 63.6 deg orbit.
+
+Errata
+-------
+
+The forward pallet on Spacelab 2 was F004, not F002. Information
+from Robert Pearlman, quoting Scott Higginbotham, suggests that
+F004 was renamed MD002 and was used on STS-100 and STS-123.
+
+
+Friend of JSR Pete Young points out that the Space Test Program
+is a Dept. of Defense program, not a USAF program, although it is
+managed by USAF. I thank him for drawing this fine distinction.
+
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Feb  5 1303   Progress M-63     Soyuz-U          Baykonur LC1      Cargo     04A
+Feb  7 1945   Atlantis (STS-122) Space Shuttle   Kennedy LC39A     Spaceship 05A 
+              Columbus         )                                   Module    -
+Feb 11 1134   Thor 5            Proton-M/Briz-M  Baykonur          Comms     06A
+Feb 23 0855   Kizuna            H-IIA 2024       Tanegashima       Comms     07A
+Mar  9 0403   Jules Verne ATV   Ariane 5ES       Kourou ELA3       Cargo     08A
+Mar 11 0628   Endeavour(STS-123) Space Shuttle   Kennedy LC39A     Spaceship 09A
+Mar 13 1002   USA 200           Atlas V 411      Vandenberg SLC3E  Sigint    10A
+Mar 14 2318   AMC 14            Proton-M/Briz-M  Baykonur LC200/39 Comms     11A
+Mar 15 0610   GPS 48            Delta 7925       Canaveral SLC17A Navigation 12A
+Mar 19 2248   DirecTV 11        Zenit-3SL        SL Odyssey, POR   Comms     13A
+Mar 27 1715   SAR-Lupe 4        Kosmos-3M        Plesetsk LC132/1  Radar     14A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,97 @@
+Jonathan's Space Report
+No. 328                                    1997 Jul 22 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Columbia landed on KSC's Runway 33 at 1046:34 UTC on Jul 17 closing out
+a successful mission STS-94. The deorbit burn was at 0944 UTC following
+payload bay door closing at around 0700 UTC. Discovery is now at pad 39A
+preparing for launch of STS-85.
+
+Mir lost power and attitude control on Jul 16 when a cable was
+accidentally disconnected, but the crew were able to use the Soyuz to
+reorient the station and restore the situation. It now looks like a
+spacewalk to reconnect the Spektr power cables will be delayed until the
+next Soyuz launch; researcher Leopold Eyharts of France's CNES has been
+bumped from the crew and will fly next year instead. The EO-24 crew will
+now be just commander Anatoliy Yakovlevich Solov'yov of the Russian Air
+Force and flight engineer Pavel Vinogradov from RKK Energiya. Solov'yov
+(no relation to flight director and former cosmonaut Vladimir Solov'yov
+who's been much in the news lately) was commander of Soyuz TM-5, Soyuz
+TM-9, and Soyuz TM-15, as well as a passenger on STS-71. He was
+commander of Mir for the EO-6, EO-12 and EO-19 missions, and commander
+of the Soviet-Bulgarian visiting crew on Soyuz TM-5. Vinogradov has
+not flown previously.
+
+
+Recent Launches
+---------------
+
+Iridium SV021 failed on orbit a few days after launch from
+Vandenberg. The other four satellites from the recent launch
+are operating correctly, but have not yet raised their orbits.
+
+Erratum: the Thor II comsat launch was on May 20, not May 21 as
+I had written in recent issues.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  3 2321   Inmarsat 3 F4)   Ariane 44L     Kourou ELA2      Comsat     27A
+              Insat 2D     )                                   Comsat     27B
+Jun  6 1757   Kosmos-2344      Proton-K/DM-2M Baykonur LC200   Recon?     28A
+Jun 10 1201   FY-2             Chang Zheng 3  Xichang          Weather    29A
+Jun 18 1402   Iridium SV009 )  Proton-K/DM-5  Baykonur         Comsat     30D
+              Iridium SV010 )                                  Comsat     30C
+              Iridium SV011 )                                  Comsat     30G
+              Iridium SV012 )                                  Comsat     30B
+              Iridium SV013 )                                  Comsat     30E
+              Iridium SV014 )                                  Comsat     30A
+              Iridium SV016 )                                  Comsat     30F
+Jun 25 2344   Intelsat 802     Ariane 44P     Kourou ELA2      Comsat     31A
+Jul  1 1802   Columbia        ) Shuttle       Kennedy LC39A    Spaceship  32A
+              Spacelab MSL-1R )
+Jul  5 0411   Progress M-35     Soyuz-U       Baykonur LC1     Cargo      33A
+Jul  6 0600   Sojourner         -         Sagan Station, Mars  Rover
+Jul  9 1304   Iridium SV015 )   Delta 7920    Vandenberg SLC2W Comsat     34A
+              Iridium SV017 )                                  Comsat     34B
+              Iridium SV018 )                                  Comsat     34C
+              Iridium SV020 )                                  Comsat     34D
+              Iridium SV021 )                                  Comsat     34E
+
+ 
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       LC39A         STS-85  Aug  7
+OV-104 Atlantis        OPF Bay 3     STS-86  Sep 18
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                       
+MLP2/RSRM-61                VAB Bay 1?     STS-86
+MLP3/RSRM-57/ET-87/OV-103   LC39A          STS-85                       
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,359 @@
+Jonathan's Space Report
+No. 629                                               2010 Jun 28 Somerville, MA
+----------------------------------------------------------------------------------
+
+It's been a banner month for the Ucyu Koku Kenkyu Kaihatsu Kikou
+(Japanese Aerospace Exploration Agency, or JAXA), with the succesful
+deployment of the first ever solar sail propulsion system by the 
+recently launched Ikaros probe, and the return to Earth on Jun 13 of the
+Hayabusa probe after a seven year voyage to asteroid (25143) Itokawa and
+back.
+
+Ikaros
+-------
+
+Ikaros deployed its 20-meter solar sail between May 28 and Jun 11.
+On May 28, four small tip masses were ejected from the four corners
+of the sail, and on Jun 14 the tiny DCAM-2 camera subsatellite was
+ejected to take pictures of the sail, as Ikaros coasted 9 million km
+from the Earth. The identical DCAM-1 was ejected on Jun 19.
+
+Hayabusa
+--------
+
+The MUSES-C experimental space probe, named Hayabusa after launch, rode
+an M-V solid rocket to space from the Uchinoura Space Center on 2003 May
+9. The M-V third stage reached a suborbital trajectory of around -185 x
+500 km, and the KM-V2 kick stage then accelerated Hayabusa into an
+escape orbit which resulted in a solar orbit. The ion drive began
+operating and by Jan 2004 the solar orbit was  0.860 x 1.138 AU x 1.2
+deg. A 3725 km Earth flyby on 2004 May 19 pumped up the orbit to 1.01 x
+1.73 AU x 1.3 deg,a djusted by Jul 2005 to 0.95 x 1.70 AU x 1.6 deg,
+matching Itokawa. Hayabusa arrived at Itokawa on 2005 Sep 12,
+stationkeeping at 20 km. 
+
+After maneuvering around the object, despite a reaction wheel failure on
+Sep 30, Hayabusa approached to only 70 metres from the surface on 2005
+Nov 9 and then retreated; in a second descent that day, to 500 m, it
+released a small target marker, which failed to land on the asteroid. On
+Nov 12, during an approach to 55m, a small experiment cover was ejected
+followed by the MINERVA 'hopper' lander, but the lander floated away
+from the asteroid rather than touching down (although it may have
+impacted the surface by now). On Nov 19, Hayabusa successfully dropped a
+second target marker on the surface and then itself touched down,
+bouncing and then landing again, taking off after  half an hour on the
+surface. During second landing on Nov 25, Hayabusa fired two sampling
+'bullets' to kick up surface material into its sample collectors. During
+takeoff, however, the spacecraft malfunctioned and entered safemode, and
+it's not yet known if any material was really captured. It was
+recontacted on Dec 5 at a distance of 550 km from Itokwawa, with its
+propulsion system only partly working, and a year of uncertainty
+followed as JAXA attempted to regain control of the probe and find a way
+to propel it home.
+
+Hayabusa departed the Itokawa vicinity in Feb 2007 and, as contollers
+coaxed limited function out of its faltering ion drives, set course
+for Earth. By Apr 2010 it was in a 0.983 x 1.654 AU x 1.7 deg solar
+orbit at 24 million km from home, and began a series of course
+corrections to target it for landing.
+
+Hayabusa entered the Earth's gravitational sphere of influence on Jun
+11, and passed lunar orbit on Jun 12, approaching Earth on a hyperbola
+with an estimated perigee of -64 km, eccentricity of 1.37 and
+inclination of 34.5 deg (based on Bill Gray's estimate of the orbit,
+since JAXA did not release the information). At 1051 UTC the conical
+Hayabusa return capsule separated from the main spacecraft. As they
+gained speed in their fall to Earth, the eastward motion of Hayabusa and
+capsule was initially slower than  Earth's rotation and so their ground
+track headed west over the Pacific to around 60E 20N as their altitude
+dropped through 23000 km at 1300 UTC, and then, overtaking terrestrial
+spin, southeastward toward Australia. Nominal entry was at 200 km
+altitude at 1351 UTC, over about 125E 28S, travelling at 12.2 km/s at
+about -12 deg to the horizontal. The main spacecraft, with no heat
+shield, burnt up by 1352 UTC, as the reentry capsule decelarated
+and then descended by parachute. The capsule landed in the Woomera range area
+at around 1412 UTC. Congratulations JAXA!
+
+Shuttle and Station
+--------------------
+
+Kotov, Creamer and Noguchi returned to Earth on Jun 2 aboard Soyuz
+TMA-17. They undocked from the Zvezda module at 0004 UTC and touched
+down in Kazakhstan at 0325 UTC. Aleksandr Skvortsov, Mikhail Kornienko
+and Tracy Caldwell Dyson officially began Expedition 24 upon TMA-17's
+undocking. Soyuz TMA-19 was launched into orbit on Jun 15 with
+Fyodor Yurchikhin, Doug Wheelock and Shannon Walker; it docked with
+Zvezda at 2221 UTC on Jun 17.
+
+
+Falcon 9
+--------
+
+SpaceX's Falcon 9 rocket successfully reached its target orbit on its
+first launch on Jun 2.  The Dragon Qualification Unit, attached to the
+Falcon 9 second stage, entered a 235 x 276 km x 34.5 deg orbit at 1853
+UTC. A second stage restart planned for 1939 UTC did not occur although
+there may have been a small 5m/s orbit change at around 2025 UTC;
+venting of the second stage was observed over Australia. The Dragon QU
+is probably about 4000-5000 kg and is a simplified version of the Dragon
+cargo ship that will be used to send supplies to the Space Station on
+Falcon 9's next flight. The empty second stage is probably around 2000-3000
+kg for a total orbit mass of the vehicle of about 6000-8000 kg. By
+late on Jun 26 the DQU/Falcon 9 was in a 138 x 140 km orbit skimming the
+atmosphere, and it reentered around 0h UTC on Jun 27.
+
+
+GPS IIF SV-1
+------------
+
+The first Block IIF Global Positioning System satellite, SVN 62, was
+launched from Cape Canaveral on May 28. The satellite was built by
+Boeing/El Segundo and has a launch mass of 1630 kg including an unknown
+amount of  stationkeeping propellant. The Block IIF satellites carry the
+L1M and L2M military GPS channels, the L2C civilian channel and a new L5
+civilian channel as well as a nuclear explosion detection system
+(descendant of the Vela satellites, to monitor the test ban treaty) and
+the a classified instrument.
+
+The Delta rocket entered a low parking orbit, probably around 270 x 320
+km x 37.5 deg, at 0312 UTC. At 0324 UTC it restarted to enter a transfer
+orbit of 252 x  20464 x  43.3 deg. At 0620 UTC the stage made a third
+burn to a 20437 x 20460 km x 55.0 deg orbit and then deployed the GPS
+satellite. (The ULA mission book, in a break with past practice for GPS
+launches, did not provide details on the intermediate orbits for this
+mission.)
+
+SERVIS-2
+--------      
+
+Japan's SERVIS-2 satellite, which will test out new commercial satellite
+electronics and components, was launched by a Russian Rokot vehicle from
+Plesetsk on Jun 2 into an 1186 x 1210 km x 100.4 deg polar orbit.
+              
+Beidou
+------
+   
+China launched the 4th Beidou Navigation Satellite (di si ke beidou daohang
+weixing) on Jun 2 into a 205 x 35647 km x 20.5 deg geostationary transfer
+orbit. On Jun 8 it was in a 35773 x 35797 km x 1.8 deg GEO at 84.7E.
+
+
+
+STSAT-2B
+---------
+
+South Korea's Naro-ho (KSLV-1) launch vehicle failed to reach orbit for
+the second time on Jun 10. The two-stage vehicle took off from Naro
+Space Center but broke apart 137s into flight during the burn of the
+Russian-built Angara-class first stage. It is not yet clear what 
+caused the failure. The rocket carried the 100 kg STSAT-2B research
+satellite, a copy of the STSAT-2A lost in last year's launch.
+
+Kosmos-2462
+-----------
+
+Russia's Kosmos-2462 spy satellite continues in orbit two months into a
+probable three-month mission, with an orbit of 180 x 360 km decaying to
+circa 175 x 310 km and then being reboosted. So far reboost burns have
+happened on Apr 19, Apr 28, May 8, May 18, May 29, Jun 6 and Jun 26.
+
+
+Prisma and Picard
+------------------
+
+Sweden's PRISMA mission consists of two satellites, Mango and Tango,
+which are launched connected to one another. They will separate after
+one month in orbit to carry out formation flying experiments. PRISMA was
+launched by a Dnepr rocket from Russia's Yasniy missile base on Jun 15.
+Also deployed by the Dnepar was France's Picard solar physics satellite
+which measures small variations in total solar output and maps out the
+differential rotation of the Sun and makes an accurate measurement of
+the solar diameter. The BPA-1 (Blok Perspektivnoy Avioniki-1)
+experiment for the Ukranian space agency stays attached to the Dnepr third
+stage; it is a technology development experiment for aircraft and spacecraft
+navigation developed by Khartron-Arkos, who make the Dnepr control system.
+
+Picard is in a 726 x 728 km x 98.3 deg orbit while PRISMA is in a 725 x 785 km
+orbit. The BPA-1 is in a 714 x 1268 km orbit; as usual the Dnepr third stage
+ends up in a more elliptical path as it separates from the payloads.
+
+Tandem-X
+---------
+
+Another Dnepr launch, this time from Baykonur, put the Tandem-X radar
+satellite in a 496 x 511 km x 97.5 deg orbit for Germany's DLR. It's a
+duplicate of the TerraSAR-X satellite launched in 2007 and will work in
+coordination with its sibling. The Dnepr third stage is in a 499 x 1145 km
+orbit.
+
+SJ-12
+-----
+
+The SJ-12 (shijian shier hao weixing, Practice Satellite 12)
+was launched from Jiuquan space center on Jun 15 into a 575 x 597 km x 97.7
+deg orbit; the CZ-2D final stage ended up in a 559 x 663 km x 97.7 deg orbit.
+The mission of SJ-12 is not known.
+
+Suborbital flights
+------------------
+
+The Missile Defense Agency tested a two stage version of the Ground
+Based Interceptor on Jun 6. The three-stage version has made eight
+flights between 2003 and 2010; both versions are made by Orbital
+Sciences. Air Force Global Strike Command carried out a routine training
+launch of a Minuteman III from Vandenberg on Jun 16; the single reentry
+vehicle made a suborbital flight to Kwajalein atoll in the Pacific. On
+Jun 8 and 9, four Trident II missiles, each probably carrying eight
+reentry vehicles, were launched down the Eastern Range from the
+submarine USS Maryland in another series of training launches.
+On Jun 24, a Terrier Orion launched the RockOn educational experiments
+from Wallops.
+
+
+Cassini
+-------
+
+Cassini made a 2044 km flyby of Titan's north pole (T-69) on Jun 5,
+reducing orbit inclination around Saturn from 12 degrees to 2.0 deg.
+After apoapsis on Jun 11, it returned to Titan for the T-70 flyby  on
+Jun 20 at 0127 UTC, making its closest ever pass at 880 km above the
+clouds to measure the dayside ionosphere. This pumped the inclination
+back up, and the orbit on Jun 21 was 119500 x 2207600 km x 19.1 deg. The
+next flyby is T-71 on Jul 7.
+
+Dawn
+----
+
+The Dawn space probe is approaching 2.0 AU from the Sun as it continues
+its ion-drive-propelled uphill climb towards asteroid (4) Vesta, which
+it will reach in Jul 2011. Dawn is currently in a 1.75 x 2.07 AU x 6.8
+deg orbit around the Sun. As always, I encourage readers to keep up with
+Marc Rayman's entertaining Dawn Journal at dawn.jpl.nasa.gov. 
+
+'Ofeq-9
+-------
+
+Israel made its first satellite launch in three years on Jun 22 as a
+three stage Shaviyt ('Comet') rocket placed 'Ofeq-9 into a 343 x 588 km
+x 141.8 deg orbit; the AUS-51 solid third stage is in a 294 x 595 km
+orbit. The 'Ofeq satellites carry imaging reconnaissance payloads. This
+is the first launch with a solid-propellant upper stage so far this year
+(since the Naro-1 was lost before the upper stage ignited), continuing a
+welcome trend resulting in reducing the amount of orbital debris due to
+solid motor exhaust particles.
+
+Arabsat 5A/COMS
+---------------
+
+Arianespace launched vehicle L552, an Ariane 5ECA, on flight V195 on Jun
+26 from Kourou. The EPC stage flew a -1106 x 212 km x 7.2 deg
+trajectory, and the ESC-A stage then delivered two satellites to
+geostationary transfer orbit. The 4839 kg Arabsat 5A is an Astrium
+Eurostar E3000 for C and Ku band  coverage of the Middle East and Africa
+for Arabsat, the Arab Satellite Communications Organization. 
+The Chollian satellite is South Korea's Communications,
+Ocean and Meteorological Satellite (COMS-1), also a Eurostar E3000  but
+only 2461 kg mass at launch. In addition to C and Ku band communications
+systems, Chollian carries a multi-spectral  meteorological imager with
+four 4km-resolution infrared and one  1 km-resolution visible channel,
+the GOCI 8-band ocean color imager for studies of clorophyll and turbidity
+in Korean peninsular waters, and an L-band/S-band data relay
+payload for meteorological data.
+
+According to my Korean colleague D-W Kim: "[Chollian] is composed of 3
+letters, Chun - Li - An. (The combined word sounds chollian, by a rule
+in Korean language.) Chun = thousand (or very large/long etc.);li = a
+unit of length  (10 li is about 4 km); An = view or vision. So the word
+means "an ability to see out to very long distance (= 1000 li)". Based
+on Dong-Woo's comments, maybe "FarView" would be a fair translation, (cf
+US imaging satellites like OrbView, WorldView etc.) with "Thousand-Li
+View" as a more literal rendering.
+
+Badr
+----
+
+Russia's International Launch Services carried the Badr-5 (Arabsat 5B)
+communications satellite into a 5764 x 35769 km x 19.0 deg orbit on a
+Khrunichev Proton-M/Briz-M on Jun 3. Badr 5 is an Astrium Eurostar 3000
+satellite with a launch mass of 5420 kg. By Jun 25 Badr-5 was in
+a 35777 x 35797 km x 0.1 deg orbit at 34.5E; it will be stationed at 26E
+with Badr-4 and Badr-6.
+
+Rex
+---
+   
+I regret to announce the death of Rex Hall, former president of the
+British Interplanetary Society and the world expert on the biographies
+of Soviet cosmonauts. I met Rex when I was a teenage
+proto-space-historian and he was always a wonderful mentor and colleague.
+
+---
+NOTE: The JSR server suffered a disk crash earlier this month. I have
+now almost completely restored the site, although the JSR email subscription list
+is out of date. I have transitioned the list to mailman. Updates to
+the web page will be sparse for the next few weeks while I am on travel.
+
+Congratulations to the Leicester University X-ray astronomy team on the
+50th anniversary of their first rocket launches: 
+http://www.planet4589.org/space/misc/lux.html 
+I look forward to seeing some of you in Leicester next week.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+May 14 1820   Atlantis (STS-132)  Space Shuttle    Kennedy LC39A    Spaceship  19A
+May 20 2158   Akatsuki    )       H-IIA 202        Tanegashima     Venus Probe 20D
+              Ikaros      )                                         Solar sail 20E
+              Unitec-1    )                                         Tech       20F
+              Negai*      )                                       Tech/imaging 20A
+              Waseda-Sat 2)                                         Imaging    20B
+              KSAT        )                                         Science    20C
+May 21 2201   Astra 3B  )         Ariane 5ECA      Kourou ELA3      Comms      21A
+              ComsatBw-2)                                           Comms      21B
+May 28 0300   GPS SVN 62 (IIF SV-1) Delta 4M+(4,2) Canaveral SLC37B Navigation 22A
+Jun  2 0159   SERVIS 2            Rokot            Plesetsk LC133/3 Tech       23A
+Jun  2 1553   Beidou DW4          Chang Zheng 3C   Xichang          Navigation 24A
+Jun  3 2200   Arabsat 5B          Proton-M/Briz-M  Baykonur LC200/39 Comms     25A
+Jun  4 1845   Dragon Qual Unit    Falcon 9         Canaveral SLC40  Test       26A
+Jun 10 0801   STSAT-2B            Naro-1           Naro             Tech       F02
+Jun 15 0139   SJ-12               Chang Zheng 2D   Jiuquan          Science?   27A
+Jun 15 1442   Prisma-Mango )      Dnepr            Yasniy           Tech       28B
+              Prisma-Tango )                                        Tech       28B
+              Picard       )                                        Solar phys 28A
+              BPA-1        )                                        Navigation 28C
+Jun 15 2135   Soyuz TMA-19        Soyuz-FG         Baykonur LC1     Spaceship  29A
+Jun 21 0214   Tandem-X            Dnepr            Baykonur LC109   Radar      30A
+Jun 22 1900?  'Ofeq-9             Shaviyt-1        Palmachim        Imaging    31A
+Jun 26 2141   Arabsat 5A )        Ariane 5ECA      Kourou ELA3      Comms      32A
+              Chollian   )                                       Comms/Weather 32B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+May  3 0947   NASA 36.248DR   Black Brant IX   San Nicholas I  Target      150?
+May  3 1832   NASA 36.258UE   Black Brant IX   White Sands     Solar EUV   280?
+May  4 1241   SpaceLoft SL-4  SpaceLoft XL     SW Regional     Micrograv   113?
+May  5 1150   SR VII          Sounding Rocket  Jiu Peng        Ionosphere  287
+May 17 0348   Agni RV         Agni A2          Wheeler I       Training    300?
+May 21 0900   NASA 36.270UG   Black Brant IX   White Sands     UV Astron   325?
+Jun  6 2225   BVT-1?          GBI              Vandenberg      Test        300?
+Jun  8        USN RV x 8?     Trident II       SSBN 738, ETR   Op Test    1000?
+Jun  8        USN RV x 8?     Trident II       SSBN 738, ETR   Op Test    1000?
+Jun  9        USN RV x 8?     Trident II       SSBN 738, ETR   Op Test    1000?
+Jun  9        USN RV x 8?     Trident II       SSBN 738, ETR   Op Test    1000?
+Jun 16 1001   GT200-GM1?      Minuteman III    Vandenberg      Op Test    1300?
+Jun 24 1000   NASA 41.088UO   Terrier Orion    Wallops LA2     Education   120?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@www.planet4589.org    |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

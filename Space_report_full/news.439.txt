@@ -1,0 +1,225 @@
+Jonathan's Space Report
+
+No. 439                                           2000 Nov 26, Cambridge, MA
+-------------------------------------------------------------------------------
+
+The Pedants' Millenium
+----------------------
+
+As I'm sure you're all aware, the new century and the new millenium are
+only a few weeks away. In the spirit of true pedantry, I note that 
+Millenium Eve, by the Julian calendar in use at the last millenium -
+i.e.,  prid. Kal. Ian. A.D. 2001 (O.S.), or 31 Dec 2000 (O.S.) in modern
+notation, - occurs on Saturday 2001 Jan 13 (N.S.) on the modern
+Gregorian calendar. Any readers in the Boston area are invited to my
+Millenium Eve party on that date, email for details. To all the other
+pedants out there, very best wishes for the coming new century.
+
+Shuttle and Stations
+--------------------
+
+The Expedition One crew remains aboard Space Station Alpha. The Progress
+M1-4 cargo ship was launched at 0132:36 UTC on Nov 16. The vehicle is
+probably spacecraft Progress M1 No. 253.  Progress M1-4 made rendezvous
+with the Station on Nov 18. After problems with the automatic system,
+Gidzenko took over manual control with the remote TORU system at 0302
+UTC. After one failed attempt when M1-4 got to only 5m from docking at
+0309 UTC, docking was  successfully achieved at 0348 UTC at Zarya's
+nadir port. The problem with the TORU system is that the TV camera on
+the Progress, which Gidzenko uses to steer the vehicle with, is not that
+great and tends to ice up quickly when the Progress is in shadow.
+
+Issue 9/2000 of Novosti Kosmonavtiki, which just arrived here, has an
+interesting article on the history of the Zvezda Service Module which
+reports that the main hull of the Service Module was built as early as
+1985, when it was thought that the vehicle - DOS-7K No. 8 - would form
+the core of a Mir-2 space station. Zvezda's forward section is the PKhO
+(Perekhodniy Otsek, transfer compartment) with three passive SSVP-M
+G8000 docking ports, one on the axis (docked to Zarya), one zenith and
+one nadir, plus a side airlock hatch for spacewalks.  Behind PKhO is the
+RO (Rabochiy Otsek, working compartment) with 2.9m and 4.1m diameter
+sections. The small section carries the two large solar arrays. Further
+back is the AO (Agregatniy Otsek, equipment module) with the main ODU
+twin S5.79 engines. Inside the AO is is the smaller cylinder of the PK,
+(Promezhutochnaya kamera), the tunnel leading to the SSVP G4000 aft
+passive docking port used for Soyuz and Progress.
+
+The next Shuttle launch, STS-97, will carry the P6 truss element to the
+Station. P6 consists of a solar array wing, an Integrated Electronics
+Assembly (IEA) section with a thermal radiator for the solar wing, and
+the Long Spacer (LS) truss segment with two thermal radiators for the
+Destiny module (which will follow on a later flight). P6 will be
+installed on the +Z end of the Z1 truss; later in assembly it will be
+moved to the end of the port truss.
+
+Current Launches
+----------------
+
+Arianespace launched an Ariane 5, vehicle 507, flight V135, on Nov 16 at
+0107 UTC. The PAS 1R, STRV 1c/1d, and AMSAT Phase 3D satellites were
+placed in orbit. The EPS stage entered geostationary transfer orbit at
+0134 UTC, followed by separation of the PAS 1R main payload. The two
+small STRV cubes were then ejected from the ASAP-5 secondary payload
+structure at 0141 UTC. At 0149 UTC the SBS cylindrical adapter which
+connected PAS-1R to AMSAT was jettisoned; 50 seconds later AMSAT
+separated from the EPS.  I believe the ASAP-5 remains attached to the
+EPS, but Space Command has cataloged an object they identify as the
+ASAP.
+
+PAS 1R will be stationed over the Atlantic. It is a large Boeing Model
+702 satellite with a dry mass of about 3000 kg (launch mass 4793 kg) and
+a solar panel span of 45m. It carries 36 C and 48 Ku-band transponders.
+PAS 1R is operated by Panamsat, whose fleet includes the former Hughes
+Galaxy system. Meanwhile, the Model 601 Galaxy 7 satellite failed on Nov
+22, the third such satellite to fall victim to a design flaw in the
+on-board computers.
+
+STRV-1c and 1d are small satellites built by the DERA (former Royal
+Aircraft Establishment), Farnborough, England. Mass around 95 kg each.
+STRV-1c performs accelerated life testing of new components
+and materials in the high radiation environment of GTO.
+STRV-1d carries an NRL Space Test Program experiment (S97-2),
+a camera, and technology and computer experiments.
+
+The long-delayed Phase 3D amateur radio satellite, built by AMSAT-DL
+(Germany), was renamed AMSAT-Oscar-40 (AO-40) once launched. It carries
+an MBB S400 liquid engine (actually the backup engine for the Galileo
+Jupiter probe) and a variety of amateur radio payloads in L, S, C, X, V,
+U and K bands, as well as an ammonia arcjet thruster and a laser
+communications experiment. The satellite is the largest amateur
+satellite yet and the first to feature deployable solar panels. Mass is
+397 kg dry.
+
+Just a few days later Arianespace launched an Ariane 44L with Anik F1,
+a new Telesat Canada communications satellite. Anik F1 is a Boeing model 702
+satellite. Launch mass is 4852 kg and dry mass is 2950 kg; it carries
+36 C-band and 48 Ku-band transponders. Telesat Canada became the first
+domestic comsat operator with the launch of Anik A1 in 1972.
+
+Navstar GPS SVN41, the sixth Block IIR navigation satellite, was launched
+on Nov 10 into transfer orbit by a Boeing Delta 7925. The Delta stage
+2 entered a 153 x 418 km x 37 deg parking orbit followed by a 172 x 1144 km
+second orbit; the PAM-D solid upper stage then fired to give SVN 41 a
+20457 km apogee. The GPS Block 2R satellites are built by Lockheed Martin
+and use a Thiokol Star 37FM solid kick motor. The kick motor was fired
+prior to Nov 13 to enter a circular 20000 km orbit.
+
+Another Delta launch on Nov 21 was a model 7320-10 from the West Coast
+pad, complex 2-West at Vandenberg. The main payload was the Earth Orbiter 1
+satellite for NASA's New Millenium Program. Complementing the New Millenium's
+Deep Space series, EO-1 is a NASA-Goddard satellite which demonstrates
+technology for the next generation Landsat. It flies in formation with
+Landsat-7 for comparisons, using a hydrazine thruster to adjust its orbit.
+The satellite uses a MIDEX-derived bus built by Swales Aerospace; dry
+mass is 566 kg. The main instruments are ALI (Advanced Land Imager) and
+the Hyperion 220-band imaging spectrometer.
+
+The second main payload launched with EO-1 is SAC-C, the Satelite de
+Aplicaciones Cientificas C developed by the Argentine space agency CONAE
+and built by the Argentine company INVAP. The 467 kg satellite carries
+a battery of earth observing instruments and will focus on Argentine
+forestry and agriculture studies. SAC-C carries a NASA experiment which
+uses the distortion of GPS signals observed near the horizon to
+derive atmospheric conditions.
+
+The Delta took off from SLC-2W at 1824 UTC on Nov 21. At 1835 the Delta second
+stage completed its first burn and entered a 185 x 713 km x 98.2 deg
+transfer orbit. At 1920 UTC the orbit was circularized and EO-1 separated
+at 1925 UTC into a 682 x 729 km x 98.2 deg orbit. The DPAF dual payload
+support structure, derived from Ariane's SPELDA, was then ejected
+to reveal SAC-C. After a further Delta burn SAC-C was ejected at 1955 UTC
+into a 687 x 707 km x 98.3 deg. A fourth burn put the Delta second
+stage in a 697 x 1800 km x 95.4 deg; the small 6 kg Munin nanosatellite
+was then ejected from the side of the stage. Munin was built by Swedish
+students in collaboration with the Swedish Insitute for Space Physics (IRF)
+and carries a particle detector, a spectrometer, and an auroral camera.
+
+A Kosmos-3M launch failed on Nov 20, with the loss of the QuickBird 1
+satellite. This is a heavy blow to EarthWatch Inc. whose other satellite,
+EarlyBird, failed after a few days in orbit in Dec 1997. EarthWatch's
+rival, SpaceImaging, lost one satellite too but its second Ikonos is
+operating in orbit. 
+
+QuickBird1 was a 1-m resolution imaging satellite using a Ball
+Aerospace BCP-2000 bus. The Kosmos-3M second stage placed QuickBird 1
+in a 81 x 614 km x 65.8 deg orbit but apparently failed to restart
+at apogee, and reentered at the next perigee over S America. Launch was
+around 2300 UTC.
+
+Kosmos-2306 reentered on Oct 30; all the objects released from it
+reentered by Oct 29.
+
+Kosmos-2373, the Kometa mapping satellite, landed on Nov 14.
+Deorbit burn was probably around 2230 UTC; the Vostok/Zenit-style
+sphere landed near Orenburg in Russia at 2253 UTC.
+
+The Chinese Beidou 1 navigation satellite has entered geostationary orbit,
+possibly at around 0500 UTC on Nov 6, and is now on station at 140 deg E.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Oct  1 2200   GE-1A             Proton-K/DM3   Baykonur LC81L   Commsat    59A
+Oct  6 2300   N-SAT-110         Ariane 42L     Kourou ELA2      Commsat    60A
+Oct  9 0538   HETE-2            Pegasus        Kwajalein RW06/24 Astronomy 61A
+Oct 11 2317   Discovery         Space Shuttle  Kennedy LC39A    Spaceship  62A
+Oct 13 1412   Kosmos-2374 )     Proton-K/DM-2  Baykonur         Navsat     63A
+              Kosmos-2375 )                                     Navsat     63B
+              Kosmos-2376 )                                     Navsat     63C
+Oct 16 2127   Progress M-43     Soyuz-U        Baykonur LC1     Cargo      64A
+Oct 20 0039   DSCS III B11      Atlas IIA      Canaveral SLC36A Commsat    65A
+Oct 20?       K-2306 subsat 7 )                Kosmos-2306, LEO Calib   95-08N
+              K-2306 subsat 8 )                                 Calib   95-08P
+              K-2306 subsat 9 )                                 Calib   95-08Q
+              K-2306 subsat 10)                                 Calib   95-08R
+              K-2306 subsat 11)                                 Calib   95-08S
+              K-2306 subsat 12)                                 Calib   95-08T
+              K-2306 subsat 13)                                 Calib   95-08U
+              K-2306 subsat 14)                                 Calib   95-08V
+              K-2306 subsat 15)                                 Calib   95-08W
+              K-2306 subsat 16)                                 Calib   95-08X
+              K-2306 subsat 17)                                 Calib   95-08Y
+              K-2306 subsat 18)                                 Calib   95-08Z
+              K-2306 subsat 19)                                 Calib   95-08AA
+Oct 21 0552   Thuraya 1         Zenit-3SL      Odyssey, POR     Commsat    66A
+Oct 21 2200   GE 6              Proton-K/DM3   Baykonur LC81L   Commsat    67A
+Oct 29 0559   Europe*Star FM1   Ariane 44LP    Kourou ELA2      Commsat    68A
+Oct 30 1602   Beidou            Chang Zheng 3A Xichang LC1      Navsat     69A
+Oct 31 0753   Soyuz TM-31       Soyuz-U        Baykonur LC1     Spaceship  70A
+Nov 10 1714   GPS SVN 41        Delta 7925     Canaveral SLC17A Navsat     71A
+Nov 16 0107   PAS 1R   )        Ariane 5       Kourou ELA3      Commsat    72A
+              AMSAT-Oscar-40)                                   Commsat    72B
+              STRV-1c  )                                        Tech       72C
+              STRV-1d  )                                        Tech       72D
+Nov 16 0132   Progress M1-4     Soyuz-U        Baykonur LC1     Cargo      73A
+Nov 20 2300   QuickBird 1       Kosmos-3M      Plesetsk LC132   Imaging    74A
+Nov 21 1824   EO-1  )           Delta 7320     Vandenberg SLC2W Imaging    75A
+              SAC-C )                                           Imaging    75B
+              Munin )                                           Science    75C
+Nov 21 2356   Anik F-1          Ariane 44L     Kourou ELA2      Commsat    76A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-102 2001 Feb 15  ISS 5A.1
+OV-104 Atlantis        OPF Bay 3     STS-98  2001 Jan 18  ISS 5A
+OV-105 Endeavour       VAB Bay 1     STS-97  2000 Nov 30  ISS 4A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

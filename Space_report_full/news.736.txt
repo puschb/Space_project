@@ -1,0 +1,307 @@
+Jonathan's Space Report 
+No. 736                                                      2017 Mar 21    Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 50 continues. Soyuz MS-02 is docked at Poisk. Soyuz MS-03 is docked at Rassvet.
+Progress MS-05 is docked at Pirs. Dragon CRS-10 was berthed at Harmony nadir until Mar 18.
+
+The NanoRacks NRCSD-10 deployer was extracted from the Kibo airlock on Mar 6.
+Four SpireGlobal Lemur satellites and the TechEdSat-5 satellite were deployed
+from it the same day. The satellites were launched aboard HTV-6 in December.
+TechEdSat-5 carries an ExoBrake experiment to perform a semi-controlled reentry.
+
+The Dextre and Canadarm-2 robot arms were used to unload the experiments in the
+Dragon external cargo trunk on Feb 25-Mar 7 in a rather complicated sequence
+involving Dextre's two main arms and its EOTP (Enhanced ORU Temp Platform, a
+storage position). The experiments were installed on the Express Logistics Carriers
+ELC-1 and ELC-4 on the station truss. Older experiments from ELC-1, ELC-2
+and ELC-4 were removed for disposal.
+
+  Feb 25       Dextre Arm 2 removes STP-H5 from Dragon
+  Feb 27       Dextre Arm 1 removes OPALS from ELC-1 F8
+  Feb 28       Dextre Arm 1 installs OPALS on Dextre EOTP
+  Feb 28       STP-H5 transferred from Arm 2 to Arm 1
+  Feb 28       Dextre Arm 1 installs STP-H5 on ELC-1 F8.
+  Mar  2 2313  Dextre Arm 2 moves SAGE-IP from Dragon to Dextre EOTP
+  Mar  3 1547  Dextre Arm 1 removes SAGE-NVP from Dragon 
+  Mar  3 2222  Dextre Arm 2 moves OPALS from EOTP to Dragon trunk
+  Mar  5       Dextre Arm 2 removes RRM from ELC-4 F3
+  Mar  5       Dextre Arm 1 installs SAGE-NVP on ELC-4 F3
+  Mar  7       Dextre Arm 1 removes SAGE-IP from EOTP, installs it on SAGE-NVP.
+  Mar  8       Dextre Arm 2 installs RRM on EOTP.
+  Mar 10       Dextre       removes DCSU from ELC-2 F2
+  Mar 10       Dextre       removes MISSE FSE from ELC-2 F3
+  Mar 10       Dextre       reinstalls DCSU on ELC-2 F2
+  Mar 13       Dextre       installs MISSE FSE in Dragon trunk.
+  Mar 16       Dextre Arm 1 moves RRM from EOTP to Dragon trunk.
+
+The OPALS laser comm payload was launched in 2014; the RRM Robotic
+Refuelling Mission experiment in 2011. The MISSE FSE is an adapter that
+mounted the MISSE 7 and 8 materials exposure experiments; it was
+launched with ELC-2 in 2009. These packages, with a total mass of 811
+kg, were destroyed on reentry when the Dragon trunk was jettisoned
+following Dragon's deorbit burn.
+
+Dragon was unberthed from the Harmony module at 2145 UTC Mar 18
+and released by Canadarm-2 at 0911 UTC Mar 19. After a deorbit burn
+at 1355 UTC it splashed down in the Pacific near 31 44N 121 15W
+at 1446 UTC, carrying 1652 kg of ISS return cargo. This return
+cargo includes 104 kg of unspecified EVA equipment, per Stephen
+Clark of spaceflightnow.com.
+
+
+NROL-79
+-------
+
+ULA launched Atlas V serial AV-068 on Mar 1 from Vandenberg, carrying a
+National Reconnaissance Office payload to orbit on NRO launch NROL-79.
+The payload is thought to be an NRO/Navy signals intelligence system
+code-named INTRUDER consisting of a pair of satellites in 1010 x 1200 km
+x 63 deg orbit. Both satellites were observed by hobbyists on Mar 3. The
+Centaur second stage was deorbited south of Australia on the first orbit
+with impact around 1956 UTC.
+
+KT-2
+----
+
+On Mar 2 China's CASIC missile agency launched the KT-2, a new orbital
+launch vehicle developed by CASIC's 4th Academy. 
+It placed a small satellite, Tiankun-1, in orbit.
+Tiankun 1, built by the CASIC 2nd Academy (CCMETA), is a test
+of a new satellite bus and probably has a mass of a few hundred kg.
+
+So far as I know the only large missile developed previously by CASIC
+was the DF-21 and its JL-1 submarine sibling; the KT-1 and KZ-1 launch
+vehicles are thought to be based on the DF-21. It has been suggested
+that KT-2 is based on the DF-31 missile which was originally developed
+by CASIC's rival CALT which built the CZ-11 rocket based on that
+missile. This is a bit strange, but would be similar to the way China's
+leaders made  Beijing's CALT and the Shanghai bureau develop the
+rival-but-similar CZ-2 and FB-1 launch vehicles in the 1970s.
+
+
+PSLV launch
+-----------
+
+Identification of the 104 satellites from the PSLV launch is continuing
+with most of the Flock-3p now associated with a catalog number. The
+Nayif-1 satellite with its Funcube-5 amateur radio payload has been
+designated Emirates-OSCAR-88 by AMSAT. The SpireGlobal Lemur satellites
+are not yet identified.
+
+Sentinel-2B
+-----------
+
+The ESA Sentinel-2B imaging satellite, part of the EU's Copernicus Earth observing
+system, was launched by Vega VV09 on Mar 7.
+
+Echostar 23
+-----------
+
+The Echostar 23 communications sat will provide television services to Brazil and Latin
+America for Echostar Corp. It was launched by Falcon 9 F31; the first stage on this
+mission did not have landing legs and no recovery was attempted.
+
+IGS R5
+-------
+
+At 0120 UTC Mar 17, Japan launched the Joho shushu eisei Reda 5-goki (IGS Radar 5) spy
+satellite into polar orbit.
+
+
+WGS 9
+-----
+
+Wideband Global Satcom 9 is to be added to the US DoD communications
+satellite constellation. This WGS was partly funded by allied countries,
+although it is still owned and operated by USAF. A United Launch
+Alliance Delta 4 sent the satellite aloft on Mar 19, first into a 185 x
+6097 km x 27.6 deg parking orbit and then to a 430 x 44262 km x 27.0 deg
+supersynchronous transfer orbit. The Delta 377 second stage was
+deorbited over the Pacific near the Phillipines with reentry around 1230
+UTC.
+
+Cassini
+-------
+
+Cassini continues ring close approaches in a 86600 x 1226000 km x 63.6
+deg orbit around Saturn. This 'Molniya'-style frozen orbit exploits a
+peculiarity of orbital mechanics: an object in orbit with inclination i
+around an oblate (flattened) planet like  Earth or Saturn causes the
+orbital ellipse to rotate in its orbital plane at a rate proportional to
+4 - 5 sin-squared i, which is zero if i = 63.4 degrees. Using this
+'magic' inclination keeps the close approach to Saturn in the ring plane
+instead of letting it drift to higher latitudes.  On Apr 22 Cassini will
+make its last close flyby of Titan; this will lower the orbital
+periapsis to only 2600 km above Saturn's cloud tops and begin the
+Proximal Orbits phase of the mission. It will also mark a record
+close approach to Saturn, finally beating the record it set in Jun 2004
+when it came within 18100 km during Saturn arrival.
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+Feb 14 2139   SkyBrasil-1)          Ariane 5ECA       Kourou ELA3      Comms         07B    S41945  35662 x 35785 x   0.1
+              Telkom-3S  )                                             Comms         07A    S41944  35641 x 35810 x   0.0
+Feb 15 0358   Cartosat-2 Series/4)  PSLV-XL           Sriharikota FLP  Imaging       08A    S41948    505 x   520 x  97.5
+              INS-1A             )                                     Tech          08B    S41949    496 x   508 x  97.5
+              INS-1B             )                                     Imaging       08G    S41954    496 x   507 x  97.5
+              BGUSat             )                                     Tech          08BW?  S42016?  496 x   506 x  97.5
+              PEASSS             )                                     Tech          08BV   S42015   496 x   506 x  97.5
+              Al-Farabi 1        )                                     Tech          08BD?  S41999?  496 x   506 x  97.5
+              Dido-2             )                                     Micrograv     08BE   S42000   496 x   506 x  97.5
+              Nayif-1            )                                     Tech          08BX   S42017   496 x   506 x  97.5
+              Lemur-2-Jopanbutra   )                                   Com/Met-RO    08AV?  S41991?  496 x   506 x  97.5
+              Lemur-2-Spire-Minions)                                   Com/Met-RO    08AW?  S41992?  496 x   506 x  97.5
+              Lemur-2-Satchmo      )                                   Com/Met-RO    08AX?  S41993?  496 x   506 x  97.5
+              Lemur-2-RDeaton      )                                   Com/Met-RO    08AY?  S41994?  496 x   506 x  97.5
+              Lemur-2-Smita-Sharad )                                   Com/Met-RO    08AZ?  S41995?  496 x   506 x  97.5
+              Lemur-2-Mia-Grace    )                                   Com/Met-RO    08BA?  S41996?  496 x   506 x  97.5
+              Lemur-2-NoguesCorreig)                                   Com/Met-RO    08BB?  S41997?  496 x   506 x  97.5
+              Lemur-2-Tachikoma    )                                   Com/Met-RO    08BC?  S41998?  496 x   506 x  97.5
+              Flock 3p-1         )                                     Imaging       08V    S41967   496 x   506 x  97.5
+              Flock 3p-2         )                                     Imaging       08U    S41966   496 x   506 x  97.5
+              Flock 3p-3         )                                     Imaging       08W    S41968   496 x   506 x  97.5
+              Flock 3p-4         )                                     Imaging       08T    S41965   496 x   506 x  97.5
+              Flock 3p-5         )                                     Imaging       08Z    S41971   496 x   506 x  97.5
+              Flock 3p-6         )                                     Imaging       08X    S41969   496 x   506 x  97.5
+              Flock 3p-7         )                                     Imaging       08Y    S41970   496 x   506 x  97.5
+              Flock 3p-8         )                                     Imaging       08D    S41951   496 x   506 x  97.5
+              Flock 3p-9         )                                     Imaging       08AB   S41973   496 x   506 x  97.5
+              Flock 3p-10        )                                     Imaging       08AC   S41974   496 x   506 x  97.5
+              Flock 3p-11        )                                     Imaging       08AD   S41975   496 x   506 x  97.5
+              Flock 3p-12        )                                     Imaging       08AA   S41972   496 x   506 x  97.5
+              Flock 3p-13        )                                     Imaging       08CW   S42040   496 x   506 x  97.5
+              Flock 3p-14        )                                     Imaging       08BS   S42012   496 x   506 x  97.5
+              Flock 3p-15        )                                     Imaging       08CV   S42039   496 x   506 x  97.5
+              Flock 3p-16        )                                     Imaging       08BR   S42011   496 x   506 x  97.5
+              Flock 3p-17        )                                     Imaging       08Q    S41962   496 x   506 x  97.5	
+              Flock 3p-18        )                                     Imaging       08K    S41957   496 x   506 x  97.5	
+              Flock 3p-19        )                                     Imaging       08H    S41955   496 x   506 x  97.5	
+              Flock 3p-20        )                                     Imaging       08C    S41950   496 x   506 x  97.5	
+              Flock 3p-21        )                                     Imaging       08M    S41959   496 x   506 x  97.5	
+              Flock 3p-22        )                                     Imaging       08L    S41958   496 x   506 x  97.5	
+              Flock 3p-23        )                                     Imaging       08BY   S42018   496 x   506 x  97.5	
+              Flock 3p-24        )                                     Imaging       08J    S41956   496 x   506 x  97.5	
+              Flock 3p-25        )                                     Imaging       08S    S41964   496 x   506 x  97.5	
+              Flock 3p-26        )                                     Imaging       08P    S41961   496 x   506 x  97.5	
+              Flock 3p-27        )                                     Imaging       08R    S41963   496 x   506 x  97.5	
+              Flock 3p-28        )                                     Imaging       08N    S41960   496 x   506 x  97.5	
+              Flock 3p-29        )                                     Imaging       08DB?  S42045?  496 x   506 x  97.5	
+              Flock 3p-30        )                                     Imaging       08AR   S41987   496 x   506 x  97.5	
+              Flock 3p-31        )                                     Imaging       08DF   S42049   496 x   506 x  97.5	
+              Flock 3p-32        )                                     Imaging       08CD   S42023   496 x   506 x  97.5	
+              Flock 3p-33        )                                     Imaging       08AU   S41990   496 x   506 x  97.5	
+              Flock 3p-34        )                                     Imaging       08AS   S41988   496 x   506 x  97.5	
+              Flock 3p-35        )                                     Imaging       08AT   S41989   496 x   506 x  97.5	
+              Flock 3p-36        )                                     Imaging       08AQ   S41986   496 x   506 x  97.5	
+              Flock 3p-37        )                                     Imaging       08F    S41953   496 x   506 x  97.5	
+              Flock 3p-38        )                                     Imaging       08CT   S42037   496 x   506 x  97.5	
+              Flock 3p-39        )                                     Imaging       08CU   S42038   496 x   506 x  97.5	
+              Flock 3p-40        )                                     Imaging       08BQ   S42010   496 x   506 x  97.5	
+              Flock 3p-41        )                                     Imaging       08BJ   S42004   496 x   506 x  97.5	
+              Flock 3p-42        )                                     Imaging       08BN   S42008   496 x   506 x  97.5	
+              Flock 3p-43        )                                     Imaging       08BM   S42007   496 x   506 x  97.5	
+              Flock 3p-44        )                                     Imaging       08CP   S42033   496 x   506 x  97.5	
+              Flock 3p-45        )                                     Imaging       08BK   S42005   496 x   506 x  97.5	
+              Flock 3p-46        )                                     Imaging       08CM   S42032   496 x   506 x  97.5	
+              Flock 3p-47        )                                     Imaging       08CN   S42033   496 x   506 x  97.5	
+              Flock 3p-48        )                                     Imaging       08BL   S42006   496 x   506 x  97.5	
+              Flock 3p-49        )                                     Imaging       08BF   S42001   496 x   506 x  97.5	
+              Flock 3p-50        )                                     Imaging       08CK   S42029   496 x   506 x  97.5	
+              Flock 3p-51        )                                     Imaging       08E    S41952   496 x   506 x  97.5	
+              Flock 3p-52        )                                     Imaging       08CL   S42030   496 x   506 x  97.5	
+              Flock 3p-53        )                                     Imaging       08BT   S42013   496 x   506 x  97.5	
+              Flock 3p-54        )                                     Imaging       08BU   S42014   496 x   506 x  97.5	
+              Flock 3p-55        )                                     Imaging       08CX   S42041   496 x   506 x  97.5	
+              Flock 3p-56        )                                     Imaging       08CY   S42042   496 x   506 x  97.5	
+              Flock 3p-57        )                                     Imaging       08AG   S41978   496 x   506 x  97.5	
+              Flock 3p-58        )                                     Imaging       08AF   S41977   496 x   506 x  97.5	
+              Flock 3p-59        )                                     Imaging       08CB   S42021   496 x   506 x  97.5	
+              Flock 3p-60        )                                     Imaging       08AE   S41976   496 x   506 x  97.5	
+              Flock 3p-61        )                                     Imaging       08BP   S42009   496 x   506 x  97.5	
+              Flock 3p-62        )                                     Imaging       08CS   S42036   496 x   506 x  97.5	
+              Flock 3p-63        )                                     Imaging       08CR   S42035   496 x   506 x  97.5	
+              Flock 3p-64        )                                     Imaging       08CQ   S42034   496 x   506 x  97.5	
+              Flock 3p-65        )                                     Imaging       08CJ   S42028   496 x   506 x  97.5	
+              Flock 3p-66        )                                     Imaging       08CH   S42027   496 x   506 x  97.5	
+              Flock 3p-67        )                                     Imaging       08BG   S42002   496 x   506 x  97.5	
+              Flock 3p-68        )                                     Imaging       08BH   S42003   496 x   506 x  97.5	
+              Flock 3p-69        )                                     Imaging       08BZ   S42019   496 x   506 x  97.5	
+              Flock 3p-70        )                                     Imaging       08AJ   S41980   496 x   506 x  97.5	
+              Flock 3p-71        )                                     Imaging       08DH   S42051   496 x   506 x  97.5	
+              Flock 3p-72        )                                     Imaging       08CE?  S42024?  496 x   506 x  97.5	 
+              Flock 3p-73        )                                     Imaging       08AK   S41981   496 x   506 x  97.5	
+              Flock 3p-74        )                                     Imaging       08DE   S42048   496 x   506 x  97.5	 
+              Flock 3p-75        )                                     Imaging       08AH   S41979   496 x   506 x  97.5	
+              Flock 3p-76        )                                     Imaging       08CA   S42020   496 x   506 x  97.5	
+              Flock 3p-77        )                                     Imaging       08CF   S42025   496 x   506 x  97.5	
+              Flock 3p-78        )                                     Imaging       08DD   S42047   496 x   506 x  97.5	 
+              Flock 3p-79        )                                     Imaging       08AN   S41984   496 x   506 x  97.5	
+              Flock 3p-80        )                                     Imaging       08CG   S42026   496 x   506 x  97.5	 
+              Flock 3p-81        )                                     Imaging       08CZ   S42043   496 x   506 x  97.5	 
+              Flock 3p-82        )                                     Imaging       08DC?  S42046?  496 x   506 x  97.5	 
+              Flock 3p-83        )                                     Imaging       08DG?  S42050?  496 x   506 x  97.5	 
+              Flock 3p-84        )                                     Imaging       08CC   S42022   496 x   506 x  97.5	 
+              Flock 3p-85        )                                     Imaging       08AM   S41983   496 x   506 x  97.5	
+              Flock 3p-86        )                                     Imaging       08AP   S41985   496 x   506 x  97.5	
+              Flock 3p-87        )                                     Imaging       08DA   S42044   496 x   506 x  97.5	 
+              Flock 3p-88        )                                     Imaging       08AL   S41982   496 x   506 x  97.5	
+Feb 19 1439   Dragon CRS-10         Falcon 9          Kennedy LC39A    Cargo         09A    S42053   204 x   359 x  51.6
+Feb 22 0558   Progress MS-05        Soyuz-U           Baykonur LC1     Cargo         10A    S42056   186 x   210 x  51.6
+Mar  1 1749   USA 274      )        Atlas V 401       Vandenberg SLC3E Sigint        11A    S42058  1010 x  1204 x  63.4
+              USA 274 P/L 2)                                           Sigint        11B    -       1009 x  1204 x  63.5
+Mar  2 2353   Tiankun-1             KT-2              Jiuquan          Tech          12A    S42062   373 x   404 x  96.9
+Mar  6 1025   Lemur-2-Trutna     )                    ISS, LEO         AIS/MetRO   98067LA? S42059?  396 x   409 x  51.6
+              Lemur-2-TrutnaHD   )                                     AIS/MetRO   98067LB?          396 x   409 x  51.6
+Mar  6 1505   Lemur-2-Austintacious )                 ISS, LEO         AIS/MetRO   98067LC?          396 x   409 x  51.6
+              Lemur-2-Redfern-Goes  )                                  AIS/MetRO   98067LD?          396 x   409 x  51.6
+Mar  6 1820   TechEdSat-5                             ISS, LEO         Tech        98067LE?          396 x   409 x  51.6
+Mar  7 0149   Sentinel-2B           Vega              CSG ZLV          Imaging       13A    S42063   776 x   782 x  98.6
+Mar 16 0600   Echostar 23           Falcon 9          Kennedy LC39A    Comms         14A    S42070   179 x 35903 x  22.4
+Mar 17 0120   IGS Radar 5           H-IIA 202         Tanegashima      Radar Imaging 15A    S42072   500?x   510?x  97.5
+Mar 19 0018   WGS 9                 Delta 4M+(5,4)    Canaveral SLC37B Comms         16A    S42075   430 x 44262 x  27.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Feb  4 0830   SFTM-1 Target     ?                  Kauai                 Target        200?      Pacific
+Fab  4 0833?  SFTM-1 KV         SM-3-IIA           DDG-53, Pacific       Intercept     150?      SFTM-1 
+Feb  9 0739   RV x 3?           Minuteman 3        Vandenberg LF10       Test         1300?      Kwajalein
+Feb 11 2255   RV                Bukgueksong-2      North Pyongan         Test          500?      Sea of Japan
+Feb 14 1130   RV x 8?           Trident D-5   Unknown sub, Cape Arguello Test         1000?      Wake Island
+Feb 14 1420   RV x 8?           Trident D-5   Unknown sub, Cape Arguello Test         1000?      Wake Island
+Feb 15?       RV x 8?           Trident D-5   Unknown sub, Cape Arguello Test         1000?      Wake Island
+Feb 16?       RV x 8?           Trident D-5   Unknown sub, Cape Arguello Test         1000?      Wake Island
+Feb 22 1014   ISINGLASS-1       Black Brant 9      Poker Flat, Alaska    Auroral       362       Poker Flat zone 4
+Mar  2 0541   NASA 36.301GE     Black Brant 9      Poker Flat, Alaska    Auroral       330       Poker Flat zone 4
+Mar  2 0542   NASA 36.306GE     Black Brant 9      Poker Flat, Alaska    Auroral       190       Poker Flat zone 4
+Mar  2 0750   ISINGLASS-2       Black Brant 9      Poker Flat, Alaska    Auroral       365       Poker Flat zone 4
+Mar  5 2237   RV                Hwasong ER?        Sohae?                Test          260?      Sea of Japan
+Mar  5        RV                Hwasong ER?        Sohae?                Test          260?      Sea of Japan
+Mar  6?       RV                Hwasong ER?        Sohae?                Test          260?      Sea of Japan
+Mar  6?       RV                Hwasong ER?        Sohae?                Test          260?      Sea of Japan
+Mar 15 1043   REXUS 21          Imp. Orion         Kiruna                Micrograv      86       ESRANGE B zone
+Mar 16 1300   REXUS 22          Imp. Orion         Kiruna                Micrograv      84       ESRANGE B zone
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+

@@ -1,0 +1,164 @@
+Jonathan's Space Report
+No. 288                     1996 May 28              Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+OV-105 Endeavour (mission STS-77) was launched on May 19 at 1030 UTC.
+The solid rocket boosters (RSRM-47) separated at 1032 UTC, and the main
+engines shut down at 1038 UTC, with external tank ET-78 jettisoned
+shortly afterwards, to place the Orbiter in an elliptical transfer
+orbit. This was the first launch to use three of the improved Block I
+engines. The two smaller OMS engines were fired at apogee at 1112 UTC,
+circularizing the orbit. At 1214 UTC opening of the payload bay doors
+was complete and Endeavour was declared 'Go for Orbit Ops' in a 280 x
+290 km x 39.0 deg orbit.
+
+On May 20 at 1129 UTC the Spartan 207 satellite was deployed from the
+robot arm. Endeavour moved 120 m from the satellite, and at 1338 UTC the
+Spartan began deploying the Inflatable Antenna Experiment (IAE). Three
+28-m booms inflated to push the dish away from the satellite; the dish
+then inflated to make a 14-m diameter parabolic antenna. The Spartan/IAE
+was observed to tumble slowly. The IAE was jettisoned at 1458 UTC (?) on
+May 20. A day later at 1453 UTC on May 21, Canadian astronaut Marc
+Garneau used the RMS arm to retrieve Spartan 207 from orbit, together
+with its cameras which had filmed the IAE deployment.
+
+On May 22 at 1018 UTC the PAMS STU (Satellite Test Unit) was ejected
+from the TEAMS MPESS bridge in the Shuttle's payload bay. PAMS-STU is
+intended to test out a passive aerodynamic stabilization and magnetic
+damping system. At around 1500 UTC Endeavour returned to PAMS-STU in the
+first of three rendezvous operations with the small satellite. A second
+rendezvous was conducted on May 25 and the third on May 27.
+
+Meanwhile, aboard the Mir complex, the EO-21 commander Yuriy Onufrienko
+and flight engineer 1 Yuriy Usachyov made a spacewalk on May 24 at on
+May 20 at 2250 UTC. The cosmonauts removed the US/Russian Mir
+Cooperative Solar Array (MCSA) from its location on the exterior of the
+316GK Stikovochnoy Otsek (Docking Compartment) and carried it to the
+other end of  the complex using the Strela-2 crane. The MCSA was
+attached to the 37KE Kvant module, opposite another panel which was
+added last year. The EVA concluded at 0410 UTC on May 21 after 5h 20m.
+The second spacewalk began on May 24 at 2047 UTC. Onufrienko and
+Usachyov completed the installation of the MCSA and connected it
+electrically. The spacewalk was concluded on May 25 at 0230 UTC. The
+MCSA panel was deployed from its initial folded configuration on  May
+25. (Source: C. v.d.Berg's Mir News).
+
+Columbia was transferred to the VAB on May 21 and was mated
+to the external tank for STS-78 on May 22.
+
+Recent Launches
+---------------
+
+Orbital Sciences Corp. has had another launch success, placing the DoD's
+MSTI-3 satellite in orbit aboard a Pegasus. The Lockheed L-1011 carrier
+aircraft took off from Vandenberg Air Force Base's runway 30/12 and
+proceeded to the drop point at 36 deg 0 min N, 123 deg 0 min W over the
+Pacific. The Pegasus rocket was released and a few seconds later ignited
+the first of its three stages. It is the 'Pegasus Hybrid' version,
+a standard Pegasus with modified fins to accommodate the L-1011 carrier
+plane instead of the original B-52. 
+
+MSTI 3 will test out new sensor technology for ballistic missile
+defense. The satellite is built by Spectrum Astro Inc, and carries three
+sensors: a mid wave IR camera, a short wave IR camera, and a visible
+imaging spectrometer. Its goal is to study the IR emission from the
+Earth to determine if tactical ballistic missiles can be spotted during
+their coast phase against the bright Earth background. Initial checkout
+of the satellite is reported to have gone well.
+
+The Galaxy 9 comsat was launched on May 23 by a  McDonnell Douglas Delta
+7925 rocket from Cape Canaveral. The Hughes HS-376 satellite will
+provide communications for the Hughes Galaxy network.
+It has 24 C-band transponders which will be
+used for cable TV feeds.
+
+The Russian Space Forces launched a Krunichev Proton-K rocket on
+May 25 with an RKK Energiya Blok DM-2 upper stage. The vehicle placed
+an NPO Prikladnoi Mekhaniki `Gorizont' communications satellite
+in orbit, reportedly nicknamed `Prezidentskiy' since it will provide coverage
+of the Russian presidential election campaign to Western Siberia and the
+Ural region.
+
+The initial orbit of the putative USA 119 payload, as derived by Rainer
+Kracht from  amateur observations, was 312 x 622 km x 63.4 deg. The
+payload was later found to have moved to a 1050 x 1150 km x 63.4 deg
+orbit, characteristic of the US Navy ocean surveillance triplet
+spacecraft. Four objects have been cataloged by Space Command, including
+1996-29D = USA-122, but no orbital data have been officially released.
+
+The Italian Satellite per Astronomia a raggi X has been renamed
+BeppoSAX in honor of Guiseppe 'Beppo' Occhialini, a pioneer in Italian
+gamma ray and cosmic ray astronomy.
+
+The McDonnell Douglas/NASA DC-XA reusable vertical-landing rocket
+made its first flight from White Sands on May 18, reaching an apogee of 240 m.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Apr  3 2301   Inmarsat III F1  Atlas IIA      Canaveral LC36  Comsat      20A
+Apr  8 2309   Astra 1F         Proton-K/DM3   Baykonur LC81   Comsat      21A
+Apr 20 2236   M-SAT 1          Ariane 42P     Kourou ELA2     Comsat      22A
+Apr 23 1148   Priroda          Proton-K       Baykonur LC81   Spaceship   23A
+Apr 24 1227   MSX              Delta 7920     Vandenberg SLC2W Mil.tech.  24A 
+Apr 24 1303   Kosmos-2332      Kosmos-3M      Plesetsk        Radar cal   25A
+Apr 24 2337   USA-118          Titan 401      Canaveral LC41  Sigint      26A
+Apr 30 0431   BeppoSAX         Atlas I        Canaveral LC36B Astronomy   27A
+May  5 0704   Progress M-31    Soyuz-U        Baykonur LC1    Cargo       28A
+May 12 2132   USA-119          Titan 403?     Vandenberg SLC4E Recon?     29A
+              USA-120?                                                    29B?
+              USA-121?                                                    29C?
+              USA-122                                                     29D
+May 14        Kometa?          Soyuz-U        Baykonur LC31   Recon       FTO
+May 16 0156   Palapa C2   )    Ariane 44L     Kourou ELA2     Comsat      30A
+              AMOS        )                                   Comsat      30B
+May 17 0244   MSTI-3           Pegasus        L-1011,Pacific  Technology  31A
+May 19 1030   Endeavour        Shuttle        Kennedy LC39B   Spaceship   32A
+              Spartan 207                                     Technology  32B
+              IAE                                             Technology  32C
+              PAMS STU                                        Technology  32D
+May 23 2310   Galaxy 9         Delta 7925     Canaveral LC17B Comsat      33A
+May 25        Gorizont         Proton-K/DM2   Baykonur        Comsat      34A
+
+
+
+Payloads no longer in orbit
+--------------------------
+
+May 13        Kosmos-2293
+May 22        IAE
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        VAB Bay 3     STS-78  Jun 27
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-79  Jul 31
+OV-105 Endeavour       On orbit      STS-77  
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                    LC39B
+ML2/RSRM-54             VAB Bay 1      STS-79
+ML3/RSRM-55/ET-79/OV102 VAB Bay 3      STS-78
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

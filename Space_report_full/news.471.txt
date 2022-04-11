@@ -1,0 +1,110 @@
+Jonathan's Space Report
+No. 471                                            2002 Jan 26 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Expedition 4 crewmembers Walz and Onufrienko made a spacewalk from the
+Pirs module on Jan 14. Depress was around 2050 UTC, with hatch open at
+2059 UTC and egress around 2110 UTC. The astronauts moved the Strela-2
+crane from PMA-1 to Pirs and installed it there; the Strela-1 crane was
+already functional on Pirs. They also installed an amateur radio antenna
+on Zvezda. On Jan 15 at about 0254 UTC the crew jettisoned two pairs of
+Orlan spacesuit gloves and a pair of towels used to wipe the spaceuits
+down, because of concerns about contamination from Zvezda thrusters.
+They reentered Pirs at 0255 UTC, with hatch close at 0302 UTC and
+repressurization above 50 mbar at about 0304 UTC.
+
+A second spacewalk was made by Bursch and Onufrienko on Jan 25.
+They installed plume deflectors around the Zvezda thrusters and
+set up some exposure experiments. The Pirs airlock was depressurized
+probably about 1510 UTC, with hatch open at 1519 UTC; hatch close was
+at 2118 UTC and repressurization began at 2120 UTC.
+
+The next Shuttle mission is STS-109, which will install
+new equipment on the Hubble Space Telescope.
+
+
+Recent Launches
+---------------
+
+Lockheed Martin's Titan 4B-38 was launched from Cape Canaveral at 0030
+UTC on Jan 16. The Titan core stage shut down 9 min after launch on a
+suborbital trajectory, and separated from the upper stage, Centaur
+TC-19. TC-19 made three burns to parking orbit, geostationary transfer
+orbit, and finally geostationary orbit. It then released the payload,
+the US Air Force communications  satellite Milstar Flt-5. Built by
+Lockheed Martin/Sunnyvale, Milstar provides secure communications in the
+EHF, SHF and UHF bands and has a mass of about 4550 kg. Flt-5 will be
+stationed over European longitudes.
+
+Arianespace launched an Ariane 42L on Jan 23 from Kourou. The
+rocket placed the Insat 3C satellite in geostationary transfer
+orbit. Insat 3C is an Indian communications satellite and
+has a mass of 1050 kg empty, 2750 kg fuelled. It carries 30 C-band
+and 2 S-band transponders.
+
+Galileo made a 102 km flyby of Io on Jan 17 at 1409 UTC. Unfortunately
+the harsh radiation environment made the spacecraft safemode at 1341
+UTC; it was reactivated at 0400 UTC on Jan 18. Closest approach to
+Jupiter was 322000 km at 1622 UTC on Jan 17. Galileo is now on its way
+back to an apoapsis of about 25 million km, and will fall back in to
+flyby Jupiter V (Amalthea) on Nov 5.
+
+The EUVE observatory is approaching reentry. On Jan 26 it was
+in a 227 x 233 km x 28.4 deg orbit. It was launched in June 1992
+into a 514 x 528 km orbit.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Dec  1 1804   Kosmos-2380 )     Proton-K/DM2   Baykonur         Navsat       53C
+              Kosmos-2381 )                                     Navsat       53B
+              Kosmos-2382 )                                     Navsat       53A
+Dec  5 2219   Endeavour )       Shuttle        Kennedy LC39B    Spaceship    54A
+              Raffaello )
+Dec  7 1507   Jason 1   )       Delta 7920-10  Vandenberg SLC2W Science      55A
+              TIMED     )                                       Science      55B
+Dec 10 1719   Meteor-3M )       Zenit-2        Baykonur LC45    Weather      56A
+              Badr B    )                                       Imaging      56
+              Maroc-Tubsat)                                     Imaging      56
+              Kompas    )                                       Science      56
+              Reflector )                                       Technology   56
+Dec 21 0400   Kosmos-2383       Tsiklon-2      Baykonur LC90    Siginit      57A
+Dec 28 0324   Kosmos-2384 )     Tsiklon-3      Plesetsk LC32    Comms relay  58
+              Kosmos-2385 )                                     Comms relay  58
+              Kosmos-2386 )                                     Comms relay  58
+              Gonets-D1   )                                     Comms relay  58
+              Gonets-D1   )                                     Comms relay  58
+              Gonets-D1   )                                     Comms relay  58
+Jan 16 0030   Milstar FLT-5     Titan Centaur  Canaveral SLC40  Comms        01A
+Jan 23 2347   Insat 3C          Ariane 42L     Kourou ELA2      Comms        02A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        VAB           STS-109 2002 Feb 28  HST SM-3B
+OV-103 Discovery       VAB           Maintenance
+OV-104 Atlantis        OPF Bay 2?    STS-110 2002 Apr  4  ISS 8A
+OV-105 Endeavour       OPF Bay 1?    STS-111 2002 May  2  ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

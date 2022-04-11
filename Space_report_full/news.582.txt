@@ -1,0 +1,150 @@
+Jonathan's Space Report
+No. 582                                          2007 Jul 7, Somerville
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Yurchikin, Kotov and Anderson continue the Expedition 15 mission
+on board the Station.
+
+OV-104 Atlantis was mounted on one of the Boeing 747 Shuttle Carrier
+Aircraft (SCA), NASA 905, at Dryden Flight Research Center, for
+transport back to Kennedy Space Center in Florida. NASA 905 took off
+from Edwards AFB Runway 22 at 1304 UTC on Jul 1 and landed around 1546
+UTC at Amarillo, Texas. Later that day it flew onward to Offutt
+Air Force Base in Nebraska (info from nasaspaceflight.com). On Jul
+2 the SCA continued to Ft Campbell, Kentucky and on Jul 3 returned
+to the Shuttle Landing Facility at Kennedy Space Center. By Jul 4
+Atlantis was in the Orbiter Processing Facility, while in the Vehicle
+Assembly Building Endeavour was being mated to external tank ET-117
+and the RSRM-97 solid boosters in preparation for the August launch
+of STS-118.
+
+
+Yaogan 2
+--------
+
+The Chinese Yaogan remote sensing satellites are something of a mystery.
+They are rumoured to carry SAR (synthetic aperture radar) and be at
+least partly for military surveillance applications. The first
+Yaogan was launched on a three-stage CZ-4 in 2006; the final stage
+ended up in a 452 x 624 km orbit, while Yaogan was tracked in a
+601 x 621 km orbit that was raised over a few days to 623 x 626 km.
+It's not clear whether Yaogan entered the final-stage orbit first
+and raised its own perigee, or whether (more likely?) it was deployed
+in the 601 x 621 km orbit, and the final stage then made a depletion
+burn to drop its. 
+
+Yaogan 2, launched this year on a two-stage CZ-2D, entered a 631 x 655
+km orbit and does not appear to have made any significant maneuvers. No
+other object from the launch has been cataloged by US sensors - what
+happened to the CZ-2D second stage? Did Yaogan 2 perform orbit insertion
+with an onboard engine leaving the second stage in a suborbital trajectory?
+Did the second stage remain attached to the Yaogan 2 payload, either
+deliberately or as a result of a separation failure? Did the second
+stage make a major depletion burn that removed it from orbit? (This
+would be unprecedented for the CZ-2D, but would be a welcome innovation).
+It will be interesting to follow this and later Yaogan missions and
+see if a pattern emerges.
+
+Kosmos-2427
+-----------
+
+Russia's Kobal't-M imaging satellite Kosmos-2427 was launched into a 167
+x 339 km x 67.1 deg orbit on Jun 7. It raised the orbit on Jun 11 to 182
+x 354 km; the orbit then slowly decayed until Jun 19, when it was
+lowered slightly  from 179 x 335 km to 175 x 325 km. On Jun 28 the orbit
+was boosted to 183 x 348 km, and on Jul 5 to 169 x 375 km.
+
+Genesis-2
+----------
+
+Bigelow Aerospace's Genesis-2 spacecraft was launched into orbit on Jun
+28 by a Dnepr rocket from the Yasniy spaceport in Russia, at the former
+Dombarovskiy ICBM base. Jim Oberg reports that silo 1-1 was used.
+Genesis-2 inflated from an initial diameter of 1.8m to 2.5m and deployed
+4 solar panels; the pressurized vehicle is a 1/3 scale model of a
+proposed space station module. The spacecraft is in a 555 x 562 km x
+64.5 deg orbit. As is normal with Dnepr launches, the nose fairing ended
+up in a higher 545 x 1792 km x 64.5 deg trajectory.
+
+Kosmos-2428
+-----------
+
+Russia launched a Tselina-2 electronic intelligence satellite on
+Jun 29 from Baykonur into a 846 x 856 km x 71.0 deg orbit.
+The Tselina-2 satellites are built by the Ukranian company Yuzhnoye,
+as is the Zenit-2M rocket used to launch it. This was the first launch
+of the Zenit-2M, an improved version of the Zenit-2. The rocket was upgraded
+using components developed for the Sea Launch/Land Launch program.
+The second stage of the Zenit-2 uses four small motors to separate from
+its payload; the covers of these motors are ejected into a higher orbit
+of 850 x 1150 km.
+
+Catalog 29676 and others
+--------------------------
+
+For some strange reason or administrative oversight, Space Command
+catalog number 29676 has still not been assigned, even though 
+the catalog is otherwise complete up to number 31799. It was briefly
+assigned to 2006-61B, a piece from the Meridian 1 launch, but then
+removed. Numbers  26743 and 26861 are also vacant.
+
+SAR-Lupe 2
+----------
+
+Germany's second SAR-Lupe radar reconnaissance satellite
+was launched on Jul 2 by a Russian Kosmos-3M rocket from Plesetsk
+into a 469 x 507 km x 98.2 deg orbit.
+
+
+DirecTV 10
+----------
+
+The DirecTV 10 Ka-band television broadcasting satellite, a Boeing 702
+model, was launched  by a Krunichev Proton-M on July 7. The Briz-M
+stage's first three burns took it from -397 x 174 km to 173 x 173 km
+to 257 x 5000 km to 315 x 14190 km. The Briz-M stage
+drop tank was left in a 315 x 14190 km x 46 deg orbit; DirecTV was in a
+414 x 35812 km x 45 deg geostationary transfer orbit by 0501 UTC, with a
+further burn at 1004 UTC placing it in a 4898 x 35786 km x 21.36 deg
+orbit. At this point the Briz-M separated, leaving the satellite's
+own propulsion to take it to geostationary orbit.
+
+Zhongxing 6B
+------------
+
+Chinasat's new ZX-6B satellite, a Thales Alenia Spacebus 4000,
+was launched by a CZ-3B on Jul 4 into a 233 x 49721 km x 24.2 deg
+transfer orbit.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun  7 1800   Kosmos-2427       Soyuz-U          Plesetsk        Imaging     22A
+Jun  8 0234   COSMO-Skymed 1    Delta 7420       Vandenberg SLC2 Radar       23A   
+Jun  8 2338   Atlantis (STS-117) Space Shuttle   Kennedy LC39A   Spaceship   24A
+Jun 10 2340   'Ofeq 7           Shavit           Palmachim       Imaging     25A
+Jun 15 0214   TerraSAR-X        Dnepr            Baykonur LC109  Radar       26A
+Jun 15 1511   USA 194)          Atlas V 401      Canaveral SLC41 Sigint      27A
+              NRO?   )                                           Sigint      27C
+Jun 28 1502   Genesis 2         Dnepr            Yasniy          Tech        28A
+Jun 29 1000   Kosmos-2428       Zenit-2M         Baykonur LC45/1 Sigint      29A
+Jul  2 1938   SAR-Lupe 2        Kosmos-3M        Plesetsk LC132  Radar       30A
+Jul  4 1208   Zhongxing 6B      Chang Zheng 3B   Xichang LC2     Comms       31A
+Jul  7 0116   DirecTV 10        Proton-M/Briz-M  Baykonur LC200/39 Comms     32A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

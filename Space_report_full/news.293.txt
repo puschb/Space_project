@@ -1,0 +1,99 @@
+Jonathan's Space Report
+No. 293                       1996 Jul 16               Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+NASA has announced that the SRBs for STS-79 will be replaced,
+delaying the mission until September, because of concerns about
+hot gas in the field joints during STS-78. A new adhesive used
+in the booster assembly is the leading suspect.
+
+Currently Atlantis is attached to External Tank ET-80 and booster
+integration set BI-82 (with the RSRM-54 solid booster pair) on Mobile
+Launcher 2, while the left booster for BI-83 (RSRM-56)  is being stacked
+on Mobile Launcher 1. BI-83 was originally to be the stack for STS-80.
+The two Mobile Launchers are probably in VAB High Bays 1 and 3, but I
+don't know which is in which.  Presumably the Orbiter will first be
+destacked from the ET-80 (External Tank), then the ET will be moved from
+BI-82 to BI-83, and the orbiter restacked on the new stack on Mobile
+Launcher 1.  (I assume the ET-81 originally intended for the new BI-83
+SRBs is not ready yet). Most likely, BI-82 (the suspect boosters) will
+be disassembled, and the segments will be refurbished with a different
+adhesive.
+
+
+Recent Launches
+---------------
+
+A Navstar Block IIA Global Positioning System satellite, spacecraft
+number 40 or IIA-26, was launched on Jul 16 by McDonnell Douglas Delta
+7925 from Cape Canaveral into an elliptical 191 x 20354 km x 35.0 deg
+transfer orbit. The Block IIA Navstar GPS satellites are built by
+Rockwell; the satellite will use a Star 37 solid motor to circularize
+its orbit at 20000 km altitude.  The remaining Block IIA satellites
+awaiting launch are Navstar SVN 30 and Navstar SVN 38. 
+
+The USA-125 satellite launched on Jul 3 into a 300 km orbit appears to
+have maneuvered into a higher orbit around Jul 8. It may be a second
+generation Satellite Data System payload which relays data from recon
+satellites.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+
+Jun  4 1234   Cluster F1  )    Ariane 5       Kourou ELA3     Science     FTO
+              Cluster F2  )
+              Cluster F3  )
+              Cluster F4  )
+Jun 15 0655   Intelsat 709     Ariane 44P     Kourou ELA2     Comsat      35A
+Jun 20 1449   Columbia      )  Shuttle        Kennedy LC39B   Spaceship   36A
+              Spacelab LMS 1)
+Jun 20 1845   Kosmos           Soyuz-U        Plesetsk        Recon       FTO
+Jul  2 0748   TOMS             Pegasus XL     Vandenberg      Rem.sens.   37A
+Jul  3 0031   USA 125          Titan 404      Canaveral LC40  Comsat?     38A
+Jul  3 1047   Apstar 1A        Chang Zheng 3  Xichang         Comsat      39A
+Jul  9 2224   Arabsat 2A  )    Ariane 44L     Kourou ELA2     Comsat      40A
+              Turksat 1C  )                                   Comsat      40B
+Jul 16 0050   Navstar SVN 40   Delta 7925     Canaveral LC17B Navsat      41A
+
+
+Payloads no longer in orbit
+--------------------------
+
+Jul  7        Columbia/LMS         Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-80  Oct 31
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        VAB           STS-79  Jul 31
+OV-105 Endeavour       OPF Bay 3     OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-56                VAB            STS-80
+ML2/RSRM-54/ET-80/OV-104   VAB            STS-79    
+ML3/                       LC39B          STS-78
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

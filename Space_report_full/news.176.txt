@@ -1,0 +1,90 @@
+Jonathan's Space Report 
+No. 176       1993 Dec 1
+------------------------------------------------------------------------------
+Thanks again to Joel Runes and Vladimir Agapov for contributing info.
+
+Shuttle  
+-------  
+
+The first attempt to launch STS-61 was scrubbed on Dec 1 due to weather.
+
+Mir
+---
+
+Cosmonauts Tsibliev and Serebrov continue in orbit aboard Mir, beginning
+their fifth month aboard the station.
+The Progress M-20 cargo spacecraft was undocked and deorbited on
+Nov 21. It was reported to be carrying a Raduga reentry capsule
+but I don't know if it was recovered successfully.
+
+Launches
+--------
+
+The Gorizont satellite launched on Nov 18 is reportedly the one purchased
+by the US company Rimsat for Pacific Rim communications. It will be
+stationed at 130 degrees E. 
+
+Solidaridad 1 is a Hughes HS-601 comsat built for the Mexican government
+company Telecomunicaciones de Mexico. 
+
+Meteosat 6 is part of ESA's Meteosat Operational Program. Ownership
+of the Aerospatiale-built satellite will be transferred to EUMETSAT,
+the European Meteorological Satellite Organization, in February.
+
+Atlas Centaur 106, an Atlas II variant with an IABS apogee stage,
+launched another Defense Satellite Communications System comsat
+for the US DoD on Nov 28. The next Atlas launch is the first
+Atlas IIAS, with strap-on solid boosters. 
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Oct 11 2133     Progress M-20   Soyuz           Baykonur LC1    Cargo      64A
+Oct 18 1453     Columbia      ) Space Shuttle   Kennedy  LC39B  Spaceship  65A
+                Spacelab SLS 2)
+Oct 22 0646     Intelsat 701    Ariane          Kourou    ELA2  Comsat     66A
+Oct 26 1000     Kosmos-2265     Kosmos          Plesetsk  LC132 Calib      67A
+Oct 26 1704     Navstar GPS 34  Delta 7925      Canaveral LC17  Navsat     68A
+Oct 28 1517     Gorizont        Proton          Baykonur  LC81  Comsat     69A
+Nov  2 1210     Kosmos-2266     Kosmos          Plesetsk  LC132 Navsat     70A
+Nov  5 0825     Kosmos-2267     Soyuz           Baykonur  LC1   Recon      71A
+Nov 18 1355     Rimsat/Gorizont Proton          Baykonur  LC81  Comsat     72A
+Nov 20 0117     Solidaridad 1 ) Ariane          Kourou    ELA2  Comsat     73A
+                Meteosat 6    )                                 Weather    73B
+Nov 28 2340     DSCS III        Atlas Centaur   Canaveral LC36  Comsat     74A
+
+
+Reentries
+---------
+
+Oct 13          Progress M-19   Deorbited
+Nov  1          Columbia        Landed 
+Nov 20          Kosmos-808      Reentered
+Nov 21          Progress M-20   Deorbited
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-62
+OV-103 Discovery       OPF Bay 3     STS-60
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LC39B         STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/                                 
+ML2/RSRM-23/ET-61/OV-105 LC39B       STS-61
+ML3/RSRM-35?/ET?         VAB Bay 3   STS-60
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 

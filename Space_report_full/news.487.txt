@@ -1,0 +1,185 @@
+Jonathan's Space Report
+No. 487                                          2002 Sep 10, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 5 crew remain aboard the Station.  The next mission to
+Station is the STS-112 flight in early October.
+
+Four more pieces of debris (27521-27524) have recently been cataloged in
+low orbit, associated with the station but 200 km below it. They are
+probably associated with the spacewalks in August and have already lost
+altitude due to friction with the atmosphere.
+
+The STS-112 mission will deliver the S1 (Starboard 1) truss to the Station,
+and attach it to the end of S0. S1 mostly consists of a thermal
+control system, with big ammonia cooling loops and three large radiator
+panels each 3.3m x 22.9m. The three panels are attached to a single
+base structure which can rotate relative to the truss to orient the
+radiators. On the other side of the truss is the CETA cart, 
+which will be used to ferry equipment along the mobile transporter
+railway. S1 was built by Boeing/Huntingdon Beach and Boeing/Huntsville.
+CETA may also be built at Huntingdon Beach but I'm not sure.
+
+Jonathan's Cargo Bay Manifest estimate for STS-112:
+
+                                                        Mass/kg
+Bay 1-2    Orbiter Docking System                        1800
+           2 EMU spacesuits?                              240?
+Bay 3-13   S1 Integrated Truss Segment                  12572
+           CETA Cart A                                    283
+Sill       RMS                                            410
+---------------------------------------------------------------
+Total                                                   15305?
+
+
+Recent Launches
+---------------
+
+Japan's H-2A rocket successfully launched the DRTS and USERS satellites
+at 0820 UTC on Sep 10. USERS is in a 440 x 455 km x 30.4 deg orbit. As
+of Sep 11, DRTS (renamed Kodama) was in a 7414 x 36013 km x 12.0 deg
+transfer orbit, presumably following a first apogee engine firing. A
+later engine firing failed. 
+
+H-2A-F3 is the H-2A 2024 variant, with 2 large strapons and 2 small
+strapons, and a 4-meter fairing of the 4/4D-LC type. After launch from
+Tanegashima the first stage burned for 6 minutes and separated prior to
+the second stage first burn, which concluded at 0832 UTC in a 450 km
+circular orbit. The USERS satellite separated at 0833 UTC. USERS is the
+Unmanned Space Experiment Recovery System, developed and operated by the
+USEF consortium for the Ministry of Trade and Industry. It carries
+microgravity and technology experiments and consists of a service module
+(SEM), made by Mitsubishi, and a reentry vehicle (REV) and propulsion
+module (PM), made by Nissan. The PM/REV will separate from the SM after
+eight months in space. The PM fires to put the PM/REV in a -110 x 450 km
+orbit over the Indian Ocean; the PM will separate at 120 km altitude and
+be destroyed on reentry while the REV is recovered at 151E 22N in the
+Pacific near Japan's Ogasawara Islands. I don't have any details on the
+PM deorbit motor - please pass them on if you know anything (mass, size,
+thrust, burn time, manufacturer - probably Nissan).  The SEM has a mass
+of 800 kg; the REV/PM has a total mass of 926 kg, but I don't know the
+separate masses of REV, PM and PM motor.
+
+At 0836 UTC the USERS payload attach adapter was jettisoned, and the two
+semi-cylindrical halves of the fairing below it were also separated,
+revealing the DRTS payload inside still attached to the second stage.
+The second stage reignited at 0846 UTC and burned for 2.5 minutes,
+entering geostationary transfer orbit. The DRTS satellite then
+separated. DRTS/Kodama is a Japanese analog to the TDRS satellites, and
+will be used for data relay and intersatellite communications. It is
+built by Mitsubishi for the Japanese NASDA space agency and has a mass
+of 1300 kg (dry), plus a further 1500 kg of propellant at launch for its
+propulsion system. The apogee engine is a 500N thruster and is a
+downrated version of the 1700N LAPS-derived engine used in the  earlier
+COMETS satellite. The engine appears to have failed after a couple of
+burns. DRTS has a 3.6-meter Ka-band dish.
+
+India has launched a weather satellite, METSAT, in the first use of the
+PSLV (Polar Satellite Launch Vehicle) to a geostationary transfer
+trajectory. METSAT is about 1000 kg at launch; ISRO has not
+released any information on the size of the satellite.
+The launch was from the Satish Dhawan Space Centre at the Sriharikota
+Range (SHAR). PSLV-C4 has an uprated fourth stage; the third
+stage was apparently suborbital with a Pacific Ocean impact, and
+the fourth stage reached GTO without a parking orbit (this is subject
+to confirmation, as ISRO's press info didn't include details of
+the trajectory). Apogee of the PS4 stage is 34500 km; the remaining
+distance to geostationary orbit was made up by METSAT's on-board fuel.
+
+Rumour has it that China carried out the first launch of the three-stage
+solid-fuelled KT-1 (Kaituozhe-1) rocket on Sep 15. KT-1 is apparently
+based on the DF-31 ballistic missile. The test launch carried a 50 kg
+satellite and was trying to reach a 300 km polar orbit, but apparently
+the launch was a failure. Since I haven't managed to confirm the rumour,
+I'm not including this launch in my launch list.
+
+An object has been detected in deep Earth orbit which is probably a
+recaptured Apollo Saturn IVB stage. It was captured from solar orbit
+near the L1 point in April 2002, flew 161000 km from the Moon around Jun
+15, and is now in an orbit of about 288000 x 825100 km x 21.0 deg. Until
+its nature is confirmed, the object has been given the provisional
+designation J002E3.
+
+
+
+Webb Space Telescope
+--------------------
+
+NASA has selected TRW to build the Next Generation Space Telescope, now
+renamed the James Webb Space Telescope. The announcement of this major
+contract, worth $824 million,  had been expected for several months,
+with TRW  and Lockheed Martin competing for the mission. Lockheed was
+prime for the Hubble Space Telescope, while TRW built Chandra. Earlier
+in the summer, NASA did select a team led by Arizona's George Rieke to
+built the observatory's main infrared camera. Scheduled launch of the
+6-meter telescope has now slipped to 2010. 
+
+The naming of the telescope after James Edwin Webb (1906-1992), a NASA
+manager who led the agency  as its second Administrator from 1961 to
+1968, has surprised many astronomers used to the tradition of naming
+such observatories after scientists, usually in consultation with the
+users of the satellite (e.g. the Einstein, Hubble, Chandra, and Compton
+satellites). This is the first spacecraft to honor a bureaucrat; Webb
+ran NASA during the preparation for the Apollo moon landings and the
+early years of the space science program, and although unknown to most
+astronomers (based on an unscientific poll of my colleagues) is
+remembered with respect by many spaceflight enthusiasts because of his
+association with Apollo. Previously, he  was a congressional staffer, an
+executive at Sperry Gyroscope, the director of the Bureau of the Budget,
+an Undersecretary of State under Harry Truman, and then an oil  company
+executive. According to space policy expert Dwayne Day, Webb did protect
+a broad-based NASA science program during a time when there was a lot of
+pressure, from President Kennedy on down, to put all of the money into
+Apollo and cancel everything else; I gather he is rumoured to be a hero
+of current NASA Administrator Sean O'Keefe. It will be interesting to
+see if this naming starts a trend; an educational/outreach competition
+to name the SIRTF spacecraft was held recently, but no winner has been
+announced.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug 21 2205   Hot Bird 6        Atlas V 401    Canaveral SLC41  Comms        38A
+Aug 22 0515   Echostar VIII     Proton-K/DM3   Baykonur LC81/23 Comms        39A
+Aug 28 2245   Atlantic Bird 1 ) Ariane 5G      Kourou ELA3      Comms        40A
+              MSG 1           )                                 Weather      40B
+Sep  6 0644   Intelsat 906      Ariane 44L     Kourou ELA2      Comms        41A
+Sep 10 0820   Kodama)           H2A 2024       Tanegashima      Comms        42B
+              USERS)                                            Micrograv    42A
+Sep 12 1025   METSAT            PSLV           Sriharikota      Weather      43A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107  2003 Jan 16 Spacehab
+OV-103 Discovery       VAB           Maintenance
+OV-104 Atlantis        LC39B         STS-112  2002 Oct  2 ISS 9A
+OV-105 Endeavour       OPF           STS-113  2002 Nov    ISS 11A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

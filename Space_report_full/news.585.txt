@@ -1,0 +1,228 @@
+Jonathan's Space Report
+No. 585                                            2007 Sep 19, Somerville
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Endeavour landed on runway 15 at Kennedy Space Center at 1632 UTC on Aug
+21. The deorbit burn at 1525 UTC lowered the orbit from 336 x 347 km to
+about -28 x 342 km; landing mass was 100878 kg.
+
+On Aug 30 the PMA-3 docking port was moved from Unity's port side to its
+nadir side, freeing the port side for use by the Harmony module to be
+launched on STS-120. The Canadarm-2 was used to unberth PMA-3 about 1215
+UTC and reattach it at 1309 UTC.
+
+Proton failure
+--------------
+
+A Krunichev Proton-M rocket failed just after second stage ignition on
+Sep 6, destroying the Japanese JCSAT-11 communications satellite
+payload. Proton-M serial 53522 took off from complex 39 at area 200 with
+JCSAT-11 and the Briz-M No. 88522 upper stage. The first stage separated
+2 min after launch.  It seems there was some kind of problem with second
+ stage ignition, and the vehicle fell back to Earth from an altitude of
+around 75 km.
+
+
+JCSAT-11 was a Lockheed Martin A2100 series satellite with a launch mass
+of 4007 kg.
+
+Kosmos-2427
+-----------
+
+Russia's Kosmos-2427 Kobal't-M class imaging satellite, launched on June 7,
+landed around 2100 UTC on Aug 22 after 76 days. Two objects, 2007-22D and E,
+separated in orbit prior to the recovery from a 178 x 350 km x 67.1 deg orbit.
+
+Insat 4CR
+---------
+
+The Insat 4CR Ku-band television satellite was launched on Sep 2 by
+India's GSLV rocket. GSLV-F04 took off from the second launch pad at
+Satish Dhawan Space Centre and put the Insat in a 196 x 31878 km x 15.8
+deg transfer orbit.  The apogee is a little lower than the standard
+35800 km GTO apogee, but the Insat on-board apogee engine was able to
+make up the difference and in Sep 3 it was in a 2981 x 35712 km x 11.0
+deg intermediate orbit. By Sep 6 Insat 4CR was in a 32579 x 35226 km x
+0.3 deg orbit approaching geostationary altitude. The satellite replaces
+Insat 4C, lost in the destruction of GSLV-F02 in 2006. (GSLV-F03 has not
+yet been launched.)
+
+Kosmos-2429
+-----------
+
+A Russian Defense Ministry Parus-class navigation satellite
+was launched on Sep 11 into a 943 x 1008 km x 83.0 deg orbit using
+a Kosmos-3M rocket and given the code name Kosmos-2429.
+
+Kaguya
+------
+
+The Japanese SELENE moon probe, Kaguya, was launched from Tanegashima
+spaceport on Sep 14. Planned orbit was 281 x 232805 km x 29.9 deg;
+later maneuvers by the probe will raise the apogee to lunar distance.
+
+Foton M-3
+---------
+
+The Foton M-3 satellite was launched from Baykonur on Sep 14 carrying
+Russian and European microgravy, life sciences and technology
+experiments. The spacecraft is in a 258 x 280 km x 62.9 deg orbit. Prior
+to reentry it will release the European YES-2/Fotino space
+tether/reentry experiment.
+
+WorldView-1
+-----------
+
+DigitalGlobe's WorldView-1 satellite was launched on Sep 18 by a
+Boeing Delta 2 into a 493 x 494 km x 97.5 deg orbit. WorldView-1
+carries a 0.6-m aperture imaging telescope/camera for high resolution
+Earth imaging; DigitalGlobe's main customer will be the US
+National Geospatial Intelligence Agency (NGA).
+
+CBERS-2B
+--------
+
+CBERS-2B, the third China-Brazil environmental research satellite, was
+launched from China's Taiyuan space center on Sep 19 into a 736 x 741 km
+polar orbit. The satellite will probably raise its orbit to 774 x 774 km
+over the next few days, matching the other CBERS satellites.
+
+
+NFIRE Mission 2a
+----------------
+
+As I reported in earlier issues, the NFIRE (Near Field IR Experiment)
+satellite was launched on Apr 24 by a Minotaur I from Launch Area 0B at
+Wallops Island. The Missile Defense Agency satellite was built by
+General Dynamics' Gilbert, Arizona (former Spectrum Astro) unit based on
+its SA-200 bus and is managed by the USAF Missile Defense Space Systems
+Office (SMC/SS) at Los Angeles Air Force Base, which is also responsible
+for the STSS space tracking satellite program. NFIRE was launched into a
+255 x 465 km x 48.2 deg orbit; from May 3 to May 18 the orbit was raised
+to 489 x 497 km and it remained in that orbit on Aug 2. On Aug 9,
+the orbit was lowered again to 243 x 487 km and by Aug 23 it was
+in a 219 x 450 km orbit.
+
+NFIRE carries a German laser communications terminal, Tesat, as a
+secondary payload, but its main instrument is TSP, the Track Sensor
+Payload, which includes visible and short, medium and long wave infrared
+sensors to track missiles and their rocket plumes, and is designed to
+distinguish between the missile and its plume. The satellite is 494 kg
+full 380 kg dry, 2.7m long and 1.3m diameter.
+
+In a major test of the satellite, a Minotaur II rocket, TLV-7, was
+launched at 0830 UTC on Aug 23 from Vandenberg's LF06 silo as NFIRE
+Mission 2a. The Minotaur II is a three-stage Minuteman 2 missile
+refurbished by Orbital Sciences with a new guidance and payload section,
+and has been used for a number of suborbital missile defense tests. (The
+Minotaur 1 is an orbital launch vehicle which uses the first two stages
+of a Minuteman 2, topped with two stages taken from the Pegasus space
+launch vehicle). On each of the two planned Mission 2 flights, the
+rocket will be aimed to pass within 4 and 20 km of the NFIRE satellite
+while its third stage motor is burning, allowing NFIRE to get a close
+look at the rocket and its exhaust. The Missile Defense Agency reported
+that the Mission 2a flyby was successful.
+
+Suborbital flights
+------------------
+
+While on the subject of suborbital launches, here is a list of all
+suborbital flights so far this year that I know about. Only those with
+apogees above 80 km are included. I know the list is incomplete (and I
+would welcome additions) but I thought it might be  interesting to my readers
+to see the range of suborbital missions that are happening these days.
+(Warning: wide format window needed to view this). Congrats to Stephan
+McCandliss for his successful ultraviolet telescope flight on Aug 13 which
+observed the Trifid Nebula (M20).
+
+                      Suborbital launches 2007 (above 80 km)
+--------------------------------------------------------------------------------
+
+Launch Date    Flight ID        Payload                 Launch Vehicle    Site         Estimated  Launch/Payload      Mission
+  UTC                                                                                  Apogee/km  organizations       category
+
+Jan 11 2228?                    [Antisatellite weapon]  DF-21             Xichang        850?   China               Weapon
+Jan 16 0220    S-310-37         S-310-37                S-310             Uchinoura      138    JAXA/ISAS           Ionosphere
+Jan 19 1229?   NASA 21.138UE    JOULE II                Black Brant VC    Poker Flat     200?   NASA/Clemson U.     Auroral
+Jan 19 1230?   NASA 36.234UE    JOULE II                Black Brant IX    Poker Flat     200?   NASA/Clemson U.     Auroral
+Jan 19 1244?   NASA 41.064UE    JOULE II                Terrier Orion     Poker Flat     200?   NASA/Clemson U.     Auroral
+Jan 19 1245?   NASA 41.064UE    JOULE II                Terrier Orion     Poker Flat     200?   NASA/Clemson U.     Auroral
+Jan 27 0520    FMA              Dummy warhead           Scud              MLP, Kauai     100?   MDA/US Army         Target
+Jan 27 0520    FTT-6            THAAD Kill Vehicle      THAAD             Kauai          100?   US Army             Interceptor
+Jan 30?       [Long range test] Reentry vehicle         Scud D            Syria          150?   Syrian Missile Cmd  Missile R&D flight              
+Feb  7 0814    GT193GM          Mk 12 RV                Minuteman III     Vandenberg    1300?   USAF AFSPC          Missile op. test
+Feb 12 1245    NASA 40.020UE    ROPA                    Black Brant XII   Poker Flat     748    NASA/Dartmouth U.   Auroral
+Feb 14 0922    NASA 41.061      HEX-II V-1              Terrier Orion     Poker Flat     200?   NASA/U. Alaska      Auroral/Atmosphere
+Feb 14 0927    NASA 35.037      HEX-II H                Black Brant X     Poker Flat     150    NASA/U. Alaska      Auroral/Atmosphere
+Feb 14 0936    NASA 41.063      HEX-II V-2              Terrier Orion     Poker Flat     200?   NASA/U. Alaska      Auroral/Atmosphere
+Feb 14 0938    NASA 41.062      HEX-II V-3              Terrier Orion     Poker Flat     200?   NASA/U. Alaska      Auroral/Atmosphere
+Feb 28 0839    NASA 40.019UE    CHARM                   Black Brant XII   Poker Flat     900?   NASA/Dartmouth      Auroral
+Mar  6 0030    -                SRALT?                  SR-19             C-17, Kauai    100?   MDA/US Army         Target
+Mar 21 0110    2                Demosat                 Falcon 1          KMR/Omelek     330?   SpaceX              Orbit failure
+Mar 21 0427    TLV-5            Mk 12 RV?               Minotaur 2        Vandenberg    1300?   USAF AFSPC          Target         
+Apr  6 0642    FMA              Dummy warhead           Scud              MLP, Kauai     100?   MDA/US Army         Target
+Apr 12 0532    -                Reentry vehicle         Agni 3            Chandipur      400    India/IDRDL         Missile R&D flight  
+Apr 26 2131    FTM-11           Aegis target            Terrier Orion     Kauai          160?   US Navy             Target 
+Apr 26 2132    FTM-11           SM-3 Kinetic Warhead    SM-3              CG-70, Kauai   160    US Navy             Interceptor                        
+Apr 28 1456    -                Test payload            SpaceLoft XL      SWRS           117    UP Aerospace/SSI    Test/Burial
+May 15         FCET-37          USN Mk 5 RVs (8?)       Trident II        SSBN 734, ETR 1000?   US Navy             Missile op. test
+May 15         FCET-37          USN Mk 5 RVs (8?)       Trident II        SSBN 734, ETR 1000?   US Navy             Missile op. test
+May 29 1020    -                Reentry vehicles (3?)   Topol'-M (Yars)   Plesetsk      1000?   Rossiya/RVSN        Missile R&D flight      
+Jun 15 0245    -                HYCAUSE                 Talos Castor      Woomera        530    Australia DSTO      Hypersonic test flight
+Jun 15         ARAV             ARAV Target             Terrier Orion     Kauai          150?   US Navy             Target
+Jun 15         ARAV             ARAV Target             Terrier Orion     Kauai          150?   US Navy             Target
+Jun 21         F2               TN75 RVs (6?)           MSBS M51          Landes        1000?   DMA France          Missile R&D flight
+Jun 21         NASA 12.059GT    ST5000/CACS             Terrier Orion     White Sands    130?   NASA/NSROC          Engineering flight
+Jun 23 0240    FTM-12           Aegis target            Castor 4B?        Kauai          150?   US Navy             Target
+Jun 23 0244    FTM-12           SM-3 Kinetic Warhead    SM-3              DDG-73, Kauai  160    US Navy             Interceptor 
+Jun 28         -                Reentry vehicle         Bulava          TK-208,WhiteSea 1000?   VMF (Rossiya)       Missile R&D flight
+Jul 19 1513    -                Cuma II                 VSB-30            Alcantara      242    AEB/INPE            Microgravity
+Aug  3 2251    NASA 41.069      MASS 1                  Terrier Orion     Andoya         130?   NASA/Colorado       Atmosphere  
+Aug  3 2322    -                ECOMA 3                 Nike Orion        Andoya         127    ARR/DLR/IAP         Atmosphere  
+Aug  6 2256    NASA 41.070      MASS 2                  Terrier Orion     Andoya         130?   NASA/Colorado       Atmosphere   
+Aug  7         -                Reentry vehicle         R-29R Volna      K-211, Pacific 1000?   VMF (Rossiya)       Missile op. test
+Aug 13 0545    NASA 36.220UG    JHU LIDOS 2             Black Brant IX    White Sands    278?   NASA/JHU            UV Astronomy
+Aug 23 0830    TLV-7            NFIRE 2a                Minotaur 2        Vandenberg    1300?   USAF                Sensor target
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  2 1938   SAR-Lupe 2        Kosmos-3M        Plesetsk LC132   Radar      30A
+Jul  5 1208   Zhongxing 6B      Chang Zheng 3B   Xichang LC2      Comms      31A
+Jul  7 0116   DirecTV 10        Proton-M/Briz-M  Baykonur LC200/39 Comms     32A
+Aug  2 1733   Progress M-61     Soyuz-U          Baykonur LC1     Cargo      33A
+Aug  4 0926   Phoenix           Delta 7925       Canaveral SLC17A Mars probe 34A
+Aug  8 2236   Endeavour  )      Space Shuttle    Kennedy LC39A    Spaceship  35A
+              ITS S5     )                                        Truss
+              Spacehab-SM)                                        Module
+Aug 14 2344   Spaceway 3 )      Ariane 5ECA      Kourou           Comms      36A
+              BSAT-3A    )                                        Comms      36B
+Sep  2 1250   Insat 4CR         GSLV             SDSC             Comms      37A
+Sep  5 2243   JCSAT 11          Proton-M/Briz-M  Baykonur         Comms      F03
+Sep 11 1305   Kosmos-2429       Kosmos-3M        Plesetsk LC132/1 Navigation 38A
+Sep 14 0131   Kaguya            H-IIA 2022       Tanegashima      Moon probe 39A
+Sep 14 1100   Foton M-3  )      Soyuz-U          Baykonur         Micrograv  40A
+              YES-2      )                                        Tech       40B
+Sep 18 1835   WorldView 1       Delta 7920       Vandenberg SLC2W Imaging    41A
+Sep 19 0326   CBERS-2B          Chang Zheng 4B   Taiyuan          Imaging    42A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+
+
+

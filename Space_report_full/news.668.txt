@@ -1,0 +1,244 @@
+Jonathan's Space Report
+No. 668                                             2012 Oct  8 Somerville, MA USA
+----------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 33 continues with commander Suni Williams, FE-4 Yuriy Malenchenko
+and FE-6 Aki Hoshide.
+
+The European cargo ship ATV-3 'Edoardo Amaldi' undocked at 2144 UTC on
+Sep 28 and was deorbited over the Pacific at 2342 UTC on Oct 2, with
+loss of signal at 0125 UTC on Oct 3.
+
+On Oct 4 the two J-SSOD cubesat deployers were moved outside the Kibo
+equipment airlock by the JEM-RMS robot arm. The first J-SSOD ejected its
+payloads at 1432 UTC - the RAIKO and We Wish cubesats. The second J-SSOD
+deployed F-1, Niwaka, and TechEdSat at 1544 UTC. These five objects
+have not been cataloged as of Oct 8.
+
+On Oct 8 at 0035 UTC the fourth SpaceX Falcon 9 was launched and
+delivered the Dragon CRS-1 spacecraft to a 203 x 326 km x 51.7 deg
+orbit. One first stage engine had an anomaly at max Q (T+1:20) with some
+debris observed falling away; the engine was shut down but the remaining
+engines and the second stage compensated to reach the initial orbit.
+However, extra propellant was used and stage 2 did not restart as
+planned. The mission's  secondary payload, the first Orbcomm Second
+Generation communications satellite, was ejected at 0137 UTC into a 203
+x 323 km orbit instead of its planned 350 x 750 km insertion orbit. 
+Orbcomm will not be able to get to its operational 750 x 750 km orbit
+but there's a chance they'll get a few months of system tests out of it.
+A further small debris object has been cataloged in low orbit.
+
+  Cataloged Falcon 9 Flight 4 objects:
+(I've matched up the cataloged objects 2012-54A to F with particular
+named objects based on my own best guesses)
+
+  2012-54A  Dragon CRS-1 spacecraft     202 x 323 km x 51.65 deg
+  2012-54B  Orbcomm OG2-1               203 x 322 km x 51.64
+  2012-54C  Falcon 9 Stage 2            175 x 309 km x 51.65
+  2012-54D  Dragon solar array cover    200 x 320 km x 51.64
+  2012-54E  Dragon solar array cover    201 x 325 km x 51.64
+  2012-54F  Falcon 9 debris object      195 x 309 km x 51.65
+
+With a successful primary payload insertion and a secondary payload in 
+an off-nominal orbit, I would assess the launch as a 85 percent success
+for statistical purposes, and I'll add it to my database as an overall
+launch success. The ability of the Falcon 9 to recover from a  first
+stage engine failure is impressive.
+
+Dragon CRS-1 is scheduled to rendezvous with the ISS and be berthed at the Harmony
+module. As on previous launches, SpaceX is keeping the mass of the Dragon spacecraft
+a secret. It is possibly around 7000 kg.
+
+Erratum: the Soyuz TMA-04M landing time was 0252:53 UTC.
+
+
+NROL-36
+-------
+
+The USA 238 satellite, launched on the NROL-36 mission, is believed to
+be a naval signals intelligence satellite. Observations by Kevin Fetter
+and other hobbyists, reported on the SeeSat list, confirm the presence
+of the expected second payload in USA-238's 1010 x 1200 km orbit. This
+second payload has been cataloged by the US government as 'debris', but
+is observed to be able to manuever.
+
+
+Metop B
+-------
+
+The European weather satellite agency EUMETSAT's second METOP satellite, METOP B,
+was launched from Baykonur on Sep 17. The Soyuz-2-1a launch vehicle's upper stage,
+Fregat No. 1037, placed the satellite in a 805 x 809 km x 98.7 deg, 0928LTDN sun-synchronous
+orbit. The Soyuz third stage was suborbital.
+
+Fajr
+----
+
+Fajr was a 50 kg satellite built by IEI (Iran Electronics Industry),
+with an imaging payload and a small thruster. It was expected to be
+launched by a two-stage Safir rocket from the Semnan launch site on May
+23, but frequent Iranian media reports in advance of the expected date
+were followed by sudden silence.
+
+Evidence of launch pad burn marks were presented in an article by N. Hansen
+in Jane's Intelligence Review, and  other unsourced reports
+discussed on nasaspaceflight.com claimed that US authorities detected a launch.
+This leads me to tentatively conclude that the Fajr satellite was indeed
+launched as scheduled on or around May 23 but failed to reach orbit.  
+
+Recent statements from Iran say that the Fajr satellite will be launched
+in the coming months; under the interpretation discussed here, this must
+be a backup flight model.
+
+The launch failure rumours are not specific and don't indicate whether
+the failure was a low altitude first stage problem or a high altitude
+second stage malfunction. I am adding the alleged Fajr failure to my
+launch lists, but let me emphasize that I still regard reality of the
+launch, and its date, as uncertain pending more substantive confirmation
+either from the Iranians or from US government sources. In a US election
+year, rumour-intelligence about Iranian missile activity will have a
+higher-than-usual tendency to bias and overinterpretation and must be
+treated with extra caution.
+
+The Iranian orbital launch record is thus as follows:
+   2008 Aug 16  Omid   - failed to orbit
+   2009 Feb  2  Omid   - success
+   2011 Jun 15  Rasad  - success
+   2012 Feb  3  Navid  - success
+   2012 May 23? Fajr   - failed to orbit? (uncertain)
+
+Kosmos-2480
+-----------
+
+The Russian Defense Ministry's Kosmos-2480 spacecraft, a Kobal't-M
+imaging satellite, landed on Sep 24 around 1703 UTC. A deorbit burn at
+around 1639 UTC was followed by separation of the service module and reentry
+of the pressurized main payload section which contains cameras and film.
+
+Ariane VA209
+------------
+
+Arianespace's VA209 mission, with Ariane 5ECA vehicle 565, was launched on Sep 28.
+The payloads were Astra 2F and GSAT-10. Astra 2F is an Astrium Eurostar 3000 for
+SES of Luxembourg; GSAT 10 is an I-3K class satellite built by and for the
+Indian Space Research Organization (ISRO), carrying C and Ku band comms payloads
+and the second GAGAN L-band navigation payload. It reached GEO on Oct 1 and
+will be stationed at 83W. 
+
+Francisco de Miranda
+--------------------
+
+China launched a CAST-2000 class remote sensing satellite into a 621 x
+654 km x 98.0 deg, 1030 LTDN sun-synchronous orbit on Sep 29. The
+satellite, `Venezuela Yaogan Weixing yi hao' (Venezuela Remote Sensing
+Satellite 1) was purchased by Venezuela and is named by them `Miranda',
+after Sebastian Francisco de Miranda Rodriguez 'El Precursor'
+(1750-1816). It should not be confused with the UK's Miranda satellite
+launched in 1974 (named after the character in Shakespeare's Tempest).
+
+GPS SVN 65
+----------
+
+The third GPS Block IIF satellite, spacecraft 65, was launched on Oct 4
+to replace SVN 39. The Delta IV launch vehicle flew to a 163 x 394 km x
+41.6 deg parking orbit (according to spaceflightnow.com) followed by a
+254 x 20448 km x 43.3 deg transfer orbit and, following a  third burn,
+the targeted  20426 x 20481 km x 55.0 deg circular orbit where the
+satellite was deployed. The RL-10 second stage engine operated at lower
+than planned thrust during the first two burns, but onboard software
+compensated by increasing the duration of the engine firings.
+
+
+Suborbital launches
+--------------------
+
+NASA tested a new high performance sounding rocket on Sep 2. The Talos-Terrier-Oriole
+carried a dummy Nihka fourth stage as part of its 775 kg payload. The full
+Oriole XII (Talos-Terrier-Oriole-Nihka) rocket will be flown to 777 km above Poker Flat to study
+the aurora as flight NASA 49.001, possibly in Feb 2013.
+
+Indian Strategic Forces Command carried out a training launch of a
+Prithvi missile on Oct 4 and a Dhanush ship launched version on Oct 5.
+The reentry vehicles splashed down in the Bay of Bengal. In September,
+India launched larger Agni 2, 3 and 4 missiles.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Aug  1 1935   Progress M-16M     Soyuz-U           Baykonur LC1      Cargo     42A
+Aug  2 2054   Intelsat IS-20 )   Ariane 5ECA       Kourou ELA3       Comms     43A
+              Hylas 2        )                                       Comms     43B
+Aug  6 1931   Telkom-3    )      Proton-M/Briz-M   Baykonur LC81/24  Comms     44A
+              Ekspress MD2)                                          Comms     44B
+Aug 19 0655   Intelsat IS-21     Zenit-3SL         SL Odyssey, Pacific Comms   45A
+Aug 20 1829   Sfera-53           -                 ISS, LEO          Sci       98-067CM
+Aug 30 0805   RBSP A )           Atlas V 401       Canaveral SLC41   Sci       46A
+              RBSP B )                                               Sci       46B
+Sep  9 0423   SPOT 6    )        PSLV-CA           Sriharikota LP1   Imaging   47A
+              PROITERES )                                            Tech      47B
+Sep 13 2139   USA 238       )    Atlas V 401       Vandenberg SLC3E  Sigint    48A
+              USA 238 P/L 2 )                                        Sigint    48Q?
+              OUTSat        )                                        Tech      48N
+              SMDC-ONE 1.2  )                                        Comms     48B
+              Aeneas        )                                        Comms     48C
+              CSSWE         )                                        Sci       48D
+              CXBN          )                                        XR Astron 48E
+              CP5           )                                        Tech      48F
+              CINEMA 1      )                                        Sci       48G
+              Re/STARE      )                                        Tracking  48H
+              SMDC-ONE 1.1  )                                        Comms     48J
+              Aerocube-4    )                                        Tech?     48M
+              Aerocube-4.5A )                                        Tech?     48K
+              Aerocube-4.5B )                                        Tech?     48L
+Sep 17 1628   METOP-B            Soyuz-2-1A        Baykonur LC31     Weather   49A
+Sep 18 1910   Beidou DW14   )    Chang Zheng 3BE   Xichang LC2       Navsat    50A 
+              Beidou DW15   )                                        Navsat    50B 
+Sep 28 2118   Astra 2F   )       Ariane 5ECA       Kourou ELA3       Comms     51A?
+              GSAT-10    )                                           Comms/Nav 51B?
+Sep 29 0412   Miranda            Chang Zheng 2D    Jiuquan           Imaging   52A 
+Oct  4 1210   GPS SVN65          Delta 4M+(4,2)    Canaveral SLC37B  Navsat    53A
+Oct  4 1437   RAIKO    )                           ISS Kibo, LEO     Tech      
+              We Wish  )                                             Tech
+Oct  4 1544   F-1      )                           ISS Kibo, LEO     Tech      
+              Niwaka   )                                             Tech
+              TechEdSat)                                             Tech
+Oct  8 0035   Dragon CRS-1 )     Falcon 9          Canaveral SLC40   Cargo     54A
+              Orbcomm OG2-1)                                         Comms     54B
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Aug  7 0730   S-310-41         S-310              Uchinoura           Reentry test 150
+Aug  9 0316   Agni RV          Agni II            Chandipur           Test         220?
+Aug 16        RV               JL-2               Xia sub, Bohai      Test        1000?
+Aug 20        RV               DF-5A              Taiyuan             Test        1000?
+Aug 30        RV               DF-31A?            Taiyuan             Test        1000?
+Sep 12        Radar target?    Terrier Lynx       Wallops Island      Target?      300?
+Sep 13 1230   Patriot Target   Juno               Fort Wingate        Target       100?
+Sep 19 0618   Agni RV          Agni IV            Chandipur           Test         900?
+Sep 20 1950   Agni III RV      Agni III           Chandipur           Test         500?
+Sep 21 1116   NASA 46.004GO    Terr.Imp. Malemute Wallops Island      Education    153
+Sep 22 1100   NASA 12.075GT    Talos Terr.Oriole  Wallops Island      Test         269
+Oct  4 0337   RV               Prithvi 2          Chandipur           Op.Test      100?
+Oct  5 0555   RV               Dhanush            Ship, Chandipur     Op.Test      100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

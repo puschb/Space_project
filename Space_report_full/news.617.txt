@@ -1,0 +1,182 @@
+Jonathan's Space Report
+No. 617                                            2009 Oct 31 Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Soyuz TMA-16 was launched on Sep 30 into a 195 x 240 km x 51.6 deg
+orbit. By Oct 2 it was in a 340 x 351 km x 51.6 deg orbit; the
+spacecraft docked with the Station at 0835 UTC on Oct 2. Crew were
+Maksim Suraev (commander TMA-16, flight engineer Expedition 21), Jeffrey
+Williams (flight engineer TMA-16 and Ex-21), and Guy Laliberte
+(spaceflight participant, TMA-16 and visiting crew EP-17).
+
+Progress M-67, after several days of free flight, was deorbited
+over the Pacific Ocean on Sep 27 at 0933 UTC.
+
+Padalka, Barratt and Laliberte transferred to Soyuz TMA-14 
+on Oct 10 and undocked from the Pirs module at 0107 on Oct 11.
+They landed in Kazakhstan at 0432 UTC on Oct 11.
+
+The undocking of Soyuz TMA-14 is apparently considered to mark the
+beginning of Expedition 21, with Frank De Winne of Belgium becoming the
+first European commander of a space station.
+
+Progress M-03M was launched on Oct 15 and docked with the Pirs module at
+0141 UTC on Oct 18.
+
+Soyuz TMA-15 is docked to the Zarya module, and Soyuz TMA-16 is docked
+to the Zvezda module. The Japanese HTV-1 cargo ship is docked to the
+Harmony module. After swapping equipment on Oct 2, Romanenko, De Winne
+and Thirsk are the designated crew of TMA-15, while Suraev, Williams and
+Stott are assigned to TMA-16.
+
+ARES I-X
+---------
+
+The Ares I-X rocket, consisting of the modified Shuttle RSRM-91A
+solid rocket booster, a dummy Upper Stage Simulator, and a dummy
+CM/LAS (command module/launch abort system), was launched from
+complex 39B at KSC on Oct 28. The flight tested the aerodynamics
+of the vehicle within the atmosphere; as planned, it reached an apogee of
+only around 46 km, inside the stratosphere, so I do not include
+it in the list of suborbital space launches below.
+
+Meanwhile, orbiter Atlantis is on complex 39A preparing for launch
+on mission STS-129 in mid-November.
+
+LCROSS
+-------
+
+LCROSS/AV-020 entered the lunar gravitational sphere of influence at
+1800 UTC on Oct 8, from a 365700 x 644500 km x 48.6 deg Earth orbit.
+The LCROSS probe separated from Centaur AV-020 at 0150 UTC on Oct 9 and
+carried out its braking burn at 0230 UTC. The probes approached the
+lunar surface on a hyperbola with a periapsis of -1727 km. Impact in
+Cabeus crater occurred at 1131 UTC (Centaur) and 1135 UTC (LCROSS).
+Unexpectedly, no bright visible plume was seen either from LCROSS
+or Earth, but LRO and LCROSS detected signatures from the event.
+
+
+Ariane L549 and L550
+--------------------
+
+Ariane flight V191, vehicle L549 (model 5ECA) was launched from
+Kourou on Oct 1. The mission launched two communications satellites,
+Amazonas 2 and COMSATBw-1.
+
+Amazonas 2 is an Astrium/Toulouse Eurostar E3000 for the Hispasat
+(Madrid) company, which will use it for broadcasting to the Americas.
+Mass is 5465 kg at launch.
+
+COMSATBw-1 (formerly known as SATCOMBw-1) is a Thales Alenia/Cannes
+Spacebus 3000B2 satellite for German military communications. (Prime
+contractor for the space segment is EADS Astrium but Thales built the
+satellite.) The project is managed by IT-AMTBw (Bundesamt fur
+Informationsmanagement und informationstechnik der Bundeswehr), the
+federal bureau for information technology of the German armed forces
+(Bundeswehr). The satellite is 2440 kg at launch, 1040 kg dry.
+It is also known as GMS-2A (possibly for German Military Satellite?)
+
+The satellites entered a 265 x 35801 km x 2.9 deg transfer orbit.
+
+
+Ariane L550 was launched on Oct 29 with two more communications
+satellites, New Skies' NSS 12 and Telenor's Thor 6.
+
+
+WorldView-2
+-----------
+
+DigitalGlobe's WorldView-2 0.5-meter-resolution, 8-band imaging
+satellite was launched on Oct 8. The satellite uses a Ball Aerospace
+BCP-5000 bus and is in a 766 x 768 km x 98.6 deg orbit.
+
+DMSP 5D F-18
+------------
+
+The US Air Force launched a weather satellite from Vandenberg on Oct 18.
+The Block 5D-3 F-18 launch in the Defense Meteorological Satellite
+Program is the latest in a series which began with the first Block 5D
+launch in 1976. The program began in 1962 with the first
+Program 35 weather satellites used by NRO to scout cloud-free regions
+for spy satellites, and was transferred to the Air Force in the late
+1960s when it proved essential for supporting US war operations in Vietnam.
+
+Earlier DMSP satellites were launched on much smaller rockets; the
+new generation Delta 4 (used for DMSP 5D F-17) and the Atlas V 401
+(used in this launch) have a lot of leftover capacity. On this flight
+that excess was used to perform tests on the Centaur AV-017 rocket and
+propel it into solar orbit. AV-017's hyperbolic Earth orbit
+had a C3 (specific energy at infinity) of 37.47 km**2/s**2, enough to
+send it into the asteroid belt if it were going in the right direction.
+It is the first solar orbit launch from Vandenberg.
+
+
+Erratum
+-------
+
+STSS 1/2 were launched on Sep 25, not Sep 23.
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+Sep  8 2135   USA 207 (PAN)     Atlas V 401      Canaveral SLC41  Comms      47A
+Sep 10 1701   HTV               H-IIB            Tanegashima Y2   Cargo      48A
+Sep 17 1555   Meteor-M    )    Soyuz-2-1b/Fregat Baykonur LC31    Weather    49A
+              BLITS       )                                       Geodesy    49G
+              Tat'yana-2  )                                       Science    49
+              Sterkh 12L  )                                       SAR        49
+              UGATUSAT    )                                       Imaging    49
+              Sumbandila  )                                       Tech       49F
+              IRIS        )                                       Tech/Imag. 49C
+Sep 17 1919   Nimiq-5           Proton-M/Briz-M  Baykonur LC39/200 Comms     50A
+Sep 23 0621   Oceansat-2  )     PSLV-CA          SDSC             Imaging    51A
+              UWE-2       )                                       Tech       51
+              BEESAT      )                                       Tech       51
+              ITU-p-SAT 1 )                                       Tech       51
+              SwissCube   )                                       Science    51
+              Rubin-9.1   )                                       Comms      51F
+              Rubin-9.2   )                                       Comms      51F
+Sep 25 1220   STSS 1 )          Delta 7920       Canaveral SLC17  Tracking   52A
+              STSS 2 )                                            Tracking   52A
+Sep 30 0714   Soyuz TMA-16      Soyuz-FG         Baykonur LC1/5   Spaceship  53A
+Oct  1 2159   COMSATBw-1 )      Ariane 5ECA      Kourou ELA3      Comms      54A
+              Amazonas 2 )                                        Comms      54B
+Oct  8 1851   WorldView-2       Delta 7920       Vandenberg SLC2W Imaging    55A
+Oct 15 0114   Progress M-03M    Soyuz-U          Baykonur LC1/5   Cargo      56A
+Oct 18 1612   DMSP 5D F-18      Atlas V 401      Vandenberg SLC3E Weather    57A
+Oct 29 2000   NSS 12  )         Ariane 5ECA      Kourou ELA3      Comms      58A
+              Thor 6  )                                                      58B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Sep  3        USN Mk 5? RV )  Trident D-5     SSBN 736, ETR   Op. Test    1000?
+                 x8?       )
+Sep  4        USN Mk 5? RV )  Trident D-5     SSBN 736, ETR   Op. Test    1000?
+                 x8?       )
+Sep 14 1740?  NASA 36.221DS   Black Brant IX  White Sands     Solar EUV    300?
+Sep 19 2346   NASA 39.009DR   Black Brant XI  Wallops         Chem Release 283
+Sep 27        Shahab RV       Shahab 1        Iran            Exercise     100?
+Sep 27        Shahab RV       Shahab 2        Iran            Exercise     100?
+Sep 28        Shahab RV       Shahab 3        Iran            Exercise     500?
+Sep 28        Sejjil RV       Sejjil          Iran            Exercise     800?
+Oct  6        Volna RV  )     Volna           K-433, Okhotsk  Op. Test    1000?
+                 x4?    )
+Oct  7        Volna RV  )     Volna           K-44, Okhotsk   Op. Test    1000?
+                 x4?    )
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

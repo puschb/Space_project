@@ -1,0 +1,217 @@
+Jonathan's Space Report
+No. 678                                                    2013 Apr 27, Lisboa
+---------------------------------------------------------------------------------------------
+
+
+International Space Station
+----------------------------
+
+Expedition 35 continues with astronauts  Hadfield, Romanenko and Marshburn, Vinogradov,
+Misurkin and Cassidy.
+
+Ferry ship Soyuz TMA-07M is at Rassvet; Soyuz TMA-89M is at Poisk.
+Cargo ship Progress M-18M is at the Pirs module.
+
+On Apr 19 astronauts Vinogradov, in spacesuit Orlan MK-6, and Romanenko,
+in Orlan MK-4, began Russian ISS spacewalk VKD-32. The Pirs hatch was
+opened at 1403 UTC. The astronauts installed the Obstanovka
+('Situation') experiment on the Zvezda module. First, two PVK mechanical
+adapter/processor boxes were attached to the station, MAD-1 and MAD-2.
+Then the astronauts went to the back of Zvezda and swapped out a laser
+retroreflector used in European ATV dockings, returning the old
+reflector to the Pirs airlock. After their trip to the back end of
+Zvezda where the rocket engines are, they wiped their suits down with
+towels in case of rocket fuel contamination, and then jettisoned the
+towels and the Obstanovka cable reel into space at 1719 UTC. Then they
+took two probe containers from Pirs and unpacked them to stick the
+ShKD-1 and ShKD-2 sensor complex booms onto their respective MAD
+adapters. The probe containers were then jettisoned at 1903 and 1906
+UTC. After deploying the booms, the astronauts retrieved the Biorisk
+MSN-3-C2 exposure package and then moved over to the Poisk module to
+retrieve one of two panels from the Vinoslivost exposure experiment.
+Unfortunately at 2016 UTC Vinogradov lost hold of the Vinoslivost panel
+and it floated away. The astronauts returned to Pirs at 2028 UTC and
+closed the hatch at 2041 UTC, with repressurization of the airlock
+underway by 2044 UTC.
+
+Progress M-17M, which undocked from Zvezda on Apr 15, completed its
+Radar-Progress experiments and fired its engine to deorbit on Apr 21.
+The burn at 1407 UTC lasted 173s and reduced velocity by 90.0 m/s,
+lowering the orbit from 354 x 411 km to 63 x 394 km, with debris
+impacting the Pacific at around 1502 UTC.
+
+A new cargo ship, Progress M-19M, was launched on Apr 24 into a 184 x
+213 km x 51.6 deg orbit, soon raised to 293 x 353 km x 51.6 deg as it
+began a two-day rendezvous with ISS. One of the vessel's rendezvous antennas
+did not deploy but it docked successfully with Zvezda's aft port at 1225 UTC
+on Apr 26.
+
+
+Bion
+----
+
+The Bion-M No. 1 life sciences satelite (spacecraft 12KSM no. 1) was launched Apr 19. 
+Bion-M consists of a Vostok-type pressurized reentry sphere and a Yantar'-type
+service and propulsion module. The sphere carries mice, gerbils, geckos, and snails
+as well as the FRAGMENTER and BIOKONT-B microorganism containers, the OMEGAHAB
+aquarium with fish and algae, the FITO plant containers, some microgravity
+materials experiments and accelerometers to measure the microgravity level.
+
+The Aist-2 small satellite is attached to the service module's side, while
+on the front of the sphere is the PSO (Platforma Stredstv Otdeleniya, Separation Mechanism Platform)
+structure which carries a set of cubesat deployers. 
+
+Launch from Baykonur into a 252 x 554 km x 65.0 deg orbit was followed by separation from the
+Soyuz-2-1A rocket's third stage. 
+
+The OSSI-1 cubesat, developed by a Korean artist, was
+ejected from the PSO at 1613 UTC on Apr 19, and has been cataloged in a
+258 x 549 km x 64.9 deg orbit. Bion then manuevered to a 557 x 581 km
+circular orbit and at about 0825 UTC on Apr 21 ejected other secondary payloads from its PSO -
+BEESAT-2 and 3, two 1U cubesats from the Technical Univ. of Berlin;
+SOMP, the Student Oxygen Measurement Payload from Technical Univ. of
+Dresden; and Dove-2, a 3U cubesat from Cosmogia Inc. of San Francisco.
+
+The 39 kg Aist-2 is developed by TsSKB-Progress and the Samara Aerospace University, It carries
+a magnetometer, acclerometers and a micrometeor experiment, and was the last of the secondary
+payloads to be deployed, at 1402 UTC on Apr 21.
+
+Antares
+-------
+
+The Orbital Sciences Corporation's Antares launch vehicle made its first
+flight on Apr 21. The rocket was an Antares 110 model, with a first stage
+using two Kuznetsov NK-33 engines refurbised and modified by Aerojet as the AJ26-62.   
+The first stage core is built at Yuzhmash in the Ukraine, and the completed
+first stage is integrated by Orbital at its Wallops Island facility. The second 
+stage is an ATK Castor 30A solid motor built mainly in Bacchus, Utah (the old
+Hercules). The Antares is launched from Pad 0A at the Mid-Atlantic Regional
+Spaceport, operated by the Virginia Commercial Space Flight Authority on
+part of NASA's Wallops Flight Facility (WFF) at Wallops Island, Virginia.
+Pad 0A was built on the site of the old WFF Launch Area 0A used for the failed 
+commercial Conestoga launch in 1995; it is next to Pad 0B, used for Minotaur
+launches.
+
+The main payload for the Antares A-ONE mission is the 3800 kg Cygnus Mass Simulator,
+built at Orbital's Dulles factory. The CMS carries instrumentation to measure
+the launch vehicle environment (vibration, acoustic and thermal). It separated from
+the second stage two minutes after orbit insertion.
+
+The CMS also carries ISIPOD deployers which ejected four secondary cubesat payloads before
+the Stage 2/CMS separation.
+Three of them are 1U cubesats from NASA's Ames Research Center, designed to demonstrate
+use of a commercial mobile phone as a spacecraft avionics/computer system. This follows a similar
+attempt by Surrey Satellite with the STRaND-1 satellite lauched on Feb 25, which
+ran into problems and seems to have stopped transmitting. The three cubesats,
+preciously, are named Alexander, Graham and Bell. The latter two are Phonesat 1.0 V1A
+and Phonesat 1.0 V1B, each built around a Nexus One Android-based smartphone. Alexander
+is Phonesat 2.0, based on a Nexus S phone and with
+an S-band radio, solar panels, GPS receiver, magnetorquers and reaction wheels.
+
+The final payload is a 6 kg 3U cubesat, Dove-1, a demonstration
+satellite for the San Francisco-based startup company Cosmogia Inc.
+which is headed by former NASA employees who had earlier been involved
+in developing the Phonesats. The satellite, like its sister Dove-2
+launched on the Bion mission, will return on-board system health data
+and validate the design for future Dove satellites, which will carry
+remote sensing payloads. Dove-1 is expected to reenter on Apr 27.
+
+GaoFen 1
+--------
+
+China's first launch of the year carried the GF-1 (Gao fen, `high
+resolution') imaging satellite into a 630 x 653 km sun-synchronous
+orbit. Three piggyback satellites were also carried: Turksat-3USAT, a 3U
+cubesat from Istanbul Technical University; CubeBug-1 (also called
+Capitan Beto), a 2U cubesat from Argentina, and NEE-01 Pegaso, a 1U
+cubesat for the Ecuadorian space agency EXA.
+
+
+Glonass
+--------
+
+A Soyuz-2-1B with a Fregat upper stage placed a single Glonass-M
+navigation satellite in a 19330 x 19640 km orbit on Apr 26. 
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Feb  1 0656   Intelsat IS-27     Zenit-3SL        SL Odyssey, Pacific Comms     F01
+Feb  6 1604   Globalstar M078 )  Soyuz-2-1A        Baykonur LC31/6   Comms      05A
+              Globalstar M093 )                                      Comms      05B
+              Globalstar M094 )                                      Comms      05C
+              Globalstar M095 )                                      Comms      05D
+              Globalstar M096 )                                      Comms      05E
+              Globalstar M097 )                                      Comms      05F
+Feb  7 2136   Amazonas 3       ) Ariane 5ECA       Kourou ELA3       Comms      06A
+              Azerspace        )                                     Comms      06B
+Feb 11 1441   Progress M-18M     Soyuz-U           Baykonur          Cargo      07A
+Feb 11 1802   Landsat 8          Atlas V 401       Vandenberg SLC3E  Imaging    08A
+Feb 25 1231   SARAL       )                                         Altimeter   09A
+              Sapphire    )                                         SpSur       09C
+              NEOSSat     )      PSLV-CA           Sriharikota     Astron/SpSur 09D
+              UniBRITE    )                                         Astronomy   09G
+              TUGSAT-1    )                                         Astronomy   09F
+              AAUSAT3     )                                         Ship nav    09B
+              STRaND-1    )                                          Tech       09E
+Mar  1 1510   Dragon CRS-2       Falcon 9          Canaveral SLC40   Cargo      10A
+Mar 19 2121   SBIRS GEO-2        Atlas V 401       Canaveral SLC41  Early Warn  11A
+Mar 26 1907   Satmex 8           Proton-M/Briz-M   Baykonur LC200/39 Comms      12A
+Mar 28 2043   Soyuz TMA-08M      Soyuz-FG          Baykonur LC1/5   Spaceship   13A
+Apr 15 1836   Anik G-1           Proton-M/Briz-M   Baykonur LC200/39 Comms      14A
+Apr 19 1000   Bion-M No. 1 )     Soyuz-2-1A        Baykonur LC31/6  Life Sci    15A
+              OSSI-1       )                                                    15B
+              BEESAT-2     )                                                    15G
+              BEESAT-3     )                                                    15E
+              SOMP         )                                                    15F
+              Dove-2       )                                                    15C
+              AIST-2       )                                                    15D
+Apr 21 2100   Cygnus Mass Sim )  Antares 110       Wallops MARS 0A  Tech        16A
+              Alexander       )                                     Tech        16C
+              Graham          )                                     Tech        16E?
+              Bell            )                                     Tech        16D
+              Dove-1          )                                     Tech        16B
+Apr 24 1012   Progress M-19M     Soyuz-U          Baykonur LC1/5    Cargo       17A
+Apr 26 0413   Gao Fen 1     )                                       Imaging     18A
+              NEE-01 Pegaso )    Chang Zheng 2D   Jiuquan           Tech
+              Turksat-3USAT )                                       Tech
+              CubeBug-1     )                                       Tech
+Apr 26 0523   Glonass-M No. 47   Soyuz-2-1B/Fregat Plesetsk         Nav         19A
+
+
+Suborbital launches
+-------------------
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Feb  7 0821   NASA 49.001UE    T-T Oriole N.       Poker Flat        Auroral      754
+Feb 13 0910   ARAV-B Target    Terrier Oriole      Kauai             Target       150?
+Feb 13 0915?  FTM-20 KV        Aegis SM-3          CG-20, Pacific    Interceptor  150?
+Feb 15        NASA 41.104GT    Terrier Imp Orion   White Sands       Tech         130?
+Feb (many)    Julan RV?        Scud              An Nasriyah, Syria  Weapon        80?
+Feb 25 0600?  Arrow KV         Arrow 3           Palmachim?          Interceptor  100?
+Mar 11 0610?  Shark            Terrier Lynx        Wallops I         Target       300?
+Apr  4 2155   Kunpeng-1        Tianying-3E         Hainan            Ionosphere   191
+Apr  7 0455   Agni RV          Agni 2              Wheeler I.        Op. Test     200?
+Apr 10        Haft-IV RV       Shaheen 1           Somniani?         Op. Test     100?
+Apr 12 0425   TEXUS 50         VSB-30              Kiruna            Micrograv    261
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+

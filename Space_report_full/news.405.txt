@@ -1,0 +1,130 @@
+
+Jonathan's Space Report
+No. 405                                           1999 Aug  4   Cambridge, MA
+-------------------------------------------------------------------------------
+
+Editorial
+--------
+
+I don't often editorialize like this, but I'll make an exception. Even
+with the restoration of funding for the crucial SIRTF mission on Friday,
+the proposed NASA budget cuts are a devastating blow to the US space
+science program and to the morale of all of us who work on NASA
+programs. The Discovery and Explorer programs are badly hit, US
+participation in Solar B and FIRST/Planck would be cut,  and the GLAST
+gamma ray telescope might face the axe. NASA's budget in real terms has
+been cut repeatedly in recent years. The new cuts to space science are
+especially harsh, given the major successful reforms of the NASA space
+science program. We've  worked hard over the past decade to bring the US
+public great results from our studies of the universe while cutting back
+budgets. I frequently give talks to the general public and have been
+aware of a growing enthusiasm for, interest in, and support for space
+science over the past few years. I hope the US public will become aware
+of the proposed cuts and persuade Congress to relent further.
+
+STS-93/Chandra
+---------------
+
+Chandra continues to operate well in transfer orbit. Both the ACIS and
+HRC cameras have survived launch and will be checked out over the next
+few weeks. The IPS-3 burn to raise apogee to 140000 km  was carried out
+at 2232 UTC on Jul 31. DSN tracking indicates the orbit is now 3482 x
+139384 km x 28.5 deg. A further IPS-4 burn on Aug 4 raised perigee to 
+around 5700 km, and another perigee raise burn is planned for Aug 7.
+
+The Integral Propulsion System on Chandra uses four TR-308 bipropellant
+thrusters for orbit changes. The thrusters use N2O4 (nitrogen tetroxide)
+oxidizer and N2H4 (hydrazine) fuel. They have a thrust of 472N and a
+specific impulse of 322.3s; the TR-308 is an upgrade of the TR-306 that
+was used on three Lockheed Martin Series 5000 satellites. The same fuel
+tanks also feed Marquardt 89N monopropellant hydrazine RCS thrusters. In
+addition to the IPS, the MUPS (Momentum Unloading Propulsion System)
+uses 0.9N hydrazine thrusters to unload momentum from the gyro systems
+used to point Chandra. (Thanks to the TRW propulsion experts for the
+info). Thrusters LAE-1 and LAE-3 were used for the first three burns;
+LAE-2 and LAE-4 were used for IPS-4 and will be used for the remaining
+burns.
+
+Columbia landed at 0320 UTC on Jul 28 on runway 33 at KSC. Post flight
+inspection confirms the presence of holes in the  cooling lines on the
+nozzle of SSME 2019 (engine 3) which caused a hydrogen leak. A loose
+repair pin in the engine broke free and may have caused the  failure.
+Although the leak was small, this combined with the electrical short
+makes two semi-serious failures in the main propulsion system during
+ascent, and I can't remember a launch since 51-L when we've had that. 
+Fortunately the two failures didn't add together, but it seems like we
+lost enough redundancy to make me nervous.
+
+Recent Launches
+---------------
+
+Deep Space 1 made a flyby of minor planet (9969) Braille at 0446 UTC on
+Jul 29. Flyby distance was less than 25 km and possibly as little as 15
+km. DS 1 failed to point its camera to image the target at closest
+approach, but the navigation system was successful in bringing the
+vehicle close to the asteroid, and longer range IR imaging was
+successful. The NSTAR ion engine continues to operate well.
+
+Lunar Prospector impacted the lunar surface at 0952 UTC on 1999 Jul 31.
+Impact site was 42.1E, 87.7S near the lunar south pole. The orbit was
+raised to a 230 km apogee before the deorbit burn over the lunar farside
+at 0919 UTC.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  5 0721   Starshine         -              OV-103, LEO      Education  30B
+Jun 10 1348   Globalstar 52)    Delta 7420-10  Canaveral SLC17B Comsat     31A
+              Globalstar 49)                                               31B
+              Globalstar 25)                                               31C
+              Globalstar 47)                                               31D
+Jun 11 1715   Iridium 14A )     CZ-2C/SD       Taiyuan          Comsat     32A
+              Iridium 21A )                                     Comsat     32B
+Jun 18 0149   Astra 1H          Proton-K/DM3   Baykonur LC81L   Comsat     33A
+Jun 20 0215   QuikScat          Titan 23G      Vandenberg SLC4W R/Sensing  34A
+Jun 24 1544   FUSE              Delta 7320-10  Canaveral SLC17A Astronomy  35A
+Jul  5 1332   Raduga            Proton-K/BrizM Baykonur LC81P   Comsat     F02
+Jul  8 0846   Molniya-3         Molniya-M      Plesetsk         Comsat     36A
+Jul 10 0845   Globalstar 32)    Delta 7420-10  Canaveral SLC17B Comsat     37A
+              Globalstar 30)                                    Comsat     37B
+              Globalstar 35)                                    Comsat     37C
+              Globalstar 51)                                    Comsat     37D
+Jul 16 1636   Progress M-42     Soyuz-U        Baykonur LC1     Cargo      38A
+Jul 17 0638   Okean-O           Zenit-2        Baykonur LC45    R/Sensing  39A
+Jul 23 0428   Columbia          Shuttle        Kennedy LC39B    Spaceship  40A
+Jul 23 1147   Chandra           IUS            OV-102, LEO      Astronomy  40B
+Jul 25 0746   Globalstar 26)    Delta 7420     Canaveral SLC17A Comsat     41A
+              Globalstar 28)                                    Comsat     41B
+              Globalstar 43)                                    Comsat     41C
+              Globalstar 48)                                    Comsat     41D
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     OMDP
+OV-103 Discovery       OPF Bay 1     STS-103 Oct 14
+OV-104 Atlantis        VAB Bay 2     STS-101 Dec  2
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/                          LC39B       STS-93
+MLP2/                          
+MLP3/RSRM-71?/ET?              VAB Bay 3   STS-99
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

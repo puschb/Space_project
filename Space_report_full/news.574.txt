@@ -1,0 +1,164 @@
+
+Jonathan's Space Report
+
+No. 574                                     2006 Dec 11, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+A spacewalk and a Shuttle launch highlighted the past month in the
+International Space Station program.
+
+The Expedition 14 crew of Mike Lopez-Alegria, Mikhail Tyurin and Tomas Reiter
+continues work aboard the International Space Station. On Nov 22-23
+Lopez-Alegria and Tyurin made a spacewalk from the Pirs airlock module.
+They used spacesuits Orlan M-25 and M-27 respectively, according to
+Andrey Krasil'nikov, who also provided some of the times below.
+The airlock was depressurized by 2346 UTC on Nov 22, but the crew had problems
+opening the outer hatch; this was finally accomplished at 0017 UTC on Nov 23.
+At 0057 UTC, Tyurin launched a 3-gram spherical passive satellite
+for the Element 21 Golf Company of Canada, with the help of a swing from
+a golf club. The astronauts moved to the aft end of Zvezda. They inspected
+but failed to free a stuck antenna on the Progress M-58 cargo ship, and
+then relocated the WAL2 antenna on Zvezda which is to be used for docking
+of the European ATV cargo ship. At around 0330 UTC they jettisoned
+two small cleaning towels. Moving forward to the Zvezda PKhO compartment
+they installed the BTN-M1 neutron flux experiment; at 0528 they jettisoned
+three soft thermal covers with masses of less than 1 kg. The astronauts
+returned to Pirs and closed the hatch at 0555 UTC, repressurizing the
+airlock at 0559 UTC for a depressurized duration of 6 hours 13 min.
+
+
+Space Shuttle OV-103 Discovery was launched at 0147 on Dec 10 on mission
+STS-116, Station flight 12A.1, using solid rocket boosters RSRM-95 and
+external tank ET-123. Target orbit was 58 x 220 km x 51.6 deg; the OMS-2
+burn at 0225 UTC raised this to 225 x 250 km. By Dec 11 at 1000 UTC
+it was in a 298 x 347 km orbit closing in on ISS; Discovery docked
+with the Station at 2212 UTC on Dec 11.
+
+Discovery will dock with Station and install the P5 truss. During a
+series of spacewalks, the crew will retract the port P6 solar array wing
+(SAW-4B) and activate the truss electrical and cooling system. They will
+also stow debris protection panels on the Station for installation on
+the Zvezda module. After undocking, Discovery will deploy five small
+satellites from launchers on the ICC cargo carrier in the payload
+bay. Astronaut Sunita Williams will replace Thomas Reiter on the
+long-stay Expedition 14 crew.
+
+Below I give my usual estimated cargo manifest for the mission;
+thanks especially to Kim Campbell from Spacehab for proving some
+good numbers.
+
+ Location       Cargo                            Mass
+ Bay 1-2        Orbiter Docking System           1800 kg?
+ Bay 3          Tunnel Adapter                    112 kg
+ Bay 4-5        Spacehab Logistics Module        5399 kg
+ Bay 5P?        APC with SPDU                      20 kg?
+ Bay 7-8        Truss segment P5                 1860 kg
+ Bay 11-12      Integrated Cargo Carrier          839 kg  ) tot 2492 kg
+                STP-H2, FRAM                     1398 kg  )
+                Service Module Debris Panels      100 kg? )
+                RAFT-1                              4 kg  )
+                MARScom                             3 kg  )
+                MEPSI 2A/2B                         3 kg  )
+                ANDE launch cylinder               20 kg? )
+                ANDE-MAA                           50 kg  )
+                ANDE-FCAL                          75 kg  )
+ Sill           OBSS 202                          450 kg? 
+ Sill           RMS  303                          390 kg  
+ --------------------------------------------------------
+ Total                                          12523 kg
+
+Ave Atque Vale
+--------------
+
+The Mars Global Surveyor probe has fallen silent after 10 years in
+space, the longest operating Mars probe in history. MGS was launched in
+1996 Nov, entered Mars orbit in 1997 Sep, and  after an extended
+aerobraking phase began its primary mission in 1999 Mar. The last
+definite signals from MGS were received at around 0h UTC on Nov 3; the
+spacecraft's solar array mechanism appears to have run into problems.
+
+
+Probe        Mars arrival    End of ops.     Duration at Mars
+
+Mariner 9        1971 Nov        1972 Oct        0.9 yr
+Mars-2           1971 Nov        1972 Aug        0.6 yr
+Mars-3           1971 Dec        1972 Aug?       0.6 yr?
+Mars-5           1974 Feb        1974 Mar        0.0 yr
+Viking Orbiter 1 1976 Jun        1980 Aug        4.1 yr
+Viking Lander 2  1976 Jul        1982 Nov        6.3 yr
+Viking Orbiter 2 1976 Aug        1978 Jul        1.9 yr
+Viking Lander 2  1976 Sep        1980 Apr        3.6 yr
+Fobos-2          1989 Jan        1989 Mar        0.2 yr
+Mars Pathfinder  1997 Jul        1997 Oct        0.2 yr
+MGS              1997 Sep        2006 Nov        9.1 yr
+Mars Odyssey     2001 Oct        Active          5.1 yr
+Mars Express     2003 Dec        Active          3.0 yr
+Spirit           2004 Jan        Active          2.9 yr
+Opportunity      2004 Jan        Active          2.8 yr
+MRO              2006 Mar        Active          0.8 yr
+
+Fengyun
+-------
+
+China launched its fourth Fengyun-2 ('Wind and Cloud 2') geostationary weather satellite
+on Dec 8 at 0053 UTC. The Chang Zheng 3A rocket put FY-2D in geostationary
+transfer orbit and the spacecraft made its FG-36 apogee motor burn at
+1807 UTC the same day. The apogee motor was then probably ejected from
+the spinning satellite, which carries a visible-IR radiometer.
+The payload has been cataloged as 2006-53B, in a 35786 x 36478 km x 2.6 deg
+geosynchronous drift orbit; the final stage is in a 226 x 36221 km x 24.9 deg
+geostationary transfer orbit and is currently cataloged as 2006-53A,
+although Space Command may change these designations.
+
+Ariane 
+-------
+
+Arianespace launched Ariane 5ECA vehicle L534 from Kourou on Dec 8. This
+flight V174 mission carried two communications satellites. WildBlue 1
+for the WildBlue Communications broadband internet company is a Loral
+1300 Ka-band satellite with a dry mass of 2000 kg and a fuelled mass of
+4735 kg. The lower satellite on V174 is AMC 18 for SES Americom. This
+smaller C-band cable TV distribution satellite is a Lockheed A2100A with
+a dry mass of 918 kg and launch mass of 2081 kg. The EPC core stage
+reached a -1282 x 233 km x 6.9 deg insertion orbit; the ESC-A upper
+stage then fired to put the payloads in geostationary transfer orbit
+of 265 x 35700 km x 2.0 deg.
+
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Oct 13 2056   DirecTV 9S  )     Ariane 5ECA     Kourou ELA3      Comms       43
+              Optus D1    )                                      Comms       43
+              LDREX 2     )                                      Tech        43
+Oct 19 1628   METOP A           Soyuz-2-1A      Baykonur LC31    Weather     44A
+Oct 23 1340   Progress M-58     Soyuz-U         Baykonur LC1     Cargo       45A
+Oct 23 2334   SJ-6-2A )         Chang Zheng 4B  Taiyuan          Sigint?     46A
+              SJ-6-2B )                                          Sigint?     46B
+Oct 26 0052   STEREO Ahead  )   Delta 7925-10L  Canaveral SLC17B Science     47A
+              STEREO Behind )                                    Science     47B
+Oct 28 1620   Xinnuo 2          Chang Zheng 3B  Xichang          Comms       48A
+Oct 30 2349   XM-Blues          Zenit-3SL       SL Odyssey       Radio       49A
+Nov  4 1353   DMSP 5D-3 F-17    Delta 4M        Vandenberg SLC6  Weather     50A
+Nov  8 2001   Badr 4            Proton-M/Briz-M Baykonur LC200/39 Comms      51A
+Nov 17 1912   GPS 58            Delta 7925-9.5  Canaveral SLC17A Navigation  52A
+Dec  8 0053   Fengyun 2D        Chang Zheng 3A  Xichang          Weather     53B
+Dec  8 2208   WildBlue 1 )      Ariane 5ECA     Kourou ELA3      Comms       54A
+              AMC 18     )                                       Comms       54B
+Dec 10 0147   Discovery STS-116 Shuttle         Kennedy LC39B    Spaceship   55A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

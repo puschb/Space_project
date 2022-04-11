@@ -1,0 +1,192 @@
+Jonathan's Space Report 
+No. 746                                                        2018 Mar  9  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 54 continued with ISS Commander Aleskandr Misurkin and flight
+engineers Mark Vande Hei, Joe Acaba, Anton Shkaplerov, Scott Tingle and
+Norishige Kanai, until the undocking of Soyuz MS-06 on Feb 27.
+
+Progress MS-08 was launched on Feb 13, carrying 2548 kg of cargo
+including the DLR ICARUS antenna which will be installed on a spacewalk.
+It docked with the Zvezda module  at 1038 UTC Feb 15.
+
+On Feb 16 astronauts Vande Hei and Kanai made US spacewalk EVA-48, in
+suits 3003 and 3008, and SAFER units 15 and 13, to complete work on
+refurbising the Canadarm-2 and related systems. The airlock was
+depressurized about 1156 UTC and the hatch was opened at 1159 UTC. The
+crew removed LEE 202 from the Mobile Base System's POA (Payload ORU
+Accommodations) unit at 1306 UTC. The POA LEE is used to temporarily
+stash large ISS components.  LEE 202 was returned to the airlock at 1325
+UTC. Next, LEE 201 was removed from the ESP2 storage platform at 1345
+UTC and attached to the POA at 1359 UTC. By 1431 UTC work on the POA LEE
+installation was complete and LEE 201 became the new POA LEE. LEE 202
+will be returned to Earth aboard a Dragon, and LEE 205 will be launched
+on a future mission to serve as an on-orbit spare. The astronauts also
+lubricated LEE 203 (SSMRS LEE A). The hatch was closed at 1750 UTC and
+Quest was repressurised at 1757 UTC. 
+
+Summary of the Canadarm LEEs: 
+
+S/N  Pre2017    Post2018 
+
+201  LEE B      POA LEE 
+202  LEE A      Return to Earth 
+203  POA LEE    LEE A 
+204  ELC1 spare LEE B
+301  SPDM LEE   SPDM LEE
+
+Soyuz MS-06 undocked on Feb 27 at 2308 UTC and landed in Kazakhstan Feb 28 at 0231 UTC.
+It returned astronauts Misurkin, Vande Hei and Acaba to Earth. Expedition 55
+then began with Shkaplerov in command, Tingle and Kanai as flight engineers.
+
+
+Beidou
+------
+
+Two more CAST/Beijing-built Beidou-3 navigation satellites, Beidou 3
+MEO-3 and MEO-4, were launched on Feb 12, becoming Beidou Daohang
+Weixing 28 and 29.
+
+PAZ
+---
+
+The PAZ radar satellite, built by Airbus for Hisdesat and the Spanish
+Defense Ministry, was launched on Feb 22 by Falcon 9. Two test
+communications satellites for SpaceX were also aboard. No attempt was
+made to recover the Falcon 9 first stage, but one half of the newly
+designed fairing made a controlled reentry aimed at the recovery boat
+Mr. Steven. However, the fairing missed the boat by a short distance.
+
+PAZ was deployed at 1426 UTC; the Tintin satellites some unknown time
+later. The second stage, after deploying PAZ and Tintin A/B, made an
+orbit lowering burn over the Arctic at 1542 UTC, changing orbit from 495
+x 516 km to 211 x 517 km. After completing a second orbit, a further
+burn over Norway at 1709 UTC appears to have deorbited the stage. It
+reentered as it travelled southbound over the Pacific between the
+Aleutians and Midway, at about 1730 UTC. The two-stage deorbit is
+unusual and has not been explained by SpaceX.
+
+Hispasat 30W-6
+--------------
+
+On Mar 6 SpaceX carried out the 50th Falcon 9 launch, placing the Hispasat 30W-6
+communications satellite into a subsynchronous transfer orbit. The 6092 kg satellite
+carries a C/Ku/Ka-band communications payload for the Spanish telecom operator Hispasat,
+and was built by Maxar SSL/MDA (former Loral). 
+
+Attached to the Hispasat satellite was a small subsatellite, PODSAT, which was ejected
+after orbit insertion. PODSAT is a DARPA-sponsored project built by NovaWurks in
+collaboration with SSL/MDA, consisting of standardized 'satlets' like the SIMPL 
+payload deployed from the ISS last year. The presence of PODSAT was not announced
+prior to launch.
+
+
+
+Ariane V241
+-----------
+
+The investigation report confirms that a single wrong number was
+responsible for the incorrect orbit achieved by Ariane V241/L5101. The
+inertial reference system (IRS) was aligned at the usual 90 degrees
+azimuth, but for this mission - targeted at a slightly different
+transfer orbit than usual - 70 degrees should have been specified. 
+
+Owners of the Al Yah 3 satellite requested that they be deployed at 90
+degrees to the flight direction. With the usual alignment, this involved
+a risk of the IRS going through a coordinate zero point which would
+cause potential loss of reference, so the alignment was to be offset;
+but, this offset was not applied in at least some of the places
+required.
+
+The report has not been released; the only public official statement is at
+http://www.arianespace.com/press-release/independent-enquiry-commission-announces-conclusions-concerning-the-launcher-trajectory-deviation-during-flight-va241/
+
+JSE K-6
+-------
+
+On Feb 27 Japan's MHI launched H-IIA flight 38 from Tanegashima, carrying an optical
+spy satellite to sun-synchronous orbit. In Japanese the name of the satellite is
+'Joho Shushu Eisei Kougaku 6 gouki', which translates as 'Information Gathering Satellite,
+Optical 6 Unit'. Most English-language sources use an abbreviated form of
+the translation, IGS O-6; but we don't do that for Russian satellites - it's
+Soyuz MS-06, not Union MS-06. I therefore adopt an abbreviated form of the Japanese name,
+JSE K-6.
+
+GOES-S
+------
+
+The GOES-S weather satellite (Geostationary Operational Environmental Satellite S,
+for the US National Oceanic and Atmospheric Administration) was launched by a United
+Launch Alliance Atlas V into a high-perigee geotransfer orbit of 8240 x 35290 km 
+transfer orbit, raised to 16930 x 35285 km by Mar 8.
+
+Demosat-2
+---------
+
+The mysterious Demosat-2 cubesat orbited on the January PSLV launch has been identified
+as a testbed for Astranis, a San Francisco based startup which plans to provide
+broadband connectivity to the developing world using geostationary satellites.
+The SpaceBee satellites carried on the same launch are still unidentified.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+Feb  1 0207   Kanopus V-3         )   Soyuz-2-1A/Fregat Vostochniy       Imaging      14A   S43180   500 x   511 x 97.5 2323LT
+              Kanopus V-4         )                                      Imaging      14B   S43181   500 x   510 x 97.5 2323LT
+              S-NET 1             )                                      Comms        14    S43182?  571 x   589 x 97.7
+              S-NET 2             )                                      Comms        14    S43183?  571 x   589 x 97.7
+              S-NET 3             )                                      Comms        14    S43184?  571 x   589 x 97.7
+              S-NET 4             )                                      Comms        14    S43185?  571 x   589 x 97.7
+              Lemur-2-Kadi        )                                      AIS/Weather  14    S43186?  570? x  590?x 97.7?
+              Lemur-2-TheNickMolo )                                      AIS/Weather  14    S43187?  570? x  590?x 97.7?
+              Lemur-2-Jin-Luen    )                                      AIS/Weather  14    S43188?  570? x  590?x 97.7?
+              Lemur-2-UramChanSol )                                      AIS/Weather  14    S43189?  570? x  590?x 97.7?
+              D-Star One Phoenix  )                                      Tech         14    S43190?  570? x  590?x 97.7?
+Feb  2 0751   Zhang Heng 1  )         Chang Zheng 2D    Jiuquan          Science      15A   S43192   489 x   509 x 97.3 1411LT
+              Ada           )                                            Imaging      15    S43193?  493 x   504 x 97.2
+              Maryam        )                                            Imaging      15    S43194?  488 x   508 x 97.3
+              Ulloriaq      )                                            AIS/Imaging  15    S43195?  486 x   508 x 97.3
+              GOMX-4B       )                                            Tech         15    S43196?  483 x   507 x 97,3
+              Shaonian Xing )                                            Tech         15    S43197?  483 x   507 x 97,3
+              FengMaNiu 1   )                                            Tech         15    S43199?  485 x   507 x 97.3
+Feb  3 0503   Tasuki                  SS-520            Uchinoura        Comms        16A   S43201   186 x  2012 x 30.9
+Feb  6 2045   Elon's Roadster         Falcon Heavy      Kennedy LC39A    Test         17A   S43205   717 x-79898 x 28.9
+Feb 12 0503   Beidou DW28  )          Chang Zheng 3B/YZ1 Xichang LC2     Navigation   18A   S43207 21464 x 22170 x 55.0
+              Beidou DW29  )                                             Navigation   18B   S43208 21539 x 22191 x 55.0
+Feb 13 0813   Progress MS-08          Soyuz-2-1A        Baykonur LC31    Cargo        19A   S43211   189 x   223 x 51.6
+Feb 22 1417   PAZ           )         Falcon 9          Vandenberg SLC4E Radar        20A   S43215   501 x   518 x 97.5 0600LT SSO 
+              Tintin A      )                                            Comms        20B   S43216   500 x   517 x 97.5 0600LT SSO 
+              Tintin B      )                                            Comms        20C   S43217   500 x   517 x 97.5 0600LT SSO 
+Feb 27 0434   JSE K-6                 H-IIA 202         Tanegashima      Imaging      21A   S43223   500?x   500?x 97.5?
+Mar  1 2202   GOES 17                 Atlas V 541       Canaveral SLC41  Weather      22A   S43226  8241 x 35286 x  9.5     
+Mar  6 0533   Hispasat 30W-6 )        Falcon 9          Canaveral LC40   Comms        23A   S43228   287 x 22255 x 27.0
+              PODSAT         )                                           Tech         23B   S43229   188 x 22250 x 27.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jan 30        Burkan RV         Burkan H-2         Yemen                 Weapon        100?      Riyadh Airport
+Feb  5        Target            B-611?             Jiuquan?              Target        300?      Urumqi?
+Feb  5        Interceptor       DF-21              Urumqi?               Interceptor   100?      Intercept
+Feb  6 0300   Agni RV           Agni I             Kalam Island          Test          300?      Bay of Bengal         
+Feb 18 2330   Arrow KV          Arrow 3            Palmachim             Test          100?      Mediterranean?
+Feb 20 0308   Agni RV           Agni II            Kalam Island          Test          600?      Indian Ocean
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,196 @@
+Jonathan's Space Report
+No. 656                                        2012 Apr 12  Somerville, MA USA
+--------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+Expedition 30 continues with Soyuz TMA-22 docked at Poisk and Soyuz
+TMA-03M docked to the Rassvet module. Ex-30 commander is Dan Burbank;
+flight engineers 1 to 5 are Anton Shkaplerov, Anatoliy Ivanishin, Oleg
+Kononenko, Andre Kuipers, Don Pettit. The Progress M-14M cargo ship
+is docked at the Pirs module.
+
+The third European ATV (Automated Transfer Vehicle), the Edoardo Amaldi,
+was launched on Mar 23. Ariane vehicle 553 placed the ATV with the EPS
+upper stage in a -1260 x 140 km trajectory at 0443 UTC; the EPC core
+stage impacted the eastern Atlantic. A first EPS stage burn put the
+mission in a 136 x 256 km orbit at 0451 UTC, and a second burn at 0533
+UTC circularized the orbit at around 260 x 260 km. The EPS separated and
+was deorbited over the South Pacific at around 0700 UTC. On Mar 25 the
+ATV-3 was in a 274 x 294 km x 51.6 deg orbit.  ATV 3 is named after
+Edoardo Amaldi (1908-1989) who was a co-founder of CERN and of ESA's
+precursor ESRO. It has a mass of 19714 kg. ATV 3 docked with the aft
+Zvezda port on the Station at 2231 UTC on Mar 28. On Mar 31 at 2154 UTC
+the ATV OCS engines were used to perform a small 1.7 km reboost of the
+Station's orbit; a larger reboost on Apr 5 put the Station in a 387 x
+398 km x 51.6 deg orbit.
+
+North Korean launch
+-------------------
+
+The Korean Committee of Space Technology of the Democratic People's
+Republic of Korea (Choson Minjujuui Inmin Kongwaguk, otherwise known as
+North Korea) has announced its intention to launch the Unha-3 rocket
+with the Kwangmyongsong-3 satellite payload from the Sohae launch site
+at Tongch'ang-dong. Kwangmyongsong-3 is a 100 kg box-shaped satellite
+1.4 x 0.6 x 0.7m in size with body-mounted solar panels. Unha-3 is a
+three stage vehicle; stage 1 is 2.40m in diameter, stage 2 is about 1.5m
+in diameter, and stage 3 is about 1.2m in diameter. Unha-3 seems almost
+identical to Unha-2, except that the third stage seems to be slightly
+stretched. The first two stages fly south on an azimuth that would
+lead to an 88 degree inclination orbit; the third stage is expected
+to make a yawed burn that if successful will result in a 500 km, 97.4 deg 
+inclination sun-synchronous orbit. The 2009 Unha-2 launch was
+on an eastward rather than southward azimuth, from a different
+launch site, and suffered a failure of the third stage to ignite
+which resulted in payload impact in the Pacific.
+
+The accuracy of the Unha-3 is likely to be poor by the standards of
+the launch vehicles of experienced spacefaring nations. This has raised
+some discussion about the definition of sun-synchronous orbit: how close
+to the mathematically nominal critical inclination (which also depends on
+altitude) do you need to be to count as sun-synchronous. I discuss
+this at http://planet4589.org/space/log/stats/sso.html and conclude
+that precession rates of 0.94 to 1.03 deg/day, corresponding to an
+orbital plane drift of one hour per year or less, constitute a reasonable
+criterion for sun-synchronicity.
+
+Launch is expected within the next week.
+
+Ekspress AM-4
+--------------
+
+In August 2011 a Proton-M/Briz-M delivered the Ekspress AM-4 spacecraft
+to an incorrect orbit of 697 x 20239 km x 51.3 deg. Ekspress AM-4 was an
+Astrium/Khrunichev Eurostar 3000 satellite with L, C, Ku and Ka band
+communications payloads for the Russian company Kosmicheskaya Svyaz.  On
+around Mar 1 the satellite's apogee began to decrease slightly,
+presumably due to tests of the propulsion system. Between Feb 27 and Mar
+24 the orbit was slowly and steadily lowered from 651 x 20410 km to 659
+x 20320 km x 51.1 deg. On 2012 Mar 25 the Ekspress AM-4 spacecraft was
+deorbited on command from the Centre Spatiale de Toulouse. An engine
+burn from 0945 to 1035 UTC over the southern Indian Ocean, as Ekspress
+AM-4 was approaching apogee, lowered the satellite's perigee with a
+resulting orbit of around (-2000 to -1000) x 20320 km, and it reentered
+over the N Pacific near 40N 175W at around 1332 UTC. The Briz-M stage
+from the launch remains in a 1008 x 20307 km x 51.1 deg orbit.
+
+Intelsat IS-22
+--------------
+
+Proton-M vehicle 93528 with Briz-M stage 99537 was launched from
+Baykonur on Mar 25 carrying a 6200 kg Boeing 702MP spacecraft, Intelsat
+IS-22. IS-22 has a C- and Ku-band commercial communications payload as
+well as a UHF communications payload for the Australian Defense Forces.
+This mission was the first Proton launch to use a supersynchronous
+transfer orbit. The five Briz-M burns raised the orbit from -495 x 170
+km x 51.5 deg to 173 x 173 km x 51.5 deg at 1226 UTC, to 295 x 5996 km x
+51.0 deg at 1420 UTC, to 363 x 14407 km x 50.8 deg at 1644 UTC, to 433 x
+69497 km x 50.4 deg at 1654 UTC on Mar 25, and finally to 3783 x 64892
+km x 28.4 deg at 0328 UTC on Mar 26. This orbit strategy allows a more
+massive payload to be carried. By Apr 10 burns by IS-22's own propulsion
+system had lowered it to a 35783 x 36531 km x 0.1 deg orbit drifting
+west over the Indian Ocean.
+
+Oko
+----
+
+Russia launched an Oko-1 (US-KMO, 71Kh6) early warning satellite into
+geosynchronous orbit on Mar 30, using the final Proton-K (8K82K) launch
+vehicle (serial 41018 with upper stage Blok DM-2 No. 117L, according to
+information on nasaspaceflight.com).  The satellite was given the code
+name Kosmos-2479. On Apr 10 the satellite was in a 35697 x 35902 km x
+2.3 deg over longitude 80.1E.
+
+Apstar 7
+--------
+
+A Chinese Chang Zheng 3B/E vehicle flew to supersynchronous
+geostationary transfer orbit from Xichang on Mar 31 carrying a
+commercial payload. Apstar 7 is a Thales Alenia/Cannes Spacebus 4000C2
+for the Hong-Kong-based APT (Asia Pacific Telecom) Satellite company. On
+Apr 1 Apstar 7 was in a 2328 x 50123 km x 27.4 deg orbit; as of Apr 11
+more recent orbital data was not available.
+
+NROL-25 (USA 234)
+------------------
+
+A secret National Reconnaissance Office satellite went aloft from
+Vandenberg AFB's Space Launch Complex 6 on Apr 3, aboard a Delta 4
+Medium+ (5,2) vehicle. Ted Molczan and other analysts believe this
+satellite is the second FIA Radar mission, following
+NROL-41/USA-25/2010-46A. It was quickly picked up by hobbyist observers
+in a 1068 x 1107 km x 123.0 deg retrograde orbit. The
+five-meter-diameter Delta second stage was deorbited on the first
+revolution and impacted the ocean south of Australia.
+
+The spacecraft has been given the cover name USA 234 - implying that the
+MUOS satellite doesn't get a USA number for some reason.
+
+
+Suborbital launches
+--------------------
+
+On Mar 22 NASA launched the third flight of CalTech's CIBER instrument to
+measure the extragalactic near-infrared background.
+
+On Mar 27 five sounding rockets were launched from Wallops Island to
+study the upper atmosphere jet stream by releasing chemical tracers at
+different altitudes. The ATREX (Anomalous Transport Rocket Experiment)
+project used Terrier boosters with Oriole, Improved Malemute and
+Improved Orion sustainer stages. As far as I know the last time so many
+suborbital missions were launched within five minutes from Wallops was
+on 1970 Mar 7 when ten rockets were launched by NASA and AFCRL to study
+a solar eclipse.
+
+On Apr 5 UP Aerospace launched SpaceLoft SL-6 from the New Mexico
+spaceport carrying technology payloads for the US Air Force Operationally
+Responsive Space office.
+
+In the last JSR I mentioned the Feb 25 Minuteman III launch; the correct
+name of the launch agency is actually US Air Force Global Strike Command.
+
+
+Note
+-----
+
+Thanks to Ted Molczan for providing the Soyuz TM-5 data I requested
+in the last issue.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar 23 0434   Edoardo Amaldi     Ariane 5ES-ATV    Kourou ELA3       Cargo     10A
+Mar 25 1210   Intelsat IS-22     Proton-M/Briz-M   Baykonur LC200/39 Comms     11A
+Mar 30 0549   Kosmos-2479        Proton-K/DM-2     Baykonur LC81/24  EarlyWarn 12A
+Mar 31 1027   Apstar 7           Chang Zheng 3B/E  Xichang LC2       Comms     13A
+Apr  3 2312   NROL-25            Delta 4M+(5,2)    Vandenberg SLC6   Radar     14A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Mar 19 1405   REXUS 12         Imp. Orion         ESRANGE             Micrograv     82
+Mar 22 0900   NASA 36.277UG    Black Brant IX     White Sands         IR Astron    320?
+Mar 27 0858   NASA 45.004UE    Terrier Oriole     Wallops             Atm. Sci     375?
+Mar 27 0859   NASA 46.002UE    Terrier Malemute   Wallops             Atm. Sci     200?
+Mar 27 0900   NASA 41.097UE    Terrier Orion      Wallops             Atm. Sci     157?
+Mar 27 0902   NASA 46.003UE    Terrier Malemute   Wallops             Atm. Sci     254?
+Mar 27 0903   NASA 41.098UE    Terrier Orion      Wallops             Atm. Sci     169?
+Apr  5 1418   SL-6             SpaceLoft XL       Spaceport America   Tech         117
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,218 @@
+Jonathan's Space Report
+No. 610                                           2009 Apr 29  Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Gennadiy Padalka, Mike Barratt, and Koichi Wakata are aboard the Station
+with Progress M-66 and Soyuz TMA-14 docked to it. Mike Fincke, Yuriy
+Lonchakov, and Charles Simonyi undocked at 0355 UTC on Apr 8 aboard
+Soyuz TMA-13, landing in Kazakhstan at 0716 UTC at 48 33 56N 69 23 51E,
+151 km northeast of Dzezhkazgan.
+
+Kepler
+------
+
+At 0218 UTC on Apr 8, Kepler ejected its 7.5 kg dust cover; the
+telescope is now open to space. The dust cover will orbit the Sun in a
+fractionally different path thanks to its 1.1 m/s ejection velocity, its
+orbital period different by less than an hour. Kepler was 3.1 million km
+from Earth at the time of ejection, in a 0.97 x 1.04 AU orbit inclined
+0.46 deg to the ecliptic plane, at ecliptic latitude 0.3 deg and
+ecliptic longitude 197.3 deg. Light travel time to Earth was 10 seconds.
+(Thanks to JPL's Whitney Clavin for the dust cover mass and velocity).
+
+Kwangmyongsong-2
+-----------------
+
+North Korea's Unha-2 rocket was launched from the Tonghae space center
+at 0230 UTC on Apr 5. The second stage was tracked by Japan as it flew
+over that country and fell in the Pacific. 
+
+According to North Korean statements, a third rocket stage placed the
+Kwangmyongsong-2 satellite in a 490 x 1426 km x 40.6 deg  orbit at 9min
+2 sec after launch, but the US claims the launch failed and no other
+nation has reported the detection of any orbiting objects from the
+launch. I am recording the attempt as a failure. If the third stage did
+not separate from the second, the orbit may have been around (very
+roughly) -4550 x 490 km x 40.8 deg; An Apr 5 Yoimuri Shimbun report
+forwarded to me by David Wright said the impact was 1270 km E of Japan,
+but on Apr 6 the same paper was reporting a longer range and it seems
+that the second stage impact was in fact in the region expected before
+launch.
+
+The North Korean news agency KCNA quoted 0220:00 UTC as the launch time.
+Western press reported the launch time as  0230 UTC, and Russian sources
+say they tracked the launch at 0232 UTC. The Worldview-1 satellite took
+an image of the launch contrail from space reportedly at 0231:16 UTC, which
+must have been within a couple minutes of launch, so I will adopt 0230
+UTC as the best current estimate of the launch time.
+
+Western analysts have assumed that the Unha-2 uses a larger-diameter
+first stage than the Paektusan-1 rocket used in the 1998 launch attempt;
+this has now been confirmed by images of the rocket released by North
+Korea. The pictures are consistent with a rocket about 27m high and
+2.2m in diameter, including a 14m long first stage, an 8m long second
+stage with a diameter of 1.2-1.4m, and a third stage fairing with
+a diameter around 1.0m (but possibly enclosing a smaller actual third
+stage).
+
+Eutelsat W2A
+------------
+
+International Launch Services delivered the Eutelsat W2A satellite to
+orbit on a Khrunichev Proton-M/Briz-M on Apr 3. The Thales-Alenia
+Spacebus 4000C4 carries a Ku, S and C-band communications payload.
+Eutelsat W2A separated from the Briz-M stage at 0133 UTC on Apr 4 into a
+4990 x 35899 km x 20.7 deg geostationary transfer orbit; intermediate
+orbits in the five-burn ascent were -448 x 186 km x 48.0 deg, 132 x 274
+km x 48.0 deg,  239 x 5002 km x 46.8 deg, 299 x 14988 km x 46.1 deg and
+398 x 35666 km x 45.6 deg. The Briz-M  DTB tank was jettisoned into the
+299 x 14988 km orbit at 2002 UTC. By late April, W2A was on station at
+1.7 deg E.
+
+
+WGS SV2
+-------
+
+The second Wideband Global Satcom satellite was launched from Cape
+Canaveral on Apr 4. The Boeing-702 class satellite will provide
+communications for the US Dept. of  Defense. Central Command (CENTCOM).
+WGS 2 is believed to now be in geostationary orbit.
+
+Beidou
+-------
+
+On Apr 14 China launched the second "second generation" ('erdai')
+Beidou navigation satellite, COMPASS-G2 or 'er ke Beidou Daohang Weixing'
+using the CZ-3C (Chang Zheng sanhao bing) launch vehicle. The
+satellite was initially placed in geostationary transfer orbit.
+The first four Beidou were called 'Beidou Daohang Shiyan Weixing',
+or Beidou Navigation Test Satellite; the most recent two are the
+operational 'Beidou Daohang Weixing'. Beidou is probably now in
+geostationary orbit, but no orbital data have been released.
+
+RISAT-2
+--------
+
+India's PSLV-C12 launch put the RISAT-2 satellite in orbit on Apr 20.
+RISAT-2 is a Tecsar-class radar imaging satellite that India bought from
+Israel to make up for delays in the Indian-built RISAT-1.
+
+The PSLV took off at 0115 UTC from the Satish Dhawan Space Center on
+Sriharikota Island north of Chennai, and the first three stages placed
+the PS4 fourth stage with its payloads on a suborbital trajectory of
+about -1000 x 560 km x 20 deg, heading east to avoid Sri Lanka. After a
+few minutes coast, the package reached apogee at 0130 UTC over the
+equator at 116 deg E, and the PS4 yawed to burn the vehicle into a  more
+southerly-bound 400 x 552 km x 41.1 deg orbit. (One source suggests the
+yaw burn may be at around 5 deg N rather than on the equator, and
+confirmation of details would be appreciated). The third stage reentered
+over the ocean east of Australia at around 0146 UTC. After a depletion
+burn the fourth stage is in a slightly higher 453 x 559 km orbit.
+
+RISAT-1 separated from the PS4 at 0132 UTC, and two minutes later
+Anusat, a small 40 kg imaging satellite from Anna University in Chennai, was
+also ejected from the stage.
+
+SICRAL 1B
+---------
+
+Italy's second military communications satellite, SICRAL 1B, was
+launched on Apr 20 by a Boeing-Sea Launch Zenit-3SL from the floating
+Odyssey launch platform in the equatorial Pacific. The satellite was
+built at Thales Alenia/Torino. The SICRAL (Sistema Italiano per
+Comunicazioni Riservate ed Allarmi, Italian System for Classified
+Communications and Alarms) 1B satellite supplements SICRAL 1A launched
+in 2001 Feb on an Ariane 4.
+
+SICRAL 1B is an improved Thales Alenia Italsat-3000 design; the
+satellite is 7.8m high and the solar panels span 24.4m. Mass is
+3038 kg full, 1680 kg dry. (thanks to Guiseppina Piccirilli of Thales
+Alenia (I) for details).
+
+The Torino (Turin) plant of Thales Alenia built the ELDO STV satellites
+in the 1960s, when it was part of FIAT. In 1969 it became part of
+Aeritalia, in 1990 part of Alenia Spazio, in 2005 part of Alcatel Alenia
+Space, and in 2007 Thales Alenia.
+
+The Zenit-3SL's lower two stages put the Blok DM-SL upper stage in a
+-1949 x 233 km x 0.0 deg trajectory; the two DM burns went to
+an elliptical 200 x 14108 km x 0.0 deg intermediate orbit and then
+an 8528 x 35596 km x 0.0 high-perigee geostationary transfer orbit.
+Three debris objects have been cataloged in the transfer orbit - this
+is unusual for Zenit-3SL launches. 
+
+Yaogan 6
+---------
+
+China has launched the Yaogan 6 "China remote sensing satellite No. 6"
+(Zhongguo yaogan weixing liuhao). It was built by the Shanghai hangtian
+jishu yanjiuyuan (Shanghai Academy of Space Technology, SAST), part of
+the  Zhongguo hangtian keji jituan gongsi (China Aerospace Research and
+Technology Corp., CASC).  
+
+Launch was by CZ-2C. Six objects have been cataloged in orbit, with the
+payload raising its orbit from an initial 486 x 521 km x 97.6 deg
+to 511 x 513 km x 97.6 deg by Apr 29. The rocket stage is in
+a 431 x 583 km orbit; four small debris objects may be the second
+stage separation motors.
+
+Kosmos-2450
+------------
+
+Kosmos-2450 was launched on a Soyuz-U from Plesetsk on Apr 29 into a 
+167 x 335 km x 67 degree orbit. It is probably a Kobal't-M class imaging
+reconnaissance satellite. The previous such satellite was Kosmos-2445,
+which flew from 2008 Nov 14 to 2009 Feb 23.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar  7 0350   Kepler            Delta 7920-10L   Canaveral SLC17B  Astronomy 11A
+Mar 15 2343   Discovery STS-119 Space Shuttle    Kennedy LC39A     Spaceship 12A
+Mar 17 1421   GOCE              Rokot            Plesetsk LC133/3  Science   13A
+Mar 24 0834   GPS 49            Delta 7925       Canaveral SLC17A  Nav       14A
+Mar 26 1149   Soyuz TMA-14      Soyuz-FG         Baykonur LC1      Spaceship 15A
+Apr  3 1624   Eutelsat W2A      Proton-M/Briz-M  Baykonur LC200/39 Comms     16A
+Apr  4 0031   WGS SV2 (USA 204) Atlas V 421      Canaveral SLC41   Comms     17A
+Apr  5 0230   Kwangmyongsong 2  Unha-2           Tonghae           Test      F02
+Apr 14 1616   2 Beidou Dao.Wei. Chang Zheng 3C   Xichang           Nav       18A
+Apr 20 0115   RISAT-2  )        PSLV-CA          Sriharikota SLP   Radar     19A
+              Anusat   )                                           Imaging   19B
+Apr 20 0816   SICRAL 1B         Zenit-3SL        SL Odyssey        Comms     20A
+Apr 22 0255   China Yaogan 6    Chang Zheng 2C   Taiyuan           Imaging?  21A
+Apr 25 1658   Kosmos-2450       Soyuz-U          Plesetsk          Imaging   22A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Mar  6 1054   Target          Dhanush         Ship, Chandipur Target       120
+Mar  6 1100?  Interceptor     Prithvi         Chandipur IC4   ABM Test      75?
+Mar 12 1008   SSC REXUS 6     Imp. Orion      Esrange         Ionos./Tech   88
+Mar 13 0600   SSC REXUS 5     Imp. Orion      Esrange         Atmos./Tech   87
+Mar 18 0025?  THAAD Target    Unknown         Kauai           Target       100?
+Mar 18 0030   THAAD KV        THAAD           Kauai           ABM Test     100?
+Mar 18 0030   THAAD KV        THAAD           Kauai           ABM Test     100?
+Mar 20 1104   NASA 40.023UE   Black Brant XII Poker Flat      Aurora       560?
+              + 4 subpayloads
+Mar 25 1325   PAC-3 Target    Hera            Fort Wingate    Target       100?
+Apr 10 0810   RV              Topol'          Plesetsk        Op Test     1000?
+Apr 17 1118   FalconLaunch 7  FalconLaunch    White Sands     Test         108
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+

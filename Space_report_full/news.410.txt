@@ -1,0 +1,110 @@
+Jonathan's Space Report
+No. 410                                           1999 Oct 28 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Recent Launches
+---------------
+
+
+Boeing Sea Launch made its second successful Zenit-3SL flight from
+the Odyssey launch platform in the Pacific Ocean at 154W 0N. This
+was the first flight to carry a commercial payload, the Hughes
+DirecTV 1R. The HS-601 satellite used its R-4D apogee engine to
+enter geostationary orbit and is now in a 35742 x 35830 km x 0.0 deg
+orbit over 81.6W.
+
+China launched two Brazilian satellites, CBERS 1 and SACI 1 on Oct 14.
+Zi Yuan 1 (CBERS 1) is the China-Brazil Earth Resources Satellite. I
+believe CBERS 1 was actually built by CAST/Beijing, with INPE/Brasil
+taking the lead for CBERS 2. Mass is 1450 kg. The satellite is in a 732
+x 745 km x 98.6 deg sun-synchronous orbit and is controlled from both
+Chinese and Brazilian ground stations. This was the second launch
+of the Shanghai group's CZ-4B rocket, which has an improved third
+stage and larger fairing compared to the earlier CZ-4A.
+
+SACI-1 is INPE's 60 kg experimental scientific satellite. It carries a
+magnetometer, particle detectors and an atmospheric experiment. INPE
+reportedly lost contact with the satellite in mid-October and its
+current status is unknown.
+
+Four more Globalstar satellites were launched on Oct 18. The Soyuz-U
+rocket placed the Ikar stage and the dispenser with satellites in
+elliptical transfer orbit. Ikar made a burn at apogee and the satellites
+were released; a second Ikar burn, with the dispenser still attached,
+was meant to deorbit the stage a day later, but Space Command data
+showed it in orbit on Oct 20. Thanks to Aleksandr Zheleznyakov for the
+correct launch time. Globalstar has now begun limited service with
+its satellite telephone system.
+
+Loral Orion's Orion 2 satellite was launched on Oct 19 by Ariane 44LP.
+Arianespace's fourth launch in a little over two months placed the
+FS-1300 class comsat in supersynchronous transfer orbit with a 60000 km
+apogee. The Orion satellites are used for international communications
+and complement the Telstar domestic series operated by Loral Skynet.
+
+The Resurs F-1M satellite was recovered on Oct 22 after completing
+its 3-week remote sensing mission.
+
+The Russian Ekspress-A1 communications satellite was launched on Oct 27
+but the Proton-K launch vehicle failed early in flight, during second
+stage burn. This is the second failure of the 8K82K Proton-K  this year.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  4 2234   Koreasat 3        Ariane 42P     Kourou ELA2      Comsat     46A
+Sep  6 1636   Yamal 101 )       Proton-K/DM    Baykonur         Comsat     47A
+              Yamal 102 )                                       Comsat     47B
+Sep  9 1800   Foton 12          Soyuz-U        Plesetsk         Micrograv  48A
+Sep 22 1433   Globalstar 33)    Soyuz-U/Ikar   Baykonur LC1     Comsat     49A
+              Globalstar 50)                                    Comsat     49B
+              Globalstar 55)                                    Comsat     49C
+              Globalstar 58)                                    Comsat     49D
+Sep 23 0602   Echostar 5        Atlas 2AS      Canaveral SLC36A Comsat     50A
+Sep 24 1821   Ikonos            Athena-2       Vandenberg SLC6  Imaging    51A
+Sep 25 0629   Telstar 7         Ariane 44LP    Kourou ELA2      Comsat     52A
+Sep 26 2230   LMI-1             Proton-K/DM3   Baykonur         Comsat     53A
+Sep 28 1100?  Resurs F-1M       Soyuz-U        Plesetsk         Imaging    54A
+Oct  7 1251   Navstar SVN 46    Delta 7925     Canaveral SLC17A Navsat     55A
+Oct 10 0328   DirecTV 1R        Zenit-3SL      Odyssey, POR     Comsat     56A
+Oct 14 0315   Zi Yuan 1 )       Chang Zheng 4B Taiyuan          Imaging    57A
+              SACI 1    )                                       Science    57B
+Oct 18 1322   Globalstar 31)    Soyuz-Ikar     Baykonur LC1     Comsat     58A
+              Globalstar 56)                                    Comsat     58B
+              Globalstar 57)                                    Comsat     58C
+              Globalstar 59)                                    Comsat     58D
+Oct 19 0622   Orion 2           Ariane 44LP    Kourou ELA2      Comsat     59A
+Oct 27 1616   Ekspress-A1       Proton-K       Baykonur         Comsat     F03
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-103 1999 Dec
+OV-104 Atlantis        OPF Bay 3     STS-101 2000
+OV-105 Endeavour       OPF Bay 2     STS-99  2000 Jan
+
+MLP1/
+MLP2/
+MLP3/RSRM-71?/ET?              VAB Bay 3   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

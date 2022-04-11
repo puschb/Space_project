@@ -1,0 +1,414 @@
+Jonathan's Space Report
+No. 801                                                       2021 Dec 27        Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 66 continues.
+
+On Dec 2 astronauts Marshburn and Barron carried out spacewalk US EVA-78, to replace the SASA
+antenna on the P1 truss. The airlock was depressurized from 1108 to 1747 UTC; the hatch
+was open from 1114 to 1743 UTC. The SASA (S-band Antenna SubAssembly) units are about 116 kg each;
+there are three installed on S1, P1 and Z1 and a further two spares on the ELC-3 carrier.
+During the spacewalk, the astronauts removed the P1 SASA unit and swapped it with one of the
+spares on ELC-3.
+
+On Dec 8 Roskosmos launched Soyuz MS-20 with commander Aleksandr Misurkin and spaceflight
+participants (tourists) Maezawa Yusaku and Hirano Yozo. Soyuz MS-20 docked with Poisk
+at 1340 UTC Dec 8. The three visitors returned on the same ship, undocking at 2350 UTC
+Dec 19 and landing in Kazakhstan at 0313 UTC Dec 20.
+
+On Dec 21 SpaceX launched the Dragon CRS-24 cargo ship  (also called mission SpX-24).
+This mission uses capsule C209 on its second flight.
+In the Dragon trunk are two Space Force payloads in the Space Test Program, STP-H7 and
+STP-H8. STP-H7 will be installed on an external platform on the Columbus module
+and STP-H8 will go to the Kibo Exposed Facility (I don't know which EFU). Combined mass
+of STP-H7 and STP-H8 is 908 kg.
+
+Inside the Dragon capsule are two cubesat deployer payloads:
+ NRCSD-22, from Nanoracks, contains
+   DAILI - Aerospace Corp, 1x6U cubesat for ionospheric research
+   FEES 2 - GP Advanced Projects (Brescia), 0.3U cubesat
+   GASPACS - Utah State U. 1U cubsat to test a deployable boom for attitude control
+   PATCOOL - KSC/U Florida 3U cubesat to test thermal coatings and a drag device
+   TARGIT - a 3U cubesat from Georgia Tech with a lidar (laser ranger) and a target subsatellite.
+      The 4.5 kg cubesat will deploy the 1.5 kg subsatellite on a 6 m tether; the subsatellite
+      has a 1-meter-sized inflatable Mylar tetrahedral balloon. The lidar will be used to
+      image the subsatellite. The tether will be deployed after TARGIT's altitude decays below that
+      of the Chinese space station.
+ J-SSOD-20 (serial number to be confirmed), from Mitsui Bussan Aerospace, carries
+   GT-1, a 1U amateur radio satellite from Georgia Tech, 
+   Light-1, a 3U satellite to study terrestrial gamma-ray lightning flashes from NYU Abu Dhabi and Khalifa U.,
+   and one further so-far-unidentified 1U cubesats, likely from Japanese companies.
+
+CRS-24 is thought to also be carrying a new EMU spacesuit, but I haven't been able to find
+out the serial number.
+
+Dragon CRS-24 docked to IDA-2 on the Harmony module at 0841 UTC Dec 22.
+
+At 2303 UTC on Dec 22 the Progress M-UM tug undocked from the Prichal
+module (which it delivered to the ISS on Nov 26). Progress M-UM was then
+deorbited with reentry over the South Pacific at 0430 UTC Dec 23.
+
+Chinese Space Station
+----------------------
+
+On Dec 26 astronauts Ye and Zhai made a spacewalk to deploy an external camera platform.
+The Tianhe airlock hatch was open from 1044 to 1655 UTC.
+
+Starlink
+--------
+
+48 Starlink satellites were launched from Cape Canaveral on Dec 2 as
+Group 4-3. The launch also deployed two BlackSky Global imaging
+satellites.
+
+52 Starlinks were launched on Dec 18 as Group 4-4. The launch southeast from Vandenberg
+to 53 degrees was the lowest-inclination ever from the site.
+
+Galileo
+-------
+
+Two more European Union navigation satellites in the Galileo series were launched on Dec 5.
+GalileoSat-27/28 are FOC flight models 23/24.
+
+Gushenxing-1
+------------
+
+The second launch of the Gushenxing-1 (Ceres-1) rocket placed five satellites in orbit:
+  - Tianjun Daxue 1 built by Changguang Satellite for Tianjin University, with an IR imager;
+  - Lize-1 and Baoyun  from Tianyi Research
+  - Jin Zijing 5, an imaging satellite built by Zhongke Xingrui for Hong Kong Aerospace Tech
+  - Jin Zijing 1-03, an imaging satellite built by Lingzhong Kongjian (Zero Gravity Lab) for Hong Kong Aerospace Tech.
+Gushenxing-1 is a commercial launch vehicle developed by Xinghe Dongli Kongkian Keji YG (Galactic Energy) of 
+Beijing.
+
+STP-3
+-----
+
+The US Space Force's Space Test Program 3 mission was launched on a ULA Atlas V on Dec 7 to
+near-synchronous orbit. The main payload was the STPSAT-6 satellite. A modified ESPA ring,
+the LDPE-1 (Rooster 1) satellite, was also put in orbit; it will deploy a number of smaller
+satellites including the 12U ASCENT cubesat from AFRL. 
+
+An additional object (50214 / 2021-118D ) from the launch was cataloged on Dec 20; Space-Track records it as 
+'Atlas Centaur 5 Debris' but it's possible it is the first of these subsatellites.
+
+Electron 23
+-----------
+
+Another two BlackSky Global imaging satellites were launched on the 23rd Electron flight on Dec 9.
+The flight was nicknamed 'Data with Destiny'.
+
+IXPE
+----
+
+The IXPE (Imaging X-ray Polarimetry Explorer) satellite was launched from Kennedy Space Center
+on Dec 9 aboard a Falcon 9.
+
+IXPE has three 0.27m-diameter grazing incidence X-ray telescopes with special detectors
+that can measure X-ray polarization.  Satellite mass is about 330 kg.
+
+SJ6
+----
+
+11 years after the previous launch in the series, the Shi Jian 6 Group
+05 Sats A and B  (Shi Jian 6 hao 05 zu A/B xing) were launched from
+Jiuquan on Dec 10. 
+
+The earlier SJ6 satellites operate in a 590 km sun-synchronous orbits. 
+They are thought to be signals intelligence
+satellites. One of the satellites in each pair was a large SAST/Shanghai maneuverable
+satellite possibly based on the FY-1 bus, and the other was a smaller
+satellite that does not have orbit adjust capability. I am guessing
+that the SAST satellite is the B xing, which (confusingly) is usually
+assigned to object A for the launch in the US satellite catalog.  The A object
+(putative B xing) carries out occasional orbit adjustments; based on the TLEs
+it appears all the A objects from the earlier launches were still active
+as recently as 2019.
+
+The new Group 05 satellites, in contrast, are both built by SAST and are
+in a lower orbit.
+
+The orbital planes
+(characterized by the LTDN, the local time of the orbit descending node) 
+and heights are listed in the table below.
+
+  SJ-6 launches
+  -------------
+  
+  Group (zu)  Launch       CatNo: B xing   A xing    LTDN (launch)   LTDN (2021)  2021 Orbit (B xing)
+  01          2004 Sep  8         28413    28414     0620            0655         582 x 591 x 97.7
+  02          2006 Oct 23         29505    29506     0640            0649         577 x 585 x 97.8
+  03          2008 Oct 25         33408    33409     0821            0415         571 x 596 x 97.8
+  04          2010 Oct  6         37179    37180     0755            0425         564 x 605 x 97.7
+
+  05          2021 Dec 10         49961?   49962?    0630            0630         457 x 470 x 97.4
+
+Proton
+------
+
+Roskosmos launched a Proton on Dec 13 with two Ekspress communications satellites. A slight underburn
+of the Briz-M stage left the satellites in a somewhat lower than planned orbit; the satellites
+have electric propulsion systems and will take somewhat longer than expected to reach their
+final orbits. In accordance with the scheme for rocket statistics described in my General Catalog, I am rating this
+Proton launch's success rate score as 0.80 (reached usuable but not nominal orbit).
+
+TL2-02
+------
+
+CALT launched a CZ-3B on Dec 13 with the second of the Tian Lian 2 data relay satellites.
+On around Dec 15 it began orbit raising and as of Dec 21 in was on station in GEO at 171E.
+
+GeeSat
+------
+
+EXPACE launched a Kuaizhou-1A with two GeeSat satellites on Dec 15, but it failed to reach orbit.
+Reports indicate the third stage failed and debris impacted about 1000 km downrange.
+GeeSpace's 130 kg GeeSat satellites are intended to provide commercial navigation services.
+GeeSpace (Shanghai) is a subsidiary of the Geely Holding Group (Hangzhou). The satellites were built
+by another Geely subsidiary, Xingkong Zhilian Keji (Taizhou).
+
+Turksat
+-------
+
+The Turksat-5B communications satellite, an Airbus Eurostar electric-propulsion vehicle with a
+launch mass of 4500 kg, was placed in geotransfer orbit by a Falcon 9 on Dec 19. A small perigee
+raising burn occurred on Dec 22.
+
+Inmarsat 6
+----------
+
+The first Inmarsat 6 satellite for maritime and aviation communications was launched to supersynchronous
+transfer orbit on Dec 22 by a Mitsubishi Heavy Industries H-IIA from Tanegashima. The 5740 kg Airbus 
+Eurostar 3000EOR satellite carries Ka-band and L-band communications payloads.
+
+SY-12
+-----
+
+On Dec 23, the third test flight of the Chang Zheng 7A placed two 3-tonne CAST-built Shiyan 12 satellites
+in geotransfer orbit.
+
+
+JWST
+----
+
+The James Webb Space Telescope was launched on Dec 25. Ariane 5 rocket L5114 took off on flight VA256
+at 1220:07 UTC. The EAP solid boosters separated 2m21s after launch at 72 km altitude.
+The two halves of the nose fairing were jettisoned 3m26s after launch at 126 km altitude.
+The EPC core stage shut down and separarated at T+8:47, 229 km up. The ESC-D upper stage 
+ignited at T+8:51 and fired for 16 minutes, cutting off at 928 km altitude with
+the stack in a 315 x 1011900 km x 4.1 deg orbit. ESC-D separated from JWST at 1247 UTC, T+27:07,
+and JWST deployed its solar array at 1250 UTC. The observatory carried out its first
+midcourse correction, MCC-1a, at 0050 UTC to 0155 UTC Dec 26, gaining about 16 m/s. Arrival at
+Sun-Earth L2 is expected in late January.
+
+JWST has a mass of 6161 kg wet and 5861 kg dry. The spacecraft is packed into a 10.7m high 4.5m dia
+form at launch but will deploy its 6.5m diameter, 18-segment primary mirror and a 21.2m x 14.2m sunshade.
+
+JWST observes in infrared wavebands; the focal plane will be cooled to
+40 Kelvin, and the active cryocooler will cool the MIRI instrument to a
+mere 7 Kelvin. 
+
+The ISIM (Integrated Science Instrument Module) carries the four JWST instruments:
+ - NIRCAM (Arizona), a 0.6-5 micron near-IR camera
+ - MIRI  (ESA/JPL), a mid-IR imager (5 to 28 microns)
+ - NIRSPEC (ESA), a near-IR spectrograph/IFU  (0.7 to 5.3 microns)
+ - NIRISS (CSA), a near-IR imager/slitless spectrograph (1.0-2.5 microns)
+An Aft Deployed Instrument Radiator (ADIR) also unfolds from the ISIM.
+
+The OTE (Optical Telescope Element)  includes the PMSA (Primary Mirror
+Segment Assenbly), the +V2 and -V2 PMBA (Primary Mirror Backplane
+Assemblies), and the SMSS (Secondary Mirror Support Structure) with SMA
+(Secondary Mirror Assembly). The OTE is mounted on the DTA (Deployable
+Tower Assembly) attached to the main spacecraft.
+
+Also on the main spacecraft are the solar array and solar trim tab (Aft
+Momentum Flap),  the GAA (Gimballed Antenna Assembly) with the high and
+medium gain communications antennae, the SCAT-1 and SCAT-2 thruster
+booms,  and the left and right forward and aft Unitized Pallet
+Structures containing the sunshade. The sunshade includes retractable
+sunshade covers,  5 sunshade layers, +J2 and -J2 sunshade booms, and
+tensioning systems.
+
+JWST is scheduled to arrive at Sun-Earth L2 on Jan 23, by which time
+the mechanical deployments will be complete. However, it is expected
+to take six months to align the mirror segments, perfect the guiding,
+cool the focal plane, and commission the spacecraft, telescope
+and instruments. We can therefore hope for the first public release
+of images from the telescope sometime in June-July 2022.
+
+ZY1-02E
+-------
+
+The Zi Yuan 1 02E remote sensing satellite was launched from Taiyuan on Dec 26,
+along with a small 10 kg 6U cubesat carrying the CAS-9/XW-3 amateur radio payload,
+and experiments from Beijing 101 Middle School.
+
+OneWeb
+-------
+
+36 more OneWeb satellites were launched from Baykonur on Dec 27.
+
+
+Angara
+------
+
+The third Angara A5 test flight on Dec 27 placed Energiya's Persei upper stage in
+orbit. 14S48 Persei is a modified Blok DM-03. 
+
+Erratum
+-------
+
+ In my description of the ASAT test I got the heights the wrong way round. The text should
+have read:
+ The intercept was about a height of 486 km above the Earth ellipsoid (468 km above the fictive
+ 6378 km spherical Earth used for orbit parameters).
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name			     Launch Vehicle	 Site		 Mission  INTL.  Catalog  Perigee Apogee  Incl	 Notes
+Nov  3 0743   Yaogan 32 hao 02 zu 01 xing )    Chang Zheng 2C/YZ1S   Jiuquan          Sigint    99A  S49383   689 x 703 x 98.3
+              Yaogan 32 hao 02 zu 02 xing )                                           Sigint    99B  S49384   689 x 703 x 98.3
+Nov  5 0219   SDGSAT-1 (Guangmu)               Chang Zheng 6         Taiyuan          Imaging  100A  S49388   502 x 514 x 97.5
+Nov  6 0300   Yaogan 35A )                     Chang Zheng 2D        Xichang          Tech?    101A  S49390   493 x 499 x 35.0
+              Yaogan 35B )                                                            Tech?    101B  S49391   493 x 499 x 35.0
+              Yaogan 35C )                                                            Tech?    101C  S49392   493 x 499 x 35.0
+Nov  9 0055   RAISE-2     )                    Epsilon               Uchinoura        Tech     102A  S49395   561 x 573 x 97.6
+              Oruri       )                                                           Tech     102B? S49396   543 x 572 x 97.6
+              Asutarisuku )                                                           Sci      102C? S49397   543 x 572 x 97.6
+              Z-SAT       )                                                           Imaging  102E? S49399   543 x 572 x 97.6
+              DRUMS       )                                                           Tech     102D? S49398   543 x 572 x 97.6
+              Hibari      )                                                           Tech     102F? S49400   543 x 572 x 97.6
+              KOSEN-1     )                                                           Astron   102H? S49402   543 x 572 x 97.6
+              ARICA       )                                                           Astron   102J? S49403   543 x 572 x 97.6
+              NanoDragon  )                                                           Com      102G? S49401   543 x 572 x 97.6
+Nov 11 0203   Endurance (Crew-3)               Falcon 9              Kennedy LC39A    Spaceship 103A S49407   190 x 212 x 51.6
+Nov 13 1219   Starlink 3044                    Falcon 9              Canaveral LC40   Comms    104A-BE        212 x 333 x 53.2
+              Starlink 3049                                                                    S49408-S49460
+              Starlink 3075
+              Starlink 3097-3099
+              Starlink 3105
+              Starlink 3108
+              Starlink 3110-3112
+              Starlink 3114-3115
+              Starlink 3117
+              Starlink 3120-3141
+              Starlink 3144-3147
+              Starlink 3149-3151
+              Starlink 3153-3162
+Nov 16 0928   CERES 1 )                       Vega                  CSG  ELV          Sigint   105A S49464  669 x 672 x 75.0
+              CERES 2 )                                                               Sigint   105B S49465  671 x 672 x 74.9
+              CERES 3 )                                                               Sigint   105C S49466  670 x 673 x 75.0
+Nov 18 0138   BlackSky Global 14 )            Electron              Mahia LC1A        Imaging  106A S49469  428 x 439 x 42.0
+              BlackSky Global 15 )                                                    Imaging  106B S49470  428 x 439 x 42.0
+Nov 20 0152   Gao Fen 11-03                   Chang Zheng 4B        Taiyuan           Imaging  107A S49492  243 x 695 x 97.5
+Nov 20 0616   STP-S27AD2                      Astra Rocket 3.3      Kodiak LP3B       Tech     108A S49494  438 x 507 x 86.0
+Nov 22 2345   Gao Fen 3-02                    Chang Zheng 4C        Jiuquan           Radar    109A S49495  737 x 746 x 98.4
+Nov 24 0621   DART      )                     Falcon 9              Vandenberg SLC4E  Probe    110A S49497  263 x -135267 x 64.7
+              LICIACube )                                                             Probe    110C T00005  263 x -135267 x 64.7
+Nov 24 1306   Prichal/Progress M-UM           Soyuz-2-1B            Baykonur LC31     Module   111A S49499  323 x 351 x 51.6
+Nov 24 2341   Shiyan 11                       Kuaizhou-1A           Jiuquan           Imaging  112A S49501  489 x 502 x 97.5
+Nov 25 0109   Kosmos-2552                     Soyuz-2-1B/Fregat     Plesetsk LC43/4 Early Warn 113A S49503 1643 x 35838 x 63.8
+Nov 26 1640   Zhongxing 1D                    Chang Zheng 3B        Xichang           Comms    114A S49505  186 x 35832 x 27.1
+Dec  2 2312   Starlink 3113      )            Falcon 9              Canaveral SLC40   Comms    115A-        424 x 440 x 53.2
+              Starlink 3143      )    
+              Starlink 3148      )    
+              Starlink 3155      )    
+              Starlink 3190-3204 )    
+              Starlink 3206-3210 )    
+              Starlink 3218-3219 )    
+              Starlink 3225-3229 )    
+              Starlink 3231      )    
+              Starlink 3233      )    
+              Starlink 3236-3242 )    
+              Starlink 3244      )    
+              Starlink 3246-3252 )    
+              Black Sky Global 12)                                                    Imaging      115BA? S49772? 425 x 442 x 53.2
+              Black Sky Global 13)                                                    Imaging      115BB? S49773? 425 x 442 x 53.2
+Dec  5 0019   GalileoSat-27 )                  Soyuz-ST-B            CSG ELS          Nav          116A S49809  23517 x 23574 x 57.1
+              GalileoSat-28 )                                                         Nav          116B S49810  23498 x 23570 x 57.1
+Dec  7 0412   Tianjin Daxue 1 )                Gushenxing 1          Jiuquan          Imaging      117  S49812  483 x 501 x 97.4
+              Lize 1          )                                                       Tech?        117
+              Baoyun          )                                                       Tech?        117
+              Jin Zijing 5    )                                                       Imaging      117
+              Jin Zijing 1-03 )                                                       Imaging      117
+Dec  7 1019   STPSAT-6  )                      Atlas V 551           Canaveral SLC41  Tech         118A S49817 36096 x 36112 x 0.1
+              LDPE-1    )                                                             Tech         118B S49818 36087 x 36125 x 0.1
+Dec  8 0738   Soyuz MS-20                      Soyuz-2-1A            Baykonur LC31    Spaceship    119A S49922 193 x 220 x 51.6
+Dec  9 0002   BlackSky Global 16               Electron              Mahia LC1A       Imaging      120A S49949 429 x 440 x 42.0
+              BlackSky Global 17                                                      Imaging      120B S49950 426 x 440 x 42.0
+Dec  9 0600   IXPE                             Falcon 9              Kennedy LC39A    X-ray Astron 121A S49954 588 x 603 x  0.2
+Dec 10 0011   Shi Jian 6-05A )                 Chang Zheng 4B        Jiuquan          Sigint       122B S49962 456 x 470 x 97.4
+              Shi Jian 6-05B )                                                        Sigint       122A S49961 454 x 469 x 97.4
+Dec 13 1207   Ekspress AMU3)                   Proton-M/Briz-M       Baykonur LC200   Comms        123A S50001 16325 x 52810 x 1.7
+              Ekspress AMU7)                                                          Comms        123B S50002 16335 x 52810 x 1.7
+Dec 13 1609   Tian Lian 2-02                   Chang Zheng 3B        Xichang LC3      Comms        124A S50005   181 x 35825 x 27.0
+Dec 15 0200   GeeSat-1A )                      Kuaizhou-1A           Jiuquan          Nav          F10  F01615 -6200? x 400? x 51.5?
+              GeeSat-1B )                                                             Nav          F10  F01616 -6200? x 400? x 51.5?
+Dec 18 1241   Starlink 3235     )              Falcon 9              Vandenberg SLC4E Comms        125
+              Starlink 3245     )
+              Starlink 3254-3277)
+              Starlink 3279-3289)
+              Starlink 3291-3293)
+              Starlink 3296-3298)
+              Starlink 3301     )
+              Starlink 3303-3307)
+              Starlink 3309     )
+              Starlink 3313     )
+              Starlink 3317     )
+Dec 19 0358   Turksat 5B                       Falcon 9              Canaveral LC40   Comms        126A S50212   208 x 68873 x 27.1
+Dec 19?       USA ?                                              LDPE-1, high orbit   Tech?        118D S50214 35990 x 36117 x 0.1
+Dec 21 1007   Dragon CRS-24                    Falcon 9              Kennedy LC39A    Cargo        127A S50318   212 x   362 x 51,6
+Dec 22 1532   Inmarsat 6F1                     H-IIA 204             Tanegashima      Comms        128A S50319  179 x 64689 x 30.0
+Dec 23 1016   Shiyan 12-01)                    Chang Zheng 7A        Wenchang LC201   Tech         129A S50321  191 x 35780 x 19.5
+              Shiyan 12-02)                                                           Tech         129B S50322  178 x 35779 x 19.5
+Dec 25 1220   James Webb Space Telescope       Ariane 5ECA+          Kourou ELA3      Astron       130A S50463  315 x 1050000 x 4
+Dec 26 0311   Zi Yuan 1 02E)                   Chang Zheng 4C        Taiyuan LC9      Imaging      131A S50465?
+              Xi Wang 3    )                                                          Comms        131B S50466?
+Dec 27 1310   OneWeb SL0389-0407)              Soyuz-2-1B/Fregat     Baykonur LC31    Comms        132
+              OneWeb SL0409     )
+              OneWeb SL0412-0414)
+              OneWeb SL0417-0421)
+              OneWeb SL0424     )
+              OneWeb SL0426-0427)
+              OneWeb SL0429-0430)
+              OneWeb SL0432     )
+              OneWeb SL0440     )
+              OneWeb SL0450     )    
+Dec 27 1900   IPN-1                            Angara A5/Persei      Plesetsk LC35    Test         133A
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+New Shepard flight NS-19, on Dec 11, carreid Michael Strahan, Laura
+Shepard-Churchley, Dylan Taylor, Lane Bess, Cameron Bess and Evan Dick
+to 107 km apogee.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Nov  4 0209   SS-520-3          SS-520             Svalbard              Ionosphere    956       Arctic
+Nov  8 0925   SISTINE 2         Black Brant IX     White Sands           UV Astron     257       White Sands
+Nov 15 0245?  Nudol KV          Nudol'             Plesetsk              Antisatellite 500?      Kosmos-1408
+Nov 25        RV                Shaheen 1A         Somniani?             Op. Test      100?      Arabian Sea?
+Dec  1 0825   C-REX 2           Oriole IV          Andoya                Atmosphere    631       Norw. Sea
+Dec  6 0807   MAPHEUS 10        IM/IM              Kiruna                Micrograv     250       ESRANGE
+Dec 11 1050   RSS First Step    New Shepard        West Texas            Tourist       107       West Texas
+dec 17 0630   Huozhong-1        Huayi-1            Jiuquan?              Micrograv/bio 250       
+Dec 18 0536   Agni RV           Agni P             Kalam Island          Test          800?      Indian Ocean
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

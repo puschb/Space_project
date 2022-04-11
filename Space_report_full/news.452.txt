@@ -1,0 +1,130 @@
+Jonathan's Space Report
+No. 452                                           2001 May  9, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Following the two STS-100 spacewalks, and the restarting of the Lab's
+command and control computers, the Shuttle RMS grappled the Spacelab
+pallet at 2044 UTC on Apr 28. The SSRMS released it at 2106 UTC, and the
+RMS berthed the pallet back in the Shuttle cargo bay. Endeavour undocked
+from the Station at 1734 UTC on Apr 29. The weather in Florida was bad
+at the planned May 1 landing time, so it was decided to bring Endeavour
+back to California instead (to my chagrin, since I was touching down in
+Orlando at the time!). The deorbit burn was at 1502 UTC on May 1, with
+landing at 1610:42 UTC on runway 22 at Edwards. Endeavour returned to
+KSC aboard one of the two Boeing 747 SCA aircraft on May 9.
+
+The Lab's serious computer problems and the resulting delay to SSRMS
+operations raised the possibility that Soyuz TM-32 might arrive before
+the Shuttle was ready to depart. This caused consternation at NASA,
+where managers felt that a Soyuz approach to Zarya would come
+dangerously close to the orbiter's tail, and the resulting negotiations
+with the Russian space agency widened the public rift between the senior
+managements of the two agencies. However, in the event all was completed
+in time and neither a delay in the Soyuz docking nor an emergency
+Shuttle undocking was required. 
+
+Soyuz TM-32 docked with the -Z port on Zarya at 0758 UTC on Apr 30. The
+2S crew of Musabaev, Baturin and tourist Dennis Tito transferred their
+reentry couches to Soyuz TM-31, at which point TM-32 became the
+Station's rescue vehicle. The visiting crew remained on Alpha for almost
+six days; they closed the hatches on Soyuz TM-31 late on May 5, leaving
+Usachyov, Helms and Voss aboard the Station, and undocked from Zvezda's
+-Y port at 0221 UTC on May 6. The deorbit burn came at 0447 UTC,
+followed by separation of the BO and PAO modules. The descent craft
+touched down near Arkalyk in Kazakstan at 0541 UTC on May 6. The empty
+port on Zvezda will be filled by a Progress cargo freighter at the end
+of May. 
+
+Current mass of the Station is around 113900 kg including the docked
+Soyuz TM-32.
+
+In last week's list of paying astronauts I missed out Greg Jarvis
+of Hughes Aircraft, who like McAuliffe was launched on mission 51-L
+but did not make it into space.
+
+Recent Launches
+---------------
+
+XM Satellite Radio's second payload, XM-1 "Roll", was launched by
+Zenit-3SL from Sea Launch's Odyssey Launch Platform at 154.0W 0.0N on
+May 8. Roll joins Rock, launched on Mar 18, to complete the XM digital
+satellite radio space segment.
+
+The Zenit-3SL took off at 2210 UTC. The first two stages, comprising the
+Yuzhnoe Zenit-2S core, placed the payload section on a 191 km apogee
+suborbital trajectory at 2219 UTC; the Blok-DM's adapter then separated
+and the Energiya DM-SL stage's LOX/kerosene 11D58M engine ignited for
+its first burn, entering a 180 x 990 km x 1.3 deg parking orbit at 2223
+UTC. The DM stage is derived from the original D stage which was part of
+the L-3 piloted lunar spaceship of the abortive 1960s Soviet N-1/L-3
+program. The second DM burn at 2258 UTC accelerated the stack to a 935 x
+35797 km x 1.3 deg geostationary transfer orbit and the XM-1 Roll
+satellite separated at 2315 UTC. 
+
+The XM-1 satellite is a Boeing Satellite Systems (El Segundo) BSS 702
+with a launch mass of 4667 kg and a dry mass probably around 2500 kg. It
+carries an R-4D liquid apogee engine and a XIPS ion stationkeeping
+engine. The satellite's Alcatel communications payload features an
+X-band receive antenna which passes digital radio broadcasts on to the
+two 5-meter S-band transmit antennas. The XM satellites, like the three
+rival Sirius Radio satellites in inclined elliptical synchronous orbits,
+will provide radio broadcasting to North America. XM-2 Rock is currently
+on station at 114.9 deg W.
+
+40 years ago: On 1961 May 5, Alan B. Shepard made a suborbital flight
+aboard Mercury spacecraft no. 7 (Freedom Seven) on flight MR-3 launched
+by Redstone MRLV-7 from Cape Canaveral. 
+
+30 years ago: In May 1971, the Mariner 8 and 9 and the 3M No. 170, 171
+and 172 Mars probes were launched from Cape Kennedy and 5 NIIP/Baykonur.
+3M No. 171 (Mars-2) became the first human artifact to reach the
+Martian surface.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  8 1142   Discovery (STS-102) Shuttle      Kennedy LC39B    Spaceship    10A
+              Leonardo                                          Module
+Mar  8 2251   Eurobird  )       Ariane 5G      Kourou ELA3      Ku video     11A
+              BSAT-2a   )                                       Ku video     11B
+Mar 18 2233   XM-2 Rock         Zenit-3SL      Odyssey,Pacific  S-band radio 12A
+Apr  7 0347   Ekran-M No. 18    Proton-M       Baykonur LC81/24 UHF video    13A
+Apr  7 1502   2001 Mars Odyssey Delta 7925     Canaveral SLC17A Mars probe   14A
+Apr 18 1013   GSAT-1            GSLV           Sriharikota      S,C band vid 15A
+Apr 19 1840   Endeavour  )      Space Shuttle  Kennedy LC39A    Spaceship    16A
+              Raffaello  )                                      Module
+              Canadarm-2 )
+Apr 28 0737   Soyuz TM-32       Soyuz-U        Baykonur LC1     Spaceship    17A
+May  8 2210   XM-1 Roll         Zenit-3SL      Odyssey, Pacific S-band radio 18A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        VAB Bay 4     STS-109 2001 Nov 19  HST SM-3B
+OV-103 Discovery       OPF Bay 2     STS-105 2001 Jul 12  ISS 7A.1
+OV-104 Atlantis        OPF Bay 3     STS-104 2001 Jun  7  ISS 7A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov     ISS UF-1
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

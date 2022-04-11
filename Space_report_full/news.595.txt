@@ -1,0 +1,143 @@
+Jonathan's Space Report
+No. 595                                          2008 Apr 26, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Endeavour landed on Mar 27 after a successful STS-123 mission.
+Progress M-63 undocked from Pirs at 0849 UTC on Apr 7 and was
+deorbited over the Pacific later the same day.
+
+Soyuz TMA-12 was launched on Apr 8. Aboard are the EO-17 crew of Sergey
+Aleksandrovich Volkov, Oleg Dmitreevich Kononenko, and the EP-14 crew
+consisting of Dr. Yi Soyeon of South Korea's KAIST (formerly the Korea Advanced
+Inst. of Science and Technology). Volkov is the son of former cosmonaut
+Aleksandr Volkov. Dr. Yi is flying as a 'spaceflight participant'
+(uchastnik kosmicheskovo poleta) under the Korean Astronaut Program,
+managed by Korea's KARI space agency. KARI is the Korea Aerospace
+Research Institute (Han-guk Hanggong Uju Yeon-guwon), based in Daejeon.
+
+TMA-12 docked at the Pirs module on 2008 Apr 10  at 1257 UTC.
+Malenchenko, Whitson and Yi undocked from the Zarya module aboard Soyuz
+TMA-11 at 0506 UTC on Apr 19. The deorbit burn was at 0740 UTC and
+following an anomalous (partly ballistic) reentry they landed in
+Kazakstan 470 km short of the target point at around 0829 UTC. There may
+have been a separation problem between the descent and propulsion
+modules. According to the Novosti Kosmonavtiki forum the actual landing
+site was at 50 31 N 61 07E. Volkov, Kononenko and Garrett Reisman 
+remain on board ISS; the Jules Verne ATV remains docked at the Zvezda
+port.
+
+
+AMC 14
+-------
+
+SES has announced that AMC 14 is to be declared a total loss. It
+currently remains in a 778 x 35570 km x 49.0 deg orbit, with its future
+unclear.
+
+Erratum
+
+Russell Eberst pointed out that I messed up the orbital planes for
+the SAR-Lupe satellites in JSR 594.
+Here are the correct values for 2008 Mar 28:
+
+ SAR-Lupe 1   2006 Dec 19   466 x 501 x 98.1  NodeRA = 143 deg 
+ SAR-Lupe 2   2007 Jul  2   472 x 496 x 98.2  NodeRA = 208 deg 
+ SAR-Lupe 3   2007 Nov  1   473 x 494 x 98.2  NodeRA = 272 deg
+ SAR-Lupe 4   2008 Mar 27   470 x 508 x 98.2  NodeRA = 143 deg
+
+So, the satellites are spaced about 65 deg apart and the new satellite
+SAR-Lupe 4 is in the same plane as the first one.
+
+
+ICO G1
+------
+
+The ICO G1 satellite was launched by a Lockheed Martin Atlas 5 model 421
+(serial AV-014) on Apr 14. The satellite is a Loral 1300 with a launch
+mass of 6600 kg and will provide mobile communications services for ICO
+Global Communications (Holdings) Ltd based in Reston, Virginia. ICO is a
+successor company to Teledesic and to the old ICO Global Communications
+of London, which lost one satellite to a launch failure in 2000. ICO
+launched a second Hughes satellite in 2001 to a medium altitude orbit,
+and keeps ten more in storage. Meanwhile, ICO is switching to a more
+conventional geostationary service; the new G1 satellite was in a 35772
+x 35836 km x 6.0 deg geostationary drift orbit on Apr 25.
+
+C/NOFS
+------
+
+The DoD Space Test Program's P00-3 space weather forecasting mission,
+C/NOFS (Communication/Navigation Outage Forecasting System) was launched
+by an Orbital Sciences Pegasus on Apr 16. The L-1011 carrier plane took
+off from Kwajalein atoll in the Pacific. Planned orbit was 375 x 720 km
+x 13 deg. C/NOFS is a research satellite carring ionospheric
+instruments, including the Aerospace Corp.'s CORISS receiver which uses
+GPS signals to determine electron densities in the ionosphere, and NRL's
+CERTO ionospheric radio beacon. The spacecraft was built by General
+Dynamics C4 Systems (former Spectrum Astro) and is managed by DoD-STP
+and AFRL (the Air Force Research Lab). It will forecast ionospheric
+scintillation which causes problems with communications and GPS signals;
+the satellite will deploy six 10-meter booms.
+
+The one previous Pegasus launch from Kwajalein used a launch vehicle
+drop point of 167.7E 7.65N. I don't have any information about the drop
+point for this mission, and an accurate launch time has not been
+released.
+
+Star One/Vinasat
+----------------
+
+Another Arianespace launch with Ariane 5ECA serial number 539 placed two
+communications satellites in orbit. The EPC core stage reached a -1405 x
+211 km x 7.4 deg sub-orbit, and the ESC-A upper stage delivered the
+payloads to a 272 x 35677 x 2.0 deg transfer orbit, a record low
+inclination for an Ariane launch. The upper payload is Star One C2, for
+the Brazilian operator Star One. Star One C2 has C, Ku and X-band
+transponders and was built by Thales (Cannes) using the Spacebus 3000B3
+bus. The lower payload is Vinasat 1, the first satellite owned by
+Vietnam. The VNPT (Vietnam Post and Telecom Corp) satellite is an A2100
+built by Lockheed Martin (Newton) with C and Ku band payloads.
+Vinasat 1 is currently being tracked as object D (32770) but will
+probably be redesignated soon. Star One C2 may be object C (32769).
+
+Tian Lian 1
+------------
+
+China's first Tian Lian data relay satellite was launched on Apr 25 into
+a 218 x 41817 km x 18.1 deg transfer orbit. The launch vehicle was the
+CZ-3C, a new variant of the CZ-3A series with 2 strapons (compared to
+the basic CZ-3A with no strapons and the heavy CZ-3B with 4 strapons).
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar  9 0403   Jules Verne ATV   Ariane 5ES       Kourou ELA3       Cargo     08A
+Mar 11 0628   Endeavour(STS-123) Space Shuttle   Kennedy LC39A     Spaceship 09A
+Mar 13 1002   USA 200           Atlas V 411      Vandenberg SLC3E  Sigint    10A
+Mar 14 2318   AMC 14            Proton-M/Briz-M  Baykonur LC200/39 Comms     11A
+Mar 15 0610   GPS 48            Delta 7925       Canaveral SLC17A Navigation 12A
+Mar 19 2248   DirecTV 11        Zenit-3SL        SL Odyssey, POR   Comms     13A
+Mar 27 1715   SAR-Lupe 4        Kosmos-3M        Plesetsk LC132/1  Radar     14A
+Apr  8 1116   Soyuz TMA-12      Soyuz-FG         Baykonur LC1      Spaceship 15A 
+Apr 14 2012   ICO G1            Atlas V 421      Canaveral SLC41   Comms     16A
+Apr 16 1702?  C/NOFS            Pegasus XL       L1011,KMR         Science   17A
+Apr 18 2217   Star One C2 )     Ariane 5ECA      Kourou ELA3       Comms     18C?
+              Vinasat 1   )                                        Comms     18D?
+Apr 25 1535   Tian Lian 1       Chang Zheng 3C   Xichang           Comms     19A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

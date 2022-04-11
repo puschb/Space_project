@@ -1,0 +1,106 @@
+
+Jonathan's Space Report
+No. 424                                           2000 May 1  Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+Shuttle and Stations
+--------------------
+
+Soyuz TM-30 docked with Mir's forward (-X) port on Apr 6 at 0631 UTC.
+Zalyotin and Kaleri have reactivated Mir and are settling in for a stay
+of uncertain duration. Progress M1-2, cargo ship 11F615A55 No. 252, was
+launched on Apr 25 and docked with the rear Kvant port on Mir at 2128
+UTC on Apr 27. Progress M1-1 undocked from that port at 1633 UTC on Apr
+26 and was deorbited over the Pacific at 1927 UTC on Apr 26. Mir's orbit
+was raised on Apr 29 in the first of a series of three burns.
+
+The next Shuttle mission is STS-101, to the international space station.
+Launch is postponed to mid-May following weather delays.
+
+Errata
+-------
+
+Contrary to the suggestion in the table in JSR 423, all Ariane 5
+missions so far used the "short" fairing. The "long" fairing will
+probably first be used for the ENVISAT mission. Thanks to my European
+correspondents for setting me straight.
+
+The delay to the Cluster launch, which is also delaying other European
+satellites, is actually a seal problem in attitude control thrusters.
+Indications are that the problem is minor and slips will be a few weeks
+only.
+
+Current Launches
+----------------
+
+A Krunichev Proton-K successfully launched Eutelsat's Sesat 
+(Siberia-Europe Satellite) on Apr 17.  Sesat is an MSS-2500-GSO
+(Gals/Ekspress) comsat built by NPO PM of Krasnoyarsk, with an Alcatel
+Espace telecoms payload with 18 Ku-band transponders. The Energiya Blok
+DM-2M upper stage made two burns to deliver Sesat to geosynchronous
+altitude. The satellite has 8 Fakel SPD-100 plasma thrusters for
+stationkeeping. Eutelsat grew out of the European Communication Satellites
+(ECS) launched starting in 1983; they have since developed their
+Hot Bird fleet of European television broadcast satellites, but the venture
+into broadcasting to Siberia is a new step for them. The combination
+of a Russian-built spacecraft bus and European communications payload 
+follows the trend set by the similar Ekspress A series.
+
+Arianespace launched an Ariane 42L from Kourou on Apr 19. Flight V129
+placed the Galaxy IVR comsat into orbit for Panamsat. Galaxy IVR is a
+Hughes HS-601HP model with a dry mass of 1895 kg.  It carries 28 Ku-band
+and 28 C-band transponders.  After insertion in a standard 219 x 32007
+km x 7.0 deg geostationary transfer orbit, Galaxy IVR's R-4D apogee
+engine raised orbit to  35765 x 35792 km x 0.1 deg by Apr 27 and was
+over 67W by late April; final destination is 99W. The Galaxy satellites
+provide US domestic telecom services; the original Galaxy IVH failed in
+May 1998, putting pagers out of action across the USA. Over fifty HS-601
+class satellites have now been launched, and most are still operating.
+The Ariane 42L vehicle has two strap-on liquid boosters; the flight was
+the 51st launch of the uprated H10-3 high energy upper stage and the
+124th launch of the three-stage Ariane 1/2/3/4 class vehicle.
+
+NEAR-Shoemaker has now entered its operational 50-km-radius polar orbit
+around minor planet (433) Eros.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar 12 0407   Ekspress A2       Proton         Baykonur         Comsat     13A
+Mar 12 0929   MTI               Taurus         Vandenberg 576E  Imaging    14A
+Mar 12 1449   ICO F-1           Zenit-3SL      Sea Launch       Comsat     F02
+Mar 20 1828   Dumsat            Soyuz/Fregat   Baykonur LC31    Tech       15A
+Mar 21 2328   Asiastar )        Ariane 5       Kourou ELA3      Comsat     16A
+              Insat 3B )                                        Comsat     16B
+Mar 25 2034   IMAGE             Delta 7326     Vandenberg SLC2W Science    17A
+Apr  4 0501   Soyuz TM-30       Soyuz-U        Baykonur LC1     Spaceship  18A
+Apr 17 2106   Sesat             Proton         Baykonur LC200L  Comsat     19A
+Apr 19 0029   Galaxy IVR        Ariane 42L     Kourou ELA2      Comsat     20A
+Apr 25 2008   Progress M-2      Soyuz-U        Baykonur LC1     Cargo      21A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Sep?    ISS 3A
+OV-104 Atlantis        LC39A         STS-101 2000 May?    ISS 2A.2a
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

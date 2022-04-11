@@ -1,0 +1,136 @@
+Jonathan's Space Report
+No. 570                                            2006 Sep 9, Somerville MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+OV-104 Atlantis was launched at 1514:55 UTC on Sep 9 on mission STS-115.
+The RSRM-94 solid rocket boosters separated at 1517 UTC and the
+Orbiter's main engines shut down at 1523 UTC, followed by separation of
+external tank ET-118. ET-118 and Atlantis were then in a 58 x 220 km x
+51.6 deg orbit. ET-118 made one partial orbit of the Earth, reentering
+over the Pacific. Atlantis fired its OMS engines at apogee at 1552 UTC
+to raise the orbit to 228 x 285 km.
+
+Atlantis will carry the P3/P4 truss segments to the Station, including
+a large new set of solar panel arrays. P3 carries a rotary joint
+to rotate the solar arrays, and an attachment point for external payloads.
+P4 carries two Solar Array Wings, and an Integrated Equipment Assembly
+with batteries and controllers as well as a thermal control system
+radiator. P3 and P4 were attached to each other on the ground and
+form a single  unit; P3 will be connected to the end of the P1 segment
+on the Station (P2 was the name for a segment which was intended for
+an earlier version of the Station design but was never built).
+
+ Location       Cargo                            Mass
+ Bay 1-2        Orbiter Docking System           1800 kg?
+ Bay 3P         APC with SPDU                      20 kg?
+ Bay 3-12       Truss segment P3/P4             15821 kg
+ Sill           OBSS 201                          450 kg?
+ Sill           RMS 301                           390 kg
+ --------------------------------------------------------
+ Total cargo:                                   18481 kg?
+ Note: NASA uses a different definition of "cargo".
+ Note: OBSS serial number from Bill Harwood's page,
+       http://www.cbsnews.com/network/news/space/current.html
+ SPDU is a (Shuttle?) power distribution unit. The OBSS
+ is the Orbiter Boom Sensor System, which can be attached to the
+ RMS (Remote Manipulator System).
+
+Mars Reconnaissance Orbiter
+---------------------------
+
+MRO was inserted into a 426 x 43000 km x 93.3 deg orbit around Mars on
+2006 Mar 10. During aerobraking the periapsis was lowered to only 105
+km, and friction with the atmosphere lowered to apoapsis. On Aug 30
+several months of aerobraking were completed and MRO riased its
+periapsis to 210 km. After another burn on Sep 5, the spacecraft was in
+an approximately 289 x 440 km x 92.5 deg orbit around Mars, close to
+its final science orbit.
+
+
+Voyager 1
+---------
+
+On 2006 Aug 13 at 2113 UTC, Voyager 1 reached 100 AU from the Sun.
+Pioneer 10 is at 91.2 AU, Voyager 2 is at 80.4 AU, Pioneer 11 at 70.4 AU.
+
+
+SJ-8
+----
+
+China launched the Shi Jian 8 satellite on Sep 9 from the Jiuquan space
+center into a 177 x 445 km x 63.0 deg orbit. SJ-8, unlike earlier SJ
+satellites, is a recoverable satellite derived from earlier FSW
+reconnaissance and microgravity satellites. It will study the exposure
+of seeds to microgravity and radiation.  The Xinhua news agency reports
+that the launch vehicle was a CZ-2C. Both CZ-2C and uprated CZ-2D
+rockets are used for the recoverable satellites.
+
+Based on orbital data, I estimate that the launch time was 0700 UTC.
+
+H-2A
+----
+
+Japan's H-2A F8 second stage, which was used to launch the Daichi (ALOS)
+remote sensing satellite in January, appears to have exploded.
+21 debris objects were cataloged around Sep 8.
+
+
+Koreasat
+--------
+
+Koreasat 5 (also called Mugunghwa 5) was launched on Aug 22
+by a Sea Launch Zenit-3SL into equatorial geostationary transfer
+orbit. The Alcatel Alenia Spacebus 4000C1 satellite will provide
+Ku-band capacity for Korea Telecom and Ka-band and SHF band 
+transponders for the South Korean government's Agency for Defense Development.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  4 1838   Discovery (STS-121) Shuttle       Kennedy LC39B    Spaceship   28A
+              Leonardo (MPLM-1)                                  Module      28
+Jul 10 1208   Insat 4C          GSLV            Sriharikota SLP  Comms       F02
+Jul 12 1453   Genesis 1         Dnepr           Dombarovskiy     Tech        29A
+Jul 21 0420   Kosmos-2422       Molniya-M       Plesetsk LC16/2  Early warn  30A
+Jul 26 1943   BelKA         )   Dnepr           Baykonur                     F03
+              Baumanets     )
+              Unisat-4      )
+              PICPOT        )
+              ICECube-1     )
+              ION           )
+              RINCON        )
+              AeroCube-1    )
+              CalPoly CP1   )
+              SEEDS         )
+              nCube-1       )
+              HAUSAT-1      )
+              MEROPE        )
+              CalPoly CP2   )
+              KUTESat       )
+              SACRED        )
+              Voyager       )
+              ICECube 3     )
+Jul 28 0705   Kompsat-2         Rokot           Plesetsk         Imaging     31A
+Aug  4 2148   Hot Bird 8        Proton-M/Briz-M Baykonur LC200/39 Comms      32A
+Aug 11 2215   JCSAT-10   )      Ariane 5ECA     Kourou ELA3      Comms       33A
+              Syracuse 3B)                                       Comms       33B
+Aug 22 0327   Koreasat 5        Zenit-3SL       SL Odyssey       Comms       34A
+Sep  9 0700?  SJ-8              Chang Zheng 2C  Jiuquan          Micrograv.  35A
+Sep  9 1515   Atlantis (STS-115) Shuttle        Kennedy LC39B    Spaceship   36A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

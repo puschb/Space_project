@@ -1,0 +1,157 @@
+Jonathan's Space Report
+No. 413                                           1999 Dec 5 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Recent Launches
+---------------
+
+The Mars Polar Lander spacecraft reached Mars on Dec 3. The lander
+separated from the cruise stage at 1951 UTC and the two Deep Space 2
+penetrators, Scott and Amundsen,  were scheduled to separate about 20   
+seconds later. Nothing has been heard from any of the three spacecraft,
+and it now seems possible that all perished during atmospheric entry and
+landing. Landing was expected at 2001 UTC at 76.1S 195.3W, with the
+penetrators landing a few km from each other at 75.0S 196.5W at the same
+time.
+
+Unless one of the probes is heard from, a prospect that fades with each
+passing day, this is a further hard blow for the JPL team. The lack of
+telemetry during descent will make it very hard to settle on a detailed
+cause of failure, and Mars landings are never easy (it's only been done
+successfully three times - Viking 1 and 2, and Mars Pathfinder). It is
+not even clear if MPL and the DS2 penetrators separated from the cruise
+stage successfully. The next Mars Surveyor launch is currently scheduled
+for March 2001.   
+
+The French Helios 1B spy satellite was launched from Kourou on Dec 3
+into sun-synchronous orbit. The spacecraft is based on the Matra Marconi
+Space Spot 4 bus. Mass is 2544 kg. The small Surrey Satellite/Alcatel
+Space Clementine electronic intelligence technology satellite was also
+deployed from the third stage of the Ariane launch vehicle.  Clementine
+is a followon to the Cerise satellite launched in 1995. The launch
+vehicle was an Ariane 40, with no strapon boosters, using the small type
+02 fairing for the first time since 1996. Helios 1B will be operated by
+the CNES space agency and the DGA (Delegation Generale de l'Armament).
+
+The Orbital Sciences L-1011 Stargazer launch aircraft took off from one
+of the runways (anyone know which?) at Wallops Flight Facility at about
+1751 UTC on Dec 4 and headed out over the Atlantic to launch a Pegasus
+XL rocket. The drop point was probably in the vicinity of 37.0 deg N,
+72.0 deg W. The Pegasus placed seven Orbcomm satellites in orbit. The
+Pegasus third stage entered a 407 x 726 km x 45.0 deg orbit. Two burns
+by the HAPS fourth stage led to deployment of the Orbcomms in an 820 x
+840 km x 45.0 deg operational orbit. After a third depletion burn the
+HAPS stage was left in a 372 x 827 km x 41.0 deg orbit. Earlier Orbcomm
+launches had a stack of eight satellites; it isn't clear why only seven
+were flown on this mission.
+
+
+The Oldest Spacecraft
+---------------------
+
+I'm often asked how many active satellites are in orbit - this is a
+really hard number to derive, but I've recently tried to count them and
+my best guess is that there are currently between 650 and 800 working
+Earth satellites (including anything that can still communicate with Earth,
+even if it is not fully operational) and 18 spacecraft beyond Earth orbit.
+The oldest spacecraft definitely working are TRW's Pioneer 6, 7 and 8
+interplanetary probes; Pioneer 6 is 34 years old. The oldest Earth
+satellite is probably the Hughes HS-306 satellite ATS 3, in
+geostationary orbit since 1967. However, the 1966 ITT/US Army Secor
+geodetic satellite EGRS 7 was reported in 1980 to be still transmitting,
+so it's just possible it's still around. NATO IIA, a Ford (now Loral)
+satellite from 1970, is in the stable geostationary location at 105W, 
+and it's not possible to tell whether it is still under control. Here I 
+give a list of the oldest satellites not definitely known to be defunct.
+I'd be very interested in hearing of definite death dates for any of
+these, or any active ones I've missed.
+
+  Satellite   Year of Launch    Type       Operator   Status
+
+ (EGRS 7      1966          ITT Secor      US Army    Last report 1980)
+  ATS 3       1967          Hughes HS-306  NASA       Still working 1990s
+ (NATO IIA    1970          Ford Skynet    NATO/USAF  At 105W, status unknown)
+ (DSCS II F-1 1971          TRW DSCS 2     USAF       At 100-110W since 1979)
+  IMP 8       1973          GSFC IMP       NASA       Still OK 1998
+  Skynet IIB  1974          Marconi Skynet UK MoD     Still OK 1994
+  LES 8       1976          Lincon Labs    USAF       Still OK 1992
+  LES 9       1976          Lincon Labs    USAF       Still OK 1992
+  Marisat 103 1976          Hughes HS-333  INMARSAT   Active
+  GOES 2      1977          Ford SMS       NOAA       Active
+  FLTSATCOM 1 1978          TRW FLTSAT     USN        Active
+  GOES 3      1978          Ford SMS       NOAA       Active
+  
+ From the 1980s: FLTSATCOM 4, Comstar D-4, Landsat 4, Intelsat 505, Aurora 1,
+  DSCS III A-1, TDRS 1, Oscar 10, Hilat, Landsat 5, UoSAT 2, Spacenet 1, SBS 4,
+  ERBS, Marecs 2, NATO 3D, Brasilsat 1, Intelsat 510, Anik C1, Gstar 1, 
+  Intelsat 511, DSCS III B-4, DSCS III B-5, Morelos 2, Aussat K2, Satcom K2,
+  Mir, Brasilsat 2, Polar Bear, Fltsatcom 7, Kosmos-1809,  USA 21, GOES 7,
+  Kvant, Aussat K3, Eutelsat I F4, DSP 5R, Spacenet 3R, IRS 1A, NSS 513,
+  PAS 1, Eutelsat I F-5, Gstar 3, SBS 5, NOAA 11, TDRS 3, USA 33, Astra 1A,
+  Zhongxing 2, Intelsat 515, GPS 14, Akebono, TDRS 4, USA 37, GPS 13, DSP 14,
+  Nadezhda (1989-50A), USA 40, TVSAT 2, GPS 16, Sirius 1, DSCS II F-15,
+  DSCS III A-2, Himawari 4, FLTSATCOM 8, GPS 19, Intelsat 602, Kvant 2, USA 48,
+  GPS 17.
+  
+ In addition, the operating interplanetary spacecraft are:
+  Pioneers 6, 7, 8, 10 and 11; Voyager 1 and 2; ICE; Galileo, Ulysses,
+  SOHO, NEAR, MGS, ACE, Cassini, Deep Space 1 and Stardust; and possibly
+  Sakigake.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov 13 2255   GE 4              Ariane 44LP    Kourou ELA2      Comsat     60A
+Nov 15 0729   MTSAT             H-2            Tanegashima      Comsat     F04
+Nov 19 2230   Shenzhou          Chang Zheng 2F Jiuquan  LC3     Spaceship  61A
+Nov 22 1620   Globalstar 29 )   Soyuz-Ikar     Baykonur LC1     Comsat     62A
+              Globalstar 34 )                                   Comsat     62B
+              Globalstar 39 )                                   Comsat     62C
+              Globalstar 61 )                                   Comsat     62D
+Nov 23 0406   UHF F/O F10       Atlas 2A       Canaveral SLC36B Comsat     63A
+Dec  3 1622   Helios 1B  )      Ariane 40      Kourou ELA2      Imaging    64A
+              Clementine )                                      Sigint     64B
+Dec  3 1951   Mars Polar Lander                MPL Cruise Stage Lander     01D?
+Dec  3 1951   Scott Probe   )                  MPL Cruise Stage Lander     01E?
+              Amundsen Probe)                                   Lander     01F?
+Dec  4 1853?  Orbcomm FM30 )    Pegasus XL/HAPS Wallops         Comsat     65A
+              Orbcomm FM31 )                                    Comsat     65B
+              Orbcomm FM32 )                                    Comsat     65C
+              Orbcomm FM33 )                                    Comsat     65D
+              Orbcomm FM34 )                                    Comsat     65E
+              Orbcomm FM35 )                                    Comsat     65F
+              Orbcomm FM36 )                                    Comsat     65G
+
+     
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       LC39B         STS-103 1999 Dec 11
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Mar 16
+OV-105 Endeavour       VAB Bay 1     STS-99  2000 Jan 13
+
+MLP1/
+MLP2/RSRM-73/ET-101/OV-103     LC39B
+MLP3/RSRM-71?/ET?/OV-105       VAB Bay 1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

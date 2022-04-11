@@ -1,0 +1,278 @@
+Jonathan's Space Report
+No. 788                                                          2021 Jan 25  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+Space Activities in 2020
+------------------------
+
+My annual summary https://planet4589.org/space/papers/space20.pdf is now available.
+
+Transporter-1
+-------------
+
+I'll cover the SpaceX Transporter-1 launch in the next issue.
+
+International Space Station
+---------------------------
+
+Expedition 64 continues under the command of Sergey Ryzhikov.
+
+On Dec 19 at 2344 UTC the Canadarm-2 extracted the Nanoracks Bishop
+Airlock (NRAL) from the Dragon CRS-21 trunk, and at about 0330 UTC Dec 20 it
+was berthed to the Tranquility module.
+
+On Jan 6 at 1225 UTC the Canadarm-2 unberthed the S.S. Kalpana Chawla cargo ship (mission Cygnus NG-14)
+from Unity nadir, at at 1511 UTC released it into orbit.
+
+Cargo Dragon CRS-21 undocked from IDA-3 at 1405 UTC Jan 12. It jettisoned its trunk into orbit
+probably at about 0030 UTC Jan 14; began its deorbit burn at 0037 UTC; and landed in
+the Gulf of Mexico at 0126 UTC at about 28.6N  83.9W. It returned spacesuit EMU 3008 to Earth
+along with a further 1872 kg of cargo. 
+
+
+PSLV-C50
+--------
+
+India launched PSLV-C50 on Dec 17 with a communications satellite,
+CMS-01, to subsynchronous transfer orbit. CMS-01 was previously known as
+GSAT-12R. With this and EOS-1 (formerly RISAT-2BR2) ISRO is moving
+towards renaming new satellites with blander names for some reason.
+CMS-01 carries an extended C-band comms payload for regional service.
+The satellite was tested at 77.5E and then on Jan 10 began moving again
+to a long-term location.
+
+OneWeb
+-------
+
+36 more OneWeb internet satellites were launched on Dec 18 aboard a Soyuz from Vostochniy. The launch was
+Starsem flight ST29, the first Starsem launch from the far eastern site. 
+
+NROL-108
+--------
+
+SpaceX launched a Falcon 9 from Kennedy Space Center on Dec 18 carrying the NROL-108 mission
+for the US National Reconnaissance Office. Two payloads, USA 312 and 313, were deployed; one has been
+tracked by hobbyists in a 519 x 540 km x 51.4 deg orbit. This is well above the USA 276 satellite
+launched in 2017, currently in a 383 x 391 km x 50.0 deg orbit.
+
+The first stage returned to a landing at Cape Canaveral's Landing Zone 1.
+
+
+Chang Zheng 8
+-------------
+
+The first launch of the new Chang Zheng 8 (Long March 8) rocket was
+successful on Dec 22. CZ-8 has a core stage, two side boosters, and a
+LOX/LH2 upper stage derived from the CZ-3B third stage. The main payload
+was Xinjishu Yanzheng 7, a technology satellite.  The launch also
+deployed:
+
+   Haisi-1, a 185 kg satellite with a C-band radar payload - the first 
+     TY-MINISAR satellite from Tianyi Research (Spacety), for CETC38 
+      (the China Electronics Technology 38th Research Institute).
+
+   Yuanguang, a 12U cubesat also from Tianyi carrying  a space tribology 
+    payload for the Hubei University  of Technology and a GNSS-RO meteorology
+    payload for Tianjin Yunyao Aerospace Tech Co.;
+  
+   Tianqi Xingzuo 08, a 40 kg satellite for IoT and financial data 
+    relay for Guodian Gaokeji YG; also called Ping'an-1
+    due to a collaboration between GG and the Ping'an bank.
+
+   ET-SMART-RSS, also called Zhixing 1A, a 10 kg 6U cubesat for 
+    Ethiopia's ESSTI remote sensing institute
+    built by Zhixing Kongjian Keji YG (Smart Satellite Tech. Co.)
+   
+ (Thanks to Andrew Jones for some of this info.)
+
+Yaogan 33
+---------
+
+China's SAST/Shanghai launched a Chang Zheng 4C from Jiuquan on Dec 27 into sun-synchronous orbit.
+Previous SSO CZ-4B/C missions from Taiyuan dropped launch debris on other countries, 
+prompting the switch to Jiuquan. The payload is not related to the Yaogan 33 which failed
+to reach orbit in 2019 - the name is being reused. The new payload is thought to be
+a SAST radar satellite of a new series, but details are unclear for now.
+
+A small secondary payload, called `Micro-Nano Technology Test Satellite', was also carried.
+The satellite adjusted its orbit to maintain a 9800 km distance from YG-33.
+
+CSO 2
+-----
+
+The second CSO (Composant Spatiale Optique) spy satellite for the French defense agency DGA
+was launched on Dec 29 aboard an Arianespace Soyuz-ST-A from the Centre Spatial Guyanais.
+No orbital data were available as of Jan 18.
+
+Turksat 5A
+-----------
+
+Turksat-5A, an all-electric-propulsion Eurostar E3000EOR with a launch
+mass of 3500 kg, carries a Ku-band communications payload for Turk
+Telecom. It was launched to supersynchronous geotransfer orbit on Jan 8.
+The Falcon 9 first stage landed on the Just Read The Instructions
+droneship.
+
+As of Jan 13, Turksat 5A was in a 514 x 55036 km x 17.5 deg orbit after a small
+perigee raise on Jan 10.
+
+Launcher One
+------------
+
+Virgin Orbit carried out Launcher One's second test flight on Jan 17 - with complete success.
+The Boeing 747 carrier plane `Cosmic Girl' took off from Mojave Air and Space Port at 1838 UTC
+and flew out over the Pacific near San Nicolas Island. Drop was at 1938:51 UTC.
+The second stage completed its first burn about 1948 UTC, reaching a 187 x 521 km x 60.7
+deg transfer orbit. A second burn at about 2034 UTC put the vehicle in a 500 km orbit
+and the cubesat payloads were separated.
+
+The payloads are:
+  CACTUS 1, a 3U from Capitol Tech U., Maryland, with an experiment to use aerogel to capture
+    and characterize micro-space-debris.
+  CAPE 3, a 1U cubesat with an educational communications payload from U. Louisiana-Lafayette.
+  EXOCUBE 2 (CP12), a 3U cubesat from Cal Poly with a space weather payload.
+  MITEE 1, a U. Michigan 3U cubesat with a 10-meter-deployable tether.
+  PolarCube, a 3U cubesat from U. Colorado/Boulder with a radiometer/spectrometer for
+    surface and atmosphere temperature measurement.
+  Q-PACE, a 3U cubesat from U. Central Florida with a microgravity accretion physics experiment
+  Fox-1E/RadFXSat-2 from AMSAT-NA and Vanderbilt U. with an amateur radio payload and a radiation exposure experiment.
+  PICS 1 and PICS 2 from Brigham Young University, Passive Inspection Cubesats meant to image
+   the LauncherOne final stage and its deployments.
+  TechEdSat-7, a 2U cubesat with an Exobrake for drag brake reentry tests. TES-7 also carries
+   a CUBIT, (Cubesat Identity Tag), a DARPA RFID tag to aid in cubesat identification. I'm
+   enthusiatic about this since this sort of technology is badly needed to help sort out the
+   satellite catalog. TES-7 is led by NASA-Ames and San Jose State.
+
+Tiantong-1 03 
+-------------
+
+China's third Tiantong-1 S-band mobile comms satellite was launched on Jan 19 to geotransfer orbit.
+
+Electron 18
+-----------
+
+Rocket Lab launched their 18th Electron from New Zealand on Jan 20, placing a communications
+satellite in orbit. The launch was purchased by OHB Group on behalf of an unknown customer
+thought to be Shanghai Spacecom Satellite Technology Ltd., which is related in some
+way to the German KLEO Connect company.
+
+Starlink
+--------
+
+60 more Starlink satellites were launched on Jan 20 by a Falcon 9 from Kennedy Space Center.
+
+
+Kosmos-2536
+-----------
+
+Kosmos-2536 (called Kosmos-2538 by Space-Track) had remained close,
+probably docked, to Kosmos-2535 since Oct 21; on Dec 8 it began a series
+of departures and returns to distances from 40 to 400 km.
+
+
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name                           Launch Vehicle      Site            Mission  INTL.  Catalog  Perigee Apogee  Incl   Notes
+
+Dec  2 0133   FalconEye 2                       Soyuz ST-A        CSG ELS          Imaging 90A  S47226   597 x   599 x 97.9  1030 LT
+Dec  3 0114   Gonets-M No. 30)                  Soyuz-2-1B/Fregat Plesetsk LC43/4  Comms   91A  S47227  1486 x  1506 x 82.5
+              Gonets-M No. 31)                                                     Comms   91B  S47228  1487 x  1506 x 82.5
+              Gonets-M No. 32)                                                     Comms   91C  S47229  1484 x  1505 x 82.5
+              Kosmos-2548    )                                                     Tech    91D? S47230  1481 x  1508 x 82.5
+Dec  3 1510   Chang'e-5 Shangsheng Qi                    Louville Omega North, Luna Probe  U02  D1048  Lunar orbit
+Dec  6 0358   Gaofen 14                         Chang Zheng 3B/G5  Xichang         Imaging 92A  S47231   485 x   509 x 97.4  1030 LT
+Dec  6 1617   Dragon CRS-21                     Falcon 9           Kennedy LC39A   Cargo   93A  S47233   192 x   211 x 51.7
+Dec  9 2014   Xiaoji )                          Chang Zheng 11     Xichang         Astron  94A  S47234   588 x   604 x 29.0
+              Xiaomu )                                                             Astron  94B  S47235   587 x   604 x 29.0
+Dec 11 0109   USA 311                           Delta 4 Heavy      Canaveral SLC37B Sigint 95A  S47237 35800?x 35800?x  0
+Dec 13 1730   SXM-7                             Falcon 9           Canaveral SLC40 Comms   96A  S47240   234 x 19380 x 27.0
+Dec 14 0550   GVM                               Angara A5          Plesetsk LC35/1 Tech    97A  S47242 36923 x 37594 x  0.1
+Dec 15 1009   Strix-Alpha                       Electron           Mahia LC1A      Radar   98A  S47253   489 x   511 x 97.4
+Dec 15 2055   Astra Test Payload                Astra Rocket 3.2   Kodiak LP3B     Test    F09  F01577 -1100 x   380 x 98.1
+Dec 17 1011   CMS-01                            PSLV-XL          Satish Dhawan SLP Comms   99A  S47256   273 x 20882 x 17.8
+Dec 18 1227   OneWeb SL102      )               Soyuz-2-1b/Fregat  Vostochniy      Comms  100A  S47258   428 x   442 x 87.5
+              OneWeb SL109-SL111)                                                          to
+              OneWeb SL114      )                                                         100AM S47293   442 x   454 x 87.5
+              OneWeb SL117-SL147)
+Dec 19 1400   USA 312 )                         Falcon  9          Kennedy LC39A   ?      101A  S47294   519 x   540 x 51.4
+              USA 313 )                                                            ?      101B  S47295   ?   x    ?  x 51.4
+Dec 21 0438   XJY 7        )                    Chang Zheng 8      Wenchang LC201  Radar  102C? S47298   503 x   515 x 97.4
+              Haisi-1      )                                                       Radar  102            503 x   515 x 97.4
+              Tianqi-08    )                                                       Comms  102            503 x   515 x 97.4
+              Yuanguang    )                                                       Tech   102            503 x   515 x 97.4
+              ET-SMART-RSS )                                                     Imaging  102            503 x   515 x 97.4
+Dec 27 1544   Yaogan 33                         Chang Zheng 4C     Jiuquan LC43/94 Radar? 103A  S47302   682 x   686 x 98.3
+Dec 29 1642   CSO 2                             Soyuz ST-A         CSG ELS        Imaging 104A  S47305   480? x  480?x 97.3
+Jan  8 0215   Turksat 5A                        Falcon 9           Canaveral LC40 Comms    01A  S47306   288 x 55049 x 17.7
+Jan 17 1938   CACTUS 1    )                                                        Tech    02            492 x 518 x 60.7
+              CAPE 3      )                     LauncherOne  Cosmic Girl, Pacific  Tech    02
+              ExoCube 2   )                                                        Tech    02
+              MiTEE 1     )                                                        Tech    02
+              PolarCube   )                                                        Tech    02
+              Q-PACE      )                                                        Tech    02
+              TechEdSat-7 )                                                        Tech    02
+              RadFxSat-2  )                                                        Tech    02
+              PICS 1      )                                                        Tech    02
+              PICS 2      )                                                        Tech    02
+Jan 19 1625   Tiantong-1 03                     Chang Zheng 3B     Xichang         Comms   03A  S47321   182 x 35815 x 28.5
+Jan 20 0726   GMS-T                             Electron           Mahia LC1       Comms   04A  S47346  1140 x 1281 x 89.9
+Jan 20 1302   Starlink 1952     )               Falcon 9           Kennedy LC39A   Comms   05            256 x 284 x 53.0
+              Starlink 2011     )
+              Starlink 2017     )
+              Starlink 2034     )
+              Starlink 2045-2047)
+              Starlink 2049-2050)
+              Starlink 2055     )
+              Starlink 2069-2071)
+              Starlink 2076-2077)
+              Starlink 2079-2082)
+              Starlink 2084-2086)
+              Starlink 2088-2089)
+              Starlink 2092-2094)
+              Starlink 2096-2106)
+              Starlink 2108-2115)
+              Starlink 2117-2124)
+              Starlink 2127-2128)
+              Starlink 2130     )
+              Starlink 2133-2135)
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The US DoD reports a Russian direct-ascent antisatellite (ASAT) test on Dec 16. I understand
+the missile was not tested against a target satellite; at most just a `point in space' target.
+NOTAMs suggest launch was between 0100 and 0600 UTC. Unclear what the apogee was, but possibly
+a few hundred km.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+
+Dec  9        RV                Yars               Plesetsk              Op. Test     1000?      Kura
+Dec  9        RV x 4?           Sineva            K-18, Barents Sea      Op. Test     1000?      Kura?
+Dec 12        RV x 4            Bulava            K-551, Sea of Okhotsk  Op. Test     1000?      Chiza
+Dec 12        RV x 4            Bulava            K-551, Sea of Okhotsk  Op. Test     1000?      Chiza
+Dec 12        RV x 4            Bulava            K-551, Sea of Okhotsk  Op. Test     1000?      Chiza
+Dec 12        RV x 4            Bulava            K-551, Sea of Okhotsk  Op. Test     1000?      Chiza
+Dec 16        Nudol KV?         Nudol'             Plesetsk              ASAT test     300?      Laptev Sea
+Jan 14 1717   RSS First Step    New Shepard        West Texas            Test          106       West Texas
+Jan 16        Sejjil RV         Sejjil             ?, Iran               Op. Test      800?      Indian Ocean
+Jan 16        Sejjil RV         Sejjil             ?, Iran               Op. Test      800?      Indian Ocean
+Jan 16        Sejjil RV         Sejjil             ?, Iran               Op. Test      800?      Indian Ocean
+Jan 16        Emad RV           Emad               ?, Iran               Op. Test      400?      Indian Ocean
+Jan 16        Emad RV           Emad               ?, Iran               Op. Test      400?      Indian Ocean
+Jan 16        Ghadr RV          Ghadr              ?, Iran               Op. Test      400?      Indian Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

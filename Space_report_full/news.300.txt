@@ -1,0 +1,162 @@
+Jonathan's Space Report
+No. 300                        1996 Oct 1               Cambridge, MA
+-------------------------------------------------------------------------------
+Note: I have (finally!) updated the geostationary satellite list at 
+http://hea-www.harvard.edu/QEDT/jcm/space/jsr/geo.log.
+
+Shuttle and Mir
+---------------
+
+Atlantis undocked from the Mir complex on Sep 23 at 2333 UTC. Valeriy
+Korzun, Aleksandr Kaleri and John Blaha remain on Mir. On Sep 26
+Atlantis closed its payload bay doors, and at 1106 UTC fired its OMS
+engines for a three minute long deorbit burn. After entry interface at
+1142 UTC the spaceship flew across  Canada and the US for a landing at
+the Kennedy Space Center's Runway 15 at 1213 UTC, completing Shannon
+Lucid's record breaking 188 day 4 hr 0 min flight. Atlantis is now being
+prepared for its next mission, STS-81.
+
+Unexpected erosion was found in the nozzle of 360T056B, STS-79's right
+hand SRB, but it is not clear what effect this will have on  the next
+launch scheduled for Nov 8. Mission STS-80 will deploy and retrieve the
+Orfeus astronomy satellite and the Wake Shield Facility materials
+processing satellite. Mission specialists Tammy Jernigan and Thomas
+Jones will carry out another EDFT spacewalk to test equipment for Space
+Station. As well as commander Kenneth Cockrell and pilot Kent Rominger,
+the mission will carry veteran Story Musgrave who will become the second
+person after John Young to make six space flights. On STS-6, Musgrave
+carried out the first Shuttle spacewalk. On Mission 51-F, he carried out
+experiments on the Spacelab 2 mission, which included an `abort to
+orbit' during launch when an engine shut down. On Missions STS-33 and
+STS-44 Musgrave helped deploy military satellites, and on Mission STS-61
+he made more spacewalks to repair the Hubble Space Telescope. Musgrave
+is 61 years old and will become the oldest space traveller ever, beating
+the record set by 59-year-old Vance Brand in 1990. Dr. Musgrave has been a
+NASA astronaut since 1967. He has a B.S. in mathematics, a B.A. in
+chemistry, an MBA in operations analysis and computer programming, an
+M.Sc. in  physiology, an M.A. in literature, and an M.D.. He is also a
+private pilot with 17000 hours of flight time, and until 1989 combined
+his job as a NASA astronaut in Houston with moonlighting as a surgeon at
+Denver General Hospital and a professor of  physiology at the University
+of Kentucky. Can you spell `overachiever', kids?
+
+Recent Launches
+---------------
+
+Another successful Proton launch placed the second Ekspress comsat
+in geosynchronous orbit. Ekspress replaces Gorizont as the Russian domestic
+television satellite system. This satellite is probably designated
+Ekspress No. 12 (Russian comsat builder Prikladnoi Mekhaniki usually starts
+numbering its satellite series at 11 for reasons which escape me).
+The Proton rocket is built by Krunichev, with a Blok-DM2 upper stage
+designed by RKK Energiya.
+
+Other Proton launches so far this year include two Gorizont
+communications satellites, a Raduga comsat for the Russian government,
+the Spektr space station module, and the commercial launches of Astra 1F
+and Inmarsat III F2. Inmarsat has confirmed that the Inmarsat III F2
+satellite did not carry an apogee motor. The Blok-DM upper stage
+delivered F2 to geosynchronous orbit and separated 7 hours after launch.
+
+The Ballistic Missile Defense Organization's MSX satellite
+released an emissive reference sphere on Sep 12, its second subsatellite
+release. The small spheres have not been cataloged by Space Command.
+
+Obituary - IUE
+--------------
+
+The International Ultraviolet Explorer (IUE) was shut down  at 1842 UT
+on 1996 Sep 30.  Prior to the final orbit raising burn, IUE was in a
+1437 min, 29992 x 41616 km orbit inclined 35.9 deg. (GSFC has not yet
+released post-shutdown elements). IUE was probably the most successful
+scientific satellite ever.
+
+IUE was launched in January 1978 by Delta from Cape Canaveral. The
+spacecraft was a joint project between NASA Goddard Space Flight Center,
+the European Space Agency, and the UK Science Research Council. It was
+controlled from both Goddard and Villafranca near Madrid. The satellite
+carried a small telescope and four spectrographs (two prime and two
+backup) which obtained ultraviolet spectra of astronomical objects.
+Exceeding its nominal six month mission duration by almost a factor of
+40, IUE remained an essential scientific tool right into the 1990s. Even
+the success of the HST repair mission did not remove the need for IUE,
+because there are many projects, such as monitoring time variability of
+bright sources, for which you need a small telescope for a long time
+instead of a large telescope for a short time (and you can't get HST for
+a long time!). IUE results have affected every field of astronomy, and
+in particular much of our current understanding of hot stars in this
+galaxy and of the inner regions of quasars is due to work with IUE. 
+
+IUE was the first common user astronomy satellite, where any astronomer
+with a good idea could apply for observing time. Because its synchronous
+orbit allowed real time commanding, it remains the only satellite which
+astronomers were able to use like a ground based telescope, going to the
+control center and making decisions on the fly - for instance, whether
+to change the length of the next exposure if the previous one was over
+or under exposed. Since many ultraviolet stars and quasars vary in
+brightness, so you don't know how bright they will be on the day you
+observe, this is really useful - as I can testify from personal
+experience as an IUE observer. You can't do that with a low orbit
+satellite like HST where observations must be scheduled weeks in
+advance. (Besides, having real time authority over a geosynchronous
+orbit spacecraft is probably the closest I'll ever get to sitting in
+Captain Picard's chair :-)). IUE was a pleasure to use, and during the
+1980s was crucial to the research of many astronomers including myself.
+IUE will be missed.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug  8 2249   Italsat F2  )    Ariane 44L     Kourou ELA2     Comsat      44A
+              Telecom 2D  )                                   Comsat      44B
+Aug 14 2221   Molniya-1T       Molniya-M      Plesetsk        Comsat      45A
+Aug 17 0153   ADEOS       )    H-II           Tanegashima Y   Rem.sens.   46A
+              JAS-2       )                                   Comsat      46B
+Aug 17 1318   Soyuz TM-24      Soyuz-U        Baykonur LC1?   Spaceship   47A
+Aug 18 1027   Zhongxing 7      Chang Zheng 3  Xichang         Comsat      48A
+Aug 21 0947   FAST             Pegasus XL     Vandenberg      Auroral     49A
+Aug 29 0522   Interbol-2  )    Molniya-M      Plesetsk LC43   Auroral     50B
+              Magion 5    )                                               50C
+              Microsat    )                                               50A
+Sep  4 0901   Kosmos-2333      Zenit-2        Baykonur LC45L  Sigint      51A
+Sep  5 1347   Kosmos-2334 )    Kosmos-3M      Plesetsk LC132/1 Navsat     52A
+              UNAMSat     )                                               52B
+Sep  6 1737   Inmarsat III F2  Proton         Baykonur LC81   Comsat      53A
+Sep  8 2149   GE-1             Atlas IIA      Canaveral LC36B Comsat      54A
+Sep 11 0000   Echostar II      Ariane 42P     Kourou ELA2     Comsat      55A
+Sep 12 0849   Navstar 30       Delta 7925     Canaveral LC17A Navsat      56A
+Sep 16 0855   Atlantis         Shuttle        Kennedy LC39A   Spaceship   57A
+Sep 26 1751   Ekspress         Proton-K       Baykonur        Comsat      58A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-80  Nov 8
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        OPF Bay 3     STS-81  Jan 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-54                VAB Bay 1      STS-81
+ML3/RSRM-49/ET-80          VAB Bay 3      STS-80
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

@@ -1,0 +1,149 @@
+Jonathan's Space Report 
+No. 214               1994 Oct  12               Cambridge, MA
+--------------------------------------------------------------------------------
+Thanks to Vladimir Agapov, Joel Runes, and Al Hegemann for info
+in this issue. Any errors, as usual, are mine.
+
+Shuttle
+-------
+
+Endeavour landed at 1702:09 UT on 1994 Oct 11 on runway 22 at Edwards AFB.
+STS-68 mission duration was 11 days 5 hours 46 min 9 sec.
+
+Columbia left Ellington AFB, Texas on Oct 11 aboard the SCA 905 en route
+to Palmdale, CA via El Paso. It flew over Edwards AFB while Endeavour
+was on the runway. At the Rockwell International plant in Palmdale it
+will begin an Orbiter Maintenance Down Period. It is to return to flight
+in mid 1995.
+
+Mir
+---
+
+Soyuz TM-20 docked with Mir at 0028 on 1994 Oct 6.
+The Soyuz TM is an 11F732 spacecraft, probably serial number 69. 
+I believe that Soyuz TM-20 is docked with the forward Mir port
+and Soyuz TM-19 is docked at the rear Kvant port (can someone
+confirm this?)
+
+The current crew aboard Mir consists of Yuriy Malenchenko, Aleksandr
+Viktorenko, and Talgat Musabaev of the Russian Air Force cosmonaut
+corps, Elena Kondakova of NPO Energiya, Valeriy Polyakov of the
+Institute for Biological-Medical Problems, and Ulf Merbold of the
+European Space Agency. With the six Shuttle astronauts in orbit
+last week, there were 12 people in space, which equals the all time
+record.
+
+Recent Launches
+---------------
+
+Intelsat 703 was launched on Oct 6 at 0635:02 UT by Atlas Centaur
+AC-111.  The satellite is a 3-axis stabilized Space Systems/Loral
+FS-1300 with 26 C-band and 10 Ku-band transponders and will serve the
+Pacific Ocean region. The Martin Marietta Atlas IIAS Centaur delivered
+the satellite into a geostationary transfer orbit. Since the
+Atlas IIAS is a relatively new launch vehicle, I thought
+I'd record a detailed description of the launch profile, based
+on information provided by Al Hegemann. The MA-5A main engine
+and two of the four Castor IVA solid rocket boosters ignited at liftoff;
+the other two solids ignited at 0636:02. The first two solids were
+jettisoned at 0636:14 and the second two at 0636:57. The MA-5A
+propulsion system on the Atlas consists of two booster engines and a
+central sustainer engine. At 0637:47 the booster engines were shut down,
+and at 0637:50 the tail section of the Atlas IIA fell away leaving the
+main sustainer engine exposed. At 0638:31 the payload fairing around the
+Intelsat payload was discarded - AC-111 was now high enough that
+aerodynamic protection was not needed. The Atlas sustainer cut off at
+0639:53 and the Atlas IIA stage separated onto its suborbital trajectory
+at 0639:55. Intelsat 703 was now attached to the AC-111 Centaur IIA. At
+0640:17 the two RL-10-4A liquid hydrogen/liquid oxygen engines on the
+Centaur ignited and burned until 0645:17. The combination was now in a
+parking orbit. After a coast period, AC-111 reignited at 0659:29. It
+shut off at 0701:12, and separated from Intelsat 703 at  0703:22.
+Intelsat 703 was now in a 283 x 38575 km x 25.9 deg orbit. The apogee
+was higher than initially expected and will let the satellite save fuel
+on reaching its final orbit. Over the next few days it fired its R4D
+liquid apogee engine to enter first a 7598 x 38540 km x 11.2 deg orbit
+(Oct 9) and then a 35670 x 38552 km x 0.2 deg orbit (Oct 11). This final
+orbit is a little higher than geostationary; on Oct 11 at 1815 UT the
+satellite was over 138 deg East and drifting 16 degrees per day.
+
+
+An Ariane 44L was launched on Oct 8. The rocket placed two
+communications satellites in orbit: Solidaridad 2, and Thaicom 2. Both
+satellites are built by Hughes. Solidaridad is a 3-axis stabilized HS601
+satellite for the Mexican government communications agency,
+Telecomunicaciones de Mexico. Thaicom 2 is an HS376 spin-stabilized
+satellite  for Shinawatra Satellite Public Co. of Bangkok. 
+The initial orbit for Thaicom 2 was 277 x 36165 km x 3.9 deg.
+Thaicom 2 fired its Thiokol Star 30 solid apogee motor on Oct 10 and
+entered a 33964 x 36208 km x 0.00 deg orbit, drifting at 9 deg per day
+eastward over the Indian Ocean. By Oct 11, Solidaridad 2's
+ARC490N liquid engine had raised its orbit to 15922 x 36146 km x 0.8 deg
+
+Okean-O1 no. 7 was launched on Oct 11 into a 631 x 666 km x 82.5 deg 
+orbit. The satellite, built by NPO Yuzhnoe, has a mass of 1950 kg. It
+carries instruments for studying the ocean surface, probably including
+side-looking radar. A more advanced Okean is under development for
+launch on the Zenit rocket. This Okean was launched on a Tsiklon launch
+vehicle with an S5M upper stage. Earlier Okean-O1 spacecraft were launched
+on 1986 Jul 29, 1987 Jul 16, 1988 Jul 5, 1990 Feb 28, and 1991 Jun 4.
+
+Magellan carried out the Termination Experiment on Oct 11,
+firing its thrusters at 1321 to descend into the atmosphere of Venus.
+It will burn up today or tomorrow.
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Sep  9 0029     Telstar 402     Ariane 42L      Kourou ELA2     Comsat      58A
+Sep  9 2222     Discovery       Space Shuttle   Kennedy LC39B   Spaceship   59A
+Sep 13 2130     Spartan 201     -               Discovery, LEO  Astronomy   59B
+Sep 16 1516     SAFER/M. Lee    -               Discovery, LEO
+Sep 16 1740?    SAFER/C. Meade  -               Discovery, LEO
+Sep 21 1753     Kosmos-2291     Proton-K/DM-2   Baykonur LC200  Comsat?     60A
+Sep 27 1400     Kosmos-2292     Kosmos-3M       Plesetsk LC132  Calibration 61A
+Sep 30 1116     Endeavour       Space Shuttle   Kennedy LC39A   Spaceship   62A
+Oct  3 2242     Soyuz TM-20     Soyuz-U2        Baykonur LC1    Spaceship   63A
+Oct  6 0635     Intelsat 703    Atlas Centaur   Canaveral LC36B Comsat      64A
+Oct  8 0107     Solidaridad 2 ) Ariane 44L      Kourou ELA2     Comsat      65A
+                Thaicom 2     )                                 Comsat      65B
+Oct 11 1430     Okean-O1 No. 7  Tsiklon-3       Plesetsk LC32   Rem.sensing 66A
+
+
+Reentries
+---------
+
+
+Sep 11          Kosmos-2284     Landed 
+Sep 13          FSW-2 service module  Reentered
+Sep 20          Discovery       Landed at Edwards AFB
+Oct  4          Progress M-24   Deorbited
+Oct 11          Endeavour       Landed at Edwards AFB
+Oct 12?         Magellan        Entered Venus atmosphere
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-63  Feb   
+OV-104 Atlantis        LC39B         STS-66  Nov 3
+OV-105 Endeavour       Edwards RW22  STS-68  
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/RSRM-42/ET-67/OV-104   LC-39B    STS-66   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

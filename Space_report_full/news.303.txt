@@ -1,0 +1,125 @@
+Jonathan's Space Report
+No. 303                           1996 Nov 7              Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Launch of STS-80 has been delayed while NASA figures out how the
+solid motor nozzle insulation got eroded on the last flight.
+
+Recent Launches
+---------------
+
+The SAC-B and HETE satellites were launched on Nov 4, but failed to
+separate from the launch vehicle final stage because the third stage
+battery failed.  The satellites were launched by an Orbital Sciences
+Corp. Pegasus XL rocket. The L-1011 carrier plane took off from Wallops
+Island, Virginia and dropped the Pegasus about 160 km out over the
+Atlantic Ocean. All three stages fired successfully and delivered the
+vehicle to the correct 95.07 min, 487 x 555 km x 38.0 deg orbit.  SAC-B
+is an experimental satellite for the Argentine space agency CONAE with
+solar flare and gamma ray burst instruments. It also carries CUBIC, a
+Penn State experiment to survey the X-ray sky. HETE is an MIT-led NASA
+satellite to localize gamma ray bursts. HETE is carried inside the Dual
+Payload Attach Fixture on which SAC-B is mounted, so it's trapped and
+was unable to deploy its solar panels. The satellite is now defunct.
+SAC-B was able to deploy its solar panels, but the tumbling spacecraft
+was unable to remain in sunlight enough to recharge the batteries and it
+appears that SAC-B too is now lost, having operated for about 10 hours.
+
+Mars Global Surveyor, NASA's probe to map the Martian surface and the
+first of three Mars probes due for launch this window, was launched at
+1700 UTC on Nov 7. The McDonnell Douglas Delta 7925 launch vehicle took
+off from Cape Canaveral Launch Complex 17, with nine GEM solid motors
+attached to the Thor-derived first stage. First stage separation was
+four minutes into the flight, and the Delta second stage then ignited.
+The second stage uses an AJ-10-118 engine and a structure derived from
+the old Ablestar rockets used to launch the early Transits (see last
+issue). The second stage cut off at 9 minutes into the flight, placing
+MGS into a 185 x 185 km x 28.5 deg orbit. At 1741 UTC the second stage
+ignited again for two minutes, and the vehicle entered a 173 x 4720 km x
+28.5 deg orbit. The spin table on the second stage then began to rotate
+at 60 rpm, spinning up the third stage and payload to stabilized them.
+At 1744 the second stage separated and half a minute later the Thiokol
+Star 48 solid motor on the PAM-D third stage ignited to enter an escape
+trajectory. At 1752 the third stage deployed `yo-yo' masses on  long
+wires to carry away the angular momentum and spin down the vehicle, and
+then separated from the MGS probe which is now en route to Mars.
+Meanwhile, the second stage was due to fire again to get rid of all
+extra fuel and prevent it exploding later (this was a problem with
+Delta stages in the 1970s).
+
+MGS was built by Lockheed Martin Astronautics/Denver and is operated by
+the Jet Propulsion Lab in Pasadena.  The MGS instruments are the Mars
+Orbiter Camera, the Mars Orbiter Laser Altimeter, the Electron
+Reflectometer, the Thermal Emission Spectrometer, the Mars Relay radio
+system, and a magnetometer system. The Mars Relay system will be used to
+relay data from future Mars landers to Earth. MGS also carries a
+bipropellant liquid propulsion system, I believe related to the Cassini
+design but using a British Leros 1b engine. MGS will reach Mars orbit in
+Sep 1997 and use aerobraking to lower its initial elliptical orbit to a
+450 km polar mapping orbit by Jan 1998.
+
+
+Galileo made a close flyby of Callisto on Nov 4 at 1334 UTC at a distance
+of 1118 km, and reached perijove on orbit 3 two days later. Next 
+orbit it will fly by Europa, on Dec 19.
+
+The FSW-2 Chinese recon satellite returned its recovery vehicle
+safely to China on Nov 4.
+
+Erratum: Delete the reference to APL satellite VE-4 in last issue's
+table. Replace it with 5E-5, launched 1964 Dec 13.
+
+
+ 
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  4 0901   Kosmos-2333      Zenit-2        Baykonur LC45L  Sigint      51A
+Sep  5 1247   Kosmos-2334 )    Kosmos-3M      Plesetsk LC132/1 Navsat     52A
+              UNAMSat     )                                               52B
+Sep  6 1737   Inmarsat III F2  Proton         Baykonur LC81   Comsat      53A
+Sep  8 2149   GE-1             Atlas IIA      Canaveral LC36B Comsat      54A
+Sep 11 0000   Echostar II      Ariane 42P     Kourou ELA2     Comsat      55A
+Sep 12 0849   Navstar 30       Delta 7925     Canaveral LC17A Navsat      56A
+Sep 16 0855   Atlantis         Shuttle        Kennedy LC39A   Spaceship   57A
+Sep 26 1751   Ekspress         Proton-K       Baykonur        Comsat      58A
+Oct 20 0730?  FSW-2            Chang Zheng 2D Jiuquan         Remote sen. 59A
+Oct 24 1137   Molniya-3        Molniya-M      Plesetsk        Comsat      60A
+Nov  4 1709   SAC-B/HETE       Pegasus XL     Wallops         Science     61A
+Nov  7 1700   MGS              Delta 7925     Canaveral LC17A Mars probe  
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-80  Nov 
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        OPF Bay 3     STS-81  Jan 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-54                VAB Bay 1      STS-81
+ML3/RSRM-49/ET-80/OV-102   LC39B          STS-80
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

@@ -1,0 +1,168 @@
+Jonathan's Space Report
+No. 363                               1998 Jun 18 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Discovery docked with the SO module on Mir at 1700 UTC on June 4. Andy
+Thomas became part of the Discovery crew, Valeriy Ryumin carried out an
+inspection tour of Mir, and NASA equipment was retrieved from the
+station. Discovery undocked at 1601 UTC on Jun 8, ending NASA
+participation in the Mir program. STS-91 landed on Runway 15 at Kennedy
+Space Center at 1800 UTC on Jun 12. Discovery is now in Orbiter
+Processing Bay 2 and will be turned around to perform the next Shuttle
+mission, STS-95 in October.
+
+The lack of Ku-band coverage meant that the AMS experiment was
+only able to send back a small amount of data in real time, but 
+reportedly AMS did detect cosmic-ray antiprotons as expected.
+
+GRAB Declassified
+------------------
+
+On Jun 17 the National Reconnaissance Office and the Naval Research Lab
+(NRO and NRL) declassified GRAB, the first signals intelligence satellite.
+GRAB was first launched in June 1960, shortly before the first successful
+flight of the CORONA imaging satellite. It carried receivers to
+catalog and characterize Soviet air defence radars. It also carried
+a scientific solar X-ray detector as a cover story - the satellite was
+given the cover name SOLRAD. It was launched together with TRANSIT 2A.
+Five  GRAB satellites were launched, not counting an inert dummy used
+to prove the dual satellite launching technique. The declassification
+did not reveal which the other satellites were, but my reconstruction is:
+
+Dummy      1960 Apr 13 (with Transit 1B)
+ GRAB 1    1960 Jun 22  (with Transit 2A)
+ GRAB 2    1960 Nov 30 (with Transit 3A, failed to orbit)
+ GRAB 3    1961 Jun 29 (with Transit 4A, second success)
+ GRAB 4    1962 Jan 24 (with other NRL satellites, failed to orbit)
+ GRAB 5    1962 Apr 26  (on a Scout, failed to orbit)
+ 
+At the time,  the name GREB was used in open sources some of the time,
+presumably just a misprint. GRAB stands for Galactic Radiation And Background,
+while GREB supposedly stood for Galactic Radiation Experiment Background.
+Neither  name makes much sense.
+
+After mid-1962 , GRAB successor satellites were launched
+under the auspices of the NRO, but these haven't been declassified yet.
+
+The GRAB satellite was NRL's first satellite after the Vanguard program,
+and it used the 20-inch Vanguard sphere as its structure. Thus, the
+purely civilian Vanguard program quickly led to a military successor;
+work on GRAB began around the time of the first successful Vanguard launch.
+GRAB data was given by NRL to both Strategic Air Command (to help
+bombers figure out how to avoid Soviet radars) and NSA.
+See my 1997 JBIS paper (Vol 50, p 427) for more on NRL's early satellites.
+
+While at NRL, I got to see the flight ICM (Interim Control Module for
+Space Station). ICM has APAS type docking ports on each face. It is
+launched in the Shuttle attached to a large cylindrical fairing at the
+far end of wh ich are trunnions  which attach to the payload bay.
+Apparently ICM and cylinder swing up out of the bay somehow and then ICM
+is placed on the ODS  by the RMS arm?  The Shuttle/ICM then docks with
+the Zarya tug. No word on when ICM will fly; that still depends on the
+politics of persuading the Russian government to support completion of
+the SM module. The ICM vehicle has some propulsion work still to do
+and doesn't have its docking ports yet, but I understand things are
+moving full steam ahead.
+
+I also got to hear a talk by Milt Rosen, parent of the Viking and
+Vanguard rockets, who seems in fine form and gave an engaging account
+of the Vanguard program, emphasizing its successes in the end, seeding
+NASA's space science program and leading to the Delta rocket. Likewise
+Roger Easton, who talked about the early NRL and rival proposals which
+led to the GPS navigation satellites.
+
+Recent Launches
+---------------
+
+A Hughes HS-376HP spin-stabilized comsat, Thor III, was launched for
+Telenor Satellite Services AS of Oslo by Boeing on Jun 11. The Delta
+7925 launch vehicle placed Thor III in geostationary transfer orbit.
+Delta's second stage entered a low circular orbit, then raised apogee to
+about 1400 km, then in a third burn circularized at that altitude and
+separated from the third stage, which  delivered the payload to a high
+perigee transfer orbit. The Delta stage 2 then made a fourth burn to
+lower perigee again so that it would reenter quickly. The Thor III
+satellite will use a Thiokol Star 30 motor to circularize its orbit
+at geostationary altitude.
+
+The RVSN (Russian Strategic Rocket Forces) launched six Strela-3
+military communications satellites on Jun 15 with a 11K68 Tsiklon-3
+launch vehicle. The circularization burn by the S5M third stage seems to
+have gone awry, leaving the satellites in a more elliptical orbit than
+usual, 1300 x 1900 km. The RVSN is quoting this as the first multiple
+launch by the Rocket Forces, which is  not quite true - RVSN's space
+forces did multiple launches since the early 1960s, but those space
+forces were later made an independent agency, the VKS. This is the first
+multiple launch since the VKS was disbanded last year and launch
+operations returned to the authority of the RVSN.
+
+A Minuteman ICBM was probably launched on a  suborbital flight test from
+Vandenberg's LF-26 silo to Kwajalein missile range on June 3. I haven't
+had confirmation of the flight yet.
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  2 0916   Iridium 69        CZ-2C/SD      Taiyuan           Comsat     26A
+              Iridium 71                                        Comsat     26B
+May  7 0853   Kosmos-2351       Molniya-M     Plesetsk          Early Warn 27A
+May  7 2345   Echostar 4        Proton-K/DM3  Baykonur          Comsat     28A
+May  9 0138   USA 139           Titan Centaur Canaveral SLC40   Sigint     29A
+May 13 1552   NOAA 15           Titan 2       Vandenberg SLC4W  Weather    30A
+May 14 2212   Progress M-39     Soyuz-U       Baykonur LC1      Cargo      31A
+May 17 2116   Iridium 70)       Delta 7920    Vandenberg SLC2W  Comsat     32A
+              Iridium 72)                                       Comsat     32B
+              Iridium 73)                                       Comsat     32C
+              Iridium 74)                                       Comsat     32D
+              Iridium 75)                                       Comsat     32E
+May 30 1000   Zhongwei 1        CZ-3B         Xichang           Comsat     33A
+Jun  2 2206   Discovery    )    Shuttle       Kennedy LC39A     Spaceship  34A
+              Spacehab     )
+Jun 11 0035   Thor 3            Delta 7925    Canaveral LC17A   Comsat     35A
+Jun 15 2258   Kosmos-2352  )    Tsiklon-3     Plesetsk LC32     Comsat     36A
+              Kosmos-2353  )                                    Comsat     36B
+              Kosmos-2354  )                                    Comsat     36C
+              Kosmos-2355  )                                    Comsat     36D
+              Kosmos-2356  )                                    Comsat     36E
+              Kosmos-2357  )                                    Comsat     36F
+                                                                          
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Unknown
+OV-103 Discovery       OPF Bay 2     STS-95  Oct 29
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Unknown
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/
+MLP2/
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+

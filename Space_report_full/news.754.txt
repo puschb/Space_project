@@ -1,0 +1,232 @@
+Jonathan's Space Report 
+No. 754                                                  2018 Oct  8        Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+During September Expedition 56 continued with astronauts Feustel,
+Artem'ev, Arnold, Prokop'ev, Aunon-Chancellor and Gerst.
+
+Japan's HTV-7 (Kounotori 7) cargo ship was launched on Sep 22. It
+arrived at ISS on Sep 27; the Canadarm-2 grappled it at 1134 UTC and
+berthed it at Harmony nadir at 1409 UTC. On Sep 28 the SSRMS moved the
+Exposed Pallet (EP) from HTV-7 to the truss MBS POA location. The EP
+carries a set of replacement batteries for the P4 truss; spacewalkers
+will install them. Meanwhile, the J-SSOD-10 deployer was transferred
+from HTV-7 to the Kibo module in preparation for deployment of three
+cubesats. Express Rack 9B was installed in the Columbus module, Express
+Rack 10B in Kibo, and the Life Support Rack in Destiny.
+
+On Oct 4 at 0757 UTC, astronauts Artem'ev, Feustel and Arnold undocked from the Poisk
+module in Soyuz MS-08. The spacecraft made its deorbit burn at 1051 UTC
+and landed in Kazakhstan at 1145 UTC. With the undocking, Expedition 57 began under
+the command of Alex Gerst.
+
+On Oct 6, the JEM RMS extracted the J-SSOD-10 deployer from the Kibo airlock.
+At 0800 UTC the deployer ejected three cubesats: RSP-00 for RymanSpace,
+SPATIUM-I for Nanyang Tech U (Singapore), and STARS-Me for Shizuoka University.
+STARS-Me will separate into two 1U pieces joined by a 14-metre tether, plus a small
+`climber' robot that will move up and down the tether.
+
+
+Beidou
+------
+
+Two more Beidou-3 navigation satellites were launched on Sep 19. 
+Beidou 37 and 38, also known as Beidou-3 vehicles M13 and M14, were
+placed in 22000 km circular orbits.
+
+Ariane VA243
+------------
+
+On Sep 25 Arianespace successfully launched the 100th Ariane 5, placing
+two communications satellites in geotransfer orbit.
+The upper payload was Horizons 3e, for the Horizons joint venture
+between Intelsat and Japan's Sky Perfect JSAT. The satellite uses
+a Boeing 702MP bus with a launch mass of 6441 kg.
+The lower payload was Azerspace-2/Intelsat-38, a Maxar SSL-1300 
+with a launch mass of 3500 kg. 
+
+Centispace-1-1S
+---------------
+
+China's EXPACE, a commercial launch provider which is part of the
+government CASIC missile company, launched the second Kuaizhou-1A
+vehicle on Sep 29 carrying a small commercial communications/navigation
+technology payload to orbit. Before launch the satellite was known as
+Centispace-1-1S in English and as Weili kongjian yi hao xitong S1 shiyan
+weixing (Micro-space 1 System S1 Test Satellite) in Chinese; after
+launch it was renamed Xiangrikui 1 (`Sunflower One'). It is a 97 kg
+payload built by the Shanghai microsatellite innovation center IMI-CAS
+for Beijing Weilai Daohang Keji YG (Beijing Future Navigation Tech Co
+Ltd). I am assuming Centispace is the English marketing name of the
+company. The satellite was placed in a 1030 local time sun-sync orbit
+and carries a GNSS receiver for orbit determination and a laser
+intersatellite comms link.
+
+The satellite separated from stage 4 in a 697 x 710 km orbit at about
+0430 UTC; stage 4  made a 266 m/s depletion burn at 0453 UTC to a 265 x
+820 km orbit.
+
+
+SAOCOM-1A
+---------
+
+Argentina's CONAE space agency has its first radar imaging satellite in
+orbit, SAOCOM-1A (Satelite Argentino de Observacion Con Microondas). The
+3000 kg satellite has a 10 x 2.5m L-band synthetic aperture radar
+antenna to study soil moisture, and was built by the Argentine company
+INVAP SE.
+
+SAOCOM-1A was launched on Oct 8 by a SpaceX Falcon 9 from Vandenberg's
+Space Launch Complex 4-East (SLC-4E). The Falcon 9 first stage, B1048,
+became the first to return for a Vandenberg landing, at Landing Zone 4
+(LZ-4) on the old SLC-4W. The second stage ignited again for the deorbit
+burn at about 0342 UTC over Poland,  and reentered SE of Hawaii at about
+0413 UTC.
+
+
+Hayabusa-2
+----------
+
+JAXA felt it understood The problem with the lidar readings that
+interrupted TD1-R1, so the descent to release the MINERVA II1 rovers
+went ahead on schedule. Hayabusa-2 began its descent from the 20 km home
+point at 0508 UTC Sep 20. By 0406 UTC Sep 21 it was only 50 metres above
+Ryugu descending  at 0.1m/s. The MINERVA II1  cover was ejected at 0406
+UTC followed by Rover 1A and Rover 1B. All three objects then sailed
+down the asteroid surface, while at about 0411 UTC Hayabusa-2 made a
+divert burn to reverse its descent and return to the home position.
+
+Both Rover 1A and Rover 1B successfully reached the surface, possibly
+around 0425 UTC. They then began hopping around the asteroid while
+taking pictures. The rovers are 1 kg discs, about 0.12m high 0.15m dia.
+They contain an internal mechanism which can be made to spin; changes
+in its angular momentum cause the rover to flip over and `hop' to
+another position on the surface. Regular wheeled rovers would not
+be practical in the low gravity, irregular-surfaced enviroment
+of Ryugu, where the escape velocity is only about 1 km/hr.
+
+On Oct 2-3 Hayabusa-2 again descended close to Ryugu; at 0157 UTC Oct 3
+it ejected the German-French MASCOT lander at an altitude of 51 metres,
+and then retreated to 3 km altitude. MASCOT landed on Ryugu at about
+0217 UTC and transmitted from the surface until 1904 UTC. Hayabusa-2
+then returned to  its 20 km home position again.
+
+
+RemoveDebris
+------------
+
+I've entered the RemDeb Net in the launch list on the assumption (estimation)
+that it was ejected about one minute after DebrisSat-1.
+The RemoveDebris project is led by Surrey Space Centre and operated by SSTL.
+
+SJ-17
+-----
+
+David Todd of Seradata has pointed out that China's SJ-17 satellite made an unusual
+manuever in GEO, increasing its inclination from 0 to 4 degrees in January and then
+reversing the change in July. The satellite has moved back and forth through the
+geostationary belt between East Africa and the mid-Pacific in a series of
+rapid relocations, followed by a period of brief stays at a series of Indian Ocean
+locations. Its history to date is detailed below.
+
+Phase 1: 2016 Nov  3 to 11:          SJ-17 arrived on station at 163E a week after launch.
+Phase 2: 2016 Nov 11 to 2017 Apr 26  SJ-17 on station at 163E
+Phase 3: 2017 Apr 26 to 2017 Oct 10  Westward scan 1, from 163E to 118E
+Phase 4: 2017 Oct 10 to 2017 Jan 11  SJ-17 on station at 118E
+Phase 5: 2017 Jan 11 to 2018 Jan 23  Begin eastward scan 1 118E to 152E
+Phase 6: 2018 Jan 23 to 2018 Jan 26  Increase inclination to 4 deg
+Phase 7: 2018 Jan 26 to 2018 Feb  9  Complete eastward scan 1, 152E to 178W
+Phase 8: 2018 Feb 10 to 2018 Mar 19  Westward scan 2, 178W to 40E
+Phase 9: 2018 Mar 20 to 2018 Apr 14  Eastward scan 2, 40E to 118E
+Phase 10: 2018 Apr 15 to 2018 May 7  Westward relocate, 118E to 106E
+Phase 11: 2018 May 7 to  May 20      SJ-17 on station at 106E
+Phase 12: 2018 May 20 to May 28      Westward relocate, 106E to 103.5E
+Phase 13: 2018 May 28 to Jun  4      SJ-17 on station at 103.5E
+Phase 14: 2018 Jun  4 to Jun 19      Westward relocate, 103.5E to 94.3E
+Phase 15: 2018 Jun 19 to Jul 17      SJ-17 on station at 94.3E
+Phase 16: 2018 Jul 18 to Jul 21      Westward relo and decrease inc to 0 deg
+Phase 17: 2018 Jul 21 to Aug 13      SJ-17 on station at 80.5E
+Phase 18: 2018 Aug 14 to Aug 31      Eastward relo to 94.1E   
+Phase 19: 2018 Aug 31 to now         SJ-17 on station at 94.1E
+
+Parker Solar Probe
+------------------
+
+The Parker Solar Probe entered Venus' gravitational sphere at 2035 UTC
+Oct 2.  Parker flew 2428 km above the surface of Venus at  0846 UTC Oct
+3 and departed the Venus gravitational sphere at 2056 UTC.  Before
+encounter, Parker was in a 0.208 x 1.014 AU x 5.6 deg solar orbit  (31 x
+152 million km). Now, it is in a 0.166 x 0.938 AU x 3.4 deg (25 x
+140 million km). First perihelion will be on Nov 6 at 0329 UTC.
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Sep  7 0315   Haiyang 1C              Chang Zheng 2C     Taiyuan         Rem.Sensing  68A   S43609   770 x   786 x 98.6 1020LT SSO
+Sep 10 0445   Telstar 18V             Falcon 9 FT        Canaveral SLC40 Comms        69A   S43611   250 x 18094 x 27.0
+Sep 15 1302   ICESAT-2 )              Delta 7420-10      Vandenberg SLC2W Rem.Sensing 70A   S43613   459 x   464 x 92.0
+              ELFIN    )                                                 Sci          70B?  S43614   448 x   467 x 93.0
+              ELFIN-B  )                                                 Sci          70C?  S43615   448 x   467 x 93.0
+              DAVE     )                                                 Tech         70D?  S43616   447 x   468 x 93.0
+              SurfSat  )                                                 Tech         70E?  S43617   448 x   467 x 93.0 
+Sep 16 1638   NovaSAR-S )             PSLV-CA            Sriharikota FLP Imaging      71A   S43619   574 x   592 x 97.8 2215LT SSO
+              SSTL S1-4 )                                                Imaging      71B   S43620   574 x   619 x 97.7 2215LT SSO
+Sep 16 2306   DebrisSat-1                               RemDeb, LEO      Tech        9867PM S43621   400 x   404 x 51.7
+Sep 16 2308?  RemDeb Net                                RemDeb, LEO      Tech        9867PM A09713   Now attached to DebrisSat-1
+Sep 19 1407   Beidou DW 37 )          Chang Zheng 3B/YZ-1 Xichang LC2    Navigation   72A   S43622 21533 x 22193 x 55.0
+              Beidou DW 38 )                                             Navigation   72B   S43623 21545 x 22197 x 55.0
+Sep 22 1752   Kounotori 7             H-IIB              Tanegashima     Cargo        73A   S43630   187 x   301 x 51.6
+Sep 25 2238   Horizons 3e       )     Ariane 5ECA        Kourou ELA3     Comms        74B   S43633   280 x 35741 x  5.9
+              Azerspace-2/IS-38 )                                        Comms        74A   S43632   246 x 35712 x  6.0
+Sep 29 0413   Xiangrikui 1            Kuaizhou-1A        Jiuquan         Tech         75A   S43636   696 x   710 x 98.2 1030LT SSO
+Oct  6 0800   STARS-Me )                                ISS, LEO         Tech        9867PN S43638?  403 x   408 x 51.6
+              RSP-00   )                                                 Tech        9867PP S43639?  403 x   408 x 51.6
+              SPATIUM-I)                                                 Tech        9867PQ S43640?  403 x   408 x 51.6
+Oct  8 0221   SAOCOM-1A               Falcon 9          Vandenberg SLC4E Radar        76A   S43641   607 x   634 x 97.9 1800LT
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The suborbital launches table includes known flights above 80 km.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Sep  5 0500   Hyperbola-1Z      Shuang Quxian 1Z   Jiuquan               Test          108       Jiuquan
+              TFJR-1  )
+              CDGX-1  )
+              EREBUS  )
+Sep  7 1721   FOXSI             Black Brant 9      White Sands           Solar XR      304       White Sands
+Sep 12 0837   JFTM-05 Target    ?                  Kauai                 Target        150?      Pacific
+Sep 12 0840?  JFTM-05           SM-3-IB          JS Atago, Pacific       Interceptor   150?      Intercept
+Sep 12 1433   ADEPT             SpaceLoft XL       Spaceport America     Tech          114       Spaceport America, NM
+Sep 17 1409   FOP-5?/Celestis   SpaceLoft XL       Spaceport America     Tech          114       Spaceport America, NM
+Sep 27 1215   NAMMO Nucleus     Nucleus            Andoya U3             Test          107       Norwegian Sea
+Oct  1 0000?  Warhead           Zulfiqar           Kermanshah?,Iran      Weapon        200?      Syria
+Oct  1 0000?  Warhead           Zulfiqar           Kermanshah?,Iran      Weapon        200?      Syria
+Oct  1 0000?  Warhead           Qiam-1             Kermanshah?,Iran      Weapon        200?      Syria
+Oct  1 0000?  Warhead           Qiam-1             Kermanshah?,Iran      Weapon        200?      Syria
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+</PRE>
+<HR>
+<A HREF="http://planet4589.org/space/space.html">Jonathan's Space Home Page</A>
+<P>
+<A HREF="http://planet4589.org/jcm/jmcdowell.html">Jonathan's Home Page</A>
+</BODY>
+
+

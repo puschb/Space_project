@@ -1,0 +1,105 @@
+Jonathan's Space Report 
+No. 199       1994 Jun 9
+--------------------------------------------------------------------------------
+
+Erratum
+-------
+
+Thanks to Maxim Tarasenko for pointing out that the Gorizont 42
+satellite was launched on May 20 at 0201 UTC. I carelessly gave
+the date as May 19 in JSR 197-198. I'm glad someone is paying attention!
+
+
+Shuttle
+-------
+
+Columbia was moved to the Vehicle Assembly Building on Jun 8, for
+connecting to the External Tank and Solid Rocket Boosters. Discovery
+has now been moved back to the Orbiter Processing Facility, taking
+Columbia's old spot.
+
+
+LAUNCHES
+--------
+
+Kosmos-2281 was launched on June 7 from Plesetsk. The spacecraft, whose
+orbit is 226 x 292 km high at an inclination of 82.6 degrees, is
+an imaging satellite based on the Vostok/Zenit spaceship, and will probably
+stay in orbit for 14 days. The last launch in this series was Kosmos-2260
+in 1993, and was the first to be assigned a civilian mission - it was
+given the alternate name Resurs-T. I don't know if this new flight
+is another Resurs-T or if it is a reconnaissance flight like
+Kosmos-2207 in 1992. [The code name Kosmos-2281 was originally given
+to a different satellite, which failed to reach orbit on May 25].
+[Source: TLEs]
+
+The first Vostok based spy satellites were the Zenit-2 series, which
+have now been declassified. The first one to reach orbit, in 1962, was
+given the code name Kosmos-4. The Zenit derived spy satellites have now
+been almost entirely phased out in favour of a newer bus called Yantar'.
+All the Russian imaging spy satellites are made by the Central
+Specialized Design Bureau in Samara.  [Source: JPRS reports; Novosti
+Kosmonavtiki]
+
+Information Wanted
+------------------
+
+Thanks to Ken Jenks for confirming that NASA 911 (the newer 747)
+was used to take Atlantis back from Palmdale to Florida.
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Apr 23 0802     Kosmos-2278     Zenit-2         Baykonur LC45   SIGINT      23A
+Apr 26 0214     Kosmos-2279     Kosmos-3M       Plesetsk LC133  Navsat      24A
+Apr 28 1714     Kosmos-2280     Soyuz-U         Baykonur LC31   Recon       25A
+May  3 1555     USA-103         Titan Centaur   Canaveral LC41  SIGINT      26A
+May  4 0000     SROSS C2        ASLV            Sriharikota     Science     27A
+May  9 0247     MSTI-2          Scout G-1       Vandenberg SLC5 Technology  28A
+May 19 1703     P91-A (STEP 2)  Pegasus/HAPS    Point Arguello WA  Science  29A
+May 20 0201     Gorizont 42     Proton/DM2      Baykonur LC81   Comsat      30A
+May 22 0430     Progress M-23   Soyuz-U         Baykonur        Cargo       31A
+May 25 1015     Kosmos          Tsiklon-3       Plesetsk        SIGINT?     FTO
+Jun  7 0716?    Kosmos-2281     Soyuz-U         Plesetsk        Recon?      32A
+
+
+Reentries
+---------
+
+May  8          SEDS 2 deployer Reentered
+May 21          Kosmos-2274     Reentered
+May 23          Progress M-22   Deorbited
+Jun  3          Tiros VII       Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        VAB Bay 1     STS-65
+OV-103 Discovery       OPF Bay 2     STS-64
+OV-104 Atlantis        OPF Bay 3     STS-66
+OV-105 Endeavour       OPF Bay 1     STS-68
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40                VAB Bay 3 STS-68
+ML2/                       
+ML3/RSRM-39/ET             VAB Bay 1 STS-65
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+
+
+
+

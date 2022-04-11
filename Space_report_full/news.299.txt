@@ -1,0 +1,118 @@
+Jonathan's Space Report
+No. 299                     1996 Sep 11               Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+NASA astronaut Shannon Lucid is preparing to come home after the longest
+space flight by a US citizen. Atlantis was launched on mission STS-79 at
+0854:49 UTC on Sep 16. The replaced RSRM-56 solid rocket boosters
+operated just fine and separated at 0857 UTC, although we'll have to
+wait till they get towed home to know if there was any gas blowby. MECO
+(Main Engine Cutoff) came at 0903 UTC, followed by external tank ET-81
+separation with Atlantis in a 82 x 296 km x 51.6 deg orbit. The OMS 2
+burn to raise orbit to 157 x 293 km was carried out at 0937 UTC, and the
+payload bay doors were opened at 1015 UTC.
+
+On Sep 19 Atlantis docked with the Mir complex. The crew reported 'tally
+ho' (visual contact) at 0107 UTC, after the terminal burn at 0033 UTC.
+By 0139 they were 3 km apart; twenty minutes later that distance had
+dropped by a factor of ten. The crew closed in to 10 meters at 0303 UTC,
+and carried out stationkeeping at that distance for a few minutes,
+before closing in again for docking at 0313 UTC. The docking rings
+retracted and brought the two vehicles together for `hard dock' at 0320
+UTC. At 0540 the hatch was opened and Lucid, Korzun and Kaleri
+were able to greet Blaha, Readdy, Wilcutt, Akers, Apt and Walz.
+
+Aboard Atlantis in the payload bay are the Orbiter Docking System, the
+modified Long Tunnel, and the Spacehab Double Module. The Spacehab has
+supplies for the Mir station. Astronaut John Blaha will relieve Shannon
+Lucid as NASA resident on the complex.
+
+Recent Launches
+---------------
+
+
+The launch profile of  Inmarsat III F-2 satellite is still unclear.
+Apparently it did not carry an apogee motor, and was placed directly in
+geostationary orbit by the Blok-DM-1 upper stage. However, Space Command
+have not yet tracked the stage. Inmarsat III F-2 is a Series 4000
+satellite built by Lockheed Martin Telecommunications (formerly Astro
+Space). It will serve the Atlantic Ocean region; Inmarsat III F-1 is
+operating over the Indian Ocean. The Inmarsat satellites  provide mobile
+communications services at L-band, primarily for ships and aircraft.
+
+A Navstar Block IIA GPS (Global Positioning System) navigation
+satellite, SVN 30, was launched on Sep 12. The McDonnell Douglas Delta
+7925 placed it in an elliptical transfer orbit, and the Star 37 apogee
+motor fired to place it in a 12 hour orbit at 55 deg inclination. One
+more GPS Block IIA satellite, SVN 38, remains to be launched. The Block
+IIA satellites are built by Rockwell.
+
+The first calibration reference sphere was ejected from the MSX
+ballistic missile defence research satellite on Aug 24. Its
+SPIRIT III solid-hydrogen cooled infrared telescope is operating
+well.
+
+Erratum: Kosmos-2333 was launched from GIK-5 Baykonur,
+not GIK-1 Plesetsk. Sorry!
+
+Erratum:
+The Inmarsat III F-2 launch contract was directly with Krunichev and did not
+involve International Launch Services. My apologies for the error.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug  8 2249   Italsat F2  )    Ariane 44L     Kourou ELA2     Comsat      44A
+              Telecom 2D  )                                   Comsat      44B
+Aug 14 2221   Molniya-1T       Molniya-M      Plesetsk        Comsat      45A
+Aug 17 0153   ADEOS       )    H-II           Tanegashima Y   Rem.sens.   46A
+              JAS-2       )                                   Comsat      46B
+Aug 17 1318   Soyuz TM-24      Soyuz-U        Baykonur LC1?   Spaceship   47A
+Aug 18 1027   Zhongxing 7      Chang Zheng 3  Xichang         Comsat      48A
+Aug 21 0947   FAST             Pegasus XL     Vandenberg      Auroral     49A
+Aug 29 0522   Interbol-2  )    Molniya-M      Plesetsk LC43   Auroral     50B
+              Magion 5    )                                               50C
+              Microsat    )                                               50A
+Sep  4 0901   Kosmos-2333      Zenit-2        Baykonur LC45L  Sigint      51A
+Sep  5 1347   Kosmos-2334 )    Kosmos-3M      Plesetsk LC132/1 Navsat     52A
+              UNAMSat     )                                               52B
+Sep  6 1737   Inmarsat III F2  Proton         Baykonur LC81   Comsat      53A
+Sep  8 2149   GE-1             Atlas IIA      Canaveral LC36B Comsat      54A
+Sep 11 0000   Echostar II      Ariane 42P     Kourou ELA2     Comsat      55A
+Sep 12 0849   Navstar 30       Delta 7925     Canaveral LC17A Navsat      56A
+Sep 16 0855   Atlantis         Shuttle        Kennedy LC39A   Spaceship   57A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-80  Oct 31
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        Mir           STS-79  
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-54                VAB Bay 1      STS-79 (old)
+ML3/RSRM-49                VAB Bay 3      STS-80
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

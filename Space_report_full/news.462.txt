@@ -1,0 +1,156 @@
+
+Jonathan's Space Report
+No. 462                                            2001 Sep 26 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 3 crew continues work on the Station. The Progress M-SO1
+vehicle is still docked to the Pirs airlock/docking module and will be
+undocked and deorbited in late September.
+
+Around the Solar System
+-----------------------
+
+Deep Space 1 has completed its flyby of comet 19P/Borrelly. The
+spacecraft flew past the nucleus at a distance of 2200 km at 2230 UTC on
+2001 Sep 22 and appears to have survived the encounter in good shape,
+sending back photos of the comet. Congratulations to Marc Rayman and the
+DS1 team for a remarkable feat of interplanetary navigation. DS1 is in a
+roughly 1.3 x 1.5 AU x 0 deg (ecliptic) orbit; Borrelly's orbit is 1.3 x
+5.9 AU.
+
+Recent Launches
+---------------
+
+An Orbital Sciences Taurus 2110 failed to remain in orbit after launch
+from Vandenberg's pad 576E on Sep 21. A problem a few seconds after
+first stage separation caused the T6 rocket to go off course; the rocket
+recovered and the remainder of the stages fired, but velocity appears to
+have been just too low to reach a sustainable orbit. 
+
+Launch was at 1849 UTC on Sep 21; the Castor 120 first stage  (or Stage
+0 in Orbital's nomenclature) burn lasted about 83 seconds, and after its
+separation the Orion 50S motor ignited - it was at this point that
+things went awry. The Orion 50S separated at 1851 UTC and was followed
+by the Orion 50 motor burn. The three Orion motors used in Taurus' upper
+stages are the same motors used in the Pegasus rocket. At 1857 UTC the
+Orion 38 final stage separated from the lower stages; at this stage it
+was intended to burn from a -3000 x 465 km x 97 deg orbit to a circular
+476 x 482 km x 97 deg orbit. A 150m/s velocity shortfall would be enough
+to leave the payloads with a negative perigee. 
+
+At 1900 UTC the Orbview-4 satellite separated from the top of the Aft
+Payload Capsule (APC). At 1902 UTC the APC top half separated; it had
+been covering the QuikTOMS and SBD.  At 1903 UTC the QuikTOMS separated
+from the SBD satellite, which remained attached to the final stage.
+
+At about 1902 UTC all these objects crossed the equator at an altitude
+of around 427 km, heading south. I generated some test element sets and
+find that to avoid crashing in Antarctica, perigee must have been more
+than -50 km; if perigee was more than 80-90 km, the satellites would
+probably have survived for a few orbits.  Impact would have been between
+1930 and 1945 UTC, in a region from the S Indian Ocean stretching up to
+the sea east of Kenya, depending on the perigee, from 45-60E and between
+60S and 10S. If the NASA statement that impact was NE of Madagascar
+is correct, perigee must be toward the upper end of the range 
+and so I'm guessing an orbit of around 75-80 km x 425-430 km x 97 deg
+was achieved.
+
+The primary payload on T6 was the OrbView-4 imaging satellite.
+OrbView-4, built by Orbital, was a 368 kg box-shaped satellite
+carrying a 1-m resolution panchromatic camera and an 8-m
+resolution 200-channel hyperspectral imager with a 0.45-meter aperture.
+It was to be used by the US Air Force. 
+
+The second payload was the QuikTOMS satellite (and would it really have
+been so hard to spell Quick correctly?), a NASA-GSFC project carrying
+the TOMS-5 ozone mapper. QuikTOMS was a 168 kg double Microstar and
+replaced TOMS instruments on a delayed Russian weather satellite and the
+failed ADEOS. The loss of QuikTOMS may put a hole in NASA's attempts to
+monitor the ozone layer.
+
+The third payload was SBD, the Orbital Special Bus Design. The 73 kg
+satellite was a test version of an enlarged Microstar bus. It
+would have remained attached to the third stage, together with
+two Celestis burial canisters containing cremated human remains,
+and an experimental third stage avionics box.
+
+All previous Taurus launches were successful; all launches have been
+from pad 576E at Vandenberg. There are two main variants of Taurus flown
+to date, one with the first stage of the Peacekeeper missile, and one
+with its Castor 120 commercial equivalent.
+
+ Taurus  Date        Variant Stage 0 type   Payload
+ T1     1994 Mar 13  1110    MX            USAF STEP M0
+ T2     1998 Feb 20  2210    Castor 120    GFO/Orbcomm
+ T3     1998 Oct  3  1110    MX            NRO STEX
+ T4     1999 Dec 21  2110    Castor 120    KOMPSAT/ACRIMSAT
+ T5     2000 Mar 12  1110    MX            USAF/DoE MTI
+ T6     2001 Sep 21  2110    Castor 120    OV-4/QuikTOMS/SBD
+
+The Lockheed Martin Athena-1, scheduled for launch from Kodiak Island,
+also uses the Castor 120 first stage.
+
+
+Arianespace launched an Ariane 44P from Kourou on Sep 25. Ariane V144
+placed the Atlantic Bird 2 satelite in geostationary transfer orbit.
+Atlantic Bird 2 is an Alcatel/Cannes Spacebus 3000B2 Ku-band
+communications satellite owned by the European consortium Eutelsat. It
+will replace the Telecom 2A satellite at 8 deg W and provide TV
+broadcast, telecom and data services for Europe and for transatlantic
+links. AB-2 has a dry mass of 1368 kg and a launch mass of 3150 kg.
+AB-1, built by Alenia, has not yet been launched.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Aug  6 0728   DSP 21            Titan 4B/IUS   Canaveral SLC40  Early Warn   33A
+Aug  8 1613   Genesis           Delta 7326     Canaveral SLC17A Space probe  34A
+Aug 10 2110   Discovery  )      Shuttle        Kennedy LC39     Spaceship    35A
+              Leonardo   )
+Aug 20 1830   Simplesat         -              Discovery, LEO   Astronomy    35B
+Aug 21 0924   Progress M-45     Soyuz-U        Baykonur LC1     Cargo        36A
+Aug 24 2034   Kosmos-2379       Proton-K/DM2M? Baykonur LC81R   Early Warn?  37A
+Aug 29 0700   VEP-2   )         H-2A           Tanegashima      Technology   38B
+              LRE     )                                         Geodesy      38A
+Aug 30 0646   Intelsat 902      Ariane 44L     Kourou ELA2      C/Ku telecom 39A
+Sep  7 1939   Picosat 7/8       -              Sindri, LEO      Technology  00-42C
+Sep  8 1525   USA 160           Atlas IIAS     Vandenberg SLC3E Sigint       40A
+Sep 14 2335   Pirs           )  Soyuz-U        Baykonur LC1     Station module  
+              Progress M-SO1 )                                  Cargo        41A
+Sep 21 1849   Orbview-4  )      Taurus 2110    Vandenberg 576E  Imaging      F01
+              QuikTOMS   )                                      Environment  F01
+              SBD        )                                      Technology   F01
+              Celestis-4 )                                      Burial       F01
+Sep 25 2321   Atlantic Bird 2   Ariane 44P     Kourou ELA2      Ku telecom   42A
+     
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       OPF Bay 2     Maintenance
+OV-104 Atlantis        VAB           STS-110 2002 Feb 28  ISS 8A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,298 @@
+
+Jonathan's Space Report
+No. 501                                           2003 Jun 6, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Editorial
+---------
+
+Thanks to all those who wrote sending good wishes on the occasion of JSR500.
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew, Yuriy Malenchenko and Edward Lu, are on board the
+Space Station. Soyuz TMA-2 is docked to the Station and acts as the crew
+return vehicle. 
+
+Atlantis was destacked from its boosters in March and returned to the
+Orbiter Processing Facility on Mar 14 for storage. Discovery and
+Endeavour are in the other two OPF bays. My guess is that  Shuttle
+return to flight will be in early to mid 2004.
+
+Recent Launches
+---------------
+
+The Japanese USERS satellite has returned to Earth. The SEM service
+module separated from the REM reentry module at 1906 UTC on May 29, the
+rocket motor fired at 2045 UTC into a -110 x 450 km orbit and splashdown
+was estimated to be at 2123 UTC, near the Ogasawara Islands. The planned
+location was 151.5E 22.5N. The 2002-42A designation has remained with
+the reentry module, and the SEM was cataloged as 2002-42H in a 474 x 489
+km orbit; the last orbit for the USERS spacecraft was May 28 in a
+slightly lower 473 x 484 km orbit.  (Thanks to Tomoko Steen for
+translations of the USERS web site!)
+
+Europe's first Mars probe is on its way. Mars Express was launched from
+Baykonur in Kazakhstan by a Starsem Soyuz-FG with a Fregat upper stage
+on Jun 2 at 1745 UTC. The Soyuz-FG rocket put ME/Fregat into a
+marginally orbital trajectory upon third stage cutoff at 1754 UTC; I
+estimate (-1 +/- 20) x 200 km x 51.8 deg. The third stage then fell in
+the Pacific as Fregat made its first burn,  with main engine start at
+1755 UTC for a 21-second burn to a 177 x 177 km x 51.8 deg orbit. At
+1903 UTC the Fregat made its second, main, burn for 14 minutes into
+solar orbit. At 1917 UTC Fregat separated, and later made a third burn
+to ensure it will miss Mars. This was the first launch of Fregat as an
+upper stage with the uprated Soyuz-FG rocket.
+
+Mars Express has a mass of 555 kg dry, together with 427 kg of
+propellant and the 60 kg Beagle 2 lander for a total of 1042 kg
+(although the Russian Space Agency reports the mass was 1120 kg).
+Instruments include MARSIS, the first subsurface radar sounder flown on
+a probe since Apollo 17; HRSC, a high resolution color camera; OMEGA, an
+infrared sensor; Planetary Fourier Spectrometer, operating in the
+millimeter range for molecular studies; SPICAM, studying an ultraviolet
+ozone absorption line and an infrared water line; ASPERA-3 measuring the
+particle environment; and the Mars Radio Science experiment using the
+radio transmitter. ME carries a 400N propulsion engine similar to those
+used on Spacebus communications satellites, and will enter an elliptical
+polar orbit around Mars.
+
+Russia launched a Parus-class navigation satellite, Kosmos-2398, from
+Plesetsk on Jun 4 aboard an 11K65M Kosmos-3M two-stage light launch
+vehicle. The satellite entered a 969 x 1014 km x 83.0 deg orbit.
+
+Registration of satellites with the UN
+---------------------------------------
+
+I have updated the UN registry tables on my web site:
+
+http://hea-www.harvard.edu/~jcm/space/un/un.html
+
+and the league of shame of unregistered satellites at
+
+http://hea-www.harvard.edu/~jcm/space/un/un_paper1.html
+
+The UK has notified the UN (UN document ST/SG/SER.E/417/Rev.1) that it
+licenses Inmarsat Ltd. (London) to operate the INMARSAT satellites, and
+provides information on them suitable for registration, but explicitly
+denies that it is the state of registry for the purposes of the
+registration convention. This is a bit odd, since even though Inmarsat
+Ltd. used to be an intergovernmental organization, it has always been
+headquartered in London. So it's a bit hard to see what other country
+the state of registry could be (historically, intergovernmental
+organizations have been registered by their host countries unless and
+until they establish their own registries with the UN, which INMARSAT
+never did). Sounds to me like the UK is trying to get out of its legal
+liability for these satellites. The UK is now doing ITU filings for the
+now-privatized and Bermuda-located Intelsat, so it should register those
+satellites too. Meanwhile the US did retrospectively register three
+Space Shuttle flights from the early 1990s that had been omitted
+accidentally (STS 44 and 66 are still missing).
+
+
+The Mission Profile of USAF Program 827 (CANYON)
+------------------------------------------------
+
+As part of an effort to improve the list of objects in the geostationary
+altitude regime (of interest due to orbital debris concerns), I have
+been taking another look at what is known of the CANYON communications
+intelligence satellite program.
+
+CANYON was the first geosynchronous signals intelligence satellite,
+launched from 1968 to 1977 as part of NRO's Program A and developed by
+the US Air Force.  The program was highly classified (and remains so
+even over 20 years after program completion) and for many years analysts
+thought they were a first-generation DSP early warning satellite.
+Launches under the Program 827 designation were carried out by the
+uprated Atlas SLV-3A/Agena D rocket from Cape Canaveral. CANYON's
+successors have flown under the designations CHALET, VORTEX and MERCURY;
+official statements following the last MERCURY launch failure imply that
+despite these code name changes, and several spacecraft block changes,
+these satellites are all considered part of a single geostationary
+communications intelligence program. It is conjectured that the CANYON
+spacecraft features a cylindrical bus of order 1.5m in diameter attached
+to one or more large antennas; it is thought to have transmitted its
+data to a ground station at Bad Aibling in Germany. I will not speculate
+on the detailed mission or capabilities of the spacecraft, although it
+is not a huge leap to assume the synchronous orbits were mostly
+stationed at longitudes allowing surveillance of the USSR and China.
+
+There were seven CANYON launches, as follows:
+
+              Satellite         Launch vehicle S/N     Pad       Launch Date
+CANYON 1     AFP-827 F1 (7501)  Atlas Agena D (5501A)  CC LC13   1968 Aug  6   
+CANYON 2     AFP-827 F2 (7502)  Atlas Agena D (5502A)  CC LC13   1969 Apr 13
+CANYON 3     AFP-827 F3 (7503)  Atlas Agena D (5203A)  CC LC13   1970 Sep  1   
+CANYON 4     AFP-827 F4 (7504)  Atlas Agena D (5503A)  CC LC13   1971 Dec  4  
+CANYON 5     AFP-827 F5 (7505)  Atlas Agena D (5204A)  CC LC13   1972 Dec 20 
+CANYON 6     AFP-827 F6 (7506)  Atlas Agena D (5506A)  CC LC13   1975 Jun 18 
+CANYON 7     AFP-827 F7 (7507)  Atlas Agena D (5507A)  CC LC13   1977 May 23 
+
+(There is some confusion about the last launch; it is just possible
+that the 1977 May 23 launch is an AFP-472 Aquacade and that CANYON 7 was
+the launch of 1977 Dec 11, although photographs of the launch shroud
+tend to support the list given here).
+
+CANYON 4 was lost in a launch failure. There are several sources of
+data giving clues as to the operational profile of the other CANYON
+missions:
+
+ 1) Orbital data provided to the United Nations - this is patchy
+    and sometimes erroneous. (Note: at best, the UN data gives only 
+    orbit height and inclination, not a full TLE set which would
+    allow determination of the satellite's position).
+
+ 2) Orbital data published by the Royal Aircraft Establishment.
+
+ 3) Entries (without orbital data) in the Space Command satellite catalog.
+
+ 4) A comment in Aerospace Daily, 1969 Nov 6, cited in a letter by Geoff
+    Richards to Spaceflight (37.316) in 1995, indicated that
+    two Agenas "had performed the coast to geosynchronous orbit, where
+    they were providing power and attitude control to their payloads".
+   (I'd love a fax of the page from Aerospace Daily if anyone has it) 
+    
+
+ First let us review the UN data. CANYON 1,2,3, 5, and 6 are given
+consistent data:
+  ID                                       Period  Peri    Apo    Inc
+ 1968-63A                                  1436.0 31680 x 39862 x  9.9
+ 1969-36A                                  1436.0 32672 x 39251 x 10.2
+ 1970-69A                                  1441.9 31947 x 39855 x 10.3
+ 1972-101A                                 1440.4 31012 x 40728 x  9.7
+ 1975-55A                                  1422.0 30200 x 40800 x  9.0
+
+These distinctive orbits are near-geosynchronous but elliptical and inclined,
+and seem to be a fingerprint of the CANYON program (and possibly some of
+its successors). No geosynchronous orbit is given for CANYON 7:
+ 1977-38A            739.0 191 x 40980 x 27.1   
+is a plausible transfer orbit; around this time the US began the
+practice of only giving transfer orbit data for many classified satellites,
+even if the satellite was only in that orbit very briefly.
+However, in Nov 1984 an extra object was cataloged with this launch, 1977-38C:
+ 1977-38C         1440.0 34325 x 34500 x  0.3
+
+This is a bit worrying, since the orbit is much more circular and
+equatorial than the CANYON payloads - it makes me a bit concerned that
+1977-38 might not be a CANYON, but only a bit since my confidence in the
+UN data's reliability is low. My guess is that the cataloging of 38C may
+reflect an end-of-life event rather than improved sensors tracking an
+existing object, and so it may have been ejected around the time it was
+cataloged.
+
+The most interesting piece of data is the orbit given for 1975-55B, the
+Agena rocket stage for CANYON 6:
+ 1975-55B                                   1416.0 29700 x 40400 x 8.0
+This orbit is similar to the payload, but indicates some small
+maneuver to separate from it. What about the other Agena stages?
+
+The final stages for CANYON 1, 2 and 3 were never cataloged - until May
+2003! No orbital data were released, so all we can deduce from this is
+that in 2003 the Agenas from these launches were believed to be still in
+orbit and separate from their payloads. CANYON 5's Agena was cataloged
+at the time of launch and an orbit identical to the payload was given to
+the UN. Sometimes for classified launches the US gives the same orbit
+for each piece of a launch whether or not those individual pieces were
+ever in that orbit, so I don't think this is definitive proof that the
+CANYON 5 Agena was in a 1440 minute orbit - but it is strongly suggestive.
+CANYON 7's Agena is given the same transfer orbit as its payload. 
+
+The RAE gives 'Orbit similar to 1970-46B' (a RHYOLITE Agena in GTO) for
+1970-69B; clearly this is a guess and should be discounted. For
+1972-101B, they give a 200 x 33370 km x 28.12 deg orbit marked
+'approximate', probably also a guess. For 1975-55B they give the UN
+orbit but misidentify the launch as a Titan. For 1977-38 they give
+'approximate' orbits which may also be discounted. In general, it
+appears the RAE did not have access to any data beyond the UN filings.
+
+What can we conclude? I present three scenarios. In all cases, we can
+assume that the Agena performed an insertion burn to low parking
+orbit with an inclination of 28 degrees, followed by a second burn
+to geostationary transfer orbit and coast to geostationary altitude.
+
+Scenario 1: The Agena separated after the GTO burn and the payload
+ coasted separately to apogee, then used a solid kick motor (possibly
+ an Aerojet SVM-3, which is thought to have been used for a classified
+ program) to enter the operational orbit.
+
+ In favor of this scenario is that no other Agenas ever made an
+ apogee burn (although they are certainly capable of it); it's the
+ most obvious scenario in the absence of other data, and it's the
+ guess that the RAE made.
+
+ Against this scenario is the orbit given for 1975-55B, and the
+ comments in Aerospace Daily,
+
+Scenario 2: For the first three missions, the Agena made the apogee
+ burn and remained attached to the payload throughout its lifetime and thereafter.
+ For later missions, the payload gained weight and Scenario 1 was followed.
+
+ In favor of this scenario, the failure to catalog (until now) the
+ Agena rockets for the first three flights made it seem that they were 
+ different, and that there was no separate Agena. This would be a 
+ natural evolution from other contemporary classified Agena missions 
+ (e.g. MIDAS-RTS) in which the Agena provided a spacecraft bus for 
+ extended duration missions. This scenario seemed the most plausible
+ until the recent cataloging of the missing Agenas.
+ However, it is just possible that this is an administrative cataloging
+ in a misguided attempt to clean up the books, with no actual tracking
+ data and an unverified assumption by Space Command that the Agenas did
+ separate. Furthermore, identifying tracked objects as associated with 
+ a particular launch after a 30-year period is challenging. Therefore,
+ I now regard Scenario 2 as much less likely but not entirely ruled out.
+
+Scenario 3: The Agena made the apogee burn. For the first three missions,
+ it may have remained attached to the spacecraft during operational
+ lifetime to provide attitude control, while the spacecraft's own
+ 3-axis stabilization system was being debugged (This approach was used 
+ with some of the early KH-7 spy satellites) and then separated later
+ in the mission. Alternatively, the Aerospace Daily reference may just
+ mean that it provided power during the GTO coast, and separation
+ happened as soon as the final orbit was reached.
+ For later missions, the Agena separation happened
+ right after the apogee burn. The payload had small thrusters to
+ adjust the orbit after Agena separation. The Agenas are left in orbits
+ similar to the one given for 1975-55B.
+
+Scenario 3 seems to best fit the available data. Reviewing the data, it
+seems clear that there is no convincing evidence that any of the  CANYON
+Agenas remained in geostationary transfer orbit. I therefore conclude
+that the empty Agena D rocket stages from the CANYON launches are all
+separate satellites in orbits of 1410-1450 minute period with original
+inclinations of around 10 degrees, and typically 31000 x 40000 km x 10 deg.
+I therefore plan to add these Agenas to my catalog of orbits
+in the geosynchronous band.
+
+I welcome comments on this analysis, with extra credit for anyone who
+can identify what debris object 1977-38C might be.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  8 1128   GSAT-2            GSLV            Sriharikota      Comms       18A
+May  9 0429   Hayabusa          M-V             Kagoshima        Probe       19A
+May 13 2210   Hellas Sat 2      Atlas V 401     Canaveral SLC41  Comms       20A
+May 24 1634   Beidou            CZ-3A           Xichang          Navigation  21A
+Jun  2 1745   Mars Express      Soyuz-FG/Fregat Baykonur LC31    Probe       22A
+Jun  4 1923   Kosmos-2398       Kosmos-3M       Plesetsk         Navigation  23A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

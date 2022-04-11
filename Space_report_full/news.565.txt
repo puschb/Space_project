@@ -1,0 +1,145 @@
+Jonathan's Space Report
+No. 565                                              2006 Jun 17, Toronto
+-------------------------------------------------------------------------------
+
+Station
+-------
+
+The Expedition 13 crew made a spacewalk on Jun 1. Vinogradov wore
+spacesuit Orlan-M No. 25 and Williams wore Orlan-M No. 26. The  Pirs
+module was depressurized by 2226 UTC and the hatch was opened  at 2248
+UTC, with the astronauts outside by 2300 UTC. On the Zvezda module, the
+crew installed a vent valve for the Elektron oxygen system, cleared an
+obstruction on the WAL-2 antenna, and retrieved the Kromka and Biorisk
+experiments. On the station truss, they replaced a camera on the  Mobile
+Base System. The astronauts returned to Pirs at 0510 UTC, closed the
+hatch at 0519 UTC and repressurized the airlock at 0521 UTC, for a
+duration of 6h 55m (depress/repress) or 6h 31m (hatch open/close). There
+were two pieces of debris released during the spacewalk, a cleaning
+towel jettisoned by Vinogradov at 0136 UTC and an APFR adapter which
+came loose from the Strela boom at 0238 UTC. 
+
+Meanwhile, Space Shuttle orbiter 103 (Discovery) is on the launch
+pad at Kennedy Space Center being prepared for a July 1 launch
+on mission STS-121.
+
+GOES N
+------
+
+The GOES N (Goestationary Operational Environmental Satellite)
+weather satellite was launched on May 24 by a Boeing Delta 4M+(4,2)
+from Cape Canaveral. The spacecraft entered a 6656 x 35173 km x 12.0 deg
+transfer orbit. This was the fifth Delta 4 launch. By Jun 1,
+GOES N was in a 33570 x 35168 km x 0.3 deg orbit approaching the
+geosynchronous belt.
+
+The GOES satellites are operated by NOAA, the US weather bureau. GOES N
+carries weather imager and sounder instruments, a space environment
+monitor, and a soft X-ray solar imaging telescope. Mass is 1543 kg
+empty, 3209 kg fuelled; the bus is based on the Boeing 601 and uses the
+R-4D liquid apogee engine. It joins GOES 10 (operating as GOES-WEST),
+GOES 12 (operating as GOES-EAST) and GOES 11 (standby, will replace
+GOES-10 on Jun 27). GOES N will become GOES 13 when it becomes
+operational.
+
+KOMPAS-2
+----------
+
+COMPASS-2 (KOMPAS-2),  an earthquake research satellite for the
+Moscow-based IZMIRAN science institute, was launched on May 26 into a
+399 x 494 km x 78.9 deg orbit. It marked the second launch into orbit
+from a submarine. The 80 kg satellite carries detectors for electrons,
+UHF/VHF waves, UV emission and radiation, a radio frequency analyser for
+electric field waves, and a Mayak ionospheric beacon. The satellite was
+developed by the Makeev KB.
+
+The launch platform was the submarine K-84 'Ekaterinburg' in the Barents
+Sea.  Initially the payload was tracked in  the US as object 2006-19C,
+with 19A is probably the nose cone/third stage, which is the largest
+object in orbit, and 19B the conical payload capsule. On Jun 2 the 19A
+and 19C assignments were changed.
+
+
+The Shtil' rocket, based on the R-29RM missile, has an unusual launch
+profile. After its undersea launch, the first two stages burn and
+separate. The third stage is integrated with the nose cone and the
+post-boost low thrust targeting engine. In the military version, several
+conical reentry vehicles hang pointing backwards from the nose cone. For
+Shtil', one of these reentry vehicles is used, containing the payload
+instead of a nuclear warhead. After third stage burn, the heavy stage 3
+rocket engine is ejected onto a mildly suborbital trajectory (about
+-1500 x 400 km) and hits the Pacific Ocean about 23 minutes after
+launch. The rest of the third stage remains with the nose cone, which
+uses its post-boost engine to increase velocity by around 700 m/s  and
+place itself in orbit. The payload capsule then separates, and itself
+ejects the payload. For the earlier TUBSAT launch the base of the
+conical payload capsule was ejected as a separate object, but for Kompas
+this may remain attached to the satellite.
+
+Reports indicate that the Kompas-2 satellite is not responding
+to ground commands and that its mission will be abandoned.
+COMPASS stands for Complex Orbital Magneto-Plasma Autonomous Small Satellite;
+in Russian it's referred to as Kompas.
+
+Ariane L529
+-----------
+
+Arianespace launched Flight V171 on May 27 with rocket L529, a
+heavy-life Ariane 5ECA model. The payloads were Satmex 6 for Satelites
+Mexicanos SA de CV, and Shin Satellite's Thaicom 5. Satmex 6 is a Loral
+1300X satellite with a mass of 2310 kg (5456 kg when fuelled) and a
+hybrid C-band and Ku-band telecom payload for telecom and internet
+service in Mexico and the rest of North and Latin America. Thaicom 5 is
+an Alcatel Alenia Space Spacebus 3000A with a mass of 1220 kg (2766 kg
+when fully fuelled) for C/Ku-band telecom and TV transmission in the
+Asia-Pacific Region. It will replace Thaicom 3. The satellites were
+delivered to a 251 x 35688 km x 7.0 deg geostationary transfer orbit.
+
+Resurs-DK
+---------
+
+Russia launched the Resurs-DK civilian remote sensing satellite by
+Soyuz-U on Jun 15 into a 70-degree low Earth orbit.  Resurs-DK No. 1
+carries a one-meter-resolution-class imager and relays its data to the
+ground via a digital link. It is based on the Terilen/Neman class
+reconnaissance satellite in use since the 1980s, using the Yantar'
+satellite bus. Resurs-DK was built by the TsSKB-Progress company in
+Samara, which also designed and produced the original Yantar' satellites
+-  although some more recent Yantar' military production models are the
+responsibility of the Arsenal factory in Sankt-Peterburg.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Apr 12 2330   JCSAT-9           Zenit-3SL       Odyssey, POR     Comms       10A
+Apr 15 0140   Formosat-3 FM1 )  Minotaur        Vandenberg SLC8  Science     11A
+              Formosat-3 FM2 )                                   Science     11B
+              Formosat-3 FM3 )                                   Science     11C
+              Formosat-3 FM4 )                                   Science     11D
+              Formosat-3 FM5 )                                   Science     11E
+              Formosat-3 FM6 )                                   Science     11F
+Apr 20 2027   Astra 1KR         Atlas V 411     Canaveral SLC41  Comms       12A
+Apr 24 1603   Progress M-56     Soyuz-U         Baykonur LC1     Cargo       13A
+Apr 25 1647   EROS B            Start-1         Svobodniy        Imaging     14A
+Apr 26 2248   Yaogan 1          CZ-4B           Taiyuan          Imaging?    15A
+Apr 28 1002   Cloudsat )        Delta 7420      Vandenberg SLC2W Rem.Sensing 16
+              Calipso  )                                         Rem.Sensing 16
+May  3 1738   Kosmos-2420       Soyuz-U         Plesetsk LC16    Imaging     17A
+May 24 2211   GOES N            Delta 4M+(4,2)  Canaveral SLC37B Weather     18A
+May 26 1850   Kompas-2          Shtil'          K-84, Barents    Science     19A
+May 27 2109   Satmex 6  )       Ariane 5ECA     Kourou ELA3      Comms       20A
+              Thaicom 5 )                                        Comms       20B
+Jun 15 0800   Resurs-DK No. 1   Soyuz-U         Baykonur LC1     Imaging     21A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

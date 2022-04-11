@@ -1,0 +1,143 @@
+Jonathan's Space Report
+No. 566                                       2006 Jun 26, Somerville, MA
+-------------------------------------------------------------------------------
+
+Station
+-------
+
+The Progress M-55 cargo ship undocked from the Pirs module at 1406 UTC
+on Jun 19. It fired its engines at 1706 UTC to lower its orbit into
+the atmosphere, and reentered at 1741 UTC over the Pacific.
+
+Progress M-56 remains docked at the Zvezda module, with Soyuz TMA-8
+docked at Zarya.
+
+Progress M-57 was launched from Baykonur on Jun 24. With the spacecraft factory 
+number 7K-TGM No. 357, the Progress M-57 is flying Space Station mission 22P
+to deliver cargo to the ISS. (NASA sloppily refers to it as "Progress 22",
+but this isn't a designation the Russians use.) M-57 docked at the Pirs
+port freed up by M-55 at 1625 UTC on Jun 26.
+
+On Jun 22, the Space Station was in a 335 x 349 km x 51.6 deg orbit.
+
+MITEX
+-----
+
+A secret US DARPA (Defense Advanced Research Projects Agency) mission was
+launched by a Boeing Delta 7925 on Jun 21. The Delta entered a 167 x 248
+km x 28.4 deg parking orbit; the second stage's second burn raised this
+to 170 x 2213 km x 27.9 deg. The spinning PAM-D third stage, with its
+ATK Star 48 solid motor, fired to reach a (planned) 185 x 36221 km x
+25.2 deg orbit. After a five-minute wait to allow residual exhaust to
+die down, the stage released two despin weights to take away angular
+momentum and then separated from the MITEX payload.
+
+MITEX, the Microsatellite Technology Experiment project, consists of
+three spacecraft. Two of them are small 250-kg-class satellites, one
+built by Orbital Sciences (OSC) and the other by Lockheed Martin (LM).
+The third is an advanced liquid propellant upper stage developed by the
+Naval Research Lab (NRL). The NRL stage has a 400-N thruster and,
+unusually, solar panels, allowing the stage to operate for an extended
+time and deliver multiple payloads to different orbits. On this mission,
+the NRL stage will deliver the OSC and LM satellites to geostationary
+orbit, where they will carry out a number of maneuvers. Observers
+speculate that the small satellites are prototypes for inspector
+spacecraft which could rendezvous with and take closeup images of other
+geostationary satellites. The NRL stage may have some heritage from the
+TLD (Titan Launch Dispenser) stage used to deploy low-orbit  Navy
+surveillance satellites in the 1990s. The USAF IABS (Integral Apogee
+Boost System) apogee stage used for DSCS satellites in the 1990s also
+had solar panels, but it's an unusual approach for geostationary
+satellite delivery - most geo satellites use internal propulsion systems
+rather than an external stage for orbit changes after the first few
+hours of flight.
+
+The three satellites have been given the cover names USA 187, 188 and 189.
+It's not known which number applies to which payload, although I'm guessing
+that USA 189 is the NRL stage.
+
+KazSat
+------
+
+Kazakhstan's first satellite is in orbit. Kazakhstan purchased the
+KazSat satellite from the Russian space company Krunichev, which also
+launched it using its Proton-K rocket from the Russian-operated Baykonur
+launch site in Kazakhstan. At 2253 UTC on Jun 17  the Proton-K put
+KazSat in low orbit attached to an Energiya Blok-DM3 upper stage. The DM
+fired at 2358 UTC into geostationary transfer orbit, and then again at
+apogee (0509 UTC Jun 18)  to deliver KazSat into geostationary orbit.
+According to tsenki.com the mass of KazSat is 1725 kg although some
+other sources quote a lower mass. KazSat was drifting in a 35384 x 35781
+km x 0.0 deg orbit over 102E as of Jun 22.
+
+Galaxy 16
+---------
+
+Panamsat's Galaxy 16 communications satellite was launched by a Sea
+Launch Zenit-3SL on Jun 18. The Loral LS-1300 satellite has a launch
+mass of 4640 kg and carries C and Ku band transponders. By Jun 22
+Galaxy 16's initial orbit of 2272 x 35647 km x 0.1 deg had been
+raised to 33579 x 35617 km x 0.2 deg, approaching the geostationary
+region.
+
+
+Resurs-DK
+---------
+
+Russia's new civilian imaging satelite has begun operations with its
+Geoton-1 camera payload. Resurs-DK's initial orbit was 193 x 339 km x
+70.0 deg. On Jun 18 the orbit was raised to 355 x 585 km x 69.9 deg;
+this operational orbit has a much higher perigee than the military
+Yantar'-class satellites on which Resurs-DK is based.
+
+Kosmos-2421
+-----------
+
+A Russian Navy US-PU satellite for ocean electronic surveillance
+was launched from Baykonur on Jun 25 and codenamed Kosmos-2421.
+The Tsiklon-2 rocket put it in an approximately 100 x 400 km transfer
+orbit, and the US-PU onboard engine performed the insertion burn
+to a 405 x 415 km x 65.0 deg operational orbit.
+
+
+GOES N
+------
+
+NOAA renamed the GOES N weather satellite  as GOES 13 on Jun 4. The
+satellite has now been transferred from Boeing to the GOES control
+center at NOAA-Suitland, where it will be tested by NASA for several
+months before NOAA takes over regular operations. (Traditionally, NOAA
+satellites are given a letter before launch and a number after they
+reach operational status. NASA used to use a similar scheme).
+On Jun 21, GOES 13 was in a 35780 x 35790 km x 0.5 deg orbit
+over 89.4W.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+May  3 1738   Kosmos-2420       Soyuz-U         Plesetsk LC16    Imaging     17A
+May 24 2211   GOES 13           Delta 4M+(4,2)  Canaveral SLC37B Weather     18A
+May 26 1850   Kompas-2          Shtil'          K-84, Barents    Science     19A
+May 27 2109   Satmex 6  )       Ariane 5ECA     Kourou ELA3      Comms       20A
+              Thaicom 5 )                                        Comms       20B
+Jun 15 0800   Resurs-DK No. 1   Soyuz-U         Baykonur LC1     Imaging     21A
+Jun 17 2244   KazSat            Proton-K/DM3    Baykonur LC200/39 Comms      22A
+Jun 18 0750   Galaxy 16         Zenit-3SL       Odyssey, POR     Comms       23A
+Jun 21 2215   USA 187 )         Delta 7925      Canaveral SLC17A Tech        24A
+              USA 188 )                                          Tech        24B
+              USA 189 )                                          Tech        24B
+Jun 24 1508   Progress M-57     Soyuz-U         Baykonur LC1     Cargo       25A
+Jun 25 0400   Kosmos-2421       Tsiklon-2       Baykonur LC90?   Sigint      26A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

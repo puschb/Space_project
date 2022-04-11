@@ -1,0 +1,274 @@
+Jonathan's Space Report 
+No. 752                                                         2018 Aug 17  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 56 continues with astronauts Feustel, Artem'ev, Arnold, Prokop'ev,
+Aunon-Chancellor and Gerst.
+
+The Cygnus OA-9 cargo ship was deorbited over the South Pacific on Jul 30.
+
+The Dragon CRS-15 cargo ship was unberthed by Canadarm-2 at 1437 UTC Aug
+3 and released  at 1638 UTC. After a deorbit burn at 2123 UTC it
+jettisoned the trunk (with the HREP package) and reentered, splashing
+down near 119 W 28 N at about 2217 UTC. Aboard CRS-15, the old
+Canadarm-2 LEE S/N 202 was returned to Earth for refurbishment.
+
+On Aug 10 the JEM-RMS robot arm extracted the J-SSOD-9 deployer from the
+Kibo airlock. J-SSOD-9, delivered on CRS-15, ejected three 1U cubesats
+for Bhutan, the Phillipines and Malaysia.
+
+Spacewalk VKD-45 was carried out on Aug 15. Astronauts Artem'ev and
+Prokop'ev, using spacesuits Orlan-MKS No. 5 and No. 4, depressurized the
+Pirs airlock at 1552 UTC. Prokop'ev hand-deployed four cubesats - two
+for the Southwest State University (YuZGU) of Kursk carried to ISS on
+Progress MS-08, and two for the Sirius Educational Center of Sochi
+carried up on Progress MS-09. The spacewalkers then installed the ICARUS
+antenna for Germany's DLR on the Zvezda module exterior. The antenna was
+carried to ISS on Progress MS-08. ICARUS will relay data from trackers
+attached to migrating birds. At 2300 UTC the crew jettisoned two small
+decontamination towels and then retrieved two TEST exposure cassettes.
+They returned to Pirs, repressurizing the airlock at 0008 UTC Aug 16.
+
+Beidou
+------
+
+On Jul 29 China launched another pair of Beidou 3rd generation medium
+orbit navigation satellites, Beidou DW 33 and 34, also known as Beidou-3
+MEO-5 and MEO-6. The satellites were developed by CAST/Beijing.
+
+Merah Putih
+------------
+
+Telkom Indonesia's Telkom 4 satellite, also named Merah Putih, was launched on
+Aug 7 by Falcon 9. The C-band communications satellite was built by Maxar SSL.
+The Falcon 9 used the Block 5 first stage to make a second flight, S/N B1046.
+It landed successfully on the OCSILY drone ship. Launched to a subsynchronous
+transfer orbit of 182 x 29740 km x 27.0 deg, Merah Putih reached a geostationary
+drift orbit over the eastern Indian Ocean on Aug 14.
+
+Parker Solar Probe
+-------------------
+
+The Solar Probe Plus mission, named in honour of solar wind discoverer
+Gene Parker, was launched on Aug 12 by a ULA Delta 4 Heavy with an
+additional Northrop Grumman-developed third stage using a Star 48BV
+solid motor. This was flight Delta 380.
+
+The Delta 4 Heavy's second stage entered a 170 x 180 km x 28 deg parking
+orbit at 0741 UTC and coasted to the equator where at 0753 UTC the stage
+reignited. The slightly yawed burn changed orbit inclination to 33.0
+degrees and accelerated the vehicle to 13.2 km/s (geocentric inertial).
+The third stage/payload stack then separated from the second stage.
+After venting excess propellant, the second stage continued on a
+hyperbolic trajectory of about 307 x -26350 km x 33.0 deg, with C3= 59.9
+km**2/s**2, leaving the Earth's gravitational sphere of influence on Aug
+14 to enter a roughly 0.37 x 1.0 AU solar orbit. Meanwhile, one minute
+after separation, at 0808 UTC Aug 12, the third stage ignited for an 89
+second burn and accelerated to a blistering 16.0 km/s (geocentric) At
+0814 UTC the third stage separated from Parker Solar Probe, with both on
+a 615 x -18608 km x 33.0 deg hyperbola with C3=152.2 km**2/s**2. Both
+objects left the Earth's Hill sphere at 1731 UTC Aug 13, entering a 0.21
+x 1.01 AU x 5.6 deg solar orbit.
+
+Based on current trajectory data available on JPL Horizons, Parker will
+enter Venus' Hill sphere at about 2103 UTC Oct 2 and fly 8415 km above
+Venus' surface at 0912 UTC Oct 3. The encounter will change its solar orbit
+to 0.18 x 0.96 AU x 4.9 deg, leading to Parker's first perihelion at 38 solar radii
+on Nov 6. Future Venus flybys over the next 6 years will reduce the perihelion
+to only 0.05 AU (10 solar radii).
+
+Parker Solar Probe has a mass of 685 kg - including 80 kg of hydrazine propellant -
+and carries the WISPR wide field imager,
+the ISIS particle detector suite, the FIELDS experiment to measure electric and
+magnetic fields, and the SWEAP instrument for in situ measurements of the solar
+wind. It cowers behind a 73 kg, 2.4m wide carbon-carbon heatshield; at the
+end of its mission, when propellant has run out and the heatshield can't be
+pointed at the Sun any longer, the rest of the probe will burn and melt, presumably
+leaving the heatshield to orbit the Sun on its own.
+
+Parker Solar Probe will be, in a certain sense, the `fastest artificial
+object ever'. It's not very helpful to measure speeds of solar orbiting
+objects relative to Earth; as both the object and Earth circle the sun
+the Earth's own speed adds plus or minus 30 km/s to the relative speed.
+It's better to cite the speeds relative to the Sun; See JSR 728 for more
+details. The existing speed record (both geocentric and heliocentric)
+was set by the German/US space probe Helios 2; the heliocentric record
+is 68.6 km/s, set on 1976 Apr 16. Parker will break this record on Oct
+30. I haven't calculated when it will break the geocentric record, but
+it will also be fairly soon.
+
+
+Kosmos-2519/2521/2523 - the story in excessive detail
+------------------------------------------------------
+
+The US State Dept. has referred to a Russian satellite `deployed ... in October [2017]' displaying
+'very abnormal behaviour' and 'troubling', although they failed to identify the satellite
+or say exactly what was abnormal and troubling. The comment appears to refer to the Kosmos-2519/2521/2523
+mission and the Kosmos-2523 payload in particular. This system is certainly puzzling and even
+unusual, but `abnormal' seems a bit strong as the US has flown its own classified satellites
+which have performed unexplained orbit changes, proximity operations and subsatellite deployments.
+It seems a good time, however, to review the mission.
+
+Kosmos-2519 was launched aboard a Soyuz-2-1v rocket from Plesetsk on 2017 Jun 23
+and placed in a 654 x 669 km x 98.1 deg sun-synchronous orbit with 09:54 local time descending node.
+The Volga upper stage was deorbited the following day. A Soyuz Blok-I stage was left in a
+284 x 650 km transfer orbit.
+
+On Jul 27 at 1200 UTC, Aug 1 at 1215 UTC and Aug 3 at about 0800 UTC Kosmos-2519 performed
+small (0.5 m/s each) orbit changes to lower its orbit to 649 x 669 km.
+
+On Aug 23 at about 0640 UTC a subsatellite, Kosmos-2521, separated from Kosmos-2519 at a relative
+speed of about 0.5 m/s. The subsatellite was described by Russia at that time as a `satellite-inspector'.
+Kosmos-2521 and 2519 carried out a series of exercises involving orbital changes and mutual flybys.
+
+Exercise 1:  Distant flyby
+ Kosmos-2521 drifted away from its parent over the next few days to a maximum range of about 300 km
+ and then made orbit adjustments to reverse the drift (on Aug 27 and Sep 4). By Oct 11,
+ it had reapproached Kosmos-2519 within about 10 km. Another manuever caused it to retreat to about 50 km.
+
+Exercise 2: Close flyby and distant stationkeeping
+  Further rendezvous burns by Kosmos-2521 returned it to the 10 km point by Oct 15, with approach within
+  2 km of Kosmos-2519 by Oct 18. It remained within 15 km of Kosmos-2519 until Oct 31, 
+  with both in a 650 x 667 km orbit.
+
+Exercise 3: Deploy subsatellite
+ On Oct 30 at 0352 UTC a further subsatellite, Kosmos-2523, departed
+ Kosmos-2521 with a relative velocity of 27 m/s into a lower-perigee 554
+ x 664 km orbit. As of Aug 2018 Kosmos-2523 has made no orbit maneuvers
+ since its initial deployment. The three satellites (2519, 2521 and 2523)
+ were registered with the UN by Russia in orbits of 651 x 683, 656 x 688,
+ and 656 x 687 km respectively, making it hard to be sure which name
+ refers to the lower-perigee object.
+
+ Following the deployment of Kosmos-2523, Kosmos-2519 and Kosmos-2521 began to drift apart.
+
+Exercise 4: Close flyby by K2519
+ On Dec 14 at 0900 UTC Kosmos-2519, at a range of 1000 km from Kosmos-2521, manuevered
+ to begin an approach. At 1340 UTC on Dec 15 Kosmos-2519 flew past Kosmos-2521 at a range of 
+ less than 7 km and a relative speed of 35 km/hr. By Dec 19 the satellites were several thousand
+ km apart again.
+
+Exercise 5: Close flyby by K2519
+ Without further orbital manuevers 2519 lapped 2521 again on 2018 Feb 3 at 0700,
+ passing around 10 km away at about 35 km/hr again.
+
+Exercise 6: Slow flyby 
+  On 2018 Feb 14 at 0407 UTC it was Kosmos-2521's turn to maneuver, with a 9 m/s burn lowering
+  its orbit to 618 x 664 km to begin a rendezvous with Kosmos-2519. The two satellites passed
+  each other slowly at a range of about 30 km on Feb 20.
+
+Exercise 7: Slow flyby 
+  By Feb 27 range was 380 km; reapproach burns led to a slow flyby at
+  a range of less than 1 km from around 0730 to 1230 UTC Mar 1. 
+
+Exercise 8: Slow flyby 
+  Kosmos-2521 then retreated to 80 km range on Mar 6, and resumed approach to carry out another
+  1 km-class flyby on Mar 7 around 0700 UTC. 
+
+Exercise 9: Slow flyby
+  Again, Kosmos-2521 retreated to 550 km range on Mar 16, and resumed approach to carry out another
+  slow flyby on Mar 21 around 2345 UTC, then drifted further to 24 km range by Mar 26.
+
+Exercise 10: Rendezvous
+ On Mar 26, Kosmos-2521 returned to Kosmos-2519 and began a new phase of stationkeeping within 1 km,
+ remaining near the parent satellite until Apr 30.
+
+Exercise 11: Kosmos-2521 move to low orbit
+ Following the rendezvous, on Apr 30 it lowered its orbit in two large burns from 664 x 660 km to 350 x 369 km.
+ During May and June the satellites remained in their now-different orbits without further activity.
+
+Exercise 12: Kosmos-2519 move to elliptical orbit
+ Then,from Jun 27 to Jul 19, Kosmos-2519 made a series of smaller burns to change its orbit
+ from 644 x 659 km to 312 x 606 km and then up to 317 x 664 km. 
+
+Exercise 13: Kosmos-2521 second orbit lowering
+ The day after the final Kosmos-2519 burn, Kosmos-2521 lowered its orbit even further, to 292 x 348 km.
+ The timing of this change is clearly not coincidental, but as far as I can tell the two vehicles
+ did not make any close approaches during this period.
+
+There has been no further orbit change activity since Jul 20.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Jul  9 0356   PRSS-1    )             Chang Zheng 2C/SMA Jiuquan         Imaging      56B   S43530   593 x   637 x 98.1
+              PakTes-1a )                                                Imaging      56A   S43529   658 x   669 x 98.1
+Jul  9 2058   Beidou DW32             Chang Zheng 3A    Xichang          Navigation   57A   S43539   198 x 35778 x 55.1
+Jul  9 2151   Progress MS-09          Soyuz-2-1A        Baykonur LC31    Cargo        58A   S43537   402 x   408 x 51.6
+Jul 13 0805   RainCube )                                ISS, LEO         Tech       9867NU? S43546   399 x   407 x 51.6 
+              HaloSat  )                                                 Astron     9867NV? S43547   399 x   407 x 51.6 
+Jul 13 0905   Radix                                     ISS, LEO         Tech       9867NW? S43548   399 x   407 x 51.6 
+Jul 13 1235   TEMPEST-D )                               ISS, LEO         Sci        9867NX? S43549   399 x   407 x 51.6 
+              CubeRRT   )                                                Tech       9867NY? S43550   399 x   407 x 51.6 
+Jul 13 1420   RadSat-g      )                           ISS, LEO         Tech       9867NZ? S43551   399 x   407 x 51.6 
+              Equisat       )                                            Tech       9867PA? S43552   399 x   407 x 51.6 
+              MemSat        )                                            Tech       9867PB? S43553   399 x   407 x 51.6 
+              Endurosat One )                                            Comms      9867PC? S43554   399 x   407 x 51.6 
+Jul 16?       Lemur-2-TomHenderson )                    OA-9, LEO        Com/Met      46C   S43556   477 x   489 x 51.6
+              Lemur-2-Yuasa        )                                     Com/Met      46D   S43557   477 x   489 x 51.6
+Jul 16?       Lemur-2-Alexander    )                    OA-9, LEO        Com/Met      46E   S43558   477 x   489 x 51.6
+              Lemur-2-Vu           )                                     Com/Met      46F   S43559   477 x   489 x 51.6
+Jul 16?       Aerocube-12A         )                    OA-9, LEO        Tech         46G   S43560   477 x   489 x 51.6
+              Aerocube-12B         )                                     Tech         46H   S43561   477 x   489 x 51.6
+Jul 22 0550   Telstar 19V             Falcon 9 FT       Canaveral SLC40  Comms        59A   S43562   243 x 17862 x 27.0
+Jul 25 1125   GalileoSat-23 )         Ariane 5ES        Kourou ELA3      Navigation   60A   S43564 22896 x 22929 x 56.3
+              GalileoSat-24 )                                            Navigation   60B   S43565 22902 x 22918 x 56.3
+              GalileoSat-25 )                                            Navigation   60C   S43566 22908 x 22948 x 56.2
+              GalileoSat-26 )                                            Navigation   60D   S43567 22899 x 22925 x 56.3
+Jul 25 1139   Iridium SV154           Falcon 9 FT       Vandenberg SLC4E Comms        61F   S43574   608 x   623 x 86.7
+              Iridium SV155                                              Comms        61E   S43573   608 x   623 x 86.7
+              Iridium SV156                                              Comms        61H   S43576   608 x   623 x 86.7
+              Iridium SV158                                              Comms        61C   S43571   607 x   623 x 86.7
+              Iridium SV159                                              Comms        61K   S43578   608 x   623 x 86.7
+              Iridium SV160                                              Comms        61A   S43569   607 x   623 x 86.7
+              Iridium SV163                                              Comms        61G   S43575   607 x   623 x 86.7
+              Iridium SV164                                              Comms        61J   S43577   607 x   623 x 86.7
+              Iridium SV165                                              Comms        61D   S43572   607 x   623 x 86.7
+              Iridium SV166                                              Comms        61B   S43570   608 x   623 x 86.7
+Jul 29 0140   Beidou DW33 )           Chang Zheng 3B/YZ1 Xichang LC3     Navigation   62A   S43581 21530 x 21897 x 55.0
+              Beidou DW34 )                                              Navigation   62B   S43582 21520 x 22194 x 55.0
+Jul 31 0300   Gao Fen 11              Chang Zheng 4B    Taiyuan LC9      Imaging      63A   S43585   247 x   693 x 97.4
+Aug  7 0518   Merah Putih             Falcon 9 FT       Canaveral SLC40  Comms        64A   S43587   182 x 29470 x 27.0
+Aug 10 0945   Bhutan-1  )                            ISS, LEO            Tech      9867PC   S43589?  398 x   409 x 51.6
+              UiTMSAT-1 )                                                Tech      9867PD   S43590?  398 x   409 x 51.6
+              Maya-1    )                                                Tech      9867PE   S43591?  398 x   409 x 51.6
+Aug 12 0731   Parker Solar Probe      Delta 4H/Star48BV Canaveral SLC37B Astron       65A   S43592   617 x-18602 x 33.0
+Aug 15 1643   Tanyusha-YuZGU-3                       ISS, LEO            Tech      9867PF   S43595?  402 x   406 x 51.6
+Aug 15 1645   Tanyusha-YuZGU-4                       ISS, LEO            Tech      9867PG   S43596?  401 x   408 x 51.6
+Aug 15 1651   SiriusSat-1                            ISS, LEO            Tech      9867PH   S43597?  402 x   407 x 51.6
+Aug 15 1656   SiriusSat-2                            ISS, LEO            Tech      9867PJ   S43598?  401 x   408 x 51.6
+
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The suborbital launches table includes known flights above 80 km.
+
+Astra Space launched a suborbital test vehicle, Rocket 1, from Kodiak spaceport in Alaska at 2200 UTC Jul 20.
+However, the vehicle reportedly had a malfunction, and is presumed not to have reached space.
+The Jul 31 Minuteman launch was destroyed 4 min after launch, by which time it would have been several
+hundred km high.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jul 18 1511   New Shepard CC2.0 New Shepard        West Texas            Abort test    119       West Texas
+Jul 23 0600   MICRO-X           Black Brant 9      White Sands           XR Astron     270       White Sands      
+Jul 31 1138   GT225GM           Minuteman 3        Vandenberg            Test          200?      Destroyed, fell in Pacific
+Aug 14 1013   Rocksat-X 8       Terrier Imp.Mal.   Wallops Island        Education     158       Atlantic Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

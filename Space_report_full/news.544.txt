@@ -1,0 +1,141 @@
+Jonathan's Space Report
+No. 544                                   2005 Feb 12, Somerville, MA
+-------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+Expedition 10 astronauts Chiao and Sharipov made a spacewalk from the
+Pirs module on Jan 26. Hatch open was at 0741 UTC, hatch close at 1311
+UTC.  The airlock reached 50 mbar pressure at 0725 UTC and was
+repressurized at 1313 UTC for a depressurized duration of 5h48m. Chiao
+used spacesuit Orlan-M No. 25 and Sharipov used suit Orlan-M No. 27.
+They installed the German 'Rokviss' robot arm on the Zvezda module,
+deployed an experiment package, and discovered contaminating residue on
+the vents from the Elektron oxygen generators. During the installation
+of cabling between Rokviss and its antenna, between 0817 and 1057 UTC, a
+total of at least 12 (and possibly 20) plastic and steel connector caps
+were jettisoned into space; these were apparently not tracked by Space
+Command. Thanks as usual to Andrey Krasil'nikov for all these EVA
+details.
+
+Orlan-M No. 25 was launched on Progress M1-11  and used by Gennadiy
+Padalka on the Expedition 9 spacewalks. Orlan-M No. 27 was launched on
+Progress M-49 and was used for the first time on this spacewalk.
+
+Ariane 5ECA
+-----------
+
+Arianespace, CNES and ESA launched the second Ariane 5ECA, vehicle 521,
+from Kourou on Feb 12 at 2103 UTC. Flight V164 was the first 5ECA to reach orbit,
+following the loss of vehicle 517 on flight V157 in 2002 during 
+the burn of the first stage Vulcain 2 engine. This time the Vulcain 2
+performed well, and the EPC core stage entered a -1419 x 212 km x 7.3 deg
+suborbital path, falling in the Gulf of Guinea at 2120 UTC.
+The upper stage ESC-A, which didn't get a chance to perform on the
+previous flight, added another 2.6 km/s of speed to put the
+payload in geostationary transfer orbit (At this writing, orbital
+parameters had not been confirmed).
+
+The main payload is XTAR-EUR, an X-band military communications
+satellite opwnd by Hisdesat/XTAR of Spain and built by Loral. XTAR-EUR
+is an SS/L 1300 satellite with a mass of 1412 kg as well as 2219 kg of
+propellant.
+
+Below XTAR-EUR in the fairing was Maqsat-B2, a test satellite built by
+Kayser-Threde to study the Ariane 5ECA launch environment. Maqsat-B2
+remained attached to the upper stage but ejected the small 127 kg
+SLOSHSAT-FLEVO test satellite, which will study the sloshing of fluids
+on orbit. SLOSHSAT, developed by the Netherlands Aerospace Lab (NLR),
+has a tank with 33.5 liters of water and an attitude control system.
+
+Kosmos-2410
+-----------
+
+The test flight of the improved Kobal't spy satellite came to an end
+after 107 days, about half its expected lifetime. The main recovery
+vehicle was deorbited from its  183 x 288 km x 67.1 deg orbit around
+0700 UTC on Jan 9 and is presumed to have landed in Russia around 0720
+UTC, but has not been found by Russian forces. Two objects were ejected
+from the satellite on Jan 8 into low orbits and reentered within a day;
+I speculate that they may have been unused small film recovery capsules,
+two of which were carried on earlier Kobal't models.
+
+
+Kosmos-2414
+-----------
+
+In the last JSR I mentioned that the Kosmos-2414 orbit was a little
+lower than the normal Parus navsat orbit. Information from OHB System 
+confirms that the Kosmos-3M rocket performed nominally. The  target
+orbit was lower than usual because of the heavy SAR-Lupe fairing and the
+secondary payload.
+
+AMC-12
+------
+
+The Americom 12 satellite, also known as Worldsat 2, was launched 
+on Feb 3 from Baykonur into geostationary transfer orbit.
+The launch used a Proton-M rocket with a Briz-M upper stage.
+AMC-12 is the first Alcatel Spacebus 4000 satellite to be launched;
+the SB 4000 is a larger version of the SB 3000, with a launch
+mass around 5000 kg.
+
+Meanwhile, some astronomers got a nice picture of the launch on Dec 17
+of AMC-16, showing the unexpectedly bright fuel dump from the Centaur
+AV-005 stage, at http://antwrp.gsfc.nasa.gov/apod/ap050208.html.
+
+USA 181
+-------
+
+The last Atlas launch took place on Feb 3 from Cape Canaveral
+with two classified National Reconnaissance Office payloads.
+Flight AC-206 used an Atlas IIIB with a single-engine Centaur IIIB;
+amateur observers are tracking the two payloads in a 1011 x 1209 km
+x 63.4 deg orbit; the Centaur fuel dump left it in a 993 x 1205 km
+x 63.7 deg orbit. The two USA 181 payloads are thought to be US Navy
+signals intelligence satellites using radio interferometry to
+locate ships via their radio signals.
+
+There were 587 Atlas launches beginning with the Atlas 4A missile test
+in Jun 1957. The 3-meter Atlas, with its thin, pressure-stabilized,
+balloon tank, used a discardable 'stage-and-a-half' booster engine
+package except for the six Russian-engined Atlas III flights between
+2000 and 2005. The new Atlas V rocket uses a 3.8-meter diameter 
+first stage with a structurally rigid tank and is an essentially
+different design from the traditional Atlas.
+
+Semi-Erratum: 
+------------
+
+Steve Pietrobon points out that Messenger and DI were
+originally Discovery-8 and Discovery-7 respectively, not the other way
+around. I'm not sure if NASA management is still tracking them
+internally with these designations.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Jan 12 1847   Deep Impact       Delta 7925      Canaveral SLC17B Comet probe 01A
+Jan 20 0300   Kosmos-2414     ) Kosmos-3M       Plesetsk PL132/1 Navigation  02A
+              Universitetskiy )                                   Tech       02C
+Feb  3 0227   AMC 12            Proton-M/Briz-M Baykonur PL81/24 Comms       03A
+Feb  3 0741   USA 181       )   Atlas 3B        Canaveral SLC36B Sigint      04A
+              USA 181 P/L 2 )                                                04C
+Feb 12 2103   XTAR-EUR  )       Ariane 5ECA     Kourou ELA3      Comms       05
+              Maqsat-B2 )                                        Tech        05
+              SLOSHSAT  )                                        Tech        05
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

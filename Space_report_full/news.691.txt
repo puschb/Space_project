@@ -1,0 +1,319 @@
+Jonathan's Space Report
+No. 691                                                      2013 Dec 15, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+Chang'e-3
+---------
+
+Chang'e-3 was in lunar polar orbit from Dec 6 to Dec 14.  On Dec 10 at
+1320 UTC the orbit was lowered from 100 x 100 to 15 x 100 km. At 1259:52
+UTC Dec 14, near perilune, the descent engine was turned on to
+decelerate the probe and fly it down to the surface. Chang'e-3 touched
+down at 1311:18 UTC Dec 14, at 19.51W 44.12N, about 43 km south of
+crater Laplace F in the Mare Imbrium. This was the first lunar soft
+landing since the USSR's Luna-24 in 1976.
+
+Note: The original planned landing site was in Sinus Iridum (Bay of Rainbows) but
+the Chinese decided to land one orbit early, with the probe flying a little
+further east over Mare Imbrium (Sea of Rains). Unfortunately many of the media
+reports appear to have missed that memo...
+
+At 2035 UTC on Dec 14 the `Yutu hao' (`rabbit') rover drove down the
+Chang'e-3 ramp onto the lunar surface. Yutu and Chang'e-3 are both solar
+powered, but also carry small Pu-238 radioactive heater units to keep
+systems from freezing during the 14-day lunar night (see Dwayne Day's
+article at http://www.thespacereview.com/article/2401/1). Yutu has six
+wheels and a mass of around 140 kg.
+
+The CZ-3B third stage rocket was launched to a 311 x 352280 km x 29.6
+deg orbit which passed close to the Moon at around 1100 UTC on Dec 6
+and, according to tracking by astronomers, is currently in a 106000 x
+662000 km x 35.8 deg orbit around the Earth-Moon system. See Bill Gray's
+page at http://www.projectpluto.com/pluto/mpecs/che3.htm for details.
+
+        Lunar robotic landings
+        ----------------------
+                                   Active on lunar surface
+        Luna-9 (E-6M No. 202)      1966 Feb 3 - 1966 Feb 6    Planitia Descensus
+        Surveyor 1                 1966 Jun 2 - 1967 Jan 7    Flamsteed P Crater
+        Luna-13 (E-6M No. 205)     1966 Dec 24- 1966 Dec 28   Oceanus Procellarum
+        Surveyor 3                 1967 Apr 20- 1967 May 4    Surveyor Crater, Oc. Proc.
+        Surveyor 5                 1967 Sep 11- 1967 Dec 17   Mare Tranquillitatis
+        Surveyor 6                 1967 Nov 10- 1967 Dec 14   Sinus Medii
+        Surveyor 7                 1968 Jan 10- 1968 Feb 21   Tycho Crater
+        Luna-16    [Sample return] 1970 Sep 20 -1970 Sep 21   Mare Fecunditatis
+        Luna-17                    1970 Nov 17- 1970 Nov 17   Mare Imbrium
+         Lunokhod-1 rover          1970 Nov 17- 1971 Oct?     
+        Luna-20    [Sample return] 1972 Feb 21 -1972 Feb 22   Apollonius C Crater
+        Luna-21                    1973 Jan 15 -1973 Jan 16?  Le Monnier Crater
+         Lunokhod-2 rover          1973 Jan 16 -1973 Jun  3 
+        Luna-23                    1974 Nov  6 -1974 Nov  9   Mare Crisium
+        Luna-24    [Sample return] 1976 Aug 18 -1976 Aug 19   Mare Crisium
+        Chang'e-3                  2013 Dec 14 -              Mare Imbrium
+         Yutu rover                2013 Dec 14 -           
+
+   Yutu is the sixth wheeled vehicle on the Moon following the two Lunokhods and the 
+   three Apollo Lunar Roving Vehicles.
+
+
+International Space Station
+----------------------------
+
+Expedition 38 continues with commander Oleg Kotov, and flight engineers
+FE-2 Sergey Ryazanskiy, FE-3 Michael Hopkins, FE-4 Mikhail Tyurin, FE-5
+Rick Mastracchio and FE-6 Koichi Wakata. Ferry ship Soyuz TMA-10M is at
+Poisk and TMA-11M is at Rassvet.  Cargo ship Progress M-20M is at the
+Pirs module and Progress M-21M is at the Zvezda module.
+
+A problem developed on Dec 11 with the Pump Module on ETCS Loop A,  one
+of the Station's two cooling loops. With only loop B operating,  various
+ISS systems had to be shut down to reduce the amount of heat being
+generated. It seems likely - but not yet certain - that a series of
+spacewalks will be needed to replace the module. 
+
+The newly failed Pump Module is serial number S/N 04 (PM-1), which was
+launched on STS-121 in 2006 and stored on External Stowage Platform 2
+until Aug 2010, when it was  installed in the S1 truss to replace
+another Pump Module, S/N 02, which had failed after 8 years in space.
+The P1 truss hosts the Loop B PM (unknown serial number) which has been
+operating since 2002. There are three spares on ISS:
+
+         PM S/N 02      (Loop A)  - Launched 2002, failed 2010, returned to Earth 2011
+         PM S/N Unknown (Loop B)  - Launched 2002, active
+         PM S/N 04      (Spare 1) - Launched 2006, in use 2010, failed on S1 truss 2013
+         PM S/N Unknown (Spare 2) - Launched 2009, stored on ESP-3
+         PM S/N 07      (Spare 3) - Launched 2009, stored on ELC-2
+         PM S/N 05      (Spare 4) - Launched 2009, stored on ELC-1
+
+ The pump modules have a mass of 354 kg. (If you can fill in the gaps 
+ in the serial numbers, please contact me at planet4589@gmail.com)
+ 
+
+SES-8
+-----
+
+SpaceX carried out its first geostationary transfer launch on Dec 3.
+Payload was the SES-8 satellite, a 3100-kg Orbital Star-2.4 for SES
+World Skies. The second flight of the uprated Falcon 9 v1.1, and its
+first from Cape Canaveral, appears to have been a complete success.
+After reaching parking orbit the second stage reignited at 2308 UTC and
+placed SES-8 in a 423 x 79977 km x 20.47 deg supersynchronous transfer
+orbit. SpaceX does not appear to have released the parameters of the
+parking orbit but it appears to have been around 300 x 400 km x 28.5
+deg. [Note: this analysis is based on the tracking data which was 
+probably taken at high altitudes, so the perigee estimate may be
+inaccurate]. Around 1545 UTC on Dec 5 SES-8 reached first apogee and raised
+its orbit to 14401 x 80416 km x 6.2 deg, and then the next day to
+35823 x 79932 km x 1.2 deg. Apogee was then lowered on Dec 11 and the
+orbit is now 35681 x 45299 km x 0.5 deg, with a further apogee lowering
+burn needed to reach GEO once the spacecraft is in the right spot.
+
+Inmarsat 5F1
+------------
+
+Inmarsat PLC's first Inmarsat 5 satellite, carrying the Ka-band Global XPress 
+communications payload, was launched from Baykonur on Dec 8.
+The Inmarsat 5 satellites, with 6090 kg launch mass, are BSS-702HP models
+built by Boeing/El Segundo.
+
+The Proton reached a -495 x 170 km orbit and the first Briz burn put
+the stack in a 173 x 173 km parking orbit. Further burns
+delivered I5-F1 to a 4306 x 64809 km x 26.7 deg supersynchronous transfer orbit
+via intermediate orbits of 295 x 6000 km, 360 x 14847 km, and 475 x 65044 km.
+The Briz-M stage and drop tank are being tracked, but there seems to be 
+no orbital data yet for the payload.
+
+CBERS 3
+-------
+
+A new China-Brazil Earth Resources Satellite was launched on Dec 9.
+Zi Yuan 1 No. 3 was launched from Taiyuan Space Center.
+
+Brazilian sources initially reported the launch was a success, but
+it now appears that the CZ-4B rocket failed to reach orbit. A news
+story on globo.com cited in nasaspaceflight.com reports that stage
+3 cutoff was 11 seconds too early. I estimate an approximate
+orbit of around -150 x 720 km x 98.5 deg, with impact in
+the Antarctic around 0407 UTC; however, the uncertainties are
+large and this estimate could be way off.
+
+
+Suborbital launches
+-------------------
+
+On Dec 14 the Iranian Space Agency launched a Shahab-1 liquid propellant
+missile from the Imam Khomeini Space Center in Semnan province on a 120
+km suborbital flight, carrying a 3 kg, 3 year old rhesus monkey (Macaca
+mulatta)  named Fargam. This was the fourth Iranian monkey in space, and
+the second to return successfully following the Kavoshgar Pisgham
+('Pioneer Probe') mission in January. The use of a liquid fuel missile
+provides gentler acceleration than the small solid propellant sounding rockets
+used for earlier experiments. 
+
+The Kavoshgar Pazhuhesh ('Research Probe') flight was the first 'Class
+D' mission of the  Kavoshgar series. The payload was developed by the
+Institute of Astronautical Systems, which I believe is part of the
+Aerospace Research Institute in Tehran. A new web site,
+kavoshgar.ari.ac.ir, gives new details of this and earlier flights; I
+summarize the program below. The M5 rocket used for the first flight is
+a small vehicle, possibly similar to the Nazeat class sounding rocket
+used for flights 2 and 3.
+
+    Kavoshgar flights   (best current info)
+    -----------------
+
+    Date          Payload               Rocket       Apogee/km  Mission
+    2008 Feb  4   Kavoshgar 1           M5             10       Telemetry test? Failed?
+    2008 Nov 26   Kavoshgar 2           Nazeat-6?      40       Capsule B recovery test
+    2010 Feb  3   Kavoshgar 3           Nazeat-6?      55       Capsule B rec., with turtles,mice
+    2011 Mar 15   Kavoshgar 4           Fateh? K110   135       Capsule C recovery test
+    2011 Sep  7   Kavoshgar 5           Fateh? K110   120       Capsule C/Monkey, crashed on recovery
+    2012 Sep  8   Kavoshgar 6           Fateh? K110   120       Capsule C/Monkey, crashed on recovery
+    2013 Jan 28   Kavoshgar Pishgam     Fateh? K110   120       Capsule C/Monkey, successful
+    2013 Dec 14   Kavoshgar Pazhuhesh   Shahab-1      120       Capsule D/Monkey, successful
+   
+The Shahab-1 was based on the Soviet R-11 and was originally used in
+1985 in Iranian missile attacks on Iraq during those two countries' long
+war; it is several generations behind the latest Iranian military
+missiles, the liquid fuel Shahab-3 and Ghadr missiles based on the North
+Korean Nodong, and the domestically developed solid fuel Sejjil-2.
+Roughly speaking, one prefers solid fuel in ballistic missiles for
+storability and rapid launch, but liquid fuel in human spaceflight
+launchers for gentler acceleration and more controllable abort modes, so
+it makes sense for retired large liquid fuel missiles to be transferred
+to the research program as Iran masters the larger solids for military
+use - just as liquid fuel Atlas and Thor missiles were recycled as space
+launch vehicles when the solid fuel Minuteman took over the bulk of ICBM
+duties.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Nov  5 0908   Mars Orbiter Spacecraft   PSLV-XL   Sriharikota       Mars probe  60A
+Nov  7 0414   Soyuz TMA-11M       Soyuz-FG        Baykonur LC1      Spaceship   61A
+Nov 11 2346   Raduga-1M          Proton-M/Briz-M  Baykonur LC81/24  Comms       62A
+Nov 18 1828   MAVEN              Atlas V 401      Canaveral SLC41   Mars probe  63A
+Nov 19 1218   PicoDragon   )                      ISS, LEO          Tech      98-067DA
+              Ardusat-1    )                                        Tech      98-067DB
+              Ardusat-X    )	                                    Tech      98-067DC
+Nov 20 0115   STPSAT-3       )   Minotaur I       Wallops I LA0B    Tech        64A
+              ORS-3          )                                      Tech        64
+              TJ3Sat         )                                      Tech        64
+              DragonSat      )                                      Tech        64
+              COPPER         )                                      Tech        64
+              ChargerSat 1   )                                      Tech        64
+              SwampSat       )                                      Tech        64
+              Ho'oponopono 2 )                                      Radar cal   64
+              KySat-2        )                                      Tech        64
+              CAPE 2         )                                      Tech        64
+              Trailblazer    )                                      Tech        64
+              Vermont Lunar Cubesat )                               Tech        64
+              PhoneSat-2.4   )                                      Tech        64
+              NPS-SCAT       )                                      Tech        64
+              Black Knight 1 )                                      Tech        64
+              Firefly        )                                      Science     64
+              Horus/STARE-B  )                                      Space Surv. 64
+              SENSE-A        )                                      Ionospheric 64
+              SENSE-B        )                                      Ionospheric 64N
+	      ORSES          )                                      Comms       64
+              ORS Tech 1     )                                      Tech        64
+              ORS Tech 2     )                                      Tech        64
+              Prometheus 1A? )               	                    Comms       64
+              Prometheus 1B? )               	                    Comms       64
+              Prometheus 2A? )               	                    Comms       64
+              Prometheus 2B? )               	                    Comms       64
+              Prometheus 3A? )               	                    Comms       64
+              Prometheus 3B? )               	                    Comms       64
+              Prometheus 4A? )               	                    Comms       64
+              Prometheus 4B? )               	                    Comms       64
+Nov 20 0331   Yaogan 19          Chang Zheng 4C   Taiyuan           Imaging     65A
+Nov 20 0758   TechEdSat-3p                        ISS, LEO          Tech      98-067DD
+Nov 21 0710   Dubaisat-2       )                                    Imaging     66D
+              SkySat-1         ) Dnepr            Yasniy            Imaging     66C
+              STSat-3          )                                    Astronomy   66G
+              AprizeSat-7      )                                    Comms       66A
+              AprizeSat-8      )                                    Comms       66K
+              WNISAT-1         )                                    Weather     66H
+              Lem              )                                    Astronomy   66R
+              GOMX-1           )                                    Comms       66Q
+              Dove-3           )                                    Imaging     66P
+              Delfi-3nXt       )                                    Tech        66N
+              Triton 1         )                                    Comms/AIS   66M
+              KHUSAT-1         )                                    Science     66J
+              KHUSAT-2         )                                    Science     66L
+	      OPTOS            )                                    Tech        66E
+              Manolito         )                                    Tech        66AB
+              Krysaor          )                                    Tech        66AA
+              UWE-3            )                                    Tech        66Z
+              VELOX-P2         )                                    Tech        66Y
+              First-MOVE       )                                    Tech        66AG
+              FUNcube-1        )                                    Tech        66AE
+              HINCube-1        )                                    Tech        66B
+              Tshepiso         )                                    Tech        66AF
+              BPA-3            )                                    Tech        66AJ
+              Unisat-5         )                                    Tech        66F
+                Dove-4         )                                    Imaging     66
+                ICUBE-1        )                                    Tech        66
+                PUCPSat-1      )                                    Tech        66
+                Pocket-PUCP    )                                    Tech        66
+                HUMSAT-D       )                                    Tech        66
+		QBScout-1      )                                    Tech        66
+		BeakerSat-1    )                                    Tech        66
+                $50SAT         )                                    Tech        66
+                WREN           )                                    Tech        66
+Nov 22 1202   SWARM-1   )        Rokot            Plesetsk          Science      67A
+              SWARM-2   )                                           Science      67B
+              SWARM-3   )                                           Science      67C
+Nov 25 0212   Shiyan 5 Weixing   Chang Zheng 2D   Jiuquan           Tech/Sci?    68A
+Nov 25 2053   Progress M-21M     Soyuz-U          Baykonur LC31     Cargo        69A
+Dec  1 1730   Chang'e-3 )        Chang Zheng 3BE  Xichang           Moon probe   70A
+              Yutu      )                                           Rover
+Dec  3 2241   SES-8              Falcon 9 v1.1    Canaveral SLC40   Comms        71A
+Dec  6 0714   TOPAZ 3?    )      Atlas V 501      Vandenberg SLC3E  Radar        72A
+              Aerocube 5a )                                         Tech         72D
+              Aerocube 5b )                                         Tech         72E
+              SMDC-ONE 2.3)                                         Comms        72N
+              SMDC-ONE 2.4)                                         Comms        72L
+              Tacsat 6    )                                         Tech?        72M
+              ALICE       )                                         Tech         72F
+              SNAP-3      )                                         Tech?        72G
+              FIREBIRD A  )                                         Sci          72B
+              FIREBIRD B  )                                         Sci          72C
+              MCubed-2    )                                         Tech/Imaging 72H
+              IPEX        )                                         Tech         72K
+              CUNYSAT 1   )                                         Sci          72J
+Dec  8 1212   Inmarsat 5 F1      Proton-M/Briz-M  Baykonur LC200/39 Comms        73A
+Dec  9 0326   ZY-1 No. 3         Chang Zheng 4B   Taiyuan           Imaging      F03
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Nov  3 0925   NASA 36.294UH    Black Brant IX      White Sands      X-ray Astron  280?
+Nov 12 1615?  SL-8             SpaceLoft XL        Spaceport America Tech         116 
+Nov 20 1140   NASA 36.296UG    Black Brant IX      White Sands      UV Astron     277
+Nov 27 0350   NASA 36.261UG    Black Brant IX      White Sands      UV Astron     280?
+Dec 14        Kavoshgar Pazhuhesh  Shahab-1        Semnan           Bio           120
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+
+              
+
+
+ 
+
+

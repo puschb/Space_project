@@ -1,0 +1,211 @@
+Jonathan's Space Report
+No. 369                                  1998 Aug 22 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Web site updates
+----------------
+
+I've updated my edited version of the United Nations Registry
+of Space Objects, at 
+ http://hea-www.harvard.edu/~jcm/space/un/un.html
+Member states of the UN are required to register space objects owned by
+them; the accuracy and completeness of the information provided is
+pretty spotty. The United States remains the state with the most errors
+and omissions in its submissions; Mexico, Germany, Australia, and Brazil
+are grossly overdue in updating their registrations. The US should be
+registering INTELSAT's satellites, but does not; the United Kingdom
+should be registering INMARSAT's satellites, but does not.  Since 1991,
+when the US last failed to register one of its classified satellites,
+there is no evidence of any state deliberately failing to register a
+satellite to avoid detection - the omissions seem to be due to
+sloppiness.
+
+I've also updated the geostationary log at
+ http://hea-www.harvard.edu/~jcm/space/jsr/geo.html
+including the addition of manufacturer's names and serial numbers for
+Russian/Soviet geostationary satellites, as revealed in Novosti
+Kosmonavtiki magazine. The full satellite catalog at
+ http://hea-www.harvard.edu/~jcm/space/jsr/satcat 
+has also been updated and extensively revised.
+
+Shuttle and Mir
+---------------
+
+Soyuz TM-28 was launched at 0943:10 UTC on Aug 13. The spacecraft,
+production vehicle 7K-STM 11F732 No. 77, is built by RKK Energiya and
+consists of a service module (priborno-agregatniy otsek), a descent
+module (spuskaemiy apparat) and a hab module (bitovoy otsek). Crew on
+this flight are air force officer Gennadiy Padalka, EO-26 crew
+commander; RKK Energiya engineer Sergey Avdeev, flight engineer; and 
+cosmonaut-researcher Yuriy Baturin, who is the former head of the
+Russian Federation Defence Council. Soyuz TM-28 docked at 1056 UTC on
+Aug 15 with the rear (Kvant) port of the Mir space station, which was
+vacated at 0928UTC on Aug 12 by the Progress M-39 cargo ship. 
+The EO-25 crew, Musabaev and Budarin, will land with Baturin on
+Aug 25, leaving the EO-26 crew of Padalka and Avdeev on the station.
+
+Recent Launches
+---------------
+
+It now appears that the advanced VORTEX-type satellites like the one
+lost in the Titan 4A-20 explosion on Aug 12 are probably called MERCURY,
+as suggested in COUNTDOWN magazine for Jan 1995. However, these code
+names are usually changed as soon as they become public. The rumours
+that the satellite was built by Hughes turn out to be pretty weak; TRW
+or Lockheed Martin are more likely contractors. The communications
+intelligence program has been operated since its first launch in 1968 by
+the USAF program within the National Reconnaissance Office, on behalf of
+the National Security Agency. A first generation series, CANYON, was
+based on the Agena vehicle. A later improvement in 1972 had a heavier
+but similar payload which separated from the Agena. This was followed by
+the more advanced CHALET (renamed VORTEX when the name CHALET appeared
+in the New York Times) and then by the new satellites probably called
+MERCURY. I have reconstructed the launch history based on unclassified
+documents and media reports:
+
+Flight  Codename   Launch date   Launch vehicle
+No      at launch
+
+--- First generation, Agena attached ---
+
+1       CANYON    1968 Aug  6  Atlas Agena D
+2       CANYON    1969 Apr 13  Atlas Agena D
+3       CANYON    1970 Sep  1  Atlas Agena D
+4       CANYON    1971 Dec  4  Atlas Agena D (failed to orbit)
+
+--- Improved version, Agena separated ---
+
+5       CANYON    1972 Dec 20  Atlas Agena D
+6       CANYON    1975 Jun 18  Atlas Agena D
+7       CANYON    1977 May 23  Atlas Agena D
+
+--- Second generation, Titan launch ---
+
+8       CHALET    1978 Jun 10  Titan 3C
+9       VORTEX    1979 Oct  1  Titan 3C
+10      VORTEX    1981 Oct 31  Titan 3C
+11      VORTEX    1984 Jan 31  Titan 34D/Transtage
+12      VORTEX    1988 Sep  2  Titan 34D/Transtage (upper stage failed)
+13      VORTEX    1989 May 10  Titan 34D/Transtage
+
+--- Third generation ---
+
+14      MERCURY   1994 Aug 27  Titan 4A/Centaur
+15      MERCURY   1996 Apr 24  Titan 4A/Centaur
+16      MERCURY   1998 Aug 12  Titan 4A/Centaur  (failed to orbit)
+
+Aviation Week reported that there were 15 payloads in the program
+launched since the late 1970s, which is almost certainly wrong. They
+also imply that the latest satellite is `the same' payload as the
+earlier ones, but the larger Titan 4 payload shroud makes it almost
+certain that the antenna is significantly larger than the CHALET/VORTEX
+series, even if the basic satellite bus is the same.
+
+In addition to the CANYON/CHALET/VORTEX/MERCURY program used for
+communications intelligence, there was another geostationary signals
+intelligence program led by the CIA program within the NRO. The Aviation
+Week article suggests that those satellites are now called ORION, but that
+name was `outed' some years ago and has probably been changed by now;
+just as the MERCURY was referred to by analysts as `Advanced VORTEX'
+when its true name was unknown, the latest satellites are probably best
+referred to as `Advanced ORION' until their true codename is leaked.
+Launch history of the CIA-originated geostationary sigint program (now
+integrated with the rest of the NRO SIGINT series) is as follows:
+
+--- First generation ---
+
+1       RHYOLITE   1970 Jun 19  Atlas Agena D
+2       RHYOLITE   1973 Mar  6  Atlas Agena D
+3       AQUACADE   1977 Dec 11  Atlas Agena D
+4       AQUACADE   1978 Apr  8  Atlas Agena D
+
+--- Second generation ---
+
+5       MAGNUM     1985 Jan 25  Shuttle/IUS
+6       ORION      1989 Nov 23  Shuttle/IUS
+
+--- Third generation? ---
+
+7       ORION?     1995 May 14  Titan 4A/Centaur
+8       ORION?     1998 May  9  Titan 4B/Centaur
+
+The early satellites in this series were built by TRW, and the early
+ones were compromised by spies in the mid-1970s. I don't know who builds
+the ORION craft, but it may well still be TRW.
+
+Meanwhile, salvage work on the Titan wreckage continues at the Cape,
+but there's no word yet on the reason for the failure.
+
+
+Another attempt to redock the Hikoboshi and Orihime satellites was
+unsuccessful on Aug 13. Further attempts will be made, while for the
+time being the two Japanese test satellites remain a few kilometers
+apart.
+
+Two more Iridium cellphone satellites were launched on Aug 19 from
+Taiyuan in China. The CZ-2C two-stage launch vehicle placed the Smart
+Dispenser bus in elliptical transfer orbit; the SD then fired to
+circularize the orbit, deployed the satellites, and fired again to lower
+its perigee and ensure rapid reentry. The new satellites, placed in
+plane 2, include satellite production number 3, which was kept as a
+ground test article until now.
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  1 0048   Molniya-3         Molniya-M     Plesetsk          Comsat     40A
+Jul  3 1812   Nozomi            M-5           Kagoshima         Mars probe 41A
+Jul  7 0315   Tubsat-N   )      Shtil'-1      K-407,Barents     Comsat     42A
+              Tubsat-N1  )                                      Comsat     42B
+Jul 10 0630   Resurs-O1 No. 4 ) Zenit-2       Baykonur LC45     Rem. Sens. 43A
+              Fasat-Bravo      )                                Exptl.     43B
+              TMSAT            )                                Exptl.     43C
+              Gurwin Techsat 1B)                                Exptl.     43D
+              WESTPAC          )                                Geodesy    43E
+              SAFIR-2          )                                Comsat     43F
+Jul 18 0920   Sinosat           CZ-3B         Xichang LC2       Comsat     44A
+Jul 28 0915   Kosmos-2360       Zenit-2       Baykonur LC45     Sigint     45A
+Aug  2 1624   Orbcomm FM13  )   Pegasus XL    Wallops           Comsat     46A
+              Orbcomm FM14  )                                   Comsat     46B
+              Orbcomm FM15  )                                   Comsat     46C
+              Orbcomm FM16  )                                   Comsat     46D
+              Orbcomm FM17  )                                   Comsat     46E
+              Orbcomm FM18  )                                   Comsat     46F
+              Orbcomm FM19  )                                   Comsat     46G
+              Orbcomm FM20  )                                   Comsat     46H
+Aug 12 1130   MERCURY           Titan 4A      Canaveral SLC41   Sigint     FTO
+Aug 13 0943   Soyuz TM-28       Soyuz-U       Baykonur LC1      Spaceship  47A
+Aug 19 2301   Iridium SV03)     CZ-2C/SD      Taiyuan           Comsat     48A
+              Iridium SV76)                                     Comsat     48B
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Jan 21?
+OV-103 Discovery       OPF Bay 2     STS-95  Oct 29
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Dec  3?
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+

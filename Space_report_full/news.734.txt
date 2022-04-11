@@ -1,0 +1,215 @@
+Jonathan's Space Report 
+No. 734                                                          2017 Jan 16 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+Annual Summary
+--------------
+
+Happy New Year!
+My annual study of space activity is now available at http://planet4589.org/space/papers/space16.pdf
+
+
+International Space Station
+---------------------------
+
+Expedition 50 continues under the command of NASA's Shane Kimbrough,
+with flight engineers Sergey Ryzhikov, Andrey Borisenko and
+Oleg Novitskiy (Roskosmos), Peggy Whitson (NASA) and Thomas Pesquet (ESA). 
+
+Work to replace old NiH2 batteries on truss segment S4 with new Li-ion ones is now
+almost complete. The activity used the SSRMS Canadarm-2 and SPDM Dextre robot
+arms as well as spacewalking astronauts. Below I give the details of the
+replacement operations in excruciating detail for the historical record. Three
+more battery replacement trips using the Japanese HTV-7, 8 and 9 cargo ships
+are scheduled for the future.
+
+The EP (External Pallet) from HTV-6 (Kounotori-6) is attached to the Mobile Base System on
+the Truss carrying batteries for the IEAs (integrated electronics assemblies) for the 3A and
+1A power channels on the S4 truss segment.
+
+On Dec 31, the SSRMS/SPDM arm moved NiH2 batteries 0043 and 0044 from the 3A IEA slots 5 and 6 to EP slots Z and Y.
+On Jan 1, NiH2 battery 0040 was moved from 3A IEA slot 1 to EP slot X.
+On Jan 1, Li-ion battery 0010 was moved from EP slot B to 3A IEA slot 5.
+On Jan 2, Li-ion battery 0008 was moved from EP slot A to 3A IEA slot 1.
+On Jan 2, NiH2 battery 0038 was moved from 3A IEA slot 3 to a temporary location (EOTP arm 3) on Dextre.
+On Jan 3, Li-ion battery 0006 was moved from EP slot C to 3A IEA slot 3.
+On Jan 6, astronauts Kimbrough and Whitson, in suits EMU 3008 and 3006, depressurized the
+ Quest airlock at about 1220 UTC for US EVA-38. They moved:
+    Adapter plate S/N 0005 from EP slot A to 3A IEA slot 6.
+    NiH2 battery 0039 from 3A IEA slot 4 to on top of the adapter plate on slot 6.
+    Adapter plate S/N 0006 from EP slot B to 3A IEA slot 4.
+    NiH2 battery 0042 from 3A IEA slot 2 to on top of the adapter plate on slot 4.
+    Adapter plate S/N 0007 from EP slot C to 3A IEA slot 2.
+  Also, bundle 1 of the Node 3 axial shields were stored outside Quest.
+Robotics work with the SPDM Dextre arm continued between the two spacewalks, with the 1A
+power channel on S4:
+On Jan  9, Li-ion battery 0013 was moved from EP slot E to 1A IEA slot 5.
+           NiH battery 0077 was moved from 1A IEA slot 1 to EP slot C.
+           Li-ion battery 0011 was moved from EP slot D to 1A IEA slot 1.
+On Jan 10, NiH2 battery 0079 was moved froom 1A IEA slot 3 to SPDM Arm 1.
+On Jan 11, Li-ion battery 0012 was moved from EP slot F to 1A IEA slot 3.
+On Jan 12, NiH2 battery 0078 was moved from 1A IEA slot 2 to SPDM Arm 2.
+On Jan 13, astronauts Kimbrough and Pesquet, in suits 3008 and 3006, performed spacewalk US EVA-39
+with depressurization about 1120 UTC and repressurization at 1720 UTC. They moved:
+    Adapter plate 0003 from EP slot F to 1A IEA slot 6;
+    NiH2 battery 0080 from 1A IEA slot 4 onto that adapter plate;
+    Adapter plate 0004 from EP slot E to 1A IEA slot 4;
+    Adapter plate 0008 from EP slot D to 1A IEA slot 2.
+They also moved bundle 2 of the Node 3 Axial shields (covers for a
+soon-to-be-empty docking port) from the airlock area to Node 3, replaced
+a camera light tilt assembly and adjusted a worksite interface. At the
+end of this spacewalk, the SPDM was holding three old NiH3 batteries:
+0078 and 0079 on arms 1 and 2, and 0038 on the EOTP (ORU temporary
+platform). These were to be placed robotically in slots D, E and F on
+the EP. The EP will be returned to Kounoutori-6, which will eventually
+be destroyed on reentry over the South Pacific.
+
+On Jan 16 the J-SSOD6 (Japanese Small Satellite Orbital Deployer 6) was removed
+from the airlock by the JAXA robot arm and its cubesats (described in the last JSR)
+were deployed.
+
+
+TJSW 2
+------
+
+China's first launch of the year was Tongxin Jishu Shiyan Weixing 2
+(Communications Technology Experiment Satellite 2). TJSW 2 was developed
+by the Shanghai team - in contrast to 2015's TJSW 1 which was  reported to
+be from CAST/Beijing. The lack of public information about the TJSW
+satellites has led to the suspicion that they may really be for defense
+purposes, possibly for non-communications purposes such as signals
+intelligence or missile early warning. Nevertheless for the time being I
+am keeping them on the books as probable military communications
+satellites.
+
+TJSW 2 appears to have made the burn to circularize its orbit on Jan 6
+at 0730 UTC over 114E, but there's been no TLE data for it since then.
+
+KZ-1A
+-----
+
+China's second launch in January was the Kuaizhou-1A quick-response
+rocket. The earlier KZ-1 rocket was used for two low orbit imaging
+satellites which remained integrated with the upper stage; in the
+commercialized KZ-1A version the 4th stage separates from the payloads,
+and launch services are provided by EXPACE, the commercial arm of KZ-1A
+builder CASIC (which also builds the DF-21 missile that KZ-1/1A is based
+on).  The main payload is Chang Guang Satellite Technology
+Ltd's "Jilin-1 linqiao shipin xing 03 xing", also called Jilin Linye 1
+Weixing (Jilin Forestry 1 satellite). The 165 kg sat has a 1m resolution
+Earth imager. Two 2U cubesats were also carried: XY-S1 for the CASIC 9th
+Academy, and Caton-1 (or Kaidun-1) for Caton Technology Co. Ltd.
+
+Iridium Next
+------------
+
+On Jan 14 the first cluster of second generation communications
+satellites for Iridium Communications was launched, aboard the first
+SpaceX Falcon 9 to fly since the Amos-6 pad accident last year. The
+Falcon 9 placed all ten satellites in the correct orbit, and the first
+stage landed on the barge 'Just Read The Instructions'.
+
+The Falcon 9 second stage was expected to be deorbited over Antarctica.
+However, JSpOC is tracking 11 objects in orbit rather than the expected
+10. It's possible the 11th is just a minor piece of debris, or there
+may have been an issue with stage 2 deorbit.
+
+The Iridium satellites carry communications payloads for global mobile
+communications coverage as well as Aireon ADS-B airplane data relay payloads
+and, on four of the 10 satellites, AIS ship tracking payloads for
+the Canadian company ExactEarth.
+
+SS-520
+------
+
+On Jan 14 Japan attempted to launch a single cubesat into orbit with a
+launch vehicle massing less than 3 tonnes. The SS-520 sounding rocket
+was furnished with a 78 kg third stage which was intended to orbit a 3U,
+3 kg cubesat, TRICOM-1. The mission was flight SS-520-4 (SS-520-1 and 2
+were normal sounding rocket flights; 3 has not yet flown.) However,
+telemetry was lost 20 seconds into flight, during first stage burn.
+Following range safety rules, the command to ignite stage 2 was not sent
+and the vehicle flew a suborbital path to about 200 km altitude and then
+splashed down in the ocean. The record smallest successful
+orbital launch vehicle remains the 9.4-tonne Lambda 4S, also Japanese,
+which was retired in 1979.
+(For comparison, the Pegasus XL is 23 tonnes, not even counting the
+mass of the airliner that launches it!).
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+Dec  1 1451   Progress MS-04        Soyuz-U           Baykonur LC1     Cargo         F02    F01484  -4000?x   190  x 51.6
+Dec  5 1351   Gokturk-1             Vega              CSG ZLV          Imaging       73A    S41875    679 x   691  x 98.1 2230LT SSO
+Dec  7 0454   Resourcesat-2A        PSLV-XL          Satish Dhawan FLP Imaging       74A    S41877    814 x   831  x 98.7 1030LT SSO
+Dec  7 2352   WGS SV-8              Delta 4M+(5,4)    Canaveral SLC37B Comms         75A    S41879    430 x 44207  x 27.0
+Dec  9 1326   Kounotori 6           H-IIB             Tanegashima      Cargo         76A    S41881    276 x   302  x 51.6    
+Dec 10 1611   Fengyun-4 01          Chang Zheng 3B/G2 Xichang LC3      Weather       77A    S41882    184 x 35803  x 28.4
+Dec 15 1337   CYGNSS A  )           Pegasus XL        Canaveral RW13   Weather       78D    S41887    515 x   537  x 35.0
+              CYGNSS B  )                                              Weather       78C    S41886    515 x   537  x 35.0
+              CYGNSS C  )                                              Weather       78H    S41891    515 x   537  x 35.0
+              CYGNSS D  )                                              Weather       78B    S41885    515 x   537  x 35.0
+              CYGNSS E  )                                              Weather       78A    S41884    515 x   537  x 35.0
+              CYGNSS F  )                                              Weather       78F    S41889    515 x   537  x 35.0
+              CYGNSS G  )                                              Weather       78G    S41890    515 x   537  x 35.0
+              CYGNSS H  )                                              Weather       78E    S41888    515 x   537  x 35.0
+Dec 18 1913   Echostar 19           Atlas V 431       Canaveral SLC41  Comms         79A    S41893    164 x 65110  x 25.6
+Dec 19 0855   Hagoromo Parent  )                      ISS, LEO         Tech        98-67KR  S41895    400 x   406  x 51.6
+              Hagoromo Child   )
+Dec 20 1100   Arase                 Epsilon           Uchinoura        Space Sci     80A    S41896    228 x 32259  x 31.4
+Dec 21 1922   Tan Weixing  )        Chang Zheng 2D    Jiuquan          Atmos Sci     81A    S41898    690 x   719 x  98.2 0138LT SSO
+              Spark-01     )                                           Imaging       81B    S41899    690 x   720 x  98.1
+              Spark-02     )                                           Imaging       81C    S41900    690 x   726 x  98.1
+              CFDG         )                                           Imaging       81D    S41901    690 x   728 x  98.1
+Dec 21 2030   JCSAT 15    )         Ariane 5ECA       Kourou ELA3      Comms         82A    S41903  35721 x 35774 x   0.1 GEO 135Edr
+              Star One D1 )                                            Comms         82B    S41904  35741 x 35777 x   0.1 GEO  86Wdr
+Dec 28 0323   Gaojing 1  )          Chang Zheng 2D    Taiyuan          Imaging       83A    S41907    212 x   523 x  97.6 1030LT SSO
+              Gaojing 2  )                                             Imaging       83B    S41908    212 x   523 x  97.6 1030LT SSO
+              BJ70-1     )                                             Comms         83C    S41909    212 x   523 x  97.6
+Jan  5 1518   Tongxin Jishu SW 2    Chang Zheng 3B    Xichang LC2      Sigint?       01A    S41911    201 x 35801 x  27.5
+Jan  9 0411   Linye 1 (Jilin-1S3)   Kuaizhou-1A       Jiuquan          Imaging       02B    S41914    513 x   545 x  97.5 1030LT SSO
+              Caton-1           )                                      Comms         02A?   S41913    530 x   546 x  97.5 1030LT SSO
+              Xingyun Shiyan 1  )                                      Tech          02C?   S41915    529 x   541 x  97.5 1030LT SSO
+Jan 14 1754   Iridium Next SV01  )  Falcon 9 v1.2     Vandenberg SLC4E Comms         03A    S41917    617 x   626 x  86.7
+              Iridium Next SV02  )                                     Comms         03B    S41918    610 x   622 x  86.7
+              Iridium Next SV03  )                                     Comms         03C    S41919    608 x   621 x  86.7
+              Iridium Next SV04  )                                     Comms         03D    S41920    608 x   621 x  86.7
+              Iridium Next SV05  )                                     Comms         03E    S41921    605 x   619 x  86.7
+              Iridium Next SV06  )                                     Comms         03F    S41922    610 x   621 x  86.7
+              Iridium Next SV07  )                                     Comms         03G    S41923    610 x   617 x  86.7
+              Iridium Next SV08  )                                     Comms         03H    S41924    607 x   622 x  86.7
+              Iridium Next SV09  )                                     Comms         03J    S41925    604 x   621 x  86.7
+              Iridium Next SV10  )                                     Comms         03K    S41926    609 x   622 x  86.7
+Jan 14 2333   TRICOM-1              SS-520            Uchinoura K      Tech          F01    F01486  -6340? x  200? x 30
+Jan 16 0910   ITF-2          )                                         Tech      98-067
+              FREEDOM        )                        ISS, LEO         Tech      98-067
+              WASEDA-SAT3    )                                         Tech      98-067
+Jan 16 0920   EGG                                     ISS, LEO         Tech      98-067
+Jan 16 1040   AOBA-Velox-III                          ISS, LEO         Tech      98-067
+Jan 16 1050   TuPOD                                   ISS, LEO         Tech      98-067
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Dec 15        FTM-27 Target     ?                  Kauai?                Target        200?      Pacific Ocean
+Dec 16        A-235 test        Nudol              Plesetsk              Test          100?      -
+Dec 16 1615   NASA 12.080DR     Zombie             White Sands           Test           80?      White Sands
+Dec 26 0535   Agni RV           Agni V             Kalam Island          Test          500?      Indian Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+

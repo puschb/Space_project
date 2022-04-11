@@ -1,0 +1,196 @@
+Jonathan's Space Report
+No. 334                                      1997 Sep 14   Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Solov'yov and Foale failed to locate any punctures in Spektr during an
+otherwise successful spacewalk on Sep 6. The hatch of the Kvant-2 module
+was opened at 0107 UTC and closed at 0707 UTC. The spacewalkers probably
+used the new Orlan-M spacesuits (one report claims Foale used the M and
+Solov'yov the older DMA version). They used the Strela crane to transfer
+from the Kvant-2 to Spektr, and Solovyov cut away insulation to inspect
+the area around the radiator and solar panel mounting.
+
+Recent Launches
+---------------
+
+Seven more Iridium satellites were launched on Sep 14. The Krunichev
+Proton-K launch vehicle took off from Baykonur at 0136 UTC and its third
+stage entered a 170 x 170 km x 72.6 deg orbit at around 0146 UTC (by
+1100 UTC this had decayed to a 124 x 143 km orbit and reentry has
+probably already occurred). The Energiya Blok DM-5 (17S40) upper stage
+made two burns to a 516 x 516 km x 86.6 deg parking orbit where the
+seven satellites were dispensed around 0304 UTC. The DM-5 then made a
+third burn to deorbit itself. The satellites will use their own
+propulsion systems to raise to their final orbits. This is the third use
+of the DM-5 stage, following Kosmos-2344 and the previous Iridium Proton
+launch. Unlike DM-1, DM-3 and DM-4, which are minor modifications of the
+DM-2 stage used for different commercial launch profiles, DM-5 is
+apparently a significant block upgrade to the DM-2, getting a new
+ministry article designation (17S40 instead of 11S861). Source: Novosti
+Kosmonavtiki. There are now 28 working Iridium satellites in  orbit,
+plus one failed one and two dummy satellites.
+
+On Sep 12, Meteosat 7 was over 10.0W drifting 0.15 deg east per day,
+in a 35753 x 35794 km x 1.8 deg geosynch drift orbit.
+
+On Sep 14, the most recent elements available for Eutelsat's Hot Bird 3
+satellite at GSFC were dated Sep 6, at which time Hot Bird 3 was still
+in its initial transfer orbit and no liquid apogee motor burns had
+ocurred. Hot Bird 3 is a Eurostar 2000 class satellite. The Eurostar
+satellites are made by Matra Marconi Space/Toulouse [et je signale aux
+lecteurs la-bas que je serai a Toulouse la mois prochaine;
+recommendations  spatio-touristiques svp?]
+The Eurostar satellites launched to date are:
+ Inmarsat II F-1  1990 Oct 30  Eurostar 1000
+ Inmarsat II F-2  1991 Mar  9  Eurostar 1000
+ Inmarsat II F-3  1991 Dec 16  Eurostar 1000
+ Telecom 2A       1991 Dec 16  Eurostar 2000
+ Inmarsat II F-4  1992 Apr 15  Eurostar 1000
+ Telecom 2B       1992 Apr 15  Eurostar 2000
+ Hispasat 1A      1992 Sep 10  Eurostar 2000
+ Hispasat 1B      1993 Jul 22  Eurostar 2000
+ Orion 1          1994 Nov 29  Eurostar 2000
+ Telecom 2C       1995 Dec  6  Eurostar 2000
+ Hot Bird 2       1996 Nov 21  Eurostar 2000+
+ Hot Bird 3       1997 Sep  2  Eurostar 2000+
+
+The Hot Bird satellites provide high power TV broadcasting to supplement
+Eutelsat's regular satellites, the Eutelsat 2 and forthcoming Eutelsat 3
+series which are Spacebus class satellites built by Aerospatiale/Cannes.
+
+Mars Global Surveyor entered polar orbit around Mars on Sep 12. The burn
+began at 0015 UTC and ended at 0037 UTC. Orbit is  258 x 54021 km x 93.3
+deg with a period of 44h59.5min. This orbit will be reduced by
+aerobraking to a low, circular mapping orbit over the next few months.
+MGS will be the first probe to enter a low orbit around Mars and is
+the highest inclination satellite of Mars to date, beating Viking 2's
+80 degree inclination.
+
+The following is a catalog of objects in Martian orbit; the orbits are
+contemporary with the active phase of the mission, and gravitational
+perturbations will have greatly changed the orbits of some of the
+earlier missions, possibly causing some of them to reenter. Where major
+orbit maneuvers were made, starting date of later orbit is given (e.g.
+Viking 2). I am confident that Mars Observer never achieved orbit
+insertion, so it is not included. Corrections and updates are welcome.
+Orbit heights are given relative to a reference spherical Mars of radius
+3393 km.
+
+                Objects In Martian Orbit
+
+No. Object          Orbit insertion   Orbit km x km x deg  Deorbit date
+-  Phobos                -               5836 x   6117 x  1.1
+-  Deimos                -              20108 x  20146 x  2 
+1  Mariner 9             1971 Nov 14     1394 x  17144 x 64
+2  M-71 No. 171 (Mars-2) 1971 Nov 27     1380 x  25000 x 49
+3  M-71 No. 172 (Mars-3) 1971 Dec  2     1530 x 214500 x 60
+4  M-73 No. 53S (Mars-5) 1974 Feb 12     1769 x  32560 x 35
+5  Viking Orbiter 1      1976 Jun 19     1514 x  50300 x 37.7
+                         1976 Jun 21     1513 x  32625 x 37.9
+                         1977 Mar 11      299 x  30750 x 39.2
+                         1980 Jul 31      411 x  56275 x 37.9
+6  Viking Lander 1       1976 Jul 20     1513 x  32625 x 38    1976 Jul 20
+7  VO1 Bioshield Base    1976 Jul 20?    1513 x  32625 x 38
+8  Viking Orbiter 2      1976 Aug  7     1502 x  35728 x 55.6
+                         1976 Aug 25     1432 x  32042 x 55.6
+                         1976 Aug 27     1502 x  32692 x 55.4
+                         1976 Sep 30     1518 x  34933 x 75.1
+                         1976 Dec 20      787 x  35463 x 80.1
+                         1977 Oct 23      302 x  33080 x 80.3
+9  Viking Lander 2       1976 Sep  3     1502 x  32692 x 55.4  1976 Sep  3
+10 VO2 Bioshield Base    1978 Mar  3      302 x  33080 x 80.3
+11 Fobos-2 (1F No. 102)  1989 Jan 29      867 x  81357 x  0.9
+                         1989 Feb 18     6145 x   6409 x  1.3
+12 Fobos-2 ADU           1989 Feb 18     6145 x   6409 x  1.3
+13 Mars Global Surveyor  1997 Sep 12      258 x  54021 x 93.3
+
+Notes: Objects 6 and 7 separated from 5; 9 and 10 separated from 8;
+and 12 separated from 11. The Mars-2 and Mars-3 landers separated
+from the orbiters prior to orbit insertion. The following objects
+failed to reach Martian orbit:
+F1 M-69 No. 521          1969 Mar 27   Impact on USSR
+F2 M-69 No. 522          1969 Apr  2   Destroyed during launch
+F3 Mariner 8             1971 May  9   Fell in Atlantic Ocean
+F4 M-71 No. 170          1971 May 10   Failed to leave Earth orbit (Kosmos-419)
+F5 M-73 No. 52S (Mars-4) 1974 Feb 10   Flew past Mars, in solar orbit
+F6 1F No. 101 (Fobos-1)  1989 Jan 23   Flew past Mars, in solar orbit
+F7 Mars Observer         1993 Aug 24   Flew past Mars, in solar orbit 
+                                       (may have exploded 1993 Aug 21?)
+
+
+The Delta stage from the ACE launch was very briefly in the L1 transfer
+orbit of 175 x km x 1.5 million km x 28.7 deg, from which it would have
+been perturbed into solar orbit. It then depleted its fuel with a
+retrograde burn that placed it back in Earth orbit of 174 x 840904 km x
+28.8 deg, from which it is expected to reenter after a few revs. (Thanks to
+Boeing/Delta folks for the info).
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug  1 2020   OrbView 2         Pegasus XL    Vandenberg       Remote sen.37A 
+Aug  5 1536   Soyuz TM-26       Soyuz-U       Baykonur LC1     Spaceship  38A
+Aug  7 1441   Discovery         Shuttle       Kennedy LC39A    Spaceship  39A
+Aug  7 2227   CRISTA-SPAS                     OV-103,LEO       Remote sen.39B
+Aug  8 0646   PAS 6             Ariane 4      Kourou ELA2      Comsat     40A
+Aug 14 2049   Kosmos-2345       Proton-K/DM2  Baykonur         Early Warn 41A
+Aug 19 1750   Agila 2           CZ-3B         Xichang LC2      Comsat     42A
+Aug 21 0038   Iridium SV022)    Delta 7920    Vandenberg SLC2W Comsat     43E
+              Iridium SV023)                                   Comsat     43D
+              Iridium SV024)                                   Comsat     43C
+              Iridium SV025)                                   Comsat     43B
+              Iridium SV026)                                   Comsat     43A
+Aug 23 0651   Lewis             LMLV-1        Vandenberg SLC6 Remote sen. 44A
+Aug 25 1439   ACE               Delta 7920    Canaveral LC17A Space sci.  45A
+Aug 28 0033   PAS 5             Proton-K/DM3  Baykonur         Comsat     46A
+Aug 29 1502   FORTE             Pegasus XL    Vandenberg      Space sci.  47A
+Sep  1 1400   Iridium MFS   )   CZ-2C         Taiyuan          Inert      48B
+              Iridium MFS   )                                  Inert      48F
+Sep  2 2221   Hot Bird 3  )     Ariane 44LP   Kourou ELA2      Comsat     49A
+              Meteosat 7  )                                    Weather    49B
+Sep  4 1203   GE-3              Atlas IIAS    Canaveral LC36A  Comsat     50A
+Sep 14 0136   Iridium SV027 )   Proton-K/DM5  Baykonur         Comsat     51
+              Iridium SV028 )                                  Comsat     51
+              Iridium SV029 )                                  Comsat     51
+              Iridium SV030 )                                  Comsat     51
+              Iridium SV031 )                                  Comsat     51
+              Iridium SV032 )                                  Comsat     51
+              Iridium SV033 )                                  Comsat     51
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       OPF Bay 3     STS-91  May 28
+OV-104 Atlantis        LC39A         STS-86  Sep 25
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                       
+MLP2/RSRM-61/ET/OV-104   LC39A       STS-86
+MLP3/
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

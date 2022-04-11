@@ -1,0 +1,162 @@
+Jonathan's Space Report
+No. 256                    1995 Sep 12                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Orbiter OV-105 Endeavour was launched at 1509:00 UTC on 1995 Sep 7 from
+pad 39A at Kennedy Space Center. The SRBs (RSRM-48) separated at about
+1511:03, and the main engines shut down at 1517:33, with separation of
+External Tank ET-72 a few seconds later. Endeavour was inserted into a
+65 x 365 km x 28.5 deg transfer orbit. The OMS 2 orbit circularization
+burn at 1551 UTC was successful, placing Endeavour in a 368 x 377 km x
+28.5 deg orbit. Opening of the payload bay doors was planned for around
+1630 UTC. Crew of STS-69 are David Walker, Kenneth Cockrell, James Voss,
+James Newman and Michael Gernhardt.
+
+The Spartan 201 satellite was grappled by the RMS arm at around 1500 UTC
+on Sep 8 and unberthed at 1515 UTC. It was released into orbit at 1543 UTC.
+Orbital parameters on Sep 9 were 368 x 376 km x 28.5 deg.
+Spartan 201 is built by NASA's Goddard Space Flight Center. It
+carries a Smithsonian Astrophysical Observatory ultraviolet
+telescope to study the Sun.
+
+
+Endeavour made re-rendezvous with Spartan 201 on Sep 10 at around 1420 UTC.
+However, Spartan appears to have entered safemode and was not in the
+expected orientation. Walker and Cockrell flew the Orbiter around
+Spartan until the RMS arm was aligned with the grapple fixture on
+Spartan, and Gernhardt drove the RMS in to grapple Spartan at 1502 UTC.
+The satellite was berthed on the SFSS (Spartan Flight Support Structure)
+around 1516 UTC and latched at 1521 UTC. The RMS then released the
+satellite by 1524. 
+
+The OMS-3 and OMS-4 burns were scheduled on Sep 10 at 1836 UTC and 1922
+UTC to raise the orbit for WSF operations to 396 x 404 km x 28.5 deg.
+
+
+The RMS was then used to grapple the Wake Shield Facility to establish a
+data connection; the RMS remained attached to WSF overnight, and then
+was used to unberth it early in the morning. The crew used the RMS to
+move WSF over the side of the Orbiter and expose it to the direction of
+flight (ram direction), to scrub it clean with the flow of the thin
+upper atmosphere impacting it at orbital speeds. WSF was then moved on
+the other side of the orbiter for release with its instrument side
+oriented to the orbital wake, protected from further contamination. The
+Wake Shield Facility was deployed into its first free flight on Sep 11
+at 1125 UTC.
+
+
+Mir
+----
+
+The EO-20 crew of Gidzenko, Avdeev, and Reiter, callsign `Uran', are now
+on board the Mir complex. On previous international flights to Mir, the
+visiting astronaut has had the title "Kosmonavt-issledovatel'"
+(Cosmonaut-researcher). On this mission Reiter has extra
+responsibilities and instead has the title "Bortinzhener-2" (Flight
+Engineer 2). Gidzenko is "Komandir" (Commander) and Avdeev is
+"Bortinzhener" (Flight Engineer), the usual designations. [Thanks to
+Ashot Bakunts].
+
+Progress M-28 undocked from the front port of Mir at 0607 UTC
+on Sep 4 and was deorbited over the Pacific later that day.
+[C. vd Berg]
+
+The EO-19 crew returned to Earth on Sep 11 in the Soyuz TM-21 spaceship.
+Anatoli Solov'yov and Nikolai Budarin undocked from the Kvant rear port
+on Mir  at 0330:44 UTC and landed at 50 deg 41'N 68 deg 15'E, 108 km
+northeast of Arkalyk in Kazakhstan, at 0652:40 UTC. [Thanks Vladimir!]
+Soyuz TM-21 had been used to ferry the EO-18 crew (including Norm
+Thagard) into space in March; the EO-18 crew returned to Earth in June
+aboard Atlantis, which had delivered the EO-19 crew to the station.
+The EO-19 flight lasted for 75 days 11 hr 20 min 22 sec, relatively
+short by Mir standards. Solov'yov has now spent 453 days in space
+on his four flights, which puts him fifth in the world rankings.
+
+
+Recent Launches
+--------------
+
+As reported in JSR 254, the JCSAT 3 satellite was launched on Aug 29 at
+0053:01 UTC by a Lockheed Martin Atlas IIAS.  Further data have become
+available: The AC-117 Centaur stage ignited
+at 0058:17 and burned for 4min 26s, shutting down at 0102:44 UTC in a
+155 x 395 km x 28.2 deg parking orbit. At 0116:45 UTC the AC-117 stage
+reignited for 1min 47s; Centaur MECO2 (main engine cutoff 2) was at
+0118:32 UTC. The Centaur then separated and inserted the Hughes HS-601
+JCSAT payload into a 167 x 81423 km x 23.5 deg orbit. On Aug 30, Space
+Command elements gave JCSAT 3 in a 260 x 80799 km x 23.2 deg orbit.
+The Centaur stage has not yet been cataloged. JCSAT 3 is owned
+by Japan Satellite Systems (Kabushiki-gaisha Nihon Sateraito Sisutemuzu).
+Thanks to Peter Collins (Cape Canaveral Air Station) and Jun Takei (JSAT) for
+information.
+
+Obituary
+--------
+
+Reinhard Furrer, who flew on the Spacelab D-1 mission in 1985, 
+died on Sep 9 at the age of 54. The Austrian-born physicist
+was a payload specialist for the DFVLR (German space agency)
+on the mission, aboard flight 61-A of Orbiter OV-099 Challenger.
+He died in the crash of an antique Me-108 airplane at an air
+show in Berlin. [Thanks to Andreas H"orstemeier for info.]
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug  2 2359   Prognoz-M2  )   Molniya-M       Plesetsk LC43/3 Science     39A
+              Magion 4    )                                   Science     39F
+Aug  3 2358   PAS 4           Ariane 4        Kourou ELA2     Comsat      40A
+Aug  5 1110   Mugunghwa-ho    Delta 7925      Canaveral LC17B Comsat      41A
+Aug  9 0121   Molniya-3       Molniya-M       Plesetsk LC43   Comsat      42A
+Aug 15 2230   Gemstar 1       LLV-1           Vandenberg SLC6 Comsat      FTO
+Aug 29 0053   JCSAT 3         Atlas IIAS      Canaveral LC36B Comsat      43A
+Aug 29 0641   N-STAR a        Ariane 44P      Kourou ELA2     Comsat      44A
+Aug 30 1933?  Kosmos-2319     Proton-K/DM2    Baykonur        Comsat?     45A
+Aug 31 0650   Sich-1          Tsiklon-3       Plesetsk LC32   Rem.sensing 46A
+              FASat-Alfa                                      Comsat      46A
+Sep  3 0900   Soyuz TM-22     Soyuz-U2        Baykonur LC1    Spaceship   47A
+Sep  7 1509   Endeavour       Shuttle         Kennedy LC39A   Spaceship   48A
+Sep  8 1643   Spartan-201                     OV-105, LEO     Astronomy   48B
+Sep 11 1125   WSF 2                           OV-105, LEO     Micrograv.  48C
+                                                                                  
+Reentries
+---------
+
+Sep  4        Progress M-28   Deorbited
+Sep  6        Kosmos-2314     Deorbited
+Sep 11        Soyuz TM-21     Landed in Kazakhstan
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-73  Sep 26
+OV-103 Discovery       OPF Bay 1     OMDP
+OV-104 Atlantis        OPF Bay 2     STS-74  Oct 26
+OV-105 Endeavour       LEO           STS-69  
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-51                VAB Bay 1  STS-74
+ML3/RSRM-50/ET-73/OV-102   LC39B      STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

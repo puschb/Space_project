@@ -1,0 +1,75 @@
+Jonathan's Space Report
+No. 525                                         2004 May 9, Somerville, MA
+------------------------------------------------------------------------------
+
+EDITORIAL APOLOGY: Because of a security hole someone managed to spam
+the JSR mailing list last week. If you have received spam coming from
+planet4589.org, I apologize. I'm investigating and have taken action to
+prevent a recurrence. The spammer does not actually have your
+email addresses, but merely caused a message to be sent to the list. 
+  - Jonathan McDowell
+ 
+The Soyuz TMA-3 spaceship landed in Kazakhstan on Apr 30, returning the
+Expedition 8 and ESA DELTA crews to Earth. Mike Foale, Aleksandr Kaleri
+and Andre Kuipers entered TMA-3 from the Station's Pirs module and
+closed the hatches at 1747 UTC on Apr 29. They undocked from Pirs at
+2052 UTC and fired their deorbit engines at 2320 UTC. The 115 m/s burn
+near apogee lasted 4min 23s and lowered the orbit from 354 x 371 km to
+about -32 x 369 km. The orbital and propulsion modules were jettisoned
+at 2345 UTC, and the descent module landed near 50N 67E at 0012 UTC on
+Apr 30. Soyuz TMA-4 is docked to the Station and Gennadiy Padalka
+and Michael Fincke are continuing aboard with Expedition 9.
+
+Russia launched the Ekspress AM-11 satellite on Apr 26. Launch was
+Apr 26 2037 UTC (as confirmed from element sets).
+Ekspress AM-11 has a launch mass of 2542 kg; built by NPO PM, it has a
+payload from the French company Alcatel with Ku and C band
+communications transponders. The Krunichev Proton-K rocket, serial
+ 410-08, put the Energiya Blok DM 11S861-01 (serial no. 14L) upper stage
+into parking orbit. The DM made two burns to reach geostationary orbit
+and separated at 0310 UTC on Apr 27. (Russian sources refer to the upper
+stage as a Blok DM-01, although the 11S861-01 has previously been
+designated Blok DM-2M.)
+
+After 34 years without any tracking data, the distant Earth satellite
+Vela 3A (Vela 5, 1965-058A) has been rediscovered. Rob McNaught observed
+the object, and after preliminary identification as a Vela satellite by
+Tony Beresford and others, Mike McCants clinched the ID as Vela 3A with
+a detailed orbit propagation. The satellite was launched in 1965 into a
+106451 x 115635 km x 35.4 deg orbit. It was last seen in 1970 in a 84051
+x 138704 km x 31.8 deg orbit, and is now in a 52730 x 172338 km x 38.9
+deg orbit. In the meantime, numerical integration shows its inclination
+has varied between 13 and 73 degrees due to solar perturbations.
+
+Boeing Sea Launch orbited the DirecTV-7S satellite on May 4. The 5483 kg
+Loral-1300 communications satellite was placed in equatorial
+geostationary transfer orbit with a single direct-ascent burn of the
+Zenit-3SL's Blok DM-SL third stage. Usually the Zenit-3SL enters parking
+orbit and makes a second burn to GTO, but the large mass of DirectTV-7S
+required the direct-ascent approach. The Zenit-3SL rocket has two lower
+stages made by the Ukrainian Yuzhnoe company and the upper DM-SL stage
+made by Energiya; it is launched from a floating platform on the
+equator.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Apr 16 0045   Superbird 6       Atlas IIAS      Canaveral SLC36A  Comms      11A
+Apr 18 1559   Shiyan 1 )        CZ-2C           Xichang           Imaging    12A  
+              Naxing 1 )                                          Tech       12
+Apr 19 0319   Soyuz TMA-4       Soyuz-FG        Baykonur LC1      Spaceship  13A
+Apr 20 1657   Gravity Probe B   Delta 7920      Vandenberg SLC2W  Science    14A
+Apr 26 2037   Ekspress AM-11    Proton-K/DM-01  Baykonur LC200/39 Comms      15A
+May  4 1242   DirecTV-7S        Zenit-3SL       Odyssey, Pacific  Comms      16A 
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   

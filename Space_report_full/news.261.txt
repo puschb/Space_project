@@ -1,0 +1,104 @@
+Jonathan's Space Report
+No. 261                    1995 Oct 23                     Tucson, AZ
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Columbia was launched at 1353 UTC on Oct 20 on the STS-73 mission.
+RSRM-50 SRB separation came at 1355:04, with main engine cutoff around
+1401:30 and external tank ET-73 separating shortly afterwards. This left
+orbiter 102 in an elliptical transfer orbit, with firing of the OMS
+engines due around 1435 UTC. The OMS-2 burn was successful and left
+Columbia in a 90.0 min, 267 x 278 km x 39.0 deg orbit.
+ The US Microgravity Lab 2 mission uses a Spacelab laboratory module in
+the cargo bay and an Extended Duration Orbiter pallet in the rear of the
+bay. Columbia is scheduled to land on Nov 5 after a flight lasting 15
+days 22 hours.
+
+
+Mir
+----
+
+Astronauts Thomas Reiter and Sergey Avdeev carried out a 5h 11m
+spacewalk on Oct 20 from 1155 to 1706 UTC (hatch open to hatch close).
+They used the airlock on the Kvant-2 module.
+Reiter was transferred to the end of the Spektr module using the Strela
+crane and installed  experiments on the Spektr science platform.
+
+
+Recent Launches
+--------------
+
+An Ariane 42L was successfully launched into geostationary transfer
+orbit on Oct 19. It delivered to orbit the Astra 1E satellite, a Hughes
+HS-601 comsat which will provide television broadcasting services for
+the Luxembourg-registered company SES (Societe Europeene des Satellites).
+On Oct 19 Astra 1E was in a 504 x 35845 km x 4.2 deg transfer orbit
+with a period of 638.13 min.
+
+The US Navy UHF F6 communications satellite, also an HS-601 model,
+was launched on Oct 22 by a Lockheed Martin Atlas II from
+Cape Canaveral.
+
+On Oct 18 Luch-1 was drifting at 1.3deg W per day over 82.1 deg E.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Sep  3 0900   Soyuz TM-22     Soyuz-U2        Baykonur LC1    Spaceship   47A
+Sep  7 1509   Endeavour       Shuttle         Kennedy LC39A   Spaceship   48A
+Sep  8 1543   Spartan-201                     OV-105, LEO     Astronomy   48B
+Sep 11 1125   WSF 2                           OV-105, LEO     Micrograv.  48C
+Sep 24 0006   Telstar 402R    Ariane 4        Kourou ELA2     Comsat      49A
+Sep 26 1120   Resurs-F        Soyuz-U         Plesetsk LC43-4 Rem.sensing 50A
+Sep 29 0425   Kosmos-2320     Soyuz-U         Baykonur LC31   Recon       51A
+Oct  6 0323   Kosmos-2321     Kosmos-3M       Plesetsk LC132  Navsat      52A
+Oct  8 1851   Progress M-29   Soyuz-U         Baykonur LC1    Cargo       53A
+Oct 11 1626   Luch-1          Proton-K/DM2M   Baykonur        Data Relay  54A
+Oct 19 0038   Astra 1E        Ariane 42L      Kourou ELA2     Comsat      55A
+Oct 20 1353   Columbia       ) Shuttle        Kennedy LC39B   Spaceship   56A
+              Spacelab USML-2)
+Oct 22 0800   UHF F6          Atlas II        Canaveral LC36  Comsat
+
+Reentries
+---------
+
+Sep  4        Progress M-28   Deorbited
+Sep  6        Kosmos-2314     Deorbited
+Sep 11        Soyuz TM-21     Landed in Kazakhstan
+Sep 18        Endeavour       Landed at KSC
+Sep 29        ODERACS IIB     Reentered
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-73  Oct 20
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        LC39A         STS-74  Nov  
+OV-105 Endeavour       OPF Bay 3     STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-51/ET-74/OV-104   LC39A      STS-74
+ML3/                       LC39B      STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

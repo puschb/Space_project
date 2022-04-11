@@ -1,0 +1,173 @@
+
+Jonathan's Space Report
+No. 418                                           2000 Jan 19 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Obituary
+--------
+
+Geoff Perry, the world renowned founder of the Kettering Group, died
+suddenly in Cornwall on Jan 18 at the age of 72. Geoff, formerly a
+physics teacher at Kettering Grammar School, taught his students to
+track short wave radio signals from Soviet satellites, and eventually
+established a world-wide network of experts who figured out what was
+going on in the Soviet space program. He and his team came to public
+prominence in 1966 with their independent discovery of the Plesetsk
+launch site. I'm glad that Geoff lived long enough to see the
+declassification of the former Soviet missions and discover that the
+`answers in the back of the book' agreed for the most part with his own
+sleuthing, but I'll miss his insight and comprehensive knowledge. 
+
+Errata
+------
+
+Some errata: I am glad to report the Rokot launch vehicle at
+Plesetsk was not damaged in the December accident, and neither
+was the payload. Only the fairing was ejected and written off.
+Krunichev will therefore most likely be able to launch the
+vehicle this spring. However, the new plan is to launch two
+dummy satellites and use the uprated Briz-KM upper stage; see below.
+
+In JSR417 I listed KOMPSAT as a KAIST (Korea Adv. Inst of Space Tech.)
+project, which was a mistake - I got it right in JSR 416, it is a KARI
+(Korea Aerospace Research Inst.) mission. KARI, in Taejon, also
+flies Korea's sounding rockets and will develop the Korean satellite
+launch vehicle.
+
+
+Galileo
+-------
+Galileo safely completed the Europa-26 encounter on Jan 3.
+At 1800 UTC on Jan 3 Galileo passed 343 km from Europa;
+at 0333 on Jan 4 it flew 343000 km from Jupiter's cloud tops;
+at 0656 on Jan 4 it flew 214000 km from Io. The Galileo
+Europa Mission ends on Jan 31, to be followed by the Galileo
+Millenium Mission which is likely to be approved in the next
+few weeks.
+
+
+Rokot
+-----
+In penance for spreading the incorrect Rokot rumour, and since we're
+short on launches this week, I'll present some details of the Rokot
+launch vehicle.
+
+The first ICBM designed by the Chelomei bureau (the ancestor of the
+Krunichev company), the UR-100 rocket (article 8K84) was first tested on
+1965 Apr 19. The UR series of Universal Rockets also included the larger
+UR-200 missile, tested in 1963 but then cancelled, and the UR-500 which
+became today's Proton space launch vehicle. The UR-100 was 1.6m in
+diameter; its replacement UR-100N (article 15A30) was a larger 2.5m
+diameter rocket which could fit in the same silo. The UR-100N was test 
+flown for the first time on 1973 Apr 9 (although some sources suggest 
+1972). As part of a general upgrade of Soviet missiles, the UR-100NUTTKh
+version (the UTTKh abbreviation means `tactical-technical upgrade') was
+test-flown starting on 1977 Oct 26. The UR-100N and UR-100NUTTKh rockets
+have now made about 145 flights with only 3 failures. They are
+known to NATO as the SS-19 (the original UR-100 was the SS-11)
+
+The hydrazine/nitrogen tetroxide fuelled  UR-100NUTTKh has two main
+stages and a post-boost stage all using engines from KB Khivavtomatiki;
+four RD-0233 on stage 1, one RD-0235 (and four small RD-0236 verniers) 
+on stage 2, and one RD-0237 on the post-boost stage.
+
+The Rokot launch vehicle is based on refurbished UR-100NUTTKh missiles
+with a Briz upper stage replacing the post-boost stage.  Rokot (which
+means `roar') is marketed in the West by EUROCKOT Launch Services, a
+joint venture between DaimlerChrysler Aerospace and Krunichev. (They put
+a 'c' in 'Rockot', probably to make it sound more like 'rocket'). The
+original 14S12 Briz-K is conical in shape, probably matching the size of
+the old post-boost stage. It uses the KB KhimMash S5.92 engine that was
+flown on the Fobos probes' ADU stage and will also be part of the new
+Fregat upper stage from Lavochkin. The S5.92 has a thrust of 20kN.
+Future launches of Rokot will use the 14S45 Briz-KM which is a
+repackaged Briz-K, cylindrical in shape and with a larger payload
+adapter and fairing. A 14S43 Briz-M has also been developed which is a
+Briz-KM with an extra torus fuel tank, for use as a Proton upper stage,
+but its first chance at a test flight was lost when the Proton carrier
+vehicle crashed last summer.
+
+There have been three test flights of the Rokot so far. The first two  
+were deliberate suborbital flights of which few details are available;
+the apogee was around 900 km, and the Briz stage was fired several
+times, but it's not clear what the maximum velocity reached was, and so
+I don't know how close the flights were to reaching orbit. The third
+flight was an orbital test flight which placed a small 70 kg test
+satellite (Radio-ROSTO) in a 1881 x 2163 km x 65 deg orbit. The Briz  
+stage disintegrated a few hours later generating dozens of pieces of
+cataloged orbital debris; I'm guessing this problem has been fixed
+in the new Briz-KM, probably with a depletion burn.
+
+As far as I am aware, all launches so far of the UR-100 and UR-100N
+series rockets have been from the Baykonur spaceport. The forthcoming
+test launch of Rokot will be from complex 133 at Plesetsk, where
+Krunichev has taken over an old Kosmos pad. The new pad verification
+test launch is now expected to carry a pair of dummy satellites;
+space.com suggests they will be simulated Iridium satellites, since the
+bankrupt Iridium still has the first commercial booking of Rokot later
+this year (A similar pair of dummy Iridium payloads was used on the
+first test launch of the Chinese CZ-2C/SD).
+
+The UR-100NUTTKh second stage places the payload stack in a -2727 x 256
+km suborbital trajectory. The first Briz-KM burn 5 min after launch
+will put the stack in a 200 x 700 km transfer orbit, and the second Briz
+burn 64 min after launch circularizes the orbit at apogee.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  3 1623   Helios 1B  )      Ariane 40      Kourou ELA2      Imaging    64A
+              Clementine )                                      Sigint     64B
+Dec  3 1951   Mars Polar Lander                MPL Cruise Stage Lander     01D?
+Dec  3 1951   Scott Probe   )                  MPL Cruise Stage Lander     01E?
+              Amundsen Probe)                                   Lander     01F?
+Dec  4 1853   Orbcomm FM30 )    Pegasus XL/HAPS Wallops         Comsat     65A
+              Orbcomm FM31 )                                    Comsat     65B
+              Orbcomm FM32 )                                    Comsat     65C
+              Orbcomm FM33 )                                    Comsat     65D
+              Orbcomm FM34 )                                    Comsat     65E
+              Orbcomm FM35 )                                    Comsat     65F
+              Orbcomm FM36 )                                    Comsat     65G
+Dec 10 1432   XMM               Ariane 5       Kourou ELA3      Astronomy  66A
+Dec 11 1940   SACI-2            VLS            Alcantara        Research   F05
+Dec 12 1738   DMSP 5D-3 F-15    Titan 23G      Vandenberg SLC4W Weather    67A
+Dec 18 1857   Terra             Atlas 2AS      Vandenberg SLC3E Rem.Sens.  68A
+Dec 20 0050   Discovery         Space Shuttle  Kennedy LC39B    Spaceship  69A
+Dec 21 0712   KOMPSAT    )      Taurus         Vandenberg 576E  Imaging    70A
+              ACRIMSAT   )                                      Science    70B
+              Celestis-03)                                      Burial     70C
+Dec 22 0050   Galaxy 11         Ariane 44L     Kourou ELA2      Comsat     71A
+Dec 26 0800   Kosmos-2367       Tsiklon-2      Baykonur LC90    Recon      72A
+Dec 27 1913   Kosmos-2368       Molniya-M      Plesetsk LC16    Early Warn 73A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay  1    STS-92  2000 Jun?    ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Mar 16  ISS 2A.2
+OV-105 Endeavour       LC39A         STS-99  2000 Jan 31? SRTM
+
+
+MLP1/
+MLP2/                          LC39B
+MLP3/RSRM-71/ET-92/OV-105      LC39A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

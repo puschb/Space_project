@@ -1,0 +1,195 @@
+Jonathan's Space Report
+No. 687                                                    2013 Oct 9, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 37 is underway with commander Fyodor Yurchikin, FE-5 Luca
+Parmitano, FE-6 Karen Nyberg, FE-1 Oleg Kotov, FE-2 Sergey Ryazanskiy
+and FE-3 Michael Hopkins; the latter three were launched in Soyuz
+TMA-10M on Sep 25. Ryazanskiy is the grandson of space pioneer Mikhail
+Ryazanskiy, chief Soviet guidance designer of the Sputnik era  (thanks
+to A. Krasil'nikov for confirming this). Soyuz TMA-10M docked with the
+Poisk module 5h 46min after launch.
+
+Ferry ship Soyuz TMA-09M is at Rassvet. Cargo ship ATV-4 is at the Zvezda module and
+Progress M-20M is at the Pirs module.
+
+On Sep 22 the Cygnus cargo ship was in a 407 x 413 km orbit preparing for a second attempt to
+rendezvous with ISS. On Sep 23 orbit was raised to 417 x 421 km, and on Sep 27
+lowered to 399 x 413 km to start the approach.
+
+On Sep 29 Cygnus completed its  rendezvous with ISS, reaching a 250m
+hold point at 0908 UTC and the 10 meter capture point at 1050 UTC. The
+SSRMS arm captured Cygnus at 1100 UTC. The astronauts have begun
+unloading the ship's cargo.
+
+Fengyun-3
+----------
+
+The third Fengyun-3 satellite, 'di san ke fengyun san hao', was launched
+from Taiyuan Space Center on Sep 23 into an 801 x 815 km x 98.8 deg orbit
+with a 1010 local time descending node.
+
+Kuaizhou
+--------
+
+The Kuaizhou-1 satellite was launched by China's new Kuaizhou small
+quick-response launch vehicle on Sep 25. "Kuaizhou" means "fast vessel"
+and might best be translated as "Clipper" or "Swift Boat". The solid
+fuel vehicle is thought to be built by CASIC in collaboration with the
+Harbin Institute of Technology and may be a derivative of the
+DF-21 family, like the failed KT-1 launch vehicle of 2002-2003.
+Development of the rocket began in 2010. Its initial orbit was 275 x 293
+km x 96.7 deg, raised on Sep 27 to 299 x 306 km. The satellite payload
+is operated by the State Remote Sensing Center.
+
+Falcon 9
+--------
+
+The first launch of the Falcon 9 v1.1, a significant upgrade of the Falcon 9 rocket,
+was successful and placed the CASSIOPE payload and several small satellites in orbit.
+
+CASSIOPE is a Canadian Space Agency satellite carrying two payloads: the CASCADE high bandwith
+Ka-band communications relay package and the ePOP suite of instruments to study
+the polar ionosphere. The satellite is built by MacDonald, Dettwiler and Associates (MDA Ltd.)
+using a Bristol Aerospace spacecraft bus.
+
+POPACS consists of a spacecraft in the form of a 3U cubesat which splits after deployment
+into 4 spacer sections that release three 0.10m diameter aluminium spheres
+which are to be used as passive atmospheric density calibration probes.
+
+Cornell University's CUSat satellite carries a differential GPS
+navigation system and pulsed plasma thrusters. It was originally intended to
+separate into two pieces but I understand this will not now happen.
+
+DANDE, the Drag and Atmospheric Neutral Density Explorer, is a payload from the University
+of Colorado. The 38 kg sphere carries a particle spectrometer to measure the outer atmosphere
+wind speed and direction, and a drag measurement system. It is attached to an 8 kg Lightband
+adapter which will be jettisoned later.
+
+Objects 55A to 55V have been cataloged, it will take a while to figure out which is which.
+The 20 cataloged objects are in (234-444) km x (1380-1598) km x 81.0 deg orbits,
+showing a scatter of 60 m/s which indicates a possible unexpected energetic event.
+According to SpaceX, the debris objects are probably insulation material that
+escaped from the second stage after a planned demonstration restart of the second stage
+was aborted and a prolonged venting of propellant (observed from southern Africa) began.
+
+Although more data is needed - things will become much clearer in a few weeks - 
+my current guess is that CASSIOPE is 55B, Falcon 9 is 55G and all remaining tracked
+objects (55A, 55C, 55E to 55V) are Falcon insulation debris; I believe DANDE, CUSAT
+and POPACS have not yet been cataloged. However, on Oct 8 SpaceTrack started relabelling
+the objects, so orbital data should be treated with care until things have settled down.
+
+The Falcon 9 v1.1 stage 2 is thought to be stretched 2.5m long compared to the original
+version, with an additional 15000 kg of propellant carried, lengthening the burn time
+from 346s to 375s. The new Merlin 1D-vac engine has a large increase in thrust, 801 kN
+compared to 342 kN for the older Merlin 1C.
+
+
+Astra 2E
+--------
+
+The Astra 2E communications satellite was launched by International Launch Services Proton
+on behalf of SES. This was the first Proton launch since its dramatic July failure, and
+the flight appears to have been fully successful.
+
+The Briz-M stage was inserted to a -496 x 171 km x 51.5 deg orbit and made burns
+to 174 x 175 km x 51.5 deg, 268 x 4999 km x 50.3 deg, 336 x 15157 km x 49.6 deg,
+455 x 35740 km x 49.1 deg and 4177 x 45715 km x 22.9 deg where it released Astra 2E,
+which is a Eurostar E3000 satellite carrying Ka-band and Ku-band transponders.
+By Oct 8 Astra 2E was in GEO drift orbit at 35702 x 37533 km x 0.1 deg over 42E.
+
+LADEE
+-----
+
+LADEE is in a 1460 x 375352 km x 38.6 deg Earth orbit. It passes its
+third and final Earth perigee of 1453 km altitude at 1056 UTC on Oct 1;
+on Oct 6 at 1802 UTC it entered the lunar gravitational sphere of
+influence. The orbit insertion burn at 1057 UTC on Oct 6, which placed
+LADEE in a 24-hour-period 269 x 15772 km selenocentric orbit inclined
+157 deg to the lunar equator. The LOI-2 burn is scheduled for 1038 UTC
+Oct 9 to lower the orbit to 247 x 2177 km. A further burn on Oct 12 at
+1040 UTC will circularize the orbit at 248 x 251 km.
+
+Juno
+-----
+
+The Juno mission completed has its first orbit of the Sun, heading out to the inner
+asteroid belt at 2.2AU and back for a 552 km flyby of Earth at 1922 UTC Oct 9, which sends
+it out again into a 0.98 x 5.44 AU x 4.5 deg solar orbit on its way to Jupiter orbit insertion.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Sep  1 1916   Yaogan 17     )    Chang Zheng 4C   Jiuquan LC603     SIGINT      46A
+              YW-17 subsat 1)                                       SIGINT      46B
+              YW-17 subsat 2)                                       SIGINT      46C
+Sep  7 0327   LADEE              Minotaur V       Wallops I. LA0B   Lunar probe 47A
+Sep 11 2323   Gonets-M No. 14 )  Rokot            Plesetsk LC133/3  Comms       48A
+              Gonets-M No. 16 )                                     Comms       48B
+              Gonets-M No. 17 )                                     Comms       48C
+Sep 14 0500   Hisaki             Epsilon          Uchinoura         Astronomy   49A
+Sep 18 0810   AEHF 3             Atlas V 531      Canaveral SLC41   Comms       50A
+Sep 18 1458   Cygnus Demo        Antares 110      Wallops I. LA0A   Cargo       51A
+Sep 23 0307   Fengyun-3 3        Chang Zheng 4C   Taiyuan LC9       Weather     52A
+Sep 25 0437   Kuaizhou-1         Kuaizhou         Jiuquan           Imaging?    53A
+Sep 25 2058   Soyuz TMA-10M      Soyuz-FG         Baykonur LC1	    Spaceship   54A
+Sep 29 1600   Cassiope   )       Falcon 9 v1.1    Vandenberg SLC4E  Comm/Sci    55B?
+              POPACS 1   )                                          Sci         55
+              POPACS 2   )                                          Sci         55
+              POPACS 3   )                                          Sci         55
+              DANDE      )                                          Sci         55
+              CUSat 1    )                                          Tech        55
+              CUSat 2    )                                          Tech        55
+Sep 29 2138   Astra 2E           Proton-M/Briz-M  Baykonur LC200/39 Comms       56A
+
+Suborbital launches
+-------------------
+
+The announcement by the US Navy of Trident missile tests in the Atlantic on Sep 10 and
+12 confirms the suggestion in the previous issue that the Sep 10 observations
+of reentering objects from the Canary Islands were indeed Trident reentry vehicles.
+
+The Aegis missiles launched on Sep 19 were stated to have reached a record altitude
+for the type, in excess of the 250 km achieved in the 2008 USA 193 antisatellite test.
+As a guess for now, I'm entering the altitude as "300 km?" in my records. (Many apogees
+I quote for suborbital flights are educated estimates, as indicated by the question marks.
+If you have better numbers, feel free to let me know.)
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Sep  3 0616   Radar target     Silver Sparrow      F-15, Med. Sea    Target       150?
+Sep  6 0520   Bulava RV        Bulava            K-550, White Sea    Test         100?
+Sep 10        MBRV?            Unknown             Wake Island       Target       300?
+Sep 10        MBRV?            eMRBM               C-17, Pacific     Target       300?
+Sep 10        Aegis KV         SM-3              USS Decatur,Pacific Interceptor  150?
+Sep 10        THAAD KV         THAAD               Meck Island       Interceptor  100?
+Sep 10        THAAD KV         THAAD               Meck Island       Interceptor  100?
+Sep 10 2110?  USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 10 2110?  USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 12        USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 12        USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 15 0920   Agni RV          Agni V              Wheeler I. IC4    Test         800?
+Sep 19 0030   Target           ARAV-C++            Kauai             Target       150?
+Sep 19 0032?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  300?
+Sep 19 0032?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  300?
+Sep 22 1001   Mk 21 RV?        Minuteman 3         Vandenberg LF10   Op. test    1300?
+Sep 26 1033   Mk 21 RV?        Minuteman 3         Vandenberg LF09   Op. test    1300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

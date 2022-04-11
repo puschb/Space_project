@@ -1,0 +1,146 @@
+Jonathan's Space Report
+No. 515                                            2003 Dec 5, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Recent Launches
+---------------
+
+The Russian Space Forces launched a UR-100NU (RS-18/SS-19) rocket on Dec
+5 at 0600 UTC from Baykonur. According to TASS the rocket was a standard
+suborbital missile training launch, which delivers dummy warheads to
+Kamchatka, but a Reuters story claims it is the first orbital launch of
+the Strela version of the rocket and placed a dummy payload in a 120 to
+160 km low orbit. The situation remains unclear at this writing.
+
+According to Kommersant newspaper, the Russian Space Forces have
+announced that the five debris pieces from Kosmos-2399 I mentioned in
+JSR 514 are not from an explosion, but (as I speculated) from a failed
+film capsule recovery. Several of the pieces are actually confused
+tracking of a single piece, the extremely long and thin unreeled
+photographic film, flapping free in low orbit. I hate it when the same
+thing happens when I take a tape out of the VCR, I imagine it must be
+even more annoying when it happens in orbit. The capsule is probably
+object 2003-35E, which decayed most slowly and reentered on Nov 30.
+
+Two Japanese spy satellites were lost during launch on Nov 29. The H-IIA
+rocket was destroyed 11 min after launch. This would be half way into
+the second-stage burn. Reports indicate that one of the two massive
+(10-tonne) solid boosters failed to separate from the first stage as
+planned less than two minutes after launch, possibly because leaking hot
+gas burned through the command wires. The extra mass decreased the first
+stage's acceleration. The first stage and the attached booster fell away
+about 6 minutes after launch, leaving the second stage to operate
+normally but starting off low and slow. According to the Kyodo news
+agency the H-IIA F6 reached an altitude of 422 km. This is similar to
+the planned altitude, but with the extra mass during first stage burn
+the rocket's velocity would have been far too low to reach orbit. JAXA
+has not released information on the velocity achieved.
+
+The two satellites carried by H-IIA F6, IGS-2a and IGS-2b, were
+classified Information Gathering Satellites built by Mitsubishi, one
+with an optical imaging payload and the other with a radar payload. They
+would have joined IGS-1a and IGS-1b in orbit to form an operational
+Japanese space reconnaissance system. 
+
+This is the first failure of the H-IIA, developed as an improved and
+simplified version of the H-II rocket. The Japan Aerospace Agency
+(JAXA), formed on October 1, now has to add this to the failure of the
+Midori (ADEOS) 2 satellite and the ongoing problems with the Nozomi Mars
+probe, making an inauspicious beginning for the organization.
+
+For reference, here are previous H-II and H-IIA flights. All launches to
+date are from Tanegashima's Yoshinobu LP1.
+
+Flight   Date         Variant   Fairing   Payloads            Result
+
+H-II-1F  1994 Feb  3  H-II         4S      OREX    (Ryusei)     Success
+                                           VEP     (Myojo)     
+H-II-2F  1994 Aug 28  H-II         4S      ETS-6   (Kiku-6)     Success
+H-II-3F  1995 Mar 18  H-II/2-SSB   5/4D    SFU                  Success
+                                           GMS-5   (Himawari-5) 
+H-II-4F  1996 Aug 17  H-II         5S      ADEOS-1 (Midori)     Success
+H-II-6F  1997 Nov 27  H-II         4/4D    TRMM                 Success
+                                           ETS-7   (Kiku-7)    
+H-II-5F  1998 Feb 21  H-II         4S      COMETS  (Kakehashi)  Stage 2 underburn
+H-II-8F  1999 Nov 15  H-II         5S      MTSAT                Failed to orbit
+H-IIA-1F 2001 Aug 29  H-IIA 202    4S      VEP-2                Success
+                                           LRE                 
+H-IIA-2F 2002 Feb  4  H-IIA 2024   4/4D-LC VEP-3                Success
+                                           MDS-1   (Tsubasa)   
+                                           DASH                
+H-IIA-3F 2002 Sep 10  H-IIA 2024   4/4D-LC USERS                Success
+                                           DRTS    (Kodama)     Success 
+H-IIA-4F 2002 Dec 14  H-IIA 202    5S      ADEOS-2 (Midori-2)   Success
+H-IIA-5F 2003 Mar 28  H-IIA 2024   4/4D-LC IGS-1a/IGS-1b        Success
+H-IIA-6F 2003 Nov 29  H-IIA 2024   4/4D-lC IGS-2a/IGS-2b        Failed to orbit
+
+(Note: ADEOS-1 and ADEOS-2 suffered later payload failures; DASH failed
+to separate from the launch vehicle; and DRTS and ETS-6 had payload propulsion
+problems. However, these problems were not related to the H-II/H-IIA.)
+
+Two Energiya Yamal-200 communications satellites for the Russian Gazkom
+company were launched by Proton on Nov 24. The satellites, with masses
+of 1360 and 1320 kg, were placed in geosynchronous drift orbit by a
+Krunichev Proton-K with an Energiya Blok DM-2M (11S861-01) upper stage.
+Space Command has not yet issued elements for both satellites.
+
+Lockheed Martin launched an Atlas IIAS from Vandenberg Air Force Base on
+Dec 2. The rocket orbited a payload for the National Reconnaissance
+Office. The NROL-18 "Libra" launch is thought to carry the second in a
+series of ocean reconnaissance systems developed by Lockheed
+Martin/Denver. The Centaur stage entered a 160 x 1200 km transfer orbit
+and then ignited at apogee to reach a 1010 x 1210 km x 63.4 deg 
+operational orbit. It separated from its payload 74 min after launch.
+According to optical observers, three objects have been seen in orbit,
+including the Centaur, implying that the payload separated in two (and
+not three) shortly after launch. 
+
+The ocean reconnaissance satellites are believed to be the follow-ons to
+a series begun in 1976 which used three satellites flying in formation,
+using radio interferometry to locate ships by their transmissions. It
+was therefore expected that the new Atlas-launched series would also use
+three satellites, but only two objects were seen in addition to the
+Centaur on the first launch in Sep 2001. A failure was rumoured on that
+mission, so observers were expecting to see three satellites this time
+too (or maybe four, if a separate dispenser was placed in orbit).
+However, since only two objects were seen this time (and it will be a
+week or two before we know for sure that there isn't a third)  we
+conclude that the new series uses a different technical approach
+involving only two satellites.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Oct  1 0403   Galaxy 13         Zenit-3SL       SL Odyssey        Comms      44B
+Oct 15 0100   Shenzhou 5 )      CZ-2F           Jiuquan           Spaceship  45A
+              SZ-5 OM    )                                        Imaging    45G
+Oct 17 0452   IRS-P6            PSLV            Sriharikota       Imaging    46B
+Oct 18 0538   Soyuz TMA-3       Soyuz-FG        Baykonur PL1/5    Spaceship  47A
+Oct 18 1617   DMSP F16          Titan 23G       Vandenberg SLC4W  Weather    48A
+Oct 21 0316   ZY-1 No. 2  )     CZ-4B           Taiyuan           Imaging    49A
+              CX-1        )                                       Comms      49B
+Oct 30 1343   SERVIS-1          Rokot           Plesetsk          Tech       50A
+Nov  3 0720   JB-4?             CZ-2D           Jiuquan           Micrograv  51A
+Nov 14 1601   Zhongxing-20      CZ-3A           Xichang           Comms      52A
+Nov 24 0622   Yamal-200 KA-1 )  Proton-K/DM-2M  Baykonur PL81/23  Comms      53A
+              Yamal-200 KA-2 )                                    Comms      53B
+Nov 29 0433   IGS-2a )          H-IIA 2024      Tanegashima       Imaging    F02
+              IGS-2b )                                            Radar      F02
+Dec  2 1004   USA 173?       )  Atlas IIAS      Vandenberg SLC3E  Sigint     54A
+              USA 173 PL/2?  )                                    Sigint     54
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |                                    |
+|   c/o                              |                                    |
+|  Center for Astrophysics,          |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   

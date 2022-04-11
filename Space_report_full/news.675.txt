@@ -1,0 +1,188 @@
+Jonathan's Space Report
+No. 675                                            2013 Mar  2     Somerville, MA USA
+--------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 34 is underway with commander Kevin Ford and flight engineers
+FE-1 Oleg Novitskiy, FE-2 Yevgeniy Tarelkin, FE-4 Roman Romanenko, FE-5
+Chris Hadfield, and FE-6 Tom Marshburn. Ferry ship Soyuz TMA-06M is
+docked at the Poisk module; Soyuz TMA-07M is at Rassvet; cargo ship
+Progress M-17M is at the Zvezda aft port.
+
+The Progress M-18M cargo ship was launched on Feb 11 at 1441 UTC and
+docked with the Pirs module at 2034 UTC the same day.
+
+Dragon CRS-2
+------------
+
+Falcon 9 flight 5 was launched on Mar 1 and delivered the Dragon CRS-2
+cargo ship to a 199 x 323 x 51.7 deg orbit. Dragon separated from the
+Falcon 9 second stage at 1519 UTC, but at 1522 UTC the solar panel
+covers were not seen to eject from the side of the Dragon trunk; this is
+needed to allow the solar arrays to deploy and deliver electrical power
+to the spacecraft (although there is also plenty of battery power).
+SpaceX founder Elon Musk tweeted that the Dragon thruster pods weren't
+initializing - apparently there was some kind of blockage or valve issue
+in three out of four thruster pods. But SpaceX resolved the issue,
+deployed the solar panels at about 1650 UTC, activated the thrusters,
+and at around 2210 UTC an orbit raising burn was carried out
+successfully to place Dragon in a 314 x 340 km x 51.7 deg orbit. A
+further burn at about 0023 UTC Mar 2 raised it again to 321 x 404 km.
+Rendezvous with ISS has been delayed by one day to Mar 3.
+
+The Dragon carries 677 kg of cargo in its pressurized cabin, as well as
+two 119 kg HRS Grapple Fixtures for the ISS Heat Rejection System and
+100 kg of related attach packaging in the `trunk' section.
+
+
+Landsat 8
+---------
+
+The Landsat Data Continuity Mission, Landsat 8, was launched from
+Vandenberg on Feb 11 into a 660 x 677 km x 98.3 deg, 1010LT
+sun-synchronous orbit. Landsat 8 carries the OLI (Operational Land
+Imager) and TIRS (Thermal Infrared Sensor) cameras. The satellite was
+built by Orbital Sciences' Gilbert, Arizona plant using the Leostar-3
+(former Spectrum Astro SA-200HP) bus and is 2787 kg at launch including
+395 kg of hydrazine propellant. The mission is controlled from
+NASA-Goddard with payload operations by the US Geological Survey.
+The first Landsat was launched in 1972.
+
+After separation from Landsat, the AV-035 Centaur upper stage was then
+placed in heliocentric orbit. The Earth escape trajectory had a perigee
+of 689 km and eccentricity of 1.16 corresponding to a C3 of 9.02
+km**2/s**2.
+
+
+PSLV-C20
+--------
+
+India's Polar Satellite Launch Vehicle placed a cluster of satellites in
+orbit on Feb 25. PSLV-C20 flew in the core-alone configuration (without
+strapon boosters) into a 770 x 787 km x 98.6 deg, 1805LT sun-synchronous
+orbit.
+
+The top payload, SARAL, is a joint project between the French space
+agency CNES and the Indian Space Research Organization (ISRO) for ocean
+studies; its main payload is the Altika Ka-band altimeter. 
+
+In the lower part of the dual launch adapter were two Canadian small
+satellites, Sapphire and NEOSSat. Sapphire is a Canadian Forces
+satellite for space object surveillance and missile early warning, based
+on the Surrey SSTL-150 bus and with a 0.15m visible-light telescope.
+NEOSSat, the Near Earth Object Surveillance Satellite, is a joint
+Canadian Space Agency/DRDC mission to survey asteroids and space debris,
+also with a 0.15m telescope. (DRDC is Defense Research and Development
+Canada, part of the Canadian Dept. of National Defense).
+
+The two 14 kg CanX-3 satellites use the UTIAS/Toronto Generic Nanosatellite Bus. UniBRITE
+was built by UTIAS for the University of Vienna, Austria; BRITE/TUGSAT-1 was built
+by the Technical University of Graz, Austra with help from UTIAS. The satellites each
+carry a 0.03m telescope-photometer for stellar photometry and astroseismology.
+
+AAUSAT3 is a 1U cubesat built by Aalborg University in Denmark and carries
+an AIS ship tracking receiver and a GPS reciever.
+
+STRaND-1 is a 3U cubesat, a project of Surrey Satellite and the Surrey Space Centre.
+The Surrey Training, Research and Nanosatellite Demonstrator carries a Google Nexus One
+smartphone as its main avionics, and features plasma thrusters and 
+a water-alcohol thruster.
+
+
+Reentry
+-------
+
+The CZ-4B No. Y12 third stage, object 38259/2012-021C, reentered over
+Texas at about 0915 UTC on Feb 27.  The Associated Press tells me that
+local news channel KLTV reported observations of fireballs moving south
+to north over Longview, Texas at that time; this is  consistent with the
+object's orbit and the Space-Track reentry prediction.    
+
+
+Another Iranian launch failure?
+-------------------------------
+
+Reports on the nasaspaceflight.com forum and from the Times of Israel
+allege another Safir launch vehicle failure around 2013 Feb 17. I
+haven't seen any evidence yet that would indicate a failure (rather than
+a postponement), beyond the fact that the expected Fajr satellite launch
+has not yet appeared.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Feb  1 0656   Intelsat IS-27     Zenit-3SL        SL Odyssey, Pacific Comms     F01
+Feb  6 1604   Globalstar M078 )  Soyuz-2-1A        Baykonur LC31/6   Comms      05A
+              Globalstar M093 )                                      Comms      05B
+              Globalstar M094 )                                      Comms      05C
+              Globalstar M095 )                                      Comms      05D
+              Globalstar M096 )                                      Comms      05E
+              Globalstar M097 )                                      Comms      05F
+Feb  7 2136   Amazonas 3       ) Ariane 5ECA       Kourou ELA3       Comms      06A
+              Azerspace        )                                     Comms      06B
+Feb 11 1441   Progress M-18M     Soyuz-U           Baykonur          Cargo      07A
+Feb 11 1802   Landsat 8          Atlas V 401       Vandenberg SLC3E  Imaging    08A
+Feb 25 1231   SARAL       )                                         Altimeter   09A
+              Sapphire    )                                         SpSur       09C
+              NEOSSat     )      PSLV-CA           Sriharikota     Astron/SpSur 09D
+              UniBRITE    )                                         Astronomy   09G
+              TUGSAT-1    )                                         Astronomy   09F
+              AAUSAT3     )                                         Ship nav    09B
+              STRaND-1    )                                          Tech       09E
+Mar  1 1510   Dragon CRS-2       Falcon 9          Canaveral SLC40   Cargo      10A
+
+Suborbital launches
+-------------------
+
+Reports indicate that the Syrian Missile Command has fired a series of
+Julan (Scud) missiles from the base at An Nasriyah towards Aleppo and
+other rebel targets, with 6 launches around Dec 10, 4 on Dec 20 and 10
+launches in the Feb 16-22 period.  Launches in the 5-10 Jan period may
+have been Iranian built Fateh-110 missiles. Some of these missile
+strikes have resulted in many casualties. Given the 280 km range it is
+likely that the apogees of these missiles marginally exceeded the 80 km
+value I use as the boundary of space. However, I will not list them
+individually in the table below.
+
+Israel tested its Arrow 3 (Hetz-3) exoatmospheric interceptor on Feb 25.
+
+An Iranian report quoted on nasaspaceflight.com suggests that the
+Iranian space monkey on the recent Pishgam mission aboard a Kavoshgar
+Type C sounding rocket was actually called `Aftab' (sunrise) and not
+`Pishgam'.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Jan 25?       Pishgam          Kavoshgar C      Semnan?               Life Sci     120
+Jan 26 2200   EKV CTV-01       GBI              Vandenberg LF23       Test flight 1000?
+Jan 27 0810   RV               BO-5/K-15        Visakhapatnam?        Test flight  300?
+Jan 27 1210?  Target RV        DF-21?           Jiuquan?              Target       200?
+Jan 27 1210?  Interceptor      DF-21?           Urumqi?               ABM Test     100?
+Jan 29 2250   NASA 41.107GT    Terrier Imp.Ori. Wallops Island        Atmos. Sci   130?
+Feb  7 0821   NASA 49.001UE    T-T Oriole N.       Poker Flat         Auroral      754
+Feb 13 0910   ARAV-B Target    Terrier Oriole      Kauai              Target       150?
+Feb 13 0915?  FTM-20 KV        Aegis SM-3          CG-20, Pacific     Interceptor  150?
+Feb 15        NASA 41.104GT    Terrier Imp Orion   White Sands        Tech         130?
+Feb           Julan RV?        Scud              An Nasriyah, Syria   Weapon        80?
+Feb 25 0600?  Arrow KV         Arrow 3           Palmachim?           Interceptor  100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+ 
+

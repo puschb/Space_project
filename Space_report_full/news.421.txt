@@ -1,0 +1,177 @@
+Jonathan's Space Report
+No. 421                                           2000 Feb  29  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Endeavour was launched at 1743:40 UTC on Feb 11 on mission STS-99. The
+RSRM-71  solid rocket boosters separated at 1745 UTC, and the OMS
+engines were fired in an OMS Assist maneuver from 1746 to 1747 UTC. 
+Main engine cutoff was at 1752 UTC followed by separation of the
+External Tank, ET-92. The Orbiter and ET were then in a low perigee
+orbit. At 1819 UTC a 2 minute OMS-2 firing placed Endeavour in circular
+orbit, while the ET coasted to reentry over the Pacific. 
+
+The 61-meter SRTM mast was deployed successfully at 2327 UTC on Feb 12.
+A failed thruster on the end of the mast concerned managers but did not
+affect the mission significantly. After some problems stowing the mast
+on Feb 21, Endeavour prepared for return on Feb 22. Deorbit burn was at
+2225 UTC and OV-105 landed on runway 33 at KSC at 2322 UTC. Endeavour
+was towed to Orbiter Processing Facility Bay 2 and will be prepared for
+the STS-97 mission.
+
+STS-99 mapped the land surface of the Earth between latitudes 60N and 54S
+for NIMA (US National Imagery and Mapping Agency), NASA, DLR (the
+German space agency) and ASI (the Italian space agency). Some of
+the NIMA data will remain secret for use by the US Dept. of Defense.
+
+Erratum: I'm informed that the Progress OKD actually stands for
+Otsek komponentov dozapravki, which makes more sense - I was working
+from a bad xerox, I guess.
+
+Compton
+-------
+
+One of NASA's Great Observatories, the Compton Gamma Ray Observatory,
+may end its mission prematurely. GRO's BATSE experiment is more
+sensitive than any other current or funded gamma ray burst detector and
+the astronomical community was hoping for up to another decade of
+operations, but NASA management are worried that a single gyro failure
+(following one which failed in November) might eventually mean the
+15-tonne satellite would reenter out of control. NASA-Goddard engineers
+developed a plan to deorbit it safely even if another gyro is lost, but
+some fear that Goddard management may recommend that GRO be brought down
+anyway, as soon as this June. This would be a big blow to the gamma ray
+astronomy community.
+
+Recent Launches
+---------------
+
+The ASTRO-E X-ray astronomy satellite was launched on Feb 10. However,
+the first stage of the M-V launch vehicle (serial M-V-4) went off
+course. An anomalous vibration was detected 25 seconds after launch. At
+41 seconds ceramic heat shields in  the first stage nozzle apparently
+broke and fell off, and thrust vector control on the nozzle was lost.
+
+Stage 1 separated at 1 min 15 s; stage 2 separated at 3 min 38 s. The
+third stage burn completed at 5 min 21s. Last signals from M-V-4 were
+received at 20 min after launch; the payload probably separated from the
+third stage at 23 min.
+
+Although the upper stages were able to fire and make some correction to
+the trajectory, ASTRO-E ended up with a perigee of only 80 km and an
+apogee of 410 km. It may have reentered on the first orbit at around
+0230-0300UTC somewhere between East Africa and Tibet or western China
+(depending on the altitude at injection); Space Command don't seemed to have
+cataloged any objects from the launch.
+
+I estimated possible TLE sets for the launch; very rough and in particular
+the argument of perigee is unknown. (Non-TLE aficionados should just
+ignore this...)
+
+80 km injection altitude:
+1F01226U 00F01    00041.06620000 2.39843756 +00000-0 +00000-0 0    10
+2F01226  31.3000 203.0000 0250000  90.0000   0.0000 16.10400000     0
+
+250 km injection altitude:
+1F01226U 00F01    00041.06620000 2.41406256 +00000-0 +00000-0 0    10
+2F01226  31.3000 203.0000 0250000   0.0000  90.0000 16.10400000     0
+
+
+The four Globalstar satellites launched on Feb 8 complete the Globalstar
+constellation. On Feb 11 the satellites were in a 912 x 932 km x 52.0
+deg orbit.
+
+
+In Russia, the search is still going on for the Fregat stage. The
+separate IRDT demonstrator was found and survived reentry well. The
+shield deployed to 2.5m diameter on reentry, but failed to extend to its
+4m drag chute mode during final descent. Fregat's shield was actually
+14m in diameter at full extent.
+
+The Proton returned to flight on Feb 12 with the launch of the Garuda 1
+communications satellite for the ACES consortium which involves PSN of
+Indonesia, PLDT of the Phillipines, Lockheed Martin, and the Thai
+company Jasmine. The satellite is a Lockheed Martin A2100AXX and has two
+large 12-m diameter L-band antennas for cellphone relay. The Proton
+placed Garuda and the Blok DM3 on a suborbital trajectory. The first DM
+burn put the stack in a 200 km orbit; burn 2 was to geostationary
+transfer orbit and burn 3 raised the orbit to 6233 x 35946 km x 16 deg.
+
+The NEAR space probe entered orbit around (433) Eros on Feb 14.
+Orbit insertion was at 1534 UTC into an approx. 323 x 370 km orbit
+(relative to the center of Eros) with a period of about 27 days.
+NEAR is controlled from APL in Maryland.
+
+The JAK and STENSAT picosats were ejected from OPAL on Feb 11.
+Thelma and Louise were ejected on Feb 12. Unfortunately no
+data was received from the picosats.
+
+Superbird 4 was launched on Feb 18. The Hughes HS-601HP satellite will
+provide services for Space Communications Corp of Japan. Mass is 1657 kg
+dry; it carries 23 Ku-band and 6 Ka-band transponders, a Marquardt R4D
+apogee engine and a XIPS ion propulsion stationkeeping system. It was
+launched by an Arianespace Ariane 44LP rocket with two liquid and two
+solid strapon boosters.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan 21 0103   DSCS III B-8      Atlas IIA      Canaveral SLC36A Comsat     01A
+Jan 25 0104   Galaxy 10R        Ariane 42L     Kourou ELA2      Comsat     02A
+Jan 25 1645   Zhongxing-22      CZ-3A          Xichang LC2      Comsat     03A
+Jan 27 0303   JAWSAT    )       Minotaur       Vandenberg CLF   Tech.      04A
+              OCS       )                                       Calib.     04B
+              OPAL      )                                       Tech.      04C
+              FalconSat I)                                      Tech.      04D
+              ASUSAT    )                                       Img/Com    04E
+Feb  1 0647   Progress M1-1     Soyuz          Baykonur LC1     Cargo      05A
+Feb  3 0926   Kosmos-2369       Zenit-2        Baykonur LC45    Sigint     06A
+Feb  3 2330   Hispasat 1C       Atlas IIAS     Canaveral SLC36B Comsat     07A
+Feb  7 0334   MEMS 1    )       -              OPAL, LEO        Tech.      04H	
+              MEMS 2    )                                       Tech.      04H
+Feb  8 2124   Globalstar 60)    Delta 7420     Canaveral SLC17B Comsat     08A
+              Globalstar 62)                                    Comsat     08B
+              Globalstar 63)                                    Comsat     08C
+              Globalstar 64)                                    Comsat     08D
+Feb  8 2320   IRDT           )  Soyuz/Fregat   Baykonur LC31    Tech       09
+              Dummy satellite)                                  Tech       09A
+	      Fregat         )                                  Tech       09B
+Feb 10 0130   ASTRO E           M-V            Kagoshima Mu     Astron.    F01
+Feb 11 0510   JAK                              OPAL, LEO        Comsat     04L
+Feb 11 0510   STENSAT                          OPAL, LEO        Comsat     04M
+Feb 11 1743   Endeavour     )   Shuttle        Kennedy LC39A    Spaceship  10A
+              SRL-3         )
+Feb 12 0910   Garuda 1          Proton/DM3     Baykonur LC81L   Comsat     11A
+Feb 12 1343   Thelma    )                      OPAL, LEO        Science    04J
+              Louise    )                                       Science    04K
+Feb 18 0104   Superbird 4       Ariane 44LP    Kourou ELA2      Comsat     12A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Sep?    ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Apr 23  ISS 2A.2a
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

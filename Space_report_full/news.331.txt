@@ -1,0 +1,174 @@
+Jonathan's Space Report
+No. 331                                     1997 Aug 23  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Progress M-35 successfully redocked with Mir at 1253 UTC on Aug 18.
+The Mir computer crashed just before the docking, and the station
+drifted out of attitude, causing the Progress automatic docking
+system to shut down; however, commander Solov'yov completed the
+docking by manual remote control. The computer was repaired by Aug 19,
+and the internal spacewalk was delayed only two days.
+
+Solov'yov and Vinogradov began their internal spacewalk on Aug 22.
+Vinogradov worked inside the Spektr module while Solov'yov helped
+him from the transfer compartment (perekhodniy ostek), the central
+node where all the big modules and the Soyuz transport craft are docked.
+Foale spent the spacewalk in the descent craft of the Soyuz, with
+the two hatches of the Soyuz habitation module between him and the
+depressurized transfer node. 
+
+Depressurization of the transfer node was begun at 0959 UTC, but when a
+leak in Vinogradov's glove was found a repressurization was ordered, at
+about 1030 UTC. He swapped the glove for a spare, and depressurization
+began again at around 1045 UTC.  The hatch to Spektr was opened at 1114
+UTC and Vinogradov entered the module at about 1138 UTC. By 1300 UTC the
+cables had been connected to the hatch and Vinogradov began
+unsuccessfully searching for the hull puncture. By 1400 UTC he was out
+of the module and work to seal the hatch was underway. The hatch was
+sealed at 1430 UTC and  repressurization of the transfer compartment
+began; repressurization was well underway at the 1447 UTC communications
+pass and was completed at 1503 UTC. Estimated times for the first
+depressurization about 0h30min, and for the second about 3h 50min.
+The formal time of the spacewalk according to NASA was 5h 04min 
+(suits on battery power to completion of repress), although usually
+NASA only counts to the beginning of repress which would make the time
+about 4h 31m. 
+
+Discovery completed mission STS-85, landing on RW33 at Kennedy Space
+Center at 1108 UTC on Aug 19. Atlantis/STS-86 was rolled out to the
+launch pad on Aug 18; it will go to Mir and trade Dave Wolf for Mike
+Foale.
+
+
+Recent Launches
+---------------
+
+China's Chang Zheng 3B launch vehicle made its first successful launch
+on Aug 19 from Xichang. The previous attempt failed shortly after
+takeoff causing numerous casualties. The CZ-3B ("Long March 3B") is
+built by the China Academy of Launch Vehicle Technology (CALT) near
+Beijing, with the first two stages made by the Shanghai Bureau of
+Astronautics. The powerful liquid-hydrogen third stage  made its fourth
+successful flight (it is also used on the CZ-3A).
+
+The CZ-2, CZ-3 and CZ-4 rockets all use a common two-stage core. There's
+an older version of these core stages, built by CALT, and an upgraded
+version, which is built by Shanghai for at least some of the variants.
+The various Long March rockets are:
+
+Variant  Prime         Configuration
+         Contractor
+ CZ-2C:  CALT          Old core
+ CZ-2D:  Shanghai      New core
+ CZ-2E:  CALT          New core with stretched stage 2, plus 4 liquid boosters
+ CZ-3:   CALT          Old core with small LOX/LH2 stage
+ CZ-3A:  CALT          New core with large LOX/LH2 stage
+ CZ-3B:  CALT          New core with large LOX/LH2 stage and 4 liquid boosters
+ CZ-4:   Shanghai      New core with conventional third stage
+
+CALT's old original CZ-2 (1974), Shanghai's FB-1 (1973-1981), and CALT's
+DF-5 ballistic missile are believed to have been similar to the CZ-2C.
+The DF-31 ballistic missile may be similar to the CZ-2D. CALT's CZ-1
+used to launch the first two Chinese satellites in 1970-71 was a smaller
+rocket of a different design.
+
+The CZ-3B placed in geostationary transfer orbit a Space Systems/Loral
+FS-1300 communications satellite, Agila 2. Agila 2, also known as
+Mabuhay, is owned by Mabuhay Phillipine Satellite Corp.
+
+The fourth Iridium launch, on Aug 21, placed five more Motorola/Lockheed
+cellphone satellites in orbit using a Boeing Delta 7920 launch vehicle
+from Vandenberg AFB in California. This is the first Delta launch since
+McDonnell Douglas merged with Boeing. 
+
+Lockheed Martin Astronautics (Denver) successfully launched the second
+LMLV-1 Lockheed Martin Launch Vehicle from Vandenberg's Space Launch
+Complex 6 on Aug 23. (The first vehicle, built by Lockheed/Sunnyvale
+prior to the Martin Marietta merger and at that time called LLV-1, was
+destroyed in an Aug 1995 launch attempt). The LMLV is launched from the
+pedestal originally build for one of the Shuttle's solid rocket
+boosters. The LMLV carried NASA's Lewis remote sensing satellite which
+features an imaging spectrometer (so-called `hyperspectral imager').
+Lewis is built and operated by TRW under NASA HQ's Small Spacecraft
+Technology Initiative (a companion satellite, Clark, is being built by
+the bit of Orbital Sciences Corp. that used to be CTA). Unlike most NASA
+satellites, there is no NASA center managing the program, although
+Stennis Space Center is involved in the data distribution. The Lewis
+satellite also carries an ultraviolet background astronomy experiment
+from Berkeley. Initial orbit of Lewis is 289 x 306 km  x 97.6 deg. The
+LMLV-1 uses a Thiokol/Utah Castor 120 first stage (a variant of the
+Peacekeeper ICBM's TU-120 motor), an Orbus 21D second stage from UTC/San
+Jose, and an Orbit Adjust Module with Olin/RRC thrusters. A hydrazine
+propellant system will raise Lewis' orbit to its operational altitude.
+Congratulations to the folks at LMA/Denver on getting the LMLV to orbit.
+
+Kosmos-2345 is now in near-geostationary orbit. It is reported to
+be heading for 24W and is therefore probably a Prognoz-class
+early warning satellite built by the Lavochkin association.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  1 1802   Columbia        ) Shuttle       Kennedy LC39A    Spaceship  32A
+              Spacelab MSL-1R )
+Jul  5 0411   Progress M-35     Soyuz-U       Baykonur LC1     Cargo      33A
+Jul  6 0600   Sojourner         -         Sagan Station, Mars  Rover
+Jul  9 1304   Iridium SV015 )   Delta 7920    Vandenberg SLC2W Comsat     34A
+              Iridium SV017 )                                  Comsat     34B
+              Iridium SV018 )                                  Comsat     34C
+              Iridium SV020 )                                  Comsat     34D
+              Iridium SV021 )                                  Comsat     34E
+Jul 23 0343   GPS SVN 43        Delta 7925    Canaveral LC17A  Navsat     35A
+Jul 28 0115   Superbird C       Atlas IIAS    Canaveral LC36B  Comsat     36A
+Aug  1 2020   OrbView 2         Pegasus XL    Vandenberg       Remote sen.37A 
+Aug  5 1536   Soyuz TM-26       Soyuz-U       Baykonur LC1     Spaceship  38A
+Aug  7 1441   Discovery         Shuttle       Kennedy LC39A    Spaceship  39A
+Aug  7 2227   CRISTA-SPAS                     OV-103,LEO       Remote sen.39B
+Aug  8 0646   PAS 6             Ariane 4      Kourou ELA2      Comsat     40A
+Aug 14 2049   Kosmos-2345       Proton-K/DM2  Baykonur         Early Warn 41A
+Aug 19 1750   Agila 2           CZ-3B         Xichang LC2      Comsat     42A
+Aug 21 0038   Iridium 22)       Delta 7920    Vandenberg SLC2W Comsat     43E
+              Iridium 23)                                      Comsat     43D
+              Iridium 24)                                      Comsat     43C
+              Iridium 25)                                      Comsat     43B
+              Iridium 26)                                      Comsat     43A
+Aug 23 0651   Lewis             LMLV-1        Vandenberg SLC6 Remote sen. 44A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       OPF Bay 3     STS-91  May 28
+OV-104 Atlantis        LC39A         STS-86  Sep 22
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                       
+MLP2/RSRM-61/ET/OV-104   LC39A       STS-86
+MLP3/
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

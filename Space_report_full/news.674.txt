@@ -1,0 +1,248 @@
+Jonathan's Space Report
+No. 674                                            2013 Feb 1     Somerville, MA USA
+--------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 34 is underway with commander Kevin Ford and flight engineers
+FE-1 Oleg Novitskiy, FE-2 Yevgeniy Tarelkin, FE-4 Roman Romanenko, FE-5
+Chris Hadfield, and FE-6 Tom Marshburn. Ferry ship Soyuz TMA-06M is
+docked at the Poisk module; Soyuz TMA-07M is at Rassvet; cargo ship
+Progress M-17M is at the Zvezda aft port.
+
+Progress M-16M undocked from the Pirs module at 1316 UTC on Feb 9 and
+was deorbited over the Pacific Ocean at 1619 UTC with impact of its
+debris at 1705 UTC. Progress M-18M is being prepared for launch.
+
+Naro
+----
+
+Success for South Korea as the S Korean/Russian KSLV-1 (Naro-1) rocket takes off
+from Naro Space Center. After two previous launch failures the rocket is
+reported to have placed its payload, STSAT-2C, in orbit. Planned orbit
+was 300 x 1500 km x 80 deg; US tracking shows the payload in a 292 x 1511 km x 80.3
+deg orbit, essentially perfect given possible different definitions of the
+reference sphere. The payload carries a laser reflector array
+for geodesy, an ionosphere instrument, and technology experiments.
+
+Naro-1 consists of an Angara-URM first stage built by the Russian
+Khrunichev company, and a solid second stage built by South Korea.
+KAIST, the Korea Advanced Institute for Space Technology (based in
+Daejon) developed the satellite and KARI, the Korea Aerospace Research
+Institute (Han-guk Hanggong Uju Yeon-guwon) led development the launch vehicle
+and carried out the launch. 
+
+The fact that a very significant part of the rocket is Russian rather
+than S Korean has led to arguments over whether S Korea is now the 13th 
+(or even just 11th) country to have its own capability to launch into
+orbit, or just another tourist paying for the ride.
+
+For the record, my take is that S Korea is nation no. 11-and-a-half,
+counting the European Space Agency as a quasi-nation. 
+
+       Date        Entity      Satellite     Rocket 
+
+ 1.    1957 Oct 4  USSR        PS-1          R-7 No. M1-PS 
+ 2.    1958 Feb  1 USA         Explorer 1    Jupiter-C No. RS-29
+ 3.    1965 Nov 26 France      A-1           Diamant A No. 1
+ 4.    1970 Feb 11 Japan       Ohsumi        Lambda-4S-5
+ 5.    1970 Apr 24 China       DFH-1         Chang Zheng 1 No. 601904
+ 6.    1971 Oct 28 UK          Prospero      Black Arrow R-3
+ 7.    1979 Dec 24 ESA         CAT-1         Ariane VO1
+ 8.    1980 Jul 18 India       Rohini RS-1   SLV-3-E1
+ 9.    1988 Sep 19 Israel      'Ofeq-1       Shaviyt 
+ 9 1/2 1995 Aug 31 Ukraine     Sich          Tsiklon-3 No. 801
+10.    2009 Feb  2 Iran        Omid          Safir OES.0002
+11.    2012 Dec 12 N Korea     KMS 3-2       Unha-3
+11 1/2 2013 Jan 30 S Korea     STSAT-2C      Naro-1 No. 3
+
+The Wikipedia page credits Ukraine with a 1991 launch of Soviet/Russian
+satellites by a Ukrainian-built rocket integrated in the USSR and
+launched by the Soviet UNKS space troops; I don't think this should
+count. The Sich launch was a Ukrainian built and owned satellite
+launched by a Ukrainian built rocket which was launched by space troops
+of the Russian Federation - I am inclined to count this one to Ukraine
+but it's still arguable.
+
+I consider the Russian Federation as the successor state of the USSR and
+don't count it separately. Sea Launch, of course, is another tricky case
+- I would count it as mostly Russian.
+
+France's first launch was from Algerian territory; its first orbital launch from
+French territory was on 1970 Mar 10. The UK launch was from Australian territory.
+
+
+TDRS 
+----
+
+NASA's new-generation Tracking and Data Relay Satellite, TDRS K, was
+launched on Jan 31 by a Lockheed Martin/ULA Atlas V 401 from Cape
+Canaveral. The new TDRS is based on the Boeing/El Segundo HS-601
+spacecraft bus. Atlas flight AV-036 entered a 183 x 24854 km x 26.5 deg
+parking orbit 18 min after launch, according to data provided by Justin
+Ray (spaceflightnow.com). The second burn at 0328 UTC reached a 4336 x
+35791 km x 25.7 deg orbit and the Centaur separated at 0334 UTC. TDRS K
+will use its R-4D propulsion system to reach geostationary orbit and
+become the operational TDRS 11. By Feb 10, TDRS K was in a 35422 x 35787
+km x 7.1 deg orbit over 150 deg West, drifting east at 2 deg/day.
+
+Sea Launch
+----------
+
+A major blow to Sea Launch as their Zenit-3SL launch vehicle failed on
+Feb 1. The rocket took off from the Odyssey floating launch platform at
+154W, 0N on the equator, but did not follow the correct trajectory
+because of a hydraulic pump failure 4 seconds after launch. The
+propulsion was shut down about 24 seconds after launch, with the vehicle
+falling in the Pacific at 56 seconds after launch, according to
+information on the Novosti Kosmonavtiki forum. Intelsat's IS-27
+communications satellite was aboard. IS-27 carried Ku and C band comms
+payloads as well as a UHF payload which was to be used by the Italian
+government.
+
+Globalstar
+-----------
+
+Six Globalstar low orbit mobile-phone satellites were placed in a 918 x
+926 km x 52.0 deg orbit by an Arianespace/Starsem Soyuz-2-1A rocket with
+a Fregat upper stage on Feb 6. The Soyuz third stage was suborbital,
+and the Fregat stage was deorbited shortly after deploying the satellites.
+
+The Globalstar satellite serial numbers are based on preliminary
+information given on the website nasaspaceflight.com and are subject to 
+revision.
+
+
+Ariane mission VA212
+--------------------
+
+Arianespace flew Ariane 5ECA launcher L568 on mission VA212 from Kourou on Feb 7,
+placing two communications satellite in geostationary transfer orbit. The EPC 568
+core stage flew a -995 x 157 x 6.0 deg path into the Atlantic; the ESC-A
+upper stage put the two satellites and the Sylda adapter into a 262 x 35830 km x 6 deg
+GTO.
+
+Amazonas 3 is a Loral 1300 satellite with a launch mass of 6265 kg,
+providing C and Ku band Hispamar service. Hispamar Satelites SA is a
+joint venture of the Spanish Hispasat company's Brazilian subsidiary
+and Brazilian carrier Oi/Telemar; the satellite is owned by the Hispasat
+Group based in Madrid and is considered a Spanish satellite.
+
+Azerspace is operated by Azercosmos for the Azerbaijan Ministry of
+Communications and Information Technologies; some capacity will also be
+used by Measat of Malaysia to provide services to Africa, and Measat
+calls the satellite Africasat-1A.
+
+2012 DA14
+----------
+
+Minor planet 2012 DA14, a 45-meter rock in a 0.9 x 1.1 AU x 10.3 deg solar orbit,
+will pass about 27700 km from Earth at 1926 UTC on 2013 Feb 15 in a hyperbolic
+27673 x -61552 km x 86.2 deg orbit (the negative apogee is a formal value derived
+from continuation of the standard definition). It will pass lunar orbit inbound
+at about 0240 UTC Feb 15, and outbound at 1200 UTC Feb 16. 
+
+I have compared the rock's trajectory with that of all tracked artificial Earth
+satellites for which current orbital elements are available; no satellites are at
+risk, with the closest approaches at 2000 km or more for inert space junk:
+
+  2013 Feb 15 1926UTC   1950 km  from (27046  1989-006AB rocket debris) at 27500 km over 94E 7S 
+  2013 Feb 15 1930UTC   3560 km  from (12546  1981-057C  Ariane CAT03) at alt 24200 km over 96E 3S
+  2013 Feb 15 1932UTC   3970 km  from (27405  1990-065W  CRRES canister) at alt 25300 km over 95E 1S
+  2013 Feb 15 1955UTC   2590 km  from (13666  1982-110E  PAM-D rocket stage) at alt 31500 km over 88E 15N
+  2013 Feb 15 2003UTC   3910 km  from (26763  1965-108AS rocket debris) at 27800 km over 93E 23N
+  2013 Feb 15 2006UTC   4140 km  from (27794  1965-108BJ rocket debris) at 28700 km over 84E 25N
+  2013 Feb 15 2013UTC   4400 km  from (25330  1998-027D  Blok-2BL rocket stage) at 33468 km over 95E 28N
+
+and for active satellites within 8500 km or less:
+  2013 Feb 15 1930UTC   8030 km  from (25030 1997-067A  USAF GPS SVN38) at 19850 km over 93E 2S
+  2013 Feb 15 1934UTC   8150 km  from (28082 2003-052A  Chinese ZX-20)  at 35808 km over 98E 0N
+  2013 Feb 15 1935UTC   8460 km  from (25460 1998-049A  Singapore-Taiwan-1) at 35740 km over 100E 1N
+  2013 Feb 15 1935UTC   7960 km  from (27603 2002-057A  New Skies NSS 6) at 35795 km over 95E 0N
+  2013 Feb 15 1935UTC   8040 km  from (27714 2003-013A  Indian Insat 3A) at 35800 km over 93E 0N
+  2013 Feb 15 1939UTC   8250 km  from (27516 2002-042B  JAXA Kodama ) at 35800 km over 91E 2N
+* 2013 Feb 15 1940UTC   7710 km  from (24880 1997-036A  Japanese Superbird C) at 35780 km over 93E 3N
+  2013 Feb 15 1942UTC   7960 km  from (26635 2000-080A  NRO USA 155) at 35790 km over 90E 7N
+  2013 Feb 15 1943UTC   8200 km  from (26388 2000-034A  NASA TDRS 8) at 35790 km over 89E 4N
+  2013 Feb 15 1945UTC   7880 km  from (25050 1997-071B  Indonesian Cakrawarta 1) at 35820 km over 90E 6N
+  2013 Feb 15 1951UTC   8190 km  from (23613 1995-035B  NASA TDRS 7) at 35900 km over 86E 9N
+  2013 Feb 15 1952UTC   7830 km  from (20355 1989-090B  NRO USA 48) at 36900 km over 91E 11N
+
+
+These calculations are approximate and I would welcome hearing from anyone who does more
+accurate computations which could correct or improve these predictions.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Dec  2 0202   Pleiades 1B        Soyuz ST-A/Fregat Kourou ELS        Imaging    68A
+Dec  3 2044   Eutelsat 70B       Zenit-3SL         SL Odyssey        Comms      69A
+Dec  8 1313   Yamal 402          Proton-M/Briz-M   Baykonur LC39/200 Comms      70A
+Dec 11 1803   X-37B OTV-3        Atlas V 501       Canaveral SLC41   Spaceplane 71A
+Dec 12 0049   Kwangmyongsong-3 F2 Unha-3            Sohae             Test      72A
+Dec 18 1612   Gokturk 2          Chang Zheng 2D    Jiuquan           Imaging    73A
+Dec 19 1212   Soyuz TMA-07M      Soyuz-FG          Baykonur LC1      Spaceship  74A
+Dec 19 2149   Skynet 5D          ) Ariane 5ECA     Kourou ELA3       Comms      75A
+              Mexsat-Bicentenario)                                   Comms      75B
+Jan 15 1625   Kosmos-2482  )     Rokot             Plesetsk LC133/3  Comms      01A
+              Kosmos-2483  )                                         Comms      01B
+              Kosmos-2484  )                                         Comms      01C
+Jan 27 0440   JSE Reda-4   )     H-2A 202          Tanegashima       Radar      02A
+              Jissho eisei )                                         Imaging    02B
+Jan 30 0700   STSAT-2C           Naro              Naro Space Ctr    Geod/Tech  03A
+Jan 31 0148   TDRS 11            Atlas V 401       Canaveral SLC41   Comms      04A
+Feb  1 0656   Intelsat IS-27     Zenit-3SL        SL Odyssey, Pacific Comms     F01
+Feb  6 1604   Globalstar M078 )  Soyuz-2-1A        Baykonur LC31/6   Comms      05A
+              Globalstar M087 )                                      Comms      05B
+              Globalstar M093 )                                      Comms      05C
+              Globalstar M094 )                                      Comms      05D
+              Globalstar M095 )                                      Comms      05E
+              Globalstar M096 )                                      Comms      05F
+Feb  7 2136   Amazonas 3       ) Ariane 5ECA       Kourou ELA3       Comms      06A
+              Azerspace        )                                     Comms      06B
+
+Suborbital launches
+-------------------
+
+NASA launched a Terrier / Improved Orion from Wallops on Jan 29 to test new lithium
+release experiments. The lithium clouds glow after release and allow scientists
+to track upper atmosphere winds.
+
+The VISIONS payload, the first launch of a Talos-Terrier-Oriole-Nihka rocket, 
+was launched into an aurora on Feb 7 from the Poker Flat Research Range near
+Fairbanks, Alaska. The rocket replaces the Black Brant XII (Talos-Terrier-Black Brant V-Nihka)
+as the highest-apogee suborbital research vehicle in NASA's sounding rocket stable.
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Dec  8 2100   AEB VS30/O V10   VS-30/Orion      Alcantara             Ionosphere   428
+Dec 13 0520   NASA 36.283UH    Black Brant IX   White Sands           XR Astron    257?
+Dec 17 0700   S-520-28         S-520            Uchinoura             Micrograv    312
+Dec 20 0351   Prithvi RV       Prithvi II       Chandipur IC3         Op Test      100?
+Jan 26 2200   EKV CTV-01       GBI              Vandenberg LF23       Test flight 1000?
+Jan 27 0810   RV               BO-5/K-15        Visakhapatnam?        Test flight  300?
+Jan 27 1210?  Target RV        DF-21?           Jiuquan?              Target       200?
+Jan 27 1210?  Interceptor      DF-21?           Urumqi?               ABM Test     100?
+Jan 28?       Pishgam          Pishgam?         Semnan?               Life Sci     120
+Jan 29 2250   NASA 41.107GT    Terrier Imp.Ori. Wallops Island        Atmos. Sci   130?
+Feb  7 0821   NASA 49.001UE    T-T Oriole N.    Poker Flat            Auroral      754
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm at cfa.harvard.edu    |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+

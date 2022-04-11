@@ -1,0 +1,181 @@
+Jonathan's Space Report
+No. 514                                          2003 Nov 24, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 8 crew of Foale and Kaleri continue their stay aboard the
+Station. The Shuttle fleet remains grounded with  return to flight
+expected in the second half of 2004.
+
+Recent Launches
+---------------
+
+China has launched a new communications satellite, Zhongxing-20. The
+CZ-3A launch vehicle took off from Xichang at 1601 UTC on Nov 14 and
+reached low parking orbit at 1611 UTC. A second burn of the cryogenic
+third stage put ZX-20 in elliptical transfer orbit of 212 x 41981 km x
+24.5 deg at around 1625 UTC. The satellite is probably part of the Feng
+Huo military communications system. By Nov 20 it was in geostationary
+orbit over 103 deg E. This was the fourth Chinese launch in a month.
+
+It looks like Space Command now agree with my assessment that the low
+perigee object from the Oct 21 Chinese launch is the rocket stage; the
+identities of objects 28058 and 28059 were swapped on Oct 29-30.
+Meanwhile ZY-1 No. 2 (CBERS-2) has raised its orbit to 773 x 773 km x
+98.5 deg.
+
+The Chinese recoverable satellite launched on Nov 3 is thought to be a
+successor to the FSW (Fanhui Shi Weixing) series. Chinese space expert
+Chen Lan reports that it is called Jianbin 4 (JB-4, "Pathfinder");
+Phillip Clark says that the earlier FSW satellites were JB-1 and that
+the ZY-2 satellites are also designated JB-3. On Nov 4, three objects
+were tracked in orbit from the FSW launch; 28078 and 28077 which are in
+191 x 322 km x 63.0 deg orbits are probably the payload and final stage
+respectively. 28076 is in a rapidly decaying 177 x 265 km x 62.9 deg
+orbit and is probably a piece of debris, despite being designated
+2003-51A. It probably reentered on Nov 4. A fourth piece, 28079,
+was cataloged later and also decayed rapidly - the two small pieces
+may be retro covers from the second stage.
+
+The JB-4 made small orbit raising manuevers on Nov 8 and 14. The reentry
+vehicle of the JB-4 separated from the main satellite at around 0142 UTC
+on Nov 21 and landed in Sichuan province at 0204 UTC. After separation
+the main satellite was tracked in a higher orbit of 192 x 357 km.
+
+The Kosmos-2399 spy satellite continues in orbit after the release of
+five small pieces in low orbit around Nov 19, 99 days into its mission.
+The Don class satellites do not normally release objects until the end
+of their mission, when they are sometimes destroyed by deliberate
+explosion. It could be that these are the first tracked pieces from such
+an explosion, or debris from a failed film capsule recovery attempt. The
+expected lifetime of Kosmos-2399 based on recent flights is 100-130
+days.
+
+ESA's SMART-1 lunar probe continues to operate its ion engine, with
+occasional flameouts at times of high radiation. On Nov 5 it was in a
+3058 x 38624 km x 6.9 deg orbit compared to its initial  672 x 35829 km
+x 6.9 deg trajectory.
+
+DMSP 5D-3 F16 has ejected its optics cover and cooler cover, cataloged
+as 2003-48D and E. Phillip Clark has pointed out that IRS-P6 is probably
+2003-46B, not 2003-46A.
+
+The SMEX program
+----------------
+
+NASA's Small Explorer program has selected new candidates
+for the SMEX-10 and SMEX-11 missions to be launched in
+2006-7. Five candidates will be studied until late 2004,
+and then two will be chosen to fly.
+
+SMEX was started in the early 1990s amid concerns that
+all of NASA's science missions cost billions and took decades
+to complete. There have been 7 SMEX launches so far, with
+one more being built and other recently cancelled.
+
+Satellite      Launch       Orbit (km x km x deg)   Mission
+
+SMEX-1/SAMPEX  1992 Jul  3  515 x  691 x 81.7    Earth radiation belts
+SMEX-2/FAST    1996 Aug 21  350 x 4169 x 83.0    Auroral studies
+SMEX-3/TRACE   1998 Apr  2  598 x  641 x 97.8    Solar EUV imager
+SMEX-4/SWAS    1998 Dec  6  634 x  699 x 70.0    Submillimeter astronomy
+SMEX-5/WIRE    1999 Mar  5  539 x  593 x 97.5    IR astronomy (failed)
+SMEX-6/HESSI   2002 Feb  5  588 x  609 x 38.0    Solar Hard X-ray imager
+SMEX-7/GALEX   2003 Apr 28  690 x  698 x 29.0    UV astronomical survey
+SMEX-8/SPIDR   Cancelled
+SMEX-9/AIM     2006?        500 x  500 x 97?     Noctilucent clouds
+
+The new candidates are:
+
+DUO    Dark Universe Observatory
+
+DUO carries seven X-ray telescopes each with a 1.6m focal length, giving
+a wide 3 square degree field of view with 45-arcsecond spatial
+resolution (compare Chandra's ACIS with 0.5-arcsecond resolution but
+only 0.1 square degree field of view). DUO's CCD imagers, based  on the
+EPIC-pn from XMM-Newton, will operate in the 0.3-10 keV range and scan
+6000 square degrees around the North Galactic cap and is expected to
+discover 8000 clusters of galaxies and over 100000 active nuclei. The
+cluster data will be used to constrain cosmological models. (DUO is
+based on the German  ABRIXAS mission, which would have done an all-sky
+survey, but whose power supply failed soon after launch). DUO is
+led by Richard Griffiths from CMU.
+
+IBEX   Interstellar Boundary Explorer
+
+The IBEX mission is the only one of the proposals to study particles
+rather than photons, making use of the remarkable ENA (energetic neutral
+atom) imager technology previously pioneered in near-Earth space physics
+to map out the physics of the heliopause. The satellite will carry two
+ENA imagers, one for high energy and one for low energy particles, and
+will be boosted beyond the Earth's magnetosphere to allow it to detect
+and map out the distribution of energetic particles that are created in
+the shock region between the solar wind and the interstellar medium, and
+eventually reach the vicinity of the Earth. IBEX will be boosted into
+a highly elliptical Earth orbit. If selected, it would be the first SMEX in
+high orbit. The mission is led by David McComas at Southwest Research
+Institute.
+
+NEXUS  Normal Incidence EUV Spectrometer
+ 
+This NASA-Goddard mission will observe the solar corona in the 450-800
+Angstrom range and try to get clues to the coronal heating mechanisms.
+The normal incidence telescope, which has been flown on sounding
+rockets, allows better spatial resolution, allowing NEXUS to get individual
+spectra of the small flare regions on the Sun so spectacularly imaged
+by the earlier TRACE mission. PI is J. Davila.
+
+NuStar Nuclear Spectroscopic Telescope Array  
+
+NuStar would be the first mission to fly a focussing telescope in space
+for energies in the 8-80 keV range. It will survey this energy band for
+X-ray emission from quasars and Galactic black hole binaries, and obtain
+spectra of hard X-ray emission from supernova remnants and study the
+spectral lines created by nuclear transitions which dominate this
+spectral range. The mission is led by Fiona Harrison (Caltech).
+
+JMEX   Jupiter Magnetosphere Explorer
+
+The JMEX project would put an ultraviolet observatory in low Earth
+orbit, will all of its observing time dedicated to looking at Jupiter
+and its environment. Ultraviolet emission comes from Jupiter itself, its
+aurora, the moon Io, and the plasma torus in Io's orbit, and the study
+will characterize the dominant processes in the Jovian magnetosphere.
+The mission is led by N. Schneider at the University of Colorado.
+
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Oct  1 0403   Galaxy 13         Zenit-3SL       SL Odyssey        Comms      44B
+Oct 15 0100   Shenzhou 5 )      CZ-2F           Jiuquan           Spaceship  45A
+              SZ-5 OM    )                                        Imaging    45G
+Oct 17 0452   IRS-P6            PSLV            Sriharikota       Imaging    46B
+Oct 18 0538   Soyuz TMA-3       Soyuz-FG        Baykonur          Spaceship  47A
+Oct 18 1617   DMSP F16          Titan 23G       Vandenberg        Weather    48A
+Oct 21 0316   ZY-1 No. 2  )     CZ-4B           Taiyuan           Imaging    49A
+              CX-1        )                                       Comms      49B
+Oct 30 1343   SERVIS-1          Rokot           Plesetsk          Tech       50A
+Nov  3 0720   JB-4?             CZ-2D           Jiuquan           Micrograv  51C
+Nov 14 1601   Zhongxing-20      CZ-3A           Xichang           Comms      52A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |                                    |
+|   c/o                              |                                    |
+|  Center for Astrophysics,          |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

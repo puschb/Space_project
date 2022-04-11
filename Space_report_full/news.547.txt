@@ -1,0 +1,138 @@
+Jonathan's Space Report
+No. 547                                         2005 May  8, Somerville, MA
+-------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+The Soyuz TMA-6 spaceship was launched from Baykonur on Apr 15 at 0046 UTC 
+on the Soyuz-FG No. 14 launch vehicle. It entered orbit 
+at 0055 UTC and docked with the Station's Pirs module at 0220 UTC on Apr 17.
+Commander is Sergey Krikalyov of Russia; Flight engineer-2 is John
+Phillips of NASA. Together they make up the Space Station's Expedition
+11. After docking Krikalyov became the Station commander and
+Phillips became the Station flight engineer and Science Officer.
+Soyuz flight engineer-1 was Roberto Vittori of the European Space Agency,
+on the ENEIDE mission, designated EP-8 (visiting crew 8).
+
+It's interesting to note that Russia has managed a very regular launch
+schedule to the Station since 2000, with launches every April and
+October (the April 2000 launch was the last flight to Mir, and was
+followed by the first Soyuz flight to ISS in Oct 2000).
+
+(Note: Soyuz TMA is the kind of spacecraft that docked to the Station;
+its mass is around 7 tonnes. Soyuz FG is the kind of rocket that
+launched the Soyuz TMA, with a mass of around 300 tonnes.  AP said "A
+Russian Soyuz-FG rocket carrying two astronauts and a cosmonaut arrived
+at the international space station Saturday night" - this is a goof,
+although I admit it's confusing that the spaceship and its launch
+vehicle have similar names.)
+
+Soyuz TMA-5 landed with Sharipov, Chiao and Vittori on Apr 24 at 2207:27
+UTC, after undocking from Zarya at 1845 UTC and a deorbit burn at 2117
+UTC. The crew landed on muddy ground in Kazakhstan at 51 03N 67 18E.
+
+The Expedition 11 crew of Krikalyov and Phillips were expecting to greet
+the STS-114 Shuttle crew in only a few weeks, but the Shuttle's return
+to flight has been delayed until at least July while new ice
+countermeasures are added to the External Tank. After further tests at
+the pad, the Shuttle will be rolled back to the VAB and removed from the
+ET-120/RSRM-90 stack, probably to be assembled instead to the
+ET-121/RSRM-91 stack originally planned for STS-121.
+
+DART
+----
+
+NASA's DART (Demonstration of Autonomous Rendezvous Technology) mission
+began on Apr 15 with the 1627 UTC takeoff of Orbital's L-1011 Stargazer 
+aircraft from Vandenberg. At 1726:50, passing through the drop box at
+123W 36N, the airplane dropped its Pegasus XL cargo and five seconds
+later the Pegasus XL first stage ignited on its way to space. At 1736
+UTC the Orion 38 solid motor third stage completed its burn at about 500
+km altitude and entered orbit. The DART spacecraft is built around the
+Pegasus HAPS hydrazine-fuelled fourth stage, which fired at 1738 UTC to
+raise apogee to around 760 km (orbital data from prelaunch estimates).
+DART, which is controlled autonomously by on-board software with no
+ground commands, made rendezvous with the MUBLCOM satellite at about
+0400 UTC on Apr 16. The plan was to stationkeep within a few meters but
+not make physical contact. Initial reports said DART closed to within
+100m, but then detected that it was running unexpectedly low on
+propellant and backed off from the target to end its mission
+prematurely. Alarmingly, it now seems that DART collided gently with
+MUBLCOM, changing its orbit by a tiny amount. It's still not clear if
+this was a physical collision, or the effect of DART's rocket plume
+hitting MUBLCOM. Tracking data show MUBLCOM in a 739 x 749 km orbit
+prior to the rendezvous and 741 x 750 km afterwards. In any case, this
+is bad news for the robotic rendezvous tech, as you want to avoid
+unwanted collisions above all - software should have aborted  the
+approach if there was a chance of hitting the target. After the mission,
+DART's HAPS stage fired again on Apr 18 to lower its orbit to 394 x 746
+km.
+
+
+Spaceway
+--------
+
+Boeing Sea Launch orbited the Spaceway communications satellite on Apr
+26. The 6080 kg Spaceway 1, owned by DirecTV, carries 48 high-frequency
+Ka-band transponders for data transmission and television broadcasting. 
+The satellite was placed in a slightly subsynchronous transfer orbit of
+261 x 34097 km x 0.02 deg. In an unusual orbital strategy,  Spaceway has
+used a mixture of perigee and apogee burns to reach a 17-hour elliptical
+orbit of 10507 x 45519 km x 0.13 deg by May 6; presumably it will
+circularize once the period has been raised to 24 hours.
+
+NRO satellite
+-------------
+
+A classified NRO satellite was launched by Lockheed's Titan IV B-30 from
+Cape Canaveral on Apr 30. Analysts have suggested it is a radar imaging
+satellite, the fifth in the LACROSSE/ONYX series built by Lockheed
+Martin/Denver. The satellite has been observed in a 481 x 705 km x 57.0
+deg orbit by hobbyists from Toronto to Moscow, and the launch was
+visible to many along the east coast of the US. The satellite used its
+onboard propulsion system to circularize the orbit at 712 x 718 km x
+57.0 deg early on May 4.
+
+The Titan core's first stage fell in the ocean off Newfoundland, safely
+missing the Hibernia oil platform whose proximity to the planned impact
+zone had triggered controversy about the launch in Canada. 
+
+CARTOSAT
+--------
+
+India's PSLV-C6 put its Cartosat-1 mapping satellite in orbit on May 5.
+The satellite has 2.5-meter resolution cameras.
+The launch inaugurated a second PSLV pad at the Satish Dhawan Launch
+Center on Sriharikota Island. HAMSAT, or VUSAT, is a small secondary
+amateur satellite from AMSAT-VU, the Indian branch of the amateur
+satellite organization. The satellites are in a 609 x 646 km
+x 97.9 deg orbit. The PS4 final stage is in a 607 x 717 km x 97.8 deg
+orbit following its depletion burn, together with two small debris
+pieces.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Apr 11 1335   XSS-11            Minotaur        Vandenberg SLC8  Tech        11A
+Apr 12 1200   Apstar 6          CZ-3B           Xichang          Comms       12A
+Apr 15 0046   Soyuz TMA-6       Soyuz-FG        Baykonur LC1     Spaceship   13A
+Apr 15 1726   DART              Pegasus XL/HAPS Vandenberg       Tech        14A
+Apr 26 0731   Spaceway 1        Zenit-3SL       Odyssey          Comms       15A
+Apr 30 0050   USA 182?          Titan 4B        Canaveral SLC40  Radar?      16A
+May  5 0445   Cartosat )        PSLV            SDLC SLP         Imaging     17A
+              HAMSAT   )                                         Comms       17B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

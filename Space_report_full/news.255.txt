@@ -1,0 +1,113 @@
+Jonathan's Space Report
+No. 255                      1995 Sep 5                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Launch date for Endeavour on mission STS-69 has been set for Sep 7
+following a scrub on Aug 31 nine hours before launch because of a faulty
+fuel cell. Endeavour is on pad 39A.
+
+Meanwhile, Columbia has been moved to launch pad 39B (probably around
+Aug 28) from the Vehicle Assembly Building.
+
+Mir
+----
+
+The EO-20 crew were launched on Soyuz TM-22 from Baykonur on Sep 3 at
+0900:23 UTC. They will spend 135 days in space. Crew commander is Yuriy
+Pavlovich Gidzenko of the Russian Air Force. Flight engineer is Sergey
+Vasil'evich Avdeev of RKK Energiya, and cosmonaut-researcher is Thomas
+Reiter of the European Space Agency. Soyuz TM-22 docked with Mir's front
+(-X) port at 1029:54 UT on Sep 5 and the hatch was opened at 1101:23.
+The EO-19 crew, Anatoli Solov'yov and Nikolai Budarin, have been on the
+station since June's STS-71 mission and will return to Earth in the
+Soyuz TM-21 ferry. The Progress M-28 cargo ship probably undocked from
+Mir on Sep 4.
+
+Following up my query last week, I now confirm that there was no EVA from Mir
+on Aug 18. Sorry about the confusion.
+
+Recent Launches
+--------------
+
+The National Space Agency of Ukraine (NKAU) has launched its first
+satellite, Sich. Sich is  based on the Okean remote sensing satellites
+built by the Ukrainian company NPO Yuzhnoe for the USSR and subsequently
+the Russian Space Agency.
+
+Carried into orbit with Sich was the FASat Alfa microsatellite, with
+imaging and communications experiments for the Chilean Air Force.
+Reports indicate that FASat-Alfa failed to separate from the Sich main
+payload. FASat-Alfa uses the Surrey Satellite Technology Uosat bus.
+
+A Kosmos satellite was launched by Proton from Baykonur on  Aug 30 into
+geostationary orbit. On Sep 1, Kosmos-2319 was at 89 deg E drifting 1
+deg W per day.
+
+JCSAT 3, launched on Aug 29, was placed in an initial orbit of
+248 x 80682 km x 23.1 deg, with a period of 1681.65 min.
+N-Star a was launched into a standard transfer orbit of 172 x 35775 km x
+7.0 deg. On Aug 30 the orbit was raised to 7384 x 35755 km x 3.7 deg and
+then again to 34090 x 35732 km x 0.1 deg.
+The Mugunghwa-ho (Koreasat) satellite is now  in near-geostationary
+orbit; on Aug 31 it was at 116.0E drifting 0.1 deg per day.
+Optus B3 is now on station at 156.0E, replacing Optus A3
+which is drifting west at 0.2 deg per day; Intelsat VA F13 is at 177.0W;
+Brasilsat 2 is at 92.0W.
+
+The Strategic Rocket Forces launched a Topol' ICBM from Plesetsk
+at 0750 UT on Sep 5.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug  2 2359   Prognoz-M2  )   Molniya-M       Plesetsk LC43/3 Science     39A
+              Magion 4    )                                   Science     39F
+Aug  3 2358   PAS 4           Ariane 4        Kourou ELA2     Comsat      40A
+Aug  5 1110   Mugunghwa-ho    Delta 7925      Canaveral LC17B Comsat      41A
+Aug  9 0121   Molniya-3       Molniya-M       Plesetsk LC43   Comsat      42A
+Aug 15 2230   Gemstar 1       LLV-1           Vandenberg SLC6 Comsat      FTO
+Aug 29 0053   JCSAT 3         Atlas IIAS      Canaveral LC36B Comsat      43A
+Aug 29 0641   N-STAR a        Ariane 44P      Kourou ELA2     Comsat      44A
+Aug 30 1933?  Kosmos-2319     Proton-K/DM2    Baykonur        Comsat?     45A
+Aug 31 0650   Sich-1          Tsiklon-3       Plesetsk LC32   Rem.sensing 46A
+              FASat-Alfa                                      Comsat      46A
+Sep  3 0900   Soyuz TM-22     Soyuz-U2        Baykonur LC1    Spaceship
+   
+Reentries
+---------
+
+Jul  7        Atlantis        Landed at KSC
+Jul 22        Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-73  Sep 
+OV-103 Discovery       OPF Bay 1     OMDP
+OV-104 Atlantis        OPF Bay 2     STS-74  Oct 26
+OV-105 Endeavour       LC39A         STS-69  Sep  7
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-48/ET-72/OV-105   LC39A      STS-69
+ML2/RSRM-51                VAB Bay 1? STS-74
+ML3/RSRM-50/ET-73/OV-102   LC39B      STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'

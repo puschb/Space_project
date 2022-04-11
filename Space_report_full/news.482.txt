@@ -1,0 +1,185 @@
+Jonathan's Space Report
+No. 482                                       2002 Jun 25, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The STS-111 (Station Utilization Flight-2) mission is now complete,
+and Expedition 5 crew members Valeriy Korzun, Peggy Whitson and 
+Sergei Treshchev remain aboard the Station.
+
+Some details on STS-111 in this issue are repeated from JSR 481, with
+updated values. (I was on travel during part of the mission, and details
+here are based on press reports, coverage by www.spaceflightnow.com, and
+information kindly provided by Eddie Lyons.)
+
+Endeavour docked with the Station at 1625 UTC on Jun 7. The Leonardo
+MPLM module was attached to the Station on June 8.On Jun 9, Chang-Diaz
+and Perrin made a spacewalk from the Quest airlock. It was depressurized
+at around 1522 UTC and the hatch was opened at 1524 UTC. The suits went
+to battery power at 1527 UTC. The astronauts installed the PGDF grapple
+fixture on the P6 truss, stowed some space debris shields on the PMA-1
+adapter, and prepared the Mobile Base System (MBS) in the Shuttle cargo
+bay. The hatch was closed at 2234 UTC and the airlock began
+repressurization at 2242 UTC. MBS was unberthed sometime around 2220 UTC
+and docked to the Mobile Transporter at 1304 UTC on Jun 10. On Jun 11 at
+about 1515 UTC the Quest was depressurized again, with Chang-Diaz and
+Perrin opening the hatch around the same time and going to battery power
+at 1520 UTC. During this spacewalk the astronauts completed setting up
+the MBS system. The hatch was closed at 2016 UTC and Quest was
+repressurized at 2020 UTC. 
+
+The third EVA was on Jun 13, again from the Quest airlock. Depress was
+at 1512 UTC with hatch open probably at 1514 and battery power at 1516.
+The astronauts replaced the wrist roll joint on the station's Canadarm-2
+SSRMS robot arm; the old joint was stowed in Endeavour's cargo bay for
+return to Earth. The hatch was closed at 2229 UTC and the airlock was
+repressurized at 2233 UTC. At around 1918 UTC on Jun 14 the Shuttle RMS
+unberthed the Leonardo logistics module from Unity and put it back in
+the cargo bay, berthing it at 2011 UTC. On Jun 15 the hatches between
+Shuttle and Station were closed at 1223 UTC, with the Ex-5 crew now
+aboard Station and the Ex-4 crew on the Shuttle for the trip home.
+Endeavour undocked at 1432 UTC, leaving the Station in a 389 x 399 km x
+51.6 deg orbit following three reboost burns. After two days of bad
+weather, Endeavour was diverted to Edwards AFB in California, with a
+deorbit burn at 1650 UTC on Jun 19 lowering its orbit from 347 x 387 km
+to 34 x 386 km. The Shuttle nominally entered the atmosphere around 1726
+UTC and landed on runway 22 at Edwards at 1747 UTC.
+
+The next Shuttle mission is probably STS-107, which will fly an
+independent research mission carrying out microgravity experiments.
+However, launches are currently suspended pending investigation of
+cracks found in Orbiter fuel lines.
+
+
+Recent Launches
+---------------
+
+A Krunichev Proton-K put a Russian domestic communications satellite in
+orbit on Jun 10. Ekspress A No. 4 was built by NPO PM and Alcatel for GP
+Kosmicheskaya Svyaz', the Russian satcom operator, which calls the
+satellite Ekspress A1R. According to an Energiya press release, the
+Proton's parking orbit was off-nominal but the Energiya 11S861-01 Blok
+DM-2M upper stage corrected for this and delivered the payload to the
+correct orbit. Parking orbit was about 180 x 185 km x 51.6 deg; transfer
+orbit after the first DM-2M burn was 328 x 36133 km x 47.4 deg; orbit at
+spacecraft separation was 36102 x 36171 km x 0.2 deg. Two SOZ ullage
+motors were left in the transfer orbit.
+
+Two Iridium replacement satellites, SV97 and SV98, were launched on Jun
+20 at 0933 UTC by a Krunichev Rokot vehicle from Plesetsk. The mobile
+telephone satellites are owned by Iridium Satellite LLC, the successor
+to bankrupt Iridium LLC. The Rokot consists of the two-stage UR-100NU
+ballistic missile with a Briz-KM upper stage based on the S5.92 engine
+(originally flown on space probes like Fobos).
+
+Based on previous Rokot launches, the probable profile is that the
+second UR-100NU stage burnt out and separated at 5 min after launch,
+followed by a roughly 9 min Briz first burn to a transfer orbit of
+roughly (120-200) x 660 km; at apogee the Briz then restarted at around
+1040 UTC over the South Atlantic to enter a 658 x 669 km x 86.6 deg
+orbit and deployed the two Iridium satellites. At roughly 1130 UTC Briz
+then made a third burn to a 232 x 662 km x 86.6 deg disposal orbit from
+where it will reenter quickly. However, I don't have any firm
+information on the transfer orbit phase.
+
+Here is a list of the Briz upper stage launches to date:
+
+Date         Launch vehicle Upper Stage      Payload       Notes
+
+1990 Nov 20  Rokot          Briz-K           -             Suborbital test
+1991 Dec 20  Rokot          Briz-K           Grand Prix    Suborbital test
+1994 Dec 26  Rokot          Briz-K           Radio-ROSTO 
+1999 Jul  5  Proton-K       Briz-M No. 1L    Raduga        Launch failure
+2000 May 16  Rokot          Briz-KM          IKA 1/2
+2000 Jun  6  Proton-K       Briz-M No. 2L    Gorizont  
+2001 Apr  7  Proton-M       Briz-M No. 3L    Ekran-M 
+2002 Mar 17  Rokot          Briz-KM          GRACE 1/2
+2002 Jun 20  Rokot          Briz-KM          Iridium 97/98
+
+
+The Galaxy 3C satellite was launched to geostationary transfer orbit by
+a Sea Launch Zenit-3SL. The rocket took off at 2239:30 UTC on Jun 15
+from the Odyssey floating launch platform at its standard 154W 0N
+location. The Zenit second stage and the DM third stage with payload
+entered a -2160 x 195 km suborbital trajectory at 2248:10. At about 2252
+UTC the DM stage entered a 180 x 393 km x 0 deg parking orbit. A second
+burn of the DM at 2324 to 2330 UTC put Galaxy 3C in a 358 x 41440 km x
+0.02 deg transfer orbit This is a record low inclination for a
+geostationary transfer orbit. The satellite's R-4D apogee engine will
+put the Boeing BSS-702 satellite in geostationary orbit.  The satellite
+is the first 702 model to use extra solar panels instead of the solar
+concentrators which ran into fogging problems on the earlier 702
+flights.
+
+The Intelsat 905 satellite uses a new version of the venerable  General
+Dynamics R-4D bipropellant engine, the R-4D-15 HiPAT (High Performance
+Apogee Thruster) with a thrust of 445N. The first two HiPATs were built
+by Marquardt/Van Nuys, but new ones are built at GD's Redmond site.
+By Jun 15, I-905 was in a 35642 x 35793 km x 0.1 deg geostationary
+drift orbit at 26 deg W.
+
+Lockheed Martin launched Titan 23G-14, a refurbished Titan II missile,
+from Vandenberg on Jun 24 at 1823 UTC. The two-stage Titan put the NOAA
+M satellite on a suborbital trajectory of about -2500 x 820 km x 98 deg.
+at 1829 UTC. At 1837 UTC the NOAA M propulsion module fired its
+ATK/Thiokol Star 37XFP solid motor for the orbit insertion burn,
+followed by a hydrazine trim burn to put the satellite in an 807 x 822
+km x 98.8 deg operational orbit. NOAA M becomes NOAA 17 on entering
+service with the US National Oceanic and Atmospheric Administration as
+the primary morning weather satellite, supplementing the NOAA 16 afternoon
+satellite. Built by Lockheed Martin, NOAA M carries weather imagers and
+microwave and infrared sounders, as well as a SARSAT search-and-rescue
+package. It has an on-orbit mass of 1475 kg. 
+
+Thanks to Igor Lissov for confirming the Kosmos-2389 launch time
+of 1814:41 UTC.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  4 0131   SPOT 5    )       Ariane 42P     Kourou ELA2      Imaging      21A
+              Idefix    )                                      Amateur radio 21B
+May  4 0954   Aqua              Delta 7920-10L Vandenberg SLC2W Rem.sensing  22A
+May  7 1700   DirecTV-5         Proton-K/DM3   Baykonur LC81    Comms        23A
+May 15 0150   Feng Yun 1D )     Chang Zheng 4B Taiyuan          Weather      24B
+              Hai Yang 1  )                                     Rem.sensing  24A
+May 28 1525   'Ofeq-5           Shaviyt        Palmachim        Imaging      25A
+May 28 1815   Kosmos-2389       Kosmos-3M      Plesetsk         Navigation   26A
+Jun  5 0644   Intelsat 905      Ariane 44L     Kourou ELA2      Comms.       27A
+Jun  5 2122   Endeavour )       Shuttle        Kennedy LC39A    Spaceship    28A
+              Leonardo  )
+Jun 10 0114   Ekspress A1R      Proton-K/DM2M? Baykonur LC200   Comms        29A
+Jun 15 2239   Galaxy 3C         Zenit-3SL      Odyssey, POR     Comms        30A
+Jun 20 0933   Iridium SV97 )    Rokot/Briz-KM  Plesetsk LC133   Comms        31A
+              Iridium SV98 )                                    Comms        31B
+Jun 24 1823   NOAA 17           Titan 23G      Vandenberg SLC4W Weather      32A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107 2002 Aug?    Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        OPF           STS-112 2002 Aug?    ISS 9A
+OV-105 Endeavour       Edwards       STS-113 2002 Oct?    ISS 11A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,196 @@
+Jonathan's Space Report 
+No. 726                                                  2016 May 30 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 47 continues with  commander Tim Kopra and flight engineers
+Yuriy Malenchenko, Tim Peake, Alexey Ovchinin, Oleg Skripochka and Jeff
+Williams.
+
+The Nanoracks NRCSD-7 cubesat deploys were completed on May 18 with the
+release of four Lemur-2 satellites from Spire Global. The Lemur system
+carries AIS and GPS radio occultation meteorology payloads. The
+distortion of the radio signal from a GPS satellite as it passes through
+the Earth's atmosphere and out again to the STRATOS detector on Lemur-2
+depends on the temperature, pressure and humidity of the region of the
+atmosphere the signal is passing through - so STRATOS can infer the
+weather. Lemur's SENSE payload contributes to the network of automatic
+identification of shipping (AIS), relaying position and identification
+data from ships at sea.
+
+The four satellites, built in Glasgow, are named  Theresacondor, Kane,
+Nick-Allain and Jeff after Spire employees. (Theresa Condor is VP
+Corp.Development for Spire. Nick Allain is their director of brand. Kane
+is probably named after Megan Kane, a Spire manager, and Jeff is
+possibly Spire satellite engineer Jeff Kuehne.)
+
+The two Nanoracks Cubesat Dispensers launched on OA-4 (Dec 2015, NRCSD-7)
+and OA-6 (Mar 2016, NRCSD-8) were stored on ISS until May and repacked
+to allow the high priority Dove 0D-class and Spire Global Lemur satellites
+to be deployed sooner:
+
+            At launch                    After repacking on orbit
+
+  NRCSD-7   MinXSS/CADRE                 MinXSS/CADRE
+            NODES/STMSAT                 NODES/STMSAT
+            Flock-2e 1 to 12             Flock-2e 1 to 4
+                                         Flock-2e' 1 to 4
+                                         Lemur-2 5 to 9
+
+  NRCSD-8   Flock-2e' 1 to 12            Flock-2e' 5 to 12             
+            Lemur-2 5 to 9               Flock-2e 5 to 12
+
+In addition there is an external deployer on OA-6 which I suspect
+contains Flock 2e' 13 to 20 and possibly 8 more Lemur-2s. It will
+be used after OA-6 departs the ISS in June.
+
+The MinXSS and Nodes cubesats released on May 16 are communicating with
+the ground, as are the Flock-2e/2e' satellites (whose deployment order
+has been corrected in the table below thanks to Mike Safyan of
+PlanetLabs). No signals have been reported from CADRE or STMSat-1. The
+empty NRCSD-7 cubesat deployer was brought back inside in late May and
+replaced by NRCSD-8, loaded with 8 Flock 2e and 8 Flock 2e'. NRCSD-8 was
+probably stowed in the Kibo ELM-PS storeroom in the interim. The NRCSD is
+mounted on a table called MPEP (multipurpose experiment platform) and put
+in the Kibo airlock. The Japanese JEM-RMS robot arm then picks up the MPEP
+and points the NRCSD in the right direction to spring-eject its satellites,
+two 3U cubesats at a time. On May 30 deploys began from NRCSD-8.
+
+The CRS-8 Dragon which landed on May 11 brought back to Earth the EMU
+3011 spacesuit implicated in the Parmitano and Kopra water leaks. EMU
+3011 was launched into space on mission STS-132 in 2010. Also brought
+back aboard CRS-8 were the Flock-2b 11 and 12 cubesats which failed to
+deploy from the ISS last October. Nanoracks deployers NRCSD-5 and
+NRCSD-6 were also returned to Earth on CRS-8.  
+
+The Bigelow Expansion Activity Module (BEAM) remains attached to Node 3.
+On May 28 the module expansion was successfuly carried out; the process
+of expanding and pressurizing the module took from 1305 to 2044 UTC. The
+diameter of the module is now 3.2metres; its length was increased by
+1.8m to about 3.7m. 
+
+Galileo and Glonass
+-------------------
+
+Two more Galileo satellites were launched on May 24 to join the European
+navigation system. The satellites are nicknamed Daniele and Alizee.
+
+Russia launched Glonass-M No. 53 to replenish their navigation satellite
+system on May 29.
+
+Thaicom 8
+---------
+
+SpaceX launched the Thaicom-8 satellite to a high apogee
+supersynchronous transfer orbit on May 27. The Falcon 9 first stage
+landed safely on the 'Of Course I Still Love You' in the Atlantic.
+
+The Thaicom satellites mainly use the 78.5E geostationary location:
+
+  Satellite   Operation dates       Spacecraft type                 Location
+
+  Thaicom 1   1993 Dec - 2010 Jan   Hughes HS-376                    78.5E (1994-1997)
+                                                                    120.0E (1997-2009)
+  Thaicom 2   1994 Oct - 2010 Nov   Hughes HS-376                    78.5E 
+  Thaicom 3   1997 Apr - 2006 Oct   Aerospatiale Spacebus-3000       78.5E 
+  Thaicom 4   2005 Aug-             Loral SSL-1300                  119.5E 
+  Thaicom 5   2006 May-             Alcatel Alenia Spacebus-3000     78.5E
+  Thaicom 6A  2013 Jul- 2014 Mar    Loral SSL-1300                   78.6E
+                                   (On-orbit lease from Asiasat)
+  Thaicom 6   2014 Jan-             Orbital Star-2.3                 78.5E
+  Thaicom 7   2014 Sep-             Loral SSL-1300                  119.9E
+                                   (Also called Asiasat 6)
+  Thaicom 8   2016 May-             Orbital Star-2.3                En route 78.5E
+
+
+ZY-3 launch
+-----------
+
+The ZY-3 02 satellite (ziyuan san hao 02 xing) was launched from Taiyuan
+on May 30 for China's Satellite Surveying and Mapping Applications Center.
+It carries 2-meter-resolution Earth imaging cameras. Two small 37 kg
+imaging satellites for Satellogic of Argentina were also deployed;
+ÑUSAT-1 and -2 (not to be confused with the 1985 Nusat satellite
+from Weber State Univ.) are also called Fresco and Batata (cheese and sweet
+potato, a popular Argentine dessert pairing).
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+May  6 0521   JCSAT 14            Falcon 9 FT        Canaveral SLC40   Comms          28A   S41471  35758 x 35864 x   0.0 GEO 176E
+May 15 0243   Yaogan 30           Chang Zheng 2D     Jiuquan           Imaging        29A   S41473    628 x   656 x  98.1 0900LT SSO
+May 16 1005   MinXSS )                               ISS, LEO          Astronomy   9867HV   S41475    398 x   402 x  51.6
+              CADRE  )                                                 Science     9867HU   S41474    398 x   402 x  51.6
+May 16 1440   STMSat-1 )                             ISS, LEO          Tech        9867HW   S41476    399 x   402 x  51.6
+              Nodes 1  )                                               Tech        9867HX   S41477    398 x   403 x  51.6
+              Nodes 2  )                                               Tech        9867HY   S41478    400 x   401 x  51.6
+May 17 0845   Flock 2e'-1/0D05)                      ISS, LEO          Imaging     9867HZ   S41479    399 x   402 x  51.6
+              Flock 2e'-2/0C1B)                                        Imaging     9867JB   S41481    400 x   401 x  51.6
+May 17 1200   Flock 2e'-3/0D06)                      ISS, LEO          Imaging     9867JA   S41480    398 x   402 x  51.6
+              Flock 2e'-4/0C22)                                        Imaging     9867JC   S41482    399 x   402 x  51.6
+May 17 2300   Flock 2e-1/0C37)                       ISS, LEO          Imaging     9867JD   S41483    398 x   403 x  51.6
+              Flock 2e-2/0C78)                                         Imaging     9867JE   S41484    398 x   402 x  51.6
+May 18 0215   Flock 2e-3/0C60)                       ISS, LEO          Imaging     9867JG   S41486    399 x   402 x  51.6
+              Flock 2e-4/0C41)                                         Imaging     9867JH   S41487    398 x   403 x  51.6
+May 18 0705   Lemur-2 Theresacondor                  ISS, LEO          Met-RO      9867JF   S41485    400 x   401 x  51.6
+              Lemur-2 Kane                                             Met-RO      9867JJ   S41488    399 x   401 x  51.6
+May 18 1115   Lemur-2 Nick-Allain                    ISS, LEO          Met-RO      9867JK   S41489    399 x   401 x  51.6
+              Lemur-2 Jeff                                             Met-RO      9867JL   S41490    399 x   401 x  51.6
+May 24 0848   GalileoSat-13 )     Soyuz ST-B         CSG               Navigation   30A     S41549  23551 x 23566 x  57.4
+              GalileoSat-14 )                                          Navigation   30B     S41550  23553 x 23616 x  57.4
+May 27 2139   Thaicom 8           Falcon 9 FT        Canaveral SLC40   Comms        31A     S41552    347 x 90190 x  21.2
+May 29 0844   Kosmos-2516         Soyuz-2-1B         Plesetsk LC43/4   Navigation   32A     S41554  19124 x 19152 x  64.8
+May 30 0317   Ziyuan-3 02  )      Chang Zheng 4B     Taiyuan           Imaging      33A     S41556    484 x   499 x  97.5 1024LT SSO
+              Fresco       )                                           Imaging      33B     S41557    481 x   499 x  97.5 1024LT SSO
+              Batata       )                                           Imaging      33C     S41558    481 x   499 x  97.5 1024LT SSO
+May 30 1140   Flock 2e-5/0C43)                       ISS, LEO          Imaging     9867JM             401 x   404 x  51.6
+              Flock 2e-6/0C75)                                         Imaging     9867JN             401 x   404 x  51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+A US missile defense test on May 17 involved the launch of a
+medium-range target using an SR-19 solid motor first stage.
+
+HiFire-5B was a joint US/Australian hypersonic-research flight test from
+Woomera on May 18. Some reports said it was going to use a Terrier Mk
+70/Lynx rocket (following the partial failure of HF-5 from Andoya in
+2012) but a spokesperson at the U. of Queensland tells me it was moved
+back to the originally planned VS-30/Orion.  Thanks to T. Schiller for
+alerting me to these launches.
+
+The Indian Space Research Organization launched an HS9 booster on May 23
+carrying the RLV-TD hypersonic experiment; the vehicle's apogee of 70 km
+was within the mesosphere, so it's not included in the list here.
+
+The Washington Free Beacon reports that the US DoD detected a test launch
+of Russia's Nudol' antiballistic missile interceptor on May 25.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Apr  2 1518   New Shepard M4   New Shepard         West Texas            Test          103       West Texas
+Apr 12        DF-41 RVs?       DF-41?              Taiyuan?              Test         1000?      ?
+Apr 19 0641   Yu-71 No. 3      UR-100NU            Yasniy                Test         1000?      Kura?
+Apr 19 0933   Test payload     Simorgh             Semnan                Test          200?      S Iran
+Apr 26 1700   Kunpeng-1B       Tianying-3F         Hainan                Ionosphere    316       S China Sea
+May 18 0045?  HiFire-5B        VS-30/Orion         Woomera               Hypersonic    278       Woomera Range
+May 18 0702   FTX-21 Target    MRBM-T3             Kauai                 Target        300?      Pacific
+May 25        Nudol'           Nudol'              Plesetsk              Test          100?      -
+May 25        CTV-01a          SM-3-IB            DDG-70, Kauai          Test          100?      Pacific
+May 26        CTV-02           SM-3-IB            DDG-70, Kauai          Test          100?      Pacific
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

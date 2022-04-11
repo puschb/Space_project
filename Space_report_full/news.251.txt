@@ -1,0 +1,234 @@
+Jonathan's Space Report
+No. 251               1995 Aug 5                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+STS-69 was rolled back to the Vehicle Assembly Building on Aug 1
+because of hurricane Erin. Only minor damage was done to facilities
+at KSC. It is still hoped that STS-69 will launch by the end of the month.
+
+For mission STS-69, the cargo bay of orbiter OV-105 Endeavour contains
+three NASA-Goddard science payloads and the commercial Wake Shield Facility.
+
+(1) the Spartan Flight Support Structure (an MPESS type pallet) with the
+  free flyer Spartan 201 solar corona observatory, on its third flight.
+  Spartan is managed by NASA-Goddard, and the main UV experiment is
+  built by the Smithsonian Astrophysical Observatory. Mass of the SFSS is
+  1090 kg, not including the 1289 kg Spartan satellite.
+(2) the Wake Shield Facility Carrier (1760 kg), with two GAS-can type experiments and
+ the WSF Free Flyer satellite. The WSF Free Flyer (1979 kg) generates an ultra-hard vacuum 
+ in its wake for production of semiconductors and other experiments. WSF is built 
+ and operated by the Space Vacuum Epitaxy Center in Houston.
+(3) a Hitchhiker-M pallet (another MPESS) with the IEH-1 International EUV
+ Hitchhiker (2209 kg). This includes a solar EUV telescope (SEH), and an Italian-US 
+ EUV telescope, UVSTAR, which will observe a variety of astronomical targets in the 
+ 500-1250A range.
+ Prime target for this mission is Io plasma torus around Jupiter. 
+ Comet 6P/D'Arrest, currently near perihelion, may also be observed.
+ UVSTAR has two 0.3m telescopes. The pallet also carries the GLO-3 airglow
+ experiment in a canister and the CONCAP materials processing experiment in another
+ canister. 
+(4) a GAS Bridge Assembly or GBA (a third MPESS) with four standard GAS can experiments,
+ plus the CAPL Hitchhiker experiment to test a cooling system for EOS satellites and the
+ Thermal Energy Storage (TES) GAS can experiment to do research on solar dynamic power 
+ for the Space Station.
+(5) Two GAS Beam Adapters (? to be confirmed) attached to the cargo bay wall,
+ carrying equipment for EDFT-2. EDFT-2 (EVA Development Flight Test) is 
+ the second in a series of spacewalks to develop hardware, experience and procedures
+ for Space Station operations. Astronauts Voss and Gernhardt will conduct the
+ six hour spacewalk.
+(6) Two ITEPC radiation dosimeters mounted on APC carriers on the payload bay
+ wall.
+
+This will be the first flight to both deploy and retrieve two free
+flying satellites in the same mission. The RMS robot arm will be used to
+deploy and retrieve both Spartan 201 and the WSF Free Flyer. Many of the
+payloads on STS-69 involved reusable hardware; the GAS Bridge is on its
+8th flight, the Hitchiker-M for IEH on its second, WSF on its second,
+and Spartan 201 is on its third flight. The Spartan and SEH instruments
+are modified sounding rocket payloads. This makes the overall payload
+cost of a mission like STS-69 lower, and fits in to NASA's `faster, cheaper,
+better' strategy. [Thanks to Gerry Daelemans of GSFC for information.]
+
+Mir
+---
+
+The EO-19 mission continues with cosmonauts Solov'yov and Budarin aboard
+the Mir complex. They will be relieved by the EO-20 crew aboard
+Soyuz TM-22 in September.
+
+Recent Launches
+--------------
+
+Lockheed Martin's Atlas Centaur AC-118, an Atlas IIA variant, was
+successfully launched on Jul 31 from Cape Canaveral. It placed a DSCS
+III Defense Satellite Communications System payload into geostationary
+transfer orbit. DSCS III satellites are built by the part of Lockheed
+Martin that used to be General Electric. They are used for US Department
+of Defense communications. Attached to the DSCS is an IABS (Integrated
+Apogee Boost System) liquid apogee engine which will place it in
+geostationary orbit. This was the first use of the Atlas IIA rather than
+the Atlas II for the DSCS missions (the IIA has more powerful Centaur
+engines, among other differences). The DSCS III satellites have used
+quite a variety of launch vehicles - 
+
+ DSCS III satellites to date:
+ Launch order   Launch Date    Launch Vehicle           Flight
+   1            1982 Oct 30    Titan 34D/IUS            34D-1
+   2,3          1985 Oct  3    Shuttle/IUS              51-J
+   4            1989 Sep  4    Titan 34D/Transtage      34D-2
+   5            1992 Feb 11    Atlas II Centaur/IABS    AC-101
+   6            1992 Jul  2    Atlas II Centaur/IABS    AC-103
+   7            1993 Jul 19    Atlas II Centaur/IABS    AC-104
+   8            1993 Nov 28    Atlas II Centaur/IABS    AC-108
+   9            1995 Jul 31    Atlas IIA Centaur/IABS   AC-118
+It is believed that all the DSCS III satellites launched to date have
+reached geostationary orbit.
+
+The Interbol-1 (Prognoz-M2) satellite was launched from Plesetsk late on
+Aug 2. The Molniya-M launch vehicle took off from complex 43 at 2359:11
+UTC; the strapons and Blok-A core stage separated, and the Blok-I third
+stage ignited at 0004:03 UTC on Aug 3. The Blok-I shut down at 0008, and
+separated at 0008:07, leaving Prognoz-M2, the Blok 2BL-SM2 fourth stage,
+and the attached BOZ interstage platform in a 240 x 827 km x 62.8 deg,
+95.0 min parking orbit around the Earth.
+ At 0100:30 UTC, as the combination reached apogee, the Blok 2BL stage
+ignited, and 40 seconds later the BOZ platform was jettisoned. At
+0104:15 UTC the fourth stage shut down and separated from the Prognoz
+payload, leaving it in a highly elliptical orbit of 797 x 193000 km x
+62.8 deg (prelaunch estimated parameters), with an orbital period of 3
+days 20 hours. US tracking gave an orbit of 505 x 193064 x 63.8 deg, 3 days
+19.5 hr.
+ Prognoz-M2 (SO-M2 no. 512) is the Khvostovoy Zond ("Tail") satellite 
+of Project Interbol, intended to investigate the Earth's geomagnetic
+tail.  The 1250 kg probe carries a detachable 50 kg  subsatellite
+provided by the Czech Republic.   The Magion-4 subsatellite, which
+separated from Prognoz-M2 at around 0925 UTC on Aug 3, carries
+instruments to measure electric and magnetic fields for comparison with
+the Prognoz instruments. (The original plan was for Magion-4 to remain
+attached for several days, it's not clear why it separated so early).
+
+The first Prognoz (SO-M) solar-terrestrial observatory was launched in
+1972. Earlier Prognoz flights were all launched from Baykonur in
+Kazakhstan. (The scientific Prognoz satellites should not be confused
+with the geostationary Prognoz early warning satellites which are also
+built by the NPO Lavochkin company).
+ The Tail probe carries the following science instruments:
+  SKA-1, PROMICS-3, VDP, AMEI-2, CORAL, ALPHA3 (plasma ions)
+  ELECTRON, (plasma electrons) 
+  MONITOR-3 (solar wind ions with high time resolution)
+  IFPE (ion and electron flux variations)
+  MIF-M, FGS-1, FM-31 (magnetometers); OPERA (electric field)
+  AKR-X (solar radio emission 0.1-1.5 MHz)
+  RF-15-1 (solar X-rays 2-240 keV)
+  SKA-2, DOK-2, SOSNA-2, RKA-2 (energetic particles)
+Project Interbol will be completed with the launch of the
+Auroral probe (SO-M2 no. 511) which also carries a Magion subsatellite.
+This launch will occur in 1996 if funds become available.
+[Some of the above information is from the Kelydsh institute
+homepage, http://www.kiam1.rssi.ru. ]
+
+
+The PAS 4 satellite was launched by an Ariane 4 on Aug 3 into 
+geostationary transfer orbit. Panamsat of Greenwich, Connecticut
+operates the PAS satellites for international commercial communications.
+PAS 4 is a Hughes HS-601 satellite and was known as PanAmSat K3 during
+construction. The satellite has a dry mass of 1671 kg and carried 1372 kg
+of fuel at launch for a total mass of 3043 kg. The 3.5 x 2.8 x 3.6 metre
+box shaped satellite has two solar panel arrays with a wingspan of 26.2m.
+The shaped antennas cover Africa, Europe, Asia and Australia from
+PAS 4's planned location of 69 deg E. PAS 4 has 16 C-band and 24 Ku-band
+transponders.
+
+ This launch was the sixth successful Ariane launch this year. Flight
+V76 was an Ariane 42L model, using the H10+ upper stage rather than the
+new H10-3 stage (according to the press kit). Orbital injection into 
+geostationary transfer orbit was achieved with a single third stage burn
+terminating 18 min 25 sec after launch, with PAS 4 separating at launch
+plus 21 min 14 sec into a standard transfer orbit of  507 x 35735 km x
+4.2 deg, 636.1 min. [Thanks to Arianespace for info.]
+
+
+The next launch scheduled from Cape Canaveral is Korea Telecom's
+Mugunghwa satellite, to be launched on a McDonnell Douglas Delta 7925
+from LC17B. Check the Orbital Stop Press page,
+http://hea-www..harvard.edu/QEDT/jcm/space/jsr/latest.html, for updates
+during the week.
+
+
+Geostationary Satellite Movements
+---------------------------------
+
+1995-35B, TDRS 7 moved on station on Jul 31 and is now at 150.1W, in a 
+ 1436.21 min, 35787 x 35790 km x 0.0 deg orbit. 
+1994-55A, Optus B3 has been moved to 156E, colocated with Optus A3. 
+ Optus A3 will be moved to 152E when its traffic has been transferred.  
+ (Thanks to Anthony Belo of Optus for info.) 
+1990-91B, Galaxy 6 appears to be moving off station at 74W.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jun  8 0443   Kosmos-2313     Tsiklon-2       Baykonur LC90   Recon       28A
+Jun 10 0024   DBS 3           Ariane 42P      Kourou ELA2     Comsat      29A
+Jun 22 1958   STEP 3          Pegasus XL/L1011 PAWA           Science     FTO
+Jun 27 1932   Atlantis        Space Shuttle   Kennedy LC39A   Spaceship   30A
+Jun 28 1825   Kosmos-2314     Soyuz-U         Plesetsk LC43   Recon       31A
+Jul  5 0309   Kosmos-2315     Kosmos-3M       Plesetsk LC132  Navigation  32A
+Jul  7 1623   Helios 1A  )    Ariane 40       Kourou ELA2     Recon       33A
+              CERISE        )                                 Sigint      33B
+              UPM LBSAT 1   )                                 Technology  33C
+Jul 10 1238   USA 112         Titan 4 Centaur Canaveral LC41  Sigint      34A
+Jul 13 0530   Galileo Probe   -               Galileo, Solar orb.      89-84E
+Jul 13 1342   Discovery       Space Shuttle   Kennedy LC39B   Spaceship   35A
+Jul 13 1955   TDRS 7          IUS             Discovery,LEO   Comsat      35B
+Jul 20 0304   Progress M-28   Soyuz-U         Baykonur LC1    Cargo       36A
+Jul 24 1552   Kosmos-2316 )   Proton-K/DM2    Baykonur LC??   Navigation  37A
+              Kosmos-2317 )                                   Navigation  37B
+              Kosmos-2318 )                                   Navigation  37C
+Jul 31 2330   DSCS III F9     Atlas IIA Centaur Canaveral LC36A Comsat    38A
+Aug  2 2359   Prognoz-M2  )   Molniya-M       Plesetsk LC43/3 Science     39A
+              Magion 4    )                                   Science     39E?
+Aug  3 2358   PAS 4           Ariane 4        Kourou ELA2     Comsat      40A
+   
+Reentries
+---------
+
+Jun  8        Kosmos-2258     Reentered
+Jul  7        Atlantis        Landed at KSC
+Jul 22        Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-73  Sep 21
+OV-103 Discovery       OPF Bay 1     OMDP
+OV-104 Atlantis        OPF Bay 2     STS-74  Oct 26
+OV-105 Endeavour       VAB Bay 1     STS-69  Aug ?
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-48/ET-72/OV-105   VAB Bay 1 STS-69
+ML2/                          
+ML3/RSRM-50                VAB Bay 3 STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

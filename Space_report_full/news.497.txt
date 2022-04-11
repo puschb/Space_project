@@ -1,0 +1,162 @@
+Jonathan's Space Report
+No. 497                                           2003 Apr 14, Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+Shuttle and Station
+--------------------
+
+On the International Space Station, the Progress M-47 cargo craft is
+docked to the aft Zvezda port and the Soyuz TMA-1 transport ship is
+docked to the Pirs module. Soyuz TMA-2 will be launched in April or May
+carrying the new Expedition 7 crew of Yuriy Malenchenko and Edward Lu. 
+
+Expedition 6 astronauts Bowersox and Pettit carried out a spacewalk on
+Apr 8. The Quest airlock was depressurized to below 50 mbar by around
+1236 UTC with the hatch open at 1240 UTC. The hatch was closed at 1901
+UTC and the airlock was repressurized at 1906 UTC. The astronauts
+reconfigured some connectors and power cables and deployed a boom on one
+of the CETA transport carts. 
+
+The Columbia investigation continues; many of the carrier panels from
+the left wing have now been found in the debris, so it's not at all
+clear what the small object that separated on day 2 was. It's now
+retrospectively been given designation 2003-003B and catalog number
+27713; the object reentered before Columbia did.
+
+Recent Launches
+---------------
+
+Arianespace returned the EADS-built Ariane 5 rocket to flight with
+vehicle L514G successfully launched from Kourou on Apr 9. (Note:  the
+Ariane 5ECA launch failure was L517, and previous launches were L501G to
+L513G in sequential order.)
+
+The two payloads were Galaxy 12 and Insat 3A. Galaxy 12 is an Orbital
+Star-2 small class communications satellite with a Japanese-developed
+liquid apogee engine (reported to have a thrust of 100N by the EADS
+launch documentation, but other reports suggest 500N). It carries 24
+C-band transponders for domestic US communications and is owned by
+Panamsat. Launch mass is 1760 kg and dry mass is 800 kg; bus
+size is 1.5 x 3.3 x 1.9m with 12.6m solar panel span.
+
+Insat 3A is built by ISRO, the Indian Space Research Organization,
+and carries a communications, weather imaging, and search-and-rescue
+payload together with a bipropellant liquid apogee engine. The Insat 3A
+bus is 2.8 x 2.0 x 1.8m in size with a 13m solar panel span; the
+satellite has a dry mass of 1350 kg and a launch mass of 2958 kg.
+
+Launch was at 2252 UTC and the EPC core stage shut down at 2301 UTC with
+separation at 2302 UTC into a -41 x 1562 km x 6.0 deg suborbital
+trajectory. EPC 514 reentered over the Pacific at around 0022 UTC on Apr
+10, while the EPS 514 upper stage began its burn to geostationary
+transfer orbit. Engine shutdown was at 2319 UTC. The Insat 3A satellite
+separated first, followed by the 5.8m high 4.6m dia Sylda 5C adapter
+with its ACU 1194V5 adapter; then at 2330 UTC Galaxy 12 was ejected from
+the ACU 937VB5 adapter on top of the EPS final stage into an 868 x 35961
+km x 2.1 deg transfer orbit.
+
+Congratulations to EADS for an excellent technical dossier publication
+for this mission.
+
+Lockheed Martin launched a Titan Centaur on Apr 8 carrying the US Air
+Force Milstar 6 communications satellite to geosynchronous orbit. Titan
+4 core vehicle B-35 with a 76-foot fairing was used to place Centaur
+TC-23 on a suborbital trajectory with an apogee of around 170 km.
+TC-23's first burn went to a 169 x 179 km x 28.6 deg parking orbit at
+1354 UTC; the second burn ended at 1453 UTC in an approximately 206 x
+35782 km x 26.7 deg orbit and the third burn was completed at 2008 UTC
+in an approximately 35730 x 35740 km x 4.5 deg sub-synchronous drift
+orbit. TC-23 separated from Milstar at 2018 UTC.
+
+Milstar DFS-6 is the fourth of the Milstar II series carrying both
+LDR (low data rate) and MDR (medium data rate) payloads and will be
+used for global communications capacity by the US armed forces.
+The satellite was built by Lockheed Martin/Sunnyvale.
+
+International Launch Services launched a Lockheed Martin Atlas IIIB,
+AC-205, into geostationary transfer orbit on Apr 12. The upper stage was
+a single-engine Centaur and the payload was Asiasat 4. The Centaur
+reached a 166 x 1837 km parking orbit 15 min after launch  then
+reignited to reach a 201 x 47920 km x 27.0 deg transfer orbit. Asiasat 4
+is 4042 kg at launch and probably around 1900 kg dry; the Boeing 601HP
+satellite with a C-band and Ku-band communications payload will be
+operated by Hong Kong based Asiasat to replace Asiasat 1 and provide
+direct TV broadcast to east Asia and Australia.
+
+The AC-205 flight featured the Atlas IIIB/SEC (single engine Common
+Centaur variant). The Atlas IIIB and Atlas V share the stretched Common
+Centaur which comes in DEC and SEC (dual and single engine) variants.
+Flights so far are:
+2002 Feb 21   Atlas IIIB    AC-204  DEC
+2002 Aug 21   Atlas V/401   AV-001  SEC
+2003 Apr 12   Atlas IIIB    AC-205  SEC
+The Atlas IIIA uses a shorter single engine version of the dual-engine
+Centaur used on Atlas II.
+
+The landing sites for the Mars Exploration Rovers have been announced:
+the centers of the target ellipses are  14.640S, 184.702W in Gusev
+Crater and 2.060S 5.992W in Meridiani Planum (according to JPL; another
+source gives 14.64S 184.94W and 2.06S 6.23W; these all appear to be on
+the IAU 1991 coordinate system. There are longitude differences of about
+0.24 deg between this and the IAU 2000 system, as well as a religious
+war between those Martians who prefer the traditional west longitude
+planetographic system and those who prefer the new east longitude
+planetocentric system).
+
+US Space Command is no longer releasing orbital data for the two
+Japanese spy satellites IGS Optical-1 and IGS Radar-1. I gather that the
+Japanese defense establishment is under the illusion that this will stop
+the North Koreans locating these low altitude, rather bright satellites;
+it will be interesting to see how easily the amateur observers can track
+them.
+
+Launch of the SIRTF space observatory has been delayed, 8 days before
+the scheduled liftoff. The Delta II Heavy (7920H) is a new and untested
+launch vehicle, and the latest issue is reportedly concern  about the
+GEM-46 solids, which have a longer burn time than the GEM-40 used on the
+standard Delta II. 18 of the GEM-46 motors have flown successfully (on
+two Delta III missions (a further 6 GEM-46 burned for almost full
+duration on the first Delta III before it blew up). SIRTF is a major
+science mission, the last of NASA's Great Observatories, and the
+astronomical community is eagerly awaiting its debut.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar 11 0059   DSCS III A-3      Delta IVM       Canaveral SLC37B Comms       08A
+Mar 28 0127   IGS Optical-1 )   H2A 2024        Tanegashima      Imaging     09A
+              IGS Radar-1   )                                    Radar       09B
+Mar 31 2209   GPS SVN 45        Delta 7925      Canaveral SLC17A Navigation  10A
+Apr  2 0153   Molniya-1T        Molniya-M       Plesetsk         Comms       11A
+Apr  8 1343   Milstar 6         Titan 4 Centaur Canaveral SLC40  Comms       12A
+Apr  9 2252   Galaxy 12  )      Ariane 5G       Kourou ELA3      Comms       13B
+              Insat 3A   )                                       Comms       13A
+Apr 12 0047   Asiasat 4         Atlas 3B/SEC    Canaveral SLC36B Comms       14A
+        
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        VAB           STS-114  Unknown     ISS ULF1
+OV-105 Endeavour       OPF           STS-115  Unknown     ISS 12A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

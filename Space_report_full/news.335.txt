@@ -1,0 +1,146 @@
+Jonathan's Space Report
+No. 335                                    1997 Sep 23  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Launch of STS-86 is due for Sep 25. The Mir crew moved briefly to the
+Soyuz transport on Sep 15 during a close pass by the inert MSTI-2
+satellite, which was an SDIO satellite which operated between May and
+Sep 1994 testing infrared sensors for tracking missile launches. The
+close pass was reportedly only 500 meters.
+
+Recent Launches
+---------------
+
+Ariane V100 was launched on Sep 23 at 2358 UTC. The rocket was an Ariane
+42L model with two PAL liquid strapons. The payload is Intelsat 803, a
+series 7000 satellite built by Lockheed Martin Telecommunications/East
+Windsor. It was placed in geostationary transfer orbit and separated
+from the H-10-3 third stage on Sep 24 at 0018 UTC. 
+
+Errata
+-------
+
+OK, OK, I forgot Mars-96 in the list of probes which were meant to
+go into Mars orbit but did not. Also, it seems that I got the EVA
+suit info the wrong way round: Foale used the old DMA suit and 
+Solov'yov the new M suit.
+
+Also, I omitted Telecom 2D (launch 1996 Aug 8) from the list of Eurostar
+2000 satellites.
+
+Proton Upper Stages
+-------------------
+
+A recent article in Novosti Kosmonavtiki clarifies (somewhat) the
+nomenclature for the family of RKK Energiya's Blok-DM upper stages used
+by the Proton rocket. There are separate naming schemes for the domestic
+and commercial versions of the Blok-D, and in particular the Blok DM-2
+(with hyphen) is different from the Blok DM2 (with no hyphen)!! So
+here's a recap of  recent launches on the Proton:
+ Domestic launches
+1996-005  1996 Jan 25 0956:00  Proton-K/DM-2            Gorizont             
+1996-010  1996 Feb 19 0819:00  Proton-K/DM-2            Raduga               
+1996-023  1996 Apr 23 1148:50  Proton-K                 Priroda              
+1996-034  1996 May 25 0205     Proton-K/DM-2            Gorizont             
+1996-058  1996 Sep 26 1850:53  Proton-K/DM-2M           Ekspress 12          
+1996-064  1996 Nov 16 2048:53  Proton-K/D-2             Mars-96              
+1997-028  1997 Jun  6 1656:54  Proton-K/DM-5            Kosmos-2344          
+1997-041  1997 Aug 14 2049:14  Proton-K/DM-2            Kosmos-2345          
+ Commercial launches
+1996-021  1996 Apr  8 2309:01  Proton-K/DM3    (ILS)    Hughes Astra 1F             
+1996-053  1996 Sep  6 1737:39  Proton-K/DM1             LMT Inmarsat 3 F2        
+1997-026  1997 May 24 1700:00  Proton-K/DM4    (ILS)    Loral Telstar 5            
+1997-030  1997 Jun 18 1402:45  Proton-K/DM2             Motorola Iridium              
+1997-046  1997 Aug 28 0033     Proton-K/DM3    (ILS)    Hughes PAS 5                
+1997-051  1997 Sep 14 0136     Proton-K/DM2             Motorola Iridium
+
+The various domestic types are:
+D   (11S824) with 11D58 engine and guidance from payload
+D-1 (11S824M) with 11D58M engine and guidance from payload
+D-2 (11S824F) with 11D58M engine, guidance from payload, different adapter?
+DM  (11S86) with 11D58M engine and internal guidance system
+DM-2  (11S861), like DM but with improved guidance
+DM-2M (11S861-01), like DM-2 but can carry heavier payloads
+DM-5  (17S40), like DM-2 but for heavier payloads and with different payload
+               adapter design.
+
+The different commercial types are:
+DM1  Variant of domestic DM-2 (11S861) with Saab payload adapter
+DM2  Variant of domestic DM-5 (17S40)  with Iridium dispenser
+DM3  Variant of domestic DM-2M (11S861-01) with Saab payload adapter
+DM4  Probably similar to DM3
+
+This is the best info we have right now, but I anticipate that we don't
+have the full story yet.
+
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug  1 2020   OrbView 2         Pegasus XL    Vandenberg       Remote sen.37A 
+Aug  5 1536   Soyuz TM-26       Soyuz-U       Baykonur LC1     Spaceship  38A
+Aug  7 1441   Discovery         Shuttle       Kennedy LC39A    Spaceship  39A
+Aug  7 2227   CRISTA-SPAS                     OV-103,LEO       Remote sen.39B
+Aug  8 0646   PAS 6             Ariane 4      Kourou ELA2      Comsat     40A
+Aug 14 2049   Kosmos-2345       Proton-K/DM-2 Baykonur         Early Warn 41A
+Aug 19 1750   Agila 2           CZ-3B         Xichang LC2      Comsat     42A
+Aug 21 0038   Iridium SV022)    Delta 7920    Vandenberg SLC2W Comsat     43E
+              Iridium SV023)                                   Comsat     43D
+              Iridium SV024)                                   Comsat     43C
+              Iridium SV025)                                   Comsat     43B
+              Iridium SV026)                                   Comsat     43A
+Aug 23 0651   Lewis             LMLV-1        Vandenberg SLC6 Remote sen. 44A
+Aug 25 1439   ACE               Delta 7920    Canaveral LC17A Space sci.  45A
+Aug 28 0033   PAS 5             Proton-K/DM3  Baykonur         Comsat     46A
+Aug 29 1502   FORTE             Pegasus XL    Vandenberg      Space sci.  47A
+Sep  1 1400   Iridium MFS   )   CZ-2C         Taiyuan          Inert      48B
+              Iridium MFS   )                                  Inert      48F
+Sep  2 2221   Hot Bird 3  )     Ariane 44LP   Kourou ELA2      Comsat     49A
+              Meteosat 7  )                                    Weather    49B
+Sep  4 1203   GE-3              Atlas IIAS    Canaveral LC36A  Comsat     50A
+Sep 14 0136   Iridium SV027 )   Proton-K/DM2  Baykonur         Comsat     51
+              Iridium SV028 )                                  Comsat     51
+              Iridium SV029 )                                  Comsat     51
+              Iridium SV030 )                                  Comsat     51
+              Iridium SV031 )                                  Comsat     51
+              Iridium SV032 )                                  Comsat     51
+              Iridium SV033 )                                  Comsat     51
+Sep 23 2358   Intelsat 803      Ariane 42L    Kourou ELA2      Comsat
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       OPF Bay 3     STS-91  May 28
+OV-104 Atlantis        LC39A         STS-86  Sep 25
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                       
+MLP2/RSRM-61/ET/OV-104   LC39A       STS-86
+MLP3/
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

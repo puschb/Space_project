@@ -1,0 +1,208 @@
+Jonathan's Space Report
+No. 549                                        2005 Jun 27, Somerville, MA
+-------------------------------------------------------------------------------
+
+Cosmos-1/Volna
+--------------
+
+The ambitious privately funded Planetary Society  solar sail mission,
+Cosmos-1, was lost during launch on Jun 21, the second launch failure
+for the Russian launch industry  within 24 hours. 
+
+The Volna submarine-launched ballistic missile was launched at 1946:09 UTC
+from the K-496 "Borisoglebsk", a Kalmar-class submarine, in the Barents Sea.
+The first stage engine of the Volna is reported to have failed 83 seconds
+into flight, and the first stage did not separate from the second stage.
+The rocket ended its flight 160 seconds after launch; it probably
+reached about 200 km into space before falling back to Earth.
+
+Confusing the issue, the Planetary Society reported that telemetry from
+the satellite was recorded but contact was lost during the apogee burn
+at 2007 UTC.  That would have suggested a failure of the final stage
+apogee burn when the vehicle would have been in around a -2000 x 765 km
+x 80 deg orbit, with reentry around 2019 UTC over the equatorial
+Pacific.  However, it's not unknown for stray signals to be confused
+with the real target, and the later claims of telemetry on the second
+orbit, which now seem to be clearly wrong, cast doubt on the apogee burn
+information too. At the moment the balance of the evidence is that the
+spacecraft no longer existed by 1950 UTC and all reports of
+transmissions later than that are incorrect; but some confusion remains
+and I hope to provide more details in a future issue.
+
+I'm very disappointed about this one: Cosmos-1, sponsored by the
+Planetary Society (TPS), was an exciting project that was funded by
+enthusiasts and private investors and I was really looking forward to
+seeing it work. 
+
+The 103 kg payload carried an apogee motor for orbit insertion; 
+after reaching orbit it would have deployed 8 blades of aluminized
+Mylar spanning 30 meters. The planned 850 km orbit was high enough
+that solar radiation pressure would have been big enough compared
+to atmospheric drag to be measured, resulting in an expected force
+of 3 milliNewtons. This would have made Cosmos 1 the first spacecraft
+to use solar radiation pressure for propulsion. 
+
+The solar radiation pressure in the vicinity of the Earth is
+4.6 microPascals. For comparison, the solar wind pressure is only
+0.4 nanoPascals today, and is typically a few nPa. Typical atmospheric
+drag at 850 km is about 0.1 microPascal compared to 30 micropascals
+at ISS altitudes around 400 km.
+
+Some reports had incorrectly said that a suborbital ESA reentry test payload,
+Demonstrator-2R, was also expected to be on the Volna. Gunter Krebs
+clarified this for me: the Dem-2R went to the launch site at the same
+time as Cosmos-1, but is slated for a different Volna that was planned
+for July.
+
+There have been at least 7 other cases of two orbital launch failures
+within 24 hours. The record was on 1966 May 17 when a Voskhod/Zenit bit the dust
+and an Atlas Agena Gemini target swallowed ocean only 4 hr 15 min aprt.
+
+Note: Of course, don't confuse the Planetary Society's Cosmos-1
+satellite with the Soviet Union satellite I call Kosmos-1 (reflecting a
+transliteration from the Cyrillic) launched in 1962.
+
+Molniya
+-------
+
+A Molniya 8K78M rocket launch failed to reach orbit on Jun 21. The
+four-stage rocket took off from the First State Cosmodrome at Plesetsk
+at 0049 UTC. The Blok-I third stage, the Blok-ML fourth stage, and the
+Molniya-3K satellite payload crashed in the Tyumen region of Siberia.
+Initial reports said  the vehicle engine malfunctioned 4 minutes 58
+seconds after launch, at the time of stage 2/3 separation, either
+because the Blok-I failed to ignite or the Blok-A second stage failed to
+separate cleanly. A later report has suggested one of the liquid strapon
+boosters (Blok B, V, G or D) had a problem; again, details are still
+coming in.
+
+Normally the Blok-I stage puts the payload and upper stage in parking
+orbit, but in this case the vehicle probably reached an apogee of
+180-190 km on its suborbital trajectory. Estimated orbits of around
+-5000 x 185 km x 62.8 deg  or -4500 x 200 km x 62.8 deg roughly fit the
+stage 2/3 sep information and predict reentry around 0059 UTC.  
+
+Since the Molniya is basically a Soyuz-U with a fourth stage, this
+failure might delay Soyuz launches; a commercial US satellite, Galaxy 14,
+and a Progress cargo ship launch are scheduled for August. This
+is the first failure of a Soyuz/Molniya vehicle since the disastrous
+2002 launch-pad explosion of the Soyuz carrying the first Foton-M,
+and the two 1996 Soyuz failures caused by nose fairing problems.
+One famous previous case of stage 2/3 separation failure was in
+April 1975 when two Soyuz astronauts had to make an emergency
+high-g reentry.
+
+The Molniya-3K communications satellite is built by NPO PM and
+provides communications and probably video for the Russian Ministry of
+Defense. Historically Molniya-3 satellites also provided civil
+communications; the last regular Molniya-3 was launched on 2003 Jun 19.
+This launch was the second Molniya-3K, following the prototype launched
+on 2001 Jul 20. Alexander Zheleznyakov tells me the launch used pad 16/2
+at Plesetsk.
+
+Intelsat Americas 8
+-------------------
+
+On Jun 23, Sea Launch put up Intelsat Americas 8, breaking the run of
+failures. IA-8 is an enhanced Loral LS-1300 satellite with Ku, C and Ka
+band transponders; launch mass is 5493 kg. The satellite is owned by
+Intelsat, the recently privatized communications company now based in
+Bermuda.  The Zenit-3SL launch vehicle's third stage, the Blok DM-SL,
+put IA-8 in a 144 x 35609 km x 0.1 deg geostationary transfer orbit.
+
+Ekspress AM-3
+--------------
+
+A new domestic Russian communications satellite, Ekspress AM-3, was
+launched on Jun 24 from Baykonur. The launch vehicle was a Krunichev
+Proton-K; according to the Novosti Kosmonavtiki web site, it used an
+Energiya Blok DM-2 (11S861) No. 103L upper stage. Earlier Express
+satellites used the modernized DM-2M version of the stage, while
+commercial International Launch Services flights with the Proton use the
+Briz-M stage and an uprated Proton-M launch vehicle.
+
+The NK site reports that the Proton-K was serial number 410-10; 
+the official TsENKI web site has a document indicating 410-07 was to
+be used, but my information indicates 410-07 was actually flown on
+last December's Glonass launch.
+
+The Ekspress AM-3 satellite was built by NPO PM and is owned
+by Kosmicheskaya Svyaz, the Russian Communications Satellite Co.
+It carries an Alcatel communications payload with Ku and C band
+transponders, and one L-band transponder for mobile communications.
+
+ Ekspress AM satellites:
+         Launched      Upper stage      Location
+  AM-22  2003 Dec 28   DM-2M No. 13L    53.0E
+  AM-11  2004 Apr 26   DM-2M No. 14L    96.5E
+  AM-1   2004 Oct 29   DM-2M No. 15L    40.0E
+  AM-2   2005 Mar 29   DM-2M No. 16L    80.0E
+  AM-3   2005 Jun 24   DM-2 No. 103L    Due at 40E
+
+The Blok DM-2 went into a 231 x 35689 x 48.8 deg transfer orbit
+after its first burn. A second burn circularized the orbit
+at geostationary, and Ekspress AM-3 separated at around 0215 UTC
+on Jun 25.
+
+Space Station
+-------------
+
+Progress M-52 (vehicle 352) undocked from the Space Station's Zvezda
+module at 2016 UTC on Jun 15. Its engine burn at 2316 UTC lowered its
+orbit from 347 x 353 km to 62 x 353 km, and it reentered over the
+Pacific at 2357 UTC.
+
+Expedition 11 crewmembers Sergey Krikalyov and John Phillips 
+remain aboard the Station, while the STS-114 crew prepare for Shuttle
+return to flight.
+
+Progress vehicle 353 was launched from Baykonur at 2310 UTC on Jun 16,
+reaching a 187 x 238 km orbit at 2318 UTC and becoming Progress M-53.
+Progress M-53 will fly Space Station mission 18P delivering supplies to
+the Station. Progress M-53 docked to the Zvezda module at 0042 UTC on
+Jun 19. AP (and CNN) quoted Russian spokesman V. Lyndin as saying that
+the docking was successful in automatic mode, but in fact, as reported
+by CBS and MSNBC, commander Krikalyov took manual remote control
+following a communications failure and used the TORU system to guide the
+vehicle in. The Soyuz TMA-6 transport ship is docked to the Pirs module,
+and the Zarya port is unoccupied.
+
+
+Foton
+-----
+
+Foton M-2 landed in Kazakstan at 0736 UTC on Jun 16 after a successful
+mission.
+
+Erratum: although it had been planned that the Fotino experiment would
+fly aboard Foton M-2, I now understand that Fotino was not in fact completed,
+and did not fly on the spacecraft.
+
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+May  5 0445   Cartosat )        PSLV            SDLC SLP         Imaging     17A
+              HAMSAT   )                                         Comms       17B
+May 20 1022   NOAA 18           Delta 7320      Vandenberg SLC2W Weather     18A
+May 22 1759   DirecTV 8         Proton-M/Briz   Baykonur LC200/39 Comms      19A
+May 31 1200   Foton-M No. 2     Soyuz-U         Baykonur LC1     Micrograv   20A
+Jun 16 2310   Progress M-53     Soyuz-U         Baykonur LC1     Cargo       21A
+Jun 21 0049   Molniya-3K        Molniya-M       Plesetsk LC16/2  Comms       F01
+Jun 21 1946   Cosmos-1          Volna           Borisoglebsk,BAR Tech        F02
+Jun 23 1402   Intelsat A-8      Zenit-3SL       Odyssey,POR      Comms       22A
+Jun 24 1941   Ekspress AM-3     Proton-K/DM2    Baykonur         Comms       23A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

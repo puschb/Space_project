@@ -1,0 +1,159 @@
+Jonathan's Space Report
+No. 373                                     1998 Sep 27 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Gennadiy Padalka and Sergey Avdeev have completed one month in space,
+continuing their mission on the Mir orbital station. On Sep 15 they put
+on spacesuits, depressurized the PKhO compartment of the Mir core module
+and entered Spektr at 2000 UTC. They reconnected some cables for the
+solar panel steering mechanism and closed the hatch at 2030 UTC.
+The PKhO was then repressurized.
+
+Discovery has been connected to the external tank and boosters in
+High Bay 1 of the Vehicle Assembly Building. It was rolled out
+to pad 39B on Sep 21.
+
+Recent Launches
+---------------
+
+* Ariane launches PAS 7
+
+Arianespace successfully launched an Ariane 44LP rocket on Sep 16,
+placing the PAS 7 satellite in orbit. PAS-7 was built by Space
+Systems/Loral and is a FS-1300 class satellite with 14 C-band and 30
+Ku-band transponders. It is owned by Panamsat, whose Galaxy 10 satellite
+was destroyed in an Aug 27 launch failure.  The Ariane 44LP has two
+solid PAP boosters and two liquid PAL boosters attached to the Ariane 4
+first stage. The H-10-3 liquid hydrogen fuelled third stage completed
+its burn 18 min after launch. The PAS 7 satellite separated 21 min after
+launch into a supersynchronous 140 x 54755 x 7.0 deg transfer orbit - I
+believe this is the first time that an Ariane launch has used the
+supersynchronous technique. On Sep 18, PAS 7 was in a 10082 x 54599 km x
+2.2 deg orbit after initial burns of its Marquardt R-4D liquid apogee
+motor.
+
+  PAS series satellites:
+            Type             Launch v.  Launch date  1998 position
+  PAS  1    GE Series 3000   Ariane 4   1988 Jun 15   Atlantic  44.9W
+  PAS  2    Hughes HS-601    Ariane 4   1994 Jul  8   Pacific  169.0E
+  PAS  3    Hughes HS-601    Ariane 4   1994 Dec  1   Launch failure
+  PAS  4    Hughes HS-601    Ariane 4   1995 Aug  3   Indian    68.5E
+  PAS  3R   Hughes HS-601    Ariane 4   1996 Jan 12   Indian    91.5E
+  PAS  6    Loral FS-1300    Ariane 4   1996 Aug  8   Atlantic  43.2W
+  PAS  5    Hughes HS-601HP  Proton     1997 Aug 28   Atlantic  58.0W
+  PAS  7    Loral FS-1300    Ariane 4   1998 Sep 16   Indian    68.5E (planned)
+
+
+* Orbital Sciences launches Orbcomms
+
+Eight more Orbcomm satellites were launched on Sep 23. The Orbital
+Sciences L-1011 Stargazer aircraft took off from Wallops Flight Facility
+at 1610 UTC and flew to the drop point at around 37.0N 72.0W. 12 km over
+the Atlantic Ocean (this guesstimate location is based on info courtesy
+of Keith Stein). The Pegasus XL was dropped at 1706 UTC and the winged
+first stage ignited its Alliant solid motor 5 seconds later. The three
+solid Pegasus XL stages fired successfully to place the payload stack in
+a 254 x 446 km x 45.0 km orbit. The Primex Aerospace HAPS-Lite hydrazine
+upper stage then made a burn to increase apogee to around 800 km, and
+the stack coasted for about 44 minutes until a second HAPS burn
+circularized the orbit. The eight Orbcomm satellites were then deployed
+over a 15 minute period into an 810 km near-circular orbit. Finally, the
+HAPS stage made a final burn to deplete its fuel, lowering its perigee
+by 100 km. The mission profile was similar to previous Orbcomm launches,
+except that the Pegasus third stage apogee is significantly lower, with 
+a correspondingly larger HAPS burn.
+
+* Globalstar failure
+
+In my description of the Zenit launch failure I said that Yuzhnoe 
+officials provided incorrect information about the progress of the
+mission to Globalstar. A more recent Globalstar statement implies that
+both Yuzhnoe's and Globalstar's people simply misinterpreted the noisy
+data available to them. This is by no means the first time that a launch
+success has been announced and later retracted - it happened several
+times in the early days of the space program, and more recently the
+Landsat 6 satellite was even cataloged by Space Command for a while
+before it was discovered to be in a submarine orbit. North Korea,
+meanwhile, has not yet acknowledged that its satellite never reached
+orbit.
+
+Table of Recent Launches
+ ------------------------
+
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+                                                                    DES.
+
+Aug  2 1624   Orbcomm FM13  )   Pegasus XL    Wallops           Comsat     46A
+              Orbcomm FM14  )                                   Comsat     46B
+              Orbcomm FM15  )                                   Comsat     46C
+              Orbcomm FM16  )                                   Comsat     46D
+              Orbcomm FM17  )                                   Comsat     46E
+              Orbcomm FM18  )                                   Comsat     46F
+              Orbcomm FM19  )                                   Comsat     46G
+              Orbcomm FM20  )                                   Comsat     46H
+Aug 12 1130   MERCURY           Titan 4A      Canaveral SLC41   Sigint     F02
+Aug 13 0943   Soyuz TM-28       Soyuz-U       Baykonur LC1      Spaceship  47A
+Aug 19 2301   Iridium SV03)     CZ-2C/SD      Taiyuan           Comsat     48A
+              Iridium SV76)                                     Comsat     48B
+Aug 25 2307   ST-1              Ariane 44P    Kourou            Comsat     49A
+Aug 27 0117   Galaxy X          Delta III     Canaveral SLC17B  Comsat     F03
+Aug 30 0031   Astra 2A          Proton        Baykonur          Comsat     50A
+Aug 31 0307   Kwangmyongsong 1  Taepo Dong    Musudan           Test       F04
+Sep  8 2113   Iridium SV77)     Delta 7920    Vandenberg SLC2   Comsat     51E
+              Iridium SV79)                                     Comsat     51D
+              Iridium SV80)                                     Comsat     51C
+              Iridium SV81)                                     Comsat     51B
+              Iridium SV82)                                     Comsat     51A
+Sep  9 2029   Globalstar FM5 )  Zenit-2       Baykonur          Comsat     F05
+              Globalstar FM7 )                                  Comsat     F05
+              Globalstar FM9 )                                  Comsat     F05
+              Globalstar FM10)                                  Comsat     F05
+              Globalstar FM11)                                  Comsat     F05
+              Globalstar FM12)                                  Comsat     F05
+              Globalstar FM13)                                  Comsat     F05
+              Globalstar FM16)                                  Comsat     F05
+              Globalstar FM17)                                  Comsat     F05
+              Globalstar FM18)                                  Comsat     F05
+              Globalstar FM20)                                  Comsat     F05
+              Globalstar FM21)                                  Comsat     F05
+Sep 16 0631   PAS 7             Ariane 44LP   Kourou            Comsat     52A
+Sep 23 0506   Orbcomm FM21 )    Pegasus XL/HAPS Wallops I       Comsat     53A
+              Orbcomm FM22 )                                    Comsat     53B
+              Orbcomm FM23 )                                    Comsat     53C
+              Orbcomm FM24 )                                    Comsat     53D
+              Orbcomm FM25 )                                    Comsat     53E
+              Orbcomm FM26 )                                    Comsat     53F
+              Orbcomm FM27 )                                    Comsat     53G
+              Orbcomm FM28 )                                    Comsat     53H
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Jan   ? 
+OV-103 Discovery       LC39B         STS-95  Oct 29
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Dec  3?
+
+MLP2/RSRM-68/ET-98/OV-103      LC39B     STS-95
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'

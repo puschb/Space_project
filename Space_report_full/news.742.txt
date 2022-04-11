@@ -1,0 +1,313 @@
+Jonathan's Space Report 
+No. 742                                                  2017 Nov 25 Somerville, MA
+---------------------------------------------------------------------------------------------
+Apologies for the increasing delay between issues (due to pressure of work).
+
+
+International Space Station
+---------------------------
+
+Expedition 53 continues.
+
+On Oct 10 Bresnik and Vande Hei made spacewalk EVA-45. They lubricated
+the new Canadarm-2 LEE-A installed on the previous outing, and
+replaced a camera group on the CP9 position on the P1 truss.
+The airlock was depressurized at 1149 UTC and repressurized at 1822 UTC.
+
+Progress MS-07 was launched on Oct 14 and docked with the Pirs module on
+Oct 16 at 1104 UTC. It carried 1382 kg of dry cargo and 1167 kg of
+propellant and other 'wet' cargo; this is a slight increase on earlier
+missions. The cargo includes an antenna for an experiment called ICARUS
+which is to be installed on a spacewalk.
+
+On Oct 20 Bresnik and Acaba made spacewalk EVA-46. They carried out
+various maintenance tasks including replacement/upgrade of external
+camera equipment and removal of insulation on spare equipment (to allow
+its future robotic installation). Acaba's SAFER backpack malfunctioned
+at 1707 UTC; he returned to the airlock while Bresnik wrapped up
+remaining tasks. The airlock was depressurized at about 1144 UTC and
+repressurized at 1836 UTC.
+
+On Oct 24 the NanoRacks KABER deployer was used for the first time.
+KABER is used for 50 kg class satellites; it was extracted from the Kibo
+airlock by the Canadarm-2/Dextre robot arm combo (in contrast to the
+cubesat deployers which use the smaller JAXA JEM-RMS arm). The US Army's
+Kestrel Eye II-M imaging satellite was ejected into orbit. KABER was
+returned to the airlock and the SIMPL satellite, from the
+infelicitously-named NovaWurks Inc., was attached to it. SIMPL was then
+deployed on Oct 27. It is a test of the 'satlet' concept and was
+assembled on board ISS on Oct 25 from a set of six smaller HiSat-PAC
+units and two solar arrays, delivered to the station on Cygnus OA-4 in
+2015. SIMPL also carries the QIKcom-1 US Naval Academy amateur radio payload.
+
+On Nov 12 OrbitalATK launched the Cygnus OA-8 cargo mission, SS Gene Cernan,
+on an Antares 230 from the Wallops MARS (Mid Atlantic Regional Spaceport).
+The Cernan arrived at ISS on Nov 14. It carried the EcAMSat and TechEdSat-6
+cubesats which were then loaded into the NRCSD-13 package launched previously.
+NRCSD-13 was taken outside the Kibo airlock by the JEM RMS on Nov 20
+and EcAMSat, ASTERIA and Dellingr were deployed, with TechEdSat-6 and
+OSIRIS-3U following the next day. TechEdSat-6 will demonstrate semi-controlled
+reentry with an exobrake. 
+
+ASTERIA is a JPL/MIT 6U cubesat with a 6-cm optical telescope
+(actually a Zeiss camera lens and a CMOS detector); it will study exoplanets.
+Congratulations to MIT's Sara Seager for getting ASTERIA to space!
+The ASTERIA project replaced an earlier study for a 3U version called Exoplanetsat.
+
+On Nov 4 the MBSU (main bus switching unit) that had been repaired
+inside ISS was taken outside again via the Kibo airlock with the SPDM 
+Dextre robot arm and stored on the ESP-2 platform. Dextre was also used
+to exchange the location of two spare units on the ISS on Nov 17. A
+spare UTA was oved from ESP-2 to ELC-1, while the remaining spare robot
+arm LEE was moved from ELC-1 to ESP-2; it will be swapped with the
+active Canadarm-2 LEE-B in a spacewalk next year.
+
+VRSS-2
+------
+
+The second Venezuelan Remote Sensing Satellite, VRSS-2, also named
+Antonio Jose de Sucre (or just Sucre for short) was launched on Oct 9
+into a sun-synchronous orbit in the 1030 local time plane by China for
+ABAE, the Bolivaran Agency for Space Activities and MPPEUCT (Ministry of
+People's Power for University Education, Science and Technology). The
+satellite was built in China and uses the CAST-2000 bus; it has a mass
+of 942 kg. It is named after the revolutionary general and president of
+Bolivia ad Peru, Antonio Jose de Sucre (1795-1830). In Chinese it is
+known as 'Venezeula Yaogan Weixing er hao'.
+
+Iridium-3
+----------
+
+The third batch of Iridium-Next low orbit communications satellites
+were placed in orbit by a SpaceX Falcon 9 on Oct 9. The first stage, B1041,
+landed on the barge Just Read The Instructions off the coast of California.
+Meanwhile Iridium has begun to deorbit the first generation Iridium satellites;
+Iridium 8 reentered on Nov 24.
+
+D-SAT
+-----
+
+The D-SAT cubesat from D-Orbit of Italy was launched in June to
+demonstrate a solid motor deorbit system. The satellite was in a 496 x
+508 km x 97.4 deg  orbit. The motor was fired at 2018 UTC on Oct 2;
+however a misalignment of the motor with the satellite centre of gravity
+apparently caused the vehicle to tumble during the burn, and instead of
+achieving an estimated 180 m/s retrograde to put it in a -117 x 507 km
+deorbit path, the burn contributed 51 m/s posigrade and 40 m/s out of
+plane, raising perigee 190 km and leaving D-SAT in a 506 x 686 km x 97.6
+deg orbit, increasing its expected orbital lifetime. 
+
+
+SES-11
+------
+
+The SES-11 satellite was launched to geotransfer orbit by Falcon 9 on
+Oct 11. The launch reused first stage B1031, which landed on the barge
+Of Course I Still Love You off the coast of Florida.
+SES-11 is owned by Luxembourg-based SES (possibly, technically, by
+its UK subsidiary SES Satellite Leasing). Part of the payload is being
+leased to Echostar which will market it as Echostar 105.
+
+QZSS-4
+------
+
+The fourth Quasi Zenith Satellite System payload, Michibiki 4, was
+launched on Oct 9 into inclined synchronous orbit to provide navigation
+services for Japan.
+
+Sentinel-5 Precursor
+--------------------
+
+The ESA Sentinel series for Earth environmental monitoring has another
+member. Sentinel-5P is a dedicated satellite operating as a precursor
+to the Sentinel-5 payloads slated to fly attached to future weather satellites.
+The main instrument is the Tropomi spectrometer to study atmospheric
+chemistry at high spatial and temporal resolution.
+
+QUASAR
+------
+
+What is probably the 20th QUASAR data relay and communications satellite for the
+US National Reconnaissance Office was launched to geostationary transfer
+orbit on Oct 15. The satellite was named USA 279 and the launch was code-named NROL-52.
+
+Kosmos-2521
+-----------
+
+Russia reported that the satellite-inspector completed a series of
+proximity operations experiments and returned to the Kosmos-2519 host
+satellite on Oct 26, in a 650 x 667 km orbit. Shortly afterwards a new
+object (2017-037E, 42986) was cataloged in a 554 x 664 km orbit; its
+nature is unknown.
+
+Koreasat-5A
+-----------
+
+Koreasat-5A (Mugunghwa 5A ho) was launched by Falcon 9 on Oct 30. It is
+a Thales Alenia Space/Cannes Spacebus 4000B2 with a launch mass of
+around 3700 kg and a Ku-band communications/broadcasting payload for KT
+Sat (formerly Korea Telecom).
+
+Planet Express
+--------------
+
+On Oct 31 ten satellites for Planet were sent into sun-synchronous
+orbit. Four were Dove cubesats forming the Flock-3m sub-constellation.
+Six were 100-kg-class Skysat satellites; the Skybox/Terra Bella company
+that developed the Skysat constellation was acquired by Planet in April.
+
+The satellites were launched by Orbital's Minotaur-C rocket. This is
+basically a rebranded Taurus XL rocket - the name change is apparently
+at least partly because of embarrassment at the rocket's previous high
+failure rate. Orbital reports that there are improvements to the Taurus
+incorporated from the rest of the Minotaur fleet, including design
+improvements to the fairing. The '-taur' in the Minotaur name comes from
+the fact that the original Minotaur I was MINuteman+TAURrus, a Minuteman
+first stage with Taurus/Pegasus upper stages, so the Minotaur and Taurus
+lineages are closely coupled in any case.
+
+Mohammed VI-A
+-------------
+
+Morocco's first spy satellite was launched on Nov 8. It is based on the
+Pleiades/AstroSat-1000 bus used for France's comparable system.
+
+JPSS-1
+------
+
+The first satellite in the Joint Polar Satellite System weather satellite program was
+launched on Nov 18 by a Delta 2. JPSS-1, which has a similar design to
+Suomi-NPP, will be called NOAA-20 when it enters operation. The Delta
+second stage also deployed five cubesats.
+
+
+Beidou-3
+--------
+
+Following five experimental Beidou-3 satellites, the first two operational
+vehicles on the Beidou-3 constellation were launched into medium
+(12-hour) orbit on Nov 5.
+
+FY-3D
+-----
+
+China launched the Fengyun-3D polar orbit weather satellite on Nov 14.
+The launch also orbited a small commercial imaging satellite for HEAD Aerospace of Beijing.
+
+CZ-6
+----
+
+The second ChangZheng-6 was launched on Nov 21 to place three Jilin-1 Video satellites
+into orbit for the Harbin based Chang Guang Satellite Technology Ltd. The CZ-6 is the
+smallest of the CZ-5/6/7 new-generation CALT launch vehicle family.
+
+YG-30-02
+--------
+
+The 2nd triplet YG-30 group was launched on Nov 24. The three satellites are believed
+to perform signals intelligence for the Chinese military.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Sep  7 1400   X-37B OTV-5             Falcon 9         Kennedy LC39A    Spaceplane    52A   S42932   350?x   350?x 43?
+Sep 11 1923   Amazonas 5              Proton-M/Briz-M  Baykonur LC200/39 Comms        53A   S42934 35785 x 35790 x  0.0 GEO  58.3W
+Sep 12 2117   Soyuz MS-06             Soyuz-FG         Baykonur LC1      Spaceship    54A   S42937   192 x   240 x 51.6
+Sep 22 0002   Kosmos-2522             Soyuz-2-1B/Fregat Plesetsk LC43-4  Nav          55A   S42939 19130 x 19160 x 64.8
+Sep 24 0549   USA 278                 Atlas V 541      Vandenberg SLC3E  Sigint       56A   S42941  2100?x 37800?x 62.8
+Sep 28 1852   Asiasat-9               Proton-M/Briz-M  Baykonur LC200/39 Comms        57A   S42942 35780 x 35792 x  0.1 GEO 121.6E  
+Sep 29 0421   YG-30 01 zu 01 xing )   Chang Zheng 2C   Xichang           Sigint       58A   S42945   592 x   601 x 35.0
+              YG-30 01 zu 02 xing )                                      Sigint       58B   S42946   592 x   601 x 35.0
+              YG-30 01 zu 03 xing )                                      Sigint       58C   S42947   594 x   601 x 35.0
+Sep 29 2156   BSAT-4a      )          Ariane 5 ECA     Kourou ELA3       Comms        59B   S42951 35772 x 35801 x  0.0 GEO 103.8E
+              Intelsat-37e )                                             Comms        59A   S42950 20673 x 35773 x  0.2
+Oct  9 0413   Sucre                   Chang Zheng 2D   Jiuquan           Imaging      60A   S42954   655 x   668 x 98.0 1030 LT SSO
+Oct  9 1237   Iridium 133  )          Falcon 9         Vandenberg SLC4E  Comms        61A   S42955   612 x   626 x 86.6
+              Iridium 127  )                                             Comms        61B   S42956   612 x   626 x 86.6
+              Iridium 122  )                                             Comms        61C   S42957   612 x   626 x 86.6
+              Iridium 129  )                                             Comms        61D   S42958   612 x   626 x 86.6
+              Iridium 119  )                                             Comms        61E   S42959   612 x   626 x 86.6
+              Iridium 107  )                                             Comms        61F   S42960   612 x   626 x 86.6
+              Iridium 132  )                                             Comms        61G   S42961   612 x   626 x 86.6
+              Iridium 136  )                                             Comms        61H   S42962   612 x   626 x 86.6
+              Iridium 139  )                                             Comms        61J   S42963   612 x   626 x 86.6
+              Iridium 125  )                                             Comms        61K   S42964   612 x   626 x 86.6
+Oct  9 2201   Michibiki 4             H-2A 202        Tanegashima        Nav          62A   S42965 35889 x 36070 x 40.4
+Oct 11 2253   SES-11                  Falcon 9        Kennedy LC39A      Comms        63A   S42967   304 x 40500 x 27.8
+Oct 13 0927   Sentinel-5P             Rokot           Plesetsk LC133     Rem.Sens.    64A   S42968   808 x   847 x 98.7 1330 LT SSO
+Oct 14 0846   Progress MS-07          Soyuz-2-1A      Baykonur LC31      Cargo        65A   S42971   185 x  219 x  51.6 Docked ISS
+Oct 15 0728   USA 279                 Atlas V 421     Canaveral SLC41    Comms        66A   S42949  1096 x 35809 x 18.7
+Oct 24 0945   Kestrel Eye II-M                        ISS, LEO           Imaging   98067NE  S42982   400 x   407 x 51.6
+Oct 27 0915   SIMPL                                   ISS, LEO           Tech      98067NF  S42983   400 x   407 x 51.6
+Oct 30 1934   Koreasat-5A             Falcon 9        Kennedy LC39A      Comms        67A   S42984   285 x 50185 x 22.0
+Oct 31 2137   Skysat-8  )                                                Imaging      68F   S42992   500 x   527 x 97.4     
+              Skysat-9  )             Minotaur-C 3210 Vandenberg 576E    Imaging      68E   S42991   500 x   527 x 97.4     
+              Skysat-10 )                                                Imaging      68D   S42990   500 x   527 x 97.4     
+              Skysat-11 )                                                Imaging      68C   S42989   500 x   527 x 97.4     
+              Skysat-12 )                                                Imaging      68B   S42988   500 x   527 x 97.4     
+              Skysat-13 )                                                Imaging      68A   S42987   500 x   527 x 97.4     
+              Flock 3m-1)                                                Imaging      68G   S42993   500 x   526 x 97.4     
+              Flock 3m-2)                                                Imaging      68H   S42994   500 x   531 x 97.4     
+              Flock 3m-3)                                                Imaging      68J   S42995   500 x   532 x 97.4     
+              Flock 3m-4)                                                Imaging      68K   S42996   500 x   523 x 97.4     
+Nov  5 1145   Beidou DW 24 )          Chang Zheng 3B/YZ1  Xichang LC3    Comms        69A   S43001 21485 x 21614 x 55.0
+              Beidou DW 25 )                                             Comms        69B   S43002 21541 x 22194 x 55.0
+Nov  8 0142   Mohammed VI-A           Vega              CSG ZLV          Imaging      70A   S43005   620 x   673 x 98.0
+Nov 12 1219   SS Gene Cernan          Antares 230       MARS LA0B        Cargo        71A   S43006   200 x   299 x 51.6
+Nov 14 1835   FY-3D  )                Chang Zheng 4C    Taiyuan          Weather      72A   S43010   798 x   812 x 98.7
+              HEAD-1 )                                                   Imaging      72B   S43011   798 x   809 x 98.7
+Nov 18 0947   NOAA-20/JPSS-1 )        Delta 7920-10C    Vandenberg SLC2W Weather      73A   S43013   817 x   820 x 98.7
+              EagleSat       )                                           Tech         73    S43016?  455 x   818 x 98.7   
+              MakerSat-0     )                                           Tech         73    S43017?  454 x   818 x 97.7
+              RadFxSat       )                                           Tech         73    S43018?  454 x   818 x 97.7
+              Buccaneer-RMM  )                                           Tech         73B   S43014   460 x   819 x 97.7
+              MiRaTa         )                                           Tech         73C   S43015   455 x   818 x 97.7
+Nov 20 0805   EcAMSat                                   ISS, LEO         Sci        98-67NG S43019   399 x   407 x 51.6
+Nov 20 1225   ASTERIA                                   ISS, LEO         Ast        98-67NH S43020   401 x   405 x 51.6
+Nov 20 1702   Dellingr                                  ISS, LEO         Sci        98-67NJ S43021   401 x   405 x 51.6
+Nov 21 0450   Jilin-1 Shipin 4  )     Chang Zheng 6     Taiyuan          Imaging      74A   S43022   532 x   545 x 97.5
+              Jilin-1 Shipin 5  )                                        Imaging      74B   S43023   532 x   545 x 97.5
+              Jilin-1 Shipin 6  )                                        Imaging      74C   S43024   532 x   545 x 97.5
+Nov 21 0825   TechEdSat-6                               ISS, LEO         Tech       98-67NJ S43026   398 x   406 x 51.6
+Nov 21 1140   OSIRIS-3U                                 ISS, LEO         Sci        98-67NJ S43027   395 x   409 x 51.6
+Nov 24 1810   Yaogan-30 02 zu 01 xing ) Chang Zheng 2C  Xichang          Sigint       75A   S43028   590 x   604 x 35.0
+              Yaogan-30 02 zu 02 xing )                                  Sigint       75B   S43029   590 x   604 x 35.0
+              Yaogan-30 02 zu 03 xing )                                  Sigint       75C   S43030   590 x   604 x 35.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Sep 12        RV x4?            Yars               Plesetsk              Test         1000?      Kura
+Sep 14 2157   RV                Hwasong 12         Pyongyang-Sunan, N.K. Test          770       Pacific Ocean
+Sep 14 2330?  RV                Hyunmoo-2A?        Goseung, S Korea?     Test          100?      Sea of Japan
+Sep 17        PTV               Janus              Wake Island           Target        300?      Kwajalein
+Sep 20        RV x4?            Yars               Plesetsk              Test         1000?      Kura
+Sep 25        Aegis Target      Terrier Oriole     South Uist            Target        100?      Atlantic
+Sep 26 1530?  Topol-E RV        Topol'-E           Kapustin Yar          Test         1000?      Sary Shagan
+Oct 15        Aegis Target      Terrier Oriole     South Uist            Target        100?      Atlantic
+Oct 15        Aegis KV          SM-3-IB           DDG-75, Hebrides Range Interceptor   100?      Atlantic
+Oct 26        Topol' RV         Topol'             Plesetsk              Test         1000?      Kura
+Oct 26        RV                Sineva            Sub, Barents Sea       Test         1000?      Kura
+Oct 26        RV                Volna?            Sub, Sea of Okhotsk    Test         1000?      Chiza
+Oct 26        RV                Volna?            Sub, Sea of Okhotsk    Test         1000?      Chiza
+Oct 30        CPS FE-1          STARS              Kauai LC42            Test         1000?      Kwajalein
+Oct 30 1000   DEUCE             Black Brant IX     White Sands           UV Astron     250?      White Sands
+Nov  4 1707   RV/Warhead        Burkan 2H          Yemen?                Weapon        150?      Riyadh
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+ 

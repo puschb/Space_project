@@ -1,0 +1,158 @@
+Jonathan's Space Report
+No. 620                                            2009 Dec 30  Somerville, MA
+----------------------------------------------------------------------------------
+
+A happy 2010 to all my readers! Those of you at the American Astronomical
+Society next week, please stop by the Chandra booth and say hi.
+
+Shuttle and Station
+--------------------
+
+Soyuz TMA-17 was launched on Dec 20 carrying Oleg Kotov, T.J. Creamer
+and Soichi Noguchi on their way to join Expedition 22 crewmembers Jeff
+Williams and Maksim Suraev. TMA-17 is spacecraft article 11F732A17
+factory model 7K-STMA No. 227,  carrying out ISS mission 21S.
+
+On Dec 22 at 2248 UTC Soyuz TMA-17 docked with the nadir port on Zarya.
+Soyuz TMA-16 is at Zvezda's aft port, the Progress M-03M cargo
+ship is at the Pirs port, and the Poisk and PMA-2 ports are empty.
+
+
+Helios IIB
+---------
+
+France's Helios IIB spy satellite was launched on Dec 18. The 4200 kg
+craft is based on the SPOT remote sensing satellites and is probably in
+a 680 km sun-synchronous orbit. In a new policy, the US has stopped
+releasing the orbital elements of French military satellites.
+
+The launch vehicle was production no. L532, an old Ariane 5GS model with
+an EPS upper stage. Only two of the last 23 launches have used the 5GS
+model rather than the enhanced 5ECA with the cryogenic ESC-A upper
+stage. Based on public information and comparison with other polar
+Ariane missions, I conclude that the EPC core stage, which separated 400
+km above -53W 20N at 1635 UTC, probably entered an orbit of
+approximately -2690 x 800 km x 90.9 deg, reaching apogee over
+Newfoundland at 1644 UTC and reentering over the North Pole at 1657 UTC.
+The EPS stage burned from 1635 to 1652 UTC and entered an estimated 665
+x 665 km x 98.3 deg orbit over Baffin Island, coasting half an orbit
+until Helios IIB separated from it at 1725 UTC over the Indian Ocean
+north of the ground station at Perth.
+
+
+WISE
+----
+
+After the WISE infrared astronomical observatory separated into a 526 x
+531 km x 97.5 deg orbit, its Delta rocket second stage depleted the rest
+of its fuel with an extra pair of burns that put the empty stage in a
+2113 x 11086 km x 97.5 deg disposal orbit, unusually high for a Delta II.
+
+WISE ejected its telescope cover at 2230 UTC on Dec 29 into a marginally lower 
+525 x 531 km orbit, and is now ready to begin observing.
+
+
+DirectTV 12
+-----------
+
+DirecTV 12 is a 5900 kg Boeing 702 satellite for television
+broadcasting. It was launched by Proton-M on Dec 29 into a -386 x 173 km
+x 48.0 deg marginally suborbital trajectory. The Briz-M stage then made
+five burns to 133 x 273 km x 48 deg, 245 x 5000 km x 47 deg, 310 x 15387 km
+x 46 deg, 405 x 35816 km x 46 deg, and 5120 x 35786 km x 20.7 deg,
+where the payload separated.
+
+Russian missile
+---------------
+
+Russia carried out its third long range missile test of the month on Dec
+24, with the launch of an R-36M2 'Voevoda' from the missile base at
+Yasniy (also known as Dombarovskiy) which has also been used for Dnepr
+satellite launches. The R-36M2, or 15A18M, is related to the Tsiklon and
+Dnepr launch vehicles and is made by the Ukranian Yuzhnoe company; it
+carries ten MIRVed reentry vehicles. The rocket's NATO designation is
+SS-18. The reentry vehicles landed in the usual Kura target range in
+Kamchatka, which has been repeatedly  pummeled by ICBM dummy warheads
+since 1957. This is the sixth know rocket launch from Yasniy.
+
+Object 5426 - not part of a Soviet lunar lander after all
+---------------------------------------------------------
+
+US satellite catalog entry number SSN 5426 is in a 622 x 744 km x 49.5
+deg orbit; it has a small radar cross section and a slow decay rate, so
+it is probably a small, dense object. It currently sports the
+international designation 1971-069C, which alleges its connection with
+the Soviet T2K lunar lander test flight Kosmos-434 (SSN 5407), but  I
+think this is probably a misidentification. Because of the interest in
+reconstructing the Soviet lunar mission flight profiles, it's worth
+sorting this out.
+
+Kosmos-434 was launched by a Soyuz rocket into low 189 x 267 km orbit.
+The lunar module's engine made a burn simulating the lunar landing burn,
+putting it in elliptical orbit of 190 x 1261 km. It then jettisoned its
+landing leg section and other debris and made another burn to a 180 x
+11834 km orbit in a simulation of lunar ascent.
+
+The first few historical element sets for 5426 were indeed a debris
+object from Kosmos-434, in a 183 x 1196 km x 51.7 deg elliptical orbit
+similar to SSN 5427 and SSN 5428. Like those objects, it probably
+reentered in Sep-Oct 1971, but on Sep 1 the number was reassigned
+(probably due to a radar tagging mistake as the two objects crossed
+paths) to the current object, which at that time was in a 700 x 925 km x
+49.6 deg orbit. What could SSN 5426 be? The most likely answer is  a
+despin weight associated with the French Eole satellite, launched by a
+US Scout rocket into a 676 x 905 km x 50.1 deg orbit in mid-Aug 1971.
+The orbital period is about right and the ascending node is spot on. The
+small change in inclination corresponds to a velocity change of about
+100 m/s which is of the same order as the other Eole debris object, SSN
+5440/1971-71C. I conclude that SSN 5426 and SSN 5440 are the two despin
+weights known to have been ejected from the Eole satellite at 1855 UTC
+on 1971 Aug 16, and that SSN 5426 should be 1971-071D, not 1971-069C.
+
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+Dec  6 0147   WGS 3             Delta 4M+(5,4)   Canaveral SLC37B Comms      68A
+Dec  9 0842   Yaogan Weixing 7  Chang Zheng 2D   Jiuquan          Imaging?   69A
+Dec 14 1038   Kosmos-2456 )     Proton-M/DM2     Baykonur LC81    Navigation 70A
+              Kosmos-2457 )                                       Navigation 70B
+              Kosmos-2458 )                                       Navigation 70C
+Dec 14 1409   WISE              Delta 7320       Vandenberg SLC2W Astronomy  71A
+Dec 15 0231   Yaogan Wexing 8 ) Chang Zheng 4C   Taiyuan          Imaging?   72A
+              Xi Wang 1       )                                   Comms      72B
+Dec 18 1626   Helios IIB        Ariane 5GS       Kourou ELA3      Imaging    73A
+Dec 20 2152   Soyuz TMA-17      Soyuz-FG         Baykonur LC1     Spaceship  74A
+Dec 29 0022   DirecTV 12        Proton-M/Briz-M  Baykonur LC200/39 Comms     75A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Dec  9 0645?  RV              Bulava        TK-208, White Sea Test         500?
+Dec 10 1135   RV              Topol'          Kapustin Yar    Test        1000?
+Dec 16        Sejjil RV       Sejjil 2        Iran            Test         800?
+Dec 16 1200?  NASA 12.068GT   Mesquito        Wallops Island  Test          90?
+Dec 17 0325   NASA 41.086UO   Terrier Orion   White Sands     Airglow      130?
+Dec 24        RV x 10?        R-36M2          Yasniy          Test        1000?
+
+.-------------------------------------------------------------------------.
+| -- Jonathan's Space Report -- Est. 1989 -- (c) Jonathan McDowell        |
+|                                                                         |
+|  Editor:                           |                                    |
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589@gmail.com      |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| Current issue:   http://www.planet4589.org/jsr.html                     |
+| Back issues:     http://www.planet4589.org/space/jsr/back               |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+
+
+

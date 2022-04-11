@@ -1,0 +1,121 @@
+Jonathan's Space Report 
+No. 191       1994 Apr 7
+------------------------------------------------------------------------------
+
+Not much news this week, but a few amplifications of earlier stories.
+A drought of launches continues, but STS-59 is due tomorrow.
+
+Shuttle  
+-------  
+
+Launch of Endeavour and the Space Radar Lab 1 is due for April 8. The
+press kit on Spacelink for STS-59 is wrong about the layout of the
+payload bay - there is no GAS Bridge. The cargo bay contains the
+following:
+
+  MPESS Mission Peculiar Experiment Support Structure, carrying the
+    MAPS (Measurement of Air Pollution From Satellites) experiment
+  SL-PLT Spacelab pallet              ) Carrying SRL-1, Space Radar Lab
+  ATS (2) Antenna Trunnion Structures )  with SIR-C and X-SAR radars
+  GABA   Gas Beam Adapter, carrying CONCAP-IV GAS can payload on
+         bay 4-Port.
+  GABA   Gas Beam Adapter, carrying G-203 GAS can on bay 4-Starboard.
+  GABA   Gas Beam Adapter, carrying G-458 GAS can and GBP-1 ballast payload 
+         on bay 13-Port.
+  GABA   Gas Beam Adapter, carrying G-300 GAS can on bay 13-Starboard.
+  RMS    Remote Manipulator System RMS-303, on its 7th flight.
+  PSA    Provisions Stowage Assembly (emergency EVA tools)
+
+Thanks to all those who spotted the deliberate mistake :-), Mission
+Specialist Richard Clifford flew on STS-53, so is not a rookie as I
+claimed. 
+
+The Astro-2 mission has been delayed from Dec 1994 to Jan 1995
+and switched to a different orbiter, as Columbia is to be sent
+for its next maintainance period several months early.
+ 
+Mir
+---
+
+The flight of the EO-15 crew continues aboard Mir. Soyuz TM-18
+originally docked with the TsM-E (Kvant) module on Jan 10, but
+on Jan 21 it redocked with the PkhO section docking port on the
+main Mir module (source: Novosti Kosmonavtiki). Progress M-21,
+and now Progress M-22, therefore used the TsM-E port. The current
+station configuration is therefore:
+   "Mir" base block DOS    17KS-12701
+   "Kvant"          TsM-E  37Ke-010      docked at Mir AO rear port
+   "Kvant-2"        TsM-D  77KSD-17101   docked at Mir PkhO side port
+   "Kristall"       TsM-T  77KST-17201   docked at Mir PkhO side port
+   "Soyuz TM-18"    7K-STM 11F732-67?    docked at Mir PkhO front port
+   "Progress M-22"  7K-TGM 11F615A55-222 docked at TsM-E rear port
+(7K is the official internal program name for the Soyuz program;
+TsM means specialized module, DOS is an abbreviation for long-term
+orbital station). 
+
+Space Probes
+------------
+
+Magellan lowered its orbit around Venus with orbit trim maneuvers on Mar
+10 to lower periapsis, resulting in a 184 x 530 km orbit. More burns
+were made on Apr 4 and Apr 5, and further trims are due Apr 11 and Apr
+12. The target orbit is 220 x 390 km.
+
+Clementine 1 made orbit trim burns on Mar 25 and Mar 26 to change
+the latitude of its perilune from 30 deg S to 30 deg N, improving
+mapping coverage of the northern hemisphere. Clementine will depart
+lunar orbit in May.
+
+Recent Launches
+---------------
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Feb 18 0756     Raduga          Proton/DM2      Baykonur LC81   Comsat      12A
+Feb 19 2345     Galaxy IR       Delta 7925      Canaveral LC17  Comsat      13A
+Mar  2 0324     Koronas-I       Tsiklon         Plesetsk LC32   Solar phys  14A
+Mar  4 1353     Columbia        Shuttle         Kennedy LC39B   Spaceship   15A
+Mar 10 0340     Navstar GPS 36) Delta 7925      Canaveral LC17  Navsat      16A
+                SEDS 2        )                                             16B
+Mar 13 2232     P90-5    )      Taurus          Vandenberg      Technology  17A
+                DARPASAT )                                      Technology? 17B
+Mar 17 1630     Kosmos-2274     Soyuz-U         Plesetsk LC43   Recon       18A
+Mar 22 0454     Progress M-22   Soyuz-U         Baykonur LC1    Cargo       19A
+
+
+Reentries
+---------
+
+Mar 15          SEDS 2          Reentered
+Mar 18          Columbia        Landed at KSC
+Mar 23          Progress M-21   Deorbited
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-65
+OV-103 Discovery       OPF Bay 3     STS-64
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LC39A         STS-59
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/ 
+ML2/RSRM-37/ET-63/OV-105   LC39A     STS-59             
+ML3/RSRM-38?/              VAB Bay 1 STS-65
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 
+
+,

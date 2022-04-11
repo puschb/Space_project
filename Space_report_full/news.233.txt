@@ -1,0 +1,147 @@
+Jonathan's Space Report 
+No. 233               1995 Mar 11                   Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+--------
+
+Shuttle mission STS-67 was launched on Mar 2 at 0638:14 UT. The Astro-2
+telescopes, HUT, WUPPE, and UIT appear to be operating well, as is the
+IPS Instrument Pointing System. On Mar 11 it was in a 91.6 min, 341 x
+360 km x 28.5 deg orbit. STS-67 is the 68th Shuttle flight and the
+eighth flight of OV-105 Endeavour. Astro 2 is the fifth EDO (Extended
+Duration Orbiter) flight and the eighteenth Spacelab mission (or
+maybe only the 16th, did SRL-1 and SRL-2 count officially as Spacelab?).
+Astro 2 uses the pressurized avionics container known as the Spacelab
+Igloo to support the payload bay experiments; the Igloo previously
+flew on Spacelab 2, Astro 1 and the three Atlas flights.
+Crew of STS-67 are Commander Steve Oswald, Pilot William Gregory, 
+Payload Commander Tamara Jernigan, Mission Specialists Wendy Lawrence
+and John Grunsfeld, and Payload Specialists Ron Parise (Computer Sciences
+Corp) and Sam Durrance (Johns Hopkins University).
+
+Based on information obtained by Joel Runes, it appears the
+ODERACS satellites deployed from STS-63 were deployed in the
+following order (for those who *really* like to nitpick):
+
+  ODERACS II-A, 10-cm sphere
+  ODERACS II-D, 13 cm wire
+  ODERACS II-C, 5-cm sphere
+  ODERACS II-F, 4 cm wire
+  ODERACS II-B, 15-cm sphere
+  ODERACS II-E, 13 cm wire
+ 
+
+Preparations for the STS-71 mission continue; the external tank will
+be mated to the solid boosters next week, and the Orbiter Docking
+System and Spacelab module are ready to be installed in the cargo bay
+of Atlantis.
+
+Mir
+---
+
+Progress M-26 docked with the Kvant port on Mir at 1821 UT on Feb 17. It
+will remain at the station until shortly before the arrival of Soyuz
+TM-21 in mid-March. Soyuz TM-21 carries the EO-18 crew. The commander is
+the Russian Air Force cosmonaut Vladmir Dezhurov, on his first flight.
+Flight engineer is experienced RKK Energiya cosmonaut Gennadiy
+Strekalov, who flew on Soyuz T-3, which docked with the Salyut-6 space
+station; Soyuz T-8, which failed to dock with Salyut-7; Soyuz T-11,
+which did reach Salyut-7; and Soyuz TM-10 in 1990, which saw him
+spending 130 days on Mir with Gennady Manakov. Strekalov was also on the
+Soyuz launch of Sep 1983, when the launch escape system rocketed him and
+Vladimir Titov (who flew on Discovery last month) clear of the launch
+vehicle, which exploded on the pad. The third member of the EO-18 crew
+is Dr. Norman Thagard, a NASA astronaut whose four previous missions 
+were STS-7 (Challenger); STS 51-B/Spacelab 3 (Challenger); STS-30R/Magellan
+(Atlantis); and STS-42/Spacelab IML-1 (Discovery). Launch of the Soyuz
+is scheduled for Mar 14.
+
+Note
+----
+
+Thanks to Maxim Tarasenko and Asif Siddiqi for comments on the
+annual launch list; I'll make a revised version available in a few weeks
+by ftp.
+
+
+Recent Launches
+--------------------------------------------------------------------------------
+
+Three Uragan class navigation satellites built by AKO Polyot were launched
+on Mar 7 to become part of the Glonass system. According to the Russian
+Space Forces, the satellites are Glonass numbers 765, 766 and 777.
+The satellites are in 12-hour, 19000 km high orbits. Launch was by a
+Proton-K with a Blok-DM2 upper stage.
+
+Kosmos-2306 was launched on Mar 2 into a 94.5 min, 469 x 516 km x 65.8
+deg orbit. It appears to be a calibration satellite of the Kosmos-816
+type, which releases a series of small objects at intervals, to act as
+calibration targets for the radars of the Space Forces or the Air
+Defense. Four such objects were released on Mar 6. The previous mission
+of this type to reach orbit was Kosmos-2075, which was launched in 1990
+and reentered in 1992.
+
+
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Feb  3 0522   Discovery    )  Space Shuttle   Kennedy LC39B   Spaceship   04A
+              Spacehab SH03)
+Feb  4 0457   ODERACS II A )                  Discovery, LEO  Calibration 04C
+              ODERACS II D )                                  Calibration 04F
+              ODERACS II C )                                  Calibration 04E
+              ODERACS II B )                                  Calibration 04D
+              ODERACS II F )                                  Calibration 04H
+              ODERACS II E )                                  Calibration 04G
+Feb  7 1226   Spartan 204                     Discovery, LEO  Astronomy   04B
+Feb 15 1648   Progress M-26   Soyuz-U         Baykonur LC1    Cargo       05A
+Feb 16 1740   Foton No. 10    Soyuz-U         Plesetsk LC43   Materials   06A
+Mar  2 0638   Endeavour    )  Space Shuttle   Kennedy LC39A   Spaceship   07A
+              Astro 2      )
+Mar  2 1230?  Kosmos-2306     Kosmos-3M       Plesetsk                    08A
+Mar  7 0923?  Kosmos-2307 ?)  Proton-K/DM2    Baykonur        Navigation  09A
+              Kosmos-2308 ?)                                  Navigation  09B
+              Kosmos-2309 ?)                                  Navigation  09C
+
+Reentries
+---------
+
+Jan 15        EXPRESS         Reentered
+Feb 11        Discovery       Landed at KSC
+Feb 12        BREMSAT         Reentered
+Feb 16        Progress M-25   Deorbited
+Feb 23        Molniya-1 (58)  Reentered
+Feb 24        ODERACS F       Reentered
+Feb 27        ODERACS II E    Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-70  Jun 22  
+OV-104 Atlantis        OPF Bay 3     STS-71  Jun
+OV-105 Endeavour       LEO           STS-67  
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                                 STS-70
+ML2/                                 STS-67
+ML3/RSRM-45                VAB Bay 1 STS-71
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

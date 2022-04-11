@@ -1,0 +1,123 @@
+Jonathan's Space Report 
+No. 235               1995 Mar 27                   Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Endeavour was at Edwards AFB late last week being prepared for
+its trip home to Kennedy Space Center.
+
+Mir
+---
+
+The Soyuz TM-20 spaceship landed 22 km northeast of Arkalyk in
+Kazakhstan at 0404 UT on 1995 Mar 22. It carried cosmonauts Viktorenko,
+Kondakova and Polyakov home from the Mir complex. Soyuz TM-20 was
+launched on 1994 Oct 3 with Viktorenko, Kondakova and Merbold, and its
+flight duration was 169 days 5 hr 22 min. Kondakova's 169 day flight
+beats the previous womens' space duration record of  14 days set last
+year by Japan's Chiaki Mukai and the previous career total of 34 days
+held by NASA's Shannon Lucid. Viktorenko now has a career total of 489
+days, making him the third most experienced space traveller in terms of
+flight hours. But Valeriy Polyakov, who had been aboard Mir as station
+doctor since Jan 1994, beats all records with a flight lasting 437 days
+17 hr 59 min and a career total of 678 days 16 hr 34 min.
+
+The EO-18 crew (callsign 'Uragan' or "Hurricane") of Vladimir Dezhurov,
+Gennadiy Strekalov and Norman Thagard continue work aboard the Mir
+complex. The Soyuz TM-21 ship is docked to the rear port; the Progress
+M-27 (No. 227) cargo ferry is being prepared for launch next month.
+The launch schedule for the Spektr module is being revised.
+
+Recent Launches
+--------------------------------------------------------------------------------
+
+Kosmos-2310, launched Mar 22 into a 105.02 min, 980 x 1010 km x 82.9 deg
+orbit from Plesetsk, is a Parus type navigation satellite for the Russian
+Navy. The Parus satellites are built by PO Polyot of Omsk.
+
+Kosmos-2311, launched Mar 22 from Plesetsk into a 89.54 min, 169 x 334
+km x 67.1 deg orbit, is a Yantar' class reconnaissance satellite. It is
+expected to remain in service for a little over two months.
+
+Erratum: I didn't spot the "PM" in the NASDA news release; launch
+time of the H-II was 0801 on Mar 18, not 12 hours earlier as I reported last
+issue.
+
+GMS-5 has been renamed Himawari ("Sunflower") 5. The apogee motor fired
+at 0054 UTC on Mar 19 and separated, leaving GMS-5 drifting at the
+geostationary altitude. Meanwhile, SFU raised its orbit at 0549 on Mar
+23 from 365 x 395 km x 28.5 deg to its operational height of 467 x 496
+km.
+
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Feb  3 0522   Discovery    )  Space Shuttle   Kennedy LC39B   Spaceship   04A
+              Spacehab SH03)
+Feb  4 0457   ODERACS II A )                  Discovery, LEO  Calibration 04C
+              ODERACS II D )                                  Calibration 04F
+              ODERACS II C )                                  Calibration 04E
+              ODERACS II B )                                  Calibration 04D
+              ODERACS II F )                                  Calibration 04H
+              ODERACS II E )                                  Calibration 04G
+Feb  7 1226   Spartan 204                     Discovery, LEO  Astronomy   04B
+Feb 15 1648   Progress M-26   Soyuz-U         Baykonur LC1    Cargo       05A
+Feb 16 1740   Foton No. 10    Soyuz-U         Plesetsk LC43   Materials   06A
+Mar  2 0638   Endeavour    )  Space Shuttle   Kennedy LC39A   Spaceship   07A
+              Astro 2      )
+Mar  2 1300   Kosmos-2306     Kosmos-3M       Plesetsk LC132  Calibration 08A
+Mar  7 0923   Kosmos-2307  )  Proton-K/DM2    Baykonur LC200  Navigation  09A
+              Kosmos-2308  )                                  Navigation  09B
+              Kosmos-2309  )                                  Navigation  09C
+Mar 14 0611   Soyuz TM-21     Soyuz-U2        Baykonur LC1    Spaceship   10A
+Mar 18 0801   SFU          )  H-II            Tanegashima     Science     11A
+              GMS-5        )                                  Weather     11B
+Mar 22 0405?  Kosmos-2310     Kosmos-3M       Plesetsk        Navigation  12A
+Mar 22 0618   Intelsat 705    Atlas IIAS      Canaveral LC36B Comsat      13A
+Mar 22 1645?  Kosmos-2311     Soyuz-U         Plesetsk        Recon       14A
+
+
+Reentries
+---------
+
+Mar  2        ODERACS II D    Reentered
+Mar  3        ODERACS E       Reentered
+Mar  3        Foton 10        Landed in Russia
+Mar 10        Kosmos-2280     Deorbited
+Mar 15        Progress M-26   Deorbited over Pacific
+Mar 18        Endeavour       Landed at Edwards AFB
+Mar 18        Kosmos-2244     Deorbited
+Mar 22        Soyuz TM-20     Landed in Kazakhstan
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-70  Jun 22  
+OV-104 Atlantis        OPF Bay 3     STS-71  Jun
+OV-105 Endeavour       EAFB          STS-67  
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-44                VAB Bay 3 STS-70                                 
+ML3/RSRM-45/ET-70          VAB Bay 1 STS-71
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

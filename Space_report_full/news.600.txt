@@ -1,0 +1,144 @@
+Jonathan's Space Report
+No. 600                                           2008 Sep 26, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Sergey Volkov, Oleg Kononenko, and Greg Chamitoff remain aboard the
+Station. Progress M-64 undocked from the Zarya nadir port on Sep 1 at
+1947 UTC. It continued independent flight carrying out the
+Plazma-Progress experiment until 2047 UTC on Sep 8, when it was
+deorbited over the Pacific. The Jules Verne ATV undocked from the Zvezda
+aft port on Sep 5. It is scheduled to reenter on Sep 29. Progress M-65
+was launched on Sep 10. Docking with Zvezda was delayed because of
+limited NASA support during Hurricane Ike, and finally occurred at 1843
+UTC on Sep 17. 
+
+Atlantis is now on Pad 39A, preparing for an October launch on mission STS-125
+to the Hubble Space Telescope. Endeavour is on Pad 39B, in reserve
+for a potential rescue mission in case of an on-orbit emergency.
+
+Shenzhou 7
+----------
+
+Chinese astronauts Zhai Zhigang, Liu Boming and Jing Haipeng were
+launched into a 200 x 330 km x 42.4 deg orbit on board Shenzhou 7 by a
+CZ-2F rocket on Sep 25. At 2005 UTC the orbit was raised to 330 x 336 km.
+The Shenzhou 7 orbital module will be used as an airlock for China's
+first spacewalk.
+
+RapidEye
+--------
+
+Each RapidEye satellite has a mass of 152 kg including 12 kg of
+propellant (thanks to Stuart Eves of SSTL for the info). The five
+RapidEye satellites have been given Greek names: Tachys, Mati, Choma,
+Choros, and Trochia,  allegedly meaning Rapid, Eye, Earth, Space, Orbit
+respectively. (Thanks to Gunter Krebs for drawing my attention to this.)
+
+I'm don't believe Choma and Choros really mean Earth and space in the 
+cosmic sense. They have the sense more of 'dirt/ground' and a bounded
+'area';  correspondent Yorgos Papadopoulos of Thessaloniki confirms to
+me that  Gaia and Kosmos would have been better words to translate
+'Earth' and 'Space'.
+
+Glonass
+-------
+
+Three Glonass satellites were launched on Sep 25. The Khrunichev Proton-M
+rocket used one of the older, Energiya-built, Blok DM-2 upper stages,
+instead of the Briz-M used by commercial launches. The spacecraft,
+built by the Reshetnev company, were placed in 19100 km circular orbits
+by the DM-2. The Proton-M third stage and an adapter were left in
+low orbit.
+
+Rosetta
+---------
+
+The Rosetta probe passed 800 km from minor planet (2867) Steins
+at 1838 UTC on Sep 5.
+
+Huan Jing
+----------
+
+Two Huan Jing ('Environment') satellites were launched by CZ-2C
+from China's Taiyuan space center on Sep 6. They carry visible and
+infrared sensors.
+
+The satellites were launched into a 626 x 668 km x 98.0 deg orbit. A moderately
+large number of debris objects have been cataloged, suggesting that
+the second stage disintegrated after being discarded.
+
+Three objects (41A, B, D)  are tracked in the high orbit, presumably the
+payloads and the SMA kick stage. Four objects tracked in higher apogee
+transfer orbits of 250 x 850-880 km are probably the four stage
+separation motor covers usually associated with CZ-2C launches: 41V,
+41Y, 41Z, 41AA. The remanining objects are in 200-400 x 500-700 km
+orbits and I expect they are associated with disintegration of
+the CZ-2C second stage, which is probably 41C.
+
+
+GeoEye-1
+--------
+
+The GeoEye-1 imaging satellite was launched from Vandenberg on Sep 6.
+The commercially operated GeoEye-1 has 0.4-meter resolution and will supply
+data to the US National Geo-spatial Intelligence Agency (NGA).
+The satellite was launched to a 668 x 687 km x 98.1 deg orbit.
+
+Nimiq 4
+-------
+
+Nimiq 4 was launched by a Proton-M/Briz-M from Baykonur on Sep 19.
+The geostationary television broadcasting satellite is owned by the
+Canadian operator Telesat.
+
+Galaxy 19
+---------
+
+A Sea Launch Zenit-3SL took off from the Odyssey platform in the Pacific
+on Sep 24 and put Intelsat's Galaxy 19 satellite in geostationary
+transfer orbit. The satellite is a Loral 1300 class satellite with a
+mass of 4690 kg.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Aug  3 0334   Trailblazer )     Falcon 1         Omelek            Tech      F01
+              PreSat      )                                        Tech      F01
+              Nanosail-D  )                                        Tech      F01
+              Celestis    )                                        Burial    F01
+Aug 14 2044   Superbird 7 )     Ariane 5ECA      Kourou ELA3       Comms     38A
+              AMC 21      )                                        Comms     38D
+Aug 16 1932   Test payload?     Safir            Semnan            Test      F02?
+Aug 18 2243   Inmarsat 4 F3     Proton-M/Briz-M  Baykonur LC200/39 Comms     39A
+Aug 29 0716   Tachys     )      Dnepr            Baykonur LC109    Imaging   40A
+              Mati       )                                         Imaging   40B
+              Choma      )                                         Imaging   40C
+              Choros     )                                         Imaging   40D
+              Trochia    )                                         Imaging   40E
+Sep  6 0325   Huan Jing-1A )    Chang Zheng 2C   Taiyuan           Imaging   41A
+              Huan Jing-1B )                                       Imaging   41B
+Sep  6 1851   GeoEye-1          Delta 7420       Vandenberg SLC2W  Imaging   42A
+Sep 10 1950   Progress M-65     Soyuz-U          Baykonur LC1/5    Cargo     43A
+Sep 19 2148   Nimiq 4           Proton-M/Briz-M  Baykonur LC200/39 Comms     44A
+Sep 24 1928   Galaxy 19         Zenit-3SL        SL Odyssey        Comms     45A
+Sep 25 0849   Kosmos-2442?)     Proton-M/DM-2    Baykonur LC81/24  Nav       46A
+              Kosmos-2443?)                                        Nav       46B 
+              Kosmos-2444?)                                        Nav       46C 
+Sep 25 1310   Shenzhou 7        Chang Zheng 2F   Jiquan            Spaceship 47A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

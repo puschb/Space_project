@@ -1,0 +1,379 @@
+Jonathan's Space Report 
+No. 747                                                     2018 Apr  3  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 55 is underway with  Anton Shkaplerov in command, Scott
+Tingle and Norishige Kanai as the initial flight engineers. On Mar 21 Soyuz MS-08
+was launched with Oleg Artemev, Ricky Arnold and Drew Feustel. It docked
+with the Poisk module at 1940 UTC Mar 23 and the three arrivals joined
+the Ex55 crew as flight engineers.
+
+Cargo ship Progress MS-07 undocked from the Pirs module at 1350 UTC on
+Mar 28. At about 1520 UTC on Mar 29 it raised apogee, maneuvering to a
+407 x 436 km orbit. Around 1315 UTC on Apr 2 another burn lowered
+perigee, leaving it in a 384 x 436 km orbit.
+
+On Mar 28 the Japanese JRMS robot arm was used to move the broken CATS atmosphere
+observatory from one location to another on the JEM External Facility; a reboot
+attempt failed, confirming the problem is CATS itself and not the electrical socket.
+
+On Mar 29 astronauts Feustel and Arnold, in suits 3006 and 3003, made
+spacewalk ISS US EVA-49 from the Quest module. They depressurized the
+airlock at 1325 UTC and opened the hatch at 1329 UTC. The astronauts
+added radio antennas to the Tranquility module and replaced the ETVCG
+camera set on P1 truss camera port CP8. The hatch was closed at 1938 UTC
+and the airlock was repressurized at 1943 UTC.
+
+On Apr 2 the Dragon CRS-14 cargo delivery mission was launched. The
+Falcon 9 first stage was B1039, on its second flight. It made a
+ballistic flight and tested ocean terminal maneuvers, but no recovery
+attempt was made. The second stage was, as always, a new stage. It
+placed Dragon in orbit and then made a deorbit burn to reenter over the
+Southern Ocean. The CRS-14 Dragon is the 16th Dragon mission. It used
+capsule 110, which  flew previously on CRS-8, together with a new
+nosecap and a new trunk section.
+
+In the CRS-14 trunk were three payloads - MISSE-FF, ASIM and PFCS.
+
+MISSE-FF, owned by private company Astra LLC, will be placed at ELC-2
+Site 3 to host sample containers which expose various materials to space
+to see if they are good candidates to be used in building future
+satellites. Mass may be around 435 kg.
+
+ASIM is the ESA Atmosphere-Space Interactions Monitor, for studying
+upper-atmosphere electrical discharges. It will go to the Columbus EPF
+and has a mass of 314 kg
+
+PFCS is the Pump Flow Control System, a component of the Station's
+cooling system. It will be stored as a spare part outside the station,
+Mass of a PFCS unit is about 111 kg; this may not include the storage
+adapter which is probably another 50 kg.
+
+In CRS-14's cabin is the 100 kg RemoveDebris payload from Surrey
+Satellite. It will be deployed from the ISS Kibo module and test
+technologies for active debris removal. RemoveDebris carries two 2U
+cubesat subsatellites which it will eject. It will attack one of them
+with a net and stalk the other one with sensors. It also will put a
+target card on a 1.5-metre boom and prang it with a tethered harpoon.
+The idea of RemoveDebris is to test tech for getting rid of space junk.
+The net around the cubesat will act as a drag sail to speed up the
+satellite's reentry. The RemoveDebris payload itself carries a
+DeOrbitSail system to increase drag. The system was tested on a 2015
+cubesat with partial success.
+
+
+ORBITUARY 1: TIANGONG-1
+-----------------------
+
+Tiangong-1 reentered 0016 UTC Apr 2 over the South Pacific at 164.3W 13.6S,
+between Samoa and Tonga.
+
+  In the 1970s and 1980s China funded its space program at a low level,
+with only about one satellite launch a year. In the 1990s they started a
+crash program to catch up with the US and Russia, ticking off each space
+first one by one: human-in-space, moon-probe, moon-lander, spacewalk,
+docking and so on. The Shenzhou spaceship, carrying 2 to 3 astronauts,
+is similar to Soyuz; the Tiangong spacelab is like Russia's 1971
+Salyut-1 spacelab, and the associated program replicates both Russia's
+Salyut-1/Salyut-4 and NASA's Gemini missions. 
+
+  Tiangong-1 was launched in 2011 and hosted two astronaut crews in 2012
+and 2013. China *should* then have deorbited it under control over the
+South Pacific. But they were worried that if the 2016 launch of
+Tiangong-2 failed, their program would be stalled. So, they decided to
+keep Tiangong-1 in orbit beyond its design life, in hibernation as a
+backup for Tiangong-2. In the event, the Tiangong-2 launch went just
+fine but Tiangong-1 had by then broken down. Since 2016 it has been inert,
+orbiting the Earth without any active control, its initial 364 x 382 km
+orbit inclined 42.8 deg to the equator slowly decaying.
+
+Tiangong-1's initial mass was 8500 kg, but propellant usage and usage of
+food and water by the crews had reduced this to at most 7500 kg
+according to my calculations. Although most spacecraft of this mass are
+nowadays usually not allowed to make uncontrolled reentries, since 1957
+there have in fact been 48 such uncontrolled reentries of objects more
+massive than it. The most recent was in January 2018, involving an 8000 kg
+Russian rocket stage launched only a month earlier.
+
+By 0h UTC on Apr 1, the orbit of Tiangong-1 was 161 x 171 km (apogee and
+perigee relative to a fictional 6378 km radius sphere). By this stage
+atmospheric drag was quickly changing the orbital elements.
+The US Air Force 18SPCS issued a number of updated TLE element sets 
+during the day, based on fits to data obtained by
+a number of ground-based radars around the world. The final such set
+had an epoch of 16h UTC and showed the orbit to be 144.5 x 152.3 km.
+For comparison, the ISS orbits at 400 km.
+
+O3b
+---
+
+Arianespace launched a Soyuz/Fregat from the Centre Spatial Guyanais on
+Mar 9 with the fourth quartet of O3b communications satelllites for SES.
+The O3b equatorial MEO constellation provides broadband internet for the
+'other 3 billion' in the developing world.
+
+The Soyuz delivered the Fregat upper stage to an -1186 x 194 km x 5.3
+deg trajectory. The Fregat made multiple burns to 160 x 205 km, 190 x
+7869 km, 7831 x 7835 km. O3b FM14 and FM16 were deployed at 1911 UTC;
+FM13 and FM15 were deployed at 1932 UTC.
+
+GSAT-6A
+-------
+
+On Mar 29 ISRO launched the GSAT-6A military communications satellite
+with its Mk II Geostationary Satellite Launch Vehicle, flight GSLV-08
+with cryognenic upper stage CUS-09. After a successful orbit insertion
+to a 152 x 36509 km x 20.9 deg geotransfer orbit, GSAT-6A made its first
+apogee burn at 0552 UTC Mar 30, reaching 5028 x 36440 km x 12.0 deg.
+However after a second, 53-min duration, apogee burn on Mar 31, ISRO
+lost contact with it. On Apr 2 US tracking found it in a 25979 x 36368
+km x 3.3 deg orbit, suggesting that the burn completed successfully, but
+as of this writing contact has not been regained.
+
+Kosmos-2525
+-----------
+
+On Mar 29 Russia launched the light Soyuz-2-1V rocket from Plesetsk.
+Soyuz-2-1V is like a regular Soyuz but without the four large side
+strapon boosters. On its three previous launches it was combined with a
+Volga upper stage, but this time the bare 1V configuration was flown.
+The payload was the EMKA - 'Experimental Small Spacecraft', a small
+imaging satellite built by VNII Elektromekhaniki (VNIIEM). It was given
+the Kosmos-2525 cover name after being placed in a low 315 x 318 km 
+sun-synchronous orbit. 
+
+Beidou
+------
+
+Two more Beidou-3 navigation satellites were launched on Mar 29. This
+pair, Beidou-3 MEO-9 and MEO-10,  used the design built by the Shanghai
+Engineering Center for Microsatellites. They are number 30 and 31
+in the overall constellation and use PRN code numbers C29 and C30.
+
+Iridium
+-------
+
+SpaceX carried out its 5th Iridium-Next deployment mission on Mar 30.
+Ten satellites were deployed into initial orbits which will kater 
+be raised by the satellites' own propulsion systems.
+The Falcon 9 first stage, B1041, was not recovered. The second
+stage deorbited itself on the first orbit.
+
+Gaofen
+------
+
+China launched three Gaofen-1 imaging satellites on Mar 31.
+GF-1-2, GF-1-3, and GF-1-4 will reportedly work with the GF-1-1 satellite
+launched in 2013. They were launched into the 1030LT sun-synchronous
+orbit plane originally home to GF-1-1; however GF-1-1's plane has
+now drifted to 1102 LT.
+
+
+Dead satellites from 2017 Soyuz/Fregat 
+---------------------------------------
+
+On 2017 Jul 14 (as reported in JSR 740) a Soyuz/Fregat launch from
+Baykonur placed 73 payloads in orbit. One payload, Flock 2k-42, appears
+not to have separated from the Fregat stage, while another,
+Lemur-2-ArtFisher, was ejected at the wrong time and ended up in the
+wrong orbit - a new flavor of launch failure. In addition, nine of the
+payloads never responded to their ground controllers after deployment:
+the nine appear to be Landmapper-BC1 and BC2 (Astro Digital), CICERO-1,
+2 and 3 (GeoOptics), Iskra-MAI-85 (Moscow Av.Inst.), Ekvador-UTE-YuzGU
+(YuzGU, SW State Univ), and MKA-N-1 and 2 (Roskosmos). The satellites
+were all mounted in the same area of the launch vehicle. According to an
+article by Debra Werner in Space News (Mar 9) the satellite owners and
+insurers believe, despite denials by the launch service marketer, that
+these satellites were damaged because a Fregat thruster malfunctioned
+and sprayed hydrazine over the payloads, with another thruster plume
+possibly causing the hydrazine to ignite. The satellites were, in this
+account, dead before ejection. This is a new one on me, although perhaps
+can be grouped with cases where residual thrust from an upper stage
+caused damaging recontact with an ejected payload, or where problems
+with the acoustic environment inside a fairing caused payload damage.
+I consider that in a successful launch there is an at least implicit
+responsibility of the launch provider not to toast the payloads during
+ascent. Apply the rules I set out in JSR 669 for 'payload
+failed to separate' and weighting for the fact that 62 of the 73
+payloads were delivered correctly, I reduce this launch's
+success rating from 100 percent to 89 percent.
+
+
+Rocket stage disposal
+---------------------
+
+Recently I've found the idea to be widespread that most upper stages are
+actively deorbited rather than left in space to make an eventual
+uncontrolled reentry. Let's look at the actual data, sorted by launch
+provider and disposal method.
+
+In some cases multiple upper stages can achieve orbit, for example an
+insertion stage left in parking orbit and a final stage left in the
+delivery orbit. Delta rockets used to do this - stage 2 in LEO, stage 3
+in GTO - and Soyuz/Fregat sometimes does it today. More common nowadays
+is for the 'parking orbit' to be marginally suborbital, with what would
+have been the insertion stage making most of an orbit before reentry,
+and only the upper stage getting to orbit. Examples include the Ariane 5
+core stage, the Shuttle external tank, and the ISRO PSLV stage 3. I'll
+include these marginally-suborbital stages because, compared to practice
+in the 1970s, they reflect a design change to avoid uncontrolled stage
+reentry.  I distinguish stages left in LEO to reenter uncontrolled, left
+in low-perigee high-apogee transfer orbits from which uncontrolled
+reentry may happen in a few years, and left in high orbits where they
+will remain for centuries or longer. These methods of stage disposal are
+mostly considered 'safe', but do contribute to the overall space junk
+population. The worst debris risk is from stages left in the higher LEO
+orbits; even those that reenter quickly present a ground impact risk,
+however small. In 2017, 42 percent of the stages launched performed
+controlled entries to pre-planned target zones. This compares with 12
+percent in 2000 and 11 percent in 1970.
+
+Rocket stages in orbit 2017: controlled reentry or not?
+
+       Marginal      Deorbited    Left in LEO      Left in high orbit   Total  
+       Suborb                      to reenter       (GTO, MEO, GEO)
+                                                   LowPeri HighPeri
+
+[USA]
+ULA           0         7                0             0     1       8     
+SpX           0        11                0             7     0      18     
+OATK          0         0                4             0     0       4     
+
+[Europe]
+Arianespace  11         3                0             6     2      22
+
+[Russia]
+Khru + ILS    4         0                1             0     4       9
+S7            0         0                1             0     1       2     
+Roskosmos     0         1                7             0     0       8     
+VVKO          2         1                2             0     2       7     
+
+[China]
+CALT          0         0                5             5     1      11     
+SBA           0         3                2             0     0       5     
+EXPACE        0         0                1             0     0       1     
+CASIC         0         0                1             0     0       1     
+
+[Other]
+MHI           0         0                2             4     0       6     
+ISRO          3         0                2             3     0       8
+
+Total        20         26              28            25    11     110
+
+
+
+ORBITUARY 2: GRACE-1
+--------------------
+
+The GRACE 1 satellite reentered on March 10, ending the GRACE mission
+that began in 2002. The identical GRACE 1 and 2 satellites, built by
+Astrium/Bremen, were operated by the GeoForschungsZentrum Potsdam for
+the German space agency DLR  and by JPL and UT Austin for NASA. They
+were launched together on a Rokot from Plesetsk into a 450 x 466 km x 89
+deg orbit, which decayed to around 300 km by late 2017. The satellites
+flew in the same orbit about 200 km apart, measuring slight changes in
+acceleration over space and time due to uneven distribution of mass on
+the Earth, sensitive enough to detect changes in ocean currents, ice
+sheets and aquifers. The GRACE science mission ended on 2017 Oct 27,
+with a battery failure on GRACE 2. GRACE 2 reentered on Dec 24. GRACE 1
+continued transmitting until Dec 13, by when it had run out of
+propellant and had been passivated. (Thanks to JPL for this latter info.)
+A similar dual-satellite mission, GRAIL, carried out analogous gravity
+mapping of the Moon.
+
+Two GRACE-FO follow on satellites are being prepared for launch.
+
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+Feb  1 0207   Kanopus V-3         )   Soyuz-2-1A/Fregat Vostochniy       Imaging      14A   S43180   500 x   511 x 97.5 2323LT
+              Kanopus V-4         )                                      Imaging      14B   S43181   500 x   510 x 97.5 2323LT
+              S-NET 1             )                                      Comms        14    S43182?  571 x   589 x 97.7
+              S-NET 2             )                                      Comms        14    S43183?  571 x   589 x 97.7
+              S-NET 3             )                                      Comms        14    S43184?  571 x   589 x 97.7
+              S-NET 4             )                                      Comms        14    S43185?  571 x   589 x 97.7
+              Lemur-2-Kadi        )                                      AIS/Weather  14    S43186?  570? x  590?x 97.7?
+              Lemur-2-TheNickMolo )                                      AIS/Weather  14    S43187?  570? x  590?x 97.7?
+              Lemur-2-Jin-Luen    )                                      AIS/Weather  14    S43188?  570? x  590?x 97.7?
+              Lemur-2-UramChanSol )                                      AIS/Weather  14    S43189?  570? x  590?x 97.7?
+              D-Star One Phoenix  )                                      Tech         14    S43190?  570? x  590?x 97.7?
+Feb  2 0751   Zhang Heng 1  )         Chang Zheng 2D    Jiuquan          Science      15A   S43192   489 x   509 x 97.3 1411LT
+              Ada           )                                            Imaging      15    S43193?  493 x   504 x 97.2
+              Maryam        )                                            Imaging      15    S43194?  488 x   508 x 97.3
+              Ulloriaq      )                                            AIS/Imaging  15    S43195?  486 x   508 x 97.3
+              GOMX-4B       )                                            Tech         15    S43196?  483 x   507 x 97,3
+              Shaonian Xing )                                            Tech         15    S43197?  483 x   507 x 97,3
+              FengMaNiu 1   )                                            Tech         15    S43199?  485 x   507 x 97.3
+Feb  3 0503   Tasuki                  SS-520            Uchinoura        Comms        16A   S43201   186 x  2012 x 30.9
+Feb  6 2045   Elon's Roadster         Falcon Heavy      Kennedy LC39A    Test         17A   S43205   717 x-79898 x 28.9
+Feb 12 0503   Beidou DW28  )          Chang Zheng 3B/YZ1 Xichang LC2     Navigation   18A   S43207 21464 x 22170 x 55.0
+              Beidou DW29  )                                             Navigation   18B   S43208 21539 x 22191 x 55.0
+Feb 13 0813   Progress MS-08          Soyuz-2-1A        Baykonur LC31    Cargo        19A   S43211   189 x   223 x 51.6
+Feb 22 1417   PAZ           )         Falcon 9          Vandenberg SLC4E Radar        20A   S43215   501 x   518 x 97.5 0600LT SSO 
+              Tintin A      )                                            Comms        20B   S43216   500 x   517 x 97.5 0600LT SSO 
+              Tintin B      )                                            Comms        20C   S43217   500 x   517 x 97.5 0600LT SSO 
+Feb 27 0434   JSE K-6                 H-IIA 202         Tanegashima      Imaging      21A   S43223   500?x   500?x 97.5?
+Mar  1 2202   GOES 17                 Atlas V 541       Canaveral SLC41  Weather      22A   S43226  8241 x 35286 x  9.5     
+Mar  6 0533   Hispasat 30W-6 )        Falcon 9          Canaveral SLC40  Comms        23A   S43228   287 x 22255 x 27.0
+              PODSAT         )                                           Tech         23B   S43229   188 x 22250 x 27.0
+Mar  9 1710   O3b FM13    )           Soyuz-2-1B/Fregat CSG ELS          Comms        24D   S43231  7830 x  7846 x  0.0
+              O3b FM14    )                                              Comms        24C   S43232  7808 x  7848 x  0.0
+              O3b FM15    )                                              Comms        24A   S43233  7825 x  7836 x  0.0
+              O3b FM16    )                                              Comms        24B   S43234  7821 x  7835 x  0.0
+Mar 17 0710   LKW 4                   Chang Zheng 2D    Jiuquan Pad 603  Imaging      25A   S43236   490 x   503 x 97.3 1330LT SSO
+Mar 21 1744   Soyuz MS-08             Soyuz-FG          Baykonur LC1     Spaceship    26A   S43238   196 x   232 x 51.6
+Mar 29 1126   GSAT-6A                 GSLV Mk II        Satish Dhawan SLP Comms       27A   S43241  5028 x 36440 x 12.0  
+Mar 29 1738   Kosmos-2525             Soyuz-2-1V        Plesetsk         Imaging      28A   S43243   315 x   318 x 96.6
+Mar 29 1756   Beidou DW 30 )          Chang Zheng 3B/YZ1 Xichang         Nav          29A   S43245 21537 x 22913 x 55.0
+              Beidow DW 31 )                                             Nav          29B   S43245 21542 x 22192 x 55.0
+Mar 30 1413   Iridium SV140 )         Falcon 9          Vandenberg SLC4E Comms        30D   S43252   608 x   626 x 86.7
+              Iridium SV142 )                                            Comms        30J   S43257   608 x   626 x 86.7
+              Iridium SV143 )                                            Comms        30K   S43258   608 x   626 x 86.7
+              Iridium SV144 )                                            Comms        30G   S43255   608 x   626 x 86.7
+              Iridium SV145 )                                            Comms        30E   S43253   608 x   626 x 86.7
+              Iridium SV146 )                                            Comms        30F   S43254   608 x   626 x 86.7
+              Iridium SV148 )                                            Comms        30A   S43249   608 x   626 x 86.7
+              Iridium SV149 )                                            Comms        30B   S43250   608 x   626 x 86.7
+              Iridium SV150 )                                            Comms        30H   S43256   608 x   626 x 86.7
+              Iridium SV157 )                                            Comms        30C   S43251   608 x   626 x 86.7
+Mar 31 0322   Gaofen 1-02 )           Chang Zheng 4C    Taiyuan LC9      Imaging      31A   S43259?  639 x   643 x 98.0
+              Gaofen 1-03 )                                              Imaging      31B   S43260?  638 x   642 x 98.0
+              Gaofen 1-04 )                                              Imaging      31C   S43261?  638 x   642 x 98.0
+Apr  2 2030   Dragon CRS-14           Falcon 9          Canaveral SLC40  Spaceship    32A   S43267   204 x   357 x 51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jan 30        Burkan RV         Burkan 2H          Yemen                 Weapon        100?      Riyadh Airport
+Feb  5        Target            B-611?             Jiuquan?              Target        300?      Urumqi?
+Feb  5        Interceptor       DF-21              Urumqi?               Interceptor   100?      Intercept
+Feb  6 0300   Agni RV           Agni I             Kalam Island          Test          300?      Bay of Bengal         
+Feb 18 2330   Arrow KV          Arrow 3            Palmachim             Test          100?      Mediterranean?
+Feb 20 0308   Agni RV           Agni II            Kalam Island          Test          600?      Indian Ocean
+Mar           Dummy KV?         Nudol'             Plesetsk              Test          100?      Russia
+Mar 25 1051   NASA 46.019UO     Terrier Im.Mal.    Wallops I             Education     172       Atlantic
+Mar 25 2025?  Burkan RV         Burkan 2H          Yemen                 Weapon        100?      Riyadh Airport
+Mar 27 0240?  Trident RV x n?   Trident II         USS Nebraska, Pacific Test         1000?      Kwajalein?
+Mar 27 0240?  Trident RV x n?   Trident II         USS Nebraska, Pacific Test         1000?      Kwajalein?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+
+

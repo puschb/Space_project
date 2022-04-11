@@ -1,0 +1,193 @@
+Jonathan's Space Report
+No. 616                                           2009 Sep 30 Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Japanese H-II Transfer Vehicle, HTV-1, was launched on Sep 10
+into a 185 x 301 km x 51.6 deg orbit. This was the first launch of
+the H-IIB rocket, which has a larger diameter first stage than the
+old H-IIA, with two LE-5A main engines instead of one, and
+four large SRB-A strapons instead of two.
+
+HTV-1 completed its rendezvous with the Station on Sep 17.
+It approached to within 10m of the Harmony module, and the Canadarm-2
+grappled it and berthed it to Harmony's nadir port. The
+SMILES and HREP experiments were transferred to the Kibo Exposed
+Facility on Sep 24.
+
+Discovery landed on runway 22 at Edwards Air Force Base at 0053 UTC on
+Sep 12. It flew back to KSC aboard Shuttle Carrier Aircraft NASA 911 on
+Sep 20-21. Progress M-67 undocked from the aft Zvezda port at 0725 UTC
+on Sep 21. Soyuz TMA-16 is scheduled to launch on Sep 30, carrying 
+Maksim Suraev, Jeffrey Williams and Guy Laliberte to the Station.
+
+
+PAN
+---
+
+The orbit I gave in the last JSR for the secret PAN communications
+satellite was erroneous. Based on information on nasaspaceflight.com and
+from Bob Christy, the orbital data were around 176 x 21761 km x 25.4 deg
+at MECO-1, 175 x 21622 km just before engine restart, and 7314 x 35400
+km x 23.1 deg at spacecraft separation, which occurred about 17400 km
+over the Indian Ocean. First transfer orbit apogee was over the equator
+at 95E, at around 0420 UTC on Sep 9. On Sep 22, the spacecraft was in
+geostationary orbit over 34 deg E according to hobbyist observations.
+
+
+Meteor-M
+--------
+
+The first Meteor-M satellite was launched on Sep 17. Replacing the old
+Meteor-3M satellite, the upgraded satellite carries a new generation of weather
+instruments for the Russian Hydrometeorological Service and is built
+by VNII EM. Several small satellites were deployed on the same launch.
+Launch vehicle was the Soyuz-2-1b with a Fregat upper stage.
+
+The following Soyuz-2-1a and -1b transition vehicles have now flown:
+ 1  Soyuz 2-1a          2004 Nov  8  Suborbital test flight
+ 2  Soyuz 2-1a/Fregat   2006 Oct 19  ESA Metop 2
+ 3  Soyuz 2-1a/Fregat   2006 Dec 24  Meridian 1
+ 4  Soyuz 2-1b/Fregat   2006 Dec 27  CNES COROT
+ 5  Soyuz 2-1b          2008 Jul 26  Persona
+ 6  Soyuz 2-1a/Fregat   2009 May 21  Meridian 2
+ 7  Soyuz 2-1b/Fregat   2009 Sep 17  Meteor-M
+
+The Soyuz-2-1b third stage reached a 185 x 198 km x 98.8 deg orbit at
+1604 UTC. The Fregat stage separated and made two burns  at around 1606
+and 1652 UTC to an 814 x 820 km orbit, where it deployed the 2755 kg
+Meteor-M and the small 7 kg Blits satellite at 1653 UTC. Blits, built by
+NII Pretsizionnogo Priborostroeniya (NIIPP) of Moscow, is a spherical
+glass lens to be used for laser geodesy. At 1745 UTC, three more
+satellites were ejected from the adapter truss on Fregat: Sterkh No.
+12L, the second dedicated search-and-rescue satellite for the Russian
+Space Agency; Universitetskiy/Tat'yana-2, a 90 kg space physics research
+satellite built by students at MGU (Moscow State University); and
+UGATUSAT, a small 35 kg remote sensing satellite for the  Ufimskiy
+Gosudarstvenniy Aviatsionniy Tekhnicheskiy Universitet   (Ufa State
+Aviation Technical University) in Bashkortostan, a Russian autonomous
+republic. Fregat then made two further burns at about 1746 and 1835 UTC
+to descend to 490 x 504 km where it deployed Sumbandila, a South African
+imaging satellite, and deployed the Lavochkin/Astrium  IRIS experment,
+two rigidizing masts carrying dummy solar arrays, in a test of
+inflatable structure technology. The Fregat was expected to make a final
+burn to deorbit itself on Sep 18, but was still in a 491 x 503 km orbit
+as of Sep 23.
+
+
+Nimiq 5
+-------
+
+Telesat's Nimiq 5 was launched by an ILS/Khrunichev Proton-M
+on Sep 17. The 4745 kg Loral-1300 class satellite was deployed
+into a 9434 x 35823 km x 13.0 deg orbit. By Sep 22 it was in a 20783 x 35816
+km x 4.4 deg orbit.
+
+CARE
+----
+
+The Charged Aerosol Release Experiment, CARE I, was launched from
+Wallops Island on Sep 19, creating a cloud in the ionosphere that
+was widely seen in the nightime sky in the eastern United States.
+The rocket was a Black Brant XI (Talos-Terrier-Black Brant)
+not a Black Brant XII (Talos-Terrier-Black Brant-Nikha) as had been 
+widely reported; it therefore got a BB-XI '39'-series flight designation,
+NASA 39.009DR, rather that a BB-XII '40'-series number. The rocket
+did indeed have a Nikha motor, but not as a fourth stage - the
+motor nozzle was removed and the motor was burnt in a test to release its
+propellant as a cloud of dusty plasma, studying its effects
+on the upper atmosphere. In this role, the motor was counted as part
+of the payload and not of the launch vehicle.
+
+Oceansat-2
+----------
+
+ISRO, the Indian Space Research Organization, launched Oceansat-2 on Sep
+23, a remote sensing satellite with an 8-band ocean color monitor, a
+radar scatterometer and a radio occultation atmospheric sounder. It also
+deployed four 1 kg Cubesats, and carried two Rubin maritime
+communications packages which remain attached to the PSLV final stage.
+The Cubesats are Uwe-2 for Julius-Maximilians-Universitat Wurzburg  
+(Wurzburg, Bayern, Germany); SwissCube for the Ecole Polytechnique
+Federale de Lausanne (Lausanne, Vaud, Switzerland); BEESAT for the
+Technische Universitat Berlin; and ITU piko Satellite (ITU-p-SAT) for
+the Istanbul Teknik Universitesi in Istanbul. 
+
+Launch vehicle was the PSLV-CA, the 'core-alone' version of the Polar
+Satellite Launch Vehicle; it was launched from the Satish Dhawan Space
+Centre in Sriharikota.
+
+STSS
+----
+
+The STSS (Space Tracking and Surveillance System) Demo launch on Sep 23
+placed the two STSS satellites in orbit using a Delta 7920  launch
+vehicle. STSS 1 and 2 were designated USA 208 and 209 after launch. The
+satellites were built by Northrop Grumman for the US Missile Defense
+Agency and will monitor missile flights using infrared sensors.  Mass of
+the spacecraft is around 1000 kg each and they are in a 1350 x 1350 km x
+58 deg orbit.
+
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+Aug 11 1947   Asiasat 5         Proton-M/Briz-M  Baykonur LC39/200 Comms     42A
+Aug 17 1035   GPS 50            Delta 7925       Canaveral SLC17A  Nav       43A
+Aug 21 2209   JCSAT 12 )        Ariane 5ECA      Kourou ELA3      Comms      44A
+              Optus D3 )                                          Comms      44B
+Aug 25 0800   STSAT-2           Naro KSLV-1      Naro             Tech       F03
+Aug 29 0400   Discovery STS-128) Space Shuttle   Kennedy LC39A    Spaceship  45A
+              Leonardo         )
+Aug 31 0928   Palapa D          CZ-3B            Xichang LC2      Comms      46A
+Sep  8 2135   USA 207 (PAN)     Atlas V 401      Canaveral SLC41  Comms      47A
+Sep 10 1701   HTV               H-IIB            Tanegashima Y2   Cargo      48A
+Sep 17 1555   Meteor-M    )    Soyuz-2-1b/Fregat Baykonur LC31    Weather    49A
+              BLITS       )                                       Geodesy    49G
+              Tat'yana-2  )                                       Science    49
+              Sterkh 12L  )                                       SAR        49
+              UGATUSAT    )                                       Imaging    49
+              Sumbandila  )                                       Tech       49F
+              IRIS        )                                       Tech/Imag. 49C
+Sep 17 1919   Nimiq-5           Proton-M/Briz-M  Baykonur LC39/200 Comms     50A
+Sep 23 0621   Oceansat-2  )     PSLV-CA          SDSC             Imaging    51A
+              UWE-2       )                                       Tech       51
+              BEESAT      )                                       Tech       51
+              ITU-p-SAT 1 )                                       Tech       51
+              SwissCube   )                                       Science    51
+              Rubin-9.1   )                                       Comms      51F
+              Rubin-9.2   )                                       Comms      51F
+Sep 23 1220   STSS 1 )          Delta 7920       Canaveral SLC17  Tracking   52A
+              STSS 2 )                                            Tracking   52A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Aug 11 0450   NASA 36.229DR   Black Brant IX  San Nicolas     Target       150?
+Aug 17 1152   IRVE Support    Viper 3A        Wallops         Weather       90?
+Aug 17 1252   NASA 36.254NR   Black Brant IX  Wallops         Reentry test 210
+Aug 23 1601   Mk 12 RV? GT195 Minuteman 3     Vandenberg      Op. Test    1300?
+Sep 14 1740?  NASA 36.221DS   Black Brant IX  White Sands     Solar EUV    300?
+Sep 19 2346   NASA 39.009DR   Black Brant XI  Wallops         Chem Release 283
+Sep 27        Shahab RV       Shahab 1        Iran            Exercise     100?
+Sep 27        Shahab RV       Shahab 2        Iran            Exercise     100?
+Sep 28        Shahab RV       Shahab 3        Iran            Exercise     500?
+Sep 28        Sejjil RV       Sejjil          Iran            Exercise     800?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+

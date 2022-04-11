@@ -1,0 +1,244 @@
+Jonathan's Space Report 
+No. 706                                                    2014 Dec  9       Somerville, MA
+---------------------------------------------------------------------------------------------
+
+Erratum
+--------
+
+Henry Spencer points out that I omitted the Stardust flyby at 181 km of
+comet 9P/Tempel 1 on 2011 Feb 15 at 0439UTC from my list of comet
+missions.
+
+International Space Station
+---------------------------
+
+Expedition 42 continues with commander Barry Wilmore, FE-1 Aleksandr Samokutyaev and FE-2 Elena Serova.
+Soyuz TMA-15M was launched at 2101 UTC Nov 23 with Anton Shkaplerov, Terry Virts and Samantha
+Cristoforetti. It docked with the Rassvet at 0249 UTC Nov 24.
+
+On Nov 28 the Japanese JEM-RMS robot arm extracted the SSIKLOPS (Cyclops) deployer and its attached
+SpinSat satellite from the Kibo airlock and positioned it for deployment. The Cyclops then ejected
+SpinSat into orbit (at 1430:42 UTC, per information from the principal investigator at NRL.)
+SpinSat is a 50 kg Naval Research Lab satellite to test new microthrusters for attitude control.
+SpinSat has been cataloged as 1998-067FL.
+
+Orion EFT-1
+-----------
+
+Exploration Flight Test 1 was carried out on Dec 5. EFT-1 used an Orion Crew Module (probably
+around 9400 kg) with a LAS escape tower atop a dummy Service Module with jettisonable side panels,
+which in turn is fixed to the OSA (Orion-to-Stage-Adapter). This vehicle was mounted on the second
+stage of a Delta IV Heavy vehicle, Delta 369.
+
+Delta 369's second stage was inserted into a 185 x 888 km x 28.8 deg orbit at 1222 UTC, 17 minutes after
+launch from Cape Canaveral. The stage made a second burn at 1400 UTC, entering a -37 x 5807 km
+orbit; apogee was at 1510 UTC. At 1528 UTC the Orion CM separated from the stage. At 1550 UTC
+Delta 369 made a third burn of unknown delta-V, accelerating its reentry which occurred at 1616 UTC.
+The Orion CM made a small RCS adjust burn at 1602 UTC and entered the atmosphere at 8.9 km/s at 1618 UTC,
+landing at 1629 UTC off Baja California at 23.60N 116.46W. It was recovered by USS Anchorage.
+
+Three objects were cataloged by USSTRATCOM. Object 40331 (2014-077C),
+seen in the SECO-1 orbit during the mission, may be short-lived debris
+from the Delta or even a bookkeeping error, since no new elsets have
+been released since the flight.
+
+
+Reentry Return Flight Vehicle Service Module
+--------------------------------------------
+
+China's latest lunar probe, now referred to as the Lunar Exploration
+Program Phase 3's Return Reentry Flight Vehicle Service Module (Tanyue
+gongcheng san qi zai ru fanhui feixingqi fuwu cang), entered a 20000 x
+40000 x 35000 km Lissajous orbit around the Earth-Moon L2 Lagrange point
+on Nov 28. EML2 is 61000 km from the Moon and 446000 km from Earth's
+center; the probe makes two orbits around the point each month.
+
+
+Kosmos-2499
+-----------
+
+AMSAT report that Kosmos-2499 activated an amateur radio payload, RS-47,
+on Nov 30. Kosmos-2499 remains in a similar orbit to the Briz-M rocket
+stage after its Nov 9 rendezvous, but analysis by Bob Christy reported
+at twitter.com/zarya_info reveals that the two satellites are now
+drifting slowly apart. The earlier mystery satellite in the same
+series, Kosmos-2491, has also activated an amateur radio payload (RS-46).
+
+
+Yaogan 24
+---------
+
+China launched Yaogan 24 on Nov 20 into a 630 x 652 km SSO. The
+satellite is an imaging spy satellite in the same series as Yaogan 2, 4,
+7, 11. The CZ-2D second stage was deorbited after deploying the
+satellite.
+
+Kuaizhou 2
+----------
+
+The second launch of the Chinese 2nd Artillery's operationally
+responsive Kuaizhou (Swift Boat) launch vehicle on Nov 21 placed
+Kuaizhou-2 in a 284 x 300 km x 96.6 deg orbit, with 1300 local time
+descending node. Kuaizhou 1 was launched to a similar orbit with 1100
+LTDN in Sep 2013; after  regular maintenance burns for a year, during
+Oct 2014 Kuaizhou 1's orbit was raised to 365 x 390 km.
+
+Glonass-K No. 12
+----------------
+
+The second Glonass-K satellite, vehicle No. 12, was launched by Soyuz-2-1B
+from Plesetsk on Nov 30. The Glonass-K series are the third generation
+of Russian high orbit navigation satellites, following the original Uragan/Glonass and
+their successors, the Uragan-M/Glonass-M vehicles. 
+
+The fun with inconsistently assigned Kosmos numbers continues. In the
+latest episode, the Glonass-K vehicle has apparently been assigned the
+cover name Kosmos-2502. If so, Kosmos-2501 is most likely assigned to
+the military Luch satellite launched Sep 27. However, there are
+suggestions that the statement at
+http://www.sdcm.ru/smglo/news?version=rus&repdate&site=extern is
+incorrect and will be amended so that the Glonass satellite is 2501.
+
+Hayabusa 2
+----------
+
+Japan's Hayabusa-2 space probe was launched into solar orbit on Dec 2 by
+the H-IIA-26 rocket. The probe is intended to rendezvous with asteroid
+1999 JU3, survey it from orbit, touch down briefly to sample the
+surface, and return samples to Earth. Five small, beanbag-like 'target
+markers' can be ejected onto the surface in advance to help guide the
+vehicle. Hayabusa-2 also carries three 1 kg class lander/hopper devices,
+Minerva II-1a, II-1b and II-2, which will be ejected onto the surface,
+together with a 10 kg German-built lander called MASCOT. Hayabusa-2 will
+also eject a 'Self-Contained Impactor' (SCI) device onto the surface. As
+the parent spacecraft scoots off to the side it will further eject the
+DCAM-3 camera subsatellite, which will monitor detonation of SCI's high
+explosive, intended to ram the SCI's body into the asteroid and generate
+an artificial crater.
+
+The second stage of the H-IIA deployed three further spacecraft into
+solar orbit. The most unusual is DESPATCH (ArtSat-2) from Tama Art
+University. The yellowish, tapered-helix assembly is intended mainly as
+a work of art although it also carries an amateur radio communications
+payload with a limited range. Shin'en-2 has a more ambitious
+communications payload designed to demonstrate deep space communications
+with a small spacecraft, and PROCYON is a small spacecraft experiment to
+test interplanetary navigation with an ion engine. PROCYON will be sent
+to a different asteroid from Hayabusa-2; which one hasn't been decided
+yet, and will depend on the actual trajectory it's been launched into.
+
+Launched into a 245 x -50902 km x 29.9 deg hyperbola with C3=21.03
+km**2/s**2, Hayabusa-2 and its fellow travellers left the Earth-Moon
+system on Dec 6, passing the distance of the L1 point at around 2030
+UTC, and antered a 0.915 x 1.089 AU x 6.8 deg solar orbit. (These
+numbers are based on the expected prelaunch trajectory given on JPL Horizons).
+
+Ariane VA221
+------------
+
+Arianespace flight VA221 used Ariane 5ECA vehicle 575, delivering two
+communications satellites into geotransfer orbit. GSAT-16 for the Indian
+Space Research Organization has Ku and C band communications payloads
+for increased capacity at 55 deg E. DirecTV 14 for DirecTV is an SSL-MDA 1300
+satellite with a mass of 6300 kg full. It will be stationed at 99 deg W
+for television broadcasting.
+
+CBERS 4
+-------
+
+China-Brazil Earth Resources Satellite 4 (Zhong-badiqiu ziyuan weixing 04 xing)
+was launched on Dec 7 into a 741 x 752 km x 98.5 deg orbit with 10:30 local
+time descending node. The uprated ZY-1 class satellite replaced CBERS 3
+which was lost in a launch failure one year ago.
+
+
+Note: I have enhanced the table of orbital launches. It's extra work, so I don't promise
+to keep doing it this way. Catalog numbers beginning with S refer to the US space surveillance
+catalog; other catalog numbers (e.g. A and F designations) are my own auxiliary catalogs.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Oct  7 0516   Himawari-8         H-IIA             Tanegashima       Weather        60A    S40267  35783 x 35789 x   0.0 GEO 141E  
+Oct 15 2002   IRNSS-1C           PSLV-XL           Sriharikota FLP   Navigation     61A    S40269  35692 x 35881 x   4.9 GEO  83E
+Oct 16 2144   Intelsat IS-30 )   Ariane 5ECA       Kourou ELA3       Comms          62A    S40271  35776 x 35796 x   0.0 GEO  95W
+              ARSAT-1        )                                       Comms          62B    S40272  35736 x 35750 x   0.0 GEO  72W drift
+Oct 20 0631   Yaogan 22          Chang Zheng 4C    Taiyuan           Imaging?       63A    S40275   1198 x  1207 x 100.3 1330LT SSO
+Oct 21 1509   Ekspress AM-6      Proton-M/Briz-M   Baykonur LC81/24  Comms          64A    S40277  32617 x 39146 x   0.6 GEO 140E drift
+Oct 23 1800   RRFV               ) Chang Zheng 3C/G2 Xichang         Lunar probe    65A    S40283  -1281 x404729 x  30.5    
+              RRFV Service Module)                                   Lunar probe    65     A08292  Earth-Moon L2 point
+              4M                 )                                   Amateur radio  65B    S40284  86169 x381280 x  61.7              
+Oct 27 0659   SJ-11 08           Chang Zheng 2C    Jiuquan           Surveillance?  66A    S40286    686 x   704 x  98.2 1315LT SSO
+Oct 28 2220   SS Deke Slayton  ) Antares 130       Wallops MARS 0A   Cargo          F02    F01411  -6378 x   0.1 x  51.6
+              RACE             )                                     Science        F02    F01414  -6378 x   0.1 x  51.6
+              Arkyd-3          )                                     Tech           F02    F01415  -6378 x   0.1 x  51.6
+              GOMX-2           )                                     Comms AIS      F02    F01442  -6378 x   0.1 x  51.6
+              Flock-1d 1 to 26 )                                     Imaging        F02    F01416/F01441
+Oct 29 0709   Progress M-25M     Soyuz-2-1a        Baykonur LC31     Cargo          67A    S40292  Docked to ISS Pirs
+Oct 29 1721   GPS SVN 69         Atlas V 401       Canaveral SLC41   Navigation     68A    S40294  20155 x  20211 x  55.0 
+Oct 30 0143   Meridian No. 17L   Soyuz-2-1a/Fregat Plesetsk LC43/4   Comms          69A    S40296    959 x  39395 x  62.8 
+Nov  6 0735   ASNARO      )      Dnepr             Yasniy            Imaging        70A    S40298    505 x    507 x  97.5 1100LT SSO
+              Hodoyoshi-1 )                                          Imaging        70B    S40299    503 x    524 x  97.5 1100LT SSO
+              Kinshachi-1 )                                          Imaging        70C    S40300    503 x    537 x  97.5 1055LT SSO
+              Tsukushi    )                                          Imaging        70D    S40301    502 x    552 x  97.5 1055LT SSO
+              Tsubame     )                                          XR Astron      70E    S40302    502 x    566 x  97.5 1055LT SSO
+Nov 14 1853   Yaogan 23          Chang Zheng 2C    Taiyuan           Radar imaging  71A    S40305    510 x    513 x  97.3 0200LT SSO
+Nov 20 0712   Yaogan 24          Chang Zheng 2D    Jiuquan           Imaging        72A    S40310    628 x    653 x  97.9 1330LT SSO
+Nov 21 0637   Kuaizhou-2         Kuaizhou          Jiuquan           Imaging        73A    S40311    275 x    316 x  96.6 1300LT SSO
+Nov 23 2101   Soyuz TMA-15M      Soyuz-FG          Baykonur LC31     Spaceship      74A    S40312  Docked to ISS Rassvet
+Nov 28 1430   SpinSat            -                 ISS, LEO          Tech        98-067FL  S40314    405 x    415 x  51.7
+Nov 30 2152   Glonass-K1 No. 12L Soyuz-2-1b/Fregat Plesetsk LC43/4   Navigation     75A    S40315  19153 x  19201 x  64.8
+Dec  3 0422   Hayabusa-2    )    H-IIA 202         Tanegashima Y1    Space probe    76A    S40319    245 x -50912 x  29.9
+              Shin'en-2     )                                        Comms tech     76B    S40320    245 x -50912 x  29.9
+              DESPATCH      )                                        Art satellite  76C    S40321    245 x -50912 x  29.9
+              PROCYON       )                                        Space probe    76D    S40322    245 x -50912 x  29.9
+              MASCOT        )                                                        76    A08308   Attached to S40319
+              Minerva II-1a )                                                        76    A08305   Attached to S40319
+              Minerva II-1b )                                                        76    A08306   Attached to S40319
+              Minerva II-2  )                                                        76    A08307   Attached to S40319
+              SCI           )                                                        76    A08309   Attached to S40319
+              DCAM-3        )                                                        76    A08310   Attached to S40319
+              Target Marker 1)                                                       76    A08311   Attached to S40319
+              Target Marker 2)                                                       76    A08312   Attached to S40319
+              Target Marker 3)                                                       76    A08313   Attached to S40319
+              Target Marker 4)                                                       76    A08314   Attached to S40319
+              Target Marker 5)                                                       76    A08315   Attached to S40319
+Dec  5 1205   Orion EFT-1        Delta 4H           Canaveral SLC37B Spaceship test  77A   S40329    -37 x   5809 x  28.8 
+Dec  6 2040   DirecTV-14 )       Ariane 5ECA        Kourou ELA3      Comms           78B   S40333   6443 x  35792 x   3.1 
+              GSAT-16    )                                           Comms           78A   S40332  15998 x  35774 x   1.1 
+Dec  7 0326   CBERS 4            Chang Zheng 4B     Taiyuan LC9      Imaging         79A   S40336    742 x    751 x  98.5 1030LT SSO
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Oct  7 1310   SR-10            Sounding Rocket     Jiupeng          Ionosphere    286
+Oct 12 0427   MDA Target?      Terrier Lynx        Wallops I        Target?       150?
+Oct 17 0708   FTX-20           MRBM-T3?            Kauai            Target        300?
+Oct 23 1333   SL-9             SpaceLoft XL        Spaceport America Micrograv    124
+Oct 29 1727   RVs              Bulava            K-535, Barents Sea Test         1000?
+Nov  1 0620   RV               Topol'-M            Plesetsk         Test         1000?
+Nov  5        RV               Sineva            K-114, Barents Sea Test         1000?
+Nov  6 1907   RAISE 2          Black Brant IX      White Sands      Solar         300?
+Nov  6 2203   FTM-25 Target    Terrier Oriole?     Kauai            Target        150?
+Nov  6 2206?  Aegis KV         SM-3-IB           DDG-53, Pacific    Interceptor   150?
+Nov  9 0410   Agni RV          Agni 2              Wheeler I.       Test          300?
+Nov 13        RV               Shaheen 2           Somniani?        Test          300?
+Nov 17        RV               Shaheen 1A          Somniani?        Test          150?
+Nov 28        RVs              Bulava            K-550, Barents Sea Test         1000?
+Dec  2 0449   Agni RV          Agni 4              Wheeler I.       Test          300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

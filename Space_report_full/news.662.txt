@@ -1,0 +1,174 @@
+Jonathan's Space Report
+No. 662                                       2012 Jul 15    Somerville, MA USA
+--------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+On the ISS, Expedition 32, with astronauts Gennadiy Padalka, Sergey
+Revin and Joseph Acaba, is continuing. Soyuz TMA-05M was launched on Jul
+15 carrying Yuri Malenchenko (Roskosmos), Sunita Williams (NASA), and
+Akihiko Hoshide (JAXA); the spacecraft is scheduled to dock with the
+Rassvet module.
+
+Ariane L563
+-----------
+
+Arianespace launched flight VA207 with vehicle L563 on Jul 5, carrying
+Echostar 17 and Meteosat MSG 3 to geostationary transfer orbit.
+
+Echostar 17 is a 6100 kg Loral-1300E satellite for US domestic Ka-band
+broadband data communications. It was developed for Hughes Network
+Systems, now a subsidiary of Echostar. On Jul 14 Echostar 17 had reached
+a 35429 x 35777 km x 0.0 deg geostationary drift orbit over 120W.
+
+MSG (Meteosat Second Generation) flight 3 will become Meteosat 10 on
+reaching operational status. This 10th European geostationary weather
+satellite is operated by EUMETSAT, the European Organization for the
+Exploitation of Meteorological Satellites, which is based in Darmstadt.
+MSG 3 was inserted in a 253 x 35761 km x 6.0 deg transfer orbit; orbital
+data after Jul 7 are not yet available. According to reports by the
+Meteosat LEOP team, apogee firings were performed on Jul 7, 8, 10 and
+11, and the SEVIRI cooler cover and SEVIRI baffle cover (10 kg and 4 kg
+respectively) were ejected on Jul 13 at 0406 UTC. SEVIRI, the Spinning
+Enhanced Visible and Infrared Imager, is MSG's main instrument, a
+12-channel optical radiometer. The ejected covers from MSG 2 (Meteosat 9)
+were cataloged, but those from MSG 1 (Meteosat 8) were not.
+
+Tiangong and Shenzhou
+---------------------
+
+Following the departure of Shenzhou 9, the Tiangong 1 spacelab was moved
+to a higher orbit. At around the same time, the SZ-9 orbital module (OM)
+was jettisoned just before the main SZ-9 spaceship was deorbited. It
+appears that US tracking reports on Tiangong 1 between then and July 6,
+in a 330 x 338 km orbit were actually for the SZ-9 OM, with the real
+Tiangong being mistagged as something else. The OM was finally cataloged
+on Jul 6 in a 330 x 338 km orbit, and Tiangong 1 was rediscovered in a 354 x 365 km orbit.
+Credit to Bob Christy (http://www.zarya.info) for spotting what's been
+going on. The nature of object 38465, probably ejected from Shenzhou 9
+early in its mission into a 262 x 377 km orbit, is still unclear; the
+slowly decaying debris object may be a docking unit cover.
+
+SES-5
+-----
+
+The SES-5 communications satellite was launched from Baykonur on Jul 9.
+The 6007 kg Loral-1300 satellite has Ku and C band communications
+payloads for SES and an L-band EGNOS navigation system for the European
+Space Agency. SES-5 was formerly Sirius 5; the Nordiska Satellite company
+was bought by SES and progressively absorbed by them between 2005 and
+2010. Gunter Krebs has reported that SES-5 was renamed Astra 4B in 2010,
+but all the current SES press releases use the SES-5 name.
+
+  Sirius satellites: 
+    Sirius 1 (Sirius W)  Bought 1993 Dec   Retired 2003 May
+    Sirius 2 (Astra 5A)  Launch 1997 Nov   Retired 2009 Apr
+    Sirius 3             Launch 1998 Oct   In GEO at 51.2E
+    Sirius 4 (Astra 4A)  Launch 2007 Nov   In GEO at 4.8E
+    SES 5    (Astra 4B?) Launch 2012 Jul   In transfer orbit
+
+By Jul 13 SES-5 was in a 25947 x 35782 km x 2.5 deg orbit.
+
+QUILL
+-----
+
+The NRO has just declassified a set of documents on the QUILL satellite.
+By the late 1980s I realized that the satellite launched on 1964 Dec 21 was
+anomalous - it didn't have quite the same orbit as typical missions in
+what we now know was the CORONA series - and noted it as FTV 2355 in a
+1995 article in QUEST magazine, saying it was 'particularly mysterious'.
+Dwayne Day solved the mystery in 2001 (Spaceflight 43,288) and wrote
+more about it in 2010 (http://www.thespacereview.com/article/1631/1).
+
+We now know that this satellite was the world's first SAR (synthetic
+aperture radar) imaging satellite, flown as a proof of concept and used
+to image test targets in the US, proving that space radar could identify
+features through cloud cover. It was not followed up for many years -
+the civilian NASA Seasat mission in 1978 was the next SAR flight.
+
+QUILL was launched on 1964 Dec 21 at 1909 UTC. The 1477 kg satellite
+consisted of a modified Lockheed CORONA/Agena vehicle, with a 0.6 x 4.6m
+Goodyear X-band (9.6 GHz) radar antenna panel flush with the body of the
+Agena D upper stage, vehicle 2355. The camera system in the payload body
+was replaced by the KP-II radar itself and a recorder/transmitter
+system.  A Thrust Augmented Thor boosted the Agena to a suborbital
+trajectory; a fairing over the antenna was ejected and then the Agena
+made a 4 minute burn to achieve a 236 x 263 km x 70.1 deg orbit. Data
+was radioed to the Vandenberg and New Boston (New Hampshire) ground
+stations, and also recorded onto videotape wound into a CORONA-type Mark
+VA recovery capsule, SRV 588.  On 1964 Dec 23 at 2022 UTC the 139 kg SRV
+was ejected over the Kodiak, Alaska tracking station and fired its
+TE-236A solid motor to reenter, descending on parachutes for mid-air
+recovery at 2056 UTC over the Pacific northeast of Hawaii, at 23 38N 143
+45W. The KP-II radar continued operations until Dec 26 when the
+spacecraft batteries failed, and the QUILL spacecraft reentered at 1027
+UTC on 1965 Jan 11 over the South Atlantic.
+
+
+
+2012 Orbital launch summary to date
+-----------------------------------
+
+38 launches: (Russia retakes the lead)
+Russia China USA  Europe  India Japan Iran N Korea
+  11    10   9     4       1      1   1    1(fail)
+
+Erratum
+-------
+
+The preferred English translation of Zhongxing-2A is "Chinasat-2A", not "Chinastar-2A".
+Apologies for the slip-up.
+
+Suborbital launches
+--------------------
+
+The second flight of Jonathan Cirtain's SUMI (Solar Ultraviolet Magnetograph Investigation)
+payload went off (apparently successfully) from White Sands on Jul 5. Launch of Hi-C
+(High Resolution Coronal Imager) also went off smoothly on Jul 11.
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun  1 0523   Intelsat IS-19     Zenit-3SL         Odyssey, Pacific  Comms     30A
+Jun 13 1600   NuStar             Pegasus XL        L-1011,Kwajalein  Astronomy 31A
+Jun 16 1037   Shenzhou 9         Chang Zheng 2F    Jiuquan           Spaceship 32A
+Jun 20 1228   USA 236 (NROL-38)  Atlas 5 401       Canaveral SLC41   Comms?    33A
+Jun 29 1315   USA 237 (NROL-15)  Delta 4H          Canaveral SLC37B  Sigint?   34A
+Jul  5 2136   Echostar 17  )     Ariane 5ECA       Kourou ELA3       Comms     35A
+              Meteosat 10  )                                         Weather   35B
+Jul  9 1838   SES-5              Proton-M/Briz-M   Baykonur LC81/24  Comms     36A
+Jul 15 0240   Soyuz TMA-05M      Soyuz-FG          Baykonur LC1/5    Spaceship 37A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Jun  7 1739   RV               Topol'             Kapustin Yar        Op Test     1000?
+Jun 21 1040   NASA 41.101UO    Terrier Orion      Wallops I.          Education    117
+Jun 22 1918   SHEFEX II        VS-40              Andoya              Hypersonic   177
+Jun 23 1930   NASA 36.286UE    Black Brant 9      White Sands         Solar        300?
+Jun 27 0915   FTM-18 Target    Castor 4B?         Kauai               Target       100?
+Jun 27 0920?  FTM-18 KV        SM-3 Block IB      USS Lake Erie       Intercept    100?
+Jul  3        Shahab RV        Shahab 1           ?, Iran             Exercise     100?
+Jul  3        Shahab RV        Shahab 2           ?, Iran             Exercise     100?
+Jul  3        Shahab RV        Shahab 3           ?, Iran             Exercise     150?
+Jul  5 1850   NASA 36.284NS    Black Brant 9      White Sands         Solar        275?
+Jul 11 1850   NASA 36.272NS    Black Brant 9      White Sands         Solar        268
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

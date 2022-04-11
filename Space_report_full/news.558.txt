@@ -1,0 +1,110 @@
+Jonathan's Space Report
+No. 558                                               2005 Dec 10, London
+-------------------------------------------------------------------------------
+
+There have been no new orbital launches since JSR 557.
+
+Hayabusa
+--------
+
+Hayabusa's new attempt to land on asteroid (25143) Itokawa was
+successful at 2207 UTC on Nov 25.  It is now unclear whether the
+sampler device fired its pellet into Itokawa to
+collect asteroidal dust. The vehicle took off again shortly afterwards.
+However, the vehicle then went into safe mode following failures in the
+thruster system. Limited control over Hayabusa has now been
+reestablished, but it is not clear whether a return to Earth will be
+possible.
+
+
+Sinah-1
+-------
+
+Henk Smid draws my attention to evidence that the Iranian Sinah-1
+satellite uses Polyot's Sterkh satellite bus, which is also intended for
+use with future Nadezhda satellites. According to Novosti Kosmonavtiki
+(2001, No. 8, p48) in 2001 plans for Sterkh said it was 80-100 kg, 1.0m
+high and 0.4m diameter, and would have a design life of 5 years. Sinah-1
+has a mass of 160 kg.
+
+
+Surrey Satellite
+----------------
+
+This week I visited Surrey Satellite Technology Ltd. in Guildford, which
+is a small city southwest of London and a few miles from the town in
+which I spent my teenage years. It's a little bizarre to me that quiet
+little Guildford has become a major center of the British space
+industry. (Also notable in the UK is the Aerojet propulsion plant,
+formerly Royal Ordnance, which makes the Leros apogee engines used on
+large communications satellites and some planetary probes; and the EADS
+Astrium plant at Stevenage which makes large commercial satellite
+payloads,  although it's not clear to me how much of the spacecraft bus
+work is done at Stevenage versus the Astrium plants in France. 
+EADS-Astrium is a bigger operation, but its multinational nature
+obscures the UK contribution - SSTL's activities are more
+internationally visible as a UK space activity. Perhaps an Astrium
+reader will let me know what exactly happens at Stevenage, Portsmouth
+and Poynton.)
+
+In 1981 Martin Sweeting of the University of Surrey's engineering
+department led a project to build a small 52-kg amateur radio satellite,
+UoSAT-1, which was launched as a piggyback payload on a Delta.
+Sweeting's team, which became SSTL, have built on this effort and become
+a leading provider of entry-level satellites to developing nations
+including Algeria, Nigeria, Thailand and Malaysia. Their latest and much
+more ambitious satellite is Giove 1, the first test craft for the
+European Galileo navigation satellite system, which is now awaiting
+launch at Baykonur. 
+
+SSTL is in a small brick office building on the University campus; in
+addition to small clean rooms for solar array fabrication (done in-house
+to avoid long lead times), propulsion (also done in-house with butane,
+nitrogen and other propellants)  and electronics assembly, a single
+larger clean room - still very modest in size by big-aerospace-company
+standards - is used for assembly and integration. When I visited, the
+Los Alamos Cibola Flight Experiment satellite was being built, with
+racks for the RapidEye imaging constellation awaiting assembly. Recent
+launches include another entry in SSTL's Disaster Monitoring
+Constellation, which is an innovative system with a group of 100-kg
+class satellites carrying 32-m resolution imagers. Each satellite is
+owned by a different country - Algeria, Nigeria, China, UK, and Turkey
+so far - and normally controlled separately, but can be coordinated at
+SSTL to get rapid imagery of disaster sites like the East Asian tsunami
+or  Hurricane Katrina. 
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Oct  1 0355   Soyuz TMA-7       Soyuz-FG        Baykonur LC1     Spaceship   39A
+Oct  8 1502   Cryosat           Rokot           Plesetsk LC133   Science     F03
+Oct 12 0100   Shenzhou 6        CZ-2F           Jiuquan          Spaceship   40A
+Oct 13 2232   Syracuse 3A  )    Ariane 5GS      Kourou ELA3      Comms       41A
+              Galaxy 15    )                                     Comms       41B
+Oct 19 1805   USA 186           Titan 4B        Vandenberg SLC4E Imaging     42A
+Oct 27 0652   Topsat        )   Kosmos-3M       Plesetsk LC132/1 Imaging     43B
+              Beijing-1     )                                    Imaging     43A
+              Sinah         )                                    Imaging?    43D
+              SSETI Express )                                   Imaging/Tech 43E
+              Mozhaets-5    )                                    Tech/Comms  43G
+              UWE-1         )                                    Comms       43F
+              NCube-2       )                                    Comms       43E
+              Cubesat XI-V  )                                    Tech        43C
+              Rubin-5       )                                    Comms       43G
+Nov  8 1407   Inmarsat 4F-2     Zenit-3SL       Odyssey, POR     Comms       44A
+Nov  9 0333   Venus Express     Soyuz-Fregat    Baykonur LC31    Space probe 45A
+Nov 16 2346   Spaceway 2 )      Ariane 5ECA     Kourou ELA3      Comms       46A
+              Telkom 2   )                                       Comms       46B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

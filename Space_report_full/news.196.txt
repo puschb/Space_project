@@ -1,0 +1,115 @@
+Jonathan's Space Report 
+No. 196       1994 May 19 
+------------------------------------------------------------------------------
+
+MIR
+---
+
+The Progress M-22 cargo ship fired its engine around May 15 to raise the
+orbit of the Mir orbital station from 381 x 400 km to 398 x 399 km.
+Maxim Tarasenko reports that the launch of the replacement cargo ship,
+Progress M-23, is now due on May 22.
+
+LAUNCHES
+--------
+
+Disaster befell the Clementine 1 probe on May 7. The on board
+computer erroneously told the attitude control system to fire
+its thrusters and depleted the attitude control propellant tanks.
+Although the main propulsion system still has fuel, controllers
+can't point the engine in the right direction so that's not much
+help. The flight to (1620) Geographos and to (3551) 1983RD
+(not unnumbered as claimed in JSR195, sorry Gareth!) appears impossible. 
+Clementine did successfully complete its lunar mapping mission and
+the sensors are still operational. It is currently in a highly
+elliptical orbit around the Earth. The Ballistic Missile Defense
+Organization manages the Clementine project and the Naval Research
+Lab built and operates the spacecraft.
+
+Launch of the USAF Rome Lab's P91-A (STEP 2) satellite was aborted just
+before launch last week. Problems were noticed in the Pegasus booster as
+the B-52 carrier aircraft was flying above the Point Arguello Warning
+Area launch site over the Pacific. The B-52 returned to Edwards AFB with
+the Pegasus still attached. I don't know if a new launch date has yet
+been set. STEP 2 carries SIDEX, a signal indentification experiment.
+
+The ALEXIS EUV astronomy satellite was launched on a Pegasus flight last
+year. Damage during launch meant that controllers didn't know which way
+the satellite was pointing. The Los Alamos science team and the Aero
+Astro Inc manufacturers have now come up with a way to determine the
+satellite's orientation, which has enabled them to make the first useful
+sky picture from the satellite's data. The picture shows the Moon and
+the soft x-ray source HZ 43. HZ 43 is a white dwarf star from the
+Humason-Zwicky catalog and was the first EUV galactic source identified,
+during the Apollo-Soyuz misison in 1975. The new picture means that there's
+a very good chance the rest of the data obtained by Alexis over the last
+year will eventually be usable.
+
+
+Information Wanted
+------------------
+
+Trivia question of the week: can anyone find out for me what solid
+motor was used to raise the orbit of the German IRM satellite,
+launched in 1984 as part of the AMPTE project?
+
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar 22 0454     Progress M-22   Soyuz-U         Baykonur LC1    Cargo       19A
+Apr  9 1105     Endeavour       Space Shuttle   Kennedy LC39A   Spaceship   20A
+                Space Radar Lab
+Apr 11 0749     Kosmos-2275   ) Proton/DM2      Baykonur LC81   Navigation  21A
+                Kosmos-2276   )                                 Navigation  21B 
+                Kosmos-2277   )                                 Navigation  21C
+Apr 13 0604     GOES 8          Atlas Centaur I Canaveral LC36B Weather     22A
+Apr 23 0802     Kosmos-2278     Zenit-2         Baykonur LC45   SIGINT      23A                                                                                 
+Apr 26 0214     Kosmos-2279     Kosmos-3M       Plesetsk LC133  Navsat      24A
+Apr 28 1714     Kosmos-2280     Soyuz-U         Baykonur LC31   Recon       25A
+May  3 1555     USA-103         Titan Centaur   Canaveral LC41  SIGINT      26A
+May  4 0000     SROSS C2        ASLV            Sriharikota     Science     27A
+May  9 0247     MSTI-2          Scout G-1       Vandenberg SLC5 Technology  28A
+
+Reentries
+---------
+
+Mar 15          SEDS 2 end mass Reentered
+Mar 18          Columbia        Landed at KSC
+Mar 23          Progress M-21   Deorbited
+Apr 20          Endeavour       Landed at Edwards AFB
+May  8          SEDS 2 deployer Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-65
+OV-103 Discovery       OPF Bay 3     STS-64
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-68
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40                VAB Bay 3 STS-68
+ML2/                       
+ML3/RSRM-39/ET             VAB Bay 1 STS-65
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 
+
+,
+

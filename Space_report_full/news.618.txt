@@ -1,0 +1,194 @@
+Jonathan's Space Report
+No. 618                                              2009 Nov 27  Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Japan's HTV-1 cargo vehicle has left the Station. It was released at
+1731 UTC on Oct 30 and deorbited on Nov 1 at 2125 UTC over the S Pacific.
+
+The Poisk module (Maliy Issledovatel'ny Modul'-2, MIM-2) was launched on
+Nov 10. Poisk is the successor to the Pirs docking module and the Mir SO
+module:
+
+       Article         Spacecraft  Name    Mass       Cargo tug
+1995   316GK No. 1     SO         -        4000 kg    None (STS-74)
+2001   240GK No. 1L    SO         Pirs     3676 kg    Progress M-SO1 No. 301    
+2009   240GK No. 2L    MIM-2      Poisk    3670 kg    Progress M-SO2 No. 302
+
+Poisk is launched attached to a Progress propulsion module, Progress
+M-MIM2 No. 302 (or M-SO2 No. 302). Poisk has the factory designation
+240GK No. 2L and is loosely derived from the Soyuz BO (orbital module).
+The module docked with the zenith docking port on Zvezda at 1541 UTC on
+Nov 12. The propulsion module will be discarded in December.
+
+
+Atlantis was launched on Nov 16 on mission STS-129. It docked with the
+Station at 1651 UTC on Nov 18. Two Express Logistics Carrier pallets,
+ELC-1 and ELC-2, were transferred to the station truss. The pallets
+carry external spares such as gyros, which will be hard to get to the
+station once the Shuttle is retired; two more ELCs will be delivered on
+a later mission. On the first spacewalk on Nov 19, astronauts Foreman
+and Satcher installed a spare S-band antenna on the Z1 truss segment and
+lubed the robot arm fixtures on the mobile transporter and the Kibo arm.
+ On the second spacewalk on Nov 21, Foreman and Bresnik installed
+antennas on Columbus and relocated an electrostatic charging monitor
+from S1 to P1, as well as deploying truss fixtures where equipment will
+be mounted in future. The third spacewalk on Nov 23 by Satcher and
+Bresnik began with airlock depressurization and hatch opening around
+1322 UTC; they installed the MISSE 7 exposure experiment and a new
+oxygen tank for the Quest airlock before closing the hatch at 1904 UTC
+and repressurizing 2 min later.
+
+The Atlantis crew of Charles Hobaugh, Barry Wilmore, Leland Melvin,
+Randy Bresnik, Michael Foreman and Robert Satcher, supplemented by
+Nicole Stott completing her tour as a station crew member, undocked on
+Nov 25 at 0953 UTC. They returned to Earth on Nov 27 with the deorbit
+burn at 1337 UTC lowering the orbit from 336 x 348 km to about 16 x 347
+km. STS-129 landed on runway 33 at Kennedy Space Center at 1444 UTC.
+
+Aboard the station with commander Jeff Williams (NASA) are Frank De
+Winne (ESA/Belgium), Robert Thirsk (CSA/Canada), Roman Romanenko
+(FKA/Russia), and Maksim Suraev (FKA/Russia). Expedition 22 began at
+1500 UTC on Nov 24; Williams assumed command at 1812 UTC.
+
+
+  STS-129 cargo bay manifest - estimate
+  -------------------------------------
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3008, 3010 suits                       260?
+  APC/SPDU                         3 port           17?
+  SPA/S-band Antenna (SASA)        3 stbd          272
+  APC/MISSE 7A                     4 port           98
+  APC/MISSE 7B                     4 stbd           98
+  EXPRESS Logistics Carrier ELC1   6-9            6396
+  ROEU umbilical                   9 port           79?
+  ROEU umbilical                   9 stbd           79?
+  EXPRESS Logistics Carrier ELC2   10-13          6136
+  RMS 301                          Sill            410
+  OBSS                             Sill            382?
+  -----------------------------------------------------
+                                           Total 16027
+
+SMOS/PROBA-2
+------------
+
+Khrunichev launched a Rokot (UR-100N missile with Briz-KM upper stage)
+from Plesetsk on Nov 2 and placed the European SMOS and PROBA-2
+satellites in orbit. SMOS is the Soil Moisture and Ocean Salinity
+mission, obtaining climate-related data using a microwave
+aperture-synthesis interferometer. PROBA-2 is a techology mission. SMOS
+is in a 758 x 759 km x 98.4 deg orbit, PROBA-2 slightly lower at 709 x
+728 km.
+
+Shijian 11-1
+------------
+
+China has launched a test satellite 'Shijian shi yihao 01 xing', SJ-11-01,
+which can be translated as 'Practice Sat 11-01' or 'Experiment Sat 11-01'.
+SJ11-01 is in a 689 x 703 km x 98.3 deg orbit.
+
+Kosmos-2455
+-----------
+
+A Russian Defense Ministry satellite was launched on Nov 20 and given
+the cover name Kosmos-2455. It is probably the first Lotos-S electronic
+intelligence satellite. Lotos-S satellites are built by TsSKB-Progress
+Samara Space Center (Samara) and KB Arsenal (Sankt-Peterburg) for the
+Russian Defense Ministry. Initial orbit is 199 x 904 km x 67.2 deg.
+After a small perigee tweak on Nov 22, a major burn by the onboard
+propulsion unit circularized the orbit at 903 x 906 km on Nov 23.
+
+NASA 36.252UH
+-------------
+
+Webster Cash's latest X-ray spectroscopy payload was launched from White
+Sands on Nov 14 to take a look at the Cyg Loop. This is probably a
+reflight of the CyXESS payload first launched in Nov 2006.
+
+TEXUS 46
+--------
+
+ESA and DLR launched a TEXUS microgravity rocket from Kiruna in
+Sweden on Nov 22, carrying European and Japanese experiments.
+
+
+IS-14
+------
+
+Intelsat IS-14 was launched on Nov 23 using a United Launch Alliance/
+Lockheed Martin Atlas V rocket, model 431, serial AV-024. IS-14, a Loral
+1300 class satellite with a launch mass of 5663 kg and dry mass of 2517
+kg, will replace IS-1R at 24W over the Atlantic. Centaur AV-024 entered
+an initial 175 x 25998 km x 25.0 deg orbit and then deployed IS-14 into
+a 6157 x 39094 km x 22.5 deg transfer orbit at 0853 UTC.
+
+W7
+---
+
+Eutelsat W7 was launched Nov 24 by ILS/Khrunichev Proton-M; it will
+replace SESAT-1 with broadcasting and data services to Russia and Africa.
+
+
+Erratum
+--------
+
+Michel Laliberte pointed out to me that the recent Centaur was not the
+first solar orbit launch from Vandenberg - NRL's Clementine space probe
+preceded it, in 1994.
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+Oct  1 2159   COMSATBw-1 )      Ariane 5ECA      Kourou ELA3      Comms      54A
+              Amazonas 2 )                                        Comms      54B
+Oct  8 1851   WorldView-2       Delta 7920       Vandenberg SLC2W Imaging    55A
+Oct 15 0114   Progress M-03M    Soyuz-U          Baykonur LC1/5   Cargo      56A
+Oct 18 1612   DMSP 5D F-18      Atlas V 401      Vandenberg SLC3E Weather    57A
+Oct 29 2000   NSS 12  )         Ariane 5ECA      Kourou ELA3      Comms      58A
+              Thor 6  )                                                      58B
+Nov  2 0151   SMOS    )         Rokot            Plesetsk        Rem.Sensing 59A
+              PROBA-2 )                                           Tech       59B
+Nov 10 1422   Poisk             Soyuz-U          Baykonur LC1/5  Station mod.60A
+Nov 12 0245   SJ-11-01          Chang Zheng 2C   Jiuquan          Tech       61A
+Nov 16 1928   Atlantis          Space Shuttle    Kennedy LC39A    Spaceship  62A
+Nov 20 1044   Kosmos-2455       Soyuz-U          Plesetsk         Sigint     63A
+Nov 23 0655   Intelsat IS-14    Atlas V 431      Canaveral SLC41  Comms      64A
+Nov 24 1419   Eutelsat W7       Proton-M/Briz-M  Baykonur LC200/39 Comms     65A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Sep 16 1346   PAC-3 Target    Hera?           Ft Wingate      Target        90?
+Oct  6        Volna RV  )     Volna           K-433, Okhotsk  Op. Test    1000?
+                 x4?    )
+Oct  7        Volna RV  )     Volna           K-44, Okhotsk   Op. Test    1000?
+                 x4?    )
+Oct 16        ARAV B          Terrier Oriole  Kauai           Target       100?
+Oct 16        ARAV B          Terrier Oriole  Kauai           Target       100?
+Oct 28 0400   Dummy RV?       Unknown         Kauai           Target       150?
+Oct 28 0404   Aegis KV        SM-3            JS Myoko, Kauai Intercept    150?
+Nov  1        Sineva RV )     Sineva?         K-117, Barents  Op. Test    1000?
+                 x4?
+Nov  5        ARAV C          Talos Castor    Kauai           Target       300?
+Nov 14 0230?  NASA 36.252UH   Black Brant IX  White Sands     XR Astron    300?
+Nov 22 1115   TEXUS 46        VSB-30          Esrange         Micrograv    252
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

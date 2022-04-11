@@ -1,0 +1,163 @@
+Jonathan's Space Report
+
+No. 111		1992 Apr 20
+------------------------------------------------------------------------------
+
+BOOK REVIEWS: 
+ 
+ Space Shuttle Almanac, by Joel Powell and Lee Caldwell. 262 pages. 
+ $29.95 US  [+$10 overseas airmail] from Microgravity Press, 
+ 2351 Chicoutimi Dr. NW, Alberta Canada T2L OW2.
+   This is unquestionably the best and most detailed source on the
+ Shuttle available. It's very short on text, and has no pretty color
+ pictures, but is packed with diagrams and information. For each
+ mission up to STS-37, has details of the crew and payloads carried,
+ diagrams of the payloads and of EVA operations, and all the numbers
+ (serial numbers of engines, which robot arm was carried, what time
+ orbital manuevers were carried out, etc, etc.). There are
+ also diagrams of various parts of the orbiter, associated equipment,
+ ground facilities, and maps of the KSC, Edwards, and White Sands
+ landing sites. Finally, the inclusion of all the old launch schedule
+ plans back to 1977 affords an amusing view of the way that the program
+ has slipped.
+  The book shows its somewhat 'home-published' nature in that a number
+ of the diagrams are difficult to read, but I have no hesitation in
+ recommending it to anyone who wants accurate and reliable information.
+ The only mistakes I have found to date are the consistent misspelling
+ of 'principal investigator'; the deploy time of TDRS 1, which
+ is off by one day (p.231); an erroneous timeline for STS 61-B, and
+ a reference to the nonexistent date Feb 29, 1990 (p.134).
+
+ Cosmonautics 1991, by Y. Semenov et al. Matson Press. 68 pages.
+ $25 US, from Aersopace Ambassadors, PO Box 12603, Huntsville AL 35815.
+  This nicely produced book contains articles written about the
+ Soviet space program by some of its senior members, including
+ NPO Energiya director Semenov and former cosmonaut Ryumin. Notable
+ articles include a review of 1991 activities in the Mir program,
+ a historical overview of the DOS and Almaz (civilian and military
+ Salyut) space station programs, and a brief summary of some of
+ the already released information about the N-1 moon rocket.
+ Unfortunately the book, like its 1990 predecessor, is spoilt by
+ an apparent total lack of proofreading. The translation from Russian
+ is rather poor, and filled with typos - KNES for the French space
+ agency CNES; Timoty Meitss for the UK backup cosmonaut Timothy Mace,
+ MARTA and MANTRA instead of MATRA (a French space firm) and so on.
+ There are also factual errors (e.g. Kosmos-2122 is listed as being
+ launched by a Soyuz launch vehicle, which is incorrect). However,
+ there are some very nice color photos of the Mir station. An interesting
+ contrast to the Powell book - pretty but superficial and unreliable.
+ The Aerospace Ambassadors group is doing a lot of work on cooperation
+ between the US and Russia in space, and I look forward to their forthcoming
+ 'Cosmonautics: The History'.
+
+--------------------------------------------------------------------------------
+Space Shuttle mission STS-49, the maiden flight of orbiter Endeavour, is
+still planned for early May.
+
+Another USAF Navstar Global Positioning Satellite was launched at 0320
+UTC on 10 Apr. Launch of Navstar 28 was by McDonnell Douglas Delta 7925
+from complex 17 at Cape Canaveral. This was the 22nd Delta 2 launch; all
+have been successful. The Thor first stage flew a suborbital trajectory;
+the Delta second stage placed the payload and third stage in a low earth
+orbit inclined 21 degrees, then separated and used up its remaining fuel
+moving into a 530x715 km orbit (Deltas used to have a habit of blowing
+up several years after launch and littering low earth orbit with lots of
+fragments; the fuel depletion burn seems to have cured this problem).
+The PAM-D Star-48 third stage ignited to put the payload in a 200 x
+20400 km transfer orbit inclined 35 degrees to the equator. At apogee,
+the Navstar's internal Star-37F apogee motor fired to place the payload
+in a circular 20000 km  semi-synchronous (12-hour) orbit at an
+inclination of 55 degrees; the orbit will be adjusted slightly over the
+next few weeks. The Block IIA Navstar satellites are built by Rockwell;
+they contain atomic clocks which are used to provide accurate
+positioning information for military and civilian uses.  The next GPS
+launch will be Navstar 26 in August.
+
+The first Ariane 4 with an upgraded H10-Plus third stage was launched on
+Apr 15 from the Centre Spatiale Guyanais in Kourou, France at about 2312
+UTC. This was an Ariane 44L model; there have now been 22 Ariane 4
+launches, with one failure. The payloads were Telecom 2A and Inmarsat II
+F-4.
+
+INMARSAT, the International Maritime Satellite Organization,
+operates communications satellites used by ships and aircraft.
+These use the L-band around 1.5 GHz rather than the C (6/4GHz) and
+Ku (12/11 GHz) used by most communications satellites. Inmarsat
+started off using satellites leased from other organizations
+(the Comsat Corp. MARISAT and the ESA MARECS) and transponders
+on INTELSAT satellites but now has its own INMARSAT II network
+(INMARSAT I was considered to be the leased network). The satellites
+are built by a Matra Marconi Space/British Aerospace collaboration
+and are based on the Eurostar 1000 bus which uses a liquid
+propellant apogee motor. 
+
+INMARSAT II satellites
+
+Satellite		Launch		Orbit
+
+Inmarsat II F-1		1990 Oct 30	GEO Indian Ocean
+Inmarsat II F-2		1991 Mar  9	GEO Atlantic Ocean
+Inmarsat II F-3		1991 Dec 16	GEO Pacific Ocean
+Inmarsat II F-4		1992 Apr 15	Due over Atlantic
+
+The Telecom satellites are owned by France Telecom which
+operates them in conjuction with the French space agency 
+CNES. Based on Matra Marconi Space's Eurostar 2000 bus
+which uses a Marquardt R4D liquid apogee motor, the
+satellites provide 10 C-band transponders for communicatons
+between mainland France and its overseas parts 
+(departements et territoires d'outremer), 11 Ku-band
+transponders for business communications links, and
+5 X-band transponders for the Syracuse system, a military
+communications network operated by the DGA (Delegation
+Generale de l'Armament). 
+
+France Telecom satellites
+
+Satellite	Launch
+
+Telecom 1A	1984 Aug  4
+Telecom 1B	1985 May  8
+Telecom 1C	1988 Mar 11
+Telecom 2A	1991 Dec 16
+Telecom 2B	1992 Apr 15				
+Telecom 2C	1993?
+
+The Synthetic Aperture Radar antenna on the Japanese Fuyo-1 satellite
+has been successfully deployed. The antenna initially failed to
+deploy after launch in February.
+
+The Kosmos-2107 ocean surveillance satellite reentered on Apr 5. It was
+launched in Dec 1990 and operated in a 404x418 km orbit at 65 deg
+inclination until about Mar 10 this year, when its on board engine was
+used to deboost it to a 226x400 km orbit from which it rapidly decayed. 
+
+____________________________________________
+|Current STS status:                       |
+|Orbiters               Location   Mission |
+|                                          |
+|OV-102 Columbia        OPF Bay 3  STS-50  |
+|OV-103 Discovery       OPF Bay 2  Mod     |
+|OV-104 Atlantis        OPF Bay 1  STS-46  |
+|OV-105 Endeavour       LC39B      STS-49  |
+|                                          |
+|ML/SRB/ET/OV stacks                       |
+|                                          |
+|ML1/STS-46             VAB                |
+|ML2/STS-49/ET/OV-105   LC39B              |
+|ML3/STS-50/ET          VAB Bay 3          |
+--------------------------------------------
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+
+

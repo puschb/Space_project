@@ -1,0 +1,236 @@
+Jonathan's Space Report 
+No. 757                                                       2018 Nov 25 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 57 continues aboard the ISS with astronauts Gerst, 
+Prokop'ev, and Aunon-Chancellor. The next Soyuz crew is scheduled for
+launch on Dec 3.
+
+The Kounotori 7 cargo ship was unberthed from Harmony by the Canadarm-2
+at about 1215 UTC Nov 7 and released into orbit at 1651 UTC. 
+For the first time, an HTV departed the station without its EP (Exposed
+Pallet). The HTV 7 EP remains on the MBS on the ISS truss, waiting
+for a spacewalk to install the new batteries it is carrying.
+
+Konoutori-7 made its deorbit burn at 2114 UTC on Nov 10 to an
+orbit of about -55 x 380 km, reentering over the Pacific at 2141 UTC.
+At 2124 UTC the HSRC reentry capsule was ejected; it also reentered
+at 2138 UTC and came down on a parachute to a splashdown at 155E 21N
+at 2206 UTC. This was the first HTV mission to carry an HSRC (HTV
+Small Return Capsule) to return intact experiment samples to Earth.
+
+The Progress MS-10 cargo ship was launched on Nov 16 and docked with
+the ISS Zvezda module at 1928 UTC Nov 18.
+
+The S.S. John Young cargo ship, Northrop Grumman's Cygnus NG-10 mission,
+was launched from MARS (the Mid Atlantic Regional Spaceport at Wallops Island,
+Virginia) on Nov 17. It arrived at ISS on the morning of Nov 19.
+Canadarm-2 grappled it at 1028 UTC and berthed it at the nadir port on
+the Unity module at 1233 UTC.
+
+On Oct 22, the Loop Heat Pipe Radiator (LHPR) experiment was taken outside
+the Kibo airlock with the JEM-RMS robot arm. LHPR is a test of a thermal
+control system for JAXA's future ETS-9 technology satellite. LHPR was
+operated while exposed to space on the end of the JEM-RMS until Nov 20,
+when it was brought back inside Kibo.
+
+MetOp-C
+-------
+
+Arianespace launched a Soyuz/Fregat on Nov 7 from the Centre Spatial
+Guyanais, carrying the MetOp-C weather satellite for the European
+Meteorological Satellite Organization, EUMETSAT.  The Fregat stage, No. 133-14, was
+deorbited after releasing the payload and reentered over the Indian Ocean
+at about 0318 UTC.
+
+Electron
+--------
+
+RocketLab made its second successful orbital launch on Nov 11, placing
+several payloads in orbit. 
+
+ CICERO-10 (TYVAK-0086) is a 10 kg GPS-radio-occultation weather satellite built by
+   Tyvak for GeoOptics (Pasadena).
+  
+ Two Lemur-2 satellites from Spire Global carry GPS-RO, AIS and ADS-B payloads.
+
+ The first two satellites from Fleet Space Technologies (Adelaide), which is developing
+   a constellation to relay data from IoT devices.
+
+ IRVINE01 is a 1U cubesat with a camera and an electric thruster, built by
+  schoolchildren in Irvine and Tustin, California and owned by the Irvine Public Schools Foundation.
+  According to Dr Brent Freeze of the Irvine cubesat project, IRVINE01 and
+  the soon-to-be-launched IRVINE02 are operated by `Team Comms' via Woodbridge High School. `Team
+  Prime' at University High School runs the science campaign.
+
+  'Pride of Bavaria', from High Performance Space Structure Systems GmbH (Munich), is a
+  NABEO (ADEO-N) drag sail experiment
+  deployed from (and remaining attached to) the Curie kick stage.
+  NABEO stands for NAnosat Bremssegel Entfaltversuch im Orbit 
+   (Nanosat De-Orbit-sail Deployment-demonstration in Orbit).
+
+GSLV3
+-----
+
+India's ISRO carried out the second successful orbital launch of its
+flagship GSLV Mk III rocket. The GSLV Mk III consists of a
+4.0-metre-diameter L110 core stage using two N2O4/UDMH High Thrust Vikas
+Engines (HTVE), two S200 solid boosters and a C25 LOX/LH2 upper stage. 
+The C25 stage made a single long burn to a standard geotransfer orbit
+and deployed its 3423-kg payload, GSAT-29.
+
+GSAT-29 is a multibeam I3K-bus comms satellite to be located at 55E.
+It will test new technologies and provide service to
+Jammu/Kashmir and NE India.
+
+Falcon 9
+--------
+
+SpaceX launched a Falcon 9 from Kennedy Space Center on Nov 15. The
+second stage and the payload, Es'hailsat-2 (or simply Es'hail 2), were
+placed in geotransfer orbit. Es'hailsat-2 is a Mitsubishi Electric model
+DS-2000, providing Ku and Ka band comms for Es'hailsat of Qatar. It also
+carries the AMSAT P4A amateur radio payload. The Falcon 9 first stage,
+B1047, was on its second flight and landed successfully on the droneship
+Of Course I Still Love You.
+
+As of Nov 25, no TLE orbital data have been released for Es'hailsat-2 since the
+first set of elements on Nov 15. However, reports from satellite radio
+observers indicate that the satellite has reached its planned GEO orbit 
+at 25.5E.
+
+
+Beidou 42/43
+------------
+
+China's CALT launched a CZ-3B/YZ-1 from Xichang on Nov 18, placing
+two CAST-built Beidou-3 satellites, M17 and M18 (Beidou Daohang
+Weixing 42 and 43) in medium circular orbit.
+
+Shiyan 6
+--------
+
+China's SAST launched a CZ-2D from Jiuquan on Nov 19 carrying five
+satellites to low orbit. The main payload was Shiyan 6, reported by
+China to be studying the space environment. Jiading-1, for SPACEOK of
+Shanghai, is a test for the  Xiangyun LEO comms constellation. Tianzhi-1
+is a satellite for the Institute of Software of the Chinese Academy of
+Sciences. It carries a cloud computing system accessible to ground-based
+users. Tianping-1A and 1B are ground system calibration test satellites,
+probably for the Guoxing Yuhang company of Chengdu.
+
+The CZ-2D second stage was deorbited.
+
+Vega VV13
+----------
+
+Europe's small solid Vega launcher made its 13th flight from the Centre
+Spatial Guyanais on Nov 21, placing the second French-build Moroccan
+spy satellite, Mohammed VI-B, in orbit. The AVUM upper stage was
+deorbited over the Indian ocean.
+
+Insight at Mars
+---------------
+
+The Mars Insight probe and the two MarCO cubesats entered Martian space
+at about 1640 UTC Nov 22. The hyperbolic orbits of the three probes were:
+
+ Insight      7 x -16494 km x 13.5 deg
+ MarCO-A   1625 x -18113 km x 20.9 deg
+ MarCO-B   1749 x -18238 km x 17.6 deg
+
+Insight will enter the Martian atmosphere at 1938 UTC and reach the surface at about
+1946 UTC. The MarCO probes reach periares around the time of Insight's landing
+and will relay data during the descent.
+
+Meanwhile, the Hayabusa-2 probe remains 20 km from Ryugu. Osiris-REX continues
+approaching Bennu, and reached a range of 78 km as of Nov 26.
+
+Note
+----
+
+The IAU has asked me to point out that the informal name "Ultima Thule"
+for 2014 MU69 is not an IAU-approved name for the object.
+
+There is still no eighth payload cataloged from the Oct 29 CZ-2C launch. (Press
+reports said there were eight, but only identified seven by name). 
+I am beginning to conclude someone in the Chinese space program just cannot count.
+
+It's also still unclear whether the SPP payload on the Oct 24 launch is one of the 
+three cataloged debris objects from the launch, or another attached payload
+on the rocket stage.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Oct 20 0145   BepiColombo )           Ariane 5ECA         Kourou ELA3    Probe        80A   S43653   170 x-78605 x  5.5 
+              Mio         )                                              Probe        80A   A09204   170 x-78605 x  5.5 
+Oct 24 2257   Hai Yang 2 02)          Chang Zheng 4B    Taiyuan          Rem.Sensing  81A   S43655   950 x   965 x 99.4 0600LT SSO
+              Tangguo Guan )                                             Comms        81B   S43656   641 x   940 x 99.5
+              SPP          )                                             Tech         81?  
+Oct 25 0015   Kosmos-2528             Soyuz-2-1B        Plesetsk LC43/4  Sigint       82A   S43657   900 x   910 x 67.1
+Oct 27 0800   Weilai                  Zhuque-1          Jiuquan          Tech         F02   F01530 -3090?x   334 x 97.6
+Oct 28 0615   DebrisSat-2                               RemDeb, LEO      Tech        9867PR S43680   399 x   404 x 51.6
+Oct 29 0043   Zhongfa Haiyang W.)                                        Rem.Sensing  83A   S43662   510 x   523 x 97.5 0700LT SSO
+              Xiaoxiang-1 02  TY1-02 )                                   Tech         83             510?x   520?x 97.5
+              Xinghe          TY1-03 )                                   Imaging      83             510?x   520?x 97.5
+              Changsha gaoxin TY4-01 ) Chang Zheng 2C   Jiuquan          Tech/Com     83H   S43669   510 x   523 x 97.5
+              Zhaojin-1       TY4-02 )                                   Astronomy    83             510?x   520?x 97.5
+              Tianqi-1          )                                        Comms        83             510?x   520?x 97.5
+              UNKNOWN           )                                        Tech         83             510?x   520?x 97.5
+              CubeBel-1         )                                        Comms        83E   S43666   505 x   524 x 97.5
+Oct 29 0408   Ibuki 2       )                                            Climate      84B   S43672   597 x   617 x 97.9 1300LT SSO
+              KhalifaSat    )          H2A 202          Tanegashima      Imaging      84F   S43676   592 x   612 x 97.8
+              Diwata 2      )                                            Imaging      84H   S43678   587 x   599 x 97.8
+              Ten-Koh       )                                            Tech         84A   S43671   600 x   619 x 97.8
+              Aoi           )                                            Astronomy    84K?  S43681?  587 x   599 x 97.8
+              AUTCube-2     )                                            Tech         84J?  S43679?  585 x   598 x 97.8
+Nov  1 1557   Beidou DW 41            Chang Zheng 3B    Xichang          Navigation   85A   S43683   197 x 35815 x 28.5
+Nov  3 2017   Kosmos-2529             Soyuz-2-1B/Fregat Plesetsk LC43/4  Navigation   86A   S43687 19123 x 19163 x 64.8
+Nov  7 0047   MetOp-C                 Soyuz-2-1B/Fregat CSG ELS          Weather      87A   S43689   806 x   807 x 98.7 0930LT SSO
+Nov 11 0350   IRVINE01          )                                        Tech         88D   S43693   493 x   516 x 85.0
+              CICERO-10         )     Electron          Mahia LC1        Weather      88A   S43690   499 x   517 x 85.0
+              Lemur-2-Zupanski  )                                        Weather/Com  88F   S43695   495?x   515?x 85.0
+              Lemur-2-Chanusiak )                                        Weather/Com  88H   S43697   495?x   515?x 85.0
+              Proxima I         )                                        Com          88E   S43694   495?x   515?x 85.0
+              Proxima II        )                                        Com          88G   S43696   495?x   515?x 85.0
+              Pride of Bavaria  )                                        Tech         88C   S43692   495?x   515?x 85.0
+Nov 14 1138   GSAT-29                 GSLV Mk III       Satish Dhawan SLP Comms       89A   S43698   181 x 35737 x 21.5
+Nov 15 2046   Es'hailsat-2            Falcon 9          Kennedy LC39A     Comms       90A   S43700   201 x 37688 x 25.0
+Nov 16 1814   Progress MS-10          Soyuz-FG          Baykonur LC1      Cargo       91A   S43702   186 x   226 x 51.6 Docked to ISS
+Nov 17 0901   S.S. John Young         Antares 230       MARS LA0B         Cargo       92A   S43704   211 x   252 x 51.6
+Nov 18 1807   Beidou DW42 )           Chang Zheng 3B/YZ1 Xichang          Navigation  93A   S43706 21523 x 22194 x 55.0
+              Beidou DW43 )                                               Navigation  93B   S43707 21531 x 22194 x 55.0
+Nov 19 2340   Shiyan 6   )                                                Unknown     94A   S43710   488 x   504 x 97.4 0600LT SSO  
+              Jiading-1  )            Chang Zheng 2D    Jiuquan           Comms       94B?  S43711   489 x   504 x 97.4 0600LT SSO  
+              Tianzhi 1  )                                                Tech        94C?  S43712   488 x   504 x 97.4 0600LT SSO  
+              Tianping-1A)                                                Calib       94D?  S43713   487 x   504 x 97.4 0600LT SSO  
+              Tianping-1B)                                                Calib       94E?  S43714   489 x   504 x 97.4 0600LT SSO  
+Nov 21 0142   Mohammed VI-B           Vega              CSG ELV           Imaging     95A   S43717   601 x   606 x 98.0 1020LT SSO
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The suborbital launches table includes known flights above 80 km.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Oct 26        FTM-45 Target     UNKNOWN            Kauai                 Target        150?      Pacific
+Oct 26        FTM-45 KV         Aegis SM-3-IIA    DDG-113, Kauai         Interceptor   150?      FTM-45 intercept
+Nov  7 0701   GT228GM           Minuteman 3        Vandenberg            Op. Test     1300?      Kwajalein?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

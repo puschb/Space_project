@@ -1,0 +1,173 @@
+Jonathan's Space Report
+
+No. 433                                            2000 Aug 25, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Historical note: SAMOS and Program 206
+---------------------------------------
+
+The CIA's CORONA spy satellite program has been discussed extensively
+since it was declassified in 1995. Two other early 1960s US Air Force 
+spy satellite programs, SAMOS (largely unsuccessful) and  Program 206 or
+KH-7 (highly successful), have not been talked about as much. Although
+the programs as a whole are still classified, for some years now there's
+been a lot of individual pieces of declassified information available
+which  allows their story to be told. However, little of it has been
+widely published. Since there are rumours that declassification of at
+least some more of the 1960s programs will happen soon, I thought it
+would be a good time to review what's already known about SAMOS and KH-7
+from the spaceflight history point of view; I deliberately avoid   
+speculating about detailed intelligence capabilities of the systems,  
+although 35-40 years later few people consider them to be highly
+sensitive. My new review of the SAMOS (Program 101, 101A, 101B, 201) and
+KH-7 (Program 206) missions can be found on the web at
+
+<A HREF="http://hea-www.harvard.edu/~jcm/space/book/programs/nro/usafnro.html">
+  http://hea-www.harvard.edu/~jcm/space/book/programs/nro/usafnro.html
+</A>
+
+Shuttle and Stations
+--------------------
+
+Atlantis was rolled out to pad 39B on Aug 14. It will fly mission
+STS-106 to the International Space Station. Payload configuration on
+STS-106 is similar to that on Atlantis' previous STS-101 flight,
+including the docking system, tunnel adapter, long tunnel, Spacehab
+Double Module, and the Spacehab Integrated Cargo Carrier. I'm not sure
+yet if any sidewall payloads are  in the cargo bay.
+
+The Progress M1-3 cargo ship remains docked to the ISS, which currently
+consists of the PMA-2, Unity, PMA-1, Zarya, and Zvezda modules. Fuel was
+automatically transferred from M1-3 to Zvezda within a few days of the
+Aug 8 docking.
+
+The Progress M1-2 cargo ship remains docked to the Mir orbital complex,
+which also continues orbiting unattended by a crew.
+
+
+Current Launches
+----------------
+
+The third Boeing Delta III launch was completed successfully on Aug 23
+and the dummy DM-F3 satellite was placed in orbit.   Launch from Cape
+Canaveral's Space Launch Complex 17B was at 1105 UTC on Aug 23. The
+second stage ignited at 1109 UTC at an altitude  of 158 km and shut off
+with depletion at 1118 UTC in an approximately 157 x 1363 km x 29.5 deg
+parking orbit. The RL-10 fired again at 1126 UTC and at 1129 UTC shut
+off to place the vehicle in geostationary transfer orbit. The DM-F3
+payload separated at 1141 UTC.   Space Command initially cataloged the
+payload in a marginal 51 x 19841 km x 28.0 deg orbit but a second
+element set shows it at a more reasonable 190 x 20655 km x 27.6 deg. The
+intended orbit was a much higher 183 x 25778 km x 27.5 deg according to
+the press kit. This would correspond to a 0.15 km/s underspeed, but a
+Boeing press release on Aug 24 said that because of the  fuel
+temperature and atmospheric conditions on the day of launch, the actual
+expected apogee was 23400 km with an error of 3000 km, so the mission
+was just within target limits.  Since the flight was to fuel depletion
+instead of targeting a specific orbit, the final orbit achieved does
+depend on atmospheric density, although it's a bit surprising to me that
+the press kit didn't include any expected range on the orbit given the
+huge uncertainties in this case - this led to rumours of a failure
+circulating on the day after launch. 
+
+The DM-F3 dummy payload is a mass model of the Orion 3 HS-601 satellite
+launched on the second Delta 3. The 4348 kg satellite is a 2.0m
+diameter, 1.7m high cylinder with two circular end plates, painted with
+black and   white patterns; it will be used by US Air Force researchers
+as a calibration target. The satellite was built by Boeing/Huntington
+Beach.
+
+The Delta model 8930  first stage is derived from Thor, and the lower
+section LOX tank retains Thor's 2.44-meter diameter. The upper,
+kerosene, tank has been enlarged to 4.0m diameter giving the stage an
+unusual hammerhead shape. The stage retains Delta II's Boeing Rocketdyne
+RS-27A main engine. Like the Delta II 7925, it has nine Alliant strapon
+solid boosters, but each booster is the larger GEM-46 instead of the
+Delta II's GEM-40. The Delta 3 Second Stage is an all-new liquid
+hydrogen fuel upper stage with a Pratt and Whitney RL-10B-2 engine; the
+Aug 23 flight was the first complete and successful flight of the stage
+in space (the first Delta 3 was destroyed early in flight, and the   
+second had an RL-10 failure early in the second burn). The Delta 3 stage
+is 8.8m long and 4.0m diameter, with a dry mass of 2476 kg.
+
+
+Two communications satellites were launched on an Ariane 44LP rocket
+from Kourou on Aug 17.  The Arianespace rocket placed the satellites
+in a 277 x 35745 km x 3.0 deg low-inclination geostationary transfer orbit.
+
+The upper satellite on flight V131 was Brasilsat B4, for the Brazilian
+communications company Embratel. This is the fourth and last of the
+Brasilsat B series which use a unique Hughes HS-376W bus, based on the
+old HS-376 spin-stabilized design but with a larger diameter and using
+the R-4D liquid apogee motor instead of a solid apogee motor. Dry
+mass of B4 is 820 kg and launch mass is 1750 kg. B4 is a C-band
+satellite replacing the 15-year-old Brasilsat A2.
+
+The lower satellite on this launch was Nilestar 102, for the Egyptian
+communications company Nilesat SA. The satellite has a dry mass of 813
+kg, a launch mass of 1827 kg, and is a Eurostar 2000 class bus built by
+Astrium SAS of Toulouse (formerly Matra). The satellite will join
+Nilesat 101 in providing Ku-band broadcast services.
+
+
+A classified satellite was launched on a US Air Force/Lockheed Martin 
+Titan 4 from Vandenberg on Aug 17. The satellite, a payload for the
+National Reconnaissance Office, is believed to be an ONYX (formerly
+LACROSSE) radar imaging spacecraft built by Lockheed Martin. The Titan
+4B, vehicle B-28, was launched from Space Launch Complex 4-East. The   
+Titan second stage reached a 572 x 675 km x 68.0 deg orbit and separated
+from the payload. Amateur observers report the payload has made two
+small maneuvers since then and on Aug 23 was in a 681 x 695 km x 68.1
+deg orbit.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  4 2344   Kosmos-2371       Proton-K/DM-2? Baykonur LC200?  Commsat    36A
+Jul 12 0456   Zvezda            Proton-K       Baykonur LC81L   Station    37A
+Jul 14 0521   Echostar VI       Atlas 2AS      Canaveral SLC36B Commsat    38A
+Jul 15 1200   CHAMP   )         Kosmos-3M      Plesetsk LC132   Science    39A
+              MITA    )                                         Science    39B
+              Rubin   )                                         Imaging    39C
+Jul 16 0917   GPS SVN 44        Delta 7925     Canaveral LC17A  Navsat     40A
+Jul 16 1239   Samba   )         Soyuz-Fregat   Baykonur LC31    Science    41A
+              Salsa   )                                         Science    41B
+Jul 19 2009   Mightysat 2.1     Minotaur       Vandenberg CLF   Tech       42A
+Jul 28 2242   PAS 9             Zenit-3SL      Odyssey, POR     Commsat    43A
+Aug  6 1827   Progress M1-3     Soyuz-U        Baykonur LC1     Cargo      44A
+Aug  9 1113   Rumba   )         Soyuz-Fregat   Baykonur LC31    Science    45A
+              Tango   )                                         Science    45B
+Aug 17 2316   Brasilsat B-4 )   Ariane 44LP    Kourou ELA2      Commsat    46A
+              Nilesat 102   )                                   Commsat    46B
+Aug 17 2345   USA 152           Titan 4B       Vandenberg SLC4E Recon      47A
+Aug 23 1105   DM-F3             Delta 8930     Canaveral SLC17B Test       48A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 3     STS-92  2000 Oct     ISS 3A
+OV-104 Atlantis        LC39B         STS-106 2000 Sep     ISS 2A.2b
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+MLP-1 
+MLP-2/RSRM-75/ET-103/OV-104  LC39B      STS-106
+MLP-3/RSRM-76/ET-104         VAB Bay 3  STS-92
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

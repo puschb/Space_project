@@ -1,0 +1,113 @@
+Jonathan's Space Report
+No. 473                                            2002 Mar  1 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Carl Walz and Dan Bursch made a spacewalk on Feb 20 using the Station's
+Quest airlock. Depressurization was at around 1134 UTC and
+repressurization was at 1725 UTC. The spacewalk involved doing some
+preparatory work with cables and thermal covers in advance of the
+spacewalks planned for STS-110 and the installation of the S0 truss. It
+was also intended to check out proper functioning of the Quest airlock,
+which had some minor problems on its first use in Jul 2001. The last two
+Expedition-4 spacewalks were made from the Russian Pirs airlock.
+
+Launch of STS-109 is scheduled for Mar 1.
+
+Recent Launches
+---------------
+
+The first Lockheed Martin Astronautics Atlas 3B was launched on Feb 21.
+The Atlas 3B features the new Common Centaur stretched two-engine upper
+stage, also planned for use on the Atlas 5.
+
+Atlas AC-204 placed the Echostar 7 communications satellite in
+geostationary transfer orbit. The Atlas III first stage, using a Russian
+RD-180 main engine, fired first, followed by the first burn of the
+Centaur, which entered a  185 x 193 km x 28.1 deg parking orbit.  At
+1305 UTC the Centaur burned again to achieve the final 245 x 57060 km x
+22.6 deg transfer orbit and separated from Echostar.
+
+Arianespace launched an Ariane 44L from Kourou on Feb 23. The Loral
+FS-1300HL-class Intelsat 904 satellite it placed in a 176 x 35812 km x 7.0
+deg geostationary transfer orbit will be used for Indian Ocean region
+communications. Intelsat 904 has a dry mass of 2350 kg and carries
+a further 2330 kg of fuel.
+
+Arianespace had another success on Mar 1 when the Ariane 5 returned to
+flight with mission V145/vehicle 511. This vehicle, the first Ariane 5
+to use the 17-m Long Fairing and the first to launch north from Kourou,
+placed the European Space Agency's Envisat polar platform in orbit.
+Originally envisaged as an automated polar orbiting segment of the
+Space Station, and later descoped to become something like the
+European equivalent of NASA's Earth Observing System, Envisat
+uses a new modular satellite bus built at Matra Marconi Space/Bristol,
+now shut down - final integration was done at ESTEC in the Netherlands.
+The service module (SVM) is based on the SPOT 4 design; prime contractor
+is Astrium (Dornier). Envisat has a dry mass of 7911 kg and carries
+300 kg of hydrazine for orbit adjust. The active C-band phased array
+ASAR radar imaging antenna is 1.3 x 10m in size; Envisat also carries
+atmospheric radiometers and spectrometers and a radar altimeter.
+
+The V145 flight profile was quite different from earlier Ariane 5 GTO
+launches where the EPC core stage usually reached a marginal orbit. In
+this case EPC separation at 350 km high 10 min after launch left the EPC
+in a suborbital trajectory impacting in the Arctic; the EPS final stage
+with Envisat only achieved a positive perigee at 22 minutes after
+launch, with a circular 790 km sun-synchronous orbit reached at 25 min
+after launch.
+
+Kosmos-2387 was launched on Feb 25 from Plesetsk. The satellite,
+built by TsSKB-Progress of Samara, is a Kobal't-class imaging
+spy satellite. It carries two small film capsules and a large
+reentry module. The KVR (Russian Space Forces) launched it on
+a Soyuz-U into a 165 x 344 km x 67.1 deg orbit. The previous
+mission of this class, Kosmos-2377, flew from May to October last year.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Jan 16 0030   Milstar FLT-5     Titan Centaur  Canaveral SLC40  Comms        01A
+Jan 23 2347   Insat 3C          Ariane 42L     Kourou ELA2      Comms        02A
+Feb  4 0245   MDS-1  )          H-2A           Tanegashima      Tech         03A
+              DASH   )                                          Tech         03
+	      VEP-3  )                                          Tech         03
+Feb  5 2058   HESSI             Pegasus XL     Canaveral        Astronomy    04A
+Feb 11 1743   Iridium   )       Delta 7920     Vandenberg SLC2W Comms        05A
+              Iridium   )                                                    05B
+              Iridium   )                                                    05C
+              Iridium   )                                                    05D
+              Iridium   )                                                    05E
+Feb 21 1243   Echostar 7        Atlas 3B       Canaveral SLC36B Comms        06A
+Feb 23 0659   Intelsat 904      Ariane 44L     Kourou ELA2      Comms        07A
+Feb 25 1726   Kosmos-2387       Soyuz-U        Plesetsk LC43/3  Imaging      08A
+Mar  1 0108   Envisat           Ariane 5G      Kourou ELA3      Rem.Sensing  
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        LC39A         STS-109 2002 Mar  1  HST SM-3B
+OV-103 Discovery       VAB           Maintenance
+OV-104 Atlantis        OPF Bay 2?    STS-110 2002 Apr  4  ISS 8A
+OV-105 Endeavour       OPF Bay 1?    STS-111 2002 May  2  ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

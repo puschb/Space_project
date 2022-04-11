@@ -1,0 +1,111 @@
+Jonathan's Space Report
+No. 657                                        2012 Apr 20  Somerville, MA USA
+--------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+Expedition 30 continues with Soyuz TMA-22 docked at Poisk and Soyuz
+TMA-03M docked to the Rassvet module. ATV 3 is docked at Zvezda. Ex-30
+commander is Dan Burbank; flight engineers 1 to 5 are Anton Shkaplerov,
+Anatoliy Ivanishin, Oleg Kononenko, Andre Kuipers, and Don Pettit. The
+Progress M-14M cargo ship undocked from the Pirs module at 1104 UTC on
+Apr 19 to begin nine days of Radar-Progress ionospheric experiments.
+
+Meanwhile, Orbiter OV-103 Discovery was ferried from Kennedy Space Center
+to Dulles airport by the NASA SCA 905 airplane on Apr 18, and then towed to the
+Smithsonian's nearby Udvar-Hazy complex for display on Apr 19.
+
+
+North Korean launch
+-------------------
+
+Launch of the Unha-3 rocket with the Kwangmyongsong-3 satellite payload
+from the Sohae launch site at Tongch'ang-dong occurred on Apr 12.
+
+Based on the available information announced by the South Korean
+military, it seems that the rocket took off at 2238:55 UTC but failed
+near the end of first stage burn, probably at the point of separation of
+the first and second stages about 1min30s after launch at 2240 UTC. The
+remains of it then  arced up 151 km into space and fell back into the
+Yellow Sea at about 124E 36N (according to South Korean statements) 
+probably about 5 minutes after launch. This is consistent with a
+trajectory of roughly -6200 x 130 km x 88 deg, about what one might
+expect for the first stage. The impact area is close to the  planned
+impact zone for the first stage which was at 124.5-124.8E, 35.2-35.9N.  
+
+However, NORAD says the impact was 165 km west of Seoul, which is  well
+north of this and well off the planned launch track. This is a
+surprising claim and I am wondering if they meant something slightly
+different - e.g. 165 km W of Seoul's Incheon airport, which would put
+the impact near 124.5W 37.5N, on the expected track. More likely, they
+originally meant "very roughly 100 miles west" and the conversion got
+corrupted. In any case this is a bit north of the expected first stage
+impact zone, which could indicate a failure prior to first stage cutoff,
+or  underperformance by the first stage engines, if correct. At this
+point I place more reliance on the South Korean data and suspect that
+the NORAD data is highly approximate at best. Washington Post's
+correspondent Chico Harlan reported North Korea's admission that the
+satellite failed to enter orbit.
+
+From KCNA: "The DPRK launched its first application satellite
+Kwangmyongsong-3 at the Sohae Satellite Launching Station in Choisan
+County, North Phyongan Province at 07:38:55am on Friday. The earth
+observation satellite failed to enter its preset orbit. Scientists,
+technicians and experts are now looking into the cause of the failure".
+This contrasts with the two previous failures which the North Koreans
+still claim as successes.
+
+
+Suborbital launches
+--------------------
+
+India carried out the first test launch of its three-stage Agni V
+missile on Apr 19. The missile, which has a claimed range of 5000 km,
+flew from Wheeler Island in Orissa to the southern Indian Ocean
+near 90E 20S; an orbit of -4700 x 800 km x 81 deg very roughly
+matches the data.
+
+An unidentified tactical ballistic missile was launched from
+White Sands (or possibly Fort Wingate) on Mar 29 as a target
+for Patriot interceptors.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar 23 0434   Edoardo Amaldi     Ariane 5ES-ATV    Kourou ELA3       Cargo     10A
+Mar 25 1210   Intelsat IS-22     Proton-M/Briz-M   Baykonur LC200/39 Comms     11A
+Mar 30 0549   Kosmos-2479        Proton-K/DM-2     Baykonur LC81/24  EarlyWarn 12A
+Mar 31 1027   Apstar 7           Chang Zheng 3B/E  Xichang LC2       Comms     13A
+Apr  3 2312   NROL-25            Delta 4M+(5,2)    Vandenberg SLC6   Radar     14A
+Apr 12 2239   Kwangmyongsong-3   Unha-3            Sohae             Tech      F01?
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Mar 19 1405   REXUS 12         Imp. Orion         ESRANGE             Micrograv     82
+Mar 22 0900   NASA 36.277UG    Black Brant IX     White Sands         IR Astron    320?
+Mar 27 0858   NASA 45.004UE    Terrier Oriole     Wallops             Atm. Sci     375?
+Mar 27 0859   NASA 46.002UE    Terrier Malemute   Wallops             Atm. Sci     200?
+Mar 27 0900   NASA 41.097UE    Terrier Orion      Wallops             Atm. Sci     157?
+Mar 27 0902   NASA 46.003UE    Terrier Malemute   Wallops             Atm. Sci     254?
+Mar 27 0903   NASA 41.098UE    Terrier Orion      Wallops             Atm. Sci     169?
+Mar 29        Target           Unknown            White Sands?        Target        80?
+Apr  5 1418   SL-6             SpaceLoft XL       Spaceport America   Tech         117
+Apr 19 0237   Agni RV          Agni V             Chandipur           R&D          800
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

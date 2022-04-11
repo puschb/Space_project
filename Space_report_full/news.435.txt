@@ -1,0 +1,237 @@
+Jonathan's Space Report
+
+No. 435                                             2000 Sep 21, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Note: The JSR web page will be updated rarely or not at all until my return
+from England in mid-October.
+
+Shuttle and Stations
+--------------------
+
+Orbiter OV-104 Atlantis was launched from Kennedy Space Center's Launch
+Complex 39B on 2000 Sep 8 at 1245:47 UTC. The solid rocket boosters,
+serial RSRM-75, were jettisoned at about 2 minutes after launch at an
+altitude of around 50 km. The orbiter, still connected to the external
+tank, flew up the east coast of the US.
+
+At 1253 UTC the main engines shut down (MECO) and ten seconds later
+external tank ET-103 separated. The Shuttle and ET-103 were then in a 
+72 x 328 km x 51.6 deg transfer orbit. (Thanks NASA PAO for giving the
+figures this time!). ET-103 reentered over the Pacific after one
+orbit; the Shuttle fired its OMS engines at apogee to circularize
+its own orbit.
+
+Atlantis docked with the PMA-2 adapter on the International Space
+Station at 0551 UTC on Sep 10. The orbiter's small RCS engines were used
+to gently reboost the station's orbit several times.
+
+Astronauts Lu and Malenchenko made a spacewalk on Sep 11. The airlock in
+the Tunnel Adapter  was depressurized starting at 0441 UTC. The suits
+went to battery power at 0447 UTC; hatch open was at 0453 UTC. They rode
+the RMS arm up to Zvezda and began installing cables at around 0600 UTC.
+The astronauts reached a distance of 30 meters from the airlock when
+installing Zvezda's magnetometer. They returned to the airlock at 1051
+UTC and closed the hatch at 1054 UTC. The airlock was repressurized
+at 1102 UTC giving a depress duration of 6 hours 21 minutes.
+
+Two new objects, 2000-53B and C, were cataloged by Space Command around
+the time of the EVA and presumably are associated with it. Is anyone
+aware of any object jettisoned by the crew? It looked like the
+magnetometer cover was carefully stowed away...
+
+The Shuttle undocked from ISS at 0344 UTC on Sep 18 and made two
+circuits of the station each lasting half an orbit, before separating
+finally at 0534 UTC. Your bleary-eyed correspondent can report that the
+two spacecraft were an incredible sight in the dawn Boston sky at 0950
+UTC the same day, flying a few degrees apart and each about as bright as
+Jupiter.
+
+The payload bay doors were closed at 0414 UTC on Sep 20 and at 0650 UTC
+the OMS engines ignited for a three minute burn lowering the orbit from
+374 x 386 km x 51.6 deg to 22 x 380 km x 51.6 deg. After entry interface
+at 0725 UTC, the orbiter glided to a landing on runway 15 at Kennedy
+Space Center with main gear touchdown at 0756:48 UTC for
+a mission duration of 283hr 11min.
+
+Meanwhile, Discovery is on the pad ready for the next mission, STS-92.
+It will launch in early October and dock with PMA-2, the docking port on
+the +Y port of the Space Station's Unity module. The mission will carry
+the orbiter docking system, the Z1 truss, a Spacelab pallet with the
+PMA-3 docking unit, and two adapter beams carrying electronic control
+units for Z1. Both the Z1 and the PMA-3 will be attached to the Unity
+node. Z1 was built by Boeing/Canoga Park and is 3.5 x 4.5 meters in
+size; it will be docked to the +Z port on Unity. PMA-3, built by
+Boeing/Huntington Beach, will be docked to the -Z port opposite it.
+(PMA-1, and Zarya, are docked to the -Y port; Unity's two remaining
+ports will later be used for the Airlock and the Cupola observation
+area).
+
+German Stepanovich Titov, the fourth human in space, died on Sep 20.
+He was the pilot of Vostok-2. 
+
+Current Launches
+----------------
+
+Ariane 506 (flight V130) was launched on Sep 14 from Kourou. The Ariane
+5 launch vehicle is Europe's largest rocket, with two strapon solid
+boosters (EAP) and a liquid hydrogen engined core stage (EPC), with a
+storable propellant upper stage (EPS). The EPC main stage entered a
+marginal orbit with an apogee around 1000 km and reentered over the
+Galapagos. The EPS upper stage separated from the EPC ten minutes after
+launch and burned to place Astra 2B and GE 7 in geostationary transfer
+orbit. This is the fourth success in a row for Ariane 5 following two
+early test failures.
+
+Astra 2B is an Astrium/Toulouse Eurostar 2000+ television broadcast
+satellite owned by the Luxembourg-based Societe Europeene de Satellites.
+Its dry mass is around 1400 kg and it carries about 1900 kg of fuel at
+launch. The satellite will be stationed at 28.2E and will replace the
+German DFS Kopernikus system. It carries 28 Ku-band transponders. Astra
+2B is the 18th Eurostar 2000 launched. By Sep 19 Astra 2B was in a 
+31153 x 35762 km x 0.3 deg orbit, approaching geosynchronous altitude.
+
+Here is a list of Eurostar 2000 satellites. Some of the dry masses are
+guesses. I believe all ES2000 satellites use the Primex R-4D liquid
+apogee engine. Transponder numbers should be considered approximate,
+since some sources do or do not include 'spare' transponders.
+
+Variant  Satellite   Launch       Flight              Mass      Transponders
+                                              (dry, kg) (full, kg)
+
+ES2000  Telecom 2A   1991 Dec 16  Ariane V48      1130   2275   10 C 11 Ku 5 X
+ES2000  Telecom 2B   1992 Apr 15  Ariane V50      1124   2275   10 C 11 Ku 5 X
+ES2000  Hispasat 1A  1992 Sep 10  Ariane V53      1013   2194        12 Ku 4 X
+ES2000  Hispasat 1B  1993 Jul 22  Ariane V58      1050   2206        12 Ku 4 X
+ES2000  Telstar 11   1994 Nov 29  Atlas AC-110    1150?  2361        34 Ku
+ES2000  Telecom 2C   1995 Dec  6  Ariane V81      1120   2283   10 C 11 Ku 5 X
+ES2000  Telecom 2D   1996 Aug  8  Ariane V90      1085   2260   10 C 11 Ku 5 X
+ES2000+ Hot Bird 2   1996 Nov 21  Atlas AC-124    1150   2910        20 Ku
+ES2000+ Hot Bird 3   1997 Sep  2  Ariane V99      1280   2915        20 Ku
+ES2000+ Hot Bird 4   1998 Feb 27  Ariane V106     1310   2885        20 Ku
+ES2000  Nilesat 101  1998 Apr 28  Ariane V108      795   1840        12 Ku
+ES2000  ST-1         1998 Aug 25  Ariane V109     1502   3255   14 C 16 Ku
+ES2000+ Hot Bird 5   1998 Oct  9  Atlas AC-134    1250?  3000?       22 Ku
+ES2000+ Afristar     1998 Oct 28  Ariane V113     1216   2739     L-band
+ES2000+ Asiastar     2000 Mar 21  Ariane-5 V128   1220   2777     L-band
+ES2000  Nilesat 102  2000 Aug 17  Ariane V131      813   1800        12 Ku
+ES2000+ Eutelsat W1  2000 Sep  6  Ariane V132     1430   3250        28 Ku
+ES2000+ Astra 2B     2000 Sep 14  Ariane-5 V130   1400?  3315        28 Ku
+
+The SES Astra system includes Astra 1A (AS4000), Astra 1B (AS5000), and
+Astra 1C, 1D, 1E, 1F, 1G, 1H and 2A (Hughes HS-601). Astra 2B is the
+first SES satellite built by a European prime contractor.
+
+The second communications satellite payload on Ariane V130 was GE 7, for
+GE Americom. The satellite will provide cable TV distribution coverage
+over the US and has 24 C-band transponders. Its mass is 912 kg and it
+carries 1023 kg of fuel at launch. The satellite is an A2100A model
+built by  Lockheed Martin/Sunnyvale, the first lightweight A2100 with a
+mass about half that of earlier A2100 satellites.  On Sep 19 GE 7 was in
+a  35832 x 35869 km x 0.1 deg orbit drifting over 146 deg W, having
+entered the GEO altitude range around Sep 18. 
+
+GE 7 continues one of the longest series of commercial communications
+satellites, which began with Americom's RCA Satcom 1 in 1975 (Americom
+was then owned by RCA). All the satellites were built by RCA
+Astro Space/East Windsor and its successors (now LMMS/Sunnyvale).
+
+ RCA Satcom 1   1975 Dec 13       Satcom K2  1985 Nov 27 
+ RCA Satcom 2   1976 Mar 26       Satcom K1  1986 Jan 12
+ RCA Satcom 3   1979 Dec  6       Satcom C1  1990 Nov 20
+ Satcom 3R      1981 Nov 20       Satcom C5  1991 May 30
+ Satcom 4       1982 Jan 16       Satcom C4  1992 Aug 31
+ Satcom 5       1982 Oct 28       Satcom C3  1992 Sep 10
+ Satcom 1R      1983 Apr 11       GE 1       1996 Sep  8
+ Satcom 2R      1983 Sep  8       GE 2       1997 Jan 30
+                                  GE 3       1997 Sep  4
+                                  GE 4       1999 Nov 13
+(GE 5 and GE 6 have not yet been launched).
+                           
+
+Here is a list of LMMS A2100 series satellites; some of the variant
+designations may be incorrect and updates would be appreciated. Some of
+the dry masses are guesses. I believe all A2100 satellites use the RO
+Leros 1 liquid apogee engine. Transponder numbers should be considered
+approximate, since some sources do or do not include 'spare' transponders.
+
+Variant  Satellite   Launch       Flight              Mass      Transponders
+                                              (dry, kg) (full, kg)
+A2100    GE 1        1996 Sep  8  Atlas AC-123    1310?  2784     24 C 24 Ku
+A2100    GE 2        1997 Jan 30  Ariane V93      1310   2649     24 C 24 Ku
+A2100    GE 3        1997 Sep  4  Atlas AC-146    1400?  2845     24 C 24 Ku
+A2100AX  Echostar 3  1997 Oct  5  Atlas AC-135    1600?  3670          32 Ku
+A2100AX  Echostar 4  1998 May  7  Proton 393-02   1580   3470          32 Ku
+A2100    Zhongwei 1  1998 May 30  CZ-3B-4         1500?  3200     18 C 20 Ku
+A2100AX  Nimiq       1999 May 20  Proton 396-02   1700?  3600          32 Ku
+A2100    Telkom 1    1999 Aug 12  Ariane V118     1400?  2763     36 C
+A2100    Koreasat 3  1999 Sep  4  Ariane V120     1332   2800     3 Ka 30 Ku
+A2100    LMI 1       1999 Sep 27  Proton 398-02   1730   3740     28 C 16 Ku
+A2100AX  GE 4        1999 Nov 13  Ariane V123     1755   3903     24 C 28 Ku
+A2100AXX Garuda 1    2000 Feb 12  Proton 399-02   1800?  4500     C, L-band
+A2100A   GE 7        2000 Sep 14  Ariane-5 V130    912   1935     24 C
+
+
+The NOAA-L polar orbit weather satellite was launched Sep 21 from
+Vandenberg; it will now be renamed NOAA 16. The satellite is an Advanced
+Tiros N model built by Lockheed Martin and carries a suite of imaging
+and sounding instruments. The two-stage Titan II launch vehicle, serial
+23G-13, put NOAA-L in a suborbital trajectory of approximately -2500 x
+800 km x 98.0 deg. The spacecraft's Thiokol Star 37XFP solid motor fired
+at apogee to circularize the sun-synchronous orbit at around 800 km. The
+NOAA satellites form the POES (Polar Operational Environmental
+Satellite) low orbit constellation which complements the GOES
+geostationary constellation, and are the programmatic descendants of the
+original Tiros 1 weather satellite launched in 1960. They are developed
+by NASA-GSFC and operated by the US National Oceanic and Atmospheric
+Administration (NOAA). Mass of NOAA 16 after orbit insertion is about
+1476 kg.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug  6 1827   Progress M1-3     Soyuz-U        Baykonur LC1     Cargo      44A
+Aug  9 1113   Rumba   )         Soyuz-Fregat   Baykonur LC31    Science    45A
+              Tango   )                                         Science    45B
+Aug 17 2316   Brasilsat B-4 )   Ariane 44LP    Kourou ELA2      Commsat    46A
+              Nilesat 102   )                                   Commsat    46B
+Aug 17 2345   USA 152           Titan 4B       Vandenberg SLC4E Recon      47A
+Aug 23 1105   DM-F3             Delta 8930     Canaveral SLC17B Test       48A
+Aug 28 2008   Raduga-1          Proton-K/DM-2? Baykonur LC81R   Commsat    49A
+Sep  1 0325   ZY-2              Chang Zheng 4B Taiyuan          Imaging    50A
+Sep  5 0943   Sirius 2          Proton-K/DM3   Baykonur LC81L   Commsat    51A
+Sep  6 2233   Eutelsat W1       Ariane 44P     Kourou ELA2      Commsat    52A
+Sep  8 1245   Atlantis          Space Shuttle  Kennedy LC39B    Spaceship  53A
+Sep 14 2254   Astra 2B )        Ariane 5       Kourou ELA3      Commsat    54A
+              GE 7     )                                        Commsat    54B
+Sep 21 1022   NOAA 16           Titan 23G      Vandenberg SLC4W Weather    55A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       VAB Bay 3     STS-92  2000 Oct     ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-98  2001 Feb?    ISS 5A
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+MLP-1 
+MLP-2/                       
+MLP-3/RSRM-76/ET-104/OV-103  VAB Bay 3  STS-92
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

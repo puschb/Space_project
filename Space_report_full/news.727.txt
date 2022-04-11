@@ -1,0 +1,333 @@
+Jonathan's Space Report 
+No. 727                                                        2016 Jul 7 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+On Jun 18 Expedition 47 crew members Yuriy Malenchenko, Tim Kopra and Tim
+Peake transferred from the Rassvet module to Soyuz TMA-19, closing hatches
+at 0235 UTC and undocking at 0552 UTC. Soyuz TMA-19M made its deorbit
+burn at 0822 UTC and reentered for a safe landing in Kazakhstan at 0915 UTC.
+
+At 0552 UTC Jun 18 Expedition 48 formally began with commander Jeff Williams
+and flight engineers Alexey Ovchinin and Oleg Skripochka.
+
+The Nanoracks NRCSD-8 successfully completed ejecting its cubesats on
+Jun 2. On Jun 14 the Canadarm-2 unberthed Cygnus OA-6 from the Unity
+module at 1143 UTC and released it into orbit at 1330 UTC. Cygnus then
+performed the SAFIRE-1 experiment igniting a significant fire inside an
+experiment chamber in the Cygnus pressurized PCM module. Mounted on the
+Cygnus service module was the first NRCSD-E external cubesat deployer
+carrying 5 Lemur-2 satellites. On Jun 21 two pairs of Lemur-2 cubesats
+were ejected (the deployment times have not been revealed). A third
+deployer silo with a single Lemur-2 failed to open, and the cubesat
+remained inside when then following day Cygnus made its deorbit burn and
+reentered over the South Pacific at 1329 UTC Jun 22.
+
+Progress MS-01 undocked from the Pirs module at 0536 UTC on Jul 1, backed off
+to 180m, and redocked at 0605 UTC under TORU remote control. During redocking
+there was an incorrect thruster firing that made the vehicle swing visibly
+from side to side. The problem is reportedly under investigation but did not
+affect Progress MS-01's final undocking, which happened at 0348 UTC Jul 3.
+Progress MS-01 was deorbited and destroyed over the South Pacifc at 0750 UTC Jul 3.
+
+Soyuz MS-01 was launched on Jul 7 into a 181 x 239 km orbit; it is
+scheduled to dock with the ISS on Jul 9. The Soyuz MS is a new variant
+of the ferry ship with upgraded onboard systems. Crew are Anatoliy
+Ivanishin (Roscosmos), Takuya Onishi (JAXA) and Kate Rubins (NASA).
+
+
+IS-31
+-----
+
+The Intelsat IS-31 satellite with the DirecTV Latin America 2 (DLA-2)
+Ku-band payload was launched on an ILS Proton on Jun 9 into
+supersynchronous transfer orbit. The Proton second stage suffered an
+early shutdown of one of its 4 engines, leaving the vehicle 28m/s slow
+at stage 3 separation. Fortunately the Briz-M stage was able to correct
+the problem by adjusting its burn times and delivered the satellite to
+the correct orbit.
+
+Delta 4 Heavy
+-------------
+
+A Delta 4H was launched from Cape Canaveral on Jun 11 on the NROL-37
+mission to carry a large signals intelligence (SIGINT) satellite, USA
+268, to geostationary orbit over the Indian Ocean.
+
+There have been two main lineages of GEO SIGINT satellites operated by
+the US National Reconnaissance Office: MERCURY (originally CANYON); and
+RHYOLITE (later AQUACADE), which was replaced in the 1980s by ORION
+(whose other rumoured codenames include MAGNUM and MENTOR). Launches of
+the MERCURY series ended in 1998, at which time it was rumoured that its
+capabilites would be merged into the ORION series. A number of observers
+have suggested that the 2014 GEO SIGINT launch of USA 250 on an Atlas V
+was a one-off mission not part of the ORION series, and that with an
+increase in mass ORION has moved to using the RS-68A-powered Delta 4
+Heavy rockets. 
+
+It has further been suggested that the 2014 launch might be the NEMESIS
+2 satellite mentioned in leaked FY2013 budget documents; however a close
+reading of those documents shows that funding for the latter project was
+cut off after FY2011, which to me implies that it was either launched by
+then or cancelled (more likely given the sudden drop from
+half-billion-dollar-level funding to zero). The documents also mention
+SHARP, the SIGINT High Altitude Replenishment Program, funded at a high
+level in FY2011-2013 and reportedly also since. It's possible the 2012
+and 2016 launches may represent a new ORION/SHARP series, or that they
+are beefed up ORION and the 2014 launch is a SHARP prototype. The
+shorter fairing used for the 2014 launch suggests that it was not in
+fact an ORION; the following list is based on that assumption but later
+revision may be needed.
+
+Here, then, are the ORION series launches:
+  Mission    Official  Launch Date     Rocket                 Orbital Location
+  (my guess) codename
+
+  ORION 1    USA 8    1985 Jan 24      STS 51-C                70E (?-2014)
+  ORION 2    USA 48   1989 Nov 23      STS-33R                 90E (?-2013)
+  ORION 3    USA 110  1995 May 14      Titan 401A/Centaur     127E 
+  ORION 4    USA 139  1998 May  9      Titan 401B/Centaur      45E (?-2009), 26W (2011-)
+  ORION 5    USA 171  2003 Sep  9      Titan 401B/Centaur      95E (2008-9), 68E (2012-)
+  ORION 6    USA 202  2009 Jan 18      Delta-4 Heavy (RS-68)   44E
+  ORION 7    USA 223  2010 Nov 21      Delta-4 Heavy (RS-68)   95E
+  ORION 8?   USA 237  2012 Jun 29      Delta-4 Heavy (RS-68A)  53E
+  SHARP 1?   USA 250  2014 Apr 10      Atlas V 541            163W
+  ORION 9?   USA 268  2016 Jun 11      Delta-4 Heavy (RS-68A) 102E
+
+
+Beidou
+------
+
+Beidou Daohang Weixing 23 is the 7th geostationary satellite in the
+Beidou-2 generation. It was launched Jun 12.
+
+Falcon 9
+---------
+
+Falcon 9 vehicle 26 flew on Jun 15. The second stage made two burns to deliver a pair
+of Boeing BSS-702SP satellites to supersynchronous transfer orbits. This is the second
+matched pair of all-electric-propulsion payloads, which use ion engines to complete
+the trip to GEO. ABS-2A will supplement Asia Broadcast Satellite's ABS-2, and Eutelsat
+117 West B (the former Satmex 9) will provide service for Eutelsat Americas, supplementing
+Satmex 8 (now renamed Eutelsat 117 West A).
+
+
+Ariane 5
+--------
+
+Ariane 5 vehicle L584 put two communications satellites in geotransfer
+orbit on Jun 18. BRISat is dedicated to banking services for the
+Indonesian bank PT Bank Rakyat Indonesia (Persero) Tbk.    of Jakarta.
+Despite some claims to the contrary this is NOT the first satellite
+launched intended to be dedicated to banking, but the second; it follows
+the Russian Central Bank's Kupon satelite which operated for a few
+months in 1997-1998. It's unlikely Kupon ever entered operational
+service, though.
+
+Cartosat-2
+----------
+
+India launched a Cartosat-2 series imaging satellite on Jun 22 into a
+500 x 518 km orbit. The PSLV rocket then deployed a swarm of small
+satellites:
+
+         Time (UTC)      Satellite
+         0412:07         Cartosat-2C, 727 kg
+         0412:42         Sathyabamasat, 1.5 kg 2U cubesat for Sathyabama U. of Chennai
+                                      with a greenhouse-gas IR spectrometer
+         0412:43         Swayam, 1 kg 1U cubesat from COEP (College of Engineering, Pune)
+                                      with technology and amateur radio payloads.
+         0413:22         LAPAN-A3, a 120 kg imaging satellite for Indonesia's LAPAN space agency
+                         BIROS, a 130 kg infrared satellite to study fires, for Germany's DLR,
+                          which also carries the BEESAT-4 cubesat to be ejected later.
+         0414:00         M3MSat/earthView-7, an 85 kg AIS satellite for Canada's Dept of National Defense
+         0414:01         Skysat Gen2-1, a 110 kg imaging satellite for TerraBella's constellation
+         0414:20         Claire, a 25 kg University of Toronto satellite to study greenhouse gases.
+         0415:20 to 0421:30  Flock 2p-1 to 2p-12, 3U imaging cubesats for Planet (formerly PlanetLabs).
+
+The PS4 final stage then made two burns to lower its orbit to 447 x 480 km.
+
+MUOS 5
+------
+
+The US Navy Multiple User Object System's Space Vehicle 3 was launched on Jun 24 as MUOS 5.
+The Atlas 5 rocket made three burns to 167 x 659 km x 28 deg, 191 x 32930 x 26 deg
+and then 3802 x 35786 km x 19 deg, and deployed MUOS which will use its Japanese BT-4
+thruster to reach GEO over the Indian Ocean as an in-orbit spare for the system,
+whose 4 operational satellites are over the Atlantic, the Pacific, the Indian Ocean
+and the Americas.
+
+CZ-7
+----
+
+China inaugurated the Wenchang spaceport on Hainan Island on Jun 25 with
+the launch of the first Chang Zheng 7 rocket. The CZ-7 entered orbit
+with a YZ-1A upper stage, which made several burns to deploy small satellites
+and then was deorbited along with a subscale spacecraft reentry cabin to
+qualify systems for the next generation of Chinese human spaceflight missions.
+
+Four small satellites are ejected from the YZ-1A: the Aoxiang Zhixing is
+the first 12U cubesat, with a mass of 18 kg (33 kg including payload
+adapter). Ao Long 1 is an active space debris removal experiment; Tiange
+feixingqi 1 and 2, if I understand the Chinese press reports, are a pair
+of satellites testing data relay to each other, perhaps similar to
+NASA's recently-launched Nodes 1 and 2 (or, maybe just a pair of
+communications test satellites with less ambitious goals - I can't quite
+tell). Attached to the YZ-1A as a non-separable payload is the 'zai
+guijia zhu shiyan zhuangzhi', the In-Orbit Refeulling Experimental
+Device. The YZ-1A would be deorbited over the Pacific after the
+experiment is completed; the stage has a design operation life of 48
+hours. US tracking indicates the stage was deorbited on Jun 27 as expected.
+
+The primary payload is the DFFC (Duoyongtu Feichuan Fanhui Cang,
+multipurpose subscale spacecraft return capsule) flight test mission,
+which is to be recovered in China. There is also a ballast frame (pei
+zhong zhijia) which may be a dummy service module for the capsule. 
+The capsule was deorbited on Jun 26 and landed in China at 0741 UTC.
+It seems possible that the YZ-1A stage performed the deorbit and then
+separated to fire again immediately, regain orbit and continue operations
+for another day, but the details of what actually happened are not clear.
+
+The objects from the launch, based on comparing the Space-Track identifications
+with the orbital data and the Chinese media reports, are:
+  42E        CZ-7 second stage            203 x 378 x 40.8
+  42G,H,J,K  Separation motor covers      199 x 570 x 40.5  
+
+  42A        YZ-1A upper stage            203 x 378 x 40.8 (initial orbit)
+                                          287 x 381 x 40.8  after burn 1 at apogee 1
+                                           40?x 290 x 40.8 Deorbit of DFFC
+                                          280 x 290 x 40.8  after reorbit?
+                                           40?x 290 x 40.8 Final deorbit of YZ-1                                        
+
+  -          DFFC reentry capsule         Attached to YZ-1A until deorbit
+  42F        Ao Long 1                    202 x 379 x 40.8
+  42C        Ao Long adapter?             200 x 379 x 40.8
+  42D       "Reentry shroud"              200 x 377 x 40.8 (Ballast structure?)
+  42B        Aoxiang zhixing              289 x 376 x 40.8
+  42L,M      Tiange 1,2                   280 x 290 x 40.8  
+
+
+Cassini
+-------
+
+Cassini made the T-120 flyby of Titan at an altitude of 975 km on Jun 7 at 1407 UTC.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+May  6 0521   JCSAT 14            Falcon 9 FT        Canaveral SLC40   Comms          28A   S41471  35758 x 35864 x   0.0 GEO 176E
+May 15 0243   Yaogan 30           Chang Zheng 2D     Jiuquan           Imaging        29A   S41473    628 x   656 x  98.1 0900LT SSO
+May 16 1005   MinXSS )                               ISS, LEO          Astronomy   9867HV   S41475    398 x   402 x  51.6
+              CADRE  )                                                 Science     9867HU   S41474    398 x   402 x  51.6
+May 16 1440   STMSat-1 )                             ISS, LEO          Tech        9867HW   S41476    399 x   402 x  51.6
+              Nodes 1  )                                               Tech        9867HX   S41477    398 x   403 x  51.6
+              Nodes 2  )                                               Tech        9867HY   S41478    400 x   401 x  51.6
+May 17 0845   Flock 2e'-1/0D05)                      ISS, LEO          Imaging     9867HZ   S41479    399 x   402 x  51.6
+              Flock 2e'-2/0C1B)                                        Imaging     9867JB   S41481    400 x   401 x  51.6
+May 17 1200   Flock 2e'-3/0D06)                      ISS, LEO          Imaging     9867JA   S41480    398 x   402 x  51.6
+              Flock 2e'-4/0C22)                                        Imaging     9867JC   S41482    399 x   402 x  51.6
+May 17 2300   Flock 2e-1/0C37)                       ISS, LEO          Imaging     9867JD   S41483    398 x   403 x  51.6
+              Flock 2e-2/0C78)                                         Imaging     9867JE   S41484    398 x   402 x  51.6
+May 18 0215   Flock 2e-3/0C60)                       ISS, LEO          Imaging     9867JG   S41486    399 x   402 x  51.6
+              Flock 2e-4/0C41)                                         Imaging     9867JH   S41487    398 x   403 x  51.6
+May 18 0705   Lemur-2 Theresacondor                  ISS, LEO          Met-RO      9867JF   S41485    400 x   401 x  51.6
+              Lemur-2 Kane                                             Met-RO      9867JJ   S41488    399 x   401 x  51.6
+May 18 1115   Lemur-2 Nick-Allain                    ISS, LEO          Met-RO      9867JK   S41489    399 x   401 x  51.6
+              Lemur-2 Jeff                                             Met-RO      9867JL   S41490    399 x   401 x  51.6
+May 24 0848   GalileoSat-13 )     Soyuz ST-B         CSG               Navigation   30B     S41549  23551 x 23566 x  57.4
+              GalileoSat-14 )                                          Navigation   30A     S41550  23553 x 23616 x  57.4
+May 27 2139   Thaicom 8           Falcon 9 FT        Canaveral SLC40   Comms        31A     S41552    347 x 90190 x  21.2
+May 29 0844   Kosmos-2516         Soyuz-2-1B         Plesetsk LC43/4   Navigation   32A     S41554  19124 x 19152 x  64.8
+May 30 0317   Ziyuan-3 02  )      Chang Zheng 4B     Taiyuan           Imaging      33A     S41556    484 x   499 x  97.5 1024LT SSO
+              Fresco       )                                           Imaging      33B     S41557    481 x   499 x  97.5 1024LT SSO
+              Batata       )                                           Imaging      33C     S41558    481 x   499 x  97.5 1024LT SSO
+May 30 1140   Flock 2e-5/0C43)                       ISS, LEO          Imaging     9867JN             401 x   404 x  51.6
+              Flock 2e-6/0C75)                                         Imaging     9867JM             401 x   404 x  51.6
+May 31 0045   Flock 2e-7/0C24)                       ISS, LEO          Imaging     9867JP             401 x   404 x  51.6
+              Flock 2e-8/0C2B)                                         Imaging     9867JQ             401 x   404 x  51.6
+May 31 0400   Flock 2e'-5/0C59                       ISS, LEO          Imaging     9867JR             401 x   404 x  51.6
+              Flock 2e'-6/0C46                                         Imaging     9867JS             401 x   404 x  51.6
+May 31 0935   Flock 2e'-7/0C42                       ISS, LEO          Imaging     9867JT             401 x   404 x  51.6
+              Flock 2e'-8/0C76                                         Imaging     9867JU             401 x   404 x  51.6
+May 31 2355   Flock 2e-9/0C14                        ISS, LEO          Imaging     9867JV             401 x   404 x  51.6
+              Flock 2e-10/0C82                                         Imaging     9867JW             401 x   404 x  51.6
+Jun  1 0310   Flock 2e-11/0C13                       ISS, LEO          Imaging     9867JY             401 x   404 x  51.6
+              Flock 2e-12/0C79                                         Imaging     9867JX             401 x   404 x  51.6
+Jun  1 0625   Flock 2e'-9/0C19                       ISS, LEO          Imaging     9867JZ             401 x   404 x  51.6
+              Flock 2e'-10/0C65                                        Imaging     9867KA             401 x   404 x  51.6
+Jun  2 0215   Flock 2e'-11/0C27                      ISS, LEO          Imaging     9867KB             401 x   404 x  51.6
+              Flock 2e'-12/0C81                                        Imaging     9867KC             401 x   404 x  51.6
+Jun  4 1400   Kosmos-2517          Rokot             Plesetsk LC133    Geodetic      34A    S41579    936 x   961 x  99.3 0600LT SSO
+Jun  9 0710   Intelsat IS-31       Proton/Briz-M     Baykonur LC81/24  Comms         35A    S41581   3362 x 65039 x  29.5
+Jun 11 1751   USA 268              Delta 4H          Canaveral SLC37   Sigint        36A    S41584  35612 x 36000 x   7.5 GEO 103E drift
+Jun 12 1530   Beidou DW 23         Chang Zheng 3C    Xichang LC3       Navigation    37A    S41586    217 x 34574 x  19.3
+Jun 15 1429   Eutelsat 117 West B) Falcon 9 FT       Canaveral SLC40   Comms         38A?   S41588    399 x 62761 x  24.7
+              ABS-2A             )                                     Comms         38B?   S41589    395 x 62649 x  24.6
+Jun 18 2138   Echostar 18  )       Ariane 5          Kourou ELA3       Comms         39B    S41592  33289 x 35796 x   0.1
+              BRISat       )                                           Comms         39A    S41591  32931 x 35702 x   0.0
+Jun 21        Lemur-2-Cubecheese )                SS Rick Husband, LEO AIS/MET-RO    19E    S41598    388 x   394 x  51.6
+              Lemur-2-Bridgeman  )                                     AIS/MET-RO    19B    S41595    389 x   393 x  51.6
+Jun 21        Lemur-2-Nate       )                                     AIS/MET-RO    19D    S41597    388 x   394 x  51.6
+              Lemur-2-DrMuzz     )                                     AIS/MET-RO    19C    S41596    388 x   394 x  51.6
+Jun 22 0355   Cartosat-2 Series )  PSLV              SDSC SLP          Imaging       40A    S41599    500 x   518 x  97.5 0930LT SSO
+              Sathyabamasat     )                                      Atmos. Sci    40B    S41600    499 x   519 x  97.5
+              Swayam            )                                      Tech          40J    S41607    499 x   518 x  97.5
+              LAPAN-A3          )                                      Imaging       40E    S41603    500 x   517 x  97.5
+              BIROS             )                                      Imaging       40F    S41604    500 x   516 x  97.5
+              SkySat 2G-1       )                                      Imaging       40C    S41601    501 x   515  x 97.5
+              M3MSat            )                                      AIS           40G    S41605    500 x   515  x 97.5
+              Claire            )                                      Atmos.Sci     40D    S41602    500 x   511  x 97.5
+              Flock 2P-1        )                                      Imaging       40U    S41617    499 x   513  x 97.5      
+              Flock 2P-2        )                                      Imaging       40L    S41609    499 x   514  x 97.5
+              Flock 2P-3        )                                      Imaging       40V    S41618    499 x   513  x 97.5      
+              Flock 2P-4        )                                      Imaging       40N    S41611    499 x   514  x 97.5
+              Flock 2P-5        )                                      Imaging       40T    S41616    499 x   514  x 97.5
+              Flock 2P-6        )                                      Imaging       40H    S40606    500 x   514  x 97.5
+              Flock 2P-7        )                                      Imaging       40S    S41615    499 x   514  x 97.5
+              Flock 2P-8        )                                      Imaging       40Q    S41613    499 x   514  x 97.5
+              Flock 2P-9        )                                      Imaging       40M    S41610    499 x   514  x 97.5
+              Flock 2P-10       )                                      Imaging       40P    S41612    499 x   514  x 97.5
+              Flock 2P-11       )                                      Imaging       40K    S41608    499 x   513  x 97.5
+              Flock 2P-12       )                                      Imaging       40R    S41614    499 x   513  x 97.5
+Jun 24 1430   MUOS 5                Atlas V 551      Canaveral SLC41   Comms         41A    S41622   3880 x 35670 x  19.1
+Jun 25 1200   DFFC                ) Chang Zheng 7    Wenchang LC201    Reentry test  42     A08387    288 x   382 x  40.8
+              Aoxiang zhixing     )                                    Tech          42B    S41625    289 x   376 x  40.8
+              Aolong 1            )                                    Tech          42F    S41629    198 x   367 x  40.8
+              Tiange feixingqi 1  )                                    Tech          42L    S41636    277 x   289 x  40.8
+              Tiange feixingqi 2  )                                    Tech          42M    S41637    277 x   287 x  40.8
+              ZGZ shiyan zhuangzhi)                                    Tech          42A    S41624    287 x   381 x  40.8
+Jun 29 0321   Shi Jian 16-02        Chang Zheng 4B   Jiuquan           Sigint?       43A    S41634    596 x   616 x  75.0
+Jul  7 0136   Soyuz MS-01           Soyuz-FG         Baykonur LC1      Spaceship     44A    S41639    181 x   239 x  51.7
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+May 18 0045?  HiFire-5B        VS-30/Orion         Woomera               Hypersonic    278       Woomera Range
+May 18 0702   FTX-21 Target    MRBM-T3             Kauai                 Target        300?      Pacific
+May 25        Nudol'           Nudol'              Plesetsk              Test          100?      -
+May 25        CTV-01a          SM-3-IB            DDG-70, Kauai          Test          100?      Pacific
+May 26        CTV-02           SM-3-IB            DDG-70, Kauai          Test          100?      Pacific
+Jun  1 1900   NASA 36.318UE    Black Brant 9       White Sands           Solar UV      290       White Sands
+Jun 19 1436   New Shepard CC   New Shepard         West Texas            Test          101       West Texas
+Jun 21 2058   RV               Hwasong 10          Kittaeryong?          Test          100?      Sea of Japan
+Jun 21 2305   RV               Hwasong 10          Kittaeryong?          Test         1414       Sea of Japan
+Jun 24 1006   RockOn/Rocksat-C Terrier Imp.Orion   Wallops I.            Education     119       Atlantic Ocean
+Jun 30 0943   MaxiDusty        Imp. Malemute       Andoya                Atmos.Sci     115       ARR
+Jul  1 0718   RV x 6?          M51               S616, Baie d'Audierne   Test         1000?      North Atlantic
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   

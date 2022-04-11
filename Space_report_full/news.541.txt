@@ -1,0 +1,164 @@
+Jonathan's Space Report
+No. 541                                         2004 Dec 25, Somerville, MA.
+-------------------------------------------------------------------------------
+
+* Space Station
+
+The Progress M-50 cargo ship undocked from the Zvezda module on Dec 22
+at 1934 UTC. It was deorbited over the Pacific at 2232 UTC. Progress
+M-51 (spacecraft number 351, ISS mission 16P) was launched by a Soyuz-U
+rocket from Baykonur on Dec 23, carrying food supplies to the Station.
+
+* Delta IV Heavy
+
+The first Delta IV Heavy, Boeing's new large rocket, was launched from
+Cape Canaveral on Dec 21 at 2150 UTC, carrying a dummy spacecraft and
+two small test satellites. The Delta IV Heavy consists of three CBC
+(Common Booster Core) rockets strapped together, with a new 5-meter
+diameter Delta second stage. This new second stage is a larger version
+of the 4-meter stage pioneered on Delta III and used on earlier Delta IV
+launches; it has a single RL10B-2 LH2/LOX engine. The outboard CBCs
+separated at 4 min after launch at an altitude of around 75 km; they
+probably reached around 90 km before falling back into the Atlantic. The
+center CBC separated shortly after 5min into the mission at an altitude
+of about 100 km and made a suborbital flight (I don't know its apogee).
+The Delta stage 2 cut off about 13 min into flight and put the
+spacecraft in an initial orbit of only around 105 km compared to the
+expected 180 x 240 km orbit. The Nanosat payloads separated at this
+point, and quickly reentered. Then the Delta fired again to enter
+geostationary transfer orbit of 288 x 36428 x 27.2 deg.  A final burn
+expected at 0327 UTC on Dec 22 was to put the 6000 kg Demosat
+(designated USA 181) in a 36350 km circular orbit just below
+geosynchronous. 
+
+However, it appears the CBC stages underperformed, and consequently the
+second stage used more fuel than expected, leading to a long first burn,
+a short final burn to fuel depletion, and a lower than planned final
+orbit of 19027 x 36406 km x 13.5 deg - Boeing are calling this a mostly
+successful flight, but a typical comms payload (assuming no apogee fuel,
+since the Delta was meant to make the apogee burn) would have to use up
+almost its entire service-life fuel load to reach the target orbit. For
+statistical purposes I am inclined to characterize the launch as a
+failure or near-failure, but one which may not have any bad
+consequences: the complete mission profile was flown, so Boeing has data
+on all phases of the rocket's flight, and it seems likely that whatever
+went wrong will be a relatively easy fix. Further, the Delta IVH is
+being used by the USAF rather than commercial customers who might be
+more easily scared off.
+
+* Sich-1M
+
+The Ukranian remote sensing satellite Sich-1M was launched from Russia's
+Plesetsk spaceport on Dec 24. Although the intended orbit was around 640
+km circular, initial US orbital data put it in a 280 x 640 km x 82.6 deg
+orbit, suggesting that the second burn of the upper stage was a partial
+failure. The Tsiklon-3 launch vehicle is also Ukrainian built, although
+I believe it's Russian-owned by the time of launch.  Mass of Sich-1M is
+2223 kg.
+
+The launch also carried the MK-1TS Mikron small satellite, which is
+a 66 kg test payload with a miniature visible-band camera.
+
+
+* Helios 2
+
+Helios 2A was launched on Dec 18 by an Ariane 5G+ rocket, serial number
+520, on Arianespace flight V165 from Kourou. The satellite is a
+French-managed European reconnaissance satellite built by
+EADS-Astrium/Toulouse, with a mass of 4200 kg. The flight also carried a
+120 kg small satellite from the French CNES space agency, Parasol, which
+studies cloud and aerosol formation as part of the A-train satellite
+formation with a wide-field polarization imager, and the Spanish space
+agency INTA's experimental 20 kg Nanosat 1, together with four Essaim
+(`Swarm') French experimental electronic intelligence satellites. The
+six small payloads were ejected from the ASAP secondary payload system
+on the Ariane's upper stage.
+
+The Ariane boosters were ejected at an altitude of 72 km, probably
+reaching an apogee of about 90 km and landing in the ocean about 500 km
+from Kourou. The EPC core stage separated almost 10 min after launch at
+361 km altitude, and reentered over the Arctic. Its orbit was probably
+around -2500 x 600 km. Helios 2A is in a 665 x 666 km x 98.1 deg orbit,
+with the small payloads in orbits around 655 x 666 km.
+
+* AMC-16
+
+The SES Americom AMC 16 satellite was launched on Dec 17. AMC 16 is
+a Lockheed Martin A2100AX hybrid Ku-band/Ka-band communications satellite
+which will provide television broadcast services to North America.
+
+AMC 16 was launched by AV-005, the fourth Atlas 5 mission to be launched.
+The Atlas 521 rocket has two solid rocket boosters, the Atlas 5 core stage,
+and a single-engine Centaur second stage with a 5-meter fairing.
+
+The first Centaur burn put the vehicle in a 166 x 5239 km x 27.2 deg
+parking orbit, followed by a second burn to a 4761 x 34611 km x 18.2 deg
+transfer orbit. AMC 16 separated at 1355 UTC and will use its own
+propulsion to reach its final orbit.
+
+* Dombarovskiy
+
+On Dec 22 at 0830 UTC Russia made an R-36M2 (15A18M) missile launch from
+the ICBM base at Dombarovskiy at 50.75N 59.50E in the Orenburg oblast'
+of Russia. The base is right against the Kazakh border and it seems that
+it is being chosen as a Russian alternative to Baykonur. In the future
+it is planned that Dombarovskiy will be used for orbital launches. 
+
+Historically, both the US and the USSR made missile test flights only
+from a couple of well instrumented ranges, with most ICBM bases
+never seeing an actual launch. In the US it was Vandenberg and Cape
+Canaveral, while in the USSR Baykonur and Plesetsk were used.
+In 1997 Russia set up a range at the Svobodniy missile base and has
+used it for four orbital launches. 
+
+The R-36M and R-36M2, Russia's largest ICBMs, are deployed at complexes
+at Dombarovskiy, Kartaly in Baskiriya, Aleysk in the Altaiskiy Kraj, and
+Uzhur in the Krasnoyarskiy Kraj (but not, as far as I know, at Laputa).
+
+* Cassini
+
+The European Titan lander probe, Huygens, separated from the Cassini
+orbiter at 0200 UTC on Dec 25. Huygens will enter the atmosphere of
+Titan on Jan 14.
+
+* Delta 89 -erratum
+
+All references in the last issue to 1975-58 should of course be to 1972-58.
+Thanks to Russell Eberst for pointing this out.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Nov  6 0310   ZY-2C             CZ-4B           Taiyuan           Imaging    44A
+Nov  6 0539   GPS SVN 61        Delta 7925      Canaveral SLC17B  Navigation 45A
+Nov  8 1830   Oblik             Soyuz-2-1A      Plesetsk LC43/4   Test       U01
+Nov 18 1045   Shiyan 2          CZ-2C           Xichang           Imaging    46A
+Nov 20 1716   Swift             Delta 7320      Canaveral SLC17A  Astronomy  47A
+Dec 17 1207   AMC 16            Atlas 521       Canaveral SLC41   Comms      48A
+Dec 18 1626   Helios 2A  )      Ariane 5G+      Kourou ELA3       Imaging    49A
+              Parasol    )                                       Remote sen. 49G
+              Nanosat    )                                        Tech       49B
+              Essaim 1   )                                        Sigint     49C
+              Essaim 2   )                                        Sigint     49D
+              Essaim 3   )                                        Sigint     49E
+              Essaim 4   )                                        Sigint     49F
+Dec 21 2150   Demosat    )      Delta 4H        Canaveral SLC37B  Test       50A
+              3CS-1      )                                        Imaging
+              3CS-2      )                                        Imaging
+Dec 23 2219   Progress M-51     Soyuz-U         Baykonur LC1      Cargo      51A
+Dec 24 1120   Sich-1M       )   Tsiklon-3       Plesetsk LC32    Remote sen. 52A
+              MK-1TS Mikron )                                     Imaging    52C
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

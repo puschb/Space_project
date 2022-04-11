@@ -1,0 +1,151 @@
+Jonathan's Space Report 
+No. 210               1994 Sep 10                 Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Shuttle mission STS-64 was launched at 2222:53 UTC on Sep 9 from pad 39B
+at Kennedy Space Center. The Redesigned Solid Rocket Motors
+separated at 2 min into the flight, and the lightweight External
+Tank, ET-66, was jettisoned at 9 min after launch, just after main
+engine cutoff. Orbit on Sep 10.6 was 253 x 266 km x 57.0 deg.
+This is Discovery's 19th flight into space.
+
+One of the main payloads is LITE (the Lidar In-Space Technology Experiment).
+Lidar is essentially radar using an optical wavelength laser instead
+of microwaves. LITE consists of a Spacelab pallet with a laser
+transmitter and a receiver telescope. In an interesting historical
+note, the 96-cm receiver telescope was built in the 1960s
+as the engineering model for the telescope on the OAO-B satellite,
+lost in a 1970 launch failure. It was refurbished for the LITE mission.
+
+Mir
+---
+
+The Mir commander and flight engineer, Yuriy Malenchenko and
+Talgat Musabaev, made a spacewalk on Sep 9 to inspect the damage
+to the Kvant module made by Progress M-24 when it collided with
+Kvant during its second attempted docking on Aug 30. [I don't
+have the start time or duration of this EVA yet]. Valeriy Polyakov,
+station doctor, stayed inside Mir during the EVA.
+
+Launches
+--------
+
+AT&T Skynet Satellite Services' Telstar 402 was launched by an Ariane
+42L on Sep 9 into a 224 x 35717 km orbit inclined 6.9 degrees. This
+was the 30th Ariane 4 launch, and the 28th successful one. The payload
+was a Martin Marietta Astro Space Series 7000 satellite, the second
+to be launched. It carried 24 C-band and 16 Ku-band transponders,
+and a pair of UK Royal Ordnance bipropellant Leros liquid apogee engines.
+A few minutes after Telstar 402 separated from the Ariane H10+ third stage,
+controllers commanded the spacecraft tanks to be pressurized. Telemetry
+indicates that an explosion occurred at this point and all contact with
+the satellite was lost. The first Series 7000 satellite, Telstar 401,
+continues to operate successfully in geostationary orbit.
+
+More details on the DMSP launch: DMSP F-12 (23545) is a Martin Marietta
+(formerly GE, formerly RCA, soon to be Lockheed Martin) Astro Space
+Block 5D-2 class USAF weather satellite. Launch was  at 1738 UTC on Aug
+29, and the launch vehicle was a Martin Marietta (formerly General
+Dynamics, formerly Convair) Atlas. This particular rocket was Atlas 20E,
+a refurbished ICBM originally built in the early 1960s. 
+56 Atlas E rockets have been launched, with a variety of payloads:
+Atlas 11E and two others remain in the inventory.
+
+ Atlas              Date Mission        Atlas           Date Mission
+
+  3E, 4E:           1960 ICBM R&D       52E             1986 NOAA-10
+  5E                1964 ABRES reentry
+                         test
+  8E, 9E, 12E, 13E: 1961 ICBM R&D       53E             1991 DMSP 22546
+ 14E:               1984 Navstar 10     54E             1988 DMSP 20542
+ 16E, 17E, 18E:     1961 ICBM R&D       55E             1985 Navstar 11
+ 20E:               1994 DMSP 23545     57E             1964 ICBM test
+ 21E, 22E           1961 ICBM R&D       58E             1983 DMSP 18541
+ 24E                1963 ICBM test      59E             1987 DMSP 19543
+ 25E, 26E, 27E      1961 ICBM R&D       60E             1982 DMSP 17540
+ 28E                1990 USAF Stacksat  61E             1990 DMSP 21544
+ 30E, 32E           1961 ICBM R&D       62E             1963 ICBM test
+ 34E                1993 NOAA-13        63E             1988  NOAA-11
+ 35E, 36E           1961 ICBM R&D       64E,65E,66E,67E 1962-3 ICBM tests
+ 39E                1984 NOAA-9         68E             1980 USN PARCAE 4 
+ 40E                1962 ICBM R&D       69E,70E,71E,72E 1963 ICBM tests
+ 41E                1985 USN Geosat     73E             1983 NOAA-8
+ 42E                1984 Navstar 9      74E             1968 ABRES reentry test
+ 48E                1964 ICBM test      75E             1983 Navstar 8
+ 50E                1991 NOAA-12        76E             1981 Navstar 7
+                                        77E,78E         1968 ABRES reentry tests
+
+The Kosmos-2290 spy satellite was launched on Aug 26 into a 211 x 292 km
+orbit at an inclination of 64.8 degrees. It raised its orbit from 208 x
+280 km  to 208 x 348 km on Sep 6.  This confirms that 2290 is indeed an
+active payload, and supports the interpretation that it is an imaging
+spy satellite. Earlier low orbit Zenit launches were just dummy
+satellites which made no manouevres.
+
+Causality Erratum
+-----------------
+
+Magellan's orbit trim was on Aug 25, not on Sep 25 as I claimed in JSR
+209.
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug  2 2000     Kosmos-2285     Kosmos-3M       Plesetsk LC132  ?           45A
+Aug  3 1439     P90-6 APEX      Pegasus/NB-52   Point Arguello  Technology  46A
+Aug  3 2357     DBS 2           Atlas IIA       Canaveral LC36A Comsat      47A
+Aug  5 0112     Kosmos-2286     Molniya         Plesetsk LC16   Early Warn  48A
+Aug 10 2305     Brasilsat B1  ) Ariane 44LP     Kourou ELA2     Comsat      49A
+                Turksat 1B    )                                 Comsat      49B
+Aug 11 1527     Kosmos-2287   ) Proton-K/DM2    Baykonur LC81   Navsat      50A
+                Kosmos-2288   )                                 Navsat      50B
+                Kosmos-2289   )                                 Navsat      50C
+Aug 23 1431     Molniya-3       Molniya         Plesetsk LC43   Comsat      51A
+Aug 25 1425     Progress M-24   Soyuz-U         Baykonur LC1    Cargo       52A
+Aug 26 1200     Kosmos-2290     Zenit-2         Baykonur LC45   Recon       53A
+Aug 27 0858     USA-105         Titan Centaur   Canaveral LC41  SIGINT      54A
+Aug 27 2310     Optus B3        CZ-2E           Xichang         Comsat      55A
+Aug 28 0750     Kiku 6          H-II            Tanegashima     Comsat      56A
+Aug 29 1738     DMSP 23545      Atlas 20E       Vandenberg      Weather     57A
+Sep  9 0029     Telstar 402     Ariane 42L      Kourou ELA2     Comsat      58A
+Sep  9 2222     Discovery       Space Shuttle   Kennedy LC39B   Spaceship   59A
+
+
+
+Reentries
+---------
+
+Jul 23          Columbia        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     OMDP    -
+OV-103 Discovery       LEO           STS-64  
+OV-104 Atlantis        OPF Bay 3     STS-66  Oct 27
+OV-105 Endeavour       VAB Bay 1     STS-68  Oct 2
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65/OV-105   VAB Bay 1 STS-68
+ML2/                       LC39B     
+ML3/RSRM-42/               VAB Bay 3 STS-66   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,146 @@
+Jonathan's Space Report
+No. 557                                       2005 Nov 24, Somerville, MA
+-------------------------------------------------------------------------------
+
+Station
+-------
+
+The Expedition 12 crew - Bill McArthur and Valeriy Tokarev - boarded the
+Soyuz TMA-7 ferry ship on Nov 18 and undocked from the Pirs module at
+0846 UTC, backing off and then redocking with the Zarya module at 0905
+UTC. The procedure allows spacewalks to be made from the Pirs module.
+
+Venus Express
+-------------
+
+Europe's latest space probe was launched from Baykonur on Nov 9
+and is now in solar orbit en route to Venus.
+
+Venus Express (VEX) was built as a cheap copy of the Mars Express
+design, which itself used the basic bus developed for the Rosetta comet
+probe. VEX carries the VMC Venus Monitoring Camera, the VIRTIS
+ultraviolet-visible-infrared imaging spectrometer, the SPICAV
+solar-stellar ultraviolet/infrared spectrometer, the PFS infrared
+planetary fourier spectrometer, the ASPERA plasma instrument, the VERA
+Venus Radio Science instrument, and a magnetometer. The mission
+will study the atmosphere and environment of Venus.
+
+VEX was launched by a Starsem Soyuz-FG/Fregat from Baykonur. (Starsem is
+a French company closely related to Arianespace which markets the Soyuz
+in its Europeanized FG/Fregat version). The first three stages of Soyuz
+fired to reach a marginal orbit of about 30 x 190 km x 51.6 deg; the
+third stage reentered over the Pacific at perigee at around 0410 UTC.
+
+Meanwhile the Fregat stage made a small 50 m/s burn to circularize the
+orbit, raising perigee to 190 km. After a coast period, Fregat burned
+again with Fregat/VEX separation at 0511 UTC; Venus Express and Fregat
+each had a perigee of 344 km and an eccentricity of 1.132, putting them
+on hyperbolic orbits out of the Earth-Moon system.
+
+Venus Express passed lunar orbit on Nov 10 at 1010 UTC and by Nov 24 was
+in a 0.702 x 0.993 AU orbit around the Sun with an inclination of 0.26
+deg to the ecliptic. It will arrive in Venus orbit on 2006 Apr 11 at
+around 0840 UTC. The first orbit will be around 250 x 326550 km x 89.7
+deg. It will arc out to apogee on Apr 15. Manuevers between then and Apr
+30 will put it in a 24-hour Venus orbit of 282 x 66911 km x 90.0 deg,
+synchronizing it with Earth-based tracking stations.  (These figures are
+derived by analysis of data on the JPL Horizons web site.)
+
+Inmarsat 4F-2
+-------------
+
+Boeing Sea-Launch orbited Inmarsat's latest satellite on Nov 8.
+The Yuzhnoe Zenit-3SL with its Energiya Blok DM-SL upper stage
+lifted off from the equatorial floating Odyssey platform. Stages
+1 and 2 flew eastward into a -2271 x 186 km x 3 deg trajectory;
+the first DM-SL burn boosted to a 180 x 294 km x 3 deg parking
+orbit, and the second burn put the payload in a
+322 x 35803 km x 3.0 deg transfer orbit. 
+
+The payload, Inmarsat 4 F-2, is an Astrium/Toulouse Eurostar 3000
+satellite with a large 10-meter diameter antenna for mobile 
+communications. Launch mass was 5958 kg. The satellite entered
+the geostationary region on around Nov 13.
+
+Hayabusa
+--------
+
+Japan's Hayabusa probe approached asteroid Itokawa on Nov 12 to within
+55 m. The MINERVA lander was released, but floated away from the
+asteroid instead of falling to its surface. Hayabusa then retired to its
+safe parking distance at about 5 km. The first of three 10-cm target
+markers was released on Nov 9, also into solar orbit.
+
+On Nov 19, the probe again approached Itokawa. Release of the second
+target marker happening around 2030 UTC with impact on the surface at
+2036 UTC. The Hayabusa probe landed on Itokawa at 2110 UTC, bounced, and
+settled on the surface at 2130 UTC. Because an obstacle sensor had been
+triggered, the sampler did not operate although some dust may have
+entered it. The probe took off again at 2158 UTC. A safe-mode command
+sent it around 100 km from the asteroid and it is now heading back to
+the rendezvous position for another possible landing. 
+
+Ariane
+------
+
+Arianespace launched an Ariane 5ECA (vehicle 522) on Nov 16; it placed
+two communications satellites in orbit. The EPC core stage flew a
+low-altitude -1047 x 161 km x 6.5 deg suborbital trajectory with impact
+in the Gulf of Guinea. The ESC-A upper stage then burned to
+geostationary transfer orbit. This was the third flight of ESC-A, which
+is a fatter version of the Ariane 4 upper stage; it also flew on vehicle
+517 (a failure) and vehicle 521. 
+
+The upper payload on flight 167/vehicle 522 was DirecTV's massive
+Spaceway-2 broadcasting satellite. With a launch mass of 6116 kg, the
+Boeing/El-Segundo seres 702-2000 satellite is at the upper end of
+geostationary payload masses. Spaceway-1 was launched earlier this year
+on a Sea Launch Zenit-3SL. Underneath the Sylda-5 adapter flew Telkom-2,
+a factor of three lighter and using Orbital's Star 2 small geostationary
+satellite bus. Telkom-2 is an Indonesian communications satellite,
+continuing the series serving the archipelago that began with Palapa-1
+in 1976. Spaceway 1 was drifting east over 117E by Nov 23; Telkom 2
+raised itself to a supersynchronous transfer orbit of 563 x 41473 km x
+6.6 deg by the same date.
+
+NCUBE-2
+-------
+
+It now seems likely that the Norwegian student sub-satellite NCUBE-2
+did not eject from its SSETI-Express parent spacecraft. 
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Oct  1 0355   Soyuz TMA-7       Soyuz-FG        Baykonur LC1     Spaceship   39A
+Oct  8 1502   Cryosat           Rokot           Plesetsk LC133   Science     F03
+Oct 12 0100   Shenzhou 6        CZ-2F           Jiuquan          Spaceship   40A
+Oct 13 2232   Syracuse 3A  )    Ariane 5GS      Kourou ELA3      Comms       41A
+              Galaxy 15    )                                     Comms       41B
+Oct 19 1805   USA 186           Titan 4B        Vandenberg SLC4E Imaging     42A
+Oct 27 0652   Topsat        )   Kosmos-3M       Plesetsk LC132/1 Imaging     43B
+              Beijing-1     )                                    Imaging     43A
+              Sinah         )                                    Imaging?    43D
+              SSETI Express )                                   Imaging/Tech 43E
+              Mozhaets-5    )                                    Tech/Comms  43G
+              UWE-1         )                                    Comms       43F
+              NCube-2       )                                    Comms       43E
+              Cubesat XI-V  )                                    Tech        43C
+              Rubin-5       )                                    Comms       43G
+Nov  8 1407   Inmarsat 4F-2     Zenit-3SL       Odyssey, POR     Comms       44A
+Nov  9 0333   Venus Express     Soyuz-Fregat    Baykonur LC31    Space probe 45A
+Nov 16 2346   Spaceway 2 )      Ariane 5ECA     Kourou ELA3      Comms       46A
+              Telkom 2   )                                       Comms       46B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,158 @@
+Jonathan's Space Report
+No. 319                                   1997 Apr 22 Cambridge, MA
+-------------------------------------------------------------------------------
+Editorial
+---------
+
+I have updated my edited version of the United Nations Registry of space objects,
+available from my space home page http://hea-www.harvard.edu/~jcm/space/space.html.
+
+Shuttle and Mir
+---------------
+
+NASA has decided to go ahead with mission STS-83R, the MSL-1 reflight,
+on July 1. The same crew will fly the mission. The solid rocket boosters
+originally scheduled for STS-85 (BI-88/RSRM-62) are being stacked
+instead for STS-83R on mobile launch platform 1 in the VAB's high bay 1.
+Meanwhile, preparations continue for the launch of Atlantis on mission
+STS-84 to Mir in May, and that orbiter has been connected to the
+external tank and solid rocket boosters. Atlantis will deliver a
+replacement oxygen generator to Mir. The Mir complex raised its orbit by
+5 km on 15 Apr at 1200 UTC, using Progress M-34's engine. The Mir crew
+continue to carry out repairs on their life support system.
+
+Recent Launches
+---------------
+
+Arianespace's Ariane 44LP rocket placed two communications satellites
+into orbit on Apr 16. Thaicom 3 is an Aerospatiale Spacebus 3000
+satellite with 25 C-band and 14 Ku-band transponders, owned by
+Shinawatra Satellite Public Co. of Bangkok, Thailand. It will be used
+for communications in Asia and direct TV coverage in Thailand. The
+satellite has a mass of 2650 kg at launch, 1179 kg dry, with a 26.3m
+solar panel wingspan. The second payload is BSAT-1a, a Ku-band direct TV
+broadcasting satellite using the Hughes HS-376 bus. It is operated by
+Broadcasting Satellite System Corp. of Tokyo, a consortium of Japanese
+broadcasters including NHK, which will replace the earlier TSCJ
+(Telecomms Sat Corp of Japan) as the DBS operating organization. BSAT-1a
+is a successor to the BSE, BS-2a/b, BS-3a/b (Yuri) satellite series of
+NASDA and the BS-2X, 3H, 3N series of NHK.
+
+    Japanese BS series direct TV broadcasting satellites 
+  -------------------------------------------------------
+  Satellite       Launch       Rocket      Owner       Bus
+  BSE (Yuri)      1978 Apr 7   Delta 2914  NASDA       Toshiba/GE Satcom
+  BS-2a (Yuri-2a) 1984 Jan 23  N-2         NASDA/TSCJ  Toshiba/GE Satcom
+  BS-2b (Yuri-2b) 1986 Feb 12  N-2         NASDA/TSCJ  Toshiba/GE Satcom
+  BS-2X           1990 Feb 22* Ariane 44L  NHK         GE S-3000
+  BS-3a (Yuri-3a) 1990 Aug 28  H-1         NASDA/TSCJ  GE S-3000
+  BS-3H           1991 Apr 18* Atlas I     NHK         GE S-3000
+  BS-3b (Yuri-3b) 1991 Aug 25  H-1         NASDA/TSCJ  GE S-3000
+  BS-3N           1994 Jul  8  Ariane 44L  NHK/JSB     MMAS S-3000
+  BSAT-1a         1997 Apr 16  Ariane 44LP BSAT        Hughes HS-376
+  * Note: BS-2X and BS-3H failed to reach orbit.
+
+Kosmos-2341 was launched on Apr 17. It is a navigation satellite built
+by NPO-PM of Krasnoyarsk-26. The AO Polyot Kosmos-3M launch vehicle's
+S3M upper stage made two burns to deliver the payload to a 977 x 1014 km
+x 82.9 deg orbit. The FAISAT satellite originally scheduled for this
+mission was removed prior to launch.
+
+Orbital Sciences Corp. launched a Pegasus XL rocket on Apr 21,
+placing the Minisat-01 satellite in orbit for the Instituto
+Nacional de Tecnica Aerospacial (INTA), the Spanish space agency.
+Minisat-01 is the first of a series of Minisat-0 technology
+satellites, which will precede planned Minisat-1 observation
+satellites and Minisat-2 comsats. Minisat-01 is a 209 kg satellite
+built by the Spanish CASA company. It carries the EURD extreme
+ultraviolet spectrograph to study the interstellar medium, the
+LEGRI experiment to study gamma ray bursts, and the CPLM
+experiment to study microaccelerations in liquids.
+
+The Pegasus XL rocket was attached to OSC's L-1011 Stargazer launch
+aircraft at Torrejon AFB, Madrid earlier this month. On Apr 19 the
+L-1011 carried the Pegasus to Gando AFB on the eastern tip of the island
+of Gran Canaria, at approximately 27.5N 15.2W. It took off again at 1100
+UTC on Apr 21, flying to 11.9 km altitude over the drop zone at 27.0N
+15.33W, over the Atlantic Ocean between Gran Canaria and the Western
+Sahara coast. The Pegasus XL was released at 1159 UTC and five seconds
+later the winged first stage ignited to begin the ascent to orbit. The
+second stage burnt out at 1202 UTC and the vehicle coasted until 1207
+UTC when the second stage separated and the third stage ignited for a
+one minute burn. At 1209 UTC the third stage and Minisat-01 separated,
+with Minisat in a 562 x 581 km orbit with an inclination of 151.0 degrees
+(i.e. 29 degrees but going westward). This is an all-time record high
+inclination orbit, beating the 1966 record of 144.7 deg set by the USAF
+research satellite OV1-5. 
+
+Some press reports said that this Pegasus launch was the first satellite
+launch from Western Europe, a claim that suggests certain people need to
+look at a map. It's true that the mission was staged via Madrid and some
+operations were managed from there, but the takeoff was from Gando and I
+understand that launch control was at Maspalomas on the southern tip of
+Gran Canaria. It's also true that Gran Canaria is Spanish territory
+(just as Kourou is French territory), but that doesn't make it part of
+Europe. So I think it's more accurate to say that this was a launch from
+Western Africa (and not the first, as the French launched from southern
+Algeria in 1965-1967. The Italian launch site off the coast of East
+Africa saw its first orbital launch in 1967).
+
+The Pegasus third stage for this mission consistes of an Orion 38
+rocket motor and the Celestis satellite. The Celestis is a set of
+capsules containing the cremated ashes of 24 people, and inaugurates
+a new form of burial provided by the U.S. company Celestis, Inc.
+Celestis is in a 554 x 582 km x 151.0 deg orbit.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  1 0107   Intelsat 801     Ariane 44P     Kourou ELA2     Comsat      09A
+Mar  4 0200   Zeya             Start-1        Svobodniy LC5   Comsat      10A
+Mar  8 0601   Tempo 2          Atlas IIA      Canaveral LC36A Comsat      11A
+Apr  4 1647   DMSP 5D-2 S-14   Titan 23G      Vandenberg SLC4W Weather    12A
+Apr  4 1920   Columbia/STS-83) Shuttle        Kennedy LC39A   Spaceship   13A
+              MSL-1 Spacelab )
+Apr  6 1604   Progress M-34    Soyuz-U        Baykonur        Cargo       14A
+Apr  9 0900?  Kosmos-2340      Molniya-M      Plesetsk        EarlyWarn   15A
+Apr 16 2309   Thaicom 3  )     Ariane 44LP    Kourou ELA2     Comsat      16A
+              BSAT 1a    )                                                16B
+Apr 17 1303   Kosmos-2341      Kosmos-3M      Plesetsk LC132/1 Navsat     17A
+Apr 21 1159   Minisat-01 )     Pegasus XL     L-1011, Gando   Technology  18A
+              Celestis   )                                    Burial      18B
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-83R Jul  1
+OV-103 Discovery       OPF Bay 2     STS-85  Aug  7
+OV-104 Atlantis        VAB Bay 3     STS-84  May 15
+OV-105 Endeavour       OPF Bay 3     STS-86  Sep 25
+
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-62                 VAB Bay 1      STS-83R
+ML2/RSRM-60/ET-85/OV-104    VAB Bay 3      STS-84
+ML3/                       
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+
+

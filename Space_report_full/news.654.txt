@@ -1,0 +1,179 @@
+Jonathan's Space Report
+No. 654                                       2012 Feb 18  Somerville, MA USA
+--------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+
+Expedition 30 continues with Soyuz TMA-22 docked at Poisk and Soyuz
+TMA-03M docked to the Rassvet module. At about 0h on Feb 12 a switching
+unit reset on the truss cut off power to solar array 3B and to one of
+the Z1 control gyros; the systems were restored later that day.
+
+Flight Engineer-3 Kononenko and FE-1 Shkaplerov made a spacewalk from
+the Pirs module on Feb 16 using suits Orlan-MK No. 4 and No. 6
+respectively. They relocated the `Strela' GStM-1 crane from Pirs to
+Poisk and installed the Vinoslivost materials exposure experiment.
+Installation of some SMDP space debris protection panels on Zvezda was
+deferred to a later occasion because the crane move took longer than
+expected. The Pirs airlock was depressurized from 1408 to 2049 UTC
+(6hr41min) and the hatch was open from 1431 to 2046 UTC (6h15min). At
+1904 UTC the MLI cover for the Poisk Strela baseplate was jettisoned
+into orbit; it has not yet been cataloged.
+
+
+Book Note  - "Rockets and People"
+----------------------------------
+
+The fourth and final volume of Boris Chertok's memoirs, with a
+NASA-sponsored English translation edited by Asif Siddiqi, has now been
+published. This volume covers the Soviet side of the race to land humans
+on the Moon, with inside stories of the N-1/L-3 launch attempts.
+All four volumes are highly recommended.
+
+
+Iranian satellite
+------------------
+
+Iran reports that it has launched the Navid-e Elm-o Sanat satellite into
+low orbit on Feb 3. It carries a panchromatic imager, possibly developed
+by the Iranian Univ. of Sci. and Technology (IUST, or in Persian,
+Daneshgah Elm-o Sanat Iran), Tehran. Another report says that the
+satellite was built by Tehran's  Sharif University of Technology
+(Daneshgah-e Sanati-ye Sharif).
+
+The satellite's name means something like "Promise (Herald, Gospel, Good
+News, Harbinger)  of Science and  Technology".
+
+Orbital data from US tracking shows Navid and the Safir second stage
+rocket in a 275 x 374 km x 56.0 deg orbit, and analysis indicates
+a launch at around 0004 UTC on Feb 3.
+
+Vega
+----
+
+ESA's new small satellite launch vehicle, Vega, made its first flight
+successfully on Feb 13.
+
+Vega has three solid motor stages, P80FW, Zefiro 23, and the Zefiro 9A
+third stage. The Zefiro stages are built by Avio spA of Colleferro,
+Italy. Avio's main space motor plant was  originally the Bombrini Parodi
+Delfino explosives factory (1912-1994) and later part of Fiat
+(1994-2003); I believe their first space motor was a communications
+satellite apogee motor built for the Europa rocket and later used for
+ESA's Geos-1. A Ukrainian-built RD-869 engine is used in the Avio fourth
+stage, the Attitude and Vernier Upper Module (AVUM), which uses liquid
+propellants (UDMH/N2O4). P80FW is  developed by the Europropulsion joint
+venture (Avio plus France's SNECMA). The overall launch vehicle is
+produced by ELV SpA, a joint venture of Avio and the Italian space
+agency ASI.
+
+The LARES 'Laser Relativity Satellite' is the primary payload. The 390
+kg, 0.38m dia. tungsten sphere studded with 92 laser retroreflectors
+will be used as a test particle to probe relativistic effects in the
+Earth's gravitational field. Stefan Barensky informs me that LARES is
+claimed to have the lowest ballistic coefficient of any satellite
+launched to date (this means its orbit will be very stable); I estimate
+the BC is around  0.0011 m**2/kg but would be interested to hear other
+estimates.
+
+The next largest payload is AlmaSat-1, a 12.5 kg student satellite
+from the University of Bologna, which will test a cold gas microthruster system
+and the platform for a future Earth observing satellite.
+
+The Lares Support System, attached to the AVUM, can be considered an
+additional payload, as it includes extensive instrumentation to monitor
+the launch. It also deployed seven 1U Cubesats from three P-POD
+deployers. P-POD 1 contained XaTcobeo, from the University of Vigo;
+`e-st@r' from the Politecnico di Torino; and ROBUSTA from the
+Universite' de Montpellier 2. P-POD 2 ejected MaSat-1 from the Budapest
+University of Technology and Economics; Goliat from the University of
+Bucharest; and PW-Sat-1 from the Warsaw Inst. of Technology
+(Politechnika Warszawska). P-POD 3 carried UNICubeSat-GG, from U. Roma
+La Sapienza, which has a gravity gradient experiment.
+
+
+The Vega booster took off from the Ensemble de Lancement Vega (ELV) at
+Kourou and headed northeast. The Zefiro 9A third stage burnt out at 1005
+UTC and entered a marginal orbit (one estimate is around -30 x  775 km;
+another solution from the limited data available is around 50-60 km x
+250-500 km; I asked ESA but they haven't responded yet). The stage
+probably reentered at first perigee at around 1112 UTC south of New
+Zealand, and has not been cataloged. The AVUM stage first burn was
+completed at 1008 UTC and probably reached an orbit of around 180 x 1450
+km (ESA have not annouced the details of the ascent trajectory). At 1048
+UTC the AVUM second burn began and resulted in a 1435 x 1452 km x 69.5
+deg orbit; LARES was released into this orbit at 1055 UTC. At 1106-1110
+UTC AVUM's third burn lowered the perigee resulting in an orbit of
+around 310 x 1441 km. At  1110 UTC the three P-PODs released their
+cargo. Finally at 1111 UTC AlmaSat was ejected, and the AVUM vented its
+remaining propellant, ending up in a 272 x 1431 km x 69.5 km orbit.
+
+
+SES-4
+-----
+
+The SES-4 satellite was launched on Feb 14 aboard an ILS Proton from
+Baykonur. The 6180 kg Loral-1300 spacecraft will replace NSS 7 at 22 West.
+The satellite is owned by SES Satellite Leasing (UK) and will be transferred
+to SES World Skies (based in the Hague) once in its target orbit.
+The Briz-M stage reached a 3640 x 35762 km x 24.5 deg orbit; by Feb 17
+SES-4 was in an 8946 x 35759 km x 13.4 deg.
+
+Suborbital launches
+-------------------
+
+Armadillo Aerospace launched its LOX/ethanol STIG-A rocket from New Mexico's
+Spaceport America on Jan 28, reaching the edge of space at 82 km.
+
+The Swedish SSC agency's MASER 12 microgravity payload
+made a suborbital flight from the ESRANGE site at Kiruna, Sweden,
+using a Brazilian VSB-30 rocket launched from the old Skylark launch
+tower first used in 1968.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jan  9 0317   ZY-3        )     Chang Zheng 4B     Taiyuan           Imaging   01A
+              Vesselsat 2 )                                          Comms     01B
+Jan 13 0056   FY-2(07)          Chang Zheng 3A     Xichang           Weather   02A
+Jan 20 0038   WGS 4             Delta 4M+(5,4)     Canaveral SLC37B  Comms     03A
+Jan 24 2318   Chibis-M          -                  PM-13M, LEO       Science   62C
+Jan 25 2306   Progress M-14M    Soyuz-U            Baykonur LC1      Cargo     04A
+Feb  3 0004?  Navid             Safir              Semnan            Imaging   05A
+Feb 13 1000   LARES   )         Vega               Kourou ELV        Geodesy   06A
+              Almasat )                                              Tech      06B
+              XaTcobeo )                                             Tech      06
+              ROBUSTA  )                                             Tech      06
+              e-st@r   )                                             Tech      06
+              Goliat   )                                             Tech      06
+              PWSat-1  )                                             Tech      06
+              MaSat-1  )                                             Tech      06
+              UNICubeSat-GG )                                        Tech      06
+              LARES Support Sys)                                     Tech      06K
+Feb 14 1936   SES-4              Proton-M/Briz-M   Baykonur LC200/39 Comms     07A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Jan 11 1325   NASA 12.074GT    Terrier Malemute   Wallops             Test         500?
+Jan 12 1451   S-520-26         S-520              Uchinoura           Atm Sci      298
+Jan 28 1815   STIG-A-III       STIG-A             Spaceport America   Test          82
+Feb 10 0440   Target           Prithvi            Chandipur           Target       100
+Feb 13 0932   MASER 12         VSB-30             ESRANGE             Micrograv    260
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

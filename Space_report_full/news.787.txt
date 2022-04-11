@@ -1,0 +1,389 @@
+Jonathan's Space Report
+No. 787 (corrected)                                              2020 Dec 16  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 64 continues under the command of Sergey Ryzhikov.
+
+On Dec 6, SpaceX launched Dragon CRS-21 from Kennedy Space Center. The Falcon 9 first
+stage landed on the OCISLY droneship. CRS-21 is the first cargo mission for Dragon 2.
+As for Crew Dragon, and unlike the orginal cargo Dragon, Cargo Dragon 2 has no deployable
+solar arrays, does not jettison its nose cap during launch, and once reaching ISS docks with an IDA
+docking port (IDA-3) instead of being captured by Canadarm-2.  CRS-21 indeed docked with IDA-3
+on Node 2 Zenith at 1840 UTC Dec 7. 
+
+In the Dragon trunk is the Nanoracks Bishop Airlock. The 1090 kg airlock will be installed
+on ISS Node 3. In use it will be unberthed from Node 3 by Canadarm-2  and satellites will
+be ejected from it in that unberthed configuration; it will then be reinstalled on Node 3.
+Among the pressurized cargo was a refurbished spacesuit, EMU 3015. It will replace
+EMU 3008, which will be returned to Earth aboard CRS-21 when it lands.
+
+
+Chang'e-5
+----------
+
+China's CALT launched a Chang Zheng 5 (serial Y5) from Wenchang at 2030
+UTC on Nov 23. The second stage reached parking orbit at 2042 UTC and
+reignited at 2058 UTC for a 7 minute burn to enter a high apogee orbit.
+At 2106 UTC the payload, the Chang'e-5 moon probe, separated from the
+second stage. 
+
+The 8200 kg Chang'e-5, devloped by CAST/Beijing and the Chinese Lunar
+Exploration Program, is a robotic sample return mission - the first such
+to the Moon since Luna-24 in 1976. The mission successfully landed on
+the Moon and returned its samples to Earth after a 23 day mission.
+It included the first automatic rendezvous, docking and sample transfer in 
+deep space.
+
+Chang'e-5 consists of a number of components ( abbreviations are mine):
+
+ - SM, Service module, which will perform lunar orbit insertion and transearth insertion burns.
+       Chinese name: Guidao Qi (orbiter vehicle)
+ - DS, descent stage (Lander), which will separate in lunar orbit, land near Mons Rumker, and obtain a surface sample.
+       Chinese name: Zhuolu Qi (lander vehicle)
+ - AS, Ascent stage, which will take off from the lunar surface carrying the sample and dock with
+    the service module's docking adapter in lunar orbit. 
+       Chinese name: Shangsheng Qi (ascent vehicle)
+ - AD, Adapter, which joins the service module to the lander at launch and contains the return capsule
+    and docking adapter.  Chinese name: Lianje Zhijia (connecting frame, adapter). Left in lunar orbit.
+ - DA, Docking adapter, mounted on top of the return capsule. Contains a mechanism to transfer the sample
+    from the ascent stage to the return capsule.  Chinese name: Jiaohui duijie jigou (rendezvous/docking mechanism)
+ - RV, Return capsule, which separates from the service module and lands in China.
+       Chinese name: Fanhui Qi (return vehicle)
+
+The mission was pretty complicated, so I'll attempt to list the various stages of it
+(all times UTC):
+  - Nov 23 2030  Launch
+  - Nov 23 2042  Earth parking orbit, attached to CZ-5 stage 2
+ -  Nov 23 2058  7 minute translunar injection burn by CZ-5 stage 2, cutoff at 2105 
+ -  Nov 23 2106  CE-5 separates from stage 2, stage 2 propellant dump to 22 x 291690 km orbit
+ -  Nov 23 2107  Translunar coast, 201 x 392980 km x 21.3 deg
+ -  Nov 24 1406  TCM-1 trajectory correction manuever
+ -  Nov 25 1406  TCM-2 trajectory correction manuever
+    Nov 27 0800  CZ-5 second stage reaches apogee at 291690 km
+ -  Nov 27 1840  CE-5 enters lunar gravitational sphere of influence
+ -  Nov 28 1258  Lunar orbit insertion burn to 216 x 5585 km x 42.4 deg elliptical orbit, burn completed 1315 UTC
+ -  Nov 29 1223  Lunar orbit manuever to 217 x 217 km x 42.4 deg circular orbit
+ -  Nov 29 2040  DS+AS separate from SM+AD (with DA+RV inside AD), in lunar orbit
+  - Nov 30 1423  DS+AS move to low perilune orbit, 19 x 217 km
+    Nov 30 1541  CZ-5 second stage reenters over 136W 4N
+  - Nov 30 1822  DS+AS move to pre-descent orbit, about 19 x 67 km?
+ -  Nov 30 2345? SM+AD move to low perilune orbit (77? x 217? km)
+ -  Dec  1 1458  DS begins powered descent burn
+ -  Dec  1 1511  DS+AS land on the Moon at about 51.9W 43.1N, in northeast Oceanus
+       Procellarum, north of the Louville Omega hills.
+ -  Dec  2 1946? AD is ejected from SM+RV+DA, in lunar orbit, Dec 2
+ -  Dec  2 2053  DS+AS sample collection complete
+ -  Dec  3 1510:21  AS takes off, leaving DS on the Moon
+ -  Dec  3 1527   AS enters lunar orbit and begins rendezvous with SM+RV+DA.
+ -  Dec  4?      AS rendezvous burns 2 and 3
+ -  Dec  5 2142  AS docks with DA; 
+    Dec  5 2212  DA transfers sample from AS to RV.
+ -  Dec  6 0335  AS+DA ejected from SM+RV.
+ -  Dec  7 2259  AS+DA deorbit burn
+ -  Dec  7 2330  AS+DA impact lunar surface near 0E 30S
+ -  Dec 12 0154  SM+RV move to elliptical lunar orbit, about 215 x 5680 km x 42 deg
+ -  Dec 13 0151  SM+RV perform transearth insertion burn, 22 min duration
+ -  Dec 13 0213  SM+RV TEI burn shutdown, on lunar escape hyperbola
+    Dec 13 1700? SM+RV leave Lunar gravitational sphere of influence, begin trans-earth coast
+    Dec 14 0313  SM course correction
+    Dec 16 0115  SM course correction
+ -  Dec 16 1712? RV separates from SM, 5000 km altitude
+    Dec 16 1715? SM avoidance manuever (to entry or to escape?)
+    Dec 16 1733  RV Earth atmosphere entry 120 km, 11.2 km/s
+ -  Dec 16 1733? SM destroyed in Earth atmosphere entry, *or* performs avoidance burn and returns towards Moon?
+    Dec 16 1735? RV skip perigee at 60 km
+    Dec 16 1740? RV skip apogee at 120 km
+    Dec 16 1749  RV second atmosphere entry over China
+ -  Dec 16?      RV jettisons aeroshell, deploys parachute
+    Dec 16 1759  RV lands in Siziwang Banner, Inner Mongolia, 111 26 20E 42 20 19 N
+ -  2021?        AD in lunar orbit perturbed by mascons and impacts lunar surface (probably within 1 year)
+
+
+I have updated GCAT to include the Chang'e-5 ascent stage (`Shangsheng Qi') launch as follows:
+ - The engine is for now designated as SSQ Engine until we get a real desigation for it.
+ - The launch vehicle is designated CE-5 SSQ (short for Chang'e-5 Shangsheng Qi)
+ - The launch vehicle is part of the new launch family CE5SSQ             
+ - I am calling the launch site Louville Omega North, and giving it the site code LOMN.
+   The launch `pad' is CE-5 ZQ (short for Chang'e 5 Zhoulu Qi, CE-5 lander). 
+ - The launch from the lunar surface is given the launch designation 2020-U02
+ - The ascent stage is GCAT deep space catalog number D01048.
+     It has launch code 2020-087 until lunar landing, and 2020-U02 afterwards.
+     The entries for its launch and lunar orbit may be found in the LPRCAT event catalog.
+
+Starlink
+--------
+
+The 16th Starlink launch (15th of the V1.0 series) on Nov 25 was also the 100th launch of a Falcon 9.
+The single-burn deployment released 60 satellites in low orbit. The first stage landed on the droneship
+OCISLY.
+
+
+JDRS-1
+------
+
+Mitsubishi Heavy Industries launched H-2A number F43 from Tanegashima on Nov 29. The rocket carried
+JAXA's `Hikari deta chukei shistemu' (Optical Data Relay System), also known as JDRS-1 (Japanese Data
+Relay Satellite 1). The JAXA satellite will support civilian and intelligence users, and the launch
+was carried out with more secrecy than usual. The satellite reached GEO by Dec 8 and is now on
+station at 90.8E.
+
+FalconEye-2
+-----------
+
+FalconEye-2, a French-built imaging satellite for the armed forces of the United Arab Emirates,
+was launched from the Guiana Space Centre by a Soyuz ST-A on Dec 2. The satellite replaces
+FalconEye-1 which was lost in the Vega VV15 failure in 2019.
+
+Gonets-M
+--------
+
+Three more Gonets-M low orbit messaging satellites were launched on a
+Soyuz from Plesetsk on Dec 3. A test nanosatellite for the Ministry of
+Defense, ERA-1, was also carried and given the name Kosmos-2548.
+
+Gaofen 14
+---------
+
+China's CAST/Beijing built the Gaofen 14 satellite for  3D surveying and
+mapping  to produce topographic maps and digital elevation models. Its
+launch on Dec 6 was the first from Xichang to sun-sync orbit, using a
+CZ-3B/G5. This was also the first launch of the G5 variant of the Chang
+Zheng 3B rocket. 
+
+
+GECAM 
+------
+
+China launched two GECAM satellites on Dec 9. The satellites, built by
+the Shangai Engineering Center for Microsatellites, carry all-sky gamma
+ray burst detectors. The aim is to detect GRBs that are associated with
+gravitational wave events detected by LIGO and VIRGO. The two satellites
+(GECAM A and B) have been nicknamed Xiaoji and Xiaomu.
+
+NROL-44
+-------
+
+On Dec 9 ULA launched a Delta 4 Heavy from Cape Canaveral Space Force
+Station (newly renamed as of that day) carrying a payload for the US
+National Reconnaissance Office. The launch was codenamed NROL-44. The
+rocket's second stage made a three-burn ascent to deliver its payload
+directly to geosynchronous orbit. The payload, codenamed USA 311, is
+probably an ORION signals intelligence satellite.
+
+SXM-7
+-----
+
+On Dec 13 SpaceX launched the SXM-7 satellite on a Falcon 9. The B1051
+first stage landed on the droneship Just Read The Instructions. The
+second stage delivered the 7000 kg payload to a subsynchronous transfer
+orbit. SXM-7, owned by Sirius XM, is a digital radio broadcasting
+satellite and will use its onboard propellant to reach geostationary
+orbit. The satellite is an LS-1300 type built by Maxar.
+
+Angara
+-------
+
+After a six year gap the second Angara-A5 test flight took off from
+Plesetsk on Dec 14 carrying a dummy payload. The Briz-M upper stage made
+several burns to geosynchronous orbit, jettisoning its DTB propellant
+tank into a 379 x 36851 km x 60.0 deg orbit. It then  carried out a
+simulated payload-deployment test, followed by a manuever to a 36923 x
+37595 km x 0.1 deg graveyard orbit. The dummy payload was left attached
+to it.  
+
+
+Electron 17
+-----------
+
+RocketLab launched Electron mission 17 on Dec 15, placing a small 150 kg radar satellite (Strix-Alpha) in orbit
+for the Japanese company Synspective.
+
+Astra Rocket 3.2
+----------------
+
+Astra launched Rocket 3.2 from Kodiak on Dec 15 on another orbital
+attempt with only diagnostic instrumentation and no separable payload.
+For the first time the Astra rocket completed successfuly first stage
+flight, first stage separation, fairing separation, and second stage
+ignition. The second stage burn was about 0.5 km/s short of orbital
+velocity and the vehicle fell in the Pacific after reaching an apogee of
+380 km.
+
+
+SpaceBEE
+--------
+
+Six of the SpaceBEE satellites launched on Electron 16 belong to SwarmNZ, the New Zealand subsdiary
+of Swarm Technologies, and will be registered as New Zealand rather than US satellites.
+
+
+Hayabusa-2
+------------
+
+Japan's Hayabusa-2 asteroid mining mission has successfully returned its
+quarried asteroid rock to Earth. The spacecraft entered the Earth's
+gravitational sphere at 2254 UTC Dec 1 on an impact trajectory. 220,000
+km from Earth at  0530 UTC Dec 5, it ejected its sample return capsule
+and then in three burns at 0630, 0700 and 0730 UTC raised its perigee to
+about 300 km, allowing a flyby to send it back out to solar orbit.
+
+The sample return capsule entered the atmosphere at 1728 UTC Dec 5,
+travelling at 11.6 km/s with an entry angle of -12 degrees. After entry
+the backshell and aeroshell were ejected and the capsule deployed its
+parachute, floating down to a safe landing at 136.15E 30.43S in the
+Woomera Prohibited Area in South Australia.
+
+The parent spacecraft will make a flyby of minor planet 2001 CC21 in 2026, and following Earth
+flybys in 2027 and 2028, will rendezvous with minor planet 1998 JY26 in 2031.
+
+Erratum
+--------
+
+ Obviously, I forgot to delete the line 'spacewalk underway..' in the last issue. 
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name                           Launch Vehicle      Site            Mission  INTL.  Catalog  Perigee Apogee  Incl   Notes
+
+Nov  5 0905   Bobcat-1)                                          ISS, LEO        Tech    98067RS S46922 414 x  414 x 51.6
+              SPOC    )                                                          Imaging 98067RR S46921 414 x  414 x 51.6
+Nov  5 1040   Neutron-1                                          ISS, LEO        Sci     98067RT S46923 414 x  414 x 51.6
+Nov  5 1215   Djara                                              ISS, LEO        Tech    98067RW S46926 414 x  414 x 51.6
+Nov  5 1315   Descent        )                                   ISS, LEO        Tech    98067RU S46924 414 x  414 x 51.6
+              SAT-TLA 1      )                                                   Tech    98067RV S46925 414 x  414 x 51.6
+              Lemur-4.8      )                                                   Com/Met 98067RX S46927 414 x  414 x 51.6
+Nov  5 2324   GPS III SV-04                   Falcon 9           Canaveral LC40  Nav        78A S46826  402 x 20183 x 55.0
+Nov  6 0318   Nusat-9  (Alice)     )          Chang Zheng 6      Taiyuan         Imaging    79B S46828  465 x   481 x 97.3
+              Nusat-10 (Caroline)  )                                             Imaging    79F S46832  465 x   480 x 97.3
+              Nusat-11 (Cora)      )                                             Imaging    79C S46829  465 x   480 x 97.3
+              Nusat-12 (Dorothy)   )                                             Imaging    79A S46827  465 x   481 x 97.3
+              Nusat-13 (Emmy)      )                                             Imaging    79G S46833  464 x   479 x 97.3
+              Nusat-14 (Hedy)      )                                             Imaging    79E S46831  464 x   479 x 97.3
+              Nusat-15 (Katherine) )                                             Imaging    79D S46830  464 x   479 x 97.3
+              Nusat-16 (Lise)      )                                             Imaging    79P S46840  463 x   474 x 97.3
+              Nusat-17 (Mary)      )                                             Imaging    79J S46835  464 x   479 x 97.3
+              Nusat-18 (Vera)      )                                             Imaging    79K S46836  464 x   479 x 97.3
+              Taiyuan BY70-3       )                                             Comms      79L?
+              Beihang Kongshi 1    )                                             Comms      79M?
+              Tianyan 05           )                                             Imaging    79N?
+Nov  7 0712   Tianqi-11                       Gushenxing-1       Jiuquan         Comms      80A S46904   485 x   501 x 97.4 1330 LT
+Nov  7 0941   EOS-1           )               PSLV-DL          Satish Dhawan FLP Imaging    81A S46905   568 x   576 x 36.9
+              Lemur-2-Ozarak  )                                                  Com/Met    81D S46908   565 x   578 x 36.9
+              Lemur-2-Jindra  )                                                  Com/Met    81E S46909   565 x   578 x 36.9
+              Lemur-2-Wallace )                                                  Com/Met    81F S46910   565 x   576 x 36.9
+              Lemur-2-Jeremiah)                                                  Com/Met    81G S46911   565 x   576 x 36.9
+              R2              )                                                  Tech       81J S46913   562 x   576 x 36.9
+              KSM-1A          )                                                  Sigint     81B?S46906?  562 x   578 x 36.9
+              KSM-1B          )                                                  Sigint     81C?S46907?  562 x   578 x 36.9
+              KSM-1C          )                                                  Sigint     81H?S46913?  562 x   578 x 36.9
+              KSM-1D          )                                                  Sigint     81K?S46914?  562 x   578 x 36.9
+Nov 12 1559   Tiantong-1 02                    Chang Zheng 3B     Xichang        Comms      82A S46917   170 x 35820 x 28.4
+Nov 13 2332   USA 310                          Atlas V 531       Canaveral SLC41 Radar?     83A S46918 11033 x 11068 x 58.5
+Nov 16 0027   Resilience                       Falcon 9          Kennedy LC39A   Spaceship  84A S46920   189 x   208 x 51.6
+Nov 17 0152   SEOSAT-Ingenio)                  Vega              CSG             Imaging    U01 F01574  -500? x  250?x 98.5 1030 LT
+              Taranis       )                                                    Science    U01 F01575  -500? x  250?x 98.5 
+Nov 18?       AC-10a Probe 04                                  AC-10a, LEO       Science 19-22N S46928   469  x  482 x 51.6
+Nov 20 0220   Augury                      )    Electron          Mahia LC1       Tech       85AB S46954  495 x  515 x 97.4  1440 LT
+              Alchemy                     )                                      Tech       85AC S46955  495 x  515 x 97.4
+              BRO-2                       )                                      Sigint     85
+              BRO-3                       )                                      Sigint     85
+              Te Waka Amiorangi o Aotearoa)                                      Sci        85
+              CORVUS BC-5                 )                                      Met-RO     85C  S46931  492 x  512 x 97.4
+              SpaceBEE 22                 )                                      Comms      85AA S46953  492 x 513  x 97.4
+              SpaceBEE 24                 )                                      Comms      85Z  S46952  492 x 513  x 97.4
+              SpaceBEE 25                 )                                      Comms      85Y  S46951  492 x 513  x 97.4
+              SpaceBEE 27                 )                                      Comms      85X  S46950  492 x 513  x 97.4
+              SpaceBEE 28                 )                                      Comms      85V  S46948  492 x 513  x 97.4
+              SpaceBEE 29                 )                                      Comms      85W  S46949  492 x 513  x 97.4
+              SpaceBEE 30                 )                                      Comms      85T  S46946  492 x 513  x 97.4
+              SpaceBEE 31                 )                                      Comms      85U  S46947  492 x 513  x 97.4
+              SpaceBEE 32                 )                                      Comms      85S  S46945  492 x 513  x 97.4
+              SpaceBEE 33                 )                                      Comms      85R  S46944  492 x 513  x 97.4
+              SpaceBEE 34                 )                                      Comms      85E  S46933  492 x 513  x 97.4
+              SpaceBEE 35                 )                                      Comms      85F  S46934  492 x 513  x 97.4
+              SpaceBEE 36                 )                                      Comms      85G  S46935  492 x 513  x 97.4
+              SpaceBEE 37                 )                                      Comms      85H  S46936  492 x 513  x 97.4
+              SpaceBEE 38                 )                                      Comms      85J  S46937  492 x 513  x 97.4
+              SpaceBEE NZ-1               )                                      Comms      85AG S46959  492 x 513  x 97.4
+              SpaceBEE NZ-2               )                                      Comms      85AE S46957  492 x 513  x 97.4
+              SpaceBEE NZ-3               )                                      Comms      85K  S46938  492 x 513  x 97.4
+              SpaceBEE NZ-4               )                                      Comms      85L  S46939  492 x 513  x 97.4
+              SpaceBEE NZ-5               )                                      Comms      85N  S46941  492 x 513  x 97.4
+              SpaceBEE NZ-6               )                                      Comms      85P  S46942  492 x 513  x 97.4
+Nov 21 1717   Sentinel-6 Michael Freilich      Falcon 9          Vandenberg SLC4E Oceanog.  86A S46984  1308  x 1327 x 66.0
+Nov 23 2030   Chang'e 5                        Chang Zheng 5     Wenchang LC101 Lunar probe 87A S47097   201 x 392980 x 21.3
+Nov 25 0213   Starlink 1777     )              Falcon 9          Canaveral SLC40 Comms      88A S47121   212 x  365 x 53.0
+              Starlink 1779     )
+              Starlink 1785     )
+              Starlink 1787     )
+              Starlink 1812     )
+              Starlink 1836-1840)
+              Starlink 1842-1846)
+              Starlink 1849-1850)
+              Starlink 1852-1864)
+              Starlink 1866-1871)
+              Starlink 1873-1881)
+              Starlink 1884-1891)
+              Starlink 1895     )
+              Starlink 1900     )
+              Starlink 1907     )
+              Starlink 1912-1914)
+              Starlink 1927     )
+Nov 29 0725   DRS-1/ODRS                        H-IIA 202         Tanegashima      Comms   89A  S47202   255 x 35796 x 28.4
+Dec  2 0133   FalconEye 2                       Soyuz ST-A        CSG ELS          Imaging 90A  S47226   597 x   599 x 97.9  1030 LT
+Dec  3 0114   Gonets-M No. 30)                  Soyuz-2-1B/Fregat Plesetsk LC43/4  Comms   91A  S47227  1486 x  1506 x 82.5
+              Gonets-M No. 31)                                                     Comms   91B  S47228  1487 x  1506 x 82.5
+              Gonets-M No. 32)                                                     Comms   91C  S47229  1484 x  1505 x 82.5
+              Kosmos-2548    )                                                     Tech    91D? S47230  1481 x  1508 x 82.5
+Dec  3 1510   Chang'e-5 Shangsheng Qi                    Louville Omega North, Luna Probe  U02  D1048  Lunar orbit
+Dec  6 0358   Gaofen 14                         Chang Zheng 3B/G5  Xichang         Imaging 92A  S47231   485 x   509 x 97.4  1030 LT
+Dec  6 1617   Dragon CRS-21                     Falcon 9           Kennedy LC39A   Cargo   93A  S47233   192 x   211 x 51.7
+Dec  9 2014   Xiaoji )                          Chang Zheng 11     Xichang         Astron  94A  S47234   588 x   604 x 29.0
+              Xiaomu )                                                             Astron  94B  S47235   587 x   604 x 29.0
+Dec 11 0109   USA 311                           Delta 4 Heavy      Canaveral SLC37B Sigint 95A  S47237 35800?x 35800?x  0
+Dec 13 1730   SXM-7                             Falcon 9           Canaveral SLC40 Comms   96A  S47240   234 x 19380 x 27.0
+Dec 14 0550   GVM                               Angara A5          Plesetsk LC35/1 Tech    97A  S47242 36923 x 37594 x  0.1
+Dec 15 1009   Strix-Alpha                       Electron           Mahia LC1A      Radar   98A  S47253   489 x   511 x 97.4
+Dec 15 2055   Astra Test Payload                Astra Rocket 3.2   Kodiak LP3B     Test    F09  F01577 -1100 x   380 x 98.1
+
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The US DoD reports a Russian direct-ascent antisatellite (ASAT) test on Dec 16. I understand
+the missile was not tested against a target satellite; at most just a `point in space' target.
+NOTAMs suggest launch was between 0100 and 0600 UTC. Unclear what the apogee was, but possibly
+a few hundred km.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+
+Oct  1        Black Dagger      Boosted Zombie     Fort Wingate?         Target        100?      White Sands
+Oct  3 0640   RV                Shaurya            Chandipur IC4         Test          300?      Bay of Bengal
+Oct 13 1336   NS-13             New Shepard        W Texas               Test          106       W Texas
+Oct 26?       SR 0.1-1          SR-0.1             Sinop, Turkey         Test          130?      Black Sea
+Oct 29 0727   GT236GM           Minuteman 3        Vandenberg LF09       Op. Test     1300?      Kwajalein
+Oct 29?       SR 0.1-2          SR-0.1             Sinop, Turkey         Test          130?      Black Sea
+Nov  2 1040   DEUCE 3           Black Brant IX     White Sands           UV Astron     285       White Sands
+Nov 17 0550   FTM-44 Target     ICBM-T2?           Meck, Kwajalein       Target       1000?      Pacific (intercepted)
+Nov 17 0605?  FTM-44 KV         SM-3 Block IIA    DDG-18, Pacific        Interceptor   200?      FTM-44 interception
+Dec  9        RV                Yars               Plesetsk              Op. Test     1000?      Kura
+Dec  9        RV x 4?           Sineva            K-18, Barents Sea      Op. Test     1000?      Kura?
+Dec 16        Nudol KV?         Nudol'             Plesetsk              ASAT test     300?      Laptev Sea
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

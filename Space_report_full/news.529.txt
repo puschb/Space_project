@@ -1,0 +1,64 @@
+Jonathan's Space Report
+No. 529                                         2004 Jun 28, Somerville, MA
+-------------------------------------------------------------------------------
+
+The first piloted spaceflight by private company Scaled Composites was
+accomplished on Jun 21, with Spaceship One flight 60L/15P. The White
+Knight carrier aircraft, piloted by Brian Binnie, took off from Mojave
+Airport (Runway 30/12) at 1347 UTC. The Spaceship One, piloted by Mike
+Melvill, was dropped from White Knight at 1450 UTC at an altitude of
+14.3 km and the Spaceship One's hybrid rocket fired for around 76
+seconds, letting Melvill's craft soar to an apogee of 100.124 km.  The
+vehicle landed back at Mojave on RW30 at 1514 UTC. There are reports
+that a trim control device failed during the ascent, causing an unwanted
+roll and reducing performance, but details are sketchy so far.
+Nevertheless this is a historic moment, marking the real dawn of
+commercial human spaceflight. The trajectory was highly suborbital, with
+a perigee close to the center of the Earth - inertial orbit parameters
+at apogee were about -6374 x 100 km x 35.0 deg. The inertial velocity at
+apogee was probably at most 0.3 km/s; if they had launched east instead
+of west they would have reached 0.5 km/s. The velocity needed for orbit
+at 100 km is 7.8 km/s, a big difference.
+
+A spacewalk by astronauts Gennadiy Padalka and Mike Fincke was cut short
+on Jun 24 when the oxygen supply on Fincke's suit, Orlan M-26,
+malfunctioned. Fincke was called back into the airlock just after
+exiting it, when the pressure in an oxygen bottle started to decrease;
+apparently a faulty switch was to blame and the problem can be worked
+around for another try next week. The Pirs airlock was depressurized by
+2156 UTC with the hatch opened at that time; Fincke exited at about 2200
+and came back in at 2208. Padalka apparently stayed inside Pirs. The
+hatch was closed at 2210 after 14 min 22s and the airlock was
+repressurized at 2213 UTC.
+
+Global Positioning System satellite GPS SVN 60 was launched on Jun 23
+as flight GPS IIR-12. The Boeing Delta 7925 rocket's second stage
+entered a 175 x 392 km x 36.9 deg parking orbit followed by a 191 x 1270 km
+x 37.2 deg intermediate orbit; the spinning solid third stage then
+fired to put GPS SVN 60 in transfer orbit.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+
+May  4 1242   DirecTV-7S        Zenit-3SL       Odyssey, Pacific  Comms      16A 
+May 19 2222   AMC-11            Atlas IIAS      Canaveral SLC36B  Comms      17A
+May 20 1747   ROCSAT-2          Taurus          Vandenberg 576-E  Imaging    18A
+May 25 1234   Progress M-49     Soyuz-U         Baykonur LC1      Cargo      19A
+May 28 0600   Kosmos-2405       Tsiklon-2       Baykonur LC90/20  Sigint     20A
+Jun 10 0128   Kosmos-2406       Zenit-2         Baykonur LC45     Sigint     21A
+Jun 16 2227   Intelsat 10-02    Proton-M/Briz-M Baykonur LC200/39 Comms      22A
+Jun 23 2254   GPS SVN 60        Delta 7925      Canaveral SLC17B  Navigation 23A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

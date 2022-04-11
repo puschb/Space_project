@@ -1,0 +1,194 @@
+Jonathan's Space Report 
+No. 713                                                       2015 Jul 3     Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 44 began at 1020 UTC Jun 11 with Commander Gennadiy Padalka
+and flight engineers Mikhail Kornienko and Scott Kelly.
+
+On May 27 the SSRMS arm was used to move the PMM Leonardo storage module from
+the Unity (Node 1) nadir port to the Tranquility (Node 3) forward port.
+Unberthing was at 0946 UTC and berthing was complete at 1308 UTC. This is part
+of a major reconfiguration of the station to support future commercial crew
+and cargo spaceships.
+
+Tranquility now has the Cupola at the nadir port, PMA-3 at the aft port, and 
+Leonardo at the forward port. The zenith port is vacant.
+Here 'aft' and 'forward' are relative to the ISS,
+a convention I find confusing as Node 3 is at 90 degrees to the other nodes,
+so corresponding ports on Nodes 1 and 2 have different nomenclature.
+
+Soyuz TMA-15 undocked on Jun 11 at 1020 UTC with Anton Shkaplerov in command
+and Terry Virts, Samantha Cristoforetti as flight engineers. 
+The spacecraft landed at 1343 UTC in Kazakhstan.
+
+Dragon CRS-7 was launched on Jun 28, but the Falcon 9 failed close to the end of stage 1 burn
+and was destroyed. Initial indications are that an overpressure in the second stage during
+second stage initialization 2 min 19s after launch, at 45 km altitude, caused it to blow apart.
+
+CRS-7 was lost in the Atlantic, with its cargo which included 8 Flock 1f cubesats,
+the IDA-1 docking adapter, spacesuit EMU 3017, and the second NORS oyxgen recharge
+tank (the first one fried on Orb-3 last year).
+
+Progress M-28M was launched successfuly on Jul 3, carrying critical supplies
+for the ISS. Docking is scheduled for Jul 5. This launch used the older Soyuz-U rocket
+instead of the newer Soyuz-2-1a which ran into problems on the Progress M-27M launch.
+Progress M-28M is ISS flight 60P, spacecraft factory no. 428.
+
+Ariane
+-------
+
+Ariane 5 launched two communication satellites on May 27. DirecTV-15 is a 6205 kg Eurostar
+3000 for DirecTV; SKYM-1 is an Orbital Geostar-2 with a mass of 3182 kg for Sky Mexico,
+a joint venture of DirecTV and Mexico's Televisa. By Jul 2 both satellites were
+in geostationary, at 66.8W and 78.8W respectively.
+
+X-37B
+------
+
+The X-37B has been found by hobbyist observers in a 309 x 322 km x 38.0 deg orbit.
+The ULTRASAT cubesats are in 355 x 700 km x 55.0 deg orbits.
+
+AV-054 Cubesats
+---------------
+
+The LightSail-1 cubesat went into safemode a few days after launch
+but rebooted on May 30. Its solar panels were deployed on Jun 3 and the solar
+sail was unfurled on Jun 7 at 1947 UTC. The satellite reentered on Jun 14.
+
+There were of course 10 cubesats on the AV-054 launch, not 9 - I listed them all
+individually but then ran out of fingers somehow when totalling them.
+
+Kosmos-2505
+-----------
+
+On Jun 5 Russia launched the Kobal't-M No. 565 spy satellite, given the
+codename Kosmos-2505. The initial orbit of 177 x 285 km x 81.4 deg was
+boosted on Jun 8 and 13 to 203 x 264 km. The Kobal't-M is the latest
+version of the 1970s era Yantar' spy satellite series and returns its
+main section, with film and camera, to Earth at the end of its flight.
+It also carries two small ejectable film canisters which can return some
+data to Earth during the mission.
+
+Kosmos-2506
+-----------
+
+On Jun 23 Russia launched the Persona-1 No. 3 spy satellite. The
+Persona-1 satellites are built by TsSKB-Progress (Samara) and carry
+electro-optical imaging cameras. According to a report by Anatoly Zak, this third
+vehicle will return its data via an optical communications link to an
+unidentified GEO satellite. The satellite manuevered from elliptical
+to circular orbit on Jun 28.
+
+Vega
+----
+
+Arianespace's Vega VV05 mission placed the European Space Agency's Sentinel 2A
+visible/IR Earth observing satellite in a 787 x 788 km sun-synchronous orbit
+on Jun 23. The visible camera has 10 metre resolution and a 290 km swath.
+The Vega is an Italian-build small launch vheicle with three solid stages
+and a liquid fourth stage, the AVUM.
+
+The AVUM upper stage was meant to deorbit itself, according to the
+Arianespace press kit, but instead ended up as space junk in a 400 x 783
+km orbit from which it should reenter in a few years.
+
+Gaofen 8
+--------
+
+China launched a new high resolution imaging satellite on Jun 26. The previous
+two Gaofen satellites, 1 and 2, were civilian operated and extensively described
+before launch; GF-8 is also described as for civil use but in contrast was not discussed
+prior to the launch, and may actually be used for military imaging.
+
+Philae
+-------
+
+On comet 67P/Churyumov-Gerasimenko, the Rosetta lander, Philae, awoke
+from hibernation on Jun 14 and began sending data back to Earth. 
+Rosetta remains in orbit around the comet.
+
+
+Cassini
+-------
+
+Cassini made a 516 km altitude flyby of Dione (Saturn IV) on Jun 16 at 2012 UTC.
+
+New Horizons
+------------
+
+On Jun 25 New Horizons was 23 million km from Pluto, closing at 1 million km per day.
+Encounter day is Jul 14.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+May 16 0547   Mexsat-1            Proton-M/Briz-M   Baykonur LC200/39 Comms          F01   F01446  -2000?x    160 x  50.5?
+May 20 1505   X-37B OTV-4    )    Atlas V 501       Canaveral SLC40   Tech           25A   S40651    309 x    322 x  38.0
+              USS Langley    )                                        Tech           25B   S40652    350?x    700?x  55?
+              PSat-1         )                                        Comms          25D   S40654    350?x    700?x  55?
+              BRICSat-P      )                                        Tech           25E   S40655    350?x    700?x  55?
+              GEARRS-2       )                                        Comms          25G   S40657    350?x    700?x  55?
+              Aerocube-8a    )                                        Tech           25J   S40659    350?x    700?x  55?
+              Aerocube-8b    )                                        Tech           25K   S40660    350?x    700?x  55?
+	      O/C-1          )                                        Calibration    25C   S40653    350?x    700?x  55?
+	      O/C-2          )                                        Calibration    25F   S40656    350?x    700?x  55?
+	      O/C-3          )                                        Calibration    25H   S40658    350?x    700?x  55?
+              LightSail-A    )                                        Tech           25L   S40661    350?x    700?x  55?
+May 27 2116   DirecTV-15  )       Ariane 5ECA        Kourou ELA3      Comms          26A   S40663    258 x  35773 x   4.4
+              SKYM-1      )                                           Comms          26B   S40664    261 x  35738 x   4.4
+Jun  5 1523   Kosmos-2505         Soyuz-2-1A         Plesetsk LC43/4  Imaging        27A   S40667    177 x    285 x  81.4
+Jun 23 0151   Sentinel 2A         Vega               Kourou ZLV       Imaging        28A   S40697    787 x    788 x  98.7 1030LT SSO
+Jun 23 1644   Kosmos-2506         Soyuz-2-1B         Plesetsk LC43/4  Imaging        29A   S40699    706 x    725 x  98.3 0840LT SSO
+Jun 26 0622   Gaofen 8            Chang Zheng 4B     Taiyuan          Imaging        30A   S40701    471 x    481 x  97.3 1330LT SSO
+Jun 28 1421   Dragon CRS-7        Falcon 9 v1.1      Canaveral SLC40  Cargo          F02   F01448  -6250?x     45?x  51.6
+Jul  3 0455   Progress M-28M      Soyuz-U            Baykonur LC1     Cargo          31A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Flight NASA 36.300US, the fifth mission of the SDO EVE Calibration payload,
+was launched May 21 but the rocket was destroyed about 5 km up; the payload
+was recovered by parachute.
+
+On Jun 6 Asnar Allah forces in Sa'dah, Yemen launched a Scud (possibly
+North Korean model Hwasong 6) at King Khaled Air Base in Saudi Arabia.
+The missile was reportedly intercepted by two US Patriot missiles. Another
+Scud was launched on Jun 30.
+
+
+On Jun 26 the US Missile Defense Agency launched a target missile, probably from
+or near Kauai, for a test of the Aegis Ashore system. The target missile is reported
+to have malfunctioned; it's not clear what the achieved apogee is and I'm not including
+it in the list below.
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                        Mission    Apogee/km
+
+Apr 15        RV               Ghauri              Tilla?,Pakistan       Test          400?
+Apr 16 0422   Agni RV          Agni III            Chandipur,India       Test          350?
+Apr 18 1101   NASA 46.008UO  Terrier Imp.Malemute  Wallops, Virginia     Education    174?
+Apr 23 0735   TEXUS 51         VSB-30              Kiruna,Sweden         Micrograv     261
+Apr 27 0455   TEXUS 52         VSB-30              Kiruna,Sweden         Micrograv     255
+May  2 0830   NASA 36.292UH    Black Brant IX      White Sands,New Mex.  XR Astron     272
+May 20 1037   GT212GM          Minuteman 3         Vandenberg,Calif.     Test         1300?
+Jun  3        RV               Hyunmoo 2           Anhueng, S Korea      Test          150
+Jun  6        Warhead          Hwasong 6?          Sa'dah, Yemen         Weapon         80?
+Jun  6        CTV-01           SM-3-IIA            San Nicolas I.,Calif. Test          150?
+Jun 25 1000   NASA 41.113UO    Terrier Imp.Orion   Wallops, Virginia     Education     118?
+Jun 30        Warhead          Hwasong 6?          Sa'dah, Yemen         Weapon         80?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 

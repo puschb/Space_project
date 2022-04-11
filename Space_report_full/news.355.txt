@@ -1,0 +1,183 @@
+Jonathan's Space Report
+No. 355                                   1998 Apr 11 Cambridge, MA 
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Mir astronauts Solov'yov [sic: actually Musabaev]
+and Budarin carried out a 4h15m spacewalk on
+Apr 6 and splinted the dented Spektr solar panel. A problem with the
+station's attitude control system caused the spacewalk to be cut short.
+According to reports from Jim Oberg, the control center erroneously
+commanded the station to stop controlling its orientation, and,
+believing instead that fuel in the old VDU engine had run out, decided
+to tell the crew to return inside. Andy Thomas remained on board the
+station during the EVA.
+
+Another spacewalk was carried out on Apr 11.  Hatch open was at 0955 UTC
+and closed at 1620 UTC. The old VDU engine was installed in 1992,
+attached to the Sofora boom sticking out from the Kvant module. Musabaev
+and Budarin dismounted it and jettisoned it into space. Two more
+spacewalks are planned to install the new VDU engine, currently mounted
+on the exterior of the Progress supply ship.
+
+STS-93/AXAF
+-----------
+
+AXAF is the third of NASA's Great Observatories, after the Space
+Telescope (Hubble) and GRO (Compton). I expect to be giving regular
+updates on the progress of the new observatory, now scheduled for launch
+on Dec 3.
+
+The Advanced X-ray Astrophysics Facility satellite is now
+undergoing integration and test at prime contractor TRW/Redondo Beach. 
+The AXAF satellite consists of a spacecraft module and a science 
+instrument module (SIM) joined by a long tube called the Optical Bench
+Assembly (OBA). The spacecraft module carries deployable solar panels,
+the HRMA X-ray telescope, the ACA optical guide telescope,
+and the IPS integral propulsion system. The IPS has four bipropellant
+engine nozzles derived from TRW's DM-LAE apogee engine. AXAF will
+be launched attached to an IUS solid rocket, and will completely
+fill the Shuttle payload bay.
+
+The HRMA (High Resolution Mirror Assembly) telescope consists of four
+concentric grazing incidence mirrors. It's hard to persuade X-rays to
+change their direction, so you can't use the usual `normal incidence'
+reflective mirrors pointed at the sky, familiar in optical telescopes.
+Instead, somewhat bizzarely, you point your mirror at right angles to
+the incoming X-rays, and they glance off at `grazing incidence',
+changing direction by only a degree or so. This is enough to let you
+focus the X-rays into a picture. The resulting telescope mirror is
+almost cylindrical, which lets you put progressively smaller mirrors one
+inside the other.
+
+The peer review of the first AXAF observing proposals was
+carried out last week. The first year's observing was heavily 
+oversubscribed, with over 700 proposals submitted. Results will be
+announced next month.
+
+Satellite Names
+---------------
+
+Since the late 1970s, NASA has made a practice of naming its
+larger satellites, usually after a famous dead scientist. Other
+space agencies have named their satellites after flowers, 
+minerals, elementary particles, mythological characters, or
+astronomical objects. I've tried to collect together a list
+of these satellite names at
+ http://hea-www.harvard.edu/~jcm/space/misc/names.html
+Corrections and additions are welcome.
+
+
+Recent Launches
+---------------
+
+Seven more Iridium satellites were launched on Apr 7. A Krunichev
+three-stage Proton-K launch vehicle placed the Iridium cluster and an
+Energiya commercial Blok DM2 stage (related to the domestic 17S40 Blok
+DM-5 variant) in low parking orbit. The DM2 then fired twice to enter
+the deployment orbit and dispensed the seven satellites, which will use
+their own propulsion units to reach operational altitude. The DM2 stage
+then fired again to deorbit itself, to avoid creating space debris.
+
+Iridium constellation status:  The constellation is now filling up the
+last of the six orbital planes. In addition, two satellites (SV18 and
+SV38) which had been in engineering orbit for several months raised
+their altitude to the operational orbit in early April. The operational
+orbit is 776 x 779 km x 86.4 deg, while the engineering orbit is 765 x
+771 km x 86.4 deg.  A total of 45 satellites are in operational orbit, a
+further 14 are on their way there from the initial deployment orbit, two
+satellites are dead, and four are in engineering orbit, for a total of 
+65 Iridiums launched to date.
+
+
+Plane 1: Operational: [0]
+         Raising orbits: SV62,63,64,65,66,67,68
+Plane 2: Operational: [9] SV22,23,24,25,26,45,46,47,49 
+         Engineering orbit: SV48 (since Feb)
+Plane 3: Operational: [6] SV28,29,30,31,32,33          
+         Raising orbits: SV55,57,58,59,60
+         Failed in deployment orbit: SV27
+Plane 4: Operational: [10] SV04,06,07,08,19,34,35,36,37,51 
+         Raising orbits: SV61
+         Engineering orbit: SV05 (since Jan)
+Plane 5: Operational: [10] SV09,10,12,13,14,16,50,53,54,56   
+         Raising orbits: SV52
+         Engineering orbit: SV11 (since Sep)
+Plane 6: Operational: [10] SV15,17,18,20,38,39,40,41,43,44 
+         Engineering orbit: SV42 (since Dec)  
+         Failed in deployment orbit: SV21
+
+
+In my comments on sun-synchronous orbits last week, several folks
+pointed out some loose statements on my part. When I suggested that
+orbital planes 'normally' stay fixed, I meant when in orbit around a
+perfect Newtonian point mass. Any inclined Earth satellite will have an
+orbital plane precession due to the Earth's lack of spherical symmetry
+(and to much smaller  degree due to GR effects). The upper inclination
+limit of around 110 degrees corresponds to an upper altitude limit of
+around a couple thousand km, reflecting the use of sun-synchronous
+orbits in historical practice. Of course, sun-synchronous orbits at even
+higher altitudes and inclinations are perfectly possible, they just
+haven't tended to be used up to now.
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar 14 2246   Progress M-38     Soyuz-U       Baykonur LC1      Cargo      15A
+Mar 16 2132   UHF F/O F8        Atlas II      Canaveral SLC36A  Comsat     16A
+Mar 24 0146   SPOT 4            Ariane 40     Kourou ELA2       Imaging    17A
+Mar 25 1701   Iridium 51 )      CZ-2C/SD      Taiyuan           Comsat     18A
+              Iridium 61 )                                      Comsat     18B
+Mar 30 0602   Iridium 55        Delta 7920    Vandenberg SLC2   Comsat     19A
+              Iridium 57                                        Comsat     19B
+              Iridium 58                                        Comsat     19C
+              Iridium 59                                        Comsat     19D
+              Iridium 60                                        Comsat     19E
+Apr  2 0242   TRACE             Pegasus XL    Vandenberg        Solar obs. 20A
+Apr  7 0213   Iridium 62        Proton-K/DM2  Baykonur          Comsat     21A
+              Iridium 63                                        Comsat     21B
+              Iridium 64                                        Comsat     21C
+              Iridium 65                                        Comsat     21D
+              Iridium 66                                        Comsat     21E
+              Iridium 67                                        Comsat     21F
+              Iridium 68                                        Comsat     21G
+
+
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        LC39B         STS-90  Apr 16
+
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Sep 17?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/RSRM66/ET-96        VAB Bay 1     STS-91
+MLP2/RSRM65/ET-91/OV-102 LC39B         STS-90
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

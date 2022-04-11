@@ -1,0 +1,126 @@
+
+Jonathan's Space Report 
+
+No. 145		1993 Mar  3
+------------------------------------------------------------------------------
+
+STS-55
+------
+
+The launch of Columbia on mission STS-55 has been delayed until March 14.
+
+Mir
+---
+
+Soyuz TM-15 landed at 0358 UTC on Feb 1 (Thanks to Yoshiro Yamada for
+coming up with the information!).  Soyuz TM-15's flight was an in-orbit
+record for a Soyuz spaceship - 188 days 21 h 39 m. The TM-15 flight is
+thus the longest ever spaceflight in which the crew went up and came
+down in the same spaceship. There have been 6 longer missions aboard
+Salyut-7 and Mir since 1982. The mission gives Anatoli Solov'yov
+377 days in space over 3 missions, putting him in the top 5 for
+cumulative flight hours.
+
+The Progress M-15 flight was also a record duration for a Progress craft
+- 103 days. Progress M-16 was launched on Feb 21 from Baykonur, it is an
+automated cargo craft, to deliver fuel, air, water and supplies to the
+Mir complex. It docked with Mir on Feb 23.
+
+--------------------------------------------------------------------------------
+
+The Asuka spacecraft has successfully deployed its solar panels. The
+next, and most critical, stage in its activation, expected as this issue
+goes to press, is the extension of the deployable optical bench: Asuka
+is the first truly *telescopic* telescope in space ( :-) ) and the
+correct alignment of the mirrors is essential for mission success. Note
+that the name Asuka is pronounced <As'ka> (the u is almost completely
+swallowed). Because of confusion by English-speaking journalists over
+the pronounciation, ISAS has invented a new name for use by Westerners,
+ASCA (Advanced Satellite for Cosmology and Astrophysics). However, JSR
+will continue to use the name Asuka which I consider to be more
+'correct'. 
+
+The Kosmos-2183 spy satellite was deorbited on Feb 16 after 314 days in
+orbit. The 16th of this advanced series, Kosmos-2223, was launched in
+December to replace it.
+
+Kosmos-2225, 4th in a series of advanced mapping satellites, was deorbited
+after 58 days on Feb 18. There may have been an explosion during
+the deorbit burn, as several fragments appeared in eccentric orbits at
+the time of the deorbit.
+
+The classified signals intelligence satellite launched by Discovery in
+December finally entered the NORAD catalog around Feb 18 (although its
+orbital elements are still classified). It has been assigned the name
+USA 89 and the catalog number 22518; there is also a final stage rocket
+with number 22519. Cataloging of a final stage rocket 75-80 days after
+launch parallels the behaviour of USA 40, launched from Columbia in Aug
+1989, which stayed in a low orbit for 114 days before firing and
+separating from its final stage rocket, probably moving to a highly
+elliptical 12-hour orbit. The satellite may carry out a high resolution
+survey of radio emitters (e.g. radars) in low orbit before moving to an
+orbit from which it can carry long term monitoring.
+
+Launches
+--------
+
+Date		Name		Launch Vehicle	Site		Mission	   INTL.
+									   DES.
+
+Feb  3 0255	Navstar GPS 22	Delta 		Canaveral	Navsat	   07A
+Feb  4 		Znamya 		-		Prog.M15,LEO	R&D	   1986-17GZ
+Feb  9 0250?	Kosmos-2233	Kosmos R-14	Plesetsk	Navsat	   08A
+Feb  9 1430	SCD-1	     )	NB52/Pegasus F3	Kennedy		Comsat	   09B
+                Orbcomm OXP-1)                                  Comsat     09A
+Feb 17 2030	Kosmos-2234 )	Proton/Blok DM	Baykonur	Navsat	   10A
+		Kosmos-2235 )					Navsat	   10B
+		Kosmos-2236 )				  	Navsat	   10C
+Feb 20 0220	Asuka		Mu-3S-2		Kagoshima	Astronomy  11A
+Feb 21 1830?	Progress M-16	Soyuz		Baykonur	Cargo	   12A
+
+
+Reentries
+---------
+
+Feb  1	0358	Soyuz TM-15	Landed in Kazakhstan
+Feb  5		Znamya		Reentered
+Feb  7		Progress M-15	Deorbited over Pacific
+Feb 16		Kosmos-2183	Deorbited
+Feb 18		Kosmos-2225	Landed in Kazakhstan?
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39A         STS-55
+OV-103 Discovery       OPF Bay 3     STS-56
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-56	       VAB Bay 1 
+ML2/STS-57	       VAB Bay 3
+ML3/STS-55/ET/OV-102   LC39A
+
+
+Erratum: In the annual launch list, I included a bogus
+orbit for the Topex/Poseidon spacecraft. The orbit should have
+read:
+52A	Topex/Poseidon            1331 x 1343 x 66.1
+Thanks to Russell Eberst for pointing out this error and to
+Richard Langley for passing on the launch time of Kosmos-2234.
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+

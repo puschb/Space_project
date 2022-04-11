@@ -1,0 +1,147 @@
+Jonathan's Space Report
+No. 298 (Corrected)               1996 Sep 11               Cambridge, MA
+-------------------------------------------------------------------------------
+Erratum
+-------
+
+Sorry, the previous email version had a foolish error in it.
+Kosmos-2333 was launched from Baykonur, not Plesetsk.
+
+Shuttle and Mir
+---------------
+
+Soyuz TM-23 undocked from Mir on Sep 2 and landed safely in Kazakstan
+with Yuri Onufrienko, Yuriy Usachyov and Claudie Andre-Deshays. This
+concludes the French 'Cassiopee' mission. The spacecraft undocked at
+0420:00 UTC, with a small sep burn at 0424:40 UTC. Deorbit was at
+0647:20 UTC (preceding info from Vladimir Agapov via the seesat list).
+The three modules separated at 0714:36 and the parachute deployed at
+0726 UTC. The landing was at 0741:40 UTC according to CNES, 100 km SW of
+Akmola.
+
+Progress M-32 redocked with Mir on Sep 3 after several days
+of free flight. It is docked at the rear port (+X) of the Kvant 37KE
+module, while Soyuz TM-24 is docked at the front (-X) port of the
+Mir complex.
+
+STS-79 was rolled back from the pad to the VAB on Sep 4 to avoid
+Hurricane Fran. It was in high bay 3, previously occupied by mobile
+launch platform 3. The Shuttle was returned to Pad 39A on Sep 5,
+with launch rescheduled for Sep 16. Hurricane Hortense, however,
+is approaching...
+
+Recent Launches
+---------------
+
+Kosmos-2333, launched on Sep 4, is a signals intelligence satellite
+of the Tselina-2 series, built by KB Yuzhnoe of Ukraine. It was
+launched on a Ukrainian-built Zenit-2 launch vehicle from the 
+Baykonur spaceport and will be operated by the Russian Defense
+Ministry.
+
+Kosmos-2334 was launched on Sep 5 by a Kosmos-3M rocket. It is a Parus
+navigation satellite in a 1000 km orbit inclined at 83 degrees. The
+satellite is in the same plane as Kosmos-2327 launched earlier this
+year. Parus satellites are built by AO Polyot of Omsk, who also 
+are responsible for the Kosmos-3M booster.
+
+A secondary payload with Kosmos-2334 is the UNAMSAT-b small satellite,
+for the Autonomous University of Mexico (UNAM). It replaces a satellite
+lost in a launch failure last year. The 10 kg satellite uses the 25cm
+cubic AMSAT Microsat bus. It carries an experiment to determine the
+velocity of meteors using radio doppler echo, and a communications data
+relay for environmental sensors in remote locations.
+
+The S2-A Magion-5 subsatellite, built in the Czech Republic, 
+has separated from Interbol-Avroralniy-Zond. However, there were
+initial problems deploying the solar panels. The Auroral Probe itself
+has a larger nutation (4 degrees) than expected. The satellites
+are in an elliptical orbit inclined at 63 degrees.
+
+The International Maritime Satellite Organization's INMARSAT 3 
+satellite was launched on Sep 6 by a Proton rocket from Baykonur (GIK-5)
+in Kazakstan. This is the second commercial Proton launch, marketed by
+International Launch Services for the Krunichev center which builds
+Proton. It probably used the standard Proton-K rather than the new
+Proton-AST used for the Astra launch (as described recently in the
+Russian magazine Novosti Kosmonavtiki). The fourth stage on this flight
+was the Blok-DM-1, yet another sub-variant of RKK Energiya's Blok-DM. If
+I've translated the NK article correctly and read between the lines
+appropriately, the intention was for a single burn of the DM-1 to place
+Inmarsat in geostationary transfer orbit. By Sep 9 the Inmarsat was in
+geosynchronous drift orbit. It is a GE4000 class spacecraft, which
+carries a solid Star 37 kick motor, but the exact launch profile isn't
+clear to me yet as GSFC hasn't released any Space Command elements for
+the Blok-DM stage. Inmarsat 3 F2 is built by Lockheed Martin, with a
+communications payload by Matra Marconi Space.
+
+Lockheed Martin launched Atlas IIA flight AC-123 on Sep 8, carrying the
+first Lockheed Martin Astro Space series A2100 satellite. The satellite,
+GE-1, is owned by GE Americom and is a continuation of the old RCA/GE
+Satcom series. GE-1 was placed in a supersynchronous transfer orbit of
+191 x 56495 km x 25.0 deg. The A2100 satellites have a liquid
+apogee engine (I don't know what type) and electric arcjet thrusters.
+GE-1 has 24 C-band and 24 Ku-band transponders, and will replace
+Satcom K1.
+
+Arianespace launched an Ariane 42P on Sep 11 into geostationary transfer
+orbit. The rocket carried the Echostar II communications satellite for
+the Echostar Communications Corp. It is a Lockheed Martin Astro Space
+Series 7000 satellite with 16 Ku-band transponders.
+
+The Galileo Orbiter flew past Ganymede at a distance of 262 km from the
+surface on Sep 6. The probe's third close approach to Jupiter was on Sep
+7 at a distance of 10.7 Jovian radii.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug  8 2249   Italsat F2  )    Ariane 44L     Kourou ELA2     Comsat      44A
+              Telecom 2D  )                                   Comsat      44B
+Aug 14 2221   Molniya-1T       Molniya-M      Plesetsk        Comsat      45A
+Aug 17 0153   ADEOS       )    H-II           Tanegashima Y   Rem.sens.   46A
+              JAS-2       )                                   Comsat      46B
+Aug 17 1318   Soyuz TM-24      Soyuz-U        Baykonur LC1?   Spaceship   47A
+Aug 18 1027   Zhongxing 7      Chang Zheng 3  Xichang         Comsat      48A
+Aug 21 0947   FAST             Pegasus XL     Vandenberg      Auroral     49A
+Aug 29 0522   Interbol-2  )    Molniya-M      Plesetsk LC43   Auroral     50B
+              Magion 5    )                                               50C
+              Microsat    )                                               50A
+Sep  4 0901   Kosmos-2333      Zenit-2        Baykonur LC45L  Sigint      51A
+Sep  5 1347   Kosmos-2334 )    Kosmos-3M      Plesetsk LC132/1 Navsat     52A
+              UNAMSat     )                                               52B
+Sep  6 1737   Inmarsat III F2  Proton         Baykonur LC81   Comsat      53A
+Sep  8 2149   GE-1             Atlas IIA      Canaveral LC36B Comsat      54A
+Sep 11 0000   Echostar II      Ariane 42P     Kourou ELA2     Comsat
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-80  Oct 31
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        LC39A         STS-79  Sep 16
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-56/ET-81/OV-104   LC39A          STS-79
+ML2/                       VAB Bay 1      
+ML3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

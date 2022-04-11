@@ -1,0 +1,122 @@
+Jonathan's Space Report
+
+No. 432                                            2000 Aug 14, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+The Progress M1-3 robot cargo ship automatically docked with the
+Unity/Zarya/Zvezda International Space Station complex on Aug 8 at 2013
+UTC. Docking was to the rear Zvezda port.
+
+Meanwhile, Atlantis has been connected to the STS-106 stack in the
+Vehicle Assembly Building. The stack was then moved from high bay 3 to
+high bay 2 to test out use of this newly refurbished bay; it will be
+rolled out to the launch pad next month in preparation for launch to the
+Space Station.
+
+
+Current Launches
+----------------
+
+Contrary to some rumours, the MITA satellite is operating well in orbit
+after launch on Jul 15. CHAMP has also begun operations after some
+minor problems with star sensors, possibly due to damage during fairing
+separation. The MITA satellite is controlled by Telespazio's Corcolle center
+near Roma.
+
+Rumba and Tango, the second pair of Cluster II magnetospheric research
+satellites for the European Space Agency, were launched on Aug 9. Here's
+a rundown on the Cluster II maneuvers so far. Apogee raising burn times
+are from the ESA web site; there are slight differences in the times
+given on different pages of the site. Note that in the highly elliptical
+post-burn-4 orbit, the velocity at apogee is very low, which is why it's
+feasible to change the inclination there by 35 degrees. Such large
+inclination changes are very rare, except for launches to geostationary
+orbit from Baykonur.
+
+2000 Jul 16 1239 Salsa and Samba launched from Baykonur
+            1251 In 217 x 217 km x 64.8 deg parking orbit
+            1410 In 251 x 18050 km x 64.8 deg orbit, separate
+                 from Fregat stage and from each other.
+            1630? Fregat at apogee, lowers perigee for deorbit
+            1920? Fregat reenters.
+2000 Jul 17 1121  Salsa burn 1,      247 x 24390 km x 64.9
+            1121  Samba burn 1,      245 x 24311 km x 64.9
+2000 Jul 18 0828  Salsa burn 2,      261 x 35417 km x 65.1
+            0833  Samba burn 2,      241 x 35007 km x 65.1
+2000 Jul 19 0508  Salsa burn 3,      250 x 56677 km x 64.9
+            0515  Samba burn 3,      241 x 57010 km x 65.1
+2000 Jul 19 2259  Salsa burn 4,      246 x 119523 km x 64.9
+            2325  Samba burn 4,      246 x 119523 km x 64.9 (?)
+2000 Jul 20 2302  Salsa burn 5       16714 x 121090 km x 90.5 deg
+2000 Jul 21 0004  Samba burn 5       16869 x 121098 km x 90.6 deg
+2000 Aug  9 1113  Rumba and Tango launch from Baykonur
+            1126  R and T in 190 x 190 km x 64.8 deg orbit
+            1243  R and T separate from Fregat in 250? x 18050? km x 64.8 deg
+            1510  Fregat deorbit burn at apogee, in -157 x 17075 km orbit.
+            1731  Fregat reenters
+2000 Aug 10 0853  Tango burn 1       240 x 23063 km x 64.9 
+2000 Aug 10 1329  Rumba burn 1,      237 x 23522 km x 64.9
+2000 Aug 11 0340  Rumba burn 2,      240 x 33997 km x 64.9
+            0458  Tango burn 2,      240 x 33997 km x 64.9
+            2335  Rumba burn 3,
+2000 Aug 12 0019  Tango burn 3,
+2000 Aug 12 1630? Rumba burn 4
+            1636? Tango burn 4
+2000 Aug 13 1655  Rumba burn 5,     17200 x 120600 km x 90 deg
+            1658  Tange burn 5.     17200 x 120600 km x 90 deg
+
+By Aug 13 Rumba and Tango were in similar orbits to Salsa and Samba. On
+Aug 26 they will begin stationkeeping, maintaining separations from a
+few hundred to some thousands of kilometers in a tetrahedral constellation.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  4 2344   Kosmos-2371       Proton-K/DM-2? Baykonur LC200   Comms      36A
+Jul 12 0456   Zvezda            Proton-K       Baykonur LC81L   Station    37A
+Jul 14 0521   Echostar VI       Atlas 2AS      Canaveral SLC36B Comms      38A
+Jul 15 1200   CHAMP   )         Kosmos-3M      Plesetsk LC132   Science    39A
+              MITA    )                                         Science    39B
+              Rubin   )                                         Imaging    39C
+Jul 16 0917   GPS SVN 44        Delta 7925     Canaveral LC17A  Navsat     40A
+Jul 16 1239   Samba   )         Soyuz-Fregat   Baykonur LC31    Science    41A
+              Salsa   )                                         Science    41B
+Jul 19 2009   Mightysat 2.1     Minotaur       Vandenberg CLF   Tech       42A
+Jul 28 2242   PAS 9             Zenit-3SL      Odyssey, POR     Comms      43A
+Aug  6 1827   Progress M1-3     Soyuz-U        Baykonur LC1     Cargo      44A
+Aug  9 1113   Rumba   )         Soyuz-Fregat   Baykonur LC31    Science    45A
+              Tango   )                                         Science    45B
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Oct     ISS 3A
+OV-104 Atlantis        VAB Bay 2     STS-106 2000 Sep     ISS 2A.2b
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+MLP-1 
+MLP-2/RSRM-75/ET-103/OV-104  VAB Bay 2  STS-106
+MLP-3/RSRM-76/ET-104         VAB Bay 3  STS-92
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,229 @@
+Jonathan's Space Report
+No. 605                                        2009 Jan 27, Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 18 crew of Michael Fincke, Yuriy Lonchakov and Sandra Magnus
+continue work on board ISS.
+
+Soyuz TMA-13 is docked to the Zarya port and Progress M-01M is
+docked to the Pirs module.
+
+On Dec 23, Lonchakov and Fincke performed a spacewalk (Russian
+EVA-21) from the Pirs module using the Orlan M-26 and M-27 spacesuits.
+Magnus remained inside the station.
+The airlock was depressurized at 0011 UTC; following a problem with a
+depressurization valve, extended pressure leak checks were carried out.
+The hatch was opened at 0051 UTC. Fincke installed a Langmuir probe on
+Pirs while Lonchakov retrieved the Biorisk canister 2. Then, the Impuls
+and Expose-R experiments were installed on Zvezda. Expose-R failed to
+activate and was removed and returned to the airlock. The hatch was
+closed at 0629 UTC and the airlock repress began at 0639 UTC, reaching
+the 35mm fiducial pressure I use at 0640 UTC, for a spacewalk
+duration of 06h29m (depress/repress) or 5h38 (hatch open/close).
+
+
+NROL-26
+-------
+
+Secret launch NRO L-26 for the National Reconnaissance Office took
+off on a Delta 4 Heavy from complex 37B at Cape Canaveral on Jan 18.
+The payload was designated USA 202. Analysts suggest it was probably
+placed in geostationary orbit and is a new large-diameter-antenna
+signals intelligence satellite in the series whose earlier codenames
+were RHYOLITE, AQUACADE, MAGNUM, and ORION.
+
+The Delta 4 final stage has been found by indepedent observers
+in a 35943 x 38077 km x 3.0 deg near-synchronous orbit.
+
+  Probable satellites in the RHYOLITE lineage
+  --------------------------------------------
+
+RH  Desig.    Unclass. Name           Launch date  Launch vehicle flight
+ 1  1970-46A  OPS 5346 (Program 720)  1970 Jun 19  Atlas Agena S/N 5201A
+ 2  1973-13A  OPS 6063 (Program 720)  1973 Mar  6  Atlas Agena S/N 5202A
+ 3  1977-114A OPS 4258 (Program 472)  1977 Dec 11  Atlas Agena S/N 5504A
+ 4  1978-38A  OPS 8790 (Program 472)  1978 Apr  7  Atlas Agena S/N 5505A
+ 5  1985-10B  USA 8                   1985 Jan 24  Shuttle Mission 51-C
+ 6  1985-90B  USA 48                  1989 Nov 23  Shuttle Mission STS-33
+ 7  1995-22A  USA 110                 1995 May 14  Titan-Centaur 17
+ 8  1998-29A  USA 139                 1998 May  9  Titan-Centaur 18
+ 9  2003-41A  USA 171                 2003 Sep  9  Titan-Centaur 20
+10  2009-01A  USA 202                 2009 Jan 18  Delta 337  (4H No. 3)
+
+Yaogan Weixing 5
+----------------
+
+The Yaogan weixing wuhao (Resource satellite No. 5) was launched on Dec 15
+from Taiyuan only two weeks after YW 4 was launched from Jiuquan.
+This confirms the pattern of two different series within the Yaogan series,
+but also complicates the picture since YW 5 is in a lower orbit than
+previous satellites in the series - although similar to the ZY-2 satellites.
+
+The launch vehicle was announced as a CZ-4B, although a CZ-4C had been
+expected; the CZ-4C upper stage has a restartable YF-40A engine. 
+Pictures of the latest launch show the larger nose fairing previously
+used on the CZ-4C.
+
+
+        Launch Date  LV         Orbit (km x km x deg) Rocket orbit
+
+ Taiyuan launches               
+ ZY-2-1 2000 Sep  1  CZ-4B      474 x 481 x 97.1      469 x 492 x 97.4
+ ZY-2-2 2002 Oct 27  CZ-4B      484 x 499 x 97.1      396 x 575 x 97.3
+ ZY-2-3 2004 Nov  6  CZ-4B      559 x 615 x 97.4      397 x 580 x 97.2
+ YW 1   2006 Apr 26  CZ-4B      627 x 629 x 97.8      450 x 617 x 97.8
+ YW 3   2007 Nov 11  CZ-4C      626 x 629 x 97.8      456 x 614 x 97.8
+ YW 5   2008 Dec 15  CZ-4B?     480 x 492 x 97.4      359 x 487 x 97.3
+
+ Jiuquan launches
+ YW 2   2007 May 25  CZ-2D      630 x 655 x 97.9      Not tracked
+ YW 4   2008 Dec  1  CZ-2D      633 x 651 x 97.9      Not tracked
+
+Note that the ZY-2-3 satellite was initially in a 480 x 500 km 
+orbit like the other ZY-2 satellites. In 2008 June its apogee slowly increased,
+and by September it was in a 520 x 533 km orbit. The orbit was then
+changed to 530 x 590 km and by November to 550 x 610 km.
+
+Fengyun 2-06
+-------------
+
+The Fengyun erhao 06 xing (Fengyun No. 2 satellite 06) weather satellite
+was launched on Dec 23 by a CZ-3A (changzheng sanhao jia) three-stage
+rocket from the Xichang Satellite Launch Center (xichang weixing fashe
+zhongxin). I will refer to the satellite as FY 2-06. 
+
+FY 2-06  reached geostationary orbit on Dec 23, firing its apogee motor
+to enter a 35055 x 35447 x 2.7; after orbit circularization
+it ejected its apogee motor into a 35117 x 35450 km x 2.7 deg orbit.
+On Dec 26 china-spacenews.com reported that the satellite was on station
+at 123.5E and called it Fengyun erhao E xing (FY-2E). I believe that
+FY 2-06 is the prelaunch, factory production number name and FY-2E
+is a post launch name, similar to the former NASA practice.
+
+
+AMC 14
+------
+
+The Americom 14 satellite, which was stranded in transfer orbit after
+launch on Mar 14, finally reached geosynchonous altitude in December
+after months of low-thrust burns. By Nov 20 it was in a 1380 min, 32952
+x 36408 km x 13.8 deg orbit and on Dec 19 its orbit was 1435.63 min,
+35094 x 36459 x 13.1 deg drifting near 61 deg E.
+
+
+Eutelsat 
+--------
+
+The European satellite telecoms company Eutelsat SA saw the launch of two
+of its satellites on a single Ariane 5ECA rocket on Dec 20.
+
+Hot Bird 9, an EADS Astrium Ku-band Eurostar 3000, has a dry mass of 2338 kg and
+will replace Hot Bird 3 at 13E. Eutelsat W2M is also a Ku-band satellite and
+will operate at 10E; built by EADS Astrium and ANTRIX/ISRO, it uses the ISRO I3K
+(Insat) bus and represents the first foreign sale of an Indian-built satellite.
+
+Glonass
+-------
+
+Three Uragan-M navigation satellites were launched on Dec 25 to supplement
+the Glonass navigation system. The satellites, with the cover names
+Kosmos-2447 to 2449, are serial numbers 727, 728 and 729. 
+
+Ibuki
+-----
+
+Japan's H2A No. 15 rocket took off from Tanegashima on Jan 23 and placed
+the GOSAT (Greenhouse Gas Observing Satellite) in a 669 x 672 km x 98.0
+deg sun-synchronous orbit. GOSAT has been given the name 'Ibuki'
+('breath'); it carries the TANSO-FTS IR spectrometer and the TANSO-CAI 
+cloud and aerosol imager. GOSAT was developed by the Japanese space agency
+JAXA and built by Mitsubishi Electric/Kamakura.
+
+The 1750 kg Ibuki was accompanied by a cluster of small satellites released
+from the H2A second stage. 
+
+SDS-1 is JAXA's Small Demonstration Satellite, a 100 kg microsatellite
+with a camera, GPS receiver and sun sensor.
+
+SpriteSat is a 50 kg small satellite with a gravity gradient boom which
+will study flashes from lightning 'sprites'. It was developed by Tohoku
+University in Sendai.
+
+SOHLA-1 was devloped by the Space Oriented Higashi-osaka Leading Association
+(SOHLA), a group of aerospace companies in the Osaka region. It
+carries a cloud cover imager and has a mass of 50 kg.
+
+Kagayaki is a 28 kg technology satellite from the Sorun Corp. in Tokyo
+with a variety of technology payloads.
+
+Prism is a 5 kg remote sensing picosatellite from the University of Tokyo.
+It has a 10-cm aperture Earth imager on a 1-meter deployable boom.
+
+KKS-1 was built by Kouku-kosen (Tokyo Metropolitan College of Aeronautical Engineering)
+and has a mass of 3 kg. It carries an Earth imager.
+
+STARS, also named Kukai is a 7 kg Kagawa University picosatellite 
+demonstrating a tethered space robot. It consists of two boxes, Ku and Kai,
+connected by a tether.
+
+Erratum
+--------
+
+In last issue's suborbital launch log, the NASA 36.221DS entry was spurious.
+The launch has been delayed until 2009 Feb.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Dec  1 0442   Yaogan Weixing 4  Chang Zheng 2D   Jiuquan           Imaging?  61A
+Dec  2 0500   Kosmos-2446       Molniya-M        Plesetsk LC16/2   Early Warn 62A
+Dec 10 1343   Ciel-2            Proton-M/Briz    Baykonur LC200/39 Comms     63A
+Dec 15 0322   Yaogan Weixing 5  Chang Zheng 4B?  Taiyuan           Imaging?  64A
+Dec 20 2235   Hot Bird 9  )     Ariane 5ECA      Kourou ELA3       Comms     65A
+              Eutelsat W2M)                                        Comms     65B
+Dec 23 0054   FY 2E             Chang Zheng 3A   Xichang           Weather   66A
+Dec 25 1043   Kosmos-2447 )     Proton-M/DM      Baykonur LC81/24  Nav       67A
+              Kosmos-2448 )                                        Nav       67C
+              Kosmos-2449 )                                        Nav       67B
+Jan 18 0247   USA 202 (NROL-26) Delta 4H         Canaveral SLC37B  Sigint    01A
+Jan 23 0354   Ibuki      )      H-IIA 202        Tanegashima       Rem.Sens. 02A
+              SDS-1      )                                         Tech      02C
+              SOHLA-1    )                                         Imaging   02
+              SpriteSat  )                                         Science   02
+              Kagayaki   )                                         Tech      02
+              KKS 1      )                                         Imaging   02
+              Kukai      )                                         Tech      02G
+              PRISM      )                                         Imaging   02B
+
+  
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Dec 23 0300   RV-1 )          Bulava          TK-208, Barents R&D          100?
+              RV-2 )
+              RV-3 )
+              ?    ) (Number of reentry vehicles unknown)
+Jan 10 2317   NASA 30.073UO   Imp. Orion      Poker Flat      Ionosphere    98
+Jan 26 0015   S-310-39        S-310           Andoya          Atmosphere   140?
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+ 

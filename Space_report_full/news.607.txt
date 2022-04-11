@@ -1,0 +1,188 @@
+Jonathan's Space Report
+No. 607                                             2009 Mar 2  Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 18 crew of Michael Fincke, Yuriy Lonchakov and Sandra Magnus
+continue work on board ISS.  Progress M-66 is docked to the Pirs module.
+
+OCO
+---
+
+NASA's Orbiting Carbon Observatory mission has failed. Launch from
+Vandenberg was on Feb 24, but the Taurus XL's payload fairing failed
+to separate. It is believed that the rocket and payload crashed
+near the Antarctic.
+
+Dawn
+----
+
+En route to the asteroid belt, the Dawn space probe has flown past Mars.
+Closest approach of 543 km at a Mars-relative velocity of 5.31 km/s was
+at 0028 UTC (SCET) on 2009 Feb 18. Dawn's hyperbolic orbit relative
+to the Mars equator was about 543 x -20665 km x 119.5 deg; its solar
+ecliptic orbit was changed from 1.22 x 1.68 AU x 1.8 deg to 1.37 x
+1.84 AU x 6.1 deg. Dawn entered Mars' nominal gravitional sphere of
+influence at 2009 Feb 15 1200 UTC and left it at Feb 20 1300 UTC.
+Dawn's next appointment is its arrival in Vesta orbit during 2011 Sep.
+
+I encourage readers to check out Marc Rayman's entertaining Dawn Journal
+at http://dawn.jpl.nasa.gov/mission/journal.asp
+
+Satellite collision
+-------------------
+
+The first debris objects from Kosmos-2251 and Iridium 33 have been cataloged.
+As of Mar 2, 128 Iridium and 274 Kosmos pieces were in the catalog.
+
+Iranian satellite launch time
+-----------------------------
+
+Phillip Clark's Worldwide Satellite Launches newsletter quotes
+a translation of an interview with a scientist connected to the Omid project,
+giving the launch time of Omid as 2206 Iran time, which is 1836 UTC.
+This is two minutes later than the time I estimated in the last issue.
+
+Telstar 11N
+-----------
+
+Space International Services of Moscow launched a 'Land Launch'
+Zenit-3SLB rocket from Baykonur with the Telstar 11N satellite on board.
+The Blok DM-SLB third stage made three burns, from a -2268 x 373 km x
+51.4 deg initial state to a 175 x 651 km x 51.4 deg parking orbit, a 202
+x 35575 km x 50.7 deg intermediate orbit, and a planned 1494 x 35797 km
+x 34.6 deg deployment orbit. The Telstar 11N then used its own
+engine to raise its orbit to 6415 x 35803 km x 17.7 deg on the way to GEO.
+
+Telstar 11N is owned by Telesat, which is based in Ottawa. Although
+it is probably operated by Telesat's Bedminster, New Jersey office which is
+the corporate successor to the original AT&T Telstar satellite operation,
+it seems that it should be counted as a Canadian-owned satellite.
+
+
+North Korean satellites
+-----------------------
+
+The Korean Committee of Space Technology of the Choson Minjujuui Inmin
+Konghwaguk (Democratic People's Republic of Korea) has announced the
+planned launch of the Kwangmyongsong-2 satellite. Kwangmyongsong-1 was
+launched in 1998 Aug but failed to reach orbit, despite North Korean
+claims to the contrary. The new satellite will use a rocket called
+Unha-2 ("Galaxy-2"). The 1998 rocket was the Paektusan-1 (using the
+McCune-Reischauer transliteration scheme; Taepo-Dong was a name assigned
+by US intelligence and is not the North Korean name of the rocket). 
+Wikipedia tells me that Paektusan ("White-headed mountain", also called
+Baekdu or Baitoushan) is the tallest mountain in Korea.
+
+The new statement reveals that the name of the launch site is the
+Tonghae Satellite Launching Ground. The site, in Hwadae county of
+Hamgyong Pukdo province, is near Cape Musu-dan and was previously
+referred to in Western analysis as Musudan-ri. The KCST itself is an
+organization I haven't heard referred to before - it is either newly
+formed, or more probably, its existence is newly declassified by the
+North Koreans. (I'm not sure what the Korean name for it would be -
+something like Choson Wiwonhoe Uju Kisul perhaps? I hope Korean-speaking
+readers can help out here.)
+
+The Paektusan-1 uses as its first stage a North-Korean-modified R-17
+(Scud) derived missile whose US intelligence designation is Nodong. We
+still don't know its true name, so I'll continue calling it Nodong, 
+which is the name of a village near Tonghae and also means 'worker'.
+(In McCune-R it's probably written Rodong, but the Nodong name has stuck.)
+
+Another large rocket was launched on 2006 Jul 4; in the west it is
+called Taepodong 2 (TD-2). It's conceivable that this is the Unha-1, but
+I'll resist the temptation to rename it at this stage. Although the
+TD-2 is usually thought to be a new family of first stage, I am not convinced
+of this and think it may be another Nodong-series vehicle like Paektusan
+and like the Iranian Safir. I expect the same to be true of Unha-2;
+we may soon find out.
+
+
+Kosmos-2445
+-----------
+
+Kosmos-2445, a Russian Defense Ministry  reconnaissance satellite
+(possibly designated 11F695U Kobal't-M), landed on Feb 23 after 101 days
+in space. Two debris objects separated on Feb 23 around 1330 UTC;
+they reentered within a day. The main spacecraft was probably deorbited
+around 1540-1550 UTC and landed around 1615 UTC.
+
+Raduga-1
+--------
+
+A Russian military communications satellite in the Globus series
+(cover name Raduga-1) was launched on Feb 28 by a Khrunichev Proton-K
+with an Energiya DM-2 upper stage. The previous launch in the series
+was a modified Raduga-1M launched with the more modern Proton-M/Briz-M
+rocket; the use of the older rocket suggests that this one is indeed just
+a Raduga-1 and not a Raduga-1M. The new Raduga-1 was in geosynchronous
+orbit in the 90 E region late on Feb 28.
+
+
+Chang'e-1
+---------
+
+China's lunar probe, Chang'e-1, was deorbited at 0736 UTC on Mar 1 and
+impacted the lunar surface at 1.50S 52.36E at 0813 UTC. The impact site
+in Mare Fecunditatis is south-east of the crater Taruntius P and west of
+the Luna-16 landing site.
+
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jan 18 0247   USA 202 (NROL-26) Delta 4H         Canaveral SLC37B  Sigint    01A
+Jan 23 0354   Ibuki      )      H-IIA 202        Tanegashima       Rem.Sens. 02A
+              SDS-1      )                                         Tech      02C
+              SOHLA-1    )                                         Imaging   02
+              SpriteSat  )                                         Science   02
+              Kagayaki   )                                         Tech      02
+              KKS 1      )                                         Imaging   02
+              Kukai      )                                         Tech      02G
+              PRISM      )                                         Imaging   02B
+Jan 30 1330   Koronas-Foton     Tsiklon-3        Plesetsk         Solar phys 03A
+Feb  2 1836   Omid              Safir            (Iran)            Test      04A  
+Feb  6 1022   NOAA 19           Delta 7320-10C   Vandenberg SLC2W  Weather   05A
+Feb 10 0549   Progress M-66     Soyuz-U          Baykonur LC31     Cargo     06A
+Feb 11 0003   Ekspress AM-44 )  Proton-M/Briz-M  Baykonur LC200/39 Comms     07A
+              Ekspress MD-1  )                                     Comms     07B
+Feb 12 2209   Hot Bird 10 )     Ariane 5ECA      Kourou ELA3       Comms     08B
+              NSS 9       )                                        Comms     08A
+              Spirale A   )                                       Early Warn 08C
+              Spirale B   )                                       Early Warn 08D
+Feb 24 0955   OCO               Taurus           Vandenberg 576E   Sci       F01
+Feb 26 1830   Telstar 11N       Zenit-3SLB       Baykonur LC45     Comms     09A
+Feb 28 0410   Raduga-1          Proton-K/DM2     Baykonur LC81/24  Comms     10A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Dec 23 0300   RV x 3?         Bulava          TK-208, Barents R&D          100?
+Jan 10 2317   NASA 30.073UO   Imp. Orion      Poker Flat      Ionosphere    98
+Jan 26 0015   S-310-39        S-310           Andoya          Atmosphere   140?
+Jan 29 0949   NASA 36.242UE   Black Brant IX  Poker Flat      Aurora       364
+Jan 29 0951   NASA 21.139UE   Black Brant VC  Poker Flat      Aurora       133
+Feb 18 0952   NASA 41.076     Terrier Orion   Poker Flat      Atmosphere   130?
+Feb 18 1029   NASA 41.078     Terrier Orion   Poker Flat      Atmosphere   130?
+Feb 18 1059   NASA 41.079     Terrier Orion   Poker Flat      Atmosphere   130?
+Feb 18 1147   NASA 41.077     Terrier Orion   Poker Flat      Atmosphere   130?
+Feb?          USN Mk 5 RV x 8? Trident D-5    SSBN, WTR       Test        1000?
+Feb 13        USN Mk 5 RV x 8? Trident D-5    SSBN 731, WTR   Test        1000?
+Feb 25 1045   NASA 36.226UG   Black Brant IX  White Sands     IR Astron.   300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

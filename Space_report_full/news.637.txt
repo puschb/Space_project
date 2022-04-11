@@ -1,0 +1,136 @@
+Jonathan's Space Report
+No. 637                                               2011 Jan 26 Somerville, MA
+----------------------------------------------------------------------------------
+
+Editorial note: the JSR website planet4589.org has just been moved to a new
+server. This should be transparent, but there may be transition problems;
+we will now discover if I have learnt to configure the mail server correctly.
+
+Shuttle and Station
+-------------------
+
+Expedition 26 is now underway with crew commander Scott Kelly,  flight
+engineer-2 Aleksandr Kaleri, flight engineer-3 Oleg Skripochka, flight
+engineer-4 Dmitri Kondratev, flight engineer-5 Paolo Nespoli and flight
+engineer-6 Cady Coleman aboard the Station. Soyuz TMA-01M is docked at
+Poisk, Progress M-07M at Zvezda, and Soyuz TMA-20 at Rassvet.
+
+On Jan 21 Kondratev (in spacesuit Orlan-MK No. 5) and Skripochka (in
+suit No. 4) made a spacewalk to install television equipment on Zvezda
+and Rassvet and to retrieve exposed experiments. They depressurized the
+Pirs airlock around 1409 UTC, and opened the hatch at 1429 UTC. At 1653
+and 1654 UTC they jettisoned a cable reel and an antenna cover
+(cataloged as 1998-67CC and 1998-67CD). They returned to Pirs and closed
+the hatch at 1952 UTC, repressurizing shortly afterwards. (Thanks to
+Andrey Krasil'nikov for the IDs on the suits).
+
+On Jan 22 the second H-II Transfer Vehicle, "Kounotori" 2 gouki ("White
+Stork" Unit 2) was launched from Japan's Tanegashima Space Center on the
+second H-IIB rocket. The 16000 kg spacecraft  will link up with the
+station and deliver cargo. The H-IIB used Pad 2 of the Yoshinobu
+complex; Pad 1 is used for the H-IIA. Tanegashima also has two other
+launch sites, Osaki and Takesaki, now retired. Osaki had pads for the N
+and Q rockets, while Takesaki had launchers for small rockets.
+
+Progress M-08M undocked from Pirs at 0042 UTC on Jan 24 and was deorbited
+over the Pacific at 0516 UTC.
+
+
+Nanosail-D2
+-----------
+
+The Nanosail-D2 experiment launched in November has belatedly ejected
+itself from FASTSAT. The ejection occurred at 0300 UTC Jan 18, according
+to the mission web site at Santa Clara University. The satellite has
+not yet been cataloged. The solar sail was deployed on Jan 21 at around 
+0400 UTC.
+
+Elektro-L
+---------
+
+Russia's new Elektro-L weather satellite was launched on Jan 20 at 1229
+UTC. The Zenit-3SLBF launch vehicle consists of a two-stage Zenit-2SB80
+booster and the Fregat-SB upper stage, with an additional SBB
+(Sbrasivaemiye baki banov, separable propellant tanks) section compared
+to the original Fregat. The Zenit-2SB80 second stage reached a 179 x 620
+km x 51.4 deg orbit; the Fregat upper stage separated as the second
+stage fired retrockets and jettisoned four separation motor covers into
+190 x 850 km orbits. The first Fregat burn reached 298 x 4406 km x 50.4
+deg, after which the SBB separated. At 1558 UTC the Fregat then made a
+burn to 356 x 35753 km x 48.5 deg geostationary transfer orbit. A third
+Fregat burn at 2119 UTC put the spacecraft in a 35627 x 35870 km x 0.46
+deg geosynchronous orbit over the Indian Ocean. Fregat then separated
+and was placed in a subsynchronous drift orbit of 34195 x 35718 km with
+a final burn.
+
+Elektro-L is the first use of the Lavochkin company's new Navigator
+bus, also to be used for future science satellites. The spacecraft
+carries a scanning visible/infrared radiometer, solar environment
+monitors and a COSPAS-SARSAT search-and-rescue transponder system.
+Spacecraft mass at launch is around 1700 kg.
+
+NRO satellite
+-------------
+
+A US National Reconnaissance Office satellite, codenamed USA 224, was
+launched from Vandenberg AFB on Jan 20 aboard a Delta 4 Heavy rocket.
+Launch NROL-49 carried the payload into a 252 x 1023 km x 97.9 deg polar
+orbit. Observations of its orbit are consistent with reports that it is
+an Improved CRYSTAL type (KH-11 derivative) imaging reconnaissance
+satellite; congratulations to Bob Christy for picking it up so quickly.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Dec  6 1025   Glonass-M )       Proton-M/DM-3      Baykonur         Navigation F03
+              Glonass-M )                                           Navigation F03
+              Glonass-M )                                           Navigation F03
+Dec  8 1543   Dragon C1       ) Falcon 9           Canaveral SLC40  Spaceship  66A
+              SMDC-One        )                                     Comms?     66C
+              QbX-1           )                                     Secret     66F
+              QbX-2           )                                     Secret     66B
+              Perseus 000     )                                     Tech?      66H
+              Perseus 001     )                                     Tech?      66E
+              Perseus 002     )                                     Tech?      66G
+              Perseus 003     )                                     Tech?      66D
+              Caerus/Mayflower)                                     Tech       66J
+Dec 15 1909   Soyuz TMA-20      Soyuz-FG           Baykonur LC1     Spaceship  67A
+Dec 17 2020   Beidou DW7        Chang Zheng 3A     Xichang          Navigation 68A
+Dec 25 1034   GSAT-5P           GSLV               Sriharikota SLP  Comms      F04
+Dec 26 2151   KA-SAT            Proton-M/Briz-M    Baykonur LC200/39 Comms     69A
+Dec 29 2127   Hispasat 1E  )    Ariane 5ECA        Kourou            Comms     70A
+              Koreasat 6   )                                         Comms     70B
+Jan 18 0300   Nanosail-D2                          Fastsat, LEO     Tech       62
+Jan 20 1229   Elektro-L         Zenit-3SLBF        Baykonur LC45    Weather    01A
+Jan 20 2110   USA 224           Delta 4H           Vandenberg SLC6  Imaging    02A
+Jan 22 0537   Kounotori 2       H-IIB              Tanegashima Y2   Cargo      03A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Dec  4 0421   ECOMA 7          Nike Orion         Andoya              Meteor dust  135
+Dec  5 1911   Topol' RV        Topol'             Kapustin Yar        Test        1000?
+Dec  6 1719   Maracati 2       Orion              Alcantara           Range Test   103
+Dec  6 1730?  NASA 41.087NT    Terrier Orion      White Sands         Tech         120
+Dec 12 0638   NASA 40.026UE    Black Brant XII    Andoya              Aurora       500?
+Dec 12 1535   MICROG 1A        VSB-30             Alcantara           Micrograv    242
+Dec 13 0324   ECOMA 8          Nike Orion         Andoya              Meteor dust  138
+Dec 15 1957?  FTG-06A Target   LV-2               Meck Island         Target      1000?
+Dec 15 2003   FTG-06A KV       GBI                Vandenberg LF23     Interceptor 1000?
+Dec 19 0236   ECOMA 9          Nike Orion         Andoya              Meteor dust  135?
+Jan 22 0610   Aegis Target     Terrier Oriole     Wallops I.          Target       100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@www.planet4589.org    |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://planet4589.org/jsr.html                                     |
+| Back issues:  http://planet4589.org/space/jsr/back                      |
+| Subscribe/unsub: http://planet4589.org/mailman/listinfo/jsr             |
+'-------------------------------------------------------------------------'   
+

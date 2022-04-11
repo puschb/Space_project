@@ -1,0 +1,291 @@
+Jonathan's Space Report
+No. 786                                                        2020 Nov 22  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 64 is now underway under the command of Sergey Ryzhikov.
+
+The Nanoracks NRCSD-19 payloads delivered to the ISS on Cygnus NG-14
+were deployed on Nov 5. One correction: Djara is a Lemur satellite developed by Spire
+Global, but it is operated by the Australian Office of National
+Intelligence to test an FPGA supercomputing chip in space.
+
+The SpaceX Crew-1 mission was launched at 0027 UTC on Nov 16 from
+Kennedy Space Center with Mike Hopkins, Victor Glover, Soichi Noguchi
+and Shannon Walker. Crew Dragon capsule C207 'Resilience' entered orbit
+and separated from the Falcon 9 second stage at 0039 UTC, beginning orbit
+manuevers to rendezvous with the ISS. Resilience docked with the IDA-2 port on ISS
+at 0401 UTC Nov 17 and the crew boarded ISS at 0602 UTC.
+
+On Nov 18 astronauts Sergey Ryzhikov and Sergey Kud-Sverchkov carried
+out the first ever spacewalk  from the Poisk module, VKD-47. All
+previous Russian ISS spacewalks were from Pirs, and in the 11 years
+since Poisk's launch its airlock had lain dormant. Now the Pirs module
+is scheduled to be removed from the ISS, so Poisk's airlock is being
+brought into service.
+
+I count `depress(urized) activities' (DPA) from the point where the
+airlock pressure reaches 50 mbar. By this rule, Nov 18 saw two DPAs,
+which I label VKD-47a and VKD-47. Roskosmos counts from first hatch open
+to last hatch close, and considers VKD-47 as a single `vykhod' (EVA, in
+NASA jargon). The timeline:
+
+  1446 UTC:  Poisk airlock first depressurization begins
+  1453 UTC:  Poisk depressurized below 50 mbar, begin VKD-47a (my rule)
+  1512 UTC:  Poisk airlock hatch open, begin VKD-47 (Roskosmos rule)
+             The astronauts inspected the hatch seals.
+  1520 UTC:  Poisk airlock hatch closed
+  1523 UTC:  Airlock repressurized above 50 mbar, end VKD-47a (my rule)
+  1527 UTC:  Airlock repress stopped at 350 mbar
+  1539 UTC:  Poisk airlock second depressurization begins
+  1544 UTC:  Airlock below 50 mbar, begin VKD-47 (my rule)
+  1555 UTC:  Poisk airlock hatch open again
+  1606 UTC:  Kud-Sverchkov egress airlock
+  1616 UTC:  Ryzhikov egress airlock with pressurized container for new flow regulator
+  1739 UTC   Zarya Flow regulator No. 1 replacement abandoned; could not open container
+  1816 UTC   Pressurized container returned to airlock
+  1923 UTC   Transit-B antenna cable relocated from Pirs to Poisk.
+  2015 UTC   Retrieve old Impakt exterior sample plate on Zvezda
+  2030 UTC   Install new  Impakt exterior sample plate on Zvezda
+  2054 UTC   Jettison of two decontamination towels
+  2134 UTC   Ryzhikov ingress
+  2145 UTC   Kud-Sverchkov ingress
+  2159 UTC   Poisk airlock hatch closed
+  2205 UTC   Airlock repressurization above 50 mbar
+  [Spacewalk underway at this writing; to be updated].
+
+  VKD-47a depress time:                     30m
+  VKD-47a hatch open time:                   8m
+  VKD-47  depress time: (JCM rule)        6h21m
+  VKD-47  hatch open time:                6h04m
+  VKD-47 Ryzhikov time outside:           5h18m
+  VKD-47 Kud-Sverchkov time outside:      5h39m
+  VKD-47 'official' Roskosmos time        6h47m48s
+    (1st hatch open to 2nd hatch close):
+
+
+
+GPS III SV-04
+-------------
+
+The fourth GPS Block 3 satellite was launched on Nov 5 on a Falcon 9. Launch had
+been delayed because of engine contamination issues. The first stage, B1062, landed on OCISLY.
+
+CZ-6
+-----
+
+The fourth Chang Zheng 6 launch, CZ-6 Y3, flew from Taiyuan on Nov 6 and placed a cluster of small
+satellites in 1030 LT sun-synchronous orbit.
+
+Ten of the payloads were imaging satellites for the Uruguayan/Argentine Satellogic company.
+The other three are:
+
+ BY70-03, an amateur radio satellite. Its full name is 
+ Zhongguo qing shaonian kepu weixing bayi 03 xing 'Taiyuan hao',
+ which means Chinese Youth Science Satellite BY-03 'Taiyuan'. Students
+ from Taiyuan Jinshan Middle School helped build it.
+
+ Tianyan 05 is also called Dianzi keji daxue hao weixing, or more loosely translated, UESTC
+ Satellite, after the Univ.  of Electronic Science and Technology (Dianzi keji daxue) in
+ Chengdu.  The sat was built by Weina (Minospace) and Guoxing Aerospace; it has an imager
+ and a THz `6G' experimental communications payload.
+ Tianyan 05 uses the MN50 bus. The satellite has the additional alternate name Xingshidai-12.
+
+ Beihang Kongshi Weixing yi hao (Beihang Konghsi 1 satellite) carries technology payloads.
+ It was built by Tianyi (which calls it TY-20) 
+ and BUAA (Beijing Hangkong Hangtian Daxue, Beijing U of Aero. and Astro).
+ It includes a ThrustMe NPT30 electric propulsion system.
+
+Galactic Energy
+---------------
+
+  Galactic Energy (Beijing) has developed a small solid launch vehicle, Gushenxing-1 ("Ceres-1")
+  using demilitarized solid motors, probably from the DF-21 missile.
+
+  The three solid stages are 1.4, 1.4 and 1.2 metres in diameter; a fourth liquid-propellant stage
+  is used for orbit insertion. Gunshenxing-1 Y1 was launched on Nov 7 from Jiuquan, reaching orbit
+  successfully with the Tianqi-11 satellite for the Guodian Gaokeji company.
+
+PSLV
+----
+
+  ISRO launched its second PSLV-DL on Nov 7, placing in orbit the EOS-1 radar satellite. 
+  EOS-1 was formerly called RISAT-2BR2, and follows on from earlier RISAT satellites.
+  Co-passengers included the R2 test satellite for NanoAvionics of Vilnius, four SpireGlobal Lemur-2
+  satellites, and four Kleos Scouting Mission satellites for commercial signals intelligence
+  for Kleos Space of Luxembourg.
+
+
+Tiantong-1-02
+-------------
+
+China's second Tiantong satellite, Tiantong 1 hao 02 xing, was launched
+on Nov 12 to geotransfer orbit. The satellite has an S-band antenna for
+communications by mobile users.
+
+NROL-101
+--------
+
+United Launch Alliance flew Atlas V mission AV-090 on Nov 13 from Cape
+Canaveral into a orbit with an inclination of around 55 to 60 degrees.
+AV-090 was an Atlas V 531 variant, using the new Northrop Grummann
+(formerly Hercules) GEM 63 solid boosters for the first time. The launch
+was for the US National Reconnaissance Office and was designated
+NROL-101. The payload was USA 310, a secret NRO satellite. Observations
+of the Centaur propellant dump over the western US suggested that the
+orbit was a medium altitude one and it was soon discovered by Marco
+Langbroek and Cees Bassa in a highly unusual 11033 x 11068 km, 58 degree
+orbit. The satellite therefore does not appear to be one of an existing
+series, and its mission is at present unclear.
+
+
+Vega VV17
+---------
+
+The Arianespace Vega has suffered its second failure. Launched
+northwards from the Centre Spatial Guyanais, Vega's three solid stages
+appear to have worked correctly. However, the liquid propellant AVUM
+fourth stage malfunctioned at the beginning of its burn, losing attitude
+control. Arianespace reports that control system cables were connected
+to the wrong sockets during assembly. The AVUM and its attached payloads
+presumably fell in the Arctic, just possibly making it as far as the
+coast of Yakutia.
+
+Since the orbit would have had a perigee not much less than zero, maybe
+around -500 km, I am giving the launch a 'U' ('uncataloged) designation:
+2020-U01. I use these designations for launches which are marginally
+orbital, and therefore 'interesting' in my opinion. Launches which fall
+further short of orbit get 'F' (failed to orbit) designations. The list
+of 'U' launches is at https://planet4589.org/space/gcat/data/ldes/U.html
+
+The payloads of VV17 were the Spanish imaging satellite SARSAT-Ingenio
+and the French Taranis scientific satellite, which would have studied
+lightning sprites and related phenomena.
+
+Electron 16
+-----------
+
+The Electron 16 launch `Return to Sender' took off from New Zealand on Nov 20,
+placing a cluster of small satellites in a 1440 local time sun-synchronous orbit:
+   Alchemy and Augury (DragRacer A and B): two 6U satellites from TriSept Corp, Millenium Space and
+     Tethers Unlimited. Alchemy has a 70-metre-long `Terminator Tape' drag tether to make it reenter
+     quickly; Augury does not have the tape and will be used as a control, decaying normally.
+     As I understand it the two satellites were deployed attached to each other. It is not
+     clear when they will separate or when the tether will be deployed;
+   BRO-2 and BRO-3 for Unseen Labs, 6U satellites providing commercial radio spectrum monitoring;
+   Te Waka Amiorangi o Aotearoa (APSS-1), a 1U satellite for the Auckland Program for Space Studies
+     of the University of Auckland. It carries a Langmuir probe to study possible ionospheric
+     precursors to earthquakes;
+   SpaceBEE 22 to 45, a set of twenty-four 0.25U communications satellites for Swarm Technologies.
+
+Sentinel-6
+-----------
+
+SpaceX launched the European Union's `Sentinel 6 Michael Freilich'
+oceanographic satellite on Nov 21 from Vandenberg AFB. Sentinel-6
+carries the Poseidon-4 sea surface height radar altimeter, continuing
+the series begun by TOPEX-Posideon satellite and continued by the Jason
+series Poseidon is developed by ESA and CNES; the satellite calso
+carries NASA/JPL equipment for orbit determination and GNSS radio
+occultation.  The satellite is named in honor of American oceanographer
+Michael Freilich (1954-2020).
+
+The Falcon 9 first stage returned to Vandenberg, landing at Landing Zone 4. The second stage
+was left in an orbit slightly below the payload.
+
+AC-10a
+------
+
+The Aerocube 10a satellite released its fourth passive atmospheric probe on around Nov 18.
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Oct 25 1908   Glonass-K No. 15L              Soyuz-2-1B/Fregat   Plesetsk LC43/4 Navigation 75A S46805 19125 x 19150 x 64.8
+Oct 26 1519   Yaogan 30 hao 07 zu 01 xing)   Chang Zheng 2C      Xichang         Sigint     76A S46807   589 x   604 x 35.0
+              Yaogan 30 hao 07 zu 01 xing)                                       Sigint     76B S46808   589 x   604 x 35.0
+              Yaogan 30 hao 07 zu 01 xing)                                       Sigint     76C S46809   589 x   604 x 35.0
+              Tianqi Xingzuo 06          )                                       Comms      76D S46810   589 x   604 x 35.0
+Oct 28 2121   CE-SAT-IIB     )               Electron            Mahia LC1       Imaging    77F S46818   508 x   524 x 97.5
+              Flock 4e'-1    )                                                   Imaging    77A S46813   511 x   528 x 97.5
+              Flock 4e'-2    )                                                   Imaging    77H S46820   511 x   528 x 97.5
+              Flock 4e'-3    )                                                   Imaging    77G S46819   511 x   528 x 97.5
+              Flock 4e'-4    )                                                   Imaging    77J S46821   511 x   528 x 97.5
+              Flock 4e'-5    )                                                   Imaging    77E S46817   511 x   528 x 97.5
+              Flock 4e'-6    )                                                   Imaging    77K S46822   511 x   528 x 97.5
+              Flock 4e'-7    )                                                   Imaging    77B S46814   505 x   528 x 97.5
+              Flock 4e'-8    )                                                   Imaging    77D S46816   507 x   524 x 97.5
+              Flock 4e'-9    )                                                   Imaging    77C S46815   505 x   525 x 97.5
+Nov  5 0905   Bobcat-1)                                          ISS, LEO        Tech    98067
+              SPOC    )                                                          Imaging 98067
+Nov  5 1040   Neutron-1                                          ISS, LEO        Sci     98067
+Nov  5 1215   Djara                                              ISS, LEO        Tech    98067
+Nov  5 1315   Descent        )                                   ISS, LEO        Tech    98067
+              SAT-TLA 1      )                                                   Tech    98067
+              Lemur-2-Unnamed)                                                   Com/Met 98067
+Nov  5 2324   GPS III SV-04                   Falcon 9           Canaveral LC40  Nav        78A S46826  402 x 20183 x 55.0
+Nov  6 0318   Nusat-9  (Alice)     )          Chang Zheng 6      Taiyuan         Imaging    79A?S46827  465 x   473 x 97.3
+              Nusat-10 (Caroline)  )                                             Imaging    79
+              Nusat-11 (Cora)      )                                             Imaging    79
+              Nusat-12 (Dorothy)   )                                             Imaging    79
+              Nusat-13 (Emmy)      )                                             Imaging    79
+              Nusat-14 (Hedy)      )                                             Imaging    79
+              Nusat-15 (Katherine) )                                             Imaging    79
+              Nusat-16 (Lise)      )                                             Imaging    79
+              Nusat-17 (Mary)      )                                             Imaging    79
+              Nusat-18 (Vera)      )                                             Imaging    79
+              Taiyuan BY70-3       )                                             Comms      79
+              Beihang Kongshi 1    )                                             Comms      79
+              Tianyan 05           )                                             Imaging    79
+Nov  7 0712   Tianqi-11                       Gushenxing-1       Jiuquan         Comms      80A S46904   485 x   501 x 97.4
+Nov  7 0941   EOS-1           )               PSLV-DL          Satish Dhawan FLP Imaging    81A          568 x   576 x 36.9
+              Lemur-2-Ozarak  )                                                  Com/Met    81D          565 x   578 x 36.9
+              Lemur-2-Jindra  )                                                  Com/Met    81E          565 x   578 x 36.9
+              Lemur-2-Wallace )                                                  Com/Met    81F          565 x   576 x 36.9
+              Lemur-2-Jeremiah)                                                  Com/Met    81G          565 x   576 x 36.9
+              R2              )                                                  Tech       81
+              KSM-1A          )                                                  Sigint     81
+              KSM-1B          )                                                  Sigint     81
+              KSM-1C          )                                                  Sigint     81
+              KSM-1D          )                                                  Sigint     81
+Nov 12 1559   Tiantong-1 02                    Chang Zheng 3B     Xichang        Comms      82A S46917   170 x 35820 x 28.4
+Nov 13 2332   USA 310                          Atlas V 531       Canaveral SLC41 Radar?     83A S46918 11033 x 11068 x 58.5
+Nov 16 0027   Resilience                       Falcon 9          Kennedy LC39A   Spaceship  84A S46920   189 x   208 x 51.6
+Nov 17 0152   SEOSAT-Ingenio)                  Vega              CSG             Imaging    U01 A09651  -500? x  250?x 98.5
+              Taranis       )                                                    Science    U01 A09652  -500? x  250?x 98.5
+Nov 18?       AC-10a Probe 04                                  AC-10a, LEO       Science 19-22N S46928   469  x  482 x 51.6
+Nov 20 0220   Augury                      )    Electron          Mahia LC1       Tech       85  S46931?  501  x  521 x 97.4
+              Alchemy                     )                                      Tech       85
+              BRO-2                       )                                      Sigint     85
+              BRO-3                       )                                      Sigint     85
+              Te Waka Amiorangi o Aotearoa)                                      Sci        85
+              SpaceBEE 22 to 45           )                                      Comms      85
+Nov 21 1717   Sentinel-6 Michael Freilich      Falcon 9          Vandenberg SLC4E Oceanog.  86A S46984  1308  x 1327 x 66.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+
+Oct  1        Black Dagger      Boosted Zombie     Fort Wingate?         Target        100?      White Sands
+Oct 13 1336   NS-13             New Shepard        W Texas               Test          106       W Texas
+Oct 29 0727   GT236GM           Minuteman 3        Vandenberg LF09       Op. Test     1300?      Kwajalein
+Nov  2 1040   DEUCE 3           Black Brant IX     White Sands           UV Astron     285       White Sands
+Nov 17 0550   FTM-44 Target     ICBM-T2?           Meck, Kwajalein       Target       1000?      Pacific (intercepted)
+Nov 17 0605?  FTM-44 KV         SM-3 Block IIA    DDG-18, Pacific        Interceptor   200?      FTM-44 interception
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

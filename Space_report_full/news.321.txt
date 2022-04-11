@@ -1,0 +1,109 @@
+Jonathan's Space Report
+No. 321                                     1997 May 12 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The spacesuits used on the latest Mir spacewalk were, of course, the
+new Orlan-M variant and not the old Orlan-DMA. I got confused about
+the designations. 
+ The original Orlan suit was built for the lunar program. The long
+duration Orlan-D was the first to actually fly, on Salyut-6.
+Salyut-7 started off with Orlan-D suits, but in 1985 new Orlan-DM suits were 
+delivered. Mir started off with the DM model, and the new DMA model
+arrived aboard Progress-37 or Progress-38 in 1988. Up to four suits
+have been in service on the station at any one time. Orlan-DMA No. 11
+was used on a total of 14 spacewalks from 1988 to 1991. The Orlan-DMA
+suits are now being replaced by the Orlan-M. A first attempt at a chronology
+of Orlan suit use is at
+ http://hea-www.harvard.edu/~jcm/space/misc/orlan
+
+Launch of STS-84 is scheduled for May 15. Atlantis carries the
+Orbiter Docking System and the Spacehab Double Module, and will
+dock with the Mir complex. Mike Foale will replace Jerry Linenger
+aboard the station.
+
+Recent Launches
+---------------
+
+McDonnell Douglas launched a Delta 7920 rocket from Vandenberg on May 5,
+the first Delta launch since January's failure. It carried five
+satellites for Iridium LLC. The Delta successfully reached
+transfer orbit, and the second stage later reignited to circularize
+in a 625 x 643 km x 86.4 deg orbit from which it dispensed the five
+payloads. After the depletion burn, the Delta stage was in a 595 x 949 km
+x 86.7 deg orbit.
+
+The Motorola Iridium satellites mark the first use of the Lockheed
+Martin LM700 bus, and carry a communications payload built by Motorola's
+Satcom division in Chandler, Arizona. They will provide global personal
+telephone service. This first launch carried space vehicles 4 through 8
+(presumably 1 to 3 were ground test vehicles). The satellites have a
+mass of about 700 kg. The satellites carry intersatellite crosslinks at
+Ka-band (23 GHz), L-band (1.6 GHz) links to and from the Iridium hand
+sets, and Ka-band links to the gateway ground stations which connect to
+the local public telephone networks. The master control facility  is in
+the Virginia suburbs of Washington.
+
+A Chinese DFH-3 (Zhongxing 6?) communications satellite was launched on
+May 11 into a 207 x 35887 km x 28.46 deg transfer orbit by a  Chang
+Zheng (Long March) 3A rocket.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  1 0107   Intelsat 801     Ariane 44P     Kourou ELA2     Comsat      09A
+Mar  4 0200   Zeya             Start-1        Svobodniy LC5   Comsat      10A
+Mar  8 0601   Tempo 2          Atlas IIA      Canaveral LC36A Comsat      11A
+Apr  4 1647   DMSP 5D-2 S-14   Titan 23G      Vandenberg SLC4W Weather    12A
+Apr  4 1920   Columbia/STS-83) Shuttle        Kennedy LC39A   Spaceship   13A
+              MSL-1 Spacelab )
+Apr  6 1604   Progress M-34    Soyuz-U        Baykonur        Cargo       14A
+Apr  9 0900?  Kosmos-2340      Molniya-M      Plesetsk        EarlyWarn   15A
+Apr 16 2309   Thaicom 3  )     Ariane 44LP    Kourou ELA2     Comsat      16A
+              BSAT 1a    )                                                16B
+Apr 17 1303   Kosmos-2341      Kosmos-3M      Plesetsk LC132/1 Navsat     17A
+Apr 21 1159   Minisat-01 )     Pegasus XL     L-1011, Gando   Technology  18A
+              Celestis   )                                    Burial      18B
+Apr 25 0549   GOES 10          Atlas I        Canaveral LC36B Weather     19A
+May  5 1455   Iridium SV004 )  Delta 7920     Vandenberg SLC2W Comsat     20E
+              Iridium SV005 )                                  Comsat     20D
+              Iridium SV006 )                                  Comsat     20C
+              Iridium SV007 )                                  Comsat     20B
+              Iridium SV008 )                                  Comsat     20A
+May 11 1617   DFH-3            CZ-3A          Xichang         Comsat      21A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-94  Jul  1
+OV-103 Discovery       OPF Bay 2     STS-85  Aug  7
+OV-104 Atlantis        LC39A         STS-84  May 15
+OV-105 Endeavour       OPF Bay 3     STS-86  Sep 25
+
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-62                 VAB Bay 1      STS-94
+ML2/RSRM-60/ET-85/OV-104    LC39A          STS-84
+ML3/                       
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

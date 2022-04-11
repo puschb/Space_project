@@ -1,0 +1,107 @@
+Jonathan's Space Report: 10th anniversary year
+No. 386                                          1999 Jan 24 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+------------------------
+
+The next Shuttle launch is STS-93, which will deploy the Chandra X-ray
+Observatory. Launch of Chandra has again been delayed, since faulty
+circuit boards found on the Kompsat satellite are also used in Chandra's
+command and telemetry unit. They'll have to replace at least some of the
+boards. The delay could be either one month or several  months depending
+on how many units are affected; we'll know in a week or so.
+
+Columbia will be transferred to the Vehicle Assembly Building in early
+February; Chandra flies from TRW's Redondo Beach plant in California to
+Florida at the beginning of February, with the replacement boards
+to be installed at the Cape.
+
+The Mir space station remains in orbit with Gennady Padalka and
+Sergey Avdeev aboard. The transport ship Soyuz TM-28 and cargo
+ship Progress M-40 are docked to the station. The International
+Space Station remains dormant in orbit awaiting the STS-96 mission
+sometime this summer.
+
+Recent Launches
+---------------
+
+The only orbital launch so far this month has been the Mars Polar
+Lander. The Cassini probe to Saturn entered safemode Jan 11 due to an
+attitude determination problem, but returned safely to checking out its
+instruments on Jan 16. Meanwhile, NEAR successfully made an engine burn
+to put it back on course for rendezvous with Eros in 2000. Mars Polar
+Lander has also made its first course correction in solar orbit.
+
+The NRO's ATeX advanced tether experiment reportedly failed on Jan 16.
+The ATeX lower end mass was meant to remain attached to the STEX parent
+spacecraft, but with only 21m of tether deployed, it appears the tether
+was so far off vertical that automatic safety systems jettisoned the
+base to protect the remainder of the STEX satellite. Thus,the upper and
+lower ATeX endmasses are in orbit as one object connected by a 21m
+tether, and designated USA 141 (1998-55C). The main STEX satellite is in
+orbit as a separate object, 1998-55A.
+
+Readers may be amused by Howard Altman's recent 
+<A HREF="http://www.citypaper.net/articles/123198/howcol.shtml">article</A>
+in the Philadelphia City Paper, poking fun at JSR.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  4 0835   Endeavour  )      Shuttle        Kennedy LC39A    Spaceship  69A
+              Unity      )                                      Station    69F
+              PMA-1      )
+              PMA-2      )
+Dec  6 0043   Satmex 5          Ariane 42L     Kourou ELA2      Comsat     70A
+Dec  6 0057   SWAS              Pegasus XL     Vandenberg       Astronomy  71A
+Dec 10 1157   Nadezhda  )       Kosmos-3M      Plesetsk         Navsat     72A
+              Astrid-2  )	                                Science    72B
+Dec 11 1845   Mars Climate Orb. Delta 7425     Canaveral SLC17A Mars probe 73A
+Dec 14 0431   SAC-A                            Endeavour,LEO    Science    69B
+Dec 15 0209   Mightysat                        Endeavour,LEO    Technol.   69C
+Dec 19 1130   Iridium 88?)      CZ-2C/SD       Taiyuan          Comsat     74A
+              Iridium 89?)                                      Comsat     74B
+Dec 22 0108   PAS 6B            Ariane 42L     Kourou ELA2      Comsat     75A
+Dec 24 2003   Kosmos-2361       Kosmos-3M      Plesetsk         Navsat     76A
+Dec 30 1835   Kosmos-2362  )    Proton-K/DM2   Baykonur         Navsat     77A
+              Kosmos-2363  )                                    Navsat     77B
+              Kosmos-2364  )                                    Navsat     77C
+Jan  3 2021   Mars Polar Lander) Delta 7425    Canaveral SLC17B Mars probe 01A
+              MPL Cruise Stage )
+              DS2 Microprobe 1 )
+              DS2 Microprobe 2 )
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Unknown
+OV-103 Discovery       OPF Bay 1     STS-96  May 1999
+OV-104 Atlantis        VAB Bay 2     STS-101 Aug 1999
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 1999
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/
+MLP3/                          
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+

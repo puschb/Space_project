@@ -1,0 +1,111 @@
+Jonathan's Space Report 
+No. 203               1994 Jul 14             Cambridge, MA
+--------------------------------------------------------------------------------
+Shuttle
+-------
+
+Space Shuttle Columbia was launched on mission STS-65 at 1643 UTC on Jul
+8. This is Columbia's 17th flight and the long two week mission, if
+successful, will significantly extend Columbia's record as the orbiter
+with the most flight hours. On Jul 11 Columbia was in a 299 x 302 km
+orbit inclined 28.5 deg to the equator. The Spacelab Long Module in the
+cargo bay carries the International Microgravity Laboratory 2 payload.
+
+Mir
+---
+
+The Progress M-23 cargo ship undocked and was deorbited on Jul 2. (I
+don't know the time or whether it had a Raduga reentry capsule). Soyuz
+TM-19 docked with the vacated rear port of the Kvant module on Jul 3, as
+reported earlier. On Jul 9, the EO-15 commander and flight engineer,
+Viktor Afanas'ev and Yuriy Usachyov, boarded the Soyuz TM-18 ferry
+docked at the Mir front port, and undocked from the complex. Several
+hours later they ignited the Soyuz braking engine, and the descent
+module was separated from the orbital and instrument modules. The Soyuz
+TM-18 descent module landed 110 km north of Arkalyk in Kazakhstan at
+1032:35 UTC on Jul 9. Afanas'ev and Usachyov's flight time was 182 days
+0 hr 27 min if my arithmetic is correct. This gives Afanas'ev a
+cumulative flight time of 357 days 02 h 19 min over his two flights.
+EO-15 physician-cosmonaut Valeriy Polyakov remains aboard Mir with the
+new EO-16 crew of Malenchenko and Musabaev. 
+
+
+Launches
+--------
+
+Ariane V.65 was launched at 2305 on Jul 8 from the Ensemble de Lancement
+Ariane No. 2 at the Centre Spatial Guyanais at Kourou in Guyane, South
+America. The 44L model Ariane has four liquid PAL strapon boosters on
+the L220 first stage, an L33 second stage, and a high-energy H10+ third
+stage. After the H10+ reached geostationary transfer orbit, the PanAmSat
+2 satellite separated, followed by the cover of the SPELDA
+dual-satellite adapter, followed finally by the BS-3N satellite.
+PanAmSat 2 is owned by Alpha Lyracom, a Connecticut-based communications
+company. It is a Hughes HS-601 model satellite with a liquid apogee
+motor. BS-3N is owned by the Japanese NHK television company (it may be
+renamed Yuri-3N on reaching orbit, since previous BS satellites owned by
+the NASDA space agency were renamed in that way). It is a smaller GE3000
+model built by Martin Marietta Astro Space (formerly GE, formerly RCA).
+
+The Kosmos-2282 geostationary satellite launched on Jul 6
+is apparently an early warning satellite in the Prognoz series.
+
+A navigation satellite was launched from Plesetsk on Jul 14 into a 1000
+km, 83 degree orbit. It is either a Nadezhda civil navsat or a Parus
+navy navigation satellite.
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jun  7 0720     Kosmos-2281     Soyuz-U         Plesetsk LC16   Recon       32A
+Jun 14 1605     Foton No. 9     Soyuz-U         Plesetsk LC43   Materials   33A
+Jun 17 0707     Intelsat 702 )  Ariane 44LP     Kourou ELA2     Comsat      34A
+                STRV 1       )                                  Technology  34B
+                STRV 2       )                                  Technology  34C
+Jun 24 1350     UHF F/O F3      Atlas I Centaur Canaveral LC36B Comsat      35A
+Jun 27 2115     STEP 1          Pegasus XL      Point Arguello WA Science   FTO
+Jul  1 1224     Soyuz TM-19     Soyuz-U2        Baykonur LC1    Spaceship   36A
+Jul  3 0804?    FSW-2           Chang Zheng 2   Jiuquan         Remote sens 37A
+Jul  6 2358     Kosmos-2282     Proton/DM2      Baykonur LC81   EarlyWarn   38A
+Jul  8 1643     Columbia      ) Space Shuttle   Kennedy LC39A   Spaceship   39A
+                Spacelab IML-2)
+Jul  8 2305     PAS 2     )     Ariane 44L      Kourou ELA2     Comsat      40A
+                BS-3N     )                                     Comsat      40B
+Jul 14 0508     Nadezhda?       Kosmos-3M       Plesetsk        Navsat      41A?
+ 
+Reentries
+---------
+
+Jun  3          Tiros VII       Reentered
+Jul  2          Progress M-23   Deorbited
+Jul  9          Soyuz TM-18     Landed in Kazakhstan
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LEO           STS-65
+OV-103 Discovery       OPF Bay 2     STS-64
+OV-104 Atlantis        OPF Bay 3     STS-66
+OV-105 Endeavour       OPF Bay 1     STS-68
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65          VAB Bay 3 STS-68
+ML2/RSRM-41                VAB Bay 1 STS-64 
+ML3/                       LC39A     STS-65
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

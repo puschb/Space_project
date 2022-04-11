@@ -1,0 +1,152 @@
+Jonathan's Space Report
+No. 635                                  2010 Dec 2; en route Somerville to Tokyo
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Astronauts Yurchikin, Wheelock and Walker left the Station aboard Soyuz
+TMA-19 on Nov 26. They undocked from Rassvet at 0123 UTC concluding
+Expedition 25 after 62.0 days. The Soyuz deorbit burn was at 0355 UTC
+and landing in Kazakhstan at 0446 UTC. There were some problems with the
+pressure in the descent module, but the crew landed safely.
+
+Expedition 26 is now underway with crew commander Scott Kelly,  flight engineer-2
+Aleksandr Kaleri and flight engineer-3 Oleg Skripochka remaining on the
+Station. Soyuz TMA-01M is docked at Poisk, Progress M-07M at Zvezda, and
+Progress M-08M at Pirs.
+
+STP S26
+-------
+
+As part of the USAF Space Test Program, STP mission S26 was launched
+from Kodiak, Alaska on Nov 20 carrying a set of small payloads into orbit.
+
+STPSat-2 is a 135 kg Ball/AeroAstro SIV satellite with technology experiments.
+
+Falconsat 5 is a 161 kg US Air Force Academy satellite carrying experiments
+to study plasma and the ionosphere.
+
+FASTRAC 1 and 2 are 30 kg satellites developed by the University of Texas
+at Austin with USAF fuding for formation flying experiments.
+
+Fastsat-HSV was developed by NASA-Marshall and companies in Huntsville, Alabama
+and carries ionospheric and atmospheric experiments, a USAF experiment, and
+the Nanosail-D2 which will be ejected in about a week to deploy a 3-meter-size
+solar sail.
+
+The Radio Aurora Explorer is the National Science Foundation's first satellite,
+a 3kg 3U cubesat built by the University of Michigan to study the aurora 
+by picking up ground-based radar signals.
+
+O/OREOS is a 5 kg 3U cubesat for NASA's Ames Research Center carrying life
+sciences experiments to study microbes in free fall and the effects of
+ultraviolet light on organic materials.
+
+The Minotaur's GCA (Guidance Control Assembly) fourth stage achieved a
+637 x 661 km x 72 deg orbit using its Orion 38 solid motor. A HAPS
+(Hydrazine auxiliary propulsion system) fifth stage was mounted on it,
+with the primary payloads attached to a Multi Payload Adapter mounting
+plate on top of that. After deployment of the payloads, the HAPS
+separated from the GCA, made two rocket burns, and then released two
+ballast masses in a higher (circa 1200 km) orbit, demonstrating the
+capability of the Minotaur IV to deliver payloads to multiple orbits in
+a single mission.
+
+NROL-32
+-------
+
+The National Reconnaissance Office NROL-32 mission was launched from
+Cape Canaveral on Nov 22. It placed a secret satellite in orbit;
+I concur with the majority of analysts that it is probably a
+geostationary signals intelligence satellite.
+
+ZX-20A
+------
+
+China launched the Zhongxing-20A military communications satellite on
+Nov 24. Meanwhile, the Beidou DW6 navigation satellite launched on Oct
+31 is now in a 35774 x 35797 km x 1.8 deg geostationary orbit at 160.0E,
+and the SJ-12 satellite has begun a rendezvous with the SJ-6/4A (SSN 37180)
+satellite, following its inspection of SJ-6/3B in Aug-Sep.
+
+Arianespace
+------------
+
+Ariane vehicle L556, mission V198, placed two communications satellites
+in orbit. The Intelsat IS-17 is a Loral LS-1300-Omega with a launch mass
+of 5540 kg and a dry mass of 2393 kg, carrying Ku and C band payloads.
+It will be stationed over the Indian Ocean at 66E. Hylas 1, for the UK
+company Avanti Communications, is an Indian ISRO I2K satellite with an
+advanced Astrium-UK communications payload. Hylas, much smaller than IS-17,
+has a mass of 2570 kg full, 1125 kg dry and has a Ka-band payload for
+European broadband service. Its stubby solar panels probably only have a
+span of 9 meters rather than the 36 m incorrectly reported by the EADS
+and Ariane press kits.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Oct  1 1100   Chang'e 2           Chang Zheng 3C   Xichang          Lunar probe 50A
+Oct  6 0049   SJ-6/4A   )         Chang Zheng 4B   Taiyuan          ?          51A
+              SJ-6/4B   )                                           ?          51B
+Oct  7 2310   Soyuz TMA-01M       Soyuz-FG         Baykonur LC1     Spaceship  52A
+Oct 14 1853   Sirius XM-5         Proton-M/Briz-M  Baykonur LC81/24 Radio      53A
+Oct 19 1710   Globalstar-2 M073 ) Soyuz-2-1a/Fregat Baykonur LC31   Comms      54F
+              Globalstar-2 M074 )                                   Comms      54B
+              Globalstar-2 M075 )                                   Comms      54E
+              Globalstar-2 M076 )                                   Comms      54C
+              Globalstar-2 M077 )                                   Comms      54D
+              Globalstar-2 M079 )                                   Comms      54A
+Oct 27 1511   Progress M-08M      Soyuz-U           Baykonur LC1    Cargo      55A
+Oct 28 2151   Eutelsat W3B  )     Ariane 5ECA       Kourou ELA3     Comms      56A
+              BSAT-3B       )                                       Comms      56B
+Oct 31 1626   Beidou DW6          Chang Zheng 3C    Xichang         Nav        57A
+Nov  2 0059   Meridan             Soyuz-2-1a/Fregat Plesetsk LC43/3 Comms      58A
+Nov  5 1837   Fengyun 3 (01)B     Chang Zheng 4C    Taiyuan         Weather    59A
+Nov  6 0220   COSMO-SkyMed 4      Delta 7420-10     Vandenberg SLC2W Radar     60A
+Nov 14 1729   SkyTerra 1          Proton-M/Briz-M   Baykonur         Comms     61A
+Nov 20 0125   STPSat-2    )       Minotaur IV       Kodiak          Tech       62A
+              Falconsat-5 )                                         Tech       62E
+              Fastsat-HSV )                                         Tech       62D
+              Fastrac 1   )                                         Tech       62F
+              Fastrac 2   )                                         Tech       62
+              O/OREOS     )                                         Science    62C
+              RAX         )                                         Science    62B
+              Nanosail-D  )                                         Tech       62
+              S26 Ballast A)                                        Dummy      62J
+              S26 Ballast B)                                        Dummy      62K
+Nov 21 2258   USA 223           Delta IVH          Canaveral SLC37B Sigint?    63A
+Nov 24 1609   Zhongxing 20A     Chang Zheng 3A     Xichang          Comms      64A
+Nov 26 1839   Intelsat IS-17  ) Ariane 5ECA        Kourou ELA3      Comms      65A
+              Hylas 1         )                                     Comms      65B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Oct  7 0310   RV x 3?         Bulava          TK-208, White Sea   R&D         1000?
+Oct 21 1700   NASA 36.230DR   Black Brant IX  San Nicolas         Target       100?
+Oct 27 1015   Mapheus-2       Nike Orion      Kiruna              Micrograv    153
+Oct 28 0959   RV              Topol           Plesetsk            Op Test     1000?
+Oct 28 1030   RV x 4?         Sineva          K-117, Barents Sea  Op Test     1000?
+Oct 28        RV x 4?         Volna           K-433, Okhotsk      Op Test     1000?
+Oct 29 0210?  RV x 3?         Bulava          TK-208, White Sea   R&D         1000?
+Oct 30 0306   MRT-9           Castor 4B       Kauai               Target       150?
+Oct 30 0309   Aegis KV        SM-3            DDG-174, Pacific    Interceptor  150?
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@www.planet4589.org    |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+
+

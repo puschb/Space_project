@@ -1,0 +1,131 @@
+Jonathan's Space Report
+No. 262                    1995 Nov 1                     Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Columbia is in orbit on the STS-73 mission. On Oct 27 its orbit
+was 262 x 273 km x 39.0 deg. The mission is proceeding smoothly.
+
+
+Mir
+----
+
+The crew of Gidzenko, Avdeev and Reiter continue work aboard
+the Mir complex, in a 392 x 395 km x 51.6 deg orbit. The last
+major orbit raise for the complex was in May 1995 and it
+will probably be reboosted by 10 km or so in about a month.
+
+
+Recent Launches
+--------------
+
+The first launch attempt of the Conestoga 1620 launch vehicle ended in
+failure on Oct 23. The vehicle was destroyed 45s into the first stage
+burn, at an altitude of 11 km. The Conestoga uses a Castor 4B first
+stage core with Castor 4A and Castor 4B strapons, and a Star 48V upper
+stage. Payload was EER Systems' Meteor commercial microgravity
+recoverable spacecraft.
+
+The UHF Followon F6 spacecraft, designated USA 114, was launched by
+Lockheed Martin Atlas II AC-119 into a 551.9 min, 320 x 31500 km x 27.0
+deg subsynchronous transfer orbit on Oct 22. The AC-119 Centaur stage
+was left in a lower 267 x 27483 km x 27.0 deg orbit, presumably a
+propellant depletion burn was used to lower its apogee after separation.
+On Oct 25 the UHF payload fired its liquid apogee motor, raising its
+orbit to 7657 x 36612 km x 14.7 deg. It is to be stationed at 100 deg W,
+replacing Leasat 3 and providing UHF and EHF communications for the
+US Navy.
+
+On Oct 23 the Astra 1E television satellite raised its orbit from 25659
+x 35737 km x 0.3 deg to 33680 x 36070 km x 0.2 deg. On Oct 20
+Kosmos-2291, which was replaced at 80E last month, was still drifting
+west at 3 deg per day over 23E. On Oct 26 the Luch-1 spacecraft moved
+into geostationary orbit at 76.6E, although the orbit remains inclined
+at 3.0 deg.
+
+Kosmos-2322 was launched by a Zenit-2 launch vehicle on 
+Oct 31 into a 851 x 877 km x 71.0 deg orbit. It is a Tselina-2
+electronic intelligence spacecraft.
+
+The reentry vehicle of the Resurs-F2 spacecraft landed after a 30 day
+flight at 0537 UTC on Oct 26, 90 km SW of Troitsk in the Chelyabinsk
+region. On Sep 26 the Resurs-F2 was launched into a 180 x 247 km x 82.3
+deg parking orbit, which was raised to a 230 x 234 km x 82.3 deg
+operational orbit on Sep 27. A small burn between Oct 6 and Oct 10
+raised the decaying orbit from 226 x 232 km to 224 x 238 km. A similar
+trim burn was made on Oct 18. On Oct 23, a larger burn raised the orbit
+from 220 x 235 km to 255 x 278 km, and on Oct 26 the maneuvering engine
+and associated hardware were jettisoned prior to the deorbit burn.
+
+The Kosmos-2305 imaging recon satellite raised its orbit slightly on Oct 8, 
+from 89.7min, 229 x 281 km x 64.9 deg to 89.9 min, 238 x 297 km x
+64.9 deg. The previous such maneuver was carried out in early August.
+The orbit of its companion Kosmos-2320 spacecraft has decayed to only
+89.6 min, 227 x 277 km and will probably be reboosted soon.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Sep  3 0900   Soyuz TM-22     Soyuz-U2        Baykonur LC1    Spaceship   47A
+Sep  7 1509   Endeavour       Shuttle         Kennedy LC39A   Spaceship   48A
+Sep  8 1543   Spartan-201                     OV-105, LEO     Astronomy   48B
+Sep 11 1125   WSF 2                           OV-105, LEO     Micrograv.  48C
+Sep 24 0006   Telstar 402R    Ariane 4        Kourou ELA2     Comsat      49A
+Sep 26 1120   Resurs-F2       Soyuz-U         Plesetsk LC43-4 Rem.sensing 50A
+Sep 29 0425   Kosmos-2320     Soyuz-U         Baykonur LC31   Recon       51A
+Oct  6 0323   Kosmos-2321     Kosmos-3M       Plesetsk LC132  Navsat      52A
+Oct  8 1851   Progress M-29   Soyuz-U         Baykonur LC1    Cargo       53A
+Oct 11 1626   Luch-1          Proton-K/DM2M   Baykonur        Data Relay  54A
+Oct 19 0038   Astra 1E        Ariane 42L      Kourou ELA2     Comsat      55A
+Oct 20 1353   Columbia       ) Shuttle        Kennedy LC39B   Spaceship   56A
+              Spacelab USML-2)
+Oct 22 0800   UHF F6           Atlas II       Canaveral LC36  Comsat      57A
+Oct 23 2203   Meteor           Conestoga 1620 Wallops LA0     Micrograv   FTO
+Oct 31 2019   Kosmos-2322      Zenit-2        Baykonur LC45L  Sigint      58A
+
+
+Reentries
+---------
+
+Sep  4        Progress M-28   Deorbited
+Sep  6        Kosmos-2314     Deorbited
+Sep 11        Soyuz TM-21     Landed in Kazakhstan
+Sep 18        Endeavour       Landed at KSC
+Sep 29        ODERACS IIB     Reentered
+Oct 26        Resurs-F2       Landed 
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-73  
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        LC39A         STS-74  Nov 11
+OV-105 Endeavour       OPF Bay 3     STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-52                VAB        STS-72                       
+ML2/RSRM-51/ET-74/OV-104   LC39A      STS-74
+ML3/                                              
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+
+</PRE>
+</BODY>

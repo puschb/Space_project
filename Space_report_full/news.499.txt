@@ -1,0 +1,126 @@
+Jonathan's Space Report
+No. 499                                            2003 May 8, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew of Malenchenko and Lu has replaced Expedition 6
+aboard the Space Station. Soyuz 11F732 No. 212 (Soyuz TMA-2) docked with
+the nadir port on the Zarya module at 0556 UTC on Apr 28, with hatches
+open to the station at 0727 UTC. The Ex-6 crew of Bowersox, Budarin and
+Pettit boarded Soyuz 11F732 No. 211 (Soyuz TMA-1)  on May 3 and undocked
+from the Pirs nadir port at 2243 UTC. After almost 2 orbits of the Earth
+Soyuz TMA-1 fired its deorbit engines at 0112 UTC. The engine and
+orbital modules separated from the descent module at 0140 UTC, and entry
+began at around 0143 UTC. 
+
+A descent computer failure caused the spacecraft to fly a ballistic
+reentry, slowly spinning the craft to remove lift which could send the
+vehicle off course if incorrectly aimed. This also meant that the crew
+suffered unexpectedly high accelerations of around 8g and landed 450 km
+short along the groundtrack. Several parachute lines also broke, but the
+crew landed safely and were recovered some hours late. Although there
+was confusion for some hours about the health of Don Pettit, who was not
+seen on camera initially, it appears that he was feeling the effects of
+the return to gravity more than his fellow crewmembers but is otherwise
+all right.
+
+There is some confusion about the actual landing time; a ballistic entry
+should have made the landing time earlier than the scheduled 0206 UTC
+but various sources give from 0207 UTC to 0212 UTC; the time will
+presumably be refined eventually.
+
+Recent Launches
+---------------
+
+NASA's GALEX ultraviolet astronomy satellite reached orbit on Apr 28.
+The Orbital Sciences Pegasus rocket was launched from the company's
+L-1011 Stargazer launch aircraft which took off from the Skid Strip
+runway at Cape Canaveral at 1103 UTC on Apr 28. The drop was over 29.0N
+78.5W at about 1159:52 UTC with ignition at about 1159:57 UTC. The three
+stage rocket climed away and the third stage shut down at 1209 UTC
+putting GALEX in a 690 x 702 km x 29 deg orbit.
+
+GALEX is a NASA Small Explorer (SMEX) mission with principal investigator
+Chris Martin of Caltech. It carries a 0.50-meter telescope and two
+ultraviolet microchannel plate cameras (one for the near UV 135-180 nm, and
+one for the far UV 180-300 nm), and will carry out an all-sky
+survey as well as deeper surveys in selected regions. This will be
+the first all-sky survey in the ultraviolet band since the much less
+sensitive TD-1 satellite in 1972 - the all sky limit in the far UV
+band will be over 3000 times more sensitive, about 25 microJansky
+compared to about 0.08 Jy for TD-1. 
+
+GALEX is the seventh SMEX mission, following SAMPEX (trapped radiation), FAST
+(auroral studies), TRACE (solar imaging), SWAS (submillimeter astronomy),
+WIRE (infrared survey, failed) and RHESSI (solar flare studies).
+
+The Indian Space Research Organization launched the second GSLV rocket,
+GSLV-D2, on May 8. The Russian-developed cryogenic upper stage entered
+geostationary transfer orbit and deployed GSAT-2, a test satellite with
+C, Ku and S-band communications payloads, an ionospheric beacon
+experiment, and a solar X-ray spectrometer. GSAT-2 will use its liquid
+apogee motor to reach geostationary orbit.
+
+Kosmos-2397 is now being tracked in a geostationary drift orbit of 35892
+x 35926 km x 2.3 deg, drifting west over 69E. The upper stage has not
+been cataloged; the transfer orbit was 217 x 35911 km x 49.3 deg, a
+slightly higher inclination that the standard 47 degree used for most
+Proton/DM missions to GEO. The earlier US-KMO mission Kosmos-2379 also
+was tracked in a 49.2 deg transfer orbit. Two SOZ ullage motors
+have been found in the transfer orbit.
+
+After 33 years, Space Command has cataloged the Agena D rocket stages
+1968-63B,  1969-36B and 1970-69B from the first three CANYON
+communications intelligence satellite launches. It has always been
+puzzling that these Agenas were not in the catalog; later launches such
+as 1972-101A had the Agena D in geostationary transfer orbit.  I had
+speculated that the early CANYON vehicles had kept their Agena stages
+attached for the apogee burn, making them the only Agenas to reach
+geosynchronous orbit (the CANYONs were in inclined 1440-minute, 10
+degree orbits, not quite geostationary). With the addition of these
+stages to the catalog it seems likely that, like the later vehicles, the
+Agenas separated in transfer orbit and the payloads used apogee motors
+to circularize their orbits. However it is rather surprising that the
+objects are only now being cataloged - I hope this represents real
+tracking and not just an administrative assumption that the objects were
+missed and must be up there. The actual elements are still classified,
+although one may hope the general orbital altitudes will soon be
+notified to the United Nations as required by the registration convention. 
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar 11 0059   DSCS III A-3      Delta IVM       Canaveral SLC37B Comms       08A
+Mar 28 0127   IGS Optical-1 )   H2A 2024        Tanegashima      Imaging     09A
+              IGS Radar-1   )                                    Radar       09B
+Mar 31 2209   GPS SVN 45        Delta 7925      Canaveral SLC17A Navigation  10A
+Apr  2 0153   Molniya-1T        Molniya-M       Plesetsk         Comms       11A
+Apr  8 1343   Milstar 6         Titan 4 Centaur Canaveral SLC40  Comms       12A
+Apr  9 2252   Galaxy 12  )      Ariane 5G       Kourou ELA3      Comms       13B
+              Insat 3A   )                                       Comms       13A
+Apr 12 0047   Asiasat 4         Atlas 3B/SEC    Canaveral SLC36B Comms       14A
+Apr 24 0423   Kosmos-2397       Proton-K/DM2    Baykonur LC81/24 Early Warn  15A
+Apr 26 0353   Soyuz TMA-2       Soyuz-FG        Baykonur LC1/5   Spaceship   16A
+Apr 28 1159   GALEX             Pegasus XL      Canaveral RW30/12 UV Astron  17A
+May  8 1128   GSAT-2            GSLV            Sriharikota      Comms       
+        
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

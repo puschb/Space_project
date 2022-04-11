@@ -1,0 +1,253 @@
+Jonathan's Space Report 
+No. 717                                                         2015 Nov  1 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 45 is underway under the command of Scott Kelly, with
+flight engineers Mikhail Kornienko, Oleg Kononenko, Sergey
+Volkov, Kimiya Yui, and Kjell Lindgren.
+
+NanoRacks/PlanetLabs Flock-2b satellite deploys continued until Oct 7.
+However,  two satellites (Flock 2b-11 and 12) were not released due to a
+problem with the deployer. The NRCSD-6 deployer, with the two stuck
+satellites, was removed from the Kibo airlock on Oct 26 and will be
+returned to Earth on a future Dragon mission.
+
+On Oct 28 Astronauts Kelly and Lindgren made a spacewalk in suits EMU
+3003 and 3010. The Quest airlock was depressurized from abotu 1200 UTC
+to 1919 UTC. They removed a thermal cover from a failed MBSU unit, added
+thermal covers to the AMS-02 particle physics experiment, installed
+cabling for the future IDA docking adapters, and lubricated part of the
+LEE-B end of the Canadarm-2. Part of the LEE lubing and the IDA wiring,
+as well as the installation of a vent on Node 3, were omitted due to
+lack of time.
+
+NROL-55
+-------
+
+United Launch Alliance flew Atlas mission AV-058 from Vandenberg on Oct
+8 to place two NRO satellites and a cluster of cubesats in orbit.
+Hobbyists quickly tracked USA 264 and "USA 264 debris", actually thought
+to be a clandestine active payload, in a 1014 x 1201 km x 63.4 deg
+orbit. The satellites are understood to be NRO/Navy signals intelligence
+satellites, the latest successors to the GRAB/POPPY series and probably
+codenamed INTRUDER.
+
+Following deployment of the main payloads, AV-058 made two further burns
+to a 496 x 800 km x 64.8 deg orbit and deployed the cubesats from 
+GRACE, the fourth NPS Cubesat Launcher flown on an Atlas Aft Bulkhead Carrier.
+The cubesats are:
+   Aerocube-5c and 7 from Aerospace Corporation
+   The AMSAT-OSCAR-85 (Fox-1A) amateur radio satellite from AMSAT-NA
+   BisonSat from Salish Kootenai College in Montana
+   Alaska Research Cubesat 1 from U. Alaska Fairbanks
+   Three SMDC Nanosatellite Program (SNAP-3) communications satellites for
+    the US Army Strategica Missile Defence Command, named ALICE, EDDIE and JIMI
+   The Low Mass Radio Science Transponder experiment from JPL
+   Two PropCube ionospheric-propagation-study satellites from 
+    Tyvak Nanosystems and USN Postgrad.School, named Flora and Merryweather
+   Two SINOD-D satellites with software-defined radio demonstrations from SRI International.
+
+
+Apstar 9
+---------
+
+Apstar 9, for Hong Kong based APT Satellite, was launched on Oct 16 from
+Xichang. The satellite uses a CAST/Beijing DFH-4 bus and has C- and
+Ku-band communications payloads.
+
+
+Tianhui-1 03
+------------
+
+The third Tianhui-1 cartography satellite was launched on Oct 26, into 
+the same local-time orbital plane as its two siblings. This was the 12th
+Chinese orbital launch this year and the 9th in the past 2 months.
+
+
+Turksat
+-------
+
+The second Turksat-4 satellite for Turk Telecom was launched on a Proton on Oct 16.
+The 4900-kg satellite is a Mitsubishi Electric-built DS-2000 model with C, Ku and Ka-band
+communications payloads; it will be located at 50 E.
+
+GPS 73
+------
+
+Space Vehicle No 73 was added to the GPS constellation on Oct 31 when ULA's Atlas AV-060
+delivered it to a 12-hour circular orbit. The satellite, model IIF flight 11, is nicknamed
+'Altair'.
+
+Cassini
+--------
+
+Cassini flew a mere 49 km from the surface of Enceladus at 1524 UTC on
+Oct 28. This E-21 encounter followed an 1839 km E-20 flyby of Enceladus
+at 1043 UTC on Oct 14.
+
+Dawn
+----
+
+Dawn began its descent from the High to Low Altitude Mapping Orbits on
+Oct 23. The HAMO was 1470 km from Ceres; LAMO is expected to be at 380
+km altitude above the mean Ceres radius, orbiting over the world's
+poles. Unfortunately the detailed orbital data for Dawn on JPL Horizons
+haven't been updated for some time.
+
+WF1190F
+-------
+
+A small object perhaps only a metre or two in size, detected by optical
+telescopes of the Catalina Sky Survey in translunar orbit, has been
+identified with previous observations dating back to 2009. The object
+may well be an object left over from 1960s lunar missions; its frequent
+close approaches to the Moon make it challenging to work the orbit
+backwards and identify it with a specific mission. Following a 47000 km
+lunar encounter on Jul 13, WT1190F was left in an orbit with a 680000 km
+apogee and a perigee which, due to continuing lunar and solar gravity
+effects, is being forced down to negative values. WT1190F is now on its
+final orbit of the Earth, falling inwards from lunar distance to a
+predicted Nov 13 reentry over the Indian Ocean east of Sri Lanka.
+
+There are about 25 lost objects of this small size in translunar orbits,
+including Explorer 33, Prognoz 9, Luna 4, Surveyor D-2, the Apollo 15/16/17 SIM
+Bay covers, at least six Molniya Blok-L final stages from lunar-related missions,
+three other small rocket stages and half a dozen despin weights. In most of these
+cases there's been no tracking data on these objects since they were launched
+in the 1960s and 1970s.
+
+
+Errata:
+-------
+
+In JSR 716 under 'Chinese Satellites 2', I omitted the description of
+the Kaituo-1 satellite from Shenzen DFH Co., which is testing electric
+propulsion Hall thrusters, and its DCBB subsatellite, a 2U cubesat which
+has an amateur radio payload. Under the ISS section, the vehicle
+docked at Zvezda is of course Progress M-29M.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Sep  2 0437   Soyuz TMA-18M       Soyuz-FG           Baykonur LC1     Spaceship      43A   S40885    401 x    402 x  51.7 at ISS
+Sep  2 1018   MUOS 4              Atlas V 551        Canaveral SLC41  Comms          44A   S40887   3802 x  35786 x  19.1
+Sep 11 0208   GalileoSat-9  )     Soyuz-ST-B/Fregat  CSG ZLS          Navigation     45A   S40889  23545 x  23610 x  57.4
+              GalileoSat-10 )                                         Navigation     45B   S40890  23554 x  23700 x  57.4
+Sep 12 1504   Tongxin Jisshu SW1  Chang Zheng 3B     Xichang LC2      Comms          46A   S40892    195 x  35814 x  27.1
+Sep 14 0442   Gaofen 9            Chang Zheng 2D     Jiuquan LC603    Imaging        47A   S40894    618 x    664 x  98.0 1100LT SSO
+Sep 14 1900   Ekspress AM-8       Proton-M/DM-03     Baykonur LC81/24 Comms          48A   S40895  35814 x  35890 x   0.0 GEO drift
+Sep 17 1202   S-CUBE                                 ISS, LEO         Astronomy    98-67GY S40898    397 x    408 x  51.6    
+Sep 17 1213   SERPENS                                ISS, LEO         Tech         98-67GX S40897    396 x    408 x  51.6    
+Sep 19 2301   Kaituo-1      )                                         Tech/Comms     49A?  S40899    515 x    536 x  97.5
+              DCBB          )                                         Tech           49P   S40912    513 x    536 x  97.5
+              Luliang-1     )     Chang Zheng 6      Taiyuan LC16     Comms          49F   S40904    517 x    538 x  97.5
+              Zhineng hao   )                                         Tech           49B   S40900    515 x    536 x  97.5
+              Xingchen 1    )                                         Tech           49              515 x    536 x  97.5
+              Xingchen 2    )                                         Tech           49              515 x    536 x  97.5
+              Xingchen 3    )                                         Tech           49              515 x    536 x  97.5
+              Xingchen 4    )                                         Tech           49              515 x    536 x  97.5
+              Naxing-2      )                                         Tech           49G?  S40905    519 x    541 x  97.5
+              Zijing-1      )                                         Tech           49              519 x    541 x  97.5
+              Kongjian Shiyan 1)                                      Tech           49              519 x    541 x  97.5
+              Zheda Pixing 2A  )                                      Tech           49C   S40901    516 x    536 x 97.5
+              Zheda Pixing 2B  )                                      Tech           49D   S40902    516 x    536 x 97.5
+              Zidingxiang-2 )                                         Tech/Comms     49K   S40908    520 x    542 x 97.5
+              Xiwang-2A     )                                         Comms          49E   S40903    499 x    532 x 97.5
+              Xiwang-2B     )                                         Comms          49N   S40911    519 x    539 x 97.5
+              Xiwang-2C     )                                         Comms          49H   S40906    519 x    539 x 97.5
+              Xiwang-2D     )                                         Comms          49J   S40907    519 x    539 x 97.5
+              Xiwang-2E     )                                         Comms          49L   S40909    519 x    538 x 97.5
+              Xiwang-2F     )                                         Comms          49M   S40910    518 x    541 x 97.5
+Sep 23 2200   Kosmos-2507)        Rokot              Plesetsk LC133/3 Comms          50A   S40920   1502 x   1508 x 82.5
+              Kosmos-2508)                                            Comms          50B   S409210  1494 x   1507 x 82.5
+              Kosmos-2509)                                            Comms          50C   S40922   1496 x   1506 x 82.5
+Sep 25 0141   Pujiang-1     )     Chang Zheng 11     Jiuquan SLS-E    Tech?          51A   S40925    468 x    486 x 97.3 
+              Shangkeda-2   )                                         Tech?          51B   S40926    466 x    487 x 97.3
+              NJUST-2?      )                                         Tech?          51C   S40927    466 x    487 x 97.3
+              NJFA-1?       )                                         Tech?          51D   S40928    466 x    487 x 97.3
+Sep 28 0430   Astrosat         )                                      Astronomy      52A   S40930    633 x    650 x  6.0
+              LAPAN-A2         )                                      Tech           52B   S40931    631 x    650 x  6.0
+              ExactView-9      )   PSLV-XL           Sriharikota FLP  Comms (AIS)    52C   S40932    630 x    650 x  6.0
+              Lemur-2-Joel     )                                      Comms/Atm      52D   S40933    629 x    650 x  6.0
+              Lemur-2-Peter    )                                      Comms/Atm      52E   S40934    634 x    650 x  6.0
+              Lemur-2-Jeroen   )                                      Comms/Atm      52F   S40935    635 x    650 x  6.0
+              Lemur-2-Chris    )                                      Comms/Atm      52G   S40936    635 x    650 x  6.0
+Sep 29 2313   Beidou DW20         Chang Zheng 3B/G2  Xichang LC3      Navigation     53A   S40938    190 x  35881 x 55.0
+Sep 30 1630   Sky Muster )        Ariane 5           Kourou ELA3      Comms          54A   S40940    180 x  35563 x  6.0
+              ARSAT-2    )                                            Comms          54B   S40941    205 x  35550 x  6.0
+Oct  1 1649   Progress M-29M      Soyuz-U            Baykonur LC1     Cargo          55A   S40944    400 x    408 x 51.6 Docked ISS
+Oct  2 1028   Morelos-3           Atlas V 421        Canaveral SLC41  Comms          56A   S40946   4790?x  35800?x 27.0?
+Oct  5 1405   GOMX-3   )                             ISS, LEO         Comms (ADS-B)98-67GZ S40948?   395 x    408 x 51.6
+              AAUSAT-5 )                                              Comms (AIS)  98-67HA S40949?   395 x    408 x 51.6
+Oct  6 0115   Flock 2b-1 )                           ISS, LEO         Imaging      98-67HB S40950    400 x    404 x 51.6
+              Flock 2b-2 )                                            Imaging      98-67HC S40951    398 x    406 x 51.6
+Oct  6 0430   Flock 2b-3 )                           ISS, LEO         Imaging      98-67HD S40952    399 x    405 x 51.6
+              Flock 2b-4 )                                            Imaging      98-67HE S40953    401 x    403 x 51.6
+Oct  6 0831   Flock 2b-5 )                           ISS, LEO         Imaging      98-67HF S40954    396 x    409 x 51.6
+              Flock 2b-6 )                                            Imaging      98-67HG S40955    396 x    409 x 51.6
+Oct  6 1145   Flock 2b-7 )                           ISS, LEO         Imaging      98-67HH S40956    396 x    408 x 51.6
+              Flock 2b-8 )                                            Imaging      98-67HJ S40957    397 x    408 x 51.6
+Oct  7 0010   Flock 2b-9 )                           ISS, LEO         Imaging      98-67HK S40962    397 x    408 x 51.6
+              Flock 2b-10)                                            Imaging      98-67HL S40963    397 x    408 x 51.6
+Oct  7 0413   Jilin-1 Optical A ) Chang Zheng 2D     Jiuquan          Imaging        57A?  S40958    640 x    665 x 97.8
+              Jilin-1 Video 1   )                                     Imaging        57B?  S40959    640 x    664 x 97.8
+              Jilin-1 Video 2   )                                     Imaging        57C?  S40960    639 x    664 x 97.8
+              Jilin-1 Tech Demo )                                     Imaging        57D?  S40961    639 x    664 x 97.8
+Oct  7 1225   Flock 2b-13 )                          ISS, LEO         Imaging      98-67HM S40979    395 x    408 x 51.7
+              Flock 2b-14 )                                           Imaging      98-67HN S40980    396 x    408 x 51.7
+Oct  8 1249   USA 246           )  Atlas V 401       Vandenberg SLC3E Sigint         58A   S40964   1014 x   1201 x 63.4  
+              USA 246 Payload 2 )                                     Sigint         58R   S40981   1014 x   1201 x 63.4  
+              Aerocube-5C       )                                     Tech           58B   S40965    500 x   802  x 64.8
+              Aerocube-7        )                                     Tech           58C   S40966    500 x   802  x 64.8
+              AMSAT-OSCAR-85    )                                     Com/Tech       58D   S40967    500 x   802  x 64.8
+              Bisonsat          )                                     Tech           58E   S40968    500 x   802  x 64.8
+              ARC-1             )                                     Tech           58F   S40969    500 x   802  x 64.8
+              SNAP-3 ALICE      )                                     Comms          58G   S40970    500 x   802  x 64.8
+              LMRST             )                                     Tech           58H   S40971    500 x   802  x 64.8
+              SNAP-3 EDDIE      )                                     Comms          58J   S40972    500 x   802  x 64.8
+              PropCube-3 Merryweather                                 Sci            58K   S40973    500 x   802  x 64.8
+              SINOD-D 1         )                                     Tech           58L   S40974    500 x   802  x 64.8
+              SNAP-3 JIMI       )                                     Comms          58M   S40975    500 x   802  x 64.8
+              PropCube-1 Flora  )                                     Sci            58N   S40976    500 x   802  x 64.8
+              SINOD-D 3         )                                     Tech           58P   S40977    500 x   802  x 64.8
+Oct 16 1616   Apstar 9             Chang Zheng 3B    Xichang          Comms          59A   S40982    190 x 41767  x 27.2 
+Oct 16 2040   Turksat 4B           Proton-M/Briz-M   Baykonur         Comms          60A   S40984  35717 x 35759  x  0.0
+Oct 26 0710   Tianhui 1-03         Chang Zheng 2D    Jiuquan          Imaging        61A   S40988    490 x   500  x 97.4 1330LT SSO
+Oct 31 1613   GPS SVN 73           Atlas V 401       Canaveral SLC41  Navigation     62A   S41019  20426 x 20485 x  55.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Sep  3 1701   NASA 36.291US    Black Brant 9       White Sands, NM       Solar UV      287       White Sands 
+Sep 11 1100   S-520-30         S-520               Uchinoura, Kyushu     Physics       312       Phillipine Sea
+Sep 16 1906   NASA 39.012DR    Black Brant XI      Andoya, Norway        Ionos/Calib   299       Norwegian Sea
+Sep 30 0828   M51 RVs          M-51                Landes, France        Test          500?      Atlantic O.
+Oct  2 0539   O-STATES 1       S31/Orion           Kiruna, Sweden        Atmosphere    246       ESRANGE Area B, Sweden
+Oct  7 2307   NASA 36.310GT    Black Brant 9       Wallops I, Virginia   Tech/Atmos    164?      Atlantic O.
+Oct 11        Emad RV          Emad                ?, Iran               Test          200?      Iran?
+Oct 19 1409   O-STATES 2       S31/Orion           Kiruna, Sweden        Atmosphere    244       ESRANGE Area B, Sweden
+Oct 21 1245   GT216GM RV       Minuteman 3         Vandenberg LF04       Training     1300?      Kwajalein
+Oct 28 1130   4 RVs            Yars                Plesetsk              Test         1000?      Kura, Kamchatka
+Oct 30        Topol RV         Topol               Plesetsk              Test         1000?      Kura, Kamchatka
+Oct 30        R-29RM RV x 4?   Sineva        K-117 Bryansk, Barents Sea  Test         1000?      Kura, Kamchatka
+Oct 30        R-29 RV x 4?     Volna         K-223 Podolsk,Sea of Okhotsk Test        1000?      Chizha?, Kanin Penisula
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+

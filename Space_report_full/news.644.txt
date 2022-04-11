@@ -1,0 +1,361 @@
+
+Jonathan's Space Report
+No. 644                                       2011 Jul 22  Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Space Shuttle flight program is over. 
+ - 5 atmospheric glide flights by orbiter OV-101 Enterprise
+ - 5 space-qualified orbiters: 
+      OV-102 Columbia     1981-2003
+      OV-099 Challenger   1983-1986
+      OV-103 Discovery    1984-2011
+      OV-104 Atlantis     1985-2011
+      OV-105 Endeavour    1992-2011
+ - 134 orbital launches (plus 1 launch failure)
+ - 133 atmospheric entries with hypersonic flight to  
+       runway landings at the three sites Kennedy, Edwards, White Sands
+       (plus one failed entry)
+ - 818 seats to orbit for 347 people from 18 countries
+ - The mass of the Orbiter with cargo was around 100-120 tonnes on each mission
+ - 77 large and 44 small satellites deployed in orbit, total mass 231 tonnes
+ - 24 major Space Station components launched, total mass 232 tonnes
+ - 46 dockings with Mir and ISS
+ - 31 satellite rendezvous/retrieval/captures
+ - 45 pressurized cargo bay modules (Spacelab, Spacehab and MPLM)
+ - 87 unpressurized cargo bay carriers (Pallet, MPESS etc.)
+
+Orbiter OV-104 Atlantis soared into space on Jul 8 from on pad 39A at
+Kennedy Space Center,  beginning the final Space Shuttle flight. Launch
+had been planned for 1526 UTC but was delayed with a brief hold at the
+T-31 second mark because of a sensor failure in the launch tower arm
+that lets excess liquid oxygen drain from the tank. After this issue was
+resolved, launch occurred successfully at 1529:04 UTC.
+
+Atlantis reached a 57 x 227 km orbit; the External Tank separated
+and the Orbiter coasted to apogee, firing the OMS engines to raise
+the orbit to 155 x 230 km. On Jun 10 at 1507 UTC orbiter OV-104 Atlantis
+docked with Pressurized Mating Adapter 2 (PMA-2) on the end of the
+Harmony module at the International Space Station. On this mission,
+only four astronauts were aboard instead of the usual six to eight, 
+to make it easier to return them on Soyuz ships if anything goes wrong.
+Commander Chris Ferguson, pilot Doug Hurley and mission specialists
+MS-1 Sandra Magnus and MS-2 Rex Walheim joined the Expedition 28 crew
+of Commander Andrey Borisenko and flight engineers FE-1 Aleksandr
+Samokutyaev, FE-3 Ron Garan, FE-4 Sergey Volkov, FE-5 Satoshi Furukawa
+and FE-6 Mike Fossum. The Expedition 28 crew have dual roles on the Russian
+ferry ships, with Samokutyaev as komandir (commander) of Soyuz TMA-21 with
+Borisenko and Garan as bortinzhener (flight engineer) BI-1 and BI-2,
+and Volkov as komandir of Soyuz TMA-02M with Fossum and Furukawa
+as BI-1 and BI-2.
+
+Atlantis was carrying the Raffaello MultiPurpose Logistics Module, which is
+stuffed with six Resupply Stowage Racks, eight Resupply Stowage
+Platforms, two ISS Stowage Platforms, and one Zero-G Stowage Rack, all
+carrying supplies for the Station. Also in the cargo bay was the LMC
+carrier with the Robotic Refuelling Mission box, which will be
+transferred to the Station, and an attachment plate for the failed Pump
+Module S/N 02 removed from the truss in February and then stashed
+on the ELC-2 platform. During the mission the failed PM was bolted on the LMC and
+brought back to Earth for analysis. Also in the payload bay was the tiny
+Aerospace Corporation Picosat Solar Cell Experiment satellite which was
+be ejected after undocking. 
+
+PSSC-2 carries small rocket motors (total propellant around 0.08 kg,
+four ammonium perchlorate motors with 40 Ns impulse each), and a few
+weeks after deployment they will be fired to raise PSSC-2's orbit to
+counteract decay and test ground tracking capabilities. PSSC-2 will also
+demonstrate its advanced solar panel technology. PSSC-1, which did not
+have its own propulsion, was deployed on STS-126 and remained in orbit
+for 80 days.
+
+ STS-135 Cargo Bay Manifest
+---------------------------
+                                   Mass
+ External Airlock/ODS            1800? kg
+ EMU spacesuits 3015, 3006        260?
+ RMS arm 301                      410?
+ Orbiter Boom Sensor System       382?
+ MPLM-2 Rafaello                11556
+ SPDU                              17?
+ ROEU 755 umbilical for MPLM       78?
+ LMC:
+  Lightweight MPESS Carrier      1050?
+  Robotic Refuelling Mission      300?
+ Picosat Launcher                  22
+  PSSC-2/MTV satellite              4
+ -------------------------------------
+ Total                          15879 kg
+
+
+Astronauts Fossum and Garan made a spacewalk from the Quest airlock on
+Jul 12 using suits EMU 3010 and 3009; the airlock was depressurized
+below 0.7 psi at 1320 UTC and repressurized at 1953 UTC. The failed Pump
+Module S/N 02 was retrieved from ELC-2 and put on the LMC in the cargo
+bay, and the RRM experiment was moved from LMC to the EOTP location on
+the Station's Dextre robot arm. A small experiment called ORMatE-III,
+launched to ISS on STS-134 as part of the MISSE-8 project, was removed
+from the airlock and installed on ELC-2 next to the main MISSE-8 PEC
+exposure experiment, and the spare PMA-3 docking port was wrapped in 
+a thermal protection cover to prevent it overheating.
+
+Atlantis undocked from ISS on Jul 19 at 0628 UTC and on Jul 20
+it deployed the small 4 kg Picosat Solar Cell Testbed satellite.
+At 0849 UTC on Jul 21 the OMS engines were fired to lower the orbit
+to 46 x 389 km. Atlantis entered the atmosphere at 0925 UTC and
+touched down on Runway 15 at Kennedy Space Center at 0957 UTC,
+bringing to an end the final Shuttle flight.
+
+Expedition 28 continues with Borisenko, Samkutyaev, Garan, Volkov,
+Furukawa, and Fossum aboard ISS. The next US astronaut to fly in space
+is scheduled to be Dan Burbank, Flight Engineer-2 on the Soyuz TMA-22
+mission slated for lauch in September 2011. Meanwhile, the SpaceX
+'Dragon Rider' program under former astronaut Garrett Reisman is modifying
+their Dragon cargo craft to be the next US-built spaceship to carry a crew.
+
+
+SJ-11-03
+--------
+
+China has launched a new satellite, Shi Jian shi yihao 03 xing
+(Shi Jian 11 satellite 3, denoted SJ-11-03 by many Western sources).
+SJ-11-1 was launched on 2009 Nov 12; SJ-11-2 has not been launched.
+It is thought that the SJ-11 satellites are followons to the Shiyan
+Weixing 2 satellite which tested infrared sensors. It has further
+been speculated (in a posting on nasaspaceflight.com) that the vehicles
+may be missile early warning satellites; this is certainly possible
+but seems a bit of a leap to me, although a military infrared
+surveillance mission of some kind does appear plausible.
+
+SJ-11-03 was launched into a 690 x 703 km x 98.2 deg orbit together
+with its final stage rocket. As usual with CZ-2C launches, four
+stage-2 separation-motor covers were jettisoned into elliptical 
+orbits, in this case around 700 x (800 - 955) km.
+
+TL-1-02
+--------
+
+China also launched the TianLian yihao 02 xing (TL-1 satellite 02),
+a data relay satellite which will be used to support the forthcoming
+Shenzhou/Tiangong docking mission. The CZ-3C third stage put the
+payload in a 198 x 42217 km x 18.0 deg supersynchronous transfer orbit.
+By Jul 19 the satellite was in geostationary orbit over the Pacific.
+
+Globalstar-2
+------------
+
+The second batch of six second-generation Globalstar low-orbit
+communications satellite was launched from Baykonur on Jul 13
+into a 920 x 932 km x 52.0 deg parking orbit. 
+
+
+Rasad
+-----
+
+Iran's Rasad-1 satellite reentered on July 6 after three weeks in
+orbit. The initial 243 x 292 km orbit had decayed to 186 x 197 km by
+July 4.
+
+GSAT-12
+-------
+
+India's 1410-kg GSAT-12 communications satellite was launched into
+subsynchronous transfer orbit on Jul 15 by the enhanced XL version of
+the PSLV (Polar Satellite Launch Vehicle). PSLV's more powerful sibling
+GSLV (Geostationary Satellite Launch Vehicle) is still grounded
+following launch failures, so GSAT-12 will use some of its own onboard
+propellant to make it up to geostationary atltitude.
+
+SES-3/Kazsat-2
+--------------
+
+International Launch Services launched the SES-3 and Kazsat-2 satellites
+on a Khrunichev Proton-M/Briz-M on Jul 15. Ascent is underway at this
+writing.
+
+SES-3, for SES World Skies (Princeton, NJ) and SES Engineering
+(Luxembourg), is an Orbital Star-2.4E with a fuelled mass of 3112 kg,
+using a Japanese IHI BT-4 apogee thruster. It carries a C/Ku band
+communications payload. Kazsat-2 is a Ku-band communications satellite
+based on Khrunichev's Yakhta bus and is owned by Kazakhstan's National
+Center for Space Communications (RTsKS).
+
+The Briz-M was placed in an initial -477 x 189 km x 48.0 deg trajectory
+at 2325 UTC; it reached 133 x 273 km x 48.0 deg at 2333 UTC, 240 x 5000
+km x 46.8 deg at 0039 UTC on Jul 16, jettisoned the DTB tank at 0259 UTC
+in a 341 x 215235 km orbit, reached 401 x 35252 km x 45.6 deg at 0303
+UTC, and coasted to apogee. A further burn completed at 0704 UTC  left
+SES-3 in a 3655 x 35757 km x 24.7 deg orbit; it separated from the stack
+at 0717 UTC. The Briz-M coasted for almost an hour and then jettisoned
+the payload adapter that separated SES-3 from Kazsat at 0812 UTC. At
+0822 the sixth Briz-M burn put Briz-M/Kazsat in a 35201 x 35767 km x 0.1
+deg near-geosynchronous orbit,  and at 0840 UTC Kazsat-2 was ejected
+from Briz-M. Finally, Briz-M made two depletion burns at 1046 and 1151
+UTC.
+
+It appears from Khrunichev data that the final Kazsat-2 orbit was
+about 324 km lower in apogee than planned and 0.1 deg higher in inclination,
+but this is unlikely to pose a problem for the payload. 
+
+The objects in orbit from the launch are therefore:
+    Briz-M 99519  35000?x 36000?x  1.0? deg  
+    Kazsat-2      35201 x 35767 x  0.1 deg   
+    SES-3          3655 x 35757 x 24.7 deg     35A
+    Adapter        3692 x 35728 x 24.7 deg     35B
+    DTB tank        341 x 25235 x 45.7 deg     35C
+    8S812KM stage  -477 x   189 x 48.0 deg (reentered in Pacific)
+
+GPS SVN63
+----------
+
+A new Boeing/El Segundo Block IIF Global Positioning System satellite,  space vehicle SVN
+63, was launched on Jul 16 to become GPS IIF-2. The Delta 4 rocket made
+three upper stage burns to a 185 x 400 km x 42 deg orbit, a 239 x 20418
+km x 43 deg orbit, and at 1001 UTC to a 20463 x 21736 km x 54.8 deg
+orbit. (Does anyone know if the IIF has a BSS- type model
+number analogous to the BSS-702 communications satellites?)
+
+Spektr-R
+--------
+
+The first of the long-planed Spektr series of Russian astronomical space
+observatories has been launched. Spektr-R, also known as RadioAstron, is
+a 3660 kg spacecraft based on the Lavochkin company's Navigator bus,
+and carries a 10m diameter radio telescope observing at 92, 18, 6 and 1.35
+cm wavelengths. The satellite also carries solar wind and cosmic dust
+detectors, and laser corner reflectors for tracking.
+
+The Zenit-3F/Fregat rocket entereed a 177 x 447 km x 51.4 deg orbit;
+four small separation motor covers were jettisoned to 175 x 660 km. The
+first Fregat upper stage burn put it in a 429 x 3703 km orbit. The
+Fregat's SBB (Sbrasivaemiye baki banov) drop tank was jettisoned into
+this orbit prior to a second burn which boosted the orbit to  1045 x
+332728 km x 51.6 deg. RadioAstron separated from Fregat at 0606 UTC and
+reached first apogee around Jul 21.
+
+Dawn
+----
+
+The Dawn space probe entered a bound orbit around Vesta on Jul 16.
+It continues to use its ion engine to lower the orbital height, 
+and by Jul 22 it was at an altitude of 5400 km.
+
+
+Chandra X-ray Observatory
+-------------------------
+
+On Jul 6, Chandra entered its first unplanned safemode since 2000. As of
+Jul 12, the spacecraft has been recovered to normal operation and the
+science program has resumed. The safemode was  caused when unusually
+strong gravity gradient torques coincided with the end of a slew, and
+this combined with a complexity in the software confused Chandra into
+incorrectly thinking that it was out of control, when in fact it was
+actually pointing stably. It took a couple of days to figure out exactly
+what happened, but the hardware is now fully exonerated: as it prepares
+to complete 12 years in orbit Chandra is still in excellent health.
+
+
+Suborbital launches
+-------------------
+
+Two sounding rockets were launched from Wallops Island 15 seconds apart
+on Jul 10 as part of the Daytime Dynamo experiment which studies
+ionspheric activity.
+
+Argentia's CITEDEF defense research group launched a two-stage sounding
+rocket, Gradicom II, to 100km from the CELPA base in Chamical,
+Argentina. CELPA was Argentina's main sounding rocket launch site from
+1962-1974, but had been retired for many years. Gradicom reportedly
+stands for GRAndes DImensiones COMpuestos (Large Size Composite
+propellant); the main motor, tested to 40 km on 2009 Dec 17 from
+Serrezuela,  is 0.32m dia 2.5m long. The new vehicle appears to have a
+booster stage of the same diameter; it is 7.7m long 0.32m dia and has a
+total mass of 933 kg.
+
+
+Erratum
+--------
+
+I am informed that the Chibis-M satellite was not in fact carried
+on Progress M-11M - apologies for the error.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+May  4 1741   Meridian No. 14L  Soyuz-2-1A         Plesetsk LC43/4  Comms      18A
+May  7 1810   SBIRS GEO-1       Atlas V 401        Canaveral SLC41  Early Warn 19A
+May 16 1256   STS-134 Endeavour Space Shuttle      Kennedy LC39A    Spaceship  20A
+May 20 1915   Telstar 14R       Proton-M           Baykonur LC200/39 Comms     21A
+May 20 2038   ST-2     )        Ariane 5ECA        Kourou ELA3       Comms     22B
+              GSAT-8   )                                             Comms     22A
+Jun  7 2012   Soyuz TMA-02M     Soyuz-FG           Baykonur LC1      Spaceship 23A
+Jun 10 1420   SAC-D/Aquarius    Delta 7320         Vandenberg SLC2W  Climate   24A
+Jun 15 0915   Rasad             Safir              Semnan?           Imaging   25A
+Jun 20 1613   Zhongxing-10      Chang Zheng 3BE    Xichang           Comms     26A
+Jun 21 1438   Progress M-11M    Soyuz-U            Baykonur          Cargo     27A
+Jun 27 1600   Kosmos-2472       Soyuz-U            Plesetsk LC16/2   Imaging   28A
+Jun 30 0309   ORS-1             Minotaur 1         Wallops I. LA0B   Imaging   29A
+Jul  6 0428   SJ-11-3           Chang Zheng 2C     Jiuquan           Unknown   30A
+Jul  8 1529   Atlantis STS-135  Space Shuttle      Kennedy LC39A     Spaceship 31A
+Jul 11 1541   TianLian 1-02     Chang Zheng 3C     Xichang           Data rel. 32A
+Jul 13 0227   Globalstar M083 ) Soyuz-2-1A/Fregat  Baykonur LC31     Comms     33A  
+              Globalstar M088 )                                      Comms     33B
+              Globalstar M091 )                                      Comms     33C
+              Globalstar M085 )                                      Comms     33D
+              Globalstar M081 )                                      Comms     33E
+              Globalstar M089 )                                      Comms     33F
+Jul 15 1118   GSAT-12           PSLV-XL            Sriharikota       Comms     34A
+Jul 15 2316   SES-3   )         Proton-M/Briz-M    Baykonur LC200/39 Comms     35A
+              Kazsat-2)                                              Comms     35B
+Jul 16 0641   GPS SVN 63        Delta 4M+(4,2)     Canaveral LC37B   Nav       36A
+Jul 18 0231   Spektr-R          Zenit-3F/Fregat    Baykonur LC45/1   Astronomy 37A
+Jul 20 0749   PSSC-2                               Atlantis,LEO      Tech      31B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+May  6 2302   Kunpeng-1        Tianying-3C        Hainan              Ionosphere   197
+May 20        4 x RV           Sineva             K-84, Barents Sea   Op. Test    1000?
+May 20 1321   SL-5             SpaceLoft XL       SWRS                Edu/Burial   118
+Jun 10 1116   NASA 41.096GT    Terrier Orion      Wallops I           Tech         118
+Jun 22 1335   GT204 RV         Minuteman 3        Vandenberg LF10     Test        1300?
+Jun 23 1017   NASA 41.095UO    Terrier Orion      Wallops I           Education    119
+Jun 28        Shahab RV        Shahab 1           Semnan?             Exercise     150?
+Jun 28        Shahab RV        Shahab 2           Semnan?             Exercise     150?
+Jun 28        Shahab RV        Ghadr              Semnan?             Exercise     150?
+Jun 28 1155   RV x 6?          Bulava             K-535, White Sea    Test        1000?
+Jul  8 1404   SRALT            SR-19              C-17, Point Mugu    Target       200?
+Jul 10 1400   NASA 21.140GE    Black Brant V      Wallops I LA2       Ionosphere   158?
+Jul 10 1400   NASA 41.090GE    Terrier Orion      Wallops I LA2       Ionosphere   158?
+Jul 11 1535?  Gradicom         Gradicom 2         Chamical            Test         100
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+
+</PRE>
+<P>
+              
+</BODY>
+
+
+
+
+
+
+
+
+

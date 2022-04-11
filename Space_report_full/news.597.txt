@@ -1,0 +1,175 @@
+Jonathan's Space Report
+No. 597                                           2008 Jun 27, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+The Japanese Kibo pressurized module is now attached to the Station.
+Discovery took off at 2101 UTC on May 31 on Shuttle mission STS-124,
+Station mission 1J, using external tank ET-128. A 76 m/s OMS-2 burn at
+2140 UTC put the Shuttle in its targeted orbit. STS-124  delivered the
+Kibo Pressurized Module, the largest component of the Japanese station
+element, to ISS. Discovery docked at PMA-2 at 1803 UTC on Jun 2.
+Astronauts Fossum and Garan made three spacewalks from Quest using EMU
+3015 and 3017; they supported the installation of Kibo PM, inspected the
+Solar Alpha Rotary Joints, and changed out a nitrogen tank. The Kibo
+module was installed on Harmony by 2301 UTC on Jun 4; the Japanese
+Logistics Module was transferred from Harmony to Kibo on Jun 6 between
+1917 and 2004 UTC. The Shuttle undocked on Jun 11 at 1142 UTC and landed
+at 1515 UTC on Jun 14 on runway 15 at Kennedy Space Center.
+
+ The STS-124 payload bay contained:
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3015, 3017 suits                       260?
+  APC/SPDU                         3 port          100?
+  Kibo PM                          5-12          14800?
+  APC/ECSH                         13 port         100?
+  RMS 301                          Sill            410
+ ------------------------------------------------------
+                                    Cargo total  17530 kg
+
+
+GLAST
+-----
+
+NASA's new Gamma Ray Large Area Space Telescope, GLAST, was launched on
+Jun 11 into a 542 x 561 km x 25.6 deg orbit.  GLAST's main instrument is
+the LAT (Large Area Telescope) which is a CsI calorimeter array with a
+plastic scintillator detector, viewing 20 percent of the sky at a time
+with a spatial resolution of a few arcminutes, unprecedented in a high
+energy gamma ray satellite. LAT observes in the 20 MeV-300 GeV energy
+range, and  is a successor to COS-B and CGRO-EGRET. A secondary
+experiment, the Gamma Burst Monitor, operates in the lower 10 keV-30 MeV
+ range and is a successor to CGRO-BATSE. The 25.6 deg inclination is
+unusual, requiring extra fuel during launch from the 28.5 deg North
+launch site at Cape Canaveral; reducing the amount of time spent in the
+South Atlantic Anomaly improves the sensitivity of the observations.
+
+
+Zhongxing 9
+-----------
+
+China launched a communications satellite on Jun 10. ZX-9, or Chinasat 9,
+is a Thales Alenia Space satellite (Spacebus 4000C1 model).
+Launch was to a 245 x 49592 km supersynchronous transfer orbit.
+
+Turksat 3A/Skynet 5C
+--------------------
+
+Arianespace launched Ariane 5ECA vehicle L540 on flight V183
+on Jun 12. The EPC stage reached a -1062 x 172 km x 6.8 deg
+sub-orbit, and the ESC-A stage delivered two satellites
+to transfer orbit. Turksat 3A is a Thales Alenia Space
+Spacebus 4000B2 satellites for the privatized Turksat AS
+communications company; Skynet 5C is an Astrium Eurostar E3000
+satellite for Paradigm, the private company which operates
+the Skynet system for the UK Ministry of Defence. As of Jun 24,
+Skynet was over 17.8W and Turksat was at 31E.
+
+AMC 14
+------
+
+The AMC 14 satellite launched on Mar 15 is slowly increasing its orbital
+height, presumably using the arcjet thrusters. On Jun 25 it was in a
+17837 x 35664 km x 19.1 deg orbit.
+
+Amos 3
+------
+
+Amos 3 remains on station at 2.4 deg W. The Land Launch upper stage, a
+Blok DM-SLB, has now also been cataloged. It entered a roughly 34220 x
+39400 km x 0.7 deg orbit on Apr 29; the apogee was 1000 km higher than
+intended due to a programming error. The Briz stage from the Feb 11 Thor
+2R (2008-006) launch has not been cataloged yet; it is probably in
+a 33800 x 35600 km x 0.2 deg orbit following a depletion burn from its
+last known orbit at 36746 x 36840 km x 0.0 deg.
+
+IUE
+---
+
+A debris object has been cataloged in the orbit of IUE (the International
+Ultraviolet Explorer, an early space telescope). It may be
+the telescope dust cover, ejected shortly after launch in 1978.
+
+Orbcomm
+-------
+
+Six new Orbcomm satellites were launched on Jun 19. The CDS-3
+satellite carries an AIS Automated Identification System used
+for tracking ships at sea, similar to the one on the NTS/CanX-6
+nanosatellite launched earlier this year. The five remaining satellites
+carry standard Orbcomm payloads; all six use a bus from Polyot (Omsk)
+integrated by OHB (Bremen), instead of the older Orbital Microstar bus
+used by previous Orbcomms.
+
+I don't have the official Orbcomm names of the new satellites; the
+temporary R-1 to R-5 designations are my own.
+
+
+Jason 2
+-------
+
+The Jason-2 Ocean Surface Topography Mission was launched on Jun 20. The
+main instrument on the joint French-US mission is the Poseidon 3
+altimeter to measure sea surface heights. The Delta first stage
+reportedly underperformed slightly, but the second stage made up the
+deficit and reached a 185 x 1414 km x 66.5 deg transfer orbit, a 1329 x
+1335 km x 66.0 deg mission orbit where it deployed Jason-2, and two
+further burns to a 1332 x 4258 x 65.85 orbit and then a 2160 x 4360 km x
+65.2 deg disposal orbit, using extra fuel left over because the payload
+was so light. The final orbit was expected to be 2468 x 4824 km, but the
+additional propellant usage in the first burn seems to have reduced the
+height achieved.  Jason-2 is a Thales Proteus class satellite with a
+launch mass of 506 kg.
+
+Kosmos-2440
+------------
+
+Kosmos-2440 is a new geostationary early warning satellite for the
+Russian Defense Ministry, operated by the PVO (Air Defense Force).
+It is a US-KMO (Prognoz) class satellite, built by the Lavochkin
+company, and features a large infrared telescope. Launch was by
+a Proton-K with a Blok DM-3 upper stage.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+May 14 2023   Progress M-64     Soyuz-U          Baykonur LC1      Cargo     23A
+May 21 0943   Galaxy 18         Zenit-3SL        SL Odyssey        Comms     24A
+May 23 1520   Kosmos-2437 )     Rokot            Plesetesk LC133/3 Comms     25B
+              Kosmos-2438 )                                        Comms     25C
+              Kosmos-2439 )                                        Comms     25D
+              Yubileyniy  )                                        Comms     25A
+May 27 0302   FY-3A             Chang Zheng 4C   Taiyuan           Weather   26A
+May 31 2101   Discovery STS-124 Shuttle          Kennedy LC39A     Spaceship 27A
+Jun 10 1215   Zhongxing 9       Chang Zheng 3B   Xichang           Comms     28A
+Jun 11 1605   GLAST             Delta 7920H      Canaveral SLC17B  Astronomy 29A
+Jun 12 2205   Skynet 5C  )      Ariane 5ECA      Kourou ELA3       Comms     30A
+              Turksat 3A )                                         Comms     30B
+Jun 19 0636   Orbcomm CDS-1  )  Kosmos-3M        Kapustin Yar LC107 Comms    31
+              Orbcomm R-1    )                                     Comms     31
+              Orbcomm R-2    )                                     Comms     31
+              Orbcomm R-3    )                                     Comms     31
+              Orbcomm R-4    )                                     Comms     31
+              Orbcomm R-5    )                                     Comms     31
+Jun 20 0746   Jason 2           Delta 7320       Vandenberg SLC2W  Rem Sens. 32A
+Jun 26 2359   Kosmos-2440       Proton-K/DM-3    Baykonur LC81/24 Early Warn 33A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+

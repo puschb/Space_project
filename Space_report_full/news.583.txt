@@ -1,0 +1,141 @@
+Jonathan's Space Report
+No. 583                                            2007 Aug  4, Somerville, MA
+-------------------------------------------------------------------------------
+
+Erratum: ZX-6B launch date is Jul 5, not Jul 4.
+
+
+Shuttle and Station
+-------------------
+
+Yurchikin, Kotov and Anderson continue the Expedition 15 mission on
+board the Station.  Launch of Endeavour on mission STS-118 is scheduled
+for Aug 8.
+
+The Progress M-59 cargo ship undocked from the Pirs module on Aug 1 at 1407 UTC
+and was deorbited over the Pacific at 1842 UTC. Progress M-60 remains docked
+to Zvezda. Progress M-61 was launched from Baykonur at 1733 UTC on Aug 2
+and reached orbit at 1742 UTC; it is scheduled to dock with the Station at
+the Pirs module.
+
+On Jul 23 Anderson and Yurchikin made a spacewalk
+from the Quest airlock using EMU suits 3008 and 3006. The spacewalk
+began a little before 1024 UTC and ended at 1805 UTC. A camera stand
+('video stanchion') that was being stored on an FSE/FRAM (Flight Support
+Equipment/Flight Releasable Attach Mechanism)  on the ESP-2 spares
+pallet was retrieved and installed on the truss.  The FSE/FRAM was then
+removed from ESP-2 and jettisoned overboard at 1321 UTC; the empty VSSA
+FSE/FRAM is 96 kg in mass and 1.4 x 1.2 x 0.9m in size.  The ESP-2 was
+launched on STS-114 and attaced to Quest on 2005 Aug 3; the VSSA FSE
+carried four VSSAs, all now installed on the truss on 2005 Nov 4, 2006 Aug 3,
+2007 Jun 17 and 2007 Jul 23. The second jettison during the spacewalk was that of
+the Early Ammonia Servicer (EAS); it was removed from the P6 truss and
+jettisoned overboard at 1437 UTC; the EAS is  2.4 x 1.1 x 1.7 meters in
+size and has a mass of 640 kg. It was launched on Discovery on 2001 Aug
+10 during mission STS-105, and attached to P6 on 2001 Aug 16. Also
+during the spacewalk, the Node 1 nadir berthing port was cleaned in
+preparation for the installation of the PMA-3 docking adapter there
+later this summer.
+
+Jens Wehrmann has kindly sent me a detailed description of the camera
+positions on the truss, listed below. Some stanchions carry the ETVCG
+external cameras, but some just carry WETA comm relays for wireless video
+(such as the spacewalk helmet cameras) as well as UHF and S-band comm relays.
+At CP2 is a stanchion carrying the Floating Potential Measurement Unit
+(FPMU) which monitors electrical charging.
+
+      Location               Stanchion     Carrying:     Previous 
+                             installed                   location:
+ CP1  S3 aft                  2007 Jun 17  (for WETA)   ESP-2
+ CP2  S1 outboard, zenith     2006 Aug  3  FPMU         ESP-2
+ CP3  S1 outboard, nadir      2002 Oct 10  ETVCG        S1 stbd keel pin
+ CP4  S1 inboard, zenith      -
+ CP5  S1 inboard, nadir       -
+ CP6  P1 inboard, zenith      -
+ CP7  P1 inboard, nadir       2007 Jul 23  -            ESP-2
+ CP8  P1 outboard, zenith     2002 Nov 28  WETA         P1 port keel pin
+ CP9  P1 outboard, nadir      2005 Nov  7  ETVCG        ESP-2
+ CP10 P3 aft                  -
+ CP11 (Node 2 nadir)          -
+ CP12 Node 1 zenith           2002 Nov 26  WETA         P1 stbd keel pin
+ CP13 Lab zenith, starboard   2002 Oct 12  ETVCG        S1 port keel pin
+ CP14 (Node 3 stbd. forward)  -
+
+There is also a set of CETA lights for the spacewalk equipment carts,
+near but not at CP5, installed 2003 Apr 8. Thanks Jens!
+
+
+Phoenix to Mars
+---------------
+
+The first Mars Scout mission was launched at 1026 UTC on Aug 4. Phoenix
+is a Mars lander mission based on the hardware from the cancelled Mars
+Surveyor 2001 Lander and instruments developed for the failed Mars Polar
+Lander, and is intended to land in the Martian Arctic, Vastitas
+Borealis, at 68.4N 233.0E areocentric (68.6N 127.0W areographic) near
+the Scandia Colles hills.
+
+Total Phoenix mass is 680 kg including a 350 kg lander; the remaining
+mass includes a cruise stage, aeroshell, backshell, parachute system
+and propellant - I haven't managed to find a detailed mass breakdown.
+The lander carries a robotic arm, soil analysis instruments, 
+meteorology instruments, and cameras. 
+
+Launch was by Boeing/ULA Delta 7925-9.5 from pad 17A at Cape Canaveral;
+the Delta second stage burned to a 166 x 167 km x 28.5 deg parking orbit
+at 0935 UTC, and again at 1140 UTC to a 163 x 5651 km x 28.5 deg
+intermediate orbit. The ATK solid PAM-D (Star 48) third stage fired at
+1044 UTC and shut down at 1045 UTC; at 1050 UTC two 'yo-yo' weights on
+cables were deployed to despin the stage, and the stage separated from
+Phoenix. The PAM-D, the two weights, and Phoenix were then on a
+hyperbolic Earth escape orbit with a perigee of 195 km and an asymptotic
+specific energy of C3= 29.080 km^2/s^2. Phoenix will pass lunar orbit at
+0445 UTC on Aug 5 and leave the Earth's gravitational sphere of
+influence early on Aug 6, into a solar orbit of 0.975 x 1.668 AU with an
+ecliptic inclination of 3.4 deg. The probe is targeted for Mars arrival
+on 2008 May 25; the other three objects will fly past Mars.
+
+Cataloging
+----------
+
+The miscreant catalog number 29676 has been assigned to 2005-049F,
+the MSG 2 SEVIRI baffle cover, which was previously listed with
+my auxiliary catalog number A05861 in my geosync objects list.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun  7 1800   Kosmos-2427       Soyuz-U          Plesetsk        Imaging     22A
+Jun  8 0234   COSMO-Skymed 1    Delta 7420       Vandenberg SLC2 Radar       23A   
+Jun  8 2338   Atlantis (STS-117) Space Shuttle   Kennedy LC39A   Spaceship   24A
+Jun 10 2340   'Ofeq 7           Shavit           Palmachim       Imaging     25A
+Jun 15 0214   TerraSAR-X        Dnepr            Baykonur LC109  Radar       26A
+Jun 15 1511   USA 194)          Atlas V 401      Canaveral SLC41 Sigint      27A
+              NRO?   )                                           Sigint      27C
+Jun 28 1502   Genesis 2         Dnepr            Yasniy          Tech        28A
+Jun 29 1000   Kosmos-2428       Zenit-2M         Baykonur LC45/1 Sigint      29A
+Jul  2 1938   SAR-Lupe 2        Kosmos-3M        Plesetsk LC132  Radar       30A
+Jul  5 1208   Zhongxing 6B      Chang Zheng 3B   Xichang LC2     Comms       31A
+Jul  7 0116   DirecTV 10        Proton-M/Briz-M  Baykonur LC200/39 Comms     32A
+Aug  2 1733   Progress M-61     Soyuz-U          Baykonur LC1    Cargo       33A
+Aug  4 0926   Phoenix           Delta 7925       Canaveral SLC17A Mars probe 34A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+
+
+
+
+

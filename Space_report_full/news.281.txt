@@ -1,0 +1,143 @@
+Jonathan's Space Report
+No. 281                        1996 Mar 22                  Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+OV-104 Atlantis has been launched on the third Mir docking mission,
+STS-76. Liftoff was on Mar 22 at 0813:04 UTC. There was a leak in the
+hydraulic system during ascent; it is not yet clear whether this will
+affect mission duration, but at the moment it looks like there is no
+problem. The RSRM-46 solid rocket motors separated 2 min after launch;
+the main engine cutoff was at about 0821:34 and the  separation of
+External Tank ET-77 came ten seconds later. This was the 76th Shuttle
+launch. The OMS-2 burn placed Atlantis in a 157 x 292 km x 51.6 deg
+orbit; the NC-1 burn later put it in a 226 x 294 km x 51.6 deg orbit. 
+(Can anyone tell me when the burns happened?) Docking with the Mir
+station is scheduled for 0234 UTC on Mar 24. The spacewalk is due for
+Mar 27, and the undocking for Mar 29 with landing on Mar 31.
+
+The MEEP PEC experiments, which will be transferred to the exterior
+of Mir during the spacewalk, are mounted on ICAPC (Increased Capacity
+Adaptive Payload Carriers), not GAS Beams as I suggested last week.
+They are in bays 11 Port, 11 Starboard, 12 Port, and 12 Starboard.
+The TRIS experiment is on bay 13 Starboard.
+
+Mir
+---
+
+EO-21 astronauts Yuriy Onufrienko and Yuriy Usachyov made a spacewalk
+on Mar 15. They left the Kvant-2 airlock at 0104 UTC and installed
+a second Strela crane on the Mir base block. The Strela is used to
+move spacewalkers and their equipment from one side of the station
+to another. The existing one wouldn't reach the Kristall module,
+which the new one will allow. The spacewalkers also went to the Kvant
+(37KE) module and did preparatory work for attaching a new solar
+array. Duration of the space walk was 5h 51m.  (Info from C vd Berg).
+Shannon Lucid will become one of the EO-21 crew when her Soyuz 
+reentry couch is transferred from Atlantis after the docking.
+
+In a classic display of leftover Soviet-era male chauvinism, Gagarin
+Training Center deputy commander Gen. Glazkov reported that they
+expected improved living conditions on Mir with NASA astronaut Lucid
+aboard "because we know that women love to clean" (AP report). This from
+the space agency which hailed Svetlana Savitskaya's 1984 first spacewalk
+by a woman with "now Soviet space technology is advanced enough that
+[even] a woman can make spacewalks". Excuse me?
+
+
+Recent Launches
+---------------
+
+The Indian Space Research Organization (ISRO) has launched IRS-P3,
+a remote sensing satellite, using its solid-propellant 4-stage Polar
+Satellite Launch Vehicle, PSLV. Launch was from the Sriharikota
+Island range; this was the third PSLV launch, and the second success.
+Other IRS satellites have been launched with Russian rockets, most
+recently in December. IRS-P3 is in an 802 x 848 km x 98.8 deg orbit.
+
+  IRS satellites:
+
+  IRS-1A  1988 Mar 17  Vostok, Baykonur       870 x 914 km x 99.0 deg
+  IRS-1B  1991 Aug 29  Vostok, Baykonur       862 x 918 km x 99.2 deg
+  IRS-1E  1993 Sep 20  PSLV-D1, Sriharikota    (Failed)
+  IRS-P2  1994 Oct 15  PSLV-D2, Sriharikota   798 x 882 km x 98.7 deg
+  IRS-1C  1995 Dec 28  Molniya-M, Baykonur    816 x 818 km x 98.6 deg
+  IRS-P3  1996 Mar 21  PSLV-D3, Sriharikota   802 x 848 km x 98.8 deg
+
+India's first satellite was Aryabhata, launched by a Soviet rocket in
+1975. Its first domestic launch vehicle was the SLV-3, first flown
+in 1979 and first flown successfully in 1980. IRS-P3 is the sixth
+Indian launch to reach orbit.
+
+The TSS-1 untethered satellite reentered (with its 20 km tether) at
+2312 UTC on 19 Mar, according to Space Command. Late on Mar 19 it was
+in a 193 x 210 km x 28.5 deg orbit, and reentry was over the Middle
+East/Persian Gulf region.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Feb  1 0115   Palapa C-1       Atlas IIAS     Canaveral LC36B Comsat      06A
+Feb  5 0719   N-STAR b         Ariane 44P     Kourou ELA2     Comsat      07A
+Feb 14 1901   Intelsat 708     Chang Zheng 3B Xichang         Comsat      FTO
+Feb 17 2043   NEAR             Delta 7925-8   Canaveral LC17B Space probe 08A
+Feb 19 0058   Gonets-D1  )                                                09A?
+              Gonets-D1  )                                                09B?
+              Gonets-D1  )     Tsiklon-3      Plesetsk LC32   Comsats     09C?
+              Kosmos-2328)                                                09D?
+              Kosmos-2329)                                                09E?
+              Kosmos-2330)                                                09F?
+Feb 19 0832   Raduga           Proton-K/DM2   Baykonur LC81   Comsat      10A
+Feb 21 1234   Soyuz TM-23      Soyuz-U2       Baykonur LC1    Spaceship   11A
+Feb 22 2018   Columbia         Shuttle        Kennedy LC39B   Spaceship   12A
+Feb 24 1124   Polar            Delta          Vandenberg SLC2W Science    13A
+Feb 26 0130   TSS-1                           OV-102,LEO      Science     12B
+Mar  9 0133   REX-II           Pegasus XL     L1011/Vandenberg Technol.   14A
+Mar 14 0711   Intelsat 707     Ariane 44LP    Kourou ELA2     Comsat      15A
+Mar 14 1740   Kosmos-2331      Soyuz-U        Plesetsk LC43/4 Recon       16A
+Mar 21 0500?  IRS-P3           PSLV           Sriharikota     Rem.sensing 17A
+Mar 22 0813   Atlantis         Shuttle        Kennedy LC39B   Spaceship   18A
+
+Payloads no longer in orbit
+--------------------------
+
+Feb 22        Progress M-30   Deorbited over Pacific
+Feb 29        Soyuz TM-22     Landed in Kazakstan
+Mar  9        Columbia        Landed at KSC
+Mar 12        FSW-1 capsule   Reentered over Atlantic
+Mar 19        TSS-1           Reentered over Middle East
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-78  Jun 27
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        LEO           STS-76  Mar 21
+OV-105 Endeavour       OPF Bay 3     STS-77  May 16
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-54/             VAB Bay 1      STS-77
+ML2/RSRM-46/ET-77/OV-104 LC39B          STS-76                       
+ML3/
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

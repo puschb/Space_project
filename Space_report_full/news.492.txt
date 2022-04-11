@@ -1,0 +1,303 @@
+Jonathan's Space Report
+No. 492                                           2003 Jan 13, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Editorial
+---------
+
+Apologies for the non-appearance of JSR during the past month; I've been
+busy with other things but I now hope to resume normal irregular service.
+
+Shuttle and Station
+--------------------
+
+At 2005 UTC on Dec 2 Endeavour undocked from the Station with the
+Expedition 5 crew aboard. Shortly afterwards, at 2205, the US Air Force MEPSI
+experiment was launched from a canister in the payload bay. MEPSI is
+pair of 1 kg picosatellites connected by a tether and is a prototype for
+a miniature inspector satellite.
+
+After several days of bad weather delays, Endeavour landed on KSC runway
+33 at 1937:12 UTC on Dec 7.
+
+The next Shuttle launch is STS-107, a research mission using orbiter
+OV-102 Columbia. The mission was delayed from last year; here I repeat
+the payload details from JSR 483. Masses are guesswork.
+
+STS-107 payload bay manifest
+----------------------------
+                            Mass (kg)
+Bay  1    Tunnel Adapter     500?
+Bay  2-3  Tunnel             800?
+Bay  4-7  Spacehab RDM      8000?
+Bay  10   FREESTAR MPESS    2000?
+Keel 11   OARE                53
+Bay 12-13 EDO pallet        3200?
+                          ------
+Total                      14553?
+
+The Spacehab Research Double Module is making its first flight. It
+carries a selection of microgravity experiments including  the
+Combustion Module 2 racks, the Vapor Compression Distillation rack which
+is a prototype for a Station water recycling system, a centrifuge, a
+refrigerator/freezer, and three Animal Enclosure Modules carrying a
+total of 13 rats. Educational experiments include an ant colony,
+spiders, bees and Medaka fish. The RDM is pressurized and connected to
+the cabin by the Tunnel and the Tunnel Adapter (which has a hatch that
+could be used for emergency spacewalks).
+
+The FREESTAR (Fast Reaction Experiments Enabling Science Technology
+Applications and Research) is a Hitchhiker science payload managed by
+NASA-Goddard. FREESTAR uses an MPESS cross-bay bridge and is a followon
+to the USMP series. It carries the Critical Viscosity of Xenon
+experiment, as well as an ozone spectrometer, a detector to study solar
+radiation output, and an Israeli experiment with UV and IR cameras to
+study dust and aerosols in the atmosphere in the Mediterraean and the
+Sahara. An Israeli astronaut, Col. Ilan Ramon, will be flying on the
+mission.
+
+The OARE is an acceleration measuring package installed in the bottom of
+the payload bay. The EDO (Extended Duration Orbiter) pallet contains
+hydrogen and oxygen tanks used to generate electricity for the long
+duration mission.
+
+
+
+Recent Launches
+---------------
+
+The Astra 1K satellite was deorbited on Dec 10 over the Pacific. The
+satellite had been stranded in low orbit after an upper stage failure.
+
+The first Ariane 5ECA launch, V517, ended in failure on Dec 11 when the
+first stage Vulcain 2 engine nozzle failed three minutes after launch
+because of a leak in the cooling system. The vehicle reached an apogee
+of about 140 km and then fell back towards the Atlantic, destroyed by
+range safety seven minutes after launch.
+
+The Ariane 5ECA uses slightly enhanced EAP solid boosters, a stretched
+EPC first stage with a new Vulcain 2 engine, and an entirely new ESC-A
+upper stage. The ESC-A is a derivative of the Ariane 4 upper stage but
+with the liquid hydrogen tank from the Ariane 5G first stage. It uses
+the HM7 engine.
+
+The payloads aboard the Ariane 5ECA were Stentor and Hot Bird 7. Hot
+Bird 7 was a 3300 kg Eurostar 2000+ satellite for Eutelsat with a
+Ka-band communications payload. Stentor was an experimental French
+communications technology satellite using the Alcatel Spacebus 3000 bus
+with Eurostar 3000 components. It carried an S400 liquid apogee engine
+as well as SEP and Fakel electric xenon thrusters; the communications
+payload included Ku-band and EHF transponders. Mass was 2210 kg.
+
+TDRS J was launched on Dec 5 by Lockheed Martin Atlas IIA flight AC-144.
+It  became TDRS 10 on reaching operational orbit. The TDRS satellites
+provide data relay services for NASA; TDRS 10 is the last of three
+Boeing 601 class satellites which supersede the original TRW TDRS
+series. Mass is 1514 kg dry, 3189 full. 
+
+The Japanese NASDA space agency's Midori-2 (ADEOS II) earth observing
+satellite was launched on Dec 14 from Tanegashima on an H-2A-202 with a
+type 5S fairing. This was the first sun-synchronous launch of the H-2A,
+which launched southbound and made a single burn of the second stage to
+reach an 804 x 806 km x 98.7 deg orbit. ADEOS-II carries a microwave
+radiometer, imagers, a sea wind speed sensor, and other remote sensing
+instruments.
+
+Secondary payloads ejected from the H-2A second stage were WEOS (Whale
+Earth Observing Satellite) for the Chiba Insitute of Technology, FedSat
+for Australia, and Mu-Lab-Sat for NASDA. WEOS relays data from
+transmitters attached to whales; the 58 kg Fedsat carries a
+magnetometer, a GPS navigation experiment, a UHF/Ka band communications
+experiment, and an experimental computer. The 54 kg Mu-Lab-Sat
+(Micro-Lab-Sat) tested the separation mechanism for the Selene moon
+probe subsatellites.
+
+Arianespace launched the penultimate Ariane 44L with the NSS-6 satellite
+for New Skies (the commercial Intelsat spinoff) on Dec 17. NSS-6 is a
+Lockheed Martin A2100AX with a launch mass of 4575 kg and a Ku and Ka
+band communications payload. The satellite reached geostationary
+orbit in late December.
+
+ISC Kosmotras launched a Dnepr rocket on Dec 20 from Baykonur. The Dnepr
+is a refurbished Yuzhnoe R-36M2 ballistic missile. The second stage of
+the Dnepr fell in the Pacific while the third stage reached orbit 11 min
+after launch and deployed six satellites. The main payload on this
+flight was an inert mockup of both the TransOrbital Trailblazer lunar
+probe payload and its attached solid motor, probably with a total mass
+of at least 200 kg and a size around 2m long. Five much smaller
+satellites were also carried, each with a mass of around 10 kg:  the
+Saudisat 1C test satellite for King Abdulaziz City for Science and
+Technology; the Latinsat-A and Latinsat-B communications relays for
+Aprize Argentina, a spinoff of Virginia-based Aprize Satellite and
+SpaceQuest; the Unisat-2 technology satellite from the University of
+Roma/La Sapienza, and the Rubin-2 technology satellite for OHB/Carlo
+Gavazzi Space. The satellites were placed in 630 x 670 km x 64.6 deg
+orbits, while the Dnepr third stage ended up in a 600 x 1004 km x 64.6
+deg orbit.
+
+A US-KS Oko early warning satellite built by NPO Lavochkin was launched
+on Dec 24 by a TsSKB-Progress Molniya-M rocket with a BL upper stage.
+The satellite, named Kosmos-2393 after launch, is in a 545 x 39717 km x
+62.8 deg orbit.
+
+Uragan-M satellites 791, 792 and 793 were launched on Dec 25 and named
+Kosmos-2394, 2395 and 2396. The satellites form part of the GLONASS
+navigation system.  They were launched on a Krunichev Proton-K rocket
+with an Energiya Blok DM-2 upper stage, the first use of the DM series
+since the failure with Astra 1K. The Proton-K third stage and the DM
+upper adapter entered a 162 x 185 km x 64.9 deg orbit at 0748 UTC; they
+were not cataloged by Space Command and must have reentered rapidly. The
+DM stage fired at 0840 UTC to enter a 196 x 19137 km x 64.6 deg transfer
+orbit and then again at 1132 UTC to circularize the orbit at apogee. The
+three Uragan-M satellites separated between 1135 and 1211 UTC. Two SOZ
+ullage motors separated from the DM at the beginning of its second burn.
+The Uragan-M satellites are built by PO Polyot (Omsk).
+
+China launched Shenzhou 4 at 1640 UTC on Dec 29. This is the fourth
+automated test flight of the Soyuz-like Shenzhou  spaceship, and it is
+expected that the next flight will carry  China's first astronauts. SZ-4
+carried two dummy astronauts with equipment to monitor the life support
+system.  The spacecraft was placed in a 198 x 331 kmx  42.4 deg orbit,
+which was raised to 330 x 337 km x 42.4 deg at 2335 UTC on Dec 29. The
+orbital module separated on Jan 5 to operate independently in orbit, and
+shortly afterwards at about 1026 UTC the main spacecraft fired its
+deorbit engine for a landing in Inner Mongolia at 1116 UTC.
+
+International Launch Services' first commercial launch of the Krunichev
+Proton-M/Briz-M on Dec 29 placed the Nimiq 2 satellite in orbit for
+Telesat Canada. Nimiq 2 is a Lockheed Martin A2100AX satellite with
+Ku-band and Ka-band communications transponders for television and
+broadband data, and has a launch mass of 3600 kg. 
+
+The Proton-M is an uprated version of the standard Proton-K; the Briz-M
+stage, also built by Krunichev, is used in place of the old Energiya DM
+stage. The Proton-M was launched at 2316 UTC on Dec 29 and put the
+Briz/Nimiq stack on a suborbital trajectory at 2326 UTC. The Briz  first
+burn lasted from 2327 to 2338 UTC and put it in a 213 x 213 km x 51.5
+deg parking orbit. The second Briz burn was from 0016 to 0043 UTC on Dec
+30 and the planned intermediate orbit was about 608 x 17142 km x 49.6
+deg. At this point the DTB auxiliary propellant tank separated; it has
+not been cataloged by Space Command. A third Briz burn from 0045 to 0050
+UTC raised apogee to geostationary altitude, with a 946 x 35783 x 49.0
+deg orbit according to Space Command elements. The fourth burn from 0551
+to 0558 UTC put the combination in a 7904 x 35886 km x 16.5 deg transfer
+orbit. Briz-M separated at 0610 UTC and the Nimiq satellite started
+using its own liquid apogee engine to raise its orbit, reaching
+geostationary altitude of 35779 x 35789 km x 0.1 deg sometime between
+Jan 3 and Jan 10.
+
+The Coriolis satellite was launched on Jan 6. Coriolis is mission P98-2
+in the USAF Space Test Program, and carries two instruments which may be
+used in the joint civil/military NPOESS weather satellite program. The
+Naval Research Lab's Windsat polarimetric radiometer  measures microwave
+radiation to study the strength and direction of ocean surface winds;
+the Solar Mass Ejection Imager uses a precisely calibrated camera to
+take pictures of solar eruptions which can affect the ionosphere. 
+Coriolis is a Spectrum Astro SA-200HP spacecraft with a mass of 745 kg
+plus 82 kg of hydrazine propellant.
+
+Coriolos was launched aboard Titan II G-4 from Vandenberg at 1419 UTC on
+Jan 6. The Titan second stage main engine shut down at 1424 UTC in a 219
+x 824 km orbit; small thrusters on the second stage fired near apogee at
+1514 UTC  to raise the orbit to 278 x 827 km, and Coriolis then
+separated. By Jan 11 its own propulsion system had raised the orbit to
+489 x 849 km x 98.7 deg.
+
+NASA's ICESAT satellite was launched on Jan 13 by a Boeing Delta 7320-10.
+The two-stage Delta entered a 185 x 597 km x 94.0 deg transfer orbit
+11 min after launch, and then circularized the orbit 1 hr after
+launch to 586 x 594 km x 94.0 deg. ICESAT separated, followed by
+the RH-DPAF adapter cone, and finally the CHIPSat astronomy satellite.
+
+ICESAT is part of NASA's Earth science program and was orginally EOS
+Laser ALT-1. It carries the GLAS Geoscience Laser Altimeter System, a
+1-meter telescope with a laser for lidar observations of the Earth and
+in particular the Arctic and Antarctic ice sheets. ICESAT is a Ball
+BCP-2000 spacecraft with a mass of 300 kg.
+
+CHIPSat is a NASA University Explorer (UNEX) mission, led by UC Berkeley
+and carrying the Cosmic Hot Interstellar Plasma instrument.
+CHIPS has a 5 x 26 degree feild of view and will obtain spectra of
+the diffuse EUV background in the 90-260 Angstrom range. One of the
+key goals is to find out which spectral lines dominate the emission
+from hot gas in the solar neighbourhood. CHIPSat was built by SpaceDev
+and has a mass of 60 kg.
+
+
+Leon van Speybroeck
+-------------------
+
+I am sad to report the death on Dec 25 of Leon van Speybroeck, the
+scientist who designed the remarkable X-ray telescopes aboard the
+Einstein and Chandra observatories. Leon, who had the office just across
+the corridor from me, was a key figure in the development of X-ray
+astronomy, perhaps not as famous as he should have been  because of his
+gentle, self-effacing modesty. He had just won the Rossi Prize, and was
+to speak at the January AAS meeting in Seattle, but unexpectedly fell
+ill in early December. He's a big loss to astronomy, a very smart guy,
+and one of the nicest people I've known.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov 20 2239   Eutelsat W5       Delta 4M+(4,2) Canaveral SLC37B Comms        51A
+Nov 24 0049   Endeavour )       Shuttle        Kennedy LC39A    Spaceship    52A
+              P1        )                                       Station module
+Nov 25 2304   Astra 1K          Proton-K       Baykonur LC81/23 Comms        53A
+Nov 28 0607   AlSAT-1     )     Kosmos-3M      Plesetsk LC132/1 Imaging      54A
+              Mozhaets    )                                     Technology   54B
+              Rubin-3-DSI )                                     Technology   54C
+Dec  2 2205   MEPSI             -              Endeavour, LEO   Technology   52B
+Dec  5 0242   TDRS 10           Atlas IIA      Canaveral SLC36  Comms        55A      
+Dec 11 2221   Stentor    )      Ariane 5ECA    Kourou ELA3      Comms        F03
+              Hot Bird 7 )                                      Comms        F03
+Dec 14 0131   Midori 2   )      H2A-202        Tanegashima      Rem.Sensing  56A
+              WEOS       )                                      Rem.Sensing  56C
+              FedSat     )                                      Technology   56B
+              MuLabSat   )                                      Technology   56D
+Dec 17 2304   NSS 6             Ariane 44L     Kourou ELA2      Comms        57A
+Dec 20 1700   Trailblazer )     Dnepr          Baykonur LC109   Dummy        58E
+              Latinsat A  )                                     Comms        58H
+              Latinsat B  )                                     Comms        58B
+              Saudisat 1C )                                     Comms        58C
+              Unisat-2    )                                     Technology   58D
+              Rubin-2     )                                     Technology   58A
+Dec 24 1220   Kosmos-2393       Molniya-M      Plesetsk LC16/2  Early warn   59A
+Dec 25 0737   Kosmos-2394 )     Proton-K/DM-2  Baykonur LC81/23 Navigation   60A
+              Kosmos-2395 )                                                  60B
+              Kosmos-2396 )                                                  60C
+Dec 29 1640   Shenzhou 4        Chang Zheng 2F  Taiyuan          Spaceship   61A
+Dec 29 2316   Nimiq 2           Proton-M/Briz-M Baykonur LC81/24 Comms       62A
+Jan  6 1419   Coriolis          Titan II        Vandenberg SLC4W Environment 01A
+Jan 13 0045   ICESAT  )         Delta 7320-10   Vandenberg SLC2W Environment 02A
+              CHIPSat )                                          Astronomy   02B
+        
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        LC39A         STS-107  2003 Jan 16 Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        OPF           STS-114  2003 Mar  1 ISS ULF1
+OV-105 Endeavour       OPF           STS-115  2003 May 23 ISS 12A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

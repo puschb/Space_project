@@ -1,0 +1,116 @@
+Jonathan's Space Report 
+No. 208               1994 Aug 29             Cambridge, MA
+--------------------------------------------------------------------------------
+Some catching up to do now I'm back from vacation:
+
+Shuttle
+-------
+
+The attempted launch of STS-68 was terminated with an RSLS Abort at
+1053:58 UTC on Aug 18. The High Pressure Oxidizer Turbopump temperature
+on the third main engine, SSME 2032, registered high after the engine
+started up and the launch was cancelled at T-2 seconds. This is the
+closest to launch that a Shuttle flight has ever been aborted.
+Endeavour was rolled back to the VAB on Aug 24 and its main engines are
+being replaced. The new target launch date is October 2.
+
+Discovery was rolled out to pad 39B a few hours after Endeavour's abort
+on pad 39A. Its STS-64 mission is still scheduled to be launched on Sep 9.
+
+Launches
+--------
+
+A Molniya-3 communications satellite was launched on Aug 24 into
+a 600 x 39000 km orbit inclined 62.8 deg.
+
+The Progress M-24 cargo ship was launched from Baykonur on Aug 25.
+It is scheduled to dock with Mir, but the first attempt at docking
+on Aug 27 was unsuccessful.
+
+Titan Centaur TC-11 was launched from Cape Canaveral on Aug 27. 
+The payload is possibly another Advanced JUMPSEAT type electronic
+intelligence satellite. I hope to have more details on this launch
+in the next issue.
+
+The second H-II launch vehicle, TF-2, successfully orbited its Kiku-6
+(Engineering Test Satellite VI) payload on Aug 28. The H-II is
+the Japanese NASDA agency's heavy lift launch vehicle. Kiku-6
+carries the first Japanese made liquid propellant apogee engine,
+which will place the satellite in geostationary orbit and then
+separate (nevertheless, it is considered part of the payload rather
+than a third stage of the launch vehicle).
+The satellite, to be stationed at 153.8 deg E, is to test technology
+for 2-tonne class 3-axis stabilized comsats.
+It carries a nickel-hydrogen battery, and a small ion
+engine for north-south station keeping.
+The 3.0 x 2.0 x 2.8 m box shaped satellite has 
+solar panels spanning 30m, and 
+3.5 and 2.5 m diameter antennae for fixed
+and mobile communications, together with K and S-band
+antennae for intersatellite communications
+as well as a laser communications experiment. Mass is about 1800 kg.
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jul  1 1224     Soyuz TM-19     Soyuz-U2        Baykonur LC1    Spaceship   36A
+Jul  3 0800     FSW-2           Chang Zheng 2   Jiuquan         Remote sens 37A
+Jul  6 2358     Kosmos-2282     Proton/DM2      Baykonur LC81   EarlyWarn   38A
+Jul  8 1643     Columbia      ) Space Shuttle   Kennedy LC39A   Spaceship   39A
+                Spacelab IML-2)
+Jul  8 2305     PAS 2     )     Ariane 44L      Kourou ELA2     Comsat      40A
+                BS-3N     )                                     Comsat      40B
+Jul 14 0513     Nadezhda        Kosmos-3M       Plesetsk LC133  Navsat      41A
+Jul 20 1735     Kosmos-2283     Soyuz-U         Plesetsk LC43   Recon       42A
+Jul 21 1055     APStar 1        Chang Zheng 3   Xichang         Comsat      43A
+Jul 29 0929     Kosmos-2284     Soyuz-U         Baykonur LC31   Recon       44A
+Aug  2 2000     Kosmos-2285     Kosmos-3M       Plesetsk LC132  ?           45A
+Aug  3 1439     P90-6 APEX      Pegasus/NB-52   Point Arguello  Technology  46A
+Aug  3 2357     DBS 2           Atlas IIA       Canaveral LC36A Comsat      47A
+Aug  5 0112     Kosmos-2286     Molniya         Plesetsk LC16   Early Warn  48A
+Aug 10 2305     Brasilsat B1  ) Ariane 44LP     Kourou ELA2     Comsat      49A
+                Turksat 1B    )                                 Comsat      49B
+Aug 11 1527     Kosmos-2287   ) Proton-K/DM2    Baykonur        Navsat      50A
+                Kosmos-2288   )                                 Navsat      50B
+                Kosmos-2289   )                                 Navsat      50C
+Aug 23 1433?    Molniya-3       Molniya         Plesetsk        Comsat      51A
+Aug 25 1428?    Progress M-24   Soyuz-U?        Baykonur        Cargo       52A
+Aug 27 0858     USA-105         Titan Centaur   Canaveral LC41  SIGINT?     53A
+Aug 28 0750     Kiku 6          H-II            Tanegashima     Comsat      
+
+Reentries
+---------
+
+Jul  9          Soyuz TM-18     Landed in Kazakhstan
+Jul 18	        FSW-2           Landed in China
+Jul 23          Columbia        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     OMDP    -
+OV-103 Discovery       LC39B         STS-64  Sep 9
+OV-104 Atlantis        OPF Bay 3     STS-66  Oct 27
+OV-105 Endeavour       VAB Bay 1     STS-68  Oct 2
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65/OV-105   VAB Bay 1 STS-68
+ML2/RSRM-41/ET-66/OV-103   LC39B     STS-64 
+ML3/                       VAB Bay 3? STS-66   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

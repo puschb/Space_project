@@ -1,0 +1,268 @@
+Jonathan's Space Report 
+No. 751                                                         2018 Jul 28  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+The Edge of Space 
+------------------
+
+In a new paper in Acta Astronautica (2018, vol 151, 668) "The edge
+of space: Revisiting the Karman Line" I argue that outer space
+should be considered to begin at 80 km altitude, and not at the 100 km 
+level which has been popular in recent years. The paper is open access
+and is available at 
+  https://www.sciencedirect.com/science/article/pii/S0094576518308221
+and 
+  https://planet4589.org/space/papers/Edge.pdf
+
+
+International Space Station
+---------------------------
+
+Aboard ISS, Expedition 56 continues with astronauts Feustel, Artemev,
+Arnold, Prokop'ev, Aunon-Chancellor and Gerst.
+
+On Jun 20 the Canadarm-2/Dextre robot arm combo plucked Surrey's RemoveDebris
+technology satellite from the Kibo airlock and released it into orbit.
+
+On Jun 23 at 0815 UTC the ISS orbit was boosted with a 0.4m/s burn from
+Progress MS-08 which increased apogee by 2 km.
+
+On Jun 29 SpaceX launched the Dragon CRS-15 cargo ship on a Falcon 9
+from Cape Canaveral. CRS-15 uses capsule C111, on its second flight, and
+as usual a new trunk section, this time carrying the ECOSTRESS
+experiment and a spare latching end effector for the Canadarm-2 robot
+arm, LEE S/N 205, attached to a flight support equipment (FSE) plate.
+Dragon CRS-15 arrived at the ISS on Jul 2; Canadarm-2 grappled the
+vehicle at 1054 UTC and was berthed on the Harmony module at 1352 UTC.
+
+On Jul 5 the Canadarm-2 unberthed ECOSTRESS from Dragon and handed it
+off to the JEM RMS which installed it on the Kibo Exposed Facility at
+EFU10.  When the old spare LEE, S/N 204, was pressed into service as the
+new LEE-B on the arm, it left behind an FSE plate on External Stowage
+Platform 2. On Jul 6 the Dextre arm was used to move the FSE plate to
+the Dragon trunk for disposal and moved the new LEE to ESP-2.  On Jul 11
+the JEM RMS arm moved the old HREP (HICO/RAIDS Exposed Payload) from the
+Kibo Exposed Facility EFU6 to EFU13, where the Canadarm-2 picked it up
+and relocated it to the Dragon trunk for disposal. HREP was launched in
+2009 on the first HTV cargo ship. 
+
+On Jul 9 Progress MS-09 was launched from Baykonur and made the
+fastest-ever ISS rendezvous, docking with the Pirs module only 3h 39m
+13s after launch. The only faster  flights in history from Earth launch
+to orbital rendezvous and docking were Kosmos-188 and Gemini 11, at 1h
+8m and 1h 34min respectively. The cargo ship delivered spacesuit Orlan MKS-5
+to the station.
+
+On Jul 13 Nanoracks NRCSD-14 was extracted from the Kibo airlock by the JEM
+RMS and ejected a total of 9 cubesats, including Phil Kaaret's HaloSat
+X-ray astronomy mission.
+
+Cygnus OA-9E tested its ability to reboost the ISS with a small 0.05m/s
+burn on Jul 10 at 2024UTC. It was unberthed from the Unity module
+on Jul 15 at 1026 UTC and released at 1236 UTC, carrying 3001 kg of
+cargo for disposal. Sometime on Jul 15 to Jul 16 it deployed 6 further
+cubesats for SpireGlobal and the Aerospace Corporation, but the deployment
+times have not been revealed.
+
+On Jul 26 Progress MS-08 fired its engines to adjust the ISS orbit
+in preparation for the forthcoming Soyuz MS-08 landing.
+
+
+Tiangong 2
+-----------
+
+China's Tiangong-2 spacelab was used for a single human expedition in
+2016; China has announced that no further visits are planned. Since
+Shenzhou 11 left in Nov 2016, TG-2 has made small reboost manuevers on
+2017 Mar 5, Apr 5-6, May 13, Jun 17-20, Sep 17, and Nov 4. The Tianzhou-1
+freighter docked with it several times between Apr and Sep 2017 and
+transferred an unknown amount of propellant. The freighter carried about
+2000 kg of propellant in eight 250 kg tanks, half of which were for
+its own maneuevers. I am guessing each of the three propellant transfer
+exercises that were carried out involved one tank's worth.
+
+On 2018 Jun 13 at around 0645 and 0735 UTC the lab made a two-impulse
+manuever to lower its orbit from 388 x 391 km to 293 x 299 km. It seemed
+as if this might be a precursor to a deorbit burn, but on Jun 22 at
+about 0117 and 0202 UTC a second two-impulse manuever restored the orbit
+to 390 x 399 km. The full sequence used about 330 kg of propellant.
+If we assumed Tianzhou left the 1000-kg-capacity tanks full, that leaves
+about 670 kg. Total mass of Tiangong-2 including propellant
+is probably now around 8500 kg. At least 250 kg of propellant is
+required to safely deorbit the vehicle at end of mission.
+As of Jul 26, Tiangong-2 remained in a 386 x 395 km orbit.
+
+Chinese technology satellites
+-----------------------------
+
+On Jun 27 China launched two satellites carrying intersatellite
+communications and imaging sensor technology experiments. The satellites
+are referred to as `xin jishu shiyan' A and B xing (New Technology Test
+sat A and B).  Satellite A made small orbit corrections from Jun 29 to
+Jul 3, and is now leading satellite B by 1100 km. 
+
+Beidou DW 32
+------------
+
+Although China's Beidou-3 navigation satellite system has now been
+deployed, operation of the older generation Beidou-2 system is being
+maintained. Beidou daohang weixing 32, also known as Beidou-2 I7, was
+launched on Jul 9 to replenish the Beidou-2 inclined geosynchronous
+network. The satellite circularized its orbit sometime between Jul 10
+and Jul 16.
+
+PRSS/PakTes
+------------
+
+China launched two satellites for Pakistan on Jul 9, using the CZ-2C with a rarely seen SMA solid
+upper stage motor. PRSS-1 (Pakistan Remote Sensing Satelite 1) is a Chinese-built imaging satellite;
+the smaller PakTES-1 was developed by Pakistan in collaboration with South Africa. 
+The satellites are operated by Pakistan's space agency SUPARCO.
+PakTes-1a raised its orbit by 30 km on Jul 11-14; PRSS-1 remaines in its
+original orbit.
+
+Telstar 19V
+-----------
+
+Telesat's Telstar 19 Vantage was launched on Jul 22 from Cape Canaveral. The SpaceX Falcon 9
+put the 7075 kg SSL-1300 satellite into a subsynchronous transfer orbit of 243 x 17857 km x 27.0 deg.
+On Jul 25 the satellite begain orbit raising, reaching 300 x 23182 km. Telstar 19V
+will provide broadband Ku/Ka-band services from 63W.
+
+ Galileo
+-------
+
+Four more Galileo navigation satellites were launched on Jul 25 by the final Ariane 5ES (vehicle L596,
+flight VA244). The satellites are owned by the EU GNSS Agency and have the usual multiplicity
+of names: FOC FM19 to 22, GalileoSat-23 to 26, Tara, Samuel, Anna and Ellen.
+
+Iridium Next
+-------------
+
+SpaceX launched the Iridium-7 mission from Vandenberg on Jul 25, while the Ariane launch was still
+in progress. Ten Iridium satellites were deployed from the upper stage, which then was deorbited.
+This was the 14th SpaceX orbital launch so far this year.
+
+Hayabusa-2
+----------
+
+On Jun 27 at 0030 UTC Hayabusa-2 began stationkeeping 20 km from the 0.9
+km-diameter asteroid (162173) Ryugu. On Jul 17-25 the probe approached to 6 km
+from Ryugu and then returned to the 20 km point.
+
+The probe will later approach the asteroid and obtain samples for return
+to Earth.
+
+Kosmos-2519/2521/2523
+---------------------
+
+The Russian inspector satellite experiment launched in 2017 continues.
+From Jun 27 to Jul 19 the host satellite Kosmos-2519 made a series of
+burns which changed its orbit from 644 x 659 km to 318 x 664 km.
+Kosmos-2521 appears to have made a single burn on Jul 20 to go from 346
+x 362 km to 292 x 348 km. Kosmos-2523 remains in the 553 x 665 km orbit
+into which it was ejected last October.
+
+TESS
+----
+
+The TESS observatory has completed commissioning and begun its first
+set of exoplanet search observations.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Jun  2 0413   Gao Fen 6       )       Chang Zheng 2D    Jiuquan          Imaging      48A   S43484   635 x   646 x 98.0
+              Luojia-1 KSW 01 )                                          Imaging      48B   S43485   635 x   647 x 98.0
+Jun  4 0445   SES-12                  Falcon 9 FT       Canaveral SLC40  Comms        49A   S43488  6203 x 66863 x 12.5
+Jun  5 1307   Fengyun 2 09            Chang Zheng 3A    Xichang LC2      Weather      50A   S43491 35894 x 35924 x  2.2
+Jun  6 1112   Soyuz MS-09             Soyuz-FG          Baykonur LC1     Spaceship    51A   S43493   190 x   247 x 51.6
+Jun 12 0420   IGS R-6                 H-IIA             Tanegashima      Radar        52A   S43495   500 x   502 x 97.4
+Jun 16 2146   Kosmos-2527             Soyuz-2-1B/Fregat Plesetsk         Navigation   53A   S43508 19116 x 19155 x 64.8
+Jun 20 1135   RemoveDebris                              ISS, LEO         Tech        9867NT S43510   401 x   407 x 51.6
+Jun 27 0330   XJS A )                 Chang Zheng 2C    Xichang          Tech         54A   S43518   465 x   483 x 35.0
+              XJS B )                                                    Tech         54B   S43519   476 x   486 x 35.0
+Jun 29 0942   Dragon CRS-15           Falcon 9 FT       Canaveral SLC40  Cargo        55A   S43522   402 x   408 x 51.6
+Jul  9 0356   PRSS-1    )             Chang Zheng 2C/SMA Jiuquan         Imaging      56A   S43529   589 x   625 x 98.1
+              PakTes-1a )                                                Imaging      56B   S43530   639 x   640 x 98.1
+Jul  9 2058   Beidou DW32             Chang Zheng 3A    Xichang          Navigation   57A   S43539 35691 x 35875 x 55.1
+Jul  9 2151   Progress MS-09          Soyuz-2-1A        Baykonur LC31    Cargo        58A   S43537   402 x   408 x 51.6
+Jul 13 0805   RainCube )                                ISS, LEO         Tech       9867NU? S43546   399 x   407 x 51.6 
+              HaloSat  )                                                 Astron     9867NV? S43547   399 x   407 x 51.6 
+Jul 13 0905   Radix                                     ISS, LEO         Tech       9867NW? S43548   399 x   407 x 51.6 
+Jul 13 1235   TEMPEST-D )                               ISS, LEO         Sci        9867NX? S43549   399 x   407 x 51.6 
+              CubeRRT   )                                                Tech       9867NY? S43550   399 x   407 x 51.6 
+Jul 13 1420   RadSat-g      )                           ISS, LEO         Tech       9867NZ? S43551   399 x   407 x 51.6 
+              Equisat       )                                            Tech       9867PA? S43552   399 x   407 x 51.6 
+              MemSat        )                                            Tech       9867PB? S43553   399 x   407 x 51.6 
+              Endurosat One )                                            Comms      9867PC? S43554   399 x   407 x 51.6 
+Jul 16?       Lemur-2-TomHenderson )                    OA-9, LEO        Com/Met      46C   S43556   477 x   489 x 51.6
+              Lemur-2-Yuasa        )                                     Com/Met      46D   S43557   477 x   489 x 51.6
+Jul 16?       Lemur-2-Alexander    )                    OA-9, LEO        Com/Met      46E   S43558   477 x   489 x 51.6
+              Lemur-2-Vu           )                                     Com/Met      46F   S43559   477 x   489 x 51.6
+Jul 16?       Aerocube-12A         )                    OA-9, LEO        Tech         46G   S43560   477 x   489 x 51.6
+              Aerocube-12B         )                                     Tech         46H   S43561   477 x   489 x 51.6
+Jul 22 0550   Telstar 19V             Falcon 9 FT       Canaveral SLC40  Comms        59A   S43562   243 x 17862 x 27.0
+Jul 25 1125   GalileoSat-23 )         Ariane 5ES        Kourou ELA3      Navigation   60A   S43564 22896 x 22929 x 56.3
+              GalileoSat-24 )                                            Navigation   60B   S43565 22902 x 22918 x 56.3
+              GalileoSat-25 )                                            Navigation   60C   S43566 22908 x 22948 x 56.2
+              GalileoSat-26 )                                            Navigation   60D   S43567 22899 x 22925 x 56.3
+Jul 25 1139   Iridium SV154           Falcon 9 FT       Vandenberg SLC4E Comms        61F   S43574   608 x   623 x 86.7
+              Iridium SV155                                              Comms        61E   S43573   608 x   623 x 86.7
+              Iridium SV156                                              Comms        61H   S43576   608 x   623 x 86.7
+              Iridium SV158                                              Comms        61C   S43571   607 x   623 x 86.7
+              Iridium SV159                                              Comms        61K   S43578   608 x   623 x 86.7
+              Iridium SV160                                              Comms        61A   S43569   607 x   623 x 86.7
+              Iridium SV163                                              Comms        61G   S43575   607 x   623 x 86.7
+              Iridium SV164                                              Comms        61J   S43577   607 x   623 x 86.7
+              Iridium SV165                                              Comms        61D   S43572   607 x   623 x 86.7
+              Iridium SV166                                              Comms        61B   S43570   608 x   623 x 86.7
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The suborbital launches table includes known flights above 80 km.
+
+Virgin Galactic's Spaceship Two, made a piloted rocket flight into the
+mesosphere on Jul 26  with pilots Mackay and Masucci aboard. This
+doesn't make the suborbital list below, which is restricted to flights
+with apogees above 80 km. It is, however, the first time a piloted
+rocket flight has had an apogee in the mesosphere since 2004.
+
+MICRO-X is a long-awaited sounding rocket flight to test X-ray
+microcalorimeter technology in space, developed by Tali Figueroa at
+Northwestern University (and earlier at MIT). Unfortunately the science
+observations of Cas A were lost due to a pointing failure, but lots of
+calibration data on the sky background were obtained. This should help
+planning for future X-ray astronomy satellites. Previous attempts to do
+X-ray microcalorimeter observations in orbit were largely unsuccessful
+(AXAF-S: cancelled; ASTRO-E: rocket failed; ASTRO-E-II: cryo vented;
+ASTRO-H: spun itself to bits, but got two spectra.). The XQC series of 6
+sounding rocket flights also fewl early calorimeter designs from 1995 to
+2013.
+
+Pavel Podvig reports a possible but unconfirmed Yars missile launch from
+Plesetsk on about Jun 19.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jun  3 0418   Agni RV           Agni V             Kalam Island          Test          800       Indian O.
+Jun 18 1900   EVE 7             Black Brant 9      White Sands           Solar EUV     290       White Sands
+Jun 21 0930   NASA 41.125UO     Terrier Imp.Orion  Wallops Island        Education     120       Atlantic
+Jul 18 1511   New Shepard CC2.0 New Shepard        West Texas            Abort test    119       West Texas
+Jul 23 0600   MICRO-X           Black Brant 9      White Sands           XR Astron     270       White Sands      
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+

@@ -1,0 +1,166 @@
+Jonathan's Space Report
+No. 371                                  1998 Sep 5 Cambridge, MA
+-------------------------------------------------------------------------------
+
+I've corrected some errors in the geo.log file I posted last week.
+Thanks to Tony Vitek for spotting the mistakes.
+
+Shuttle and Mir
+---------------
+
+The Progress M-39 cargo ship redocked at the +X port of the
+37KE (Kvant) module on the Mir complex. Soyuz TM-28 is docked
+at the -X port on the PKhO BB (Base block transfer compartment).
+
+
+Recent Launches
+---------------
+
+* North Korean satellite?
+
+The Democratic People's Republic of Korea (Choson Minjujuui In'min
+Konghwaguk, North Korea) launched a Taepo Dong 1 missile  at 0307 UTC on
+Aug 31.  North Korea now claims that a third stage on the missile placed
+a small satellite in orbit.  US sources so far have reported the
+launching as a  suborbital missile test, and have not tracked any
+satellite in orbit. However, it's possible that a small satellite could
+have been missed. The satellite is reportedly broadcasting Korean
+propaganda songs on 27 MHz.  I'm provisionally assuming the  Korean
+reports are correct despite the lack of confirmation from Space Command.
+It seems probable that a satellite launch was at least attempted, but
+we'll have to wait a few days before it's clear whether or not it did
+reach orbit.
+
+Launch site is given as Musudan-ri, Hamgyong Pukdo Province. My research
+indicates this is Cape Musudan at 40.52N 129.45E. ("-ri" is a small
+administrative district). The claimed orbit is  218 x 6978 km x 41 deg.
+The Taepo Dong 1 (TD-1) reportedly consists of a Nodong 2 first stage
+with a Scud-class second stage. The third (orbital) stage is probably a
+small solid motor.  No name has been given to the satellite in the North
+Korean announcements.
+    
+The figures in the North Korean press release are inconsistent. They say
+that launch was at 86 degrees azimuth, and the first stage fell 253 km
+downrange at 40.85N 139.67E, the second stage 1646 km downrange at
+40.22N 149.12E. The claim for the first stage is clearly wrong, it's
+much more than 253 km from N Korea and practically on the beach in
+Japan. I have two scenarios:
+
+ (1) The only error is that the first stage impact longitude should
+ be 129.67E, not 139.67E. Then the range to the second stage impact
+ point is correct, and the path is 86 degrees measuring east from south.
+ The first stage impact point is then just of Cape Musu-dan and the
+ launch site is unrelated to the cape, being at 126.2E 41.0N
+ near Manpojin right on the Chinese border. This seems really unlikely,
+ since the Korean statement about the location of the launching site
+ is so detailed.    
+            
+ (2) The launch site is at Cape Musu-dan, the azimuth is 86 deg
+ measuring east from north (the conventional way), the ranges
+ are correct but the latitudes and longitudes are all wrong. Then
+ I derive a first stage impact point of 40.7N 133.0E, and a second
+ stage impact point of 41.5N 152.1E. This seems much more likely,
+ except that I can't explain why the Korean latitude and longitude
+ figures would be so wrong. 
+
+Meanwhile, the Republic of Korea (Tae han Min'guk, South Korea) has not
+yet got a satellite launch vehicle of its own, although it has several
+satellites launched by other nations' rockets:
+  
+  Korean name   English name     Launch date  Launcher
+
+ KAIST (Korea Advanced Inst. of Sci. and Tech:) 
+  Uribyol-1     KITSAT-OSCAR-23  1992 Aug 10  Ariane V52
+  Uribyol-2     KITSAT-OSCAR-25  1993 Sep 26  Ariane V59
+ Korea Telecom:
+  Mugunghwa 1   Koreasat 1       1995 Aug  5  Delta 228
+  Mugunghwa 2   Koreasat 2       1996 Jan 14  Delta 231
+
+(Uribyol means 'our star'; Mugunghwa is the national flower
+of Korea, the Sharon's rose.)
+
+In addition, the Korea Aerospace Research Institute (KARI) has a
+sounding rocket program using the single-stage solid fuel KSR-I sounding
+rocket and the KSR-II, which uses two stages each based on the KSR-I.
+There have been four launches to date from the Anhueng launch site in
+Ch'ungch'ong Namdo province, at 36.41N 126.10E.
+
+  KSR-I-1   1993 Jun  4    Ozone, 39 km
+  KSR-I-2   1993 Sep  1    Ozone, 49 km
+  KSR-II-1  1997 Jul  9    Ozone/ionosphere/X-ray astron, 150 km?
+  KSR-II-2  1998 Jun 11    Ozone/ionosphere/X-ray astron, 137 km
+
+Thanks to Kim Jhoon and Park Jeongjoo of KARI for their generous
+help in providing details of the South Korean space program.
+I would like to particularly encourage my readers in South Korea (or for
+that matter North Korea, in the unlikely event I have any there!) to
+pass on to me any corrections they may have to this report.
+
+
+* ETS-7
+
+Meanwhile, the ETS-7 Orihime and Hikoboshi satellites have successfully
+redocked, following attitude control software problems which threatened
+the mission. This is very good news for NASDA, the Japanese applications
+space agency.
+
+* Astra 2A
+
+Astra 2A's Blok DM3 stage delivered the payload to a 7932 x 35991 km x
+15.6 deg transfer orbit following a successful second burn on Aug 30.
+Astra 2A's on-board Marquardt R-4D bipropellant liquid apogee engine
+will be used for the rest of the journey to geostationary orbit.
+
+
+Table of Recent Launches
+ ------------------------
+
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug  2 1624   Orbcomm FM13  )   Pegasus XL    Wallops           Comsat     46A
+              Orbcomm FM14  )                                   Comsat     46B
+              Orbcomm FM15  )                                   Comsat     46C
+              Orbcomm FM16  )                                   Comsat     46D
+              Orbcomm FM17  )                                   Comsat     46E
+              Orbcomm FM18  )                                   Comsat     46F
+              Orbcomm FM19  )                                   Comsat     46G
+              Orbcomm FM20  )                                   Comsat     46H
+Aug 12 1130   MERCURY           Titan 4A      Canaveral SLC41   Sigint     F02
+Aug 13 0943   Soyuz TM-28       Soyuz-U       Baykonur LC1      Spaceship  47A
+Aug 19 2301   Iridium SV03)     CZ-2C/SD      Taiyuan           Comsat     48A
+              Iridium SV76)                                     Comsat     48B
+Aug 25 2307   ST-1              Ariane 44P    Kourou            Comsat     49A
+Aug 27 0117   Galaxy X          Delta III     Canaveral SLC17B  Comsat     F03
+Aug 30 0031   Astra 2A          Proton        Baykonur          Comsat     50A
+Aug 31 0307   -                 Taepo Dong    Musudan           Test       U01
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Jan 21?
+OV-103 Discovery       OPF Bay 2     STS-95  Oct 29
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Dec  3?
+
+MLP2/RSRM-68/ET-98         VAB Bay 1     STS-95
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

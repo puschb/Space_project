@@ -1,0 +1,155 @@
+Jonathan's Space Report
+No. 381 (corrected)                                1998 Dec 8 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+------------------------
+
+Launch of STS-88 was scrubbed at 0903 UTC on Dec 3 with an RSLS hold
+at T-19 seconds. A problem with a hydraulic system sensor caused
+a hold at T-4 min; the problem was resolved but the launch window
+closed seconds before STS-88 would have lifted off.
+
+Second try was the charm, with launch at 0835:34 UTC on Dec 4 placing
+OV-105 Endeavour in a 75 x 313 km x 51.6 deg orbit. The RSRM-67 solid
+boosters separated at 2 min into flight, with main engine cutoff after 8
+minutes and separation of external tank ET-97 shortly after.
+At 0919 UTC Endeavour fired its OMS engines to raise the orbit to
+180 x 322 km x 51.6 deg.
+
+On Dec 5 at 2225 UTC Nancy Currie unberthed Unity from the payload bay
+using the RMS arm. By 2350 UTC Unity's PMA-2 port was docked to the
+Orbiter Docking System. At this point OV-105 was in a 189 x 321 km x
+51.6 deg orbit.  Next it was time for the rendezvous with
+the FGB module. On Dec 6 at 2347 UTC Endeavour grappled Zarya
+with the robot arm, and  at 0207 UTC on Dec 7 it was soft docked
+to the PMA-1 port on Unity. After some minor glitches hard dock
+was  completed at 0248 UTC. Unity and Zarya now form the core
+of the future Station. Endeavour remains docked to the Station
+pending spacewalks to attach exterior cables.
+
+
+Erratum: STS-88 commander Cabana is of course "formerly NASA chief
+astronaut", he stepped down in favor of Ken Cockrell in order to take
+the STS-88 command chair.
+Some corrections to the STS-88 payload bay manifest: there are a total
+of four Portable Foot Restraints and two PFR handles stashed on opposite
+sides of the bay in bay 5. The two TCS sensors are on separate carriers
+in bays 6 and 7, so the manifest actually reads:
+
+Sill:     RMS arm No. 303
+Bay 1-2:  Tunnel Adapter 002
+Bay 3-4:  Orbiter Docking System/External Airlock  (Boeing/Palmdale)
+Bay 7-13: Unity (Node 1)         (Boeing/Huntsville)
+          PMA-1 docking adapter  (Boeing/Huntingdon Beach), 
+          PMA-2 docking adapter  (Boeing/Huntingdon Beach)
+
+Bay 2  Port: GABA adapter with SAC-A satellite
+
+Bay 4  Stbd: Carrier with Tool Stowage Assembly
+Bay 5  Port: GABA adapter with two PFR spacewalk plaftorms and one 
+                          PFR stanchion.
+Bay 5  Stbd: GABA adapter with two more PFR spacewalk plaftorms and one 
+                          PFR stanchion.
+Bay 6  Port: GABA adapter with Mightysat
+Bay 6  Stbd: APC carrier with TCS laser rendezvous sensor
+Bay 7  Stbd: APC carrier with TCS laser rendezvous sensor
+Bay 13 Port: GABA adapter with SEM-7 and G-093 canisters
+Bay 13 Stbd: GABA adapter with IMAX Cargo Bay Camera
+
+Recent Launches
+---------------
+
+The SWAS satellite was launched on Dec 6. SWAS, the Submillimeter Wave
+Astronomy Satellite, is a Small Explorer mission and part of the Origins
+program. The satellite has a 0.6m telescope with a 490 to 550 GHz
+submillimeter receiver and an acousto-optical spectrometer. The
+submillimeter band is rich in spectral lines from molecular clouds, and
+SWAS will be used to study the cooling of molecular cloud cores, the
+sites of star formation in our galaxy, by measuring lines from molecular
+oxygen and water. Principal investigator for SWAS is Gary Melnick of the
+Smithsonian Astrophysical Observatory in Cambridge, Mass. Earlier SMEX
+missions were SAMPEX, FAST, and TRACE. Congratulations to my colleagues
+on the SWAS team!
+
+The Orbital Sciences L-1011 Stargazer took off from Vandenberg AFB's
+Runway 30/12 on Dec 3 carrying a Pegasus XL launch vehicle with the SWAS
+astronomy satellite aboard. It reached the drop box at 36.0N 123.0W over
+the Pacific; however, due to a software-related range problem the range
+ordered the launch scrubbed and the L-1011 returned to base with
+SWAS/Pegasus still attached. Nothing was wrong with the Pegasus or the
+L-1011 and the launch was reset for Dec 4, but delayed due to weather.
+On Dec 6, launch was successful.  The L-1011 took off at 2358 UTC on Dec
+5 and reached the box at 36N 123W,  dropping the Pegasus at 0057 UTC on
+Dec 6. SWAS reached a 637 x 652 km x 69.9 deg orbit and separated from
+the third stage at 0109 UTC.
+
+By my count Dec 3 was the fifth time a Pegasus has been scrubbed with
+the carrier plane already in the air:
+  1994 May 12  F-5  STEP 2 aborted T-27 seconds
+  1994 Jun 23  F-6  STEP 1 aborted T-5 seconds
+  1996 Aug 18  F-13 FAST   aborted T-11 minutes
+  1996 Oct 30  F-14 SAC-B  aborted T-5 seconds
+  1998 Dec  3  F-25 SWAS   aborted T-4 minutes
+
+
+Arianespace Flight V114 roared into orbit on Dec 6 carrying the Satmex 5
+satellite. The Ariane 42L rocket entered a 211 x 21516 km x 7.0 deg
+subsynchronous orbit from which the Hughes HS-601HP satellite will use
+its apogee engine to raise perigee and then apogee to reach
+geostationary orbit. Satmex 5 is operated by Satellites Mexicanos S.A. de
+C.V, a company (partly owned by Loral) which has taken over from the
+Mexican Telecoms Ministry which operated the Morelos satellites. Satmex
+5 will replace Morelos 2. The V114 launch preceded the Pegasus/SWAS
+launch less than 15 minutes. Satmex 5 mass was 4135 kg at launch; I
+don't have a figure for the dry mass. It carries the XIPS ion engine
+stationkeeping system.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov  1 1703   Spartan 201       -              Discovery, LEO   Astronomy  64C
+Nov  4 0512   PAS 8             Proton-K/DM3   Baykonur         Comsat     65A
+Nov  6 1337   Iridium  2)       Delta 7920-10C Vandenberg SLC2W Comsat     66A
+              Iridium 83)                                       Comsat     66E
+              Iridium 84)                                       Comsat     66D
+              Iridium 85)                                       Comsat     66C
+              Iridium 86)                                       Comsat     66B
+Nov 10 1930?  Spoutnik-41       -              Mir, LEO         Amateur    62C
+Nov 20 0640   Zarya             Proton-K       Baykonur LC81L   Station    67A
+Nov 22 2354   BONUM-1           Delta 7925     Canaveral SLC17B Comsat     68A
+Dec  4 0835   Endeavour  )      Shuttle        Kennedy LC39A    Spaceship  69A
+              Unity      )                                      Station
+Dec  6 0043   Satmex 5          Ariane 42L     Kourou ELA2      Comsat
+Dec  6 0057   SWAS              Pegasus XL     Vandenberg       Astronomy  
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Mar 1999
+OV-103 Discovery       OPF Bay 1     STS-96  May 1999
+OV-104 Atlantis        OPF Bay 2     STS-101 Aug 1999
+OV-105 Endeavour       LEO           STS-88  
+
+MLP1/RSRM-69                   VAB Bay 1 STS-93
+MLP2/
+MLP3/                          LC39A     STS-88
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+.-------------------------------------------------------------------------.
+

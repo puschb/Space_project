@@ -1,0 +1,363 @@
+Jonathan's Space Report
+No. 773                                                         2019 Dec 27 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 61 continues.
+
+Progress MS-13 docked with the Pirs module at 1038 UTC Dec 9.
+
+On Dec 12 Dextre was used to remove the HISUI payload from Dragon
+CRS-19's trunk and hand it to the JEM-RMS arm, which installed it on
+Kibo Exposed Facility EFU 8. On Dec 13 Dextre removed the new Li-ion
+battery from the trunk and stored it on the Dextre EOTP. On Aug 16, the
+flight support equipment (FSE) adapter from the BCDU removed earlier
+this year from ESP3 was moved from ESP3 to the EOTP, and the new battery
+replaced it there at ESP3 Site 6.
+
+Starliner
+---------
+
+On Dec 20 ULA launched flight AV-080, the first Atlas V N22, from Cape
+Canaveral, The N22 has two solid boosters, a dual engine Centaur with
+two RL10-A4-1 engines (the first DEC to fly since 2004) and carries the
+Boeing CST-100 Starliner spaceship, flying on its Orbital Flight Test
+(OFT) without a crew. The mission was to test launch and landing and
+to rendezvous and dock with ISS, delivering 272 kg of cargo and
+carrying an instrumented anthropomorphic test dummy (ATD) dubbed 'Rosie',
+
+AV-080's Centaur reached its targeted 73 x 181 km x 51.6 deg orbit. 
+Boeing Space's Starliner, vehicle SC3, separated at 1150 UTC. Starliner
+set its master event timer reading data from the launch vehicle, but
+apparently because of a software (interface) mistake the value was read
+into the Boeing vehicle from an incorrect location in the ULA vehicle's
+memory, resulting in an 11 hour offset. Starliner was meant to fire its
+Aerojet Rocketdyne OMAC thrusters at 1207 UTC to raise its orbit, but
+due to the software timing error this did not occur. After comms
+problems possibly related to a TDRS handover, a contingency RCS burn was
+finally commanded by the ground, possibly at around 1216 UTC, which
+raised perigee by an unknown (to me) amount. Further RCS burns at
+unknown times over the next half hour or so raised perigee further and
+placed Starliner in a 180 x 221 km x 51.6 deg orbit.
+
+During the period before the burn, the timer error meant that Starliner
+was in an incorrect software state and used up too much propellant
+controlling its attitude. This precluded the planned rendezvous with
+ISS. Later on Dec 20 Starliner raised its orbit to around 250 km and
+tested extension and retraction of its docking apparatus as well as
+other systems tests. SC3 then returned on Dec 22,  landing at about
+106.420W 32.952N near the runway at White Sands Space Harbor, New
+Mexico. 
+
+The flight did demonstrate the basic design of the vehicle including its
+life support system and its ability to safely return to Earth; I do not
+expect the omitted rendezvous or the software issues to create major
+delays to the programme or to require a further uncrewed test flight.
+
+Starliner consists of the following components, with very approximate guesstimated masses:
+                  Height   Dia   Mass 
+
+  Crew Module     2.2m    4.5m  8.3t?        - about 6.4t dry without crew/cargo
+  Service Module  2.5m    4.5m  3.3t? (dry)  - Jettisoned during end of mission, after deorbit burn
+  SM propellant   -       -     2.3t?
+  -----------------------------------
+ Total at Cen sep              13.9t?
+  Ascent cover    0.3m    1.7m  0.1t?        - Jettisoned suborbital, before Centaur ignition
+  Aeroskirt       1.8m    4.5m  1.0t?        - Jettisoned suborbital, 20s after Centaur ignition
+  -----------------------------------
+ Total at launch               15.0t?
+
+The SM has 20 6kN OMAC thrusters for orbit adjust (plus 4 x 180 kN abort engines and 28 RCS thrusters).
+The CM includes a 750 kg base heat shield, a 150 kg forward heat shield, and two 34 kg drogue chutes,
+as well as about 90 kg of hydrazine, all of which are jettisoned in the atmosphere prior to landing. 
+Landing mass is about 7200 kg including crew and cargo. Starliner is built in Boeing's facility
+at the C3PF (former OPF3) at Kennedy Space Center; spacecraft development is carried out there
+(and possibly at the new Boeing Space headquarters in Titusville) and mission control is at a Boeing
+control room in the mission control building at NASA-JSC/Houston.
+
+Here is the approximate timeline of the mission as far as I can estimate it for now:
+(times UTC, as always) - I expect a number of these details to change as better info becomes
+available.
+
+Dec 20 1136:43 Launch by Atlas V/N22 from SLC41
+       1141:12 Atlas cutoff
+       1141:18 Atlas separation
+       1141:24 Starliner ascent cover jettisoned
+       1141:28 Centaur AV-080 main engine burn 1
+       1141:48 Starliner aeroskirt jettisoned
+       1148:37 AV-080 shutdown, reach 73 x 181 km x 51.6 deg orbit
+       1151:37 Starliner separates from AV-080
+       1202    AV-080 propellant `blowdown'
+       1207:38 Planned Starliner OMAC orbit insertion burn does not occur
+               Excessive attitude control thruster use
+       1215?   Commanded RCS burn performs initial orbit insertion
+               Initial orbit UNKNOWN; burn start time UNKNOWN
+       1234    AV-080 Centaur reentered and hits ocean SW of Australia
+       1300?   Further RCS burn(s); reach 180 x 221 km x 51.6 deg orbt.
+               Burn start time UNKNOWN.               
+       2200?   OMAC burn 1, 20 m/s?, to approx 214 x 242 km x 51.6 deg orbit
+       2235?   OMAC burn 2, 20 m/s?, to 241 x 265 km x 51.6 deg orbit.
+               [Times of these burns are highly uncertain]
+Dec 22 1223:47 Starliner OMAC deorbit, 150 m/s , 55 s burn; E of New Zealand
+       1224:42 Deorbit burn cutoff, orbit about -230 x 246 x 51.6 
+       1225:59 Service Module jettison
+       1241:42 Entry interface, 120 km, 7.5 km/s over equatorial Pacific
+       1242?   Service Module destructive reentry over equatorial Pacific        
+       1253?   Forward heat shield (FHS) separation at 3 km alt.
+       1253:06 Main parachutes deploy
+       1254:00? Base Heat Shield sep
+       1254:40? Airbags inflate
+       1257    Base Heat Shield impact
+       1257:55 CM landing at White Sands Space Harbor  106.420W 32.952N
+       1302:48 Forward heat shield touchdown
+        
+Starliner SC1 was used for the pad abort test; SC2 will fly the CFT crewed flight next year;
+then SC3 will fly again on the PCM-1 mission to ISS. For that flight SC3 will have the name `Calypso',
+chosen by mission commander Suni Williams. SC2 has not yet been named; and it's not clear
+whether SC3 will retain the same name for later flights or if they'll get new names under
+each new commander.
+
+
+Glonass
+-------
+
+The Glonass M-59 navigation satellite, Kosmos-2544, was launched from Plesetsk on Dec 11.
+
+PSLV-C48
+---------
+
+India's PSLV-C48 flight launched RISAT-2BR1, a 628 kg X-band synthetic aperture radar satellite.
+Also aboard were some secondary payloads:
+  - the 100-kg-class Izanagi (QPS-SAR-1), a 3.6m-dia-antenna radar satellite from QPS Labs of Fukuoka, Japan;
+  - the 22 kg 12U Cubesat 1HOPSAT from Hera Systems of San Jose;
+  - the 3U Duchifat 3 from Herzliya Science Center, Israel
+  - four SpireGlobal Lemur-2 satellites;
+  - a 3U satellite, Tyvak-0092 (possibly also called COMMTRAIL), built by Tyvak for an unnamed Italian company
+    for search-and-rescue applications;
+  - a 6U satellite, Tyvak-0129, or Pathfinder Demo Test 1, a mission built by Tyvak for NASA-Ames to test
+    a Busek electrospray thruster.
+
+Beidou 
+-------
+
+Beidou 52/53 were launched on Dec 16; they are CAST-built medium orbit Beidou 3 satellites M19 and M20.
+The previous Beidou double launch, Beidou 50/51, were Shanghai-built satellites M21 and M22 in the Beidou-3
+system, and not M19/20 as I wrote in JSR 772. 
+
+JCSAT
+-----
+
+On Dec 17 SpaceX launched a Falcon 9 from Cape Canaveral. The first stage landed on the OCISLY droneshop.
+The second stage placed the JCSAT-18/Kacific-1 satellite in a subsynchronous transfer orbit.
+The satellite is jointly owned by Sky Perfect JSAT of Tokyo, which operates its Ku-band payload,
+and Kacific Broadband Satellite of Singapore, which has a Ka-band payload aboard.
+
+CSG/CHEOPS
+----------
+
+On Dec 18 Arianespace launched a Soyuz ST-A/Fregat from the Centre Spatial Guyanais to place several
+satellites in sun-synchronous orbit. 
+ The Soyuz third stage reached a -3189 x 608 km x 92.0 deg suborbital trajectory; the Fregat stage
+then fired to reach a 625 x 649 km x 97.8 deg orbit and deployed CSG-1, its primary payload, at 0917 UTC.
+  CSG-1, the first COSMO-Skymed Second Generation satellite, is an X-band
+radar satellite for the Italian Space Agency and the Italian Ministry of Defense built by Thales Alenia/Torino.
+ 
+ Fregat's second burn reached a 443 x 622 km x 98.0 deg orbit; the ASAP-S upper adapter (on which CSG-1 was
+mounted) was jettisoned. The third burn was to 445 x 829 km, followed by a fourth burn to 696 x 708 km
+for the deploy of CHEOPS at 1119 UTC.
+  CHEOPS is ESA's Characterizing Exoplanets Satellite. The 273 kg satellite has a 0.3m aperture
+telescope and will measure the radii of known super-Earth and mini-Neptune exoplanets using transit photometry.
+The PI is Willy Benz (U. Bern). 
+
+Fregat burn 5 and 6 went to 468 x 703 km and then to 509 x 527 km, following which three cubesats
+were deployed at 1305 UTC:
+ ANGELS is a 12U cubesat built by Toulouse company Hemeria for the French space agency CNES. 
+ It carries a new version of the long-running ARGOS system which relays data from meteorological buoys.
+ 
+ EyeSat is a 3U cubesat built by student interns at CNES/Toulouse, and carries the IRIS space telescope
+ to study zodiacal light.
+
+ OPS-SAT s a 3U cubesat built by TU Graz for ESA, with an advanced flight computer to act as a testbed
+ for mission operations software.
+
+Fregat's final burn put it on a -112 x 522 km trajectory; it reentered over the south Pacific at 1509 UTC.
+
+CBERS-4A
+--------
+
+The final China-Brazil Earth Resources Satellite, CBERS-4A, was launched by CZ-4B on Dec 20.
+
+Chang Zheng 4B s/n Y44 was launched from Taiyuan at 0322:29 UTC Dec 20.
+At T+11m39s the third stage finished its burn and entered a 615 x 635 km
+  sun-synchronous orbit with an equator crossng at 10:30 local time.
+
+At T+13:18 the primary payload, the 1980 kg CBERS-4A China-Brazil Earth
+resources satellite, separated and became object 4489, 2019-093A.
+The CBERS satellites are part of the larger Chinese ZiYuan series,
+and so this is probably also ZY-1 04A. It was built by CAST/Beijing.
+
+CBERS-4A was mounted on an adapter covering the remaining
+payloads. The adapter separated into orbit at T+13:53.
+It is probably 2.0m high 2.9m dia.
+
+Next the Tianqin-1 satellite separated, at T+14:28. Tianqin-1 is a small
+(35 kg) technology development satellite for China's
+gravitational-wave-astronomy programme. The satellite was built by
+DFH Satellite Co. for Zhongshan Daxue (Sun Yat-sen University) and
+Huahzhong U. of Science and Technology. It also carries the CAS-6A
+amateur radio payload.
+
+At T+15:05 three further satellites separated:
+Tianyan-02, Yuheng and Shuntian.
+
+Tianyan-02 is also called Xingshidai-8; it is a 6U cubesat built by
+Weina Xingkong Keji (MinoSpace) for Gouxing Yuhang Keji (ADA Space) of
+Chengdu. It is also called "Kehuan shijie hao AI weixing" (SciFi World
+AI satellite) and is dedicated to the science fiction community. SF
+writers including Cixin Liu were invited to the launch. The satellite
+apparently has a low resolution Earth video imager.
+
+Yuheng and Shuntian were developed by the National University
+of Defense Technology in Changsha in collaboration with
+the Deya Innovation Research Institute of Foshan, in the Guangzhou
+region. They are prototype internet distribution satellites.
+It is unclear how big these sats are but I suspect they are 50-100 kg class.
+
+At T+15:47 the final four payloads separated:
+ETRSS-1, FloripaSat, Weilai-1R and Tianyan-01.
+
+ETRSS-1 is a 70 kg remote sensing satellite and was built by DFH
+Satellite for the Ethiopian Space Science and Technology Institute in
+Addis Ababa. It is Ethiopia's first satellite.
+
+FloripaSat is a 1U cubesat from the Universidade Federal de Santa
+Catarina, in the Brazilian city of Florianopolis.
+
+Weilai-1R is also known as BDS-AGR-1 and Guozhi henghao nianjing
+zhongyuan jinshui 1, and is a 65 kg imaging satellite for GZH-NHK BDS
+AGR Co. Ltd (Guozhi heng Beidou hao nianjing Agricultural Technology
+Co.) of Zhengzhou in Henan province.
+
+Tianyan-01 is also called Yizheng 1. It was built by Weina/Minospace for
+the Zhongxing kongjian yaogan (jiangsu) weixing jishu fuwu YG (China
+satellite space remote sensing (Jiangsu) satellite technology services
+co. ltd.), based in Yizheng, Jiangsu province. The 72 kg satellite
+carries a high resolution imager.
+
+At T+25 min the third stage restarted for a depletion burn which lowered
+its orbit to 447 x 620 km.
+
+
+Elektro-L
+---------
+
+On Dec 24 Russia's Elektro-L No. 3 weather satellite was placed in geosynchronous
+orbit by a Proton-M with the now-rarely-used Energiya Blok DM-03 upper stage.
+
+Gonets
+------
+
+On Dec 26 Russia launched the last Khrunichev Rokot vehicle, based on the
+UR-100N missile with a Briz-KM upper stage. The rocket put three Gonets-M
+communications satellites in a 1500 km orbit. A passive 17 kg Blits-M
+laser reflector ball was also placed in orbit.
+
+Parker
+------
+
+The Parker Solar Probe passed 3008 km from Venus on Dec 26 at 1815
+UTC, its second Venus flyby.  Parker was within Venus' Hill sphere from
+Dec 26 0605 to Dec 27 0626 UTC. Once back in solar orbit its perhelion will be only
+0.130 AU, compared to 0.166 AU before the flyby. Perihelion 4 is on Jan 29.
+ 
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Dec  5 1729   Dragon CRS-19               Falcon 9           Canaveral SLC40 Cargo     83A S44821    203 x   378 x 51.7
+Dec  6 0800?  Kosmos-2543?                              Kosmos-2542, LEO     Inspector 79D S44835    368 x   858 x 97.9
+Dec  6 0818   ALE-2     )                 Electron           Mahia LC1       Tech      84A S44824    397 x   415 x 97.0
+              NOOR 1A   )                                                    Com       84D S44827    348 x   403 x 97.0
+              NOOR 1B   )                                                    Com       84E S44828    348 x   403 x 97.0
+              SMOG-P    )                                                    Sigint    84J S44832    348 x   403 x 97.0
+              TRSI-Sat  )                                                    Tech      84G S44830    348 x   403 x 97.0
+              FossaSat-1)                                                    Tech      84F S44829    348 x   403 x 97.0
+              ATL-1     )                                                  Sigint/Tech 84H S44831    348 x   403 x 97.0
+Dec  6 0934   Progress MS-13              Soyuz-2-1A         Baykonur LC31   Cargo     85A S44833    186 x   219 x 51.6
+Dec  7 0255   Jilin-1 Gaofen 02B          Kuaizhou-1A        Taiyuan         Imaging   86B S44837    531 x   544 x 97.5
+Dec  7 0852   HEDE-2A   )                 Kuaizhou-1A        Taiyuan         Comms     87  S44839    495 x   511 x 97.4
+              HEDE-2B   )                                                    Comms     87            495 x   511 x 97.4
+              Tianqi-4A )                                                    Comms     87            495 x   511 x 97.4
+              Tianqi-4B )                                                    Comms     87            495 x   511 x 97.4
+              Tianyi-16 )                                                    Imaging   87            495 x   511 x 97.4
+              Tianyi-17 )                                                    Imaging   87            495 x   511 x 97.4
+Dec 11 0854   Kosmos-2544                 Soyuz-2-1B/Fregat  Plesetsk LC43/3 Nav       88A S44850  19125 x 19150 x 64.8
+Dec 11 0955   RISAT-2BR1)                 PSLV-QL            Satish Dhawan   Radar     89A S44852    564 x   574 x 37.0
+              Izanagi   )                                                    Radar     89            568 x   579 x 37.0
+              1HOPSAT   )                                                    Imaging   89            568 x   579 x 37.0
+              Duchifat-3)                                                    Tech      89            568 x   579 x 37.0
+              Tyvak-0092)                                                    SaR       89            568 x   579 x 37.0
+              Tyval-0129)                                                    Tech      89            568 x   579 x 37.0
+              Lemur-2-Unnamed)                                               AIS/Met   89            568 x   579 x 37.0
+              Lemur-2-Unnamed)                                               AIS/Met   89            568 x   579 x 37.0
+              Lemur-2-Unnamed)                                               AIS/Met   89            568 x   579 x 37.0
+              Lemur-2-Unnamed)                                               AIS/Met   89            568 x   579 x 37.0
+Dec 16 0722   Beidou DW 52 )             Chang Zheng 3B/YZ1  Xichang LC3     Nav       90A S44864  21528 x 22192 x 55.0
+              Beidou DW 53 )                                                 Nav       90B S44865  21528 x 22192 x 55.0
+Dec 17 0010   JCSAT-18/Kacific-1         Falcon 9            Canaveral SLC40 Comms     91A S44868    272 x 20319 x 26.9
+Dec 18 0854   CSG 1   )                  Soyuz ST-A/Fregat   CSG ELS         Radar     92A S44873    622 x   623 x 97.8
+              CHEOPS  )                                                      Astronomy 92B S44874    698 x   709 x 98.2
+              ANGELS  )                                                      Comms     92D?S44876    508 x   527 x 97.4
+              EyeSat  )                                                      Astronomy 92E?S44877    508 x   527 x 97.4
+              OPS-SAT )                                                      Tech      92F?S44878    508 x   527 x 97.4
+Dec 20 0322   CBERS-4A     )             Chang Zheng 4B      Taiyuan         Imaging   93A S44879    615 x   635 x 98.0
+              ETRSS-1      )                                                 Imaging   93
+              Tianqin-1    )                                                 Sci/Tech  93
+              BDSAGR-1     )                                                 Imaging   93
+              Yuheng       )                                                 Comms     93
+              Shuntian     )                                                 Comms     93
+              Yizheng 1    )                                                 Imaging   93
+              Xingshidai 8 )                                                 Imaging   93
+Dec 20 1136   Starliner OFT              Atlas V N22         Canaveral LC41  Spaceship 94A S44900    180 x   221 x 51.6
+Dec 24 1203   Elektro-L No. 3            Proton-M/DM-03      Baykonur LC81/24 Weather  95A S44903  35372 x 35571 x  0.6
+Dec 26 2312   Gonets-M No. 24            Rokot               Plesetsk LC133/3 Comms    96A S44905   1500 x  1508 x 82.5
+              Gonets-M No. 25                                                 Comms    96B S44906   1500 x  1508 x 82.5
+              Gonets-M No. 26                                                 Comms    96C S44907   1500 x  1508 x 82.5
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+On Dec 12 the US DoD's Strategic Capabilities Office and Northrop
+Grumman launched what was reported to be a development test for a new
+IRBM. The rocket flew from Vandenberg's Test Pad 1 west to the Pacific,
+apparently to a range of about 1200 km (and not 3000 km which the US
+defines as the lower end of IRBM range). Pictures suggest it was a
+single-stage Castor 4B with an MBRV-class reentry vehicle, probably
+surplus from the missile defense targets program. The Castor 4B solid
+motor is thought to no longer be in production; I conclude this was 
+likely largely a propaganda exercise rather than actually representing a
+new capability.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Nov 26 0743   ICI 5             Terrer Imp.Malemute  Svalbard            Ionosphere    253       Arctic
+Nov 28        Topol-E RV        Topol'               Kapustin Yar        Reentry test 1000?      Balkhash
+Nov 28 0759   RV                DPRK MLRS            Ryonpo              Test           97       Sea of Japan
+Nov 28 0759   RV                DPRK MLRS            Ryonpo              Test           97       Sea of Japan
+Nov 30 1350   Agni 3 RV         Agni 3               Kalam Island        Test          500?      Indian O.
+Dec 10 0930   CHI               Black Brant IX       Svalbard            Ionosphere    360       Arctic
+Dec 11 1753   New Shepard NS12  New Shepard          West Texas          Test          105       West Texas
+Dec 12 1630   IRBM Test         Castor 4B?           Vandenberg TP-01    Test          500?      Pacific
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'

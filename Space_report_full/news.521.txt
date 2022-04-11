@@ -1,0 +1,95 @@
+Jonathan's Space Report
+No. 521                                          2004 Feb 27, Somerville, MA
+-------------------------------------------------------------------------------
+
+Astronauts Foale and Kaleri made a spacewalk on Feb 26. The Pirs docking
+module on the International Space Station  was depressurized to below 50
+mbar by about 2055 UTC. After going to internal suit power at 2105 UTC,
+the astronauts opened the hatch at 2117 UTC. The spacewalk installed
+experiments on the exterior of Zvezda. The walk was cut short when the
+sublimator of Kaleri's Orlan-M No. 23 suit malfunctioned and caused
+water to condense inside the suit, probably due to a crimped fluid line.
+This was the 8th use of suit M-23 since its launch aboard Zvezda in
+2000; Foale's suit, Orlan-M No. 14, was launched aboard Pirs and this
+was its 5th use. Although four of the Orlan suits on Mir were used as
+many as 14 times, the  longest time between launch and last use was 3yr
+3months for Orlan-DMA No. 25 (14 uses 1993-1996). M-23 is now at 3yr
+7months, a record service life for an EVA spacesuit. Two new suits
+were recently delivered aboard the Progress M1-11 cargo ship.
+
+The Pirs hatch was closed at 0112 UTC and repressurization of the
+airlock began at 0115 UTC, giving a depressurized duration of 4h20m and
+a hatch open/close duration of 3h55m. Kaleri seems to have had some
+problem reading the airlock control panel due to the condensation on his
+faceplate.
+
+ 
+The US Air Force launched a DSP (Defense Support Program) early warning
+satellite on a Lockheed Martin Titan 4B from Cape Canaveral on Feb 14.
+Titan 4B-39 placed the IUS-10 upper stage in parking orbit; two IUS
+solid motor burns put DSP-22 into geostationary drift orbit. The Titan
+second stage remains in low orbit, the IUS SRM-1 motor in geostationary
+transfer orbit, SRM-2 in geostationary drift orbit. The DSP satellite's
+infrared telescope cover was presumably ejected a few days later, and the
+satellite is being placed on station to observe missile launches.  This
+was the 24th and last use of the Boeing IUS upper stage since the first
+IUS launch in 1982; a 25th stage, IUS-23, was never flown. The final DSP
+will be launched on a Boeing Delta 4. DSP satellites are built by
+Northrop Grumman's Redondo Beach operation (formerly TRW).
+
+No official orbital data have been released for DSP-22, although the IUS
+SRM-2 apogee burn was seen as a bright cloud by amateur astronomers at
+several locations in the USA.
+
+Russia launched a Molniya-M rocket from Plesetsk on Feb 18, with
+President Vladimir Putin in attendance. The rocket entered low parking
+orbit and then half an orbit later fired to put its payload in a 12-hour
+ellliptical orbit. The payload was given the name Kosmos-2405. Novosti
+Kosmonavtiki, normally reliable, reports that this launch is a
+Molniya-1T military communications satellite; other sources indicate
+that the payload is an Oko early warning satellite. The orbit has an
+argument of perigee of 287 deg, similar to the Molniyas and the last two
+Oko launches but different from pre-2002 Okos. Molniya-1T's normally
+are not given Kosmos codenames, but this is not definitive proof; still,
+I lean towards the Oko explanation pending further information.
+
+The Molniya launch was part of the Bezopasnost'-2004 military exercise.
+Also launched as part of the same exercise was a Topol' solid-fuel
+ICBM from Plesetsk toward the Kura (Kamchatka) target range; a UR-100NU
+(15A35) liquid-fuel ICBM from Baykonur; and an R-29RM Sineva submarine
+missile launched from the K-18 Karelia sub in the Barents Sea. The
+Sineva, a minor upgrade of the R-29RM Shtil', was destroyed 98 seconds
+after launch.
+
+ESA's SMART-1 lunar probe turned off its ion engine on Jan 30 for a
+period of payload commissioning. Launched into geostationary transfer
+orbit of  672 x 35828 km x 6.9 deg on Sep 27, its orbital period
+surpassed 23 hours in late January putting it in the geosynchronous
+region; the orbit is now 14312 x 59491 km x 6.9 deg with a period of 24h
+53min. The probe is scheduled to reach lunar orbit in December 2004.
+
+ESA's Mars Express probe is now in a  260 x  11607 km x  86.59 deg
+orbit around Mars with perapsis around latitude 25 deg S.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Jan 11 0413   Estrela do Sul    Zenit-3SL       Odyssey           Comms      01A
+Jan 29 1158   Progress M1-11    Soyuz-U         Baykonur          Cargo      02A
+Feb  5 2346   AMC-10            Atlas IIAS      Canaveral SLC36A  Comms      03A
+Feb 14 1850   DSP 22            Titan 4B/IUS    Canaveral SLC40   Early Warn 04A
+Feb 18 0705   Kosmos-2405       Molniya-M       Plesetsk          Comms      05A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

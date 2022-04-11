@@ -1,0 +1,126 @@
+<HEADER>
+
+Jonathan's Space Report
+No. 337                               1997 Oct 6       Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Titov and Parazynski entered the Shuttle payload bay on Oct 1 while
+Atlantis was docked to Mir. The airlock was depressurized at around 1725
+UTC and the astronauts emerged from the hatch on the tunnel adapter at
+around 1735 UTC. They retrieved the four MEEP exposure packages from
+Mir's SO module and installed the Spektr solar array cap there. The
+airlock was repressurized at 2231 UTC.
+
+Atlantis undocked from Mir at 1728 UTC on Oct 3, leaving Dave Wolf
+aboard the station and bringing Mike Foale home. The crew fired the
+engines to deorbit at 2047 UTC on Oct 6 and landed at Kennedy Space
+Center at 2155. 
+
+The Progress 7K-TGM No. 237 cargo ship was launched from 5 GIK
+(Baykonur) on Oct 5 and named Progress M-36. An attempt to undock
+Progress M-35 from the Kvant module failed when some latches did not
+open. (This is the first ever undocking failure that I am aware of; any
+counterexamples, anyone? I guess the failure to jettison the KRT-10
+radio antenna in 1979 may count, although that was more a separation
+failure than an undocking... of course cataloging events that
+failed to occur is always philosophically a little tricky!) Once
+M-35 has been undocked, M-36 will link up at that port.
+
+Recent Launches
+---------------
+
+Echostar 3 was launched by Lockheed Martin Astronautics Atlas 2AS on Oct
+5. AC-135 was launched from Cape Canaveral's Launch Complex 36. The
+payload is a Lockheed Martin Telecommunications A2100 satellite, and was
+the first to be built in LMT's new Sunnyvale, California factory instead
+of the old RCA location at East Windsor, New Jersey. It will be used
+by Echostar Communications Corp. This is the 4th A2100 series satellite,
+following GE 1 to GE 3 for GE Americom.
+
+News reports confirm that the Indian PSLV rocket entered the wrong
+orbit. Apparently the liquid-propellant fourth stage, PS-4, may have had
+a fuel leak causing a premature shutdown. The IRS-1D satellite does have
+a small amount of fuel for precise orbit control which will be used to
+raise the perigee, but this will shorten its operational life
+considerably. Meanwhile, India's Insat 2D geostationary comsat has
+failed on orbit after only a few months of life.
+
+NASA's Lewis satellite reentered on Sep 28. Controllers were unable
+to rescue the mission after it lost attitude a few days after launch.
+
+Observers from the Kettering Group report speculation that Kosmos-2346,
+which I had identified as a Parus military navigation satellite, may in fact
+be a test flight of the Tsikada-M-UTTH nav/comms payload first
+described by the Russians in 1994. I'm inclined to keep listing it
+as a Parus until we get more definitive info.
+
+The Mars Global Surveyor continues aerobraking. As of Oct 3 it
+was in a 110 x 48770 km x 93.3 deg orbit around Mars.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  1 1400   Iridium MFS   )   CZ-2C         Taiyuan          Inert      48A
+              Iridium MFS   )                                  Inert      48B
+Sep  2 2221   Hot Bird 3  )     Ariane 44LP   Kourou ELA2      Comsat     49A
+              Meteosat 7  )                                    Weather    49B
+Sep  4 1203   GE-3              Atlas IIAS    Canaveral LC36A  Comsat     50A
+Sep 14 0136   Iridium SV027 )   Proton-K/DM2  Baykonur LC81L   Comsat     51D
+              Iridium SV028 )                                  Comsat     51E
+              Iridium SV029 )                                  Comsat     51A
+              Iridium SV030 )                                  Comsat     51F
+              Iridium SV031 )                                  Comsat     51G
+              Iridium SV032 )                                  Comsat     51B
+              Iridium SV033 )                                  Comsat     51C
+Sep 23 1644   Kosmos-2346  )    Kosmos-3M     Plesetsk LC132   Navsat     52A
+              FAISAT-2V    )                                   Comsat     52B
+Sep 23 2358   Intelsat 803      Ariane 42L    Kourou ELA2      Comsat     53A
+Sep 24 2132   Molniya-1T        Molniya-M     Plesetsk LC43    Comsat     54A
+Sep 26 0234   Atlantis          Shuttle       Kennedy LC39     Spaceship  55A
+Sep 27 0123   Iridium SV019 )   Delta 7920    Vandenberg SLC2W Comsat     56A
+              Iridium SV034 )                                             56E
+              Iridium SV035 )                                             56D
+              Iridium SV036 )                                             56C
+              Iridium SV037 )                                             56B
+Sep 29 0447   IRS-1D            PSLV          Sriharikota      Rem sens.  57A
+Oct  5 1508   Progress M-36     Soyuz-U       Baykonur LC1     Cargo   
+Oct  5 2101   Echostar III      Atlas IIAS    Canaveral LC36B  Comsat     
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       OPF Bay 3     STS-91  May 28
+OV-104 Atlantis        KSC SLF       STS-86
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/RSRM63/ET-89      VAB           STS-87                         
+MLP2/
+MLP3/RSRM64?           VAB           STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

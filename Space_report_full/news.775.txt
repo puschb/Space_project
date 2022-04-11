@@ -1,0 +1,214 @@
+Jonathan's Space Report
+No. 775                                                       2020 Feb 17  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 61 continued until undocking of Soyuz MS-13 on Feb 6, which began Expedition 62
+under the command of Oleg Skripochka.
+
+On Jan 29 the Cyclops deployer was used to deploy the USAF STPSAT-4
+satellite delivered to ISS aboard NG-12. STPSAT-4/Cyclops was extracted
+from the Kibo airlock and STPSAT-4 was ejected into orbit at 0720 UTC
+Jan 29.
+
+On Jan 31 at about 1115 UTC the Canadarm-2 unberthed Cygnus NG-12, the S.S. Alan Bean,
+from the Unity nadir port. Cygnus NG-12 was released into orbit at 1436 UTC.
+
+On Jan 31 to Feb 1 Cygnus NG-12 released seven cubesats from the Nanoracks NRCSD-E dispenser and
+seven cubesats from the SEOPS/SpaceflightInc Slingshot system.
+
+On Feb 6, Soyuz MS-13 undocked from Poisk at 0550 UTC carrying Skvortsov, Koch and Parmitano.
+The spacecraft fired its deorbit engine at 0818 UTC, lowering perigee below the Earth's surface.
+At 0846 UTC the orbital and service modules were jettisoned, and at 0850 UTC the descent module
+began reentry, with landing in Kazakhstan at 0912 UTC Feb 6.
+
+On Feb 15 Cygnus mission NG-13, the S.S. Robert Lawrence, was launched on an Antares from
+Wallops Island on a mission to deliver cargo to the ISS.
+
+
+NROL-151
+--------
+
+RocketLab flew its 11th Electron mission from New Zealand's Mahia Peninsula on Jan 31.
+It placed a satellite for the US National Reconnaissance Office in low Earth orbit
+with approximately 70 degrees inclination. The mission was designated NROL-151 and the
+satellite is codenamed USA 294. Exact orbit of NROL-151 is not yet known. US registration
+documents supplied to the UN are apparently stuck in a backlog - the latest made public
+online covers up to early 2017.
+
+OneWeb 
+------
+
+The second launch for the OneWeb constellation took off from Baykonur on Feb 6.
+The Fregat upper stage carried a dispenser with 34 satellites, two on a `top hat'
+deck K and four decks A, B, C, D with eight satellites each. The satellites were deployed
+in a 443 km orbit and will use their on-board propulsion to raise to 1000 km.
+(Spacecraft numbers in the table below are in deployment order; thanks to Cameron Meek for data.)
+
+IGS O-7
+-------
+
+Japan's IGS O-7 (Information Gathering Satellite/Optical 7, or Joho shushu eisei kogaku 7 goki,
+was launched on Feb 9 to sun-sync orbit with 1030 local time descending node.
+
+Solar Orbiter
+-------------
+
+The ESA-led Solar Orbiter probe, built by Airbus UK, was launched to an escape trajectory on Feb 10.
+Solar Orbiter will enter a 0.513 x 0.991 AU x 1.9 deg solar orbit and make a Venus gravity assist
+flyby on Dec 26. After more Venus and Earth flybys it will lower perihelion to about 0.3 AU
+by 2022 and by 2028 will increase its orbital inclination to the ecliptic to 25 degrees, allow
+imaging of the solar poles. Unlike Parker Solar Probe (which gets closer to the Sun) SO carries a 
+range of imaging instruments.
+
+X-37 Secret Deployment
+-----------------------
+
+Sometime between 2017 and 2019 the US DoD covertly deployed three small
+satellites from the orbiting X-37 spaceplane. Those satellites have
+finally been added to the US satellite catalog as USA 295-297 (SSN
+45169-45171) although with no orbital data provided. A page on Space-Track.org noted
+that the three satellites are no longer in orbit; this adds weight to my guess that
+they were deployed close to the beginning of the OTV-5 mission in 2017.
+
+I welcome this step of acknowledging the satellites and  hope that the
+US will bring itself back into compliance with the UN Registration
+Convention by providing basic orbital parameters for the satellites, even though
+they are no longer up.
+
+Simorgh
+--------
+
+Iran launched a Simorgh rocket from Khomeini Space Centre on Feb 9. The upper stage
+underperformed or failed, and the payload - an imaging satellite called Zafar - fell in the
+Indian Ocean after reaching a 540 km apogee.
+
+
+
+Errata
+--------
+
+- There is still some confusion about which spacesuits were on which astronaut for the
+recent EVAs. In particular, Andrey Krasilnikov tells me for EVA 64 it was
+Morgan - EMU 3008 and Parmitano - EMU 3004.
+
+- I put the wrong orbit in last time for Yinhe 1, it's in a 621 x 638 km orbit.
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Jan  7 0219   Starlink 1066      )       Falcon 9            Canaveral SLC40  Comms    01AS S44954   301 x   305 x 53.0
+              Starlink 1069-1104 )                                            Comms    )
+              Starlink 1106-1119 )                                            Comms    ) 
+              Starlink 1121-1126 )                                            Comms    ) 
+              Starlink 1128      )                                            Comms    ) 01A-01BM
+              Starlink 1130      )                                            Comms    ) 44914-
+              Starlink 1144      )                                            Comms    ) 44973
+Jan  7 1520   TJS 5                      Chang Zheng 3B      Xichang          Comms    02A S44978    195 x 35804 x 27.5
+Jan 15 0253   Jilin-1 Kuanfu 1 )         Chang Zheng 2D      Taiyuan          Imaging  03A S45016    477 x   492 x 97.3
+              Sophie           )                                              Imaging  03B S45017    475 x   492 x 97.3
+              Marie            )                                              Imaging  03C S45018    477 x   493 x 97.3
+              Tianqi-5         )                                              Comms    03D?S45019    475 x   492 x 97.3
+Jan 16 0302   Yinhe 1                    Kuaizhou 1A         Jiuquan          Comms    04A S45024    621 x   638 x 86.4
+Jan 16 2105   Eutelsat Konnect )         Ariane 5ECA         Kourou ELA3      Comms    05B S45027    499 x 36234 x  6.0
+              GSAT-30          )                                              Comms    05A S45026  35775 x 35799 x  0.1
+Jan 29 0720   STPSAT-4                                       ISS, LEO         Tech  9867QY S45043    415 x   423 x 51.6
+Jan 29 1406   Starlink 1120     )        Falcon 9            Canaveral SLC40  Comms    )
+              Starlink 1127     )                                             Comms    )
+              Starlink 1129     )                                             Comms    )
+              Starlink 1131-1137)                                             Comms    ) 06A-06BM    276 x   291 x 53.0
+              Starlink 1139-1142)                                             Comms    )
+              Starlink 1145-1153)                                             Comms    )
+              Starlink 1155-1186)                                             Comms    )
+              Starlink 1190     )                                             Comms    )
+              Starlink 1193-1196)                                             Comms    )
+Jan 31 0256   USA 294                    Electron            Mahia LC1        Unknown  07A 45110   Unknown orbit x 70.0?
+Jan 31?       Aerocube-14A )                             NRCSD-E/NG-12, LEO   Tech  19071D  S45114   459 x  474 x 51.6
+              Aerocube-14B )                                                  Tech  19071E? S45115   459 x  474 x 51.6
+Jan 31?       Aerocube-15A )                             NRCSD-E/NG-12, LEO   Tech  19071F? S45116   459 x  474 x 51.6
+              Aerocube-15B )                                                  Tech  19071G  S45117   459 x  474 x 51.6
+Jan 31 2230?  SwampSat-2 )                               NRCSD-E/NG-12, LEO   Tech  19071J  S45119   459 x  474 x 51.6
+              HuskySat-1 )                                                    Tech  19071C  S45113   459 x  474 x 51.6
+Jan 31?       Orbital Factory 2                          NRCSD-E/NG-12, LEO   Tech  19071H? S45118   459 x  474 x 51.6
+Feb  1 1544   CIRiS                                      Slingshot/NG-12,LEO  Sci   19071K? S45120?  458 x  474 x 51.6
+Feb  1 1943   ORCA-2                                     Slingshot/NG-12,LEO  Tech  19071L? S45121?  459 x  473 x 51.6
+Feb  1 2115   EdgeCube   )                               Slingshot/NG-12,LEO  Rem.sen. 19071M? S45122? 459 x  473 x 51.6
+              MakerSat-1?)                                                    Tech  19071N? S45123?  459 x  473 x 51.6
+Feb  1?       MiniCarb                                   Slingshot/NG-12,LEO  Sci   19071P? S45124?  459 x  473 x 51.6
+Feb  1?       VPM                                        Slingshot/NG-12,LEO  Sci   19071Q? S45125?  459 x  473 x 51.6
+Feb  1?       Lynk                                       Slingshot/NG-12,LEO  Comms 19071R? S45126?  459 x  473 x 51.6
+Feb  6 2142   OneWeb 0013 )               Soyuz 2-1B/Fregat  Baykonur LC31    Comms    08A  S45131   439 x  460 x 87.4
+              OneWeb 0021 )                                                   Comms    08D  S45134   439 x  464 x 87.4
+              OneWeb 0028 )                                                   Comms    08K  S45140   440 x  465 x 87.4
+              OneWeb 0026 )                                                   Comms    08J  S45139   440 x  465 x 87.4
+              OneWeb 0020 )                                                   Comms    08C  S45133   449 x  466 x 87.4
+              OneWeb 0051 )                                                   Comms    08AA S45155   440 x  466 x 87.4
+              OneWeb 0059 )                                                   Comms    08AH S45162   442 x  467 x 87.4
+              OneWeb 0036 )                                                   Comms    08P  S45144   443 x  467 x 87.4
+              OneWeb 0032 )                                                   Comms    08L  S45141   443 x  468 x 87.4
+              OneWeb 0058 )                                                   Comms    08AG S45161   444 x  468 x 87.4
+              OneWeb 0022 )                                                   Comms    08E  S45135   446 x  467 x 87.4
+              OneWeb 0024 )                                                   Comms    08G  S45137   447 x  467 x 87.4
+              OneWeb 0044 )                                                   Comms    08V  S45150   447 x  467 x 87.4
+              OneWeb 0041 )                                                   Comms    08T  S45148   448 x  468 x 87.4
+              OneWeb 0039 )                                                   Comms    08R  S45146   448 x  468 x 87.4
+              OneWeb 0047 )                                                   Comms    08X  S45152   448 x  468 x 87.4
+              OneWeb 0056 )                                                   Comms    08AE S45159   448 x  469 x 87.4
+              OneWeb 0062 )                                                   Comms    08AJ S45163   448 x  470 x 87.4
+              OneWeb 0057 )                                                   Comms    08AF S45160   448 x  472 x 87.4
+              OneWeb 0023 )                                                   Comms    08F  S45136   448 x  472 x 87.4
+              OneWeb 0038 )                                                   Comms    08Q  S45145   448 x  473 x 87.4
+              OneWeb 0054 )                                                   Comms    08AD S45154   448 x  473 x 87.4
+              OneWeb 0049 )                                                   Comms    08Z  S45154   448 x  474 x 87.4
+              OneWeb 0035 )                                                   Comms    08N  S45143   449 x  475 x 87.4
+              OneWeb 0017 )                                                   Comms    08B  S45132   449 x  475 x 87.4
+              OneWeb 0065 )                                                   Comms    08AK S45164   449 x  476 x 87.4
+              OneWeb 0025 )                                                   Comms    08H  S45138   451 x  476 x 87.4
+              OneWeb 0052 )                                                   Comms    08AB S45156   451 x  476 x 87.4
+              OneWeb 0053 )                                                   Comms    08AC S45157   452 x  476 x 87.4
+              OneWeb 0040 )                                                   Comms    08S  S45147   452 x  476 x 87.4
+              OneWeb 0033 )                                                   Comms    08M  S45142   453 x  476 x 87.4
+              OneWeb 0045 )                                                   Comms    08W  S45151   454 x  476 x 87.4
+              OneWeb 0048 )                                                   Comms    08Y  S45153   454 x  476 x 87.4
+              OneWeb 0043 )                                                   Comms    08U  S45149   455 x  476 x 87.4
+Feb  9 0134   IGS O-7                     H-IIA              Tanegashima      Imaging  09A  S45165   477? x 506?x 97.4?
+Feb  9 1515   Zafar                       Simorgh            Khomeini         Imaging  F01  F01548 -2000? x 540 x 55
+Feb 10 0403   Solar Orbiter               Atlas V 411        Canaveral LC41   Probe    10A  S45167   240  x-38671x32.9
+Feb 15 2021   S.S. Robert Lawrence        Antares 230+       Wallops MARS LA0A Cargo   11A  S45175   195 x  267 x 51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+On Jan 7 Iran launched a series of Zulfiqar and Qiam-1 missiles against US military targets in Iraq.
+The exact number and mix of missiles is unknown.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jan  7 2245?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2245?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Erbil, Iraq
+Jan  7 2245?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2245?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2245?  HE Warhead        Qiam-1               ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2245?  HE Warhead        Qiam-1               ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2315?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2315?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Erbil, Iraq
+Jan  7 2315?  HE Warhead        Qiam-1               ?, Iran             Weapon        100?      Erbil, Iraq
+Jan  9 0800   S-310-45          S-310                Uchinoura           Test          131       Pacific
+Jan 19        RV                K-4                  Visakhapatnam       Test          500?      Indian Ocean
+Jan 27 1340   Polar NOx 2       Black Brant 9        Poker Flat          Aeronomy      260       Alaska
+Feb  5 0833   FTU-2             Minuteman 3          Vandenberg          Test         1300?      Kwajalein
+Feb 12        USN RVs           Trident D5LE         USS Maine, Pacific  Test         1000?      Wake Island
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'

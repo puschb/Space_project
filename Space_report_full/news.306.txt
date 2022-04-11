@@ -1,0 +1,138 @@
+Jonathan's Space Report
+No. 306                        1996 Dec  6              Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+When is a spacewalk not a spacewalk? In the early days of spaceflight,
+an EVA (extravehicular activity) had to be outside the spacecraft, and a
+distinction was made between SEVA (standup EVA, where you didn't
+entirely leave the vehicle) and a full EVA. Nowadays, NASA officially
+counts EVAs from the time when astronauts are on battery power. I prefer
+to ignore EVAs and instead log 'depress time', time spent working under
+vacuum conditions (with a spacesuit on, of course), since this to me is
+the dangerous and interesting thing. Like all the other definitions,
+this one is a little fuzzy. What is the distinction between a spacesuit
+and a spaceship? What is depressurized? Usually depressurization from
+near full pressure (at least 10psi, US units) to vacuum (less than
+0.1psi) is pretty fast, but sometimes Shuttle astronauts stick in the
+airlock at around 5 psi for a while. So I try and log when they go down
+from about 1 psi to zero. 
+
+On 1996 Nov 29, STS-80 crewmembers Tamara Jernigan and Thomas Jones were
+in Columbia's airlock. At 0209 UTC they depressurized, and by 0221 UTC
+the airlock was fully depressurized. However, the astronauts were unable
+to open the airlock due to a stuck handle. At 0307 UTC, the airlock was
+partially repressurized to 4psi, and the airlock thermal cover was blown
+off for inspection. After further fruitless attempts to open the hatch,
+full repressurization began at 0348 and was complete at 0401, with the
+astronauts still in their suits. Story Musgrave came in without a suit
+and again tried to  free the hatch - this sounds scary, but interal
+pressure in the airlock would have prevented a leak if he had succeeded.
+NASA does not count this as an EVA, since at no time did the
+astronauts go to battery power. But I log this as a depress phase,
+with the astronauts getting 0h46min of depress time.
+
+After thinking hard for a couple of days, NASA decided to cancel any
+further attempts at spacewalks on this mission. There are cases where a
+contingency EVA (emergency spacewalk) would be necessary, for instance
+if the payload bay doors refused to close. They would try and force the
+hatch open in that case. At this writing, the doors were closed and
+opened again on Dec 5, closed on Dec 6 and due to open again, following
+reentry attempts on Dec 5 and Dec 6 which were called off due to bad weather.
+
+On Dec 3, Columbia began its re-rendezvous with the ORFEUS-SPAS
+astronomy satellite. On Dec 4 at 0823 UTC, the astronauts retrieved the
+ORFEUS-SPAS vehicle using the RMS arm.
+
+Landing is now scheduled for Dec 7, making STS-80 the longest shuttle
+mission so far at almost 18 days.
+
+Aboard Mir, Valeriy Korzun, Aleksandr Kaleri and John Blaha are
+unloading the Progress M-33 transport ship. On Dec 2 Korzun and Kaleri
+made a 5h 57min space walk to install a new solar panel. They opened the
+Kvant-2 hatch at 1554 UTC (no stuck hatches here!). Blaha remained
+aboard the station.
+
+Recent Launches
+---------------
+
+
+Mars-96, continued: Jim Oberg reports that US Space Command now thinks
+it detected the reentry of Mars-96 over the eastern Pacific and South
+America, and eyewitness reports from the Atacama Desert indicate that
+Mars-96 hit the ground somewhere in northern Chile or Bolivia, far from
+the Blok-D-2 impact point the following day (where all the air searching
+was done). At least three groups of witnesses in northern Chile,
+including a former European Southern Observatory staff member, report
+seeing a bright object breaking apart and changing colors at 0050 UTC on
+Nov 17, consistent with the reentry time of Mars-96. Although this
+evening coincided with the Leonid meteor shower, the time of night and
+the speed and direction of the object rule out the possiblity of a large
+Leonid-related meteorite. (Thanks to Jorge Ianisewski and Mike Keane for
+passing on the eyewitness reports.)
+
+NASA's Mars Pathfinder (MPF) space probe was successfully launched on
+Dec 4 from Cape Canaveral. Pathfinder will land in Ares Vallis on 1997
+Jul 4. The space probe consists of a cruise stage, an atmospheric entry
+aeroshell, a lander, and the tiny Sojourner rover which will use an
+x-ray spectrometer to study the composition of Martian rocks near the
+landing site. The McDonnell Douglas Delta 7925 rocket took off from
+Launch Complex 17B, and the second stage and payload entered a 28 degree
+inclination elliptical earth parking orbit. The second stage ignited
+again an hour after launch to raise orbit, followed immediately by the
+third stage which propelled MPF into solar orbit. After its depletion
+burn, the second stage ended up in a 148 x 3119 km x 36.4 deg orbit. MPF
+was originally part of the MESUR Mars Environmental Survey; that program
+was abandoned and MPF became one of the Discovery series of planetary
+missions (like the NEAR asteroid probe). The companion MGS probe
+launched on Nov 7 is a Mars Surveyor, which is technically a separate
+NASA program.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct 20 0720   FSW-2            Chang Zheng 2D Jiuquan         Remote sen. 59A
+Oct 24 1137   Molniya-3        Molniya-M      Plesetsk        Comsat      60A
+Nov  4 1709   SAC-B/HETE       Pegasus XL     Wallops         Science     61A
+Nov  7 1700   MGS              Delta 7925     Canaveral LC17A Mars probe  62A
+Nov 13 2240   Arabsat 2B )     Ariane 44L     Kourou ELA2     Comsat      63A
+              Measat 2   )                                    Comsat      63B
+Nov 16 2048   Mars-96          Proton-K       Baykonur LC200L Mars probe  64A
+Nov 19 1955   Columbia         Shuttle        Kennedy LC39B   Spaceship   65A
+Nov 19 2320   Progress M-33    Soyuz-U        Baykonir LC1    Cargo ship  66A
+Nov 20 0411   ORFEUS                          OV-102,LEO      Astronomy   65B
+Nov 21 2047   Hot Bird 2       Atlas IIA      Canaveral LC36B Comsat      67A
+Nov 22 2038   WSF                             OV-102, LEO     Materials   65C
+Dec  4 0658   Mars Pathfinder  Delta 7925     Canaveral LC17B Mars probe  68A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-80  
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        OPF Bay 3     STS-81  Jan 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-58/                VAB Bay 3      STS-82
+ML2/RSRM-54/ET-83           VAB Bay 1      STS-81
+ML3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'

@@ -1,0 +1,298 @@
+Jonathan's Space Report 
+No. 720                                                       2015 Dec 16  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 45 continued until undocking of Soyuz TMA-17M on Dec 11, when
+Expedition 46 began.
+
+United Launch Alliance launched Atlas V flight AV-061 on Dec 6 carrying
+the Cygnus OA-4 cargo ship mission. Following the Antares failure last
+year, Cygnus payloads were temporarily moved to Atlas. The OA-4 Cygnus,
+called 'SS Deke Slayton II', is the first Cygnus with the enhanced
+(stretched) EPCM pressurized cargo module, and the first with a service
+module carrying the circular UltraFlex solar arrays originally designed
+for NASA's Orion. This was the first time an Atlas launched a payload
+towards the ISS.
+
+The AV-061 Centaur reached a 234 x 237 km orbit at 2203 UTC, released
+Cygnus 3 min later, and performed a 10s deorbit burn at 2232 UTC for
+disposal of the Centaur in the ocean south of Australia at about 132E
+49S.
+
+The Deke Slayton II reached the ISS on Dec 9, with SSRMS grapple at 1119
+UTC and berthing on Harmony at 1426 UTC. Aboart the Cygnus is the small
+NovaWurks SIMPL satellite, 12 Flock 2e cubesats from Planet Labs, and
+the CADRE, STMSat-1, MinXSS-1, Nodes 1 and Nodes 2 cubesats.
+Mass of ISS after the OA-4 arrival is 418 metric tons.
+
+The Soyuz TMA-17M crew of Kononenko, Yui and Lindgren landed
+on Dec 11. Soyuz TMA-17M undocked from Rassvet at 0949 UTC, made its
+deorbit burn at 1219 UTC, and landed in Kazakhstan at about 1312 UTC.
+
+Soyuz TMA-19M, with crewmembers Yuriy Malenchenko, Tim
+Kopra, and Tim Peake, was launched on Dec 15. Volkov, Kelly
+and Kornienko remain on the station during the changeover.
+
+TMA-19M began its flyaround of ISS at 1700 UTC Dec 15. Final approach to
+the Rassvet module began 1708 UTC under computer control but was aborted
+at 1716 UTC at a distance of around 30m; after backing off, Malenchenko
+resumed approach manually at 1729 UTC and docked at 1733 UTC.
+
+Now that the UK has begun financial support for the ESA human
+spaceflight program, Tim Peake's mission - named 'Principia' - is
+considered the first 'official' British human spaceflight mission. The
+first British citizen to leave Earth was Helen Sharman, who flew the
+commercial, mainly Soviet-funded, Project Juno mission in 1991 aboard
+Soyuz TM-12 to Mir, landing on Soyuz TM-11.
+
+Other British citizens who have flown in space include Mike Foale, Piers
+Sellers, Nick Patrick and Richard Garriott, who have dual US citizenship
+and who were all born in England,  and Mark Shuttleworth, who is a South
+African-born dual UK citizen. American astronaut Greg H. Johnson was
+born in England too, but I'm not sure if he is a also British citizen.
+
+
+LISA Pathfinder
+---------------
+
+LISA Pathfinder (LPF, originally SMART-2) was launched by Vega VV06 on
+Dec 3. The gravitational-physics technology development spacecraft will
+test the LISA Technology Package (LTP), containing an inertial sensor
+measuring the motion of two Gravitational Reference Sensors 0.38m apart
+each containing 46mm, 2 kg, Au-Pt cubes. Their relative motion can be
+measured to one millionth of a micron. LTP will reduce risk for the
+proposed eLISA gravitational wave search mission which will have mass
+sensors 2 billion times further apart than LTP, using a triad of
+spacecraft spaced a million km apart from each other. A NASA-provided
+Disturbance Reduction System (originally the Space Technology 7 mission)
+will use ion thrusters to move the spacecraft to follow the motion of
+the test masses. By measuring the path of the test masses with only 
+gravitational forces acting on them, the local curvature of spacetime
+can be determined with unprecedented precision. The mission is intended
+to understand the major sources of errors in the measurement, to prepare
+for eLISA.
+
+Vega VV06 fired its three solid motors and then made the first liquid
+AVUM 4th stage burn to reach a 208 x 1165 km transfer orbit at 0420 UTC.
+On descent to perigee at 0545 UTC the AVUM restarted to put LPF in a 209
+x 1521 km x 6.0 deg orbit. AVUM then separated and made a small
+avoidance burn (not a "deorbit burn" as claimed by the press kit) to 214
+x 1474 km x 6.0 deg, slightly decreasing the stage's orbital lifetime.
+LPF's propulsion module (PRM), based on the Airbus-DS Eurostar 2000
+communications satellite bus with an S400 main thruster and 1100 kg of
+propellant, slowly raise LPF's orbit until it is en route to the
+first Sun-Earth Lagrange point (SEL1) 1.5 million km noonward. The 320
+kg empty PRM will be jettisoned in January, a month after the last burn,
+as the 486 kg LPF enters a 0.5 x 0.8 million km Lissajous orbit around
+SEL1.
+
+As of Dec 12, all the ARM apogee raising burns had been carried out
+and LPF was on its way to SEL1:
+                           Orbit (km x km x deg)
+ Dec  3 0420  AVUM-1       208 x    1165 x 6.0
+ Dec  3 0545  AVUM-2       209 x    1521 x 6.0
+ Dec  7 0520? ARM-1        207 x    1557 x 6.0
+ Dec  7 1721  ARM-2        293 x    3394 x 6.0
+ Dec  8 0731  ARM-3        443 x    7108 x 6.0
+ Dec  8 2102  ARM-4        710 x   44473 x 6.0
+ Dec  9 2355  ARM-5        748 x  124805 x 6.0 (no TLEs yet)
+ Dec 12 0518  ARM-6        750?x 1500000 x 6.0 (no TLEs yet)
+ Dec 13       Corr.1       Small 7m/s correction
+
+Zhongxing-1C
+-------------
+
+China launched the ZX-1C communications satellite to geotransfer orbit
+on Dec 9. The satellite is thought to be the second Fenghuo-2 military
+communications satellite, joining ZX-1A launched in 2011.
+
+Soyuz-2-1V launch
+-----------------
+
+Russia carried out the second launch of the Soyuz-2-1V rocket, carrying 
+the 440 kg Kanopus-ST military satellite as its primary payload.
+Kanopus-ST carried optical, infrared and microwave imagers to test
+technology to locate submerged submarines. A secondary payload was
+KYuA-1, a 16 kg  sphere used to calibrate anti-ballistic-missile radars.
+
+The two-stage core of Soyuz-2-1V reached a 208 x 681 km x 98.2 deg
+transfer orbit. It was cataloged as 2015-071C. The Volga upper stage
+(2015-071A) coasted to apogee and at about 1503 UTC made a
+circularization burn to reach a 684 x 693 km sun-synchronous orbit.  The
+KYuA-1 satellite (2015-071B) was successfully ejected at about 1540 UTC,
+but one of several latches on the Kanopus-ST failed to open, and the
+payload failed to separate.
+
+The two payloads were given the public cover names Kosmos-2511 (Kanopus-ST/Volga)
+and Kosmos-2512 (KYuA-1). 
+
+Following the failure, at about 0200 UTC Dec 6 the Volga reignited in an
+attempt to deorbit the Kanopus/Volga stack and prevent it becoming
+long-lived space debris. This burn reached an orbit of 106 x 655 km.
+Natural orbital decay from atmospheric drag quickly set in. On Dec 7,
+with the orbit at 90 x 348 km, the spacecraft split into two pieces,
+possibly but not certainly the Kanopus satelite and the Volga stage.
+The two pieces reached an orbit
+of 88 x 297 km on Dec 8 before reentry, with 71D coming down between
+0400 and 0500 UTC and 71A reentering at 0543 UTC over the S Atlantic.
+
+Elektro-L
+----------
+
+At 1345 UTC on Dec 11, just after the Soyuz TMA-17M landing elsewhere in
+Kazakhstan, Russia launched a Ukrainian-built Zenit-2SB vehicle with an
+NPO Lavochkin 'Fregat-SB' upper stage carrying the Elektro-L No. 2
+weather satellite to GEO. The Zenit-2SB second stage reached a 164 x 539
+km x 51.4 deg parking orbit at 1352 UTC. The Elektro-L/Fregat-SB
+separated; after a first Fregat burn to 271 x 4277 km at 1500 UTC, the
+SBB drop tank was jettisoned. A second burn at 1711 UTC put the vehicle
+in geotransfer orbit, and a third burn at 2232 UTC circularized the
+orbit at apogee. Fregat separated and later made a fourth burn to
+graveyard orbit, leaving Elektro-L in the geosynchronous region. TLE
+orbital data for this and other recently launched objects have not yet
+been released.
+
+Garpun
+------
+
+Russia launched its second Garpun (`Harpoon') military communications satellite
+on Dec 13. The Proton rocket took off from Baykonur and is expected to deliver
+the satellite to geostationary orbit. Garpun No. 12L has the cover name
+Kosmos-2513. Current TLEs for object 41121 are actually for the discarded
+DTB propellant tank, which will probably be recataloged as 41123 once the
+payload is found.
+
+Singaporean satellites
+----------------------
+
+Six satellites for organizations based in Singapore were launched on a single
+Indian PSLV rocket on Dec 15. 
+  For AgilSpace, the 400 kg TeLEOS-1 satellite with a 1 meter resolution Earth
+   imager. The satellite is built by Singapore Technologies Electronics,
+   of which AgilSpace is a subsidiary.
+  For Nanyang Technological University, the 123 kg VELOX-C1 carrying a GPS
+   radio occultation payload for meteorology, and the 12 kg VELOX-II carrying
+   a space communications relay experiment to demonstrate cubesat downlink via
+   geostationary communications satellite. VELOX-II is a 6U cubesat - only the 4th
+   to be launched worldwide in this new larger cubesat format.
+  For Microsat Rapid Pte Ltd., the 3U cubesat Athenoxat-1 carrying a payload to
+   image the night side of the Earth.
+  For the National University of Singapore, the 78 kg Kent Ridge 1 satellite
+   developed using the TUBSAT LEOS-50 bus by Berlin Space Technologies, a spinoff
+   of the old TUBSAT group at Technische Universitat Berlin. KR-1 carries
+   two low-resoluton hyperspectral Earth imagers and a 6-meter-resolution imager.
+   A second NUS satellite is Galassia, a 2U cubesat with science payloads to
+   measure the ionosphere and perform a quantum entanglement experiment.
+
+The satellites were deployed into a roughly 520 km orbit inclined 14 deg to
+the equator. In a technology development test, the PSLV 4th stage was reignited
+briefly to test its ability to deliver payloads to multiple orbits. It is being
+tracked in a 400 x 573 km x 14.7 deg orbit.
+
+
+Wukong
+-------
+
+On Dec 17 China launched the Dark Matter Particle Explorer (DAMPE), given
+the postlaunch name Wukong ('Monkey King'). DAMPE is a Chinese Academy of Sciences
+particle physics experiment with a bismuth-germanium oxide calorimeter, and
+will study electrons, gamma rays and cosmic rays in the GeV to TeV energy range.
+The satellite has a mass of 1900 kg. Orbit is thought to be 500 x 500 km x 97 deg.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Nov  3 1625   Zhongxing 2C         Chang Zheng 3B    Xichang          Comms          63A   S41021    195 x 35832 x  27.1
+Nov  4 0345   Hiakasat     )                                          Imaging        F03   F01468  -6378 x    30?x  94.7
+              Argus        )                                          Tech           F03   F01469  -6378 x    30?x  94.7
+              PrintSat     )       Super Strypi      Kauai            Tech           F03   F01470  -6378 x    30?x  94.7
+              Techsat-1    )                                          Tech           F03   F01471  -6378 x    30?x  94.7
+              STACEM       )                                          Imaging        F03   F01472  -6378 x    30?x  94.7
+              EDSN 1       )                                          Tech           F03   F01473  -6378 x    30?x  94.7
+              EDSN 2       )                                          Tech           F03   F01474  -6378 x    30?x  94.7
+              EDSN 3       )                                          Tech           F03   F01475  -6378 x    30?x  94.7
+              EDSN 4       )                                          Tech           F03   F01476  -6378 x    30?x  94.7
+              EDSN 5       )                                          Tech           F03   F01477  -6378 x    30?x  94.7
+              EDSN 6       )                                          Tech           F03   F01478  -6378 x    30?x  94.7
+              EDSN 7       )                                          Tech           F03   F01479  -6378 x    30?x  94.7
+              EDSN 8       )                                          Tech           F03   F01480  -6378 x    30?x  94.7
+Nov  8 0706   Yaogan 28           Chang Zheng 4B     Taiyuan          Imaging        64A   S41026    459 x   482 x  97.2 1414LT SSO
+Nov 10 2134   Badr 7      )       Ariane 5ECA        Kourou ELA3      Comms          65A   S41028    264 x 35717 x   4.0
+              GSAT-15     )                                           Comms          65B   S41029    259 x 35751 x   4.0
+Nov 17 0634   Kosmos-2510         Soyuz 2-1b/Fregat  Plesetsk LC43/4  Early Warn     66A   S41032   1625 x 38551 x  63.8 
+Nov 20 1607   LaoSat 1            Chang Zheng 3B     Xichang LC2      Comms          67A   S41034    189 x 41778 x  18.4 
+Nov 24 0650   Telstar 12V         H-IIA 204          Tanegashima      Comms          68A   S41036   3140 x 35637 x  19.2
+Nov 26 2124   Yaogan 29           Chang Zheng 4C     Taiyuan          Radar          69A   S41038    615 x   619 x  97.8 0430LT SSO
+Dec  3 0404   LISA Pathfinder     Vega               Kourou ZLV       Astron/Tech    70A   S41043    748 x124805 x   6.0 En route L1
+Dec  5 1409   Kosmos-2511  )      Soyuz-2-1V         Plesetsk LC43/4  Imaging        71A   S41098    685 x   694 x  98.2 
+              Kosmos-2512  )                                          Calibration    71B   S41099    684 x   693 x  98.2 0600LT SSO
+Dec  6 2144   Deke Slayton II     Atlas V 401        Canaveral SLC41  Cargo          72A   S41101    404 x   418 x  51.6 Docked ISS
+Dec  9 1646   Zhongxing 1C        Chang Zheng 3B     Xichang          Comms          73A   S41103    177 x 35816 x  27.1
+Dec 11 1345   Elektro-L No. 2     Zenit-3SLBF        Baykonur LC45/1  Weather        74A   S41105
+Dec 13 0019   Kosmos-2513         Proton-M/Briz-M    Baykonur LC81/24 Comms          75A   S41121    401 x 35657 x  48.6
+Dec 15 1103   Soyuz TMA-19M       Soyuz-FG           Baykonur LC1     Spaceship      76A   S41124    404 x   418 x  51.6 Docked ISS
+Dec 16 1230   TeLEOS-1    )                                           Imaging        77A?
+              VELOX-C1    )                                           Weather(RO)    77B?
+              Kent Ridge 1)       PSLV-CA            Sriharikota LP1  Imaging        77C?
+              VELOX-II    )                                           Tech           77D?
+              Galassia    )                                           Sci/Tech       77E?
+              Athenoxat-1 )                                           Imaging        77F?
+Dec 17 0012   Wukong              Chang Zheng 2D     Jiuquan          Astron         78A   S41173?
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Thanks to Thomas Schiller for updating me on some of the sounding rocket launches.
+
+The NASA 49.003UE Oriole IV flight launched from Andoya on Nov 30 did
+not reach its target altitude; the reason for this is not yet known. (My
+figure of 100 km achieved is a placeholder guess.)
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Nov  1 0305   SRALT RV         SRALT         C-17, Pacific SE Wake I     Target        300?      Wake Island
+Nov  1 0307?  THAAD KV         THAAD               Wake Island           Interceptor   100?      (Pacific)
+Nov  1 0310?  eMRBM RV         eMRBM         C-17, Pacific SE Wake I     Target        300?      Wake Island
+Nov  1 0312?  THAAD KV         THAAD               Wake Island           Interceptor   100?      (Pacific)
+Nov  6 1501   FOP-4            SpaceLoft XL        Spaceport America, NM Microgravity  120       White Sands
+Nov  8 0200   USN Mk 5 RV (x14?) Trident II  SSBN 737, Pt Mugu           Test         1000?      Kwajalein?
+Nov  9 0415   Agni RV          Agni IV             Abdul Kalam Island    Test          600       Indian Ocean
+Nov  9 2000?  USN Mk 5 RV (x14?) Trident II  SSBN 737, Pt Mugu           Test         1000?      Kwajalein?
+Nov 14        RV               Bulava        K-551 V.Monomakh, White Sea Test         1000?      Kura, Kamchatka
+Nov 14        RV               Bulava        K-551 V.Monomakh, White Sea Test         1000?      Kura, Kamchatka
+Nov 17 1212   Topol'-E RV      Topol'              Kapustin Yar          Reentry test 1000?      Sary Shagan
+Nov 18        Interceptor KV   Nudol'              Sary Shagan?          Test          200?      ?
+Nov 21        Ghadr RV         Ghadr-1             Semnan?               Test          150?      Arabian Sea?
+Nov 23 1721   New Shepard CC   New Shepard         West Texas Site       Test          101       West Texas Site
+Nov 25 0417   PICTURE-B        Black Brant 9       White Sands           Astronomy     217       White Sands
+Nov 30 0725   CAPER            Oriole IV           Andoya, Norway        Auroral       100?      Andoya, Norway
+Dec  1 0500   MASER 13         VSB-30              Kiruna, Sweden        Microgravity  270?      ESRANGE B Zone, Sweden
+Dec  5 0445?  DXL-2            Black Brant 9       White Sands           X-ray Astron  224?      White Sands
+Dec  8        CTV-02           SM-3 Block IIA      San Nicolas I, Calif. Test          100?      Point Mugu Sea Range
+Dec 10 0612   Target           Silver Sparrow  F-15D, Med. Sea           Target        150?      Intercepted
+Dec 10 0615   Arrow 3 KV       Arrow 3             Palmachim, Israel     Interceptor   150?      Intercept 
+Dec 10        FTO-O2E1a Target SRALT?          C-17, Pacific Ocean       Target        300?      Intercepted
+Dec 10        Aegis KV         SM-3 Block IB       Kauai                 Interceptor   150?      Intercept 
+Dec 10 1355   PAC-3 Target     Juno                Ft. Wingate, NM       Target        100?      White Sands
+Dec 11        Shaheen RV       Shaheen III         Somniani?,Pakistan    Test          500?      Arabian Sea
+Dec 12        RV x 4?          Sineva          K-51, Barents Sea         Test         1000?      Kura, Kamchatka
+Dec 15        Shaheen RV       Shaheen IA          Somniani?,Pakistan    Test          100?      Arabian Sea
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

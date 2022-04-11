@@ -1,0 +1,145 @@
+Jonathan's Space Report
+No. 403                                     1999 Jul 15   Cambridge, MA
+------------------------------------------------------------------------------
+
+
+STS-93/Chandra
+---------------
+
+4 days to launch... Chandra is now in Columbia's payload bay at pad
+39B. We're looking forward to finally launching this thing just after
+midnight on Monday night.
+ 
+The Columbia crew will deploy Chandra in low orbit. The two IUS
+solid motors will fire to place it in elliptical orbit, and then
+Chandra's own liquid propulsion system will make several burns
+to raise the orbit to 10000 km x 140000 km. We'll spend a few days
+checking out the spacecraft and the instruments, and about 20 days
+after launch we'll pop open the sunshade door and take a peek at
+the quasar PKS 0637-752, a nice point source that we can focus up on.
+Once everything's in focus and aligned, we'll take our official first
+light image of the supernova remnant Cas A.  With the combined spatial
+and spectral resolution of the ACIS imager, we can get information
+on the physical conditions and chemical composition in different
+parts of the supernova remnant, and compare detailed features with
+those seen in optical and radio images.
+
+Fortunately, my first duty scientist shift isn't till three
+days after launch, so I get to go down and watch.
+I'll be in the Cape Canaveral area for a few days starting Jul 18.
+Any readers in that area who'd like to meet up, send me email or
+meet me around 5:30pm Jul 19 in the lobby of the Cocoa Beach Hilton.
+
+Pete Conrad
+-----------
+
+Charles Conrad, Jr., the third human to walk on another world,
+died July 9 in California from injuries recieved in a motorcycle
+accident.
+
+
+Recent Launches
+---------------
+
+Krunichev's Proton-K launch vehicle suffered its first failure in six
+years on Jul 5 (there have been upper stage failures since then, but not
+failures of the Proton itself). The Proton was launched from Baykonur at
+1332 UTC. At 4min 37 seconds into flight, one of the four second stage
+engines failed catastrophically, and the second stage exploded. The
+remainder of the vehicle survived the explosion but broke up about 45
+seconds later. Debris landed near Karaganda. The Proton second
+stage has four KB Khivavtomatiki RD-0210 engines, burning unsymmetrical
+dimethyl hydrazine (UDMH) and nitrogen tetroxide.
+
+This Proton-K carried a Russian Defense Ministry comsat. Gran' No.
+45 was built by NPO Prikladnoi Mekhaniki and would have been named
+Raduga if it had reached orbit (info from Aleksandr Zheleznyakov). The
+Gran' series are the oldest Russian geostationary comsats, first
+launched in 1975. Instead of the usual Energiya Blok-DM class stage,
+this mission carried the Krunichev Briz-M upper stage on its first test
+flight. T
+
+AP reports the payload as a 'Raduga-1'. This is incorrect - the
+Raduga-1 (Globus) series are different from the Raduga (Gran')
+satellites.
+
+
+ Year   Launches  Proton Failure   Upper Stage failure
+ 1992    8         0               0
+ 1993    6         1               0
+ 1994   13         0               0
+ 1995    7         0               0
+ 1996    8         0               2
+ 1997    9         0               1
+ 1998    7         0               0
+ 1999    6         1               0
+
+A Molniya-3 comsat was launched from Plesetsk on Jul 8. The launch was
+from one of the 3 active R-7 class pads at Plesetsk (LC16/pad 2,
+LC43/pad 3, LC43/pad 4) and used the 8K78M launch vehicle, consisting of
+the 11S59 core packet, the 11S510 Blok I third stage, and the Blok-ML
+upper stage. The Blok ML and the payload were placed in a 62.8 degree
+low parking orbit and then the ML fired to deliver the payload to a
+12-hour operational orbit. The payload is the 52nd Molniya-3 to be
+launched and is probably Molniya-3 11F637 No. 63, although the
+satellites are not launched in production order. The Molniya-3 is built
+by NPO PM of Zheleznogorsk, and provides communications and TV relay for
+Russian military and civil agencies.
+
+Four Loral/Alenia Globalstar satellites were launched on Jul 10 by a
+Boeing Delta 7420-10. Globalstar satellites M032, M030 (on the upper
+dispenser tier), M035 and M051 (on the lower dispenser tier) were placed
+in orbit after the Delta stage 2's second burn. 28 Globalstar satellites
+have now reached orbit.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  5 0721   Starshine         -              OV-103, LEO      Education  30B
+Jun 10 1348   Globalstar 52)    Delta 7420-10  Canaveral SLC17B Comsat     31A
+              Globalstar 49)                                               31B
+              Globalstar 25)                                               31C
+              Globalstar 47)                                               31D
+Jun 11 1715   Iridium 14A )     CZ-2C/SD       Taiyuan          Comsat     32A
+              Iridium 21A )                                     Comsat     32B
+Jun 18 0149   Astra 1H          Proton-K/DM3   Baykonur LC81L   Comsat     33A
+Jun 20 0215   QuikScat          Titan 23G      Vandenberg SLC4W R/Sensing  34A
+Jun 24 1544   FUSE              Delta 7320-10  Canaveral SLC17A Astronomy  35A
+Jul  5 1332   Raduga            Proton-K/BrizM Baykonur LC81P   Comsat     F02
+Jul  8 0846   Molniya-3         Molniya-M      Plesetsk         Comsat     36A
+Jul 10 0845   Globalstar 32)    Delta 7420-10  Canaveral SLC17B Comsat     37A
+              Globalstar 30)                                    Comsat     37B
+              Globalstar 35)                                    Comsat     37C
+              Globalstar 51)                                    Comsat     37D
+
+              
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        LC39B         STS-93  Jul 20
+OV-103 Discovery       OPF Bay 1     STS-103 Oct 14
+OV-104 Atlantis        OPF Bay 3     STS-101 Dec  2
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99/OV-102      LC39B       STS-93
+MLP2/                          
+MLP3/RSRM-71?                  VAB Bay 3   STS-99
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

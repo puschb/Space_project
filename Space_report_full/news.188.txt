@@ -1,0 +1,158 @@
+Jonathan's Space Report 
+No. 188       1994 Mar 14
+------------------------------------------------------------------------------
+
+Apologies to Internet readers for the interruption in posting
+these reports, which was due to my inability to use our 
+`improved' newsgroup software. Back issues are available from
+sao-ftp.harvard.edu in directory pub/jcm/space/news, and 
+you can be added to the direct email subscription on request.
+This version is being posted to sci.space.shuttle since
+I understand sci.space is defunct and sci.space.news is down.
+
+Shuttle  
+-------  
+
+The Columbia continues in orbit on mission STS-62; the orbit was lowered
+slightly on Mar 14. The USMP-2 and OAST-2 primary payloads are
+functioning well. Meanwhile, Endeavour is being prepared for its next
+mission, STS-59, and was rolled over to the VAB on Mar 14 where it will
+be joined to the external tank.
+ 
+Launches
+--------
+
+The first launch of Orbital Sciences Corp.'s Taurus rocket was 
+successfully carried out on March 13. Payloads for the mission were the
+P90-5 satellite and Ball's DARPASAT small satellite. The 204 kg DARPASAT
+will carry out advanced technology demonstrations for the Advanced
+Research Projects Agency. The 500 kg (?) P90-5 is  operated by the USAF
+Phillips Lab as part of the Space Test Program. Also known as TAOS
+(Technology for Autonomous Operations Survivability) and STEP 0 (Space
+Technology Experiments Program), it carries autonomous navigation
+systems and a GPS receiver, in an attempt to reduce the need for ground
+controllers. The planned orbit was 520 x 520 km x 105 deg.   Taurus was
+launched from a new pad at Vandenberg which doesn't have a designation
+yet; I believe it to be in North Vandenberg near the old 576/BMRS/ABRES
+Atlas launch pads. If any readers have been to Vandenberg and know where
+the pad is relative to any of the other launch complexes, please get in
+touch! (VAFB PAO has no clue about this.)
+
+The first Taurus used a TU-903 first stage rocket (from the 
+Peacekeeper ICBM), and Orion 50S, Orion 50 and Orion 38 second,
+third and fourth stage rocket motors (from the first, second
+and third stages of Pegasus). Future Taurus launches will use
+the new Castor 120 first stage instead.
+
+NASA's latest tether experiment was launched on March 10 at 0340 UTC as
+a secondary payload on a USAF Navstar GPS navigation satellite launch.
+The SEDS (Small Expendable Deployer System) 2 is a package attached to
+the Delta second stage rocket, which is in a 347 x 352 km x 34.9 deg
+orbit. At 0445 UT the package deployed a 20 km tether to compare actual
+tether dynamics with theoretical models. Early reports indicate the 23
+kg end mass behaved as expected, and unreeled in 1 h 48 min, to a
+maximum length of 19.8 km. Control algorithms developed at the Center
+for Astrophysics (plug!) were used to ensure a stable deployment, with
+the enormous 'pendulum' swinging with an amplitude of less than 4
+degrees. Unlike SEDS 1, when the tether was severed after deploy, on
+this mission the tether remains attached to the Delta rocket. The
+end mass mini-satellite transmitted for 10 hours. The SEDS 2 tether
+is visible from the ground by the naked eye (for those at more
+fortunate latitudes - hope it's visible from Arizona next week
+while I'm there!). The success of SEDS 2 confirms that tether systems
+can be used to deploy sensors which require a particular orientation
+to the local vertical, such as atmospheric composition experiments.
+(Thanks to Enrico Lorenzini for some of these details).
+
+   Space Tether experiments to date
+   --------------------------------
+
+Date            Spacecraft      End mass        Tether length deployed
+1966 Sep 14     Gemini XI       Agena 5006       0.03 km
+1966 Nov 13     Gemini XII      Agena 5001R      0.03 km
+1992 Aug  4     Atlantis        TSS-1            0.22 km
+1993 Mar 30     Delta 219       SEDS 1          20    km
+1993 Jun 26     Delta 221       PMG              0.50 km
+1994 Mar 10     Delta 226       SEDS 2          19.8  km
+
+
+Dean Bakeris of NRL has kindly provided more info on the Clementine
+probe. The lunar orbit insertion burn happened at 1251 UTC on Feb 19 and
+lasted for 6 minutes; a day later, at 1242 UTC on Feb 20 a second burn
+was used to reach the operational orbit. It turns out that the orbit I
+reported last week for NRL's Clementine probe was from the center of the
+Moon rather than heights above the lunar surface. In the latter, more
+conventional description, that orbit would be 433 x 2920 km x 89.3 deg.
+The new elements provided by Dean imply an orbit of 401 x 2952 km x 89.7
+deg assuming a 1738 km lunar radius.
+
+ The ISA (Interstage Adapter) satellite launched with
+Clementine remains in highly eccentric Earth orbit. It carries 
+a set of space environment experiments.
+
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Feb  5 0846     Raduga-1        Proton/DM2      Baykonur LC81   Comsat     08A
+Feb  7 2147     Milstar DFS 1   Titan 4 Centaur Canaveral LC40  Comsat     09A
+Feb  8 0830     Shi Jian 4    ) Chang Zheng 3A  Xichang         Scientific 10A
+                DFH-3 mockup  )                                            10C?
+Feb  9 1454     ODERACS  A )    GAS can         Discovery, LEO  Calibration 06B
+                ODERACS  B )                                                06C
+                ODERACS  C )                                                06D
+                ODERACS  D )                                                06E
+                ODERACS  E )                                                06F
+                ODERACS  F )                                                06G
+Feb  9 1932     BREMSAT         GAS can         Discovery, LEO  Scientific  06H
+Feb 12 0854     Kosmos-2268  )  Tsiklon         Plesetsk LC32   Comsat      11A
+                Kosmos-2269  )
+                Kosmos-2270  )
+                Kosmos-2271  )
+                Kosmos-2272  )
+                Kosmos-2273  )
+Feb 18 0756     Raduga          Proton/DM2      Baykonur LC81   Comsat      12A
+Feb 19 2345     Galaxy IR       Delta 7925      Canaveral LC17  Comsat      13A
+Mar  2 0324     Koronas-I       Tsiklon         Plesetsk LC32   Solar phys  14A
+Mar  4 1353     Columbia        Shuttle         Kennedy LC39B   Spaceship   15A
+Mar 10 0340     Navstar GPS 36) Delta 7925      Canaveral LC17  Navsat      16A
+                SEDS 2        )                                             16B
+Mar 13 2232     P90-5    )      Taurus          Vandenberg      Technology 
+                DARPASAT )                                      Technology?
+
+Reentries
+---------
+
+Feb  4          Ryusei          Impacted Pacific Ocean
+Feb 11          Discovery       Landed at KSC
+Mar  3          Progress M-17   Reentered over Atlantic
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LEO           STS-62
+OV-103 Discovery       OPF Bay 3     STS-64
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       VAB Bay 3     STS-59
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/ 
+ML2/RSRM-37?/ET-63        VAB Bay 3  STS-59             
+ML3/                      
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 
+
+,

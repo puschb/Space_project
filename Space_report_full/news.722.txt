@@ -1,0 +1,200 @@
+Jonathan's Space Report 
+No. 722                                                        2016 Feb 17  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 46 continues aboard ISS with Scott Kelly, Mikhail Kornienko, Sergey Volkov,
+Yuriy Malenchenko, Tim Kopra and Tim Peake.
+
+The AggieSat-4 satellite was ejected from the ISS on Jan 29 using the Kibo JRMS arm and the
+SSIKLOPS deployer. The 55 kg AggieSat-4, developed by students at Texas A&M University, will
+eject the 3U cubesat Bevo-2 (from students at U. Texas-Austin) and perform formation flying
+experiments with it.
+
+On Feb 3 astronauts Malenchenko and Volkov carried out spacewalk VKD-42 from the Pirs module.
+The hatch was opened at 1255 UTC and closed at 1740 UTC. They retrieved the EXPOSE-R2
+and SKK 2-M2 materials exposure experiments and installed SKK 3-M2 and two Vinoslivost panels.
+They also jettisoned a small package consisting of a bag of towels attached to a commemorative
+flash drive with videos about World War II to celebrate the 70th anniversary of 'Victory Day'.
+The inert package will reenter in a few days or weeks.
+
+Erratum: the Cygnus OA-4 cargo ship is berthed at the nadir port on Unity, not Harmony.
+
+ASTRO-H
+-------
+
+Congratulations to my ISAS colleagues on the successful launch of the
+ASTRO-H X-ray astronomy observatory on Feb 17. ASTRO-H rode H2A No. 30
+from Japan's Tanegashima Space Center to a low Earth orbit. It carries
+an array of five X-ray telescopes.
+
+The SXT-1 soft-X-ray telescope operates in the 0.3-12 keV range and has the SXI
+(Soft X-ray Imager) camera at its focus; this uses a conventional (but improved)
+6.5-megapixel X-ray CCD imager similar to those used on Suzaku, Chandra and XMM.
+SXT's angular resolution is about 100 arcseconds, compared to Chandra's
+fraction of an arcsecond, so the pictures will be relatively blurry, although
+SXT-1/SXI has better senstivity at higher energies than Chandra does.
+
+The SXT-2 soft X-ray telescope has similar optics but at its focus is 
+the SXS (Soft X-ray Spectrometer), which failed on its previous mission aboard
+ASTRO-E-II/Suzaku. SXS is an X-ray calorimeter cooled to 50 milliKelvin to provide
+super-high spectral resolution, and it's a technology that X-ray astronomers
+have been trying to fly since the 1990s.
+
+HXT-1 and HXT-2, two hard X-ray telescopes operating from 5 to 80 keV, have
+a 12-metre focal length requiring their HXI cameras to be mounted on an extensible
+optical bench which deploys after launch. The HXIs use a new technology, with a layer
+of DSSD (double-sided silicon strip) and a layer of CdTe cross-strip detectors
+to pick up different energy ranges.
+
+Finally the SGD, or soft gamma-ray detector, picks up photons in the 40 to 600 keV
+energy range. It doesn't have a focussing telescope and will only be able to
+locate soft gamma ray emission to within half a degree or so.
+
+JAXA/ISAS has named the satellite 'Hitomi' (eye-pupil), despite the fact
+that another currently operating satellite from the nearby University of Tokyo
+already has that name. 
+
+IRNSS
+-----
+
+India launched its 5th navigation satellite on Jan 20. The PSLV-XL
+delivered it to a subsynchronous transfer orbit. By early February it
+was in an inclined synchronous orbit at 35697 x 35874 km x 28.1 deg.
+IRNSS-R1C is in an near-equatorial orbit at 83E; the remainder are in
+the 28 degree inclined orbits, with R1A and R1B over about 55E and R1D
+and R1E over about 112E.
+
+LISA Pathfinder
+---------------
+
+LISA Pathfinder is now in the vicinity of Sun-Earth L1. The propulsion module
+was jettisoned at 1130 UTC Jan 22; it will probably end up in solar orbit.
+LPF uncaged its test masses on Feb 16.
+
+Intelsat 29e
+------------
+
+Arianespace placed the IS-29e communications satellite in a
+low-inclination geotransfer orbit on Jan 27. IS-29e carries C, Ku and
+Ka-band communications payload and is the first of Intelsat's new
+broadband high-throughput 'Epic-NG' series, built by Boeing using the
+BSS-702MP bus. Launch mass was 6552 kg.
+
+Eutelsat 9B
+-----------
+
+International Launch Services and Khrunichev flew a Proton from Baykonur
+on Jan 29 placing the Eutelsat 9B satellite in geotransfer. The European
+communications operator Eutelsat will use the satellite's 66 Ku-band
+transponders to increase performance at the 9 degrees East location. The
+satellite also carries a European Space Agency  laser communications
+package, EDRS-A, as part of the European Data Relay System. EDRS will
+relay data from low-orbiting satellites, converting an optical
+communications signal from the satellite to a Ka-band radio downlink.
+
+Glonass-M
+---------
+
+Glonass-M No. 51 (Uragan-M 751, Kosmos-2514) was launched on Feb 7 from
+Plesetsk to supplement the Russian navigation constellation.
+
+KMS-4
+------
+
+North Korea's National Aerospace Development Administration (NADA, Kukga
+uju gaebalkuk) carried out its second successful satellite launch on Feb
+7 from the Sohae base. The satellite, Kwangmyongsong-4, entered a 500 km
+polar orbit like the KMS-3-2 satellite launched in 2012. It appears both
+satellite and launch vehicle are very similar to the 2012 mission. The
+launch vehicle this time carries the name 'Kwangmyongsong' but appears
+to be essentially identical to the Unha-3 launched in 2012. As of Feb 17, hobbyist
+observers have not picked up any radio signals from it (there was some
+early confusion due to signals from a European METOP satellite in a
+similar orbit.)
+
+NROL-45
+-------
+
+On Feb 10 ULA launched a Delta 4 with the USA 267 satellite for the US
+National Reconnaissance Office. The launch was designated NRO L-45.
+The USA 267 payload has been observed in a 1078 x 1085 km orbit
+with a retrograde 123 degree inclination, characteristic of the TOPAZ
+radar imaging satellites.
+
+Sentinel-3A
+-----------
+
+A Eurockot/Krunichev Rokot (UR-100N missile with Briz-KM upper stage)
+was launched from Plesetsk on Feb 16. The Briz-KM entered a 153 x 785 km
+transfer orbit followed by an 802 x 806 km target orbit, deploying the
+Sentinel-3A satellite. It then lowered perigee to 411 x 744 km to reduce
+orbital lifetime.
+
+ESA's Sentinel-3A is part of the European Union's Copernicus remote
+sensing program, and carries an ocean color imaging payload and an
+ocean-topography radar altimeter payload.
+
+
+
+Erratum
+-------
+
+In the last issue the China launch statistics should have read 17 CZ2/3/4 launches, not 16.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Jan 15 1657   Belintersat-1       Chang Zheng 3B     Xichang LC3       Comms          01A   S41238    193 x 41730 x  26.4
+Jan 17 1842   Jason-3             Falcon 9 v1.1      Vandenberg SLC4E  Climate        02A   S41240   1295 x  1320 x  66.0
+Jan 20 0401   IRNSS-1E            PSLV-XL            Satish Dhawan SLP Nav            03A   S41241    288 x 20547 x  19.2
+Jan 27 2320   Intelsat IS-29e     Ariane 5ECA        Kourou ELA3       Comms          04A   S41308    280 x 35525 x   0.6
+Jan 29 1550   AggieSat-4                             ISS, LEO          Tech        98-067HP S41313    399 x   408 x  51.7
+Jan 29 2220   Eutelsat 9B         Proton-M/Briz-M    Baykonur LC200/39 Comms          05A   S41310   4374 x 35663 x  12.1
+Feb  1 0729   Beidou DW21         Chang Zheng 3C/YZ1 Xichang           Navigation     06A   S41315  21512 x 21981 x  55.0
+Feb  3 1322   Fleshka             -                  ISS, LEO        Commemorative 98-067HR?S41326?   395 x   406 x  51.6
+Feb  5 1338   GPS SVN 70          Atlas V 401        Canaveral SLC41   Navigation     07A   S41328  20438 x 20442 x  55.0 
+Feb  7 0021   Glonass-M No. 51    Soyuz-2-1B/Fregat  Plesetsk LC43/4   Navigation     08A   S41330  19132 x 19158 x  64.8
+Feb  7 0030   Kwangmyongsong-4    Kwangmyongsong     Sohae             Imaging        09A   S41332    465 x   501 x  97.5 0840LT SSO
+Feb 10 1140   TOPAZ 4?            Delta 4M+(5,2)     Vandenberg SLC6   Radar          10A   S41334   1078 x  1085 x 123.0   
+Feb 16 1757   Sentinel-3A         Rokot              Plesetsk LC133    Imaging/Alt    11A   S41335    802 x   806 x  98.6 1000LT SSO
+Feb 17 0845   Hitomi     )        H2A 202            Tanegashima       X-ray Astron   12A   S41337    565 x   580 x  31.0
+              Kinshachi-2)                                             Imaging        12B?  S41338    559 x   579 x  31.0
+              Kinshachi-3)                                             Space Sci      12C?  S41339    558 x   578 x  31.0
+              Horyu-4    )                                             Tech           12D?  S41340    557 x   578 x  31.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Blue Origin reflew the second NS propulsion module to 101.7 km on Jan 22 and successfully
+landed it. The crew capsule separated near apogee and was recovered by parachute. It's
+not clear whether this was the same crew capsule as in earlier flights.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Dec 15        Shaheen RV       Shaheen IA          Somniani?,Pakistan    Test          100?      Arabian Sea
+Dec 18 0652   FORTIS 3         Black Brant IX      White Sands           UV Astron     282       White Sands
+Dec 24 1755   Topol'-E RV?     Topol'              Kapustin Yar          Reentry test 1000?      Sary Shagan
+Jan 15 0300   S-310-44         S-310               Uchinoura             Ionosphere    161       Pacific Ocean
+Jan 22        New Shepard CC   New Shepard         West Texas            Test          101       West Texas
+Jan 23 0830   TEXUS 53         VSB-30              Kiruna                Micrograv     252       ESRANGE Zone B
+Jan 28 2155?  MBRV?            eMBRM?             C-17, Pacific          Target        300?      E Pacific
+Jan 28 2157   CE-II CTV-02+    GBI                 Vandenberg            Interceptor  1000?      E Pacific
+Feb  2 2109   SPIDER/LEEWAVES  VS-30               Kiruna                Auroral       138       ESRANGE Zone B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

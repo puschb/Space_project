@@ -1,0 +1,299 @@
+Jonathan's Space Report
+No. 774                                                           2020 Jan 31  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 61 continues.
+
+On Dec 23 the BCDU FRAM (the adapter for the recently used spare BCDU) was moved
+from the Dextre EOTP to the CRS-19 Dragon trunk, where it will be destroyed on
+reentry.
+
+On around Dec 27, the failed MSBU S/N C250636 (brought inside on Sep 5) and
+the failed BCDU S/N 011 (brought inside on Oct 18)  were transferred to the CRS-19
+Dragon's cabin for return to Earth.
+
+On Dec 27 at 0128 and 0436 UTC the Progress MS-13 cargo ship docked to the Pirs module
+fired its engines to raise the ISS orbit from 411 x 422 km to 415 x 422 km.
+
+On Jan 3 to 4 the Dextre arm was used to transfer the Space Debris
+Sensor (SDS) and SOLAR payloads from the Columbus external payload
+facility to external attachment points on the PCM module of the S.S.
+Alan Bean (Cygnus NG-12) cargo ship for reentry disposal. SDS was
+launched in 2017 on Dragon CRS-13, but failed in Jan 2018. SOLAR was
+launched on STS-122 in 2008. On Jan 6 a Resupply Stowage Platform 
+(possibly RSP 1008/SE177, launched on STS-131) was moved from the PMM1D3
+rack location to the Bean's pressurized module for disposal.
+
+On Jan 7 at about 0500 UTC the Canadarm-2 unberthed the Dragon CRS-19
+ship from the Harmony module. Dragon was released back into orbit at
+1005 UTC, and performed three separation burns between 1008 and 1020
+UTC. The plume from one of those firings  was reported to have made the
+Cygnus NG-12 solar arrays wobble, which is something one tries to avoid.
+Dragon fired its thrusters to deorbit at 1451 UTC until 1504 UTC,
+jettisoned the trunk section at 1508 UTC and entered the atmosphere at
+1524 UTC with splashdown near 121.0W 31.2N at 1542 UTC.
+
+On Jan 15 astronauts Koch and Meir, in suits EMU 3004 and 3008, made
+spacewalk US EVA-62 to continue battery replacements from the EP8 pallet
+to the P6 truss 4B channel. The airlock was depressurized from 1130 to
+1904 UTC. Transfers made were:
+
+ NiH 0104 from P6 4B1 to EP8-Z
+ Li-ion 21 from  EP8-F to P6 4B1
+ NiH 0106 from P6-4B2 to EP8-F
+ Adapter plate 0014 from EP8-F to P6 4B2
+ NiH 0101 from P6-4B3 to P6-4B2 on top of the adapter plate
+ Li-ion 22 from EP8-E to P6-4B3
+ NiH 0103 from P6-4B4 tp EP8-Y
+
+On Jan 20  Meir and Koch completed the P6 4B battery work with US EVA-63. The airlock
+was depressurized from 1127 to 1833 UTC. Transfers made were:
+ Adapter plate 0013 from EP8-E to P6-4B4
+ NiH 0098 from P6-4B6 to P6-4B4 on top of the adapter plate
+ Li-ion 23 from EP8-C to P6-4B6
+ NiH 0102 from P6-4B5 to EP8-C
+ Adapter plate 0011? from EP8-C to P6-4B5
+
+On Jan 23 at 1415 and 1723 UTC Progress MS-13 fired its engines to
+raise the ISS orbit by about 1 km. 
+
+On Jan 25 astronauts Morgan (EV1/EMU 3004) and Parmitano (EV2/EMU 3008)
+made US spacewalk EVA-64 to complete repairs to the AMS-02 experiment.
+The airlock was depressurized from 1158 to 1820 UTC. The crew performed
+leak checks on the new cooling system. Leaks were found in cooling line
+number 5, and after a couple of cycles of tightening the connector the
+leak was stopped. An insulation `tent' was placed over the system. After
+the AMS-02 work, camera lens covers on the CP8 and CP9 external cameras
+were removed.
+
+
+CZ-5
+----
+
+China's largest rocket, the Chang Zheng 5, made a successful third flight on Dec 27,
+after a major engine rework following the failure of the second flight in July 2017.
+The CZ-5 second stage put the Shi Jian 20 communications satellite in supersync
+transfer orbit. SJ-20 was on station in GEO at 115E by Jan 6.
+
+Jilin-1 KF-1
+------------
+
+On Jan 15 China's SAST launched a CZ-2D with Chuanguang's biggest
+satellite to date, the 1.5t Jilin-1 Kuanfu-1. The rocket also placed
+three smaller satellites in orbit, two Satellogic Nusat imagers (Sophie
+and Marie)  and Guodian Gaokeji's Tianqi-5.
+
+Ariane 5
+--------
+
+On Jan 16 Arianespace launched another Ariane 5ECA, putting Eutelsat Konnect
+and GSAT-30 in geotransfer orbit. Eutelsat Konnect is a Ka-band payload
+for the European operator Eutelsat; GSAT-30 is a Ku/C band satellite
+for the Indian space agency ISRO.
+
+
+Starlink
+--------
+
+The third launch of 60 Starlink satellites, V1.0 Batch 2, was orbited on Jan 7.
+
+As I have previously reported, the unexpected brightness of Starlink
+satellites has caused widespread concern among astronomers. Thousands of
+such satellites could dominate the visible view of the night sky in dark
+areas; the bright satellites crossing the field of view of astronomical
+detectors could cause bright streaks, electronic cross-talk and `ghost
+images' compromising deep exposures of faint objects. At a meeting of
+the American Astronomical Society in January,  SpaceX representatives
+seemed confident they would be able to reduce the brightness of future
+satellites so that they would no longer be naked eye objects, and
+expressed committment to iterative improvements to address the concerns
+of professional astronomers. I welcome the willingness of SpaceX to address
+the issue (nevertheless, I do think some formal regulations on light pollution
+are needed, because other constellations will also be an issue).
+
+The latest launch includes a modified satellite, Starlink 1130, with a
+special dark coating  on the bus to reduce its brightness. This
+satellite will be used to improve SpaceX's models of satellite light
+scattering, allowing engineers to evaluate design improvements for
+future versions of the satellite. 
+
+It will be important to get visual magnitude estimates of Starlink 1130
+once it reaches its operational orbit. 
+
+As with V1.0 Batch 1, the 60 satellites were split into three groups,
+with orbit raising of two of the groups pausing at 350 km to precess to
+different orbital planes.
+
+Stage 2 of the Falcon 9 was deorbited south of Australia, reentering
+at approximately 0448 UTC Jan 7 after 1.6 orbits.
+
+
+The fourth launch, V1.0-L3, placed a further 60 satellites in 280 km
+orbit on Jan 29.
+
+
+TJS 5
+------
+
+On Jan 7 China launched the Tongxing Jishu Shiyan 5 satellite to
+geotransfer orbit. The TJS series of `experimental communications
+satellites' is believed to be a cover for a range of military programs,
+and TJS 5 appears to be an SAST/Shanghai `Houyan' early warning
+satellite like 2017's TJS 2.
+
+Crew Dragon
+-----------
+
+Crew Dragon C205 was launched from KSC LC39A at 1530 UTC Jan 19 on a Falcon 9
+for the Inflight Abort Test.
+
+A preplanned shutdown of core stage B1046 at 90s into flight triggered
+an inflight abort and the Super Draco thrusters pushed Dragon to a 44 km apogee
+followed by a parachute-aided splashdown in the Atlantic. The Falcon 9
+disintegrated in flight 7 seconds after separation.
+
+Spitzer
+-------
+
+SIRTF, the Space Infrared Telescope Facility, was launched in Aug 2003.
+In Dec 2003 it was renamed the Spitzer Space Telescope, the 4th and last
+of the Great Observatories program. After 16 years of great science,
+Spitzer entered final safemode and fell silent at 2215:45 UTC Jan 30.
+
+IRAS/POPPY-5B
+-------------
+
+On Jan 29 at 2339 UTC two defunct satellites had a very near miss -
+probably  less than 100 metres apart. The IRAS astronomical satellite,
+which operated from 1983 to 1985, and the NRO/NRL POPPY 5B signals
+intelligence satellite (codenamed GGSE 4), which operated from 1967 to
+1972, passed each other at a relative velocity of 14.7 km/s.
+
+Errata
+------
+
+Danna Barnett informs me that Tyvak-0092 is actually built for Israel's Elbit Systems
+and not for an Italian company. Elbit calls the satellite NANOVA; it has a UHF comm
+payload.
+
+The dual-engine Centaur on the Atlas V N22 uses the RL10-A4-2 engine, not RL10-A4-1.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Dec  5 1729   Dragon CRS-19               Falcon 9           Canaveral SLC40 Cargo     83A S44821    203 x   378 x 51.7
+Dec  6 0800?  Kosmos-2543?                              Kosmos-2542, LEO     Inspector 79D S44835    368 x   858 x 97.9
+Dec  6 0818   ALE-2     )                 Electron           Mahia LC1       Tech      84A S44824    397 x   415 x 97.0
+              NOOR 1A   )                                                    Com       84D S44827    348 x   403 x 97.0
+              NOOR 1B   )                                                    Com       84E S44828    348 x   403 x 97.0
+              SMOG-P    )                                                    Sigint    84J S44832    348 x   403 x 97.0
+              TRSI-Sat  )                                                    Tech      84H S44831    348 x   403 x 97.0
+              FossaSat-1)                                                    Tech      84F S44829    348 x   403 x 97.0
+              ATL-1     )                                                  Sigint/Tech 84G S44830    348 x   403 x 97.0
+Dec  6 0934   Progress MS-13              Soyuz-2-1A         Baykonur LC31   Cargo     85A S44833    186 x   219 x 51.6
+Dec  7 0255   Jilin-1 Gaofen 02B          Kuaizhou-1A        Taiyuan         Imaging   86B S44837    531 x   544 x 97.5
+Dec  7 0852   HEDE-2A   )                 Kuaizhou-1A        Taiyuan         Comms     87  S44839    495 x   511 x 97.4
+              HEDE-2B   )                                                    Comms     87            495 x   511 x 97.4
+              Tianqi-4A )                                                    Comms     87            495 x   511 x 97.4
+              Tianqi-4B )                                                    Comms     87            495 x   511 x 97.4
+              Tianyi-16 )                                                    Imaging   87            495 x   511 x 97.4
+              Tianyi-17 )                                                    Imaging   87            495 x   511 x 97.4
+Dec 11 0854   Kosmos-2544                 Soyuz-2-1B/Fregat  Plesetsk LC43/3 Nav       88A S44850  19125 x 19150 x 64.8
+Dec 11 0955   RISAT-2BR1)                 PSLV-QL            Satish Dhawan   Radar     89F S44857    564 x   574 x 37.0
+              Izanagi   )                                                    Radar     89E S44856    568 x   579 x 37.0
+              1HOPSAT   )                                                    Imaging   89            568 x   579 x 37.0
+              Duchifat-3)                                                    Tech      89C S44854    568 x   579 x 37.0
+              Tyvak-0092)                                                    Comms     89A S44852    568 x   579 x 37.0
+              Tyval-0129)                                                    Tech      89            568 x   579 x 37.0
+              Lemur-2-HiMomAndDad)                                           AIS/Met   89J S44860    568 x   579 x 37.0
+              Lemur-2-Pappy      )                                           AIS/Met   89K S44861    568 x   579 x 37.0
+              Lemur-2-JPGSquared )                                           AIS/Met   89D S44855    568 x   579 x 37.0
+              Lemur-2-Theodosia  )                                           AIS/Met   89M S44863    568 x   579 x 37.0
+Dec 16 0722   Beidou DW 52 )             Chang Zheng 3B/YZ1  Xichang LC3     Nav       90A S44864  21528 x 22192 x 55.0
+              Beidou DW 53 )                                                 Nav       90B S44865  21528 x 22192 x 55.0
+Dec 17 0010   JCSAT-18/Kacific-1         Falcon 9            Canaveral SLC40 Comms     91A S44868    272 x 20319 x 26.9
+Dec 18 0854   CSG 1   )                  Soyuz ST-A/Fregat   CSG ELS         Radar     92A S44873    622 x   623 x 97.8
+              CHEOPS  )                                                      Astronomy 92B S44874    698 x   709 x 98.2
+              ANGELS  )                                                      Comms     92D S44876    508 x   527 x 97.4
+              EyeSat  )                                                      Astronomy 92E S44877    508 x   527 x 97.4
+              OPS-SAT )                                                      Tech      92F S44878    508 x   527 x 97.4
+Dec 20 0322   CBERS-4A     )             Chang Zheng 4B      Taiyuan         Imaging   93A S44879    615 x   635 x 98.0
+              ETRSS-1      )                                                 Imaging   93
+              Tianqin-1    )                                                 Sci/Tech  93
+              BDSAGR-1     )                                                 Imaging   93
+              Yuheng       )                                                 Comms     93
+              Shuntian     )                                                 Comms     93
+              Yizheng 1    )                                                 Imaging   93
+              Xingshidai 8 )                                                 Imaging   93
+              FloripaSat-1 )                                                 Tech      93G S44485    614 x   635 x 98.0
+Dec 20 1136   Starliner OFT              Atlas V N22         Canaveral LC41  Spaceship 94A S44900    180 x   221 x 51.6
+Dec 24 1203   Elektro-L No. 3            Proton-M/DM-03      Baykonur LC81/24 Weather  95A S44903  35372 x 35571 x  0.6
+Dec 26 2312   Gonets-M No. 24            Rokot               Plesetsk LC133/3 Comms    96A S44905   1500 x  1508 x 82.5
+              Gonets-M No. 25                                                 Comms    96B S44906   1500 x  1508 x 82.5
+              Gonets-M No. 26                                                 Comms    96C S44907   1500 x  1508 x 82.5
+Dec 27 1245   Shi Jian 20                Chang Zheng 5       Wenchang         Comms    97A S44910    180 x 67690 x 19.4
+Jan  7 0219   Starlink 1066      )       Falcon 9            Canaveral SLC40  Comms    01AS S44954   301 x   305 x 53.0
+              Starlink 1069-1104 )                                            Comms    )
+              Starlink 1106-1119 )                                            Comms    ) 
+              Starlink 1121-1126 )                                            Comms    ) 
+              Starlink 1128      )                                            Comms    ) 01A-01BM
+              Starlink 1130      )                                            Comms    ) 44914-
+              Starlink 1144      )                                            Comms    ) 44973
+Jan  7 1520   TJS 5                      Chang Zheng 3B      Xichang          Comms    02A S44978    195 x 35804 x 27.5
+Jan 15 0253   Jilin-1 Kuanfu 1 )         Chang Zheng 2D      Taiyuan          Imaging  03A S45016    477 x   492 x 97.3
+              Sophie           )                                              Imaging  03B S45017    475 x   492 x 97.3
+              Marie            )                                              Imaging  03C S45018    477 x   493 x 97.3
+              Tianqi-5         )                                              Comms    03D?S45019    475 x   492 x 97.3
+Jan 16 0302   Yinhe 1                    Kuaizhou 1A         Jiuquan          Comms    04A S45024   1200 x  1213 x 80.0?
+Jan 16 2105   Eutelsat Konnect )         Ariane 5ECA         Kourou ELA3      Comms    05B S45027    499 x 36234 x  6.0
+              GSAT-30          )                                              Comms    05A S45026  35775 x 35799 x  0.1
+Jan 29 1406   Starlink 1120     )        Falcon 9            Canaveral SLC40  Comms    )
+              Starlink 1127     )                                             Comms    )
+              Starlink 1129     )                                             Comms    )
+              Starlink 1131-1137)                                             Comms    ) 06A-06BM    272 x   292 x 53.0
+              Starlink 1139-1142)                                             Comms    )
+              Starlink 1145-1153)                                             Comms    )
+              Starlink 1155-1186)                                             Comms    )
+              Starlink 1190     )                                             Comms    )
+              Starlink 1193-1196)                                             Comms    )
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+On Jan 7 Iran launched a series of Zulfiqar and Qiam-1 missiles against US military targets in Iraq.
+The exact number and mix of missiles is unknown.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Dec 10 0930   CHI               Black Brant IX       Svalbard            Ionosphere    360       Arctic
+Dec 11 1753   New Shepard NS12  New Shepard          West Texas          Test          105       West Texas
+Dec 12 1630   IRBM Test         Castor 4B?           Vandenberg TP-01    Test          500?      Pacific
+Jan  7 2245?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2245?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Erbil, Iraq
+Jan  7 2245?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2245?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2245?  HE Warhead        Qiam-1               ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2245?  HE Warhead        Qiam-1               ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2315?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Al Asad, Iraq
+Jan  7 2315?  HE Warhead        Zulfiqar             ?, Iran             Weapon        100?      Erbil, Iraq
+Jan  7 2315?  HE Warhead        Qiam-1               ?, Iran             Weapon        100?      Erbil, Iraq
+Jan  9 0800   S-310-45          S-310                Uchinoura           Test          131       Pacific
+Jan 19        RV                K-4                  Visakhapatnam       Test          500?      Indian Ocean
+Jan 27 1340   Polar NOx 2       Black Brant 9        Poker Flat          Aeronomy      260       Alaska
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

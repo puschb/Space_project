@@ -1,0 +1,234 @@
+Jonathan's Space Report 
+No. 715                                                      2015 Sep 10    Somerville, MA
+---------------------------------------------------------------------------------------------
+Apologies for the long gap between issues!
+
+International Space Station
+---------------------------
+
+Expedition 44 is coming to a close with Scott Kelly assuming command of
+ISS from Gennadiy Padalka on Sep 5. The Soyuz TMA-16, 17 and 18
+spaceships are docked at the Zvezda, Rassvet and Poisk docking ports
+respectively, with their crews brining the ISS complement to 9: Padalka,
+Kelly, and flight engineers Mikhail Kornienko, Oleg Kononenko, Sergey
+Volkov, Kimiya Yui, Kjell Lindgren, Andreas Mogensen,  and Aidyn
+Aimbetov.
+
+Padalka and Kornienko made spacewalk VKD-41 on Aug 10. Hatch open was
+1417 UTC and close at 1951 UTC, with airlock repressurization beginning
+at 1957 UTC. The astronauts installed a new WAL6 antenna to replace the
+old one whose cover floated off on 2013 Aug 19. New retaining straps
+were added to the other WAL antenna covers. The old WAL-6 antenna was
+jettisoned into orbit as catalog 40812; two decontamination towels were
+also jettisoned, and were not cataloged.
+
+Progress M-26M undocked Aug 14 at 1019 UTC and was deorbited at 1328 UTC
+with debris impacting the Pacific around 1417 UTC.
+
+The 5th H2 Transfer Vehicle, HTV-5 or Kounotori 5, was launched from Tanegashima
+on Aug 19. HTV-5's External Platform carries the CALET electron/cosmic-ray
+detector which will be installed on the Kibo Exposed Facility.
+The pressurized compartment carries nine racks:
+   HTV5 Stbd1 US Galley Rack, to be installed in the Unity node 
+   HTV5 Fwd1  JAXA Multipurpose Small Payload Rack 2 (MSPR-2), now installed in Kibo at JPM1F2
+   HTV5 Port1 HTV Resupply Rack
+   HTV5 Aft1  HTV Resupply Rack
+   HTV5 Stbd2 HTV Resupply Rack
+   HTV5 Fwd2  HTV Resupply Rack
+   HTV5 Port2 HTV Resupply Rack
+   HTV5 Aft2  HTV Resupply Rack
+   HTV5 Base  HTV Resupply Rack Type D (HRR-D)
+
+The HRR-D is a new storage system to increase the HTV capacity. The
+Port1 and Aft1 HRRs will be moved into the ISS temporarily for unloading
+while the row 2 HRRs remain on HTV and their contents - CTBs or Cargo
+Transfer Bags - will be unloaded directly. Contained in the HRRs are a
+SAFER EVA backpack, a Mouse Habitat Unit (but no mice for it yet), 18
+cubesats and the Nanoracks External Platform (NREP) and JAXA ExHAM-2
+expsoure unit, both of which will be used for mounting external
+experiments. The cubesats are:
+ Nanoracks-integrated:
+   PlanetLabs Flock 2b-1 to 2b-14, for Earth imaging
+   GOMSpace GOMX-3, for tests of ADS-B aircraft data relay
+   Aalborg University AAUSAT-5, a 1U sat for tests of AIS ship tracking receivers
+ JAXA-integrated:
+   Brazilian Space Agency/University of Brasilia SERPENS with technology communications payloads
+   Chiba Inst. of Technology S-CUBE with UV and visible imagers to observe meteors from above.
+
+All the cubesats are 3U form factor except for AAUSAT-5. It's not clear
+which HRRs the cubesats are delivered in.  The JAXA-integrated cubesats
+have now been installed in the J-SSOD No. 4 deployer and are ready to go
+into the Kibo airlock. CALET has a mass of 650 kg; the 7 HRR racks carry
+6057 kg of cargo. HTV-5 carries 2306 kg of propellant. The Galley and
+MSPR racks probably have a mass around 500 kg each; the dry HTV without
+payloads is about 6100 kg.
+
+HTV-5 arrived at the ISS on Aug 24 and was berthed at Harmony nadir at 1402 UTC.
+On Aug 25 the SSRMS extracted the HTV Exposed Pallet and handed it to the JEM RMS,
+which berthed the EP on the Exposed Facility at location EFU10. The JEM RMS
+then grappled the CALET experiment and moved it to EFU9.
+
+On Aug 28 Padalka, Kelly and Kornienko flew Soyuz TMA-16M from the Poisk
+to Zvezda docking ports. Undocking from Poisk was at 0712 UTC and
+docking with Zvezda was at 0730 UTC. This freed the Poisk port for the
+TMA-18M arrival, and will free Zvezda for a refuelling ship once
+TMA-16M returns to Earth.
+
+Soyuz TMA-18M was launched on Sep 2 with Volkov, Mogensen and Aimbetov
+aboard, and docked at Poisk at 0739 UTC Sep 4.
+
+
+Beidou
+------
+
+China launched two Beidou navigation satellites on Jul 25. Following the
+first 3rd-generation inclined-geosync Beidou in March,  this pair are
+the first of the 3rd-gen medium-orbit type. The CZ-3B launch vehicle
+deployed the YZ-1 upper stage in a 189 x 18390 km x 55 deg transfer
+orbit.  CZ-3B stage 3 probably coasted in a low parking orbit for only a
+minute or so before its second burn to the elliptical orbit. The YZ-1
+then stage separated and made its first burn almost immediately at about
+1245 UTC, raising apogee to 22000 km. The Beidou/YZ-1 stack then coasted
+to that apogee altitude and at about 1610 UTC YZ-1's second burn
+circularized orbit. The two payloads were quickly released in a 21523 x
+22193 km x 55 deg orbit, and then about 1620 UTC YZ-1 made a disposal
+burn to a 22151 x 27736 km x 55 deg orbit.
+
+Ariane VA225
+------------
+
+Arianespace flight VA225 with launcher L579 placed two communications
+satellites in geotransfer: Eutelsat 8 West B for Eutelsat and IS-34 for
+Intelsat. Eutelsat 8WB is a Thales Alenia Spacebus 4000C4 with a launch
+mass of 5782 kg and a Ku/C band payload. IS-34 is an SSL-1300 satellite
+with a launch mass of 3300 kg; it will replace I805 and Galaxy 11 and
+will be located at 55.5W. It also has C and Ku-band payloads; the
+Ku-band capacity will be partly used by Hispasat.
+
+
+Yaogan 27
+---------
+
+The 27th Yaogan remote sensing satellite was launched from Taiyuan on Aug 27 into a 1194 x 1206 km x 100.5
+deg sun-synchronous orbit. It is the 5th in what I call the Yaogan High A series and appears to
+be replacing the first, Yaogan 8:
+
+                                   Orbit (km,km,deg)   Node (local time)
+   YH A1  Yaogan 8   2009 Dec 15   1192 x 1204 x 100.5 0930LT
+   YH A2  Yaogan 15  2012 May 29   1201 x 1206 x 100.1 1430LT
+   YH A3  Yaogan 19  2013 Nov 20   1200 x 1207 x 100.5 1030LT
+   YH A4  Yaogan 22  2014 Oct 20   1197 x 1208 x 100.3 1330LT
+   YH A5  Yaogan 27  2015 Aug 27   1194 x 1206 x 100.5 0930LT
+
+GSAT-6
+------
+
+India launched Geostationary Satellite Launch Vehicle flight GSLV-D6 on
+Aug 27, placing the GSAT-6 satellite in geotransfer. GSAT-6 has an
+S-band and C-band payload and will be used by the Indian Armed Forces.
+
+Inmarsat 5F3
+------------
+
+An International Launch Services Proton-M put Inmarsat 5F3 in
+supersynchronous transfer orbit on Aug 28-29, on its first flight since
+the Mexsat-1 launch failure in May. London-based Inmarsat provides
+broadband mobile communications services; the 5F3 satellite has 89
+Ka-band transponders.
+
+MUOS 4
+-------
+
+A US Navy UHF-band communications satellite, MUOS 4 (spacecraft
+production number MUOS SV5) was launched from Cape Canaveral on Sep 3
+into geotransfer orbit by a United Launch Alliance Atlas 5, mission
+AV-056. The Centaur made three burns, to 167 x 630 km, 194 x 34447 km,
+and 3802 x 35786 km. The MUOS  (Multiple User Objective System)
+satellite is a Lockheed Martin A2100 derivative and has an IHI BT-4
+liquid  engine to raise its orbit to GEO. 
+
+Erratum
+--------
+
+The GPS SVN 72 satellite is of course Block IIF flight 10, not Block IIR.
+The MSG 4 satellite is still undergoing commissioning, and will not get the
+name Meteosat 11 until it is operational.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Jul  3 0455   Progress M-28M      Soyuz-U            Baykonur LC1     Cargo          31A   S40713    398 x    402 x  51.6 Docked ISS
+Jul 10 1628   DMC3-1     )                                            Imaging        32A   S40715    637 x    662 x  98.3 2210LT SSO
+              DMC3-2     )                                            Imaging        32B   S40716    637 x    662 x  98.3 2210LT SSO
+              DMC3-3     )        PSLV-XL            Sriharikota FLP  Imaging        32C   S40717    637 x    661 x  98.3 2210LT SSO
+              CBNT-1     )                                            Imaging        32D   S40718    636 x    658 x  98.3 2210LT SSO
+              DeOrbitSail)                                            Tech           32E   S40719    635 x    657 x  98.0 2210LT SSO
+Jul 13 1640   Flock 1e-1  )                          ISS, LEO         Imaging      98-67GF S40722    395 x    401 x  51.6
+              Flock 1e-2  )                                           Imaging      98-67GE S40723    394 x    401 x  51.6
+Jul 14 0431   Flock 1e-3  )                          ISS, LEO         Imaging      98-67GH S40725    395 x    400 x  51.6
+              Flock 1e-4  )                                           Imaging      98-67GG S40724    396 x    401 x  51.6
+Jul 14 1545   Flock 1e-5  )                          ISS, LEO         Imaging      98-67GL S40728    395 x    402 x  51.6
+              Flock 1e-6  )                                           Imaging      98-67GM S40729    395 x    402 x  51.6
+Jul 14 2340   Flock 1e-7  )                          ISS, LEO         Imaging      98-67GJ S40726    395 x    402 x  51.6
+              Flock 1e-8  )                                           Imaging      98-67GK S40727    396 x    401 x  51.6
+Jul 15 0601   Flock 1e-9  )                          ISS, LEO         Imaging      98-67GN S40736    396 x    401 x  51.6
+              Flock 1e-10 )                                           Imaging      98-67GP S40737    397 x    401 x  51.6
+Jul 15 1315   Flock 1e-11 )                          ISS, LEO         Imaging      98-67GQ S40738    395 x    402 x  51.6
+              Flock 1e-12 )                                           Imaging      98-67GR S40739    396 x    402 x  51.6
+Jul 15 1536   GPS SVN 72          Atlas V 401        Canaveral SLC41  Navigation     33A   S40730  20446 x  20459 x  55.0
+Jul 15 2142   Star One C4  )      Ariane 5ECA        Kourou ELA3      Comms          34B   S40733  35782 x  35790 x   0.0 GEO 70W
+              MSG 4        )                                          Weather        34A   S40732  35784 x  35788 x   3.1 GEO  3.5W
+Jul 15 2249   Flock 1e-13 )                          ISS, LEO         Imaging      98-67GS S40740    396 x    401 x  51.6
+              Flock 1e-14 )                                           Imaging      98-67GT S40741    396 x    400 x  51.6
+Jul 16 0641   Centennial-1)                          ISS, LEO         Calib        98-67GU S40742?   395 x    401 x  51.6
+              Arkyd-3R    )                                           Tech         98-67GV S40743?   395 x    401 x  51.6
+Jul 22 2012   Soyuz TMA-17M       Soyuz-FG           Baykonur LC1     Spaceship      35A   S40744    400 x    402 x  51.7 at ISS
+Jul 24 0007   WGS 7               Delta 4M+(5,4)     Canaveral SLC37B Comms          36A   S40746    494 x  66798 x  24.1
+Jul 25 1229   Beidou DW17 )       Chang Zheng 3B     Xichang          Navigation     37A   S40748  21523 x  22195 x  55.0
+              Beidou DW18 )                                           Navigation     37B   S40749  21528 x  21880 x  55.0
+Aug 19 1150   Kounotori 5         H-IIB              Tanegashima Y2   Cargo          38A   S40873    399 x    401 x  51.6 at ISS
+Aug 20 2034   Eutelsat 8 West B)  Ariane 5ECA        Kourou ELA3      Comms          39B   S40875  35784 x  35790 x   0.1 GEO  1.7E
+              Intelsat IS-34   )                                      Comms          39A   S40874  35771 x  35803 x   0.0 GEO 51.5W
+Aug 27 0231   Yaogan Weixing 27   Chang Zheng 4C     Taiyuan LC9      Imaging        40A   S40878   1194 x   1206 x 100.5 0930LT SSO
+Aug 27 1122   GSAT-6              GSLV Mk II         Sriharikota SLP  Comms          41A   S40880  35676 x  35837 x   1.2 GEO 83E
+Aug 28 1144   Inmarsat 5F3        Proton-M/Briz-M    Baykonur LC200   Comms          42A   S40882  31521 x  41016 x   0.2 
+Sep  2 0437   Soyuz TMA-18M       Soyuz-FG           Baykonur LC1     Spaceship      43A   S40885    401 x    402 x  51.7 at ISS
+Sep  2 1018   MUOS 4              Atlas V 551        Canaveral SLC41  Comms          43A   S40887   3802 x  35786 x  19.1
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The US Missile Defense Agency carried out a series of missile defense tests on Jul 29-Aug 2
+using SM-2-IV and SM-6 low altitude interceptors, which probably did not leave the atmosphere.
+Two ballistic missile targets launched from Kauai as part of the tests may have reached space.
+
+The Montana State U. MOSES-II solar EUV spectrograph was launched from White Sands on Aug 27
+aboard flight 36.282US. The CLASP solar UV polarimeter, from Amy Winebarger at U. Alabama/Huntsville,
+was launched on 36.291US on Sep 3.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jul  7 1015   NASA 36.313NP    Black Brant 9       Wallops, Virginia     Tech          350?      Atlantic O.
+Jul 29 0830   Aegis MMW E1     Unknown             Kauai                 Target        100?      Pacific O.
+Jul 30 0615   Aegis MMW E2     Unknown             Kauai                 Target        100?      Pacific O.
+Aug 12 1004   NASA 46.012UO    Terrer Imp.Malemute Wallops, Virginia     Education     151       Atlantic O.
+Aug 19 1003   GT213GM RV       Minuteman 3         Vandenberg LF10       Op.Test      1300?      Kwajalein
+Aug 22 1513   Topol'-E RV      Topol'              Kapustin Yar          Test          500?      Sary Shagan
+Aug 26        Warhead          Hwasong-6?          Sana'a, Yemen         Weapon         80?      Jizan, Saudi Arabia
+Aug 27 1745   NASA 36.282US    Black Brant 9       White Sands, NM       Solar EUV     250?      White Sands 
+Sep  3 1701   NASA 36.291US    Black Brant 9       White Sands, NM       Solar UV      287       White Sands 
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+

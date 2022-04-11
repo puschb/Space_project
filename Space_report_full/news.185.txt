@@ -1,0 +1,138 @@
+Jonathan's Space Report 
+No. 185        1994 Feb 24
+------------------------------------------------------------------------------
+
+Shuttle  
+-------  
+
+Launch of Columbia is due on March 3 on mission STS-62. The payload bay
+contains three cross-bay MPESS class pallets. Two of them comprise the
+USMP-2 (United States Microgravity Payload 2), a set of crystal growth
+experiments. The experiments are: AADSF (Advanced Automated Directional
+Solidification Furnace), CFLSE (Critical Fluid Light Scattering
+Experiment), IDGE (Isothermal Dendritic Growth Experiment), Mephisto
+(Material Pour L'Etude Des Phenomenes Interessant La Solidification Sur
+Terre Et En Orbite) and SAMS (Space Acceleration Measurement System).
+USMP-1 flew on STS-52 in 1992 and carried Mephisto, SAMS and another
+experiment called LPE.
+
+The third pallet is a Hitchhiker-M class pallet and carries a bunch of
+space technology experiments, many with relevance to the Space Station.
+The experiments study spacecraft glow, arcing in solar cells, and heat
+pipes. The pallet is called OAST-2, after the NASA Office of Aeronautics
+and Space Technology which originally sponsored it (now the office
+is called Office of Advanced Concepts and Technology). OAST-1 flew on
+Discovery's first flight in 1984 and carried a large array deployment test.
+
+Possibly the most interesting aspect of the STS-62 mission, however,
+is the DEE (Dexterous End Effector) experiment. This is a special
+magnetic 'hand' for the RMS robot arm. Mission specialist Marsha
+Ivins will use the arm to test the DEE, which may allow smaller
+grapple fixtures to be used on future satellites.
+
+The crew of STS-62 is very experienced; commander is John Casper,
+(STS-36, STS-54), pilot is Andy Allen (STS-46); mission
+specialists are Pierre Thout (STS-36, STS-49 Intelsat spacewalk),
+Marsha Ivins (STS-32R, STS-36) and Sam Gemar (STS-38, STS-48). 
+
+ 
+Launches
+--------
+
+The Chinese Shi Jian 4 satellite and the dummy DFH-3 communications
+satellite have now had orbital data made public. Shi Jian 4 is
+in a 208 x 36134 km x 28.6 deg orbit.
+
+Six satellites launched on Feb 12 by an 11K68 Tsiklon launch vehicle
+from Plesetsk are part of a network of small communications satellites,
+possibly operated by Russian intelligence agencies.
+
+The second Galaxy IR satellite was launched on Feb 19 from Cape
+Canaveral. Galaxy IR, operated by Hughes Communications, replaces a
+satellite of the same name which was lost during launch in 1992. That in
+turn was intended to replace the Galaxy I satellite still on orbit. Here
+is the list of Galaxy satellites:
+
+ Name           Type    Launch Date     Rocket
+Galaxy 1        HS376   1983 Jun 28     Delta
+Galaxy 2        HS376   1983 Sep 22     Delta
+Galaxy 3        HS376   1984 Sep 21     Delta
+Galaxy 6        HS376   1990 Oct 12     Ariane
+Galaxy 5        HS376   1992 Mar 14     Atlas Centaur
+Galaxy 1R       HS376   1992 Aug 22     Atlas Centaur (Destroyed on launch)
+Galaxy 7H       HS601   1992 Oct 28     Ariane 4
+Galaxy 4H       HS601   1993 Jun 25     Ariane 4
+Galaxy 1R       HS376   1994 Feb 19     Delta II
+
+
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Jan  8 1005     Soyuz TM-18     Soyuz           Baykonur LC1    Spaceship  01A
+Jan 20 0949     Gals 1          Proton          Baykonur LC81   Comsat     02A
+Jan 24 2137     Eutelsat IIF5 ) Ariane 44LP     Kourou ELA2     Comsat     FTO
+                Turksat 1     )                                 Comsat     FTO
+Jan 25 0025     Meteor-3      ) Tsiklon         Plesetsk LC32   Weather    03A
+                Tubsat B      )                                 Technology 03B
+Jan 25 1634     Clementine 1    Titan 23G-11    Vandenberg SLC4 Spaceprobe 04A
+Jan 28 0212     Progress M-21   Soyuz           Baykonur LC1    Cargo      05A
+Feb  3 1210     Discovery       Shuttle         Kennedy LC39    Spaceship  06A
+Feb  3 2220     Ryusei   )      H-II            Tanegashima     Technology 07A
+                Myojo    )                                      Technology 07B
+Feb  5 0846     Raduga-1        Proton          Baykonur LC81   Comsat     08A
+Feb  7 2147     Milstar DFS 1   Titan 4 Centaur Canaveral LC40  Comsat     09A
+Feb  8 0830     Shi Jian 4    ) Chang Zheng 3A  Xichang         Scientific 10A
+                Dummy payload )
+Feb  9 1454     ODERACS  A )    GAS can         Discovery, LEO  Calibration 06B
+                ODERACS  B )                                                06C
+                ODERACS  C )                                                06D
+                ODERACS  D )                                                06E
+                ODERACS  E )                                                06F
+                ODERACS  F )                                                06G
+Feb  9 1932     BREMSAT         GAS can         Discovery, LEO  Scientific  06H
+Feb 12 0854     Kosmos-2268  )  Tsiklon         Plesetsk LC32   Comsat      11A
+                Kosmos-2269  )
+                Kosmos-2270  )
+                Kosmos-2271  )
+                Kosmos-2272  )
+                Kosmos-2273  )
+Feb 18          Raduga?         Proton          Baykonur        Comsat      12A
+Feb 19          Galaxy IR       Delta 7925      Canaveral LC17  Comsat      13A
+
+
+Reentries
+---------
+
+Jan 14          Soyuz TM-17     Landed in Kazakhstan
+Feb  4          Ryusei          Impacted Pacific Ocean
+Feb 11          Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39B         STS-62
+OV-103 Discovery       OPF Bay 3     STS-64
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-59
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-36?/ET-62/OV-102 LC39B      STS-62
+ML2/RSRM-37?              VAB Bay 3  STS-59             
+ML3/                      
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 
+
+,

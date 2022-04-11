@@ -1,0 +1,283 @@
+
+Jonathan's Space Report
+No. 404                                         1999 Jul 25   Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+STS-93/Chandra
+---------------
+
+LAUNCH! Chandra is in transfer orbit and is sending data back
+to Cambridge. A beautiful launch with some scary moments.
+And a wonderful trip to the Cape, it was great to finally meet
+so many of you that I've corresponded with.
+
+I set out from my hotel in Cocoa Beach on Monday afternoon. 
+South of the Cape itself, there's a thin peninsula with
+the towns of Cape Canaveral and Cocoa Beach, and the Cape's
+administrative HQ at Patrick AFB. Driving up A1A from Cocoa Beach,
+you pass United Space Alliance's Shuttle Logistics Depot, in a
+building which looks to me like a car dealership. Passing the
+turnoff for Cape Canaveral Air Station, I drove on across the Banana
+River to Merritt Island, and north on State Road 3, stopping off
+at Space Shirts to get my required STS-93 t-shirts and patches.
+At the gate to KSC, it's still many miles to Complex 39. The VAB
+looms large, and seems to stay the same size for ages, but eventually
+I arrive. It's an immense building. Yes, I knew this, but the reality
+is impressive. Across the road from the VAB is the LC39 press site,
+with the famous countdown clock you've all seen on TV. The clock sits
+by the water's edge at the end of a grassy field, behind which 
+are the viewing stand and the NASA newsroom. Next to the newsroom
+are the buildings for CBS, ABC, etc. and the trucks for the smaller
+local TV stations. TRW's hospitality tent was at the bottom of
+the field next to the clock. 
+
+The first launch attempt was on Jul 20, and controllers commanded
+an RSLS hold at T-6 seconds, just moments before main engine ignition.
+A data spike in hydrogen pressure data was the problem; if it had
+really been an indication that there was lots of hydrogen leaking
+into the engine compartment, there would be danger of explosion, so
+the cutoff was a good idea. 
+
+Second try was Jul 22. Everything looked good except for one weather
+system which was moving south out of the area. Fine, we'd still get off
+within the 46 minute window. Then we saw a lightning flash. As the hold
+wore on, the storm continued. It was dry at the LC39 press site, but we
+kept seeing flashes and hearing thunderclaps in the distance. It became
+clear that the chances of going that night were not good. 
+
+Jul 23 was the charm.
+Launch was at 0431:00 UTC from LC39B at Kennedy Space Center. 5 seconds
+after launch, a short in an electrical bus brought down a main engine
+controller on two of the main engines. There are three buses, each
+supplying two main engine controllers. There are six engine controllers,
+two for each main engine, and the two controllers for each engine always
+run off different buses. So after the short, there was still at least
+one controller working on each engine. If there had been a similar short
+in a second electrical bus, then one of the main engines would have had
+no working controllers, which would have resulted in the engine shutting
+down. That early in the ascent, we'd have had the first ever attempt at
+an RTLS (Return To Launch Site) abort. So to hear comm traffic about bad
+engine controllers as Columbia was still streaking over the countdown
+clock was rather alarming.  Happily, the short was not repeated and the
+remainder of the ascent seemed solid (but see below). 
+
+The main thing that surprised me was the intense collimated exhaust from
+the SRBs. In all of the photos I've seen, the exhaust is so overexposed
+that there's no sign of this: in the middle of the broader bright smoke,
+there were twin narrow columns of eyeball-searing, actinic,
+magnesium-flare-like emission, as if a pair of cracks had opened in
+spacetime to let a bit of the primordial fireball peek through. I don't
+remember seeing this from the STS-37 daytime launch, but I was further
+away for that one. The other thing was the noise. The loud rumble of the
+SSME ignition reached us a few seconds after launch, and was then
+overwhelmed by the remarkable crackling and popping noise that I assume
+was the SRBs. The Ariane launch I saw last year had a similar quality to
+it, and again I've never heard it sound like this on TV broadcasts. We
+were just able to follow SRB separation through the haze, and the SSMEs
+were visible until about 5 minutes into the flight.
+
+Main engine cutoff (MECO) was at 0439 UTC, and the external tank
+separated leaving Columbia in a 78 x 276 km x 28.5 deg transfer orbit.
+The engines cut off slightly early when the LOX supply ran out (about
+1700 kg short), leaving Columbia short of speed by 5 meters/s.  NASA now
+believes that engine no. 3 had a small hydrogen leak throughout the
+ascent, causing the engine to run hot. The OMS-2 engine burn at 0512 UTC
+circularized the orbit, about 10 km lower than planned.
+
+At around 1000 UTC the IUS ASE tilt table was raised 29 degrees out of
+the payload bay, and the Chandra lower antenna was tested. At 1142 UTC
+the IUS ASE was raised to 58 degrees, the deployment angle.
+
+Chandra/IUS-27 was deployed from Columbia at 1147 UTC Jul 23. At 1248
+UTC the IUS-27 SRM-1 motor fired for 125s to enter a 226 x 13841 km x
+28.5 deg orbit. The SRM-1 then separated (it appears that a second
+object may also be being tracked in this orbit) and SRM-2 fired at 1251
+UTC for 117 seconds. Chandra then deployed its solar arrays at 1322 UTC,
+ and SRM-2 separated from Chandra at 1350 UTC. Chandra was placed in a
+330 x 72030 km x 28.45 deg orbit. This was about 900 km lower than
+planned, the IUS underperformed slightly, but Chandra's own IPS
+propulsion system will make up most of the difference. The ACIS and HRC
+cameras have been switched on and both are operating well, although we
+won't open the lid to see the sky till mid-August.
+
+
+Chandra Orbit data: (thanks to Ted Molczan for putting them
+ in 2-line format)
+Pre IPS-1 (actual)
+1 25867U 99040  B 99204.57559028  .00000000  00000-0  00000-0 0    08
+2 25867  28.4528 196.2671 8423730 270.0155  14.5069  0.98883441    08
+Post IPS-1 (expected)
+1 25867U 99040  B 99206.05309028  .00000000  00000-0  00000-0 0    06
+2 25867  28.4448 196.0098 8237110 270.3411 180.5498  0.97397854    00
+Post IPS-1 (Space Command)
+1 25867U 99040B   99206.05347222 -.00000025  00000-0  00000+0 0    78
+2 25867  28.4406 196.0256 8242614 270.3420 180.3395  0.97337724    32
+
+At 0111 UTC on Jul 25 we fired the IPS engines for 5 minutes to raise
+perigee to 1192 km. The IPS engineer was very happy! The burn went well
+and the vehicle was extremely stable. We are waiting for DSN to measure
+the new orbit. Further burns will raise orbit further to 10000 km x
+140000 km. 
+
+TRW's IPS propulsion system is a dual-mode system, with O2/hydrazine 
+for the four main 450N  IPS engines, and mono hydrazine for the RCS
+system. There's also a small momentum dumping hydrazine system that is
+used throughout the mission for attitude control when the momentum
+wheels get saturated. Any extra hydrazine left over when the O2 runs out
+will be transferred to that system.
+
+Chandra is the heaviest Shuttle payload yet. It's hard to do the bookkeeping,
+because total cargo masses aren't easy to come by, they usually just release
+'payload chargeable weight', and orbit insertion mass is harder to find than
+the less interesting launch mass. But, for what it's worth, my best estimates
+for the heaviest Shuttle flights are:
+  - Launch mass of orbiter
+     STS-93 (Chandra)   122534 kg
+     STS51L (TDRS 2)    121530 kg (failed to orbit)
+     STS-41D (PAM)      119576 kg
+     STS-51A (PAM)      119454 kg
+     STS-90  Neurolab   119003 kg
+
+   Total cargo mass
+     STS-93 (Chandra)    25700 kg approx?
+     STS51L (TDRS 2)     23884 kg
+     STS-41  (ULS)       22665 kg
+     STS-43 (TDRS 5)     22373
+     STS-54 (TDRS 6)     22244
+
+   Mass of deployed payload:
+     Chandra/IUS-27     19736 kg (planned)
+     Magellan/IUS-18    18197 kg
+     Ulysses/IUS-17     17510 kg
+     USA-8/IUS-11       17400 kg? (estimate)
+     USA-48/IUS-5       17400 kg? (estimate)
+     Galileo/IUS-19     17383 kg
+     TDRS-7/IUS-26      17107 kg
+     TDRS-4/IUS-9       17073 kg
+     TDRS-B/IUS-3       17071 kg (not deployed, launch failure)
+     DSP-16/IUS-14      17050 kg
+     TDRS-5/IUS-15      17044 kg
+     TDRS-1/IUS-1       17030 kg
+     TDRS-3/IUS-7       17016 kg
+     TDRS-6/IUS-13      17008 kg
+     DSCS/IUS-12        17000 kg? (estimate)
+
+The IUS has been used on 15 Shuttle flights. The IUS itself is not
+reusable, but the tilt table and airborne support equipment (ASE)
+is; there have been three IUS ASEs  flown. ASE-1 made only two
+flights, on STS-6 and on 51-L when it was destroyed. ASE-2 made 7
+flights, and ASE-3, built to replace the lost ASE-1, has made 6 flights
+if as I suspect it was used on the current mission (haven't managed to 
+confirm this).  The previous flights of ASE-3 are believed to be 
+STS-30 (Magellan), STS-33R, STS-43 (TDRS 5), STS-54 (TDRS 6) and STS-70 
+(TDRS 7). 
+
+
+There have been a number of other RSLS holds in the STS program:
+ 1984 Jun 26  41-D    RSLS abort T-6s
+ 1985 Jul 12  51-F    RSLS abort T-3s
+ 1985 Dec 18  61-C    RSLS hold  T-14s
+ 1993 Mar 22  STS-55  RSLS abort T-3s
+ 1993 Apr  6  STS-56  RSLS hold  T-11s
+ 1993 Jul 24  STS-51  RSLS hold  T-19s
+ 1993 Aug 12  STS-51  RSLS abort T-3s
+ 1994 Aug 18  STS-58  RSLS abort T-2s
+ 1998 Dec  3  STS-88  RSLS hold  T-19s
+ 1999 Jul 20  STS-93  RSLS hold  T-6s
+
+Recent Launches
+---------------
+
+The Progress M-42 cargo ship was launched Jul 16. It is bringing
+supplies to the crew of the Mir complex. Progress M-42 docked with
+the Kvant port at 1753 UTC on Jul 18.  Progress M-41 undocked 
+at 1120 UTC on Jul 17 and was deorbited over the Pacific later the
+same day.  Viktor  Afanas'ev and Sergey Avdeev made a spacewalk on
+Jul 23 at 1106 UTC for about 6 hours (no confirmed duration yet).
+They installed a new antenna but failed to deploy it. Jean-Pierre
+Haignere remained inside Mir during the EVA.
+
+An Okean-O remote sensing satellite was launched by a Zenit-2 from
+Baykonur on Jul 17. This is the first of a new generation of larger
+Okean oceanographic satellites, with a mass of about 6500 kg. It was
+placed in a sun-synchronous 661 x 662 km x 98.0 deg orbit. The satellite
+carries a side-looking radar (RSL-BO), and a set of visible and infrared
+ scanners and radiometers. It is built by the Ukranian Yuzhnoe company
+and is a joint project of the Russian Aviation/Space Agency (RAKA) and
+the Ukrainian National Space Agency (NKAU).
+
+Four more Globalstar satellites were launched Jul 25 by a Boeing Delta 2.
+The  Delta 2 second stage entered a 185 x 1361 km transfer orbit 11 minutes
+after launch. At 61 min after launch the second stage restarted at apogee
+and  deployed the four satellites in a 1367 km circular orbit. Meanwhile the
+four Globalstars launched on Jul 10 are already in their 1410 x 1414 km x 52.0
+deg operational orbits.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  5 0721   Starshine         -              OV-103, LEO      Education  30B
+Jun 10 1348   Globalstar 52)    Delta 7420-10  Canaveral SLC17B Comsat     31A
+              Globalstar 49)                                               31B
+              Globalstar 25)                                               31C
+              Globalstar 47)                                               31D
+Jun 11 1715   Iridium 14A )     CZ-2C/SD       Taiyuan          Comsat     32A
+              Iridium 21A )                                     Comsat     32B
+Jun 18 0149   Astra 1H          Proton-K/DM3   Baykonur LC81L   Comsat     33A
+Jun 20 0215   QuikScat          Titan 23G      Vandenberg SLC4W R/Sensing  34A
+Jun 24 1544   FUSE              Delta 7320-10  Canaveral SLC17A Astronomy  35A
+Jul  5 1332   Raduga            Proton-K/BrizM Baykonur LC81P   Comsat     F02
+Jul  8 0846   Molniya-3         Molniya-M      Plesetsk         Comsat     36A
+Jul 10 0845   Globalstar 32)    Delta 7420-10  Canaveral SLC17B Comsat     37A
+              Globalstar 30)                                    Comsat     37B
+              Globalstar 35)                                    Comsat     37C
+              Globalstar 51)                                    Comsat     37D
+Jul 16 1636   Progress M-42     Soyuz-U        Baykonur LC1     Cargo      38A
+Jul 17 0638   Okean-O           Zenit-2        Baykonur LC45    R/Sensing  39A
+Jul 23 0428   Columbia          Shuttle        Kennedy LC39B    Spaceship  40A
+Jul 23 1147   Chandra           IUS            OV-102, LEO      Astronomy  40B
+Jul 25 0746   Globalstar 26)    Delta 7420-10  Canaveral SLC17A Comsat     41A
+              Globalstar 28)                                    Comsat     41B
+              Globalstar 43)                                    Comsat     41C
+              Globalstar 48)                                    Comsat     41D
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        LEO           STS-93  Jul 20
+OV-103 Discovery       OPF Bay 1     STS-103 Oct 14
+OV-104 Atlantis        OPF Bay 3     STS-101 Dec  2
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/                          LC39B       STS-93
+MLP2/                          
+MLP3/RSRM-71?                  VAB Bay 3   STS-99
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+</PRE>
+<P>
+<img src="/cgi-bin-local/Count.cgi?df=jcm1.dat&dd=B"> visits since 1999 Jun 14
+
+
+
+</BODY>
+
+

@@ -1,0 +1,168 @@
+Jonathan's Space Report
+No. 271-B                     1996 Jan 3                       Cambridge, MA
+--------------------------------------------------------------------------------
+
+(Corrected Jan 11)
+
+Special Edition - 1995 Launch Summary - Continued
+-------------------------------------------------
+
+PART 4 - Launch Vehicles
+
+ Launch vehicles are listed by type, in order of number of
+launches. For failures, the indication
+'stage 2 failure' means that the failure occurred between
+stage 1 separation and stage 2 separation, not necessarily
+that the indicated stage was at fault.
+
+ US vehicles:             Launched  Failures
+ NASA Space Shuttle        7        0
+ Lockheed Martin Titan     4        0
+ Lockheed Martin  Atlas   12        0
+ MDSSC Delta               3        1*
+ OSC Pegasus               2        1
+ Lockheed Martin LMLV      1        1
+ EER Conestoga             1        1
+
+ Russian vehicles:
+
+ Krunichev Proton          7        0
+ Energiya Soyuz           16        0
+ Polyot Kosmos             5        1*
+ NII-TT Start              1        1
+ 
+ Other vehicles:
+ Arianespace Ariane       11        0
+ NASDA H-II                1        0
+ China GWIC Long March     3        1
+ Yuzhnoe Zenit             1        0
+ Yuzhnoe Tsiklon           3        0
+ ISAS/Nissan Mu            1        1*
+ ISA Shaviyt               1        0
+ ------------------------------------
+ Total                    80        8
+ * Reached an orbit despite failure
+
+
+Date               Type            Launch pad   Notes
+
+Energiya Soyuz (and Molniya) (16)
+
+ Feb 15            Soyuz-U          KB LC1
+ Feb 16            Soyuz-U          PL LC43
+ Mar 14            Soyuz-U2         KB LC1
+ Mar 22            Soyuz-U          PL LC43
+ Apr  9            Soyuz-U          KB LC1
+ May 24            Molniya-M/2BL    PL LC16
+ Jun 28            Soyuz-U          PL LC43
+ Jul 20            Soyuz-U          KB LC1
+ Aug  2            Molniya-M/2BL    PL LC43/3
+ Aug  9            Molniya-M/L      PL LC43
+ Sep  3            Soyuz-U2         KB LC1
+ Sep 26            Soyuz-U          PL LC43/4
+ Sep 29            Soyuz-U          KB LC31
+ Oct  8            Soyuz-U          KB LC1
+ Dec 18            Soyuz-U          KB LC1
+ Dec 28            Molniya-M/2BL    KB LC31
+
+Lockheed Martin Atlas: (12)
+ Jan 10  AC-113    Atlas IIAS       CC LC36B
+ Jan 29  AC-112    Atlas II         CC LC36A
+ Mar 22  AC-115    Atlas IIAS       CC LC36B
+ Mar 24  45E       Atlas E          V SLC3W
+ Apr  7  AC-114    Atlas IIA        CC LC36A
+ May 23  AC-77     Atlas I          CC LC36B
+ May 31  AC-116    Atlas II         CC LC36A
+ Jul 31  AC-118    Atlas IIA/IABS   CC LC36A
+ Aug 29  AC-117    Atlas IIAS       CC LC36B
+ Oct 22  AC-119    Atlas II         CC LC36A
+ Dec  2  AC-121    Atlas IIAS       CC LC36B
+ Dec 15  AC-120    Atlas IIA        CC LC36A
+
+Arianespace Ariane (11)
+ Mar 28  V71       Ariane 44LP/H10+? CSG ELA2
+ Apr 21  V72       Ariane 40/H10+    CSG ELA2
+ May 17  V73       Ariane 44LP/H10-3 CSG ELA2
+ Jun 10  V74       Ariane 42P/H10-3  CSG ELA2
+ Jul  7  V75       Ariane 40/H10-3   CSG ELA2
+ Aug  3  V76       Ariane 42L/H10+   CSG ELA2
+ Aug 29  V77       Ariane 44P/H10-3  CSG ELA2
+ Sep 24  V78       Ariane 42L/H10+   CSG ELA2
+ Oct 19  V79       Ariane 42L/H10-3  CSG ELA2
+ Nov 17  V80       Ariane 44P/H10-3  CSG ELA2
+ Dec  6  V81       Ariane 44L/H10-3  CSG ELA2
+
+NASA Space Shuttle: (7)
+ Feb  3  STS-63    STS              KSC LC39A
+ Mar  2  STS-67    STS              KSC LC39B
+ Jun 27  STS-71    STS              KSC LC39A
+ Jul 13  STS-70    STS              KSC LC39B 
+ Sep  7  STS-69    STS              KSC LC39A
+ Oct 20  STS-73    STS              KSC LC39B
+ Nov 12  STS-74    STS              KSC LC39A
+
+Krunichev Proton-K (7)
+
+ Mar  7            Proton-K/DM-2    KB LC200
+ May 20            Proton-K         KB LC81
+ Jul 24            Proton-K/DM-2    KB LC200L 
+ Aug 30            Proton-K/DM-2    KB LC200L
+ Oct 11            Proton-K/DM-2    KB LC81L
+ Nov 17            Proton-K/DM-2    KB LC200L
+ Dec 14            Proton-K/DM-2    KB LC200L
+
+Polyot Kosmos-3M (5)
+
+ Jan 24  -         Kosmos-3M        PL LC132
+ Mar  2            Kosmos-3M        PL LC132
+ Mar 22            Kosmos-3M        PL LC132
+ Jul  5            Kosmos-3M        PL LC132
+ Oct  6            Kosmos-3M        PL LC132    Stage 2 failure
+
+Lockheed Martin Titan: (4)
+ May 14 K-23/TC-17 Titan 401 Centaur CC LC40
+ Jul 10 K-19/TC-8  Titan 401 Centaur CC LC41
+ Nov  6 K-21/TC-13 Titan 401 Centaur CC LC40
+ Dec  5 K-15       Titan 404         V SLC4E
+
+McDonnell Douglas Delta (3)
+ Aug  9  D228      Delta 7925       CC LC17B     Stage 1 SRM failure
+ Nov  4  D229      Delta 7920-10    V SLC2W  
+ Dec 30  D230      Delta 7920-10    CC LC17A
+
+Yuzhnoe Tsiklon (3)
+ Jun  8            Tsiklon-2        KB LC90
+ Aug 31            Tsiklon-3        PL LC32
+ Dec 20            Tsiklon-2        KB LC90
+
+China Great Wall `Chang Zheng' (Long March) (3)
+
+ Jan 25            CZ-2E/Star 63    XSC        Stage 1 failure 
+ Nov 28            CZ-2E/EPKM       XSC
+ Dec 28            CZ-2E/EPKM       XSC
+
+OSC Pegasus (2)
+ Apr  3  1 F7      L-1011/Pegasus    V PAWA
+ Jun 22  XL F2     L-1011/Pegasus XL V PAWA    Stage 3 failure
+
+EER Conestoga: (1)
+ Oct 23  No. 1     Conestoga 1620    WI LA0    Stage 1 failure
+ 
+NII-TT Start (1)
+ Mar 28            Start            PL LC158
+
+Lockheed Martin LMLV (1)
+ Aug 15  LMLV-1    LMLV-1           V SLC6       Stage 1 failure
+
+Yuzhnoe Zenit-2 (1)
+ Oct 31            Zenit-2          KB LC45L
+
+Nissan Mu (1)
+ Jan 15  M-3S-2-8  Mu-3S-II         KAG        Stage 2 failure
+
+NASDA H-II (1)
+ Mar 18  H-II-3    H-II             TNSC 
+
+IAI Shaviyt (1)
+ Apr  5  No. 3     Shaviyt           Palamchim
+

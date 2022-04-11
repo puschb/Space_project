@@ -1,0 +1,223 @@
+Jonathan's Space Report
+No. 397                                        1999 May 6  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Human spaceflight
+-------------------
+
+Commander Viktor Afanas'ev, flight engineer Sergey Avdeev and flight
+engineer-2 Jean-Pierre Haignere remain on board the Mir complex. (For
+some reason I forgot to include Avdeev last week). The Soyuz TM-29
+transport craft and the Progress M-41 cargo ship are docked to the
+complex.
+
+Launch of STS-96 is still due May 20. Launch of STS-93 is no
+earlier than Jul 22.
+
+Recent Launches
+---------------
+
+Four failures in a row: Ikonos/Athena, ABRIXAS, Titan/Milstar, Delta/Orion.
+
+* Milstar
+
+Another Titan 4 failure occurred on Apr 30: Milstar 2 F-1 went into the
+wrong orbit. It appears the Centaur upper stage may have malfunctioned,
+carrying out its three burns at the wrong time.
+
+The third Milstar satellite was launched on Apr 30 from Cape Canaveral.
+Launch vehicle was a Lockheed Martin Astronautics (Denver) Titan 4B,
+serial B-32. The Alliant SRMU solid motors ignited at 1630 UTC to begin
+the launch, and fell away two minutes later with the first stage of the
+Titan 4 core vehicle (serial K-36) igniting. At 9 minutes into the
+flight the second stage of the core vehicle fell away and the first burn
+of the upper stage began. The upper stage on this mission is Centaur
+TC-14.  Three burns of TC-14 were planned to place Milstar successively
+in a 170 x 190 km parking orbit, a geostationary transfer orbit, and
+finally geosynchronous orbit. Instead, at 1900 UTC, several hours before
+the scheduled third burn, Milstar separated from TC-14 in a 740 x 5000
+km orbit, probably inclined at about 28 degrees. It seems that TC-14
+made three burns, but all during the first orbit instead of over a 6
+hour period, possibly due to software problems of some kind. The two
+Pratt and Whitney RL-10A-3-3A LOX/LH2 engines have a
+thrust of about 73 kN. The RL-10 was developed for the Saturn I and
+Atlas Centaur in the 1960s, and was used on the DC-X test vehicle. The
+Delta III uses an RL10B-2 version.
+
+Milstar-2 F1 is the first upgraded Milstar (Military Strategic and
+Tactical Relay System) comsat. The two Milstar-1 satellites already
+launched carried the LDR (Low Data Rate) payload which is inadequate for
+modern needs; Milstar-2 carries an extra MDR (Medium Data Rate) payload
+with a higher throughput. The payload includes EHF (44 GHz), SHF (20
+GHz) and UHF communications transponders and satellite-to-satellite
+crosslinks, with narrow beams to avoid jamming.  Milstar is built by
+Lockheed Martin/Sunnyvale and managed by the Milstar JPO at USAF Los
+Angeles AFB.
+
+ Centaur (Titan 4 model) flight history:
+  TC-12 1994 Feb  7 Milstar-1 F1       Success
+  TC-10 1994 May  3 NRO                Success
+  TC-11 1994 Aug 27 NRO                Success
+  TC-17 1995 May 14 NRO                Success
+  TC-8  1995 Jul 10 NRO                Success
+  TC-13 1995 Nov  6 Milstar-1 F2       Success
+  TC-15 1996 Apr 24 NRO                Success
+  TC-21 1997 Oct 15 Cassini/Huygens    Success
+  TC-16 1997 Nov  8 NRO                Success
+  TC-18 1998 May  9 NRO                Success
+  TC-9  1998 Aug 12 NRO                No Test
+  TC-14 1999 Apr 30 Milstar-2 F1 (*)   Failure
+
+Note: TC-1 to TC-7 were a different Centaur model,  the Centaur D-1T.
+The Titan 4/Centaur doesn't seem to have a model designation, but is
+derived from the Centaur G-Prime design. TC-9 was destroyed during
+launch, prior to separation from the core vehicle. It's not clear if any
+of these Centaurs are the ones refurbished from the Shuttle/Centaur
+program. A Centaur G' was prepared for flight in early 1986 on the
+Shuttle, but launch was cancelled after the loss of OV-099 Challenger.
+
+* Orion 3/Delta 3
+
+Continuing the rash of upper stage failures, the second launch of Delta
+3 also ran into trouble on May 5. The Delta second stage failed to
+operate properly on its second burn. The engine ignited briefly, a spike
+in pump pressure was recorded and the burn cutoff after only 1 second.
+The Orion 3 payload ended up in the parking orbit of 162 x 1378 km x
+29.5 deg, very close to the planned post SECO-1 (first burn) orbit. A
+piece of debris is being tracked in a 171 x 1038 km x 29.4 deg orbit.
+The Delta 3 uses an Pratt and Whitney  RL-10B-2 LH2/LOX engine in a stage
+of a new design. The first Delta 3 launch failed shortly after
+takeoff last year; at least this flight verified the basic operation
+of the rocket.
+
+Orion 3 is a Hughes HS-601HP satellite designed to serve the Asia-Pacific
+region for Loral Orion. The satellite is owned by Hughes Space and Comms
+International pending on-orbit delivery. It has 33 Ku-band and 10 C-band
+transponders. 
+
+* ABRIXAS
+
+Sadly, the ABRIXAS satellite's battery has failed and contact with it
+was lost on May 1. There is some hope that a period of solar
+illumination next month will allow contact to be regained.
+
+* DSP-19/IUS-21
+
+The USAF reports that the two stages of IUS-21 failed to separate
+correctly: at least one connector remained attached after the attempted
+separation. The SRM-2 nozzle did not extend properly, possibly because
+SRM-1 hit the nozzle during the incomplete separation. SRM-2 did fire,
+but the vehicle tumbled during the burn. USAF have still not announced
+the final orbit achieved.
+
+* S5M 
+
+25 new objects, 1989-100AR to 1989-100BR,  have been cataloged as
+associated with the disintegration of the S5M upper stage of the
+Tsiklon-3 launch vehicle used to  put Kosmos-2053 in orbit. Kosmos-2053
+was launched by a Tsiklon-3 from Plesetsk  in 1989 and is believed to be
+a modernized version of the Romb satellite, built by NPO Yuzhnoe. The
+satellites carry an array of small ESO (Calibration Spherical Object)
+subsatellites which are released over a period of time to test Russian
+radars. 36 such objects (the full normal complement) were released
+between 1989 Dec 27 and 1991 Nov 1, getting designations 1989-100C to
+1989-100AQ (note that 1989-100W was the same object as 1989-100Y).
+Kosmos-2053 reentered in 1997; the S5M is in a 471 x 485 km x 73.5 deg
+orbit.
+
+
+* Jinx at Space Launch Complex 6
+
+It has been pointed out to me that Vandenberg's Space Launch Complex 6,
+which was built on an old Native American burial ground, has never had
+a success after many billions of dollars spent on the launch complex. 
+ 1960s: Built for USAF/NRO Manned Orbiting Laboratory, program cancelled
+        before first launch.
+ 1980s: Refurbished for West Coast Shuttle launches, abandoned before
+        first launch.
+ 1995:  First Athena launch, failed
+ 1997:  Athena launched Lewis satellite; satellite failed after
+        orbit insertion
+ 1999:  Third Athena launch from SLC-6, failed again.
+
+Joe Fanning tells me local legend has it that the tribe held a special
+ceremony to curse the pad when it was first built. Coincidence? :-) 
+
+Meanwhile, the status of US expendable launch vehicles is:
+- Titan 4: three failures in three missions for different reasons:
+    A-20/TC-9   - bad wiring in Lockheed Martin/Denver K-17 core stage
+    B-27/IUS-21 - Boeing/Seattle IUS-21 bad separation of SRM-1 from SRM-2
+    B-32/TC-14  - possible software problem in LM/Denver Centaur TC-14 stage
+- Athena:
+    LM-005: -  Dumped payload in ocean when fairing didn't separate
+- Pegasus:
+    M-22: - Minor (?) yaw anomaly on recent flight delayed next attempt
+- Delta III: 
+    D-268: - Boeing/Pueblo second stage, 
+             problem on Pratt and Whitney RL-10B-2 engine
+- Delta II:   Delta II in good shape?
+- Atlas II:   In good shape except that upper stage uses RL-10 engine.
+
+The Atlas II and the Delta II are the mainstay of commercial satellite
+launches and the direct rivals to Ariane, so things are not quite as
+bad as they might seem. However, if US companies can't launch the
+existing vehicles safely, they will have to do some convincing to sell
+flights on the upcoming replacements, Atlas V and Delta IV.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  5 0256   WIRE              Pegasus XL     Vandenberg       Astronomy  11A
+Mar 15 0306   Globalstar M022 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     12A
+              Globalstar M041 )                                 Comsat     12B
+              Globalstar M046 )                                 Comsat     12C
+              Globalstar M037 )                                 Comsat     12D
+Mar 21 0009   Asiasat 3S        Proton-K/DM3   Baykonur LC81L   Comsat     13A
+Mar 28 0130   DemoSat           Zenit-3SL      Odyssey, POR     Test       14A
+Apr  2 1128   Progress M-41     Soyuz-U        Baykonur LC1     Cargo      15A
+Apr  2 2203   Insat 2E          Ariane 42P     Kourou ELA2      Comsat     16A
+Apr  9 1701   DSP F19           Titan 4/IUS    Canaveral LC41   Early Warn 17A
+Apr 12 2250   Eutelsat W3       Atlas 2AS      Canaveral LC36A  Comsat     18A
+Apr 15 0046   Globalstar M019 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     19A
+              Globalstar M042 )                                            19B
+              Globalstar M044 )                                            19C
+              Globalstar M045 )                                            19D
+Apr 15 1832   Landsat 7         Delta 7920-10  Vandenberg SLC2W Imaging    20A
+Apr 16 1030?  Sputnik-99        -              Mir, LEO         Comsat     15C
+Apr 21 0459   UoSAT-12          Dnepr          Baykonur LC109   Test       21B
+Apr 27 1822   Ikonos 1          Athena 2       Vandenberg SLC6  Imaging    F01
+Apr 28 2030   ABRIXAS  )        Kosmos-3M      Kap. Yar LC107?  Astronomy  22A
+              Megsat-0 )                                        Technol.   22B
+Apr 30 1630   Milstar-2 F1      Titan 4/Cen    Canaveral LC40   Comsat     23A
+May  5 0100   Orion 3           Delta 8930     Canaveral LC17B  Comsat     24A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 1     STS-93  Unknown
+OV-103 Discovery       LC39B         STS-96  May 20
+OV-104 Atlantis        OPF Bay 3     STS-101 Oct 14?
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/RSRM-70/ET-100/OV-103     LC39B     STS-96
+MLP3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

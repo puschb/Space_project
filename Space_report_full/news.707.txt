@@ -1,0 +1,339 @@
+Jonathan's Space Report 
+No. 707                                                     2014 Dec 31     Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 42 continues with commander Barry Wilmore, FE-1 Aleksandr
+Samokutyaev, FE-2 Elena Serova, FE-3 Anton Shkaplerov, FE-4 Samantha
+Cristoforetti, and FE-5 Terry Virts. Soyuz TMA-14M is docked at Poisk;
+Soyuz TMA-15M is docked at Rassvet; Progress M-25M is docked at Pirs;
+ATV-5 Georges Lemaitre is docked at Zvezda. Dragon CRS-5 (SC7) is being
+prepared for launch at Cape Canaveral.
+
+Venus Express and Venus Climate Orbiter
+---------------------------------------
+
+The European Space Agency's Venus Express probe has concluded its
+mission. The probe was launched on 2005 Nov 9 and entered Venus orbit on
+2006 Apr 11. On Nov 28 the probe, in a 328 x 63095 km x 89.9 deg polar
+elliptical orbit around the planet, ran out of propellant and lost
+attitude control, resulting in loss of contact with Earth (some
+fragments of telemetry were intermittently received afterwards). With no
+further orbit raising burns, the probe's pericenter height will drop and
+the probe will burn up in the Venusian atmosphere early in 2015.
+
+Meanwhile, the ISAS team at Japan's JAXA space agency has high hopes for
+its delayed Venus mission in 2015. The Akatsuki spacecraft (Venus
+Climate Orbiter, Planet-C) was launched on 2010 May 20 into a 0.72 x
+1.07 AU x 2.0 deg heliocentric orbit which took it to a Venus encounter
+on 2010 Dec 6. However the probe's main bipropellant engine failed to
+complete the orbit insertion burn, and Akatsuki flew on past Venus.
+During 2011 Oct the engine's oxidizer supply was dumped to reduce mass,
+and the smaller monopropellant hydrazine reaction control thrusters were
+used to tweak the probe's post-flyby solar orbit to set up a late 2015
+re-encounter with Venus. The probe is now in a 0.611 x 0.722 AU x 3.5
+deg orbit around the Sun compared to Venus' 0.72 x 0.73 AU x 3.4 deg
+(the inclination is reported relative to the ecliptic plane of the
+Earth's orbit). It is therefore the innermost of any of humanity's
+currently active artificial planets; only the Messenger probe in orbit
+around Mercury is closer to the Sun. Mariner 10 and Helios 1 and 2, in
+the 1970s, also ventured into sub-Cytherean space. Akatsuki will reach
+perhelion on Feb 11 and again on Aug 28 before beginning the approach to
+Venus. The ISAS team have not yet finalized the new orbit insertion plan
+- trying to slow down enough to be captured by Venus while using only
+the RCS thrusters will be an impressive trick, and I wish them the best
+of luck in trying to pull it off. Akatsuki's unexpected stay in
+solar orbit has let it focus on non-Venusian science for the time being -
+scientists have used its radio signals to Earth to probe
+the solar wind, revealing acoustic waves in the outer solar corona up
+to 20 solar radii (Miyamoto et al. 2014, Astrophysical J. 797, 51).
+
+Note: thanks to C. Hirose of JAXA/ISAS for Akatsuki orbital data.
+
+Yaogan 25
+---------
+
+China launched the Yaogan 25 mission from Jiuquan on Dec 10. YG-25
+consists of a main satellite and two subsatellites in an 1100 km, 63 deg
+orbit, and is the fifth such mission.
+
+      Mission               Main Satellite   Launch date    Current orbit
+      ---------                                            peri  apo   inc   RA of node
+
+      Yaogan Triplet 1      Yaogan 9         2010 Mar  5   967 x 1212 x 63.4  33.7
+      Yaogan Triplet 2      Yaogan 16        2012 Nov 25  1039 x 1140 x 63.4 319.8
+      Yaogan Triplet 3      Yaogan 17        2013 Sep  1  1053 x 1127 x 63.4 105.5
+      Yaogan Triplet 4      Yaogan 20        2014 Aug  9  1079 x 1100 x 63.4  33.9
+      Yaogan Triplet 5      Yaogan 25        2014 Dec 10  1089 x 1097 x 63.4 320.2
+
+NROL-35
+-------
+
+On Dec 13 a United Launch Alliance Atlas V was sent into highly
+elliptical orbit with an inclination of 63 deg. The payload is probably
+a signals intelligence satellite with an attached SBIRS-HEO early
+warning sensor as a secondary payload. The early stages of the launch
+were observed by many people in the Los Angeles area; the Centaur
+venting was seen from the UK and Ireland at about 0530 UTC. This mission
+used the new RL-10C-1 upper stage engine for the first time (refurbished
+from Delta IV RL-10B-2 engines replacing the RL10A-4 used previously); a
+three-burn Centaur profile appears to have been used, with spacecraft
+separation about 0520 UTC into a 2101 x 37748 km x 62.9 deg orbit
+(according to observations of the payload by hobbyists). The Centaur is
+thought to have been deorbited at 0507 UTC with reentry around 1330 UTC,
+and was not cataloged; Cees Bassa's analysis of observations suggest the
+post burn orbit was -140 x 36615 km x 63.9 deg.
+
+Yamal 401
+---------
+
+Yamal 401, a communications satellite for the Russian corporation Gazprom Space Systems,
+was launched into geostationary orbit by a Proton on Dec 16. The Briz stage
+reached -449 x 170 km x 51 deg at 0025 UTC, 171 x 173 km x 51.5 deg at 0031 UTC,
+264 x 4996 km x 50.0 deg at 0141 UTC, and 383 x 35654 km x 47.7 deg at 0402 UTC.
+The Briz DTB drop-tank was jettisoned at 0404 UTC and the Briz/Yamal coasted to
+apogee, with a final burn at 0903 to 0916 UTC delivering Yamal to a 1421 minute GEO
+drift orbit. The DTB is being tracked in a 402 x 35534 km x 47.6 deg orbit as 40345.
+
+
+O3b Flight 3
+------------
+
+Another quartet of O3b satellites for broadband internet distribution
+was launched on Dec 18. Each satellite carries an array of 12 Ka-band
+spot beam dishes and provides capacity for internet providers in the
+developing world. The Soyuz ST-B (Arianespace version of the Soyuz-2-1b)
+took off from the Centre Spatial Guyanais and placed the Fregat S/N
+133-01 upper stage in a -1167 x 192 km x 5.3 deg suborbit at 1936 UTC
+Dec 18. Fregat's first burn, from 1937 to 1941 UTC, reached a 153 x 227
+km x 5.2 deg parking orbit. A second, long, burn from 1949 to 1958 UTC
+put the stack in a 242 x 7875 km x 3.2 deg transfer orbit. After the
+stack coasted to apogee, burn 3 at 2119 to 2124 UTC circularized the
+orbit and reduced inclination to 7820 x 7840 km x 0.04 deg. O3b
+spacecraft FM10 and FM11 were ejected at 2128 UTC; a small further burn
+at 2143 UTC adjusted the Fregat orbit and spacecraft FM9 and FM12 were
+ejected at 2149 UTC. Further Fregat burns lowered the empty stage to a
+7698 x 7836 km x 0.06 deg orbit.
+
+
+Kondor-E
+--------
+
+The second Kondor radar imaging satellite built by NPO Mashinostroenie
+(Moscow/Reutov)  was launched into a 498 x 501 km x 74.7 deg orbit on
+Dec 19 aboard a Strela launch vehicle, which is a refurbished UR-100NU
+ballistic missile launched from a silo. This satellite, Kondor-E No. 2,
+is the export version of the spacecraft and has reportedly been sold to
+an unnamed foreign customer, reportedly the Defense Intelligence
+organization of the South African National Defense Force. The South
+African government refuses to confirm or deny this, raising the question
+of who will register this satellite with the UN.  The balance of
+currently available evidence seems to be that South Africa is the
+actual, if secret, legal owner of the satellite. It is possible that for
+international regulatory purposes the satellite will be given the
+Kosmos-2502 code name and will be registered by Russia. In my own
+satellite catalogs, however, I now have separate fields for 'UN state of
+registry' and 'actual owner state' and propose to count this as a South
+African satellite for statistical purposes pending further evidence one
+way or the other.
+
+Angara-A5
+---------
+
+The Khrunichev Angara-A5's first stage consists of four strapon URM-1 rockets, 
+powered by RD-191 engines, clustered around the second stage, another
+URM-1 acting as the vehicle core. After launch at 0557:25 UTC Dec 23 the
+strapon URM-1 boosters separated at 0600:55 UTC at an altitude of 82 km;
+the core URM-1 shut down and separated at 0602:55 UTC at an altitude of
+148 km, reentering downrange near Tomsk. The nose fairing was jettisoned
+10 seconds later. The third stage is a URM-2, powered by the RD-0124A
+engine; it reached a marginally suborbital trajectory and, after
+separating from the upper composite section, reentered in the Philippine
+Sea at a range of 2320 km from the launch site. Meanwhile, the fourth
+stage, a standard Briz-M  (S/N 88801) propelled the stack into a 250 km,
+63 deg parking orbit with a burn starting at 0611 UTC. After coasting to
+the equator, two perigee burns at 0703 and 0926 UTC boosted the apogee
+to 5000 km and 35800 km respectively, reducing inclination to 60.6 deg.
+The Briz-M's additional propellant tank (DTB), now empty, was jettisoned
+into a 433 x 35808 km x 60.6 deg orbit and cataloged as 40355.  The
+payload on this flight was a dummy satellite called the IPM (acronym
+unknown, but probably meaning something  like Test Payload Model). The
+stack coasted to apogee and at 1444 UTC began the 4th burn to enter
+circular geosynchronous orbit. At 1457 UTC the Briz sent a simulated
+separation command, but the payload  remained attached to the stage as
+intended. After a few more hours, two burns of the Briz stage's SOZ
+auxiliary engines moved the stack to a graveyard orbit a few hundred km
+above GEO. This was the first GEO mission ever launched from Plesetsk.
+
+Note: As of Dec 31, neither for the Angara payload nor for the Yamal-401
+satellite were any US TLE tracking data available; only the
+transfer-orbit DTB tanks from these missions had public orbital data.
+
+Lotos-S
+--------
+
+Russia launched a military satellite on Dec 25 with a Soyuz-2-1b from
+Plesetsk. The satellite entered a 240 x 899 km x  67.1 deg orbit. 
+Unusually, Russian press reports and official announcements did not give
+any name for the satellite, not even a Kosmos codename. I think this is
+the first time this has happened since the launch of a Soviet satellite on 
+1963 Jan 4 (there were also two secret Soviet launches in 1966 that were
+not acknowledged at all).
+
+The satellite is believed to be the second Lotos-S signals intelligence
+satellite, Lotos-S No. 802. The Lotos-S satellites have a payload
+similar to the old Tselina-2, but using a Yantar-type spacecraft bus
+from TsSKB-Progress instead of the Tselina-2's Okean class bus from the
+Ukranian Yuzhnoe organization. The spacecraft circularized its orbit to
+899 x 909km on Dec 26, joining Lotos-S No. 801 which is in a 903 x 907 
+km x 67 deg orbit.
+
+
+Resurs-P No. 2
+---------------
+
+On Dec 26 Russia launched another Soyuz-2-1b, this time from Baykonur,
+carrying the 6392 kg Resurs-P 47KS No. 2 civil imaging spacecraft. The
+main payload is the Geoton-L1 imager with 0.5m aperture and 38 km swath,
+1.0 m panchromatic and 3 to 4m color resolution. Geoton-L1 has 7
+passbands and a 216-channel hyperspectral imager. The KShMSA wide field
+multispectral camera is also part of the Resurs-P primary payload; an
+AIS ship tracking receiver from OAO RKS and Lomonosov Federal State
+Univ.'s Nuklon cosmic ray detector are secondary payloads. Nuklon
+detects cosmic ray nuclei with atomic number 1 to 30 in the 1 to 1000
+TeV energy range. Resurs-P went into a 190 x 428 km initial orbit
+that was raised to its operational height of 330 x 471 km on Dec 29.
+
+Yaogan 26
+----------
+
+China launched Yaogan 26 on Dec 27 into a 485 x 491 km x 97.4 deg, 1030
+LT sun-synchronous orbit. The profile is similar to the Yaogan 5 series
+of imaging satellites, but the rocket used a larger nose fairing, so
+this is likely an upgrade.
+
+Astra 2G
+---------
+
+The final Proton launch of the year put the Astra 2G communications satellite in geotransfer orbit
+on behalf of SES of Luxembourg. Astra 2G is a 6002 kg Eurostar 3000 satellite built by Airbus/Toulouse
+and carries Ku and Ka-band telecom payloads for European and W African service.
+
+Fengyun 2-08
+------------
+
+New Year's Eve began with the launch of the 8th FY-2 weather satellite for China's National Satellite
+Monitoring Centre. The satellite will be placed in GEO using a solid apogee motor which will then
+be ejected.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Dec  3 0422   Hayabusa-2    )    H-IIA 202         Tanegashima Y1    Space probe    76A    S40319    245 x -50912 x  29.9
+              Shin'en-2     )                                        Comms tech     76B    S40320    245 x -50912 x  29.9
+              DESPATCH      )                                        Art satellite  76C    S40321    245 x -50912 x  29.9
+              PROCYON       )                                        Space probe    76D    S40322    245 x -50912 x  29.9
+              MASCOT        )                                                        76    A08308   Attached to S40319
+              Minerva II-1a )                                                        76    A08305   Attached to S40319
+              Minerva II-1b )                                                        76    A08306   Attached to S40319
+              Minerva II-2  )                                                        76    A08307   Attached to S40319
+              SCI           )                                                        76    A08309   Attached to S40319
+              DCAM-3        )                                                        76    A08310   Attached to S40319
+              Target Marker 1)                                                       76    A08311   Attached to S40319
+              Target Marker 2)                                                       76    A08312   Attached to S40319
+              Target Marker 3)                                                       76    A08313   Attached to S40319
+              Target Marker 4)                                                       76    A08314   Attached to S40319
+              Target Marker 5)                                                       76    A08315   Attached to S40319
+Dec  5 1205   Orion EFT-1        Delta 4H           Canaveral SLC37B Spaceship test  77A   S40329    -37 x   5809 x  28.8 
+Dec  6 2040   DirecTV-14 )       Ariane 5ECA        Kourou ELA3      Comms           78B   S40333   6443 x  35792 x   3.1 
+              GSAT-16    )                                           Comms           78A   S40332  15998 x  35774 x   1.1 
+Dec  7 0326   CBERS 4            Chang Zheng 4B     Taiyuan LC9      Imaging         79A   S40336    742 x    751 x  98.5 1030LT SSO
+Dec 10 1933   Yaogan 25          ) Chang Zheng 4C   Jiuquan          Sigint          80A   S40338   1089 x   1097 x  63.4
+              Yaogan 25 fu xing 1)                                   Sigint          80B   S40339   1091 x   1097 x  63.4
+              Yaogan 25 fu xing 2)                                   Sigint          80C   S40340   1090 x   1098 x  63.4
+Dec 13 0319   USA 259            Atlas V 541        Vandenberg SLC3E Sigint          81A   S40344   2101 x  37748 x  62.9
+Dec 15 0016   Yamal 401          Proton-M/Briz-M    Baykonur LC81/24 Comms           82     GEO drift, no current data
+Dec 18 1837   O3b FM9  )         Soyuz ST-B         CSG ELS          Comms           83D   S40348   7835 x   7844 x   0.0
+              O3b FM10 )                                             Comms           83A   S40349   7832 x   7837 x   0.0
+              O3b FM11 )                                             Comms           83B   S40350   7816 x   7839 x   0.0
+              O3b FM12 )                                             Comms           83C   S40351   7826 x   7836 x   0.0
+Dec 19 0443   Kondor-E No. 2     Strela             Baykonur LC175   Radar Imager    84A   S40353    498 x    501 x  74.7
+Dec 23 0557   IPM                Angara A5          Plesetsk LC35/1  Vehicle test    85      GEO graveyard, no data yet
+Dec 25 0301   Lotos-S No. 802    Soyuz-2-1B         Plesetsk LC43/4  Sigint          86A   S40358    900 x    910 x  67.1
+Dec 26 1855   Resurs-P No. 2     Soyuz-2-1B         Baykonur LC31/6  Imaging         87A   S40360    330 x    471 x  97.3 1150LT
+Dec 27 0322   Yaogan 26          Chang Zheng 4B     Taiyuan LC9      Imaging         88A   S40362    485 x    491 x  97.4 1030LT
+Dec 27 2137   Astra 2G           Proton             Baykonur LC200/39 Comms          89A   S40364   8281 x  37530 x  14.2
+Dec 31 0102   Fengyun 2-08       Chang Zheng 3A     Xichang LC2       Weather        90A   S40367    326 x  37202 x  24.6
+
+Launch summary for 2014
+-----------------------
+
+The 92 orbital launch attempts in 2014 (including Proton and Antares launch failures):
+
+ Russia  36   (8 Proton, 2 Dnepr, 22 Soyuz, 2 Rokot, 1 Strela, 1 Angara )
+ USA:    24   (9 Atlas 5, 1 Delta 2, 4 Delta 4, 6 Falcon 9, 3 Antares, 1 Zenit-3SL)
+ China:  16   (1 Kuaizhou, 9 SBA CZ-2D/4B/4C, 6 CALT CZ-2C/3A/3C)
+ Europe:  7   (6 Ariane 5, 1 Vega)
+ Japan    4   (4 H2A)
+ India    4   (3 PSLV, 1 GSLV)
+ Israel   1   (1 Shaviyt)
+
+Note that Sea Launch is counted as US even though the rocket stages are
+from Ukraine and Russia. The 22 launches this year of Soyuz is the most
+since 1993 for that vehicle. However it is far from a record - from 1975
+to 1985 there were an average of 59 Soyuz launches per year.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+NASA 52.001UE on Nov 24 was C-REX, the Cusp Region Experiment from the
+University of Alaska, which released 24 subpayloads containing chemical
+Ba and Sr releases to trace the magnetic field. This was the first
+flight of the Black Brant XIIA, which uses a Talos-Terrier Mk 70-Black
+Brant Mk 1-Nihka combination. The Terrier second stage motor replaces
+the Taurus (Honest John) motor used in the older Black Brant XII.
+
+NASA 36.295US on Dec 11 was the second flight of UC Berkeley's FOXSI hard X-ray solar telescope.
+
+On Dec 17 ISRO flew the first GSLV-III rocket on a suborbital test
+flight from the Satish Dhawan Space Centre on Sriharikota Island. The
+S200 solid boosters and L110 core stage, with two Vikas engines,
+propelled an inert second stage to 126 km and 5.3 km/s. Second stage
+separation and payload separation were also tested; the payload was the
+Crew Module Atmospheric Reentry Experiment, a prototype command module
+for an Indian spaceship with a mass of 3735 kg which splashed down in
+the Bay of Bengal. Orbit was around -4418 x 126 km x 32.7 deg.
+
+Israel launched a target missile over the Mediterranean on Dec 16; it's not
+clear which of the Blue/Black/Sliver Sparrow family was used. Launch of the
+Arrow 3 missile meant to intercept it was scrubbed.
+
+
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Nov 24 0805   NASA 52.001UE    Black Brant XIIA    Andoya           Magnetosphere 486
+Dec  2 0449   Agni RV          Agni 4              Wheeler I.       Test          300?
+Dec 11 1911   NASA 36.295US    Black Brant IX      White Sands      Solar X-ray   338
+Dec 13        RVs ?            DF-41?              Taiyuan          Test         1000?
+Dec 16        Target           Blue Sparrow??    F-15, Med. Sea     ABM Target    100?
+Dec 18 0400   CARE/LVM3-X      GSLV-3              Srikarikota SLP  Test flight   126 
+Dec 26 0802   RV x 4?          Yars                Plesetsk         Test         1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

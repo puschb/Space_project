@@ -1,0 +1,173 @@
+Jonathan's Space Report
+No. 372                                     1998 Sep 13 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Gennadiy Padalka and Sergey Avdeev have completed one month in space,
+continuing their mission on the Mir orbital station. They are scheduled
+to make an internal spacewalk into the depressurized Spektr module on
+Sep 15 to repair a solar panel steering motor.
+
+Orbiter OV-103 Discovery will be  rolled to the Vehicle Assembly
+Building's High Bay 1 on Sep 14 and connected to external tank ET-98 and
+solid rocket booster pair RSRM-68, which have been assembled on Mobile
+Launch Platform 2. Rollout of the assembled Space Shuttle vehicle to pad
+39B is scheduled for Sep 21. Discovery will fly mission STS-95,
+with the Spartan solar observatory and the Spacehab research module.
+
+Meanwhile, launch of the first Space Station element, the Zarya FGB
+module, is still scheduled for November, although Keith Cowing's NASA
+Watch web site, http://www.reston.com/nasa/watch.html, rumours that a
+further major launch delay is being considered. Apparently the Service
+Module delivery date may slip to around July 1999, and RKA does not have
+the funds to build enough Soyuz and Progress supply ships. No up to date
+information is available from official sources, and since both US and
+Russian administrations have other priorities right now, any decision is
+unlikely until at least October.
+
+
+John Holliman
+-------------
+
+John Holliman, CNN's space correspondent, was killed in a car accident
+on Sep 12.
+
+Recent Launches
+---------------
+
+
+* Kwangmyongsong 1: the mystery continues
+
+The mystery of the North Korean launch continues. It now seems unlikely
+that the satellite reached orbit. A Russian press report said that
+Russian sources confirmed the satellite, but just repeated the North
+Korean figures, so cannot be considered as an independent source.
+Comments from US sources imply that a third stage burn was observed, but
+that nothing was later spotted on radar, suggesting that the satellite
+ended up falling into the Pacific instead of reaching orbit. I am
+cataloging it as a failed orbital launch attempt for now.
+
+The KCNA (North Korean news agency) informs me that the name of the
+satellite is "Kwangmyongsong No 1", meaning "Bright Light Star". They
+also confirm that there was a typo in the initial press release - the
+impact site of the first stage was at 132deg 40'E, a much more
+reasonable value, although still a few hundred km from the figure quoted
+in Aviation Week as coming from the Japanese. A Korean colleague informs
+me that Nodong (the previous N Korean missile) means 'Labour', as in
+'Korean Labour Party'. and Taepo means `cannon'.
+
+*Zenit fails again
+
+The Zenit launch vehicle, built by Yuzhnoe of Dnepropetrovsk, Ukraine,
+continued its mixed record with a failure in its first major commercial
+launch.  Counting the North Korean launch, this makes four launch
+failures in a single month - not a good time for the space launch
+industry.
+
+Twelve Globalstar communications satellites were lost when the Zenit
+guidance system malfunctioned 4.5 minutes after launch and the second
+stage and payloads impacted Siberia. The twelve satellites were stacked
+in three tiers of four each inside the Zenit fairing. The second stage
+engines shut down and the second stage and payloads impacted somewhere
+in Siberia. The failure happened at T+272s, just before fairing
+separation, and caused the stage 2 main engines to shut down.  In an
+incredibly stupid move, the Yuzhnoe launch commentator was reading from
+a prepared script instead of actually delivering live information,
+initially leading Globalstar officials to believe the launch had
+succeeded.
+
+The Globalstar comsats are built by Alenia (Torino) and SS/Loral (Palo
+Alto) for Globalstar Corp. Eight Globalstars are already in orbit.
+Future Zenit launches for Globalstar are to be cancelled,  with Soyuz-U/Ikar
+and Delta 7420 taking up the slack. Total constellation size will now be
+44 satellites (36 prime plus eight spares). 
+
+Here is a summary of the Globalstar satellites so far:
+ Sat   Launched      Sat   Launched      Sat   Launched      Sat   Launched     
+  FM1  1998 Feb 14   FM6   1998 Apr 24   FM11  1998 Sep  9  FM16  1998 Sep  9
+  FM2  1998 Feb 14   FM7   1998 Sep  9   FM12  1998 Sep  9  FM17  1998 Sep  9
+  FM3  1998 Feb 14   FM8   1998 Apr 24   FM13  1998 Sep  9  FM18  1998 Sep  9
+  FM4  1998 Feb 14   FM9   1998 Sep  9   FM14  1998 Apr 24  FM19  Not launched
+  FM5  1998 Sep  9   FM10  1998 Sep  9   FM15  1998 Apr 24  FM20  1998 Sep  9
+                                                            FM21  1998 Sep  9
+
+* Iridium launch
+
+Boeing's Delta II made a successful flight on Sep 8, placing five
+Iridium communications satellites in parking orbit after launch from
+Vandenberg AFB. The problems with the new Delta III were determined not
+to affect the Delta II. This variant was a two-stage Delta 7920-10C, 
+which placed SV77,79-82 in a 520 km parking orbit. The Iridium
+satellites will use their own on-board propulsion to raise their orbits.
+
+
+Table of Recent Launches
+ ------------------------
+
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug  2 1624   Orbcomm FM13  )   Pegasus XL    Wallops           Comsat     46A
+              Orbcomm FM14  )                                   Comsat     46B
+              Orbcomm FM15  )                                   Comsat     46C
+              Orbcomm FM16  )                                   Comsat     46D
+              Orbcomm FM17  )                                   Comsat     46E
+              Orbcomm FM18  )                                   Comsat     46F
+              Orbcomm FM19  )                                   Comsat     46G
+              Orbcomm FM20  )                                   Comsat     46H
+Aug 12 1130   MERCURY           Titan 4A      Canaveral SLC41   Sigint     F02
+Aug 13 0943   Soyuz TM-28       Soyuz-U       Baykonur LC1      Spaceship  47A
+Aug 19 2301   Iridium SV03)     CZ-2C/SD      Taiyuan           Comsat     48A
+              Iridium SV76)                                     Comsat     48B
+Aug 25 2307   ST-1              Ariane 44P    Kourou            Comsat     49A
+Aug 27 0117   Galaxy X          Delta III     Canaveral SLC17B  Comsat     F03
+Aug 30 0031   Astra 2A          Proton        Baykonur          Comsat     50A
+Aug 31 0307   Kwangmyongsong 1  Taepo Dong    Musudan           Test       F04
+Sep  8 2113   Iridium SV77)     Delta 7920    Vandenberg SLC2   Comsat     51E
+              Iridium SV79)                                     Comsat     51D
+              Iridium SV80)                                     Comsat     51C
+              Iridium SV81)                                     Comsat     51B
+              Iridium SV82)                                     Comsat     51A
+Sep  9 2029   Globalstar FM5 )   Zenit-2      Baykonur          Comsat     F05
+              Globalstar FM7 )
+              Globalstar FM9 )
+              Globalstar FM10)
+              Globalstar FM11)
+              Globalstar FM12)
+              Globalstar FM13)
+              Globalstar FM16)
+              Globalstar FM17)
+              Globalstar FM18)
+              Globalstar FM20)
+              Globalstar FM21)
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Jan 21
+OV-103 Discovery       OPF Bay 2     STS-95  Oct 29
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Dec  3?
+
+MLP2/RSRM-68/ET-98         VAB Bay 1     STS-95
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

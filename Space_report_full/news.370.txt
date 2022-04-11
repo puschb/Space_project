@@ -1,0 +1,176 @@
+Jonathan's Space Report
+No. 370                                     1998 Aug 30 Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+Shuttle and Mir
+---------------
+
+Soyuz TM-27 undocked from Mir at 0205 UTC on Aug 25, with Talgat
+Musabaev, Nikolai Budarin and Yuriy Baturin aboard. They landed on Aug
+25 at 0523 UTC near Arkalyk in Kazakstan. Gennadiy Padalka and Sergey
+Avdeev remain on the Mir complex.
+
+Padalka and Avdeev boarded Soyuz TM-28 on Aug 27 and undocked 
+from the Kvant port on the Mir complex, redocking at 0607 UTC
+at the front (-X) port of the PKhO transfer module. This leaves
+the Kvant port free for redocking of the Progress M-39 cargo ship,
+which undocked earlier in the month to free up a parking space.
+
+Recent Launches
+---------------
+
+The first Delta III launch vehicle was lost 75 seconds into flight, 16
+km above Cape Canaveral, on Aug 27. Boeing Expendable Launch Systems
+(formerly McDonnell Douglas) builds the Delta III at Huntington Beach,
+California with final assembly in Pueblo, Colorado. The standard Delta
+II model is widely regarded as one of the world's most reliable launch
+vehicles. While I expect that the Delta team will recover from this
+failure and eventually bring the new rocket up to the same standard, the
+loss of the initial vehicle is certainly a major blow for Boeing and for
+the US space launch industry; although it represents less money than the
+recent Titan failure, it will probably have a wider impact. The Delta
+III consists of:
+
+ - Nine Alliant GEM-46 solid strapon motors, a scaled up version of the
+   GEM-40 motors used on the Delta II 7925. The graphite-epoxy case
+   motors use HTPB solid propellant. The motors are built in Alliant's
+   Bacchus, Utah factory; Alliant was formerly known as Hercules Powder
+   and built the upper stage for the first Delta back in 1960.
+   Three of the GEM-46 motors have thrust vector control (TVC), in which
+   movable nozzles are used to steer the rocket.
+
+ - The Delta III First Stage, similar to the Delta II first stage, but
+   with the fuel tank at the top reshaped to fit with the wider upper stage.
+   It uses the same LOX/kerosene RS-27A main engine as the Delta II.
+
+ - The Delta III Second Stage. This is an entirely new stage, and the
+   first entirely new high energy upper stage developed in the US since
+   the 1960s. It uses a Pratt and Whitney LOX/liquid hydrogen RL10B-2
+   engine with a long extensible nozzle built by SEP of France. The 
+   RL10B-2, with a world record specific impulse of over 462 seconds,
+   is a new version of the venerable RL10 engine used in the 
+   Lockheed Martin Astronautics Centaur, the other US high energy upper stage.
+   The liquid hydrogen tank for the Delta III second stage is build by
+   Mitsubishi of Japan, which also builds the liquid hydrogen stage of the
+   Japanese H-II rocket. The Delta III second stage is 4.0m in diameter,
+   much larger than the Delta II stage which still uses tankage derived
+   in part from the 1960-vintage Ablestar. However, the appearance of the 
+   new stage, with the narrower LOX tank held inside an interstage and 
+   the large nozzle assembly, is still reminiscent of the traditional 
+   Delta stage.
+
+ - The 4.0 meter fairing, much larger than the old 10-foot Delta II fairing.
+   Boeing also builds the large Titan IV fairings, so has lots of experience
+   in this field.
+
+Delta III has about twice the launch capacity of the Delta II. The
+launch profile involves igniting the RS-27A main engine and six of the
+GEM-46 solids at launch. At 80 seconds into flight the six solids 
+separate and the remaining three GEM-46 solids ignite.  Initially it
+appeared that the failure happened at exactly this time, raising the 
+possibility that Alliant's new GEM-46 graphite-epoxy case motors were
+implicated in the failure. However, latest info is that pitch and yaw
+control gave problems as early as 50 seconds into flight, the hydraulic
+fluid ran out on the three GEM-46 with TVC steering, the vehicle
+disintegrated around 72 seconds and its self-destruct signal fired.
+Range safety sent its own destruct signal at 75 seconds for good
+measure. The accident investigation now focusses on the rocket's
+guidance.
+
+The planned launch profile included a first burn of the second stage
+engine from T+4min to T+13 min, leaving Delta in a 157 x 1176 km parking
+orbit. After a 9 minute coast, the stage would burn again to enter a 185
+x 35719 km x 27.5 deg geostationary transfer orbit, separating from the
+Galaxy 10 satellite payload.
+
+Galaxy 10, the payload destroyed in this launch, was a Hughes HS-601HP
+satellite built by Hughes/El Segundo for Panamsat. The satellite carried
+24 C-band and 24 Ku-band transponders to provide US/Caribbean coverage,
+and was to have replaced the aging SBS-5 satellite at 123 deg West.
+Launch mass of Galaxy 10 was 3876 kg; I haven't been able to find its
+dry mass. Replenishing the Galaxy/PAS constellation is a high priority
+for Panamsat following the loss of Galaxy 4 and problems with Galaxy 7.
+Galaxy 11 is scheduled to go up on the first launch of another rocket,
+the Sea Launch Zenit-3SL, early next year, and there are several PAS
+satellites awaiting launch over the next year on Proton and Ariane.
+
+Arianespace is back in action, after several months downtime when their
+customers were late getting payloads ready. An Ariane 44P launched the
+Singapore-Taiwan-1 (ST-1) satellite on Aug 25. The Matra Marconi Space
+Eurostar 2000 class satellite will provide communications for Singapore
+Telecom and for Chunghwa Telecom of Taiwan. On Aug 29, ST-1 was in a
+24937 x 35735 km x 0.3 deg orbit, using its liquid apogee motor to
+approach geostationary orbit.
+
+Another International Launch Services commercial Proton, serial 383-01,
+took off from Baykonur on Aug 30. It placed the Astra 2A satellite in a
+220 x 36007 km x 51.6 deg transfer orbit with the first burn of its Blok
+DM3 upper  stage (a second burn is awaited at the time of writing). The
+Astra 2A satellite is another Hughes HS-601 comsat, and is owned by
+Societe Europeene de Satellites, based in Luxembourg. Luxembourg has not
+registered any of the Astra satellites with the United Nations, in
+violation of treaty requirements.
+
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  1 0048   Molniya-3         Molniya-M     Plesetsk          Comsat     40A
+Jul  3 1812   Nozomi            M-5           Kagoshima         Mars probe 41A
+Jul  7 0315   Tubsat-N   )      Shtil'-1      K-407,Barents     Comsat     42A
+              Tubsat-N1  )                                      Comsat     42B
+Jul 10 0630   Resurs-O1 No. 4 ) Zenit-2       Baykonur LC45     Rem. Sens. 43A
+              Fasat-Bravo      )                                Exptl.     43B
+              TMSAT            )                                Exptl.     43C
+              Gurwin Techsat 1B)                                Exptl.     43D
+              WESTPAC          )                                Geodesy    43E
+              SAFIR-2          )                                Comsat     43F
+Jul 18 0920   Sinosat           CZ-3B         Xichang LC2       Comsat     44A
+Jul 28 0915   Kosmos-2360       Zenit-2       Baykonur LC45     Sigint     45A
+Aug  2 1624   Orbcomm FM13  )   Pegasus XL    Wallops           Comsat     46A
+              Orbcomm FM14  )                                   Comsat     46B
+              Orbcomm FM15  )                                   Comsat     46C
+              Orbcomm FM16  )                                   Comsat     46D
+              Orbcomm FM17  )                                   Comsat     46E
+              Orbcomm FM18  )                                   Comsat     46F
+              Orbcomm FM19  )                                   Comsat     46G
+              Orbcomm FM20  )                                   Comsat     46H
+Aug 12 1130   MERCURY           Titan 4A      Canaveral SLC41   Sigint     F02
+Aug 13 0943   Soyuz TM-28       Soyuz-U       Baykonur LC1      Spaceship  47A
+Aug 19 2301   Iridium SV03)     CZ-2C/SD      Taiyuan           Comsat     48A
+              Iridium SV76)                                     Comsat     48B
+Aug 25 2307   ST-1              Ariane 44P    Kourou            Comsat     49A
+Aug 27 0117   Galaxy X          Delta III     Canaveral SLC17B  Comsat     F03
+Aug 30 0031   Astra 2A          Proton        Baykonur          Comsat     50A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Jan 21?
+OV-103 Discovery       OPF Bay 2     STS-95  Oct 29
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Dec  3?
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+

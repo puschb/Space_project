@@ -1,0 +1,182 @@
+Jonathan's Space Report
+No. 592                                           2008 Mar 9, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+The Expedition 16 crew of Whitson, Eyharts and Malenchenko remain aboard
+ISS. Space Shuttle Atlantis undocked on Feb 18 at 0924 UTC and fired its
+OMS engines to deorbit at 1259 UTC on Feb 20. Atlantis landed on
+runway 15 at Kennedy Space Center at 1407 UTC.
+
+The Soyuz TMA-11 ferry ship is docked to the Zarya nadir port.
+
+The Progress M-63 cargo ship is docked to the Pirs nadir port.
+
+The PMA-2 port on Harmony is empty awaiting docking of STS-123/Endeavour
+on March 12.
+
+The Zvezda aft port is empty awaiting arrival of the European ATV Jules Verne
+cargo ship.
+
+
+USA 193
+-------
+
+On Feb 21 the National Reconnaissance Office's crippled USA 193
+satellite was in a 242 x 257 km x 58.5 deg orbit. At 0326 UTC a three
+stage SM-3 missile was fired from the USS Lake Erie in the Pacific Ocean
+west of Hawai'i to intercept the satellite. The US Dept. of Defense
+reports that the missile successfully hit USA 193; visual reports from
+British Columbia of high altitude debris trails at 0343 UTC, and lack of
+later observations of the satellite in orbit, suggest that the satellite
+has indeed been destroyed. On Feb 26-Mar 8 the DoD cataloged 153 debris
+objects in orbits with perigees in the 170-250 km range and apogees of
+up to 2700 km; 36 of these debris pieces had already reentered by Mar 9,
+and the apogee of the highest-apogee piece was decreasing by 35 km per
+day, supporting assertions that the debris will not remain in orbit for
+long.
+
+Jules Verne ATV
+---------------
+
+The European Space Agency's first Automated Transfer Vehicle, ATV Jules
+Verne, was launched from Kourou on Mar 9 at 0403:11 UTC.  The Ariane
+model 5ES launch vehicle, vehicle L528, has the enhanced EAP solid
+boosters and EPC core stage of the heavy-lift Ariane 5ECA variant,
+combined with the lower-capacity EPS upper stage which has been modified
+to include a restart capability (sometimes called EPS-V for Versatile);
+the VEB (vehicle equipment bay) instrument unit above the EPS is
+structurally enhanced to carry the heavy ATV. 
+
+There are a lot of slightly different estimates of the mass of the ATV;
+here's my current understanding based mostly on the EADS launch press
+kit. The ATV carries 1300 kg of dry cargo, 302 kg of water and oxygen,
+and 860 kg of propellant cargo for the ISS, for a total cargo mass of
+2462 kg. The dry ATV has a mass of 10075 kg and it carries 6475 kg of
+its own propellant, so that after separation from the EPS the wet ATV
+with cargo totals 19012 kg. This doesn't count the 345 kg Separation and
+Distancing Module (SDM) which stays attached to the EPS stage. The total
+ATV launch mass (including the SDM) is quoted as 19407 kg, which
+includes another 50 kg that I can't account for - it may be an adapter
+connecting SDM to the EPS/VEB.
+
+The EPS upper stage has a mass of 1300 kg dry and carries a partial
+propellant load of only 5200 kg for this mission instead of the usual
+10000 kg. In addition, a Vehicle Equipment Bay of about 1400 kg and the
+SDM make the total wet mass of the EPS-VEB-SDM-ATV composite  about
+28300 kg at separation from the EPC. I estimate that  the dry
+EPS-VEB-SDM after ATV separation and the EPS depletion/deorbit burn is
+around 3050 kg. 
+
+After launch from the ELA3 pad at Kourou, vehicle L528's EPC core stage
+reached a -1304 x 139 km x 51.2 deg trajectory at 0412 UTC flying
+north-east from Kourou, separated a few seconds later, and fell in the
+Atlantic at around 0420 UTC. The EPS stage made its first burn and
+reached a 137 x 260 km orbit at 0420:17 UTC. After a coast period, EPS
+reignited at apogee at 0505:14 UTC for a 30-second second burn to enter
+a safer 254 x 272 km x 51.6 deg orbit. At 0509:43 UTC the EPS separated
+from the ATV; at 0627 UTC it was due to make a third burn to lower
+perigee and reenter over the South Pacific at around 0651 UTC, although
+I don't  yet have confirmation of this burn. The ATV deployed its solar
+panels and prepared for the rendezvous sequence with the Space Station.
+However, the rendezvous burns are being delayed while engineers
+investigate a propulsion electronics problem.
+
+
+Kizuna
+------
+
+Japan's H-IIA rocket flight F14 was launched from Tanegashima on Feb 23.
+F14 was an H-IIA model 2024 with 2 large SRB-A strapons and 4 small SSB
+strapons. The second stage first cutoff was at 0907 UTC at an altitude
+of 313 km. According to Mitsubishi's Japanese-language press kit
+(and with many thanks to a Japanese correspondent for this information)
+the parking orbit was 115 x 314 km x 30.1 deg.
+
+At 0918 UTC the second stage made a second burn to a 272 x 35806 km x
+28.5 deg geostationary transfer orbit, separating from the Kizuna
+payload at 0923 UTC. The launch was carried out by Mitsubishi Heavy
+Industries. 
+
+Kizuna is the Wide-band Internetworking Engineering Test and Demonstration
+Satellite or WINDS, and will provide high bandwidth Ka-band data relay in the
+Asia-Pacific region. WINDS was built by JAXA at its Tsukuba space center,
+with prime contractor support from NEC Toshiba Space, possibly with
+some construction at Keihin. Kizuna carried out its first apogee engine
+firing at 0029 UTC on Feb 24; on Mar 1 it reached a geostationary drift
+orbit of 35188 x 35824 km x 0.1 deg and began drifting east towards its
+final station.
+
+
+The Mystery of 1971-00E
+-----------------------
+
+In 1971, five orbiting objects were cataloged by Space Command without
+being identified with any known launch, and given the international
+designations 1971-00A to 1971-00E. Catalog numbers 4924, 4925 and 4926  
+(1971-00A to C) were assigned in Feb 1971 to objects found in elliptical
+orbit; they were later identified with Explorer 15's Altair rocket (1962
+Beta Lambda 2), Explorer 26 (1964-86B) as an accidental duplicate of  
+catalog 963, and Explorer 26's Altair rocket (1964-86C), itself later  
+lost again and, rediscovered, duplicated as catalog 5820. In June 1971,
+two more objects were found: 5309 was later reassigned as 1969-64X, a
+putative piece of debris from the Star 37D third stage of the Intelsat 3
+F-5 launch, although there remains doubt about the true identity of the
+debris objects assigned to this launch. 5310 remains to this day the  
+only entry in the satellite catalog not officially identified with a
+specific launch, and retains the 1971-00E label.
+
+The only data I have on the satellite comes from the Satellite Situation
+Report, which lists orbital heights for 5309/1971-00E from 1971 Jun 30
+to around 1977, after which no new orbital data were released. The     
+initial orbit in June 1971 was 35785 x 35811 km x 1.2 deg; by Feb 1974
+inclination was 3.6 deg and by no later than 1977 this had increased in
+inclination at 35763 x 35795 km x 4.8 deg. Unfortunately, with no full
+Two-Line-Elements it's not possible to find out what longitudes the    
+satellite was passing through, which makes identification difficult. By  
+June 1971, there are 37 objects known to have been in geostationary 
+orbit. Most can be eliminated on the grounds of period or inclination.
+The best possiblity is the aperture cover (telescope lens cap) from
+the DSP F2 early warning satellite, launched in May 1971 just
+before the object was discovered, and never cataloged. However, since
+other DSP aperture covers from the early 1970s were not cataloged, they
+may have been too small to be detected by the relevant sensors.
+
+Other possibilities include debris associated with the
+LES 6 satellite, launched in 1968 or the TACSAT satellite from 1969
+(their orbits in 1971 were classified) or with Intelsat 3F2 or Intelsat 3F4
+(orbits similar to the debris, but not identical).
+
+Much of the TLE data from the early 1970s is missing from the on-line
+Space-Track archive. If anyone has old TLE printouts from the early 1970s
+with element sets for 5310, or indeed TLEs for any satellites in the
+1972-1976 era, I would be interested in getting copies.
+
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jan 15 1149   Thuraya 3         Zenit-3SL        Odyssey, Pacific  Comms     01A
+Jan 21 0345   Polaris (TecSAR)  PSLV             Sriharikota FLP   Radar     02A
+Jan 28 0018   Ekspress AM-33    Proton-M/Briz-M  Baykonur LC200/39 Comms     03A
+Feb  5 1303   Progress M-63     Soyuz-U          Baykonur LC1      Cargo     04A
+Feb  7 1945   Atlantis (STS-122) Space Shuttle   Kennedy LC39A     Spaceship 05A 
+              Columbus         )                                   Module    -
+Feb 11 1134   Thor 5            Proton-M/Briz-M  Baykonur          Comms     06A
+Feb 23 0855   Kizuna            H-IIA 2024       Tanegashima       Comms     07A
+Mar  9 0403   Jules Verne ATV   Ariane 5ES       Kourou ELA3       Cargo     08A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

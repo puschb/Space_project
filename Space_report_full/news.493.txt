@@ -1,0 +1,220 @@
+Jonathan's Space Report
+No. 493                                            2003 Feb 8, Cambridge, MA
+-------------------------------------------------------------------------------
+
+*********** SPACESHIP COLUMBIA DESTROYED DURING REENTRY ***************
+
+Orbiter OV-102 Columbia was lost 15 minutes before its scheduled landing
+on Feb 1 at the end of the STS-107 microgravity mission. The seven
+astronauts were killed when the left wing failed and the spaceship broke
+apart. Debris has been found over a wide area centered in east Texas
+near the Palestine, Texas region (site of NASA's balloon launch
+facility), and stretching from Fort Worth eastward into Louisiana. 
+
+Columbia was in a 272 x 289 km x 39.0 deg orbit when it fired the OMS
+engines for deorbit at 1315 UTC for 2min 38s. This dropped the orbit to
+around 1 x 275 km x 39.0 deg. At 1344 UTC Columbia reached NASA's
+nominal entry interface at an altitude of 122 km and began the
+transition from a spaceship to an aircraft. The descent continued with
+the first hypersonic slalom turn, as the Orbiter crossed the California
+coast.  Up to this point, as Columbia approached maximum reentry
+heating, everything appeared well.
+
+Multiple on-board sensors in the area of the left wing stopped working
+or showed temperature rises beginning at 1352 UTC, as ground-based
+observers began to see material apparently breaking off from the fiery
+trail of the vehicle.  Near to 1400 UTC left wing drag increased,
+causing rapid changes in the required trim. At this point the vehicle
+appears to have broken into multiple large pieces, either due to
+structural and thermal failure or to loss of attitude (which I
+understand would induce structural failure within about a second at this
+point in the flight). Loss of good signal was at 60 km altitude at Mach
+18.3, at 1359:22 UTC (according to early reports), a time 15d22h20m22s
+into the mission. A further 32s of partial telemetry may indicate that
+the vehicle did not break up until 1359:54 UTC; these times are likely
+to be revised, and I haven't seen any accurate times on the many amateur
+videos taken of the breakup. An Aviation Week report claims  USAF
+imagery from the ground showed structural damage to the leading edge of
+the left wing, indicating the thermal protection system in the wing
+glove area may have failed. The photo, shown at the Feb 7 briefing,
+shows an irregular leading edge on the left wing and a cleaner leading
+edge on the right wing, but it's not clear to me whether that is just an
+artifact of pixelization noise as opposed to really showing true
+features on the Shuttle. At this point I remain unconvinced the photo
+tells us much. One possibility is that the impact of a 1 kg, 0.6m piece
+of external tank foam 80s into launch may have caused damage, although
+program officials still claim this is unlikely. I expect a clearer
+picture of what went wrong will emerge over the next one to two months.
+It will take longer to know what the impact is for the human spaceflight
+program as a whole.
+
+Condolences to all members of the Shuttle team on the loss of the seven
+astronauts of the STS-107 crew. All of us with any connection to the
+space program remain in shock. And kudos to Ron Dittemore, Shuttle
+Program Manager, for an exceptional performance at the press briefings;
+despite obvious stress he gave with great dignity honest, clear and
+detailed assessments of what is currently known and avoided the
+triteness and euphemism (e.g. "contingency") of much of the rest of
+NASA's coverage. The fact that the press sometimes misreported what he
+said is too bad, but I think he helped the world understand what an
+engineering accident investigation is like, and NASA can be proud that
+it has representatives like him.
+
+One important note: the STS-107 press kit consistently and erroneously
+refers to the mission as carrying the SLWT (super light weight tank)
+version of the External Tank. This is a significant error; STS-107's
+External Tank, ET-93, was  actually the older LWT (light weight tank),
+used for only the second time since 1998. 
+
+For the record, other fatal accidents during the course of a spaceflight:
+
+1967 Vladimir Komarov, Soyuz-1 crash landing
+1967 Mike Adams, X-15-3 reentry control loss
+1971 Georgiy Dobrovol'skiy, Vadislav Volkov, Viktor Patsaev, 
+          Soyuz-11 reentry depressurization
+1986 Dick Scobee, Mike Smith, Judy Resnik, Ellison Onizuka, 
+     Ron McNair, Greg Jarvis, Christa McAuliffe,
+          Challenger launch accident.
+
+It's important to remember that there have also been a large number of
+very close shaves, including launch aborts, on-board fires and
+collisions, and a variety of reentry problems. Human spaceflight is a
+dangerous business and is likely to remain so for the immediate future.
+
+The Shuttle program is now grounded indefinitely. This also impacts the
+International Space Station program and the already-delayed Hubble
+Space Telescope servicing mission (which would have been flown by Columbia).
+There are three remaining orbiters (Discovery, Atlantis, Endeavour) and
+it would not be practical to build a replacement; some acceleration of
+efforts to design a successor vehicle seems likely.
+
+Shuttle and Station
+--------------------
+
+Aboard the Space Station, Bowersox and Pettit made a spacewalk from the
+Quest airlock on Jan 15. The airlock reached vacuum at about 1214 UTC,
+with  hatch open after some difficulties at 1246 UTC and suit battery
+power at 1250 UTC. The astronauts deployed the central thermal radiator
+on the P1 truss and moved a tool box to the CETA cart. The hatch was
+closed around 1938 UTC with repress at 1941 UTC, for a duration of 7h27m
+(depress/repress), 6h52m (hatch open/close) or 6h51m (NASA rule).
+
+Columbia was launched on mission STS-107 on Jan 16 at 1539 UTC. At 1547
+UTC it reached a 78 x 272 km orbit and the external tank separated. At
+1620 UTC the OMS-2 burn raised the orbit to 270 x 283 km.
+Columbia carried out its microgravity research mission for two weeks.
+
+Progress M-47 was launched on Feb 2 and docked with the rear port of the
+Station's Zvezda module at 1449 UTC on Feb 4, delivering enough supplies
+to keep the Station crew aboard until June if need be.
+
+Recent Launches
+---------------
+
+NASA's SORCE satellite was launched by a Pegasus XL from Cape Canaveral on
+Jan 29. SORCE carries two main instruments, TSIM (the Total Solar
+Irradiance Monitor) and SOLSTICE (Solar-Stellar Intercomparison
+Experiment), to study the total solar output for climate studies. It is
+operated by the University of Colorado/Boulder. The L-1011 carrier plane
+took off from the Cape Canaveral Skid Strip runway at 1917 UTC on Jan
+25. Drop over the Atlantic at 2013 UTC was followed by successful burn
+of all three Pegasus XL stages and orbit insertion at 2022 UTC into a
+610 x 649 km x 40.0 deg orbit. The satellite was built by Orbital Sciences
+and uses the LeoStar-2 bus; its mass is 290 kg.
+
+Navstar GPS vehicle SVN 56 was launched from Cape Canaveral on  Jan 29.
+The Boeing Delta 7925 entered a 174 x 200 km x 36.9 deg orbit at 1816
+UTC; the second stage then restarted to enter a 187 x 1157 km x 37.2 deg
+orbit and separated from the Star 48 third stage which put the GPS
+satellite in a 182 x 20282 km x 39.0 deg transfer orbit. The second
+stage then restarted at least twice more to enter a 703 x 806 km x 39.6
+deg orbit. At around 1000 UTC on Jan 30, the Air Force Research Lab's
+XSS-10 experimental inspector satellite separated from the second stage
+and made a series of 35-meter re-approaches to the stage, using a
+hydrazine propulsion system for stationkeeping and an experimental
+camera to image the stage. Meanwhile, GPS SVN 56 fired its apogee motor
+to  circularize and raise inclination, entering a 20155 x 20344 km x
+55.0 deg orbit. It will replace SVN 22 in the navigation constellation.
+
+The first Orbital Sciences Corp. Taurus Lite rocket was launched on Feb
+6 from Vandenberg. The Taurus Lite made a suborbital flight with an
+apogee of 1800 km; it is basically a stretched Pegasus without wings,
+the first stage being an Orion 50SXLG motor derived from the Pegasus XL
+first stage and Taurus second stage. Taurus Lite, also known as the
+Orbital Boost Vehicle (OBV) is currently planned for use as a missile
+defense interceptor.
+
+Errata
+---------
+
+Shenzhou 4 was of course launched from Jiuquan, not Taiyuan. 
+
+ICESAT has a mass of 959 kg full and 882 kg dry; the 300 kg quoted earlier was for the
+science instrument alone.
+
+Spacewarn Bulletin reports the mass of the Trailblazer Dummy satellite is 420 kg.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  2 2205   MEPSI             -              Endeavour, LEO   Technology   52B
+Dec  5 0242   TDRS 10           Atlas IIA      Canaveral SLC36  Comms        55A      
+Dec 11 2221   Stentor    )      Ariane 5ECA    Kourou ELA3      Comms        F03
+              Hot Bird 7 )                                      Comms        F03
+Dec 14 0131   Midori 2   )      H2A-202        Tanegashima      Rem.Sensing  56A
+              WEOS       )                                      Rem.Sensing  56C
+              FedSat     )                                      Technology   56B
+              MuLabSat   )                                      Technology   56D
+Dec 17 2304   NSS 6             Ariane 44L     Kourou ELA2      Comms        57A
+Dec 20 1700   Trailblazer )     Dnepr          Baykonur LC109   Dummy        58E
+              Latinsat A  )                                     Comms        58H
+              Latinsat B  )                                     Comms        58B
+              Saudisat 1C )                                     Comms        58C
+              Unisat-2    )                                     Technology   58D
+              Rubin-2     )                                     Technology   58A
+Dec 24 1220   Kosmos-2393       Molniya-M      Plesetsk LC16/2  Early warn   59A
+Dec 25 0737   Kosmos-2394 )     Proton-K/DM-2  Baykonur LC81/23 Navigation   60A
+              Kosmos-2395 )                                                  60B
+              Kosmos-2396 )                                                  60C
+Dec 29 1640   Shenzhou 4        Chang Zheng 2F  Jiuquan          Spaceship   61A
+Dec 29 2316   Nimiq 2           Proton-M/Briz-M Baykonur LC81/24 Comms       62A
+Jan  6 1419   Coriolis          Titan II        Vandenberg SLC4W Environment 01A
+Jan 13 0045   ICESAT  )         Delta 7320-10   Vandenberg SLC2W Environment 02A
+              CHIPSat )                                          Astronomy   02B
+Jan 16 1539   Columbia )        Shuttle         Kennedy LC39A    Spaceship   03A
+              Spacehab )                                         Lab
+Jan 25 2013   SORCE             Pegasus XL      Canaveral RW30/12 Solar obs  04A
+Jan 29 1806   GPS SVN 56 )      Delta 7925      Canaveral SLC17  Navigation  05A
+              XSS-10     )                                       Technology  05B
+Feb  2 1259   Progress M-47     Soyuz-U         Baykonur LC1     Cargo       06A
+        
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Destroyed     STS-107  2003 Jan 16 Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        VAB           STS-114  Unknown     ISS ULF1
+OV-105 Endeavour       OPF           STS-115  Unknown     ISS 12A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

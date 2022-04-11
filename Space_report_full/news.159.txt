@@ -1,0 +1,146 @@
+Jonathan's Space Report 
+
+No. 159         1993 Jun 29
+------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Endeavour completed its rendezvous with the EURECA satellite on Jun 24.
+The satellite was grappled with the RMS arm at 1353 UTC and berthed in
+the payload bay at 1636. However, two antennas on the satellite failed
+to close up correctly. During the spacewalk on Jun 25, astronauts David
+Low and Jeff Wisoff successfully latched the antennas. This was the
+first time the Spacelab Tunnel airlock has been used for a spacewalk;
+this airlock is carried on all Spacelab module and Spacehab module
+missions, since the tunnel to the modules connects to the usual Shuttle
+airlock. The airlock was depressurized at 1300 and the astronauts opened
+the hatch at 1312. As well as the EURECA work the astronauts practised
+techniques for the HST repair mission. The hatch was closed at 1850 and
+the repress began by 1857, making an EVA of 5 hr 57 min. A landing
+attempt on Jun 29 was waved off due to bad weather; another attempt
+is due on Jun 30.
+
+Meanwhile, Discovery was rolled out to pad 39B on Jun 28.
+Mission STS-51 is due for launch on July 17.
+
+Mir
+---
+
+The EO-13 crew, Gennadiy Manakov and Aleksandr Poleshchuk, made a
+spacewalk on Jun 18 to carry out further preparatory work for the next
+crew's solar panel relocation experiment. As of Jun 25, both Progress
+M-17 and Progress M-18 were still docked to the complex, as well as the
+Soyuz TM-16 ferry. The next crew, EO-14, will be launched on July 1
+aboard Soyuz TM-17. Crew commander is rookie Vasiliy Vasilevich
+Tsibliev, who joined the former Soviet Air Force cosmonaut corps in
+1987. Flight engineer ('bortinzhener') is  Aleksandr Aleksandrovich 
+Serebrov, a member of the NPO Energiya cosmonaut group since 1978. He
+has made three spaceflights, aboard Soyuz T-7, Soyuz T-8, and Soyuz
+TM-8. Cosmonaut researcher is Jean-Pierre Haignere, a French Air Force
+pilot who has been an astronaut trainee with CNES (Centre National
+d'Etudes Spatiales) since 1985.
+
+Launches
+--------
+
+Kosmos-2251, launched Jun 16, is the 47th in a series of small
+low orbit communications satellites thought to be used by
+Russian military and intelligence services. It was launched
+by an 11K65M Kosmos rocket built by NPO Yuzhnoye of Ukraine.
+
+Six small communications satellites were launched by a single
+Tsiklon rocket, and have been given the designations Kosmos-2252
+to Kosmos-2257. I haven't determined their exact launch date yet.
+
+The RADCAL satellite was launched by Scout S217C from Space Launch
+Complex 5 at Vandenberg on Jun 25. RADCAL, also known as P92-1, was
+built by Defense Systems Inc. for the USAF Space Test Program. It will
+be used by Vandenberg AFB's 40th Space Wing to calibrate the radars used
+to track objects in orbit. RADCAL carries a C-band transponder operating
+on the same frequency as the radars, and a GPS navigation package so
+that its orbit can be precisely determined. This calibration will allow
+the Space Command radars to determine orbital positions of other
+satellites to within a few metres. The 87 kg satellite was due to be
+placed in a 830 km polar orbit. Only one more launch of LTV's Scout
+is currently planned: MSTI-2, also from Vandenberg later this year.
+
+Hughes Communications' Galaxy 4H comsat was launched on Jun 25
+by Ariane. This is the 6th HS-601 class comsat to be launched.
+The satellite is a 'hybrid', with both C-band (6/4 GHz) and
+Ku-band (12/11 GHz) transponders.
+
+NASA's second SEDS (Small Expendable Deployer System) mission was
+launched piggyback on a Delta second stage on Jun 26. The primary
+payload was the Navstar GPS 39 navigation satellite. SEDS 2 carried the
+PMG (Plasma Motor Generator) payload, with a 500m conducting tether
+containing a copper cable. The tether deployer and end mass contained a
+xenon gas dispenser to complete a 0.1 kV electrical circuit through the
+tether with a 0.3 amp current, in a 6-hour experiment to study space
+tethers' electrodynamic properties.
+
+Rockwell's GPS 39 is the 32nd Navstar satellite to be launched
+(they put them up in a fairly random order!) and the 21st of the
+Block II series. The Navstar satellites carry atomic clocks
+which are used to generate navigation signals. 
+
+
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+May 26 0335?    Molniya-1       Molniya         Plesetsk        Comsat     35A
+May 27          Gorizont        Proton          Baykonur        Comsat     FTO
+Jun 16 0420	Kosmos-2251	Kosmos R-14	Plesetsk	Comsat	   36A
+Jun 21 1307	Endeavour	Shuttle		Kennedy		Spaceship  37A
+Jun 21?		Kosmos-2252  ) 	Tsiklon		Plesetsk	Comsat	   38A
+		Kosmos-2253  )					Comsat	   38B
+		Kosmos-2254  )					Comsat	   38C
+		Kosmos-2255  )					Comsat	   38D
+		Kosmos-2256  )					Comsat	   38E
+		Kosmos-2257  )					Comsat	   38F
+Jun 25		Galaxy 4H	Ariane 42P	Kourou		Comsat	   (39?)
+Jun 25 2330	RADCAL		Scout G-1	Vandenberg	Calib.	   (40?)
+Jun 26 1327	Navstar GPS 39) Delta 7925	Canaveral	Navsat	   (41?)
+		SEDS 2/PMG    )					Tether 
+
+
+Reentries
+---------
+
+Jun  7          Kosmos-2240     Landed in Kazakhstan?
+Jun 20		Resurs-F2	Landed in Kazakhstan
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-58
+OV-103 Discovery       LC39B         STS-51
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LEO           STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1?/RSRM-33/ET-59/OV-103 LC39B       STS-51
+ML2/                                  
+ML3?/RSRM-34		  VAB Bay 3   STS-58
+
+
+Thanks to Ed O'Grady and Sergey Voevodin for information
+appearing in this issue.
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+

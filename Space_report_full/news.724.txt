@@ -1,0 +1,202 @@
+Jonathan's Space Report 
+No. 724                                                      2016 Apr 8   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 47 continues with  commander Tim Kopra and flight engineers
+Yuriy Malenchenko and Tim Peake. On Mar 18 Soyuz TMA-20M was launched
+carrying Alexey Ovchinin, Oleg Skripochka and Jeff Williams. This is the
+last of the 11F732A47 Soyuz TMA-M series, which will be replaced by the
+improved Soyuz-MS variant.
+
+On Mar 23 Cygnus cargo ship OA-6, "SS Rick Husband", was launched aboard
+Atlas V flight AV-064 from Cape Canaveral. A mixture ratio problem on
+the Atlas caused an 5-seconds-early first stage cutoff, which required a
+full extra minute's burn on the Centaur upper stage to make the correct
+orbit. After deploying Cygnus, the Centaur's second burn was intended to
+deorbit the stage south of Australia, but because of insufficient
+remaining propellant the engine cutoff early, and reentry occurred
+downrange south of New Zealand.
+
+SS Rick Husband arrived at the ISS on schedule, and was grappled by
+the Canadarm-2 at 1051 UTC Mar 26.
+
+Progress M-29M undocked from the Zvezda module on Mar 30 at 1415 UTC and
+is performing attitude control experiments in a 373 x 401 km orbit.
+
+Progress MS-02 was launched from Baykonur on Mar 31 and docked with
+Zvezda on Apr 2 at 1758 UTC.
+
+Dragon CRS-8 was launched on Falcon 9 F9-023 from Cape Canaveral on
+Apr 8. It carries the Bigelow BEAM inflatable module experiment in its
+trunk. CRS-8 is scheduled to arrive at ISS on Apr 10.
+
+The F9-023 first stage performed boostback and reentry burns to
+successfully land on the ship "Of Course I Still Love You" at 78.50W
+30.50N in the Atlantic. This was the second succesful reentry and
+landing of a Falcon 9 first stage, following the Dec 2015 landing of
+F9-021 at Cape Canaveral.
+
+   SpaceX first stage reentries with landing experiments - summary
+
+Date           Vehicle       LaunchSite  Target                 Notes
+---------------------------------------------------------------------------------------------
+2013 Sep 29    F9-006 (1.1)   V SLC4E    Ocean                  No legs;Roll anomaly
+2014 Apr 18    F9-009 (1.1)   CC LC40    Ocean                  Controlled splash
+2014 Jul 14    F9-010 (1.1)   CC LC40    Ocean                  Controlled splash
+2014 Sep 21    F9-012 (1.1)   CC LC40    Ocean                  No legs, splash
+2015 Jan 10    F9-014 (1.1)   CC LC40    JRTI    78.11W 30.83N  Crash on JRTI (hydraulic fluid)
+2015 Feb 11    F9-015 (1.1)   CC LC40    Ocean                  Controlled splash
+2015 Apr 14    F9-017 (1.1)   CC LC40    JRTI    78.11W 30.83N  Touchdown but toppled  
+2015 Jun 28    F9-020 (1.1)   CC LC40    OCISLY  78.11W 30.83N  Destroyed during ascent
+2015 Dec 21    F9-021 (FT)    CC LC40    CC LZ1                 Success
+2016 Jan 17    F9-019 (1.1)   V SLC4E    JRTI   120.78W 32.13N  Touchdown but toppled
+2016 Mar  3    F9-022 (FT)    CC LC40    OCISLY  73.82W 28.27N  Too fast, crash
+2016 Apr  8    F9-023 (FT)    CC LC40    OCISLY  78.50W 30.50N  Success
+
+Targets:
+JRTI = Just Read The Instructions
+OCISLY = Of Course I Still Love You
+LZ1 = Landing Zone 1, Cape Canaveral
+
+
+
+Bars-M
+------
+
+Russia launched a Bars-M cartography satellite on Mar 26, giving it the
+codename Kosmos-2515. Bars-M No. 2 joins the No. 1 satellite (Kosmos-2503)
+launched in 2015.
+
+S509356
+-------
+
+Asteroid surveys have spotted an unknown Earth satellite, provisionally
+designated S509356, in a 30000 x 152000 km x 48 deg orbit. Looking
+at my historical lists, it might be an object associated with the Vela
+launches, although it's surprising it's only being spotted now.
+The region beyond GEO is poorly tracked by satellite surveillance
+systems but in recent years coverage by asteroid searchers has been
+fairly good.
+
+
+Tiangong 1
+----------
+
+On Mar 21 China announced the end of "data service" with the Tiangong 1 space
+laboratory. The 8500 kg lab is in a 377 x 394 km x 42.8 deg orbit; it
+had made reboost manuevers about twice a year, the most recent on 2015
+Dec 16. Scott Tilley reported on the SeeSat list that regular radio
+transmissions from the spacecraft were not received during passes
+on Mar 31.
+
+
+If the spacecraft is now inactive, it will reenter the atmosphere
+sometime in the next few years. 
+
+ExoMars
+--------
+
+Optical observations of the ExoMars launch have revealed several debris
+objects in the vicinity of the Briz-M final stage shortly after payload
+separation. Roskosmos confirms that telemetry shows the separation burns
+were performed on schedule, and the stage's trajectory as measured by
+astronomers puts it on course to safely miss Mars by almost one million
+km. Meanwhile, ESA reports that the ExoMars TGO spacecraft itself is in
+good health and on course to Mars.
+
+Hitomi/ASTRO-H
+--------------
+
+JAXA's Hitomi satellite (the ASTRO-H X-ray observatory, not to be
+confused with Tokyo University's homonymic Hitomi satellite) suffered a
+major anomaly on Mar 25 while observing the quasar Markarian 205.  At
+1910 UTC the satellite started tumbling and then at 0140 UTC Mar 26 the
+spacecraft partly disintegrated. US tracking found eleven debris objects
+in orbit. During the next scheduled pass at 0740 UTC, JAXA received only
+a short burst from the radio beacon and nothing more; three more such
+beacon detections were obtained up to Mar 28, when the spacecraft fell
+silent (A further radio signal on Mar 29 is now thought to be spurious).
+ Ground-based optical observations showed that at least two of the
+debris objects, 2016-012A and 012L, were bright and tumbling several
+times a minute. 2016-012A is probably the main spacecraft bus. It's
+possible that 2016-012L is the extensible optical bench with the HXI
+cameras, or part of the solar panels.
+
+JAXA hopes that as the tumbling eventually slows, the spacecraft
+will regain power and communications would again be possible. If
+the spacecraft attitude can be fixed, it's likely that at least the
+SXI CCD imagers would be able to operate. I wish my colleagues at
+JAXA the best of luck in this very difficult situation.
+
+SJ-10
+-----
+
+China's SJ-10 microgravity experiment satellite was launched on Apr 5
+into low orbit. SJ-10 is based on the old FSW recoverable film-based spy
+satellites. The main experiment section will separate and return to
+Earth at the end of the mission.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Feb  1 0729   Beidou DW21         Chang Zheng 3C/YZ1 Xichang           Navigation     06A   S41315  21512 x 21981 x  55.0
+Feb  3 1322   Fleshka             -                  ISS, LEO        Commemorative 98-067HR?S41326?   395 x   406 x  51.6
+Feb  5 1338   GPS SVN 70          Atlas V 401        Canaveral SLC41   Navigation     07A   S41328  20438 x 20442 x  55.0 
+Feb  7 0021   Glonass-M No. 51    Soyuz-2-1B/Fregat  Plesetsk LC43/4   Navigation     08A   S41330  19132 x 19158 x  64.8
+Feb  7 0030   Kwangmyongsong-4    Kwangmyongsong     Sohae             Imaging        09A   S41332    465 x   501 x  97.5 0840LT SSO
+Feb 10 1140   TOPAZ 4?            Delta 4M+(5,2)     Vandenberg SLC6   Radar          10A   S41334   1078 x  1085 x 123.0   
+Feb 16 1757   Sentinel-3A         Rokot              Plesetsk LC133    Imaging/Alt    11A   S41335    802 x   806 x  98.6 1000LT SSO
+Feb 17 0845   Hitomi     )        H2A 202            Tanegashima       X-ray Astron   12A   S41337    565 x   580 x  31.0
+              Kinshachi-2)                                             Space Sci      12B   S41338    559 x   579 x  31.0
+              Kinshachi-3)                                             Imaging        12C   S41339    558 x   578 x  31.0
+              Horyu-4    )                                             Tech           12D   S41340    557 x   578 x  31.0
+Mar  4 2335   SES-9               Falcon 9 FT        Canaveral SLC40   Comms          13A   S41380  28569 x 41649 x   0.5
+Mar  9 0520   Eutelsat 65 West A  Ariane 5 ECA       Kourou ELA3       Comms          14A   S41832  35729 x 35759 x   0.0 GEO 44W drift
+Mar 10 1031   IRNSS-1F            PSLV-XL            Satish Dhawan SLP Navigation     15A   S41384  33349 x 35750 x   5.3
+Mar 13 1856   Resurs-P No. 3      Soyuz-2-1B         Baykonur LC31     Imaging        16A   S41386    279 x   452 x  97.3 1150LT SSO
+Mar 14 0931   ExoMars TGO   )     Proton-M/Briz-M    Baykonur LC200/39 Mars orbiter   17A   S41388    750 x-71368 x  51.5
+              Schiaparelli  )                                          Mars lander    17    A08532    750 x-71368 x  51.5
+Mar 18 2126   Soyuz TMA-20M       Soyuz-FG           Baykonur LC1      Spaceship      18A   S41391    193 x   230 x  51.6
+Mar 23 0305   SS Rick Husband     Atlas V 401        Canaveral SLC41   Cargo          19A   S41393    240 x   250 x  51.6
+Mar 24 0942   Bars-M No. 2        Soyuz-2-1A         Plesetsk          Mapping        20A   S41394    332 x   540 x  97.6 1325LT SSO
+Mar 29 2011   Beidou DW 22        Chang Zheng 3A     Xichang LC2       Navigation     21A   S41434    195 x 35796 x  55.0
+Mar 31 1623   Progress MS-02      Soyuz-2-1A         Baykonur LC31     Cargo          22A   S41436    261 x   267 x  51.6
+Apr  5 1738   Shi Jian 10         Chang Zheng 2D     Jiuquan           Microgravity   23A   S41448    233 x   267 x  42.9
+Apr  8 2043   Dragon CRS-8        Falcon 9 FT        Canaveral SLC40   Cargo          24A   S41452    209 x   353 x  51.7
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Mar  1 1450   MUSIC            Terrier Imp.Mal.    Wallops Island        Tech          185       Atlantic Ocean
+Mar  7 1205   NASA 41.114NP    Terrier Imp.Orion   Wallops Island        Tech          160?      Atlantic Ocean
+Mar  8        Shahab RV        Shahab-1            Qom Desert, Iran      Test          100?      Qom Desert, Iran
+Mar  8        Shahab RV        Shahab-2            Qom Desert, Iran      Test          120?      Qom Desert, Iran
+Mar  8        Qiam RV          Qiam                Qom Desert, Iran      Test          125?      Qom Desert, Iran
+Mar  9        Ghadr RV         Ghadr-F             Semnan?, Iran         Test          150?      Makran, S Iran
+Mar  9        Ghadr RV         Ghadr-H             Semnan?, Iran         Test          150?      Makran, S Iran
+Mar  9 2020   Hwasong RV       Hwasong 6?          Chiha?, N Korea       Test          150?      Sea of Japan
+Mar  9 2020   Hwasong RV       Hwasong 6?          Chiha?, N Korea       Test          150?      Sea of Japan
+Mar 14        Trident RVs x ?  Trident D-5       SSBN off Cape Canaveral Test         1000?      S Atlantic
+Mar 15        Trident RVs x ?  Trident D-5       SSBN off Cape Canaveral Test         1000?      S Atlantic
+Mar 16        Trident RVs x ?  Trident D-5       SSBN off Cape Canaveral Test         1000?      S Atlantic
+Mar 17 2055   Nodong RV        Nodong              Sukcheon, N Korea     Test          150?      Sea of Japan
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

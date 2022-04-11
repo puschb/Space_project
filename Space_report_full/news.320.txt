@@ -1,0 +1,116 @@
+Jonathan's Space Report
+No. 320                                    1997 Apr 30 Cambridge, MA
+-------------------------------------------------------------------------------
+Editorial
+---------
+
+As part of research for a paper on the history of solid rocket motors,
+I have compiled a launch log of all solid motors used as launch vehicle
+final stages and apogee motors. I'd be grateful to anyone who can
+provide corrections or fill in omissions. The log is available at
+ http://hea-www.harvard.edu/QEDT/jcm/space/rockets/notes.html
+
+Shuttle and Mir
+---------------
+
+Atlantis was rolled out to pad 39A on Apr 24 in preparation for the
+launch of STS-84 on May 15. STS-83R has been renamed STS-94; the
+missions up to STS-93 were far enough along in planning that it would
+have been inconvenient to change all their documentation. Columbia will
+have the same crew and cargo as before, and will launch on Jul 1.
+
+Vasiliy Tsibliev and Jerry Linenger donned their Orlan-DMA spacesuits
+and made a 5 hour spacewalk on Apr 29. They left the airlock at 0510 UTC
+and returned to Kvant-2 at 1008 UTC after 4h 57m. The astronauts
+retrieved some sample collection experiments from the outside of the
+complex. Flight engineer Aleksandr Lazutkin remained inside the Mir
+complex.
+
+Recent Launches
+---------------
+
+GOES K was launched from Cape Canaveral on Apr 25. The Geostationary
+Operational Environmental Satellite has been renamed GOES 10 now that it
+is in orbit safely. Operated by NOAA, the US National Oceanic and
+Atmospheric Administration, the GOES satellites provide those familiar
+continent-wide views of the weather, operating in collaboration with
+NOAA's low polar orbiting satellites which provide smaller-area
+closeups. GOES K is the third of the 3-axis-stabilized GOES-Next series
+of satellites, built by Space Systems/Loral. Earlier GOES versions were
+spin-stabilized vehicles built by Hughes and by SS/Loral's precursor,
+Ford Aerospace. GOES 10 will be used as an orbital spare. It was placed
+in an initial 167 x 42131 km x 27.1 deg transfer orbit. By Apr 29 it had
+maneuvered to a 10907 x 42227 km x 8.1 deg orbit on its way to
+geosynchronous.
+
+Launch vehicle for GOES K was the final Atlas I Centaur, serial AC-79.
+The Atlas I (Roman numeral 1) Centaur per se first flew in Jul 1990, as
+a renamed version of the Atlas G (letter G) Centaur to distinguish it
+from the stretched Atlas II which was considered a significantly
+different vehicle. The first Atlas Centaur, AC-1, an Atlas D/Centaur D
+variant, was launched on a suborbital test flight in May 1962 but failed
+less than a minute after launch. The second Centaur D, AC-2, reached
+orbit in Nov 1963 as the first space flight of a high-energy fuel
+(liquid hydrogen) rocket.
+
+I have recently compiled a list of all Centaur launches, and all 
+orbital objects associated with those launches. You can find it at:
+ http://hea-www.harvard.edu/QEDT/jcm/space/misc/centaur.html
+
+Thanks to the Canarians who wrote to me defending the status of their
+islands as part of the European cultural and political spheres.
+Nevertheless, I maintain that geographically it's not part of Europe, 
+just as a satellite launch from Hawaii would not be from North America.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  1 0107   Intelsat 801     Ariane 44P     Kourou ELA2     Comsat      09A
+Mar  4 0200   Zeya             Start-1        Svobodniy LC5   Comsat      10A
+Mar  8 0601   Tempo 2          Atlas IIA      Canaveral LC36A Comsat      11A
+Apr  4 1647   DMSP 5D-2 S-14   Titan 23G      Vandenberg SLC4W Weather    12A
+Apr  4 1920   Columbia/STS-83) Shuttle        Kennedy LC39A   Spaceship   13A
+              MSL-1 Spacelab )
+Apr  6 1604   Progress M-34    Soyuz-U        Baykonur        Cargo       14A
+Apr  9 0900?  Kosmos-2340      Molniya-M      Plesetsk        EarlyWarn   15A
+Apr 16 2309   Thaicom 3  )     Ariane 44LP    Kourou ELA2     Comsat      16A
+              BSAT 1a    )                                                16B
+Apr 17 1303   Kosmos-2341      Kosmos-3M      Plesetsk LC132/1 Navsat     17A
+Apr 21 1159   Minisat-01 )     Pegasus XL     L-1011, Gando   Technology  18A
+              Celestis   )                                    Burial      18B
+Apr 25 0549   GOES 10          Atlas I        Canaveral LC36B Weather     19A
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-94  Jul  1
+OV-103 Discovery       OPF Bay 2     STS-85  Aug  7
+OV-104 Atlantis        LC39A         STS-84  May 15
+OV-105 Endeavour       OPF Bay 3     STS-86  Sep 25
+
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-62                 VAB Bay 1      STS-94
+ML2/RSRM-60/ET-85/OV-104    LC39A          STS-84
+ML3/                       
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,124 @@
+Jonathan's Space Report
+No. 407                                           1999 Sep 7  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Chandra
+---------------
+
+Chandra's first light image has been released:
+http://hea-www.harvard.edu/~jcm/space/jsr/cas.jpg
+
+It's been an amazing few weeks. We opened the sunshade door and  looked
+at the quasar PKS 0637-75, an old favorite of mine, expecting it to be a
+point source that would be good for focussing, but we could easily see
+X-rays from the quasar radio jet sticking out to the side. Turns out we
+were pretty well focussed anyway. Only a few radio jets have been seen
+in the X-ray before now, so seeing one in this quasar suggest to me that
+we'll be seeing a lot of them in other objects (specifically,
+flat-spectrum radio quasars like this one, in which we know the jet is
+pointing close to the line of sight). We looked at the supernova remnant
+Cas A, and saw lots of detail including a possible neutron star compact
+remnant in the center. After checking out the ACIS camera, we turned to
+the HRC camera which has also been working  spectacularly. The HETG
+grating has also been tested out, making a high resolution spectrum of
+the bright star Capella. So far, so good! In fact better than good -
+pretty much everything we've looked at so far has fascinating surprises.
+Of course, there are the usual detailed issues with the processing
+software, and lots of numbers to tweak from on-orbit measurements, so
+although all in all things have been working remarkably well, there's
+been no shortage of things for us to do. Orbital activation and checkout
+will be completed later this month, at which point hopefully I start
+working less than 16-hour days.
+
+Shuttle and Mir
+---------------
+
+For the first time since Sep 1989 there are no humans in space. The Mir
+EO-27 crew landed in Kazakhstan at 0035 UTC on Aug 28. Soyuz TM-29
+undocked from Mir at 2117 UTC on Aug 27 with Afanas'ev, Avdeev and
+Haignere aboard. The hatch between Mir and Soyuz was closed for
+the last time at 1812 UTC.
+
+The Shuttle fleet remains grounded while NASA continues checks
+and repairs to the wiring in the Orbiters. Launches might
+resume by late October.
+
+Recent Launches
+---------------
+
+Arianespace launched Koreasat 3 for Korea Telecom on Sep 4 on an Ariane
+42P rocket. The H-10-3 third stage placed Koreasat 3 in a 214 x  35756
+km x 7.0 deg transfer orbit. Koreasat 3 is a Lockheed Martin/Sunnyvale
+A2100 class comsat with both Ka and Ku band transponders. Launch mass
+was 2790 kg; it will be located at 116 deg E.
+
+The first two Yamal comsats were launched by Krunichev's Proton on Sep
+6. An Energiya DM-2M (11S861-01) upper stage placed the satellites in a
+197 x  36311 km x  49.3 deg geostationary transfer orbit according to
+Space Command data, but this seems to be an error since Energiya reports
+that the DM-2M made two successful burns, which would have left the
+satellites in circular 36000 km orbit. Stay tuned for clarification of
+this issue. Yamal 101 reportedly ran into problems after it was
+deployed.
+
+RKK Energiya is building the Yamal 101 and 102 satellites for AO Gazcom
+of Moscow, a joint venture of RKKE and  RAO Gazprom, the Russian natural
+gas monopoly. The two Yamal-100 satellites each carry a communications
+payload of 12 C-band transponders built by Space Systems/Loral, and will
+support  internal communications for RAO Gazprom.  Satellite mass is
+1360 kg. The satellite carries Fakel SPD-70 plasma thrusters for
+inclination control.
+
+Launch pad for Kosmos-2365 was PU3 at Plesetsk LC43 according to
+Aleksandr Zheleznyakov. (Last week's issue had  a typo).
+
+Kosmos-2366 was launched on Aug 26 by a two-stage 11K65M rocket from
+Plesetsk into an 83 degree orbit. Kosmos-2366 is a Parus-class
+navigation satellite built by Polyot of Omsk.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug 12 2252   Telkom 1          Ariane 42P     CSG ELA2         Comsat     42A
+Aug 17 0437   Globalstar 24)    Delta 7420     Canaveral SCL17  Comsat     43A
+              Globalstar 27)
+              Globalstar 53)
+              Globalstar 54)
+Aug 18 1800   Kosmos-2365       Soyuz-U        Plesetsk LC43/3  Recon      44A
+Aug 26 1203   Kosmos-2366       Kosmos-3M      Plesetsk         Navsat     45A
+Sep  4 2234   Koreasat 3        Ariane 42P     CSG ELA2         Comsat     46A
+Sep  6 1636   Yamal 101 )       Proton-K/DM    Baykonur         Comsat     47A
+              Yamal 102 )                                       Comsat     47B
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     OMDP
+OV-103 Discovery       OPF Bay 1     STS-103 1999
+OV-104 Atlantis        VAB Bay 2     STS-101 2000
+OV-105 Endeavour       OPF Bay 2     STS-99  1999
+
+MLP1/                          
+MLP2/                          
+MLP3/RSRM-71?/ET?              VAB Bay 3   STS-99
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+

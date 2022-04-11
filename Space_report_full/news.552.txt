@@ -1,0 +1,166 @@
+Jonathan's Space Report
+No. 552                                        2005 Aug 21, Somerville, MA
+-------------------------------------------------------------------------------
+
+Mars Reconnaissance Orbiter
+---------------------------
+
+NASA's latest Mars mission was launched on Aug 12. MRO is twice the mass
+of other recent Mars missions, 2180 kg at launch - back to the scale of
+the ambitious but unsuccessful Mars Observer whose failure helped
+triggered creation of the `faster, better, cheaper' missions of the
+1990s. The big spacecraft carries a big camera, the 0.5 meter aperture
+HiRISE telescope, which will return high resolution images of the
+surface, and a big 3-meter communications dish to allow a high data rate
+for sending the pictures back. MRO has 1196 kg of hydrazine propellant,
+with six 170-Newton MR-107E Aerojet thrusters and six smaller 22-Newton
+MR-160E thrusters. The mutiple engines provide  propulsion for course
+correction and Mars orbit insertion. MRO will reach Mars in March 2006.
+
+  The NASA Mars Program 
+  ---------------------
+
+  Spacecraft                  Launch       Mass          NASA Program
+
+  Mariner 3                   1964 Nov  5      261 kg    Mariner flyby (failed)
+  Mariner 4                   1964 Nov 28      261 kg    Mariner flyby
+  Mariner 6                   1969 Feb 25      385 kg    Mariner flyby
+  Mariner 7                   1969 Mar 27      383 kg    Mariner flyby
+  Mariner 8                   1971 May  9     1031 kg    Mariner orbiter (failed)
+  Mariner 9                   1971 May 30     1031 kg    Mariner orbiter
+  Viking 1                    1975 Aug 20     3534 kg    Viking orbiter/lander
+  Viking 2                    1975 Sep  9     3526 kg    Viking orbiter/lander
+  Mars Observer               1992 Sep 25     2565 kg    Planetary Observer, failed
+  Mars Global Surveyor        1996 Nov  7     1062 kg    Mars Surveyor Program
+  Mars Pathfinder             1996 Dec  4      880 kg    Discovery Program
+  Mars Climate Orbiter        1998 Dec 11      629 kg    Mars Surveyor Program, failed
+  Mars Polar Lander           1999 Jan  3      615 kg    Mars Surveyor Program, failed
+  2001 Mars Odyssey           2001 Apr  7      730 kg    Mars Surveyor Program
+  Mars Exploration Rover A    2003 Jun 10     1062 kg    Mars Program
+  Mars Exploration Rover B    2003 Jul  8     1062 kg    Mars Program
+  Mars Reconnaissance Orbiter 2005 Aug 12     2180 kg    Mars Program
+
+Launch of MRO was with a Lockheed Martin Atlas V, model 401, serial
+AV-007. The Atlas CCB stage fired for 4 minutes, followed by the first
+Centaur stage burn, putting MRO in a 148 x 185 km x 28.5 deg Earth
+parking orbit 14 min after launch. Centaur fired again at 1132 UTC to
+reach escape velocity, and separated from MRO at 1141 UTC, with both
+vehicles on hyperbolic Earth departure orbit with around 205 km perigee
+and 40.7 deg inclination.  MRO passed lunar orbit on Aug 13 and is now
+in a 1.013 x 1.680 AU x 3.1 (ecliptic) deg  heliocentric transfer orbit
+to Mars. The Centaur is lagging slightly behind in a 1.013 x 1.659 AU
+orbit, targeted to miss Mars.
+
+
+
+Thaicom 4
+---------
+
+Arianespace launched Shin Satellite's Thaicom 4 (also known as IPSTAR 1)
+on Aug 11. Thaicom 4 is a 3400 kg (dry) Loral LS-1300SX satellite for broadband
+Ku-band/Ka-band data relay and digital telecoms in the Asia-Pacific region.
+The satellite carries 3100 kg of propellant for a total launch mass of 6500 kg.
+
+Ariane flight V166 used launch vehicle L523, the first Ariane 5GS variant.
+This has the enhanced P240 strapons and uprated L10 variant of the EPS
+upper stage, with the standard Ariane 5 Generic EPC core stage (H158).
+L523's EPC stage reached a 47 x 1623 km x 7.2 deg marginal orbit,
+completing a single orbit and reentering over the Pacific. The EPS
+second stage put Thaicom 4 in geostationary transfer orbit.
+By Aug 19 Thaicom 4 was in a 35523 x 35805 km x 0.1 deg geostationary
+drift orbit.
+
+  Here are the components used in the Ariane 5 variants flown to date:
+           Solid booster   Core stage   Upper stage
+  5G       EAP P238        EPC H158         EPS L9.5
+  5G+      EAP P238        EPC H158         EPS L10
+  5GS      EAP P240        EPC H158         EPS L10
+  5ECA     EAP P240        EPC H175         ESC-A
+
+
+
+Shuttle and Station
+-------------------
+
+After the landing of Discovery, the Expedition 11 crew on the Station
+are continuing their mission.
+
+On Aug 18, Station crew Krikalyov (suit Orlan-M 25) and Phillips  (suit
+Orlan-M 27) made a spacewalk from the Pirs module, with depressurization
+at 1846 UTC, hatch open at 1902 UTC and hatch closed at 0000 UTC on Aug
+19. Pirs was repressurized at 0002 UTC. The astronauts retrieved and
+installed experiments on the Station's exterior. (Thanks to Andrey
+Krasil'nikov for the depress time.) One piece of space debris, 1998-067AG,
+was cataloged following the EVA - probably the Matroshka-R experiment
+cover ejected into space by Krikalyov at around 1945 UTC.
+[thanks to Rui Barbosa for the Matroshka information].
+
+Discovery flew back from California to Florida aboard the NASA 905 ferry
+aircraft on Aug 19-21, with refuelling stops at Altus AFB, Oklahoma and
+Barksdale AFB, Louisiana. NASA's talking about launching Discovery
+again in March 2006 on the next mission, STS-121, but it's not yet clear
+what fixes will be needed to the External Tank.
+
+
+Galaxy 14
+---------
+
+On Aug 13 the French Starsem company provided launch services for the US
+commercial communications satellite Galaxy 14 aboard a Russian Soyuz-FG/Fregat
+rocket.
+
+Galaxy 14 is part of Panamsat's domestic US satellite network; it was
+built by Orbital/Dulles and is based on the Star 2 bus, which uses
+a Japanese 500N-thrust apogee engine. Earlier Galaxy 14 was planned for
+an Ariane launch and was reported to have a mass of 1790 kg, but it
+was transferred to Soyuz and now is reported to have a 2087 kg launch mass.
+I imagine the extra mass is propellant to accommodate the new supersynchronous
+launch strategy described below. Dry mass is about 800 kg.
+
+After takeoff from Baykonur, the three-stage TsSKB-Progress  Soyuz-FG
+(S/N 11) enters a mildly suborbital trajectory with perigee a few
+hundred km below the Earth's surface and impact in the Pacific Ocean.
+The upper stage, an NPO Lavochkin 14S44 Fregat, serial number 1007, 
+makes its first burn to enter a 200 x 200 km x 51.6 deg parking orbit
+about 10 min after launch. A second burn about an hour later sent Galaxy
+14 to a 351 x 66268 km x 49.2 deg transfer orbit. Galaxy 14's apogee
+engine will then make multiple burns to lower inclination while
+circularizing the orbit to reach a roughly 35780 x 35790 km x 0.0 deg
+geosynchronous orbit.  By Aug 16 it was in a 35755 x 66093 km x 2.2 deg
+orbit. An Ariane launch would have put G14 in a 7 deg inclination
+transfer orbit with a 35800 km apogee, which would need less fuel to
+reach GEO - the advantage of the near-equatorial Kourou launch site
+compared to Baykonur's 45 deg latitude.
+
+FSW
+---
+
+The Chinese imaging satellite launched on Aug 2 raised its apogee
+on Aug 5 and 7 to a 166 x 552 km x 63.0 orbit; the orbit was
+reboosted to the same altitude on Aug 19 after the apogee decayed
+to 535 km.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  5 2240   SJ-7              CZ-2D           Jiuquan          Sci         24A
+Jul 10 0330   Suzaku            M-V             Uchinoura        XR Astron.  25A
+Jul 26 1439   Discovery         Shuttle         Kennedy LC39B    Spaceship   26A
+Aug  2 0730   FSW 21            CZ-2C           Jiuquan          Imaging     27A 
+Aug 11 0820   Thaicom 4         Ariane 5GS      Kourou           Comms       28A
+Aug 12 1143   MRO               Atlas V 401     Canaveral SLC41  Mars probe  29A
+Aug 13 2328   Galaxy 14         Soyuz-FG/Fregat Baykonur LC31    Comms       30A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

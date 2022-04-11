@@ -1,0 +1,203 @@
+
+Jonathan's Space Report
+
+No. 442                                           2000 Dec 29, Cambridge, MA
+-------------------------------------------------------------------------------
+
+The last issue of the (Gregorian) millennium... Happy New Year to all.
+I have updated a number of the launch log files on the web site.
+
+Shuttle and Stations
+--------------------
+
+Progress M1-4 redocked to Zarya's nadir port on Dec 26 at 1054 UTC.
+The redocking testing out a fix to software that caused problems
+in the vehicle's first docking attempt on Nov 18. Expedition One
+Pilot Yuriy Gidzenko completed the docking manually using
+the remote control TORU system. (Gidzenko is designated "Soyuz
+Commander" by the US, but "Pilot" in the most recent Energia press
+release).
+
+The next Shuttle flight is STS-98. Atlantis will deliver the Destiny lab
+module to the Station. Rollout of STS-98 to the pad is being delayed
+because some wiring in the SRBs needs repair. During the STS-97 launch,
+the SRB separation system had problems  when one explosive separation
+cartridge failed to fire; a backup system successfully separated the
+SRB.
+
+Current Launches
+----------------
+
+Six small communications satellites were destroyed in a  launch failure
+on Dec 27. The 11K68 Tsiklon-3 rocket took off from Plesetsk, but the
+S5M third stage failed and the vehicle crashed a few thousand km
+downrange near Wrangel Island.  The payload is believed to have been
+three Strela-3 military commsats and three Gonets D-1 sats, the civilian
+version of Strela-3. These small cylindrical satellites were designed by
+NPO PM and are built by AO Polyot; they were intended for a 1400 km
+circular orbit inclined at 83 degrees. Launch time was 1856 UTC
+according to Interfax. The 11K68 is based on the R-36 (NATO designation
+SS-9) two-stage ICBM, with the added S5M stage. It first flew in 1977
+and is built by Yuzhmash in the Ukraine. If this launch followed the
+profile of the successful Koronas-I launch of 1994 (the only one I have
+details on), the S5M stage would have separated from the 11S692 second
+stage 4.5min after launch and begun its first burn at around 5min 20s.
+The impact zone in the East Siberian Sea suggests that the failure
+happened during the first burn, at an altitude between 170 and 200 km,
+rather than a second burn failure in which the vehicle would have
+completed one orbit. The last launch failure of a Tsiklon-3 was in 1994.
+This was the fourth launch failure of the year, following a Zenit-3SL,
+a Mu-V, and a Kosmos-3M.
+
+Arianespace launched the 8th Ariane 5G on Dec 20. Flight V138 (508)
+carried two communications satellites to geostationary transfer orbit.
+The upper payload, Astra 2D, is a Boeing 376HP spin-stabilized satellite, with
+a dry mass of around 700 kg. It is owned by the Luxembourg-based company
+SES and will broadcast to the British Isles. Astra 2D was in
+a 292 x 35835 km x 2.2 deg transfer orbit on Dec 22; no new element
+sets have been released since, and it may have fired its Star 30 solid
+apogee kick motor.
+
+Underneath the SYLDA 5 adapter Ariane V138 carried GE 8, a C-band TV and
+data distribution satellite for GE Americom. It is jointly owne by AT&T
+Alascom for Alaskan communications, and is also called Aurora III.
+Americom and Alascom were originally both RCA subsidiaries, and in the
+satellite communications game Alascom has continued to use the Americom
+network; GE operates the satellite.
+
+    Americom/Alascom satellite
+
+    Americom name  Alascom name   Type            Operating dates
+    RCA Satcom 5   Aurora I       RCA Adv Satcom  1982-1991
+    GE Satcom C-5  Aurora II      GE 3000         1991-2000+
+    GE 8           Aurora III     LMMS A2100A     2000-
+
+GE 8 is a Lockheed Martin A2100A with a launch mass of 2015 kg and
+a dry mass of 919 kg. It has 24 C-band transponders. By Dec 26
+GE 8 had reached an 18656 x 35760 km x 0.4 deg orbit on its way to GEO.
+
+Ariane V138's EPS upper stage carried an ASAP5 small payload attachment
+ring with a special camera system and the LDREX experimental antenna for
+Japan's NASDA space agency. LDREX was a 6-m diameter antenna which deployed
+40 minutes after launch, to test the deployment mechanism for the larger
+antenna to be used on the ETS-8 satellite. After the test the antenna was
+jettisoned. LDREX has not yet been separately cataloged, and NASDA
+does not seem to have issued any comment on the success of the deployment.
+
+China launched the second Beidou navigation satellite on Dec 20.
+The CZ-3A rocket was launched from Xichang at 1620 UTC and entered 
+parking orbit at 1630 UTC. A second burn of the third stage put
+Beidou in geostationary transfer orbit at around 1642 UTC. The 
+Beidou satellite is based on the DFH-3 comsat and has a mass of
+around 2200 kg including its FY-25 solid apogee motor.
+On Dec 25 Beidou was in a 190 x 41870 km x 25.0 deg transfer orbit.
+
+
+Telemetry has been received from AMSAT-Oscar-40 after two weeks of
+silence, confirming that the recently launched amateur radio satellite
+is still functioning.
+
+Major Suborbital Launches 2000
+
+I don't normally include suborbital launches in my newsletter because it's
+so hard to get comprehensive information. However here is an attempt 
+to summarize the larger suborbital vehicles launched this year. Only one
+launch by the Russian Strategic Rocket Forces is known, but there
+were probably many more. Apogees with question marks reflect typical
+apogees of that type of rocket.
+
+ Date         Vehicle             Mission       Site               Apogee/km
+ 2000 Jan 19  Minuteman 2         MSLS IFT-4    Vandenberg LC03    1600
+ 2000 Jan 19  Minuteman 2 PLV     PLV/EKV       Meck                230
+ 2000 Feb 25  Black Brant XII     NASA 40.08UE  Poker Flat Pad 4?  1000?
+ 2000 Feb 26  Black Brant XII     GEODESIC      Poker Flat Pad 3?  1000
+ 2000 Mar  8  Peacekeeper         GT29PA        Vandenberg LF05    1600?
+ 2000 Apr 30  Trident D-5         -             SSBN 742, ER         ?
+ 2000 Apr 30  Trident D-5         -             SSBN 742, ER         ?
+ 2000 May 24  Minuteman 3         PRP FTM-02    Vandenberg LF09    1600?
+ 2000 May 28  Minuteman 2         TLV-1         Vandenberg LF06    1600?
+ 2000 Jun  9  Minuteman 3         GT172GM       Vandenberg LF09    1600?
+ 2000 Jul  8  Minuteman 2         MSLS IFT-5    Vandenberg LF03    1600?
+ 2000 Jul  8  Minuteman 2 PLV     PLV/EKV       Meck                230?
+ 2000 Sep 21  Trident D-5         -             HMS Vengeance, ER    ?
+ 2000 Sep 28  Minuteman 3         GT173GM       Vandenberg LF04    1600?
+ 2000 Sep 28  Minuteman 3         GT174GM       Vandenberg LF09    1600?
+ 2000 Nov  1  UR-100NUTTKh        -             Baykonur             ?
+ 2000 Dec  4  SS-520              SS-520-2      Svalrak            1000
+ 2000 Dec 16  DF-31               -             Taiyuan              ?
+
+ Smaller, intermediate altitude rockets:
+
+ 2000 Feb 12  Black Brant IX      NASA 36.186UG White Sands         350?
+ 2000 Feb 26  Black Brant IX      NASA 36.162DG White Sands         350?
+ 2000 Mar 27  Skylark 7           TEXUS 37      Esrange             243
+ 2000 Apr  2  Skylark 7           TEXUS 38      Esrange             240?
+ 2000 May  6  Black Brant IX      NASA 36.183UG White Sands         350?
+ 2000 Jul  6  Black Brant IX      NASA 36.166UM White Sands         350?
+ 2000 Jul  7  Terrier Oriole      -             Wallops Island      368
+ 2000 Jul 17  Black Brant VIII    NASA 27.143UE White Sands         300?
+ 2000 Jul 26  Black Brant IX      NASA 36.185GS White Sands LC36    350?
+ 2000 Aug  5  Black Brant IX      NASA 36.189UG White Sands         406
+ 2000 Sep  5  Black Brant IX      NASA 36.151US White Sands         350?
+ 2000 Sep 21  Shahab 3            -             Shahpur?             ?
+ 2000 Oct 26  Black Brant VC      NASA 21.126CE White Sands         275?
+
+ 
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Nov 10 1714   GPS SVN 41        Delta 7925     Canaveral SLC17A Navsat     71A
+Nov 16 0107   PAS 1R   )        Ariane 5G      Kourou ELA3      Commsat    72A
+              AMSAT-Oscar-40)                                   Commsat    72B
+              STRV-1c  )                                        Tech       72C
+              STRV-1d  )                                        Tech       72D
+Nov 16 0132   Progress M1-4     Soyuz-U        Baykonur LC1     Cargo      73A
+Nov 20 2300   QuickBird 1       Kosmos-3M      Plesetsk LC132   Imaging    74A
+Nov 21 1824   EO-1  )           Delta 7320     Vandenberg SLC2W Imaging    75A
+              SAC-C )                                           Imaging    75B
+              Munin )                                           Science    75C
+Nov 21 2356   Anik F-1          Ariane 44L     Kourou ELA2      Commsat    76A
+Nov 30 1959   Sirius 3          Proton-K/DM3   Baykonur LC81L   Commsat    77A
+Dec  1 0306   Endeavour)        Space Shuttle  Kennedy LC39     Spaceship  78A
+              ITS P6   )                                       Station seg.
+Dec  5 1232   EROS A1           Start-1        Svobodniy        Imaging    79A   
+Dec  6 0247   USA 155           Atlas 2AS      Canaveral SLC36A Commsat?   80A
+Dec 20 0026   Astra 2D )        Ariane 5G      Kourou ELA3      Commsat    81A
+              GE 8     )                                        Commsat    81B
+              LDREX    )                                        Tech       81C
+Dec 20 1620   Beidou            CZ-3A          Xichang LC2      Navsat     82A
+Dec 27 1856   Gonets D-1 )      Tsiklon-3      Plesetsk LC32    Commsat    F03
+              Gonets D-1 )
+              Gonets D-1 )
+              Strela-3   )
+              Strela-3   )
+              Strela-3   )
+
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-102 2001 Mar  1  ISS 5A.1
+OV-104 Atlantis        VAB Bay 3     STS-98  2001 Jan 21? ISS 5A
+OV-105 Endeavour       OPF Bay 2     STS-100 2001 Apr 19  ISS 6A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

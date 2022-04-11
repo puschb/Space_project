@@ -1,0 +1,258 @@
+Jonathan's Space Report
+No. 684                                                   2013 Aug 24, Somerville, MA
+-------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 36 is underway. The crew are commander Pavel Vinogradov, 
+Flight Engineers FE-2 Alexandr Misurkin, FE-3 Chris Cassidy, FE-4
+Yurchikin, FE-5 Parmitano and FE-6 Nyberg. Ferry ship Soyuz TMA-08M is
+at Poisk and TMA-09M at Rassvet. Cargo ship ATV-4 is at the Zvezda module.
+
+On Aug 3 Japan launched the fourth H-II Transfer Vehicle, Kounotori-4,
+to deliver cargo to the ISS. HTV carries pressurized cargo that will
+be transferred through the Harmony module hatch and an external pallet
+whose payloads will be installed using the robot arms.
+Mass of HTV-4 is very roughly 16000 kg. 
+
+The EP carries the Space Test Program H4 package to be installed on
+ELC1, a spare Main Bus Switching Unit for ELC2, and a spare SARJ Utility
+Transfer Assembly for ELC4.  The MBSU is around 100 kg; I haven't been
+able to find masses for STP-H4 and UTA, but they are each probably
+around 300 to 400 kg (send me better data if you have it!)
+
+The pressurized cargo is packaged in 8 HTV Resupply Racks and includes
+the FROST freezer, the Kirobo robot,  NASA's RRM Task Board 3
+robotics experiment, and two J-SSOD cubesat launchers. The J-SSODs
+will be taken outside via the Kibo science airlock and will eject
+their passengers. One J-SSOD carries three 1U cubesats: Vietnam's
+PicoDragon, and the US company NanoSatisifi's Ardusat-X and Ardusat-1,
+which use Arduino open-source processors to run experiments.
+The other J-SSOD carries TechEdSat-3p, a 3U cubesat from NASA-Ames and San Jose State
+University, which will deploy an 0.6m `Exobrake' sail to test a way to increase
+the cubesat's drag and make it reenter quickly.  
+
+HTV 4 reached the ISS on Aug 9, holding 10 metres off the Station until the Canadarm-2
+robot arm captured it at 1122 UTC. The arm berthed the module on the Harmony node
+at 1528 UTC, and it was firmly bolted to ISS ten minutes later. The hatch to the
+pressurized cabin of the HTV was opened at 1111 UTC Aug 10. On Aug 11 at 2107 UTC
+the Canadarm removed the Exposed Pallet (EP) from the HTV, and at 0359 UTC Aug 12
+the EP was installed on the end of the Kibo Exposed Facility pallet. The equipment
+on the EP will be relocated to the ELC pallets on the truss
+using the Japanese and Canadian robot arms.
+
+On Aug 19 the fabric covers on ESA's ATV WAL-6 antenna, which is mounted on the forward end
+of the Zvezda module, floated away and was spotted near the Station by Chris Cassidy.
+As of Aug 21 it had not been cataloged.
+
+On Aug 16 astronauts Yurchikin and Misurkin made a spacewalk (VKD-34) from the Pirs
+airlock using the Orlan-MK 5 and 6 spacesuits. They installed the Vinovlivost Panel 2
+exposure experiment on Poisk, and routed cables for the MLM module that Russia 
+plans to launch to the Station. The airlock was depressurized around 1410 UTC
+and the hatch was opened at 1436 UTC; hatch was closed again at 2205 UTC and
+repressurization began at 2208 UTC.
+
+On Aug 22 Yurchikin and Misurkin went outside again for VKD-35, this time using
+suits 4 and 6 respectively. They retrieved the BLTS-N laser comms experiment,
+replacing it with the DPN/VRM adjustable mount. The mount was incorrectly
+assembled, but after a delay it was decided to install it anyway and take out
+the incorrect orientation by swivelling the DPN articulated arm.
+An Earth observing camera will
+be installed on the mount in a future spacewalk. The astronauts also inspected and
+tightened the remaining WAL antenna covers, obtained samples of the exterior
+of the Poisk module, and waved the Russian flag to celebrate the country's flag day.
+Airlock depress/repress was around 1110 UTC and 1735 UTC; hatch open/close was
+from 1134 to 1732 UTC.
+
+Some notes on the hardware for these two spacewalks:
+  Spacesuit Orlan-MK No. 4 was launched on Progress M-65 in Sep 2008 and has been used
+    for 9 spacewalks.
+  Spacesuit Orlan-MK No. 5 was launched on Progress M-66 in Feb 2009 and has been used
+    for 9 spacewalks.
+  Spacesuit Orlan-MK No. 6 was launched on Progress M-02M in May 2009 and has been used
+    for 10 spacewalks.
+  The WAL-6 antenna was launched on Progress M-52 in Feb 2005 and installed on a 2005 Mar 28
+   spacewalk.
+  Vinoslivost Panel 2 was launched on Progress M-14M in Jan 2012, was taken
+    outside to be installed on Poisk on 2012 Feb 16 and retrieved on 2013 Jun 24.
+   I am not sure if this is the same 'Panel 2' that was then taken outside on Aug 16
+   and installed on Poisk, or a replacement. Progress M-19M delivered a `Vinoslivost
+   sample changer' so perhaps it's the same panel loaded with a new set of exposure samples.
+  The BTLS-N lasercom experiment was launched on Progress M-10M in Apr 2011 and installed
+   durin an EVA on 2011 Aug 3.
+  The DPN and VRM were delivered recently on Progress M-20M.
+
+
+WGS 6
+------
+
+The US military X/Ka-band communications satellite WGS 6 was launched
+from Cape Canaveral on Aug 8, expanding the Wideband Global Satcom
+constellation. The Delta 4 rocket reached a 185 x 6880 km x 25.6 deg
+parking orbit at 0049 UTC and then an approximately 440 x 66900 km x
+24.0 deg supersynchronous transfer orbit at 0100 UTC; the satellite
+separated from the rocket at 0109 UTC. This WGS satellite was funded by
+Australia, and the Australian Defense Force also makes use of the network.
+
+Shiyan 7
+---------
+
+A Chinese satellite launched on Jul 19, after maneuvering
+close to Chuangxin-3 on Aug 6 and Aug 9, has completed an unexpected
+rendezvous in a 564 x 610 km x 97.7 deg orbit with the Shi Jian 7 (SJ-7)
+satellite launched in 2005. The rendezvous was spotted by a Hong Kong
+based space expert who uses the twitter handle @cosmic_penguin, and
+further analysed by Bob Christy of zarya.info. 
+
+The satellite is one of three from the Jul 19 launch. All three
+satellites are being tracked by the US but we're not sure which is which
+- we are pretty confident that the satellite China calls Chuangxin-3 is
+the one the US labels 'Payload B'. However, we don't know which of
+Shiyan-7 (SY-7)  and Shi Jian 15 (SJ-15) is 'Payload A' (in a fixed
+orbit) and which is 'Payload C' (the one making rendezvous with SJ-7). I
+think, for reasons that are not terribly compelling, that Payload C is
+probably Shiyan-7, although Bob Christy now suggests that it  may be
+SJ-15. Note: do not confuse the "Shiyan" (Experiment) and "Shi Jian"
+(Practice) series of  satellites.
+
+In any case, Payload C was orbiting close to SJ-7 for the period Aug 19 to 20
+in a 564 x 610 km orbit, and then maneuvered away to a 560 x 604 km orbit.
+
+The mission of target satellite SJ-7 is mysterious; it undergoes
+occasional orbital maneuvers, lasting a few days, of up to 10 km in
+height, interspersed with long periods of quiescent decay. After launch
+to a 546 x 571 km orbit, minor orbit maneuvering occured on 2005 Jul
+29-30, 2005 Nov 22, 2005 Dec 3, 2006 Jan 18, 2006 Mar 16, and 2006 Jul
+13. On 2006 Jul 28-30 the apogee was raised by 14 km. After a two year
+pause, on 2008 Apr 21 the perigee was tweaked up, and on May 3 down
+again, followed by further maneuvers on 2008 Aug 22-Oct 21 and orbit
+lowering on 2009 Jan 6-13, leaving it in a 519 x 543 km orbit until 2012
+Apr 21, when a week of maneuvers raised the orbit to 533 x 593 km.
+Further orbit raising on 2012 Dec 10-13 and 2013 Jan 11-13 raised the
+orbit further to 565 x 611 km, the highest to date in its mission.
+
+
+Kompsat-5
+---------
+
+South Korea's KARI agency has launched its first X-band SAR satellite,
+the `No. 5 Multi-Purpose Satellite' (damogjeogsil-yong-wiseong 5-ho, KOMPSAT-5).
+The KOMPSAT-5 satellite (also known as Arirang-5) was launched
+from the Russian missile base at Yasniy/Dombarovskiy on Aug 22 aboard a
+Dnepr rocket (recycled R-36M missile). The satellite is in a 553 x 552 km x 97.6
+deg sun-synchronous orbit with a 17:59LT descending node; it has a mass
+of about 1400 kg.
+
+Herschel/Planck
+---------------
+
+In May 2009 the Herschel infrared space telescope and the Planck microwave background
+observatory were launched aboard a single Ariane 5, and were stationed at the Earth-Sun L2 Lagrange
+Point 1.5 million km towards midnight. After completing their very successful missions this
+year, the spacecraft have now been sent into solar orbit and will be deactivated.  Herschel departed
+L2 on Apr 1 and was turned off on Jun 17; it is in a 1.04 x 1.06 AU x 0.19 deg solar orbit.
+Planck departed L2 on Aug 14 for a 1.00 x 1.10 AU x 0.1 deg orbit and will be switched
+off on Oct 23.
+
+Strela/Rokot
+-------------
+
+Three Russian Strela-3/Rodnik-S military communications satellites were launched
+by a Rokot vehicle in January, as noted in JSR 673. Two of those
+satellites, Kosmos-2482 and Kosmos-2484, maneuvered  to their
+operational 115.86 min, 1472 x 1515 km orbit, which involved raising
+their apogees by around 10 km over a period of a month. Kosmos-2483,
+however, remains in its original 115.76min, 1477 x 1502 km insertion
+orbit. An Aug 6 article from RIA Novosti reveals that the Rokot's Briz
+upper stage malfunctioned, presumably at the satellite deployment stage.
+Russia has announced it plans to resume Rokot launches in September.
+
+According to the rating scheme I described in JSR 669, reaching the
+correct insertion orbit but having one of three primary payloads fail to
+separate (or separate with a fatal problem) gets a success score of 0.75. 
+It is a relatively minor failure;  however for cruder statistical pass/fail purposes
+I consider '0.75 or less to be a failure' (JSR 669) 
+so if K-2483 is a failure then the entire launch is now - just barely - a failure by my count. 
+
+In 17 orbital launches since 2000 the  Rokot/Briz-KM has had three
+problems: the complete launch failure of Cryosat (score 0.0), the
+delivery of GEO-IK-2  to an unusable orbit (score 0.40) and this flight
+(two of three payloads apparently just fine). This gives a weighted
+success rate for Rokot of  15.15/17.0 = 0.89. (The 1994 test launch of
+Rokot used the earlier Briz-K stage; because of that and the long gap
+before the second launch I'm not including it in the stats).
+
+The Novosti article suggested that the problems caused failure of one
+satellite, presumable 2483. An article in Kommersant suggests that
+Kosmos-2482 and 2484 also separated incorrectly and were only recovered
+after special actions, and that Kosmos-2483 is now in fact operating
+despite its lack of orbit change. I'll score 'non fatal separation
+problems' as 0.90 per major payload, which if this report is correct
+would change this  flight's score to 0.68 if 2483 is dead, or 0.90 if it
+is operating.  I forgot to include this category of failure in my JSR669
+list - it would also include a few cases where an upper stage's residual
+thrust caused it to bump into the payload after separation without
+causing major damage.
+
+Erratum
+--------
+
+The SGTRC box is part of the SGANT Ku-band comm system - not
+S-band as I mistakenly reported in JSR 682.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Jul  1 1811   IRNSS-1A           PSLV-XL          Sriharikota LP1   Navigation  34A
+Jul  2 0238   Glonass-M No. 48 ) Proton-M/DM-03   Baykonur LC81/24  Navigation  F02
+              Glonass-M No. 49 )                                    Navigation  F02
+              Glonass-M No. 50 )                                    Navigation  F02
+Jul 15 0927   SJ-11-05           Chang Zheng 2C   Jiuquan           Early Warn  35A
+Jul 19 1300   MUOS 2             Atlas V 551      Canaveral SLC41   Comms       36A
+Jul 19 2337   Shi Jian 15 )      Chang Zheng 4C   Taiyuan           Tech        37C
+              Shiyan 7    )                                         Surveill.   37A
+              Chuangxin 3 )                                         Tech        37B
+Jul 25 1954   Alphasat )         Ariane 5ECA      Kourou ELA3       Comms       38A
+              Insat 3D )         Ariane 5ECA      Kourou ELA3       Weather     38B
+Jul 27 2045   Progress M-20M     Soyuz-U          Baykonur LC31     Cargo       39A
+Aug  3 1948   Konoutori 4        H-IIB            Tanegashima LP2   Cargo       40A
+Aug  8 0029   WGS 6              Delta 4M+(5,4)   Canaveral SLC37   Comms       41A
+Aug 22 1439   Arirang-5          Dnepr            Yasniy Sh370/13   Imaging     42A
+
+Suborbital launches
+-------------------
+
+NASA flight 36.239DS carried the VERTIS solar spectrometer from NRL.
+Flight 46.005UO carried the Rocksat-X student experiment payload.
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jul  4 1431   NASA 21.140GE    Black Brant V       Wallops I.        Ionosphere   135?
+Jul  4 1431   NASA 41.090GE    Terrier Imp. Orion  Wallops I.        Ionosphere   160?
+Jul  5 1829?  FTG-07 Target?   LV-2?               Kwajalein         Target      1000?
+Jul  5 1835   FTG-07 CE-I EKV  GBI                 Vandenberg        Intercept   1000?
+Jul 12        Jericho RV       Jericho III         Palmachim         R&D test     300?
+Jul 15 0553   MAPHEUS 4        VS-30               ESRANGE,Kiruna    Micrograv    151
+Jul 20 0200   S-310-42         S-310               Uchinoura         Atmos sci    139
+Jul 20 0257   S-520-27         S-520               Uchinoura         Atmos sci    316
+Aug  8 1810   NASA 36.239DS    Black Brant IX      White Sands       Solar UV     280
+Aug 12 0345   Prithvi RV       Prithvi II          Chandipur         Training     100?
+Aug 13 1000   Rocksat-X        Terrier Imp. Mal.   Wallops I         Education    151
+Aug 15        PAC-3 Target     Juno?               Ft Wingate?       Target       100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

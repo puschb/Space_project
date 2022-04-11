@@ -1,0 +1,143 @@
+Jonathan's Space Report
+No. 506                                          2003 Aug 13, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew, Yuriy Malenchenko and Edward Lu, remain on board
+the Space Station. The Space Shuttle fleet remains grounded.
+
+Errata
+-------
+
+I should know better than to do physics in public. A couple of readers
+caught my goof in the foam calculation last issue: using the equations
+in the CAIB document, I foolishly did not account for the fact that for
+a denser material like ice, the lower drag acceleration means that the
+time to travel a fixed distance d in the orbiter rest frame is a
+function of the density. My correspondents assumed constant acceleration
+a and derived v^2 = 2ad which leads to a kinetic energy independent of
+density. (This isn't right either, since the acceleration decreases
+quite quickly as the the particle's velocity approaches the flow
+velocity, and if you integrate the velocity equation derived by the CAIB
+you get a more complicated formula, but to first order it is true that
+the the KE is independent of density, not inversely proportional as I
+claimed.) In fact, the KE for the ice impact is about 50 percent larger
+than that for the foam. Oh well, the point remains that foam is,
+counterintuitively, not as much better than ice as you might expect.
+
+Neville Kidger points out that he published the TMA-1 landing time
+in the July 2003 issue of Spaceflight. Fair enough Neville, you beat me :-)
+
+
+Recent Launches
+---------------
+
+Orbital Sciences' L-1011 Stargazer carrier aircraft took off from
+Vandenberg AFB at 0113 UTC on Aug 13 carrying a Pegasus rocket, and
+headed out over the Pacific. At 0209 UTC, probably at the standard drop
+location of 36N 123W, the Pegasus was released at an altitude of about
+12 km and ignited its first stage motor 5 seconds later. At 0217 UTC the
+third stage and its Scisat-1 payload reached a 641 x 654 km x 73.9 deg
+orbit.
+
+Scisat-1 is a scientific satellite for the Canadian Space Agency and
+carries the ACE-FTS spectrometer to study the chemistry of the upper
+troposphere and stratosphere, as well as the MAESTRO instrument to study
+ozone and aerosol levels in the atmosphere.
+
+The Russian Space Forces launched an 115A11U Soyuz-U rocket from
+area 31 at Baykonur on Aug 12. 9 minutes later the 11S510 Blok-I
+third stage entered a 170 x 311 km x 65.0 deg orbit and released
+a classified reconnaissance satellite which was given the cover
+name Kosmos-2399. 
+
+This initial orbit is similar to the initial orbits of the Don spy
+satellites, a variant of the Yantar' series. The Don carries 8
+recoverable film capsules and has a total mass of around 7600 kg. If
+Kosmos-2399 is a Don, it should change its orbit in a couple of days to
+an operational 210 x 311 km  orbit and will probably remain in orbit for
+around 4 months. However, after I wrote the previous sentence and
+prepared to send this report out, Space Command released new orbital
+data showing Kosmos-2399 instead manoeuvred to a 172 x 356 km orbit more
+reminiscent of the Kobal't spy satellites. I doubt it's one of those,
+since there hasn't been a Kobal't launch from Baykonur since 1989 - the
+last 35 launches have been from Plesetsk. (Actually, the current
+low-perigee satellite is almost certainly a successor generation to
+Kobal't, but we don't know its classified name yet, so I'm sticking with
+the old name for now). But the new orbit does match the initial orbit
+for  the third Don flight, Kosmos-2163. So I still think I'm right in
+guessing this is a Don flight, and I predict a new orbit raising burn
+within 24 hours will increase the perigee to around 210 km.
+
+Previous launches of Don satellites were:
+
+                        Launch date  Duration  Initial orbit   Final orbit
+ Don (1)     Kosmos-2031   1989 Jul 18   59d   193x263x50.5  230x296x50.5
+ Don (2)     Kosmos-2101   1990 Oct  1   60d   170x296x64.8  210x292x64.8
+ Don (3)     Kosmos-2163   1991 Oct  9   59d   171x352x64.8  208x355x64.8
+ Don (4)     Kosmos-2225   1992 Dec 22   58d   170x310x64.9  214x308x64.9
+ Don (5)     Kosmos-2262   1993 Sep  7  103d   172x290x64.9  207x323x64.9
+ Don (6)     Kosmos-2343   1997 May 15  126d   169x324x64.9  205x323x64.9
+ ?           Kosmos-2399   2003 Aug 12         170x311x64.9  172x356x64.9
+
+Recent Kobal't launches were:
+
+ Kobal't (80) Kosmos-2365  1999 Aug 18  119d   166x342x67.1  166x341x67.1
+ Kobal't (81) Kosmos-2377  2001 May 29  103d   165x358x67.1  184x355x67.1
+ Kobal't (82) Kosmos-2387  2002 Feb 25  122d   165x344x67.1  185x357x67.1
+
+
+Boeing Sea Launch put the Echostar 9 satellite in orbit  on Aug 8.
+Echostar 9 carries a Ku and Ka band communications payload for 
+Echostar, and a C-band payload currently owned by Loral Skynet but about
+to be sold to Intelsat. Loral calls the satellite Telstar 13. Mass of
+Echostar 9 was 4737 kg at launch; I don't know the dry mass. The Sea
+Launch Zenit-3SL put the payload first in a 180 x 913 km x 0 deg parking
+orbit and then, after a second burn and separation of the Blok DM-SL
+final stage, into a 713 x 35855 km x 0.03 deg geostationary transfer
+orbit. The inclination to the equator of only 0.03 deg is the lowest of
+any Sea Launch flight to date and I believe the lowest inclination
+initial orbit insertion ever. The Zenit-3SL rocket is launched from
+a floating platform directly on the equator.
+
+A small debris object, 1990-037D, has been tracked and been associated
+with the Hubble Space Telescope; I'm guessing a piece of insulation has
+flaked off. It was given catalog number 27822, previously expected to be
+assigned to the Briz-M rocket from the AMC-9 launch. The Briz-M has not
+yet been cataloged.
+
+Aalborg University has contacted its AAU-Cubesat nanosatellite. As far
+as I know, the other Danish cubesat DTUSat is still silent. A source
+tells me that the identifications in the Space Command for some of the
+2003-031 objects are still mixed up.
+
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  8 0318   MER-B Opportunity Delta 7925H     Canaveral SLC17B  Mars probe 32A
+Jul 17 2345   Rainbow 1         Atlas V 521     Canaveral SLC41   Comms      33A
+Aug  8 0331   Echostar 9        Zenit-3SL       Odyssey, POR      Comms      34A
+Aug 12 1420   Kosmos-2399       Soyuz-U         Baykonur LC31/6   Imaging    35A
+Aug 13 0209   Scisat-1          Pegasus XL      Vandenberg RW30/12 Science   36A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

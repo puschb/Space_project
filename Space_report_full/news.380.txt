@@ -1,0 +1,259 @@
+Jonathan's Space Report
+No. 380                                       1998 Nov 26 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Note: I've updated the launch log files at 
+http://hea-www.harvard.edu/~jcm/space/log/
+
+Shuttle and Station
+------------------------
+
+The International Space Station era has begun. The launch of the Zarya
+module was successful on Nov 20 at 0640 UTC. Zarya is the first element
+of the International Space Station. It was funded by the US and built by
+Krunichev in Moscow, and will be controlled by RKA/Energiya in Korolev. 
+Krunichev built it under a subcontract from Boeing for NASA, so I
+imagine that formally NASA is the owner but RKA is the operator.
+The Zarya derives its design from the TKS spaceship and the 77KS Mir
+side modules. Zarya is the Funktional'no-Gruzovoy Blok (FGB), serial
+77KM No 175-01. It includes a multiple docking adapter, a pressurised
+cabin section, and a propulsion/instrument section with a rear docking
+port. Zarya was launched by a three stage Proton-K (8K82K) rocket,
+serial 395-01, from pad 81L at 5-GIK (the Baykonur cosmodrome). The
+third stage and Zarya reached orbit 9 min after takeoff. Initial orbit
+was 176 x 343 km x 51.6 deg. By Nov 25 it had maneuvered to a 383 x 396
+km x 51.7 deg orbit, awaiting the launch of Shuttle mission STS-88 which
+will dock the Unity node to it.
+
+Launches of spacecraft in the TKS/77KS series:
+
+TKS Mockup        1976 Dec 15  (with Kosmos-881/882)
+TKS   No. 161-01  1977 Jul 17  Kosmos-929, TKS test flight
+TKS Mockup        1977 Aug  5  (launch failure)
+TKS Mockup        1978 Mar 30  (with Kosmos-997/998)
+TKS Mockup        1979 May 22  (with Kosmos-1100/1101)
+TKS   No. 163-01  1981 Apr 25  Kosmos-1267, TKS test docked with Salyut-6
+TKS-M No. 164-01  1983 Mar  2  Kosmos-1443, TKS test docked with Salyut-7
+TKS-M No. 165-01  1985 Sep 27  Kosmos-1686, module docked with Salyut-7
+FSB   No. 166-01  1987 Mar 31  Propulsion unit for Kvant module
+FSB   No. 162-01  1987 May 15  Propulsion unit for Skif-DM payload
+TsM-D No. 171-01  1989 Nov 26  Kvant-2, docked with Mir
+TsM-T No. 172-01  1990 May 31  Kristall, docked with Mir
+TsM-O No. 173-01  1995 May 20  Spektr, docked with Mir
+TsM-I No. 174-01  1996 Apr 23  Priroda, docked with Mir
+FGB   No. 175-01  1998 Nov 20  Zarya, ISS first element
+USM   No. 176-01  Under construction as ISS docking module
+
+
+Meanwhile, Space Shuttle OV-105 Endeavour is on the launch pad ready for
+mission STS-88 on Dec 3. Crew of STS-88 are: Commander - Col. Robert
+Cabana, USMC, NASA chief astronaut Pilot - Maj. Frederick Sturckow,
+USMC/NASA Mission Specialists: Col. Jerry Ross, USAF/NASA, Maj. Nancy
+Currie, USA/NASA, Dr. James Newman, NASA, and Sergei Krikalyov, RKA. The
+payload bay contains the following cargo:
+
+Sill:     RMS arm No. 303
+Bay 1-2:  Tunnel Adapter 002
+Bay 3-4:  Orbiter Docking System/External Airlock  (Boeing/Palmdale)
+Bay 7-13: Unity (Node 1)         (Boeing/Huntsville)
+          PMA-1 docking adapter  (Boeing/Huntingdon Beach), 
+          PMA-2 docking adapter  (Boeing/Huntingdon Beach)
+
+Bay 2  Port: GABA adapter with SAC-A satellite
+Bay 4  Port: Carrier with PFR spacewalk restraint
+Bay 4  Stbd: Carrier with Cable Caddy for spacewalks
+Bay 5? Stbd: Carrier with PFR spacewalk restraint
+Bay 6  Port: GABA adapter with Mightysat
+Bay 6? Stbd: Carrier with two TCS laser rendevous sensors
+Bay 13 Port: GABA adapter with SEM-7 and G-093 canisters
+Bay 13 Stbd: GABA adapter with IMAX Cargo Bay Camera
+
+The PMA-1 and PMA-2 adapters are detachable from Unity, but launched
+installed. Endeavour will unberth Unity from the bay using the RMS arm,
+and dock PMA-2 to the Orbiter Docking System. After rendezvous, the
+axial +Y port of Zarya will be attached to PMA-1. PMA-2 will be used as
+ISS's main Shuttle docking port; it will be moved from Unity to the Lab
+module when that is launched.
+
+The SAC-A satellite is an Argentine payload which carries an
+experimental remote sensing camera and a marine life science experiment
+consisting of a GPS receiver which will track signals from a
+GPS-equipped whale (yes, a whale). The 60 kg satellite was build by
+INVAP of Bariloche for CONAE, the Argentine space agency. It will be
+ejected from an HMDA canister in the payload bay.
+
+Mightysat is a small satellite with a mass of about 70 kg, built by
+Orbital Sciences/McLean.  It carries a suite of  technology experiments
+for USAF Phillips Lab. Mightysat and SAC-A share a Hitchhiker avionics
+box. SEM-7 is a canister with high school experiments; G-093 has a 
+physics experiment for the U. of Michigan.
+
+The ISS overview press kit shows a cargo bay view with the 'AMTEC/AWCS'
+experiments where SEM-7/G-093 should be; in fact, AMTEC and AWCS are
+technology experiments on the Mightysat payload, although it's not clear
+if they are mounted on the subsatellite or remain attached to the
+Shuttle. The new, "improved" (sic) STS press kits themselves have no
+graphics of the payloads, so I'm not sure of the details of the EVA
+equipment.
+
+
+Mir
+---
+
+Padalka and Avdeev made a spacewalk from the  Kvant-2 airlock on the Mir
+complex on Nov 10-11. Hatch open was Nov 10 1924 UTC and hatch closed
+was Nov 11 0118 UTC according to C. van den Berg. They installed a
+meteorite detector in  preparation for the Leonid shower, and
+hand-launched the Spoutnik-41 amateur-radio minisatellite at around 1930
+UTC (anyone have a better time?). Spoutnik-41 (Spoutnik is the French
+spelling) is a scale model of the first satellite, PS-1, launched 41
+years ago. It carries a small transmitter, and is also designated RS-18.
+A similar model was launched last year. Sponsors of the satellite are
+Aero Club de France, AMSAT-France, and the Astronautical Federation of
+Russia.
+
+On that occasion, two flight models were carried to Mir but only one was
+launched. The second Spoutnik-40 flight model is still aboard Mir. The
+recent Progress flight carried up yet a third satellite with an improved
+electronics module. (There was earlier some confusion about whether the
+RS-18 satellite was a new satellite or was the one stored on Mir since
+last year; Bernard Pidoux confirms Spoutnik-41 is an entirely new
+satellite, and the plan to just swap out the electronics module on the
+other one was abandoned). The second Spoutnik-40 may still be deployed
+next year. Four other objects from the EVA are being tracked by Space
+Command.
+
+STS-93/AXAF
+-----------
+
+The solid rocket boosters for mission STS-93 have been stacked
+on mobile launch plaform MLP-1 in the VAB. The AXAF telescope
+payload is still in California; launch of STS-93 is now expected
+in March.
+
+Recent Launches
+---------------
+
+The BONUM-1 satellite was successfully launched by a Boeing Delta 2 on
+Nov 22. BONUM-1 is a Hughes HS-376HP communications satellite with a
+Thiokol Star 30 solid apogee motor. The satellite will provide domestic
+Russian communications for Media Most, a Moscow-based television and
+media conglomerate, broadcasting 50 channels to western Russia from a
+position at 36 deg E. Mass is 1426 kg at launch, around 630 kg dry.  The
+HS-376HP is small by today's standards and carries just 8 Ku-band
+transponders. The Delta 7925-9.5 launch vehicle  entered a 157 x 189 km
+x 29.2 deg parking orbit ten minutes after launch. Two further burns of
+the second stage raised the orbit to 159 x 1304 km and then 1228 x 1683
+km x 26.7 deg. The Thiokol Star 48B solid third stage then boosted
+BONUM-1 to a 1285 x 36703 km x 19.5 deg geostationary transfer orbit
+while the second stage made a final depletion burn to lower its orbit to
+274 x 1552 km x 25.6 deg, making sure it will reenter quickly.
+
+Deep Space 1, in solar orbit, successfully started its ion drive on Nov
+24. An initial attempt failed after four minutes on Nov 10. This is the
+first time ion propulsion has been used as the primary propulsion
+on a spacecraft.
+
+Below is a list of spacecraft thought to have tested electric propulsion
+systems. I haven't done a proper study of this subject, so this list is
+incomplete and may have errors - perhaps someone can come up with a
+better one. It is intended to include ion thrusters, pulsed plasma
+thrusters and Hall effect thrusters, but exclude  the lower efficiency
+arcjets. The Russians report 15 flights of stationary Hall plasma
+thrusters since 1971. The XIPS is an 8-cm ion thruster; NSTAR is a 30-cm
+one. All systems prior to this year were used for experiments only, or
+for fine orbit control and maintenance. What's new is that DS1 and STEX
+will actually use their systems for major orbit changes.
+
+1964 Jul 20  SERT (NASA)      30 minute test, suborbital
+1964 Aug 29  661A Flight 21-2 (USAF) Suborbital
+1964 Dec 21  661A Flight 21-3 (USAF) Suborbital
+1965 Apr 3   SNAPSHOT (USAF)  (telemetry failed)
+1965 Jul 18  3MV-4 No. 3      Test in solar orbit? (USSR)
+1968 Aug 10  ATS 4            
+1969 Aug 12  ATS 5 
+1970 Feb  4  SERT-2 (NASA)    Two thrusters, operated until 1980
+1972 Feb  2  Meteor           Plasma engine
+1974 May 30  ATS 6            Cs ion engine test
+1974 Jul  9  Meteor-Priroda 1 Plasma engine
+1975 Oct 12  TIP 2            Pulsed plasma thruster
+1976 Mar 15  LES-8/LES-9      Pulsed plasma thrusters
+1976 Sep  1  TIP 3            Pulsed plasma thruster
+1981 Feb 11  ETS-4 (NASDA)    Ion thruster
+1981 May 15  Nova 1           Pulsed plasma thruster
+1984 Oct 12  Nova 3           Pulsed plasma thruster
+1987 Feb  1  Kosmos-1818      Plasma-1 SPT
+1987 Jul 10  Kosmos-1867      Plasma-2 SPT
+1988 Jun 16  Nova 2           Pulsed plasma thruster
+1994 Jan 20  Gals 11          SPT-100 plasma thruster
+1994 Aug 28  ETS-6 (NASDA)    Ion thrusters for NSSK
+1995 Nov 17  Gals 12          SPT-100 plasma thruster
+1997 Aug 28  PAS 5            HS-601 XIPS for NSSK
+1997 Dec  8  Galaxy 8i        HS-601 XIPS for NSSK
+1998 Aug 30  Astra 2A         HS-601 XIPS for NSSK
+1998 Oct  3  STEX             TAL-D55 plasma thruster
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  3 1004   STEX   )          ARPA Taurus    Vandenberg 576E  Technol.   55A
+              ATEX   )
+Oct  5 2251   Eutelsat W2 )     Ariane 44L     Kourou ELA2      Comsat     56A
+              Sirius 3    )                                     Comsat     56B
+Oct  9 2250   Hot Bird 5        Atlas IIA      Canaveral SLC36B Comsat     57A
+Oct 20 0719   UHF F/O F9        Atlas IIA      Canaveral SLC36A Comsat     58A
+Oct 21 1637   ARD     )         Ariane 5       Kourou ELA3      Technol.  
+              Maqsat 3)                                         Technol.   59A
+Oct 23 0002   SCD-2             Pegasus        Canaveral RW02/20 Rem.Sens. 60A
+Oct 24 1208   Deep Space 1)     Delta 7326     Canaveral SLC17A Probe      61A
+              SEDSAT 1    )                                     Amateur    61B
+Oct 25 0414   Progress M-40     Soyuz-U        Baykonur LC1     Cargo      62A
+Oct 28 2216   Afristar  )       Ariane 44L     Kourou ELA2      Radio com  63A
+              GE 5      )                                       Comsat     63B
+Oct 29 1919   Discovery )       Shuttle        Kennedy LC39B    Spaceship  64A
+              Spacehab  )                                       Laboratory 64A
+Oct 30 1845   PANSAT            -              Discovery, LEO   Test sat   64B
+Nov  1 1703   Spartan 201       -              Discovery, LEO   Astronomy  64C
+Nov  4 0512   PAS 8             Proton-K/DM3   Baykonur         Comsat     65A
+Nov  6 1337   Iridium  2)       Delta 7920-10C Vandenberg SLC2W Comsat     66A
+              Iridium 83)                                       Comsat     66E
+              Iridium 84)                                       Comsat     66D
+              Iridium 85)                                       Comsat     66C
+              Iridium 86)                                       Comsat     66B
+Nov 10 1930?  Spoutnik-41       -              Mir, LEO         Amateur    62C
+Nov 20 0640   Zarya             Proton-K       Baykonur LC81L   Station    67A
+Nov 22 2354   BONUM-1           Delta 7925     Canaveral SLC17B Comsat     68A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Mar 1999
+OV-103 Discovery       OPF Bay 1     STS-96  May 1999
+OV-104 Atlantis        OPF Bay 2     STS-101 Aug 1999
+OV-105 Endeavour       LC39A         STS-88  Dec  3
+
+MLP1/RSRM-69                   VAB Bay 1 STS-93
+MLP2/
+MLP3/RSRM-67/ET-97/OV-105      LC39A     STS-88
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+

@@ -1,0 +1,170 @@
+Jonathan's Space Report
+No. 398                                       1999 May 17  Cambridge, MA
+-------------------------------------------------------------------------------
+Obituary
+--------
+
+Russian space historian Maxim Tarasenko (1962-1999) was killed in an
+automobile accident last week. Maxim was author of the ground-breaking
+book 'Military Aspects of Soviet Cosmonautics' and a regular contributor
+to Novosti Kosmonavtiki magazine. He was one of the first Russian
+historians to present a detailed view of the newly declassified Soviet
+space program. Maxim will be missed by all of us in the space history
+community.
+
+<P><IMG SRC="http://hea-www.harvard.edu/~jcm/space/jsr/back/MAXIM.JPG">(BBC, courtesy James Oberg)
+
+Human spaceflight
+-------------------
+
+Viktor Afanas'ev, Sergey Avdeev and Jean-Pierre Haignere remain on board
+the Mir complex. The Soyuz TM-29 transport craft and the Progress M-41
+cargo ship are docked to the complex.
+
+Launch of STS-96 has been delayed to around May 27. Due to hail damage
+they've rolled the stack back to the VAB to make repairs to the External
+Tank. The STS-93 stack was rolled out of high bay 1 to make room for STS-96.
+Launch of STS-93 is no earlier than Jul 22.
+
+Recent Launches
+---------------
+
+China launched the FY-1C (Feng Yun) weather satellite from Taiyuan in
+Shanxi on May 10 on the first Chang Zheng 4B launch vehicle. The CZ-4B
+(Long March 4B) is an enhanced version of the CZ-4. FY-1C is in an 849 x
+868 x 98.7 deg sun-synchronous orbit.
+
+Previous FY launches:
+  FY-1    1988 Sep 6   CZ-4    Taiyuan
+  FY-1B   1990 Sep 3   CZ-4    Taiyuan
+  FY-2    1997 Jun 10  CZ-3    Xichang
+
+The Shi Jian 5 research satellite was also carried as a secondary
+payload to study the radiation belts. FY-1 and SJ-5 are built by the
+Shanghai Inst. for Satellite Engineering, and the CZ-4 launch vehicle is
+developed by the Shanghai Bureau of Astronautics. The CZ-4B is a three
+stage vehicle, with all of the stages using LOX/UDMH engines. The CZ-4A
+had a four YF-20B engines in the first stage,  a YF-22B/YF-23B powered
+second stage, and two YF-40 engines in the third stage. I'm not sure
+what modifications were made to the CZ-4B stages, but I gather the
+changes are modest.
+
+Navstar spacecraft GPS SVN 50 (GPS-IIR production number SV-10),
+awaiting launch by Delta nII from Cape Canaveral, was damaged in a
+thunderstorm on May 8. Rain leaked into the clean-room on SLC-17A's
+mobile launch tower. Launch will be delayed while they figure
+out whether the satellite has been damaged.
+
+I discussed Centaur stages in my last report; several sources inform me
+that the Shuttle Centaur G' stages SC-1 and SC-2 are distinct from the
+Titan Centaur flight articles. SC-3, the first Centaur G stage, was also
+under early construction for the Magellan Venus probe but the tank was
+not completed at the time Shuttle-Centaur was cancelled.
+I've updated my launch list of Centaurs at
+ http://hea-www.harvard.edu/~jcm/space/misc/centaur.html
+with a lot of new details.
+Here's an overview of Centaur types:
+ 3.05-meter diameter standard Centaurs (9.1m):
+  Centaur A     F-1 test flight, RL-10A-1 engines
+  Centaur B     AC-2 test flight, first orbital model, RL-10A-3 engine
+  Centaur C     AC-3 to AC-5 test flights, RL-10A-3 engine
+  Centaur D     Single burn version with RL-10A-3-1, AC-6/7/10/11
+  Centaur D     Operational version 1965-1967, with RL-10A-3-3 engine
+  Centaur D-1A  Improved version 1967-1972 (RL-10A-3-3 engines)
+  Centaur D-1AR Improved version 1973-1989 (later models with RL-10A-3-3A)
+  Centaur D-1T  Titan 3E version 1974-1977
+  Centaur I     Same as D-1AR  1990-1997
+
+ 3.05-meter diameter stretched Centaur (10m long)
+  Centaur II    Stretched version for Atlas II  (RL-10A-3-3A)
+  Centaur IIA   Stretched version for Atlas IIA/IIAS (RL-10A-4/RL-10A-4-1)
+  Centaur (SEC) Single Engine Centaur for Atlas IIIA (planned, RL-10A-4-1)
+
+ 3.05-meter diameter stretched Centaur (11.7m long - 12.7 with nozzle ext).
+ Single and dual engine versions (Atlas IIIB and V)
+  Centaur III DEC:          2 x RL10A-4-2 engines
+  Centaur III SEC:          1 x RL10A-4-2, 
+
+ 4.32-meter diameter fat Centaurs:
+  Centaur G     Shuttle version, cancelled (RL-10A-3-3A engines)
+  Centaur G'    Stretched Shuttle version, cancelled
+  Centaur (Titan 4)  Same as G'?     1994+ (RL-10A-3-3A engines)
+  Centaur (TC-23)    Derated RL-10A-4-1A engines
+
+
+United Nations Registry
+-----------------------
+
+I've updated my edited version of the United Nations Registry
+of Space Objects, at 
+ http://hea-www.harvard.edu/~jcm/space/un/un.html 
+and the list of satellites which have not been registered, at
+ http://hea-www.harvard.edu/~jcm/space/un/un_paper1.html 
+Member states of the UN are required to register space objects owned by
+them; the accuracy and completeness of the information provided is
+pretty spotty. The United States remains the state with the most errors
+and omissions in its submissions; Mexico and Brazil are grossly overdue
+in updating their registrations. The US should be registering INTELSAT's
+satellites, but does not; the United Kingdom should be registering
+INMARSAT's satellites, but does not.  Since 1991, when the US last
+failed to register one of its classified satellites, there is no
+evidence of any state deliberately failing to register a satellite to
+avoid detection - the omissions seem to be due to sloppiness.
+I've also updated the launch logs  and the geostationary
+object log on my web site.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  2 1128   Progress M-41     Soyuz-U        Baykonur LC1     Cargo      15A
+Apr  2 2203   Insat 2E          Ariane 42P     Kourou ELA2      Comsat     16A
+Apr  9 1701   DSP F19           Titan 4/IUS    Canaveral LC41   Early Warn 17A
+Apr 12 2250   Eutelsat W3       Atlas 2AS      Canaveral LC36A  Comsat     18A
+Apr 15 0046   Globalstar M019 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     19A
+              Globalstar M042 )                                            19B
+              Globalstar M044 )                                            19C
+              Globalstar M045 )                                            19D
+Apr 15 1832   Landsat 7         Delta 7920-10  Vandenberg SLC2W Imaging    20A
+Apr 16 1030?  Sputnik-99        -              Mir, LEO         Comsat     15C
+Apr 21 0459   UoSAT-12          Dnepr          Baykonur LC109   Test       21B
+Apr 27 1822   Ikonos 1          Athena 2       Vandenberg SLC6  Imaging    F01
+Apr 28 2030   ABRIXAS  )        Kosmos-3M      Kap. Yar LC107?  Astronomy  22A
+              Megsat-0 )                                        Technol.   22B
+Apr 30 1630   Milstar-2 F1      Titan 4/Cen    Canaveral LC40   Comsat     23A
+May  5 0100   Orion 3           Delta 8930     Canaveral LC17B  Comsat     24A
+May 10 0133   Feng Yun 1C )     CZ-4B          Taiyuan          Imaging    25A
+              Shi Jian 5  )                                     Research   25B
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 1     STS-93  NET Jul 22
+OV-103 Discovery       LC39B         STS-96  May 27
+OV-104 Atlantis        OPF Bay 3     STS-101 Oct 14
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99             Refurb area STS-93
+MLP2/RSRM-70/ET-100/OV-103     VAB Bay 1   STS-96
+MLP3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+

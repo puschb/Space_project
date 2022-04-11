@@ -1,0 +1,253 @@
+Jonathan's Space Report
+No. 634                                              2010 Nov 19 Somerville, MA
+----------------------------------------------------------------------------------
+
+Note: the launch database http://www.planet4589.org/space/lvdb has been updated
+with 1950s Soviet missile launches thanks to data kindly provided by Asif Siddiqi.
+
+Note to JSR readers in Japan: I'll be in Tokyo and Nara for a few days in
+early December; if anyone has access to records of the Kappa and Lambda rocket
+programs or the navigation data for the Hiten probe, please email me. Or
+if you'd just like to go out for some sushi, for that matter.
+
+
+Shuttle and Station
+-------------------
+
+The Progress M-08M cargo ship was launched on Oct 27. Progress M-05M
+undocked from the Pirs module on Oct 25 at 1422 UTC and was deorbited
+over the Pacific on Nov 15. M-08M filled the empty slot on Pirs at 1636
+UTC on Oct 30. Soyuz TMA-01M is docked at Poisk, TMA-19 at Rassvet, and 
+Progress M-07M at Zvezda.
+
+Fyodor Yurchikin, in spacesuit Orlan-MK No. 4 and Oleg Skripochka, in
+Orlan-MK No. 5, emerged from the Pirs airlock on Nov 15 to carry out
+external maintenance tasks on the Russian segment as Russian EVA 26.
+They installed a workstation on Zvezda's starboard side, removed the
+Kontur experiment from Zvezda, installed experiments on Rassvet and
+Poisk, and removed a docking camera from Rassvet. They tried to
+reinstall the camera on the other end of Rassvet but insulation got in
+the way, so they had to abandon that task and bring the camera inside.
+Hatch open was at 1454 UTC and hatch close at 2122 UTC.
+
+Launch of STS-133 will occur no earlier than December.
+
+
+Ariane
+------
+
+Ariane vehicle 555 (flight V197) put two communications satellites in
+orbit on Oct 28. Eutelsat W3B is a 5370 kg Thales Spacebus satellite for
+the European operator Eutelsat; BSAT-3B is a smaller 2060 kg Lockheed
+Martin A2100A satellite for BSAT of Tokyo. 
+
+On Oct 29, Eutelsat announced that W3B's propulsion system wasn't
+working and the satellite was declared a loss. Rumours on
+www.nasaspaceflight.com suggest an oxidizer leak may have occurred at
+spacecraft separation, so it's not yet clear if it's a spacecraft or
+launch vehicle failure. As of Nov 4 the satellite was in a 247 x 35825
+km x 2.0 deg orbit and is to be abandoned there. By Nov 15, BSAT 3B was
+in a 35768 x 35806 km x 0.0 deg orbit on station at 109.7E.
+
+Beidou and Fengyun
+-------------------
+
+China's di liu ke beidou daohang weixing (Beidou navigation satellite 6)
+was launched from Xichang on Oct 31 into a 192 x 35876 km x 20.5 deg transfer
+orbit. The di er ke fengyun sanhao (2nd Fengyun-3) weather satellite was launched
+from Taiyuan on Nov 5 into polar orbit. It is satellite B in batch 01 ("01 pi")
+of the FY-3 series.
+
+Meridian
+---------
+
+Russia's third Meridian military communications satellite was launched
+on Nov 2. The Fregat upper stage placed it in a 966 x 39773 km x 62.8
+deg orbit; an orbit maneuver on Nov 16 adjusted this to a
+semi-synchronous 961 x 39388 km.
+
+
+COSMO 4
+-------
+
+The Italian Defense Ministry's COSMO-SkyMed 4 X-band radar satellite was
+launched from Vandenberg Air Force Base on Nov 6. It reached parking
+orbit at 0231 UTC and was released into a 620 x 632 km x 97.8 deg orbit
+at 0318 UTC.
+
+
+SkyTerra 1
+----------
+
+The SkyTerra 1 satellite for LightSquared (formerly Mobile Satellite
+Ventures) was launched by a Proton on Nov 14 into a 5875 x 35662 km x
+18.8 deg transfer orbit. The Boeing 702 GeoMobile class satellite with a
+22-meter L-band reflector has a launch mass of 5400 kg.
+
+
+Deep Impact
+-----------
+
+The Deep Impact (EPOXI) spacecraft flew 700 km from comet 103P/Hartley
+at around 1401 UTC on Nov 4. It revealed an active cometary nucleus
+with rough and smooth areas, and jets coming from the rough areas.
+
+WMAP
+----
+
+Following its final burns, WMAP is in a 1.00 x 1.09 AU x 1.5 deg solar
+orbit. As of Nov 5, it is still only 1.7 million km from Earth, just
+outside the L2 region. (Thanks to Dale Fink for orbital data).
+
+
+Suborbital launches
+-------------------
+
+Russia tested four ballistic missiles on Oct 28-29. The Topol from
+Plesetsk, its naval cousin Bulava from the Dmitriy Donskoy submarine in
+the White Sea, and the R-29RM Sineva from the K-117 Bryansk sub in the
+Barents Sea were all targeted eastward on the Kura test range in
+Kamchatka, the standard aimpoint since the first Soviet ICBM launch in
+1957. The R-29R Volna launched from the K-433 sub in the Sea of Okhotsk
+was targeted westward at the Chizha range in the Kanin Peninsula near
+the White Sea.
+
+On Oct 30, an Orbital Sciences Medium Range Target with a Castor 4B motor
+was launched from Kauai and intercepted by a Japanese Aegis ship
+using an SM-3 interceptor.
+
+
+The Missile That Wasn't
+----------------------------------------
+
+Video of a contrail seen by an LA helicopter news crew on Nov 9 (Nov 8
+Pacific time) not far from the San Nicolas/Pt Mugu area was at first
+thought by many media outlets to be a missile launch, but it's now clear that it
+was just an aircraft contrail seen heading directly at the observer
+and illuminated by the setting sun. A discussion on flightaware.com suggests
+US Airways AWE 808 from Honolulu to Phoenix was the culprit.
+
+It is however perfectly true that there are missile launches in that
+area, some of them secret. Launches of NASA Black Brant IX rockets from
+San Nicolas Island in California carrying MARTI targets for the Missile
+Defense Agency's Airborne Laser testbed were until recently on  public
+NASA schedules - those schedules have been removed from public access in
+the past few weeks. The most recent MARTI launch, which was publicly
+acknowledged, was on Oct 21. The MDA has also launched Scud missiles as
+targets from the ocean off Point Mugu. Launches of target missiles for
+the Aegis ship-based missile defense system being tested by the US and
+Japan have also occurred in the Pt Mugu area. Nevertheless, the
+consensus of analysts is that the particular contrail seen on Nov 9 was
+not a missile, and this is consistent with DoD statements on the matter.
+
+STAR rocket
+-----------
+
+Does anyone know anything about the Supersonic Target Rocket (STAR) used
+at NATO's Aegean-Sea range for Patriot missile testing? Apparently it's
+some kind of Viper-Dart-class vehicle with an apogee in the 80-90 km
+range, but I haven't been able to find details of the motor or manufacturer.
+
+
+In Memoriam
+-----------
+
+I deeply regret to report the deaths of Brian Marsden (1937-2010) and
+John Huchra (1948-2010).
+
+Brian was the air-traffic-controller for the Solar System (or, for those
+of you in the satellite tracking game, a one-man heliocentric JSPOC). At
+the helm of the Minor Planet Center and the Central Bureau for
+Astronomical Telegrams for three decades, he coordinated registration of
+the discovery, naming and orbital tracking of minor planets, dwarf
+planets and comets, and warned the people of Earth of extraterrestrial
+threats to our world's survival. More controversially, he led the effort
+to demote beloved Pluto from major planet status. Brian was a genial,
+grandfatherly figure, always approachable, good-humoured and full of
+fascinating anecdotes. 
+
+ When I was a student at Cambridge, I heard an anecdote about him from
+Institute of Astronomy librarian David Dewhirst; as a teenager Brian,
+who lived in the Cambridge area, came into the library and asked to see
+the book of eclipses. DWD gave him the volume with the drawings of 
+eclipse paths. No, said Brian, it was the volume with the numbers he
+wanted - calculations, not pretty pictures, were his interest.
+Calculational expertise remained Brian's hallmark throughout his career,
+after he moved from the real to the ersatz Cambridge via Oxford and
+Newhaven, and his method for handling comet orbits taking into account the
+rocket effect of cometary jets remains standard.
+
+Brian and his successor Gareth Williams took an interest in my efforts
+to record trajectories of artifical objects in heliocentric orbit, as it
+overlapped with their interest in not cataloging them as minor planets.
+I feel very lucky to have interacted with him professionally in even a
+small way. A fuller obit for Brian is at
+http://www.minorplanetcenter.org/mpec/K10/K10W10.html
+
+John Huchra was one of the giants of 20th-century cosmology. His mapping
+of the three-dimensional distribution of galaxies helped us figure out
+the scale and age of the universe, and revealed the large-scale
+clumpiness of voids and filaments that changed astronomers' view of the
+map of the universe and the story of galaxy formation. John was an
+astronomer's astronomer - personally observing many thousands of
+galaxies on the world's largest telescopes, but just as happy to train a
+graduate student to look at Saturn with the Harvard 9-inch refractor. 
+
+John and Brian were modest, friendly, affable and unstuffy. We'll miss them.
+
+We also lost Allan Sandage recently; the direct successor to Hubble.
+I only met Allan a couple of times, so can't comment on him in detail,
+but it does seem like we're going through the end of an era.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Oct  1 1100   Chang'e 2           Chang Zheng 3C   Xichang          Lunar probe 50A
+Oct  6 0049   SJ-6/4A   )         Chang Zheng 4B   Taiyuan          ?          51A
+              SJ-6/4B   )                                           ?          51B
+Oct  7 2310   Soyuz TMA-01M       Soyuz-FG         Baykonur LC1     Spaceship  52A
+Oct 14 1853   Sirius XM-5         Proton-M/Briz-M  Baykonur LC81/24 Radio      53A
+Oct 19 1710   Globalstar-2 M073 ) Soyuz-2-1a/Fregat Baykonur LC31   Comms      54F
+              Globalstar-2 M074 )                                   Comms      54B
+              Globalstar-2 M075 )                                   Comms      54E
+              Globalstar-2 M076 )                                   Comms      54C
+              Globalstar-2 M077 )                                   Comms      54D
+              Globalstar-2 M079 )                                   Comms      54A
+Oct 27 1511   Progress M-08M      Soyuz-U           Baykonur LC1    Cargo      55A
+Oct 28 2151   Eutelsat W3B  )     Ariane 5ECA       Kourou ELA3     Comms      56A
+              BSAT-3B       )                                       Comms      56B
+Oct 31 1626   Beidou DW6          Chang Zheng 3C    Xichang         Nav        57A
+Nov  2 0059   Meridan             Soyuz-2-1a/Fregat Plesetsk LC43/3 Comms      58A
+Nov  5 1837   Fengyun 3 (01)B     Chang Zheng 4C    Taiyuan         Weather    59A
+Nov  6 0220   COSMO-SkyMed 4      Delta 7420-10     Vandenberg SLC2W Radar     60A
+Nov 14 1729   SkyTerra 1          Proton-M/Briz-M   Baykonur         Comms     61A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Oct  7 0310   RV x 3?         Bulava          TK-208, White Sea   R&D         1000?
+Oct 21 1700   NASA 36.230DR   Black Brant IX  San Nicolas         Target       100?
+Oct 27 1015   Mapheus-2       Nike Orion      Kiruna              Micrograv    153
+Oct 28 0959   RV              Topol           Plesetsk            Op Test     1000?
+Oct 28 1030   RV x 4?         Sineva          K-117, Barents Sea  Op Test     1000?
+Oct 28        RV x 4?         Volna           K-433, Okhotsk      Op Test     1000?
+Oct 29 0210?  RV x 3?         Bulava          TK-208, White Sea   R&D         1000?
+Oct 30 0306   MRT-9           Castor 4B       Kauai               Target       150?
+Oct 30 0309   Aegis KV        SM-3            DDG-174, Pacific    Interceptor  150?
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@www.planet4589.org    |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

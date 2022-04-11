@@ -1,0 +1,122 @@
+Jonathan's Space Report
+No. 279                      1996 Mar 11                  Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Columbia landed at 1358:21 UTC on runway 33 at Kennedy Space Center,
+bringing mission STS-75 to a close. Landing was delayed one day
+because of bad weather at the Cape. The Tethered Satellite was 
+in a 296 x 360 km x 28.5 deg orbit on Mar 11, still trailing its 19 km
+long tether. (The 22 km figure I gave last week was an error).
+
+NASA has announced that both of the `wiper' O-rings at the
+case-to-nozzle joints of the SRBs on STS-75 were scorched by hot gas.
+The wiper O-rings are NOT joint seals, but merely protect the actual
+(primary and secondary) O-ring seals during assembly, according to NASA.
+Wiper O-ring damage has been seen before, but this time each O-ring was
+singed in two places instead of one. (Details are from Reuter; this
+doesn't sound too terrible, but of course hot gas being where it
+shouldn't in an SRB is a bit nervous making.) NASA has reportedly since
+decided that the situation is well understood and the next mission,
+STS-76, will proceed on schedule. It will feature another docking with
+the Mir space station.
+
+
+Recent Launches
+---------------
+
+The Pegasus XL launch vehicle has made its first successful flight. The
+US Air Force REX-II satellite was launched into orbit aboard the third
+XL  on Mar 9. REX-II is a Space Test Program satellite (flight P94-2)
+built by CTA/SS (formerly DSI). The payload, sponsored by USAF Rome Lab,
+will study ionospheric electron density irregularities that affect radio
+communications. A secondary experiment will use GPS for on-orbit
+attitude determination and control, a milestone in the integration of
+satellite navigation techniques into the business of navigating and
+controlling satellites themselves. The successful launch of REX-II is
+good news for Orbital Sciences Corp. and for all small satellite
+missions which are waiting for a ride to orbit, following the  failures
+of the two previous Pegasus XL missions as well as of the  sole
+Conestoga and LLV launches. The L-1011 carrier aircraft took off from
+Vandenberg AFB at 0035 UTC on Mar 9 and  went to the drop zone 100 km W
+of Monterey, California at an altitude of 12 km. Drop was at 0133 UTC on
+Mar 9. The satellite is Space Command number 23814 with orbit 101.25
+min, 803 x 832 km x 90.0 deg. The USAF reports that the satellite is
+operating well.
+
+Chinese sources now report that six people died and 57 were injured
+during the crash of the Chang Zheng 3B (Long March 3B) launch vehicle
+at Xichang on Feb 14. Other sources claim that more than a hundred
+may have died. The rocket's inertial guidance unit failed two seconds after
+takeoff. 
+
+NASA's GGS Polar satellite has raised its perigee, but Space Command hasn't
+released new orbital elements yet. According to the Lockheed Martin
+mission ops page, the new orbit has a perigee of 11500 km. Orbit raising
+burns were made on Feb 26, 0200 UTC on Feb 28, 1854 on Feb 28, 1140 on
+Feb 29 and 0436 UTC on Mar 1.  The first Feb 28 burn was aborted after
+18 minutes due to valve overheating, causing some of the later burns to
+be rescheduled. Polar has extended its antennae: the U wires were
+deployed to 65 meters and the V wires to 50 meters on Mar 10.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Feb  1 0115   Palapa C-1       Atlas IIAS     Canaveral LC36B Comsat      06A
+Feb  5 0719   N-STAR b         Ariane 44P     Kourou ELA2     Comsat      07A
+Feb 14 1901   Intelsat 708     Chang Zheng 3B Xichang         Comsat      FTO
+Feb 17 2043   NEAR             Delta 7925-8   Canaveral LC17B Space probe 08A
+Feb 19 0058   Gonets-D1  )                                                09A?
+              Gonets-D1  )                                                09B?
+              Gonets-D1  )     Tsiklon-3      Plesetsk LC32   Comsats     09C?
+              Kosmos-2328)                                                09D?
+              Kosmos-2329)                                                09E?
+              Kosmos-2330)                                                09F?
+Feb 19 0832   Raduga           Proton-K/DM2   Baykonur LC81   Comsat      10A
+Feb 21 1234   Soyuz TM-23      Soyuz-U2       Baykonur LC1    Spaceship   11A
+Feb 22 2018   Columbia         Shuttle        Kennedy LC39B   Spaceship   12A
+Feb 24 1124   Polar            Delta          Vandenberg SLC2W Science    13A
+Feb 26 0130   TSS-1                           OV-102,LEO      Science     12B
+Mar  9 0133   REX-II           Pegasus XL     L1011/Vandenberg Technol.   14A
+
+Payloads no longer in orbit
+--------------------------
+
+Feb 22        Progress M-30   Deorbited over Pacific
+Feb 29        Soyuz TM-22     Landed in Kazakhstan
+Mar  9        Columbia        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-78  Jun 27
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        LC39B         STS-76  Mar 21
+OV-105 Endeavour       OPF Bay 3     STS-77  May 16
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-54/             VAB Bay 1      STS-77
+ML2/RSRM-46/ET-77/OV-104 LC39B          STS-76                       
+ML3/
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

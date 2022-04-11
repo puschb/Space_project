@@ -1,0 +1,116 @@
+Jonathan's Space Report
+No. 330                               1997 Aug 17  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The Mir crew handover was formally completed at some point around Aug
+8-11. Mike Foale transferred to become a member of the new Mir EO-24
+crew with Anatoliy Solov'yov and Pavel Vinogradov. The EO-23 crew of
+Vasiliy Tsibliev and Aleksandr Lazutkin handed over the station and on
+Aug 14 entered their Soyuz TM-25  transport ship, closing the hatches at
+0550 UTC. Soyuz TM-25 undocked from the Mir forward port on Aug 14 at
+0855 UTC and at 1122 UTC fired the deorbit engine on the PAO
+(priborno-agregatniy otsek, equipment-service module). The PAO and the
+BO (bitovoy otsek, living module) separated from the SA (spuskaemiy
+apparat, descent craft) a few minutes later. The PAO and BO burned up in
+the atmosphere. The SA reentered, and landed in Kazakstan at 1217 UTC,
+170 km SE of Dzezkazgan. The Soyuz landing rockets failed to fire on
+touchdown, giving one of the roughest landings experienced by a
+returning Mir crew.
+
+The new EO-24 crew of Solov'yov, Vinogradov and Foale undocked from the
+Kvant module in Soyuz TM-26 on Aug 15 at 1329 UTC, and redocked
+with the forward Mir port at 1413 UTC.  The Progress M-35 cargo ship
+remains in orbit and is expected to redock with the Mir station soon at
+the Kvant port. A docking attempt was called off on Aug 17 because the
+wrong instructions were sent to the Progress. Meanwhile, the crew
+have repaired the Elektron oxygen generator. (Thanks to Chris van den
+Berg, Igor Lissov and Vladimir Agapov for some of these details).
+
+The CRISTA-SPAS satellite was recaptured by Discovery's RMS arm
+at 1514 UTC on Aug 16. Landing is due for Aug 18.
+
+Errata on Shuttle crewing: Wendy Lawrence is still on the STS-86 crew,
+but has been pulled off the Mir EO-24 long-stay crew. She will fly on 
+the Shuttle to Mir, but will come down again on the same mission. David
+Wolf is an addition to the STS-86 crew and will replace Foale on the
+EO-24 crew. Also, Tryggvason has the rank of Payload Specialist on
+STS-85, not Mission Specialist as I suggested.
+
+Recent Launches
+---------------
+
+A Proton-K launch vehicle took off from Baykonur on Aug 14 and entered a
+164 x 190 km x 53.2 deg parking orbit. The Blok DM-2 upper stage then
+fired to place the Kosmos-2345 payload in a 232 x 35292 km x 50.0 deg
+transfer orbit. It is expected that the DM-2 will reignite to lower
+inclination and enter a near-geosynchronous orbit. This launch profile
+is unusual; a 51.6 degree parking orbit has been used for other Proton
+geostationary launches, with a 47 degree transfer orbit. Igor Lissov
+reports a rumour that the Proton was incorrectly targeted and would have
+gone to the regular 51.6 degree orbit but for an error by the launch
+crew. The payload is probably either an early warning satellite or a
+military communications satellite.
+
+Orbimage's OrbView-2 satellite began to raise its orbit on Aug 12.
+The initial orbit was only 300 km in altitude, and a hydrazine
+propulsion system raises it in stages to 700 km.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  1 1802   Columbia        ) Shuttle       Kennedy LC39A    Spaceship  32A
+              Spacelab MSL-1R )
+Jul  5 0411   Progress M-35     Soyuz-U       Baykonur LC1     Cargo      33A
+Jul  6 0600   Sojourner         -         Sagan Station, Mars  Rover
+Jul  9 1304   Iridium SV015 )   Delta 7920    Vandenberg SLC2W Comsat     34A
+              Iridium SV017 )                                  Comsat     34B
+              Iridium SV018 )                                  Comsat     34C
+              Iridium SV020 )                                  Comsat     34D
+              Iridium SV021 )                                  Comsat     34E
+Jul 23 0343   GPS SVN 43        Delta 7925    Canaveral LC17A  Navsat     35A
+Jul 28 0115   Superbird C       Atlas IIAS    Canaveral LC36B  Comsat     36A
+Aug  1 2020   OrbView 2         Pegasus XL    Vandenberg       Remote sen.37A 
+Aug  5 1536   Soyuz TM-26       Soyuz-U       Baykonur LC1     Spaceship  38A
+Aug  7 1441   Discovery         Shuttle       Kennedy LC39A    Spaceship  39A
+Aug  7 2227   CRISTA-SPAS                     OV-103,LEO       Remote sen.39B
+Aug  8 0646   PAS 6             Ariane 4      Kourou ELA2      Comsat     40A
+Aug 14 2049   Kosmos-2345       Proton-K/DM2  Baykonur         ?          41A
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       LEO           STS-85  On orbit
+OV-104 Atlantis        VAB           STS-86  Sep 22
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                       
+MLP2/RSRM-61/ET/OV-104     VAB Bay 1?     STS-86
+MLP3/
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

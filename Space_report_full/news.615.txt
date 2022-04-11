@@ -1,0 +1,245 @@
+Jonathan's Space Report
+No. 615                                           2009 Sep 10 Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+On Aug 7 the Station SSRMS arm grappled the PMA3 docking port 
+and removed it from the Unity module's nadir berth at around 1000 UTC.
+At around 1200 UTC the PMA3 was attached to Unity's port berth,
+leaving the nadir berth free for a new module.
+
+OV-103 Discovery was launched on Aug 29 on mission STS-128.
+It carries Multipurpose Logistics Module FM-1 - the MPLM 'Leonardo' -
+and other cargo carriers.
+
+  STS-128 cargo manifest
+  ----------------------
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3009, 3015 suits                       260?
+  APC/SPDU                         3 port           17?
+  APC/MISSE carrier                4 port           57
+  APC/MISSE carrier                5 port           57
+  ROEU umbilical                   7 starboard      79?
+  Leonardo  (MPLM FM-1)            7-12          12131
+  Lightweight MPESS Carrier (LMC)  13             1780
+  RMS                              Sill            410
+  OBSS                             Sill            382?
+  -----------------------------------------------------
+                                           Total 16973
+
+Discovery docked with Station at 0054 UTC on Aug 31 and undocked at 1926
+UTC on Sep 8. During the mission, the Leonardo module was attached to
+the nadir port on the Harmony node (from Aug 31 2135 to Sep 8 0001) and
+experiments and equipment were transferred to the Station from it,
+including the Combined Operational Load  Bearing External Resistance
+Treadmill (COLBERT), a crew quarters rack, materials science and fluids
+experiment racks, and a freezer system.
+
+During three spacewalks the EUTEF and MISSE 6 experiments were
+retrieved from Columbus, an ammonia tank assembly (ATA) was replaced
+on the P1 truss, and the S3 payload attach system was deployed.
+Cables were laid along the station in preparation for activating
+the Tranquility node when it arrives, although one cable could not
+be properly connected.
+
+Spacewalk details were as follows:
+                           EMUs         Depr. H.Open OnBat     H.Close Repress
+EVA-1 Olivas, Stott     3015,3005 Sep 1 2144? 2148  2149  Sep 2 0419    0424
+EVA-2 Olivas, Fuglesang 3015,3009 Sep 3 2204? 2209  2212  Sep 4 0445    0451
+EVA-3 Olivas, Fuglesang 3015,3009 Sep 5 2035? 2038  2039  Sep 6 0334    0340
+
+EMU 3005 will be returned to Earth aboard Discovery (it was launched on STS-126);
+EMU 3009 replaces it on the Station.
+
+A small object was released from the payload bay at some point during
+EVA-3; Discovery made an orbit adjust burn on Sep 10 to avoid it.
+The object was cataloged as 1998-067BV. Another small object
+floated out of the payload bay on Sep 9; it has not been cataloged.
+
+The Japanese H-II Transfer Vehicle, HTV-1, was launched on Sep 10.
+
+
+STSAT-2/Naro-1
+--------------
+
+The first launch of South Korea's KSLV-1 'Naro' rocket ended in failure
+with the reentry of the STSAT-2 satellite payload over the Pacific.
+Early reports suggest that the Russian-built Angara first stage operated
+correctly, and the Korean solid-motor second stage also fired, but half
+of the payload fairing failed to separate. STSAT-2 reached 387 km in
+altitude, but the extra mass of the fairing prevented  the system from
+reaching orbital velocity. The orbit was around -3100 x 387 km x 80 deg,
+and reentry was probably somewhere over New Guinea.
+
+Asiasat 5
+---------
+
+An ILS/Khrunichev Proton-M launched the Loral-1300-class Asiasat 5
+satellite on Aug 11. Asiasat 5 is owned by Asiasat, a Hong Kong based
+company, and provides C-band and Ku-band communications services.
+
+GPS 50
+------
+
+The final Block IIR-M Global Positioning System satellite, space vehicle
+number SVN 50, was launched from Cape Canaveral on Aug 17.
+It is the 21st IIR launch, and will replace a Block IIA series
+satellite. The Delta II launch vehicle passed through
+intermediate orbits of 174 x 206 km x 37.5 deg and 191 x 1241 km x 38.0 deg
+to reach a (planned) 188 x 20256 km x 40.1 deg transfer orbit.
+GPS SVN 50 will fire its ATK Star 37 solid apogee motor to
+circularize the orbit at 20000 x 20000 km  x 55 deg.
+
+Block IIR satellites were built by Lockheed Martin at its Valley Forge,
+Pennsylvania site near Philadelphia. The factory opened in 1961 as
+General Electric's Missiles and Space Division to build the Nimbus
+weather satellites and possibly the Orbital Control Vehicles for the
+KH-7 spy satellites (although one knowledgeable correspondent disagrees
+with this last statement). Does anyone know if GE's "King of Prussia"
+plant was the same as the Valley Forge one, or a separate one nearby?
+(The two towns are next to each other).
+
+
+IRVE-II
+-------
+
+The second Inflatable Reentry Vehicle Experiment, IRVE-II/NASA 36.254NR,
+was launched from Wallops Island on a Black Brant IX on Aug 17. It
+deployed an experimental 3-meter diameter inflatable heat shield; the
+spacecraft survived reentry but was not designed to be recovered, and
+fell in the Atlantic. A smaller precursor, IRVE-I/NASA 41.055NP, was
+launched on a Terrier Orion in 2007.
+
+PAN
+---
+
+United Launch Alliance launched an Atlas V 401, mission AV-018, from
+Cape Canaveral on Sep 8. It carried the PAN communications satllite to a
+13544 x 35400 km x 23.1 deg geostationary transfer orbit. PAN/P360 is a
+Lockheed Martin A2100 satellite described as being for 'a US Government
+customer'. It seems that LM operates the satellite on behalf of the
+unidentified agency. 
+
+The satellite has been given the US government designation USA 207, used
+for secret government-owned satellites, so it is probably not a
+contractor-owned leased-capacilty system like the Hughes Leasat
+satellites operated for the Navy in the 1980s (which did not get USA numbers).
+
+As first reported by spaceflightnow.com's Justin Ray, Ted Molczan 
+suggests that PAN may be a satellite providing services for the CIA
+replacing channels hosted on the US Navy's UHF/EHF communications
+network, to bridge the gap between the old UHF Follow-On series and the
+planned MUOS system, and Greg Roberts has tracked a beacon signal from
+the satellite on a frequency used by the UHF Follow-On satellites.
+
+
+Palapa D
+--------
+
+Indosat's Palapa D satellite was launched by a Chinese Chang Zheng 3B
+rocket on Aug 31. The CZ-3B reached a low parking orbit, and the third
+stage reignited for a second burn towards geostationary transfer
+orbit. However, the engine shut down early leaving the Palapa D
+in a 217 x 21138 km x 22.4 deg orbit. The satellite on Sep 2 used its
+own on-board propulsion to reach the correct 216 x 35687 km x 22.2 deg
+transfer orbit; this maneuver will however reduce its operational life.
+By Sep 8 the satellite orbit was 9616 x 35670 km x 7.8 deg.
+
+Indonesia has one of the developing world's more extensive satellite
+fleets. The early Palapa satellites were owned and operated by
+Indonesia's state telecom agency Perumtel, later Telkom. In 1996 a
+privatization move put the Palapa satellites in the hands of the
+Satelindo company, and in 2003 that company was absorbed by Indosat.
+Meanwhile, Telkom operates a new series of satellites (Telkom 1 and 2);
+Media Citra Indostar and Paskifik Satelite Nusantara  (with its ACeS
+joint venture) also operate telecom satellites, and the LAPAN space
+agency launches sounding rockets and operates the LAPAN-TUBSAT low orbit
+satellite built with German assistance.
+
+
+ Indonesian satellites:
+ Satellite     Model            Operated
+ Palapa A1     Hughes HS-333    1976-1986
+ Palapa A2     Hughes HS-333    1976-1986?
+ Palapa B1     Hughes HS-376    1983-1995
+ Palapa B2     Hughes HS-376    1984      wrong orbit, recovered by Shuttle
+ Palapa B2P    Hughes HS-376    1987-1996 Sold to Mabuhay 1996
+ Palapa B2R    Hughes HS-376    1990-2001 refurbished, relaunched B2
+                                          Sold to Newsat 2001
+ Palapa B4     Hughes HS-376    1992-2005 
+ Palapa C1     Hughes HS-601    1996-1999 Sold to HGS 1999
+ Palapa C2     Hughes HS-601    1996-     At 113.0E
+ Indostar 1    Orbital Star 1   1997-     At 107.5E
+ Telkom 1      LM A2100         1999-     At 108.0E
+ ACES Garuda 1 LM A2100AXX      2000-     At 123.0E
+ Telkom 2      Orbital Star 2   2005-     At 118.0E
+ LAPAN TUBSAT  TUB              2007-     In 618 x 638 km x 97.8 deg orbit
+ Palapa D      Thales SB4000B3  2009-     wrong orbit
+
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+Jul  1 1752   Terrestar 1       Ariane 5ECA      Kourou ELA3      Comms      35A
+Jul  6 0126   Kosmos-2451 )     Rokot            Plesetsk LC133?  Comms      36A
+              Kosmos-2452 )                                                  36B
+              Kosmos-2453 )                                                  36C
+Jul 14 0336   Razaksat          Falcon 1         Omelek I.        Imaging    37A
+Jul 15 2203   Endeavour STS-127 )  Space Shuttle Kennedy LC39A    Spaceship  38A
+              Kibo Exposed Facil)  
+Jul 21 0357   Kosmos-2454 )     Kosmos-3M        Plesetsk LC132/1 Nav/Com?   39A
+              Sterkh No. 1)                                       SAR        39B
+Jul 24 1056   Progress M-67     Soyuz-U          Baykonur LC1/5   Cargo      40A
+Jul 29 1846   Dubaisat-1 )      Dnepr            Baykonur LC109   Imaging    41B
+              Deimos 1   )                                        Imaging    41A
+              UK-DMC 2   )                                        Imaging    41C
+              Nanosat-1B )                                        Tech       41E
+              AprizeSat 3)                                        Comms      41F
+              AprizeSat 4)                                        Comms      41D
+Jul 30 1234   DRAGONSAT
+               (BEVO-1/Aggiesat-2)               OV-105, LEO      Tech       38B
+Jul 30 1723   ANDE Active (Castor)               OV-105, LEO      Science    38F
+              ANDE Passive(Pollux)                                Science    38E
+Aug 11 1947   Asiasat 5         Proton-M/Briz-M  Baykonur LC39/200 Comms     42A
+Aug 17 1035   GPS 50            Delta 7925       Canaveral SLC17A  Nav       43A
+Aug 21 2209   JCSAT 12 )        Ariane 5ECA      Kourou ELA3      Comms      44A
+              Optus D3 )                                          Comms      44B
+Aug 25 0800   STSAT-2           Naro KSLV-1      Naro             Tech       F03
+Aug 29 0400   Discovery STS-128) Space Shuttle   Kennedy LC39A    Spaceship  45A
+              Leonardo         )
+Aug 31 0928   Palapa D          CZ-3B            Xichang LC2      Comms      46A
+Sep  8 2135   USA 207 (PAN)     Atlas V 401      Canaveral SLC41  Comms      47A
+Sep 10 1701   HTV               H-IIB            Tanegashima Y2   Cargo      48A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Jul 13 0120   RV (x 10?)      Sineva          K-84, N Pole    Test        1000?
+Jul 13 2350   RV (x 10?)      Sineva          K-117, N Pole   Test        1000?
+Jul 22 1945   Arrow Target    LRALT?          C-17, Pacific   Target       500?
+Jul 31 0340   Aegis Target    Unknown         Kauai           Target       160?
+Jul 31 0342   Aegis FTM-17 KV SM-3            DDG-70, Pacific Interceptor  160
+Jul 31 0400?  Aegis Target    Unknown         Kauai           Target       160?
+Aug 11 0450   MARTI           Black Brant IX  San Nicolas     Target       150?
+Aug 17 1152   IRVE Support    Viper 3A        Wallops         Weather       90?
+Aug 17 1252   NASA 36.254NR   Black Brant IX  Wallops         Reentry test 210
+Aug 23 1601   Mk 21 RV? GT195 Minuteman 3     Vandenberg      Op. Test    1300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,370 @@
+Jonathan's Space Report
+No. 554                                          2005 Sep 24, Somerville, MA
+-------------------------------------------------------------------------------
+
+
+Station
+-------
+
+The Progress M-54 cargo spacecraft (factory number 354) was launched by
+Soyuz-U from Baykonur on Sep 8 and docked with Zvezda at 1442 UTC on Sep
+10. Progress M-53 undocked from the Zvezda module at 1026 UTC on Sep 7
+into a 350 x 351 km orbit; it fired its deorbit engine at 1326 UTC to
+lower perigee to 56 km, leading to reentry over the Pacific half an
+orbit later.
+
+The next Shuttle flight is delayed indefinitely - engineers don't
+yet understand the aerodynamic data from the last flight. Damage to the
+External Tank manufacturing facility in New Orleans was less that
+feared, and ET work will continue there.
+
+
+Kosmos-2415
+-----------
+
+As expected, Kosmos-2415 entered its operational mapping orbit of
+205 x 284 km x 64.9 deg on Sep 3.
+
+Anik F1R
+---------
+
+International Launch Services orbited a Proton-M/Briz on Sep 8 carrying
+the Anik F1R communications satellite.
+
+Telesat Canada inaugurated Canada's domestic satellite communications
+service with the launch of Anik A1 in 1972. The first two 5-tonne
+Anik F satellites were launched in 2000 and 2004 using Boeing 702
+satellites; Anik F1 has been experiencing solar panel power problems.
+Anik F1R is an Astrium Eurostar 3000S operating in C-band and Ku-band.
+
+The Proton-M flew a suborbital trajectory; the Briz made one burn to low
+parking orbit and four more burns to a  3171 x 35608 km x 10 deg
+deployment orbit. Anik F1R then separated to being using its own engine
+to reach geostationary orbit.
+
+
+Haybusa
+-------
+
+Hayabusa is completing its rendezvous with asteroid Itokawa.
+On Sep 12 it began hovering at the 20 km "gate position".
+It will descend to 7 km in October.
+
+Streak
+------
+
+DARPA's Streak classified research satellite, also called
+STP-R1 under the USAF's Space Test Program, was launched by Minotaur
+from Vandenberg on Sep 23. The satellite carries experimental
+sensors to study the orbital environment and is in a sun-synchronous
+orbit.
+
+
+POPPY
+-----
+
+The NRO has declassified the existence of the Naval Research Lab's POPPY
+signals intelligence satellites. POPPY were probably small spherical (later,
+ellipsodal?) satellites, derived from the Vanguard spheres used for the
+predecessor program GRAB/DYNO. NRO says it will release pictures, but
+that hasn't happened yet: I predict POPPY will look like the GGSE satellites
+as seen here: <P><IMG SRC="http://www.planet4589.org/space/jsr/poppy/65016C.gif">
+
+They were launched in clusters together with other small NRL satellites
+on Thor Agena D rockets. POPPY flew from 1962 to 1971, followed by the
+still-classified PARCAE program which began in 1976 and used triplets of
+satellites for radio interferometric measurements of signal locations.
+The GRAB satellites were 0.51m in diameter like Vanguard; POPPY may have
+been the same size initially and then increased to 0.61m in diameter. In
+fact, the early POPPY satellites may have been leftover GRAB vehicles,
+with the code name change simply due to the transfer of the GRAB mission
+from NRL to NRO in mid-1962. The RAE Tables indicate the shift to 0.61m
+diameter happened with the first POPPY launch, but I'm not sure RAE is a
+reliable source in this particular context.
+
+Despite the declassification of POPPY, it's still not clear which
+satellites were POPPY satellites. Here I put down my own guesses,
+but mainly I point out that things are confused. Comments welcome.
+
+The POPPY fact sheet says that "A total of seven POPPY satellites
+launched into space from 1962 to 1971", and gives the seven launch
+dates. This implies that only one POPPY satellite went up on each
+of the seven launches.
+
+For the time being I am assuming that this is false and that it should
+read "There were a total of seven launches in the POPPY program from
+1962 to 1971". The followon program starting in 1976 involved multiple
+satellites, and the final POPPY launch in 1971 consisted of four
+apparently identical satellites. 
+
+The alternate possibility is that one of the four 1971-110 payloads was
+a POPPY and the other three were something different. That's not
+impossible, but I'd be surprised.
+
+On the assumption, then, that each launch might have multiple POPPY
+satellites, let's try and identify them. For each launch I list at the
+bottom of this all objects noted in the US Space Command SATCAT as
+payloads, and their SATCAT names. I also list the satellites listed for
+that launch date in a summary of NRL-launched spacecraft from the Naval
+Center for Space Technology; there's no mapping given between those
+names and the international designations (e.g. NRL 130 is one of the
+1963-021 objects but we don't know which one). There are also blatant
+inconsistencies between the two sources - for instance, on 1963-021
+"Dosimeter" and "PL 112" are separate satellites in the NCST list, in
+contrast to 1963-021D "RADOSE 112" which suggests the two are the same
+radiation dosimeter satellite. 
+
+Nevertheless, we can make some guesses. Look at the NCST listings, and
+accept my guess that the last POPPY launch is the quartet of payloads
+171-174, listed by NCST as gravity gradient experiments with masses of
+123 to 128 kg. Then notice that the 1969-082 launch has similar payloads
+161-164 with masses of 100-103 kg; and that 1967-053 has payloads 151
+and 153 listed interspersed with GGSE 4 and 5:
+    
+           PL 151        Grav Grad expt.     52 kg   POPPY 5A? 1967-53G?
+           GGSE IV       Grav Grad expt.     85 kg
+           PL 153        Grav Grad expt.     77 kg   POPPY 5B? 1967-53H?
+           GGSE V        Grav Grad expt.    105 kg
+
+I'm guessing the GGSEs here are PL152 and PL154, completing the
+quartet. Published papers show they had different boom configurations.
+Now I'm guessing that the GGSE (Gravity Gradient Stabilization
+Experiment) series was linked to POPPY; that POPPY flights 
+were gravity-stabilized and GGSE was used to improve them. GGSE satellites
+may be modified POPPY satellites with no ELINT payload, or may
+be fully functional POPPY with the GGSE test as an add-on experiment.
+
+So working further back, in the previous launch (launch 4) there's no quartet,
+but we can look at a number of candidates: the classified statellites,
+the GGSE satellites, and the Solrad satellites.
+
+Solrad satellites are possibilities because they were used in the GRAB
+(GREB) program, but I note that in the SATCAT the GREB name is given to
+PL 135 and PL142, not to SR VIIA and SR VIIB, so probably there was
+no room in a 24-inch sphere for both the POPPY and SR payloads and the
+programs were separated at the beginning of the POPPY program.
+What can we make of the SATCAT calling PL142 "GREB 6"? Maybe the 
+Launch 1 and Launch 2 POPPY flights were initially called GRAB (or GREB)
+5A and 5B, following on from the last known SR IVB flight of GRAB.
+
+
+Launch 1:
+           PL 120          Classified   POPPY 1A?   25 kg  62 B TAU 1?
+           PL 121          Classified   POPPY 1B?   25 kg  62 B TAU 5?
+
+Launch 2:
+           SR VI         Solar X-rays 
+           PL 112           Classified  POPPY 2?    27 kg  1963-21E?
+
+Launch 3:
+           SR VIIA       Solar X-rays
+           GGSE 1        Grav grad exp.
+           PL 135        Classified     POPPY 3?    39 kg  1964-01E
+
+Launch 4:
+           SR VIIB        Solar X-rays
+           PL 142         Classified    POPPY 4?    48 kg  1965-16A
+           GGSE II        Grav. grad exp.
+           GGSE III       Grav. grad exp.
+
+I'll advance the following hypotheses:
+
+ - Hypothesis 1.  All the above satellites were POPPY or, in the
+   case of GGSE, POPPY-related.
+
+-  Hypothesis 2: The POPPY satellites were SR VI, SR VIIA, SR VIIB, 
+   continuing the GRAB/SOLRAD cover story. The Dec 1962
+   launch was one or both of PL120 and PL121, with the other one perhaps being
+   a thermal control experiment ("BLACK SPHERE" in the SATCAT;
+   the "SURCAL 1" in the SATCAT is assumed to be an error, since
+   SURCAL 1 was lost in a Jan 1962 launch failure). It's also possible
+   that "BLACK SPHERE" and "CALSPHERE 1A" are really the same satellite.
+   Both PL120 and PL121 had a mass of 55 kg, the same as GRAB.
+
+-  Hypothesis 3: After the GRAB program ended, the SOLRAD series
+   became fully scientific because POPPY needed a whole satellite to  
+   itself and couldn't share. The GGSE satellites weren't related
+   to POPPY. The POPPY satellites were 
+   PL120 and PL121; PL112; PL135; and PL142. I still think
+   that PL 151/153, PL 161-164, PL171-174 were POPPY group flights.
+   The role of PL176 (1962-082B) is still a mystery; it was a smaller
+   (23 kg) NRL satellite that operated for 2 years.
+
+-  Hypothesis 4: the POPPY satellites aren't any of the ones listed
+   here, but were packages which remained attached to the Agena rocket
+   stages. This would let you have a single POPPY on the 1971-110 launch
+   separate from the confusion of the four identical payloads; but
+   I find it unlikely.
+
+ 
+Right now, my best guess is Hypothesis 3.
+
+
+APPENDIX: NRL SATELLITES ON POPPY LAUNCHES
+
+
+==========================
+POPPY LAUNCH 1: 1962 BETA TAU
+==========================
+
+SATCAT
+B TAU 1:   BLACK SPHERE
+B TAU 3:   SURCAL 1
+B TAU 4:   SURCAL 1A
+B TAU 5:   CALSPHERE 1A
+
+NCST:
+           PL 120          Classified
+           PL 121          Classified
+           SURCAL II       SPASUR Calib
+           CALSPHERE I     Object identification
+
+==========================
+POPPY LAUNCH 2: 1963-021
+==========================
+
+SATCAT:
+63-021B    LOFTI 2A        
+63-021C    SOLRAD 6        
+63-021D    RADOSE 112      
+63-021E    FTV 1292
+63-021F    SURCAL 1B
+
+NCST:
+           SR VI            Solar X-rays
+           LOFTI IIB        Low freq radio
+           PL 112           Classified
+           Dosimeter        Radiation counter
+           SURCAL III       SPASUR calib
+
+==========================
+POPPY LAUNCH 3: 1964-001
+==========================
+
+SATCAT:
+64-001B    GGSE 1 (GGRS)
+64-001D    SOLRAD 7A
+64-001E    GREB
+
+NCST:
+           SR VIIA       Solar X-rays
+           GGSE 1        Grav grad exp.
+           PL 135        Classified
+
+==========================
+POPPY LAUNCH 4: 1965-016
+==========================
+
+65-016A    OPS 4988 (GREB 6)
+65-016B    GGSE 2
+65-016C    GGSE 3
+65-016D    SOLRAD 7B
+65-016G    SURCAL 2
+65-016H    PORCUPINE 1
+
+NCST:
+           SR VIIB        Solar X-rays
+           PL 142         Classified
+           GGSE II        Grav. grad exp.
+           GGSE III       Grav. grad exp.
+           SURCAL IV      SPASUR calib.
+           DODECAPOLE I   Object identification
+
+
+==========================
+POPPY LAUNCH 5: 1967-053
+==========================
+
+SATCAT:
+
+67-053A    OPS 5712 (P/L 160)
+67-053C    GGSE 4
+67-053D    GGSE 5
+67-053E    TIMATION 1
+67-053F    SURCAL 159
+67-053G    OPS 5712 (P/L 152)
+67-053H    OPS 5712 (P/L 153)
+67-053J    SURCAL 150B
+
+NCST:
+           PL 151        Grav Grad expt.
+           GGSE IV       Grav Grad expt.
+           PL 153        Grav Grad expt.
+           GGSE V        Grav Grad expt.
+           TIMATION I    Navigation
+           CALSPHERE III Object identification
+           CALSPHERE IV  Object identification
+           
+
+==========================
+POPPY LAUNCH 6: 1969-082
+==========================
+
+SATCAT
+
+(69-082A    OPS 1807    USAF/NRO Program A aft rack payload?)
+69-082B    OPS 7613 (P/L 1) 
+69-082C    TIMATION 2
+69-082D    OPS 7613 (P/L 3)
+69-082E    OPS 7613 (P/L 4)
+69-082F    OPS 7613 (P/L 5)
+69-082G    OPS 7613 (P/L 6)
+69-082H    TEMPSAT
+69-082J    SOICAL (CYLINDER)
+69-082K    SOICAL (CONE)
+
+NCST:
+            PL 161        Grav grad expt.
+            PL 162        Grav grad expt.
+            PL 163        Grav grad expt.
+            PL 164        Grav grad expt.
+            TIMATION II   Navigation
+            PL 176        Classified
+            TEMPSAT II    Thermal design expt.            
+
+==========================
+POPPY LAUNCH 7: 1971-110
+==========================
+
+71-110A    OPS 7898 (P/L 1)
+71-110C    OPS 7898 (P/L 2)
+71-110D    OPS 7898 (P/L 3)
+71-110E    OPS 7898 (P/L 4)
+
+NCST:       PL 171          Grav grad expt.
+            PL 172          Grav grad expt.
+            PL 173          Grav grad expt.
+            PL 174          Grav grad expt.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  5 2240   SJ-7              CZ-2D           Jiuquan          Sci         24A
+Jul 10 0330   Suzaku            M-V             Uchinoura        XR Astron.  25A
+Jul 26 1439   Discovery         Shuttle         Kennedy LC39B    Spaceship   26A
+Aug  2 0730   FSW 21            CZ-2C           Jiuquan          Imaging     27A 
+Aug 11 0820   Thaicom 4         Ariane 5GS      Kourou           Comms       28A
+Aug 12 1143   MRO               Atlas V 401     Canaveral SLC41  Mars probe  29A
+Aug 13 2328   Galaxy 14         Soyuz-FG/Fregat Baykonur LC31    Comms       30A
+Aug 23 2110   Kirari (OICETS) ) Dnepr           Baykonur LC109   Tech        31A
+              Reimei (INDEX)  )                                  Tech        31B
+Aug 26 1834   Monitor-E         Rokot           Plesetsk         Imaging     32A
+Aug 29 0845   FSW 22            CZ-2D           Jiuquan          Imaging     33A
+Sep  2 0950   Kosmos-2415       Soyuz-U         Baykonur LC31    Imaging     34A
+Sep  8 1308   Progress M-54     Soyuz-U         Baykonur LC1     Cargo       35A
+Sep  8 2153   Anik F1R          Proton-M/Briz-M Baykonur LC200/39 Comms      36A
+Sep 23 0224   STP-R1            Minotaur        Vandenberg SLC8  Tech        37A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

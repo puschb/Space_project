@@ -1,0 +1,170 @@
+Jonathan's Space Report
+No. 500                                            2003 May 29, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Editorial
+---------
+
+On the occasion of the 500th issue of JSR, I would like to thank my
+loyal readers for their input over the past 14 years. The mission of JSR
+is to provide accurate technical information on human activities in
+space both direct and robotic, particularly when that information is not
+otherwise readily available. I use open sources including magazines,
+press releases, archival materials, and telephonic harrassment of
+long-suffering public affairs representatives, as well as performing my
+own trajectory calculations using orbital elements provided by US Space
+Command and other sources. Feedback from knowledgeable readers has been
+critical in maintaining the quality of JSR. Since I get no renumeration
+for this effort and since my goal is to be impartial and apolitical, I
+believe space program insiders feel a little freer about sharing their
+technical data with me than with a commercial source. The result is, I
+hope, a consistent presentation of the latest space events, without the
+usual emphasis on activities by any one country, and with the sort of
+quantitative detail that engineers and scientists like to see but
+non-technical media and public affairs representatives rarely provide. I
+remain committed to publishing corrections and clarifications when
+errors are drawn to my attention, so that JSR can stand as a journal of
+record for space launch activities.
+
+The JSR usually restricts itself to events that have already happened
+and that occurred either in space or on the way to space; I avoid, on
+principle, discussions of launch schedules and other astrological
+forecasts, as well as ground based events such as contracts, program
+management and ground tests - others are better qualified than I to
+report on these matters. I also rarely cover matters concerning
+suborbital launches and space debris, because I just don't have time to
+do the subject justice - although I do maintain catalogs of both these
+subjects on the web site, with occasional updates.
+
+As an academic, I get to speculate on matters which may not be in the
+public record for either commercial or, occasionally, security reasons
+(although my policy is to speculate only on the general mission and
+orbits of currently operating classified satellites, and not on details
+of their sensors and capabilities). As always in academia, my
+speculations and evaluations represent my own personal opinions and are
+not any kind of official  statement of the Harvard-Smithsonian Center
+for Astrophysics or any of the other institutions with which I am
+affiliated.
+
+You are welcome to quote information from the JSR elsewhere. However, if
+you are going to reproduce large parts of the JSR or of any of the
+original materials on my web site, a brief acknowledgement and a link
+back to my site would be greatly appreciated.  (In contrast, for
+example, the blatant copying of my entire launch log in Jane's
+Spaceflight Directory with no attribution whatsoever is discourteous).
+
+The JSR began in 1989 (via email and ftp, then later Usenet and
+eventually http) as a nominally weekly publication. As other duties have
+crowded out my free time, I have repeatedly changed the definition of a
+week, and at the moment one week is defined to last about 30 days.  I
+hope to continue issuing JSR as long as there is demand for it, but
+you'll have to bear with me if issues are occasionally few and far
+between. 
+
+When I began this adventure I expected an audience of about five of my
+friends. There are now over 3000 direct email subscribers and many more
+who just read it on the web or in some forwarded version. It's hard to
+know from email addresses with .biz,.com etc where people are, but those
+whose addresses include country domains indicate that JSR reaches over
+<A HREF="domains.html">65 countries or provinces</A> from Antigua to
+Zimbabwe. I know that's not the complete list (I have readers in the
+Marshall Islands who don't use the .mh domain) so if you are somewhere
+not in the list, drop me a line...
+
+To the many thousands of you around the world, thank you for being
+interested enough to read my ramblings! And now, back to the news...
+
+   Jonathan
+
+
+ -------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew, Yuriy Malenchenko and Edward Lu, are on board the
+Space Station. Soyuz TMA-2 is docked to the Station and acts as the crew
+return vehicle. The Shuttle fleet remains grounded for the indefinite
+future, while the STS-107 investigation is expected to conclude
+sometime this summer.
+
+Recent Launches
+---------------
+
+Japan has launched an interplanetary probe, MUSES-C. The first launch of
+the ISAS M-V rocket since the Astro-E failure appears to have gone
+without a hitch, although details are sketchy. The first three stages of
+M-V-5 probably placed MUSES-C in Earth orbit. The KM-V2 kick motor then
+put MUSES-C in solar orbit and  separated. This should leave three
+objects in space: MUSES-C and its KM-V2 kick motor, which have been
+cataloged as 2003-19A and 19B, both in solar orbit, and the M-34 third
+stage in Earth orbit, which has not yet been cataloged. However, it is
+possible that the M-34 stage was suborbital. Any readers who can clarify
+this are requested to contact me.
+
+MUSES C was named Hayabusa (Falcon) after launch. It will use solar
+electric (ion) propulsion to rendezvous with minor planet (25143) 1998
+SF36 in Sep 2005 and return a sample to Earth.
+
+Lockheed Martin launched AV-002, the second Atlas V, on May 13. It
+placed Hellas Sat 2 in supersynchronous transfer orbit of 395 x 84737 km
+x 17.0 deg. The Atlas V 401 uses a single-engine Common Centaur upper
+stage. Hellas Sat 2 is an Astrium Eurostar 2000+ satellite for the
+Greek/Cypriot Hellas Sat consortium based in Athens. Hellas Sat 1 is the
+old Kopernikus DFS-3 satellite launched in 1992 and leased by HellasSat
+in 2002.
+
+China has launched the third Beidou navigation satellite into
+geostationary transfer orbit. The Chang Zheng 3A rocket took off from
+Xichang at 1634 UTC on May 24, and its third stage made a first burn to
+low parking orbit followed by a second burn to a 196 x 41701 km x 25.0
+deg supersynchrnonous transfer orbit. Beidou used its apogee motor
+(probably an FY-25 model) to circularize its path into a 
+near-geostationary drift orbit around May 26.
+
+Errata
+------
+
+Oops - typo in the GALEX text: of course, 135-180 nm is the far UV
+band, and 180-300 nm is the near UV band, not vice versa.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  2 0153   Molniya-1T        Molniya-M       Plesetsk         Comms       11A
+Apr  8 1343   Milstar 6         Titan 4 Centaur Canaveral SLC40  Comms       12A
+Apr  9 2252   Galaxy 12  )      Ariane 5G       Kourou ELA3      Comms       13B
+              Insat 3A   )                                       Comms       13A
+Apr 12 0047   Asiasat 4         Atlas 3B/SEC    Canaveral SLC36B Comms       14A
+Apr 24 0423   Kosmos-2397       Proton-K/DM2    Baykonur LC81/24 Early Warn  15A
+Apr 26 0353   Soyuz TMA-2       Soyuz-FG        Baykonur LC1/5   Spaceship   16A
+Apr 28 1159   GALEX             Pegasus XL      Canaveral RW30/12 UV Astron  17A
+May  8 1128   GSAT-2            GSLV            Sriharikota      Comms       18A
+May  9 0429   Hayabusa          M-V             Kagoshima        Probe       19A
+May 13 2210   Hellas Sat 2      Atlas V 401     Canaveral SLC41  Comms       20A
+May 24 1634   Beidou            CZ-3A           Xichang          Navigation  21A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+
+
+
+
+
+

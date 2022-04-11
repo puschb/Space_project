@@ -1,0 +1,72 @@
+Jonathan's Space Report 
+No. 175       1993 Nov  18
+***
+I apologize for the erratic nature of JSR at the moment. Normal
+service will be resumed as soon as possible.
+***
+------------------------------------------------------------------------------
+
+Shuttle  
+-------  
+
+Erratum: STS-58 landing was 1505:43 UTC, not 1005:43 UTC. Sorry for
+the typo.
+
+After contamination was found at pad 39A, STS-61/Endeavour was transferred
+to pad 39B on Nov 15. Launch is still due for Dec 1.
+
+Launches
+--------
+
+Kosmos-2266, launched on November 2, is a military navigation
+satellite in the 'Parus' series, built by NPO-PM of Krasnoyarsk.
+
+Kosmos-2267, launched on Nov 5, is a spy satellite in a 70.4 degree
+orbit. 
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Oct  5 1756     Landsat 6       Titan 23G       Vandenberg SLC4W Remote s. FTO
+Oct  8 0800     Jian Bing       Chang Zheng 2C  Jiuquan         Remote s.  63A
+Oct 11 2133     Progress M-20   Soyuz           Baykonur LC2    Cargo      64A
+Oct 18 1453     Columbia      ) Space Shuttle   Kennedy LC39    Spaceship  65A
+                Spacelab SLS 2)
+Oct 22 0646     Intelsat 701    Ariane          Kourou          Comsat     66A
+Oct 26 1000     Kosmos-2265     Kosmos          Plesetsk        Calib      67A
+Oct 26 1704     Navstar GPS 34  Delta 7925      Canaveral LC17  Navsat     68A
+Oct 28 1517     Gorizont        Proton          Baykonur        Comsat     69A
+Nov  2 1210?    Kosmos-2266     Kosmos          Plesetsk        Navsat     70A
+Nov  5 0825?    Kosmos-2267     Soyuz           Baykonur        Recon      71A
+
+Reentries
+---------
+
+Oct 13          Progress M-19   Deorbited
+Nov  1          Columbia        Landed 
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-62
+OV-103 Discovery       OPF Bay 3     STS-60
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LC39B         STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/                                 
+ML2/RSRM-23/ET-61/OV-105 LC39B       STS-61
+ML3/RSRM-35?             VAB Bay 3   STS-60
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+

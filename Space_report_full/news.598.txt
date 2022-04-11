@@ -1,0 +1,132 @@
+Jonathan's Space Report
+No. 598                                          2008 Aug 12, Somerville, MA
+-------------------------------------------------------------------------------
+
+STS-125 (Hubble Servicing Mission 4)
+------------------------------------
+
+Preparations for launch of Atlantis to refurbish the Hubble Space
+Telescope are advancing. External Tank ET-127 and solid boosters
+RSRM-103 (stack BI-135) are assembled in Vehicle Assembly Building High
+Bay 3. Orbiter 104 (Atlantis) is in Orbiter Processing Facility bay 1.
+Atlantis will carry the SLIC (Super Lightweight Interchangeable
+Carrier), with Wide Field Camera 3 , batteries and a
+radiator; the ORU Carrier with the Cosmic Origins Spectrograph and FGS-3R
+instruments; the FSS (Flight Support Structure) for berthing HST, and
+the MULE (Multi-Use Lightweight Equipment carrier, for support equipment).
+
+
+Ariane 5ECA
+------------
+
+Ariane 5 vehicle L541, flight V184 was launched from Kourou on
+Jul 7. It carried Protostar 1 and Badr 6 into orbit.
+
+Protostar 1 is an SS/Loral LS-1300 satellite with a mass of 1774 kg
+dry 4191 kg fuelled. It is owned by Protostar Ltd. of Bermuda and
+its subsidiary Protostar Satellite Systems of San Francisco. I believe
+the launch contract is with the US subsidiary, and I am therefore counting
+Protostar as a US satellite (I imagine the Bermuda address is just
+for some kind of tax reason).
+
+Badr 6 is an Astrium Eurostar 2000+ satellite for Arabsat of Riyadh;
+it is also known as Arabsat 4AR, and replaces Arabsat 4A which was lost
+in a 2006 Proton launch failure.
+
+Falcon 1
+--------
+
+Falcon 1 flight 003 was launched from Omelek Island at 0334 UTC on Aug
+3, but two minutes after launch the mission failed.  According to information
+released by SpaceX, the problem occurred when stage 1 failed to separate
+from stage 2. The improved Merlin 1C first stage engine 
+completed its burn successfully, but a longer than expected first stage
+shutdown meant that the stage was still thrusting when stage 2 tried to
+separate, and the two stages briefly recontacted.
+The stages fell in the Pacific; SpaceX boss Elon Musk reports that
+the first stage reached 217 km altitude, the second stage ignited
+correctly, and the fairing separated - which was due to happen at 3min 13s 
+after launch, implying that the stage
+remained intact at that point. Musk was reported by spaceflightnow.com
+as saying that 'Neither stage exploded. They just got a little bit cooked.'
+Presumably the recontact caused the second stage to tumble during 
+the burn.
+
+The rocket carried the 83 kg Trailblazer satellite, a test of a new
+SpaceDev bus as part of the DoD's Operationally Responsive Space
+program. Two 3 kg nanosatellites from NASA Ames Research Center were
+also aboard, and two Celestis burial capsules containing cremated remains
+were attached to the second stage.
+
+Echostar 11
+-----------
+
+The Echostar 11 satellite was launched on Jul 16 by a Sea Launch Zenit-3SL.
+The satellite will provide television broadcasting for the Dish Network.
+By Jul 24 it was in a 35685 x 35791 km x 0.1 deg orbit drifting over 140W.
+
+SAR-Lupe 5
+-----------
+
+Germany's fifth SAR-Lupe radar satellite was launched by a Russian
+Kosmos-3M on Jul 22 into a 470 x 500 km x 98.1 deg orbit.
+
+Kosmos-2440
+------------
+
+According to correspondents on the nasaspaceflight.com site,
+the upper stage used to launch Kosmos-2440 was an old 11S861 Blok DM-2,
+redesignated DM-3 (or DM3) for reasons that are unclear.
+
+Kosmos-2441
+-----------
+
+Kosmos-2441 was launched from Plesetsk on Jul 26 by a three-stage
+Soyuz-2-1b rocket into a 195 x 726 x 98.3 deg orbit. It is believed to
+be the first in a new series of Russian military imaging recon
+satellites, reportedly designated Persona. On Jul 31 the orbit
+was raised to 714 x 732 km.
+
+Erratum
+--------
+
+Carl Rigg points out that the Zhongxing 9 (Chinasat 9) launch was
+Jun 9, not Jun 10.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun  9 1215   Zhongxing 9       Chang Zheng 3B   Xichang           Comms     28A
+Jun 11 1605   GLAST             Delta 7920H      Canaveral SLC17B  Astronomy 29A
+Jun 12 2205   Skynet 5C  )      Ariane 5ECA      Kourou ELA3       Comms     30A
+              Turksat 3A )                                         Comms     30B
+Jun 19 0636   Orbcomm CDS-1  )  Kosmos-3M        Kapustin Yar LC107 Comms    31
+              Orbcomm R-1    )                                     Comms     31
+              Orbcomm R-2    )                                     Comms     31
+              Orbcomm R-3    )                                     Comms     31
+              Orbcomm R-4    )                                     Comms     31
+              Orbcomm R-5    )                                     Comms     31
+Jun 20 0746   Jason 2           Delta 7320       Vandenberg SLC2W  Rem Sens. 32A
+Jun 26 2359   Kosmos-2440       Proton-K/DM-3    Baykonur LC81/24 Early Warn 33A
+Jul  7 2147   Protostar 1  )    Ariane 5ECA      Kourou ELA3       Comms     34
+              Badr 6       )                                       Comms     34
+Jul 16 0520   Echostar 11       Zenit-3SL        SL Odyssey, POR   Comms     35A
+Jul 22 0240   SAR-Lupe 5        Kosmos-3M        Plesetsk          Radar     36A
+Jul 26 1831   Kosmos-2441       Soyuz-2-1B       Plesetsk LC43/4   Imaging   37A
+Aug  3 0334   Trailblazer )     Falcon 1         Omelek            Tech      F01
+              PreSat      )                                        Tech      F01
+              Nanosail-D  )                                        Tech      F01
+              Celestis    )                                        Burial    F01
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

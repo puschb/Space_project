@@ -1,0 +1,162 @@
+Jonathan's Space Report
+
+No. 434                                           2000 Sep 7, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+The STS-106 mission, Space Station logistics flight 2A.2b, is scheduled
+for launch on Sep 8. It will dock with the International Space Station
+and its crew will outfit the recently launched Zvezda module.
+
+The press kit for the STS-106 mission is an improvement over recent
+efforts; for the first time since the Boeing press kits were stopped,
+it includes a decent payload bay diagram. (Admittedly the diagram
+is actually for STS-101, but it's a step in the right direction).
+
+STS-106 uses orbiter 104 (Atlantis), external tank ET-103, and solid
+rocket motor pair RSRM-75. Engines 2052, 2044 and 2047 and OMS pods LP03
+and RP04 are installed on Atlantis. Three EMU spacesuits are being
+flown.
+
+The payload bay manifest is:
+  Bay  Payload                                     Mass (kg)
+  ----------------------------------------------------------
+ Sill Remote Manipulator System RMS No. 202
+ 1-2  External Airlock/Orbiter Docking System       1600?
+ 3-4  Tunnel Adapter S/N 001                            ?
+ 4    Keel Yoke Device/Integrated Cargo Carrier     2054
+ 5-8  Spacehab Long Tunnel                              ?
+ 8-12 Spacehab Logistics Double Module              8200
+ 13S  Adapter Beam/SEM-8/G-782                       300?
+
+The Integrated Cargo Carrier has the SOAR experiment for GPS
+attitude control, and equipment for the spacewalks.
+The adapter beam in bay 13 starboard carries two GAS canisters,
+SEM-8 and G-782, both with high school experiments.
+
+(If anyone has weight values for the tunnel adapter and tunnel,
+please pass them along).
+
+Crew of STS-106 are Terrence Wilcutt, Col USMC, NASA (Commander), Scott
+Altman, Cmdr USN, NASA (Pilot),  Edward Lu, Ph.D., NASA (Mission
+Specialist 1), Richard Mastracchio, NASA, (Mission Specialist 2), Daniel
+Burbank, LtCmdr USCG, NASA (Mission Specialist 3), Yuri Malenchenko,
+Col. VVS, RAKA (Mission Specialist 4), and Boris Morukov, M.D., IMBP
+(Mission Specialist 5). Lu and Malenchenko will make a spacewalk from
+Atlantis to connect cables between Zvezda and Zarya.
+
+[RAKA: Rosaviakosmos, i.e. Russian Space Agency; IMBP:  Institut
+mediko-biologicheskikh problem, Moskva; VVS: Voenno-vosdushniye Sile,
+i.e. Russian Air Force].
+
+Current Launches
+----------------
+
+Russia launched a Globus military communications satellite on Aug 28 on
+a Proton-K with a Blok DM-2 (or DM-2M?) upper stage. Globus satellites
+are usually given the public name Raduga-1, but, possibly due to
+administrative error, this satellite was initially named Kosmos-2372 by
+the RVSN press service. I am assuming for the time being that Raduga-1
+is the official name. The Globus satellites replaced the older Gran'
+(Raduga) series.
+
+Another International Launch Services Proton flight on Sep 5  placed
+Sirius Radio's Sirius 2 in orbit. The Krunichev Proton-K was launched
+from Baykonur into a low 144 x 168 km x 64.8 deg parking orbit. The
+Energiya Blok DM3 stage then made two burns to deliver Sirius 2 to an
+elliptical 6192 x 47057 km x 63.4 deg orbit. The satellite is a Space
+Systems/Loral FS-1300 with a dry mass of 1570 kg and a launch mass of
+3800 kg. Take care not to confuse this Sirius 2 with its namesake, the
+geostationary Sirius 2 launched in Nov 1997 by Nordiska Satellit AB
+which provides communications services to Scandinavia. Today's Sirius 2
+will provide digital radio broadcasts to mobile users in North America.
+
+The Solidaridad 1 communications satellite, a Hughes HS-601 owned by
+Mexico, failed on Aug 27 when its backup computer died; the prime had
+already failed. The satellite was launched in 1993.
+
+The Zi Yuan 2 remote sensing satellite was launched on Sep 1 by a three
+stage Chang Zheng 4B rocket from the Taiyuan Space Center in China. Zi
+Yuan 1, launched in 1999, was the first China-Brasil Earth Resource Satellite
+(CBERS), a joint project between the Chinese Academy of Space Technology
+and the Brazilian space agency INPE; ZY-2 appears to be a purely 
+Chinese mission, probably using the same bus. It is in a 474 x 493 km x 97.4
+deg orbit, much lower than the ZY-1's 773 km orbit, which may indicate
+a heavier payload.
+
+The European Telecommunications Satellite Organization's Eutelsat W1
+was launched on Sep 6 by Arianespace. The Ariane 44P, with four
+solid strapons, put W1 in geostationary transfer orbit.
+
+Eutelsat W1 will occupy the 10E orbital slot. The first Eutelsat W1
+satellite, an Alcatel Spacebus 3000, was damaged in a fire in the Cannes
+factory in 1998. Construction of a second Eutelsat "W1R", another
+Spacebus 3000, was begun as well as a ground spare, called Ressat, built
+by Matra Marconi Space/Toulouse (now part of the Astrium company) and
+using a Eurostar 2000+ bus. The second Eutelsat W1 was reassigned to
+become Eurobird, and will be launched to 28E, with Ressat becoming the
+third and final Eutelsat W1. This satellite, the Eurostar 2000+, was the
+one launched on Sep 6. Its mass is 1430 kg, with a further 1820 kg of
+propellant at launch for its Primex R-4D liquid apogee engine. The
+box-shaped 2.5 x 5.0 m satellite has two rectangular solar panel arrays
+spanning 31.7m and two dishes, a European beam and a steerable beam. The
+payload includes 28 Ku-band transponders.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  4 2344   Kosmos-2371       Proton-K/DM-2? Baykonur LC200L  Commsat    36A
+Jul 12 0456   Zvezda            Proton-K       Baykonur LC81L   Station    37A
+Jul 14 0521   Echostar VI       Atlas 2AS      Canaveral SLC36B Commsat    38A
+Jul 15 1200   CHAMP   )         Kosmos-3M      Plesetsk LC132   Science    39A
+              MITA    )                                         Science    39B
+              Rubin   )                                         Tech       39C
+Jul 16 0917   GPS SVN 44        Delta 7925     Canaveral LC17A  Navsat     40A
+Jul 16 1239   Samba   )         Soyuz-Fregat   Baykonur LC31    Science    41A
+              Salsa   )                                         Science    41B
+Jul 19 2009   Mightysat 2.1     Minotaur       Vandenberg CLF   Tech       42A
+Jul 28 2242   PAS 9             Zenit-3SL      Odyssey, POR     Commsat    43A
+Aug  6 1827   Progress M1-3     Soyuz-U        Baykonur LC1     Cargo      44A
+Aug  9 1113   Rumba   )         Soyuz-Fregat   Baykonur LC31    Science    45A
+              Tango   )                                         Science    45B
+Aug 17 2316   Brasilsat B-4 )   Ariane 44LP    Kourou ELA2      Commsat    46A
+              Nilesat 102   )                                   Commsat    46B
+Aug 17 2345   USA 152           Titan 4B       Vandenberg SLC4E Recon      47A
+Aug 23 1105   DM-F3             Delta 8930     Canaveral SLC17B Test       48A
+Aug 28 2008   Raduga-1          Proton-K/DM-2? Baykonur LC81R   Commsat    49A
+Sep  1 0325   ZY-2              Chang Zheng 4B Taiyuan          Imaging    50A
+Sep  5 0943   Sirius 2          Proton-K/DM3   Baykonur LC81L   Commsat    51A
+Sep  6 2233   Eutelsat W1       Ariane 44P     Kourou ELA2      Commsat    
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       VAB Bay 3     STS-92  2000 Oct     ISS 3A
+OV-104 Atlantis        LC39B         STS-106 2000 Sep 8   ISS 2A.2b
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+MLP-1 
+MLP-2/RSRM-75/ET-103/OV-104  LC39B      STS-106
+MLP-3/RSRM-76/ET-104/OV-103  VAB Bay 3  STS-92
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

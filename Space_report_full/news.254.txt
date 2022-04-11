@@ -1,0 +1,139 @@
+Jonathan's Space Report
+No. 254                  1995 Aug 30                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Launch date for Endeavour on mission STS-69 has been set for Aug 31.
+Crew of Endeavour/STS-69 are David Walker (Commander), Ken Cockrell (Pilot),
+James Voss (Payload Commander), James Newman (Mission Specialist),
+and Michael Gernhardt (Mission Specialist). The flight will
+see the deployment and retrieval of the Wake Shield Facility
+microgravity processing satellite and the Spartan-201 ultraviolet
+solar observatory, as well as a spacewalk by Voss and Gernhardt
+to test new equipment and techniques, and operation of the
+International Extreme Ultraviolet Hitchhiker (IEH-1) and the Capillary
+Pumped Loop Hitchhiker/GAS Bridge Assembly experiment payloads
+in the cargo bay.
+
+Meanwhile, Columbia has been moved to the Vehicle Assembly Building
+and mated with the STS-73 stack.
+
+Mir
+----
+
+Can anyone forward me details of a reported EVA on Mir on Aug 18? (It's
+mentioned on Ron Baalke's Space Calendar). I haven't been able to
+confirm it.
+
+Recent Launches
+--------------
+
+JCSAT 3 is a Hughes HS-601 model communications satellite
+owned by JSAT (Japan Satellite Systems). JSAT was formed in
+1993 by the merger of Japan Communications Satellite Co (JCSAT,
+which operated the first two JCSAT satellites) and Satellite
+Japan Corp (SAJAC). JCSAT 1 and 2 are HS-393 spin-stabilized
+satellites launched in 1989-90 and still operating.
+
+JCSAT 3 was launched on a Lockheed Martin Atlas 2AS on
+1995 Aug 29. The Atlas first stage was serial 8205, with Centaur AC-117
+as the second stage. Launch was from pad 36B at Cape Canaveral.
+JCSAT 3 is the first Japanese digital TV broadcasting
+satellite, and programming will be operated  by DMC (Digital
+Multi-Channel Planning Co, Ltd), a partnership of JSAT, Itochu Corp,
+Mitsui and Co, Ltd, Nissho Iwai Corp and Sumitomo Corp. The satellite
+will also provide data and fax transmission services. The hybrid
+3-axis stabilized payload has 28 Ku band and 12 C band transponders.
+
+The Atlas IIAS launch vehicle placed JCSAT 3 in a supersynchronous
+transfer orbit. The higher the apogee, the less velocity change
+needed to change the orbital plane and reach geostationary orbit, and
+the Atlas placed JCSAT in an orbit which was even more favorable
+than anticipated. (I don't have the parameters yet). 
+
+The `N-STAR a' satellite (yes, the lower case letter a is, perversely,
+correct) is an FS-1300 class Space Systems/Loral satellite built for
+Nippon Telephone and Telegraph (NTT) of Japan. N-STAR a was launched
+1995 Aug 29 on the V77 flight of Ariane, using an Ariane 44P with an
+H-10 III third stage and the 01 fairing. The launch profile used a
+standard geostationary transfer orbit. N-STAR a is to replace the CS-3
+satellite at 132E. The satellite was damaged during transportation from
+California to Guiane, and several weeks were needed for repairs. The
+N-STAR a satellite has a launch mass of 3410 kg, a dry mass of 1617 kg,
+and a BOL mass of 2057 kg. The 3-axis stabilized satellite has a solar
+panel span of 27.3m, and a bus size of 2.4 x 2.2 x 2.2 m. Height is 6.3
+m including the payload mast. Mass of the third stage in orbit with the
+VEB is 2065 kg at orbit insertion, or 1770 kg after fuel depletion (1240
+kg H-10-3, 530 kg VEB). The payload includes 11 Ka-band and 8 Ku-band
+transponders for telephone relay, 5 C-band transponders for
+communications to remote islands,  and an S-band transponder for mobile
+communications. (source: Av Week, Arianespace)
+
+In a third success for Japan this week, a small TR-1A suborbital
+sounding rocket was successfully launched from Tanegashima on Aug 25.
+
+The IABS final stage of the DSCS III B7 launch has now been cataloged as
+object 23648.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jul  5 0309   Kosmos-2315     Kosmos-3M       Plesetsk LC132  Navigation  32A
+Jul  7 1623   Helios 1A  )    Ariane 40       Kourou ELA2     Recon       33A
+              CERISE        )                                 Sigint      33B
+              UPM LBSAT 1   )                                 Technology  33C
+Jul 10 1238   USA 112         Titan 4 Centaur Canaveral LC41  Sigint      34A
+Jul 13 0530   Galileo Probe   -               Galileo, Solar orb.      89-84E
+Jul 13 1342   Discovery       Space Shuttle   Kennedy LC39B   Spaceship   35A
+Jul 13 1955   TDRS 7          IUS             Discovery,LEO   Comsat      35B
+Jul 20 0304   Progress M-28   Soyuz-U         Baykonur LC1    Cargo       36A
+Jul 24 1552   Kosmos-2316 )   Proton-K/DM2    Baykonur LC??   Navigation  37A
+              Kosmos-2317 )                                   Navigation  37B
+              Kosmos-2318 )                                   Navigation  37C
+Jul 31 2330   DSCS III B7     Atlas IIA Centaur Canaveral LC36A Comsat    38A
+Aug  2 2359   Prognoz-M2  )   Molniya-M       Plesetsk LC43/3 Science     39A
+              Magion 4    )                                   Science     39F
+Aug  3 2358   PAS 4           Ariane 4        Kourou ELA2     Comsat      40A
+Aug  5 1110   Mugunghwa-ho    Delta 7925      Canaveral LC17B Comsat      41A
+Aug  9 0121   Molniya-3       Molniya-M       Plesetsk LC43   Comsat      42A
+Aug 15 2230   Gemstar 1       LLV-1           Vandenberg SLC6 Comsat      FTO
+Aug 29 0053   JCSAT 3         Atlas IIAS      Canaveral LC36B Comsat      43A
+Aug 29 0641   N-STAR a        Ariane 44P      Kourou ELA2     Comsat      44A
+   
+Reentries
+---------
+
+Jul  7        Atlantis        Landed at KSC
+Jul 22        Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        VAB Bay 3     STS-73  Sep 26
+OV-103 Discovery       OPF Bay 1     OMDP
+OV-104 Atlantis        OPF Bay 2     STS-74  Oct 26
+OV-105 Endeavour       LC39A         STS-69  Aug 31
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-48/ET-72/OV-105   LC39A      STS-69
+ML2/RSRM-51                VAB Bay 1? STS-74
+ML3/RSRM-50/ET-73/OV-102   VAB Bay 3  STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'

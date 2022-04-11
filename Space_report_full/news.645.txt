@@ -1,0 +1,262 @@
+Jonathan's Space Report
+No. 645                                        2011 Aug 16 Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+Spacecraft Names
+----------------
+
+I have updated my categorized list of spacecraft names at
+http://planet4589.org/space/misc/names.html -  some of you may find it
+amusing. The launch logs at
+ http://planet4589.org/space/logs/launchlog.txt   (inclusive list)
+and 
+ http://planet4589.org/space/logs/launchlogy.txt  (conventional list)
+have also been updated.
+
+
+International Space Station
+---------------------------
+
+Soyuz TMA-21 and Soyuz TMA-02M remain docked at the Station.
+
+Erratum: Of course, Atlantis docked with ISS on Jul 10, not Jun 10
+as I wrote in JSR 644.
+
+On Aug 3 astronauts Volkov and Samokutyaev conducted spacewalk Russian VKD-29
+from the Pirs module. The airlock was depressurized at 1435 UTC and the
+hatch was opened at 1450 UTC. The astronauts deployed the RadioSkaf-V
+amateur radio satellite and installed the BTLS-N lasercom terminal on
+the Zvezda module. They also jettisoned a thermal cover from the BTLS-N
+and installed the Biorisk-MSN exposure package outside the Pirs module.
+Hatch was closed at 2113 UTC and the airlock was presumably repressurized
+soon afterwards. According to Andrey Krasil'nikov, Volkov used suit Orlan-MK 
+No. 4 and Samokutyaev used No. 6.
+
+
+Spektr-R and space radio astronomy
+-----------------------------------
+
+After an initial partially successful attempt on Jul 22, the RadioAstron
+antenna was successfully unfurled and locked in place on Jul 23
+(according to reports on russianspaceweb.com). According to data
+provided by Vladimir Agapov, Spektr-R's orbit on Jul 25 was  1248 x
+334727 km x 51.83 deg, stretching nearly to lunar distance.
+
+Space-based radio astronomy using very long baseline interferometry
+(VLBI) in the GHz band began with the Soviet KRT-10 experiment in 1979.
+Launched on the Progress-7 cargo ship, the 10 m dish was deployed in low
+orbit on the Salyut-7 space station and used for observations at 0.4 and
+2.5 GHz. A 4.9m dish on NASA's TDRS 1 communications satellite was used
+for demonstration experiments at 2.3 and 16 GHz in 1986-1988 in
+geostationary orbit at 35800 km. The VSOP experiment on the Japanese
+HALCA satellite, an 8-m dish observing at 1.6 to 22 GHz, operated from
+1997 to 2003 with an apogee of 21000 km. Space VLBI involves combining the
+space-based antenna with a ground-based one to simulate a single antenna
+with a diameter equal to the distance between the components; the higher
+the apogee of the space-based antenna, the higher the spatial resolution
+achievable by the observations. The RadioAstron experiment, led by 
+Kardashev at the Lebedev Institute, has an orbit an order of
+magnitude higher than previous experiments and thus should deliver
+record resolution.
+
+Higher frequency studies in the 100-1000 GHz range (sometimes called
+radio astronomy but more frequently `submillimeter astronomy') have
+mostly focussed on the cosmic microwave backround radiation with
+suborbital experiments (by Gush in Canada, 1971-1990 on Black Brant
+rockets; Houck at Cornell on Aerobee 4.177 and 4.178 in 1968; Blair from
+Los Alamos on a Sandia rocket in 1972, Matsumoto and Lange on
+K-9M-78 and K-9M-80 in 1985-87, and Mastumoto's S-520-17 experiment
+in 1995) followed by orbital experiments (Prognoz-9/Relikt, 1983;
+COBE, 1989; WMAP, 2001; Planck, 2009). In addition, the SWAS and Odin
+satellites (1998, 2001) have studied galactic submillimeter emission
+and ESA's Herschel also overlaps the range.
+
+Space-based low frequency radio astronomy in the 0.5-15 MHz frequency
+range has a long history beginning with the Blue Scout D-3 suborbital
+flight in Jan 1961 as part of the Harvard Space Radio Project, which
+continued with orbital flights on CORONA missions 26, 29, 31, 42, 43, 44
+and 46 and MIDAS missions 6 and 7, as well as the AD-622 suborbital
+probe. The Gorkiy radiophysical institute flew instruments on Elektron 2
+and 4, Kosmos-119, 142 and 259. F. Graham Smith (MRAO/Jodrell) flew
+experiments on the UK's Ariel 2 and 3; Canada's DRTE lab  deployed
+73-meter antennas on the Alouette and Isis satellites. The Meudon group
+flew 36-m dipoles on Rubis rockets in 1965 and 1967.
+
+The University of Michigan experiments on OGO 1 to 4 studied solar radio
+bursts; these were preceded by test flights on suborbital Journeyman
+11.02UR and 11.03UR flights in 1962-1965. Experiments were also flown by
+ISAS (Shinsei, 1971), Iowa (IMP 8, 1973), the Warsaw Aviation Inst.
+(IK-Kopernikus-500, 1973), and the French amateur organization ESIE
+(SARA, 1991). The most ambitious experiments in this frequency range,
+however, were done by Joe Alexander, RG Stone et al. at NASA-Goddard,
+beginning with Javelin and Astrobee 1500 sounding rocket flights
+(8.33GR, 8.44GR, 16.03GR, 16.06GR) and continuing in orbit with the
+91-meter dipole on ATS 2 (1967) and IMP 6 (1971) and the 229-meter
+V-dipoles on RAE 1 (1968) and RAE 2 (in lunar orbit, 1973).
+These low frequency experiments mostly detected diffuse galactic
+emission and ionospheric and solar activity.
+
+(Apologies if I have omitted your experiment - additions and corrections
+solicited. I have not included solar and planetary radio burst studies
+at even lower frequencies in the kHz range, which can perhaps be considered
+as in-situ electric/magnetic field and plasma wave measurements rather than
+astronomical observations).
+
+
+Beidou
+------
+
+A new Chinese navigation satellite was launched on Jul 26. The CALT
+launch agency refers to it as Beidou-2 IGSO-4 (Beidou er hao IGSO-4
+weixing). The Xinhua news agency mostly refers to it as 9th Beidou
+Navigation Satellite (di jiu ke Beidou daohang weixing) although it does
+also describe it as  'Beidou daohang xitong (Compass Navigation System)
+zu wang (networking) de di si ke (4th) qingxidei (inclined)  qiu (geo)
+tongbu (synchronous) guidao (orbit) weixing (satellite)'. I will use the
+'Beidou daohang weixing 9' or 'Beidou DW9' for short, as a reasonable
+English-alphabet rendering of the name used by Xinhua.
+
+On Aug 14 Beidou DW9 was in a 35698 x 35871 km x 55.2 deg orbit with
+longitudes ranging from 78 to 110E.
+
+SJ11-02
+-------
+
+Shi Jian shiyihao 02 xing (Practice-11 Sat 2) was launched  on Jul 29,
+joining SJ-11-03 which went up on Jul 6. Its orbit is 689 x 704 km x
+98.1 deg.
+
+Paksat 1R
+---------
+
+China launched a 5120 kg DFH-4 class communications satellite on Aug 11
+on behalf of the Pakistani space agency SUPARCO, into a 200 x 41800 km x
+25.0 deg transfer orbit. The satellite, Paksat 1R, will replace Paksat
+1, the former Palapa C1.
+
+Haiyang 2
+---------
+
+The Haiyang erhao (Ocean 2) oceanographic satellite was launched on
+Aug 15. It carries a microwave radiometer, a radar altimeter and a radar
+scatterometer to monitor ocean conditions. According to discussion on
+nasaspaceflight.com it was launched from complex 2 at the Taiyuan space
+center. This launch makes seven Chinese orbital flights in two months.
+
+
+Juno
+----
+
+NASA's second New Frontiers mission, Juno, was launched on Aug 5 by
+Atlas V serial AV-029. It entered a 194 x 226 km x 28.8 deg parking
+orbit at 1635 UTC and a hyperbolic escape orbit at 1715 UTC. AV-029
+separated from Juno at 1718 UTC. On Aug 8 the probe left the Earth's
+gravitational sphere of influence and entered a 1.0 x 2.26AU x 0.1 deg
+solar orbit. It will return to Earth on 2013 Oct 9 for a 500 km
+flyby to set it on course for Jupiter. Juno will enter Jupiter polar
+orbit in 2016 Jul and will complete its mission in 2017 Oct
+with disposal in the Jovian atmosphere.
+
+Juno carries magnetometers, plasma and particle instruments, UV auroral
+imagers and spectrometers, and the JunoCam imager. The probe has a mass
+of 1593 kg and carries a further 2032 kg of propellant. Its three large
+solar arrays span around 22 meters; it is the first spacecraft to fly to
+the outer solar system without radioisotope power sources.
+
+Ariane 5
+--------
+
+Arianespace launched the Astra 1N and BSAT 3c satellites on Aug 6. Astra
+1N is an Astrium/Toulouse Eurostar 3000 satellite to be located at 19.2E
+for European television broadcasting. BSat-3c is a Lockheed Martin
+A2100A for Japan's Broadcast Satellite Systems Corp (B-SAT);  it is
+jointly owned by Sky Perfect JSAT Corp., who have a telecoms payload on
+board that will be operated as JCSAT-110R.
+
+The launch vehicle was an Ariane 5ECA model, serial number L560. The EPC
+core stage flew a -1029 x 188 km x 6.8 deg trajectory, and the ESC-A
+stage then flew to a geostationary transfer orbit of 266 x 35725 km x
+2.0 deg. On Aug 12 Astra 1N was in a 35550 x 35790 km x 0.1 deg orbit
+drifting east over 5 deg W, and BSat-3c was in a 33917 x 35734 km x 0.0
+deg orbit.
+
+
+Suborbital launches
+-------------------
+
+A Minuteman 3 missile launched from Vandenberg was destroyed over the Pacific
+five minutes into flight on Jul 27. On the same day, a Russian Navy Sineva was
+flown from the Barents Sea to the Kura test range.
+
+On Aug 11 the HTV-2b hypersonic glider was launched from Vandenberg
+across the Pacific. The mission ended prematurely with loss of signal
+three minutes into the glider's free flight. The three-stage Minotaur IV Lite
+flew a low altitude trajectory; the apogee is uncertain.
+
+SES-3/Kazsat
+------------
+
+After some volatility, US cataloging of the objects from the 2011-035
+launch seems to have settled down. Object 37762, with three element sets
+in an orbit reflecting the SES-3 payload adapter, has been decataloged,
+with the catalog number now assigned to an object in a quite different
+orbit, the tumble weight from the IUE satellite's third stage, recently
+discovered after 33 years in orbit. What has actually happened to the
+SES-3 adapter, and whether the earlier 37762 elsets reflected
+a real object, is still unclear.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  6 0428   SJ-11-3           Chang Zheng 2C     Jiuquan           Unknown   30A
+Jul  8 1529   Atlantis STS-135  Space Shuttle      Kennedy LC39A     Spaceship 31A
+Jul 11 1541   TianLian 1-02     Chang Zheng 3C     Xichang           Data rel. 32A
+Jul 13 0227   Globalstar M083 ) Soyuz-2-1A/Fregat  Baykonur LC31     Comms     33A  
+              Globalstar M088 )                                      Comms     33B
+              Globalstar M091 )                                      Comms     33C
+              Globalstar M085 )                                      Comms     33D
+              Globalstar M081 )                                      Comms     33E
+              Globalstar M089 )                                      Comms     33F
+Jul 15 1118   GSAT-12           PSLV-XL            Sriharikota       Comms     34A
+Jul 15 2316   SES-3   )         Proton-M/Briz-M    Baykonur LC200/39 Comms     35A
+              Kazsat-2)                                              Comms     35B
+Jul 16 0641   GPS SVN 63        Delta 4M+(4,2)     Canaveral LC37B   Nav       36A
+Jul 18 0231   Spektr-R          Zenit-3F/Fregat    Baykonur LC45/1   Astronomy 37A
+Jul 20 0749   PSSC-2                               Atlantis,LEO      Tech      31B
+Jul 26 2144   Beidou DW9        Chang Zheng 3A     Xichang           Nav       38A
+Jul 29 0742   SJ11-02           Chang Zheng 2C     Jiuquan           Unknown   39A
+Aug  3 1843   Radioskaf-V       -                  EVA, ISS          Comms   98-67CK
+Aug  5 1625   Juno              Atlas 551          Canaveral SLC41   Probe     40A
+Aug  6 2252   Astra 1N )        Ariane 5ECA        Kourou ELA3       Comms     41A
+              BSAT 3c  )                                             Comms     41C
+Aug 10 1615   Paksat 1R         Chang Zheng 3B     Xichang           Comms     42A
+Aug 15 2257   Haiyang 2         Chang Zheng 4B     Taiyuan LC2       Rem.Sens. 43A
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jul  8 1404   SRALT            SR-19              C-17, Point Mugu    Target       200?
+Jul 10 1400   NASA 21.140GE    Black Brant V      Wallops I LA2       Ionosphere   158?
+Jul 10 1400   NASA 41.090GE    Terrier Orion      Wallops I LA2       Ionosphere   158?
+Jul 11 1535?  Gradicom         Gradicom 2         Chamical            Test         100
+Jul 21 1158   NASA 41.092GO    Terrier Orion      Wallops I           Edu          160?
+Jul 27 1001   GT205 RV         Minuteman III      Vandenberg LF04     Test        1300?
+Jul 27        RV x ?           Sineva             K-84, Barents Sea   Test        1000?
+Aug 11 1445   HTV-2b           Minotaur 4 Lite    Vandenberg SLC8     Test         100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

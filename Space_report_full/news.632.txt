@@ -1,0 +1,250 @@
+Jonathan's Space Report
+No. 632                                           2010 Sep 22 Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Soyuz TMA-18, Soyuz TMA-19, Progress M-05M, and Progress M-07M
+are docked to the ISS.
+
+On Aug 11 Wheelock and Caldwell-Dyson made a second spacewalk from the Quest
+airlock to change out the S1 pump module. The old pump was removed from
+the truss and carried to a storage point, the POA (Payload and ORU
+Accommodation) unit on the Mobile Base System. The astronauts also prepared
+the new pump module on the ESP-2 platform. The airlock was depressurized
+at 1221 UTC with hatch open from 1226 to 1936 UTC, and repress at 1954 UTC.
+
+A third spacewalk on Aug 17 [ERRATUM: AUG 16] completed the work, with pump module S/N 004
+moved from ESP-2 and installed in the S1 truss. The Quest hatch was opened
+at 1019 UTC and closed at 1737 UTC, with repressurization at 1740 UTC.
+The failed pump module, S/N 002, is still stashed on the MBS POA and will
+remain there for the time being. (If someone knows the serial numbers
+for the PMs on P1 and ESP-3, please let me know.)
+
+Progress M-06M undocked from Zvezda at 1121 UTC on Aug 31 to begin the
+free flying part of its mission. It was deorbited at 1213 UTC on Sep 6.
+Progress M-07M was launched on Sep 10 and docked with Zvezda at 1158 UTC
+on Sep 12.
+
+Tango
+------
+
+Sweden's Prisma Target satellite, Tango, separated from the main Prisma 
+satellite Mango on Aug 11 at 1751 UTC to begin formation flying experiments.
+Note that the European Space Agency's Cluster FM8 satellite is also
+called Tango. Prisma-Tango is in a 784 x 787 km x 98.3 deg orbit;
+Cluster-Tango is in a 1856 x 130941 km x 129.6 deg orbit, close to
+its dance partners Samba, Salsa and Rumba.
+
+AEHF
+----
+
+The US Air Force's first Advanced EHF communications satellite was
+launched on Aug 14.  AEHF 1 is a Lockheed Martin A2100M satellite with a
+launch mass of around 6200 kg. The AEHF constellation's SHF and EHF
+communications payloads will replace the Milstar satellite system
+launched in the 1990s.
+
+AEHF 1's Lockheed Martin/ULA Atlas V launch vehicle AV-019 was a model
+531 variant with three strapon solid motors; the first burn of the
+Centaur upper stage reached a 167 x 1281 km x 27.8 deg orbit at 1121
+UTC. Centaur restart at 1129 UTC pushed AEHF 1 into a 221 x 50179  km x
+22.2 deg deployment orbit. Large burns with the liquid bipropellant
+apogee thruster was intended to raise the orbit initially followed by
+several months of burns from AEHF 1's Hall-thruster electric propulsion
+system. However, the bipropellant thruster cannot be operated and instead a
+series of small burns with a lower thrust monopropellant hydrazine
+engine, using the same hydrazine tank, will be needed. 
+
+Many A2100 class satellites have used AMPAC's LEROS 1 engine, but  AEHF
+1 uses a different brand of apogee thruster, the BT-4 developed by
+Japan's IHI Aerospace. This thruster is also flown on Orbital's Star 2
+satellites. Investigation has not yet revealed whether the fault
+is in the thruster itself or some other part of the propulsion system
+that interacts with the thruster.
+
+According to Ted Molczan on the SeeSat list, hobbyists have 
+tracked AEHF following six hydrazine burns to date; on Sep 7 AEHF 1
+was in a 1146 x 49994 km x 20.0 deg orbit; on Sep 20 it was
+in a 4546 x 49981 km x 15.4 deg orbit.
+
+
+Tianhui
+-------
+
+The Tianhui yi hao weixing (Mapping Satellite 1) was launched from
+Jiuquan on Aug 24. The satellite was built by the Hangtian Dongfanghong
+Weixing YG (Spaceflight East Is Red Satellite Corp.) and is for
+research, mapping and land resource surveys. On Sep 21 it was in a 486 x
+504 km x 97.4 deg orbit.
+
+SJ-12
+-----
+
+China's Shi Jian 12 satellite, which was launched into a 600 km polar
+orbit on Jun 15, carried out a close pass with the SJ-6/3A (Shijian 
+liuhao sanzu A xing) satellite on Aug 19. Igor Lissov has pointed out
+that SJ-6/3A showed a very small orbital period increase following the pass,
+indicating that the spacecraft may have come into physical contact.
+On Sep 21 SJ-12 was in a 580 x 606 km x 97.8 deg orbit.
+
+Glonass
+-------
+
+Three Uragan-M satellites, probably Nos. 736 to 738, were launched from
+Baykonur on Sep 2 to supplement the Glonass navigation constellation.
+They will probably be given the cover names Kosmos-2464 to 2466. The
+Proton-M launch vehicle placed the DM-2 upper stage in a 155 x 176 km
+parking orbit; after two burns the payloads were deployed in a 19115 x
+19140 km x 64.8 deg  orbit.
+
+Zhongxing 6A
+------------
+
+The Zhongxing (Chinasat) 6A satellite, also known as Xinnuo liuhao 
+(Sinosat 6) was launched on Sep 4 by Chang Zheng 3B from Xichang into a
+197 x 41886 km x 25.2 deg geostationary transfer orbit. The DFH-4 class
+satellite was built by CAST/Beijing for Zhongguo weixingtongxin
+jituangongsi (China Satcom Group). It carries C and Ku band
+communications payloads. The Sinosat broadcasting satellites Xinnuo 1
+and 3, previously operated by the Xinnuo weixing TG, have been renamed
+Zhongxing 5B and 5C since that company's merger into China Satcom.
+Xinnuo 2 was retired in 2008 and decommissioned in Nov 2009.
+By Sep 21 Zhongxing 6A was in a 35775 x 35798 km x 0.4 deg orbit at 126E.
+
+Gonets
+-------
+
+Three small Strela-3/Gonets-class satellites were launched into 1497 x
+1507 km x 82.5 deg orbits on Sep 8. One is a civilian Gonets-M;
+the other two, given Kosmos names, are a 17F13 Strela-3
+and the newer 14F132 model (Strela-3M or Rodnik?), and are
+part of the corresponding military constellation. The
+satellites were launched by the Rokot vehicle, which is based on
+Khrunichev's UR-100NU missile (known as the SS-19 in the West) with a
+Briz-KM upper stage. This is the 15th orbital Rokot launch and the 5th
+since the start of 2009, reflecting an increased flight rate as the
+Kosmos-3M and Tsiklon-3 are phased out.
+
+QZSS
+----
+
+Japan's first Quasi-Zenith Satellite System craft (Jun tenchou eisei
+shogou ki, QZSS 1), was launched on Sep 11.  QZSS 1 is named 'Michibiki'
+('guiding light'). It carries an L-band navigation payload to augment
+GPS and a C-band payload for communications; the satellite's special
+inclined geosynchronous orbit will spend time directly overhead Japan,
+providing a better signal to receivers whose view of GEO satellites on
+the southern horizon is blocked by tall buildings. The satellite is 4100
+kg wet, 1800 kg dry and was built by Mitsubishi Electric (MELCO)
+at Kamakura. The satellite is controlled by JAXA from a ground
+station on Okinawa. The H-IIA rocket put QZSS in a roughly 280 x 280 km
+x 31.8 deg parking orbit at 1129 UTC; after a second burn at 1141 UTC
+the satellite was deployed into a 280 x 35336 km x 31.8 deg path; the on
+board engine was then used to circularize the trajectory and increase the
+inclination.By Sep 20 Michibiki was in a 32065 x 38982 km x 41.0 deg
+orbit with a period of 23h 42min.
+
+Suborbital flights
+------------------
+
+The RAISE (Rapid Acquisition Imaging Spectropgraph) instrument was
+launched from White Sands on Aug 23 as flight NASA 36.219US. RAISE was
+developed by Don Hassler of SWRI and Glenn Laurent of U. Colorado to
+take ultraviolet spectra of the Sun. On Aug 20, Iran launched Qiam-1,
+thought to be a modified version of the Shahab-2 missile with a new
+guidance system and no tail fins.
+
+Japan's JAXA launched the T-REX (Tether Technology Rocket Experiment)
+payload on a single stage S-520 rocket from the Uchinoura Space Center
+at Kagoshima on Aug 30. The 580 kg payload separated into three
+components: 'mother' and 'daughter' spacecraft separated by
+a 300-meter-long electrodynamic tether, and the small Tethered Space Robot
+connected to the daughter, I believe by another, smaller tether. The payloads
+fell in the Pacific after a ten-minute flight.
+
+On Sep 17, the USAF launched a Minuteman missile with a single reentry vehicle
+(either a Mk 12 or a Mk 21) on a suborbital flight from Vandenberg to
+an ocean impact area 320 km southwest of Guam.
+
+On Sep 21, NASA launched the SubTEC-III technology experiment package
+on a Terrier Orion from Wallops.
+
+Resurs-DK
+---------
+
+The Resurs-DK satellite, which has been in a 355 x 573 km orbit since
+shortly after its launch in 2006 Jun, raised its orbit at around 1656
+UTC on Sep 10 to a circular 567 x 573 km x 69.9 deg. Resurs-DK
+is a Russian remote sensing satellite; it also carries the Italian
+PAMELA antimatter detector.
+
+USA 215
+-------
+
+Lockheed Martin's Atlas AV-025 was launched from Vandenberg Air Force
+Base on Sep 21, carrying the National Reconnaissance Office's USA 215
+(NROL-41) payload into a retrograde low Earth orbit. It is suspected
+that the payload may be a radar imaging satellite. The Centaur
+second stage was probably deorbited over the South Pacific on the
+first orbit.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul 10 1840   Echostar XV         Proton-M/Briz-M  Baykonur LC200/39 Comms     34A
+Jul 12 0352   Cartosat 2B )       PSLV-CA          Sriharikota      Imaging    35A
+              Alsat 2A    )                                         Imaging    35D
+              AISSAT-1    )                                         Navigation 35C
+              TISat-1     )                                         Tech       35B
+              Studsat     )                                         Tech       35G
+Jul 31 2130   Beidou DW5          Chang Zheng 3A   Xichang          Navigation 36A
+Aug  4 2059   Nilesat 201 )       Ariane 5ECA      Kourou           Comms      37A
+              RascomQAF-1R)                                         Comms      37B
+Aug  9 2249   Yaogan Weixing 10   Chang Zheng 4C   Taiyuan          Radar      38A
+Aug 14 1107   AEHF SV-1           Atlas V 531      Canaveral SLC41  Comms      39A
+Aug 24 0710   Tianhui-1 Weixing   Chang Zheng 2D   Jiuquan          Imaging    40A
+Sep  2 0053   Kosmos-2464 )       Proton-M/DM2     Baykonur LC81/24 Navigation 41A
+              Kosmos-2465 )                                         Navigation 41B
+              Kosmos-2466 )                                         Navigation 41C
+Sep  4 1614   Zhongxing 6A        Chang Zheng 3B   Xichang          Comms      42A
+Sep  8 0330   Kosmos-2467 )       Rokot/Briz-KM    Plesetsk         Comms      43A
+              Gonets-M    )                                         Comms      43B
+              Kosmos-2468 )                                         Comms      43C
+Sep 10 1022   Progress M-07M      Soyuz-U          Baykonur LC31    Cargo      44A
+Sep 11 1117   Michibiki           H-IIA 202        Tanegashima      Nav/Comm   45A
+Sep 21 0403   USA 215             Atlas V 501      Vandenberg SLC3E Radar?     46A
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Jul 10 0732   RV x 6?         MSBS M51      S614, Baie d'Audierne  Test   1000?
+Jul 11 0450   NASA 36.265UG   Black Brant IX   White Sands     IR Astron   320?
+Jul 30 1821   NASA 36.213NS   Black Brant IX   White Sands     Solar EUV   246?
+Aug  4 0915   NASA 12.073GT   Black Brant X    Wallops I.      Test        693?
+Aug  6 1515   RV x4?          Sineva         Tula, Barents     Op Test    1000?
+Aug  6 1515   RV x4?          Sineva         Tula, Barents     Op Test    1000?
+Aug 20        Shahab RV       Qiam-1           ? Iran          Test        100?
+Aug 23 1757   NASA 36.219US   Black Brant IX   White Sands     Solar UV    295
+Aug 30 2000   S-520-25        S-520            Uchinoura       Tether test 309
+Sep  1        RV              Scud?            Point Mugu?     Target      100?
+Sep 17 1003   GT202GM         Minuteman 3      Vandenberg LF09 Op test    1300?
+Sep 21 1307   NASA 41.082NP   Terrier Orion    Wallops I.      Tech        130?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@www.planet4589.org    |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

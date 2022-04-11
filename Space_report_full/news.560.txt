@@ -1,0 +1,138 @@
+Jonathan's Space Report
+No. 560                                         2006 Jan 21, Somerville, MA
+-------------------------------------------------------------------------------
+
+New Horizons
+------------
+
+The New Horizons probe to Pluto was launched at 1900:00 UTC on Jan 19
+from pad 41 at Cape Canaveral by Atlas V flight AV-010.
+
+The powerful Atlas 551 rocket, with five solid boosters, roared off the
+Florida pad after two days of delays. The solids separated at 1 min 45s into
+launch, arcing into the mesosphere before falling to Earth. The
+5-meter-diameter fairing separated at 3min 23s, followed seconds
+afterwards by the two pieces of the CFLR (Centaur Forward Load Reactor),
+a contraption that connects the smaller 3.1m-diameter Centaur to the
+fairing for structural stiffness. By this time Atlas was in space, with
+the fairing probably reaching an apogee of 150 km or so. Atlas shut down
+at 4min 27s, falling away 6s later, and the Centaur second stage ignited
+at 4min 33s as the trajectory flattened out, reaching orbit insertion at
+1910:08 UTC with a 167 x 213 km parking orbit. The vehicle coasted for
+20 minutes and restarted over South Africa, with a 9-min burn taking the
+Centaur to 800 km altitude at a velocity of 12.4 km/s, a hyperbolic
+Earth orbit which will take the Centaur out to the asteroid belt. At
+1939 UTC the spin-table on the forward end of the Centaur began to
+rotate, and the injection stage with the payload separated. The
+injection stage is an Alliant (Thiokol) Star 48B solid motor, the same
+motor used on Delta 2 third stages and on the old Shuttle PAM-D flights.
+Solid kick motors like to be spinning when they fire to even out any
+misalignment of the thrust direction, hence the spin table - although
+the Star 48B also has a set of small hydrazine rockets to correct any
+unwanted nutation. After the Star 48B burn, the payload had reached
+escape velocity not only with respect to the Earth but also relative to
+the Sun (The velocity was 16.2 km/s relative to the Earth
+and I estimate an asymptotic velocity of 12.3 km/s, corresponding to
+42.6 km/s relative to the Sun and leading to a heliocentric eccentricity
+of around 1.05). New Horizons separated from the Star 48B at 1944 UTC and
+released two `yo-yo weights' on long wires; as NH spun around, the wires
+unwound and then were released, taking angular momentum with them and
+leaving the probe spinning much more slowly, around 5 rpm. NH now must
+depend on its own propulsion system, four small 4.4N thrusters, to
+adjust its course, with the first trajectory correction maneuvers coming
+over the next several weeks.
+
+New Horizons will fly around 2.3 million km from Jupiter on 2007 Feb 28,
+and the Pluto/Charon system in 2015, with possible Kuiper Belt Object
+flybys in around 2017. The probe has a dry mass of around 401 kg and a
+launch mass of 478 kg (including the hydrazine course correction
+propellant). It features a 2.1-m diameter high gain antenna for
+communications with Earth (as well as radiometry of Pluto) and a
+radioisotope thermoelectric generator (RTG) which uses the heat of 11 kg
+of decaying Pu(238)O2 to provide 240 W of electrical power. This
+particular model of RTG is the GPHS-RTG, also used on Cassini.
+
+New Horizons has the following science instruments:
+
+ - Ralph, the high resolution imager, with a 0.08m telescope 
+    and a suite of detectors: MVIC (Multispectral Visible Imaging Camera),
+    which has three black-and-white and four color CCD detectors, and LEISA (Linear 
+    Etalon Imaging Spectral Array), a 1.25-2.5 micron IR spectrometer.
+    MVIC should reach 0.25 km/pixel at closest approach.
+ - Alice, the UV spectrometer covering the 500-1800A range.
+ - LORRI, the long range imager with a 0.21m aperture telescope
+     and visible CCD detector.
+ - SWAP (Solar Wind at Pluto), low energy particle spectrometer
+ - PEPSSI (Pluto energetic particle spectrometer science investigation),
+     high energy ion mass/energy spectrometer
+ - SDC (Student Dust Counter), measuring particle impacts.
+ - REX (Radio experiment), using the main dish to study radio propagation
+    through the Plutonian atmosphere.
+
+Stardust
+---------
+
+The Stardust probe landed successfully on Jan 15 in the highest velocity
+reentry ever. The capsule has now been opened and mission scientists
+report that it contains plenty of samples of comet 81P/Wild 2.
+
+Stardust approached Earth from a 0.98 x 2.68 AU x 3.6 deg solar orbit.
+Passing the Moon on Jan 14 at 1830 UTC, Stardust approached the Earth on
+a 22 km perigee, 42.1 deg hyperbolic orbit. The SRC (Sample Return
+Capsule) was ejected at 0557 UTC on Jan 15. At 0613 UTC Stardust fired
+its engines to raise perigee to 258 km, and swung past the Earth at 1000
+UTC, passing lunar orbit outbound at 0130 UTC on Jan 16. The Stardust
+bus will leaving the Earth-Moon system on Jan 17 into a 0.92 x 1.70 AU x
+1.9 deg orbit.
+
+Meanwhile, the SRC reached 125 km altitude at 0957 UTC on Jan 15,
+travelling almost horizontally (a flight path angle of -8.2 degrees) at
+12.9 km/s. It deployed its main parachute at 1004 UTC and landed at 1010
+UTC in the Utah Test and Training Range (UTTR).
+
+This is the second spacecraft recovery from beyond lunar orbit; the first
+was Genesis, which landed on 2004 Sep 8, also in the UTTR.
+
+
+Erratum
+-------
+
+Oops - Parus/Tsikada and Transit operated near 0.15 GHz, not 0.15 MHz!
+And Richard Langley points out to me that the Transit satellites
+continued transmitting after 1996 in a non-navigation role as the Navy
+Ionospheric Monitoring System. They certainly were still going strong as
+late as 2001, but the web site which described the system is no longer
+active; can anyone report which if any of the NIMS/Transit satellites
+are still operating?
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Dec 21 1838   Progress M-55     Soyuz-U         Baykonur LC1/5   Cargo       47A
+Dec 21 1934   Gonets-D1M   )    Kosmos-3M       Plesetsk LC132/1 Comms       48A
+              Kosmos-2416  )                                     Comms       48B
+Dec 21 2233   Insat 4A   )      Ariane 5GS      Kourou ELA3      Comms       49A
+              MSG 2      )                                       Weather     49B
+Dec 25 0507   Kosmos-2417 )     Proton-K/DM2    Baykonur LC81/23 Navigation  50A
+              Kosmos-2418 )                                      Navigation  50B
+              Kosmos-2419 )                                      Navigation  50C
+Dec 28 0519   GIOVE A           Soyuz-FG/Fregat Baykonur LC31/6  Navigation  51A 
+Dec 29 0228   AMC 23            Proton-M/Briz-M Baykonur LC200   Comms       52A
+Jan 19 1900   New Horizons      Atlas V 551     Canaveral SLC41  Pluto probe 01A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+

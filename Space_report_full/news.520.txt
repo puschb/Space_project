@@ -1,0 +1,119 @@
+Jonathan's Space Report
+No. 520                                      2004 Feb 11, Somerville, MA
+-------------------------------------------------------------------------------
+
+The Progress No. 248 (M-48) cargo ship was undocked from Zvezda at
+0835:56 on Jan 28 and deorbited at 1311 UTC over the Pacific, completing
+the ISS 12P mission. The new cargo ship, Progress No. 260 (Progress
+M1-11) was launched from Baykonur on Jan 29 at 1158:08 on ISS mission
+13P and docked with the Zvezda module on the Space Station at 1313:11
+UTC on Jan 31. The new Progress carries cargo including experiments for
+the ESA/Netherlands DELTA mission and two new Orlan spacesuits, serials
+M-25 and M-26. It also carries a replacement flexhose for the Destiny
+lab window (culprit in last month's air leak) and equipment to be
+installed on Zvezda to support docking by the new European ATV cargo
+ship Jules Verne.
+
+Opportunity began roving on Mars at 0950 UTC on Jan 31. (Parachute and
+heat shield separation time for Opportunity was of course 0452-0453 UTC
+on Jan 25, not 0504 UTC as I said in JSR 519.)
+Opportunity has now peeped over the crater rim and seen its parachute
+and backshell lying on the Meridiani plains beyond. Spirit's file system
+was reformatted on Feb 4 and it has now resumed its exploration of the
+Gusev region.
+
+Location of the MER landings:
+                    (Areocentric)        (IAU Areographic)
+    Spirit          14.57S     175.47E   14.93S  184.53W 
+    Opportunity      1.95S     354.47E    1.98S    5.53W
+
+(While one JPL release gave the Spirit location to 0.0001 deg, their
+ superimposed image is significantly off the later known location
+ of the lander. Anyone who has more accurate coords, please forward them
+ - I'd like to catalog the separate positions of the heat shields and
+   backshells, which are about 0.01 deg away from the landers).
+
+SES Americom's AMC-10 satellite was launched on Feb 5 by a Lockheed
+Martin/ILS Atlas IIAS from Cape Canaveral. The satellite is a Lockheed
+Martin A2100 with a launch mass of 2315 kg and 907 kg dry (Thanks to David
+Legangneux for the mass data). After launch at 2346 UTC, Centaur AC-165
+reached a 185 x 185 km orbit at 2355 UTC. The second Centaur burn at
+0009 UTC on Feb 6 put the satellite in geostationary transfer orbit.
+AMC-10 will replace Satcom C-4. The AMC (Americom) series of satellites
+descends from the original RCA Americom system first launched in 1975
+as one of the earliest private telecom satellite networks.
+
+Cutting Space Science?
+----------------------------------
+
+Although the President's 2005 budget request to Congress includes an
+overall small increase for NASA to pay for new human space exploration,
+some aspects of space science and astronomy are under the axe. The
+detailed status of the NASA space science budget remains unclear, but
+the overall picture is not encouraging, with immediate cuts to some
+programs and a forecast of a long term continuing (inflation-adjusted)
+decrease for overall science to pay for the new human exploration
+intiative. 
+
+The total extrasolar astronomy budget (Origins and SEU themes) has
+remained stable this year, but there have been major reallocations with
+no consultation with the science peer-review community. Although some
+programs such as the JWST infrared telescope and the search for
+extrasolar planets have managed to argue that they are part of
+`exploration' and for now survive unscathed or even boosted (until the
+real costs of the CEV program require further cuts)  some of the most
+scientifically successful parts of NASA, including the Explorer program
+and the Structure/Evolution of the Universe theme (SEU) appear to be
+facing a bleak long-term future. 
+
+Cuts are being made to the Explorer program previously extolled as a
+flagship example of a federal program (recent Explorer missions included
+WMAP, which determined the age of the Universe).  MIDEX and SMEX
+missions are to be delayed and cut back. (One colleague commented that
+the idea that the Explorers don't do exploration was 'positively
+Orwellian'). Money is also being taken from the budget of the
+Constellation X mission, highly rated by the National Academy of
+Sciences; the mission will be postponed for an unknown amount of time. 
+The Beyond Einstein probes, previously expected to start getting funding
+this year, are to be indefinitely delayed.
+
+Editorial (last one for a while I hope)
+---------
+
+While the Station program was over budget and slipping, and the Mars
+probes were failing, missions like the Explorers and Chandra were a
+bright spot for NASA. Now our hard work and success are to be rewarded
+with significant cutbacks. Let me say it clearly: I support the idea of
+an enhanced human exploration program, but I strongly oppose paying for
+it at the cost of losing the successors to Chandra and WMAP, and the
+chance of a partial replacement for  Hubble (which JWST is not). I
+believe there is strong public support for basic research, there are
+clear technological and educational benefits to understanding the
+extreme physics these missions study, and the US national interest would
+be best served by protecting the relatively small amount of money in the
+successful and productive program to study the deep universe,  even at
+the cost of slight stretchout of the ambitious exploration program. At
+the very least, the space community should be aware that these decisions
+are being made rather than passing over them in silence - it's such a
+small part of the budget that analyses in magazines like AvWeek didn't
+mention it.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Jan 11 0413   Estrela do Sul    Zenit-3SL       Odyssey           Comms      01A
+Jan 29 1158   Progress M1-11    Soyuz-U         Baykonur          Cargo      02A
+Feb  5 2346   AMC-10            Atlas IIAS      Canaveral SLC36A  Comms      03A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

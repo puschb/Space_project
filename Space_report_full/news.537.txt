@@ -1,0 +1,118 @@
+Jonathan's Space Report
+No. 537                                         2004 Oct 27, Pasadena, CA
+-------------------------------------------------------------------------------
+
+* Space Station and Shuttle
+
+Soyuz TMA-5 docked with the Pirs module on Oct 16 at 0416 UTC.
+Sharipov, Chiao, Shargin, Padalka and Fincke spent a week aboard the
+Station and at 1814 UTC on Oct 23 Padalka, Fincke and Shargin
+entered Soyuz TMA-4 and closed the hatches leaving Chiao and Sharipov
+as the Station crew. Soyuz TMA-4 undocked at 2108 UTC and made
+a small separation burn at 2111 UTC. At 2342 UTC the deorbit
+burn lowered the orbit from 353 x 366 km to -23 x 355 km,
+and the descent module separated at 0008 UTC on Oct 24, with
+landing at 50.47N 67.12E near Arkalyk at 0036 UTC.
+
+A significant milestone on the way to the next Shuttle flight
+is expected in early November. The RSRM-90 solid rocket motors
+will be taken to High Bay 1 of the Vehicle Assembly Building
+and placed on Mobile Launch Platform 1 to begin the assembly
+of booster stack BI-124. The ET-120 external tank, with redesigns
+to prevent foam loss, will arrive at KSC in January and be
+stacked in February, while Discovery is prepared in Orbiter
+Processing Facility Bay 3. NASA now hopes to launch Discovery
+on mission STS-114 in May.
+
+* Cassini
+
+The Cassini-Huygens space probe made a flyby of Titan on Oct 26. The Ta
+flyby closest approach was at 1530 UTC at an altitude of 1200 km above
+Titan's surface. (Light travel time to Earth was 1hr 14min so this
+corresponds to an Earth Received signal time of 1644 UTC, reported in
+some sources as the flyby time.) Cassini is falling inward towards
+Saturn, with closest approach at 1019 UTC on Oct 28; the Titan flyby
+changed the orbit to about 0.3 x 4.6 million km inclined 13.8 deg to the
+ring plane. This lowered the apoapsis by a factor 2 and sets the probe
+up for the Tb flyby of Titan on Dec 13.
+
+* Genesis
+
+In JSR 534 I incorrectly reported that the bus section of the Genesis
+space probe burned up over the Pacific after capsule separation. Although
+this had been the original mission plan as still reported on the Genesis
+website, in fact the bus maneuvered to miss the Earth. 
+
+The Genesis sample return capsule was ejected from its parent spacecraft
+at 1153 UTC on September 8 at an altitude of 59600 km,  and entered the
+atmosphere four hours later at 1555 UTC. Meanwhile, the spacecraft bus
+made a course change at 1208 UTC, at an altitude of 56700 km, to raise
+its perigee from a few kilometers below the Earth's surface to a height
+of 242 km, allowing it to just miss the atmosphere and head out to deep
+space.  The incoming trajectory was a geocentric orbit of around  -1 x
+1376362 km x 52.0 deg, with the 'vacuum perigee' (the path the return
+capsule would have taken if Earth didn't have an atmosphere) grazing the
+surface of the Earth. (Note that the error bar on my calculation of the
+perigee is several km). The perigee raise burn changed this to
+a 242 x 1350949 km x 52.0 deg orbit, missing the atmosphere nicely at
+1558 UTC. The Genesis bus passed lunar orbit outbound early on Sep 11.
+It will come back in for a new perigee on Nov 6, by which time
+lunisolar perturbations will have changed the orbit to
+60672 x 1454293 km x 41.9 deg, 
+and will reach apogee again toward the end of the year.
+An extended `Exodus' mission for solar wind monitoring  has been proposed
+which would have used  a small burn to put the Genesis bus in a solar orbit near
+that of the Earth, but I believe that mission has not so far been funded. 
+(Thanks to DC Agle of JPL for the sep and course change times).
+
+* FSW 20
+
+The FSW recoverable satellite launched by China on Sep 27 returned to
+Earth at 0248 UTC on Oct 15, falling through the roof of a house in the
+village of Penglai, Sichuan province.
+
+* FY-2C
+
+The third Fengyun-2 weather satellite, and the first of the operational
+'batch 2' model, was launched by a Chang Zheng 3A rocket on Oct 19. The
+1380 kg satellite fired its apogee motor at around 1730 UTC on Oct 19
+to enter a drifting geostationary orbit. The FG-36 apogee motor
+was probably ejected from the satellite around that time.  Xinhua reports that
+the prelaunch name of the satellite is FY-2 04, and the postlaunch name
+is FY-2C. 
+        Prelaunch    Postlaunch
+        FY-2 01      -      Destroyed in ground fire 1994.
+        FY-2 02      FY-2A  1997 Jun 10; in reserve 2000 May at 86E
+        FY-2 03      FY-2B  2000 Jun 25; at 123E
+        FY-2 04      FY-2C  2004 Oct 19; in transfer orbit
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Sep  6 1053   'Ofeq-6           Shaviyt         Palmachim         Imaging    F01
+Sep  8 2314   SJ-6A )           CZ-4B           Taiyuan           Science    35A
+              SJ-6B )                                             Science    35B
+Sep 20 1031   EDUSAT            GSLV            SDSC              Comms      36A
+Sep 23 1507   Kosmos-2408 )     Kosmos-3M       Plesetsk          Comms      37A
+              Kosmos-2409 )                                       Comms      37B
+Sep 24 1650   Kosmos-2410       Soyuz-U         Plesetsk LC16     Imaging    38A
+Sep 27 0800   FSW 20            CZ-2D           Jiuquan           Imaging?   39A
+Oct 14 0306   Soyuz TMA-5       Soyuz-FG        Baykonur LC1/5    Spaceship  40A
+Oct 14 2123   AMC 15            Proton-M/Briz-M Baykonur LC200/39 Comms      41A
+Oct 19 0120   FY-2C             CZ-3A           Xichang           Weather    42A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

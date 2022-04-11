@@ -1,0 +1,76 @@
+Jonathan's Space Report
+No. 535                                        2004 Sep 24, Mumbai
+-------------------------------------------------------------------------------
+
+* EDUSAT
+
+The Indian Space Research Organization successfully launched the
+GSLV-F-01 rocket carrying the EDUSAT satellite on Sep 20 from the Satish
+Dhawan Space Center at Sriharikota. The satellite reached a 162 x 35814
+km x 19.3 deg geostationary transfer orbit. EDUSAT (GSAT-3) is a 820 kg
+satellite carrying 1130 kg of propellant and a 440N ISRO-built liquid
+apogee motor used on the larger INSAT 2/3 satellites; the satellite is
+2.4 x 1.6m across at launch with a 10.9m span across the deployed solar
+panels. The launch is good news for ISRO, following a tragic explosion
+at the launch site in February in which six workers died.
+
+* SJ-6
+
+China launched a pair of scientific satellites on Sep 8. Shi Jian 6A
+and Shi Jian 6B were carried on a single Chang Zheng 4B rocket from
+the Taiyuan space center.
+
+The satellites were inserted into a 590 x 602 km x 97.7 deg orbit,
+together with a small adapter. A fourth object in a lower, more eccentric
+529 x 637 km orbit is probably the CZ-4B third stage rocket.
+
+* NROL-1
+
+Reports from observers indicate that the Centaur AC-167 rocket is in a
+lower apogee orbit than anticipated, around 255 x 15370 km x 57.4 deg. A
+prelaunch announcement that the Centaur would deliver the payload to an
+'ascent trajectory' suggests to me that this is the intended transfer
+orbit (rather than a failure) and the USA 179 payload will probably use 
+(or has already used) an onboard engine to reach a final orbit which I
+still expect to have an apogee of around 39000 km.
+
+* 'Ofeq
+
+Noah Brosch informs me that, according to Israeli media, in the Sep 6
+Israeli launch failure the third  stage failed to separate from the
+second stage, preventing  third stage burn. 
+
+* Strela-3
+
+Kosmos-2408 and 2409, two Strela-3 military communications satellites,
+were launched by a Kosmos-3M from Plesetsk on Sep 23.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+
+Aug  3 0616   MESSENGER         Delta 7925H     Canaveral SLC17B  Probe      30A
+Aug  4 2232   Amazonas          Proton-M/Briz-M Baykonur LC200/39 Comms      31A
+Aug 11 0503   Progress M-50     Soyuz-U         Baykonur LC1      Cargo      32A
+Aug 29 0750   JB-4?             CZ-2C           Jiuquan           Imaging    33A
+Aug 31 2317   USA 179 (NROL-1)  Atlas IIAS      Canaveral LC36A   Comms?     34A
+Sep  6 1053   'Ofeq-6           Shaviyt         Palmachim         Imaging    F01
+Sep  8 2314   SJ-6A )           CZ-4B           Taiyuan           Science    35A
+              SJ-6B )                                             Science    35B
+Sep 20 1031   EDUSAT            GSLV            SDSC              Comms      36A
+Sep 23 1507   Kosmos-2408 )     Kosmos-3M       Plesetsk          Comms      37A
+              Kosmos-2409 )                                       Comms      37B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,210 @@
+Jonathan's Space Report
+No. 509                                             2003 Sep 18, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Progress 248 (M-48) cargo ship was launched on Aug 29 (not Aug 28)
+and docked with Zvezda on Aug 31. Progress 259 (M1-10) undocked from the
+Pirs module on Sep 4 and will remain on orbit to carry out
+remote sensing of the Earth with its onboard TV camera system.
+
+Here is a summary of recent Progress and Soyuz missions:
+
+ISS Mission Spacecraft                   Launch   Dock            Undock
+  9P        7K-TGM  258 (Progress M1-9)  Sep 25   Sep 29, Zvezda  Feb  1
+  5S        7K-STMA 211 (Soyuz TMA-1)    Oct 30   Nov  1, Pirs    May  3
+  10P       7K-TGM  247 (Progress M-47)  Feb  2   Feb  4, Zvezda  Aug 27
+  6S        7K-STMA 212 (Soyuz TMA-2)    Apr 26   Apr 28, Zarya   -
+  11P       7K-TGM  259 (Progress M1-10) Jun  8   Jun 11, Pirs    Sep  4
+  12P       7K-TG   248 (Progress M-48)  Aug 29   Aug 31, Zvezda  -
+
+Note that NASA Public Affairs regularly commits the appalling solecism
+of referring to Mission 12P as "Progress 12", while Russian sources (and
+they should know, since it's their spacecraft) always use Progress M-48
+(postlaunch name) or Progress 248 (7K-TGM No. 248, factory designation).
+"Progress 12" should ONLY be used to refer to Progress 7K-TG No. 113,
+launched in January 1981. "Progress 12P" would be (barely) acceptable,
+but "Progress flight 12P" would more clearly indicate that you are using
+the ISS mission number and not the name of the spacecraft. Similar
+considerations apply to the Soyuz missions.
+
+NASA has released its preliminary Return To Flight plan. I give some of
+the highlights below.  (NB - the items below are hardware related, which
+reflects the hardware focus of JSR and does not imply I think they are
+as important as the procedures and management changes).
+
+Procedures are being developed for TPS inspection from ISS on approach.
+If repair were needed, Atlantis would first dock, then grapple ISS with
+the RMS, then undock while still attached by the RMS, rotating to place
+the appropriate part of the Orbiter in easy access to spacewalkers using
+the Station robot arm.
+
+In September, inspection and testing on Atlantis' RCC panels  and
+nosecap will be completed and they will be reinstalled on the orbiter.
+
+In November 2003, the External Tank for STS-114 will be delivered with
+modifications to the bipod attach ramp and several other areas where
+foam could be lost.
+
+Around November, pads 39A and 39B will be refurbished with recoating of
+any exposed zinc primer (which was washing off the pad tower and
+damaging RCC panels).
+
+In December, NASA will install on the new ET a camera which will
+transmit in-flight photos of the bipod and of the underside of Atlantis.
+A camera will also be mounted on the nose cone of each SRB. (For
+STS-115, cameras will also be installed further down on each SRB for a
+better view of the Orbiter).
+
+In December, ground tracking cameras will be refurbished, with new
+cameras due for delivery in March.
+
+In January, redesign ET/SRB separation bolt catchers will be installed.
+
+In early 2004, a boom with laser sensor packages will be fabricated for
+attachment to the RMS arm; it could be used for Atlantis to inspect
+itself while in orbit.
+
+A tile repair kit will be delivered in early 2004. It's still not clear
+when an RCC repair method will be ready.
+
+Modifications to the cameras in the Orbiter umbilical well will not be
+ready for STS-114, and the astronauts will use handheld cameras to image
+the ET, downlinking the images to Earth.
+
+In February, Atlantis should be mated with the ET and SRBs and moved to
+the launch pad. Atlantis is currently manifested for launch on 2004
+March 11, although this planning date has been criticized by Congress
+as much too optimistic and is likely to be revised in the near future.
+
+Review
+------
+
+I want to draw readers attention to the excellent book by Abramov and
+Skoog (Springer-Praxis, 2003) on "Russian Spacesuits". This is one of
+those rare books that almost meets the JSR standard on obsessiveness, with
+detailed tables giving the serial number of each suit used on an EVA,
+and careful typography giving both Cyrillic and transliterated English
+versions of technical terms. (I do wish they'd included a table of
+disposal dates for each spacesuit, though).
+
+JAXA
+----
+
+Japan is reorganizing its space effort by merging three agencies into
+one. The early Japanese sounding rocket and satellite program was
+carried out by a group at the University of Tokyo which in 1964 became
+ISAS, the Institute of Space and Aeronautical Sciences, separated from
+the university and renamed the Institute of Space and Astronautical
+Science in 1981. In Japanese ISAS is called Uchu kagaku kenkyujo
+(roughly, Space Science Research Institute). ISAS developed the Lambda,
+Mu and M-V space launch vehicles and the Japanese scientific satellites
+and planetary probes. Japanese applications satellites have been 
+developed by NASDA, the National Space Development Agency (Uchu kaihatsu
+jigyodan, Space Development Agency) which grew out of the STA (Science
+and Technology Agency). NASDA was founded in 1964 as NSDC (National
+Space Development Center) and renamed in 1969; it developed the N-1, 
+H-1, H-2 and H-2A launch vehicles as well as satellites like ETS/Kiku,
+GMS/Himawari and ADEOS/Midori. A third agency, the National Aerospace
+Laboratory (NAL, or Kohkuh uchu gijutsu kenkyujo - roughly, Aviation 
+Space Engineering  Institute) has participated in spaceplane
+development. On 2003 Oct 1, the three agencies will be combined into the
+new Japanese Aerospace Exploration Agency (JAXA), known in Japanese as 
+Uchu kohkuh kenkyu kaihatsu kikou (roughly, Space-Aviation Research and
+Development Organization). [Thanks to Mihoko Yukita for help with
+translation.]
+
+Recent Launches
+---------------
+
+A USAF/Lockheed Martin Titan 4B/Centaur rocket with a 26-meter fairing
+was launched on Sep 9. Titan B-36 took off from Complex 40 at Cape
+Canaveral; the two SRMU strapons and the two Titan core stages fired and
+then separated on suborbital trajectories. The upper stage, Centaur
+TC-20, completed its first burn to enter parking orbit. It was expected
+to make two more burns to deliver its National Reconnaissance Office
+signals intelligence payload to geostationary orbit. In agreement with
+other analysts, I speculate the payload is a successor to the USA-110
+and USA-139 satellites launched in May 1995 and May 1998, and referred
+to as "Advanced ORION" by those of us who don't know what the real name
+is; these satellites are thought to be successors to the RHYOLITE
+missions of the 1970s.
+
+Launches in the NRO/CIA RHYOLITE program and its successors
+("Codename" is based on open source guesses and leaks, notably
+the works of Jeffrey Richelson, as well as official information
+released during the Boyce spy trial):
+
+Launch Official Name    Codename     Launch Date    Launch vehicle
+
+1      AFP-720          RHYOLITE     1970 Jun 19    Atlas Agena D 5201A    
+2      AFP-720          RHYOLITE     1973 Mar  6    Atlas Agena D 5202A
+3      AFP-472          AQUACADE     1977 Dec 11    Atlas Agena D 5504A
+4      APF-472          AQUACADE     1978 Apr  8    Atlas Agena D 5505A
+5      USA 8            MAGNUM       1985 Jan 24    STS-20(51-C)/IUS-11
+6      USA 48           ORION        1989 Nov 23    STS-33R/IUS-5
+7      USA 110          ?            1995 May 14    Titan Centaur TC-17
+8      USA 139          ?            1998 May  9    Titan Centaur TC-18
+9      USA 171?         ?            2003 Sep  9    Titan Centaur TC-20
+
+This was the last launch of a Titan Centaur. The TC-20 stage used two
+RL10A-3-3A engines, like all Titan 4/Centaur missions except for TC-23
+in April 2003, which is thought to have used two RL-10A-4-1A engines.
+That vehicle was originally intended to be used for an elliptical orbit
+signals intelligence satellite but was swapped for a Milstar, with the
+classified satellite probably reassigned to an EELV flight. There have
+been 23 Titan Centaur missions; TC-1 to TC-7 were civilian missions
+using the Titan 3E (23E) and the D-1T model Centaur, while TC-8 to TC-23
+were military missions on Titan 4 using a large diameter Centaur
+(although TC-21 was used for the NASA/ESA Cassini-Huygens launch).
+
+NASDA's Micro-LabSat satellite, which was launched on 2002 Dec 14, has
+released two tiny subsatellites in an experiment to test an onboard
+tracking imager for inspector satellites. The RITE (Remote Inspection
+Technology Experiment) targets are disks about 0.1m in diameter. They
+were released from Micro-LabSat on 2003 Mar 14 at 0140 UTC and 2003 May
+14 at 0150 UTC. The targets have not been cataloged by USAF Space
+Command.
+
+The Cassini probe to Saturn made a course correction burn at 2000 UTC on
+Sep 10, changing its velocity by 0.12m/s. At the time Cassini was 1284
+million km from the Sun, in an orbit of  1.4462 AU x 9.2769 AU with an
+inclination of 0.81 deg to the ecliptic plane (NB: 1 AU = 149.60 million
+km) and the correction altered the orbit by about ten parts per million.
+On Sep 14 Cassini was 137 million km from Saturn; Saturn's nominal
+gravitational sphere of influence is 55 million km in radius and Cassini
+will reach this point on 2004 Mar 10. The probe will make a 2000 km
+flyby of the Saturnian moon Phoebe on 2004 Jun 11.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Aug  8 0331   Echostar 9        Zenit-3SL       Odyssey, POR      Comms      34A
+Aug 12 1420   Kosmos-2399       Soyuz-U         Baykonur LC31/6   Imaging    35A
+Aug 13 0209   Scisat-1          Pegasus XL      Vandenberg RW30/12 Science   36A
+Aug 19 1050   Kosmos-2400 )     Kosmos-3M       Plesetsk LC132/1  Comms      37A
+              Kosmos-2401 )                                                  37B
+Aug 25 0535   SIRTF             Delta 7920H     Canaveral SLC17B  Astronomy  38A
+Aug 29 0148   Progress M-48     Soyuz-U         Baykonur          Cargo      39A
+Aug 29 2313   DSCS III B-6      Delta IVM       Canaveral SLC37B  Comms      40A
+Sep  9 0429   USA 171           Titan 4B/Centaur Canaveral SLC40  Sigint     41A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  1 Fitchburg St C-205              |                                    |
+|  Somerville MA 02143               |                                    |
+|    and                             |                                    |
+|  Center for Astrophysics,          |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

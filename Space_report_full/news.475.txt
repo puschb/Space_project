@@ -1,0 +1,158 @@
+Jonathan's Space Report
+No. 475                                            2002 Mar 28 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+A new robot cargo vessel, Progress M1-8, was launched on Mar 21. It is
+Progress vehicle serial no. 257, and is flying ISS mission 7P. It docked
+with the Zvezda module on the Station at 2058 UTC on Mar 24 and is now
+being unloaded. I have confirmed that the Kolibri satellite deployed by
+Progress M1-7 was indeed built by IKI/Moskva.
+
+The next Shuttle launch is STS-110, which will carry the S0 truss
+segment to the Station. The truss is the first segment of the main
+backbone of the Station which will grow to carry the large solar panel
+wings and radiators. This mission sees resumption of major construction
+on the Station after several less spectacular resupply missions.
+
+Jonathan's cargo manifest estimate for STS-110/Atlantis:
+                                                            Mass/kg
+Bay 1-2   Orbiter Docking System                             1800
+          3 EMU spacesuits                                    360?
+Bay 4-13? S0 Truss                                          12623
+Sill      RMS arm                                             410
+-------------------------------------------------------------------------
+Total                                                       15193?
+
+The S0 truss, built by Boeing/Huntington Beach, is 13.4m long and 4.6m
+in diameter. The main truss has a hexagonal cross section. One face
+carries fluid, power and data cables, while another face carries the
+rails for the Mobile Transporter.  The S0 contains avionics, GPS
+antennas, and a radiation dose monitor. Attached to S0 are four MTS
+(Module to Truss Structure) struts which will be used to connect it to
+the Destiny module; the Airlock Spur, which is a 4.2m beam that hinges
+out to connect to the Quest module and has handrails for spacewalkers;
+and the Mobile Transporter (MT). The MT, made by TRW Astro Aerospace in
+Carpinteria,  is an 885 kg, 2.7m long truck which moves on the S0 rails
+to transfer heavy cargo along the truss.
+
+S0 will be attached to the LCA (Lab Cradle Assembly) which was 
+attached to the top of the Destiny lab module last year.
+
+Crew of STS-110 are Mike Bloomfield and Stephen Frick (commander and
+pilot), and mission specialists Rex Walheim, Ellen Ochoa, Lee Morin,
+Jerry Ross and Steven Smith. Ross is due to become the first person to
+make a seventh flight in space; John Young, Curt Brown, Story Musgrave,
+and Franklin Chang-Diaz have also left Earth's atmosphere 6 times.
+Gennadiy Strekalov has also made 6 launches, but one of them was an
+emergency abort that did not reach space.
+
+Recent Launches
+---------------
+
+China launched the third Shenzhou spaceship test flight on Mar 25.
+Launch was at 2215 local time, which is 1415 UTC. The second stage of
+the Chang Zheng 2F launch vehicle entered a 197 x 326 km x 42.4 deg
+orbit at 1425 UTC and separated from Shenzhou. At about 2120 UTC
+Shenzhou used its own engine to raise its orbit to 332 x 337 km.
+Shenzhou has an orbital module, a reentry vehicle, and a
+propulsion/service module, and its design is similar to the Russian
+Soyuz. This flight of Shenzhou carries a dummy astronaut instrumented
+to monitor life support systems.
+
+The TDRS I satellite has run into a problem. Boeing Satellite Systems
+reports that the BSS-601 satellite has a problem with the fuel supply
+from one of its four propellant tanks; this will make it harder for TDRS
+to reach geostationary orbit and could potentially reduce its on-orbit
+life. The tanks are paired, so losing one tank cuts the propellant
+supply in half.
+
+TDRS I was launched on Mar 8 by Atlas IIA into a 247 x 29135 km x 27.1
+deg orbit. It will be renamed TDRS 9 if it successfully reaches GEO and
+is accepted by NASA. A test burn of the General Dynamics R-4D apogee
+motor raised the orbit to 433 x 29146 km x 26.4 deg on Mar 11 and a
+larger perigee burn raised the apogee to geostationary altitude, 429 x
+35800 km, on Mar 13. Presumably the anomaly was uncovered at that point,
+because no further burns were made until around 0h UTC on Mar 19,
+raising the orbit to 3521 x 35789 km and lowering inclination to 21.4
+deg. The previous TDRS launch made its comparable burn only 5 days after
+launch to a higher perigee and lower inclination (6066 x 35971 km x 17
+deg), so this time either the approach was more tentative or else the
+burn was incomplete. A later burn at about 1840 UTC on Mar 25 raised the
+orbit further to 8383 x 35811 km and lowered inclination to 17.4 deg.
+
+Judging from the press release, it's not a problem with the actual R-4D
+thruster which has been very reliably used on everything from Lunar
+Orbiter and Apollo through modern communications satellites, just with
+the propellant supply system. Rumours of a possible Shuttle rescue for
+TDRS I are unrealistic given that from its current orbit it needs twice
+as much delta-V to get down to Shuttle as it needs to reach its actual
+destination; indeed, orbit raising operations are continuing.
+
+TDRS I probably had an initial fuel load of about 1660 kg (Boeing has
+not released the dry mass of the satellite but it is probably about 
+1540 kg) of which about 140 kg is used for GEO stationkeeping and
+maneuvers. The engine used is probably the R-4D-11-300  model with a
+thrust of 490N and a specific impulse of about 315.5s. This implies it
+has probably used about 450 kg of fuel already and needs about another
+1000 kg to GEO; if the tanks were evenly loaded and one pair was
+completely inaccessible there would only be 400 kg available and the
+mission will be a loss; but if (as the optimistic tone of the press
+release might suggest) it's just a question of a reduced rate of access
+to the fuel, they can replan with a less efficient set of burns and not
+lose very much on-orbit life.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Feb  4 0245   MDS-1  )          H-2A           Tanegashima      Tech         03A
+              DASH   )                                          Tech         03
+	      VEP-3  )                                          Tech         03
+Feb  5 2058   HESSI             Pegasus XL     Canaveral        Astronomy    04A
+Feb 11 1743   Iridium 90)       Delta 7920     Vandenberg SLC2W Comms        05A
+              Iridium 91)                                                    05B
+              Iridium 94)                                                    05C
+              Iridium 95)                                                    05D
+              Iridium 96)                                                    05E
+Feb 21 1243   Echostar 7        Atlas 3B       Canaveral SLC36B Comms        06A
+Feb 23 0659   Intelsat 904      Ariane 44L     Kourou ELA2      Comms        07A
+Feb 25 1726   Kosmos-2387       Soyuz-U        Plesetsk LC43/3  Imaging      08A
+Mar  1 0108   Envisat           Ariane 5G      Kourou ELA3      Rem.Sensing  09A
+Mar  1 1122   Columbia STS-109  Space Shuttle  Kennedy LC39A    Spaceship    10A  
+Mar  8 2259   TDRS I            Atlas 2A       Canaveral SLC36A Data relay   11A
+Mar 17 0921   GRACE 1 )         Rokot          Plesetsk LC133   Science      12A
+              GRACE 2 )                                                      12B
+Mar 19 2228   Kolibri           -              Progress, LEO    Education  01-51C
+Mar 21 2013   Progress M1-8     Soyuz-FG       Baykonur LC1     Cargo        13A
+Mar 25 1415   Shenzhou 3        CZ-2F          Jiuquan          Spaceship    14A
+  
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107 2002 Jul 11  Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        LC39B         STS-110 2002 Apr  4  ISS 8A
+OV-105 Endeavour       OPF Bay 1?    STS-111 2002 Jun     ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

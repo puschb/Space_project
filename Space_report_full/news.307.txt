@@ -1,0 +1,112 @@
+Jonathan's Space Report
+No. 307                          1996 Dec  23              Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The Boeing North American (formerly Rockwell) Space Shuttle Orbiter
+OV-102 Columbia landed at 1149 UTC Dec 7 on Runway 33 at Kennedy Space
+Center, making STS-80 the longest shuttle mission so far at 17 days 15
+hr 53 min.
+
+The next Shuttle mission is STS-81/Atlantis, which will fly to Mir in
+January. Atlantis was rolled out to pad 39B on Dec 10.
+
+Kaleri and Korzun made their second spacewalk at 1352 UTC on Dec 9, with
+hatch closure after 6h 36 min. 
+
+
+Recent Launches
+---------------
+
+A Russian defense ministry US-P electronic ocean reconnaissance
+satellite was launched from the GIK-5 Baykonur spaceport, Area 90, on
+Dec 11. The launch vehicle was the 11K69 Tsiklon-2, built by the
+Ukranian Yuzhnoe (Dnepropetrovsk) company. The satellite was named
+Kosmos-2335 after launch into a 403 x 418 km x 65.0 deg orbit. Contrary
+to some press reports, this satellite is not an optical imaging recon
+satellite.
+
+The third Inmarsat 3 satellite was launched by Lockheed Martin Atlas
+AC-129 on Dec 17. Inmarsat 3 F3 is a Lockheed Martin Telecommunications
+Series 4000 class communications satellite which provides L-band
+communications for maritime and aviation users. It is owned by the
+International Maritime Satellite Organization. The Atlas IIA's Centaur
+second stage placed Inmarsat 3 F3 in a conventional (although
+high-perigee) 1017 x 35820 km x 22.7 deg geostationary transfer orbit.
+The solid motor was fired prior to Dec 20, placing the satellite in a
+35652 x 35951 km x 3.4 deg geosynchronous drift orbit.
+
+A large imaging recon satellite for the US National Reconnaissance Office was
+launched on Dec 20. Launch vehicle was a Lockheed Martin Titan 4, serial
+K-13, and the payload may have been an Improved Crystal recon satellite.
+
+Kosmos-2336, a navigation satellite for the Russian navy, was launched
+by Kosmos-3M from Plesetsk on Dec 20. Orbit is 979 x 1012 km x 82.9 deg.
+The satellite and launch vehicle are both built by AO Polyot of Omsk.
+
+US Corporate Mergers
+--------------------
+
+I don't normally track this stuff in the newsletter, but it's gotten
+so confusing lately I though readers might like a scorecard. 
+The old North American Aviation (X-15, Apollo) which became Rockwell
+(Shuttle Orbiter, GPS) is now Boeing North American. The old
+Douglas (Thor) and McDonnell (Gemini), which became McDonnell Douglas 
+(Skylab, Delta) has announced it will also merge with Boeing, creating
+an aerospace company to rival Lockheed Martin. Lockheed Martin encompasses
+a variety of companies from the pioneering days: Lockheed (Corona, Agena,
+Hubble), Martin (Titan; later Martin Marietta - Viking, NOSS), Convair
+(later General Dynamics; Atlas, Centaur), GE (Nimbus, Landsat), RCA
+(Tiros, DMSP, Astro Space comsats) among others. 
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov  4 1709   SAC-B/HETE       Pegasus XL     Wallops         Science     61A
+Nov  7 1700   MGS              Delta 7925     Canaveral LC17A Mars probe  62A
+Nov 13 2240   Arabsat 2B )     Ariane 44L     Kourou ELA2     Comsat      63A
+              Measat 2   )                                    Comsat      63B
+Nov 16 2048   Mars-96          Proton-K       Baykonur LC200L Mars probe  64A
+Nov 19 1955   Columbia         Shuttle        Kennedy LC39B   Spaceship   65A
+Nov 19 2320   Progress M-33    Soyuz-U        Baykonir LC1    Cargo ship  66A
+Nov 20 0411   ORFEUS                          OV-102,LEO      Astronomy   65B
+Nov 21 2047   Hot Bird 2       Atlas IIA      Canaveral LC36B Comsat      67A
+Nov 22 2038   WSF                             OV-102, LEO     Materials   65C
+Dec  4 0658   Mars Pathfinder  Delta 7925     Canaveral LC17B Mars probe  68A
+Dec 11 1200   Kosmos-2335      Tsiklon-2      Baykonur LC90   Recon       69A
+Dec 17 2357   Inmarsat III F3  Atlas IIA      Canaveral LC36  Comsat      70A
+Dec 20 0642?  Kosmos-2336      Kosmos-3M      Plesetsk        Navsat      71A
+Dec 20 1804   USA 128?         Titan 4        Vandenberg SLC4E Recon
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-80  
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        LC39B         STS-81  Jan 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-58/ET-81           VAB Bay 3      STS-82
+ML2/RSRM-54/ET-83/OV-104    LC39B          STS-81
+ML3/RSRM-59/                VAB Bay 1      STS-83
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

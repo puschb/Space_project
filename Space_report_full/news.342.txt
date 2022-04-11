@@ -1,0 +1,140 @@
+Jonathan's Space Report
+No. 342                                       1997 Nov 27 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+OV-102 Columbia was launched on Nov 19 on the STS-87 science mission.
+Solid rocket motors RSRM-63 separated two minutes after launch. The
+orbiter rolled to a heads up position five minutes after launch, in a
+test of communications via the TDRS comsat. Main engine cutoff and
+separation of External Tank ET-89 came at T+8 minutes, leaving OV-102 in
+an elliptical transfer orbit. It then entered a 300 km circular orbit at
+28 deg inclination.
+
+Cargo bay payloads are:
+ NaSBE       GABA, Bay 2 Stbd      Sodium-Sulfur battery
+ EDFT-OTD    APC?, Bay 3 Port      EVA crane
+ Foot restraint    Bay 3 Stbd    
+ G-036       GABA, Bay 4 Port      High school experiment
+ EDFT-ORU    GABA?, Bay 4 Stbd     EVA dummy mass
+ Spartan     MPESS, Bay 5          Solar observatory
+ TGDF        GABA, Bay 6 Port      Physics of flames experiment
+ LHP         GABA, Bay 6 Stbd      Heat pipe technology test
+ SOLSE       GABA, Bay 7 Stbd      Ozone study
+ USMP-4 Fwd  MPESS, Bay 8          Materials processing
+ USMP-4 Aft  MPESS, Bay 9
+ OARE        Bay 11 keel           Accelerations
+ EDO         Bay 12-13             Extended duration kit
+
+Spartan 201 was released a day late (because of a safemode event on the
+SOHO satellite whose results it will calibrate), at 2105 UTC on Nov 21.
+However the satellite did not start its automatic orientation maneuver
+because the crew failed to send it the correct commands prior to release.
+Mission specialist Chalwa moved the robot arm in to grapple it again
+at about 2110 UTC. The grapple was unsuccessful and the Spartan was left
+tumbling. At 2210 it was decided to move away from Spartan for the day.
+
+Spartan was recaptured at around 0200 UTC on Nov 25. The capture was
+made by hand, during a spacewalk by Takao Doi and Winston Scott. The
+astronauts had difficulty berthing it so Chalwa grappled it with the RMS
+arm and berthed it around 0330 UTC. The spacewalk started at 0002 UTC
+Nov 25 and ended 0945 UTC; the tests of space station tools went well,
+but the free-flying Sprint camera subsatellite was not deployed due to
+lack of time.
+
+Recent Launches
+---------------
+
+A Resurs-F1M satellite, built by the Progress Central Specialized
+Design Bureau, was launched on Nov 18 by a Soyuz-U rocket (also
+built by Progress). It is based on the Vostok/Zenit type bus used
+since 1960 for spy satellites, civil recoverable satellites, and
+the Vostok and Voskhod spaceships. On Nov 26 Resurs-F1M was in
+a 208 x 243 km x 82.3 deg orbit.
+
+Thanks to all the folks at Primex (formerly Olin and Rocket Research)
+who sent me information on Cakrawarta 1. This is the first geostationary
+satellite to use a Primex propulsion system for attitude control (with
+twelve MR-103G thrusters) and stationkeeping (with four MR-501
+electrothermal hydrazine thrusters); a Thiokol Star 30E solid motor was
+used for the apogee burn. (Primex provided small propulsion systems
+for many other spacecraft, including the Voyager probes.)
+
+Last week I reported a rumour that the classified TRUMPET sigint
+satellite (whose codename was leaked to the Baltimore Sun a couple years
+ago) was built by Boeing/Seattle; however, for the record, Aviation Week
+claims that Hughes/El Segundo is the prime contractor. 
+
+Maxim Tarasenko reports that Global Info Systems, the owner of Kupon, is
+in fact a subsidiary of the Russian central bank. The Kupon,
+Sirius 2 and Cakrawarta satellites are currently drifting toward their
+stations in the geostationary ring.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  5 1508   Progress M-36     Soyuz-U       Baykonur LC1     Cargo      58A
+Oct  5 2101   Echostar III      Atlas IIAS    Canaveral LC36B  Comsat     59A
+Oct  9 1808   Foton No. 11  )   Soyuz-U       Plesetsk         Micrograv  60A
+              Mirka         )
+Oct 15 0843   Cassini  )        Titan Centaur Canaveral LC40 Saturn probe 61A
+              Huygens  )                                      Titan probe 
+Oct 16 1913   Apstar 2R         CZ-3B         Xichang         Comsat      62A
+Oct 22 1315   STEP M4           Pegasus XL    Wallops I        Technology 63A
+Oct 24 0232   Lacrosse 3        Titan 4A      Vandenberg SLC4E  Recon     64A
+Oct 25 0046   DSCS III B-13 )   Atlas IIA     Canaveral LC36A  Comsat     65A
+              Falcon Gold   )                                  Technology 65B
+Oct 30 1343   Maqsat H-Teamsat) Ariane 5      Kourou ELA3      Technology 66A
+              Maqsat B        )                                           66B
+              YES             )                                           66C
+Nov  2 1225   SCD-2A            VLS           Alcantara        Rem.sens.  FTO
+Nov  3 0405   Sputnik-40                      Mir,LEO          Demo       58C
+Nov  5 0030   GPS 38            Delta 7925    Canaveral LC17A  Navsat     67A
+Nov  8 0205   Trumpet 3         Titan Centaur Canaveral LC41   Signal int 68A
+Nov  9 0134   Iridium 38 )      Delta 7920    Vandenberg SLC2W Comsat     69E
+              Iridium 39 )                                     Comsat     69D
+              Iridium 40 )                                     Comsat     69C
+              Iridium 41 )                                     Comsat     69B
+              Iridium 43 )                                     Comsat     69A
+Nov 12 1700   Kupon             Proton        Baykonur LC200   Comsat     70A
+Nov 12 2148   Sirius 2     )    Ariane 44L    Kourou ELA2      Comsat     71A
+              Cakrawarta 1 )                                   Comsat     71B
+Nov 18 1115   Resurs-F1M        Soyuz-U       Plesetk          Rem.sens.  72A
+Nov 19 1946   Columbia          Shuttle       Kennedy LC39B    Spaceship  73A
+Nov 21 2105   Spartan 201                     OV-102, LEO      Astronomy  73B
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-87  
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                    LC39B         STS-87                         
+MLP2/
+MLP3/RSRM64              VAB Bay 1     STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

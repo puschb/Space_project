@@ -1,0 +1,147 @@
+Jonathan's Space Report
+No. 382                                      1998 Dec 12 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+------------------------
+
+Endeavour is docked to the International Space Station, consisting of
+PMA-2, Unity, PMA-1  and Zarya. The vehicles are in a 386 x 401 km x
+51.6 deg orbit.
+
+Ross and Newman made the first spacewalk to connect up cables with
+Zarya. Hatch open on the Tunnel Adapter was at 2210 UTC on Dec 7, and
+the airlock was repressurized at 0532 UTC on Dec 8. The second EVA, to
+install antennas, was from Dec 9 at 2033 UTC to Dec 10 at 0335 UTC. A
+third EVA was planned for Dec 12.
+
+Erratum: I keep misspelling the location of the organization
+formerly known as McDonnell Douglas. It is Huntington Beach,
+not Huntingdon Beach. The Huntington Beach unit built the
+PMA-1 and PMA-2 docking adapters used on the Station.
+
+AXAF
+----
+
+The external tank for mission STS-93 has now been connected to the solid
+rocket boosters. The AXAF observatory is still in California, and will
+probably be shipped to Florida in January for a launch in March/April.
+
+Recent Launches
+---------------
+
+Arianespace Flight V114 roared into orbit on Dec 6 carrying the Satmex 5
+satellite. The Ariane 42L rocket entered a 211 x 21516 km x 7.0 deg
+subsynchronous orbit from which the Hughes HS-601HP satellite will use
+its apogee engine to raise perigee and then apogee to reach
+geostationary orbit. Satmex 5 is operated by Satellites Mexicanos S.A. de
+C.V, a company (partly owned by Loral) which has taken over from the
+Mexican Telecoms Ministry which operated the Morelos satellites. Satmex
+5 will replace Morelos 2. The V114 launch preceded the Pegasus/SWAS
+launch less than 15 minutes. Satmex 5 mass was 4135 kg at launch; I
+don't have a figure for the dry mass. It carries the XIPS ion engine
+stationkeeping system.
+
+The V114 launch preceded the Pegasus/SWAS launch by only 15 minutes.
+Yet another Ariane launch is scheduled for Dec 21, carrying the PAS 6B
+satellite.
+
+Russia launched a Nadehzda navigation/search and rescue satellite on an
+11K65M Kosmos-3M rocket from Plesetsk on Dec 10 into a 987 x 1045 km x 83
+degree orbit. Attached to Nadezdha was the small Swedish Space
+Corporation microsatellite Astrid-2. Astrid-2 was ejected at 1525 UTC.
+Astrid-2 will measure the auroral electromagnetic fields and particle
+environment. Mass is 30 kg.
+
+The Mars Climate Orbiter was launched on a Boeing Delta 7425
+on Dec 11. MCO is the second craft in the Mars Surveyor Program;
+the first was Mars Global Surveyor, currently aerobraking in orbit
+around Mars. MCO was built by Lockheed Martin Astronautics/Denver
+and is a 338 kg craft (with a further 291 kg of fuel at launch)
+consisting of an equipment module and a 640N Leros bipropellant
+orbit insertion engine. MCO carries the MARCI color imager
+for mapping and weather studies, the PMIRR radiometer, and a UHF
+communications system which will relay data from Mars Polar Lander,
+scheduled for launch in January. MCO will enter a 160 x 38600 km
+polar orbit around Mars on 1999 Sep 23, and then use aerobraking
+to reach a 373 x 437 km x 92.9 deg sunsynchronous mapping orbit
+by 1999 Nov 23.
+
+The science mission will map the surface at high resolution, and
+study the distribution of water vapor and ozone. It also
+will study the transport of dust and water with latitude,
+the motions of weather systems and dust storms, and
+study the response to daily solar heating.
+
+MCO's Delta launch vehicle took off from Space Launch Complex 17 at Cape
+Canaveral and entered a 185 x 198 km x 28.4 deg parking orbit. A second
+Delta stage 2 burn raised apogee to around 900 km when the third stage
+took over for the solar orbit insertion burn. For the first time, a
+small solid Thiokol Star 37FM motor was used as the Delta third stage.
+An older Star 37E motor was used in the 1970s as the standard third
+stage, but was replaced by the much bigger Star 48 in the 1980s.
+The Star 37E and MCO are in solar orbit; the Delta stage 2 was
+left in a 162 x 857 km x 23.9 deg Earth orbit.
+
+Meanwhile, Deep Space 1 has completed a two week long burn of
+its NSTAR ion engine.
+
+The satellites I listed earlier as Iridium 2 and Iridium 3 are actually
+Iridium 87 and Iridium 78 respectively. The names used by Space Command
+are system identifiers which will be reused (i.e. there'll be another
+Iridium 3 someday replacing this one, so it's not a unique name) and not
+the spacecraft production numbers. I'll be posting a detailed
+constellation status in a forthcoming issue.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov  1 1703   Spartan 201       -              Discovery, LEO   Astronomy  64C
+Nov  4 0512   PAS 8             Proton-K/DM3   Baykonur         Comsat     65A
+Nov  6 1337   Iridium 87)       Delta 7920-10C Vandenberg SLC2W Comsat     66A
+              Iridium 83)                                       Comsat     66E
+              Iridium 84)                                       Comsat     66D
+              Iridium 85)                                       Comsat     66C
+              Iridium 86)                                       Comsat     66B
+Nov 10 1930?  Spoutnik-41       -              Mir, LEO         Amateur    62C
+Nov 20 0640   Zarya             Proton-K       Baykonur LC81L   Station    67A
+Nov 22 2354   BONUM-1           Delta 7925     Canaveral SLC17B Comsat     68A
+Dec  4 0835   Endeavour  )      Shuttle        Kennedy LC39A    Spaceship  69A
+              Unity      )                                      Station
+Dec  6 0043   Satmex 5          Ariane 42L     Kourou ELA2      Comsat     70A
+Dec  6 0057   SWAS              Pegasus XL     Vandenberg       Astronomy  71A
+Dec 10 1157   Nadezhda  )       Kosmos-3M      Plesetsk         Navsat     72A
+              Astrid-2  )	                                Science    72B
+Dec 11 1845   Mars Climate Orb. Delta 7425     Canaveral SLC17A Mars probe 73A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Mar 1999
+OV-103 Discovery       OPF Bay 1     STS-96  May 1999
+OV-104 Atlantis        OPF Bay 2     STS-101 Aug 1999
+OV-105 Endeavour       LEO           STS-88  
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/
+MLP3/                          LC39A     STS-88
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

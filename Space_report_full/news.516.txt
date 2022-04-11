@@ -1,0 +1,147 @@
+Jonathan's Space Report
+No. 516                                            2003 Dec 22, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Recent Launches
+---------------
+
+The first launch of NPO Mashinostroenie's Strela space rocket was
+successful on Dec 5. The Strela is a UR-100NU ballistic missile with
+avionics added to the MIRV bus to turn it into a third stage. Original
+reports from the Russian Space Forces that this was a suborbital
+training launch were incorrect. Launch from site 132 at Baykonur placed
+the APB third stage and a dummy payload into low orbit. No name has been
+released for the satellite; Space Command is calling it Gruzomaket
+("payload mockup") which is a plausible name for it, so I'll adopt that.
+Some Russian sources indicate the satellite is a mockup of Kondor-E, a
+proposed commercial radar satellite. Its orbit is 452 x 461 km x 67.1
+deg, while the APB stage entered a 389 x 457 km x 67.1 deg orbit after
+venting its remaining propellant. Another space rocket based on the
+UR-100NU is the Rokot, which uses a more sophisticated Briz third stage
+and is marketed by Krunichev. 
+
+Let's review the currently active launch vehicles from the former Soviet Union.
+In the table below, I list refurbished missiles followed by specially-built
+launch vehicles (still indicating the original missile design they are based on).
+"RV bus" denotes that the upper stage is a minimally modified post-boost delivery 
+system used on the original ballistic missile.   
+
+  Missile    Space launcher     Upper stages             Marketed by
+
+  UR-100NU   Rokot              Briz-KM                  Krunichev, Eurockot
+  UR-100NU   Strela             RV bus                   NPO Mash
+  R-36M      Dnepr              RV bus                   Yuzhnoe, Kosmotras
+  R-29RM     Shtil'             RV bus                   KB Makeyev  
+  RT-2PM     Start-1            Start                    MITT, Pusk.Uslogi, USC
+
+  (R-7)      Soyuz-U/Soyuz-FG   Blok-I, Blok-I/Fregat    Energia, Starsem 
+  (R-7)      Molniya-M          Blok-I/Blok-L            Energia?   
+  (R-14)     Kosmos-3M          S3                       Polyot, OHB 
+  (R-36)     Tsiklon-3          S5M                      Yuzhnoe 
+  -          Zenit-2            -                        Yuzhnoe?
+  -          Zenit-3SL          Blok DM-SL               Boeing Sea Launch
+  (UR-500)   Proton-K,-M        Briz-M                   Krunichev, ILS  
+
+
+Three Uragan navigation satellites in the GLONASS system were launched
+from Baykonur at 1742 UTC  on Dec 10. GLONASS is the Russian version of
+GPS, and the satellites are built by the Polyot company in Omsk. This
+was the first GLONASS launch to use the Proton-K with a Briz-M upper
+stage (earlier flights used the Blok-DM class stage).  The third Proton
+stage flew a suborbital trajectory into the Pacific, while the Briz made
+an extremely long first burn with cutoff 35 minutes after launch over
+the Pacific near the equator, probably in an orbit approximately 290 x
+3900 km x 51.6 deg. One orbit later the Briz fired again using the rest
+of the propellant in its DTB torus tank, reaching a 291 x 19093 km x
+53.1 deg transfer orbit. The DTB was jettisoned at 2038 UTC. At 2313 UTC
+as the Briz core reached apogee over the western Atlantic it fired a
+third time to circularize the orbit at 18930 x 19330 km x 65.1 deg and
+the three Uragan satellites were deployed at 2325 UTC. Uragan satellites
+794 and 795 were named Kosmos-2402 and Kosmos-2403, while uprated Uragan
+satellite 701 was named Kosmos-2404.
+
+The last UHF Follow-On communications satellite for the US Navy was
+launched on Dec 18. Lockheed Martin's Atlas IIIB flight AC-203 with a
+single-engine Centaur upper stage put the Boeing 601 satellite in a 185
+x 1092 km x 28.1 deg parking orbit and then a 288 x 35905 km x 27.0 deg
+geostationary transfer orbit. The satellite will enter geostationary
+orbit and provide fleet communications.
+
+Another Block IIR Global Positioning System (GPS) satellite was launched
+on Dec 21 using a Boeing Delta 7925. The Delta second stage entered a
+174 x 200 km x 36.8 deg parking orbit, fired again to a 187 x 1152 km x
+37.2 km intermediate orbit, and then spun up the solid third stage which
+fired to enter a 187 x 20368 km x 39.0 deg transfer orbit. The GPS
+spacecraft, serial SVN 47,  separated and will later use its solid
+apogee motor to circularize its orbit and change its inclination to a 
+20100 x 20300 km x 55.0 deg operational orbit. This was the tenth Block
+IIR (replenishment) launch and the 49th GPS launch since Navstar 1 in
+1978.
+
+Observers are gaining confidence that only two payloads were aboard the
+USA 173 launch, confirming that the new generation naval signals
+intelligence system uses a different design from the Titan-launched
+triplets. The satellites are operated by the SIGINT (signals intelligence)
+branch of the National Reconnaissance Office.
+
+The Russian Kosmos-2399 military imaging satellite was destroyed in
+orbit on Dec 9 after completing its mission. At least 21 debris pieces
+were cataloged by US sensors; all have now reentered. On-orbit
+destruction is common for the Don series of imaging satellites.
+
+The Space Infrared Telescope Facility has been renamed the  Spitzer
+Space Telescope, after astronomer Lyman Spitzer Jr. (1914-1997), who
+championed the idea of telescopes in space starting in 1946 and is
+credited with being the driving force behind OAO and HST. The first
+Spitzer Space Telescope images have been released, including a very
+spiffy image of the galaxy M81. Congratulations to all my friends on the
+Spitzer team for getting the mission off to a great  start.
+
+The Japanese Mars probe, Nozomi, flew past the planet on Dec 14 at a
+height of 1000 km. Attempts to operate the spacecraft's main propulsion
+system failed, and small thrusters were used to increase the flyby
+distance by about 100 km to ensure a clean miss. The mission has now
+been abandoned, and Nozomi will enter a new orbit around the Sun. The
+flyby will have modified its orbit somewhat, but I don't have the new
+parameters. Meanwhile, the UK's Beagle-2 lander was ejected from the
+European Space Agency's Mars Express at 0831 UTC on Dec 19, on a
+trajectory that will impact Mars on Dec 25. On Dec 20 Mars Express
+tweaked its own orbit away from impact in preparation for orbit
+insertion around Mars.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Nov  3 0720   JB-4?             CZ-2D           Jiuquan           Micrograv  51C
+Nov 14 1601   Zhongxing-20      CZ-3A           Xichang           Comms      52A
+Nov 24 0622   Yamal-200 KA-1 )  Proton-K/DM-2M  Baykonur PL81/23  Comms      53A
+              Yamal-200 KA-2 )                                    Comms      53B
+Nov 29 0433   IGS-2a )          H-IIA 2024      Tanegashima       Imaging    F02
+              IGS-2b )                                            Radar      F02
+Dec  2 1004   USA 173        )  Atlas IIAS      Vandenberg SLC3E  Sigint     54A
+              USA 173 P/L 2? )                                    Sigint     54C
+Dec  5 0600   Gruzomaket        Strela          Baykonur PL132    Test       55A
+Dec 10 1742   Kosmos-2402 )     Proton-K/Briz   Baykonur PL81     Navigation 56A
+              Kosmos-2403 )                                       Navigation 56B
+              Kosmos-2404 )                                       Navigation 56C
+Dec 18 0230   UHF F/O F11       Atlas IIIB      Canaveral SLC36B  Comms      57A
+Dec 21 0805   GPS SVN 47        Delta 7925      Canaveral SLC17A  Navigation 58A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |                                    |
+|   c/o                              |                                    |
+|  Center for Astrophysics,          |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

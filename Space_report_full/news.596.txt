@@ -1,0 +1,171 @@
+Jonathan's Space Report
+No. 596                                           2008 May 27, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Aboard the International Space Station, astronauts Sergey Volkov,
+Oleg Kononenko and Garrett Reisman continue the EO-17 expedition.
+The Soyuz TMA-12 ferry craft is docked to the Pirs module, and
+the Jules Verne cargo ship is at the Zvezda port.
+
+Progress M-64 was launched on May 14 and docked with Zarya on May 16.
+
+GIOVE B
+--------
+
+The second European Galileo navigation system test satellite left the
+launch pad on Apr 26 at 2216 UTC on a Soyuz-FG/Fregat.
+
+The spacecraft was built for ESA and European Satellite Navigation Industries
+by Astrium using a Thales Proteus spacecraft bus; the satellite
+was integrated by Thales in its Rome factory (which I believe is
+the former Selenia Spazio plant?). GIOVE B has a mass of 530 kg.
+
+The Soyuz-FG placed Giove/Fregat in a suborbital path; the first
+Fregat burn placed the stack in a 170 km parking orbit.
+At 0201 UTC on Apr 27 Giove B reached a 23118 x 23246 km orbit inclined 56 deg.
+
+PSLV
+----
+
+The Indian Space Research Organization's Polar Satellite Launch Vehicle
+flight C9 placed the Cartosat-2A imaging satlelite in a 620 x 661 km x
+97.9 deg polar orbit on Apr 28, together with a cluster of small
+satellites. The Indian Mini Satellite 1 is a small imaging satellite
+with a mass of around 60 kg. The other payloads were nanosatellites with
+masses from 1 to 7 kg: Cute-1.7/APD-II for the Tokyo Institute of
+Technology; AAUSat-II for the University of Aalborg (Denmark); Can X-2
+for UTIAS (the University of Toronto Institiute of Aerospace Studies);
+Compass-1 for the Fachhochschule Aachen (Germany); Delfi-C3 for the
+Technical University of Delft (Netherlands); SEEDS 2 for Nihon
+University (Tokyo); and Can X-6, a collaboration between UTIAS and Com
+Dev International. Can X-6 carries a payload for relaying identification
+beacon data from shipping. Rubin-8-AIS remains attached to the PSLV
+final stage and is also for locating ships.
+
+AAUSat-II carries a gamma ray burst detector for the Danish National Space
+Center.
+
+
+
+Amos 3
+-------
+
+The Israeli Amos 3 communications satellite was launched on Apr 28 by
+Zenit-3SLB from Baykonur. The Blok DM-SLB made three burns to a low
+parking orbit, a 180 x 39064 km x 48.8 deg transfer orbit, and a 34225 x
+39368 km x 0.7 deg near-geosynchronous orbit where it deployed Amos 3.
+This deployment orbit is claimed by the Amos operators to be slightly
+different from the target one, although Land Launch, which operates the
+Zenit-3SLB, denies the launch vehicle was at fault. I am counting the
+launch as a success. By May 12 Amos 3 was in a 35762 x 35928 km x 0.1
+deg orbit drifting at 0.8 deg W per day.
+
+
+AMC 14
+------
+
+The AMC 14 satellite has been moved to a 16846 x 35605 km x 19.5 deg
+transfer orbit and is now expected to be moved to an inclined
+geosynchronous orbit.
+
+Galaxy 18
+---------
+
+A Sea Launch Zenit-3SL was launched from the Odyssey platform in 
+the Pacific and put Intelsat's Galaxy 18 satellite in transfer orbit.
+By May 22 it was in a 9423 x 35609 km x 0.1 deg orbit.
+
+C/NOFS
+------
+
+Antonio Elias of Orbital very kindly provided me with some details
+of the C/NOFS launch, via the nasaspaceflight.com forum.
+
+The L-1011 aircraft took off from Kwaj at 1604:00 UTC on Apr 16,
+and dropped the Pegasus at 1702:48. Ignition of stage 1 followed,
+as normal, 5 seconds later. The drop point was 10.5229N 167.7562E
+(geodetic), which is a little to the north of the HETE-2 drop point.
+
+C/NOFS is currently in a 405 x 851 km x 13.0 deg orbit.
+
+
+PHOENIX
+--------
+
+The Mars Phoenix probe landed on Mars at 2338:24 UTC on May 25.
+Landing site was near 68.22N 234.3E (areocentric), the Green Valley site
+among the Scandia Colles in Vastitas Borealis.
+
+Yubilyeniy
+----------
+
+Russia launched three Gonets-class low orbit communications satellites
+on May 23. Unusually, they were given Kosmos designations - they
+may actually be the Strela-3 military version of Gonets.
+The launch also carried Yubilyeniy (Jubilee), a test satellite with
+an amateur radio payload to commemorate the 50th anniversary of Sputnik
+last year.
+
+The Gonets satellites are in a 1476 x 1510 km x 82.5 deg orbit;
+the depleted Briz stage is in a 1200 x 1506 km orbit.
+
+FY-3A
+-----
+
+China launched the FY-3A polar orbiting weather satellite on May 27.
+The FY-3 series replaces the older FY-1 polar system (FY-2 satellites
+make up the geostationary system and will be replaced by the FY-4 series).
+FY-3A entered an 806 x 810 km x 98.8 deg orbit; the final stage
+is in a 703 x 801 km orbit.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar  9 0403   Jules Verne ATV   Ariane 5ES       Kourou ELA3       Cargo     08A
+Mar 11 0628   Endeavour(STS-123) Space Shuttle   Kennedy LC39A     Spaceship 09A
+Mar 13 1002   USA 200           Atlas V 411      Vandenberg SLC3E  Sigint    10A
+Mar 14 2318   AMC 14            Proton-M/Briz-M  Baykonur LC200/39 Comms     11A
+Mar 15 0610   GPS 48            Delta 7925       Canaveral SLC17A Navigation 12A
+Mar 19 2248   DirecTV 11        Zenit-3SL        SL Odyssey, POR   Comms     13A
+Mar 27 1715   SAR-Lupe 4        Kosmos-3M        Plesetsk LC132/1  Radar     14A
+Apr  8 1116   Soyuz TMA-12      Soyuz-FG         Baykonur LC1      Spaceship 15A 
+Apr 14 2012   ICO G1            Atlas V 421      Canaveral SLC41   Comms     16A
+Apr 16 1702?  C/NOFS            Pegasus XL       L1011,KMR         Science   17A
+Apr 18 2217   Star One C2 )     Ariane 5ECA      Kourou ELA3       Comms     18B
+              Vinasat 1   )                                        Comms     18A
+Apr 25 1535   Tian Lian 1       Chang Zheng 3C   Xichang           Comms     19A
+Apr 26 2216   GIOVE B           Soyuz-FG/Fregat  Baykonur LC31    Navigation 20A
+Apr 28 0353   Cartosat 2A  )    PSLV             SDSC SLP          Imaging   21A
+              IMS 1        )                                       Imaging   21D
+              Can X-2      )                                       Comms     21L?
+              Cute-1.7-APD-II )                                    Tech      21C?
+              Delfi-C3     )                                       Tech      21G
+              AAUSat-II    )                                       Astron    21F
+              SEEDS 2      )                                       Tech      21J
+              Compass 1    )                                       Tech      21E
+              Can X-6      )                                       Comms     21B
+              Rubin-8-AIS  )                                       Comms     21K
+Apr 28 0500   AMOS 3            Zenit-3SLB       Baykonur LC45     Comms     22A
+May 14 2023   Progress M-64     Soyuz-U          Baykonir LC1      Cargo     23A
+May 21 0943   Galaxy 18         Zenit-3SL        SL Odyssey        Comms     24A
+May 23 1520   Kosmos-2437 )     Rokot            Plesetesk LC133/3 Comms     25
+              Kosmos-2438 )                                        Comms     25
+              Kosmos-2439 )                                        Comms     25
+              Yubileyniy  )                                        Comms     25
+May 27 0302   FY-3A             Chang Zheng 4C   Taiyuan           Weather   26A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

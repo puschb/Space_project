@@ -1,0 +1,382 @@
+Jonathan's Space Report
+No. 797                                                          2021 Sep 18     Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 65 continues.
+
+Cargo Dragon capsule C208, with (as usual) a new trunk, was launched on mission SpX CRS-23
+on Aug 29. The trunk is empty on this mission. The cabin carries 2207 kg of pressurized
+cargo including 45 kg of satellite deployment hardware. 
+
+For Nanoracks, four cubesats are carried (the first three as part of NASA's Elana program)
+for deployment from the NRCSD deployer (probably NRCSD-21?):
+  -  PR-CuNaR2, a 3U physics experiment from the Universidad Interamericana de Puerto Rico - Bayamon
+  -  CAPSat, a 3U technology satellite from the University of Illinois
+  -  SPACE HAUC, a 3U satellite testing a software defined radio from U. Massachusetts, Lowell
+  -  IOD-3 Amber, a 6U shipping electronic intelligence satellite from Horizon Technologies (Reading) and the
+            Satellite Applications Catapult (Harwell) which will provide data to the Portsmouth-based
+            National Maritime Information Centre.
+
+For Japan's SpaceBD, another four payloads are known to be aboard and will use the JAXA J-SSOD deployer:
+  -  Binar-1, a 1U test satellite for Curtin University
+  -  CUAVA-1, a 3U test satellite for the University of Sydney and the University of New South Wales,
+       which have a joint new CUAVA space technology lab on the U Sydney campus;
+  -  Maya-3 and Maya-4, two 1U test satellites from the Phillipines DOST and the U. Phillipines Diliman.
+
+CRS-23 arrived at the ISS and docked at IDA-2/PMA-2 at 1430 UTC on Aug 30.
+
+On Sep 3 astronauts Novitskiy (suit Orlan MKS-5) and Dubrov (MKS-4)
+carried out spacewalk VKD-49 to install exterior power and ethernet
+cables connecting the Nauka module to the rest of the Station.  The
+Poisk airlock was depressurized from about 1410 UTC to 2239 UTC; the
+hatch was opened from 1441 to 2235 UTC. 
+
+On Sep 9 Novitskiy and Dubrov continued the Nauka cabling work on
+spacewalk VKD-50. The airlock was depressurized from 1430 to 2219 UTC,
+with the hatch open from 1451 to 2216 UTC. Novitskiy hand-jettisoned a
+bundle containing an ethernet cable reel cover and several insulation
+covers at 2151 UTC; it was cataloged as object 49129.
+
+On Sep 12 astronauts Hoshide (JAXA) and Pesquet (ESA), in spacesuits EMU
+3015 and 3009, made US spacewalk EVA-77 from the Quest airlock. (It's
+considered a US spacewalk because it was made in US spacesuits from the
+US airlock with supervision by US mission control, even though neither
+spacewalker is actually American.) They installed an IROSA solar array
+'mod kit', a set of mounting brackets, on the base of the 4A solar array
+wing on the P4 truss. This mod kit will serve as the mounting point for
+a new IROSA solar array to be launched on a future Dragon cargo mission.
+A new Quest airlock depressurization protocol was used, resulting in a
+very slow depressurization. The airlock reached the 50 mbar pressure I
+use to mark the start of depressurized activities at 1149 UTC, but it
+took until 1212 UTC to reach the 34 mbar point that NASA requires for
+hatch opening. The hatch was indeed opened at 1213 UTC and the
+astronauts went on to battery power at 1215 UTC. 
+
+After the mod kit install, the spacewalkers replaced the FPMU unit on
+P1. The original FPP (Floating Potential Probe) was launched on STS-97
+in Dec 2000 and attached to the P6 truss during STS-97 EVA-3, but never
+worked. It was jettisoned on 2005 Nov 7  during ISS US EVA-4 and
+reentered on 2006 Feb 25. The replacement FPMU (Floating Potential
+Measurement Unit) was launched aboard STS-121 in Jul 2006 and attached
+to the S1 truss  on 2006 Aug 3 during ISS US EVA-5. During STS-129 EVA-2
+on 2009 Nov 21 the FPMU was relocated from S1 to P1. The third device
+was launched on 2021 Aug 10 aboard NG-16 - at least that's my guess,
+NASA have not said so explicitly. It was attached to P1 at about 1800 UTC.
+Hoshide and Pesquet closed the airlock hatch at 1904 UTC and began
+repressurization at 1909 UTC.
+
+Inspiration4
+-------------
+
+On Sep 16 at 0002:56 UTC Dragon capsule C207 'Resilience' was launched
+on a Falcon 9 from Kennedy Space Center carrying the first all-private crew
+to orbit. The crew of the Inspiration4 mission were:
+  Commander          Jared Isaacman
+  Medical Officer    Hayley Arceneaux
+  Mission Specialist Chris Sembroski
+  Pilot              Dr. Sian Proctor
+
+The first stage, S/N 1062, landed on the droneship Just Read The
+Instructions in the Atlantic. The second stage put the Dragon in an
+approximately 190 x 570 km x 51.6 deg orbit, in approximately the same
+orbital plane as the ISS. A pair of Dragon engine burns then raised the
+orbit to 570 x 579 km x 51.6 deg. Unfortunately SpaceX have not given
+any details of the times and delta-Vs for those burns.  Two further
+burns around 2230 and 2320 UTC Sep 17 lowered the orbit back down to 365
+km. The trunk was jettisoned at 2211 UTC Sep 18 and Dragon fired its
+Draco thrusters for the 15 min deorbit burn at 2216 UTC. Entry was at
+around 2253 UTC, and Dragon splashed down in the Atlantic off the coast
+of Cape Canaveral at about 80.3W 28.8N at (to within a few seconds)
+2306:49 UTC.
+
+High Altitude Human Spaceflights
+--------------------------------
+
+The Earth is not a sphere - it is roughly an oblate spheroid flattened at the poles.
+A decent approximation to this spheroid is the WGS-84 ellipsoid. In addition,
+local gravity variations mean that the `geoid' - the surface of constant gravity
+- is not quite the same as the ellipsoid; and on top of that local land topography
+(mountains, valleys etc) mean that the physical surface is different again.
+
+We can measure heights of space objects in three ways:
+1) radial distance from the centre of the Earth (conventionally with the 6378.1 km equatorial radius
+of the Earth subtracted); I will call this the geocentric or GC height;
+2) distance from the surface of the WGS-84 ellipsoid, measured vertically (i.e. perpendicular to the
+local ellipsoid surface tangent plane). I will call this the geodetic or GD height. 
+3) distance from the physical surface, measured vertically (i.e. parallel to the local gravity vector).
+I will call this the true height, and ignore it because I don't have the data to calculate it.
+
+Normally when we cite orbital parameters for satellites we use the GC height by convention,
+even though it can be 20 km different from the GD height. The GD height is closer to what
+a non-specialist might expect; well within 1km of the true height and of the mean sea level height.
+
+I4 flew to a 580 km apogee, well above ISS. That makes it timely to
+review other high apogee flights. Other than the 9 lunar missions (Apollo 8 and 10 to 17),
+the highest apogee flights are listed below, giving both their GC and GD heights:
+
+           GC height   GD height  (km)
+ Gemini 11    1374     1379
+ Gemini 10     762      766
+ STS-31        621      633 
+ STS-82        620      624  
+ STS-103       611      616
+ STS-61        601      608
+ STS-109       584      597
+ Inspiration4  580      598
+ STS-48        576      586
+ STS-125       567      598
+
+I have added lists of space travellers and human spaceflight missions to 
+https://planet4589.org/space/astro/missions.html
+
+Shenzhou 12
+------------
+
+The Chinese space station made its first orbit reboost on Sep 1, raising orbit from 374 x 383 km
+to 383 x 384 km.
+
+Shenzhou 12, with Nie Haisheng, Liu Boming and Tang Honbo aboard, undocked from
+the Tianhe module forward docking port at 0056 UTC Sep 16. They backed off to 2 km
+and then performed a re-rendezvous test, stationkeeping 20 metres from Tianhe's
+nadir docking port. At 0538 UTC they again departed the vicinity of Tianhe.
+The orbital module was jettisoned at about 0445 UTC Sep 17, followed by a
+deorbit burn at 0448 UTC, and landing at 100 04 28E 41 37 43N near the Jiuquan
+space centre at about 0534:10 UTC.
+
+
+RSW
+---
+
+Two Ronghe Shiyan Weixing (Integrated test
+satellites) were launched from Jiuquan on Aug 24 into an 1100 km, 86.4 deg
+orbit. The CZ-2C reached a suborbital trajectory and the second stage
+splashed down in the southern Indian Ocean. The YZ-1S upper stage
+entered an elliptical (perhaps 150 x 1100 km) orbit after its first burn
+at 1125 UTC and an 1100 km circular orbit after its second burn at
+around 1212 UTC. The satellites were deployed shortly after this. At
+about 1230 UTC the YZ-1S made a deorbit burn targeting entry over the
+central Indian Ocean. However, it appears that the resulting perigee was
+not low enough for immediate reentry and the YZ-1S remained up for four
+hours, reentered at third perigee over southern Africa at around
+1620-1625 UTC where it was widely observed.
+
+The CZ-2C used a new larger-diameter 4.2-meter fairing and tested a satellite
+dispenser that can carry up to 20 satellites.
+
+A third test satellite was also deployed and lowered its orbit significantly soon after launch.
+No detailed information on this third satellite has been revealed. As of Sep 15 it stopped its
+orbit lowering and was in a 852 x 877 km orbit.
+
+TJS 7
+-----
+
+The SAST/Shanghai-built Tongxin Jishu Shiyan Weixing 7 (Communications
+Experiment Test Satellite 7) was launched to geotransfer orbit from
+Xichang on Aug 24. Previous SAST TJS missions have reportedly been
+Huoyan infrared missile warning satellites. However, it has been
+announced that TJS-7 will carry out a docking experiment with TJS-6,
+suggesting that it is primarily a technology mission. The satellite
+is currently on station at 146.5E.
+
+Astra LV0006
+------------
+
+Astra's LV0006 rocket was launched on Aug 28. Each Astra flight has been
+a significantly different variant of its rocket - this one, a model
+called Rocket 3.3, had a stretched first stage and improved second stage
+systems. One of the 5 Delphin engines failed just after ignition and the
+rocket tipped over, then recovered attitude and - remarkably - flew
+sideways while vertical for about 18 seconds before beginning ascent and
+almost completing first stage burn. At around maximum dynamic pressure,
+2.5 min after launch and at an altitude of some 33 km,  some hardware
+appeared to fall off the vehicle and a flight termination command was
+sent. The vehicle presumably fell in the ocean south of Kodiak. Astra
+report the hardware reached an apogee of around 50 km; my estimate
+based on available data is 47 km.
+
+The rocket carried the Space Force's Space Test Program STP-27AD1, an
+instrumented test payload designed to remain attached to the second
+stage and measure the launch environment.
+
+
+Firefly Alpha
+------------
+
+Firefly Aerospace carried out its first Alpha launch on Sep 3 from Space Launch Complex
+2-West at Vandenberg Space Force Base. A cloud of gas was seen escaping from the rocket 
+about 2min after launch; the rocket then cartwheeled and was destroyed by the US Space Force range
+safety team. Altitude achieved was probably around 15 km.
+
+Payloads were:
+   3U deployer (possibly ISILAUNCH QuadPack?)  BSS-1 (Benchmark Space Systems, Vermont) - 3U, propulsion $
+   8P deployer (Libre Space PICOBUS):
+                              Qubik-1 and 2,  1P (0.025m cube, 0.25 kg) test satellites from Libre Space,$
+                              Fossa-1b and 2, 1P and 2P test satellites from Fossa Systems, Madrid
+                              GENESIS L and N, 1.5P amateur radio satellites from AMSAT-EA, Madrid
+   Unknown deployer:    Serenity, 3U cubesat for Teachers In Space with student experiments
+                        Hiapo, 1U educational cubesat for Hawaii Science and Technology Museum, Hilo
+                        Mass simulator for Orbital-1, 3U? for Naval Postgrad School, Monterey, Calif.
+   Attached to second stage:
+         Spinnaker-3, dragsail device from Purdue/Cal Poly, to reduce Stage 2 orbit life.
+
+Gao Fen 5-02
+-----------
+
+The Gao Fen 5-02 high resolution imaging satellite was launched at 0301 UTC Sep 7 from Taiyuan.
+
+ZX-9B
+-----
+
+The Zhongxing-9B (Chinasat-9B) communications satellite was launched to GTO on Sep 9.
+Only one object has been cataloged, in a 206 x 35792 km orbit, and there have been no TLEs
+since Sep 10. Its seems likely that ZX-9B raised its orbit on around Sep 10 to geosynchronous,
+but has not yet been tracked by the US in the new orbit. The expected third stage rocket
+may have reentered on its first few orbits since it has not been cataloged.
+
+Kosmos-2551
+-----------
+
+Kosmos-2551 was launched to low polar orbit on Sep 9 by a Soyuz-2-1V,
+the light version of the Soyuz. It is thought to be the second in a new
+series of small EMKA imaging spy satellites.
+
+Starlink G2-1
+-------------
+
+On Sep 14 SpaceX launched 51 Starlink satellites from Vandenberg Space Force Base to a 70 degree orbit.
+The satellites are the new V1.5 design with laser intersatellite links. SpaceX has not revealed
+the mass of the new satellites. The launch was designated Group 2-1, and marks the
+start of a new orbital shell for the system.
+
+The Falcon 9 first stage landed on the OCISLY droneship and the second stage deployed
+the satellites after a single burn to orbit. A second burn of the second stage was expected
+to deorbit the stage over the western Indian Ocean near 2N 61E.
+
+OneWeb launch 10
+-----------------
+
+Also on Sep 10, 34 more OneWeb satelites were launched on a Starsem Soyuz/Fregat from Baykonur.
+
+          
+ELSA-d
+------
+
+Astroscale's ELSA-d target was released from the main Chaser craft for
+the first time at 1501 UTC Aug 25.    It was allowed to drift a short
+distance (of order metres) away and was then recaptured with the
+Chaser's magnetic  grapple. Astroscale reported that the experiment was
+repeated multiple times.
+
+Transporter-2
+--------------
+
+Faraday Phoenix is now identified, leaving only PACE-1 and PAINANI-2 which
+are 48909 and 48928 in some order.
+
+RAAF M2
+-------
+
+The Royal Australian Air Force/UNSW  M2A and M2B satellites launched on
+Electron 19 on Mar 22 separated from each other on Sep 10 after several months
+of checkout operations.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name                           Launch Vehicle      Site            Mission  INTL.  Catalog  Perigee Apogee  Incl   Notes
+Aug  3 0739   Jilin-1 Mofang-01A?              Shuang Quxian 1      Jiuquan            Tech    F05 F01589  -250?x500? x 97?
+Aug  4 1101   KL-Beta A )                      Chang Zheng 6        Taiyuan            Comms   70A S49059  899 x 908 x 89.0 
+              KL-Beta B )                                                              Comms   70A S49060  899 x 908 x 89.0 
+Aug  5 1630   Zhongxing-2E                     Chang Zheng 3B       Xichang            Comms   71A S49062  423 x 35138 x 23.6
+Aug 10 2201   S.S. Ellison Onizuka             Antares 230+         MARS LA0A          Cargo   72A S49064  178 x 375 x 51.6
+Aug 12 0013   EOS-03                           GSLV Mk II           Satish Dhawan      Comms   F06 F01593 -4500 x 140 x 17.9
+Aug 17 0147   Pleiades Neo 4  )                Vega                 Kourou ELV         Imaging 73E S49070  615 x 617 x 97.9
+              LEDSAT          )                                                        Tech    73          522 x 562 x 97.6
+              Sunstorm        )                                                        Solar   73          522 x 562 x 97.6
+              BRO-4           )                                                        Sigint  73          522 x 562 x 97.6
+              RADCUBE         )                                                        Sci     73          522 x 562 x 97.6
+Aug 18 2232   Tianhui 2-02-01)                 Chang Zheng 4B      Taiyuan LC9         Radar   74A S49071  501 x 520 x 97.5
+              Tianhui 2-02-02)                                                         Radar   74B S49072  501 x 520 x 97.5
+Aug 21 2213   OneWeb SL0285-0291)              Soyuz-2-1b/Fregat    Baykonur LC31      Comms   75A
+              OneWeb SL0293-0302)                                                             -75AK        445 x 473 x 87.4
+              OneWeb SL0304-0305)
+              OneWeb SL0308-0319)
+              OneWeb SL0323     )
+              OneWeb SL0329-0330)
+Aug 24 1115   Ronghe Shiyan Weixing 1)         Chang Zheng 2C/YZ-1S Jiuquan LC94       Comms   76A S49112  1085 x 1107 x 86.4
+              Ronghe Shiyan Weixing 2)                                                 Comms   76C S49114  1085 x 1111 x 86.4
+              Test satellite         )                                                 Comms   76B S49113  1035 x 1061 x 86.4
+Aug 24 1541   TJS 7                            Chang Zheng 3B       Xichang            Tech?   77A S49115  191 x 35817 x 28.5
+Aug 28 2235   STP-27AD1                        Astra Rocket 3.3     Kodiak LP3B        Test    F07 F01596 -6350?x 47 x 64
+Aug 29 0714   Dragon CRS-23                    Falcon 9             Kennedy LC39A      Cargo   78A S49117  203 x  319 x 51.6
+Sep  3 0159   BSS-1       )                    Firefly Alpha        Vandenberg SLC2W   Tech    F08 F01599 -6370? x 15?x 137
+              Serenity    )                                                            Edu     F08 F01607 -6370? x 15?x 137
+              Hiapo       )                                                            Edu     F08 F01608 -6370? x 15?x 137
+              Qubik 1     )                                                            Tech    F08 F01600 -6370? x 15?x 137
+              Qubik 2     )                                                            Tech    F08 F01601 -6370? x 15?x 137
+              GENESIS L   )                                                            Com     F08 F01605 -6370? x 15?x 137
+              GENESIS N   )                                                            Com     F08 F01604 -6370? x 15?x 137
+              Spinnaker 3 )                                                            Tech    F08 F01609 -6370? x 15?x 137
+Sep  7 0301   Gao Fen 5-02                     Chang Zheng 4C       Taiyuan            Imaging 79A S49122  680 x 691 x 98.3
+Sep  9 1150   Zhongxing 9B                     Chang Zheng 3B       Xichang            Comms   80A S49125 206 x 35792 x 24.6
+Sep  9 1959   Kosmos-2551                      Soyuz-2-1V           Plesetsk LC43/4    Imaging 81A S49127 295 x 307 x 96.4
+Sep 10 0455   RAAF M2 B                                           RAAF M2 A, LEO       Tech   23J  S47973 545 x 558 x 45.0
+Sep 14 0355   Starlink 3042-3043               Falcon 9             Vandenberg SLC4E   Comms   82         212 x 339 x 70.0 
+              Starlink 3045-3048
+              Starlink 3050-3060
+              Starlink 3068-3069
+              Starlink 3071-3074
+              Starlink 3077-3078
+              Starlink 3080-3091
+              Starlink 3093
+              Starlink 3095-3096
+              Starlink 3100-3104
+              Starlink 3106-3107
+              Starlink 3109
+              Starlink 3116
+              Starlink 3118-3119
+Sep 14 1807   OneWeb SL0292                    Soyuz-2-1b/Fregat    Baykonur LC31     Comms   83A-AK        445 x 472 x 87.4
+              OneWeb SL0303
+              OneWeb SL0306-0307
+              OneWeb SL0320-0322
+              OneWeb SL0324-0328
+              OneWeb SL0331
+              OneWeb SL0333-0346
+              OneWeb SL0348
+              OneWeb SL0350-0352
+              OneWeb SL0354-0355
+              OneWeb SL0357
+Sep 16 0002   Inspiration4                     Falcon 9             Kennedy LC39A     Spaceship 84A  S49220  570 x 579 x 51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Aug 11 0753   GT239GM           Minuteman III      Vandenberg LF09       Op. Test     1300?      Kwajalein
+Aug 11 1444?  ReDX-1/SL-16      SpaceLoftXL        Spaceport America     Tech          100?      White Sands
+Aug 12        RV                Ghaznavi           Somniani?             Test          100?      Pakistan?
+Aug 12        ET-2              Imp. Malemute      White Sands           Test          100?      White Sands
+Aug 19 2100   RockSat-X         Terrier Imp.Mal.   Wallops I             Education     158       Atlantic
+Aug 26 1431   NS17              New Shepard        West Texas            Science       106       West Texas
+Sep  5        HE warhead        Zulfiqar           Sanaa?                Weapon        150?      Ras Al-Tanura
+Sep  9 1725   EVE 8             Black Brant IX     White Sands           Solar EUV     293       White Sands
+Sep 11 2207   HOT SHOT 4?       Terrier Imp.Mal.   Wallops I             Tech          200?      Atlantic 
+Sep 12 1730   BVT-03            GBI                Vandenberg            Test          300?      Pacific
+Sep 17        USN RVs           Trident D-5        SSBN 742, ETR         Test         1800?      Atlantic
+Sep 17        USN RVs           Trident D-5        SSBN 742, ETR         Test         1800?      Atlantic
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

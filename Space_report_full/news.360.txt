@@ -1,0 +1,130 @@
+Jonathan's Space Report
+No. 360                              1998 May  17 Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+Shuttle and Mir
+---------------
+
+The next Shuttle mission is STS-91; orbiter OV-103 Discovery will dock
+with Mir to pick up Andrew Thomas, the final NASA resident on the
+station, and allow an inspection visit by Russian Shuttle-Mir program
+director Valeriy Ryumin. Charles Precourt and Dominic Gorie will  be
+commander and pilot, with payload commander Franklin Chang-Diaz and
+mission specialists Wendy Lawrence and Janet Kavandi. Dr. Chang-Diaz, a
+member of the 1980 group of astronauts, will be making his sixth space
+flight, equalling the record set by John Young and Story Musgrave.
+Ryumin has been involved in the design and development of all of the DOS
+orbital stations from Salyut to Mir, and made three flights in the
+Salyut-6 program in 1977-1980, becoming at that time the spaceflight
+duration record holder.
+
+Russia launched the Progress 7K-TGM (11F615A55) No. 238 cargo ship  from
+Baykonur on May 14. Progress spacecraft 238 was renamed Progress M-39
+after launch. It docked with Mir at 2351 UTC on May 16, bringing
+supplies and scientific experiments to the station. Progress M-38
+undocked May 15 at 1844 UTC, freeing up the docking port on the Kvant
+module for the new cargo ship.
+
+Recent Launches
+---------------
+
+The NOAA K weather satellite was launched on May 13 from Vandenberg, and
+renamed NOAA 15 on reaching orbit. NOAA K is an Advanced Tiros N class
+weather satellite built by Lockheed Martin/East Windsor for the National
+Oceanic and Atmospheric Administration's Polar Orbiting Environmental
+Satellite (POES) program. NOAA K carries a new microwave sensor as well
+as the usual complement of optical/near-infrared radiometers and imagers
+and the SARSAT search and rescue package. It was the first NOAA launch
+to use the Titan 23G launch vehicle, a refurbished ICBM. Titan 23G-12
+took off from Space Launch Complex 4-West at Vandenberg and delivered
+NOAA K into a suborbital trajectory 6 min later. A Thiokol (Cordant
+Technologies) Star 37XFP solid motor on the satellite fired at apogee to
+put NOAA K in orbit; this is a more powerful version of the Star 37S
+orbit insertion motor used on earlier Tiros N satellites.
+
+Another successful launch for the Boeing Delta 2 placed five
+more Motorola Iridium satellites in orbit on May 17. This is the
+final launch in the initial deployment of the Iridium constellation,
+but launches of replacement satellites will continue.
+I don't have the satellite numbers for the new launch yet;
+the next free numbers are SV 70,72,73,74,75.
+
+The Blok DM3 stage for the May 7 Proton launch did indeed make two burns
+(see last week's issue). The second burn left Echostar in an 8318 x
+35750 km x 15.3 deg orbit; the liquid apogee motor raised perigee to
+12263 km a few days later. No element sets for the second burn transfer
+orbit reached the Goddard web site at the time, but a Space Command
+element set later reached the JPL archive sites.
+
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  2 0242   TRACE             Pegasus XL    Vandenberg RW30/15 Solar obs. 20A
+Apr  7 0213   Iridium 62        Proton-K/DM2  Baykonur          Comsat     21A
+              Iridium 63                                        Comsat     21B
+              Iridium 64                                        Comsat     21C
+              Iridium 65                                        Comsat     21D
+              Iridium 66                                        Comsat     21E
+              Iridium 67                                        Comsat     21F
+              Iridium 68                                        Comsat     21G
+Apr 17 1819   Columbia   )      Shuttle       Kennedy LC39B     Spaceship  22A
+              Neurolab   )
+Apr 24 2238   Globalstar FM6)   Delta 7420    Canaveral SLC17   Comsat     23A
+              Globalstar FM8)                                              23B
+              Globalstar FM14)                                             23C
+              Globalstar FM15)                                             23D
+Apr 28 2253   Nilesat 1  )      Ariane 44P    Kourou ELA2       Comsat     24A
+              BSAT 1B    )                                      Comsat     24B
+Apr 29 0437   Kosmos-2350       Proton-K/DM-2 Baykonur          Comsat?    25A
+May  2 0916   Iridium 69        CZ-2C/SD      Taiyuan           Comsat     26A
+              Iridium 71                                        Comsat     26B
+May  7 0853   Kosmos-2351       Molniya-M     Plesetsk          Early Warn 27A
+May  7 2345   Echostar 4        Proton-K/DM3  Baykonur          Comsat     28A
+May  9 0138   USA 139           Titan Centaur Canaveral SLC40   Sigint     29A
+May 13 1552   NOAA 15           Titan 2       Vandenberg SLC4W  Weather    30A
+May 14 2212   Progress M-39     Soyuz-U       Baykonur LC1      Cargo      31A
+May 17 2116   Iridium   )       Delta 7920    Vandenberg SLC2W  Comsat     32A
+              Iridium   )                                                  32B
+              Iridium   )                                                  32C
+              Iridium   )                                                  32D
+              Iridium   )                                                  32E
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Dec 3
+OV-103 Discovery       LC39A         STS-91  Jun 2
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  ?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/RSRM66/ET-96/OV-103 LC39A       STS-91
+MLP2/
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+

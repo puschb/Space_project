@@ -1,0 +1,390 @@
+Jonathan's Space Report 
+No. 232               1995 Feb 27                  Cambridge, MA
+--------------------------------------------------------------------------------
+
+  ORBITAL PAYLOADS 1994
+
+This special issue includes the annual list of launches, containing
+more info than usual.
+Orbits are given for mid Feb 1995 except where indicated; orbits with "?"
+are approximate orbits for classified satellites.
+Orbits are given as  perigee (km) x apogee (km) x inclination (deg)  Period (min)
+Each line of the main data has been broken in two to fit within the 
+standard 80-column width, and may be rejoined by combining the * characters.
+Please let me know of any errors or omissions in this table.
+
+Line 1:
+INT'L	NAME	      LAUNCH     ORBIT OR STATUS              GEO-LONG *
+*                       AGENCY      MANUFAC.   BUS            TYPE
+1994- 
+01A  Soyuz TM-18        Jan  8   Landed in Kazakhstan Jul  9          *
+*                       RKA         Energia    Soyuz          Spaceship
+02A  Gals 1             Jan 20   35776x  35794x  0.03 1436.06  70.91E *
+*                       AOIK        NPO PM     Gals           Comsat
+FTO  Eutelsat II F-5    Jan 24   Destroyed on launch                  *
+*                       EUTELSAT    Aespt.     Spacebus 2000  Comsat
+FTO  Turksat 1A         Jan 24   Destroyed on launch                  *
+*                       Turkey PTT  Aespt.     Spacebus 2000  Comsat
+03A  Meteor-3 No. 7     Jan 25    1184x   1209x 82.55  109.36         *
+*                       RKA/GGM     VNII-EM    Meteor         Weather
+03B  Tubsat-B           Jan 25    1183x   1209x 82.55  109.35         *
+*                       TUB         TUB                       Technology
+04A  Clementine 1       Jan 25   Solar orbit, elements unknown        *
+*                       BMDO        NRL                       Space probe
+04C  ISA                Jan 25     168x 128094x 66.80 3105.52 (1/94)  *
+*                       BMDO        NRL                       Science
+05A  Progress M-21      Jan 28   Deorbited Mar 23                     *
+*                       RKA         Energia    Soyuz          Cargo
+06A  Discovery (STS-60) Feb  3   Landed at KSC Feb 11                 *
+*                       NASA        Rockwell   Shuttle        Spaceship
+06A  GBA                Feb  3   Remained attached to STS-60          *
+*                       NASA        MDAC       MPESS          Science
+06A  SCBC/WSF           Feb  3   Remained attached to STS-60          *
+*                       NASA        SVEC/SII   SCBC           Science
+06A  Wake Shield Facil. Feb  3   Remained attached to STS-60          *
+*                       NASA        SVEC/SII   WSF            Science
+07A  Ryusei             Feb  3   Landed in Pacific Feb 4              *
+*                       NASDA       NASDA                     Technology
+07B  Myojo              Feb  3     430x  36114x 29.12  641.95         *
+*                       NASDA       NASDA?                    Technology
+08A  Raduga-1           Feb  5   35780x  35792x  0.72 1436.09  48.72E *
+*                       RKA         NPO PM     (Raduga-1)     Comsat
+09A  Milstar DFS 1      Feb  7   35780x  35790 x 0    1436.1 (?)      *
+*                       USAF        Lockheed   Milstar        Comsat
+10A  Shi Jian 4         Feb  8     221x  34459x 28.41  605.89         *
+*                       PRC                                   Science
+10B  DFH-3 mockup       Feb  8     211x  32578x 27.49  570.03         *
+*                       PRC                                   Technology
+06B  ODERACS A          Feb  9   Reentered Oct 2                      *
+*                       NASA                                  Calibration 
+06C  ODERACS B          Feb  9   Reentered Oct 4                      *
+*                       NASA                                  Calibration 
+06D  ODERACS C          Feb  9   Reentered?                           *
+*                       NASA                                  Calibration   
+O6E  ODERACS D          Feb  9   Reentered?                           *
+*                       NASA                                  Calibration   
+06F  ODERACS E          Feb  9     223x    226x 56.97   89.00         *
+*                       NASA                                  Calibration   
+06G  ODERACS F          Feb  9     198x    202x 56.96   88.51         *
+*                       NASA                                  Calibration   
+06H  BREMSAT            Feb  9   Reentered 1995 Feb 12                *
+*                       DARA        OHB                       Science
+11A  Kosmos-2268        Feb 12    1411x   1426x 82.57  114.20         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+11B  Kosmos-2269        Feb 12    1410x   1421x 82.56  114.13         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+11C  Kosmos-2270        Feb 12    1406x   1417x 82.57  114.05         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+11D  Kosmos-2271        Feb 12    1403x   1415x 82.56  113.99         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+11E  Kosmos-2272        Feb 12    1396x   1415x 82.56  113.91         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+11F  Kosmos-2273        Feb 12    1408x   1416x 82.56  114.05         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+12A  Raduga             Feb 18   35785x  35797x  0.70 1436.35  45.38E *
+*                       MO RF       NPO PM     (Raduga)       Comsat
+13A  Galaxy IR          Feb 19   35784x  35786x  0.01 1436.05 133.01W *
+*                       HCI         Hughes     HS-376         Comsat
+14A  Koronas-I          Mar  2     483x    526x 82.49   94.71         *
+*                       RKA         Yuzhnoe    AUOS-SM        Science
+15A  Columbia (STS-62)  Mar  4   Landed at KSC Mar 18                 *
+*                       NASA        Rockwell   Shuttle        Spaceship
+15A  USMP-2 Fwd         Mar  4   Remained attached to STS-62          *
+*                       NASA        MDAC       MPESS          Materials
+15A  USMP-2 Aft         Mar  4   Remained attached to STS-62          *
+*                       NASA        MDAC       MPESS          Materials
+15A  OAST-2             Mar  4   Remained attached to STS-62          *
+*                       NASA        MDAC       MPESS          Science
+16A  Navstar GPS 36     Mar 10   20023x  20339x 55.04  717.95         *
+*                       USAF        Rockwell   GPS Block IIA  Navigation
+16B  SEDS 2/Delta       Mar 10   Reentered May 8                      *
+*                       NASA        MDAC       Delta          Technology
+16B  SEDS 2 End Mass    Mar 10   Reentered Mar 15                     *
+*                       NASA        NASA                      Technology
+17A  P90-5 TAOS         Mar 13     556x    568x105.04   95.91         *
+*                       USAF        TRW        Eagle          Technology
+17B  DARPASAT           Mar 13     550x    550x105.0    95.9 ?        *
+*                       DARPA       Ball                      Technology
+18A  Kosmos-2274        Mar 17   Landed in Kazakhstan May 21          *
+*                       MO RF       TsSKB      Yantar'        Recon
+19A  Progress M-22      Mar 22   Deorbited May 23                     *
+*                       RKA         Energia    Soyuz          Cargo
+20A  Endeavour (STS-59) Apr  9   Landed at Edwards Apr 20             *
+*                       NASA        Rockwell   Shuttle        Spaceship
+20A  SRL-1              Apr  9   Remained attached to STS-59          *
+*                       NASA                   SL-PLT         Science
+20A  MAPS               Apr  9   Remained attached to STS-59          *
+*                       NASA                   MPESS          Science
+21A  Kosmos-2275        Apr 11   19117x  19142x 64.78  675.73         *
+*                       MO RF       Polyot     Uragan         Navigation
+21B  Kosmos-2276        Apr 11   19057x  19201x 64.78  675.73         *
+*                       MO RF       Polyot     Uragan         Navigation
+21C  Kosmos-2277        Apr 11   19103x  19156x 64.77  675.73         *
+*                       MO RF       Polyot     Uragan         Navigation
+22A  GOES 8             Apr 13   35739x  35774x  0.23 1434.58  79.04W *
+*                       NOAA        SS/Loral   GOES-Next      Weather
+23A  Kosmos-2278        Apr 23     845x    858x 71.02  101.97         *
+*                       MO RF       Yuzhnoe?                  SIGINT
+24A  Kosmos-2279        Apr 26     955x   1007x 82.94  104.73         *
+*                       MO RF       Polyot?    Parus          Navigation
+25A  Kosmos-2280        Apr 28     244x    305x 70.35   90.01         *
+*                       MO RF       TsSKB      Yantar'?       Recon
+26A  USA 103            May  3    1323x  39034x 64.4   717.9 ?        *
+*                       NRO                                   SIGINT
+27A  SROSS C2           May  4     430x    619x 46.04   95.13         *
+*                       ISRO        ISRO       SROSS          Science
+28A  MSTI 2             May  9     411x    427x 97.11   92.96         *
+*                       BMDO/USAF   SpecAst    SA             Technology
+29A  P91-A STEP-2       May 19     604x    818x 81.96   99.01         *
+*                       USAF        TRW        Eagle          Technology
+30A  Gorizont No. 42    May 20   35772x  35796x  0.78 1435.99 142.43E *
+*                       Rimsat      NPO PM     Gorizont       Comsat
+31A  Progress M-23      May 22   Landed in Russia Jul 2               *
+*                       RKA         Energiya   Soyuz          Cargo
+FTO  Kosmos             May 25   Destroyed on launch                  *
+*                       MO RF       Yuzhnoe?                  SIGINT
+32A  Kosmos-2281        Jun  7   Landed Jul 29                        *
+*                       MO RF       TsSKB      Zenit/Oblik    Recon
+33A  Foton No. 9        Jun 14   Landed Jul 2                         *
+*                       RKA         TsSKB      Zenit/Foton    Materials
+34A  Intelsat 702       Jun 17   35776x  35795x  0.02 1436.07   1.03W *
+*                       INTELSAT    SS/Loral   FS-1300        Comsat
+34B  STRV-1A            Jun 17     251x  35518x  7.34  626.87         *
+*                       DRA         DRA                       Technology
+34C  STRV-1B            Jun 17     239x  35588x  7.36  628.00         *
+*                       DRA         DRA                       Technology
+35A  UHF F/O F3         Jun 24   35776x  35795x  4.81 1436.05  14.38W *
+*                       USN         Hughes     HS-601         Comsat
+FTO  P90-1 STEP 1       Jun 27   Destroyed on launch                  *
+*                       USAF        TRW        Eagle          Science
+36A  Soyuz TM-19        Jul  1   Landed in Kazakhstan Nov 4           *
+*                       RKA         Energiya   Soyuz          Spaceship
+37A  FSW-2              Jul  3   Landed in China Jul 18               *
+*                       PRC                                   Remote sensing
+37A  FSW-2 service mod. Jul  3   Reentered Sep 13                     *
+*                       PRC                                   Remote sensing
+38A  Kosmos-2282        Jul  6   35754x  35817x  1.86 1436.06  24.06W *
+*                       MO RF       Lavochkin  Prognoz        Early Warning
+39A  Columbia (STS-65)  Jul  8   Landed at KSC Jul 23                 *
+*                       NASA        Rockwell   Shuttle        Spaceship
+39A  Spacelab IML-2     Jul  8   Remained attached to STS-65          *
+*                       NASA                   Spacelab-LM    Science
+39A  EDO                Jul  8   Remained attached to STS-65          *
+*                       NASA                   EDO            Technology
+40A  Panamsat 2         Jul  8   35772x  35799x  0.04 1436.07 168.97E *
+*                       A-Lyracom   Hughes     HS-601         Comsat
+40B  BS-3N              Jul  8   35777x  35797x  0.05 1436.15 109.67E *
+*                       NHK         MMAS       Series 3000    Comsat
+41A  Nadezhda           Jul 14     951x   1007x 82.94  104.68         *
+*                       RKA         Polyot?    Tsikada        Navigation
+42A  Kosmos-2283        Jul 20   Landed Sep 29                        *
+*                       MO RF       TsSKB      Yantar'        Recon
+43A  Apstar 1           Jul 21   35785x  35789x  0.00 1436.12 137.97E *
+*                       APT         Hughes     HS-376         Comsat
+44A  Kosmos-2284        Jul 29   Landed Sep 11                        *
+*                       MO RF       TsSKB      Yantar'/Kometa Mapping
+45A  Kosmos-2285        Aug  2     974x   1013x 74.03  104.98         *
+*                       MO RF       NPO PM?                   Calibration?
+46A  P90-6 APEX         Aug  3     360x   2534x 69.98  114.82         *
+*                       USAF        OSC        Pegastar       Technology
+47A  DBS 2              Aug  3   35776x  35797x  0.01 1436.11 100.79W *
+*                       DirecTV     Hughes     HS-601         Comsat
+48A  Kosmos-2286        Aug  5     747x  39608x 63.39  717.81         *
+*                       MO RF       Lavochkin  Oko            Early Warning
+49A  Brasilsat B1       Aug 10   35782x  35791x  0.03 1436.12  70.05W *
+*                       Telebras    Hughes     HS-376W        Comsat
+49B  Turksat 1B         Aug 10   35740x  35829x  0.06 1436.01  41.92E *
+*                       Turkey PTT  Aespat.    Spacebus 2000  Comsat
+50A  Kosmos-2287        Aug 11   19109x  19150x 64.81  675.73         *
+*                       MO RF       Polyot     Uragan         Navigation
+50B  Kosmos-2288        Aug 11   19091x  19168x 64.81  675.73         *
+*                       MO RF       Polyot     Uragan         Navigation
+50C  Kosmos-2289        Aug 11   19126x  19133x 64.81  675.73         *
+*                       MO RF       Polyot     Uragan         Navigation
+51A  Molniya-3          Aug 23     622x  39726x 62.97  717.67         *
+*                       RKA         NPO PM     Molniya-3      Comsat
+52A  Progress M-24      Aug 25   Deorbited over Pacific Oct 4         *
+*                       RKA         Energiya   Soyuz          Cargo
+53A  Kosmos-2290        Aug 26     181x    392x 64.80   90.25         *
+*                       MO RF       TsSKB      ?              Recon
+54A  USA 105            Aug 27   35780x  35790x  0    1436.1 ?        *
+*                       NRO         TRW?       Adv. ORION?    SIGINT
+55A  Optus B3           Aug 27   35671x  35905x  0.48 1436.19 151.74E *
+*                       Optus       Hughes     HS-601         Comsat
+56A  Kiku 6             Aug 28    8565x  38677x 13.23  861.84         *
+*                       NASDA       Toshiba                   Comsat
+57A  DMSP 23545         Aug 29     840x    860x 98.89  101.94         *
+*                       USAF        MMAS       Block 5D-2     Weather
+58   Telstar 402        Sep  9     201x  35295x  6.62  621.60 (?)     *
+*                       AT&T        MMAS       Series 7000    Comsat
+59A  Discovery (STS-64) Sep  9   Landed at Edwards Sep 20             *
+*                       NASA        Rockwell   Shuttle        Spaceship
+59A  LITE               Sep  9   Remained attached to STS-64          *
+*                       NASA                   SL-PLT         Science
+59A  GBA                Sep  9   Remained attached to STS-64          *
+*                       NASA                   MPESS          Science
+59A  SFSS               Sep  9   Remained attached to STS-64          *
+*                       NASA                   MPESS          Science
+59B  Spartan 201        Sep 13   Retrieved by STS-64 Sep 15           *
+*                       NASA        NASA       Spartan 200    Science
+60A  Kosmos-2291        Sep 21   35748x  35827x  1.13 1436.16  79.79E *
+*                       MO RF       NPO PM     Geyzer         Comsat
+61A  Kosmos-2292        Sep 27     400x   1951x 82.99  108.90         *
+*                       MO RF       Yuzhnoe    Vektor?        Calibration
+62A  Endeavour (STS-68) Sep 30   Landed at Edwards Oct 11             *
+*                       NASA        Rockwell   Shuttle        Spaceship
+62A  SRL-2              Sep 30   Remained attached to STS-68          *
+*                       NASA                   SL-PLT         Science
+62A  MAPS               Sep 30   Remained attached to STS-68          *
+*                       NASA                   MPESS          Science
+63A  Soyuz TM-20        Oct  3   Docked to Mir orbital station        *
+*                       RKA         Energiya   Soyuz          Spaceship
+64A  Intelsat 703       Oct  6   35779x  35792x  0.04 1436.07 176.96E *
+*                       INTELSAT    SS/Loral   FS-1300        Comsat
+65A  Solidaridad 2      Oct  8   35775x  35797x  0.02 1436.08 113.06W *
+*                       TdM         Hughes     HS-601         Comsat
+65B  Thaicom 2          Oct  8   35778x  35795x  0.04 1436.11  78.42E *
+*                       Shinaw.     Hughes     HS-376         Comsat
+66A  Okean-O1 no. 7     Oct 11     631x    665x 82.54   97.70         *
+*                       RKA         Yuzhnoe    Okean-O        Rem.sensing
+67A  Ekspress           Oct 13   35776x  35794x  0.06 1436.04  14.00W *
+*                       AO IK       NPO PM     Ekspress       Comsat
+68A  IRS-P2             Oct 15     818x    820x 98.67  101.29         *
+*                       ISRO        ISRO       IRS-P          Rem.sensing
+69A  Elektro            Oct 31   35776x  35797x  1.03 1436.10  76.61E *
+*                       RKA         VNII-EM    Elektro        Rem.sensing
+70A  Astra 1D           Nov  1   35773x  35796x  0.02 1436.00  19.29E *
+*                       SES         Hughes     HS-601         Comsat
+71A  Wind               Nov  1   48840x1578658x 19.65  221d           *
+*                       NASA        MMAS       Wind           Science
+72A  Kosmos-2293        Nov  2     402x    418x 65.03   92.78         *
+*                       MO RF       NPO-M?                    Recon
+73A  Atlantis (STS-66)  Nov  3   Landed at Edwards Nov 14             *
+*                       NASA        Rockwell   Shuttle        Spaceship
+73A  ATLAS 3            Nov  3   Remained attached to STS-66          *
+*                       NASA/ESA               SL-PLT         Rem.sensing
+74A  Resurs-O1 No. 3    Nov  4     660x    663x 98.03   97.98         *
+*                       RKA         VNII-EM    Resurs-O       Rem.sensing    
+73B  CRISTA-SPAS        Nov  4   Retrieved by STS-66 Nov 12           *
+*                       DARA        DASA       Astro-SPAS     Rem.sensing
+75A  Progress M-25      Nov 11   Deorbited 1995 Feb 16                *
+*                       RKA         Energiya   Soyuz          Cargo
+76A  Kosmos-2294        Nov 20   19052x  19207x 64.91  675.73         *
+*                       MO RF       Polyot     Uragan         Navigation
+76B  Kosmos-2295        Nov 20   19094x  19165x 64.89  675.73         *
+*                       MO RF       Polyot     Uragan         Navigation
+76C  Kosmos-2296        Nov 20   19118x  19141x 64.89  675.73         *
+*                       MO RF       Polyot     Uragan         Navigation
+77A  Kosmos-2297        Nov 24     845x    857x 71.01  101.96         *
+*                       MO RF       Yuzhnoe                   SIGINT
+78A  Geo-IK             Nov 29    1480x   1526x 73.61  116.06         *
+*                       RKA/GUGK    NPO PM?    Musson         Geodesy
+79A  Orion 1            Nov 29   35775x  35798x  0.03 1436.11  37.48W *
+*                       Orion       MMS        Eurostar 2000  Comsat
+80A  DFH-3              Nov 29   35225x  35957x  0.15 1426.15         *
+*                       PRC         CAST/DASA  DFH-3          Comsat
+FTO  Panamsat K2        Dec  1   Destroyed on launch                  *
+*                       A-Lyracom   Hughes     HS-601         Comsat
+81A  Molniya-1T         Dec 14     516x  39833x 62.83  717.68         *
+*                       MO RF       NPO-PM     Molniya-1T     Comsat
+82A  Luch               Dec 16   35757x  35815x  2.48 1436.09  95.27E *
+*                       RKA         NPO-PM     Al'tair        Comsat
+83A  Kosmos-2298        Dec 20     785x    810x 74.03  100.83         *
+*                       MO RF       NPO-PM                    Comsat
+84A  DSP F17            Dec 22   35780x  35790x  0    1436.1 ?        *
+*                       USAF        TRW        DSP            Early Warning
+85A  Radio-ROSTO RS-15  Dec 26    1881x   2163x 64.81  127.71         *
+*                       RKA?                                  Comsat
+86A  Kosmos-2299        Dec 26    1402x   1415x 82.57  113.97         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+86B  Kosmos-2300        Dec 26    1410x   1414x 82.55  114.05         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+86C  Kosmos-2301        Dec 26    1414x   1415x 82.56  114.11         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+86D  Kosmos-2302        Dec 26    1413x   1423x 82.55  114.20         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+86E  Kosmos-2303        Dec 26    1413x   1430x 82.56  114.26         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+86F  Kosmos-2304        Dec 26    1412x   1417x 82.56  114.11         *
+*                       MO RF       NPO PM     Gonets-type    Comsat
+87A  Raduga             Dec 28   35784x  35793x  1.41 1436.22  69.52E *
+*                       RKA         NPO PM     Raduga         Comsat
+88A  Kosmos-2305        Dec 29     231x    288x 64.90   89.70         *
+*                       MO RF       TsSKB      Yantar'?       Recon
+89A  NOAA 14            Dec 30     847x    861x 98.88  102.02         *
+*                       NOAA        MMAS       Adv Tiros-N    Weather
+
+Abbreviations and organizations:
+
+Aespt.   Aerospatiale (Toulouse, France)
+A-Lyracom Alpha Lyracom, USA
+AOIK     AO Informkosmos, Russia
+APT      APT Satellite Co, Hong Kong (Asia Pacific Telecom)
+AT&T     American Telephone and Telegraph Co.
+Ball     Ball Aerospace, USA
+BMDO     Ballistic Missile Defence Organization (formerly SDIO)
+CAST     Chinese Academy for Space Technology 
+DARA     Deutsche Agentur fur Raumfahrtgelegenheiten, Germany
+DASA     Deutsche Aerospace
+DirecTV  DirecTV (Hughes subsid); DBS jointly owned by USSB.
+DRA      Defense Research Agency, Farnborough, England (UK MoD)
+Energiya RKK Energiya, Kaliningrad, Russia
+EUTELSAT European Telecommunications Satellite Organization
+GGM      Goskogidromet (Russian Weather Service)
+GUGK     Central Agency for Geodesy and Cartography, Russia
+HCI	 Hughes Communications Inc.
+Hughes   Hughes Aircraft Corp.
+INTELSAT International Telecommunications Satellite Organization
+ISRO     Indian Space Research Organization
+Lavochkin NPO Lavochkin, Russia
+Lockheed Lockheed Space and Missile Co.
+MDAC     McDonnell Douglas Astronautics (USA)
+MMAS     Martin Marietta Astro Space, USA
+MMS      Matra Marconi Space
+MO RF    Ministry of Defense of the Russian Federation
+NASA	 United States National Aeronautics and Space Administration
+NASDA    National Space Development Agency, Japan
+NHK      Nippon Hoso Kyokai, Japan
+NOAA     United States National Oceanic and Atmospheric Administration
+NPO-M    NPO Mashinostroenie
+NPOPM    NPO Prikladnoi Mekhaniki (Krasnoyarsk, Russia)
+NRL      Naval Research Lab (Washington, DC, USA)
+NRO      National Reconnaissance Office, USA
+OHB      OHB Systemtechnik GmbH, Germany
+Optus    Optus Communications, Australia
+Orion    Orion Satellite Systems
+OSC      Orbital Sciences Corp. (VA).
+Polyot   AKO Polyot, Omsk, Russia
+PRC	 Chinese Ministry of Astronautics
+Rimsat   Rimsat Corp, USA.
+RKA	 Russian Space Agency (Moskva, Russia)
+Rockwell Rockwell International, USA
+SES      Societe Europeene des Satellites, Luxembourg
+Shinaw.  Shinawatra Corp. (Bangkok, Thailand)
+SII      Space Industries Inc., Texas, USA
+SpecAst  Spectrum Astro Inc.
+SS/Loral Space Systems/Loral, USA
+SVEC     Space Vacuum Epitaxy Center, Houston, Texas, USA
+TdM      Telecommunicaciones de Mexico
+TsSKB    Central Specialized Design Bureau (Samara, Russia)
+TRW      TRW Corp., USA
+TUB      Technische Universitat Berlin (Berlin, Germany)
+USAF	 United States Air Force
+USN      United States Navy
+VNII-EM  VNII Elektromekhaniki (Russia)
+Yuzhnoe  NPO Yuzhnoe, Dnepropetrovsk, Ukraine
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

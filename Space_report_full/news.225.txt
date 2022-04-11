@@ -1,0 +1,134 @@
+Jonathan's Space Report 
+No. 225               1994 Dec 27           Cambridge, MA
+--------------------------------------------------------------------------------
+
+Mir
+---
+
+On Dec 26 the Mir complex was in a 390 x 393 km x 51.6 deg orbit.
+The EO-17 crew of Viktorenko, Kondakova and Polyakov continue
+their mission.
+
+Shuttle
+-------
+
+1995 will see Phase I of ISSA (International Space Station Alpha):
+the joint flights of Shuttle and Mir. The first few Shuttle/Mir flights are:
+  STS-63 (Feb):  Adapter, Transition, Spacehab, Spartan    (Rendezvous only)
+  STS-71 (May):  Adapter, Tunnel, Docking Assembly, Spacelab Long Module
+  STS-74 (Oct):  Adapter?, Docking Assembly, ?
+  STS-76 ('96):  Adapter?, Transition, Spacehab.
+Later flights will see docking missions involving Spacehab
+modules instead of Spacelab. I'm a little confused about the
+exact configuration of the hardware in the payload bay for 
+STS-74 and later Mir docking flights, so if anyone has a good description,
+please pass it on! My *impression* from what little I have read is that
+the APDA (Androgynous Peripheral Docking Assembly) will be mounted on
+the Spacelab Tunnel Adapter for STS-71, but on STS-74 it will be left on
+the Kristall module at Mir and later flights will just carry the
+Spacelab Tunnel Adapter, which will dock directly to the APDA on
+Kristall.  Clarification will hopefully be forthcoming.
+
+Errata
+-------
+
+Ta to Russell Eberst for pointing out that the RAF test base should be
+spelt Boscombe Down. Thanks also to Mark Matossian for catching another
+slip - the 63.4 degree critical inclination I discussed in the piece on
+Molniya stops the advance of perigee around the orbit, not the
+longitudinal precession of the orbital plane as I loosely implied.
+
+New Launches
+------------
+
+A new launch vehicle, the Rokot, made its debut on Dec 26. The first two
+stages of Rokot are the RS-18 ICBM (known in the West as the SS-19, and
+developed from the Chelomei bureau's original UR-100 missile). Rokot
+carries a new Briz third stage, which entered orbit with the RS-15
+amateur radio satellite. The 1-m diameter, 70 kg payload uses a similar
+bus to the RS-3 to RS-8 satellites, and ended up in a 1884 x 2165 km x
+64.8 deg orbit. Two suborbital tests of Rokot were carried out on 1990 
+Nov 20 and 1991 Dec 20. 1994 saw the first successful  launch of four
+new launch vehicles: Japan's H-II, the US Taurus, India's PSLV and
+Russia's Rokot, and several upgraded ones: the US Titan 4 Centaur, 
+China's Chang Zheng-3A, and the US Pegasus XL (which failed).
+
+Martin Marietta's Titan 4 number K-14 was launched from pad 40 at Cape
+Canaveral on Dec 22. The vehicle was a Titan 402 model with an Inertial
+Upper Stage (IUS), and placed a TRW Defense Support Program satellite
+into geostationary orbit. DSP F17 carries a wide field infrared
+telescope to provide real-time warning of missile launches. It is the
+fourth advanced DSP to be launched; two others went up on Titan and
+another on the Shuttle. The Titan 4 places the DSP/IUS in low parking
+orbit; the SRM-1 IUS first stage goes to geostationary  transfer orbit;
+and finally the SRM-2 fires to place itself and the DSP in
+near-synchronous orbit, eliminating the need for an internal apogee
+engine. This was the 4th Titan 4 mission this year, and the 11th
+since 1989; one launch in 1993 was a failure.
+
+(Thanks to Lt. Archer of Patrick AFB Public Affairs for the
+Titan serial number. Serial number F17 of the DSP is conjectural;
+the last three were F14, 15 and 16.)
+
+Six small communications satellites were launched by a Ukranian-built
+Tsiklon-3 launch vehicle on Dec 26 into 1400 x 1415 km x 82.5 deg
+orbits. Kosmos-2299 to Kosmos-2304 will supplement the Russian Defense
+Ministry's store-dump comsat network. 
+
+--------------------------------------------------------------------------------
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Nov 24 0916     Kosmos-2297     Zenit-2         Baykonur LC45   SIGINT      77A
+Nov 29 0254     Geo-IK          Tsiklon-3       Plesetsk LC32   Geodetic    78A
+Nov 29 1021     Orion 1         Atlas IIA       Canaveral LC36A Comsat      79A
+Nov 29 1702     DFH-3           Chang Zheng 3A  Xichang         Comsat      80A
+Dec  1 2255     Panamsat K2     Ariane 42P      Kourou ELA2     Comsat      FTO
+Dec 14 1421     Molniya-1T      Molniya-M       Plesetsk LC43   Comsat      81A
+Dec 16 1200     Luch            Proton-K/DM-2   Baykonur LC81   Comsat      82A
+Dec 20 0511     Kosmos-2298     Kosmos-3M       Plesetsk LC132  Comsat      83A
+Dec 22 2219     DSP F17         Titan 4/IUS     Canaveral LC40  Early Warn  84A
+Dec 26 0300     RS-15           Rokot           Baykonur        Comsat      85A
+Dec 26 2227?    Kosmos-2299 )   Tsiklon-3       Plesetsk LC32   Comsat      86A
+                Kosmos-2300 )                                   Comsat      86B
+                Kosmos-2301 )                                   Comsat      86C
+                Kosmos-2302 )                                   Comsat      86D
+                Kosmos-2303 )                                   Comsat      86E
+                Kosmos-2304 )                                   Comsat      86F
+
+Reentries
+---------
+
+Nov 14          Atlantis        Landed at Edwards AFB
+Dec  9          Kosmos-2238     Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-63  Feb 2
+OV-104 Atlantis        OPF Bay 3     STS-71  May
+OV-105 Endeavour       OPF Bay 1     STS-67  Mar 2
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-42/ET-68          VAB Bay 3 STS-63                       
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/                      
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

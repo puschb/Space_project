@@ -1,0 +1,232 @@
+Jonathan's Space Report 
+No. 753                                                      2018 Sep 19  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 56 continues with astronauts Feustel, Artem'ev, Arnold, Prokop'ev,
+Aunon-Chancellor and Gerst.
+
+The Progress MS-08 cargo ship undocked from the Zvezda module at 0216 UTC on Aug 23.
+It carried out experiments independently for a week. At about 0530 UTC Aug 23
+it lowered its orbit to 346 x 402 km; it was deorbited over the South Pacific 
+at 0207 UTC Aug 30.
+
+On Aug 28 the Canadarm-2/Dextre robot arms moved the DESIS atmospheric
+research instrument from the Kibo airlock and installed it on the MUSES
+Earth-observing platform on the JEM Exposed Facility. DESIS was launched
+on Dragon CRS-15.
+
+At 2300 UTC Aug 29 a drop in ISS air pressure was detected. By 1400 UTC
+Aug 30 the crew had located the leak coming from a hole in the BO
+(`orbital module') of the Soyuz MS-09 ferry ship. The 2mm hole was
+hidden behind a panel in the module. Photos of the hole suggest that it
+is not an orbital debris strike - it appears to have been drilled into
+the BO's pressure shell. Presumably the hole was drilled during
+manufacture, either in error or to hold an internal or external fixture
+that has since come free. In this hypothesis the hole may have been
+plugged with something that prevented the leak appearing after launch on
+June 6, but that something since came free creating a leak path to the
+outside. (These ideas are based on discussion on nasaspaceflight.com
+and elsewhere; we'll have to wait for an official analysis from
+Roskosmos - probably months from now - to get the full story.) By 1630
+UTC the Russian crew had plugged the leak with sealant and Kapton tape.
+
+On Sep 6 at 0050 UTC the Zvezda module fired its engines to reboost
+the station's orbit slightly, increasing its velocity by 0.2m/s.
+
+On Sep 6 to Sep 14 the Japanese HDTV-EF2 camera, launched on HTV-6 and
+installed in Feb 2017, was removed from the Exposed Facility and swapped
+out with a new HDTV-EF2. Unfortunately the  replacement package did not
+activate correctly. I don't know which cargo mission brought up the new
+HDTV-EF2 - let me know if you do.
+
+
+Aeolus
+------
+
+The European Space Agency's Aeolus satellite was launched to
+sun-synchronous orbit by Vega flight VV12 on Aug 22. Aeolus carries an
+1-metre telescope with an ultraviolet laser radar (lidar) to study wind
+velocities at different altitudes in the atmosphere.
+
+Beidou 35/36
+------------
+
+China launched two more Beidou-3 navigation satellites on Aug 24. The
+satellites, built by the Shanghai microsatellite center, are vehicles
+M11 and M12 for medium Earth orbit.
+
+HY-1C
+-----
+
+HY-1C, launched by China on Sep 7, is an oceanographic satellite. It
+carries an ocean color imager, a multispectral imager for study of
+coastal zones, an ultraviolet imager, and a ship-tracking AIS payload.
+
+Telstar 18 Vantage
+------------------
+
+Telesat Canada has another massive (7070 kg launch mass) C/Ku-band
+Maxar/SSL-1300 communications satellite in orbit: Telstar 18 Vantage.
+Much of the mass is propellant which will be used to reach GEO following
+is launch to an 18000 km apogee subsynchronous transfer orbit by a Block
+5 Falcon 9, repeating the mission profile of Telstar 19 Vantage in July.
+
+APT (Asia Pacific Telecom) has leased some of the capacity on the
+satellite, and refers to the satellite as Apstar 5C. Since APT doesn't
+actually own the satellite, I regard this as a marketing name only.
+
+The Falcon 9 first stage, B1049, landed safely on the droneship 'Of
+Course I Still Love You'. The second stage remains in transfer orbit.
+Telstar 18V made its first apogee raising burn at 0800 UTC Sep 11, to
+292 x 20475 km x 27 deg. By Sep 18 the orbit was 12083 x 35752 km x 7.3 deg.
+
+ICESAT-2
+--------
+
+NASA-Goddard's long-delayed ICESAT-2 was launched in September aboard
+the final Delta 2 rocket, flight Delta 381. ICESAT-2 carries the ATLAS
+instrument, a visible-light laser with a 0.8m aperture telescope. The
+spacecraft is an Orbital (now Northrop Grumman) Leostar-3. ICESAT-2 wll
+measure the thickness of the polar ice sheets.
+
+The Delta second stage delivered ICESAT-2 to a 92 degree orbit and then
+made a small burn to change inclination to 93 degrees before ejecting
+four university-developed cubesats. ELFIN and ELFIN-STAR (or ELFIN-B)
+from UCLA are studying relativistic electrons in the radiation belts.
+DAVE (CP7) from Cal Poly is studying a new damper technology for deploying
+booms gently. A final cubesat from the University of Central Florida 
+studies surface charging; unfortunately its name, Surfsat, is identical
+to that of a small 1995 satellite which is still in orbit.
+
+The Delta 381 second stage performed a deorbit burn and impacted the 
+ocean around 1512 UTC.
+
+Delta 381 was the 724th and last launch of a rocket using a first stage
+based on the 1957-era Thor missile. 155 of these were Delta II vehicles,
+with the Extra Extended Long Tank Thor first stage - the Delta II class
+had a remarkable 99.1% launch success rate by my scoring criteria.
+
+
+Surrey Imaging Satellites
+--------------------------
+
+India launched a PSLV Core-Alone variant on Sep 16 carrying two
+commercial payloads built by Surrey Satellite Technology. NovaSar-S is a
+445 kg experimental imaging radar satellite; it carries a 3m x 1m S-band
+(3 GHz) radar and a xenon ion propulsion system. The S1-4 satellite uses
+the same design as the earlier DMC3 imaging constellation and will
+supplement it; they operate in almost the same orbital plane. The data
+from the constellation is used by the Beijing-based company 21AT.
+
+
+RemoveDebris
+------------
+
+It's been a busy time at Surrey Satellite and Surrey Space. Surrey's
+RemoveDebris satellite began active operations in September. On Sep 16
+at 2306 UTC the satellite ejected a 2U cubesat, DebrisSat-1.
+RemoveDebris then fired a net at the tumbling satellite; the net wrapped
+around DebrisSat, increasing its drag coefficient - which will
+accelerate its reentry.
+
+
+Kosmos-2519/2521/2523: Addendum
+---------------------
+
+I forgot to include in last issue's analysis the total manuever
+capability demonstrated by the three satellites:
+
+ Kosmos-2519  125 m/s
+ Kosmos-2521  204 m/s
+ Kosmos-2523   27 m/s
+
+I should also have noted that Phillip Clark has presented his own
+excellent analysis of the mission in an article in Spaceflight magazine
+(vol 60, p 30, June 2018) and I understand that a sequel is in the
+works.   
+
+
+Helios Wire
+------------
+
+Two Astro Digital-built 6U cubesats lost in the Nov 2017 Soyuz launch
+failure referred to in JSR 743 as Corvus BC 3 and 4 were actually Corvus
+BC-C and Helios Wire BIU. Helios Wire BIU was a payload intended for
+Vancouver-based Helios Wire, which plans to deploy a constellation of
+data relay satellites.
+
+Hayabusa-2
+----------
+
+Hayabusa-2 made its first `touchdown rehearsal', TD1-R1 on Sep 11-12,
+approaching the asteroid to within 0.6 km before retreating, rather than
+the planned 0.04 km. Release of the MINERVA-II-1 lander was planned for
+Sep 21, but I'm guessing this will be delayed while the team work out
+how to operate more reliably close to Ryugu's surface.
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Aug  7 0518   Merah Putih             Falcon 9 FT       Canaveral SLC40  Comms        64A   S43587   182 x 29470 x 27.0
+Aug 10 0945   Bhutan-1  )                            ISS, LEO            Tech      9867PD   S43590   398 x   409 x 51.6
+              UiTMSAT-1 )                                                Tech      9867PC   S43589   398 x   409 x 51.6
+              Maya-1    )                                                Tech      9867PE   S43591   398 x   409 x 51.6
+Aug 12 0731   Parker Solar Probe      Delta 4H/Star48BV Canaveral SLC37B Astron       65A   S43592   617 x-18602 x 33.0
+Aug 15 1643   Tanyusha-YuZGU-3                       ISS, LEO            Tech      9867PF   S43595?  402 x   406 x 51.6
+Aug 15 1645   Tanyusha-YuZGU-4                       ISS, LEO            Tech      9867PG   S43596?  401 x   408 x 51.6
+Aug 15 1651   SiriusSat-1                            ISS, LEO            Tech      9867PH   S43597?  402 x   407 x 51.6
+Aug 15 1656   SiriusSat-2                            ISS, LEO            Tech      9867PJ   S43598?  401 x   408 x 51.6
+Aug 22 2120   Aeolus                  Vega              CSG ELV          Sci          66A   S43600   316 x   318 x 96.7 0600LT SSO
+Aug 24 2352   Beidou 35 )             Chang Zheng 3B/YZ1 Xichang         Navigation   67A   S43602 21540 x 22197 x 55.0
+              Beidou 36 )                                                Navigation   67B   S43603 21518 x 21537 x 55.0
+Sep  7 0315   Haiyang 1C              Chang Zheng 2C     Taiyuan         Rem.Sensing  68A   S43609   770 x   786 x 98.6 1020LT SSO
+Sep 10 0445   Telstar 18V             Falcon 9 FT        Canaveral SLC40 Comms        69A   S43611   250 x 18094 x 27.0
+Sep 15 1302   ICESAT-2 )              Delta 7420-10      Vandenberg SLC2W Rem.Sensing 70A   S43613   459 x   464 x 92.0
+              ELFIN    )                                                 Sci          70B?  S43614   448 x   467 x 93.0
+              ELFIN-B  )                                                 Sci          70C?  S43615   448 x   467 x 93.0
+              DAVE     )                                                 Tech         70D?  S43616   447 x   468 x 93.0
+              SurfSat  )                                                 Tech         70E?  S43617   448 x   467 x 93.0 
+Sep 16 1638   NovaSAR-S )             PSLV-CA            Sriharikota FLP Imaging      71A   S43619   574 x   592 x 97.8 2215LT SSO
+              SSTL S1-4 )                                                Imaging      71B   S43620   574 x   619 x 97.7 2215LT SSO
+Sep 16 2306   DebrisSat-1                               RemDeb, LEO      Tech        9867PM S43621   400 x   404 x 51.7
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The suborbital launches table includes known flights above 80 km.
+The Chinese private company iSpace flew a modified short range missile to about 100 km on Sep 5,
+releasing three 1U cubesats on its suborbital trajectory. Despite being `cubesats' by design,
+they are not `satellites' since they did not, and were not intended to, reach orbit.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jul 18 1511   New Shepard CC2.0 New Shepard        West Texas            Abort test    119       West Texas
+Jul 23 0600   MICRO-X           Black Brant 9      White Sands           XR Astron     270       White Sands      
+Jul 31 1138   GT225GM           Minuteman 3        Vandenberg            Test          200?      Destroyed, fell in Pacific
+Aug 14 1013   Rocksat-X 8       Terrier Imp.Mal.   Wallops Island        Education     158       Atlantic Ocean
+Sep  5 0500   Hyperbola-1Z      Shuang Quxian 1Z   Jiuquan               Test          108       Jiuquan
+              TFJR-1  )
+              CDGX-1  )
+              EREBUS  )
+Sep  7 1721   FOXSI             Black Brant 9      White Sands           Solar XR      304       White Sands
+Sep 12 0837   JFTM-05 Target    ?                  Kauai                 Target        150?      Pacific
+Sep 12 0840?  JFTM-05           SM-3-IB          JS Atago, Pacific       Interceptor   150?      Intercept
+Sep 12 1433   ADEPT             SpaceLoft XL       Spaceport America     Tech          114       Spaceport America, NM
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

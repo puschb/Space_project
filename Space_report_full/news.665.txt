@@ -1,0 +1,152 @@
+Jonathan's Space Report
+No. 665                                          2012 Aug 21  Somerville, MA USA
+----------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+On the ISS, Expedition 32 continues with astronauts Gennadiy Padalka, Sergey
+Revin, Joseph Acaba, Yuriy Malenchenko, Sunita Willams and Akihiko Hoshide.
+
+Japan's HTV-3 External Pallet (EP) was attached to Kibo's Exposed Facility
+(EF) on Aug 6. On Aug 7 the Canadian SSRMS/Dextre robotics system was used to
+move NASA's SCaN Testbed payload from the EP to the ELC-3 pallet on the
+truss. On Aug 9 the Japanese JEM-RMS robot arm was used to move the MCE package from
+the EP to slot 8 in the EF. Finally, on Aug 10, the JEM and SSRMS arms were used
+to move the empty EP back into the HTV cargo ship; it will be destroyed on reentry
+after HTV undocks.
+
+The old Progress M-15M cargo vehicle, after three weeks of independent
+flight involving Radar-Progress experiments using thruster burns to
+study the ionosphere, was deorbited over the Pacific on Aug 20.
+
+On Aug 20 astronauts Padalka and Malencheko carried out spacewalk VKD-31
+from the Pirs module using spacesuits Orlan-MK No. 5 and 6. At 1829 UTC
+they ejected the Sfera-53 passive air density calibration satellite into
+a 401 x 406 km x 51.6  deg orbit using a special handling device
+delivered aboard Progress M-15M. According to Andrey Krasil'nikov,
+Sfera-53 was launched on Progress M-16M, and has a mass of 8.0 kg and a
+diameter of 0.53m. 
+
+The Pirs airlock was depressurized at about 1518 UTC and its hatch was
+opened at 1537 UTC. The astronauts transferred the GsTM-2 crane from
+Pirs to Zarya. It and then GsTM-1 crane moved in February will therefore
+remain available after the old Pirs module, launched in 2001, is
+eventually discarded. Next, the crew installed five more space debris
+shields on Zvezda. The DPP debris shields were delivered in two bundles,
+packets 5 and 6, on Progress M-14M in January. The astronauts also
+retrieved a Biorisk experiment canister but were unable to pack up an
+SKK exposure cassette. The hatch was closed at 2128 UTC and the Pirs
+airlock was repressurized at 2133 UTC, for a duration of 5h 51m (hatch
+opened) or 6h15m (depressurized).
+
+The 28 Zvezda space debris shields were delivered in six bundles, as follows:
+
+  Bundle  Panels Launch              Stored outside ISS: EVA   Installed    EVA
+  1       1-6    2002 Jun  5 STS-111 2002 Jun  9, PMA-1 111/1  2002 Aug 16  VKD-7
+  2       7-12   2006 Dec 10 STS-116 2006 Dec 16, PMA-3 116/3  
+                                     2007 May 30, Zvez. VKD-18 2007 Jun  6  VKD-19
+  3       13-18  2006 Dec 10 STS-116 2006 Dec 16, PMA-3 116/3  
+                                     2007 May 30, Zvez. VKD-18 2007 Jun  6  VKD-19
+  4       19-23  2006 Dec 10 STS-116 2006 Dec 16, PMA-3 116/3  2007 May 30  VKD-18
+  5       24-26  2012 Jan 25 M-14M   -                         2012 Aug 20  VKD-31
+  6       27-28  2012 Jan 25 M-14M   -                         2012 Aug 20  VKD-31
+
+ For example, Bundles 2 and 3 were stored outside ISS on the PMA-3 adapter from 2006
+ Dec 16 to 2007 May 30, then moved to another storage position on Zvezda, then finally
+ installed on 2007 Jun 6 - thus featuring in three separate spacewalks.
+
+
+Mars and Vesta
+--------------
+
+Updated timeline data for MSL's entry: Entry Aug 6 0510:46 UTC (as
+expected); Parachute deploy 0515:05; heatshield sep 0515:25; landing
+0517:57. Backshell sep was reported as 95 sec after heatshield sep.
+
+Departure of the Dawn probe from Vesta is underway, after a brief
+delay thanks to a problematic reaction wheel. Dawn is expected
+to escape (4) Vesta and enter solar orbit on Sep 5, en route to (1) Ceres.
+
+
+IS-21
+-----
+
+Energia Logistics Ltd. (US) carried out the launch of a Zenit-3SL rocket from
+the Sea Launch Odyssey platform in the Pacific. The Blok DM-SL No. 34 stage
+made a single burn to a 255 x 35583 km x 0.1 deg geostationary transfer orbit,
+delivering a Boeing 702MP communications satellite. The Intelsat IS-21 satellite
+will replace IS-9 and provide western hemisphere coverage.
+
+
+Suborbital launches
+--------------------
+
+India's DRDO made two test launches of Agni missiles from Chandipur into the
+Bay of Bengal in July and August. The Agni is based on the old SLV-3 satellite
+launch vehicle; the first stage has now made 30 launches since 1979.
+
+2012 Orbital launch summary to date
+-----------------------------------
+
+46 launches, including one fail-to-orbit (N Korea) and one fail-in-orbit (Russia):
+
+Russia China USA  Europe Japan India Iran N Korea
+  16    11   9     5      2     1     1    1
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  5 2136   Echostar 17  )     Ariane 5ECA       Kourou ELA3       Comms     35A
+              Meteosat 10  )                                         Weather   35B
+Jul  9 1838   SES-5              Proton-M/Briz-M   Baykonur LC81/24  Comms     36A
+Jul 15 0240   Soyuz TMA-05M      Soyuz-FG          Baykonur LC1/5    Spaceship 37A
+Jul 21 0206   Kounotori 3        H-IIB             Tanegashima LP2   Cargo     38A
+Jul 22 0641   Kanopus-V )                                            Imaging   39
+              BelKA-2   )        Soyuz-FG/Fregat   Baykonur LC31/6   Imaging   39
+              TET-1     )                                            Tech      39D
+              exactView-1)                                           Comms/AIS 39C
+              MKA-PN1    )                                           Science   39E
+Jul 25 1543   Tianlian-1 (03)    Chang Zheng 3C    Xichang           Comms     40A
+Jul 28 0135   Gonets-M No. 13)   Rokot             Plesetsk LC133    Comms     41B
+              Gonets-M No. 15)                                       Comms     41D
+              Kosmos-2481 )                                          Comms     41A
+              MiR         )                                          Sci       41C
+Aug  1 1935   Progress M-16M     Soyuz-U           Baykonur LC1      Cargo     42A
+Aug  2 2054   Intelsat IS-20 )   Ariane 5ECA       Kourou ELA3       Comms     43A
+              Hylas 2        )                                       Comms     43B
+Aug  6 1931   Telkom-3    )      Proton-M/Briz-M   Baykonur LC81/24  Comms     44A
+              Ekspress MD2)                                          Comms     44B
+Aug 19 0655   Intelsat IS-21     Zenit-3SL         SL Odyssey, Pacific Comms   45A
+Aug 20 1829   Sfera-53           -                 ISS, LEO          Sci       98-067CM
+           
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Jul  3        Shahab RV        Shahab 1           ?, Iran             Exercise     100?
+Jul  3        Shahab RV        Shahab 2           ?, Iran             Exercise     100?
+Jul  3        Shahab RV        Shahab 3           ?, Iran             Exercise     150?
+Jul  5 1850   NASA 36.284NS    Black Brant 9      White Sands         Solar        275?
+Jul 11 1850   NASA 36.272NS    Black Brant 9      White Sands         Solar        268
+Jul 13 0436   Agni RV          Agni I             Chandipur           Test         200?
+Jul 23 1101   NASA 39.011NR    Black Brant 11     Wallops             Reentry test 458
+Jul 24 1917   NASA 36.263US    Black Brant 9      White Sands         Solar        324
+Aug  7 0730   S-310-41         S-310              Uchinoura           Reentry test 150
+Aug  9 0316   Agni RV          Agni II            Chandipur           Test         220?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

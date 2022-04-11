@@ -1,0 +1,180 @@
+Jonathan's Space Report
+No. 399                                        1999 May 24  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Human spaceflight
+-------------------
+
+NASA is preparing to launch mission STS-96 to the International Space
+Station on May 27. Orbiter OV-103 Discovery will be crewed by  commander
+Kent Rominger (Cdr. USN), pilot Rick Husband (Lt-Col USAF), and mission
+specialists Dr. Tamara Jernigan, Dr Ellen Ochoa and Dr. Daniel Barry of
+NASA, Julie Payette of the Canadian Space Agency, and Valeriy Tokarev
+(Col. VVS) of the Russian Air Force.
+
+Discovery will dock with PMA-2 at one end of the PMA-2/Unity/PMA-1/Zarya
+stack. The crew will transfer equipment from the Spacehab Logistics
+Double Module in the payload bay to the interior of the station. Tammy
+Jernigan and Dan Barry will make a spacewalk to transfer equipment from
+the payload bay to the exterior of the station. The ODS/EAL
+docking/airlock truss carries two TSA (Tool Stowage Assembly) packets
+with spacewalk tools. The Integrated Cargo Carrier (ICC), built by
+Energiya and DASA-Bremen, carries parts of the Strela crane and the US
+OTD crane as well as the SHOSS box which contains three bags of tools
+and equipment to be stored on ISS's exterior (my statement in JSR 394
+that the SHOSS unit was a refrigerator was a confusion with another
+device being built by the SHOSS group for ISS).  
+
+The STS-96 payload bay manifest (repeated from JSR 393) is:
+Bay 1-2:     Orbiter Docking System/External Airlock
+Bay 3-4:     Tunnel Adapter S/N 001
+Bay 5-7:     Spacehab Tunnel
+Bay 5:       Keel Yoke Device (KYD) and
+             Integrated Cargo Carrier (ICC)
+Bay 8-12:    Spacehab Logistics Double Module
+Bay 13 Port: Adapter Beam (ABA) with IVHM
+Bay 13 Stbd: Adapter Beam (ABA) with SVF/Starshine
+Sill:        RMS Arm S/N 303
+
+The STS-96 stack, on mobile launcher 2, has been rolled back out to pad
+39B, and the hail damage to the external tank has been repaired. The
+STS-93 stack is back in VAB high bay 1 on mobile launcher 1, and the
+STS-99 stack is being assembled in high bay 3 on mobile launcher 3.
+
+Viktor Afanas'ev, Sergey Avdeev and Jean-Pierre Haignere remain on board
+the Mir complex. The Soyuz TM-29 transport craft and the Progress M-41
+cargo ship are docked to the complex.
+
+
+Recent Launches
+---------------
+
+A classified NRO satellite was launched on May 22 by Lockheed Martin
+Titan 4B flight B-12 from Vandenberg's Space Launch Complex 4-East. This
+is the first successful Titan launch in 4 attempts (although the last
+two failures were upper stage problems, and this flight didn't have an
+upper stage). The payload had been reported to be a radar imaging recon
+satellite built by Lockheed Martin/Denver and previously codenamed
+LACROSSE. However apparently the short 50' fairing was used instead of
+the 66 foor fairing used by LACROSSE. Florida Today reports the 50' 
+fairing hasn't been used before, but my notes indicate it was used for
+an imaging Improved CRYSTAL satellite launched in Nov 1992 - can anyone
+confirm or refute? If the launch was to a 66 deg or 57 deg orbit, the
+payload was probably related to the ocean surveillance triplets, but if
+the launch was to a 97 degree orbit then the payload was most likely an
+Improved CRYSTAL derivative.
+
+The Terriers and MUBLCOM satellites were launched on May 18 by an
+Orbital Sciences Corp. Pegasus XL/HAPS vehicle. The L-1011 Stargazer
+aircraft took off from Vandenberg's runway 30/12 at 0412 UTC on May 18
+and headed to the drop box over the Pacific at 36.0N 123.0W. Stargazer
+dropped the Pegasus at 0509 UTC and the first stage solid motor ignited
+five seconds later. At 0518 UTC the third stage motor (cataloged as
+1998-26C) burned out and separated, leaving the payload stack in a 405 x
+548 km x 97.7 deg orbit. The PRIMEX HAPS-Lite stage then made the first
+burn of its hydrazine engine and entered a 540 x 553 km x 97.7 deg
+orbit. The box-shaped Terriers satellite was deployed at 0520 UTC. A
+minute later the conical Payload Adapter Fitting (1998-26E) was jettisoned,
+leaving the disk-shaped MUBLCOM satellite attached to HAPS. The second
+HAPS burn at 0522 UTC raised apogee to 775 km, followed by a third,
+apogee burn at 0610 UTC which circularized the orbit. MUBLCOM was
+deployed to a 769 x 776 km x 97.7 deg orbit. The final HAPS burn then
+placed the depleted HAPS stage (1998-26D) in a lower 388 x 722 km x 97.1
+deg disposal orbit.
+
+TERRIERS is part of NASA's Student Explorer Demonstration Initiative
+(STEDI), which was a precursor program to the UNEX (University Explorer)
+series now in preparation. STEDI was managed by USRA (the Universities
+Space Research Association) for NASA, while UNEX will be more directly
+managed by NASA-GSFC. TERRIERS will be operated by the space physics
+group at Boston University for ionospheric studies, and carries TESS, a
+set of extreme ultraviolet (EUV) spectrographs to get electron density
+and thermospheric emission profiles. The GISSMO instrument will measure
+the solar EUV flux. The spacecraft was built by AeroAstro and based on
+HETE.
+
+TERRIERS was placed in the correct orbit, but it failed to orient its
+solar panel to the Sun and ran out of battery power by May 20.
+Controllers are optimistic that when its orbit precesses to a better sun
+angle the satellite will revive and the mission can continue.
+
+MUBLCOM (Multiple beam Beyond Line-of-sight Communications) is an
+experimental satellite funded by DARPA and managed by the US Army's
+Communications-Electronics Command (CECOM) at Ft Monmouth, New Jersey.
+It was built by Orbital using the Microstar (Orbcomm type) bus and
+carries a payload testing hand-held radio satellite communications for
+the armed forces.
+
+Telesat Canada's Nimiq television broadcasting satellite was launched by
+an International Launch Services Proton on May 21. The Krunichev
+Proton-K with an Energiya Blok DM3 upper stage placed the Lockheed
+Martin/Sunnyvale A2100-class Nimiq satellite in a 7050 x 35790 x 15.9
+deg transfer orbit. The A2100 will use its liquid apogee engine
+(probably a Royal Ordnance Leros 1) to reach geostationary orbit.
+Telesat Canada also operates the Anik Canadian domestic comsats, the
+first of which was launched in 1972.
+
+Erratum
+-------
+
+The CZ-4B rocket uses N2O4 (nitrogen tetroxide) and not LOX (liquid
+oxygen) as its oxidizer.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  2 1128   Progress M-41     Soyuz-U        Baykonur LC1     Cargo      15A
+Apr  2 2203   Insat 2E          Ariane 42P     Kourou ELA2      Comsat     16A
+Apr  9 1701   DSP F19           Titan 4/IUS    Canaveral LC41   Early Warn 17A
+Apr 12 2250   Eutelsat W3       Atlas 2AS      Canaveral LC36A  Comsat     18A
+Apr 15 0046   Globalstar M019 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     19A
+              Globalstar M042 )                                            19B
+              Globalstar M044 )                                            19C
+              Globalstar M045 )                                            19D
+Apr 15 1832   Landsat 7         Delta 7920-10  Vandenberg SLC2W Imaging    20A
+Apr 16 1030?  Sputnik-99        -              Mir, LEO         Comsat     15C
+Apr 21 0459   UoSAT-12          Dnepr          Baykonur LC109   Test       21B
+Apr 27 1822   Ikonos 1          Athena 2       Vandenberg SLC6  Imaging    F01
+Apr 28 2030   ABRIXAS  )        Kosmos-3M      Kap. Yar LC107?  Astronomy  22A
+              Megsat-0 )                                        Technol.   22B
+Apr 30 1630   Milstar-2 F1      Titan 4/Cen    Canaveral LC40   Comsat     23A
+May  5 0100   Orion 3           Delta 8930     Canaveral LC17B  Comsat     24A
+May 10 0133   Feng Yun 1C )     CZ-4B          Taiyuan          Imaging    25A
+              Shi Jian 5  )                                     Research   25B
+May 18 0509   TERRIERS    )     Pegasus XL/H   Vandenberg       Space sci  26A	
+              MUBLCOM     )                                     Comsat     26B
+May 20 2230   Nimiq 1           Proton-K/DM3   Baykonur LC81    Comsat     27A
+May 22 0936   USA 144?          Titan 4        Vandenberg SLC4E Unknown    28A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 1     STS-93  NET Jul 22
+OV-103 Discovery       LC39B         STS-96  May 27
+OV-104 Atlantis        OPF Bay 3     STS-101 Oct 14
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99             VAB Bay 1   STS-93
+MLP2/RSRM-70/ET-100/OV-103     LC39B       STS-96
+MLP3/RSRM-71?                  VAB Bay 3   STS-99
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+

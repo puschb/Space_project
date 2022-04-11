@@ -1,0 +1,205 @@
+
+Jonathan's Space Report
+
+No. 448                                            2001 Mar  4, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Atlantis landed at Edwards AFB on Feb 20, completing mission STS-98.
+Plans to land on Feb 18 and Feb 19 were called off due to bad weather at
+Kennedy Space Center. The deorbit burn was at 1927 UTC and lowered the
+orbit from 370 x 386 km to about 50 x 380 km. The nominal entry
+interface at 122 km came at 2002 UTC and touchdown on runway 22 was at
+2033 UTC. On Mar 1 Atlantis was flown on the back of NASA's SCA 911
+carrier aircraft to Altus AFB, Oklahoma and will be returned to KSC when
+the weather clears. Meanwhile, in nearby Palmdale, Columbia has
+completed its maintenance period and began its journey back to KSC on
+NASA SCA 905 half an hour earlier, landing at Dyess AFB, Abilene, Texas.
+There are two converted Boeing 747 Shuttle Carrier Aircraft, but it's
+been a while since both have been needed at the same time and this is
+the first time that both have been in the air carrying an Orbiter
+simultaneously.
+
+Soyuz TM-31, carrying the Expedition One crew of Shepherd, Gidzenko and
+Krikalyov, undocked from the -Y port on Zvezda on Feb 24 at 1006 UTC
+and redocked with the -Z port on Zarya at 1037 UTC. This freed the Zvezda
+port for a Progress resupply ship.
+
+Progress No. 244 was launched on Feb 26 and named Progress M-44 once on
+orbit. Launch vehicle was a Soyuz 11A511U, which took off from GIK-5
+(Baykonur). Progress M-44 docked with the -Y port on Zvezda at 0950 UTC
+on Feb 28.
+
+
+The next Shuttle launch is STS-102, which will carry the Leonardo Multi
+Purpose Logistics Module (MPLM), built by Alenia Spazio (Torino).
+The MPLM is a descendant of the Spacelab long modules. Also carried is a
+Spacehab/Energia unpressurized Integrated Cargo Carrier with
+LCA/MTSAS-A, RU, and PFCS (An ammonia servicing system has reportedly
+been omitted from the cargo). A sidewall adapter beam with two
+GAS canisters (G-783 and WSVFM) is also on board. WSVFM measures
+vibration during launch. Another adapter beam, probably at
+the rear of the payload bay, carries SEM-9. SEM-9 and G-783
+contain high school microgravity experiments.
+
+I'm guessing that the ICC is probably in Bay 5 with the MPLM behind it
+in Bay 8-12, and SEM-9 the adapter beam in bay 13, but NASA does not
+seem to have released any photos or diagrams of the overall STS-102
+cargo bay. The robot arm carried on Discovery is RMS 301, according to
+Bill Harwood's info on the spaceflightnow.com site.
+
+Discovery will dock at PMA-2 on Destiny. The LCA (Lab Cradle Assembly,
+apparently the same thing as MTSAS-A, Module Truss Structure Attachment
+System) will be attached to Destiny's +Z side during an EVA. It will be
+used on the next mission to temporarily place a Spacelab pallet on
+Destiny during installation of the Station's robot arm. Later, it
+will be the site for the main Station truss, beginning with segment S0.
+
+The PMA-3, currently on Unity at the -Z nadir position, will be moved to
+the port position to make room for Leonardo. An external stowage
+platform will be attached to Destiny and the External Stowage Platform
+and the  PFCS Pump Flow Control System will be added to the port aft
+trunnion on Destiny. A rigid umbilical (RU) will be connected to the
+PDGF grapple fixture on Destiny to support the Station's future robot
+arm. Leonardo will be docked to Unity at -Z for a while so that its
+cargo can be transferred to the station easily; it will then be returned
+to the payload bay and brought back down.
+
+  STS-102 cargo: The JSR guess
+                                               Est. Mass (kg)
+Bay 1-2:     Orbiter Docking System                     1800
+             and External Airlock
+             3 EMU spacesuits (S/N unknown)              360?
+Bay 4 Port?: Adapter Beam with                           218?
+              WSVFM and G-782
+Bay 5?:      Integrated Cargo Carrier (ICC)             1282
+	     with LCA  (Lab Cradle Assembly)              83
+                  (MTSAS-A)                                
+                  ESP (External Stowage Plat.)+
+                  PFCS (Pump Flow Control System)        210
+                  RU (Rigid Umbilical)                    28
+Bay 8-12?:   Leonardo Module (MPLM-1)                   4760
+             MPLM racks and cargo                       5362
+Bay 13S?     Adapter Beam with SEM-09                    100?
+Unknown      Adapter Beam with                           100?
+             Assembly Power Converter Units?
+Sill:        Canadarm RMS 301                            410
+                                                      ------
+                      Total payload bay cargo          14713 kg
+
+
+Leonardo carries 16 'racks' of equipment, including  the Human Research
+Facility Rack (Rack 13) which will allow the astronauts to do extensive
+medical experiments, the CHeCS Rack (28), the DDCU-1 and DDCU-2 racks (7
+and 9), the Avionics-3 (Rack 6), and the MSS Avionics/Lab (Rack 11) and
+Avionics/Cupola (Rack 12) racks for a total of 7 equipment racks to be
+installed on Destiny. Three Resupply Stowage Racks (50, 51, 52) and four
+Resupply Stowage Platforms (180, 181, 182 and 188) will remain installed
+on Leonardo, with their equipment bags being individually transferred to
+the Station. System Racks 2, 3, 4, 5 and 8 are already on Destiny
+together with stowage racks 110 through 117. Each rack has a mass of
+around 150-300 kg.
+
+The STS-102 crew are Jim Wetherbee (commander), James Kelly (pilot),
+Andrew Thomas and Paul Richards (mission specialists). In addition,
+Discovery will carry the Expedition Two crew of Yuriy Usachyov,
+James Voss and Susan Helms to the Station and bring back the
+Expedition One crew.
+
+
+The International Space Station was in a 373 x 384 km x 51.6 deg
+orbit on Mar 2. The Mir complex was in a 253 x 269 km x 51.6 deg
+orbit on Mar 3, with deorbit expected within the next two weeks.
+
+Recent Launches
+---------------
+
+Sweden's Odin scientific satellite was launched on Feb 20 by a Russian
+Start-1 rocket from the 2 GIK spaceport at Svobodniy. The Start-1 is a
+modified Topol'-class ICBM. Odin carries a submillimeter wave astronomy
+instrument and  a radiometer for atmospheric studies.  The 1.1-meter
+reflector feeds 500 GHz and 119 GHz radiometers and will be used to
+study galactic molecular clouds, complementing NASA's SWAS satellite.
+
+The Odin satellite was designed and built by the Swedish Space
+Corporation (Svenska Rymdbolaget or Rymdaktiebolaget). SSC does most of
+its satellite design and construction in-house, although Saab made the
+antenna and carried out satellite final assembly. Although SSC is
+usually the public face of the Swedish space program, technically it is
+a goverment owned company and is a  contractor for the actual space
+agency, the Rymdstyrelsen (Swedish National Space Board).
+
+The four-stage solid Start-1 entered a 576 x 606 km x 97.8 deg orbit
+about 8 minutes after launch A post-boost engine attached to the fourth
+stage then raised the orbit to 610 x 621 km. I thought this was a liquid
+engine, but Sven Grahn informs me that it is actually a solid-propellant
+gas generator with multiple nozzles. A similar system was used in the
+Aeronutronic-Ford Trident upper stage used on a number of Atlas reentry
+tests in the late 1960s (and if anyone has info on *that* interesting
+and poorly documented vehicle, please get in touch!). A number of debris
+objects have been cataloged between the initial and final orbits.
+
+The Milstar DFS 4 satellite (the second Milstar Block 2) was launched on
+Feb 27. Milstar provides secure communications for the US Department of
+Defense, with UHF, EHF and SHF band transmitters. Titan 4B-41 with core
+stage K-30 took off from Cape Canaveral and placed Milstar and the
+Centaur TC-22 upper stage in a suborbital trajectory. TC-22 then ignited
+to enter a 200 km parking orbit, and after two more burns delivered
+Milstar to geosynchronous drift orbit. Small engines on board the
+Milstar will place it at its targeted geostationary position. Milstar is
+built by Lockheed Martin Missiles and Space (Sunnyvale); Titan Centaur
+is built by Lockheed Martin Astronautics (Denver).
+
+The Japanese Asuka (ASTRO D, ASCA) X-ray astronomy satellite
+reentered on Mar 2. It operated from Feb 1993 to Jul 2000
+and made observations of the hard X-ray sky with CCD imagers
+and a foil-type set of X-ray telescopes.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan  9 1700   Shenzhou 2      ) Chang Zheng 2F Jiuquan          Spaceship  01A
+              SZ-2 Orb. module)                                 Science    01C
+Jan 10 2209   Turksat 2A        Ariane 44P     Kourou ELA2      Commsat    02A
+Jan 24 0428   Progress M1-5     Soyuz-U        Baykonur LC1     Cargo      03A
+Jan 30 0755   Navstar GPS 54    Delta 7925     Canaveral SLC17A Navsat     04A
+Feb  7 2306   Sicral    )       Ariane 44L     Kourou ELA2      Commsat    05A
+              Skynet 4F )                                       Commsat    05B
+Feb  7 2313   Atlantis (STS-98))Space Shuttle  Kennedy LC39A    Spaceship  06A
+              Destiny          )                                Module     06B
+Feb 20 0848   Odin              Start-1        Svobodniy        Astronomy  07A
+Feb 26 0809   Progress M-44     Soyuz-U        Baykonur LC1     Cargo      08A
+Feb 27 2120   Milstar DFS 4     Titan Centaur  Canaveral SLC40  Commsat    09A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Dyess AFB     STS-107? Late 2001?
+OV-103 Discovery       LC39B         STS-102 2001 Mar  8  ISS 5A.1
+OV-104 Atlantis        Altus AFB     STS-98  2001 Feb  7  ISS 5A
+OV-105 Endeavour       OPF Bay 2     STS-100 2001 Apr 19  ISS 6A
+
+LC39B: Mobile Launch Platform 3 (MLP-3)
+       Solid Rocket Boosters BI-106/RSRM-78
+       External Tank ET-107
+       Orbiter OV-103 (Discovery)
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

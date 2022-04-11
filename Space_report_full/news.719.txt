@@ -1,0 +1,186 @@
+Jonathan's Space Report 
+No. 719                                                  2015 Nov 28  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+
+International Space Station
+---------------------------
+
+Expedition 45 is underway under the command of Scott Kelly, with flight
+engineers Mikhail Kornienko, Oleg Kononenko, Sergey Volkov, Kimiya Yui,
+and Kjell Lindgren. Progress M-29M carried out a reboost of the station
+on  Nov 25 (delta-V 1.9m/s, burn duration 15m33s) raising the apogee by
+6 km to an orbit of 397 x 411 km. ISS mass is 410972 kg (including
+26600 kg of visiting vehicles).
+
+WT1190F
+-------
+
+WT1190F reentered over Sri Lanka at 0618 UTC Nov 13 as predicted. The
+entry was observed by a team led by the Astronomy Center of Abu Dhabi,
+UAE, flying in a Gulfstream jet. Observers on the ground reported
+hearing a `boom' which may have been related to the entry. I remain of
+the opinion that WT1190F was probably either the LP TLI stage (A06033)
+or Nozomi's KM-V1 stage (S25388).
+
+Kosmos-2510
+------------
+
+The first EKS early warning satellite, Kosmos-2510, was launched on Nov
+18 into a Molniya orbit. The satellite, developed by Energiya and
+Kometa, replaces the defunct Lavochkin/Kometa 'Oko' system.
+
+Laosat 1
+--------
+
+China launched a CZ-3B rocket on Nov 20 carrying LaoSat-1, a
+Chinese-built DFH-3B communications satellite for Laos. LaoSat-1 is
+owned by Lao Satellite Joint Venture Co, a collab between China APMT Co.
+and the Lao National Authority for Science and Tech. LaoSat-1 was 
+cataloged as 41034 in a 189 x 41778 km x 18.4 deg geotransfer orbit.
+Onboard liquid thruster will raise orbit to GEO at 128.5 deg E
+
+Telstar 12V
+------------
+
+Telesat of Canada's Telstar 12 Vantage comms satellite launched to
+geotransfer orbit Nov 24 in the first commercial launch of Japan's H-IIA
+rocket and the first use of an uprated LOX/LH2 upper stage modified for
+a long coast to a third burn at geotransfer apogee. The stage venting
+was visible to observers in the USA. Telstar 12 Vantage replaces Telstar
+12 and provides Ku-band capacity to the Americas.
+
+Yaogan 29
+---------
+
+China launched a new Yaogan satellite on Nov 26. The orbit is very
+similar to that of the Yaogan 1, 3 and 10 satellites though to be radar
+imaging vehicles developed by the Shanghai Academy of Space Technology
+(SAST).
+
+Hayabusa-2
+----------
+
+A fleet of Japanese spacecraft is approaching the Earth after a year
+in solar orbit.
+
+The Hayabusa-2 asteroid probe has completed one orbit of the Sun and
+will make an Earth flyby on Dec 3 to boost its orbit closer to that of the
+target minor planet Ryugu. Hayabusa-2 enters the Earth's Hill sphere
+on Nov 29. The 3100 km Earth flyby will change its solar orbit
+from 0.91 x 1.09 AU to 0.95 x 1.30 AU.
+
+The DESPATCH, Shin'en-2 and PROCYON spacecraft launched with Hayabusa-2
+are also passing close to the Earth in the same timeframe, but they
+will not enter the Earth's gravitational sphere of influence.
+
+  Perigee     Date        Distance             Events
+
+  PROCYON     Dec 3        2.7 million km
+  Hayabusa-2  Dec 3 1007   3100 km             Enter Hill sphere   Nov 29 2000
+                                               Inside Moon's orbit Dec  2 1200
+                                              Outside Moon's orbit Dec  4 0800
+                                               Leave Hill sphere   Dec  7 0000
+  Shin'en-2   Dec 4 1027   5.7 million km
+  DESPATCH    Dec 4        5.8 million km
+ H2A 2nd Stage Dec ?       Unknown orbit
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Oct 16 1616   Apstar 9             Chang Zheng 3B    Xichang          Comms          59A   S40982    190 x 41767  x 27.2 
+Oct 16 2040   Turksat 4B           Proton-M/Briz-M   Baykonur         Comms          60A   S40984  35717 x 35759  x  0.0
+Oct 26 0710   Tianhui 1-03         Chang Zheng 2D    Jiuquan          Imaging        61A   S40988    490 x   500  x 97.4 1330LT SSO
+Oct 31 1613   GPS SVN 73           Atlas V 401       Canaveral SLC41  Navigation     62A   S41019  20426 x 20485 x  55.0
+Nov  3 1625   Zhongxing 2C         Chang Zheng 3B    Xichang          Comms          63A   S41021    195 x 35832 x  27.1
+Nov  4 0345   Hiakasat     )                                          Imaging        F03   F01468  -6378 x    30?x  94.7
+              Argus        )                                          Tech           F03   F01469  -6378 x    30?x  94.7
+              PrintSat     )       Super Strypi      Kauai            Tech           F03   F01470  -6378 x    30?x  94.7
+              Techsat-1    )                                          Tech           F03   F01471  -6378 x    30?x  94.7
+              STACEM       )                                          Imaging        F03   F01472  -6378 x    30?x  94.7
+              EDSN 1       )                                          Tech           F03   F01473  -6378 x    30?x  94.7
+              EDSN 2       )                                          Tech           F03   F01474  -6378 x    30?x  94.7
+              EDSN 3       )                                          Tech           F03   F01475  -6378 x    30?x  94.7
+              EDSN 4       )                                          Tech           F03   F01476  -6378 x    30?x  94.7
+              EDSN 5       )                                          Tech           F03   F01477  -6378 x    30?x  94.7
+              EDSN 6       )                                          Tech           F03   F01478  -6378 x    30?x  94.7
+              EDSN 7       )                                          Tech           F03   F01479  -6378 x    30?x  94.7
+              EDSN 8       )                                          Tech           F03   F01480  -6378 x    30?x  94.7
+Nov  8 0706   Yaogan 28           Chang Zheng 4B     Taiyuan          Imaging        64A   S41026    459 x   482 x  97.2 1414LT SSO
+Nov 10 2134   Badr 7      )       Ariane 5ECA        Kourou ELA3      Comms          65A   S41028    264 x 35717 x   4.0
+              GSAT-15     )                                           Comms          65B   S41029    259 x 35751 x   4.0
+Nov 17 0634   Kosmos-2510         Soyuz 2-1b/Fregat  Plesetsk LC43/4  Early Warn     66A   S41032   1625 x 38551 x  63.8 
+Nov 20 1607   LaoSat 1            Chang Zheng 3B     Xichang LC2      Comms          67A   S41034    189 x 41778 x  18.4 
+Nov 24 0650   Telstar 12V         H-IIA 204          Tanegashima      Comms          68A   S41036   3140 x 35637 x  19.2
+Nov 26 2124   Yaogan 29           Chang Zheng 4C     Taiyuan          Radar          69A   S41038    615 x   619 x  97.8 0430LT SSO
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The US Navy launched Trident II D-5 submarine-launched ballistic
+missiles from the submarine USS Kentucky on Nov 8 and 9. The missiles
+were launched from near San Clemente Island off the coast of California
+and flew to Kwajalein Atoll in the central Pacific. The first missile
+was launched just after local sunset and its expanding exhaust gases
+were illuminated by the sun, causing widespread UFO reports across the
+southwestern United States. The 2-dimensional projection on the sky of
+the missile's westward motion, as seen from the mostly southwest-facing
+southern California coast, fooled many observers into thinking the
+missile was flying north along the coast. California observers were also
+able to see the deployments of the MIRV reentry vehicles as the vehicle's
+final stage approached the horizon.
+
+On Oct 20 a US Navy missile defense test was carried out in the Hebrides
+Range in Scotland. The target Terrier Orion rocket launched from the
+island of South Uist was the first exoatmospheric rocket launch from UK
+territory since 1982.
+
+On Nov 9 India tested an Agni IV missile from its long range military
+missile test site near Chandipur. The IC4 complex is on Inner Wheeler
+Island, which has recently been renamed Abdul Kalam Island after Indian
+missile/space developer and former President Abdul Kalam (1931-2015).
+
+Blue Origin's New Shepard vehicle carried its prototype crew capsule to
+100.5 km altitude, the booster reaching 100.4 km.  The booster was
+recovered in a controlled vertical rocket landing, the first such
+successful landing on the Earth's surface following an exoatmospheric
+flight. The crew capsule landed nearby on a parachute.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Oct 19 1409   O-STATES 2       S31/Orion           Kiruna, Sweden        Atmosphere    244       ESRANGE Area B, Sweden
+Oct 20        Aegis Target     Terrier Orion       South Uist, Hebrides  Target        100?      N Atlantic 
+Oct 20        Aegis KV         SM-3          DDG-71, Hebrides Range      Interceptor   100?      (N Atlantic)
+Oct 21 1245   GT216GM RV       Minuteman 3         Vandenberg LF04       Training     1300?      Kwajalein, Marshall Is.
+Oct 28 1130   4 RVs            Yars                Plesetsk              Test         1000?      Kura, Kamchatka
+Oct 30        Topol RV         Topol               Plesetsk              Test         1000?      Kura, Kamchatka
+Oct 30        R-29RM RV x 4?   Sineva        K-117 Bryansk, Barents Sea  Test         1000?      Kura, Kamchatka
+Oct 30        R-29 RV x 4?     Volna         K-223 Podolsk,Sea of Okhotsk Test        1000?      Chizha?, Kanin Penisula
+Oct 31 2300?  Target           B-611?              Jiuquan, China        Target        100?      Korla
+Oct 31 2300?  Interceptor      DF-21?              Korla/Urumqi, China   Interceptor   100       
+Nov  1 0305   SRALT RV         SRALT         C-17, Pacific SE Wake I     Target        300?      Wake Island
+Nov  1 0307?  THAAD KV         THAAD               Wake Island           Interceptor   100?      (Pacific)
+Nov  1 0310?  eMBRM RV         eMRBM         C-17, Pacific SE Wake I     Target        300?      Wake Island
+Nov  1 0312?  THAAD KV         THAAD               Wake Island           Interceptor   100?      (Pacific)
+Nov  6 1501   FOP-4            SpaceLoft XL        Spaceport America, NM Microgravity  120       White Sands
+Nov  8 0200   USN Mk 5 RV (x14?) Trident II  SSBN 737, Pt Mugu           Test         1000?      Kwajalein?
+Nov  9 2000?  USN Mk 5 RV (x14?) Trident II  SSBN 737, Pt Mugu           Test         1000?      Kwajalein?
+Nov  9 0415   Agni RV          Agni IV             Abdul Kalam Island    Test          600       Indian Ocean
+Nov 14        RV               Bulava        K-551 V.Monomakh, White Sea Test         1000?      Kura, Kamchatka
+Nov 14        RV               Bulava        K-551 V.Monomakh, White Sea Test         1000?      Kura, Kamchatka
+Nov 17 1212   Topol'-E RV      Topol'              Kapustin Yar          Reentry test 1000?      Sary Shagan
+Nov 23 1721   New Shepard CC   New Shepard         West Texas Site       Test          101       West Texas Site
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

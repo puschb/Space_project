@@ -1,0 +1,226 @@
+
+Jonathan's Space Report
+No. 478                                              2002 May 7 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shameless Plug
+--------------
+
+Those of you who wonder what I really do for a living may wish
+to take a look at
+ http://chandra.harvard.edu/press/02_releases/press_041902.html
+or
+ http://www.spaceflightnow.com/news/n0204/24chandra
+
+
+Shuttle and Station
+--------------------
+
+Gidzenko, Vittori and Shuttleworth reached the Station on Apr 27. Their
+flight was the  EP-3 visiting crew, flying ISS mission 4S going up on
+spacecraft Soyuz TM-34 (vehicle 208)  and down on Soyuz TM-33 (vehicle
+207) - any of these designations is correct, but NASA commentators' use
+of "Soyuz 4" is just plain wrong (Soyuz 4 flew in 1969, and Soyuz TM-34
+is a Russian mission, so NASA doesn't have naming rights for it. A
+typical example of dumbing down in an attempt to avoid confusion, which
+in fact only generates more confusion. Anyone remember the Skylab
+SL-2/flight 1 numbering fiasco?).
+
+Soyuz TM-34 docked with the nadir port on the Zarya module at 0755 UTC on Apr
+27. After a week aboard the station, the EP crew moved to the old Soyuz
+TM-33 ship, now docked at Pirs. They undocked from Pirs at 0031:08 UTC on
+May 5, leaving the EO-4 crew of Onufrienko, Walz and Bursch with the new
+Soyuz TM-34 as their rescue vehicle. Soyuz TM-33 was scheduled to make
+its deorbit burn at 0257 UTC.
+
+Novosti reports that Soyuz TM33 landed successfully at 0352 UTC
+25 km SE of Arkalyk. An ESA release quotes the time as 0355 UTC
+and AP quotes 0351 UTC; An Energiya press release now confirms the
+Novosti time.
+
+JP Donnio points out to me that although flight-participant Shuttleworth
+is described as a 'tourist' by the media, calling him this is "unfair.
+He is a paying junior astronaut, who will be doing some real science for
+his country. He spent 8 hard months training [...] certainly less of a 
+tourist than some [...] who had a free ride on the Shuttle."
+
+'Privately funded astronaut' would be a better description, as he
+performed the sort of scientific experiments that payload specialists
+have carried out in the past and was not just looking out the window.
+(Personally, I would be quite happy to be merely a tourist. Anyone who
+wants to sponsor me with $20M or so should feel free to get in touch.)
+
+Recent Launches
+---------------
+
+France's SPOT-5 imaging satellite was launched by Ariane 42P at 0131:46
+UTC on May 4. The Ariane 42P, with two PAP solid boosters, flew north
+from Kourou. The third stage burn occurred off the east coast of North
+America, with engine cutoff at 0150 UTC and stage separation at 0151
+UTC. Venting of the remaining third stage propellant was seen by
+observers in the US.
+
+SPOT Image's SPOT 5 was built by Astrium/Toulouse. It has a mass of 3000
+kg including 150 kg of hydrazine orbit adjust fuel. The main instrument
+is the HRVIR imaging camera payload including a 2.5-meter resolution
+imager. A secondary experiment is the 5-band VEGETATION-2 instrument
+with 1-km resolution.
+
+The Idefix amateur radio payload consists of two small 6kg boxes
+attached to the Ariane third stage. The payload is operated by
+AMSAT-F, the French branch of the amateur radio organization.
+(The first French satellite was nicknamed Asterix after the
+famous comic book character; Idefix was Asterix and Obelix's
+pet dog.)
+
+NASA's Aqua remote sensing satellite went up on a Boeing Delta 7920-10L
+a few hours later. The Delta launched south from Vandenberg at 0954:58 UTC
+and reached a 185 x 707 km x 98.1 deg transfer orbit at 1006 UTC.
+The second burn of the second stage at 1048:58 UTC put  Aqua
+in a 676 x 687 km x 98.2 deg orbit.
+
+Aqua is the EOS-PM Earth Observing System satellite, joining EOS-AM/Terra.
+The satellite was built by TRW and based on the new T-330/AB1200 bus.
+It has a mass of 2934 kg including 102 kg of hydrazine.
+Aqua's payload consists of a number of remote sensing instruments:
+
+CERES has two broadband visible-to-far-infrared radiometers which
+measure the energy balance of the Earth's atmosphere, as UV radiation
+from the Sun is absorbed and reradiated by the surface, atmosphere and
+clouds in the infrared. The CERES sensors measure flux in the 0.3-5 and
+8-12  micron bands and overall flux in the 0.3-100 micron range.
+
+AIRS is an infrared (3.7-15 micron) spectrometer (and not
+a microwave sounding unit as stated in the press kit) giving 
+temperature and humidity vertical profiles; it has a companion
+0.4-1.0 micron 4-band optical photometer.
+
+AMSU-A1 and AMSU-A2 are a pair of 15-channel microwave (15-90 GHz) sounders
+for temperature profiles.
+
+HSB is the Humidity Sounder for Brazil, a 4-channel microwave (150 and 183 GHz)
+sounder which can get humidity profiles even under heavy cloud.
+
+AMSR-E is a Japanese microwave (6.9-89 GHz) scanning radiometer which uses the
+microwave emission scattered from raindrops to determine rainfall rates,
+as well as measuring sea surface winds and temperature.
+
+MODIS is an optical/infrared (0.4-14.5 micron) imaging spectrometer.
+
+The CERES and MODIS instruments were also carred on the Terra satellite.
+
+Phillip Clark has pointed out that the argument of perigee for
+Kosmos-2388 is 287 degrees as typical for Molniya satellites instead of
+the 317 degrees  expected for an Oko satellite. This is a bit puzzling,
+as Russian sources seemed to agree before launch that this was going to
+be an Oko - it is just possible that it's a Molniya that failed, but
+more likely an Oko with a new orbital profile (or else a programming
+error by the launch team!)
+
+Did Apollo AS-202 Reach Orbit?
+------------------------------
+
+Apollo mission 202, with CSM 011, is recorded in the history books
+as a suborbital mission. However, my researches indicate that
+it briefly achieved a marginal orbit! Admittedly, it was only
+in this orbit for 6 minutes prior to reentry and the perigee was
+within the atmosphere, but there are very few suborbital missions
+with perigees above minus several thousand kilometers, so the
+few marginal cases are rather interesting. (Yes, I do know that
+the traditional NORAD rule for cataloging is a *completed* orbit,
+but I don't feel constrained to follow their choice.) For instance,
+a typical Minuteman flight from Vandenberg to Kwajalein has an
+orbit of roughly -4000 x 1300 km x 145 deg, a strongly negative
+perigee nowhere near orbital.
+
+AS-202 was the third Apollo/Saturn IB test flight, with  no crew aboard.
+In an early example of a NASA naming snafu, it was not named Apollo 2
+(AS-201, 203 and 202 were followed by Apollo 4, with the name Apollo 1
+reserved for the mission that was never launched because of the fatal
+fire during ground testing; the names Apollo 2 and 3 were not used).
+
+Data in document MSC-A-R-66-5, Postlaunch Report for Mission AS-202
+(Apollo Spacecraft 011),  indicate the following orbits were achieved:
+(mostly derived by me from velocity and altitude data in the report, but
+some confirmed by direct quotation of orbital parameters)
+
+ 1966 Aug 25
+ (UTC)
+ 1715:32   Launch by Saturn IB, Cape Kennedy
+ 1725:30   CSM 011 separates from S-4B-202 at 222 km altitude,
+                 both on a -2331 x 268 km x 31.8 deg orbit.
+ 1729:17   CSM-011 completes SPS-1 burn at 338 km, putting it in a
+                           -232 x 1143 km x 31.5 deg orbit.
+ 1731      The S-4B-202 stage is blown up in a pressurization
+           test, like the S-4B-203 orbital mission the previous month.
+ 1756:56   CSM-011 reaches 1143 km apogee over Johannesburg
+ 1822:56   CSM-011 completes SPS-2 burn driving it down into the
+           atmosphere at 8.4 km/s from an altitude of 374 km over
+           the coast of Western Australia.
+           Its orbit is now 53 x 3762 km x 31.4 deg - a positive perigee.
+ 1823:22   Two more brief SPS burns accelerate it further and
+           leave the orbit at 59 x 4082 km x 31.4 deg at 345 km and
+           descending.
+ 1828:00   Entry at 122 km over New Guinea
+           at 8.69 km/s, 3.53 deg entry angle.
+ 1830-1833 Skip up from 65 to 79 km, braking
+ 1848:34   Splashdown south of Wake Island in the Pacific.
+
+I know a few of you who will find this piece of trivia amusing. For
+those of you not so familiar with orbital arcana, recall that the Earth
+has an equatorial radius of 6378 km; I use orbital heights relative to
+this radius, as if the Earth were a sphere (unlike standard Russian
+practice which uses an oblate spheroid for the reference - this is a
+small difference.) So a -2331 x 268 km orbit is one in which the
+periapsis distance (as opposed to height) is 4047 km from the center of
+the Earth and the apoapsis 6646 km from the center (just add 6378 to
+each number); as Newton and Gauss showed (at least ignoring J2 and drag)
+the CSM happily follows a Keplerian ellipse thinking the Earth is a
+point mass and that 4047 km is a perfectly reasonable periapsis distance
+- until it gets a rude awakening when it hits the Earth's atmosphere.
+Raising the perigee height to +59 km ensures a very shallow entry
+angle to the atmosphere, similar to a returning Apollo spacecraft
+but at lower speed.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  1 2207   Kosmos-2388       Molniya-M      Plesetsk LC16/2  Early Warn   17A
+Apr  8 2019   Atlantis STS-110) Space Shuttle  Kennedy LC39B    Spaceship    18A
+              S0              )                                 Station piece
+Apr 16 2302   NSS 7             Ariane 44L     Kourou ELA2      Comms        19A
+Apr 25 0626   Soyuz TM-34       Soyuz-U        Baykonur LC1     Spaceship    20A
+May  4 0131   SPOT 5    )       Ariane 42P     Kourou ELA2      Imaging      21A
+              Idefix    )                                      Amateur radio 21B
+May  4 0954   Aqua              Delta 7920-10L Vandenberg SLC2W Rem.sensing  22A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107 2002 Jul 19  Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        OPF           STS-112 2002 Aug 22  ISS 9A
+OV-105 Endeavour       LC39A         STS-111 2002 May 30  ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

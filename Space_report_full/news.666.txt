@@ -1,0 +1,248 @@
+Jonathan's Space Report
+No. 666                                          2012 Sep 5  Somerville, MA USA
+----------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+On the ISS, Expedition 32 continues with astronauts Gennadiy Padalka, Sergey
+Revin, Joseph Acaba, Yuriy Malenchenko, Sunita Willams and Akihiko Hoshide.
+
+On Aug 30 astronauts Williams and Hoshide made spacewalk US EVA-18 from
+the Quest airlock using spacesuits EMU 3011 and 3015, to attempt
+replacement of a failed Main Bus Switching Unit (MBSU) on the S0 truss.
+The S0 carries four MBSUs designated MBSU-1 to MBSU-4; two spares are
+stored on the ESP-2 pallet outside the Quest module. One spare was
+delivered on STS-114 and a second on STS-120; they don't have publicly
+known serial numbers. The failed MBSU-1 was removed from S0 and stowed
+temporarily at ESP2; the STS-114 spare was removed from ESP-2 and moved
+to S0, becoming the 'new MBSU-1'.  However, a problematic bolt stopped
+the astronauts completing the installation. They left the new  MBSU-1
+partly bolted to S0 and returned to the airlock, leaving the Station
+with two of its eight large solar arrays out of the main station power
+loop.
+
+Quest was depressurized for EVA-18 at about 1205 UTC on Aug 30, with an EVA duration 
+of 8h28m (depress/repress), 8h17m (NASA rule), 8h14m (hatch open/close).
+
+On Sep 5 Williams and Hoshide tried again on US EVA-19. After problems
+with EMU 3015 on EVA-18, this time the duo used spacesuits EMU 3010 and
+3011 respectively. The astronauts removed the new MBSU-1, with some
+difficulty unjamming the critical bolt, and then spent an hour  using
+several techniques to clean out metal shavings and foreign matter from
+the bolt. Between 1522 and 1550 UTC the installation of the new MBSU-1
+was successfully carried out, and station power was mostly restored,
+although in the meantime the failure of the DSCU-3A box has taken down
+another of the arrays. The astronauts then replaced a CLPA camera on the
+SSRMS robot arm and returned to the airlock. The old MBSU-1 remains in its `temporary'
+stowage location on ESP-2.
+
+Quest was depressurized at 1101 UTC Sep 5 for a duration of 6h33m (depress/repress),
+6h28m (NASA rule), 6h25m (Hatch open/close).
+
+I was wrong about some of the debris panel numbers in the last JSR:
+my current best understanding is:
+  Bundle  Panels      Launch              Stored outside ISS: EVA   Installed    EVA
+  1      1-3,6-8      2002 Jun  5 STS-111 2002 Jun  9, PMA-1 111/1  2002 Aug 16  VKD-7
+  2   11,13-15,18,19  2006 Dec 10 STS-116 2006 Dec 16, PMA-3 116/3  
+                                          2007 May 30, Zvez. VKD-18 2007 Jun  6  VKD-19
+  3   10,16,17,21-23  2006 Dec 10 STS-116 2006 Dec 16, PMA-3 116/3  
+                                          2007 May 30, Zvez. VKD-18 2007 Jun  6  VKD-19
+  4   4,5,9,12,20     2006 Dec 10 STS-116 2006 Dec 16, PMA-3 116/3  2007 May 30  VKD-18
+  5       24-26       2012 Jan 25 M-14M   -                         2012 Aug 20  VKD-31
+  6       27-28       2012 Jan 25 M-14M   -                         2012 Aug 20  VKD-31
+
+
+RBSP
+----
+
+NASA's two Radiation Belt Storm Probes were launched on Aug 30. Atlas V's Centaur AV-032 entered
+a 167 x 600 km x 25.5 deg parking orbit at 0819 UTC, and a second burn at 0915 UTC
+raised the orbit and lowered inclination for deployment of RBSP-A in a 597 x 30645 km x 10.0 deg
+orbit at 0924 UTC. After a small orbit adjust burn by Centaur AV-032, RBSP-B was
+deployed at 0936 UTC in a 601 x 30709 km x 10.0 deg orbit. A further orbit adjust at about 0948 UTC
+put the Centaur in a  -220 x 36062 km x 10.3 deg orbit, and it reentered over the Atlantic at
+about 1940 UTC.
+
+The almost-identical RBSP satellites have a mass of 658 kg full, and will deploy a series
+of booms include electric field antennae spanning 100 meters. The instruments study
+energetic particles, thermal plasma, ionospheric composition and electromagnetic fields and waves.
+The principal investigator for one experiment, the relativistic proton spectrometer,
+is at the National Reconnaissance Office, and NRO put out a press release explaining why
+operational agencies care about good radiation belt models too - all true, but I suspect
+it might be just that they want their tame in-house space physicist to have some research time
+to keep his hand in.
+
+Vesta and Ceres
+---------------
+
+Dawn escaped Vesta's gravity at 0626 UTC on Sep 5 and is now in solar orbit on its way to Ceres,
+which it should reach in 2015.
+
+
+Mars
+----
+
+The Curiosity landing site in Gale Crater has been named `Bradbury Landing'
+after writer Ray Bradbury (1920-2012).
+
+Earth
+------
+
+On Aug 24 Neil A. Armstrong died of complications from heart surgery in
+Columbus, Ohio, a few weeks after his 82nd birthday. Armstrong was born
+in Wapakoneta, Ohio in 1930. After flying 78 missions as a US Navy pilot
+in the Korean War he joined the NACA research agency which became NASA
+in 1958 and made four flights in the X-1B rocket plane in 1957-58.  In
+Apr 1962, while a NASA civilian test pilot at the Flight Research Center
+at Edwards, Armstrong became a mesonaut, flying the X-15-3 rocketplane
+into the Earth's mesosphere on flights 3-3-7 and 3-4-8, reaching apogees
+of 55 and 63 km. He then joined the NASA astronaut office in Houston and
+after serving as backup commander for Gemini 5 flew in space in March
+1966 as commander of the historic Gemini 8 mission which saw the first
+orbital docking and the first emergency orbital spin recovery and return
+to Earth. After two more backup slots on Gemini 11 and Apollo 8, his
+second and last spaceflight was as commander of Apollo 11. On 1969 July
+19 the Apollo 11 crew of Armstrong, Aldrin and Collins became the 7th,
+8th and 9th humans to leave Earth's gravitational sphere of influence
+and enter the Moon's; on July 20 Armstrong and Aldrin became the first
+humans to land on another world, as Armstrong brought LM-5 Eagle to a manual
+landing with only 20 seconds of fuel left. On July 21 Armstrong was the first
+human to walk on the lunar surface. In 1971 he left NASA and returned to
+Ohio where he taught aeronautics for several years.
+
+Of the 24 humans who have left Earth's gravitational sphere of influence, 17
+remain alive today.
+
+Mesonauts
+----------
+
+The mesosphere is the highest layer of the Earth's atmosphere that isn't
+really `outer space', and lies between the stratopause at 50 km and the
+mesopause at the base of the exosphere - `true 'space - at around 80-90
+km, although I adopt 80 km as a good reference value. Starting with Ham
+and Yuriy Gagarin, 2 pan troglodytes and 533 humans have  passed that 80
+km exospheric boundary and become space travellers; they zipped through
+the mesosphere on the way. 11 humans - the `mesonauts' - have made
+flights that got as far as the mesosphere but not the exosphere. 10 of
+those eleven mesonauts later went on to make higher `astronaut' flights.
+Only 3 of the 11 are alive today. Here are details of the first
+mesospheric flights of the mesonauts as well as their their first
+exospheric flights.
+
+   Mesonaut                     1st MesoFlight  km   Date         NMeso  Spaceflight (Exoflight)
+1  Joe Walker       (1921-1966) X-15 2-14-28    52   1961 Mar 30  6      X-15 3-14-24   1963 Jan 17
+2  Robert White     (1924-2010  X-15 2-20-36    66   1961 Oct 11  3      X-15 3-7-14    1962 Jul 10
+3  Neil Armstrong   (1930-2012) X-15 3-3-7      55   1962 Apr  5  2      Gemini 8       1966 Mar 16
+4  Robert Rushworth (1924-1993) X-15 3-19-30    68   1963 Jun 18  3      X-15 3-20-31   1963 Jun 27
+5  Joe Engle        (1932-    ) X-15 1-46-73    53   1964 Apr  8  5      X-15 3-44-67   1965 Jun 29
+6  Milton Thompson  (1926-1993) X-15 1-54-88    54   1965 May 25  2
+7  Jack McKay       (1922-1975) X-15 2-40-72    65   1965 Jul  8  7      X-15 3-49-73   1965 Sep 28
+8  Pete Knight      (1929-2004) X-15 2-46-83    58   1966 Jul 21  7      X-15 3-64-95   1967 Oct 17
+9  William Dana     (1930-    ) X-15 3-54-80    54   1966 Aug 19  6      X-15 3-56-83   1966 Nov  1
+10 Mike Adams       (1930-1967) X-15 1-71-121   51   1967 Apr 28  2      X-15 3-65-97   1967 Nov 15
+11 Mike Melvill     (1940-    ) SS1 56L/14P     64   2004 May 13  1      SS1-60L/15P    2004 Jun 21
+                                                                 ---
+                                                                  44
+
+John B. 'Jack' McKay and William 'Pete' Knight made the most mesoflights, 7 each.
+
+The Twenty-Four
+------------------
+
+This might also be a good moment to review and salute the Twenty-Four - the first, and so far only, humans
+to leave Earth for another gravity well (in the Hill sphere/sphere of influence sense):
+
+ Frank F. Borman II, Col. USAF Ret.              (1928-   )  Apollo 8     
+ James A. Lovell, Jr., LtGen USAF Ret.           (1928-   )  Apollo 8,13 
+ William A. Anders, MajGen USAF Ret.             (1933-   )  Apollo 8    
+ Thomas P. Stafford, LtGen USAF Ret.             (1930-   )  Apollo 10   
+ Eugene A. Cernan, Capt USN Ret.                 (1934-   )  Apollo 10,17
+ John W. Young, Capt USN Ret.                    (1930-   )  Apollo 10,16 
+ Neil A. Armstrong, Lt USNR Ret.                 (1930-2012) Apollo 11    
+ Edwin E. 'Buzz' Aldrin, Jr, Ph.D.,Col USAF Ret. (1930-    ) Apollo 11
+ Michael Collins, BrigGen USAF Ret.              (1930-    ) Apollo 11
+ Charles 'Pete' Conrad, Jr, Capt USN Ret.        (1930-1999) Apollo 12
+ Alan L. Bean, Capt USN Ret.                     (1932-    ) Apollo 12
+ Richard F. Gordon, Jr,, Capt USN Ret.           (1929-    ) Apollo 12
+ Fred W. Haise Jr., USMC Ret.                    (1933 -   ) Apollo 13      
+ John 'Jack' L. Swigert, Jr., USAF Ret.          (1931-1982) Apollo 13
+ Alan B. Shepard, Jr, RAdm USN Ret.              (1923-1998) Apollo 14
+ Edgar D. Mitchell, Ph.D., Capt USN Ret.         (1930-    ) Apollo 14
+ Stuart A. Roosa, Col USAF. Ret.                 (1933-1994) Apollo 14
+ David R. Scott, Col USAF Ret.                   (1932-    ) Apollo 15
+ James B. Irwin, Col USAF Ret.                   (1930-1991) Apollo 15
+ Alfred M. Worden, Col USAF Ret.                 (1932-    ) Apollo 15
+ Charles M. Duke, Jr., BrigGen USAF Ret.         (1935-    ) Apollo 16
+ Thomas Ken Mattingly II, RAdm USN Ret.          (1936-    ) Apollo 16
+ Harrison H. 'Jack' Schmitt, Ph.D., Sen. (R-NM)  (1935-    ) Apollo 17
+ Ronald E. Evans, Jr., Capt USN Ret.             (1933-1990) Apollo 17
+
+Suborbital flights
+------------------
+
+It has been reported that China carried out a test launch of a missile
+on Jul 24. A media report by W. Gertz claimed that it was a new longer-range
+DF-41 ICBM but it is unclear if there is any evidence for this; 
+I will record it as an unknown missile for the time being.
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  5 2136   Echostar 17  )     Ariane 5ECA       Kourou ELA3       Comms     35A
+              Meteosat 10  )                                         Weather   35B
+Jul  9 1838   SES-5              Proton-M/Briz-M   Baykonur LC81/24  Comms     36A
+Jul 15 0240   Soyuz TMA-05M      Soyuz-FG          Baykonur LC1/5    Spaceship 37A
+Jul 21 0206   Kounotori 3        H-IIB             Tanegashima LP2   Cargo     38A
+Jul 22 0641   Kanopus-V )                                            Imaging   39
+              BelKA-2   )        Soyuz-FG/Fregat   Baykonur LC31/6   Imaging   39
+              TET-1     )                                            Tech      39D
+              exactView-1)                                           Comms/AIS 39C
+              MKA-PN1    )                                           Science   39E
+Jul 25 1543   Tianlian-1 (03)    Chang Zheng 3C    Xichang           Comms     40A
+Jul 28 0135   Gonets-M No. 13)   Rokot             Plesetsk LC133    Comms     41B
+              Gonets-M No. 15)                                       Comms     41D
+              Kosmos-2481 )                                          Comms     41A
+              MiR         )                                          Sci       41C
+Aug  1 1935   Progress M-16M     Soyuz-U           Baykonur LC1      Cargo     42A
+Aug  2 2054   Intelsat IS-20 )   Ariane 5ECA       Kourou ELA3       Comms     43A
+              Hylas 2        )                                       Comms     43B
+Aug  6 1931   Telkom-3    )      Proton-M/Briz-M   Baykonur LC81/24  Comms     44A
+              Ekspress MD2)                                          Comms     44B
+Aug 19 0655   Intelsat IS-21     Zenit-3SL         SL Odyssey, Pacific Comms   45A
+Aug 20 1829   Sfera-53           -                 ISS, LEO          Sci       98-067CM
+Aug 30 0805   RBSP A )           Atlas V 401       Canaveral SLC41   Sci       46A
+              RBSP B )                                               Sci       46B
+           
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Jul  3        Shahab RV        Shahab 1           ?, Iran             Exercise     100?
+Jul  3        Shahab RV        Shahab 2           ?, Iran             Exercise     100?
+Jul  3        Shahab RV        Shahab 3           ?, Iran             Exercise     150?
+Jul  5 1850   NASA 36.284NS    Black Brant 9      White Sands         Solar        275?
+Jul 11 1850   NASA 36.272NS    Black Brant 9      White Sands         Solar        268
+Jul 13 0436   Agni RV          Agni I             Chandipur           Test         200?
+Jul 23 1101   NASA 39.011NR    Black Brant 11     Wallops             Reentry test 458
+Jul 24        RV               DF-?               ?, China            Test        1000?
+Jul 24 1917   NASA 36.263US    Black Brant 9      White Sands         Solar        324
+Aug  7 0730   S-310-41         S-310              Uchinoura           Reentry test 150
+Aug  9 0316   Agni RV          Agni II            Chandipur           Test         220?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

@@ -1,0 +1,181 @@
+Jonathan's Space Report
+No. 423                                       2000 Apr  5 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+The Soyuz TM-30 spacecraft was launched on Apr 4 with the EO-28 Mir
+crew. Commander is Sergey V. Zalyotin; flight engineer is Aleksandr
+Kaleri. The spacecraft, production vehicle 11F732 No. 204, is the first
+in the "200" series of Soyuz TM vehicles to fly. These vehicles were
+originally built to support the International Space Station and are
+externally similar to the standard Soyuz TM, with a cylindrical service
+module (PAO), curved-conical descent module (SA), and  spheroidal living
+module (BO). Mounted on the BO is a standard Mir SSVP-type probe docking
+system.
+
+The 11A511U Soyuz-U launch vehicle, built by TsSKB-Progress of Samara,
+took off from the Gagarin pad at 5-GIK Baykonur at 0501:29 UTC. The four
+Blok B,V,G,D strapon liquid boosters separated at 0503 UTC. Two minutes
+into flight the escape tower separated and at 0504 UTC the nose fairing
+was jettisoned at an altitude of 85 km. The central stage (Blok A) of
+the Soyuz 'packet' continued on a suborbital trajectory, shutting down
+and separating at 0506 UTC. The third stage, the Blok-I (possibly
+designated 11S510) fired its KB Khivavtomatiki 11D55 LOX/kerosene main
+engine for a four minute burn, placing Soyuz TM-30 in a low Earth orbit.
+The antennae and solar panels were deployed shortly afterwards. Two
+Soyuz engine burns at 0837 and 0923 UTC placed the vehicle in a 257 x
+259 km x 51.6 deg orbit. It is not yet clear how long the EO-28 crew
+will stay aboard Mir. Part of the EO-28 mission is financed by the
+private MirCorp company.
+
+The Mir complex is currently in a 329 x 333 km x 51.6 deg orbit.
+The Progress M1-1 cargo ship is docked to the +X docking port of the
+Kvant module. The -X docking port on the Mir base module transfer
+compartment is waiting for Soyuz TM-30. The Kvant-2, Priroda,
+Kristall and Spektr modules remain docked to the radial ports
+on the base module (Spektr remains depressurized following the
+1997 collision with Progress M-34).
+
+The next Shuttle mission is STS-101, to the international space station.
+Crew are James Halsell, Scott Horowitz, Mary Ellen Weber, Jeffrey
+Williams, James Voss, Susan Helms, and Yuriy Usachev. Atlantis will
+carry the External Airlock/Orbiter Docking System, the Spacehab Long
+Tunnel, the Keel Yoke Device with the Integrated Cargo Carrier (ICC)
+pallet, and the Spacehab Logistics Double Module. A GAS canister
+in bay 13 port contains the SEM-6 and MARS high school experiments.
+The ICC carries parts of the ISS Strela robot arm and a Shuttle
+GPS navigation experiment.
+
+
+Errata
+-------
+
+A friend at Arianespace points out that I should have said that the
+Ariane 5 EPC stage impacts the Pacific *west* of the Galapagos, not
+*over* the Galapagos - so readers on those islands do not need to duck.
+The EPC stages are unusual in that they attain marginal orbits, with
+perigees within the atmosphere but with quite high apogees - I don't
+have definitive values but possibly around 1000 km. Most launch vehicle
+suborbital stages have much less velocity at cutoff. The Ariane 505
+mission now makes three perfect launches in a row for Ariane 5, which
+following its earlier rocky start places it in a good position relative
+to the other new generation launch vehicles (e.g. Delta 3, Atlas 3)
+which have not yet successfully flown.
+
+ Ariane 5 missions: (trajectories with ? are speculative)
+ 
+L   Date         Payload        Adapter  Fairing     EPC trajectory   
+
+501 1996 Jun  4  Cluster        Speltra  Short       Exploded over launch site
+502 1997 Oct 30  Maqsat         Speltra  Long?     -200?x  500? km x  7 deg
+503 1998 Oct 21  ARD            Speltra  ?            1 x  844  km x  5.8 deg
+504 1999 Dec 10  XMM            None     Long?       50?x 1500? km x 40.0 deg
+505 2000 Mar 21  Insat/Asiastar Sylda 5  ?           45 x 1368  km x  7.7 deg
+
+MTI is a joint mission of Sandia Labs and Los Alamos, together with the
+Savannah River Technology Center.
+
+The orbit I gave for the Delta second stage from the IMAGE launch was
+the initial one; after the depletion burn the stage was left in a
+193 x 1059 km x 91.3 deg orbit.
+
+Always Initialize Your Variables
+---------------------------------
+
+The failure report for the Mars Polar Lander suggests that the most probable
+cause was a software error in the landing sequence: during final descent,
+the lander has rocket engines to slow it down:
+  while ( not touched down ) { fire braking rockets }
+Unfortunately, the 'touched down'  signal was not set to false at the
+beginning of this loop, and was probably set to true earlier in the descent
+when the shock of landing leg deployment was detected by the touchdown sensor.
+
+
+Euphemism Corner
+----------------
+
+ESA's public affairs continue to rival the experts at NASA for their use
+of  euphemism in press releases; the latest release is entitled "Cluster
+II Flight Acceptance Review Report" instead of something more
+straightforward  like "Propulsion Concerns Cause Possible Cluster II
+Delay". The abstract of the release just says ".. carry out a detailed
+examination of all aspects of the mission", which is certainly true, but
+if you read all the way through you discover that the DaimlerChrysler
+S400 propulsion system used on Cluster is apparently suspect, and
+shipment of the four spacecraft to the launch site is being delayed. The
+S400 class engine has heritage dating back to the Europa and Symphonie
+programs  in the early 1970s, so I'm not too concerned about the
+fundamental design, but reading between the lines  it sounds like there
+have been some minor problems on recent comsats using the system. Let's
+hope any delay is small. Cluster II is a group of four space science
+satellites replacing those lost on the first Ariane 5 launch.
+
+Current Launches
+----------------
+
+The NEAR-Shoemaker probe moved into a 100 x 200 km orbit around (433) Eros
+on Apr 2 at 0200 UTC.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Feb  1 0647   Progress M1-1     Soyuz          Baykonur LC1     Cargo      05A
+Feb  3 0926   Kosmos-2369       Zenit-2        Baykonur LC45    Sigint     06A
+Feb  3 2330   Hispasat 1C       Atlas IIAS     Canaveral SLC36B Comsat     07A
+Feb  7 0334   MEMS 1    )       -              OPAL, LEO        Tech.      04H	
+              MEMS 2    )                                       Tech.      04H
+Feb  8 2124   Globalstar 60)    Delta 7420     Canaveral SLC17B Comsat     08A
+              Globalstar 62)                                    Comsat     08B
+              Globalstar 63)                                    Comsat     08C
+              Globalstar 64)                                    Comsat     08D
+Feb  8 2320   IRDT           )  Soyuz/Fregat   Baykonur LC31    Tech       09
+              Dummy satellite)                                  Tech       09A
+	      Fregat         )                                  Tech       09B
+Feb 10 0130   ASTRO E           M-V            Kagoshima Mu     Astron.    F01
+Feb 11 0510   JAK                              OPAL, LEO        Comsat     04L
+Feb 11 0510   STENSAT                          OPAL, LEO        Comsat     04M
+Feb 11 1743   Endeavour     )   Shuttle        Kennedy LC39A    Spaceship  10A
+              SRL-3         )
+Feb 12 0910   Garuda 1          Proton/DM3     Baykonur LC81L   Comsat     11A
+Feb 12 1343   Thelma    )                      OPAL, LEO        Science    04J
+              Louise    )                                       Science    04K
+Feb 18 0104   Superbird 4       Ariane 44LP    Kourou ELA2      Comsat     12A
+Mar 12 0407   Ekspress A2       Proton         Baykonur         Comsat     13A
+Mar 12 0929   MTI               Taurus         Vandenberg 576E  Imaging    14A
+Mar 12 1449   ICO F-1           Zenit-3SL      Sea Launch       Comsat     F02
+Mar 20 1828   Dumsat            Soyuz/Fregat   Baykonur LC31    Tech       15A
+Mar 21 2328   Asiastar )        Ariane 5       Kourou ELA3      Comsat     16A
+              Insat 3B )                                        Comsat     16B
+Mar 25 2034   IMAGE             Delta 7326     Vandenberg SLC2W Science    17A
+Apr  4 0501   Soyuz TM-30       Soyuz-U        Baykonur LC1     Spaceship  18A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Sep?    ISS 3A
+OV-104 Atlantis        LC39A         STS-101 2000 Apr 24? ISS 2A.2a
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

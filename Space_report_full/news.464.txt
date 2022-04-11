@@ -1,0 +1,135 @@
+
+Jonathan's Space Report
+No. 464                                          2001 Oct 16  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Astronauts Dezhurov and Tyurin made a spacewalk from the Pirs module on
+Station on Oct 8. The airlock was depressurized for the first time by
+around 1420 UTC and the hatch was opened at 1423 UTC. The crew installed
+the Strela crane on the outside of Pirs and jettisoned some thermal
+covers. After five minutes wrestling with the mechanism, the hatch was
+closed at 1921 UTC and repressurization began at 1926 UTC. Orlan-M
+spacesuits were used for the spacewalk; the 'official' time was counted
+from hatch open to hatch closed (Russian rules), inconsistent with the
+durations used for spacewalks from Quest, which are counted from battery
+power to repress (NASA rules).
+
+The same two astronauts made another spacewalk on Oct 15, with
+Culbertson again staying inside the station. At 0903 UTC the airlock was
+depressurized to about 20 mbar; the hatch began opening to full vaccuum
+at 0916 UTC with official hatch opening at 0917 UTC. Tyurin exited the
+airlock at 0925 UTC, with Dezhurov emerging a few minutes later. The
+astronauts attached the Kromka contamination experiment and two Japanese
+exposure experiments to the hull of the Zvezda module. The Russian flag
+on Zvezda was retrieved for an exposure study and replaced with a
+commercial logo. Dezhurov and Tyurin re-entered the airlock at 1445 UTC
+and after more hatch closing troubles, the hatch was latched at 1509 UTC
+and the airlock repressurization began around 1510 UTC.
+
+Recent Launches
+---------------
+
+Galileo completed the Io 32 flyby on Oct 16. It passed 343000 km from
+Jupiter's cloud tops at 2252 UTC on Oct 15, and only 181 km from Io's
+south polar region at 0223 UTC on Oct 16 It will retreat to 11 million
+km from Jupiter by Nov 23 before coming back in for an equatorial pass
+of Io on Jan 17.
+
+
+Lockheed Martin Astronautics' Titan 4B-34 was launched from SLC4E at
+Vandenberg on Oct 5 at 2121 UTC. The vehicle had a 20-m fairing with no
+upper stage. The SRMU solids and the Titan core first stage fell in the
+Pacific as planned, with the Titan core second stage reaching orbit at
+2130 UTC and deploying a National Reconnaissance Office payload into a
+sun-synchronous orbit. 
+
+Analysts speculate that the payload is probably an Improved CRYSTAL
+imaging satellite. If so, it will probably be in a 150 x 1050 km x 97.9
+deg orbit. 
+
+The Russian Kosmos-2377 Kobal't-class imaging satellite landed
+on Oct 10 after a 4-month mission.
+
+The OAM stage from the recent Athena launch seems to have made
+further depletion burns and on Oct 3 was in a 155 x 376 km orbit;
+it reentered on Oct 6.
+
+A Krunichev Proton-K was launched from Baykonur on Oct 6. The Energiya
+Blok-DM2 upper stage put a Globus military communications satellite
+in geostationary orbit. The Globus satellites, built by NPO-PM,
+are given the public name Raduga-1 when in orbit. The DM2 entered
+orbit at 1654 UTC, made its first burn around 1755 UTC to transfer
+orbit, and is believed to have made a second burn at about 2318 UTC
+to circularize orbit at geostationary altitude.
+
+A Lockheed Martin Astronautics Atlas IIAS, flight AC-162, was
+launched from Cape Canaeral on Oct 11. The Centaur entered a 176 x 907 km
+x 28.2 deg parking orbit at 0242 UTC and then made a second burn
+to deploy its payload in a 274 x 37538  km x 26.5 deg geostationary
+transfer orbit at 0301 UTC. The payload is rumoured to be
+a data relay satellite used to return data from imaging satellites
+like the one launched on Oct 5. It is also possible, but less likely,
+that the satellite is a signals intelligence payload. The satellite
+is owned and operated by the National Reconnaissance Office (NRO).
+
+USA 160, launched on Sep 8, has not been joined by any more cataloged
+payloads, although it is possible that 2001-40C, officially registered
+as a debris object, is actually a payload. Although it was expected
+that three payloads would be deployed from the launch, the new ocean
+surveillance design may use fewer independent satellites. In the
+past, four objects were officially assigned USA numbers from each
+of the ocean surveillance launches.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Sep  7 1939   Picosat 7/8       -              Sindri, LEO      Technology  00-42C
+Sep  8 1525   USA 160       )   Atlas IIAS     Vandenberg SLC3E Sigint       40A
+              NRO satellite )                                                40C
+Sep 14 2335   Pirs           )  Soyuz-U        Baykonur LC1     Station module  
+              Progress M-SO1 )                                  Cargo        41A
+Sep 21 1849   Orbview-4  )      Taurus 2110    Vandenberg 576E  Imaging      F01
+              QuikTOMS   )                                      Environment  F01
+              SBD        )                                      Technology   F01
+              Celestis-4 )                                      Burial       F01
+Sep 25 2321   Atlantic Bird 2   Ariane 44P     Kourou ELA2      Ku telecom   42A
+Sep 30 0240   Starshine 3  )    Athena-1       Kodiak           Science      43A
+              Picosat      )                                    Technology   43B
+              PCSat        )                                    UHF/VHF comm 43C
+              Sapphire     )                                    Technology   43D
+Oct  5 2120   USA 161           Titan 4B       Vandenberg SLC4E Imaging      44A
+Oct  6 1645   Raduga-1          Proton-K/DM2?  Baykonur         C telecom    45A
+Oct 11 0232   USA 162           Atlas IIAS     Canaveral SLC36B Data relay?  46A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Feb     HST SM-3B
+OV-103 Discovery       OPF Bay 2     Maintenance
+OV-104 Atlantis        VAB           STS-110 2002 Mar     ISS 8A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

@@ -1,0 +1,117 @@
+Jonathan's Space Report 
+No. 177       1993 Dec 8  STS-61 SPECIAL REPORT
+------------------------------------------------------------------------------
+
+Shuttle  
+-------  
+
+Endeavour was launched on mission STS-61 at 0927.00 on Dec 2.
+Main engine cutoff came at 0935.31; the OMS-2 burn raised the orbit
+to about 398 x 570 km at 1010 UT. Over the next few days
+a series of rendezvous burns were carried out:
+ NC1  Dec 2 1455    Phase adjust
+ NSR  Dec 3 0811    Coelliptic burn
+ NC2  Dec 3 0844    Phase adjust
+ NH   Dec 4 0234    Height adjust
+ NC3  Dec 4 0322    Phase adjust
+ NPC  Dec 4 0403    Plane change
+ NCC  Dec 4 0535    Corrective combination
+ TI   Dec 4 0635    Terminal phase initiation
+ MCC1 Dec 4 0715?   Mid course correction
+ MCC2 Dec 4 0729    Mid course correction
+ MCC3 Dec 4 0738    Mid course correction
+ MCC4 Dec 4 0749.   Mid course correction
+
+By 0755 on Dec 4 commander Covey took over manual control of Endeavour and
+at 0847 Nicollier used the RMS arm to grapple the Hubble Space Telescope.
+
+The spacecraft were now in a 585 x 592 km orbit inclined 28.5 degrees.
+At 0922 HST was berthed onto the Flight Support System (FSS) last used
+for the Solar Max repair. At 0935 the RMS was detached from HST and
+by 1000 HST was on external power.
+
+As of this writing 4 of the 5 planned spacewalks have been carried out.
+EVA-1 on Dec 5 saw the replacement of the HST gyros and fuses. The
+astronauts had problems closing the gyro shroud doors on HST, probably
+due to thermal warping. On Dec 5 at 1325 the first solar panel was
+retracted; the second one stuck because it was warped. On Dec 6 the
+EVA-2 spacewalkers removed the dud solar panel; Kathy Thornton threw it
+into space at 0451 on Dec 6; it received the catalog number 22920 and
+designation 1990-37C. They then put the new solar panels on. The EVA
+ended with a delayed repressurization when Thornton's ears had problems
+re-adjusting to higher pressure. EVA-3, on Dec 7, saw the replacement of
+WFPC-1 with WFPC-2 and the installation of two new magnetometers. One
+of the magnetometer electronics boxes was discovered to be falling apart
+and Hoffmann removed loose parts of it.
+Next on EVA-4 came the removal of HSP and its replacement by COSTAR.
+Also on this spacewalk Akers took over the MFR (Manipulator Foot Restraint
+platform on the robot arm) from Thornton for an hour for the installation
+of a new coprocessor for the HST on board computer.
+        
+       Start      End         Duration MFR/RMS   Free floater
+EVA-1  Dec 5 0329 Dec 5 1138  08:00    Hoffmann  Musgrave
+EVA-2  Dec 6 0325 Dec 6 1010  06:45    Thornton  Akers
+EVA-3  Dec 7 0333 Dec 6 1024  06:51    Hoffmann  Musgrave
+EVA-4  Dec 8 0305 Dec 8 1003  06:58    Thornton  Akers
+
+Note: I measure durations from airlock depressurization to
+repressurization; NASA's rule is a little different so they 
+quote slightly shorter EVA times.
+
+At the end of EVA 4, Tom Akers had 29 h 49 min of EVA time by my
+count, making him the 6th ranked in all time spacewalk duration
+after Russian cosmonauts Krikalyov (36h), Manarov (34h), Artsebarskiy
+(32h), Kizim (31h) and V. Solov'yov (31h), and beating the US
+record set by Conrad on Gemini, Apollo and Skylab flights.
+
+
+Launches
+--------
+
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Nov  2 1210     Kosmos-2266     Kosmos          Plesetsk  LC132 Navsat     70A
+Nov  5 0825     Kosmos-2267     Soyuz           Baykonur  LC1   Recon      71A
+Nov 18 1355     Rimsat/Gorizont Proton          Baykonur  LC81  Comsat     72A
+Nov 20 0117     Solidaridad 1 ) Ariane          Kourou    ELA2  Comsat     73A
+                Meteosat 6    )                                 Weather    73B
+Nov 28 2340     DSCS III        Atlas Centaur   Canaveral LC36  Comsat     74A
+Dec  2 0927     Endeavour       Shuttle         Kennedy   LC39  Spaceship  75A
+Dec  8 0048     NATO IVB        Delta 7925      Canaveral LC17  Comsat     76A
+
+Reentries
+---------
+
+Oct 13          Progress M-19   Deorbited
+Nov  1          Columbia        Landed 
+Nov 20          Kosmos-808      Reentered
+Nov 21          Progress M-20   Deorbited
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-62
+OV-103 Discovery       OPF Bay 3     STS-60
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LEO           STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-36?             VAB Bay  1  STS-62
+ML2/                     LC39B       STS-61
+ML3/RSRM-35?/ET?         VAB Bay 3   STS-60
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 

@@ -1,0 +1,177 @@
+Jonathan's Space Report
+No. 572                                          2006 Oct 24, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+With the return of mission STS-115 and Soyuz TMA-8, the Expedition 14
+crew of Mikhail Tyurin, Mike Lopez-Alegria, and Thomas Reiter continue
+on board the International Space Station.
+Note that the record number of people in space at once is still 13;
+on 1995 Mar 14 with the launch of Soyuz TM-21 there were 13 people in space:
+
+STS-67       Steve Oswald, William Gregory, John Grunsfeld, Wendy Lawrence,
+             Tammy Jernigan, Sam Durrance, Ron Parise
+Mir (Ex18)   Aleksandr Viktorenko, Yelena Kondakova, Valeriy Polyakov
+Soyuz TM-21  Vladimir Dezhurov, Gennadiy Strekalov, Norm Thagard
+
+The record for the largest number of people on a single spacecraft is
+10, which happened for the first time aboard the Mir/Atlantis/Soyuz TM-21
+complex on 1995 Jun 29 and has been repeated numerous times since
+on Mir and the ISS.
+
+Soyuz TMA-8 undocked from Zarya on Sep 28 at 2153 UTC, carrying
+Vinogradov, Williams and Ansari. It landed in Kazakstan at 0113 UTC
+on Sep 29. On Oct 10 Soyuz TMA-9 was undocked from Zvezda at 1914 UTC
+and redocked with Zarya at 1934 UTC.
+
+Progress M-58 was launched on Oct 23 carrying supplies for the Station.
+
+Erratum: Atlantis undocking was of course on Sep 17, not Sep 20.
+Thanks to Alexander Anikeev for pointing out this goof.
+
+
+SOLAR-B
+-------
+
+Japan successfully launched the SOLAR-B satellite on Sep 22.
+It carries a large optical telescope and an X-ray telescope.
+The X-ray telescope was built by Leon Golub's group
+at Smithsonian Observatory.
+
+JAXA's Japanese web site has announced that the post-launch name
+for SOLAR-B is "Hinode", meaning 'sunrise'. Hinode took
+its first high-quality X-ray image on Oct 23; the optical
+telescope door opening is scheduled for Oct 25.
+
+Two small secondary payloads were carried by the M-V rocket
+final stage: HIT-SAT, a cubesat from Hokkaido Inst. of Technology
+and SSSAT, an ISAS-JAXA solar sail experiment. JAXA has released
+almost no information about SSSAT - I do not know its dimensions,
+mass, or whether it deployed correctly.
+
+Cataloging of the Hinode objects is confused; A is the payload, launched
+into a 271 x 678 km x 98.3 orbit and now in a 674 x 695 km x 98.1 deg 
+orbit after three perigee raise burns. B is the M-34 rocket casing. F is
+HIT-SAT; C and D decayed rapidly - maybe pieces of insulation, or
+possibly the solar sail experiment.  A number of other debris objects
+are in slowly decaying orbits.
+
+
+IGS O-2
+-------
+
+Japan's secret spy satellite, launched in September, is being tracked by
+hobbyist observers in a 484 x 491 km x 97.3 deg orbit.
+
+
+GPS 58
+------
+
+Navstar GPS Block IIR-M satellite SVN 58 was launched on Sep 25 as Blok
+IIR-15(M). The Boeing Delta 7925 put it in a transfer orbit with a 20000
+km apogee. The GPS satellite's solid apogee motor was ignited on Sep 28
+and put the payload in a 20252 x 20471 km x 54.9 deg orbit.
+
+
+SJ-8 and Kosmos-2423
+--------------------
+
+The SJ-8 seeds satellite was recovered in Sichuan province
+at 0243 UTC on Sep 24.  The Russian Kosmos-2423 (Don) imaging satellite
+remains in a 205 x 300 km x 64.9 deg orbit as of Oct 23.
+
+SJ-6-2A/B
+---------
+
+China has launched two more Shi Jian 6 satellites, designated SJ-6 Group
+2 satellites A and B. They replace the SJ-6 Group 1 satellites A and B.
+China reports the purpose of these satellites is to measure the space
+environment, but to my knowledge no scientific results have been published,
+and an intelligence role seems possible.
+
+The SJ-6 Group 2 satellites were launched into a 592 x 600 km x 97.1 deg
+orbit.
+
+
+Ariane
+------
+
+Arianespace launched Ariane 5ECA vehicle 533, flight V175 on Oct 13.
+DirectTV is a Loral 1300 satellite for US television broadcasting; Optus
+D1 is an Orbital Star-2 for  the Australia (Singapore-owned) Optus
+system. The upper stage carried an ASAP5 secondary payload structure
+with a JAXA payload called LDREX-2. LDREX-2 deployed and
+then ejected a 6.5-meter antenna as a rehearsal for Japan's ETS-8
+experimental satellite (LDREX-1 on 2000 Dec 20 failed to deploy
+correctly). 
+
+Ariane 533 took off at 2056 UTC and the core stage separated into a
+-1105 x 159 km x 6.7 deg sub-orbit at 2105. The ESC-A upper stage then
+reached a 250 x 35780 km x 6.9 deg geostationary transfer orbit at 2140
+UTC. DirecTV 9S, the Sylda 5 dual-payload adapter, and the Optus D1
+satellite separated between 2142 and 2148 UTC and deployment of the
+LDREX experiment was meant to start at 2158 UTC, with separation of the
+antenna scheduled for 2224 UTC.
+
+METOP
+-----
+
+Europe's METOP A (METOP 2) polar weather satellite was launched
+on Oct 19 by a Starsem Soyuz-2-1A/Fregat with an ST fairing from
+Baykonur. It inaugurates the Eumetsat Polar System, a European
+equivalent of NOAA's polar satellites (just as Eumetsat's METEOSAT
+series are the analog of NOAA's GOES geostationary weather platforms).
+METOP A carries a wide range of advanced instruments
+including ozone monitors, a GPS atmospheric sounding device,
+and a wind scatterometer, as well as the usual visible and IR
+imagers and sounders. It also carries a search and rescue package.
+
+Soyuz-2-1A consists of an improved stage 1/2 'packet', still
+similar in overall external design to the 1957-era 8K71 (R-7) ballistic
+missile. The Blok I third stage has the same propulsion system
+as that used on the existing Soyuz-U and Soyuz-FG; it will be replaced
+with a new engine in the forthcoming Soyuz-2-1B variant.
+Soyuz-2-1A was tested on a suborbital mission in Nov 2004, but this
+was its first orbital launch and the first use with Fregat.
+
+The Soyuz vehicle third stage reached a -2280 x 230 km x 98.7 deg orbit;
+the Fregat upper stage (S/N 1011) ignited at 1638 UTC and shut down at
+1645 UTC in a 170 x 820 km transfer orbit. Reignition at 1731 UTC was
+followed by separation of METOP at 1737 UTC into a 818 x 826 km x 98.7
+deg orbit. The Fregat made its third burn at 1815 UTC into a -31 x 824
+km orbit with reentry over the Pacific at around 1855 UTC.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep  9 0700?  SJ-8              Chang Zheng 2C  Jiuquan          Micrograv.  35A
+Sep  9 1515  Atlantis (STS-115) Shuttle         Kennedy LC39B    Spaceship   36A
+Sep 11 0435   IGS Optical-2     H2A             Tanegashima      Imaging     37A
+Sep 12 1602   Zhongxing-22A     Chang Zheng 3A  Xichang          Comms       38A
+Sep 14 1341   Kosmos-2423       Soyuz-U         Baykonur LC31    Imaging     39A
+Sep 18 0408   Soyuz TMA-9       Soyuz-FG        Baykonur LC1     Spaceship   40A
+Sep 22 2136   Hinode   )        M-V             Uchinoura        Astronomy   41A
+              HIT-SAT  )                                         Tech        41F
+              SSSAT    )                                         Tech        41D?
+Sep 25 1850   GPS 58            Delta 7925-9.5  Canaveral SLC17A Navigation  42A
+Oct 13 2056   DirecTV 9S  )     Ariane 5ECA     Kourou ELA3      Comms       43
+              Optus D1    )                                      Comms       43
+              LDREX 2     )                                      Tech        43
+Oct 19 1628   METOP A           Soyuz-2-1A      Baykonur LC31    Weather     44A
+Oct 23 1340   Progress M-58     Soyuz-U         Baykonur LC1     Cargo       45A
+Oct 23 2334   SJ-6-2A )         Chang Zheng 4B  Taiyuan          Sigint?     46A
+              SJ-6-2B )                                          Sigint?     46B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

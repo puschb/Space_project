@@ -1,0 +1,112 @@
+Jonathan's Space Report 
+
+No. 168        1993 Sep 16
+------------------------------------------------------------------------------
+
+Shuttle 
+------- 
+
+Discovery was launched at 1145 UTC on Sep 12. Mission STS-51 is the 57th
+Shuttle launch. The Transfer Orbit Stage was deployed at 2113 on Sep 12
+and ignited at 2158 to place its ACTS (Advanced Communications
+Technology Satellite) payload in geostationary transfer orbit. The
+German ASTRO-SPAS carrier with the ORFEUS telescope was deployed on Sep
+13 at 1506  into a 297 x 327 km orbit inclined 28.5 deg. ORFEUS-SPAS
+carries an ultraviolet telescope with high spectral resolution for
+absorption line studies. It is due to be retrieved before the end of the
+mission. Cameras on ORFEUS-SPAS got beautiful views of Discovery as it
+separated (well, *I* thought they were great). Carl Walz and Jim Newman
+carried out a 7 hour 5 minute spacewalk on Sep 16 to test tools
+scheduled for use in the HST repair later this year. 
+
+Meanwhile, Columbia is due to be rolled out to pad 39B on Sep 17.
+
+Mir
+---
+
+The Expedition 14 crew of Vasiliy Tsibliev and Aleksandr Serebrov 
+continue in orbit aboard the Mir complex. 
+
+Launches
+--------
+
+Kosmos-2262, launched on Sep 7, appears from its orbit to
+be the fifth in a new series of imaging satellites which fly
+two-month long missions. After a day in a 172 x 290 km x 65 degree
+parking orbit, the satellite moved to an operational orbit
+of 207 x 323 km x 65 degrees. Previous satellites in the
+series, which have flown one a year since 1989, were Kosmos-2031,
+2101, 2163, and 2225. 
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug 24 1050?    Resurs-F1       Soyuz           Plesetsk        Remote s.  53A
+Aug 30 1238     Navstar GPS 35  Delta 7925      Canaveral LC17  Navigation 54A
+Aug 31 0450?    Meteor-2   )    Tsiklon         Plesetsk        Weather    55A
+                Temisat    )                                               55C
+Sep  3 1117     UHF F2          Atlas I  AC-75  Canaveral LC36  Comsat     56A
+Sep  7 1330?    Kosmos-2262     Soyuz           Baykonur        Recon      57A
+Sep 12 1145     Discovery       Shuttle         Kennedy LC39B   Spaceship  58A
+Sep 12 2113     ACTS            TOS             Discovery, LEO  Comsat     58B
+Sep 13 1506     ORFEUS-SPAS     -               Discovery, LEO  Astronomy  58C
+
+
+Reentries
+---------
+
+Aug  5          Kosmos-2260     Landed
+Aug 18          Molniya-3 (22)  Reentered
+Aug 28          Meteor-Priroda (77-57A) Reentered
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        VAB Bay 3     STS-58
+OV-103 Discovery       LEO           STS-51
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-34/ET-57/OV-102 VAB Bay 3   STS-58
+ML2/RSRM-23/             VAB Bay 1   STS-61
+ML3/                     Refurb      STS-51
+
+Shuttle Processing Explanation (or,  what are all these acronyms
+anyway?):
+
+ The Shuttle consists of an Orbiter (OV), an expendable External Tank
+(ET), and a reusable pair of Redesigned Solid Rocket Motors (RSRM), also
+knownas SRBs (Solid Rocket Boosters).  The OV is prepared for flight in
+the Orbiter Processing Facility (OPF) which consists of three bays (one
+of which is actually a separate building) after which it is towed to the
+Vehicle Assembly Building (VAB) and `mated to the stack' or joined to
+the ET and RSRM. First, the segments of the RSRM are stacked up on a
+Mobile Launch Platform (ML) and then the ET is connected to it. After
+the OV is mated, a Crawler-Transporter is moved underneath the ML and
+carries the ML/RSRM/ET/OV stack to one of the two pads (A or B) at
+launch complex 39 (LC39) where it is eventually launched on a Space
+Transportation System (STS) mission. Occasionally an OV is returned to
+the Rockwell International plant in Palmdale, California for refit - an
+Orbiter Maintenance Down Period or OMDP.  After launch the ML is
+returned to a refurbishment area near the VAB and then is used for
+stacking a new set of RSRMs.
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+
+        

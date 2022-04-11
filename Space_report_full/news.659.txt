@@ -1,0 +1,175 @@
+Jonathan's Space Report
+No. 659                                        2012 May 25  Somerville, MA USA
+--------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+The undocking of Soyuz TMA-22 marked the start of ISS Expedition 31. The
+current Ex 31 crew are commander Oleg Kononenko, flight engineer 5 Andre
+Kuipers, and flight engineer 6 Don Pettit (Note that the flight engineer
+numbers I gave in JSR 658 were incorrect).
+
+At 0301 UTC on May 15 Soyuz TMA-04M (spacecraft 11F732A47 No. 705) was
+launched from Baykonur on a Soyuz-FG rocket carrying Gennadiy Padalka,
+Sergey Revin and Joe Acaba. It docked with the ISS' Poisk module on May
+17 at 0436 UTC.
+
+At 0744:38 UTC on May 22 SpaceX launched a Falcon 9 vehicle from Cape
+Canaveral carrying the Dragon COTS 2+ DEMO mission. The Dragon C2+
+spacecraft was placed in a 297 x 346 km x 51.6 deg orbit. Dragon
+consists of a pressurised cabin with cargo and an unpressurized trunk
+section with solar panels, which deployed just after orbit insertion.
+The robot cargo vehicle is designed to deliver cargo to the Station
+and return cargo to Earth.
+
+SpaceX are being secretive about the properties of the Dragon vehicle -
+they have not released the mass of the spacecraft. The claimed capacity
+of Falcon 9 to LEO is around 10 metric tons, but my guess is that
+Dragon C2+ is more like 5 to 7 metric tons at stage 2 separation (comments
+and information solicited).
+
+A Celestis space burial capsule (with cremated human remains) is attached
+to the Falcon 9 second stage, in a 268 x 333 km x 51.7 deg orbit.
+
+On May 24 Dragon C2+ was in a 380 x 396 km orbit and made a 2.5 km flyby
+of the Station at 1125 UTC; rendezvous and capture is expected on May
+25. On May 25 the spacecraft entered the ISS 200-meter keep-out-sphere
+at 1121 UTC. Approach was paused briefly to debug an issue with the
+lidar, which was affected by unexpected reflections from the Kibo
+Exposed Facility, but the 30-meter hold point was reached at 1313 UTC,
+followed by the 10-meter point at 1347 UTC and capture by the station's
+SSRMS robot arm at 1356 UTC. At 1552 UTC the SSRMS berthed the Dragon at
+the nadir CBM port on the Harmony module, with berthing complete at 1602
+UTC. Hatch opening on May 26 will represent the first delivery of cargo
+to the Station by a commercial spacecraft.
+
+
+CZ-4B launch
+------------
+
+China launched a three-stage Chang Zheng 4B rocket on May 10, orbiting
+the Yaogan 14 military remote sensing satellite to a 473 x 479 km x 97.2
+deg, 2:14pm sun-sunchronous orbit. It also deployed the Tiantuo 1
+technology satellite for the National University of Defense Technology.
+Tiantuo ('Space Pioneer') carries an imager, an atomic oxygen sensor,
+and an AIS (maritime tracking) receiver. Tiantuo 1 is in a 468 x 471 km
+x 97.2 deg orbit.
+
+Ariane 5
+--------
+
+Arianespace launched an Ariane 5ECA on May 15, placing in orbit
+two Lockheed Martin A2100 class satellites: JCSAT 13 for Sky Perfect JSAT,
+and Vinasat 2 for VNPT (Vietnam Posts and Telecom). I believe that
+JCSAT 13 has a Leros 1C apogee engine, while Vinasat 2 has the Japanese IHI BT-4
+(can anyone confirm or refute this?).
+
+On May 23 JCSAT 13 was in a 35731 x 35772 km x 0.1 deg orbit drifting east over 125E;
+Vinasat-2 was in a 35716 x 35761 km x 0.1 deg orbit drifting east over 131E.
+The ESC-A upper stage was in a 264 x 35665 km x 1.7 deg geostationary transfer orbit.
+
+
+Kosmos-2480
+-----------
+
+A new Kobal't-M imaging spy satellite was launched on May 17 from
+Plesetsk into a 186 x 255 km x 81.4 deg orbit - the second Kobal't-M to
+this near polar inclination. The satellite was given the cover name
+Kosmos-2480. At about 0750 UTC on May 20 the satellite's orbit was
+raised to 218 x 248 km as it began its operational mission.
+
+Shizuku
+-------
+
+Japan's JAXA space agency launched H-IIA flight F21 from Tanegashima on
+May 17 into a 1:30am local time sun-synchronous orbit at 670 x 674 km x
+98.2 deg. The main payloads are Shizuku, JAXA's first satellite in the
+Global Change Observation Mission series, and Arirang-3 (Kompsat-3), a
+South Korean imaging satellite. JAXA's 50 kg SDS-4 Small Demonstration
+Satellite (kogata jissho eisei 4-gata) carries four technology
+experiments including a space-based AIS (ship tracking) payload. A small
+ 7 kg satellite built by the Kyushu Institute of Technology, Horyu-2,
+will study spacecraft charging effects and test a camera payload for
+Surrey Satellite. (My Japanese colleague K. Sato informs me that Horyu
+is an imaginary 'Phoenix-Dragon' - Ho + Ryu - which serves as KIT's
+emblem). The second stage will be monitored after payload deployment to
+study improved propellant insulation.
+
+Shizuku (`dewdrop', GCOM-W1) is a 1991 kg satellite carrying a microwave
+scanning radiometer, AMSR-2.
+
+In addition to the four payloads and the second stage, the upper payload
+adapter and two side panels from the lower fairing were cataloged in orbit,
+for a total of 8 objects.
+
+
+Nimiq-6
+--------
+
+A Krunichev Proton-M was launched from Baykonur on May 17. The Briz-M
+No. 99530 upper stage carries the Canadian Nimiq-6 television broadcast
+satellite, a Loral 1300-series vehicle with 24 Ku-band transponders; it
+was deployed to a 11985 x 35800 km x 10.2 deg transfer orbit. By May 23
+Nimiq 6 was in a 35738 x 35751 km x 0.0 deg geostationary drift orbit,
+drifting east over 139W.
+
+Suborbital launches
+-------------------
+
+Russian carried out the second launch of a new generation ballistic missile
+on May 23. The missile is thought to be a modification of the Topol' series,
+and is possibly code-named 'Avangard'.
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Apr  3 2312   NROL-25            Delta 4M+(5,2)    Vandenberg SLC6   Radar     14A
+Apr 12 2239   Kwangmyongsong-3   Unha-3            Sohae             Tech      F01
+Apr 20 1250   Progress M-15M     Soyuz-U           Baykonur LC31/6   Cargo     15A
+Apr 23 2218   Yahsat-1B          Proton-M/Briz-M   Baykonur LC200/39 Comms     16A
+Apr 26 0017   RISAT-1            PSLV-XL           Sriharikota       Radar     17A
+Apr 29 2050   Beidou DW 12     ) Chang Zheng 3B    Xichang LC2       Nav       18A
+              Beidou DW 13     )                                     Nav       18B
+May  4 1842   AEHF 2             Atlas V 531       Canaveral SLC41   Comms     19A
+May  6 0710   Tianhui 1-02       Chang Zheng 2D    Jiuquan SLS2      Imaging   20A
+May 10 0706   Yaogan Weixing 14) Chang Zheng 4B    Taiyuan           Imaging   21A
+              Tiantuo 1        )                                     Tech/Sci  21B
+May 15 0301   Soyuz TMA-04M      Soyuz-FG          Baykonur LC1/5    Spaceship 22A
+May 15 2213   JCSAT 13   )       Ariane 5ECA       Kourou ELA3       Comms     23A?
+              Vinasat 2  )                                           Comms     23B?
+May 17 1405   Kosmos-2480        Soyuz-U           Plesetsk LC16     Imaging   24A
+May 17 1639   Shizuku    )       H-2A              Tanegashima Y1    Climate   25A
+              Arirang-3  )                                           Imaging   25B
+              SDS-4      )                                           Tech      25C?
+              Horyu-2    )                                           Tech      25D
+May 17 1912   Nimiq 6            Proton-M/Briz-M   Baykonur LC81/24  Comms     26A
+May 22 0744   Dragon C2  )       Falcon 9          Canaveral LC40    Cargo     27A
+              Celestis 11)                                           Burial    27B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Apr  5 1418   SL-6             SpaceLoft XL       Spaceport America   Tech         117
+Apr 19 0237   Agni RV          Agni V             Chandipur           R&D          800
+Apr 25        Shaheen RV       Shaheen 1A         Somniani?           R&D          100?
+May 10 0618   FTM-16/2A Target Terrier Orion      Kauai               Target       100?
+May 10 0620?  FTM-16/2A KV     SM-3 Block IB      USS Lake Erie       Intercept    100?
+May 23 0615   RV               Topol'-M2?         Plesetsk            R&D         1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

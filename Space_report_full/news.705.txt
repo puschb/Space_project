@@ -1,0 +1,223 @@
+Jonathan's Space Report 
+No. 705                                                       2014 Nov 14    Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 41 commander Max Suraev and flight engineers  FE-5 Reid
+Wiseman and FE-6 Alex Gerst returned to Soyuz TMA-13M on Nov 9. FE-3
+Barry 'Butch' Wilmore then became ISS commander of Expedition 42,
+staying on the station with FE-1 Aleksandr Samokutyaev and FE-2 Elena
+Serova.
+
+Soyuz TMA-13M undocked from Rassvet at 0031 UTC Nov 10. The deorbit
+burn at 0305 UTC reduced velocity by 128 m/s, dipping perigee into the atmosphere.
+Landing in Kazakhstan came at 0358:35 UTC.
+
+Rosetta and Philae
+-------------------
+
+The 85 kg Philae lander was ejected from the Rosetta probe 22 km from
+Comet 67P/Churyumov-Gerasimenko at 0835 UTC Nov 12. Philae's thruster
+was not working, and at 1533 UTC on contact with 67P's surface at the
+Agilkia landing site the harpoons intended to lock it to the surface
+apparently did not  deploy. The lander bounced off the surface gently
+and settled down in another location at 1726 UTC, for a second briefer
+bounce that resulted in final touchdown at 1733 UTC, with the lander
+tilted, with one of its three legs off the surface. The lander is in the
+shadow of a crater cliff and not receiving enough sunlight to recharge
+its 2.5-day-life batteries. Science data is being received, but at the
+moment it looks like a race against time. However, the situation is evolving
+rapidly.
+
+    Comet missions
+    --------------
+
+    Spacecraft           Comet              Closest Approach, Date         Notes
+    ----------------------------------------------------------------------------
+    ISEE-3               21P/Giacobini-Zinner    7870 km   1985 Sep 11     Flyby
+    Vega-1               1P/Halley               8900 km   1986 Mar  6     Flyby
+    Suisei               1P/Halley             151000 km   1986 Mar  8     Flyby
+    Vega-2               1P/Halley               8030 km   1986 Mar  9     Flyby
+    Giotto               1P/Halley                596 km   1986 Mar 13     Flyby, imaging
+    Giotto               26P/Grigg-Skjellerup     200 km   1992 Jul 10     Flyby
+    Sakigake        45P/Honda-Mrkos-Pajdusakova 10000 km?  1996 Feb 11?    Flyby, no data?
+    Deep Space 1         19P/Borrelly            2171 km   2001 Sep 22     Flyby
+    Contour        (   2P/Encke                           (2002 Aug)       Probe failed
+                   (  73P/Schwassmann-Wachmann 3                       (blew up departing Earth)
+                   (   6P/d'Arrest
+    Stardust             81P/Wild 2               250 km   2004 Jan  2     Dust collection
+    Deep Impact          9P/Tempel 1                0 km   2005 Jul  4     Impact
+    DI Flyby Probe       9P/Tempel 1              500?km   2005 Jul  4     Flyby,imaging
+    DI Flyby Probe       103P/Hartley 2           700 km   2010 Nov  4     Flyby,imaging
+    Rosetta           67P/Churyumov-Gerasimenko    10 km   2014 Oct        Orbiter
+    Philae            67P/Churyumov-Gerasimenko     0 km   2014 Nov 12     Lander
+
+Chinese lunar probe
+-------------------
+
+The Chang'e-5 Flight Test Vehicle (Chang'e wu hao feixing shiyan qi),
+also called the Reentry Return Flight Test Mission (Zai ru Fanhui
+Feixing Shiyan Renwu), passed around 11300 km from the Moon on Oct 27
+and returned to Earth on Oct 31. The descent capsule separated from the
+main vehicle at 2153 UTC and landed north of Hohhot at 2242 UTC. The
+service module (fuwu cang) made a burn at 2156 UTC to avoid reentry and
+swung past the Earth to head out towards the Earth-Moon L2 point.
+
+The orbital analysis mentioned in JSR704 was the work of Cees Bassa.
+
+Kosmos-2499
+-----------
+
+The Kosmos-2499 satellite launched in May continues manuevering in
+orbit. On Oct 28 at about 1035 UTC the satellite raised its orbit from
+927 x 1485 km to 1054 x 1493 km. Then on Nov 9 at about 0540 UTC it made
+a final burn to complete  its rendezvous with the Briz rocket stage that
+launched it, in an 1151 x 1502 km orbit.
+
+
+
+ASNARO
+-------
+
+The Japanese ASNARO high resolution imaging satellite was placed in orbit by a Dnepr rocket launched
+from the Dombarovskiy/Yasniy missile base in Russia on Nov 6. The satellite was developed by
+NEC and is managed by Japan Space Systems (formerly USEF, part of the Ministry of Trade and
+Industry) rather than by the main Japanese space agency JAXA. The 495 kg ASNARO has 0.5m resolution
+on a 10 km nadir swath width and is in a 505 x 506 km x 97.5 deg sun-synchronous orbit
+with a 1057 local time descending node (LTDN).
+
+Four small (50 kg) Japanese satellites were also carried: Tsubame,
+Hodoyoshi-1, Kinshachi-1 and Tsukushi. Tsubame ('Swallow') is an
+astronomy satellite from the Tokyo Institute of Technology (Tokyo kogyo
+daigaku) and carries a hard X-ray polarimeter to study the polarization
+of gamma ray bursts. Hodoyoshi-1, from the University of Tokyo and
+AXELSPACE, carries an imager with 6.8m resolution and 28 km swath.
+Kinshachi-1, also known as ChubuSat-1, is a project of Nagoya and Daido
+universities. (The name Kinschachi refers to the golden sea-monster
+statues on Nagoya castle; Nagoya and Daido are in the Chubu region of
+Japan). It carries a 10m res, 14 km swath imager, a 130m res, 7-13
+micron infrared camera reported to be for atmosphere temperature
+profiles and space debris monitoring. and an amateur radio relay
+payload. The Tsukushi ('Horsetail'; also an old name for the Kyushu
+region) payload is also called QSAT-EOS: Kyushu Satellite for Earth
+Observation System Demonstration. The sastellite carries a CMOS camera
+with 4m res and 7 km swath, a magnetometer and an in-situ space debris
+detector, as well as a deployable 3-meter kapton sail used as a drag
+augmentation device.
+
+The Dnepr rocket deposits its payloads while still gaining velocity, resulting in slightly different orbits:
+  70G  GDS nosecone  478 x 507 km  (Platform A attached?)
+  70A  ASNARO        505 x 506 km x 97.5 deg
+  70B  Hodoyoshi-1   506 x 524 km x 97.5 
+  70C  Kinshachi-1   506 x 537 km x 97.5
+  70D  Tsukushi      506 x 553 km x 97.5
+  70E  Tsubame       505 x 568 km x 97.5
+  70F  Third stage   485 x 1942 km    
+
+
+Erratum: JSR 704 should have been dated Oct 30. Oops.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+
+Oct  7 0516   Himawari-8         H-IIA             Tanegashima       Weather      60A
+Oct 15 2002   IRNSS-1C           PSLV-XL           Sriharikota FLP   Navigation   61A
+Oct 16 2144   Intelsat IS-30 )   Ariane 5ECA       Kourou ELA3       Comms        62A
+              ARSAT-1        )                                       Comms        62B
+Oct 20 0631   Yaogan 21          Chang Zheng 4C    Taiyuan           Imaging?     63A
+Oct 21 1509   Ekspress AM-6      Proton-M/Briz-M   Baykonur LC81/24  Comms        64A
+Oct 23 1800   CE-5 FTD )         Chang Zheng 3C/G2 Xichang           Lunar probe  65A
+              4M       )                                            Amateur radio 65B
+Oct 27 0659   SJ-11 08           Chang Zheng 2C    Jiuquan         Surveillance?  66A
+Oct 28 2220   Cygnus ORB-3     ) Antares 130       Wallops MARS 0A   Cargo        F02
+              RACE             )                                     Science      F02
+              Arkyd-3          )                                     Tech         F02
+              GOMX-2           )                                     Comms AIS    F02
+              Flock-1d 1 to 26 )                                     Imaging      F02
+Oct 29 0709   Progress M-25M     Soyuz-2-1a        Baykonur LC31     Cargo        67A
+Oct 29 1721   GPS SVN 69         Atlas V 401       Canaveral SLC41   Navigation   68A
+Oct 30 0143   Meridian No. 17L   Soyuz-2-1a/Fregat Plesetsk LC43/4   Comms        69A
+Nov  6 0735   ASNARO      )      Dnepr             Yasniy            Imaging      70A
+              Hodoyoshi-1 )                                          Imaging      70B
+              Kinshachi-1 )                                          Imaging      70C
+              Tsukushi    )                                          Imaging      70D
+              Tsubame     )                                          XR Astron    70E
+
+Suborbital missions
+-------------------
+
+Russia launched a Bulava missile from the Yuri Dolgorukiy submarine in the Barents
+Sea on Oct 29; multiple reentry vehicles flew a suborbital trajectory to
+the Kura target range in Kamchatka.
+
+I don't normally cover rocket flights within the Earth's atmosphere, but
+the Oct 31 Spaceship Two accident is noteworthy - as well as tragic.
+Spaceship Two S/N 01 'VSS Enterprise' was a rocket-powered glider
+dropped from the White Knight 2 carrier aircraft, based at Mojave
+Spaceport in California, and was intended for passenger suborbital
+flights to be operated by Virgin Galactic. The vehicle had made 12
+captive flights, 32 glide flights, and 3 rocket-powered flights prior to
+the accident. The glide flights had been piloted by a mixture of Scaled
+Composites and Virgin Galactic test pilots, but the powered flight tests
+were mostly led by the Scaled Composites team (one flight was piloted by
+Virgin Galactic test pilot D. Mackay). Only short rocket burns had been
+made and the highest apogee was only 22 km.  On Oct 31, flight PF04 made
+a short rocket burn of 9 seconds, at which point the co-pilot unlocked
+the rotating tail booms, apparently by mistake; these were not intended
+to be deployed at the then speed of around Mach 1.0 during
+rocket-powered flight. The unlocked booms then accidentally deployed
+('feathered'), followed by disintegration of the vehicle. The debris
+fell near Koehn Lake in California, about 40 km NE of the takeoff
+airport at Mojave. Pilot Pete Siebold parachuted to safety and was
+hospitalized with serious injuries, but is now recovering at home;
+co-pilot Mike Alsbury was killed in the crash. The second SS Two, S/N 02
+'VSS Voyager', is under construction at Mojave.
+
+The flights were:
+          Date                 Apogee   Burn time(s)   Pilots
+                                 km       s
+    PF01  2013 Apr 29 1447UTC  17       16          Mark Stucky, Mike Alsbury
+    PF02  2013 Sep  5 1611UTC  22       20          Mark Stucky, Clint Nichols
+    PF03  2014 Jan 10 1600UTC? 21       20          David Mackay (VG), Mark Stucky 
+    PF04  2014 Oct 31 1709UTC  16?       9?         Pete Siebold, Mike Alsbury
+
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+NASA 36.253US RAISE-2 was launched on Nov 6 to obtain time-resolved UV spectra
+of solar active regions.
+
+The FTM-25 missile defense test used an ARAV short range target with a separating
+dummy warhead; probably an ARAV-B Terrier Oriole vehicle was used, or maybe an ARAV-A
+Terrier Orion.
+
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Oct  7 1310   SR-10            Sounding Rocket     Jiupeng          Ionosphere    286
+Oct 12 0427   MDA Target?      Terrier Lynx        Wallops I        Target?       150?
+Oct 17 0708   FTX-20           MRBM-T3?            Kauai            Target        300?
+Oct 23 1333   SL-9             SpaceLoft XL        Spaceport America Micrograv    124
+Oct 29 1727   RVs              Bulava            K-535, Barents Sea Test         1000?
+Nov  1 0620   RV               Topol'-M            Plesetsk         Test         1000?
+Nov  5        RV               Sineva            K-114, Barents Sea Test         1000?
+Nov  6 1907   RAISE 2          Black Brant IX      White Sands      Solar         300?
+Nov  6 2203   FTM-25 Target    Terrier Oriole?     Kauai            Target        150?
+Nov  6 2206?  Aegis KV         SM-3-IB           DDG-53, Pacific    Interceptor   150?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

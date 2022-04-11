@@ -1,0 +1,157 @@
+Jonathan's Space Report 
+No. 234               1995 Mar 19                   Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+--------
+
+Endeavour landed on the concrete Edwards runway 22 at 
+2147:00 on 1995 Mar 18, ending the longest Shuttle mission yet.
+Duration was 16 days 15 hr 8 min 47 sec. The deorbit burn
+was at 2039:13 and lasted an unusually long 5 min 0 sec, placing
+Endeavour in a 33 x 357 km descent orbit. OV-105's next flight
+is STS-69 in the summer; first comes the Atlantis docking with
+Mir and Discovery's deployment of a TDRS comsat.
+
+The External Tank, ET-70, for mission STS-71 was mated to the solid
+rocket boosters on Mar 16.
+
+Mir
+---
+
+Soyuz TM-21 (spacecraft 11F732 no. 70) was launched at 0611:34 on 1995
+Mar 14 carrying the EO-18 Mir crew, Vladimir Dezhurov, Gennadiy
+Strekalov and Norman Thagard.  According to Vladimir Agapov, orbit
+insertion and separation of the 7170 kg spaceship from the Blok-I third
+stage was at 0620:23. Soyuz TM-21 entered an 88.61 min, 190 x 220 km x
+51.65 deg orbit; (Note: this is based on a spherical Earth and the Space
+Command elements; Agapov reports a 201 x 247 km orbit based on an oblate
+Earth and Russian elements. I haven't attempted to reconcile the data.)
+Two burns at 0946 and 1045 UTC raised the orbit to 89.89 min, 231 x 306
+km. A small phasing burn was carried out the following day at 0709, and
+then two final rendezvous burns raised the orbit to 92.43 min, 390 x 396
+km, matching that of the Mir station.  Soyuz docked with Mir at 0745:26
+UTC on Mar 16 and the crew entered Mir at around 0930.  Launch of  TM-21
+meant that there were 13 people in space at once for the first time
+ever: Dezhurov, Strekalov, Thagard on Soyuz; Viktorenko, Kondakova and
+Polyakov on Mir; and Oswald, Gregory, Lawrence, Jernigan, Grunsfeld,
+Parise, and Durrance on Endeavour.
+
+The Soyuz TM spaceship is made up of three sections:  the
+priborno-agregatniy otsek (service-equipment module), 3057 kg, which
+contains the engine and carries the solar panel wings; the spuskaemiy
+apparat (descent vehicle), 2835 kg, with heat shield, command and
+control cabin, and the three cosmonaut couches; and the bitovoi otsek
+(living module) of 1278 kg with the docking unit. Thagard is the
+first American to be launched in a Soyuz, although the ASTP crew
+flew in one while their Apollo craft was docked to it in 1975.
+Soyuz TM-21 was launched by the Soyuz-U2 (11A511U2) variant of 
+Energiya's standard R-7 based launch vehicle.
+
+The Progress M-26 cargo craft undocked on Mar 15 at 0226:38
+and deorbited itself over the Pacific at 0528 UT.
+
+Recent Launches
+--------------------------------------------------------------------------------
+
+Japan's NASDA space agency launched the third H-II launch vehicle from
+Tanegashima on Mar 17. Launch was at 2001 UTC; the first stage flew a
+suborbital trajectory, and the LE-5A second stage completed its first
+burn to enter a  322 x 336 km x 28.5 deg orbit, deploying the SFU (Space
+Flyer Unit) satellite at 2014. The LE-5A then ignited again to enter
+geostationary transfer orbit, and at 2028 the second payload,
+Geostationary Meteorological Satellite 5, separated into a 329 x 36669 x
+28.5 deg orbit.
+
+The SFU will carry out materials processing, technology and astronomy
+experiments, and will be retrieved by the STS-72 mission in December. It
+carries the 0.15m liquid helium cooled IR Telescope in Space (IRTS),
+with near and mid infrared spectrometers; a biology experiment studying
+salamander eggs; an electron density experiment; materials  processing
+furnaces; and technology experiments with solar arrays and an electric
+thruster. It also carries an experimental platform to test technology
+for the JEM Exposed Facility planned for the Space Station, and as such
+it is the first flight element of Japan's Station program.
+
+GMS-5 carries a Star 27 solid motor which is intended to place it in
+geostationary orbit. The satellite has visible and IR radiometers
+and will continue the Japanese Meteorological Agency's operational
+weather satellite system.
+
+Foton 10 landed on Mar 3, 135 km SE of Orenburg in Russia. The descent cabin
+was later severely damaged when it was dropped from the helicopter carrying
+it back for deintegration; many of the experiments were destroyed.
+
+Telemetry has been received from the Clementine probe in solar orbit,
+last heard from in Jul 1994. Further attempts will be made to restore
+comms with the probe.
+
+
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Feb  3 0522   Discovery    )  Space Shuttle   Kennedy LC39B   Spaceship   04A
+              Spacehab SH03)
+Feb  4 0457   ODERACS II A )                  Discovery, LEO  Calibration 04C
+              ODERACS II D )                                  Calibration 04F
+              ODERACS II C )                                  Calibration 04E
+              ODERACS II B )                                  Calibration 04D
+              ODERACS II F )                                  Calibration 04H
+              ODERACS II E )                                  Calibration 04G
+Feb  7 1226   Spartan 204                     Discovery, LEO  Astronomy   04B
+Feb 15 1648   Progress M-26   Soyuz-U         Baykonur LC1    Cargo       05A
+Feb 16 1740   Foton No. 10    Soyuz-U         Plesetsk LC43   Materials   06A
+Mar  2 0638   Endeavour    )  Space Shuttle   Kennedy LC39A   Spaceship   07A
+              Astro 2      )
+Mar  2 1300   Kosmos-2306     Kosmos-3M       Plesetsk LC132  Calibration 08A
+Mar  7 0923   Kosmos-2307  )  Proton-K/DM2    Baykonur LC200  Navigation  09A
+              Kosmos-2308  )                                  Navigation  09B
+              Kosmos-2309  )                                  Navigation  09C
+Mar 14 0611   Soyuz TM-21     Soyuz-U2        Baykonur LC1    Spaceship   10A
+Mar 17 2001   SFU          )  H-II            Tanegashima     Science     
+              GMS-5        )                                  Weather 
+
+Reentries
+---------
+
+Jan 15        EXPRESS         Reentered
+Feb 11        Discovery       Landed at KSC
+Feb 12        BREMSAT         Reentered
+Feb 16        Progress M-25   Deorbited
+Feb 23        Molniya-1 (58)  Reentered
+Feb 24        ODERACS F       Reentered
+Feb 27        ODERACS II E    Reentered
+Mar  2        ODERACS II D    Reentered
+Mar  3        ODERACS E       Reentered
+Mar  3        Foton 10        Landed in Russia
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-70  Jun 22  
+OV-104 Atlantis        OPF Bay 3     STS-71  Jun
+OV-105 Endeavour       EAFB RW22     STS-67  
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                                 STS-70
+ML2/                                 STS-67
+ML3/RSRM-45/ET-70          VAB Bay 1 STS-71
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

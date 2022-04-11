@@ -1,0 +1,110 @@
+Jonathan's Space Report
+No. 277                  1996 Feb 21                  Cambridge, MA
+--------------------------------------------------------------------------------
+
+Editorial
+---------
+
+I'll be away on travel until Mar 3, and won't be able to follow the
+details of the Soyuz TM-23 flight and the forthcoming STS-75 flight. 
+Normal service will resume after I return - in the meantime I solicit
+help in recording times of events such as TM-23 docking and STS-75
+tether deploy.
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-75/Columbia, due on Feb 22.
+
+
+Mir
+---
+
+Launch of the EO-21 crew, Yuriy Ivanovich Onufrienko and Yuriy
+Vladimirovich Usachyov (callsign Skif-1 and Skif-2) took place on Feb
+21. At 1300 UTC Soyuz TM-23 was in a 200 x 233 km x 51.6 deg orbit. It
+was expected to dock with Mir on Feb 23. The new crew will replace
+Gidzenko, Avdeev and Reiter who are due to return to Earth on Feb 29.
+
+Recent Launches
+--------------
+
+A Raduga comsat built by NPO Prikladnoi Mekhaniki was launched using
+a Proton rocket from Baykonur on Feb 19. The three-stage Proton-K
+launch vehicle entered a 185 km circular orbit inclined at 51.6 deg
+to the equator. The Raduga and the Blok-DM2 upper stage separated
+from the Proton-K's third stage, and the Blok-DM2 ignited for its
+first burn, placing the spacecraft in a 241 x 36502 km x 48.6 deg
+transfer orbit. The Blok-DM2 should have restarted six hours later
+at apogee to circularize the orbit at geostationary altitude, but
+this did not occur, and the payload separated in transfer orbit.
+This is the first failure of a Blok-DM2 stage since Feb 1988, when
+three Glonass/Uragan satellites were stranded in low orbit.
+
+Six small comsats were launched by a Tsiklon-3 rocket from Plesetsk
+on Feb 19. Three of the satellites replenished the existing Strela military
+network, while three were the new Gonets civilian variant.
+The satellites were placed in 1400 km circular orbits with an inclination
+of 82.6 deg.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jan 11 0941   Endeavour        Shuttle        Kennedy LC39    Spaceship   01A
+Jan 12 2310   Panamsat 3R  )   Ariane 44L     Kourou ELA2     Comsat      02A
+              Measat 1     )                                  Comsat      02B
+Jan 14 1111   Koreasat 2       Delta 7925     Canaveral LC17B Comsat      03A
+Jan 14 1132   OAST-Flyer                      OV105, LEO      Science     01B 
+Jan 16 1533   Kosmos-2327      Kosmos-3M      Plesetsk LC132  Navsat      04A
+Jan 25 0956   Gorizont         Proton-K/DM2   Baykonur LC200  Comsat      05A
+Feb  1 0115   Palapa C-1       Atlas IIAS     Canaveral LC36B Comsat      06A
+Feb  5 0719   N-STAR b         Ariane 44P     Kourou ELA2     Comsat      07A
+Feb 14 1901   Intelsat 708     Chang Zheng 3B Xichang         Comsat      FTO
+Feb 17 2043   NEAR             Delta 7925-8   Canaveral LC17B Space probe 08A
+Feb 19 0100?  Gonets-D1  )                                                09A?
+              Gonets-D1  )                                                09B?
+              Gonets-D1  )     Tsiklon-3      Plesetsk        Comsats     09C?
+              Kosmos-2328)                                                09D?
+              Kosmos-2329)                                                09E?
+              Kosmos-2330)                                                09F?
+Feb 19 0830?  Raduga           Proton-K/DM2   Baykonur        Comsat      10A
+Feb 21 1234   Soyuz TM-23      Soyuz-U2       Baykonur        Spaceship   11A
+
+
+Payloads no longer in orbit
+--------------------------
+
+Jan 20        Endeavour       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       KSC RW15      STS-77  May 16
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-54/             VAB Bay 1      STS-77
+ML2/RSRM-46/ET-77        VAB Bay 3      STS-76                       
+ML3/RSRM-53/ET-76/OV-102 LC39B          STS-75                                     
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

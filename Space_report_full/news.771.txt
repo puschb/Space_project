@@ -1,0 +1,194 @@
+Jonathan's Space Report 
+No. 771                                                         2019 Nov 17   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+The Canadarm-2 unberthed Japan's HTV 8 cargo ship at about 1230 UTC Nov 1 and released
+it into orbit at 1721 UTC. Burns at 1941 UTC Nov 2, 2112 UTC Nov 2 and 0141 UTC Nov 3
+lowered the perigee to 250, 145 and about 12 km respectively.
+HTV 8 reentered over the south Pacific at about 0209 UTC Nov 3.
+
+The first launch in the CRS2 commercial cargo supply contract was carried out on Nov 2.
+Cygnus flight NG-12 was launched aboard the first Antares 230+. The new rocket has
+minor changes from the Antares 230, including a redesigned stage 1/2 interstage section.
+The Castor 30XL second stage motor and the Cygnus were inserted in a 187 x 257 km x 51.6 deg
+orbit. Cygnus NG-12 has been named the S.S. Alan Bean.
+
+Cygnus had a launch mass of 8011 kg and carried 3586 kg of pressurized cargo and 119 kg
+of external cargo. The latter consisted of the NanoRacks NRCSD-E external deployer with seven
+cubesats aboard. Inside Cygnus is the US Air Force STPSAT-4 satellite (for SSIKLOPS deploy,
+probably around 50 kg), five cubesats with the NanoRacks NRCSD-17 package to be deployed from
+the Kibo module, and two more unidentified cubesats.
+
+On Nov 4, NG-12 completed its rendezvous with the ISS. The Canadarm-2 grappled it at 0910 UTC
+and berthed it at Unity nadir at 1121 UTC.
+
+On Nov 7 at 2240 UTC, Progress MS-12 (docked at the Pirs module) fired its engines for 6min 46s
+to adjust the station's orbit, using about 67 kg of propellant.
+
+On Nov 15 astronauts Parmitano and Morgan carried out spacewalk US
+EVA-59 in suits 3004 and 3008, to begin repairs to the AMS-2 cooling
+system. AMS-2, the Alpha Magnetic Spectrometer, is a particle physics
+experiment which was launched to ISS in 2011 and attached to the S3
+truss segment. The astronauts removed a 9 kg debris shield, jettisoned
+at 1417 UTC, and a small Vertical Support Beam Cover (probably about 1
+kg?), jettisoned at 1616 UTC. They also installed handrails and removed
+smaller internal components to gain access to cooling system.
+ Quest was depressurized at 1133 UTC and the hatch was opened at 1136 UTC; the hatch was
+closed at 1814 UTC and the airlock was repressurized at 1818 UTC.
+
+
+X-37B
+-----
+
+The OTV-5 mission of the X-37B spaceplane ended at 0751 UTC Oct 27 with landing at the SLF
+runway at Kennedy Space Center. 
+
+The USAF announced that the mission was successful while "providing a ride for small satellites".
+No such satellites have been cataloged in the US satellite catalog, nor have they been identified
+in registration notification documents sent to the United Nations, in violation of UN Resolution 
+3235 (XXIX), Convention on Registration of Objects Launched into Outer Space.
+
+Starlink
+--------
+
+The second batch of 60 SpaceX Starlink satellites were launched on Nov 11.
+The Falcon 9 launch vehicle used first stage B1048 on its fourth flight; the
+stage landed on the OCISLY drone ship and the second stage was deorbited
+south of Australia, leaving the 60 payloads and four deployment rods
+in orbit.  The new satellites have both Ka and Ku band antennae.
+This time the payloads were deployed in a 298 x 303 km x 53.0 deg orbit;
+the deployment rods seem to have been ejected in a retrograde direction
+and are in a 275 x 288 km orbit; I expect them to reenter in a few weeks.
+
+The serial numbers of the new payloads are Starlink 1007-1017, 1019-1065, 1067-1068.
+
+Hayabusa-2
+-----------
+
+The MINERVA-II container was released from Hayabusa-2 about 1 km above
+Ryugu at 1557 UTC on Oct 2. Rover 2 separated from the container and
+both objects (container and Rover) are believed to have drifted onto the
+surface by Oct 8. Measurements of the radio beacon on Rover 2 confirmed
+it to be on the surface. However I gather from the JAXA team at IAC2019
+that, as expected, the earlier failure of the Rover 2 computer prevented
+any science data from being obtained.
+
+On Oct 14 Hayabusa-2 returned to its home point 20 km from Ryugu. On Nov 13
+at 0105 UTC, it made a 0.1m/s departure burn to begin the trip back to Earth
+On Nov 18 Hayabusa-2 left Ryugu's gravitational sphere of influence and
+reentered a 0.96 x 1.41 AU x 5.9 deg heliocentric orbit.
+
+
+GaoFen 7
+--------
+
+The GaoFen 7 civilian high resolution imaging satellite was launched to sun-synchronous orbit
+on Nov 3. The launch also carried three small satellites:
+
+  Huangpu-1  (50-100 kg class) developed by Lizheng (Shanghai) for the Dawan District Research Inst, Guangdong.
+  Sudan Kexue Shiyan Weixing (Sudan science experiment satellite, 50-100 kg class?) 
+     developed by Shenzhen DFH HIT for Sudan.
+  Dianfeng (Xiaoxiang-1 08), a 6U cubesat from Tianyi Research for remote sensing and tests of laser
+    communications and a French solid iodine thruster.
+
+Beidou Daohang Weixing 49
+-------------------------
+
+China's BDW 49 navigation satellite was launched to geotransfer orbit on Nov 3.
+The satellite is the third inclined geosynchronous mission in the Beidou-3 system.
+It appears to have made its circularization burn on Nov 5 but no TLEs have
+been released for it in the new orbit as of Nov 16.
+
+
+Jilin-1 Gaofen 2A
+-----------------
+
+On Nov 13 China's EXPACE launched KZ-1A no. Y11 with the Jilin-1 Gaofen
+02A high resolution (0.8m) imaging payload aboard. The satellite entered
+a sun-synchronous orbit with 1000 local time descending node.
+
+Ningxia-1
+---------
+
+On Nov 13, China's CALT launched the third Chang Zheng 6. placing five
+Ningxia-1 satellites in orbit. The satellites are thought to be
+measuring terrestrial radio emissions, either for military signals
+intelligence or for a civilian equivalent (like the Hawkeye 360
+satellites).
+
+KL-Alpha
+--------
+
+On Nov 17, EXPACE launched Kuaizhou-1A no. Y7 with two `global
+multimedia' Ka-band communications satellites, KL-Alpha-A and
+KL-Alpha-B, built by Shanghai's IMICAS for an unnamed German company.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Oct  4 1851   GaoFen 10                   Chang Zheng 4C     Taiyuan        Imaging    66A S44622    612 x   622 x 97.8 0200LT SSO
+Oct  9 1017   MEV-1        )              Proton-M/Briz-M    Baykonur       Servicing  67  S44624? 11989 x 65080 x 13.4
+              Eutelsat 5WB )                                                Comms      67  S44625? 11982 x 64871 x 13.4
+Oct 11 0200   ICON                        Pegasus XL       L1011, Canaveral Science    68A S44628    569 x   569 x 27.0
+Oct 17 0122   Palisade                    Electron           Mahia LC1      Tech       69A S44634   1208 x  1225 x 87.9
+Oct 17 1521   TJS 4                       Chang Zheng 3B     Xichang LC3    Sigint?    70A S44637    195 x 34974 x 27.0
+Nov  2 1359   S.S. Alan Bean              Antares 230+       MARS LA0       Cargo      71A S44701    186 x   257 x 51.6
+Nov  3 0322   Gao Fen 7          )        Chang Zheng 4B     Taiyuan LC9    Imaging    72A S44703    489 x   518 x 97.5 1030LT SSO
+              Huangpu-1          )                                          Imaging?   72C S44706    485 x   505 x 97.5
+              Dianfeng           )                                          Imaging    72D S44705    485 x   505 x 97.5
+              Sudan Kexue Shiyan )                                          Tech       72B S44704    487 x   504 x 97.5
+Nov  4 1743   Beidou DW49                 Chang Zheng 3B     Xichang        Navigation 73A S44709    184 x 35822 x 28.5
+Nov 11 1456   Starlink 1007    )                                           
+                 to            )                                                      74A  S44713    298 x   303 x 53.0
+              Starlink 1017    )          Falcon 9           Canaveral SLC40 Comms     to
+              Starlink 1019    )                                                      74BM S44772    298 x   303 x 53.0
+                 to            )
+              Starlink 1065    )
+              Starlink 1067    )
+              Starlink 1068    )
+Nov 13 0340   Jilin-1 Gaofen 02A          Kuaizhou-1A        Jiuquan        Imaging    75A S44777    532 x   546 x 97.5 1000LT SSO 
+Nov 13 0635   Ningxia-1 01   )            Chang Zheng 6      Taiyuan        Sigint     76A S44779    886 x   898 x 45.0
+              Ningxia-1 02   )                                              Sigint     76B S44780    886 x   898 x 45.0
+              Ningxia-1 03   )                                              Sigint     76C S44781    886 x   898 x 45.0
+              Ningxia-1 04   )                                              Sigint     76D S44782    886 x   898 x 45.0
+              Ningxia-1 05   )                                              Sigint     76E S44783    886 x   898 x 45.0
+Nov 17 1000   KL-Alpha-A )                Kuaizhou-1A        Jiuquan        Comms      77A S44785   1044 x  1058 x 88.9
+              KL-Alpha-B )                                                  Comms      77B S44876   1045 x  1432 x 88.8
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Oct  1 2211   RV                Bukgeukseong-3       Wonsan?             Test          950       Sea of Japan
+Oct  2 0813   GT232GM           Minuteman 3          Vandenberg LF10     Op.Test      1300?      Kwajalein
+Oct  7 1500   DUST              Black Brant 9        White Sands         Physics       338       White Sands
+Oct 17?       RV                Yars                 Plesetsk            Op.Test      1000?      Kura
+Oct 17?       RV x 4?           Sineva            K-18, Barents Sea      Op.Test      1000?      Kura
+Oct 17?       RV x 3?           Volna             K-44, Sea of Okhotsk   Op.Test      1000?      Chiza
+Oct 25 0000   SubTec-8          Terrier Imp.Mal.     Wallops I.          Tech          209       Atlantic
+Oct 27 0430   FORTIS 4          Black Brant 9        White Sands         UV Astron     261       White Sands
+Oct 30 1457   RV x 6?           Bulava            K-549, White Sea       Test         1000?      Kura
+Oct 31 0735   RV                DPRK MLRS            Puckhong?           Test           90       Sea of Japan
+Oct 31 0738   RV                DPRK MLRS            Puckhong?           Test           90       Sea of Japan
+Nov 15 0935   TEXUS 56          VSB-30               Kiruna              Micrograv     256       ESRANGE
+Nov 16 1402   RV                Agni 2               Kalam Island        Test          600?      Indian O.
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+

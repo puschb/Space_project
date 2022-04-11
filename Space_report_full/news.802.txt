@@ -1,0 +1,390 @@
+Jonathan's Space Report
+No. 802                                                    2022 Jan 18       Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+Note
+----
+
+Welcome to the 33rd anniversary issue of JSR!
+
+
+International Space Station
+---------------------------
+
+Expedition 66 continues.
+
+On Jan 7 the Dextre arm moved the STP-H8 experiment payload from the Dragon CRS-24 trunk to the
+EFU2 location on the Kibo Exposed Facility. The previous occupant of EFU2 was the defunct ISS-CREAM
+experiment, which was moved to EFU7 on Dec 6.
+
+On Jan 10 the European ASIM (Atmosphere Space Interactions Monitor) external payload was
+moved by Canadarm-2 from the SDX to the SDN attach point on the Columbus module, to make room for STP-H7.
+On Jan 11 STP-H7 was removed from the CRS-24 trunk and installed on SDX.
+
+On Jan 12 at 1824 UTC the Progress MS-18 cargo ship fired its engines for 395 seconds for a 0.7m/s delta-V
+to raise the ISS orbit by 1.5 km to 414 x 423 km x 51.6 deg.
+
+
+Chinese Space Station - redockings of Tianzhou-2
+------------------------------------------------
+
+On Jan 3, the Tianhe module's robot arm was walked to a base point near the Tianhe forward
+docking hub.
+
+On Jan 5 the Tianzhou-2 cargo ship undocked from the Tianhe forward port at 2212 UTC and remained
+stationkeeping close to the port. The robot arm then grappled the ship and maneuvered it around,
+then returned it to the original capture position and released it. Tianzhou-2 then redocked with
+the forward port at 2259 UTC.
+
+On Jan 7 the crew of the CSS carried out a manually teleoperated undocking and redocking
+of the Tianzhou-2 cargo ship. Tianzhou-2 undocked from the Tianhe forward port around 2200 UTC,
+backed it off about 200 m, and redocked it with the same port on Tianhe at 2355 UTC.
+
+Chinese Space Station - Starlink encounters
+--------------------------------------------
+
+China has complained to the UN (in UN document A/AC.105/1262) that
+Starlink sats are buzzing the Chinese Space Station (CSS). Two incidents
+are mentioned, and analysis of the TLEs confirms that the close passes
+in question did indeed occur as described.
+
+On Jul 1 at 0950 UTC the CMSEO (zhongguo zairen hangtian gongcheng
+bangonghsi, China Human Spaceflight Engineering Office) commanded the
+CSS to make an orbit adjustment to dodge Starlink 1095, which was in the
+process of lowering its orbit towards disposal; a close (km or less)
+pass would otherwise have happened at about 1315 UTC. It appears that
+the Starlink also made a small avoidance burn around the same time, but
+it sounds like there was no advance communication between SpaceX and the
+CMSEO about the pass. 
+
+On Oct 21 the then-recently-launched Starlink-2305 satellite was orbit
+raising through the altitude of the CSS and was predicted to pass within
+1 km of the  Chinese station at about 2200 UTC. The CSS made an orbit
+adjustment at about 0316 UTC to avoid the encounter. In this case
+Starlink-2305 does not appear to have made any avoidance burns.
+
+Note that when a satellite is in a well tracked and stable (constant)
+orbit, prediction of upcoming close passes is relatively straighforward.
+But when the orbital elements of the satellites are constantly changing,
+potentially unpredictably, as in the case of Starlink satellites
+changing their orbit with electric propulsion, prediction of such
+`conjunctions' is not reliably possible. SpaceX appears to take the view that
+other space users should trust them to make avoidance burns and not hit them.
+That may be sufficient for most satellites, but for spacecraft with astronauts
+on board, a wider berth and more active cooperation might seem reasonable.
+
+China says it 'has the honour to refer to article V of the [Outer Space
+Treaty] which provide that [States] should immediately inform the other
+[member states] of any phenomena they discover in outer space ... which
+could consititute a danger to the life or health of astronauts'. In
+other words, implying that SpaceX is such a phenomenon!
+
+China also 'brings to the attention [of] all States parties to the Outer
+Space Treaty ... article VI ... States ... bear interational
+responsibility for national activities .. whether by governmental
+agencies or by non-governmetnal entities...'. In other words, what
+SpaceX is doing is the responsibility of the US government.
+
+One should note that the ISS has had to do dodge Chinese space debris
+several times over the years, so no-one is pure here. However, I am
+encouraged that China is raising the profile of this issue at the UN -
+there's been a lot of informal discussion and sniping in the press, but
+it's very unusual to have a formal document presented to the UN by one
+country complaining about another country's space activities. Taking it
+seriously would provide an opportunity not only to have action on this
+issue, but also to bring China itself into  better compliance with
+international norms (on upper stage disposal, for example).
+
+Tianhui-4
+----------
+
+China's SAST launched a CZ-2D on Dec 29 with the Tianhui-4 mapping satellite.
+The launch report mentions a test of a dual satellite adapter, but it wasn't made clear
+if there were actually two Tianhui-4s aboard. Two objects were cataloged; object
+A manuevered to synchronize its orbit 200 km from object B on Jan 5, suggesting
+that both are payloads. A gravity mapping application like the GRACE mission
+is one possible interpretation.
+
+Unlike earlier Tianhui sats which were sun-sync, the Dec 29 launch went
+to an inclination of 89 degrees.
+
+The Tianhui series naming is rather confusing:
+
+   Transliteration               Explanation                    Launch date
+ 
+   Tianhui 1 hao 01 xing         Tianhui type 1 sat 1           2010 Aug 24
+   Tianhui 1 hao 02 xing         Tianhui type 1 sat 2           2012 May  6
+   Tianhui 1 hao 03 xing         Tianhui type 1 sat 3           2015 Oct 26
+   Tianhui 1 hao 04 xing         Tianhui type 1 sat 4           2021 Jul 29
+   Tianhui 2 hao 01 zu 01 xing   Tianhui type 2 group 1 sat 1   2019 Apr 29
+   Tianhui 2 hao 01 zu 02 xing   Tianhui type 2 group 1 sat 2   2019 Apr 29
+   Tianhui 2 hao 02 zu 01 xing   Tianhui type 2 group 2 sat 1   2021 Aug 18
+   Tianhui 2 hao 02 zu 02 xing   Tianhui type 2 group 2 sat 2   2021 Aug 18
+   Tianhui-4                     Tianhui 4                      2021 Dec 29
+
+
+TJS 9
+------
+
+China's CALT launched at CZ-3B on Dec 29 with the Tongxing Jishu Shiyan 9 experimental
+communications satellite. It was reported to be for multi-band, high speed
+communications experiments, but may be a Qianshao-3 signals intelligence satellite.
+The satellite had reached a GEO position of 137.2E by Jan 7.
+
+Simorgh
+-------
+
+Iran launched a Simorgh rocket from Khomeini Space Center at 0330 UTC Dec 30.
+Iranian news agencies reported that the rocket released multiple
+payloads at an altitude of 470 km and a velocity of 7.350 km/s. They did not claim that
+orbit was reached, but did not specify if the cited velocity was inertial or Earth-relative.
+It seems unlikely that a deliberate suborbital test would get so close to orbital
+velocity - for the cited conditions, assumed inertial, that's only about 200 m/s short
+of successfully reaching orbit. I am therefore logging this as an orbital launch
+failure and assigning it designation 2021-F11.
+
+However, I have decided that the evidence for the alleged Jun 23 Simorgh failure, which
+I assigned designation 2021-F04, is too skimpy, and I have removed it from the General Catalog. 
+
+My reconstruction of the Dec 30 launch suggests that the payloads and upper stage may have reentered
+south of Australia about 28 minutes after launch.
+
+Starlink
+---------
+
+49 Starlink satellites, Group 4-5, were launched on Jan 6. The Falcon 9 flew on a new trajectory southeast
+from Kennedy Space Center. 
+
+Transporter-3
+-------------
+
+On Jan 13 SpaceX launched the Transporter-3 mission from Cape Canaveral. Attached to the Falcon 9 second
+stage was a dispenser column consisting of three ESPA rings, carrying over 100 payloads.
+After the payloads were deployed into a 1000 LTDN sun-sync orbit, the second stage was deorbited.
+The payloads included a number of PocketQubes, the next step down in size from Cubesats; a 1P cubesat
+is a 0.05m cube with a mass of about 0.2 kg.
+
+Transporter-3's payloads include:
+  ION SCV-4, D-Orbit (Italy) 150 kg space tug carrying further sats to be deployed later:
+   Two  3U imaging sats: STORK-1/2 for SatRevolution (Poland)    
+   3U Labsat tech/hosted payload sat for SatRevolution (Poland)
+   3U VZLUSAT-2 with tech and astronomy instrumentation tests for VZLU (Czechia) 
+   3U cubesat with technology payloads: Dodona-La Jument for U.Southern Calif/Lockheed Martin
+
+  The Sich-2-1 170 kg remote sensing microsat for NKAU, the Ukrainian space agency
+  Capella 7 and 8, 110 kg radar satellites for Capella Space
+  Umbra-02, a 65 kg radar sat for Umbra Space
+  ICEYE X-14/X-16, two radar sats for ICEYE (Finland)
+
+  Alba Orbital's AlbaPod deployers with:
+   Four 3P Unicorn-2 PocketQubes for Alba Orbital (Scotland) for low light level (night) imaging
+   Unicorn-2TA1, PocketQube for Alba Orbital
+   One 2P Unicorn-1 PocketQube for Alba Orbital (Scotland) with an ADS-B comms payload
+   Delfi-PQ (3P) amateur radio comm protocol test fro Delft U (Netherlands)
+   EASAT-2 and Hades, 1.5P amateur radio sats for AMSAT-EA (Spain)
+   Grizu-263A, 1P for ZBEU (Turkey), test sat
+   Pion-BR1,  1P for PionLabs (Brazil), with amateur radio payload
+   SATTLA-2A/B, 2P PocketQubes for Ariel U (Israel) with video transmission crosslink tests
+   MDQube-SAT1, 2P for InnoSpace, IoT comms
+
+  FossaPods from FossaSat with:
+   Two 2P PocketQubes from FossaSat (Spain)  (FossSat-2E5, 2E6) for IoT comms
+   LAIKA, 2P PocketQube from FossaSat (Spain)  for propulsion test using vacuum arc thrusters 
+    from the annoyingly-spelled Stockholm startup `porkchop'.
+   Two 2P PocketQubes for WiseKey (Switzerland) with crypto comms payloads (WiseSat-1,2)
+   Pilot-1, 2P for CShark (Italy), IoT comms
+   Challenger (3P) test satellite for Intuidex (US)
+   SanoSat-1, 1P for Orion Space (Nepal), with UHF amateur payload
+
+  Exolaunch EXOPODs with:
+   6U imaging cubesats: ETV-A1 for Sen (UK), HYPSO-1 for NTNU (Norway)
+   6U radio spectrum monitoring sat: BRO-5 for Unseen Labs (France)
+   3U IoT satellites: DEWASAT-1 for DEWA (Dubai Electricity and Water Authority) and NuX-1 for NuSpace (Singapore)
+   1U Gossamer Piccolomini test satellite for Lunasonde (US).
+
+  ISILaunch Quadpacks with:
+   44 3U Flock-4x imaging cubesats for Planet
+   6U imaging sat OroraTech 1 for OroraTech (Munich)
+   Two 3U AIS/GNSS-RO Lemur sats for Spire
+   6U IoT data relay sats: Kepler 16,17,18,19 for Kepler Comms (Toronto); 
+    and Lemur-2 Djirang and Lemur-2 Miriwari probably for Myriota (Australia)
+   Tevel-1 to Tevel-8, eight 1U amateur radio satellites for Herzliya Science Center (Israel)
+   Three 2U AIS maritime domain awareness satellites (MDASat-1a to 1c) for CPU (South Africa)
+   2U IRIS-A IoT demo satellite for National Cheng Kung U. (Taiwan)
+
+
+LauncherOne
+-----------
+
+On Jan 13 Virgin Orbit's 747 Cosmic Girl took off from Mojave at 2139 UTC and flew out over the Pacific.
+At 2252 UTC over  120.78W 32.34N it dropped LauncherOne R5, whose first stage ignited about 4 seconds later.
+The rocket flew southeast to enter a parking orbit at the first cutoff of the second\
+stage, at 2301 UTC, of 194 x 524 km x 45 deg. A second upper stage burn at 2346 UTC circularized
+the orbit at apogee and the seven payloads were deployed:
+   STORK-3, a 3U imaging satellite for the Polish company SatRevolution
+   SteamSat-2, a 3U satellite built by SatRevolution for SteamJet (UK) which will test a water thruster.
+   ADLER-1, for the Osterreichisches Weltraum Forum, a 3U satellite built by Spire which will study microscopic
+     space debris.
+   GEARRS-3, for Near Space Launch (Indiana) and the AF Research Lab, a 3U satellite to test a system to 
+     relay spacecraft health data via Globalstar satellites.
+   TechEdSat-13, a (probably 3U?) satellite from NASA-Ames to test an exobrake reentry system
+   PAN A and B, two 3U Cornell-developed satellites to test out cubesat rendezvous and docking.
+
+Shiyan 13
+----------
+
+The first Chinese launch of the year put Shiyan 13 in a 1300 km apogee elliptical orbit.
+
+
+DSCOVR upper stage
+------------------
+
+The inert Falcon 9 upper stage from the 2015 DSCOVR launch made a 9300 km (untargeted, obviously)
+flyby of the Moon on Jan 5, which left it in a lower perigee orbit of 28583 x 554291 km x 26.9 deg;
+further lunisolar perturbations mean that it may reenter soon. Thanks to Bill Gray for analysis.
+
+Angara
+-------
+
+As reported in the last JSR, the third Angara A5 test flight on Dec 27
+placed Energiya's 14S48 Persei (modified Blok DM-03) upper stage in
+orbit.  The Novosti Kosmonavtiki forum reported that the Persei upper
+stage failed to restart after its first burn, and so was stranded in low
+parking orbit. Space Force tracking showed an orbit of 179 x 201 km. The
+vehicle probably had an initial mass in orbit of around 20 tonnes, but
+with likely venting of the liquid propellant would have been  more like
+4 tonnes at the time of reentry at 2108 UTC Jan 5 over the Pacifc at
+121W 14S. Three additional debris objects of unknown nature were also
+cataloged and have also reentered.
+
+Webb
+----
+
+As of Jan 9, Webb's sunshade and secondary mirror were successfully deployed and the two side primary mirror 
+wings had unfolded. Webb continues its coast to Sun-Earth L2 as adjustment of the mirror element positions
+begins.
+
+Erratum:
+--------
+ Dragon CRS-24 docked to the IDA-3 docking port, not IDA-2.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name			     Launch Vehicle	 Site		 Mission  INTL.  Catalog  Perigee Apogee  Incl	 Notes
+Dec  2 2312   Starlink 3113      )            Falcon 9              Canaveral SLC40   Comms    115A-        424 x 440 x 53.2
+              Starlink 3143      )    
+              Starlink 3148      )    
+              Starlink 3155      )    
+              Starlink 3190-3204 )    
+              Starlink 3206-3210 )    
+              Starlink 3218-3219 )    
+              Starlink 3225-3229 )    
+              Starlink 3231      )    
+              Starlink 3233      )    
+              Starlink 3236-3242 )    
+              Starlink 3244      )    
+              Starlink 3246-3252 )    
+              Black Sky Global 12)                                                    Imaging      115BA? S49772? 425 x 442 x 53.2
+              Black Sky Global 13)                                                    Imaging      115BB? S49773? 425 x 442 x 53.2
+Dec  5 0019   GalileoSat-27 )                  Soyuz-ST-B            CSG ELS          Nav          116A S49809  23517 x 23574 x 57.1
+              GalileoSat-28 )                                                         Nav          116B S49810  23498 x 23570 x 57.1
+Dec  7 0412   Tianjin Daxue 1 )                Gushenxing 1          Jiuquan          Imaging      117  S49812  483 x 501 x 97.4
+              Lize 1          )                                                       Tech?        117
+              Baoyun          )                                                       Tech?        117
+              Jin Zijing 5    )                                                       Imaging      117
+              Jin Zijing 1-03 )                                                       Imaging      117
+Dec  7 1019   STPSAT-6  )                      Atlas V 551           Canaveral SLC41  Tech         118A S49817 36096 x 36112 x 0.1
+              LDPE-1    )                                                             Tech         118B S49818 36087 x 36125 x 0.1
+Dec  8 0738   Soyuz MS-20                      Soyuz-2-1A            Baykonur LC31    Spaceship    119A S49922 193 x 220 x 51.6
+Dec  9 0002   BlackSky Global 16               Electron              Mahia LC1A       Imaging      120A S49949 429 x 440 x 42.0
+              BlackSky Global 17                                                      Imaging      120B S49950 426 x 440 x 42.0
+Dec  9 0600   IXPE                             Falcon 9              Kennedy LC39A    X-ray Astron 121A S49954 588 x 603 x  0.2
+Dec 10 0011   Shi Jian 6-05A )                 Chang Zheng 4B        Jiuquan          Sigint       122B S49962 456 x 470 x 97.4
+              Shi Jian 6-05B )                                                        Sigint       122A S49961 454 x 469 x 97.4
+Dec 13 1207   Ekspress AMU3)                   Proton-M/Briz-M       Baykonur LC200   Comms        123A S50001 16325 x 52810 x 1.7
+              Ekspress AMU7)                                                          Comms        123B S50002 16335 x 52810 x 1.7
+Dec 13 1609   Tian Lian 2-02                   Chang Zheng 3B        Xichang LC3      Comms        124A S50005   181 x 35825 x 27.0
+Dec 15 0200   GeeSat-1A )                      Kuaizhou-1A           Jiuquan          Nav          F10  F01615 -6200? x 400? x 51.5?
+              GeeSat-1B )                                                             Nav          F10  F01616 -6200? x 400? x 51.5?
+Dec 18 1241   Starlink 3235     )              Falcon 9              Vandenberg SLC4E Comms        125
+              Starlink 3245     )
+              Starlink 3254-3277)
+              Starlink 3279-3289)
+              Starlink 3291-3293)
+              Starlink 3296-3298)
+              Starlink 3301     )
+              Starlink 3303-3307)
+              Starlink 3309     )
+              Starlink 3313     )
+              Starlink 3317     )
+Dec 19 0358   Turksat 5B                       Falcon 9              Canaveral LC40   Comms        126A S50212   208 x 68873 x 27.1
+Dec 19?       USA ?                                              LDPE-1, high orbit   Tech?        118D S50214 35990 x 36117 x 0.1
+Dec 21 1007   Dragon CRS-24                    Falcon 9              Kennedy LC39A    Cargo        127A S50318   212 x   362 x 51,6
+Dec 22 1532   Inmarsat 6F1                     H-IIA 204             Tanegashima      Comms        128A S50319  179 x 64689 x 30.0
+Dec 23 1016   Shiyan 12-01)                    Chang Zheng 7A        Wenchang LC201   Tech         129A S50321  191 x 35780 x 19.5
+              Shiyan 12-02)                                                           Tech         129B S50322  178 x 35779 x 19.5
+Dec 25 1220   James Webb Space Telescope       Ariane 5ECA+          Kourou ELA3      Astron       130A S50463  315 x 1050000 x 4
+Dec 26 0311   Zi Yuan 1 02E)                   Chang Zheng 4C        Taiyuan LC9      Imaging      131A S50465?
+              Xi Wang 3    )                                                          Comms        131B S50466?
+Dec 27 1310   OneWeb SL0389-0407)              Soyuz-2-1B/Fregat     Baykonur LC31    Comms        132
+              OneWeb SL0409     )
+              OneWeb SL0412-0414)
+              OneWeb SL0417-0421)
+              OneWeb SL0424     )
+              OneWeb SL0426-0427)
+              OneWeb SL0429-0430)
+              OneWeb SL0432     )
+              OneWeb SL0440     )
+              OneWeb SL0450     )    
+Dec 27 1900   IPN-1                            Angara A5/Persei      Plesetsk LC35    Test         133A S50505 179 x 201 x 63.4
+Dec 29 1113   Tianhui-4 01 )                   Chang Zheng 2D        Jiuquan          Imaging      134A S50572 483 x 490 x 89.0
+              Tianhui-4 02?)                                                          Imaging?     134B? S50573
+Dec 29 1643   TJS 9                            Chang Zheng 3B        Xichang LC2      Sigint?      135A S50574 170 x 35824 x 27.1
+Dec 30 0330   Test payloads                    Simorgh               Khomeini SC      Test         F11  F01618 -450? x 470 x 55.0?
+Jan  6 2149   Starlink 3230                    Falcon 9              Kennedy LC39A    Comms        01A          209 x 337 x 53.2
+              Starlink 3232
+              Starlink 3234
+              Starlink 3278
+              Starlink 3290
+              Starlink 3294-3295
+              Starlink 3299-3300
+              Starlink 3302
+              Starlink 3308
+              Starlink 3310-3312
+              Starlink 3314-3316
+              Starlink 3318-3343
+              Starlink 3346-3349
+              Starlink 3353
+              Starlink 3355
+Jan 13 1525   Transporter 3 (105 payloads)    Falcon 9              Canaveral LC40    Various      02        520 x 535 x 97.5
+Jan 13 2252   GEARRS-3                        LauncherOne          Cosmic Girl, Mojave  Comms      03 S51094 502 x 508 x 45.0
+              STORK-3                                                                   Imaging    03
+              SteamSat-2                                                                Tech       03
+              PAN A/B                                                                   Tech       03
+              Adler-1                                                                   Sci        03
+              TES-13                                                                    Tech       03
+Jan 17 0235   Shiyan 13                       Chang Zheng 2D         Taiyuan            ?          04A S51102 357 x 1298 x 98.7
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Dec  1 0825   C-REX 2           Oriole IV          Andoya                Atmosphere    631       Norw. Sea
+Dec  6 0807   MAPHEUS 10        IM/IM              Kiruna                Micrograv     250       ESRANGE
+Dec 11 1050   RSS First Step    New Shepard        West Texas            Tourist       107       West Texas
+Dec 17 0630   Huozhong-1        Huayi-1            Jiuquan?              Micrograv/bio 250       
+Dec 18 0536   Agni RV           Agni P             Kalam Island          Test          800?      Indian Ocean
+Jan  9 0500   DXL 4             Black Brant 9      Wallops I             X-ray Astron  267       Atlantic
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'

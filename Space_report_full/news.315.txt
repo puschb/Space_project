@@ -1,0 +1,111 @@
+Jonathan's Space Report
+No. 315                     1997 Mar 7 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+
+The Mir crew of Korzun, Kaleri, Ewald, Tsibliev, Lazutkin and Linenger
+continued their mission on the complex in late February. On Feb 23 at
+1935 UTC a fire broke out in a lithium perchlorate  cartridge in the
+Kvant module used to generate extra oxygen on Mir, filling the complex
+with smoke. Korzun and Kaleri used extinguishers to  fight the fire
+which was extinguished after 90 seconds; the heavy smoke persisted for 
+about five minutes and the crew wore gas masks for two and a half hours.
+Now the crew are having difficulty generating sufficient oxygen
+for the life support system. (Details from Chris van den Berg and NASA).
+
+Korzun, Kaleri and Ewald undocked from Mir in the Soyuz TM-24 spaceship
+at 0324 UTC on Mar 2 and landed at 0644 UTC near Arkaylk in Kazakstan.
+
+The Progress M-33 cargo ship, which has been orbiting separately from
+Mir since Feb 6, failed to redock with Mir on Mar 4. It will be
+deorbited. Launch of Progress M-34 is scheduled for early April.
+
+Recent Launches
+---------------
+
+The first Titan 4B was launched successfully from Cape Canaveral on Feb
+23. The vehicle, K-24, is the first to use Alliant SRMU solid rocket
+motors replacing the UTC solid motors which have propelled Titan 3 and 4
+vehicles since 1965. K-24 carried a Boeing Inertial Upper Stage (serial
+number not known yet). The two stage IUS solid upper stage was
+due to place the payload in geostationary orbit.
+
+The K-24 payload was Defense Support Program DSP F-18, a TRW-built
+early warning satellite with an infrared telescope for detecting
+missile launches.
+
+The International Telecommunications Satellite Organization's first
+Intelsat 8 satellite, Intelsat 801, was launched on Mar 1. The satellite
+was launched by Arianespace's Ariane 44P rocket on mission V94. The
+Intelsat 8 satellites are built by  Lockheed Martin/East Windsor and use
+the Series 7000 spacecraft bus. The Series 7000 uses either the Royal
+Ordnance Leros 1 or the TRW 454N  LAE for apogee propulsion,
+I don't know what's on the Intelsat 8, though.
+
+The first launch from Russia's far eastern Svobodniy cosmodrome (51.2 N
+128.0 E) was a success. A Start-1 rocket placed the Zeya satellite in
+sun-synchronous orbit. The Zeya (also known as Mozhaets) satellite was
+designed by the students of the Mozhaiskiy military space engineering
+academy and built at NPO-PM. The launch vehicle is the four-stage
+Start-1, using a mobile launch platform at Svobodniy. It will be used
+for navigation and geodesy.
+
+The MSX satellite's solid hydrogen cooled IR telescope completed
+operations on Feb 26.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan 12 0928   Atlantis         Shuttle        Kennedy LC39B   Spaceship   01A
+Jan 17 1628   GPS 42           Delta 7925     Canaveral LC17A Navsat      FTO
+Jan 30 2204   GE 2     )       Ariane 44L     Kourou ELA2     Comsat      02A	
+              Nahuel 1A)                                      Comsat      02B
+Feb 10 1409   Soyuz TM-25      Soyuz-U        Baykonur LC1    Spaceship   03A
+Feb 11 0855   Discovery STS-82 Shuttle        Kennedy LC39A   Spaceship   04A
+Feb 12 0450   Haruka           M-V            Kagoshima       Astronomy   05A
+Feb 14 0347   Kosmos-2337      Tsiklon-3      Plesetsk LC32/1 Comsat      06A
+              Kosmos-2338                                     Comsat      06B
+              Kosmos-2339                                     Comsat      06C
+              Gonets-D1 No. 4                                 Comsat      06D
+              Gonets-D1 No. 5                                 Comsat      06E
+              Gonets-D1 No. 6                                 Comsat      06F
+Feb 17 0142   JCSAT 4          Atlas IIAS     Canaveral LC36B Comsat      07A
+Feb 23 2020   DSP F18          Titan 4B       Canaveral LC40  Early Warn  08A
+Mar  1 0107   Intelsat 801     Ariane 44P     Kourou ELA2     Comsat      09A
+Mar  4 0200   Zeya             Start-1        Svobodniy LC5   Comsat      10A
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-83  Apr  3
+OV-103 Discovery       RW15 KSC      STS-82  
+OV-104 Atlantis        OPF Bay 3     STS-84  May 15
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-60                 VAB Bay 3      STS-84
+ML3/RSRM-59/ET-84           VAB Bay 1      STS-83
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,149 @@
+Jonathan's Space Report
+No. 388                                          1999 Feb  10  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+------------------------
+
+The Chandra observatory was flown from California to KSC on Feb 4. We're
+hoping for a launch on Jul 9.
+
+The Mir space station remains in orbit with Gennady Padalka and Sergey
+Avdeev aboard. Progress M-40 undocked on Feb 4 at 0959 UTC, but the
+attempt to deploy the Znamya-2.5 reflector ran into trouble when it 
+caught on an antenna. Two attempts failed to deploy the antenna, and the
+experiment was abandoned. Progress M-40 fired its engines for the
+deorbit burn at 1016 UTC on Feb 5 and reentered over the Pacific.
+
+At 1123 UTC on Feb 8, Padalka and Avdeev undocked from Mir's -X port in
+Soyuz TM-28, and redocked at the +X Kvant port at 1139 UTC, freeing up
+the front port for the planned Soyuz TM-29 docking.
+
+
+Recent Launches
+---------------
+
+The Stardust probe was launched from Cape Canaveral on Feb 7 at 2104
+UTC. Launch vehicle was a Boeing Delta 7426. Four GEM-40 solid boosters
+separated one minute after launch. First stage separation at 2108 UTC
+was followed by the second stage's first burn, placing the stack in a
+185 x 185 km x 28 deg parking orbit at 2114 UTC. The second stage
+restarted at 2125 to change the orbit to approximately 178 x 7184 km x
+28.5 deg (planned). This was followed by third stage burn at 2129 UTC
+and spacecraft separation at 2131 UTC. After its depletion burn, the
+Delta 266 second stage was left in a  294 x 6818 km x 22.5 deg orbit.
+The Star 37FM third stage entered solar orbit and separated from the
+Stardust probe. Stardust's orbit has a 2 year period. This is the second
+Delta launch using the Star 37FM lightweight third stage; the first was
+Deep Space 1.
+
+Stardust was built by Lockheed Martin Astronautics/Denver. The fourth
+mission in the Discovery program,  Stardust will fly 100 km from comet
+81P/Wild-2 in  Jan 2004 and recover cometary material using an aerogel
+substance. The encounter will take place 1.9 AU from the Sun. Stardust
+will also collect some material from the interplanetary medium. A return
+capsule would land on a lake bed in Utah in Jan 2006. Stardust uses
+Denver's Space Probe bus with a return vehicle, the Sample Reentry
+Capsule (SRC). The SRC is passive, and the Stardust bus orients it for
+entry before separating. The navigation    camera is a Voyager spare.
+Probe mass is 340 kg full.
+
+The Discovery missions are:
+   NEAR               En route to rendezvous with (433) Eros
+   Mars Pathfinder    Landed near Ares Vallis, Mars
+   Lunar Prospector   In low lunar polar orbit
+   Stardust           En route to 81P/Wild-2
+   Genesis            Launch to L1 due 2001
+   Contour            Launch 2002 to flyby several comets
+Five more missions are currently under consideration for selection.
+
+The first Soyuz-U/Ikar launch vehicle placed four Globalstar satellites
+in orbit on Feb 9, with launch at 0354 UTC. The vehicle was a standard
+Soyuz-U (11A511U) with an extra Ikar payload stage derived from the
+Yantar' reconnaissance satellite's propulsion module. The Soyuz-U third
+stage, Blok-I, ignitied at 4min 43s and separated at 8 min 48s into
+flight in a 236 x 884 km x 52.0 deg  transfer orbit. The Ikar stage,
+with a Melnikov 17D61 UDMH/N2O4 engine, burned at second apogee, at 0623
+UTC, and dispensed the Globalstar satellite on top of the dispenser,
+FM36, into 915 x 947 km x 52.0 deg orbit at 0727 UTC. The three
+remaining satellites (FM 23,38,40) mounted around the side of the
+dispenser were released at the same time, according to a Globalstar
+source, (the Starsem web page describes a plan for a later deployment of
+the three at 0904 UTC, which is presumably out of date) into a 903 x 946
+km x 52.0 deg orbit. The Ikar stage has not yet been cataloged. The
+Globalstar satellites will provide mobile communications at L-band. The
+satellites were built by Loral and Alenia. This was the first launch
+carried out by the Starsem organization, a joint venture including
+Aerospatiale and TsSKB-Progress (the launch vehicle manufacturer). The
+dispenser was built by Aerospatiale/Aquitaine (Bordeaux). 
+
+ Thanks to Igor Lissov for confirmation of launch pads for
+recent Russian flights.
+
+Mars Global Surveyor made its aerobraking exit burn at 0811 UTC on Feb
+4, raising periapsis out of the Martian atmosphere. It will enter its
+final mapping orbit on Feb 18. Orbit is currently 384 x 406 km x 93.0
+deg.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  4 0835   Endeavour  )      Shuttle        Kennedy LC39A    Spaceship  69A
+              Unity      )                                      Station    69F
+              PMA-1      )
+              PMA-2      )
+Dec  6 0043   Satmex 5          Ariane 42L     Kourou ELA2      Comsat     70A
+Dec  6 0057   SWAS              Pegasus XL     Vandenberg       Astronomy  71A
+Dec 10 1157   Nadezhda  )       Kosmos-3M      Plesetsk LC132/1 Navsat     72A
+              Astrid-2  )	                                Science    72B
+Dec 11 1845   Mars Climate Orb. Delta 7425     Canaveral SLC17A Mars probe 73A
+Dec 14 0431   SAC-A                            Endeavour,LEO    Science    69B
+Dec 15 0209   Mightysat                        Endeavour,LEO    Technol.   69C
+Dec 19 1130   Iridium 88?)      CZ-2C/SD       Taiyuan          Comsat     74A
+              Iridium 89?)                                      Comsat     74B
+Dec 22 0108   PAS 6B            Ariane 42L     Kourou ELA2      Comsat     75A
+Dec 24 2003   Kosmos-2361       Kosmos-3M      Plesetsk LC132/1 Navsat     76A
+Dec 30 1835   Kosmos-2362  )    Proton-K/DM2   Baykonur LC200L  Navsat     77A
+              Kosmos-2363  )                                    Navsat     77B
+              Kosmos-2364  )                                    Navsat     77C
+Jan  3 2021   Mars Polar Lander) Delta 7425    Canaveral SLC17B Mars probe 01A
+              MPL Cruise Stage )
+              DS2 Microprobe 1 )
+              DS2 Microprobe 2 )
+Jan 27 0034   ROCSAT-1          Athena-1       Canaveral SLC46  Science    02A
+Feb  7 2104   Stardust          Delta 7426     Canaveral SLC17A Probe      03A
+Feb  9 0354   Globalstar FM23 ) Soyuz-U/Ikar   Baykonur         Comsat     04B
+              Globalstar FM36 )                                 Comsat     04A
+              Globalstar FM38 )                                 Comsat     04C
+              Globalstar FM40 )                                 Comsat     04D
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Jul  9
+OV-103 Discovery       OPF Bay 1     STS-96  May 20
+OV-104 Atlantis        VAB Bay 2     STS-101 Oct 14
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/
+MLP3/                          
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

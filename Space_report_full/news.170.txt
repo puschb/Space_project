@@ -1,0 +1,164 @@
+Jonathan's Space Report 
+
+No. 170        1993 Sep 28
+------------------------------------------------------------------------------
+
+Thanks to Vladimir Agapov and Joel Runes for info included
+in last week's report and in this one. Apologies to sci.space.news
+readers; due to a problem with our new news software my posts
+have not been getting to the net. 
+
+Shuttle 
+------- 
+
+Columbia/STS-58 is due for launch on Oct 14.
+
+Mir
+---
+
+The Expedition 14 crew of Vasiliy Tsibliev and Aleksandr Serebrov 
+continue in orbit aboard the Mir complex. They have made three
+spacewalks recently. The first one was on Sep 16 at 0557 UT and lasted 4
+h 18 min. The second was on Sep 20 at 0352 UT and lasted 3h 13 min. The
+third one was on Sep 28 and was scheduled to be a 4 hr 43 min spacewalk
+beginning at 0120 UTC. The Sep 16 EVA overlapped with the spacewalk from
+Discovery for 1h 43 min; this is the first time 4 people have been
+spacewalking at once, and the first time American and Russian cosmonauts
+have spacewalked at the same time. (An earlier pair of EVAs this year,
+Manakov/Poleshchuk on Jun 18 and Low/Wisoff on Jun 25, were separated by
+only a week; otherwise there have been only three cases of Russian and
+American spacewalks occuring within a month of each other. The Russians
+made the first spacewalk but then only made one more between 1965 and
+1977, by which time the Gemini, Apollo and Skylab programs were long
+over; then they started doing lots of EVAs from Salyut and Mir, but
+until this year spacewalks from the Shuttle were relatively rare.)
+
+
+Launches
+--------
+
+The first launch of the Indian Space Research Organization's PSLV (Polar
+Satellite Launch Vehicle) ended in failure on Sep 20.  However, all four
+stages burnt well, which is encouraging for future flights. The problem
+was at second stage separation when the vehicle ended up pointing the
+wrong way. The IRS-1E payload ended in the ocean; it was a remote
+sensing satellite built from the IRS-1 engineering model. With the
+failure of two out of three ASLV launches with Streched Rohini (SROSS)
+satellites, ISRO now has three out of the last four orbital attempts in
+the drink.  However, considering that these attempts were all tests of
+new launch vehicles, this isn't quite as bad as it sounds, and hopefully
+the second PSLV launch, scheduled for next year, will be successful.
+ISRO's launch site is the Sriharikota Range (SHAR). 
+
+ Indian IRS remote sensing program:
+--------------------------------------------------------------------------------
+Satellite       Launch Date     Launch Vehicle  Site     Orbit
+IRS-1           1988 Mar 17     8A92M Vostok    Baykonur 870x914 km x 99.0 deg
+IRS-1B          1991 Aug 29     8A92M Vostok    Baykonur 862x918 km x 99.2 deg
+IRS-1E          1993 Sep 20     PSLV-1          SHAR     -
+--------------------------------------------------------------------------------
+
+ Indian launch vehicle record:
+--------------------------------------------------------------------------------
+Satellite       Launch Date     Launch Vehicle  Site    Orbit
+Rohini RS-1     1979 Aug 10     SLV-3-01        SHAR    -
+Rohini RS-1     1980 Jul 18     SLV-3-02        SHAR    305x919 km x 44.7 deg
+Rohini RS-D-1   1981 May 31     SLV-3-03        SHAR    186x416 km x 46.3 deg
+Rohini RS-D-2   1983 Apr 17     SLV-3-04        SHAR    388x852 km x 46.6 deg
+SROSS 1         1987 Mar 24     ASLV-01         SHAR    -
+SROSS 2         1988 Jul 12     ASLV-02         SHAR    -
+SROSS 3         1992 May 20     ASLV-03         SHAR    246x396 km x 46.0 deg
+IRS-1E          1993 Sep 20     PSLV-01         SHAR    -
+--------------------------------------------------------------------------------
+
+Meanwhile the Ariane 4 had another successful launch in its 40
+configuration on Sep 26, chalking up 30 successes out of 31 launches,
+compared with rival McDonnell Douglas Delta's 36 out of 36.  The
+Ariane's main payload was the 1900 kg SPOT 3 remote sensing satellite.
+Also on board was a passive 48 kg spherical geodetic satellite, Stella,
+and an ASAP package (Ariane Structure for Auxiliary Payloads). Stella
+was built by the French space agency CNES (but apparently will be used
+by a German agency, can anyone confirm this?) 
+
+The Ariane ASAP deployed  five microsatellites. First is Uribyol 2, 
+built by the Korea Advanced Institute of Science and Technology for
+SATREC Korea; it carries CCD cameras, store/forward communication
+equipment and a radiation  detector. The spacecraft is based on the
+British Uosat bus developed by the University of Surrey's Surrey
+Satellite Technology Labs (SSTL). POSAT 1 is the first Portuguese
+satellite. Also using the 50 kg Uosat bus, it was built by SSTL in
+collaboration with engineers from the Portuguese national engineering
+lab LNETI. It carries an earth imaging camera, a GPS receiver, and a
+digital signal processing experiment. Healthsat 1, a Uosat bus built by
+SSTL for the American company SatelLife, will be used as a packet radio
+satellite to link up doctors in Africa.  The last two satellites are
+even smaller, using the 12 kg bus developed by a US company,
+Interferometrics. Interferometrics' Eyesat A carries a small experiment
+for monitoring of mobile industrial equipment (i.e., at least at first, 
+tracking truckers). ITAmsat is an Italian amateur radio satellite, built
+by Interferometrics for the ITAmsat organization and the ARI
+(Associazione Radioamatori Italiani).
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug 24 1045     Resurs-F1       Soyuz           Plesetsk        Remote s.  53A
+Aug 30 1238     Navstar GPS 35  Delta 7925      Canaveral LC17  Navigation 54A
+Aug 31 0440     Meteor-2        Tsiklon         Plesetsk LC32   Weather    55A
+Aug 31 1520     Temisat         -               Meteor-2,LEO               55C
+Sep  3 1117     UHF F2          Atlas I  AC-75  Canaveral LC36  Comsat     56A
+Sep  7 1325     Kosmos-2262     Soyuz           Baykonur        Recon      57A
+Sep 12 1145     Discovery       Shuttle         Kennedy LC39B   Spaceship  58A
+Sep 12 2113     ACTS            TOS             Discovery, LEO  Comsat     58B
+Sep 13 1506     ORFEUS-SPAS     -               Discovery, LEO  Astronomy  58C
+Sep 16 0736     Kosmos-2263     Zenit           Baykonur LC45   SIGINT     59A
+Sep 17 0043     Kosmos-2264     Tsiklon-M       Baykonur LC90   EORSAT     60A
+Sep 20 0012     IRS-1E          PSLV            Sriharikota     Remote s.  FTO
+Sep 26 0145     SPOT 3      )   Ariane 40       Kourou ELA 2    Remote s.  61A
+                Stella      )                                   Geodesy    61B
+                Uribyol 2   )                                 Remote s,com 61C      
+                Posat  1    )                                   Test       61D
+                Healthsat 1 )                                   Comsat     61E
+                Eyesat A    )                                   Comsat     61F
+                ITAmsat     )                                   Comsat     61G
+
+Reentries
+---------
+
+Aug  5          Kosmos-2260     Landed
+Aug 18          Molniya-3 (22)  Reentered
+Aug 28          Meteor-Priroda (77-57A) Reentered
+Sep 10          Resurs-F        Landed
+Sep 22          Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39B         STS-58
+OV-103 Discovery       OPF Bay 3     STS-60
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-34/ET-57/OV-102 LC39B       STS-58
+ML2/RSRM-23/             VAB Bay 1   STS-61
+ML3/                     Refurb      
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+
+        

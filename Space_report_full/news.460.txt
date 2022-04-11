@@ -1,0 +1,107 @@
+Jonathan's Space Report
+No. 460                                           2001 Sep 3  Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+Shuttle and Station
+--------------------
+
+Erratum: the description of the launch phase of STS-105 was
+off by one hour in most of the quoted times. Here is the corrected
+paragraph.
+
+STS-105 was launched on Aug 10 at 2110 UTC. MECO (main engine cutoff)
+was at 2118 UTC with separation of external tank ET-110 into a 58 x 234
+km x 51.6 deg orbit. At 2148 UTC Discovery reached apogee and fired its
+OMS engines to enter a 155 x 233 km x 51.6 deg orbit; another burn at
+around 0100 UTC raised the orbit to 198 x 277 km. Meanwhile the External
+Tank fell back towards the Pacific and reentered at its first perigee at
+around 2240 UTC.
+
+The Progress M1-6 tanker was undocked from the aft Zvezda port at 0601 UTC
+on Aug 22 and deorbited sometime around 0900 UTC the same day.
+Progress M-45, 7K-TGM No. 245 (the older generation type of Progress)
+was launched on Aug 21 at 0924 UTC from Baykonur and docked at 0951 UTC
+on Aug 23 at the newly vacant port.
+
+Recent Launches
+---------------
+
+Japan's NASDA space agency launched the first H-2A rocket from
+Tanegashima on Aug 29. The Vehicle Evaluation Payload is a conical
+ballast payload with monitoring instrumentation attached to the second
+stage. It includes a doppler ranging experiment for orbit determination.
+The LRE Laser Ranging Experiment satellite carries 126 laser
+retroreflectors for geodesy and separatedn from the second stage at 0739
+UTC into a 271 x 36214 km x 28 deg orbit. It has a mass of 86 kg and is
+0.5 meters across.
+
+The H-2A 202 version has two strap-on SRB-A solid boosters, shorter and
+fatter than the SRBs used on the old H-2 rocket. The core stages are
+uprated versions of the H-2 core, with the same 4.0 meter diameter and a
+larger propellant load. Both stages use uprated Mitsubishi liquid
+hydrogen/ liquid oxygen engines; the LE-7A on the first stage is roughly
+comparable with the Ariane 5 main engine  while the LE-5A on the second
+stage is comparable with the RL-10 engine used on Centaur and Delta 3.
+
+An Arianespace Ariane 44L was launched from Kourou on Aug 30. It carried
+the Intelsat 902 communications satellite. The Intelsat international
+telecoms organization is currently being privatized. To harp on my
+current hobbyhorse (er... sorry about the mixed metaphor there) it will
+be interesting to see whether it starts registering its satellites with
+the UN, something Intelsat has been forgetting to do for 20 years. The
+902 satellite has both C-band and Ku-band transponders and will be
+stationed initially over the Indian Ocean giving coverage to Europe,
+Africa, Asia and Australasia. The Loral FS-1300 satellite has a dry mass
+of 1978 kg and carries a further 2745 kg of propellant at launch.
+
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul 12 0904   Atlantis STS-104) Shuttle        Kennedy LC39B    Spaceship    28A
+              Quest           )                                 Station module
+Jul 12 2158   Artemis   )       Ariane 5G      Kourou ELA3      Expt. comms  29A
+              BSAT-2b   )                                       Ku video     29B
+Jul 20 0017   Molniya-3         Molniya-M      Plesetsk LC43/4  Comms        30A
+Jul 23 0723   GOES 12           Atlas IIA      Canaveral SLC36A Weather      31A
+Jul 31 0800   Koronas-F         Tsiklon-3      Plesetsk LC32    Astronomy    32A
+Aug  6 0728   DSP 21            Titan 4B/IUS   Canaveral SLC40  Early Warn   33A
+Aug  8 1613   Genesis           Delta 7326     Canaveral SLC17A Space probe  34A
+Aug 10 2110   Discovery  )      Shuttle        Kennedy LC39     Spaceship    35A
+              Leonardo   )
+Aug 20 1830   Simplesat         -              Discovery, LEO   Astronomy    35B
+Aug 21 0924   Progress M-45     Soyuz-U        Baykonur LC1     Cargo        36A
+Aug 24 2034   Kosmos-2379       Proton-K/DM2M? Baykonur LC81R   Early Warn?  37A
+Aug 29 0700   VEP-2   )         H-2A           Tanegashima      Technology   38B
+              LRE     )                                         Geodesy      38A
+Aug 30 0646   Intelsat 902      Ariane 44L     Kourou ELA2      C/Ku telecom 39A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       OPF Bay 2     Maintenance
+OV-104 Atlantis        VAB           STS-110 2002 Feb 28  ISS 8A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

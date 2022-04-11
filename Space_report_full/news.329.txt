@@ -1,0 +1,177 @@
+
+Jonathan's Space Report
+No. 329                               1997 Aug 8  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Soyuz TM-26 was launched at 1536 UTC on Aug 5 from Kazakstan. Crew are
+Anatoliy Solov'yov and Pavel Vinogradov. On Aug 6 it was in a 241 x 279
+km x 51.6 deg orbit compared with Mir's 386 x 392 km x 51.6 deg orbit.
+The ship docked with Mir's Kvant module at 1702 UTC on Aug 7. The crew
+took over manual control in the final phase, which is not uncommon.
+Progress M-35 undocked from Mir at 1146 UTC on Aug 6 to clear the
+docking port. Soyuz TM-25 remains at the front docking port.
+
+Discovery (OV-103) was launched at 1441:00 UTC on Aug 7 from Kennedy
+Space Center on mission STS-85. It entered a 289 x 300 km x 57.0 deg
+orbit. Crew of Discovery are Curt Brown
+(commander), Kent Rominger (pilot), Jan Davis (payload commander), Bob
+Curbeam, Stephen Robinson and Bjarni Tryggvason (mission specialists).
+Tryggvason is a Canadian Space Agency astronaut, and the first person
+born in Iceland to fly in space. Discovery's payload bay contains the
+following cargoes:
+Bay 1-2: External Airlock
+Bay 5:   MPESS (Multi Purpose Experiment Support Structure) with
+         the MFD (Manipulator Flight Demonstration) payload from the
+         Japanese space agency. This features tests of a 'robot hand' to go on 
+         the end of the robot arm being developed for the Japanese
+         space station module.
+Bay 6 Port sidewall: A small carrier with the ITEPC radiation dose counter.
+Bay 7:   MPESS with the TAS-01 payload (Technology Applications and Science)
+         from NASA-Goddard's Hitchhiker-M program. 
+         TAS-01 has a bunch of GAS cans with science
+         experiments, including the second flight of the Shuttle Laser
+         Altimeter and an instrument to measure the absolute bolometric flux
+         of the Sun.
+Bay  9:  ASTRO-SPAS, a free flying platform built by Germany's DASA, carrying
+         the CRISTA-SPAS atmospheric science payload on its second mission.
+        CRISTA-SPAS was deployed by the RMS arm at 2227 UTC on Aug 7.
+Bay 11 Port sidewall: a small carrier with the ERPCL transmitter/receiver
+         which communicates with SPAS during its flight.
+Bay 12:  MPESS with the IEH-2 Hitchhiker payload from Goddard. The International
+        Extreme Ultraviolet Hitchhiker is a joint NASA-Italian astronomy
+        payload. Its two main instruments are the UVSTAR ultraviolet spectrograph
+        and the SEH solar extreme ultraviolet instrument.
+        The MPESS also carries the GLO-5 and GLO-6 airglow studies
+        and the Data-Chaser technology experiment.
+        UVSTAR's main objective is to study the extreme UV emissions from the
+        Io plasma torus around Jupiter.
+Bay 13 Starboard sidewall: GABA (GAS Beam Adapter) with two GAS experiment
+        cans, G-572 and G-745. G-572 has experiments from Bellermine College
+        and Utah State, and G-745 has student experiments from Mayo High School.
+
+Wendy Lawrence has been pulled off the STS-86 crew and replaced
+by David Wolf, who will now be the person replacing Mike Foale on
+Mir. Wolf, unlike Lawrence, is trained in the Orlan EVA suit and
+so could support spacewalks to repair the Spektr module.
+
+
+Recent Launches
+---------------
+
+A GPS satellite was launched on Jul 23. I understand this is IIR
+satellite 3, or Navstar SVN 43. It is the second IIR satellite to be
+launched, and the first to reach orbit successfully. The Delta second
+stage entered a 196 x 1339 km x 37.7 deg orbit; the PAM-D third stage 
+reached 187 x 20363 km x 39 deg and separated from the GPS. The GPS's
+internal Thiokol Star 37 apogee motor fired by Jul 25 to place SVN 43 in
+a 19876 x 20223 km x 54.9 deg operating orbit; on board thrusters
+will make the final adjustments.
+
+The Superbird C satellite was launched on Jul 28 by a Lockheed Martin
+Atlas IIAS. The satellite is an HS-601 comsat built by Hughes for Space
+Communications Co. of Japan. The Atlas used the supersynchronous
+transfer orbit technique again, delivering Superbird into a 333 x 91062
+km x 25.3 deg highly eccentric orbit. The onboard Marquardt R-4D-12
+engine will be used to lower the apogee and raise perigee to reach a
+circular geostationary orbit.
+
+Orbital Sciences launched a Pegasus XL on Aug 1, placing the OrbView-2
+satellite in orbit for their OrbImage subsidiary. Orbview-2, formerly
+known as SeaStar, will provide oceanographic data under contract from
+NASA. The L-1011 carrier plane took off from Vandenberg at around 1915
+UTC and dropped the rocket over the Pacific at 2020 UTC. The satellite
+carries the SeaWIFS imaging sensor. Initial orbit of Orbview-2
+was 294 x 311 km x 98.3 deg.
+
+The latest Iridium satellites have started to raise their orbits
+from their initial 620 x 650 km ones.
+         Jul 28       Aug  6
+ SV015  695 x 705     773 x 780 x 86.4
+ SV017  667 x 671     773 x 780 x 86.4
+ SV018  665 x 673     773 x 779 x 86.4
+ SV020  667 x 671     772 x 782 x 86.4
+ SV021  627 x 645     626 x 656 x 86.3
+This confirms that SV021 is the failed satellite, which has remained
+in its initial orbit. The Delta second stage lowered its orbit
+after dispensing the satellites and is in a 266 x 620 km orbit.
+
+An Ariane 44P, flight V98, was launched on Aug 8 from Kourou carrying a
+Space Systems/Loral FS-1300 class satellite, PAS-6. PAS 6 is owned by
+Panamsat (which recently merged with Hughes Galaxy) and will provide
+direct broadcast services to South America. Launch mass is 3420 kg, dry
+mass is 1285 kg,and payload includes 36 Ku-band transponders. The Ariane
+placed its payload in a 181 x 37143 km x 7.1 deg transfer orbit.
+PAS 5 will be launched later this month by a Proton from Baykonur.
+
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  3 2321   Inmarsat 3 F4)   Ariane 44L     Kourou ELA2      Comsat     27A
+              Insat 2D     )                                   Comsat     27B
+Jun  6 1757   Kosmos-2344      Proton-K/DM-2M Baykonur LC200   Recon?     28A
+Jun 10 1201   FY-2             Chang Zheng 3  Xichang          Weather    29A
+Jun 18 1402   Iridium SV009 )  Proton-K/DM-5  Baykonur         Comsat     30D
+              Iridium SV010 )                                  Comsat     30C
+              Iridium SV011 )                                  Comsat     30G
+              Iridium SV012 )                                  Comsat     30B
+              Iridium SV013 )                                  Comsat     30E
+              Iridium SV014 )                                  Comsat     30A
+              Iridium SV016 )                                  Comsat     30F
+Jun 25 2344   Intelsat 802     Ariane 44P     Kourou ELA2      Comsat     31A
+Jul  1 1802   Columbia        ) Shuttle       Kennedy LC39A    Spaceship  32A
+              Spacelab MSL-1R )
+Jul  5 0411   Progress M-35     Soyuz-U       Baykonur LC1     Cargo      33A
+Jul  6 0600   Sojourner         -         Sagan Station, Mars  Rover
+Jul  9 1304   Iridium SV015 )   Delta 7920    Vandenberg SLC2W Comsat     34A
+              Iridium SV017 )                                  Comsat     34B
+              Iridium SV018 )                                  Comsat     34C
+              Iridium SV020 )                                  Comsat     34D
+              Iridium SV021 )                                  Comsat     34E
+Jul 23 0343   GPS SVN 43        Delta 7925    Canaveral LC17A  Navsat     35A
+Jul 28 0115   Superbird C       Atlas IIAS    Canaveral LC36B  Comsat     36A
+Aug  1 2020   OrbView 2         Pegasus XL    Vandenberg       Remote sen.37A 
+Aug  5 1536   Soyuz TM-26       Soyuz-U       Baykonur LC1     Spaceship  38A
+Aug  7 1441   Discovery         Shuttle       Kennedy LC39A    Spaceship  39A
+Aug  7 2227   CRISTA-SPAS                     OV-103,LEO       Remote sen.39B
+Aug  8 0646   PAS 6             Ariane 4      Kourou ELA2      Comsat     40A
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       LC39A         STS-85  Aug  7
+OV-104 Atlantis        OPF Bay 3     STS-86  Sep 18
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                       
+MLP2/RSRM-61                VAB Bay 1?     STS-86
+MLP3/RSRM-57/ET-87/OV-103   LC39A          STS-85                       
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

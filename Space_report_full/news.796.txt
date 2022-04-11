@@ -1,0 +1,395 @@
+Jonathan's Space Report
+No. 796                                                         2021 Aug 23   Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 65 continues.
+
+The Nauka module made a 15m/s orbit raising burn on Jul 22. Further
+orbit raising burns left it in a 334 x 406 km orbit by Jul 25, with the
+initial propulsion system problems resolved.
+
+On Jul 26 at 1055 UTC the docked Progress MS-16/Pirs complex undocked
+from the nadir port of the Zvezda module. Pirs had been attached to
+Zvezda since 2001. At 1401 UTC Progress MS-16 performed a 120 m/s
+deorbit burn and the 9-tonne Progress MS-16/Pirs reentered the
+atmosphere over the South Pacific at 1442 UTC, with debris reaching the
+ocean surface at 1452 UTC.
+
+Nauka successfully docked with the Zvezda nadir port at 1329 UTC Jul 29.
+Oleg Novitskiy was within seconds of taking over manual TORU remote
+control for the final 10 metres of the approach, as the automatic system
+was experiencing some oscillations in alignment, but according to a
+report by Anatoliy Zak the issue straightened itself out just in time
+and automatic docking was allowed to run to completion. 
+
+Nauka's adventures were not over At 1645 UTC the Nauka thrusters began
+unexpectedly firing, threatening loss of attitude control for the ISS.
+The Zvezda and Progress MS-17 thrusters tried to counteract the unwanted
+torque, but ISS tumbled until Nauka's propellant was depleted and the
+other modules could restore attitude. Note that initial reports of a
+mere 45 degree attitude deviation were superseded; one flight controller
+commented `we [i.e. ISS] proceeded to do headstands and cartwheels.
+Olympic judges would be proud' and reported that the station made 1.5
+full rotations in pitch before being brought under control. However, by
+around 1800 UTC the situation on ISS was stable. Hatches to Nauka were
+opened on Jul 30.
+
+On Aug 10 Northrop Grumman launched the Cygnus NG-16 cargo ship S.S.
+Ellison Onizuka. The Onizuka arrived at ISS on Aug 12, with Canadarm-2
+grappling it at 1007 UTC and berthing it on the nadir Unity CBM at 1342
+UTC. NG-16 carries another IROSA mod kit for installation on the truss.
+PIRPL, an infrared sensor payload from the US  military Space
+Development Agency and Missile Defense Agency, is attached externally to
+the Cygnus PCM and will be operated after Cygnus leaves the ISS.
+
+Language Change and Civilian Astronauts: A Rant
+------------------------------------------------
+
+In general, language change is inevitable. Specific changes,
+however, are not - especially when those changes are instigated
+by one individual or group with an agenda. Sometimes it's
+a good thing: in my lifetime I have seen widespread adoption
+of deliberate changes to make English less sexist. I applaud,
+endorse and adopt those changes. However, "language changes
+are inevitable" is not a good reason to roll over and accept
+bad changes without a fight.
+
+  In that sprit, I oppose the proposed change to the dictionary meaning
+of the word 'civilian', and the phrase 'civilian astronaut' proposed by
+SpaceX and the Inspiration Four team. 'Civilian astronaut' means
+'not active military'; the first all-civilian orbital space crew was
+that of Soyuz TMA-3 in 2003, with Aleksandr Kaleri, Mike Foale and Pedro
+Duque. The first civilian in space was NASA's Joe Walker (on the X-15,
+1963); the first in orbit was Dr. Konstantin Feoktistov (Voskhod 1,
+1964); and the first American civilian in orbit was Neil Armstrong
+(Gemini 8, 1966). At the time of Apollo 11 the US press made a big deal
+of the fact that the first lunar mission was commanded by a civilian, so
+the term 'civilian astronaut' has an important history in the politics
+of astronautics.
+ 
+  A correct term for a space traveller who is not a government employee
+is `private astronaut'. Other terms, e.g. private-citizen astronaut, are
+also correct. 'Civilian astronaut' is not correct when used as a term
+meant to exclude NASA astronauts or other government astronauts.
+Non-military government employees are also civilians, and attempting to
+change the language to say that they aren't is pernicious and stupid. I
+call on journalists, editors, keepers of style guides, and all users of
+the English language to consider this proposed new usage incorrect and
+to rigorously avoid using it themselves.
+
+The Inspiration Four crew, if they launch as planned, will be the first
+all-private-citizen orbital space crew. It will also be an all-civilian, 
+but NOT the first all-civilian, orbital space crew.
+
+
+Yunhai 1-02 collision
+---------------------
+
+At 0741 UTC on Mar 18 an event happened on China's Yunhai 1-02 satellite
+that resulted in the generation of a cloud of orbital debris, although
+the satellite continued to operate after the event. It has now become
+clear that the source of the event was a collision with a small Russian
+debris object. Object 48078, 1996-051Q, is associated with the Zenit
+second stage from the 1996 Kosmos-2333 launch. The object was cataloged
+on around Mar 25 and only a single orbital solution, with epoch Mar 16,
+is associated with it. Using this orbit and the TLEs for Yunhai 1-02, I
+infer that the two objects were within 1 km of each other at 0741:19 UTC
+over 19.4E 70.9N, 780 km above Tromso, Norway, travelling at a relative
+velocity of 13.26 km/s. In August Space-Track added a comment to the 
+object 48078 catalog entry: "Collided with satellite", implicitly confirming
+that the Yunhai debris event was a collision. SpaceForce has since
+confirmed this interpretation.
+
+
+Rocket Lab
+----------
+
+Electron mission 21 was launched from New Zealand on Jul 29, placing the
+US Air Force Research Lab's Monolith (STP-27RM) satellite in orbit.
+Monolith will test the ability of a cubesat to stably deploy an external
+sensor whose size is comparable to the satellite.
+
+Tianhui 1-04
+------------
+
+China's SAST launched a CZ-2D on Jul 29 placing the TH1-04 mapping
+satellite in orbit.
+
+Ariane VA254
+-------------
+
+Following a redesign of the nose fairing, Ariane 5 returned to flight on Jul 30 with the
+launch of flight VA254 (probably vehicle 5113?) carrying the Star One D2 and Eutelsat Quantum
+satellites to geotransfer orbit.
+
+KLEO
+----
+
+Two Ka-band communications test satellites for the German company KLEO
+Connect, KL-Beta A and B, were launched by CZ-6 from Taiyuan on Aug 4.
+
+
+Transporter-2
+--------------
+
+The D-Orbit ION SVC-03 'Dauntless David' released two more of its passengers on
+Jul 21 and Jul 22:  Reaktor's W-Cube to test W-band propagation and Endurosat's SPARTAN
+with a variety of experiments. The final payload, Neptuno, was released on Jul 24.
+
+Most of the Transporter-2 objects have now been identified; PACE-1, PAINANI-2 and Faraday
+Phoenix are still unclaimed.
+
+The 11 kg Echostar EG-3 cubesat, built by Tyvak and owned by Echostar
+Australia, raised its orbit from 523 x 537 km to 642 x 655 km on Jul
+16-17. This is the largest orbit change performed by a cubesat, using a
+new propulsion system from the California-based company Stellar
+Exploration with 6.5 kg of hydrazine and eight 0.25N hydrazine thrusters
+(four axial and four attitude, so 1N total nominal axial thrust). The
+company reports a 65 m/s delta-V, which is consistent with my own
+estimate of the delta-V required for this orbit change.
+
+SQX-1
+-----
+
+China's Xingji Rongyao Kongjian Keji YG (iSpace, or Interstellar Glory
+Space Tech Ltd) launched the third Shuang Quxian 1 (Hyperbola-1) orbital
+vehicle from Jiuquan on Aug 3, but it apparently failed to reach its
+target 500 km, 1400 LTDN sun-synchronous orbit due to the failure of the payload fairing to
+separate. A final velocity of 7400 m/s has been reported which would
+imply impact in Antarctica.
+
+Payload on the vehicle is suspected to have been the 18 kg Jilin-1 Mofang-01A
+imaging satellite for Changguang Satellite Tech but this is not yet
+confirmed.
+
+ZX-2E
+-----
+
+China's CALT launched a CZ-3B to geotransfer orbit on Aug 5, carrying the Shentong 2-05
+military communications satellite, which has the cover name Zhongxing-2E (ZX-2E).
+
+EOS-03
+------
+
+EOS-03, a 2268 kg I2K-class satellite with a hyperspectral imaging payload, was lost on Aug 12 when the cryogenic
+third stage of India's GSLV Mk II rocket tumbled out of control shortly after ignition. The vehicle fell
+in the Andaman Sea near 96E 9N.
+
+Vega VV19
+---------
+
+The Arianespace Vega rocket carried out a successful flight VV19 on Aug 17, deploying the Airbus imaging
+satellite Pleiades Neo 4 to a 623 km orbit and then four cubesats to a 560 km orbit:
+BRO-4 for Unseen Labs, LEDSAT for U. Roma La Sapienza, Sunstorm for Reaktor Space, and Radcube
+for Hungarian company C3S. 
+
+Tianhui 2
+---------
+
+On Aug 18 China's SAST launched a CZ-4B with two radar mapping satellites, Tianhui 2 hao 02 zu 01 and 02 zing
+(Tianhui Type 2 Group 02 Sats 01 and 02). The satellites carry X-band SAR radars with 3 metre resolution.
+
+
+Tiangong space station
+----------------------
+
+Astronauts Nie and Liu made a spacewalk on Aug 20, deploying a camera, installing an
+external pump, and carrying out further tests of the robot arm. The hatch was open
+from 0038 to 0633 UTC.
+
+OneWeb
+------
+
+34 more OneWeb satellites were launched from Baykonur on Aug 21.
+
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name                           Launch Vehicle      Site            Mission  INTL.  Catalog  Perigee Apogee  Incl   Notes
+Jun 18 0630   Yaogan 30 hao 09 zu 01 xing)    Chang Zheng 2C        Xichang           Sigint?  55A  S48860 590 x  603 x 35.0
+              Yaogan 30 hao 09 zu 02 xing)                                            Sigint?  55B  S48861 591 x  602 x 35.0
+              Yaogan 30 hao 09 zu 03 xing)                                            Sigint?  55D  S48863 592 x  602 x 35.0
+              Tianqi 14                  )                                            Comms    55E  S48864 571 x  681 x 35.1
+Jun 22 1055   MIR-SAT1                                              ISS, LEO          Tech   9867SP S48868 416 x 420 x  51.6
+Jun 22 1200?  G-SATELLITE 2                                         ISS, LEO          Tech   9867SN S48867 415 x 419 x 51.6
+Jun 23?       Test satellite?                 Simorgh?              Khomeini          Test?    F03
+Jun 25 1950   Kosmos-2550                     Soyuz-2-1b            Plesetsk LC43/4   Sigint   56A  S48865 195 x 466 x 67.1
+Jun 29 2250   IT-SPINS )                                            Cygnus NG-15, LEO Sci      13G  S49017 489 x 503 x 51.6
+              MySat-2  )                                                              Tech     13F  S49016 489 x 503 x 51.6
+Jun 29 2327   Progress MS-17                  Soyuz-2-1a            Baykonur LC31     Cargo    57A  S48869 280 x 383 x 51.7
+Jun 30 1447   CNCE 1               )          Launcher One         B747, Mojave       Com      58E  S48875 495 x 520 x 60.7
+              CNCE 3               )                                                  Com      58D  S48874 495 x 520 x 60.7
+              Gunsmoke-J 4         )                                                  Com      58H  S48878 495 x 526 x 60.7
+              HALO-Net FF          )                                                  Tech     58G  S48877 495 x 522 x 60.7
+              Brik-II              )                                                  Tech/Com 58F  S48876 495 x 522 x 60.7
+              STORK 4              )                                                  Imaging  58C  S48873 495 x 526 x 60.7
+              STORK 5              )                                                  Imaging  58B  S48872 495 x 522 x 60.7
+Jun 30 1931   Transporter-2           )       Falcon 9              Canaveral SLC40  Dispenser 59          530 x 545 x 97.5
+              Starlink 3003           )                                               Comms    59A  S48879 515 x 536 x 97.5
+              Starlink 3004           )                                               Comms    59B  S48880 515 x 536 x 97.5
+              Starlink 3005           )                                               Comms    59C  S48881 510 x 525 x 97.5
+              SHERPA-LTE-1            )                                              Dispenser 59BQ S48941 524 x 536 x 97.5
+              SHERPA-FX-2             )                                              Dispenser 59CH S48958 511 x 537 x 97.5
+              ION-SVC-003             )                                              Dispenser 59AK S48912 520 x 537 x 97.5
+              YAM-2                   )                                               Tech     59
+              YAM-3                   )                                               Tech     59AN S48915 519 x 537 x 97.5
+              Nusat-19 (Rosalind)     )                                               Imaging  59AC S48905 521 x 537 x 97.5
+              Nusat-20 (Grace)        )                                               Imaging  59AU S48921 521 x 537 x 97.5
+              Nusat-21 (Elisa)        )                                               Imaging  59AT S48920 521 x 537 x 97.5
+              Nusat-22 (Sofya)        )                                               Imaging  59AS S48919 521 x 537 x 97.5
+              Umbra-SAR 2001          )                                               Radar    59AD S48906 521 x 537 x 97.5
+              ICEYE-X11               )                                               Radar    59AR S48918 519 x 537 x 97.5
+              ICEYE-X12               )                                               Radar    59AM S48914 519 x 537 x 97.5
+              ICEYE-X13               )                                               Radar    59AP S48916 519 x 537 x 97.5
+              ICEYE-X15               )                                               Radar    59AQ S48917 519 x 537 x 97.5
+              Capella 5               )                                               Radar    59AL S48913 520 x 536 x 97.5
+              TUBIN                   )                                               Tech     59X  S48900 523 x 537 x 97.5
+              Lemur-2-Jackson         )                                               Com/Met  59G  S48885 524 x 537 x 97.5
+              Lemur-2-AnnaBanana      )                                               Com/Met  59AW S48923 524 x 537 x 97.5
+              D2/AtlaCom-1            )                                               Tech     59AV S48922 516 x 537 x 97.5
+              PACE-1                  )                                               Tech     59
+              TROPICS Pathfinder      )                                               Sci      59Y  S48901 522 x 537 x 97.5
+              Mandrake 2A             )                                               Com      59AE S48907 521 x 537 x 97.5
+              Mandrake 2B             )                                               Com      59AF S48908 521 x 537 x 97.5
+              LINCS 1                 )                                               Com      59Z  S48902 521 x 538 x 97.5
+              LINCS 2                 )                                               Com      59AA S48903 521 x 538 x 97.5
+              Centauri 4              )                                               Com      59V  S48898 522 x 538 x 97.5
+              GNOMES 2                )                                               Com      59AH S48910 519 x 537 x 97.5
+              EG-3                    )                                               Com      59P  S48892 642 x 655 x 97.5
+              SpaceBEENZ-7            )                                               Com      59L S48889  525 x 536 x 97.5
+              SpaceBEENZ-8            )                                               Com      59N S48891  525 x 536 x 97.5
+              SpaceBEENZ-9            )                                               Com      59J S48887  525 x 536 x 97.5
+              SpaceBEENZ-10           )                                               Com      59D S48882  525 x 536 x 97.5
+              SpaceBEE-88             )                                               Com      59BJ S48935 525 x 536 x 97.5
+              SpaceBEE-89             )                                               Com      59BG S48933 525 x 536 x 97.5
+              SpaceBEE-90             )                                               Com      59BW S48947 525 x 536 x 97.5
+              SpaceBEE-91             )                                               Com      59BP S48940 525 x 536 x 97.5
+              SpaceBEE-92             )                                               Com      59BF S48932 525 x 536 x 97.5
+              SpaceBEE-93             )                                               Com      59BN S48939 525 x 536 x 97.5
+              SpaceBEE-94             )                                               Com      59BL S48937 525 x 536 x 97.5
+              SpaceBEE-95             )                                               Com      59BU S48945 525 x 536 x 97.5
+              SpaceBEE-96             )                                               Com      59BH S48934 525 x 536 x 97.5
+              SpaceBEE-97             )                                               Com      59BK S48936 525 x 536 x 97.5
+              SpaceBEE-98             )                                               Com      59BY S48949 525 x 536 x 97.5
+              SpaceBEE-99             )                                               Com      59BV S48946 525 x 536 x 97.5
+              SpaceBEE-100            )                                               Com      59E S48883  525 x 536 x 97.5
+              SpaceBEE-101            )                                               Com      59F S48884  525 x 536 x 97.5
+              SpaceBEE-102            )                                               Com      59H S48886  525 x 536 x 97.5
+              SpaceBEE-103            )                                               Com      59K S48888  525 x 536 x 97.5
+              SpaceBEE-104            )                                               Com      59M S48890  525 x 536 x 97.5
+              SpaceBEE-105            )                                               Com      59T S48896  525 x 536 x 97.5
+              SpaceBEE-106            )                                               Com      59Q S48893  525 x 536 x 97.5
+              SpaceBEE-107            )                                               Com      59R S48894  525 x 536 x 97.5
+              SpaceBEE-108            )                                               Com      59S S48895  525 x 536 x 97.5
+              SpaceBEE-109            )                                               Com      59U S48897  525 x 536 x 97.5
+              SpaceBEE-110            )                                               Com      59W S48899  525 x 536 x 97.5
+              SpaceBEE-111            )                                               Com      59AB S48904 521 x 536 x 97.5
+Jun 30 2300?  Astrocast-0201     )                                  Sherpa-FX2, LEO   Com      59CD S48954 512 x 533 x 97.5
+              Astrocast-0202     )                                                    Com      59CL S48961 512 x 533 x 97.5
+              Astrocast-0203     )                                                    Com      59CE S48955 512 x 533 x 97.5
+              Astrocast-0204     )                                                    Com      59CB S48952 512 x 533 x 97.5
+              Astrocast-0205     )                                                    Com      59CK S48960 512 x 533 x 97.5
+              Hawk 3A            )                                                    Sigint   59CG S48957 513 x 536 x 97.5
+              Hawk 3B            )                                                    Sigint   59BE S48931 513 x 536 x 97.5
+              Hawk 3C            )                                                    Sigint   59BX S48948 513 x 536 x 97.5
+              Lynk 06 (Shannon)  )                                                    Com      59BM S48938 513 x 536 x 97.5
+              Painani-2          )                                                    Tech     59
+              Lemur-2-John-Treires    )                                               Com/Met  59AY S48925 524 x 537 x 97.5
+              Lemur-2-AC-Cubed        )                                               Com/Met  59BA S48927 524 x 537 x 97.5
+              Lemur-2-Merima          )                                               Com/Met  59BC S48929 524 x 537 x 97.5
+Jun 30 2300?  Aurora/Shasta        )                                Sherpa-LTE1, LEO  Sigint   59CF S48956 511 x 537 x 97.5
+              Polar Vigilance 1    )                                                  Sigint   59BD S48930 513 x 534 x 97.5
+              Polar Vigilance 2    )                                                  Sigint   59AZ S48926 513 x 534 x 97.5
+              Polar Vigilance 3    )                                                  Sigint   59BR S48942 513 x 534 x 97.5
+              Polar Vigilance 4    )                                                  Sigint   59  
+              Faraday Phoenix      )                                                  Tech     59  
+              Lemur-2-CarlSantaMari   )                                               Com/Met  59CJ S48959 524 x 537 x 97.5
+              Ayan-21              )                                                  Tech     59BT S48944 512 x 536 x 97.5
+              ARTHUR-1             )                                                  Tech     59CC S48953 513 x 534 x 97.5
+              Tenzing              )                                                  Tech     59CA S48951 512 x 537 x 97.5
+Jun 30 1500   ORCA-6                                                 Cygnus NG-15,LEO  Tech?   13E? S49013 492 x 501 x 51.6
+Jun 30 1630   ORCA-7                                                 Cygnus NG-15,LEO  Com     13C  S49015 487 x 503 x 51.6
+Jun 30 1830   Gunsmoke-J 2                                           Cygnus NG-15, LEO Com     13D  S49014 487 x 503 x 51.6
+Jul 1 1238    OneWeb SL0249-SL0284 )          Soyuz/Fregat          Vostochniy PU1     Com    60A-AM       443 x 454 x 87.4
+Jul 3 0251    Jilin-1 KF01B   )               Chang Zheng 2D         Taiyuan           Imaging 61A  S49003 531 x 545 x 97.5
+              Jilin-1 GF03D-01)                                                        Imaging 61   S49004 530 x 543 x 97.5
+              Jilin-1 GF03D-02)                                                        Imaging 61   S49005 526 x 543 x 97.5
+              Jilin-1 GF03D-03)                                                        Imaging 61   S49006 525 x 543 x 97.5
+              Xingshidai 10   )                                                        Imaging 61   S49007 525 x 543 x 97.5
+Jul 4 2328    Fengyun-3 05                    Chang Zheng 4C         Jiuquan           Meteo   62A S49008  792 x 815 x 98.7
+Jul 6 1553    TianLian 1-05                   Chang Zheng 3C         Xichang           Comms   63A S49010  180 x 39784 x 17.6
+Jul 9 1159    Zhongzi 2-01 )                  Chang Zheng 6          Taiyuan           Sigint  64A S49018  857 x 867 x 45.0
+              Zhongzi 2-02 )                                                           Sigint  64B S49019  857 x 867 x 45.0
+              Zhongzi 2-03 )                                                           Sigint  64C S49020  857 x 867 x 45.0
+              Zhongzi 2-04 )                                                           Sigint  64D S49021  857 x 867 x 45.0
+              Zhongzi 2-05 )                                                           Sigint  64E S49022  857 x 867 x 45.0
+Jul 16        QMR-KWT)                                             ION-SVC03, LEO      Tech    59
+              Ghalib )                                                                 Tech    59
+Jul 18        NAPA-2                                               ION-SVC03, LEO      Img     59CN S48963 519 x 541 x 97.5
+Jul 19 0019   Yaogan 30 hao 10 zu 01 xing )   Chang Zheng 2C         Xichang           Sigint  65A? S49026 588 x 599 x 35.0
+              Yaogan 30 hao 10 zu 02 xing )                                            Sigint  65B? S49027 588 x 599 x 35.0
+              Yaogan 30 hao 10 zu 03 xing )                                            Sigint  65C? S49028 588 x 599 x 35.0
+              Tianqi 15                   )                                            Com     65D? S49029 591 x 602 x 35.0
+Jul 21 1458   Nauka                           Proton-M              Baykonur LC39/200  Module  66A S49044  190 x 346 x 51.6
+Jul 21        SPARTAN                                               ION-SVC03, LEO     Tech    59          519 x 533 x 97.5
+Jul 22        W-Cube                                                ION-SVC03, LEO     Tech    59CQ S48965 520 x 540 x 97.5
+Jul 24        Neptuno                                               ION-SVC03, LEO     Sigint  59          519 x 533 x 97.5
+Jul 29 0401   Tianhui 1-04                     Chang Zheng 2D       Jiuquan            Imaging 67A S49049  488 x 503 x 97.5
+Jul 29 0600   Monolith                         Electron             Mahia LC1A         Tech    68A S49052? 598 x 610 x 37.0
+Jul 30 2100   Star One D2      )               Ariane 5ECA+         Kourou ELA3        Comms   69A S49055  261 x 35771 x 3.0
+              Eutelsat Quantum )                                                       Comms   69B S49056  232 x 35555 x 3.0
+Aug  3 0739   Jilin-1 Mofang-01A?              Shuang Quxian 1      Jiuquan            Tech    F05 F01589  -250?x500? x 97?
+Aug  4 1101   KL-Beta A )                      Chang Zheng 6        Taiyuan            Comms   70A S49059  899 x 908 x 89.0 
+              KL-Beta B )                                                              Comms   70A S49060  899 x 908 x 89.0 
+Aug  5 1630   Zhongxing-2E                     Chang Zheng 3B       Xichang            Comms   71A S49062  423 x 35138 x 23.6
+Aug 10 2201   S.S. Ellison Onizuka             Antares 230+         MARS LA0A          Cargo   72A S49064  178 x 375 x 51.6
+Aug 12 0013   EOS-03                           GSLV Mk II           Satish Dhawan      Comms   F06 F01593 -4500 x 140 x 17.9
+Aug 17 0147   Pleiades Neo 4  )                Vega                 Kourou ELV         Imaging 73E S49070  615 x 617 x 97.9
+              LEDSAT          )                                                        Tech    73          522 x 562 x 97.6
+              Sunstorm        )                                                        Solar   73          522 x 562 x 97.6
+              BRO-4           )                                                        Sigint  73          522 x 562 x 97.6
+              RADCUBE         )                                                        Sci     73          522 x 562 x 97.6
+Aug 18 2232   Tianhui 2-02-01)                 Chang Zheng 4B      Taiyuan LC9         Radar   74A S49071  501 x 520 x 97.5
+              Tianhui 2-02-02)                                                         Radar   74B S49072  501 x 520 x 97.5
+Aug 21 2213   OneWeb SL0285-0291)              Soyuz-2-1b/Fregat    Baykonur LC31      Comms   75A
+              OneWeb SL0293-0302)                                                             -75AK        445 x 473 x 87.4
+              OneWeb SL0304-0305)
+              OneWeb SL0308-0319)
+              OneWeb SL0323     )
+              OneWeb SL0329-0330)
+
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jul 11 1525   Unity 22          Spaceship Two      Spaceport America     Test           86       Spaceport America
+Jul 11 1756   Dynamo 2B         Black Brant 9      Wallops I             Ionosphere    133       Atlantic
+Jul 16        YG Chongfu Shiyong   YGCS            Jiuquan               Test          200?      Alashan Youqi
+Jul 19        SR payload        SR-0.1?            Sinop, Turkey         Test          100?      Black Sea
+Jul 20 1311   RSS First Step    New Shepard        West Texas            Tourism       107       West Texas
+Jul 24        FTM-33 Target     Terrier Oriole?    Kauai                 Target        100?      Pacific
+Jul 24        FTM-33 Target     Terrier Oriole?    Kauai                 Target        100?      Pacific
+Jul 26 2030   S-520-31          S-520              Uchinoura             Technology    235       Pacific
+Jul 30 1820   MaGIXS            Black Brant 9      White Sands           Solar X-ray   300       White Sands
+Jul 31 0800   Tenga             MOMO               Hokkaido              Tech           92       Pacific
+Aug 11 0753   GT239GM           Minuteman III      Vandenberg LF09       Op. Test     1300?      Kwajalein
+Aug 12        RV                Ghaznavi           Somniani?             Test          100?      Pakistan?
+Aug 19 2100   RockSat-X         Terrier Imp.Mal.   Wallops I             Education     158       Atlantic
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

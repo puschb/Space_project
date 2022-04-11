@@ -1,0 +1,211 @@
+Jonathan's Space Report 
+No. 714                                                    2015 Jul 25     Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 44 began at 1020 UTC Jun 11 with Commander Gennadiy Padalka
+and flight engineers Mikhail Kornienko and Scott Kelly. Progress M-28M
+was launched successfully on Jul 3, carrying critical supplies for the
+ISS. It docked with the Pirs module at 0711 UTC Jul 5. Soyuz TMA-17M was
+launched on Jul 22 and docked with the Rassvet module 6h 32min after
+launch carrying Oleg Kononeko, Kimiya Yui and Kjell Lindgren. The ISS is
+currently in a 400 x 402 km orbit.
+
+New Horizons at Pluto
+----------------------
+
+33 AU from the Sun, the NASA/APL New Horizons spacecraft flew through
+the Pluto/Charon system at a relative velocity of 13.7 km/s on Jul 14,
+revealing a binary iceworld with young (lightly cratered) surfaces
+indicating recent and complex geology. Discoveries so far include an
+atmospheric haze and nitrogen-ice glaciers.  NH will continue to return
+data from the encounter for the rest of this year.
+
+The Hill sphere of the Pluto/Charon system, where (loosely speaking) the
+gravity of the system significantly affects the probe's trajectory,  has a radius of 8
+million km. Within the sphere we can consider NH as being on a hyperbolic orbit
+around the Pluto/Charon barycenter rather than being in a solar hyperbolic orbit.
+
+The system consists of two worlds (gravitationally dominated spherical
+objects), Pluto and Charon, separated by 19570 km.
+Pluto has a radius of 1186 km and a mass of 13 million teratonnes; its full designation
+is (134340) Pluto, marking it formally as a numbered minor planet (asteroid).
+Charon has a radius of 604 km radius and a mass of 1.5 million teratonnes.
+(I like the teratonne, or 1 million million metric tons, as a convenient
+mass unit for small solar system objects. The Earth has a mass of 6 billion teratonnes).
+The Pluto/Charon center of gravity is in open space between the two. 
+In addition, several small worldlets orbit the Pluto/Charon binary:
+
+           Pluto/Charon moon system
+    
+    Name                Size (approx radius)       Orbit radius    Mass (teratonne)
+
+    Styx (Pluto V)      10 km?                     42656 km         30?
+    Nix (Pluto II)      19 km                      48694 km        200?
+    Kerberos (Pluto IV) 15 km                      57783 km        150?
+    Hydra (Pluto III)   25 km                      64738 km        420
+    
+
+The timeline of the encounter, subject to revision, was as follows: (all times UTC)
+  Jul  7 1840  Enter Pluto/Charon Hill Sphere
+  Jul 14 0405  Within 1 Earth-Moon distance of Pluto inbound 
+  Jul 14 1036  Within orbit of outermost moon (65000 km from barycenter)
+  Jul 14 1115  Passed 22209 km from Nix
+  Jul 14 1151  Pluto closest approach at about 12800 km above surface
+               Approach hyperbola inclination 57 deg to Pluto equator
+  Jul 14 1153  Closest approach to Pluto/Charon barycenter at 15423 km  
+  Jul 14 1202  Passed 77680 km from Hydra
+  Jul 14 1205  Charon closest approach at 28873 km above surface
+  Jul 14 1215  Passed 69006 km from Kerberos
+  Jul 14 1230  Passed 39139 km from Styx
+  Jul 14 1309  Outside orbit of outermost moon (65000 km from barycenter)
+  Jul 14 1935  More than 1 Earth-Moon distance from Pluto, outbound
+  Jul 21 0600  Leave Pluto/Charon Hill Sphere outbound to Kuiper Belt and solar escape
+               Solar hyperbola perihelion 2.25 AU, ecliptic inclination 2.4 deg, e = 1.40
+ 
+New Horizons is now heading further out in the Kuiper Belt. The probe
+will be sent on (barring any really crazy funding decision) to make a
+course correction late in 2015 to enable an encounter with another
+Kuiper Belt object in 2019; two targets are under consideration, 2014
+MU69 (`PT1') at 43 AU from the Sun, and 2014 PN70 (`PT3') at 44 AU from
+the Sun. Both are probably small objects in the 25-50 km size range, so
+more like the Plutonian small moons than Pluto or Charon.
+
+Meanwhile the inert Star 48B third stage motor from the New Horizons
+launch is following a little way behind, and should (silently) pass
+around 200 million km from the Pluto/Charon system on Oct 9.
+
+
+DMC3
+----
+
+The third generation Disaster Monitoring Constellation was deployed on
+an Indian PSLV-XL rocket on Jul 10. DMC Imaging International is a
+Surrey Satellite spinoff company which operates the DMC imaging
+satellites in collaboration with several developing countries; the
+satellites have the capability to return prompt imaging of areas in
+those countries affected by natural disasters. DMC3 consists of three
+450 kg satellites. Also on the launch was a 91 kg Surrey Satellite
+Technology (Astrium SSTL) experimental imaging satellite, CBNT-1 (CBNT
+is an internal abbreviation whose meaning SSTL has declined to disclose)
+and a 7 kg cubesat from the Surrey Space Centre.
+
+Surrey Space Center remains affiliated with the University of Surrey in Guildford while
+SSTL is its industrial spinoff generated after the commercialization of the UoSat platform
+in the mid-1980s.
+
+NanoRacks
+---------
+
+Between Jul 13 and Jul 16 the NanoRacks team supported the Kibo RMS
+based deployment of the cubesats delivered on CRS-6: 14 3U cubsats for
+PlanetLabs, the 3U Arkyd-3R from Planetary Resources, and the 1U
+Centennial-1 from Booz Allen. Arkyd-3R tests software and systems for
+future Arkyd satellites. Centennial-1 will be used as a space
+surveillance target by the USAF.
+
+GPS
+---
+
+The GPS SVN 72 satellite was successfully launched to replenish the GPS constellation.
+This was the 10th satellite in the GPS IIR series.
+
+Ariane
+-------
+
+Arianespace launched two satellites into geotransfer on Jul 15. Meteosat Second Generation (MSG) 4 
+will become Meteosat 11 once in operation with EUMETSAT, the European Meteorological Satellite Organization.
+Star One C4 is a television satellite for the Brazilian operator Embratel Star One.
+
+WGS
+---
+
+The WGS 7 Wideband Global Satcom military communications satellite was launched Jul 24 from Cape Canaveral
+into supersynchronous geotransfer orbit. WGS satellites are managed by the USAF Space and Missile Center
+and replace the older DSCS system with X-band and Ka-band communications systems.
+This was the second Delta 4 launch to use the uprated RS-68A main engine.
+
+
+Kosmos-2504
+------------
+
+The Kosmos-2504 satellite, launched in March as the third of a series of somewhat-mysterious
+'14F153' Russian technology-development payloads, made a major orbit change on Jul 3 around 0710 UTC
+from its initial 1172 x 1506 km orbit to a lower 1119 x 1451 km orbit. This is likely
+to be the first move in a new rendezvous experiment of some kind. The satellite
+previously completed a rendezvous with its Briz-KM rocket stage around Apr 14 and appears to have
+deliberately or accidentally hit the stage, according to reports
+by Anatoliy Zak at russianspaceweb.com.
+
+Cassini
+-------
+
+Cassini made a 10953 km distant flyby of Titan (encounter T112) at 0811 UTC Jul 7.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Jun  5 1523   Kosmos-2505         Soyuz-2-1A         Plesetsk LC43/4  Imaging        27A   S40667    177 x    285 x  81.4
+Jun 23 0151   Sentinel 2A         Vega               Kourou ZLV       Imaging        28A   S40697    787 x    788 x  98.7 1030LT SSO
+Jun 23 1644   Kosmos-2506         Soyuz-2-1B         Plesetsk LC43/4  Imaging        29A   S40699    706 x    725 x  98.3 0840LT SSO
+Jun 26 0622   Gaofen 8            Chang Zheng 4B     Taiyuan          Imaging        30A   S40701    471 x    481 x  97.3 1330LT SSO
+Jun 28 1421   Dragon CRS-7        Falcon 9 v1.1      Canaveral SLC40  Cargo          F02   F01448  -6250?x     45?x  51.6
+Jul  3 0455   Progress M-28M      Soyuz-U            Baykonur LC1     Cargo          31A   S40713    398 x    402 x  51.6 Docked ISS
+Jul 10 1628   DMC3-1     )                                            Imaging        32A   S40715    637 x    662 x  98.3 2210LT SSO
+              DMC3-2     )                                            Imaging        32B   S40716    637 x    662 x  98.3 2210LT SSO
+              DMC3-3     )        PSLV-XL            Sriharikota FLP  Imaging        32C   S40717    637 x    661 x  98.3 2210LT SSO
+              CBNT-1     )                                            Imaging        32D   S40718    636 x    658 x  98.3 2210LT SSO
+              DeOrbitSail)                                            Tech           32E   S40719    635 x    657 x  98.0 2210LT SSO
+Jul 13 1640   Flock 1e-1  )                          ISS, LEO         Imaging      98-67GF S40722    395 x    401 x  51.6
+              Flock 1e-2  )                                           Imaging      98-67GE S40723    394 x    401 x  51.6
+Jul 14 0431   Flock 1e-3  )                          ISS, LEO         Imaging      98-67GH S40725    395 x    400 x  51.6
+              Flock 1e-4  )                                           Imaging      98-67GG S40724    396 x    401 x  51.6
+Jul 14 1545   Flock 1e-5  )                          ISS, LEO         Imaging      98-67GL S40728    395 x    402 x  51.6
+              Flock 1e-6  )                                           Imaging      98-67GM S40729    395 x    402 x  51.6
+Jul 14 2340   Flock 1e-7  )                          ISS, LEO         Imaging      98-67GJ S40726    395 x    402 x  51.6
+              Flock 1e-8  )                                           Imaging      98-67GK S40727    396 x    401 x  51.6
+Jul 15 0601   Flock 1e-9  )                          ISS, LEO         Imaging      98-67GN S40736    396 x    401 x  51.6
+              Flock 1e-10 )                                           Imaging      98-67GP S40737    397 x    401 x  51.6
+Jul 15 1315   Flock 1e-11 )                          ISS, LEO         Imaging      98-67GQ S40738    395 x    402 x  51.6
+              Flock 1e-12 )                                           Imaging      98-67GR S40739    396 x    402 x  51.6
+Jul 15 1536   GPS SVN 72          Atlas V 401        Canaveral SLC41  Navigation     33A   S40730  20446 x  20459 x  55.0
+Jul 15 2142   Star One C4  )      Ariane 5ECA        Kourou ELA3      Comms          34B   S40733  35727 x  35791 x   0.1 GEO drift
+              Meteosat 11  )                                          Weather        34A   S40732  35376 x  35636 x   3.2 GEO drift
+Jul 15 2249   Flock 1e-13 )                          ISS, LEO         Imaging      98-67GS S40740    396 x    401 x  51.6
+              Flock 1e-14 )                                           Imaging      98-67GT S40741    396 x    400 x  51.6
+Jul 16 0641   Centennial-1)                          ISS, LEO         Calib        98-67GU S40742?   395 x    401 x  51.6
+              Arkyd-3R    )                                           Tech         98-67GV S40743?   395 x    401 x  51.6
+Jul 22 2012   Soyuz TMA-17M       Soyuz-FG           Baykonur LC1     Spaceship      35A   S40744    400 x    402 x  51.7 at ISS
+Jul 24 0007   WGS 7               Delta 4M+(5,2)     Canaveral SLC37B Comms          36A   S40746?   437 x  66870 x  24.2
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                        Mission    Apogee/km
+
+Jun  3        RV               Hyunmoo 2           Anhueng, S Korea      Test          150
+Jun  6        Warhead          Hwasong 6?          Sa'dah, Yemen         Weapon         80?
+Jun  6        CTV-01           SM-3-IIA            San Nicolas I.,Calif. Test          150?
+Jun 25 1000   NASA 41.113UO    Terrier Imp.Orion   Wallops, Virginia     Education     118?
+Jun 30 0455   MAPHEUS 5        VSB-30              Kiruna, Sweden        Micrograv     256
+Jun 30        Warhead          Hwasong 6?          Sa'dah, Yemen         Weapon         80?
+Jul  7 1015   NASA 36.313NP    Black Brant 9       Wallops, Virginia     Tech          350?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+
+
+

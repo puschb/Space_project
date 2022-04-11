@@ -1,0 +1,220 @@
+Jonathan's Space Report 
+No. 721                                                       2016 Jan 18  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 46 continues aboard ISS with Scott Kelly, Mikhail
+Kornienko, Sergey Volkov, Yuriy Malenchenko, Tim Kopra and Tim Peake.
+
+On Dec 17 the Mobile Transporter (the truck that the SSRMS Canadarm-2
+robot arm rides on) got stuck just after leaving worksite 4, one of the
+stations on the truss railway. The MT has two CETA carts attached to it,
+and the brakes on one CETA were accidentally engaged - probably left in
+the wrong position on an earlier spacewalk. Since a stuck MT is
+considered a safety issue for dockings, astronauts Kelly and Kopra made
+a spacewalk on Dec 21 to release the brake. They also completed some
+left-over cabling tasks. The Quest airlock was depressurized at about
+1238 UTC and repressurized at 1601 UTC. Kelly and Kopra used EMU suits
+3010 and 3011. The MT is now working fine.
+
+The Progress M-28M cargo ship undocked from Pirs at 0735 UTC Dec 19 and was
+deorbited over the South Pacific, with debris impact at 1128 UTC.
+
+On Dec 21 Russia launched the first Progress-MS cargo ship. Progress-MS is similar
+to previous Progress ships but with improved onboard systems. It docked with
+the Pirs module at 1027 UTC Dec 23.
+
+On Jan 15 astronauts Kopra and Peake made a spacewalk from the Quest
+airlock in EMU suits 3011 and 3008. They replaced the Sequential Shunt
+Unit (SSU) electronics box at the base of the 1B solar array on the S6
+truss segment. The replacement SSU was launched on STS-96 in 1999 and
+had been stored since then inside Unity and then PMA-3 until being
+unpacked in December for the spacewalk. The old SSU failed on Nov 13,
+shutting down power to the 1B solar array (one of eight on ISS). Full
+power has now been restored. The astronauts also continued cabling work
+for the IDA docking adapter and relocated a vent on the Tranquility
+module. The spacewalk was cut short when Kopra's suit developed a small
+water leak which accumulated in his helmet; this was the same suit that
+had a more serious leak during Luca Parmitano's spacewalk in Jul 2013,
+but it's not clear if the two problems are related. Kopra and Peake
+depressurized Quest at about 1243 UTC and ventured outside at 1300 UTC,
+returning with hatch closure at 1727 UTC and repressurization at 1731
+UTC. Peake, who is a European Space Agency astronaut sponsored by the
+UK, made the first UK-flagged spacewalk,  and the first spacewalk by a
+British citizen who is not also a dual-nationality US citizen.
+
+GalileoSat
+----------
+
+Two more European Galileo FOC-class navigation satellites were launched on Dec 17.
+The Soyuz rocket and Fregat stage delivered them to the target orbits. 
+
+    GalileoSat 11  = FOC FM8 = GSAT0208 = Adriana
+    GalileoSat 12  = FOC FM9 = GSAT0209 = Liene
+
+Falcon 9
+--------
+
+On Dec 22 SpaceX launched their first Falcon 9 since the CRS-7 failure.
+Core F9-021 was also the first 'full thrust' Falcon 9 with improved performance.
+The primary payload was a cluster of Orbcomm OG2 comm satellites. The 11 OG2s
+and one non-separating mass simulator were mounted on the circumference of
+a dispenser consisting of three ESPA rings attached to the second stage.
+After the satellites were deployed, the second stage was deorbited.
+
+The first stage shut down at an altitude of around 80 km and a velocity
+of 1.65 km/s (Earth-relative), just before stages 1 and 2 separated.
+The stage reached an apogee of around 200 km before beginning a boostback
+burn to kill its eastward velocity and send it back towards Florida.
+Following a third, reentry, burn the stage landed back at Cape Canaveral's
+Landing Zone 1 (former pad 13). The fully controlled vertical landing came
+at 0139 UTC Dec 22.
+
+On the US West Coast, another Falcon 9 was launched on Jan 17 with the
+Jason-3 satellite. This was vehicle F9-019, the last version 1.1 core;
+it took off soutbound from Space Launch Complex 4-East at Vandenberg AFB
+at 1842 UTC, entered a 175 x 1321 km x 66 deg transfer orbit at 1851
+UTC, and circularized the orbit at apogee with spacecraft separation at
+1938 UTC. The second stage was then deorbited with a burn at around 1945
+UTC lowering perigee into the atmosphere, leading to a reentry around
+2030 UTC over the northeastern Pacific. Meanwhile the first stage
+completed a boostback burn and flew down to the center of the target on
+the ASDS ship "Just Read The Instructions" in the Pacific at about 1852
+UTC. However, on landing one of the deployed legs failed to lock in
+place and the vehicle toppled and was destroyed.
+
+Jason-3 is the fourth in a series of French/US satellites carrying the
+Poseidon altimeter to measure sea surface height across the world, an
+important parameter in climate change studies. The satellites also carry
+microwave radiometers. The first Poseidon satellite was the
+TOPEX/Poseidon research experiment  which operated from 1992 to 2006.
+This was followed on by the progressively more operational Jason series;
+Jason-1 in 2001-2013, and the still operational Jason-2 launched in
+2008. The 550 kg satellite is built by Thales Alenia (Cannes) using the
+Proteus bus and owned by the French space agency CNES. Lead agencies for
+the overall Jason-3 program are the US weather agency NOAA and the
+European weather satellite group EUMETSAT, taking over from CNES and JPL
+who led the earlier missions.
+
+Ekspress-AMU1
+------------
+
+Russia launched the Ekspress-AMU1 satellite on Dec 24. Ekspress-AMU1,
+built by Astrium using the Eurostar 3000 bus, has 61 Ku-band
+transponders and 10 Ka transponders. The  multi-beam Ka antennas use a
+new feed array developed  by Airbus Defense and Space.
+
+Gao Fen 4
+---------
+
+China's Gao Fen 4 high resolution imaging satellite was launched into
+geotransfer orbit on Dec 28. GF-4 has a 50-metre-resolution imager.
+
+Belintersat
+-----------
+
+The first Belarussian communications satellite, Belintersat 1, was launched on Jan 15.
+The satellite is a Chinese-built DFH-4 with a mass of 5200 kg, and it rode a
+Chinese CZ-3B to geotransfer orbit. Belintersat is a state-sponsored private
+company and will provide services to Belarus and central Europe.
+
+
+2015 Orbital Launches
+---------------------
+
+There were 87 orbital launch attempts. Three launches (2 US, 1 Russian)
+failed to reach orbit. Two Russian launches reached the correct orbit
+but had failures at payload separation. Of the 84 launches reaching
+orbit, one (Vega VV04) did not receive an international designation.
+These 84 launches included
+ - 25 Russian (14 Soyuz, 7 Proton, 2 Rokot, 1 Zenit, 1 Dnepr)
+ - 19 Chinese (16 CZ2/3/4, 1 CZ6, 1 CZ11)
+ - 18 US  (9 Atlas 5, 6 Falcon 9, 2 Delta 4, 1 Delta 2)
+  - 9 European (Ariane, Vega)
+  - 5 Indian 
+  - 4 Japanese
+  - 1 Iranian
+  - 3 Russian/European Soyuz-ST launches from French Guiana.
+
+I remain uncertain whether I should count the Soyuz-from-French-Guiana missions
+as Russian, European, or joint. They are owned by Arianespace but the vehicle
+is fully Russian and I believe most of the launch crew are.
+
+Even neglecting these, Russia remains the leader in number of orbital launches;
+China continues strengthening its record.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Dec  3 0404   LISA Pathfinder     Vega               Kourou ZLV       Astron/Tech    70A   S41043    En route SEL1
+Dec  5 1409   Kosmos-2511  )      Soyuz-2-1V         Plesetsk LC43/4  Imaging        71A   S41098    685 x   694 x  98.2 
+              Kosmos-2512  )                                          Calibration    71B   S41099    684 x   693 x  98.2 0600LT SSO
+Dec  6 2144   Deke Slayton II     Atlas V 401        Canaveral SLC41  Cargo          72A   S41101    404 x   418 x  51.6 Docked ISS
+Dec  9 1646   Zhongxing 1C        Chang Zheng 3B     Xichang          Comms          73A   S41103  35777 x 35796 x   0.1
+Dec 11 1345   Elektro-L No. 2     Zenit-3SLBF        Baykonur LC45/1  Weather        74A   S41105  35680 x 35813 x   0.1 GEO drift
+Dec 13 0019   Kosmos-2513         Proton-M/Briz-M    Baykonur LC81/24 Comms          75A   S41121    401 x 35657 x  48.6
+Dec 15 1103   Soyuz TMA-19M       Soyuz-FG           Baykonur LC1     Spaceship      76A   S41124    404 x   418 x  51.6 Docked ISS
+Dec 16 1230   TeLEOS-1    )                                           Imaging        77D   S41169    534 x   549 x  15.0
+              VELOX-C1    )                                           Weather(RO)    77A   S41166    533 x   549 x  15.0
+              Kent Ridge 1)       PSLV-CA            Sriharikota LP1  Imaging        77B   S41167    533 x   549 x  15.0
+              VELOX-II    )                                           Tech           77F   S41171    536 x   549 x  15.0
+              Galassia    )                                           Sci/Tech       77E   S41170    528 x   548 x  15.0
+              Athenoxat-1 )                                           Imaging        77C   S41168    531 x   548 x  15.0
+Dec 17 0012   Wukong              Chang Zheng 2D     Jiuquan          Astron         78A   S41173    487 x   504 x  97.3
+Dec 17 1151   GalileoSat-11 )     Soyuz-ST-B         CSG ELS          Navigation     79A   S41174  23511 x 23568 x  55.0
+              GalileoSat-12 )                                         Navigation     79B   S41175  23552 x 23617 x  55.0
+Dec 21 0844   Progress MS         Soyuz-2-1A         Baykonur LC31    Cargo          80A   S41177    270 x   279 x  51.6
+Dec 22 0129   Orbcomm FM105 )     Falcon 9 FT        Canaveral SLC40  Comms          81C   S41181    613 x   657 x  47.0
+              Orbcomm FM108 )                                         Comms          81J   S41187    614 x   658 x  47.0
+              Orbcomm FM110 )                                         Comms          81D   S41182    614 x   657 x  47.0
+              Orbcomm FM112 )                                         Comms          81F   S41184    614 x   657 x  47.0
+              Orbcomm FM113 )                                         Comms          81G   S41185    613 x   657 x  47.0
+              Orbcomm FM114 )                                         Comms          81A   S41178    613 x   655 x  47.0
+              Orbcomm FM115 )                                         Comms          81H   S41186    612 x   654 x  47.0
+              Orbcomm FM116 )                                         Comms          81L   S41189    613 x   656 x  47.0
+              Orbcomm FM117 )                                         Comms          81K   S41188    614 x   656 x  47.0
+              Orbcomm FM118 )                                         Comms          81E   S41183    613 x   654 x  47.0
+              Orbcomm FM119 )                                         Comms          81B   S41180    613 x   654 x  47.0
+Dec 24 2131   Ekspress-AMU1       Proton-M/Briz-M   Baykonur LC200/39 Comms          82A   S41191   4323 x 35760 x  22.4
+Dec 28 1604   Gao Fen 4           Chang Zheng 3B    Xichang LC2       Imaging        83A   S41194    205 x 35806 x  23.0
+Jan 15 1657   Belintersat-1       Chang Zheng 3B    Xichang LC3       Comms          01A   S41238    193 x 41730 x  26.4
+Jan 17 1842   Jason-3             Falcon 9 v1.1     Vandenberg SLC4E  Climate        02A   S41240   1295 x  1320 x  66.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Japan's JAXA launched an S-310 sounding rocket on Jan 15 to study plasma heating in the ionosphere.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Dec  1 0500   MASER 13         VSB-30              Kiruna, Sweden        Microgravity  270?      ESRANGE B Zone, Sweden
+Dec  5 0600   DXL-2            Black Brant 9       White Sands           X-ray Astron  238       White Sands
+Dec  8        CTV-02           SM-3 Block IIA      San Nicolas I, Calif. Test          100?      Point Mugu Sea Range
+Dec 10 0612   Target           Silver Sparrow  F-15D, Med. Sea           Target        150?      Intercepted
+Dec 10 0615   Arrow 3 KV       Arrow 3             Palmachim, Israel     Interceptor   150?      Intercept 
+Dec 10        FTO-O2E1a Target SRALT?          C-17, Pacific Ocean       Target        300?      Intercepted
+Dec 10        Aegis KV         SM-3 Block IB       Kauai                 Interceptor   150?      Intercept 
+Dec 10 1355   PAC-3 Target     Juno                Ft. Wingate, NM       Target        100?      White Sands
+Dec 11        Shaheen RV       Shaheen III         Somniani?,Pakistan    Test          500?      Arabian Sea
+Dec 12        RV x 4?          Sineva          K-51, Barents Sea         Test         1000?      Kura, Kamchatka
+Dec 13 0432   RENU 2           Black Brant XIIA    Andoya, Norway        Auroral       447       Andoya range
+Dec 15        Shaheen RV       Shaheen IA          Somniani?,Pakistan    Test          100?      Arabian Sea
+Dec 18 0652   FORTIS 3         Black Brant IX      White Sands           UV Astron     282       White Sands
+Dec 24 1755   Topol'-E RV?     Topol'              Kapustin Yar          Reentry test 1000?      Sary Shagan
+Jan 15 0300   S-310-44         S-310               Uchinoura             Ionosphere    161       Pacific Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

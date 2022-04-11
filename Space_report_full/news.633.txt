@@ -1,0 +1,185 @@
+Jonathan's Space Report
+No. 633                                             2010 Oct 19 Somerville, MA
+----------------------------------------------------------------------------------
+
+LVDB
+-----
+
+A new edition of my suborbital and orbital launch database is now online at 
+  http://www.planet4589.org/space/lvdb/index.html
+It contains 66136 launches.
+
+
+Shuttle and Station
+-------------------
+
+Soyuz TMA-01M, Soyuz TMA-19, Progress M-05M, and Progress M-07M
+are docked to the ISS. Discovery is on pad 39A preparing for the STS-133
+mission. Soyuz TMA-01M was launched on Oct 7 carrying
+Aleksandr Kaleri, Oleg Skripochka and Scott Kelly and docked with
+the Poisk module at 0001 UTC on Oct 10.
+
+The Expedition 24 crew  Skvortsov, Kornienko and Caldwell-Dyson
+transferred to Soyuz TMA-18 on Sep 24 and prepared to undock from the
+Poisk module, but the latches failed to work correctly and the landing
+was cancelled; the crew returned to the Station while troubleshooting
+continued. Undocking the next day was successful at 0203 UTC Sep 25; the
+deorbit burn at 0431 UTC put TMA-18 on a trajectory to intersect the
+Earth's atmosphere. The spaceship landed in Kazakhstan at 0523 UTC.
+
+Expedition 25 officially began on 2010 Sep 25 at 0203 UTC. The current
+station crew are commander Doug Wheelock, FE-6 Shannon Walker, FE-5
+Fyodor Yurchikin, FE-1 Aleksandr Kaleri, FE-2 Oleg Skripochka and FE-3
+Scott Kelly.
+
+
+USA 215
+-------
+
+Ted Molczan reported on SeeSat on Sep 22 that Bob Christy and Brad Young
+have observed the USA 215 satellite, launched the previous day, in a
+1057 x 1072 km x 123.0 deg orbit. By Oct 17 the satellite was in an 1102
+x 1105 km x 123.0  deg orbit. The AV-025 Centaur stage has not been
+cataloged and probably was deorbited shortly after deploying USA 215. 
+
+This retrograde orbit is unusual - some previous radar satellites have been
+launched into 57 degree orbits, and this is the equivalent but going westward
+instead of eastward. That costs extra fuel since you are fighting the Earth's
+rotation instead of gaining from it. The altitude is also rather higher
+than earlier surveillance satellites.
+
+Chang'e-2
+---------
+
+China's second lunar probe was launched on Oct 1. On Oct 6 at around 0314 UTC it
+entered a 119 x 8599 km lunar orbit (info from nasaspaceflight.com). By
+Oct 9 it was in a 100 x 100 km orbit around the Moon.
+
+Shi Jian 6 Group 4
+------------------
+
+The fourth pair of SJ-6 satellites was launched on Oct 6 into a 588 x
+604 km x 97.8 deg orbit. Shijian liuhao 4 zu A xing is a small satellite
+built by CAST/Beijing. Its companion,  Shijian liuhao 4 zu B xing, is a
+larger satellite (perhaps 1000 kg) built by the Shanghai academy. The
+satellites may have some kind of military surveillance role. 
+As noted by to Igor Lissov on nasaspaceflight.com, the B xing spent
+form Oct 10 to 14 in a lower 566 x 604 km orbit to adjust its orbital
+position relative to A, and then moved up again to match orbits with A.
+
+
+Yaogan Weixing 11
+-----------------
+
+Yaogan Weixing shi yihao (YW-11) was launched from the Jiuquan space center
+on Sep 22 into a 625 x 656 km x 98.0 deg sun-synchronous orbit.
+Two 3.5 kg subsatellites build by Zhejiang University were also deployed.
+The Xinhua news agency refers to them as two "Pixing 1A" satellites.
+According to china.org.cn, the Zheda Pixing 1A (or ZDPS-1A) satellites
+carry cameras for Earth imaging.
+
+SBSS
+----
+
+The first Space-Based Surveillance Satellite, SBSS, was launched on Sep
+26 from Vandenberg into a 631 x 633 km x 97.8 deg orbit. This was also
+the first four-stage Minotaur IV launch (a three stage Minotaur IV Lite
+put HTV-2a on a suborbital flight path on Apr 22). SBSS will track
+satellites and space debris, supplementing the ground-based tracking
+network. It was developed following the success of the experimental SBV
+sensor on the MSX satellite in the 1990s. The satellite was built by
+Ball Aerospace, with overall mission development by Boeing/Huntington
+Beach.
+
+Kosmos-2469
+-----------
+
+On Sep 30, Russia launched a new Oko early warning satellite into 
+elliptical orbit on a Molniya-M rocket. After an orbit raising
+burn on Oct 11 the payload is in a 576 x 39616 km x 62.8 deg orbit.
+
+Sirius XM-5
+-----------
+
+International Launch Services put another digital radio satellite 
+in orbit for Sirius XM on Oct 14 aboard a Proton-M/Briz-M.
+There are now four satellites in orbit from the original Sirius
+system (Sirius 1-3 in inclined orbit and Sirius 5 in geostationary)
+and five in the XM system (former XM Radio 1 to 4, now presumably to be
+known as Sirius XM 1 to 4).
+
+
+Globalstar-2
+------------
+
+The first six Globalstar-2 satellites were launched on Oct 19 by a
+Russian Soyuz-2-1a/Fregat vehicle from Baykonur into a 912 x 924 km x
+52.0 deg orbit. The Globalstar system provides mobile communications
+from a low orbit constellation. 72 first-generation Globalstar
+satellites, built by Loral, were launched between 1998 and 2007, and 44
+of those are currently in the operational Globalstar orbit of 1411 x
+1415 km x 52.0 deg.  48 of the new satellites are being built by
+Thales/Roma.
+
+
+Erratum
+-------
+
+The Jun 24 RockOn flight, NASA 41.088UO, was launched either at 1117 UTC
+or 1217 UTC, not 1000 UTC as stated in an earlier JSR. (The NASA Blue Book
+reports 1117 UTC, but the Wallops twitter feed seems to indicate 0817EDT=1217UTC.)
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep  2 0053   Kosmos-2464 )       Proton-M/DM-2    Baykonur LC81/24 Navigation 41A
+              Kosmos-2465 )                                         Navigation 41B
+              Kosmos-2466 )                                         Navigation 41C
+Sep  4 1614   Zhongxing 6A        Chang Zheng 3B   Xichang          Comms      42A
+Sep  8 0330   Kosmos-2467 )       Rokot/Briz-KM    Plesetsk         Comms      43A
+              Gonets-M    )                                         Comms      43B
+              Kosmos-2468 )                                         Comms      43C
+Sep 10 1022   Progress M-07M      Soyuz-U          Baykonur LC31    Cargo      44A
+Sep 11 1117   Michibiki           H-IIA 202        Tanegashima      Nav/Comm   45A
+Sep 21 0403   USA 215             Atlas V 501      Vandenberg SLC3E Radar?     46A
+Sep 22 0242   Yaogan Weixing 11)  Chang Zheng 2D   Jiuquan          Imaging?   47A
+              Zheda Pixing 1A-1?)                                   Tech       47B?
+              Zheda Pixing 1A-2?)                                   Tech       47C?
+Sep 26 0441   SBSS                Minotaur IV      Vandenberg SLC8  Tracking   48A
+Sep 30 1701   Kosmos-2469         Molniya-M        Plesetsk         Early Warn 49A
+Oct  1 1100   Chang'e 2           Chang Zheng 3C   Xichang          Lunar probe 50A
+Oct  6 0049   SJ-6/4A   )         Chang Zheng 4B   Taiyuan          ?          51A
+              SJ-6/4B   )                                           ?          51B
+Oct  7 2310   Soyuz TMA-01M       Soyuz-FG         Baykonur LC1     Spaceship  52A
+Oct 14 1853   Sirius XM-5         Proton-M/Briz-M  Baykonur LC81/24 Radio      53A
+Oct 19 1710   Globalstar-2 FM2? ) Soyuz-2-1a/Fregat Baykonur LC31   Comms      54A
+              Globalstar-2 FM3? )                                   Comms      54B
+              Globalstar-2 FM4? )                                   Comms      54C
+              Globalstar-2 FM5? )                                   Comms      54D
+              Globalstar-2 FM6? )                                   Comms      54E
+              Globalstar-2 FM7? )                                   Comms      54F
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Sep  1        RV              Scud?            Point Mugu?     Target      100?
+Sep 17 1003   GT202GM         Minuteman 3      Vandenberg LF09 Op test    1300?
+Sep 21 1307   NASA 41.082NP   Terrier Orion    Wallops I.      Tech        130?
+Oct  7 0310   RV x 3?         Bulava          TK-208, White Sea R&D       1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@www.planet4589.org    |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

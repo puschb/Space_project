@@ -1,0 +1,127 @@
+Jonathan's Space Report
+No. 358                                        1998 May  3 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The STS-90/Neurolab life sciences research mission continued after
+repair of the CO2 scrubber problem reported last week. The research
+mission was mostly carried out as planned, but an unexpectedly large
+number of the baby rats died. Columbia landed at 1609 UTC on May 3, at
+Kennedy Space Center's Runway 33. Mission duration was 15 days 21 h
+49min 59 sec.
+
+The human crew of STS-90 was Richard Searfoss (Commander), Scott Altman
+(Pilot), Richard Linnehan (Payload Commander),  Kay Hire (Mission
+Specialist 2), all of NASA; Dafydd Rhys Williams (Mission Specialist 3,
+Canadian Space Agency); Jay Clark Buckey, Payload Specialist 1, from
+Dartmouth Medical School, and James Pawelczyk, Payload Specialist 2,
+from Penn State University.
+
+Neurolab mission scientists are now studying the readaptation of 
+both the rats and humans to gravity. The remaining rats will be
+dissected soon after landing to study these changes; the human
+crewmembers, in contrast, are being saved for a possible reflight
+of the mission as early as August. 
+
+Recent Launches
+---------------
+
+The former Asiasat 3 satellite, placed in  incorrect orbit last
+December, is undergoing an unprecedented manuever. The Blok-DM3 upper
+stage placed Asiasat 3 in a geostationary transfer orbit of  365 x 35989
+km x 51.6 deg instead of a geostationary circular orbit at 35780 x 35800
+km x 0 deg. The satellite has now become the property of Hughes Global
+Services, and has been informally renamed HGS-1. The Hughes HS-601 class
+satellite is now using its Marquardt R-4D-11-300  liquid propulsion
+system  at perigee to raise its apogee to lunar distance, and use lunar
+gravity to maneuver it toward a final orbit. Apogee was raised to 88000
+km on Apr 16, 108000 km on Apr 18,  148000 km on Apr 23, 207000 km on
+Apr 26, and 319785 km on Apr 30, according to Space Command tracking
+data. Final translunar injection on May 7 will lead to HGS-1 making a
+circumlunar pass on May 13 followed by a return to  geosynchronous
+altitudes. The lunar flyby will be made with the satellite in
+spin-stabilized mode, with the two main antennas deployed to give it
+extra stability.
+
+The Cassini probe made a flyby of Venus on Apr 26. This gravity assist
+maneuver is the first in a series Cassini will make in the inner solar
+system before heading out to Saturn. Cassini came to 284 km above the
+surface of Venus at about 1345:41 UTC. 
+
+Egypt's first satellite, Nilesat 101, was launched on Apr 28. An Ariane
+44P launch vehicle placed it and Japan's BSAT 1b into geostationary
+transfer orbit. Nilesat 101 is a Matra Marconi Space Eurostar 2000
+communications satellite with 12 Ku-band transponders. BSAT 1b is a
+Hughes HS-376 spin-stabilized satellite.
+
+A Russian military satellite was launched into geostationary orbit on
+Apr 29 using a Krunichev Proton-K rocket with an Energiya upper stage,
+probably the Blok DM-2. The payload, Kosmos-2350, is either a Geizer
+communications satellite built by NPO PM or an early warning satellite
+built by  Lavochkin.
+
+A Chinese CZ-2C with a Smart Dispenser upper stage placed two more
+Motorola Iridium satellites in orbit on May 2. This was the fourth
+launch of the CZ-2C from the new Taiyuan space center. The SD stage
+placed the satellites in a 625 x 640 km orbit and then lowered itself to
+a 200 km perigee orbit to ensure its rapid decay.
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  2 0242   TRACE             Pegasus XL    Vandenberg        Solar obs. 20A
+Apr  7 0213   Iridium 62        Proton-K      Baykonur          Comsat     21A
+              Iridium 63                                        Comsat     21B
+              Iridium 64                                        Comsat     21C
+              Iridium 65                                        Comsat     21D
+              Iridium 66                                        Comsat     21E
+              Iridium 67                                        Comsat     21F
+              Iridium 68                                        Comsat     21G
+Apr 17 1819   Columbia   )      Shuttle       Kennedy LC39B     Spaceship  22A
+              Neurolab   )
+Apr 24 2238   Globalstar FM5)   Delta 7420    Canaveral LC17    Comsat     23A
+              Globalstar FM6)                                              23B
+              Globalstar FM7)                                              23C
+              Globalstar FM8)                                              23D
+Apr 28 2253   Nilesat 1  )      Ariane 44P    Kourou ELA2       Comsat     24A
+              BSAT 1B    )                                      Comsat     24B
+Apr 29 0440?  Kosmos-2350       Proton-K/DM2  Baykonur          Comsat?    25A
+May  2 0916   Iridium 69        CZ-2C/SD      Taiyuan           Comsat     26A
+              Iridium 71                                        Comsat     26B
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        KSC RW33      STS-90  
+OV-103 Discovery       LC39A         STS-91  Jun 2
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  ?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/RSRM66/ET-96/OV-103 LC39A       STS-91
+MLP2/
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

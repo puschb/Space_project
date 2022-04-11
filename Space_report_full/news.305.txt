@@ -1,0 +1,126 @@
+Jonathan's Space Report
+No. 305                            1996 Nov 26              Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+
+The Space Shuttle Orbiter OV-102 Columbia was launched at
+1955:50 UTC on Nov 19 from Kennedy Space Center. The SRBs
+separated at 1957 UTC and main engine cutoff was at 2004 UTC.
+The OMS 2 burn at around 2040 UTC placed Columbia in a circular
+orbit.
+
+Mission STS-80 carries the Orfeus astronomy satellite, the Wake Shield
+Facility, and spacewalk equipment. A hold was called at 1952 UTC, T-31s
+just prior to entering computer RSLS control because too much hydrogen
+was in the aft compartment, but after a two minute pause permission was
+given to continue.
+
+The Orfeus satellite was deployed on Nov 20 at 0411 UTC. It carries an
+ultraviolet telescope and spectrographs. Wake Shield Facility was
+deployed on Nov 22  at 2038 UTC. OV-102, Orfeus and WSF are in a 91.6
+min, 346 x 358 km x 28.5 deg orbit. Columbia retrieved
+WSF at 0203 UTC on Nov 26 and berthed it in the payload bay at 0236 UTC.
+
+The Progress M-33 cargo ship was successfully launched from Baykonur on
+Nov 19 and docked with Mir on Nov 22 at 0101 UTC. Progress M-32 undocked
+from Mir at 1944 UTC on Nov 20 and was deorbited over the Pacific at
+2242 UTC.
+
+Recent Launches
+---------------
+
+The Russian Mars-96 space probe mission failed to leave Earth orbit on
+Nov 17. This failure is very sad news both for Mars
+exploration and for the Russian space program.
+  In last week's report I said that Mars-96 got into solar orbit,
+based on announcements from the IKI web site which reported a successful
+Blok-D-2 second burn and ADU solar orbit insertion burn. However it soon
+emerged  that their claim of success was premature. The Blok-D-2 made a
+successful first burn, entering a 160 km circular orbit. On the second
+burn, possibly because of incorrect commands sent by the probe, it
+burned for only a few seconds before shutting down, and the probe
+remained in a lower perigee  Earth parking orbit of 145 x 171 km x 51.6
+deg.  Mars-96 separated from the Blok-D-2 and fired its own ADU engine,
+entering an elliptical 87 x 1500 km orbit. It made two revolutions of
+the Earth in this orbit and reentered a few hours later, somewhere over
+the South Pacific, at around 0132 UTC Nov 17. This piece, the M1 No. 520
+probe with the two MAS landers and two Penetrator probes, was tracked by
+Russian radars but missed by US Space Command.  The Blok-D-2 rocket
+stage reentered over the South Pacific  at 31 S 96 W (US data) or 50.9 S
+168 W (Russian data) a day later, at 0120 UTC Nov 18. The excitement on
+Sunday about possible radioactive debris reentering over Australia or
+Chile was apparently misplaced, since the payload had reentered the
+previous day and Space Command was only tracking the rocket. [Some of
+these details are thanks to Igor Lissov of Videocosmos]. There were four
+small plutonium RTG batteries aboard the two MAS landers, with 15 g of
+Pu-238 each. The two penetrator probes each carried five of the RTG
+batteries. The RTGs were designed to survive reentry and the probability
+of contamination is considered low. We don't know where the probe
+reentered, since no-one (Russian or American) managed to determine a
+precise orbit for it. Some estimates say it could be anywhere from the
+south Pacific to the mid Atlantic.  Mass of Mars-96 was 6825 kg; mass of
+the Blok-D-2 was 1900 kg with 12400 kg of fuel which was vented after
+spacecraft separation.
+
+Traditionally, Mars-96 (the prelaunch name) would have been designated
+Mars-8  after a successful launch. It is not yet clear whether this
+designation will be applied. In the old days, a failure like this would
+have been given a Kosmos cover name.
+
+Eutelsat's Hot Bird 2 communications satellite was launched by a
+Lockheed Martin Astronautics Atlas IIA from Cape Canaveral on Nov 21.
+The Atlas IIA was flight AC-124. Its Centaur IIA upper stage placed Hot
+Bird 2 in geostationary transfer orbit of 168 x 35784 km x 23.8 deg. 
+Hot Bird 2 is a Matra Marconi Space Eurostar 2000 Plus class satellite,
+and carries Ku band transponders for television broadcasts to Europe.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct 20 0720   FSW-2            Chang Zheng 2D Jiuquan         Remote sen. 59A
+Oct 24 1137   Molniya-3        Molniya-M      Plesetsk        Comsat      60A
+Nov  4 1709   SAC-B/HETE       Pegasus XL     Wallops         Science     61A
+Nov  7 1700   MGS              Delta 7925     Canaveral LC17A Mars probe  62A
+Nov 13 2240   Arabsat 2B )     Ariane 44L     Kourou ELA2     Comsat      63A
+              Measat 2   )                                    Comsat      63B
+Nov 16 2048   Mars-96          Proton-K       Baykonur LC200L Mars probe  64A
+Nov 19 1955   Columbia         Shuttle        Kennedy LC39B   Spaceship   65A
+Nov 19 2320   Progress M-33    Soyuz-U        Baykonir LC1    Cargo ship  66A
+Nov 20 0411   ORFEUS                          OV-102,LEO      Astronomy   65B
+Nov 21 2047   Hot Bird 2       Atlas IIA      Canaveral LC36B Comsat      67A
+Nov 22 2038   WSF                             OV-102, LEO     Materials   65C
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-80  
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        OPF Bay 3     STS-81  Jan 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-58/                VAB Bay 3      STS-82
+ML2/RSRM-54/ET-83           VAB Bay 1      STS-81
+ML3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

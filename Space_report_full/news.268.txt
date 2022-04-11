@@ -1,0 +1,160 @@
+<HEADER>
+Jonathan's Space Report
+No. 268                      1995 Dec 17                    Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-72, scheduled for January 11. 
+The EDFT-3 spacewalk payload on Endeavour will allow the
+astronauts to test prototype Space Station hardware, including
+a special `umbilical' carrier which supports electrical cables
+and fluid pipes, and the new portable work platform which
+Space Station astronauts will use in their spacewalk assembly
+tasks. The EDFT-3 payload consists of: (major acronym ahead
+ warning!)
+ Bay 1 Port:  PIT Utility Box, for Space Station Pre-Integrated
+ Truss electronics; the two boxes will be connected up during the
+ spacewalk to simulate truss on-orbit assembly.
+ Bay 2 Port:  PIT Utility Box and PRUM (Portable Rigid Umbilical
+ Mount), for slotting the RU across the payload bay, and CCA (Cable
+ Caddy Assembly). Bay 2 Port carries a GAS Beam adapter plate
+ (I still don't know the adapter plate types used for the other 
+ EDFT-3 equipment.)
+ Bay 3 Port:  Rigid Umbilical (RU)
+ Bay 4 Port:  Rigid Umbilical (RU). The Space Station RU, in bays 3 and 4 Port,
+ has two segments connected by a hinge. It will be unpacked and installed
+ diagonally across the bay from bays 3P to 4S, and the astronauts will
+ test its connector systems.
+ Bay 1 Stbd:  ASEM Node Carrier, stowage for slidewire cable etc.
+ Bay 2 Stbd:  PWP (Portable Work Platform), consisting of the
+  TERA (Temporary Equipment Restraining Aid), which attaches equipment
+  to the robot arm using a Flight Releasable Grapple Fixture; the
+  APFR (Articulating Portable Foot Restraint), which goes on the
+  end of the robot arm and provides the astronaut with a place to stand; and
+  PFRWS (Portable Foot Restraint Workstation Stanchions) which
+  attach to the APFR  and  provide handholds and tool holders 
+  for an astronaut working in the APFR.
+  Bay 2 also carries the CLAS Sensor 2 Task Plate which measures
+  loads exerted by the crew.
+ Bay 3 Stbd: CLAS Sensor 3 Task Plate, which is part of the 
+ Crew Loads Assembly System for measuring the force needed to do
+ certain tasks.
+ Bay 4 Stbd: SURF Starboard Umbilical Receiver Fixture, for slotting
+ the RU across the payload bay.
+ 
+(Thanks to Kevin at KSC for some of this info.)
+
+Mir
+---
+
+The EO-20 cosmonauts Gidzenko and Avdeev depressurized the Mir
+transfer compartment for a 37 minute EVA to transfer the docking cone
+from the -Z axis (Kristall) to the +Z port where Priroda will
+dock. Hatch open was at 1915 UTC on Dec 8. (Info from Chris van den
+Berg).
+
+As predicted in JSR 262, Mir's orbit was raised on Dec 9 using the
+Progress M-29 cargo ferry's engine.  The mean altitude was raised by
+only 5 km, from 92.41 min, 390 x 395 km x 51.6 deg to 92.46 min, 390 x
+399 km x 51.6 deg. Launch of the Progress M-30 cargo ferry is expected
+on December 18 at 1431 UTC.
+
+Recent Launches
+--------------
+
+Lockheed Martin launched AC-120, an Atlas IIA Centaur vehicle, on Dec
+15. AC-120 carried the Hughes Galaxy IIIR satellite into geostationary
+transfer orbit. Galaxy IIIR is an HS-601 class satellite.  It will
+provide C band (24 transponders) video distribution in the US, and
+Ku-band (24 transponders) direct broadcast TV to Latin America.
+Galaxy 3R's initial orbit was 200 x 34348 km x 26.94 deg with
+a period of 603.4 minutes.
+
+The USA 116 recon satellite was inserted into a 156 x 976 km x 98.7 deg
+orbit, according to ITAR-TASS quoting sources in the Russian Ministry
+of Defense. It has since raised its perigee to around 250 km, according
+to Russian sources. This is an excellent match to the 250 x 1000 km 
+orbit of the earlier Improved CRYSTAL, USA 86.
+
+The Galileo probe descended 160 km below the Jovian cloud tops on Dec 7,
+surviving for 57 minutes after the beginning of entry. Flyby of the
+Orbiter past Io was at 892 km, not 1000 km, according to the Dec 8 
+Galileo status report. The line of sight from Jupiter to Earth passes
+too close to the Sun at the moment for reliable data transmission,
+and the remainder of the probe data will be relayed starting next
+month.
+
+The VKS (Russian Space Forces) launched a Proton-K vehicle with a
+Blok-DM2 upper stage from Baykonur on Dec 14. The rocket inserted
+three Uragan navigation satellites, nos. 776, 778 and 782, into 19000
+km circular orbits at an inclination of 64.8 degrees. The Uragan
+spacecraft, which form part of the GLONASS (Global'naya
+Navigatsionnaya Sputnikovaya Sistema) navigation system, were given
+the cover names Kosmos-2323, Kosmos-2324 and Kosmos-2325.
+They are in GLONASS plane 2. (Source: VKS CSIC).
+
+Erratum: the Gals and Luch-1 launches carried the Blok-DM2 upper
+stage, not the DM2M.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Nov  4 1422   Radarsat )       Delta 7920     Vandenberg SLC2 Rem sensing 59A
+              SURFSAT  )                                                  59B
+Nov  6 0515   Milstar DFS 2   Titan 4 Centaur Canaveral LC40  Comsat      60A
+Nov 12 1230   Atlantis       ) Shuttle        Kennedy   LC39A Spaceship   61A
+              Docking Module )
+Nov 17 0120   ISO              Ariane 44P     Kourou ELA2     Astronomy   62A
+Nov 17 1425   Gals-2           Proton-K/DM2   Baykonur LC200L Comsat      63A
+Nov 28 1130   Asiasat 2        Chang Zheng 2E Xichang         Comsat      64A
+Dec  2 0808   SOHO             Atlas IIAS     Canaveral LC36B Astronomy   65A
+Dec  5 2118   USA 116          Titan 4        Vandenberg SLC4E Recon      66A
+Dec  6 2323   Telecom 2C   )   Ariane 44L     Kourou ELA2     Comsat      67A
+              Insat 2C     )                                  Comsat      67B
+Dec 14 0610   Kosmos-2323  )                                  Navsat      68A
+              Kosmos-2324  )   Proton-K/DM2   Baykonur        Navsat      68B
+              Kosmos-2325  )                                  Navsat      68C
+Dec 15 0023   Galaxy IIIR      Atlas IIA      Canaveral LC36A Comsat      69A
+
+Reentries
+---------
+
+Nov  5        Columbia        Landed at KSC
+Nov 18        Molniya-1 (80-92A) Reentered
+Nov 20        Atlantis        Landed at KSC
+Dec  7        Galileo Probe   Entered Jovian atmosphere
+Dec 11        Kosmos-398      Reentered over Pacific
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       LC39B         STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-52/ET-75/OV-105  LC39B      STS-72                       
+ML2/                       
+ML3/RSRM-53               VAB Bay 1  STS-75                                     
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

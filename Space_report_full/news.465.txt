@@ -1,0 +1,92 @@
+Jonathan's Space Report
+No. 465                                         2001 Oct 22  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 3 crew entered their Soyuz TM transport (spacecraft
+206, or Soyuz TM-33) on Oct 19 and
+undocked from the nadir port of Zarya at 1048 UTC, flying it out and
+then sideways a few meters before approaching the station again to dock
+with the Pirs nadir port at 1104 UTC. This frees up Zarya for the
+arrival of a new Soyuz. The docking port at the aft end of Zvezda is
+occupied by the Progress M-45 cargo ship.
+
+Soyuz spacecraft 11F732 serial no. 207, or Soyuz TM-33, was launched
+from Baykonur at 0859 UTC on Oct 21. The four strapon boosters and the
+core stage that make up the 11S59 central packet accelerated the vehicle
+out of the atmosphere, and the 11S510 Blok-I third stage placed Soyuz
+TM-33 in orbit at 0908 UTC. Vladimir Agapov reports that the first two
+orbit correction burns were successful at 1243 and 1315 UTC.
+Crew of Soyuz TM-33 are Viktor Afanasev (commander), Konstantin Kozeev
+(flight engineer) and Claudie Haignere (flight engineer-2).
+Afanasev and Kozeev represent the Russian Space Agency and Haignere
+is a CNES astronaut - CNES is the French space agency. Soyuz TM-33
+is expected to dock with Zarya on Oct 23.
+
+Recent Launches
+---------------
+
+The second QuickBird commercial imaging satellite was launched on Oct 18
+by a Boeing Delta 2 from Vandenberg. The first QuickBird was lost in a
+launch failure in Nov 2000. QB is owned by DigitalGlobe (formerly
+EarthWatch) and is a Ball BCP2000 with a launch mass of 1028 kg and a
+dry mass of about 995 kg. It will return imagery with a resolution of
+0.6m. The Delta entered a 185 x 472 km x 98.1 deg orbit at 1902 UTC. At
+1948 UTC it reached apogee and fired again to deploy QB into a 461 x 465
+km x 97.2 deg orbit. It must have had quite a bit of spare fuel, since
+its depletion burn both lowered perigee to 167 km and changed
+inclination by over 10 degrees to 108.9 deg.
+
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Sep  7 1939   Picosat 7/8       -              Sindri, LEO      Technology  00-42C
+Sep  8 1525   USA 160       )   Atlas IIAS     Vandenberg SLC3E Sigint       40A
+              NRO satellite )                                                40C
+Sep 14 2335   Pirs           )  Soyuz-U        Baykonur LC1     Station module  
+              Progress M-SO1 )                                  Cargo        41A
+Sep 21 1849   Orbview-4  )      Taurus 2110    Vandenberg 576E  Imaging      F01
+              QuikTOMS   )                                      Environment  F01
+              SBD        )                                      Technology   F01
+              Celestis-4 )                                      Burial       F01
+Sep 25 2321   Atlantic Bird 2   Ariane 44P     Kourou ELA2      Ku telecom   42A
+Sep 30 0240   Starshine 3  )    Athena-1       Kodiak           Science      43A
+              Picosat      )                                    Technology   43B
+              PCSat        )                                    UHF/VHF comm 43C
+              Sapphire     )                                    Technology   43D
+Oct  5 2120   USA 161           Titan 4B       Vandenberg SLC4E Imaging      44A
+Oct  6 1645   Raduga-1          Proton-K/DM2?  Baykonur         C telecom    45A
+Oct 11 0232   USA 162           Atlas IIAS     Canaveral SLC36B Data relay?  46A
+Oct 18 1851   QuickBird         Delta 7320     Vandenberg SLC2W Imaging      47A
+Oct 21 0859   Soyuz TM-33       Soyuz-U        Baykonur LC1     Spaceship    48A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Feb     HST SM-3B
+OV-103 Discovery       OPF Bay 2     Maintenance
+OV-104 Atlantis        VAB           STS-110 2002 Mar     ISS 8A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

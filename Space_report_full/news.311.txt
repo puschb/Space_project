@@ -1,0 +1,131 @@
+Jonathan's Space Report
+No. 311                           1997 Jan 22  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Atlantis docked with Mir at 0355 UTC on Jan 15. Jerry Linenger has
+replaced John Blaha on the Mir crew. The Shuttle undocked from the SO
+module on Mir at 0216 UTC on Jan 20, and backed off along the -RBAR
+(i.e. toward the Earth) to a distance of 140m before beginning a
+flyaround at 0231 UTC. Most of the flyaround was at a distance from Mir
+of about 170m. The first 'orbit' around Mir was complete at 0315, and
+the second was completed at 0402 UTC, when the Orbiter fired its
+jets to separate from the vicinity of Mir. The return crew for
+Atlantis comprised Mike Baker, Brent Jett, Marsha Ivins, Jeff Wisoff,
+John Grunsfeld, and John Blaha.
+
+Atlantis closed its payload bay doors early on Jan 22 and fired the OMS
+engines for the deorbit burn at 1317 UTC. The spaceship touched down on
+Runway 33 at Kennedy Space Center at 1422 UTC, completing mission
+STS-81. Atlantis will make its next trip to Mir in May.
+
+The next Shuttle mission, STS-82 on Feb 11, will deliver new science
+instruments to the Hubble Space Telescope. Discovery was rolled to the
+pad on Jan 17; during the rollout, the steel surface plate of Mobile
+Launch Platform 1 developed a 7 meter long crack, with a 'loud bang'.
+NASA reports that the weight-bearing surface of the MLP, which supports
+the fully fuelled Shuttle, is intact and there is apparently no big
+problem. Mobile Launch Platform 1 was originally part of Apollo-Saturn
+Launch Umbilical Tower 3 (LUT-3), first rolled out to pad 39A in March
+1966 and first used for a launch for Apollo 10 in May 1969.
+
+Recent Launches
+---------------
+
+A McDonnell Douglas Delta 7925 was destroyed shortly after launch from
+Cape Canaveral on Jan 17. According to a Florida Today report, a solid
+rocket booster may have failed just before the spectacular explosion.
+This is the first Delta II rocket to fail to reach orbit, and the first
+failure to orbit of any Delta since 1986. The payload was the first GPS
+Block IIR spacecraft to be launched (actually the second production
+vehicle), built by the former Lockheed Martin Astro Space in Valley
+Forge, Pennsylvania. (now part of Lockheed Martin Missiles and
+Space/Sunnyvale). Navstar GPS satellites carry atomic clocks to provide
+precise navigational information; Boeing North American Block II and
+Block IIA GPS satellites make up the current system, which Block IIR
+will replace.
+
+The Delta 7925 is a three stage rocket. The first stage is an Extra
+Extended Long Tank Thor, a derivative of the 1950s Thor IRBM. The second
+stage is a restartable liquid stage, usually denoted 'SSPS' for Second
+Stage Propulsion System, and using the Aerojet AJ-10-118K engine. This
+stage derives from the AJ-10-118E Improved Delta stage of the mid-1960's
+which in turn came from the AJ-10-104 Ablestar stage. The third stage is
+the PAM-D (Payload Assist Module-Delta) which uses the Thiokol Star 48
+solid motor. In addition to the three main stages, there are nine
+strap-on solid motors attached to the first stage. These Alliant
+Techsystems GEM (Graphite Epoxy Motor) solids distinguish the Delta 7000
+series from earlier models using Thiokol Castor solid boosters. The only
+GEM failure to date occurred when a GEM failed to separate during the
+Koreasat 1 launch, but it appears that one of the GEMs may have failed
+on this latest launch.
+
+AT&T's Telstar 401 communications satellite has failed in geostationary
+orbit. Reason for the failure is unknown. The satellite was built
+by Lockheed Martin Astro Space/East Windsor and is a Series 7000 model.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  4 0658   Mars Pathfinder  Delta 7925     Canaveral LC17B Mars probe  68A
+Dec 11 1200   Kosmos-2335      Tsiklon-2      Baykonur LC90   Recon       69A
+Dec 18 0157   Inmarsat III F3  Atlas IIA      Canaveral LC36  Comsat      70A
+Dec 20 0644   Kosmos-2336      Kosmos-3M      Plesetsk LC132  Navsat      71A
+Dec 20 1804   USA 129          Titan 4        Vandenberg SLC4E Recon      72A
+Dec 24 1350   Bion No. 11      Soyuz-U        Plesetsk LC43   Life sci    73A
+Jan 12 0928   Atlantis         Shuttle        Kennedy LC39B   Spaceship   01A
+Jan 17 1628   GPS IIR No. 2    Delta 7925     Canaveral LC17A Navsat      FTO
+ 
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-83  Apr  3
+OV-103 Discovery       OPF LC39A     STS-82  Feb 11
+OV-104 Atlantis        KSC RW33      STS-81 
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-58/ET-81/OV-103    LC39A          STS-82
+ML2/                        LC39B          STS-81
+ML3/RSRM-59/                VAB Bay 1      STS-83
+
+
+Shuttle Processing Explanation (or,  what are all these acronyms
+anyway?): 
+
+ The Shuttle consists of an Orbiter (OV), an expendable External Tank
+(ET), and a reusable pair of Redesigned Solid Rocket Motors (RSRM).  It
+is launched from Kennedy Space Center (KSC). The OV is prepared for
+flight in the Orbiter Processing Facility (OPF) which consists of three
+bays (one of which is actually a separate building) after which it is
+towed to the Vehicle Assembly Building (VAB) and `mated to the stack' or
+joined to the ET and RSRM. First, the segments of the RSRM are stacked
+up on a Mobile Launch Platform (ML) and then the ET is connected to it.
+After the OV is mated, a Crawler-Transporter is moved underneath the ML
+and carries the ML/RSRM/ET/OV stack to one of the two pads (A or B) at
+launch complex 39 (LC39) where it is eventually launched on a Space
+Transportation System (STS) mission. Occasionally an OV is returned to
+the Rockwell International plant in Palmdale, California for refit - an
+Orbiter Maintenance Down Period or OMDP. 
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

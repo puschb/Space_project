@@ -1,0 +1,116 @@
+Jonathan's Space Report
+No. 338                                  1997 Oct 14 Cambridge, MA
+-------------------------------------------------------------------------------
+I will be on travel for the last half of October, so the next issue (338)
+will probably not be out till early November. I've updated some
+of the info on my space home page
+http://hea-www.harvard.edu/~jcm/space/space.html
+including the geostationary satellite log.
+
+Shuttle and Mir
+---------------
+
+The Mir crew have removed a clamp that was inadvertently left in
+attaching Progress M-35 to Kvant, preventing its undocking. Progress
+M-35 then successfully undocked at 1203 UTC on Oct 7 (info from Chris
+van den Berg). PM-35 deorbited at 1641 UTC and fell in the Pacific at
+1723 UTC (info from Vladimir Agapov). In response to last week's query,
+Bart Hendrickx tells me that Soyuz-21 also had problems undocking, back
+in 1976.
+
+Progress M-36 docked with the Kvant module on Mir at 1707 UTC on Oct 8
+using the Kurs automatic system.
+
+Atlantis is being prepared for return to Palmdale for an Orbiter
+Maintenance Down Period (OMDP) refurbishment. The next launch is
+Columbia on mission STS-87.
+
+Bob Cabana is stepping down as Chief of the Astronaut Office and will
+command the first Station assembly flight. His replacement is Ken
+Cockrell. Cabana was CAO for 3 years, following Gibson (2 years),
+Brandenstein (5 1/2 years), Young (13 years) and Shepard (10 years).
+Several other astronauts also served as acting chief at various times.
+
+Recent Launches
+---------------
+
+IRS-1D as of Oct 8 was in a 550 x 820 km orbit, which ISRO announced
+as the minimum altitude for useful operations. By Oct 14 it was
+in a 736 x 825 km x 98.6 deg orbit.
+
+The Foton No. 11 spacecraft was launched on Oct 9. Foton is a recoverable
+microgravity science satellite based on the Zenit (Vostok) bus, built
+by TsSKB-Progress of Samara, which also produces the Soyuz-U launch
+vehicle used to place Foton in orbit. On Oct 12, Foton was in a
+218 x 371 km x 62.8 deg orbit.
+
+GE 3 is now on station at 87.0W. Intelsat 803 is at 27.5W; Echostar
+3 is in a 35722 x 38633 km x 0.3 deg drift orbit.
+
+The NASA/ESA Cassini/Huygens Saturn probe was scheduled for launch on
+Oct 15 at the time of writing. Launch vehicle is Titan 4B Centaur,
+serial B-33.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  1 1400   Iridium MFS   )   CZ-2C         Taiyuan          Inert      48A
+              Iridium MFS   )                                  Inert      48B
+Sep  2 2221   Hot Bird 3  )     Ariane 44LP   Kourou ELA2      Comsat     49A
+              Meteosat 7  )                                    Weather    49B
+Sep  4 1203   GE-3              Atlas IIAS    Canaveral LC36A  Comsat     50A
+Sep 14 0136   Iridium SV027 )   Proton-K/DM2  Baykonur         Comsat     51D
+              Iridium SV028 )                                  Comsat     51E
+              Iridium SV029 )                                  Comsat     51A
+              Iridium SV030 )                                  Comsat     51F
+              Iridium SV031 )                                  Comsat     51G
+              Iridium SV032 )                                  Comsat     51B
+              Iridium SV033 )                                  Comsat     51C
+Sep 23 1644   Kosmos-2346  )    Kosmos-3M     Plesetsk LC132   Navsat     52A
+              FAISAT-2V    )                                   Comsat     52B
+Sep 23 2358   Intelsat 803      Ariane 42L    Kourou ELA2      Comsat     53A
+Sep 24 2132   Molniya-1T        Molniya-M     Plesetsk LC43    Comsat     54A
+Sep 26 0234   Atlantis          Shuttle       Kennedy LC39     Spaceship  55A
+Sep 27 0123   Iridium SV019 )   Delta 7920    Vandenberg SLC2W Comsat     56A
+              Iridium SV034 )                                             56E
+              Iridium SV035 )                                             56D
+              Iridium SV036 )                                             56C
+              Iridium SV037 )                                             56B
+Sep 29 0447   IRS-1D            PSLV          Sriharikota      Rem sens.  57A
+Oct  5 1508   Progress M-36     Soyuz-U       Baykonur LC1     Cargo      58A
+Oct  5 2101   Echostar III      Atlas IIAS    Canaveral LC36   Comsat     59A
+Oct  9 1800?  Foton No. 11      Soyuz-U       Plesetsk         Micrograv  60A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       VAB Bay 2     STS-91  May 28
+OV-104 Atlantis        OPF Bay 3     OMDP
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/RSRM63/ET-89      VAB Bay 3     STS-87                         
+MLP2/
+MLP3/RSRM64 MMM           VAB Bay 1     STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

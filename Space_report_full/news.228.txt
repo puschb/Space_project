@@ -1,0 +1,220 @@
+Jonathan's Space Report 
+No. 228               1995 Jan 27          Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+--------
+
+STS-63 remains scheduled for Feb 2. The press kit is now out
+and gives more details on the planned payloads (thanks also
+to S. Pickard of Spacehab for info) -
+ The Spacelab Tunnel Adapter will connect the Orbiter middeck
+to the Spacehab module and contains the airlock hatch to be
+used for EVA.
+
+ Spacehab FU-1 will make its second flight on the Spacehab SH-03
+mission. Flight Unit 1 first flew in June 1993 (SH-01), while
+the SH-02 mission in Feb 1994 used FU-2. The Spacehab module
+is a pressurized laboratory containing experiment racks
+and lockers. FU-1 has a new window in the roof to help in the
+Mir rendezvous operation.
+
+ The Spartan Flight Support Structure (SFSS) is an MPESS class
+cross-bay truss structure on which Spartan 204 is mounted.
+The Spartan satellites are small free flyers deployed by the
+RMS robot arm for a couple of days and then retrieved. SPTN-204
+carries NRL's FUVIS Far Ultraviolet Imaging Spectrograph which will
+be used to study the Shuttle environment and make astronomical
+observations. This is the first Spartan mission to be sponsored
+by the USAF Space Test Program rather than NASA.
+
+ A second MPESS will carry a Hitchhiker-M class payload, 
+CGP-ODERACS II. The payload comprises several experiments:
+the Cryo System Experiment (CSE), the GLO-2 Shuttle glow experiment,
+the IMAX cargo bay camera, and the ODERACS II canister which 
+will release six subsatellites: a 2-in diameter steel sphere,
+a 4-in diameter Al sphere, a 6-in dia. Al sphere, a 1.7 in 
+length dipole wire, and two 5.2-in long dipole wires. 
+(For readers living in 20th century countries, 1 in = 25.4 mm). 
+
+ The TCS (Trajectory Control Sensor, DTO-700-5) rendezvous experiment,
+which has flown repeatedly,  will be mounted on the payload bay wall. 
+
+ Mission specialists Foale and Harris will make an EVA to test modified
+EMU spacesuits and conduct a mass handling exercise in which SPTN-204
+will be manually unberthed, moved around, and reberthed. I believe this
+EVA is probably the experiment referred to in the manifest as EDFT-1
+(maybe it stands for EMU Development Flight Test?).
+
+ The highlight of the mission should be Detailed Test Objective DTO 835,
+the Mir Approach Demonstration.
+
+Errata
+------
+
+Rick Cooper of Martin Marietta reports that Intelsat 704's initial
+perigee was 200 km, not 306 km; for readers of my Sky and Telescope
+column Mission Update, note the major goof this month about Galileo:
+its orbit insertion engine is a liquid propellant system, not
+a Star 48 solid motor. Don't know how that one crept into my brain...
+I seem to have made up several sentences of pure fantasy. Oh well, 
+thanks to Drew Lepage for catching it.
+Pressure of work has delayed the annual launch summary, but don't
+worry, I'll get to it soon.
+
+New Launches
+------------
+
+More details on EXPRESS: The TVC (thrust vector control) on the second
+stage malfunctioned 103 seconds after launch, and the fourth stage and
+payload eventually entered a 110 x 250 km x 33 deg orbit (source: Av
+Week), instead of the intended 270 x 380 km one.  The reentry capsule
+and the service module, still attached to each other, reentered over the
+Pacific between 1600 and 1630, on its second orbit of the Earth. US
+Space Command have not allocated it a satellite number, and have
+allocated the next international designation (1995-02) to the later
+Tsikada launch, although the international agreement (in force since the
+early 1960s) is that anything which completes one orbit should get an
+international designation whether the US tracks it or not.  It is
+possible that an out-of-sequence international designation will be
+allocated later, as was done on several occasions, e.g. for the secret
+Soviet launch 1966-88A which was launched between 1966-83A and 1966-84A.
+
+Yoshiro Yamada reports that ISAS says the EXPRESS launch vehicle's
+fourth stage was a modified KM-M solid motor The KM-M was first used for
+the MUSES/Hiten launch. The reentry vehicle carried two CATEX materials
+processing ovens, and three German (CETEX, PYREX and RAFLEX) and one
+Japanese (RTEX) heat shield material reentry experiments.
+
+A Tsikada navigation satellite was launched by Kosmos-3M from Plesetsk
+at 0354 UTC on Jan 24 into a 965 x 1020 km x 82.9 deg orbit. 
+The Tsikada series of navigation satellites uses
+similar technology to the US Navy's Transit system. This Tsikada
+satellite was equipped with a special adapter and carried two
+microsatellites into orbit, ASTRID and FAISAT. 
+
+ASTRID is the Swedish Space Corporation's latest space physics
+satellite, using the new Freja-C bus, a 0.4 m cube with 4 solar panel
+wings. The payload, which will emphasize studies of energetic neutral
+particles in the Earth's magnetosphere, includes PIPPI, the neutral
+particle imager; MIO, the miniature UV imaging system (with optical, UV
+continuum and Lyman alpha monitors) and EMIL, an electron spectrometer.
+The 26 kg satellite separated from the Tsikada adapter at 0458 UTC.
+
+FAISAT is a 114 kg store and forward communications satellite modified
+by Final Analysis, Inc., an American company from an existing satellite
+bus whose mission was cancelled (probably a DARPA satellite).  It
+separated from the adapter at 0919 UTC.
+
+A Chinese Long March (Chang Zheng) 2E launch vehicle was destroyed one
+minute after takeoff on Jan 25. The payload, Asia Pacific Telecom (APT)
+Satellite Co's Apstar 2 communications satellite, was lost. It was a
+Hughes HS-601 comsat; Apstar 1, launched in Jul 1994 by CZ-3, was an
+HS-376 model.
+
+--------------------------------------------------------------------------------
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Dec  1 2255     Panamsat K2     Ariane 42P      Kourou ELA2     Comsat      FTO
+Dec 14 1421     Molniya-1T      Molniya-M       Plesetsk LC43   Comsat      81A
+Dec 16 1200     Luch            Proton-K/DM-2   Baykonur LC81   Comsat      82A
+Dec 20 0511     Kosmos-2298     Kosmos-3M       Plesetsk LC132  Comsat      83A
+Dec 22 2219     DSP F17         Titan 4/IUS     Canaveral LC40  Early Warn  84A
+Dec 26 0301     Radio-ROSTO     Rokot           Baykonur LC175  Comsat      85A
+Dec 26 2227     Kosmos-2299 )   Tsiklon-3       Plesetsk LC32   Comsat      86A
+                Kosmos-2300 )                                   Comsat      86B
+                Kosmos-2301 )                                   Comsat      86C
+                Kosmos-2302 )                                   Comsat      86D
+                Kosmos-2303 )                                   Comsat      86E
+                Kosmos-2304 )                                   Comsat      86F
+Dec 28 1131     Raduga          Proton-K/DM-2   Baykonur LC81   Comsat      87A
+Dec 29 1130     Kosmos-2305     Soyuz-U         Baykonur LC31   Recon       88A
+Dec 30 1002     NOAA-14         Atlas E         Vandenberg SLC3 Weather     89A
+Jan 10 0618     Intelsat 704    Atlas IIAS      Canaveral LC36  Comsat      01A
+Jan 15 1345     EXPRESS         Mu-3S-II        Kagoshima       Materials   -
+Jan 24 0354     Tsikada     )   Kosmos-3M       Plesetsk LC132  Navsat      02A
+                ASTRID      )                                   Science     02B
+                FAISAT      )                                   Comsat      02C
+Jan 25 1926?    Apstar 2        Chang Zheng 2E  Xichang         Comsat      FTO
+
+
+Reentries
+---------
+
+Dec  5          Molniya-3 (85-04A) Reentered
+Dec  9          Kosmos-2238     Reentered
+Jan 15          EXPRESS         Reentered
+
+
+Review  - "Novosti Kosmonavtiki" and "Russian Space News"
+------
+
+From time to time I review interesting books and periodicals in this
+newsletter. For readers of Russian, the biweekly magazine Novosti
+Kosmonavtiki is unquestionably the best source available on the Russian
+space program. The magazine covers the Mir program, cosmonaut training,
+the Russian satellite and launch vehicle programs, and both history and
+future plans, as well as providing Russian coverage of US and other
+nations' space programs. The coverage is technical (in the sense that
+this newsletter is), lots of facts and figures, designations and serial
+numbers, but also comprehensive - e.g. voice transcripts of crucial
+mission phases, direct interviews with the orbiting cosmonauts by the
+editors - and serious journalism, not just parroting the Russian Space
+Agency's - uh, I guess "party line" would be the wrong word nowadays,
+but you know what I mean. For those who don't read Russian, Charles
+Radley's Tranquest Corp. provides Russian Space News, a partial
+translation into English of Novosti Kosmonavtiki. Only those articles
+dealing with the Russian program are translated, since that's the
+information not available in other English language publications. The
+translation is not that great, but it does get the essential info
+across, and the latest issue seems better than the first few attempts.
+
+Articles in 1994 issue no 22, which just arrived on my desk
+in both versions, contain the following Russian space news articles:
+ - 12 densely packed pages covering Mir activities from Oct 22
+to Nov 4, including all the details you could want on Soyuz TM-19's
+undocking and landing;
+ - the complete planned Mir flight program for 1995;
+ - extensive details of the Elektro, K-2293, Resurs, Okean and other satellites,
+   including info on the previously unknown Vektor, Yug and Romb
+   calibration satellites hidden in the Kosmos program;
+ - report on the failure investigation of the May 1994 Tsiklon launch,
+ - Biographies of the Soyuz TM-20 crew.
+
+I understand that the subscription rates for individuals in the US are
+$? for the Russian language version (Novosti Kosmonavtiki, Videokosmos,
+12/3 Akademika Koroleva, Moscow 127427, Russia) and $75 (currently, but
+may go up substantially) for the English version (Tranquest Corporation,
+PO Box 30208, Cleveland Ohio 44130 USA).
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       LC39B         STS-63  Feb 2
+OV-104 Atlantis        OPF Bay 3     STS-71  Jun
+OV-105 Endeavour       OPF Bay 1     STS-67  Mar 2
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-42/ET-68/OV-103   LC39B     STS-63                       
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/                      
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

@@ -1,0 +1,301 @@
+Jonathan's Space Report 
+No. 739                                                 2017 Jul  2     Somerville, MA
+--------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 52 continues with commander Fyodor Yurchikin and flight
+engineers Peggy Whitson and Jack Fischer.
+
+The Dragon CRS-11 cargo ship was launched on Jun 3 and arrived at the
+ISS on Jun 5. It was grappled by the Canadarm-2 at 1352 UTC and berthed
+on the Harmony module at about 1610 UTC.
+
+In the CRS-11 trunk there are three experiments: the NICER X-ray
+astronomy payload, the ROSA flexible solar array, and a facility to
+support future Earth observing experiments called MUSES. Inside the
+Dragon are supplies, experiments, and the J-SSOD#7 cubesat deployer with
+five 1U cubesats.
+
+The Cygnus OA-7 cargo ship, SS John Glenn, was unberthed from the Unity
+module at 1105 UTC Jun 4 and released at 1310 UTC into orbit.
+On Jun 8 four SpireGlobal Lemur-2 satellites were ejected from the Nanoracks
+NRCSD-E deployer on the service module; the ejections were at 1753 UTC and
+2103 UTC. OA-7 was deorbited on Jun 11, entering the atmosphere over
+the South Pacific at 1702 UTC.
+
+Australian sources have reported that the AFRL/DSTO Biarri Point cubesat
+was clandestinely deployed from the ISS on May 18. If this is true, it
+has not been assigned a public catalog number in the US satellite
+catalog.
+
+On Jun 3 the classified USA-276 spacecraft (launched by Falcon 9 on May
+1) passed within 10 kilometers of the ISS. No public announcement of
+this close encounter was made, and it is unclear whether or not the US
+government alerted the other ISS partners of the close pass.
+
+On Jun 7-8 MUSES was moved from the Dragon trunk to ELC-4.
+The transfer of NICER from the Dragon trunk to ELC-2 Site 7 began on Jun
+11, and took several days with stops to restore NICER power to prevent
+it getting too cold. By Jun 14 it was at ELC-2. 
+
+Progress MS-06 was launched on Jun 14 carrying 2400 kg of supplies
+and four small satellites for later EVA deployment. It docked with
+the Zvezda module on Jun 16 at 1137 UTC.
+
+The ROSA solar array was unberthed from Dragon's trunk on Jun 17
+and was deployed on the end of the SPDM/SSRMS. It remained deployed
+until Jun 26, and was extended and retracted several times. The
+final retraction was unsuccessful and ROSA was jettisoned into orbit
+at 2115 UTC Jun 26.
+
+Dragon was unberthed from the ISS at about 1800 UTC Jul 2 and is
+scheduled to be released early on Jul 3.
+
+SJ-18
+-----
+
+The 7600 kg Shi Jian 18 communications satellite was lost on Jul 2 when
+the second Chang Zheng 5 rocket failed to reach orbit. Problems during
+first stage burn made the rocket lose altitude from an apogee of around
+170 km, and an apparently successful but truncated second stage burn was
+unable to prevent the vehicle falling back into the atmosphere.
+
+
+GSLV-3
+------
+
+The first orbital launch of ISRO's GSLV Mk 3 launch vehicle was a success.
+GSLV Mk 3-D1 took off from Satish Dhawan Space Centre on Sriharikota Island
+on Jun 5. The design of the rocket is broadly similar to the Ariane 5, with
+two strapon boosters, a core stage, and an upper stage wich performs
+direct insertion to geotransfer orbit without first entering a parking orbit.
+The payload was the 3136 kg GSAT-19 communications satellite.
+
+Proton
+------
+
+After a year's gap, the Proton rocket is flying again. Echostar 21 was launched
+on Jun 8. The 6900 kg Loral LS-1300 satellite, with an 18-metre deployable
+dish antenna, provides S-band mobile communications for Echostar Mobile.
+
+HXMT
+----
+
+The long-awaited first Chinese astronomical satellite flew on Jun 15. The Hard
+X-ray Modulation Telescope, named Huiyan after launch, was placed in orbit
+with three small satellites. Milanesat is the third Nusat/Aleph-1 imaging
+payload from the Uruguayan/Argentine firm Satellogic. OVS-1A and OVS-1B
+are 50 kg imaging satellites from Zhuhai Orbital Control Engineering Ltd.
+
+ZX-9A 
+----- 
+
+The China Satcom ZX-9A (Zhongxing-9A, Chinasat-9A, also known as
+Xinnuo-4, Chinastar-4) broadcasting satellite payload was launched on
+Jun 18 according to chinaspaceflight.com. The CZ-3B third stage reached
+parking orbit on its first burn and reignited as it crossed the equator
+to put the vehicle in geotransfer; however the second burn was
+incomplete and left the payload in an elliptical orbit with much lower
+apogee than planned. For statistical purposes (see JSR669) I score this
+launch with a weight of 0.40 (reached an orbit but not a usable one);
+however, the payload probably does have enough fuel to reach GEO, albeit
+with a much reduced operational lifetime. At of Jul 2, there had been
+no new orbital data for ZX-9A since Jun 19; probably it has raised its
+orbit but not yet been re-identified by US sensors.
+
+PSLV-C38
+--------
+
+The Cartosat 2E satellite was orbited by India's PSLV on Jun 23,
+together with 31 small secondary payloads. These included cubesat
+payloads for Finland, Slovakia and Austria and a small Latvian payload,
+Venta-1. The Italian amateur X-ray astronomy satellite Max Valier
+carries the MPE/Garching MicroROSI X-ray telescope. The VZLUSat cubesat
+from the Czech Republic also carries an X-ray astronomy experiment with
+a `lobster-eye' hard X-ray optic. Mike Rupprecht (DK3WN) at dk3wn.info
+is doing great work identifying which cubesat has which catalog number.
+
+The PSLV-C38 fourth stage (PS4) made a series of test burns in
+preparation for future launches to deploy secondary payloads in multiple
+orbits. After reaching an initial 510 x 518 km x 97.5 deg orbit at 0414
+UTC and deploying the payloads, PS4 made a second burn at about 0457 UTC
+to 350 x 505  km x 97.5 deg; a third burn at about 0543 UTC to 334 x 348
+km x 96.9 deg; and a fourth burn to change inclination at about 1830 UTC
+to 336 x 370 km x 94.6 deg.
+
+
+Napryazhenie
+------------
+
+On Jun 23 Russia launched a Defense Ministry satellite codenamed
+Kosmos-2519 into a 650 km polar orbit. It is believed that 
+the satellite's real name is Napryazhenie No. 1,  and is probably built by the
+Lavochkin company. It may be carrying a geodetic payload and a space
+surveillance (space debris monitoring) payload.
+
+Bulgariasat and Iridium
+-----------------------
+
+East and West coast Falcon 9 launches on Jun 23 and 25 successfully
+put their payloads in orbit and saw the landing of their first stages
+on droneships. On Jun 23 Bulgariasat went to supersynchronous transfer
+orbit, and first stage B1029, on its second flight, landed on
+the Of Course I Still Love You. On Jun 25 ten Iridium communications
+satellites entered 625 km parking orbits and first stage B1036,
+on its first flight, landed on Just Read The Instructions.
+On Jul 2 launch of a further Falcon 9, with the Intelsat IS-35e satellite,
+was called off 10 seconds before ignition.
+
+
+AMC-9
+-----
+
+The AMC-9 satellite has failed in geostationary orbit. AMC 9, a Thales
+Alenia Spacebus 3000B3 model with a launch mass of 4100 kg, belongs to
+SES World Skies (formerly to SES Americom; AMC 9 is short for
+Americom-9). At about 0727 UTC on 2017 Jun 17, an event occurred to the
+satellite which made a significant change to its orbit. I estimate the
+prograde component of the velocity change was about 0.45m/s, causing its
+orbital period to increase and the satellite to drift off its 83.0W station at
+about 0.17 degree/day west. A larger in-plane nadir velocity change of
+about 13m/s increased the satellite's orbital eccentricity. On Jul 1,
+with AMC 9 drifting over 84.6W, SES reestablished contact with the satellite.
+On Jul 2, it was revealed that several debris objects had been observed
+in the vicinity of the satellite, suggesting partial disintegration of
+the spacecraft.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+
+May 18 0100   ZA-Aerosat   )                         ISS, LEO           Space sci   98067LU S42713   400 x   404 x  51.6
+              LINK         )                                            Space sci   98067LV S42714   400 x   404 x  51.6
+May 18 0415   CSUNSat 1                              ISS, LEO           Space sci   98067LW S42715   400 x   404 x  51.6
+May 18 0415?  Biarri-Point                           ISS,LEO            Tech         NONE   NONE     398 x   408 x  51.6
+May 18 0825   UPSat    )                             ISS, LEO           Space sci   98067LX S42716   400 x   404 x  51.6
+              SpaceCube)                                                Space sci   98067LY S42717   400 x   404 x  51.6
+              Hoopoe   )                                                Space sci   98067LZ S42718   400 x   404 x  51.6
+May 18 1154   SES-15                Soyuz-ST-A        CSG ELS           Comms        26A    S42709   300 x 31336 x  6.1
+May 25 0420?  It's A Test           Electron          RLLC 1            Test         F02    F01490 -5000?x   100?x 83
+May 25 0525   Challenger Sat )                       ISS, LEO           Space sci   98067MA S42721   400 x   404 x  51.6
+              NJUST-1        )                                          Space sci   98067MB S42722   400 x   404 x  51.6
+              USNW-EC0       )                                          Space sci   98067MC S42723   400 x   404 x  51.6
+May 25 0634   EKS No. 2             Soyuz-2-1B        Plesetsk LC43/4   Early Warn   27A    S42719  1651 x 38512 x  63.8
+May 25 0835   DUTHSat       )                        ISS, LEO           Space sci   98067MD S42724   400 x   404 x  51.6
+              Zidingxiang-1 )                                           Space sci   98067ME S42725   400 x   404 x  51.6
+              nSIGHT 1      )                                           Space sci   98067MF S42726   400 x   404 x  51.6
+May 25 1155   QBITO      )                           ISS, LEO           Space sci   98067MG S42728   400 x   404 x  51.6
+              Aalto-2    )                                              Space sci   98067MH S42729   400 x   404 x  51.6
+              SUSat      )                                              Space sci   98067MJ S42730   400 x   404 x  51.6
+May 25 2340   SNUSAT 1b                              ISS, LEO           Space sci   98067MK S42727   400 x   404 x  51.6
+May 26 0400   i-INSPIRE 2    )                       ISS, LEO           Space sci   98067ML S42731   400 x   404 x  51.6
+              PolyITAN-2-SAU )                                          Space sci   98067MM S42732   400 x   404 x  51.6
+              SNUSAT 1       )                                          Space sci   98067MN S42733   400 x   404 x  51.6
+May 26 0855   Ex-Alta 1                              ISS, LEO           Tech        98067NP S42734   400 x   404 x  51.6
+May 26 1215   Aoxiang 1    )                         ISS, LEO           Space sci   98067MN S42735   400 x   404 x  51.6
+              BeEagleSat   )                                            Space sci   98067MN S42736   400 x   404 x  51.6
+              Atlantis Sat )                                            Space sci   98067MN S42737   400 x   404 x  51.6
+Jun  1 0017   Michibiki 2           H-2A              Tanegashima       Navigation    28A   S42738  7090 x 35991 x  38.8
+Jun  1 2345   ViaSat 2      )       Ariane 5ECA       Kourou ELA3       Comms         29A   S42740   266 x 35686 x   6.0
+              EUTELSAT 172B )                                           Comms         29B   S42741   262 x 35689 x   5.9
+Jun  3 2107   Dragon CRS-11         Falcon 9          Kennedy LC39A     Cargo         30A   S42744   204 x   360 x  51.6
+Jun  5 1158   GSAT-19E              GSLV-III          Sriharikota SLP   Comms         31A   S42747   163 x 34592 x  21.5
+Jun  8 0345   Echostar 21           Proton-M/Briz-M   Baykonur LC81     Comms         32A   S42749  2217 x 35810 x  30.7
+Jun  8 1753   Lemur-2-JennyBarna)                     Cygnus OA7,LEO    Weather/AIS   19B   S42752   477 x   491 x  51.6
+              Lemur-2-Angela    )                                       Weather/AIS   19C   S42753   477 x   491 x  51.6
+Jun  8 2103   Lemur-2-Spirovision)                    Cygnus OA7,LEO    Weather/AIS   19D   S42754   477 x   491 x  51.6
+              Lemur-2-RobMoore   )                                      Weather/AIS   19E   S42755   477 x   491 x  51.6
+Jun 14 0920   Progress MS-06        Soyuz-2-1A        Baykonur LC31     Cargo         33A   S42756   300 x   321 x  51.6  
+Jun 15 0300   Huiyan     )          Chang Zheng 4B    Jiuquan           X-ray Astron  34A   S42758   536 x   546 x  43.0
+              OVS-1A     )                                              Imaging       34D   S42761   536 x   546 x  43.0
+              OVS-1B     )                                              Imaging       34B   S42759   536 x   546 x  43.0
+              Milanesat  )                                              Imaging       34C   S42760   536 x   546 x  43.0
+Jun 18 1611   Zhongxing 9A          Chang Zheng 3B    Xichang LC2       Comms         35A   S42763   193 x 16357 x  25.7
+Jun 23 0359   Cartosat 2 Series )   PSLV XL           Sriharikota FLP   Imaging       36C   S42767   503 x   521 x  97.5
+              CE-SAT-I                     )                            Imaging       36             496 x   518 x  97.5
+              NIUSAT                       )                            Imaging       36B   S42766   497 x   516 x  97.5
+              CICERO-6                     )                            Weather       36J   S42773?  497 x   516 x  97.5
+              Max Valier                   )                            X-ray Astron  36P   S42778   497 x   513 x  97.5
+              Venta-1                      )                            Comms (AIS)   36             497 x   517 x  97.5
+              TYVAK-53b                    )                            Tech          36H   S42772?  497 x   517 x  97.5
+              D-SAT                        )                            Tech          36AG  S42795?  497 x   509 x  97.5
+              Aalto-1                      )                            Tech          36AF  S42794?  497 x   509 x  97.5
+              Pegasus        (QB50-AT03)   )                            Science       36W   S42785?  497 x   512 x  97.5
+              NUDTSat        (QB50-CN06)   )                            Science       36             497 x   518 x  97.5
+              VZLUSat        (QB50-CZ03)   )                            X-ray Astron  36AB  S42790   497 x   511 x  97.5
+              COMPASS-2      (QB50-DE04)   )                            Science       36             497 x   515 x  97.5
+              UCLSat         (QB50-GB03)   )                            Science       36AA  S42789   497 x   512 x  97.5
+              InflateSail    (QB50-GB06)   )                            Tech          36F   S42770   491 x   518 x  97.5
+              URSA MAIOR     (QB50-IT02)   )                            Science       36M   S42776   497 x   515 x  97.5
+              LituanicaSat-2 (QB50-LT01)   )                            Science       36D   S42768?  497 x   518 x  97.5
+              Red Diamond                  )                            Comms         36Z   S42788?  497 x   512 x  97.5
+              Green Diamond                )                            Comms         36             497 x   512 x  97.5
+              Blue Diamond                 )                            Comms         36    S42796?  497 x   518 x  97.5
+              Lemur-2-ShainaJohl           )                            Weather/AIS   36    S42780?  497 x   513 x  97.5
+              Lemur-2-XueniTerence         )                            Weather/AIS   36    S42782?  497 x   513 x  97.5
+              Lemur-2-LucyBryce            )                            Weather/AIS   36    S42781?  497 x   513 x  97.5
+              Lemur-2-KungFoo              )                            Weather/AIS   36    S42784?  497 x   512 x  97.5
+              Lemur-2-McPeake              )                            Weather/AIS   36             497 x   513 x  97.5
+              Lemur-2-Sam-Amelia           )                            Weather/AIS   36    S42791?  497 x   511 x  97.5
+              Lemur-2-Lisasaurus           )                            Weather/AIS   36             497 x   512 x  97.5
+              Lemur-2-Lynsey-Symo          )                            Weather/AIS   36    S42793?  497 x   510 x  97.5
+              ROBUSAT 1B                   )                            Tech          36AD  S42792   497 x   511 x  97.5
+              skCUBE                       )                            Tech          36    S42777?  497 x   514 x  97.5
+              SUCHAI                       )                            Tech          36    S42787?  497 x   512 x  97.5
+Jun 23 1804   Kosmos-2519           Soyuz-2-1V        Plesetsk LC43/4   Geodesy?      37A   S42798   654 x   669 x  98.0
+Jun 23 1910   BulgariaSat-1         Falcon 9          Kennedy LC39A     Comms         38A   S42801   212 x 65512 x  24.1
+Jun 25 2025   Iridium SV 113 )      Falcon 9          Vandenberg SLC4E  Comms         39A   S42803   607 x   625 x  86.7
+              Iridium SV 115 )                                          Comms         39D   S42806   607 x   625 x  86.7
+              Iridium SV 117 )                                          Comms         39F   S42808   607 x   625 x  86.7
+              Iridium SV 118 )                                          Comms         39E   S42807   607 x   625 x  86.7
+              Iridium SV 120 )                                          Comms         39C   S42805   607 x   625 x  86.7
+              Iridium SV 121 )                                          Comms         39K   S42812   609 x   625 x  86.7
+              Iridium SV 123 )                                          Comms         39B   S42804   607 x   625 x  86.7
+              Iridium SV 124 )                                          Comms         39H   S42810   608 x   625 x  86.7
+              Iridium SV 126 )                                          Comms         39G   S42809   607 x   625 x  86.7
+              Iridium SV 128 )                                          Comms         39J   S42811   609 x   625 x  86.7
+Jun 26 2115   ROSA                                     ISS, LEO         Tech       98-067MT S42813   410 x   407 x  51.6
+Jun 28 2115   HellasSat 3/Inmarsat S EAN ) Ariane 5    Kourou ELA3      Comms         40A   S42814   253 x 35750 x   2.9
+              GSAT-17                    )                              Comms         40B   S42815   258 x 35817 x   3.0
+Jul  2 1123   Shi Jian 18             Chang Zheng 5    Wenchang         Comms         F03   F01493 -5000?x   170 x  19.0?
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+6 missiles were launched from Iran on Jun 18 to attack (so-called) Islamic State forces in Syria.
+Iranian reports say the launches were from both Kermanshah and Kurdistan provinces although
+only confirmed launches from the Kermanshah air base.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+May 21 0759   RV                Bukguekseong-2     Pukchang              Test          560       Sea of Japan
+May 28 2039   RV                Hwasong ER?        Wonsan                Test          150?      Sea of Japan
+May 30 1910?  FTG-15 Target     ICBM-T2            Kwajalein Meck        Target       1000?      Pacific
+May 30 1928   FTG-15            GBI                Vandenberg LF23       Interceptor   500?      FTG-15 intercept
+Jun 18        HE Warhead        Zulfiqar           Kermanshah            Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kermanshah?           Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kermanshah?           Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kermanshah?           Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kurdistan Prov.?      Weapon        200?      Deir-es-Zor,Syria
+Jun 18        HE Warhead        Zulfiqar           Kurdistan Prov.       Weapon        200?      Deir-es-Zor,Syria
+Jun 22 0520   SFTM-02 Target  Terrier Terrier Oriole   Kauai             Target        300?      Pacific
+Jun 22 0523?  SFTM-02 KV        SM-3 Block IIA     DDG-53, Pacific       Interceptor   100?      (Failed?)
+Jun 22 0930   NASA 41.121UO     Terrier Imp.Orion  Wallops I.            Education     118       Atlantic
+Jun 23 0130?  RV                Hyunmoo-2C         Anhueng               Test          200?      E China Sea?
+Jun 26        RV                Bulava             K-535, Barents Sea    Test         1000?      Kura
+Jun 27 0510   CHESS 3           Black Brant IX     White Sands           UV Astron     300?      White Sands
+Jun 29 0825   NASA 46.015GT    Terrier Imp.Malemute Wallops I.           Test/Aeron.   189       Atlantic
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   

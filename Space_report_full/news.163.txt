@@ -1,0 +1,185 @@
+Jonathan's Space Report 
+
+No. 163 (Revised)        1993 Aug  4
+Last minute amendment since I guessed wrong on the Titan payload first
+time around.
+------------------------------------------------------------------------------
+
+Shuttle 
+------- 
+
+Launch of STS-51 has been delayed until at least Aug 12. Concern about
+possible exceptional Perseid meteor shower activity this year  during
+the perihelion passage of Perseid parent comet P/Swift-Tuttle caused the
+delay until after the annual Perseid display.
+ Meanwhile, the external tank and solid rocket boosters for STS-58 have
+been mated in the VAB. The STS-58 mission will be a Spacelab mission
+using orbiter Columbia.
+
+Mir
+---
+
+Tsibliev and Serebrov continue in orbit aboard the Mir complex.
+Their callsigns are 'Sirius-1' and 'Sirius-2'. 
+
+Launches
+--------
+
+A Titan 4 blew up one minute 41 seconds after launch on Aug 2, and is
+being billed as the most expensive space accident since the loss of
+Challenger. According to the New York Times, the  payload was not a
+LACROSSE as originally thought, but an advanced Naval Ocean Surveillance
+Satellite system. This system, consisting of three satellites which
+maintain a fixed distance from each other to carry out interferometric
+location of radio signals from ships, is the third in a
+second-generation series. In the first generation, WHITECLOUD, which
+flew from 1976 to 1987, the three satellites were reportedly physically
+connected by long (several km!) wires to a central deployer core, 
+the configuration being visible in binoculars from the ground as a 
+fixed pattern moving across the sky. The details of the new generation 
+are not yet clear.
+
+Launch of the Titan 4 was from Space Launch Complex
+4-East at Vandenberg AFB, California. This is the seventh
+Titan 4 launch and its first failure. The largest Titan 4
+variant, the Titan 401/Centaur, has been stuck on the pad
+at Cape Canaveral for over a year because of various delays;
+this setback will certainly delay the launch even further.
+
+Titan 4 launches:
+
+1       1989 Jun 15     Titan 402/IUS   DSP F14 early warning
+2       1990 Jun  8     Titan 405       Advanced Ocean Surveillance
+3       1990 Nov 13     Titan 402/IUS   DSP F15 early warning
+4       1991 Mar  8     Titan 403       LACROSSE 2
+5       1991 Nov  8     Titan 403       Advanced Ocean Surveillance
+6       1992 Nov 28     Titan 404/TPA   Advanced CRYSTAL spy sat?
+7       1993 Aug  2     Titan 403       Advanced Ocean Surveillance
+
+First Generation WHITECLOUD launches:
+
+Test vehicle       1971 Dec 14          983x999x70      1971-110A,C,D,E
+
+NOSS 1             1976 Apr 30          1092x1128x63    1976-38 A,C,D,J
+NOSS 2             1977 Dec  8          1054x1169x63    1977-112A,D,E,F
+NOSS 3             1980 Mar  3          1048x1166x63    1980-19 A,C,D,G 
+NOSS 4                  Dec  9          -       -
+NOSS 5             1983 Feb  9          1052x1168x63    1983-08 A,E,F,H
+NOSS 6                  Jun  9          1051x1170x63    1983-56 A,C,D,G
+NOSS 7             1984 Feb  5          1052x1172x63.4  1984-12 A,C,D,F
+NOSS 8             1986 Feb  9          1049x1166x63.0  1986-14 A,E,F,H
+NOSS 9             1987 May 15          1045x1179x63    1987-43 A,E,F,H
+
+Erratum: The launch on Jul 22 was not in the Resurs-F series. It
+has been given the name Kosmos-2260. The launch announcement
+stated that it was part of a series to compile an official
+register of natural resources and to study soil properties
+(i.e. perhaps agricultural studies?). It has also reportedly
+been given the name Resurs-T. 
+
+
+The recon satellite Kosmos-2259 surprisingly reentered after only
+11 days in space. It was expected to stay up for two months.
+On its last day in space its orbit was 172 x 322 km, which is
+high enough to suggest a deliberate de-orbiting rather than
+a reentry due to engine failure.
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Jul  1 1433     Soyuz TM-17     Soyuz 2         Baykonur        Spaceship  43A
+Jul  8 0715     Kosmos-2258     Tsiklon-M       Baykonur        EORSAT     44A
+Jul 14 1640     Kosmos-2259     Soyuz           Plesetsk        Recon      45A
+Jul 19 2204     DSCS III        Atlas AC-104    Canaveral       Comsat     46A
+Jul 22 0856     Kosmos-2260     Soyuz           Plesetsk        Remote sens. 47A
+Jul 22 2258     Hispasat 1B  )  Ariane 44L      Kourou          Comsat     48A
+                Insat 2B     )                                  Comsat     48B
+Aug  2 1959     LACROSSE 3?     Titan 403       Vandenberg      Recon      FTO
+
+Reentries
+---------
+
+Jul  1          Endeavour       Landed at Kennedy Space Center
+Jul  1          EURECA          Returned to Earth aboard Endeavour
+Jul  4          Progress M-18   Deorbited
+Jul  4          Raduga capsule  Landed in Russia
+Jul 12          Resurs-F1       Landed in Kazakhstan?
+Jul 18          MSTI-1          Reentered
+Jul 22          Soyuz TM-16     Landed in Kazakhstan
+Jul 25          Kosmos-2259     Reentered?
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-58
+OV-103 Discovery       LC39B         STS-51
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-34/ET-57        VAB Bay 3   STS-58
+ML3/RSRM-33/ET-59/OV-103 LC39B       STS-51
+
+--------------------------------------------------------------------------------
+
+   --- WORLDWIDE SATELLITE LAUNCHES ---
+
+Following my review of Worldwide Satellite Launches (WSL), a monthly 
+publication by Phillip Clark, I received from him a rebuttal of some
+minor criticisms I expressed. In the interests of completeness I 
+reproduce an abridged version of his comments below:
+
+"Following the demise of the RAE Tables I decided to produce a
+replacement on a commercial basis; not a straight copy but an expansion
+which would result in the kind of publication I wish had been around
+twenty years ago. Naturally there are omissions as well as additions to
+the RAE format, and I invite comments and suggestions which will all be
+seriously considered. "
+
+"Dr. McDowell mourns the lack of lifetimes in WSL. This was a conscious
+decision on my part as I do not have the RAE algorithms and would rather
+not give estimated figures which could be greatly in error. I do give
+descent dates and times for all objects, and I do include launch and
+descent times to the nearest minute when they are announced, something
+that the RAE did not do.  More orbital data for manoeuvring objects, and
+orbital data for more objects involving recognizable operational debris,
+are included.  As for including perigee passage and ascending node data,
+I had not considered this but will ponder over it as something to add
+later. Orbital epochs are given to one more decimal place than in the
+RAE table. The descriptive data for Russian rocket stages is more
+complete and more accurate. Finally, unlike the RAE Tables, data for
+launch failures are included. "
+
+"As for the production standard, I appreciate Dr. McDowell's comments.
+Should the number of subscribers increase I shall be able to invest in a
+laser printer. At present masters are prepared in bold print on a 24-pin
+dot matrix printer to ensure to good quality original. However I would
+hope that the amount of information in WSL is not overlooked because of
+the printer quality which in any case is normally very clear. "
+
+"Anyone interested in further details of WSL can contact me at: Molniya
+Space Consultancy, 30 Sonia Gardens, Heston, Middlesex TW5 0LZ, England
+(tel and fax +44 81 570 3248). The subscription for 1993 launches is
+US$100 and that for 1994 (including the fully-updated and corrected 1993
+launch list) will be about US$120."
+
+   Phillip S Clark
+--------------------------------------------------------------------------------
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+
+        

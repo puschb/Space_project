@@ -1,0 +1,170 @@
+
+Jonathan's Space Report
+No. 652                                        2012 Jan  8  Austin, Texas, USA
+--------------------------------------------------------------------------------
+The Earth made its annual closest approach to the Sun at about 0030 UTC on Jan 5.
+A happy perihelion to all my readers!
+
+Space Station
+-------------
+
+Launch of the Soyuz TMA-03M spaceship from Baykonur with Oleg Kononenko,
+Andre Kuipers and Don Pettit occurred on Dec 21. The ship docked
+with the Rassvet module at 1519 UTC on Dec 23.
+
+Meridian failure
+-----------------
+
+Launch of the fifth Meridian military communcations
+satellite from Plesetk failed on Dec 23, once again putting the
+Soyuz-2-1b launch vehicle in doubt. The Blok-I third stage
+malfunctioned 7 min 1 s after launch, a couple of minutes short
+of orbit insertion. Blok-I with the Fregat upper stage and the payload
+crashed near Novosibirsk.
+
+It has been reported that this was the first launch under the auspices
+of the VVKO  (Voyska Vosdushno-Kosmicheskoi Oborona, Aerospace Defence
+Forces), which on Dec 1 officially replaced the KVR (Russian Space
+Forces), although Aleksandr Zheleznakyov (personal comm.) says that
+the Nov 28 launch was actually the first for Voiska VKO. (The intermediate
+launches were civilian ones performed by the Roskosmos).
+
+GRAIL
+-----
+
+The GRAIL-A and GRAIL-B spacecraft entered lunar orbit on Dec 31 and Jan
+1. The planned capture orbits were 88 x 8378 km x 87.2 deg for GRAIL-A,
+and 111 x 8359 km x 88.3 deg for GRAIL-B. According to
+spaceflightnow.com the actual orbit for GRAIL-A is 90 x 8362 km.
+The GRAIL probes will now maneuver close to each other to begin their
+gravity mapping mission.
+
+
+Globalstar
+-----------
+
+Six Globalstar low orbit telecom satellites were launched on Dec 28 on a
+Soyuz-2-1a from Plesetk. The successful launch by Roskosmos was a relief
+coming only days after the Soyuz-2-1b failure, which may - perhaps -
+be isolated to the RD-0124 engine that's unique to the 1b variant.
+I don't yet have the serial numbers for the six satellites.
+
+
+PSSC-2
+------
+
+The Aerospace Corporation's  PSSC Testbed 2 picosatellite, ejected from
+mission STS-135, reentered on Dec 8. The 4 kg satellite carried four
+tiny model-rocket motors to raise its orbit. One of those was fired on
+Nov 4 at around 1530 UTC and raised the orbit slightly from 90.9 min,
+317 x 319 km to 91.0 min, 316 x 329 km, delaying decay by about 4 days.
+Based on the otherwise steady orbital decay rate, it appears that the
+remaining motors were not fired.
+
+ZY-1 02C
+--------
+
+China launched the Ziyuan yihao 02C satellite from Taiyuan on Dec 22.
+The satellite carries imaging cameras with a resolution of 2.4m.
+The two earlier ZY-1 satellites were launched as part of a joint
+Sino-Brazilian program (CBERS), but this one appears to be all-Chinese.
+China also has a ZY-2 series, thought to be used for defense related
+imaging, while ZY-1 is used for civilian mapping and resource monitoring.
+
+Tiangong and X-37
+-----------------
+
+The USAF's X-37B OTV spaceplane launched in Mar 2011 remains in orbit.
+However, contrary to some recent media reports, its mission is unrelated
+to observations of the Tiangong-1 spacelab; the orbital planes of
+the two vehicles are perpendicular.
+
+
+Erratum
+-------
+
+Of course, Cassini's been in Saturn orbit since 2004 Jul 1, not 2005 - that
+should teach me not to send out JSR at 3am in future.
+
+
+Suborbital flights
+------------------
+
+On Dec 23 the Russian Navy carried out a launch of two Bulava missiles
+from the submarine Yuriy Dolgorukiy, according to Pavel Podvig's
+site russianforces.org. Each missile carried
+several (probably six) reentry vehicles which flew from the White Sea to
+the Kura test range in Kamchatka.
+On Dec 27, a UR-100NU rocket was launched from Baykonur to Kura
+carrying an experimental reentry vehicle.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Nov  4 1251   Glonass-M No. 43) Proton-M/Briz-M    Baykonur LC81     Navsat    64A
+              Glonass-M No. 44)                                      Navsat    64B
+              Glonass-M No. 45)                                      Navsat    64C
+Nov  8 2016   Fobos-Grunt       Zenit-2SB          Baykonur LC45    Mars probe 65A
+Nov  9 0321   Yaogan Weixing 12) Chang Zheng 4B    Taiyuan           Imaging?  66B
+              Tianxun 1        )                                     Imaging   66A
+Nov 14 0414   Soyuz TMA-22      Soyuz-FG           Baykonur LC1      Spaceship 67A
+Nov 20 0015   Shiyan Weixing 4 ) Chang Zheng 2D    Jiuquan           Tech?     68B
+              Chuanxin 1-03    )                                     Tech      68A
+Nov 25 1910   Asiasat 7         Proton-M/Briz-M    Baykonur LC200/39 Comms     69B
+Nov 26 1502   MSL               Atlas V 541        Canaveral SLC41  Mars probe 70A
+Nov 28 0826   Glonass-M No. 46  Soyuz-2-1B         Plesetsk LC43     Navsat    71A
+Nov 29 1850   Yaogan Weixing 13 Chang Zheng 2C     Taiyuan           Radar?    72A
+Dec  1 2107   Beidou DW10       Chang Zheng 3A     Xichang           Navsat    73A
+Dec 11 1117   Amos  5  )        Proton-M/Briz-M    Baykonur          Comms     74A
+              Luch 5A  )                                             DataRelay 74B
+Dec 12 0121   JSE Reda-3 gouki  H-IIA 202          Tanegashima       Radar     75A
+Dec 17 0203   Pleiades HR1 )    Soyuz ST-A         CSG ELS           Imaging   76A
+              Elisa 1      )                                         Sigint    76
+              Elisa 2      )                                         Sigint    76
+              Elisa 3      )                                         Sigint    76
+              Elisa 4      )                                         Sigint    76
+              Fasat-Charlie)                                         Imaging   76
+Dec 19 1641   Nigcomsat 1R      Chang Zheng 3BE    Xichang LC2       Comms     77A
+Dec 21 1316   Soyuz TMA-03M     Soyuz-FG           Baykonur LC1      Spaceship 78A
+Dec 22 0326   ZY-1 02C          Chang Zheng 4B     Taiyuan           Imaging   79A
+Dec 23 1208   Meridian          Soyuz-2-1B         Plesetsk          Comms     F04
+Dec 28 1709   Globalstar  )     Soyuz-2-1A         Baykonur LC31     Comms     80A
+              Globalstar  )                                          Comms     80B
+              Globalstar  )                                          Comms     80C
+              Globalstar  )                                          Comms     80D
+              Globalstar  )                                          Comms     80E
+              Globalstar  )                                          Comms     80F
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Nov  2 0750   RV               Jericho III        Palmachim           Test         300?
+Nov  3 0645   RV               Topol'             Plesetsk            Test        1000?
+Nov  6        NASA 36.264UH    Black Brant 9      White Sands         Astronomy    250?
+Nov 15 0330   Agni RV          Agni IV            Chandipur           Test         900
+Nov 17 1130   AHW Flight 1A    STARS              Kauai LC42          Hypersonic  1000?
+Nov 25 2300   Orion V05        Orion              Natal               Test         100?
+Nov 27 0910   TEXUS 48         VSB-30             Kiruna              Micrograv    270?
+Dec  2 2200   VS30 V08         VS-30              Natal               Space sci?   173?
+Dec  3 0721   ICI-3            VS-30/Orion        Svalbard            Auroral      354
+Dec 19?       MR-30 payload    MR-30              Kapustin Yar        Test         304
+Dec 23        RV x 6?          Bulava             K-535, White Sea    Salvo test  1000?
+Dec 23        RV x 6?          Bulava             K-535, White Sea    Salvo test  1000?
+Dec 27 1200   RV               UR-100NU           Baykonur            Test        1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

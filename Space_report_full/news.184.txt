@@ -1,0 +1,123 @@
+Jonathan's Space Report 
+No. 184        1994 Feb 16
+------------------------------------------------------------------------------
+
+
+Shuttle  
+-------  
+
+Seven small satellites were deployed from Discovery's cargo bay on Feb
+9. The ODERACS (Orbital DEbris RAdar Calibration System) satellites are
+six tiny, passive aluminum spheres which will be used to calibrate
+radars used to study space debris. ODERACS A and B are 10 cm spheres
+(one rough, the other polished); C and D are 5 cm spheres, while
+E and F are 15 cm spheres. The 63 kg BREMSAT satellite,
+developed for the German space agency by the University of Bremen, will
+measure  heat conductivity, micrometeorites, and the density of the
+upper atmosphere.
+
+Discovery made its deorbit burn at 1815 UTC on Feb 11 and
+landed on runway 15 at KSC at 1919 UTC. Discovery has now made
+18 flights, more than any other orbiter, although Columbia maintains
+the record of the most flight hours, and should increase its lead on
+its forthcoming flight.
+
+ 
+Launches
+--------
+
+Another new launch vehicle made its debut this week - the Chang Zheng
+(Long March) 3A. The CZ-3A is based on China's previous 
+geostationary launch vehicle CZ-3, with an upgraded third stage.
+The vehicle delivered a dummy model of a communications satellite
+to geostationary transfer orbit; it also carried a scientific satellite
+called Shi Jian 4. As of Feb 15 the objects had not been tracked in the West
+so the launch must be considered unconfirmed at the moment.
+
+Russia launched another Raduga-1 comsat on Feb 5. The Raduga-1 series
+are improved versions of the Raduga ("Rainbow") government communications
+satellites in use since 1975. The satellite will be placed at 49 deg East
+in the geostationary ring.
+
+The launch of a Galaxy communications satellite on a Delta 7925 from
+Cape Canaveral was aborted on Feb 9 during main engine ignition. The
+vehicle did not leave the pad and the payload is intact. No new launch
+date has been set.
+
+The Japanese OREX reentry test spacecraft has been renamed 'Ryusei' (meteor).
+It splashed down in the Pacific but was allowed to sink; no recovery of
+the vehicle was planned, as all the experimental data was telemetered back.
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Jan  8 1005     Soyuz TM-18     Soyuz           Baykonur LC1    Spaceship  01A
+Jan 20 0949     Gals 1          Proton          Baykonur LC81   Comsat     02A
+Jan 24 2137     Eutelsat IIF5 ) Ariane 44LP     Kourou ELA2     Comsat     FTO
+                Turksat 1     )                                 Comsat     FTO
+Jan 25 0025     Meteor-3      ) Tsiklon         Plesetsk LC32   Weather    03A
+                Tubsat B      )                                 Technology 03B
+Jan 25 1634     Clementine 1    Titan 23G       Vandenberg SLC4 Spaceprobe 04A
+Jan 28 0212     Progress M-21   Soyuz           Baykonur LC1    Cargo      05A
+Feb  3 1210     Discovery       Shuttle         Kennedy LC39    Spaceship  06A
+Feb  3 2220     Ryusei   )      H-II            Tanegashima     Technology 07A
+                Myojo    )                                      Technology 07B
+Feb  5 0846     Raduga-1        Proton          Baykonur LC81   Comsat     08A
+Feb  7 2147     Milstar DFS 1   Titan 4 Centaur Canaveral LC40  Comsat     09A
+Feb  8 0830     Shi Jian 4    ) Chang Zheng 3A  Xichang         Scientific 10A?
+                Dummy payload )
+Feb  9 1454     ODERACS  A )    GAS can         Discovery, LEO  Calibration 06B
+                ODERACS  B )                                                06C
+                ODERACS  C )                                                06D
+                ODERACS  D )                                                06E
+                ODERACS  E )                                                06F
+                ODERACS  F )                                                06G
+Feb  9 1932     BREMSAT         GAS can         Discovery, LEO  Scientific  06H
+Feb 12 0854     Kosmos-2268  )  Tsiklon         Plesetsk LC32   Comsat      11A
+                Kosmos-2269  )
+                Kosmos-2270  )
+                Kosmos-2271  )
+                Kosmos-2272  )
+                Kosmos-2273  )
+
+
+Errata:
+
+ The VEP satellite's on-orbit name is transliterated Myojo, not Myouzyou.
+ The Feb 5 launch was a Raduga-1, not a Kosmos.
+
+Reentries
+---------
+
+Jan 14          Soyuz TM-17     Landed in Kazakhstan
+Feb  4          Ryusei          Impacted Pacific Ocean
+Feb 11          Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39B         STS-62
+OV-103 Discovery       OPF Bay 3     STS-64
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-59
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-36?/ET-62/OV-102 LC39B      STS-62
+ML2/RSRM-37?              VAB Bay 3  STS-59             
+ML3/                      
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 
+
+,

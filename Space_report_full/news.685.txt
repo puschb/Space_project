@@ -1,0 +1,226 @@
+Jonathan's Space Report
+No. 685                                                       2013 Sep 11, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 36 was completed on Sep 10. The crew were commander Pavel Vinogradov, 
+Flight Engineers FE-2 Alexandr Misurkin, FE-3 Chris Cassidy, FE-4
+Yurchikin, FE-5 Parmitano and FE-6 Nyberg. Expedition 37, which began after
+the undocking of Soyuz TMA-08M from the Poisk module at 2335 UTC Sep 10,
+is under the command of Fyodor Yurchikin with Luca Parmitano and Karen Nyberg as
+flight engineers.
+
+Ferry ship Soyuz TMA-09M is at Rassvet. Cargo ship ATV-4 is at the Zvezda module.
+
+On Aug 25 two of the NASA payload packages on the HTV-4 EP pallet were
+due moved to their storage sites using the SSRMS robot arm. The Main Bus
+Switching Unit (MBSU) is now on External Stowage Platform 2, and the
+Utility Transfer Assembly is on Express Logistics Carrier 4. The final
+package, USAF/USN Space Test Program H4, was moved to ELC1 on Aug
+27. The old STP-H3 payload was moved from ELC3 to the EP pallet
+on Aug 28.
+
+Japan's HTV 4 was unberthed from Harmony at 1207 UTC Sep 4 and released by the
+Canadarm at 1620 UTC. Later on Sep 4 its orbit was lowered
+from 408 x 411 km to 188 x 407 km. Early on Sep 7 it began lowering
+its orbit further, with burns at 0007 and 0137 UTC reaching a
+151 x 408 km orbit; a final burn during a descending pass over
+Japan at 0611 UTC resulted in an orbit around -10 x 407 km, with
+reentry and burnup over the South Pacific around 41 deg S at 0637 UTC.
+
+After undocking from Poisk, Soyuz TMA-08M made its deorbit burn at 0205
+UTC. The BO and PAO modules were jettisoned at 0232 UTC and the SA
+descent module containing Vinogradov, Misurkin and Cassidy touched down
+safely in Kazakhstan at 0258 UTC after 166.3 days in space.
+
+
+NRO L-65
+--------
+
+A Delta 4 Heavy took off from Vandenberg AFB's Space Launch Complex 6 on
+Aug 28, carrying a secret payload for the National Reconnaissance
+Office. The payload is thought to be an imaging spy satellite of the
+EIS/Enhanced CRYSTAL type (The recent leak of NRO budget documents refer
+to a new Evolved Enhanced CRYSTAL program, but funding for this began in FY2012
+which is a little recent for this launch to be part of it.)
+The satellite entered a 254 x 999 km x 97.9 deg low polar sun-synchronous orbit,
+with 0948 LT descending node, according to Ted Molczan's analysis of
+hobbyist observations. The orbit was boosted to 259 x 1002 km on Aug 30.
+
+Despite the secrecy of the launch, both payload and Delta rocket  were
+spotted by European observers Cees Bassa and Bjorn Gimle on the first
+orbit. The launch was designated NROL-65; the payload has
+the on-orbit cover name USA 245. The Delta rocket was not seen on the
+second orbit, as expected - it was deorbited over the Pacific around
+2005 UTC.
+
+NRO Satellites
+--------------
+
+Leaked budget documents obtained by the Washington Post, and a longer
+version published on cryptome.org, reveal the codenames of some NRO satellites.
+My analysis on this can be found on a separate page,
+http://planet4589.org/nro/nro.html
+
+Ariane 
+-------
+
+An Ariane 5ECA placed two communications satellites in a 238 x 35777 km
+x 3.5 deg geostationary transfer orbit on Aug 29. GSAT-7, also known as
+Insat-4F, will provide communications for the Indian Navy. Eutelsat-25B,
+also called Es'hail 1, is jointly owned by Eutelsat SA of Paris and
+Es'hailsat. Es'hailsat is a spinoff of ictQATAR, the Qatari Supreme
+Council of Information and Communications Technology. The satellite's
+name means Canopus (the star Alpha Car).
+
+The EPC 570 core stage flew a -969 x 161 km x 6.5 deg trajectory
+across the Atlantic and reentered; the ESC-A upper stage made a single burn
+to the lower inclination transfer orbit. The flight used launch vehicle L570
+and the mission was designated VA215.
+
+On Sep 10 GSAT-7 was in a 35671 x 35792 km x 0.2 deg drifting east over 73E;
+Es'hail was in a 35784 x 35788 km x 0.1 deg orbit on station at 31.7E.
+
+Zenit
+-----
+
+A Land Launch Zenit-3M rocket (also known as Zenit-3SLB) took flight
+from Baykonur on Aug 31. The rocket consists of the two-stage Yuzhnoe Zenit-2SB
+with an Energiya Blok DM-SLB upper stage. Payload for this mission
+was the Israeli AMOS-4 satellite for the Spacecom company of Tel Aviv.
+
+This was the first Zenit launch since the Feb 1 Sea Launch failure.
+The Blok DM-SLB put AMOS-4 in a 2861 x 35842 km x 26.9 deg geostationary
+transfer orbit. On Sep 10 it was in a 35577 x 35801 km x 0.1 deg orbit drifting
+eastward past 60E.
+
+AMOS 4 was built by IAI-MBT and has a mass of 3400 kg, much more than previous
+AMOS satellites. Its physical dimensions have not been released but
+the bus is probably around 5.0 x 2.5m with a span across the two solar arrays
+in the 12 to 15 meter range.
+
+The Zenit second stage flew a suborbital trajectory and its reentry just northeast
+of Vladivostok was widely observed in the region.
+
+
+Yaogan Weixing 17
+-----------------
+
+China launched a triplet of satellites on Sep 1 into a 1083 x 1116 km x
+63.4 deg orbit. The satellites are believed to operate like the old US
+PARCAE/NOSS system, in which a group of loosely formation-flying
+spacecraft locate radio emitters using the difference in time of arrival
+of the radio signals at the different satellites.
+
+The satellites are called `yaogan weixing shiqi hao' (Resource Satellite No. 17).
+The Yaogan Weixing 9 and Yaogan Weixing 16 triplets are part of the same 
+system.
+
+
+LADEE
+------
+
+The Lunar Atmosphere and Dust Enviroment Explorer mission was launched
+on Sep 7. Despite the Explorer in the name, the mission is the first of
+the new Lunar Quest series rather than part of the long standing
+Explorer program. The spacecraft is 383 kg full 248 kg dry, and
+is developed and operated by NASA's Ames Research Center near San Jose,
+California. The Minotaur V rocket took off from the Mid Atlantic Regional
+Spaceport on Wallops Island and inserted LADEE into highly elliptical Earth
+orbit. 
+
+The Minotaur V consisted of the first three stages of the MX Peacekeeper
+missile, and a guidance and control section, with ATK Star 48V and Star
+37FM solid motors as fourth and fifth stages. The addition of the fifth
+stage distinguishes it from the Minotaur IV+ used to launch Tacsat 4.
+The third stage flew a suborbital trajectory with the fourth stage
+reaching orbit at 0335 UTC, probably around 200 x 800 km - it has not
+yet been tracked. After a coast in this parking orbit until 0343 UTC,
+the Star 37FM fired to reach an orbit expected to be about 200 x 274600
+km x 37.7 deg. Two despin weights were released at 0348 UTC and LADEE
+separated at 0350 UTC. After several days the orbit will naturally
+evolve to raise the perigee to more than 1000 km. LADEE should reach
+first perigee on Sep 13 around 1638 UTC at which point it will be in a
+2060 x 278649 km x 35.4 deg orbit. A perigee manuever scheduled for
+around that time will raise the apogee, making the orbit 2540 x 324900
+km x 34.2 deg. A further orbit change on Sep 21 will push apogee to
+lunar distance, around 370000 km, and the probe will approach the Moon
+on Oct 6.
+
+LADEE carries an ultraviolet spectrometer, a lunar dust experiment, a
+neutral mass spectrometer, and a laser communications experiment. It has
+an Aerojet Rocketdyne/Redmond R-4D-15 HiPAT 455N thruster for lunar
+orbit insertion and orbit manoeuvers.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Jul  1 1811   IRNSS-1A           PSLV-XL          Sriharikota LP1   Navigation  34A
+Jul  2 0238   Glonass-M No. 48 ) Proton-M/DM-03   Baykonur LC81/24  Navigation  F02
+              Glonass-M No. 49 )                                    Navigation  F02
+              Glonass-M No. 50 )                                    Navigation  F02
+Jul 15 0927   SJ-11-05           Chang Zheng 2C   Jiuquan           Early Warn  35A
+Jul 19 1300   MUOS 2             Atlas V 551      Canaveral SLC41   Comms       36A
+Jul 19 2337   Shi Jian 15 )      Chang Zheng 4C   Taiyuan           Tech        37C
+              Shiyan 7    )                                         Surveill.   37A
+              Chuangxin 3 )                                         Tech        37B
+Jul 25 1954   Alphasat )         Ariane 5ECA      Kourou ELA3       Comms       38A
+              Insat 3D )                                            Comms       38B
+Jul 27 2045   Progress M-20M     Soyuz-U          Baykonur LC31     Cargo       39A
+Aug  3 1948   Konoutori 4        H-IIB            Tanegashima LP2   Cargo       40A
+Aug  8 0029   WGS 6              Delta 4M+(5,4)   Canaveral SLC37   Comms       41A
+Aug 22 1439   Arirang-5          Dnepr            Yasniy Sh370/13   Imaging     42A
+Aug 28 1803   USA 245            Delta 4H         Vandenberg SLC6   Imaging     43A
+Aug 29 2030   Es'hail 1  )       Ariane 5ECA      Kourou ELA3       Comms       44A
+              GSAT-7     )                                          Comms       44B
+Aug 31 2005   AMOS 4             Zenit-3M         Baykonur LC45     Comms       45A
+Sep  1 1916   Yaogan 17     )    Chang Zheng 4C   Jiuquan LC603     SIGINT      46A
+              YW-17 subsat 1)                                       SIGINT      46B
+              YW-17 subsat 2)                                       SIGINT      46C
+Sep  7 0327   LADEE              Minotaur V       Wallops I. LA0B   Lunar probe 47A
+
+Suborbital launches
+-------------------
+
+The Israeli Defense Forces launched the first Silver Sparrow target missile on a suborbital
+flight from an F-15 airplane over the Mediterranean Sea on Sep 3 eastward towards
+the Israeli coast, for tests of Israeli missile defense radars. Apogees of the missile
+and of its separated reentry vehicle are not known, but are thought to be higher
+than those of the precursor Blue Sparrow vehicle which was itself exoatmospheric.
+The flight's detection by Russian tracking systems led to some initial public consternation
+until the mission was acknowledged by Israel.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jul  4 1431   NASA 21.140GE    Black Brant V       Wallops I.        Ionosphere   135?
+Jul  4 1431   NASA 41.090GE    Terrier Imp. Orion  Wallops I.        Ionosphere   160?
+Jul  5 1829?  FTG-07 Target?   LV-2?               Kwajalein         Target      1000?
+Jul  5 1835   FTG-07 CE-I EKV  GBI                 Vandenberg        Intercept   1000?
+Jul 12        Jericho RV       Jericho III         Palmachim         R&D test     300?
+Jul 15 0553   MAPHEUS 4        VS-30               ESRANGE,Kiruna    Micrograv    151
+Jul 20 0200   S-310-42         S-310               Uchinoura         Atmos sci    139
+Jul 20 0257   S-520-27         S-520               Uchinoura         Atmos sci    316
+Aug  8 1810   NASA 36.239DS    Black Brant IX      White Sands       Solar UV     280
+Aug 12 0345   Prithvi RV       Prithvi II          Chandipur         Training     100?
+Aug 13 1000   Rocksat-X        Terrier Imp. Mal.   Wallops I         Education    151
+Aug 15        PAC-3 Target     Juno?               Ft Wingate?       Target       100?
+Sep  3 0616   Radar target     Silver Sparrow      F-15, Med. Sea    Target       150?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |                                    |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

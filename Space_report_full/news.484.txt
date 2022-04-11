@@ -1,0 +1,121 @@
+Jonathan's Space Report
+No. 484                                            2002 Jul 26, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 5 crew remain aboard the Station. Meanwhile, the Shuttle
+launch schedule remains under review, and no final decision has been
+made on repairs to the Orbiter hydrogen flow liners. It does seem likely
+that the next flight will be STS-111/Atlantis, with STS-107/Columbia
+delayed till the end of the year.
+
+
+Recent Launches
+---------------
+
+The second Araks/Arkon (11F664) satellite, Kosmos-2392, was launched
+from Baykonur on Jul 25. The satellite is a large (2600 kg) imaging
+satellite built by Lavochkin, and derived from the Mars/Venera probe
+bus. The Proton third stage and the Blok DM adapter were left in low
+parking orbit; the DM then made two burns to a higher orbit, expected to
+be 1500 x 1836 km x 64.4 deg, and separated from the payload at 1727
+UTC. Two SOZ ullage motors were probably left in a 180 x 1800 km
+transfer orbit. The Arkon satellites are operated by the Russian
+Ministry of Defense and reportedly used for both military and civilian
+imaging; the first one in the series was Kosmos-2344 in Jun 1997.  The
+Kosmos-2344 launch reportedly used an 17S40 (DM5) upper stage,  a minor
+modification of the 11S861-01 Blok DM-2M stage. As of early Jul 26, no
+orbital data for Kosmos-2392 had been issued by Space Command.
+
+
+The Russian Navy has launched an R-29R Volna rocket carrying a 146-kg
+IRDT-2 spacecraft from the submarine K-44 Ryazan. This is a followon to
+the IRDT spacecraft launched on Soyuz-Fregat in 2000, with an inflatable
+reentry shield; the vehicle was a joint project of Astrium/Bremen and
+Lavochkin/Moskva. The spacecraft was launched on a suborbital trajectory
+from the Barents Sea and landed in Kamchatka. Launch was at 0058 UTC on
+Jul 12. (source: Aleksandr Zheleznyakov,
+www.cosmoworld.ru/spaceencyclopedia/). The three-stage Volna is a
+submarine-launched ballistic missile built by the Makeev company (it was
+called SS-N-18 by NATO) and is 14.1m long and 1.8m diameter. It is
+liquid-propelled  (N2O4/UDMH). After third stage separation the IRDT
+fires a boost motor to increase its speed and then inflates the first
+stage of its heat shield. Reentry velocity, presumably Earth-relative,
+was either 7.0 km/s or 7.3 km/s according to different sources. I don't
+have any information on the apogee of the flight; the standard Volna
+commercial microgravity trajectory is about -2200 x 200 km x 76 deg, but
+the solar sail mission last year had an apogee of 400 km.
+As of Jul 25, the IRDT-2 reentry vehicle had not been located.
+
+Known Volna (R-29R or R-29RL) and Shtil' (R-29RM) space-related launches:
+ 1995 Jun  6   Volna    Unknown                Volan reentry vehicle?
+ 1998 Jul  7   Shtil'   K-407 Novomoskovsk     TUBSAT-N satellite (orbital)
+ 2001 Jul 20   Volna    K-?   Borisoglebsk     Cosmos-1 solar sail
+ 2002 Jul 12   Volna    K-44  Ryazan           Demonstrator-2
+
+It appears that Space Command has still not allocated the catalog
+numbers 27406 and 27407. I think these were originally reserved
+for objects from the 2002-16 Proton launch which do not in fact exist
+(the third stage was suborbital and the SOZ ullage motors stayed
+attached to the DM3 stage); but normally the numbers would have
+been reallocated by now. New numbers have been allocated up to 27468.
+
+Erratum: Gareth Williams points out that Contour's second target, comet
+73P/Schwassmann-Wachmann 3, is spelt without a hyphen preceding the 3.
+
+Russian sources inform me that the identification by the Kommersant
+newspaper of the Strela-3 satellites as GRU communications relay
+satellites is considered reliable.
+
+Table of Recent Launches
+-----------------------
+
+
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  5 0644   Intelsat 905      Ariane 44L     Kourou ELA2      Comms.       27A
+Jun  5 2122   Endeavour )       Shuttle        Kennedy LC39A    Spaceship    28A
+              Leonardo  )
+Jun 10 0114   Ekspress A1R      Proton-K/DM2M? Baykonur         Comms        29A
+Jun 15 2239   Galaxy 3C         Zenit-3SL      Odyssey, POR     Comms        30A
+Jun 20 0933   Iridium SV97 )    Rokot/Briz-KM  Plesetsk         Comms        31A
+              Iridium SV98 )                                    Comms        31B
+Jun 24 1823   NOAA 17           Titan 23G      Vandenberg SLC4W Weather      32A
+Jun 26 0536   Progress M-46     Soyuz-U        Baykonur LC1/5   Cargo        33A
+Jul  3 0647   CONTOUR           Delta 7425-9.5 Canaveral SLC17A Space probe  34A
+Jul  5 2322   Stellat 5 )       Ariane 5G      Kourou ELA3      Comms        35A
+              NStar c   )                                                    35B
+Jul  8 0636   Kosmos-2390 )     Kosmos-3M      Plesetsk         Comms        36A
+              Kosmos-2391 )                                     Comms        36B
+Jul 25 1513   Kosmos-2392       Proton-K/DM5?  Baykonur LC81/24 Imaging      37A?
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107  2002 Dec?   Spacehab
+OV-103 Discovery       VAB           Maintenance
+OV-104 Atlantis        OPF           STS-112  2002 Oct?   ISS 9A
+OV-105 Endeavour       OPF           STS-113  2002 Nov?   ISS 11A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

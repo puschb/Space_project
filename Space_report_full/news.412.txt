@@ -1,0 +1,107 @@
+Jonathan's Space Report
+No. 412                                           1999 Nov 28 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Recent Launches
+---------------
+
+China launched its Shenzhou spaceship on Nov 19 on a test flight without
+astronauts aboard. Further test flights are expected before its first
+piloted flight. Shenzhou ("Divine Ship") was launched by the new CZ-2F
+vehicle, an improved version of the CZ-2E, from a new pad at China's
+oldest space launch site, Jiuquan in the Gobi desert. Shenzhou's reentry
+vehicle was recovered after a 21 hour flight at 1941 UTC on Nov 20 in
+Inner Mongolia. Shenzhou's orbit was 197 x 323 km x 42.6 deg. Two
+debris objects were tracked after the launch, possibly launch adapters
+or fairings. 
+
+The spacecraft's design is analogous to the 7K Soyuz, with a propulsion
+module, a descent module and an orbital module. The descent module
+appears to be identical to the Soyuz-TM descent module and reports
+indicate that actual Soyuz flight hardware purchased from Russia may
+have been used, albeit with Chinese developed avionics. The remainder of
+the spacecraft is a fully Chinese design. Details of the propulsion
+module are not available. The orbital module is cylindrical and somewhat
+similar in shape and appearance to the US Unity Node on the Space
+Station.
+
+During Nov 21 the orbital module separated, and then at around 1850 UTC
+the propulsion module fired its engine for the deorbit burn, separating
+from the descent module and burning up in the atmosphere. The orbital
+module was left in a 205 x 332 km orbit.
+
+Starsem launched a Soyuz-U/Ikar from Baykonur on Nov 22 with four
+more Globalstar satellites. This was the first launch from Baykonur
+since the recent Proton failure. The Loral Globalstar satellites
+were deployed in the usual 900 x 942 km x 52.0 deg parking orbit.
+The Ikar stage ignited again to deorbit itself on Nov 23.
+The Blok I third stage is in a 230 x 876 km x 52.0 deg orbit.
+
+Lockheed Martin/International Launch Services launched a Lockheed
+Martin Astronautics Atlas 2A, serial AC-136, from Cape Canaveral on Nov 23.
+The Centaur entered low circular parking orbit on its first burn, and
+then reignited to place the UHF F/O F10 satellite in subsynchronous
+transfer orbit. On Nov 28 the satellite was in a 26527 x 36665 km x 7.2
+deg orbit after the first burns of its R-4D liquid apogee engine.
+
+UHF Followon F10 is a Hughes HS-601 satellite with UHF and EHF
+communications payloads and the Global Broadcast Service TV payload,
+and will provide communications services for the US Navy.
+
+Galileo made a 300 km flyby of Io on Nov 26 at 0400 UTC. Galileo is
+probably now in a 407000 x 6200000 km x 1.3 deg orbit around Jupiter,
+although the orbital element data on the Galileo web site has not been
+updated for the post-Europa-mission phase.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  7 1251   Navstar SVN 46    Delta 7925     Canaveral SLC17A Navsat     55A
+Oct 10 0328   DirecTV 1R        Zenit-3SL      Odyssey, POR     Comsat     56A
+Oct 14 0315   Zi Yuan 1 )       Chang Zheng 4B Taiyuan          Imaging    57A
+              SACI 1    )                                       Science    57B
+Oct 18 1322   Globalstar 31)    Soyuz-Ikar     Baykonur LC1     Comsat     58A
+              Globalstar 56)                                    Comsat     58B
+              Globalstar 57)                                    Comsat     58C
+              Globalstar 59)                                    Comsat     58D
+Oct 19 0622   Orion 2           Ariane 44LP    Kourou ELA2      Comsat     59A
+Oct 27 1616   Ekspress-A1       Proton-K       Baykonur         Comsat     F03
+Nov 13 2255   GE 4              Ariane 44LP    Kourou ELA2      Comsat     60A
+Nov 15 0729   MTSAT             H-2            Tanegashima      Comsat     F04
+Nov 19 2230   Shenzhou          Chang Zheng 2F Jiuquan          Spaceship  61A
+Nov 22 1620   Globalstar 29 )   Soyuz-Ikar     Baykonur LC1     Comsat     62A
+              Globalstar 34 )                                   Comsat     62B
+              Globalstar 39 )                                   Comsat     62C
+              Globalstar 61 )                                   Comsat     62D
+Nov 23 0406   UHF F/O F10       Atlas 2A       Canaveral SLC36B Comsat     63A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       LC39B         STS-103 1999 Dec  9
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Mar 16
+OV-105 Endeavour       OPF Bay 2     STS-99  2000 Jan 13
+
+MLP1/
+MLP2/RSRM-73/ET-101/OV-103     LC39B
+MLP3/RSRM-71?/ET?              VAB Bay 3   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

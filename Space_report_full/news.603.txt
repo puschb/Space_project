@@ -1,0 +1,197 @@
+Jonathan's Space Report
+No. 603                                        2008 Nov 15, Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 18 crew of Michael Fincke, Yuiry Lonchakov and Greg
+Chamitoff continues work on board the ISS. Soyuz TMA-13 is docked to
+the Zarya port.
+
+Nov 15 saw the launch of Shuttle mission STS-126, ISS flight ULF-2
+(Utilization and Logistics Flight 2) with Orbiter OV-105 Endeavour,
+External Tank ET-129 and Solid Rocket Motors RSRM-104 (SRB set BI-136).
+STS-126 was launched from Mobile Launch Platform 3 on Pad 39A.
+Endeavour and ET-129 reached an orbit of 59 x 230 km x 51.6 deg,
+8 min after launch. At 0134 UTC Endeavour executed the
+OMS-2 burn into a 158 x 230 km orbit.
+
+Crew of STS-126 are Christopher Ferguson, Eric Boe, Don Pettit, Stephen
+Bowen, Heidemarie Stefanyshyn-Piper, Shane Kimbrough, and Expedition 18
+flight engineer Sandra Magnus who will stay aboard ISS replacing 
+Chamitoff.
+
+
+Here is my version of the payload bay equipment manifest for STS-126:
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3005, 3011 suits                       260?
+  APC/SPDU                         3 port          100?
+  APC/SSPL Picosat launcher        3 stbd           50
+   PSSC Picosats                                     7
+  ROEU 751 umbilical               7 stbd           50?
+  Leonardo (MPLM-1)                7-12          12748
+  Lightweight MPESS Carrier (LMC) 13              1495 kg
+  RMS 201                          Sill            410
+  OBSS                             Sill            450?
+  ----------------------------------------------------
+                                     Cargo total 17370
+
+Total mass of the orbiter at ET separation is 116500 kg.
+
+This flight doesn't add anything significant to the outside of
+the ISS, but stocks up the interior, making the ISS more liveable.
+The Multi-Purpose Logistics Module (MPLM) Leonardo is carrying
+6956 kg of cargo including two crew quarters racks,
+and three racks to support the cycling of consumables through
+the crew: the Galley rack, for consuming things which later
+pass through the WHC (Waste and Hygiene Compartment) rack, and
+then two Water Recovery System racks which recycle the waste into
+drinkable water to begin again. There's also an experiment rack,
+the CIR (Combustion integration rack), and miscellaneous supplies
+in three RSRs (Resupply Stowage Racks) and six RSPs (Resupply Stowage
+Platforms).
+
+
+IBEX
+----
+
+IBEX has reportedly reached its final orbit of around 12000 x 320000 km,
+but I haven't seen any detailed orbital data or information on the
+orbit raising burns.
+
+
+Simon Bolivar
+-------------
+
+Venezuela's first satellite, VENESAT-1 or 'Simon Bolivar', was launched
+from Xichang in China on Oct 29 aboard a Chang Zheng 3B rocket. The
+satellite is a DFH-4 class bus built by CAST/Beijing and carries C-band
+and Ku-band transponders; it has a mass of around 5100 kg. Simon Bolivar
+is operated by the  Agencia Bolivariana para Actividades Espaciales
+(Bolivarian Agency for Space Activities) in Caracas, under the Ministry
+of Popular Power for Science and Technology.
+
+Launch was into a 169 x 41771 km x 24.80 deg orbit. By Nov 12 the
+satellite was in a 35784 x 35788 km x 0.4 deg orbit over 78.0W;
+details of orbit raising burns are not available.
+
+
+Chandraayan-1
+--------------
+
+According to ISRO, on Oct 29 Chandraayan-1's orbit was raised to 465 x
+267000 km, on its way to lunar orbit. My estimate from Space-Track data
+is 575 x 261997 km x 18.1 deg. On Nov 3, the apogee was increased further to
+380000 km.
+
+Chandrayaan-1 entered lunar orbit on Nov 8. ISRO reported the initial
+orbit as 504 x 7502 km x 90.0 deg. By Nov 12 the orbit had been lowered
+to 100 x 100 km x 90.0 deg. On Nov 14 at 1436 UTC it ejected a 29 kg
+Moon Impact Probe (MIP). The MIP fired a small deorbit motor to lower
+its orbit to around -200 x 100 km, and hit the moon at 1501 UTC, near
+Shackleton Crater at the south pole.
+
+
+Chinese double launch
+---------------------
+
+A Chang Zheng 2D rocket launched two small satellites on Nov 5,
+Chuanxin yihao 02 xing (Innovation Satellite no. 1 - 02) and Shiyan Weixing
+sanhao (Experimental satellite no. 3).
+
+SW-3 was built by the Harbin Inst. of Tech. and Beijing's DFH Satellite
+Co. CX-1-02 was probably built by SIMIT (the Shanghai Inst. of
+Microsystem and Information Technology) together with the Shanghai
+Academy of Space Technology, the team that built the first CX-1
+satellite launched in 2003.
+
+The Xinhua news agency reports that CX-1-02 will collect and relay
+hydrological and meteorological data and data for disaster relief. and
+SW-3 will be used for experiments on new technologies in atmospheric
+exploration. Mass of CX-1-02 is under 100 kg; SW-3 is larger but I don't
+know how much larger. The satellites are in a 786 x 804 km x 98.5 deg
+orbit; a third object in a 308 x 835 km orbit is probably the launch
+vehicle second stage; it made a perigee-lowering depletion burn at about
+0035 UTC, after satellite separation. This may explain why the Yaogan 2 
+second stage, also a CZ-2D, was never cataloged: it probably made a
+perigee-lowering burn which caused it to reenter on the first orbit.
+
+Meanwhile, the two new Shi Jian 6 satellites have begun operation. The
+name of the first satellite is Shijian liuhao 03 zu A xing, or 'Practice
+Six Group 3 Satellite A', which I call SJ-6-03A for simplicity. (In the
+Chinese news reports, the '6' is written as Chinese characters, but the
+'03' and the 'A' as Arabic numerals and Roman letters. Go figure...)
+SJ-6-03A has maneuvered from 579 x 603 km to 565 x 597 km to 585 x 601
+km. SJ-6-03B remains in a 582 x 604 km orbit with no significant
+manuevers. The SJ-6-03's final stage rocket is in a 504 x 703 km orbit
+and an adapter is in an orbit just below the payloads at 580 x 604 km.
+
+Astra 1M
+---------
+
+The Astra 1M communications satellite, for Luxembourg-based SES Astra,
+was launched by Proton-M/Briz-M on Nov 5. The Proton reached -986 x 165
+km x 51.5 deg; the Briz-M entered a 173 x 174 km parking orbit; after
+its third burn, the  additional propellant tank was jettisoned in a 311
+x 14176 km x 46.9 deg orbit at 0024 UTC on Nov 6. After a fifth burn,
+the Briz separated from Astra 1M at 0556 UTC on Nov 6, in a 4983 x 35797
+km x 21.5 deg orbit. By Nov 10 Astra 1M was in a 22543 x 35803 km x 3.8 deg
+orbit approaching GEO.
+
+Kosmos-2445
+------------
+
+On Nov 14 a Russian Defense Ministry Kobal't-M imaging reconnaissance
+satellite codenamed Kosmos-2445 was launched into a 169 x 314 km x 67.1
+deg orbit.
+
+This is the fourth improved Kobal't satellite, all of which flew 
+in similar 67.1 deg orbits:
+  Kobal't-M   Kosmos-2410  2004 Sep 24-2005 Jan 9 (107 days)
+  Kobal't-M   Kosmos-2420  2006 May  3-2006 Jul 19 (77 days)
+  Kobal't-M   Kosmos-2427  2007 Jun  7-2007 Aug 22 (76 days)
+  Kobal't-M   Kosmos-2445  2008 Nov 14
+
+We can therefore expect this mission to last at least until Jan 29.
+The satellite consists of a propulsion module, and a recoverable
+camera module. It also carries two small supplementary SpK recoverable film
+capsules which will be deorbited during the mission - alas, I haven't
+managed to figure out a way to tell when the SpK recoveries happen.
+
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Oct  1 0637   THEOS             Dnepr            Yasniy            Imaging   49A
+Oct 12 0701   Soyuz TMA-13      Soyuz-FG         Baykonur LC1/5    Spaceship 50A
+Oct 19 1747   IBEX              Pegasus XL       Kwajalein         Astronomy 51A
+Oct 22 0052   Chandraayan-1  )  PSLV             Sriharikota     Lunar probe 52A
+              MIP            )                                   Lunar probe 52
+Oct 25 0115   SJ-6-03A)         Chang Zheng 4B   Taiyuan           Unknown   53A  
+              SJ-6-03B)                                            Unknown   53A
+Oct 25 0228   COSMO 3           Delta 7420-10    Vandenberg SLC2W  Radar     54A
+Oct 29 1654   Simon Bolivar     Chang Zheng 3B   Xichang           Comms     55A
+Nov  5 0015   Chuanxin-1-02   ) Chang Zheng 2D   Jiuquan           Tech      56A
+              Shiyan Weixing 3)                                    Tech      56B
+Nov  5 2044   Astra 1M          Proton-M         Baykonur LC200/39 Comms     57A
+Nov 14 1550   Kosmos-2445       Soyuz-U          Plesetsk LC16/2   Imaging   58A
+Nov 15 0055   Endeavour STS-126 Space Shuttle    Kennedy LC39A     Spaceship 59A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+

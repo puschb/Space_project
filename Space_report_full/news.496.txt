@@ -1,0 +1,104 @@
+Jonathan's Space Report
+No. 496                                             2003 Apr  6, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Expedition 6 crew Bowersox, Pettit and Budarin remain aboard the
+International Space Station. The Progress M-47 cargo craft is docked to
+the aft Zvezda port and the Soyuz TMA-1 transport ship is docked to the
+Pirs module.
+
+Soyuz TMA-2 will be launched in April or May carrying the new Expedition 7
+crew of Yuriy Malenchenko and Edward Lu. 
+
+The investigation into the Columbia accident continues. One possible 
+scenario is that a piece of external tank foam which broke off 80
+seconds after launch hit the underside of the leading edge and loosened
+a carrier panel near RCC leading edge segment number 6, possibly
+previously weakened by corrosion or some other problem. During an
+attitude manuever on Jan 17 the panel separated (and was tracked on
+radar). As Columbia reached entry interface on Feb 1, hot gas entered as
+early as 1351:09 UTC, and began melting the aluminium wing structure.
+Since the investigation continues, this reconstruction is obviously
+highly speculative; analysis of the recently recovered onboard OEX
+recorder  will help reveal the actual sequence of events.
+
+Recent Launches
+---------------
+
+The first two Japanese military surveillance satellites were launched on
+Mar 28 aboard an H2A rocket (Stefan Barensky reports that a 2024 model
+was used). The two Information Gathering Satellites  include an optical
+imager and a radar imager. The H2A second stage made a single burn to
+enter a 485 x 491 km x 97.3 deg sun-synchronous orbit. The IGS-1a
+Information Gathering Satellite separated, followed by the dual launch
+adapter cone, the two half cylinders of the lower fairing, and then the
+IGS-1b craft.
+
+A GPS Block IIR navigation satellite, SVN 45, was launched on Mar 31 by
+a Boeing Delta 7925-9.5. The Delta entered an initial parking orbit of
+174 x 197 km x 36.8 deg. 1 hr 6 min after launch the third stage put the
+GPS satellite in a transfer orbit; its Star 37 kick motor was fired on Apr 23
+circularize the orbit at 20063 x 20433 km x 55.0 deg.
+
+Russian Space Forces launched a Molniya-1T elliptical-orbit
+communications satellite on Apr 2 from Plesetsk. The spacecraft has a
+mass of around 1660 kg and is in an initial 624 x 40644 km x 62.9 km
+orbit.
+
+The Japanese USERS satellite raised its orbit slightly on Apr 4 from 487
+x 498 km x 30.4 deg to 500 x 511 km. This may indicate that recovery is
+imminent. The satellite is operated by the Institute for Unmanned Space
+Experiment Free Flyers in Tokyo and was launched in Sep 2002; it was
+meant to be recovered near the Ogasawara Islands after a six month
+microgravity mission, but very little information has been made
+available on its status.
+
+
+Erratum
+-------
+
+DSCS III B-8 was launched 2000 Jan 21, not Jan 31.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Feb  2 1259   Progress M-47     Soyuz-U         Baykonur         Cargo       06A
+Feb 15 0700   Intelsat 907      Ariane 44L      Kourou ELA2      Comms       07A
+Mar 11 0059   DSCS III A-3      Delta IVM       Canaveral SLC37B Comms       08A
+Mar 28 0127   IGS-1a       )    H2A 2024        Tanegashima      Imaging?    09A
+              IGS-1b       )                                     Radar?      09B
+Mar 31 2209   GPS SVN 45        Delta 7925      Canaveral SLC17A Navigation  10A
+Apr  2 0153   Molniya-1T        Molniya-M       Plesetsk         Comms       11A
+
+        
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        VAB           STS-114  Unknown     ISS ULF1
+OV-105 Endeavour       OPF           STS-115  Unknown     ISS 12A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

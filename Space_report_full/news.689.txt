@@ -1,0 +1,281 @@
+Jonathan's Space Report
+No. 689                                                      2013 Nov 20, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 38 began on Nov 10 with commander Oleg Kotov, and flight
+engineers FE-2 Sergey Ryazanskiy, FE-3 Michael Hopkins, FE-4 Mikhail
+Tyurin, FE-5 Rick Mastracchio and FE-6 Koichi Wakata. Ferry ship Soyuz
+TMA-10M is at Poisk. Cargo ship Progress M-20M is at the Pirs module.
+
+Soyuz TMA-11M was launched on Nov 7 carrying Mikhail Tyurin,
+Rick Mastracchio and Koichi Wakata, and docked with the Rassvet module
+at 1027 UTC the same day.
+
+Astronauts Kotov and Ryazanskiy made spacewalk VKD-36 from the Pirs
+module on Nov 9.  They carried an (unlit, of course) Olympic torch for a
+publicity event, which was carried out successfully. The maintenance
+tasks that made up the rest of the spacewalk were more problematic. The
+Yakor platform was removed from Zvezda's transfer compartment but could
+not be attached to the VRM/URM-D articulating mount on side IV of the
+main part of Zvezda, and was brought inside instead. A piece of
+equipment called DPN was be removed from the VRM (it was installed on
+the last EVA in August). On another URM-D experiment mount on side II of
+Zvezda is the RK-21-8 Radiometria experiment installed on 2011 Feb 16.
+This experiment was disconnected, but the astronauts had trouble stowing
+its deployed panels. The Pirs airlock was depressurized at 1417 UTC and
+the hatch opened at 1434 UTC; the hatch was reclosed at 2024 UTC and
+Pirs was repressurized at 2027 UTC.
+
+Soyuz TMA-09M undocked from the Zvezda module on Nov 10 at 2326 UTC
+and landed in Kazakhstan at 0249 UTC Nov 11, carrying 
+astronauts Yurchikin, Nyberg and Parmitano.
+
+On Nov 19 a J-SSOD cubesat deployer was retrieved from the Kibo module
+airlock by the JEM RMS arm and moved to a deployment position; at 1218 UTC
+it ejected three 1U cubesats - PicoDragon for Vietnam, and two
+Ardusats for a demonstration of spaceborne Arduino processors for the
+US company NanoSatisfi.
+
+Kuaizhou 1
+----------
+
+China's Kuaizhou 1 satellite continues to operate in low orbit. KZ-1 was
+launched on Sep 25 into a 275 x 293 km orbit, raised on Sep 27 to 299 x
+306 km. The orbit decayed to 279 x 288 km and then was raised on Oct 17
+to 288 x 321 km; after a further decay another reboost on Nov 1 restored
+the orbit to 290 x 317 km. The third reboost on Nov 19 raised the  orbit
+from 267 x 294 km to 287 x 322 km.
+
+Mars Orbiter Mission
+--------------------
+
+India began its Mars Orbiter Mission with the launch of the Mars Orbiter
+Spacecraft from Satish Dhawan Space Center on Sriharikota Island north
+of Chennai on Nov 5. The MOS was inserted in elliptical Earth orbit;
+it will use its own propulsion to enter solar orbit.
+
+ISRO officials seem to be using the name 'Mars Orbiter Spacecraft' for
+the vehicle (as opposed to the mission), although the press kit uses
+'Mars Orbiter Satellite'. Parts of the Indian press media are also using
+the nickname 'Mangalyaan' but this is never used by ISRO, so I consider
+this name incorrect, although the correct name is admittedly boring.
+'Mars Orbiter Mission' (MOM) is also used widely for the spacecraft.
+
+The third stage rocket reentered off the coast of Peru after half an orbit;
+the fourth stage and MOM payload entered a 251 x 23892 km x 19.4 deg orbit
+with first perigee over the South Pacific. On Nov 7 the orbit was raised
+to 259 x 28726 km, and on Nov 8 to over 70000 km apogee.
+A further burn on Nov 10 delivered only 35m/s, raising the
+apogee less than planned. A makeup burn on Nov 11 fixed the problem, and
+a burn on Nov 15 put the spacecraft in a 853 x 194683 km x 19.4 deg orbit.
+Solar orbit insertion is scheduled for around Dec 1.
+
+Raduga-1M
+---------
+
+A Russian Globus-1M (cover name Raduga-1M) military communications
+satellite was sent toward geostationary orbit by a Proton launch on Nov
+11. On Nov 17 the satellite was in a 35249 x 35599 km x 0.2 deg orbit
+drifting eastward over 78E.
+
+
+MAVEN
+------
+
+The Mars MAVEN mission was launched on Nov 18. It is designed to enter
+Martian orbit and study the escape of gases from the upper Martian atmosphere.
+It carries particles and fields instruments and an imaging ultraviolet
+spectrometer.
+
+MAVEN reached a 167 x 315 km x 26.7 deg parking orbit at 1841 UTC; the Centaur AV-038
+stage restarted at 1909 UTC and inserted MAVEN into a 195 x -78200 km x 27.7 deg 
+hyperbolic Earth orbit. MAVEN and the Centaur will leave the Earth-Moon system
+on Nov 21 and enter a 0.97 x 1.47 AU x 2.1 deg heliocentric orbit which will take them
+to the vicinity of Mars in Sep 2014.
+
+
+ORS-3
+------
+
+The ORS-3 mission was launched by a Minotaur I from Wallops Island        
+into a 497 x 507 km x 40.5 deg orbit carrying the STPSat-3 research
+satellite and two CubeStack wafers which eject a total of 28 cubesats
+(Deployment of the cubesats has not yet been confirmed).
+
+STPSat-3 carries technology and space weather experiments, including an
+important Total Solar Irradiance sensor, TCTE, to provide data lost when
+the Glory launch failed. The ORS-3 Minotaur final stage carries an
+experimental launch tracking system and a drag device to reduce the
+amount of time it spends in orbit. The upper wafer carries four 6U
+Cubesat dispensers for NRO missions, and the lower wafer carries eight
+3U P-POD cubesat dispensers for various payloads including NASA's ELANA
+IV cubesat cluster. The basic 1U Cubesat is a 0.1m cube; 3U Cubesats are
+0.1 x 0.1 x 0.3m boxes. The 28 Cubesats on the launch total 48U of
+volume.
+
+Counting the final stage as a payload (since it carries active experiments)
+this total of 30 payloads more than doubles the existing record for active
+payloads on a single launch. The previous record was the 2007-012 Dnepr launch, 
+with 14 payloads. The three Soviet Kol'tso radar calibration missions
+1988-113, 1989-100, and 1990-104 (Kosmos-1985, 2053 and 2106) appear to have
+each carried 36 subsatellites, but these were passive calibration targets.
+The SDIO Delta 181 launch in 1988 had 15 payloads, but some were also
+passive calibration objects.
+
+The ELANA IV cluster consists of 10 of the 1U Cubesats and one 3U one -
+  TJ3Sat, from Thomas Jefferson High School, Virginia
+  DragonSat, from Drexel University, Penn. and the US Naval Academy, Annapolis
+  COPPER, from Saint Louis University, Missouri
+  ChargerSat 1, from U. Alabama-Huntsville
+  SwampSat, from U. Florida-Gainesville
+  Ho'oponopono 2, a 3U sat for radar calibration, from U. Hawaii-Manoa
+  KySat-2 from Kentucky Space, Lexington, Kentucky
+  CAPE 2, from U. Louisiana-Lafayette
+  Trailblazer, from U. New Mexico-Albequerque
+  Vermont Lunar Cubesat, from Vermont Technical College, testing equipment for
+    a proposed future lunar mission
+  PhoneSat-2.4, from NASA-Ames, with systems based on a Nexus/Android cellphone
+Two further 1U satellites are packaged with ELANA IV:
+  NPS-SCAT for the US Navy Postgraduate School, with a solar cell exposure experiment
+  Black Knight 1, for the US Military Academy at West Point, New York
+This accounts for 5 of the 8 P-POD deployers on the lower deck. The remaining
+satellites are
+  Firefly, a 3U science sat for the National Science Foundation
+   built by the Hawk Institute for Space Sciences in Maryland in collaboration
+   with Siena College, that will study terrestrial gamma-ray flashes;
+  Horus (STARE-B), a 3U Lawrence Livermore experiment for space debris monitoring;
+  SENSE-A and SENSE-B 3U ionospheric monitoring satellites for the USAF Space and
+     Missile Center
+  8 Prometheus low orbit tactical communications satellites,
+   each 1.5U, for the US Southern Command (SOCOM), developed by Los Alamos.
+  ORSES, a 3U ORS Enabler Satellite, a tactical comms satellite for the USAF
+   Operationally Responsive Space office and the US Space and Missile Defense Command.
+  ORS Tech 1 and 2, 3U technology demo satellites for USAF ORS developed by APL.
+
+All of the satellites on the launch are US satellites (led by
+organizations from 13 different US states), so this also sets a record
+for the number of satellites from a single country orbited on a single
+launch. Both the absolute and single-country record may not stand long,
+with launches planned later this year that will surpass the ORS-3
+record.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Sep  1 1916   Yaogan 17     )    Chang Zheng 4C   Jiuquan LC603     SIGINT      46A
+              YW-17 subsat 1)                                       SIGINT      46B
+              YW-17 subsat 2)                                       SIGINT      46C
+Sep  7 0327   LADEE              Minotaur V       Wallops I. LA0B   Lunar probe 47A
+Sep 11 2323   Gonets-M No. 14 )  Rokot            Plesetsk LC133/3  Comms       48A
+              Gonets-M No. 16 )                                     Comms       48B
+              Gonets-M No. 17 )                                     Comms       48C
+Sep 14 0500   Hisaki             Epsilon          Uchinoura         Astronomy   49A
+Sep 18 0810   AEHF 3             Atlas V 531      Canaveral SLC41   Comms       50A
+Sep 18 1458   Cygnus Demo        Antares 110      Wallops I. LA0A   Cargo       51A
+Sep 23 0307   Fengyun-3 3        Chang Zheng 4C   Taiyuan LC9       Weather     52A
+Sep 25 0437   Kuaizhou-1         Kuaizhou         Jiuquan           Imaging?    53A
+Sep 25 2058   Soyuz TMA-10M      Soyuz-FG         Baykonur LC1	    Spaceship   54A
+Sep 29 1600   Cassiope   )       Falcon 9 v1.1    Vandenberg SLC4E  Comm/Sci    55A
+              POPACS 1   )                                          Sci         55D
+              POPACS 2   )                                          Sci         55E
+              POPACS 3   )                                          Sci         55F
+              DANDE      )                                          Sci         55C
+              CUSat      )                                          Tech        55B
+Sep 29 2138   Astra 2E           Proton-M/Briz-M  Baykonur LC200/39 Comms       56A
+Oct 25 0350   Shi Jian 16        Chang Zheng 4B   Jiuquan           Tech?       57A
+Oct 25 1808   Sirius FM6         Proton-M/Briz-M  Baykonur LC200/39 Comms       58A
+Oct 29 0250   Yaogan 18          Chang Zheng 2C   Taiyuan           Radar?      59A
+Nov  5 0908   Mars Orbiter Spacecraft   PSLV-XL   Sriharikota       Mars probe  60A
+Nov  7 0414   Soyuz TMA-11M       Soyuz-FG        Baykonur LC1      Spaceship   61A
+Nov 11 2346   Raduga-1M          Proton-M/Briz-M  Baykonur LC81/24  Comms       62A
+Nov 18 1828   MAVEN              Atlas V 401      Canaveral SLC41   Mars probe  63A
+Nov 19 1218   PicoDragon   )                      ISS, LEO          Tech      98-067DA?
+              Ardusat-1    )                                        Tech      98-067DB?
+              Ardusat-X    )	                                    Tech      98-067DC?
+Nov 20 0115   STPSAT-3       )   Minotaur I       Wallops I LA0B    Tech        64A?
+              ORS-3          )                                      Tech        64
+              TJ3Sat         )                                      Tech        64
+              DragonSat      )                                      Tech        64
+              COPPER         )                                      Tech        64
+              ChargerSat 1   )                                      Tech        64
+              SwampSat       )                                      Tech        64
+              Ho'oponopono 2 )                                      Radar cal   64
+              KySat-2        )                                      Tech        64
+              CAPE 2         )                                      Tech        64
+              Trailblazer    )                                      Tech        64
+              Vermont Lunar Cubesat )                               Tech        64
+              PhoneSat-2.4   )                                      Tech        64
+              NPS-SCAT       )                                      Tech        64
+              Black Knight 1 )                                      Tech        64
+              Firefly        )                                      Science     64
+              Horus/STARE-B  )                                      Space Surv. 64
+              SENSE-A        )                                      Ionospheric 64
+              SENSE-B        )                                      Ionospheric 64
+	      ORSES          )                                      Comms       64
+              ORS Tech 1     )                                      Tech        64
+              ORS Tech 2     )                                      Tech        64
+              Prometheus 1A? )               	                    Comms       64
+              Prometheus 1B ?)               	                    Comms       64
+              Prometheus 2A? )               	                    Comms       64
+              Prometheus 2B ?)               	                    Comms       64
+              Prometheus 3A? )               	                    Comms       64
+              Prometheus 3B ?)               	                    Comms       64
+              Prometheus 4A? )               	                    Comms       64
+              Prometheus 4B ?)               	                    Comms       64
+
+Suborbital launches
+-------------------
+
+The Wisconsin/Goddard X-ray Quantum Calorimeter payload made its sixth flight on Nov 3
+from White Sands.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Sep  3 0616   Radar target     Silver Sparrow      F-15, Med. Sea    Target       150?
+Sep  6 0520   Bulava RV        Bulava            K-550, White Sea    Test         100?
+Sep 10        MBRV?            Unknown             Wake Island       Target       300?
+Sep 10        MBRV?            eMRBM               C-17, Pacific     Target       300?
+Sep 10        Aegis KV         SM-3              USS Decatur,Pacific Interceptor  150?
+Sep 10        THAAD KV         THAAD               Meck Island       Interceptor  100?
+Sep 10        THAAD KV         THAAD               Meck Island       Interceptor  100?
+Sep 10 2110?  USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 10 2110?  USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 12        USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 12        USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 15 0920   Agni RV          Agni V              Wheeler I. IC4    Test         800?
+Sep 19 0030   FTM-21 Target    ARAV-C++            Kauai             Target       300?
+Sep 19 0032?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  300?
+Sep 19 0032?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  300?
+Sep 22 1001   Mk 21 RV?        Minuteman 3         Vandenberg LF10   Op. test    1300?
+Sep 26 1033   Mk 21 RV?        Minuteman 3         Vandenberg LF09   Op. test    1300?
+Oct  4 0533   FTM-22 Target    ARAV-ER             Kauai             Target       300?
+Oct  4 0537?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  150?
+Oct  7 0345   Prithvi RV       Prithvi II          Chandipur         Op. test     100?
+Oct  8 0650?  Prithvi RV       Prithvi II          Chandipur         Op. test     100?
+Oct 10 1339   Exptl. RV        Topol'              Kapustin Yar      RV test     1000?
+Oct 21 1800   NASA 36.290US    Black Brant IX      White Sands       Solar        278?
+Oct 30        10 RVs??         R-36M2              Yasniy            Exercise    1000?
+Oct 30        Topol' RV        Topol'              Plesetsk          Exercise    1000?
+Oct 30        RV               Sineva?           K-117, Barents Sea  Exercise    1000?
+Oct 30        RV               Volna             K-433, S.of Okhotsk Exercise    1000?
+Nov  3 0925   NASA 36.294UH    Black Brant IX      White Sands      X-ray Astron  280?
+Nov 12 1615?  SL-8             SpaceLoft XL        Spaceport America Tech         116 
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

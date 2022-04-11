@@ -1,0 +1,278 @@
+Jonathan's Space Report 
+No. 696                                                  2014 Apr 19    Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 39 continues with commander Koichi Wakata and flight engineers
+Tyurin, Mastracchio, Skvortsov, Artem'ev and Swanson.
+
+The Progress M-22M cargo ship undocked from the Pirs module at 1358 UTC Apr 7;
+it remained in a 360 x 417 km orbit for Radar-Progress ionospheric studies
+until Apr 18, when it was deorbited over the Pacific. Progress M-23M
+was launched on Apr 9 and docked with Pirs at 2114 UTC.
+
+On Apr 11 the EXT-2 MDM computer in the S0 truss failed; the unit is
+needed as a backup for SSRMS operations, and will be replaced during a
+forthcoming spacewalk.
+
+The Dragon CRS-3 cargo ship took off from Cape Canaveral on Apr 18 and
+is in a 313 x 322 km orbit on course to rendezvous with ISS. This was
+the first time a Dragon has flown on the uprated Falcon 9 v1.1 rocket,
+and the first flight  of a Falcon 9 with experimental landing legs on
+the first stage. Falcon 9 stage 1 reignited during descent after
+reaching probably around 120 km, and touched down vertically on the
+ocean after demonstrating that it could maintain its orientation during
+the return from space. The Falcon 9 second stage was deorbited over the
+Indian Ocean and destroyed during reentry.
+
+The Dragon trunk carries the OPALS and HDEV experiments for laser
+communications and Earth imaging respectively. They will be installed on
+the ISS - JSC's HDEV is slated for the Columbus module EPF, and JPL's
+OPALS for the ELC-1 platform. Spacesuit EMU 3003 is also aboard Dragon.
+Total mass of Dragon CRS-3 at orbit insertion may be around 10000 kg,
+larger than earlier missions, but this is speculative as SpaceX has not
+released the mass information.
+
+
+Falcon 9 cubesats
+------------------
+
+The second stage of Falcon 9 flight 9 carried five cubesats - SporeSat
+and PhoneSat-2.5 for NASA Ames, TSat for Taylor University, All-Star for
+the Colorado Space Grant consortium, and KickSat for Cornell University's
+Space Systems Design Stuido. KickSat has a mass of 2.68 kg of which
+0.52 kg will be ejected in the form of 104 tiny 5-gram 'Sprites', circuit boards
+which will act as independent satellites with small transmitters able
+to send a simple message to ground stations. The Sprites will be ejected
+from Kicksat on around May 4. 
+
+Insat 3E
+--------
+
+Space News reports that India's Insat 3E communications satellite has
+failed. Orbital data also shows that Insat 3E began to slowly drift off
+station in late March and its orbit was lowered on Apr 4 to 35579 x
+35693 km, drifting two degrees east per day.  The Hindu newspaper
+reported on Apr 2 that the satellite has been decommissioned and that
+the orbit will later be raised to a higher 'graveyard' orbit, although
+the same report says that the satellite's oxidizer has been depleted,
+which presumably takes the main bipropellant propulsion system out of
+action. The satellite probably has small monopropellant thrusters and
+maybe these can be used for small orbit adjustments.
+
+
+SJ11-06
+-------
+
+Launch of the 6th satellite in China's Shi Jian 11 constellation occurred on Mar 30.
+The satellite was placed in a 687 x 704 km x 98.3 deg, 0902LTDN sun-synchronous orbit,
+replacing SJ11-01. The SJ11 satellites are rumoured to carry infrared sensors of some
+kind.
+
+DMSP
+----
+
+A ULA/Lockheed Martin Atlas V model 401, flight AV-044, took off from Vandenberg's
+Space Launch Complex 3-East on Apr 3 to place the penultimate US Air Force Defense Meteorological 
+Satellite Program payload in orbit. The DMSP Block 5D-3 S-19 spacecraft was built
+by RCA/East Windsor, New Jersey and transferred to Lockheed Martin/Sunnyvale after closure
+of the former facility. It is the 19th of the Block 5D subseries to be launched, and as such
+has the flight name Block 5D-3 F-19. It is also the 53rd DMSP satellite produced.
+DMSP 50 (Block 5D-3 S-16) will be the final launch, to be designated F-20. The last-produced,
+DMSP 54 (Block 5D-3 S-20) was launched as F-16 in 2003.
+
+ULA has confirmed that the AV-044 Centaur stage reignited to go into heliocentric
+orbit, like that for the previous DMSP launch. Two debris objects, 2014-015C and D,
+were cataloged in 844 x 848 km x 98.9 deg orbits. The DMSP satellite's solar array
+did not completely deploy, but the satellite is expected to enter service nonetheless.
+
+
+Sentinel-1A
+-----------
+
+The first satellite in the European Commission's Sentinel/Copernicus Earth observing
+program is now in orbit. ESA will operate the Sentinel-1A C-band radar satellite.
+The Soyuz-2-1A (ST-A) flew to a -3147 x 668 km x 91.1 deg orbit and fell in the Canadian
+Arctic at around 2127 UTC. The Fregat upper stage, which separated near the Soyuz apogee,
+completed its first burn at 2122 UTC to deliver Sentinel to a 684 x 689 km x 98.2 deg orbit.
+Sentinel separated from Fregat at 2126 UTC; the Fregat ignited again at 2203 UTC
+and entered a -250 x 708 km x 102.8 deg orbit which dumped it in the South Atlantic
+around 2236 UTC.
+
+Sentinel-1A's C-band SAR is 13.3 x 0.8m in size. The satellite has a mass of 2157 kg,
+only a quarter the mass of its predecessor Envisat which carried a wider array
+of instruments; in the Sentinel program there will be a series of smaller, more
+specialized satellites.
+
+At 0514 UTC on Apr 5, Sentinel made a maneuver to avoid a very close
+pass by NASA's defunct ACRIMSAT satellite, which failed on Dec 14 after
+suffering battery issues, ending its 14 year record of measuring the
+solar output. The Space Debris Office at ESOC, the European Space
+Operations Center in Darmstadt (http://www.esa.int/debris) noticed the
+possible close approach after recieving the first post-launch orbital
+data for the satellite and, after exchanges with NASA and the USAF
+JSpOC space operations center, worked the plan for an avoidance burn
+with the ESOC flight dynamics group. Debris avoidance burns are
+moderately normal, but doing one during spacecraft checkout in the first
+days after launch is not, and required a major replanning effort as
+described in the ESA blog
+http://blogs.esa.int/eolaunches/2014/04/09/a-night-shift-like-never-before
+
+
+STARS-II
+--------
+
+Kagawa University's STARS-II satellite has been renamed Gennai
+after the Japanese polymath Hiraga Gennai (1728-1780). Based on
+the orbital decay rate, the Kagawa team believes that the 300m tether has
+been deployed.
+
+
+IRNSS-1B
+--------
+
+India's second dedicated navigation satellite for the Indian Regional Navigation Satellite
+System was launched on Apr 4.
+The PSLV rocket flew southeast from Sriharikota; the third stage entered
+a marginally suborbital trajectory (possibly something like -300 x 600 km) 
+and reentered on the first orbit off the west coast of S America. After
+a coast phase the fourth stage ignited to accelerate the vehicle to 
+a 269 x 20558 km x 19.3 deg transfer orbit. IRNSS-1B used its onboard
+engine to join IRNSS-1A in circular inclined geosynchronous orbit, and
+on Apr 17 was in a 35565 x 35878 km x 31.0 deg orbit over the Indian Ocean.
+
+'Ofeq-10
+--------
+
+Israel reportedly launched the 'Ofeq-10 (Horizon-10) satellite on Apr 9.
+The Jerusalem Post reports it carries a radar imaging (SAR) payload.
+Israeli news reports give a launch time of 2215 local (1915 UTC) but the
+official Israeli MOD YouTube video of the launch gives a time of 1906
+UTC. Amateur tracking puts the satellite in a 384 x 609 km x 141.0 deg
+orbit as of Apr 16. In contrast to all other countries which launch
+either to polar orbit or eastward - to take advantage of Earth's
+rotation direction - Israel launches westward over the Med to retrograde
+orbit, accepting a payload mass penalty as a result. The reasons for
+this are, of course, obvious: eastward launches from Israel might
+be misinterpreted by its neighbours.
+
+NROL-67
+-------
+
+United Launch Alliance's Atlas V model 541 rocket, serial AV-045, took
+off from Cape Canaveral on Apr 10 carrying the NRO Launch 67 (NROL-67)
+payload. It appears likely that the Centaur stage made three
+burns to deploy the USA 250 payload in geosynchronous orbit. The payload
+is suspected to be a large NRO signals intelligence satellite.
+
+Egyptsat-2
+-----------
+
+The Egyptsat-2 satellite, bult by RKK Energiya for Egypt's National
+Authority for Remote Sensing and Space Science using the 559GK bus, was
+launched on Apr 16 by a Soyuz-U into a 435 x 703 km x 51.6 deg orbit. It
+carries a 1-meter resolution imager.
+
+Cassini
+--------
+
+Cassini completed its T-100 flyby of Titan on Apr 7, passing 963 km from the 
+surface at 1342 UTC. The encounter changed Cassini's orbit around Saturn
+from 799000 x 2963000 km x 45.5 deg to 684000 x 3384000 km x 40.7 deg.
+
+LADEE
+--------
+
+NASA's LADEE spacecraft was lowered into an orbit with a 2 km perilune in
+early April, and it impacted the lunar farside between 0430 and 0522 UTC
+Apr 18, possibly (per twitter.com/nasaladee) on the east rim of the
+crater Sundman V at 12N 93W, north of Mare Orientale.  (Note to those
+unfamiliar with lunar nomenclature: that is letter V, not a Roman
+numeral). LADEE studied the thin lunar atmosphere.
+
+ISEE-3
+-------
+
+The International Sun-Earth Explorer 3 spacecraft, also known as the International
+Cometary Explorer after its trip to P/Giacobini-Zinner in 1985, is returning to
+the vicinity of the Earth in August following 30 years in solar orbit.
+On Apr 18 ISEE 3 was in a 0.927 x 1.034 AU x 0.06 deg solar orbit at a distance
+of 28.9 million km from Earth. Current (but inaccurate) orbital data
+suggest that on Aug 9 at 1145 UTC the probe will pass only 397000 km from Earth
+and then return to a solar orbit with slightly higher period and inclination.
+A group of enthusiasts is attempting to revive the spacecraft; they request
+that readers with original ISEE-3 documentation (for example, telemetry formats)
+contact them (see http://www.rockethub.com/42228 ).
+
+ISEE 3 was developed by NASA-GSFC and was the first spacecraft at the
+Earth-Sun L1 Lagrange point. However, in a special 1986 ceremony NASA
+Administrator James Fletcher transferred ownership of the spacecraft
+from NASA to the Smithsonian Institution - see the 1986 Spaceflight
+magazine article at http://planet4589.org/space/jsr/isee3e.pdf for
+details. The legal status of this transfer is currently unclear - I am
+investigating.
+
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Mar 15 2308   Ekspress-AT1 )     Proton-M/Briz-M  Baykonur LC81/24  Comms        10A
+              Ekspress-AT2 )                                        Comms        10B
+Mar 22 2204   Astra 5B   )       Ariane 5ECA      Kourou ELA3       Comms        11A
+              Amazonas 4A)                                          Comms        11B
+Mar 23 2254   Glonass-M No. 54   Soyuz-2-1B       Plesetsk LC43/4   Navigation   12A
+Mar 25 2117   Soyuz TMA-12M      Soyuz-FG         Baykonur LC1      Spaceship    13A
+Mar 31 0258   SJ-11 06           Chang Zheng 2C   Jiuquan Pad 603  Surveillance? 14A
+Apr  3 1446   DMSP 5D-3 F-19     Atlas V 401      Vandenberg SLC3E  Weather      15A
+Apr  3 2102   Sentinel-1A        Soyuz-2-1A       CSG ELS           Radar        16A
+Apr  4 1144   IRNSS-1B           PSLV-XL          Sriharikota FLP   Navigation   17A
+Apr  9 1526   Progress M-23M     Soyuz-U          Baykonur LC1      Cargo        18A
+Apr  9 1906   'Ofeq-10           Shaviyt          Palmachim         Radar        19A
+Apr 10 1745   USA 250            Atlas V 541      Canaveral SLC41   Sigint       20A
+Apr 16 1620   Egyptsat-2         Soyuz-U          Baykonur LC31     Imaging      21A
+Apr 18 1925   Dragon CRS-3     ) Falcon 9 v1.1    Canaveral SLC40   Cargo        22A
+              SporeSat         )                                    Bio          22
+              TSat             )                                    Tech         22
+              All-Star         )                                    Sci          22
+              Kicksat          )                                    Tech         22
+              Sprite (00,01)   )                                    Tech         22
+                 to            )                                    
+              Sprite (206,207) )                                    Tech         22
+
+
+Suborbital missions
+-------------------
+
+Russia launched several (possibly four?) reentry vehicles from Plesetsk to Kura (in Kamchatka) on Apr 14
+aboard a Yars missile.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Mar  2 2119?  Hwasong RV       Hwasong 6?          Kittaeryong      Training      150?
+Mar  2 2119?  Hwasong RV       Hwasong 6?          Kittaeryong      Training      150?
+Mar  3 1109   GREECE           Black Brant IX      Poker Flat Pad3  Aurora        335
+Mar  4 1810   Topol' RV        Topol'              Kapustin Yar     Test         1000?
+Mar 23        Hyunmoo RV       Hyunmoo 2B          Taean            Test          100?
+Mar 25 1735   Nodong RV        Nodong 1?           Sukchon          Test          150?
+Mar 25 1742   Nodong RV        Nodong 1?           Sukchon          Test          150?
+Apr 14 0640   Yars RV x 4?     Yars                Plesetsk         Test         1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

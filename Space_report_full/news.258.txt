@@ -1,0 +1,121 @@
+Jonathan's Space Report
+No. 258                 1995 Oct  2                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Note
+----
+
+The second edition of my on-line version of the UN Registry of Space
+Objects is now available at 
+  http://hea-www.harvard.edu/QEDT/jcm/space/un/un.html
+It contains the data given by member states to the UN about their
+launchings; readers should beware that this data is often incomplete
+and the document should not be used as a principal source of launch
+information.
+
+Shuttle
+-------
+
+Launch of Mission STS-73 on Sep 28 was scrubbed at 0800 UTC on Sep 28,
+at T-3h, due to a hydrogen leak. Orbiter Columbia carries the Spacelab
+Long Module, with transfer tunnel and tunnel airlock adapter. The module
+being used is probably Long Module Flight Unit 1, last flown on the
+IML-2 mission in 1994. This time the mission is designated US
+Microgravity Lab 2. There is one other payload in the cargo bay, the
+small Orbital Acceleration Research Experiment accelerometer attached to
+an Adaptive Payload Carrier (I think) on the cargo bay wall. The next
+launch attempt for STS-73 will be Oct 5.
+
+Orbiter OV-103 Discovery has arrived in Palmdale aboard one of the
+Shuttle Carrier Aircraft (905 or 911, as usual I'd like someone to tell
+me which!). It will remain there for about a year for refurbishment.
+
+Mir
+----
+
+Launch of the Progress M-29 cargo ship is scheduled for Oct 8.
+
+Recent Launches
+--------------
+
+The Telstar 402R satellite was launched on Sep 24. Telstar 402R is a
+Lockheed Martin Astro Space Series 7000 communications satellite built
+for AT&T. It replaces the Telstar 402  satellite which exploded shortly
+after orbit insertion in Sep 1994. Telstar 402R is a hybrid C/Ku band
+comsat and will be stationed at 89 deg W for US domestic communications.
+The satellite has successfully reached geostationary altitude and is
+drifting towards its initial location.
+
+The Russian Space Agency's Resurs-F2 recoverable remote sensing satellite
+was launched on Sep 26. The satellite, built by KB Foton of Samara, Russia,
+is based on the Vostok spacecraft. Vladimir Agapov reports that this
+is the final Resurs-F mission. It is in a 230 x 233 km x 82.3 deg orbit.
+The Resurs-F satellites carry cameras which are returned to Earth with their
+film cassettes in a reentry vehicle at the end of the mission.
+
+An advanced generation recon satellite, Kosmos-2320, was launched by
+Soyuz from Baykonur on Sep 29 into a 179 x 284 km x 64.9 deg orbit.
+It probably raised its perigee on Sep 30 but I don't have the orbital
+data yet.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug  2 2359   Prognoz-M2  )   Molniya-M       Plesetsk LC43/3 Science     39A
+              Magion 4    )                                   Science     39F
+Aug  3 2358   PAS 4           Ariane 4        Kourou ELA2     Comsat      40A
+Aug  5 1110   Mugunghwa-ho    Delta 7925      Canaveral LC17B Comsat      41A
+Aug  9 0121   Molniya-3       Molniya-M       Plesetsk LC43   Comsat      42A
+Aug 15 2230   Gemstar 1       LLV-1           Vandenberg SLC6 Comsat      FTO
+Aug 29 0053   JCSAT 3         Atlas IIAS      Canaveral LC36B Comsat      43A
+Aug 29 0641   N-STAR a        Ariane 44P      Kourou ELA2     Comsat      44A
+Aug 30 1933   Kosmos-2319     Proton-K/DM2    Baykonur LC200L Comsat?     45A
+Aug 31 0650   Sich-1          Tsiklon-3       Plesetsk LC32-2 Rem.sensing 46A
+              FASat-Alfa                                      Comsat      46A
+Sep  3 0900   Soyuz TM-22     Soyuz-U2        Baykonur LC1    Spaceship   47A
+Sep  7 1509   Endeavour       Shuttle         Kennedy LC39A   Spaceship   48A
+Sep  8 1543   Spartan-201                     OV-105, LEO     Astronomy   48B
+Sep 11 1125   WSF 2                           OV-105, LEO     Micrograv.  48C
+Sep 24 0006   Telstar 402R    Ariane 4        Kourou ELA2     Comsat      49A
+Sep 26 1120   Resurs-F        Soyuz-U         Plesetsk LC43-4 Rem.sensing 50A
+Sep 29 0425   Kosmos-2320     Soyuz-U         Baykonur LC31   Recon       51A
+                                                                         
+Reentries
+---------
+
+Sep  4        Progress M-28   Deorbited
+Sep  6        Kosmos-2314     Deorbited
+Sep 11        Soyuz TM-21     Landed in Kazakhstan
+Sep 18        Endeavour       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-73  Oct  5
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 2     STS-74  Nov  1
+OV-105 Endeavour       OPF Bay 3     STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-51                VAB Bay 1  STS-74
+ML3/RSRM-50/ET-73/OV-102   LC39B      STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

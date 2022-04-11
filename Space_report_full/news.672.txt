@@ -1,0 +1,186 @@
+
+Jonathan's Space Report: 24th anniversary edition
+No. 672                                            2013 Jan 2     Somerville, MA USA
+--------------------------------------------------------------------------------------
+Happy perihelion to all my readers in the Earth-Moon system!
+
+International Space Station
+----------------------------
+
+Expedition 34 is underway with commander Kevin Ford
+and flight engineers FE-1 Oleg Novitskiy and FE-2 Yevgeniy Tarelkin.
+Their ferry ship, Soyuz TMA-06M, is docked at the Poisk module.
+
+Soyuz TMA-07M (spacecraft 704A, flight ISS 33S) went up on Dec 19 with
+crew Roman Romanenko of Russia, Chris Hadfield of Canada, and Tom
+Marshburn of the USA. Initial orbit was 194 x 236 km x 51.6 deg.
+The spaceship docked with the Rassvet module at 1409 UTC on Dec 21.
+
+Two cargo ships are also docked: Progress M-16M at the Pirs module
+and Progress M-17M at the Zvezda aft port.
+
+OTV-3
+-----
+
+Hobbyists have located the US Air Force X-37B spaceplane in a 343 x 360
+km x 43.5 deg orbit.
+
+North Korean satellite 
+----------------------
+
+Four objects have been cataloged in orbit associated with the NK launch:
+the Kwangmyongsong-3 F2 satellite, the Unha-3 rocket stage and two
+debris pieces.  Optical observations by Greg Roberts in S Africa show a
+16-s periodic brightening indicating the satellite is spinning or
+tumbling, which is the natural state of a satellite if its  size and
+shape. The satellite was thought to carry reaction wheels or some
+similar three-axis stabilization system, but this does not seem to be
+working at the moment. News reports describing the satellite as 'out of
+control' could be premature, as it is possible that the stabilization
+system is designed to be activated some time after launch. However, the
+failure to pick up signals at 470 MHz by independent observers in the US
+and UK, including a long-time member of the Kettering Group, Bob Christy
+of http://zarya.info, is strong circumstantial evidence that the
+satellite's transmitter is not working and that the satellite is most
+likely dead. At this point in early January, the continuing lack of
+signal reports make this conclusion all the more likely.
+
+On Jan 1 the orbits were
+   A (satellite)  497 x 581 km x 97.40 deg
+   B (rocket)     496 x 589 km x 97.40 deg
+   C (debris)     497 x 571 km x 97.45 deg
+   D (debris)     497 x 586 km x 97.36 deg
+
+
+GRAIL
+-----
+
+The two GRAIL spacecraft, Ebb and Flow, completed their gravity mapping
+mission and impacted the lunar surface at 75.62N 26.63W at 2229 UTC on
+Dec 17. On Dec 6 their orbit was lowered to only 15 km above the surface
+for a final low-altitude data take. NASA is giving the impact region
+the unofficial (non-IAU) name of 'Sally Ride Impact Site'. The name appears
+to apply to the general region of the impact, which consists of the two
+impact points several km apart and any associated secondary debris.
+The impact velocity was 1.7 km/s. Congratulations to MIT's Maria Zuber
+on an outstanding science mission.
+
+
+Chang'e-2
+---------
+
+China's Chang'e-2 space probe made a remarkable 3.2 km flyby of minor planet
+(4179) Toutatis on Dec 13 at 0830:09 UTC and returned images of the asteroid.
+Chang'e-2 is in a 1.02 x 1.03 AU x 0.2 deg solar orbit.
+
+
+Gokturk 2
+---------
+
+Gokturk is an earth observing satellite for the Turkish Defense
+Ministry. The CZ-2D rocket put it in a 669 x 689 km x 98.2 deg orbit and
+then made a depletion burn to a 144 x 688 km orbit. The satellite was
+built by Turk Havacikik ve Uzay Sanayii (Turkish Aerospace Inc) and the
+TUBITAK research council.
+
+Ariane
+-------
+
+Arianespace launched two communications satellites on Dec 19. Skynet 5D
+is an Astrium/Paradigm satellite for UK military communications;
+Mexsat-Bicentenario will provide domestic Mexican communications.
+The satellites reached a 263 x 25821 km x 2.0 deg geostationary transfer orbit.
+On Jan 1 Skynet 5D was in GEO over 24E and Mexsat was over 114.8W.
+
+Iranian Launch Failures
+-----------------------
+
+Discussion on nasaspaceflight.com has drawn my attention to claims by
+defense analyst publication IHS Jane's that Iran had a further launch
+failure on or soon after Sep 22. The failure appears to have taken place
+on the pad, so it is hard to be sure that an orbital launch was
+intended. Nevertheless I will include it in my lists for the time being,
+to give the possible launch some visibility, until further information
+should come to light that affects my assessment of it.
+
+Yamal-402
+---------
+
+On Dec 17 the Yamal-402 satellite was in a 35693 x 35764 km x 0.05 deg orbit
+drifting at 1 deg per day over the Indian Ocean at 53E, completing the recovery
+effort for the satellite. It had reached a lower than planned initial orbit
+after the failure of its Briz-M upper stage.
+
+
+Orbital Launch Stats 2012 
+--------------------------
+
+Total 78 attempts:
+Russia 24, China 19, US 16, France/ESA 10, India 2, Japan 2, Iran 1 + 2 fail?, North Korea 1+1 fail
+The Iranian launch failures, as noted above, are not confirmed. This is the first year in which
+the number of Chinese launches has exceeded the corresponding US total.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Nov  2 2104   Yamal-300K  )      Proton-M/Briz-M   Baykonur LC81/24  Comms     61
+              Luch-5B     )                                          Comms     61
+Nov 10 2105   Star One C3  )     Ariane 5ECA       Kourou ELA3       Comms     62B
+              Eutelsat 21B )                                         Comms     62A
+Nov 14 1142   Meridian No. 16    Soyuz-2-1A/Fregat Plesetsk LC43/4   Comms     63A
+Nov 18 2253   Huan Jing 1C    )  Chang Zheng 2C    Taiyuan           Radar     64A
+              Xinyan-1        )                                      Tech
+              Fengniao 1A/1B  )                                      Tech
+Nov 20 1831   Echostar 16        Proton-M/Briz-M   Baykonur LC39/200 Comms     65A
+Nov 25 0406   Yaogan Weixing 16) Chang Zheng 4C    Jiuquan           Sigint?   66A
+              YW-16 Subsat 1   )                                     Sigint?   66B
+              YW-16 Subsat 2   )                                     Sigint?   66C
+Nov 27 1013   Zhongxing 12       Chang Zheng 3BE   Xichang LC2       Comms     67A
+Dec  1 0202   Pleiades 1B        Soyuz ST-A/Fregat Kourou ELS        Imaging   68A
+Dec  3 2044   Eutelsat 70B       Zenit-3SL         SL Odyssey        Comms     69A
+Dec  8 1313   Yamal 402          Proton-M/Briz-M   Baykonur LC39/200 Comms     70A
+Dec 11 1803   X-37B OTV-3        Atlas V 501       Canaveral SLC41   Spaceplane 71A
+Dec 12 0049   Kwangmyongsong-3 F2 Unha-3            Sohae             Test      72A
+Dec 18 1612   Gokturk 2          Chang Zheng 2D    Jiuquan           Imaging    73A
+Dec 19 1212   Soyuz TMA-07M      Soyuz-FG          Baykonur LC1      Spaceship  74A
+Dec 19 2149   Skynet 5D          ) Ariane 5ECA     Kourou ELA3       Comms      75A
+              Mexsat-Bicentenario)                                   Comms      75B
+
+Suborbital flights
+-------------------
+
+The IMAGER payload developed by U Mass. Lowell's Tim Cook and BU's Meredith 
+Danowski was launched from White Sands on Nov 21 for ultraviolet imaging
+of the nearby spiral galaxy M101 with a 0.5m telescope.
+
+The DXL mission launched on Dec 13 studies soft X-ray emission from the solar
+wind and the local interstellar medium. The project is led by M. Galeazzi of
+Miami University.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Nov  2 1755   NASA 36.255US    Black Brant IX   White Sands           Solar X      321
+Nov 14 1107   Mk 21 RV?        Minuteman 3      Vandenberg LF10       Op.Test     1300?
+Nov 21 1055   NASA 36.260UG    Black Brant IX   White Sands           UV Astron    291
+Nov 25 1120   MAPHEUS-3        Nike Imp. Orion  ESRANGE, Kiruna       Micrograv    145
+Nov 28        Haft-5 RV        Ghauri           Tilla?, Pakistan      Op.Test      400?
+Dec  8 2100   AEB VS30/O V10   VS-30/Orion      Alcantara             Ionosphere   428
+Dec 13 0520   NASA 36.283UH    Black Brant IX   White Sands           XR Astron    257?
+Dec 17 0700   S-520-28         S-520            Uchinoura             Micrograv    312
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

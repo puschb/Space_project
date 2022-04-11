@@ -1,0 +1,244 @@
+Jonathan's Space Report 
+No. 723                                                      2016 Mar 16  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 46 transitioned to Expedition 47 on Mar 2.
+
+The Canadarm-2 unberthed the Cygnus OA-4 cargo ship, SS Deke Slayton II,
+from the Unity node on Feb 19 at 1040 UTC and released it into orbit at
+about 1227 UTC. The Cygnus was deorbited over the S Pacific at about
+1600 UTC Feb 20.
+
+The University of Texas BEVO-2 cubesat was apparently prematurely
+ejected from the TAMU AggieSat-4 payload shortly after the latter was
+deployed from ISS.
+
+On Mar 2 at 0102 UTC Volkov, Kornienko and Kelly, aboard Soyuz TMA-18M,
+undocked from the Poisk module, concluding Expedition 46. 
+Tim Kopra then became commander of Expedition 47, with flight engineers
+Yuriy Malenchenko and Tim Peake.
+
+Soyuz TMA-18M made the deorbit burn at 0332 UTC and landed in Kazakhstan
+at 0426 UTC. Soyuz commander Volkov had spent six months in space,
+while Kornienko and Kelly completed 340d 8h 21min in space,
+or about 0.93 years.
+
+ExoMars
+-------
+
+The first ESA ExoMars mission was launched on Mar 14 aboard a Proton
+from Baykonur. The main spacecraft on this mission is the ExoMars Trace
+Gas Orbiter (TGO), which is intended to enter Mars orbit and study its
+atmosphere. Attached to it is the Schiaparelli EDM. The EDM is the EDL
+Demonstrator Module, where EDL is "Entry, Descent and Landing". EDM
+consists of an aeroshell containing the EDM Surface Platform (ESP, a
+triply-nested three-letter-acronym proving that ESA can compete with
+NASA  in the TLA race). EDM will attempt to land on the surface as a
+technology demonstration, and carries a small meteorology payload. The
+TGO carries a color and stereo camera, IR and UV spectrometers, a
+neutron detector, and a communications relay package to support future
+surface missions.  The combined spacecraft has a mass of 4332 kg. TGO
+was built by Thales/Cannes (formerly GTC/Sud Aviation) and EDM by
+Thales/Torino (formerly Fiat).
+
+At 0931 UTC Mar 14, Proton-M No. 93560 was launched from area 200 at
+Baykonur into a suborbital trajectory. The Briz-M upper stage, S/N
+99560,  separated at 0941 UTC and fired for 6 minutes to enter a 185 x
+185 km x 51.5 deg parking orbit at 0947 UTC. After completing one orbit,
+a second burn at 1110 UTC raised the orbit to 250 x 5800 km. At the next
+perigee, at 1324 UTC, the orbit was raised to 696 x 21086 km and the
+Briz-M additional propellant tank was jettisoned. On completing this
+orbit, the fourth burn began at 1948 UTC to propel the vehicle to escape
+velocity. ExoMars TGO/EDM separated from the Briz-M at 2013 UTC in a
+hyperbolic Earth escape orbit (C3 = 13.78 km**2/s**2). It is scheduled
+to reach Mars on Oct 19. 
+
+The EDM is scheduled to separate from TGO three days before Mars arrival
+and should enter the Martian atmosphere on a hyperbolic trajectory
+towards a landing site at 6.1W 1.9S in Meridiani Planum. After entry a
+parachute slows the vehicle, the back cover and forward shield are
+jettisoned, and thrusters slow the ESP further. The ESP underside
+consists of a crushable structure to absorb impact with the surface.
+
+Here is the mass breakdown of the ExoMars-2016 vehicle as best
+I can guess it - separate figures for the front and back shell
+don't seem to be publicly available.
+
+  Schiaparelli
+    EDM Surface Platform        280 kg
+    SP hydrazine                 46 kg
+    Front Shield                200 kg?
+    Back Cover                   54 kg?
+    Parachute system             20 kg?
+  -------------------------------------
+  EDM total                     600 kg
+  TGO spacecraft               1365 kg  (including 41 kg separation assembly)
+  TGO propellant               2367 kg
+  -------------------------------------
+  ExoMars-2016 launch total    4332 kg
+
+As always, corrections from those with access to better data are welcome.
+
+
+Cassini
+-------
+
+Cassini made the T-115, T-116 and T-117 Titan flybys at 0222 UTC Jan 16,
+0101 UTC Feb 1, and 2350 UTC Feb 16 at altitudes of 3817, 1400 and 1018
+km. The encounters changed Cassini's orbit around Saturn from 94500 x
+1920000 km x 1.4 deg to 307900 x 2772000 km x 22.0 deg.
+
+SES-9
+------
+
+Falcon 9 rocket F9-022 was launched from Space Launch Complex 40 on Mar
+4. The first stage flew to an apogee of around 160 km and descended 660
+km downrange to crash on the droneship "Of Course I Still Love You" at
+about 73.8W 28.3N,  in a technology test to develop experience for
+future landing attempts. The second stage accelerated to reach a 160 x
+531 km x 28.5 deg parking orbit at 2344 UTC and then reignited at 0002
+UTC Mar 5 to reach a 334 x 40648 km x 28.0 deg transfer orbit. 
+
+The SES-9 payload separated at 0006 UTC. It is a Boeing 702HP satellite
+with a mass of about 5270 kg and a Ku-band communications payload for
+delivery of services to Asia and the Indian Ocean from 108.2E.
+By Mar 14, SES-9 was in a 28569 x 41649 km x 0.5 deg orbit.
+
+Eutelsat 65 West A
+------------------
+
+Arianespace launched Ariane 5 vehicle L582, mission VA229 to a low inclination
+geotransfer with Eutelsat do Brasil's 65 West A payload, a Loral 1300 satellite.
+By Mar 14, 65 West A was in a 35729 x 35759 km x 0.0 deg near-GEO over the
+Atlantic.
+
+Eutelsat keeps renaming its satellites every time they are moved; here is an
+update on its current fleet:
+
+ Current name                   Name at launch        Actual location              
+                                                      Mar 2016
+ 
+ EUTELSAT 7A                    Eutelsat W3A               7.0E   
+ EUTELSAT 7B                    EUTELSAT 3D                7.1E
+ EUTELSAT 9A                    Eutelsat HB7A              9.0E
+ EUTELSAT 9B                    EUTELSAT 9B/EDRS-A        9E, Moving
+ EUTELSAT KA-SAT                KA-Sat                     9.0E   
+ EUTELSAT 10A                   Eutelsat W2A               9.9E   
+ EUTELSAT HOT BIRD 13B          Hot Bird 8                12.9E   
+ EUTELSAT HOT BIRD 13C          Hot Bird 9                13.0E   
+ EUTELSAT HOT BIRD 13D          Hot Bird 10               13.0E   
+ EUTELSAT 16A                   Eutelsat W3C              16.0E   
+ EUTELSAT 16C                   SESAT                     14.4E   
+ EUTELSAT 21B                   EUTELSAT 21B              21.6E   
+ Es'hail/EUTELSAT 25B           EUTELSAT 25B              25.5E
+ EUTELSAT 31A                   e-Bird                    30.9E
+ EUTELSAT 33B                   Eutelsat W5               80E, Moving
+ EUTELSAT 33C                   Eurobird                  33.0E
+ EUTELSAT 33D                   Eutelsat HB6              33.1E
+ EUTELSAT 36A                   Eutelsat W4               46E, Moving
+ EUTELSAT 36B                   Eutelsat W7               35.9E   
+ EUTELSAT 3B                    EUTELSAT 3B                3.1E   
+ EUTELSAT 48A                   Eutelsat HB2              48.2E   
+ EUTELSAT 48D                   Eutelsat W2M              48.1E   
+ EUTELSAT 70B                   EUTELSAT 70B              70.5E   
+ EUTELSAT 172A                  Americom 23              172.0E   
+ EUTELSAT 117 West A            Satmex 8                 116.8W   
+ EUTELSAT 115 West A            Satmex 5                  92.2W   
+ EUTELSAT 115 West B            EUTELSAT 115 West B      114.9W
+ EUTELSAT 113 West A            Satmex 6                 113.0W
+ EUTELSAT 65 West A             EUTELSAT 65 West A      Transfer orbit
+ EUTELSAT 36 West A             Atlantic Bird 1           36.0W   
+ EUTELSAT 12 West B             Atlantic Bird 2           12.6W   
+ EUTELSAT 8 WEST B              EUTELSAT 8 WEST B          8.0W 
+ EUTELSAT 7 West A              Atlantic Bird 7            7.3W
+ EUTELSAT 5 West A              Stellat 5                  5.0W
+
+IRNSS
+-----
+
+The Indian Regional Navigation Satellite System was augmented by launch of the 1F satellite on Mar 10.
+The initial insertion orbit was 270 x 20649 km x 17.9 deg; an initial perigee burn to raise apogee
+was followed by several apogee burns towards circular inclined synchronous orbit.
+
+Here are the current orbits of the 6 satellites in the fleet.
+
+  IRNSS 1A  35695 x 35874 km x 28.1 deg  55E
+  IRNSS 1B  35711 x 35860 km x 29.9 deg  55E
+  IRNSS 1C  35697 x 35873 km x  3.9 deg  83E
+  IRNSS 1D  35711 x 35866 km x 29.9 deg 111E
+  IRNSS 1E  35696 x 35874 km x 28.1 deg 111E
+  IRNSS 1F  33349 x 35750 km x  5.3 deg En route to synchronous
+
+Resurs-P
+--------
+
+Russia launched the third Resurs-P civil remote sensing satellite on Mar 13. The first two satellites
+in the series are still operating; Resurs-P No. 1 made an orbit adjust burn on Feb 22.
+The Resurs-P No. 3 spacecraft, however, failed to deploy one of its solar panels.
+ 
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Jan 29 1550   AggieSat-4                             ISS, LEO          Tech        98-067HP S41313    399 x   408 x  51.7
+Jan 29 1550?  Bevo-2                                 AggieSat4,LEO     Tech        98-067HQ S41314    399 x   408 x  51.7
+Jan 29 2220   Eutelsat 9B         Proton-M/Briz-M    Baykonur LC200/39 Comms          05A   S41310  35776 x 35798 x   0.1 GEO 9E
+Feb  1 0729   Beidou DW21         Chang Zheng 3C/YZ1 Xichang           Navigation     06A   S41315  21512 x 21981 x  55.0
+Feb  3 1322   Fleshka             -                  ISS, LEO        Commemorative 98-067HR?S41326?   395 x   406 x  51.6
+Feb  5 1338   GPS SVN 70          Atlas V 401        Canaveral SLC41   Navigation     07A   S41328  20438 x 20442 x  55.0 
+Feb  7 0021   Glonass-M No. 51    Soyuz-2-1B/Fregat  Plesetsk LC43/4   Navigation     08A   S41330  19132 x 19158 x  64.8
+Feb  7 0030   Kwangmyongsong-4    Kwangmyongsong     Sohae             Imaging        09A   S41332    465 x   501 x  97.5 0840LT SSO
+Feb 10 1140   TOPAZ 4?            Delta 4M+(5,2)     Vandenberg SLC6   Radar          10A   S41334   1078 x  1085 x 123.0   
+Feb 16 1757   Sentinel-3A         Rokot              Plesetsk LC133    Imaging/Alt    11A   S41335    802 x   806 x  98.6 1000LT SSO
+Feb 17 0845   Hitomi     )        H2A 202            Tanegashima       X-ray Astron   12A   S41337    565 x   580 x  31.0
+              Kinshachi-2)                                             Space Sci      12B   S41338    559 x   579 x  31.0
+              Kinshachi-3)                                             Imaging        12C   S41339    558 x   578 x  31.0
+              Horyu-4    )                                             Tech           12D   S41340    557 x   578 x  31.0
+Mar  4 2335   SES-9               Falcon 9 FT        Canaveral SLC40   Comms          13A   S41380  28569 x 41649 x   0.5
+Mar  9 0520   Eutelsat 65 West A  Ariane 5 ECA       Kourou ELA3       Comms          14A   S41832  35729 x 35759 x   0.0 GEO 44W drift
+Mar 10 1031   IRNSS-1F            PSLV-XL            Satish Dhawan SLP Navigation     15A   S41384  33349 x 35750 x   5.3
+Mar 13 1856   Resurs-P No. 3      Soyuz-2-1B         Baykonur LC31     Imaging        16A   S41386    279 x   452 x  97.3 1150LT SSO
+Mar 14 0931   ExoMars TGO   )     Proton-M/Briz-M    Baykonur LC200/39 Mars orbiter   17A   S41388   1000?x-71600?x  51.6
+              Schiaparelli  )                                          Mars lander    17    A08532   1000?x-71600?x  51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jan 15 0300   S-310-44         S-310               Uchinoura, Japan      Ionosphere    161       Pacific Ocean
+Jan 22        New Shepard CC   New Shepard         West Texas            Test          101       West Texas
+Jan 23 0830   TEXUS 53         VSB-30              Kiruna, Sweden        Micrograv     252       ESRANGE Zone B
+Jan 28 2155?  MBRV?            eMBRM?             C-17, Pacific          Target        300?      E Pacific
+Jan 28 2157   CE-II CTV-02+    GBI                 Vandenberg LF23       Interceptor  1000?      E Pacific
+Feb  2 2109   SPIDER/LEEWAVES  VS-30               Kiruna, Sweden        Auroral       138       ESRANGE Zone B
+Feb 21 0734   GT217GM          Minuteman 3         Vandenberg LF09       Test         1300?      Kwajalein
+Feb 22 0415   CHESS-2          Black Brant 9       White Sands           UV Astron     309       White Sands
+Feb 26 0701   GT218GM          Minuteman 3         Vandenberg LF10       Test         1300?      Kwajalein
+Mar  1 1450   MUSIC            Terrier Imp.Mal.    Wallops Island        Tech          185       Atlantic Ocean
+Mar  7 1205   NASA 41.114NP    Terrier Imp.Orion   Wallops Island        Tech          160?      Atlantic Ocean
+Mar  8        Shahab RV        Shahab-1            Qom Desert, Iran      Test          100?      Qom Desert, Iran
+Mar  8        Shahab RV        Shahab-2            Qom Desert, Iran      Test          120?      Qom Desert, Iran
+Mar  8        Qiam RV          Qiam                Qom Desert, Iran      Test          125?      Qom Desert, Iran
+Mar  9        Ghadr RV         Ghadr-F             Semnan?, Iran         Test          150?      Makran, S Iran
+Mar  9        Ghadr RV         Ghadr-H             Semnan?, Iran         Test          150?      Makran, S Iran
+Mar  9 2020   Hwasong RV       Hwasong 6?          Chiha?, N Korea       Test          150?      Sea of Japan
+Mar  9 2020   Hwasong RV       Hwasong 6?          Chiha?, N Korea       Test          150?      Sea of Japan
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

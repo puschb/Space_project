@@ -1,0 +1,142 @@
+Jonathan's Space Report 
+
+No. 164        1993 Aug  11
+------------------------------------------------------------------------------
+
+Shuttle 
+------- 
+
+Launch of STS-51 has been delayed until at least Aug 12 because
+of the Perseids.   Payloads are the ACTS communications satellite and the
+ORFEUS astronomy satellite. Meanwhile, the STS-58 stack is awaiting
+the rollover of Columbia from the processing facility to the VAB;
+stacking of solid rocket boosters for the STS-60 mission has
+begun in the VAB; and preparation of Endeavour for the STS-61 mission
+is continuing in the processing facility.
+
+Mir
+---
+
+Tsibliev and Serebrov continue in orbit aboard the Mir complex.
+Launch of the Progress M-19 cargo freighter was due on Aug 10.
+
+
+Obituary: Milton Thompson (1926-1993)
+--------
+
+NASA-Dryden Chief Engineer Milt Thompson died on Aug 6. Milton Orville
+Thompson, born on 4 May 1926, was a NASA test pilot from 1956 (when it
+was still NACA) until 1967. He trained as an astronaut in the (later
+cancelled) military X-20 Dyna-Soar program from 1962 to 1963, and  made
+14 flights in the X-15-1 and X-15-3 spaceplanes. He also was a leading
+force in the early days of the lifting body program, and was the first
+pilot of the original M2-F1 lifting body demonstrator and the
+rocket-powered M2-F2. 
+
+Milt Thompson is the person who  came closest to flying in space without
+actually doing so: he is the only person ever to have flown into the
+mesosphere (above the stratopause at about 50 km) without making it
+above the 80 km limit that is becoming the accepted boundary of space by
+space historians. On May 25, 1965 he flew mission 1-54-88 aboard the
+X-15-1 from Mud Lake, Nevada to Edwards AFB and reached 54.8 km apogee.
+He made a second flight into the mesosphere on Aug 25, 1965 (mission
+1-57-96) from Delamar Dry Lake, Nevada to Edwards, this time reaching
+65.2 km. His fastest flight was in Jan 1965, when he reached almost 6000
+km/hr (Mach 5.4) in the X-15-3. 
+
+
+Launches
+--------
+
+NOAA-13 (formerly NOAA-I) was launched on Aug 8 from Space Launch
+Complex 3 at Vandenberg by an Atlas E (probably serial number 34E, can
+anyone confirm this?). The NOAA satellites are polar orbiting weather
+satellites used by the National Oceanic and Atmospheric Administration.
+NOAA-13 is an Advanced TIROS-N model; the NOAA series is the
+continuation of the original TIROS series of weather satellites started
+by NASA in 1960. 
+
+A Molniya-3 communications satellite was launched into highly
+elliptical orbit with a 12 hour period on Aug 4 from Plesetsk. 
+
+Few details of the Titan 4 failure have so far emerged. 
+A correspondent reports that visual observations indicate
+the second generation NOSS satellites consist of a pair
+fixed about 50 km apart, with a third satellite between
+them but moving from side to side, reaching distances of
+over 100 km from the pair.
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+Jul  1 1433     Soyuz TM-17     Soyuz 2         Baykonur        Spaceship  43A
+Jul  8 0715     Kosmos-2258     Tsiklon-M       Baykonur        EORSAT     44A
+Jul 14 1640     Kosmos-2259     Soyuz           Plesetsk        Recon      45A
+Jul 19 2204     DSCS III        Atlas AC-104    Canaveral       Comsat     46A
+Jul 22 0856     Kosmos-2260     Soyuz           Plesetsk        Remote sens. 47A
+Jul 22 2258     Hispasat 1B  )  Ariane 44L      Kourou          Comsat     48A
+                Insat 2B     )                                  Comsat     48B
+Aug  2 1959     Adv NOSS 3?     Titan 403       Vandenberg      Recon      FTO
+Aug  4          Molniya-3       Molniya         Plesetsk        Comsat     49A
+Aug  8 1002     NOAA 13         Atlas 34E?      Vandenberg      Weather
+
+Reentries
+---------
+
+Jul  1          Endeavour       Landed at Kennedy Space Center
+Jul  1          EURECA          Returned to Earth aboard Endeavour
+Jul  4          Progress M-18   Deorbited
+Jul  4          Raduga capsule  Landed in Russia
+Jul 12          Resurs-F1       Landed in Kazakhstan?
+Jul 18          MSTI-1          Reentered
+Jul 22          Soyuz TM-16     Landed in Kazakhstan
+Jul 25          Kosmos-2259     Landed
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-58
+OV-103 Discovery       LC39B         STS-51
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-34/ET-57        VAB Bay 3   STS-58
+ML2/RSRM-35              VAB Bay 1   STS-60
+ML3/RSRM-33/ET-59/OV-103 LC39B       STS-51
+
+Shuttle Processing Explanation (or,  what are all these acronyms
+anyway?):
+
+ The Shuttle consists of an Orbiter (OV), an expendable External Tank
+(ET), and a reusable pair of Redesigned Solid Rocket Motors (RSRM).  The
+OV is prepared for flight in the Orbiter Processing Facility (OPF) which
+consists of three bays (one of which is actually a separate building)
+after which it is towed to the Vehicle Assembly Building (VAB) and
+`mated to the stack' or joined to the ET and RSRM. First, the segments
+of the RSRM are stacked up on a Mobile Launch Platform (ML) and then the
+ET is connected to it. After the OV is mated, a Crawler-Transporter is
+moved underneath the ML and carries the ML/RSRM/ET/OV stack to one of
+the two pads (A or B) at launch complex 39 (LC39) where it is eventually
+launched on a Space Transportation System (STS) mission. Occasionally
+an OV is returned to the Rockwell International plant in Palmdale,
+California for refit - an Orbiter Maintenance Down Period or OMDP. 
+
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+
+        

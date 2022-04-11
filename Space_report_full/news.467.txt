@@ -1,0 +1,113 @@
+
+Jonathan's Space Report
+No. 467                                        2001 Nov 14 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The EP-2 crew - Afanas'ev, Haignere and Kozeev - undocked Soyuz TM-32
+from the Pirs module at 0138:30 UTC on Oct 31. Deorbit burn was at 0404
+UTC, with landing 180 km SE of Dzhezkazgan at 0459:26 UTC. This leaves
+the Ex-3 crew of Culbertston, Dezhurov and Tyurin with a fresh Soyuz
+transport ship, Soyuz TM-33, docked with the Zarya module.
+
+On Nov 12 Culbertson and Dezhurov made a spacewalk from the Pirs module.
+It was depressurized past 50 mbar around 2127 UTC,  and the hatch was
+opened at 2141 UTC. The astronauts completed external connections for
+the Pirs module and finished setting up the Kurs rendezvous system. The
+hatch was closed at 0245 UTC on Nov 13 and repressurization
+began at around 0250 UTC for a duration of about 5 hr 23min.
+
+Preparations are continuing for the launch of STS-108, with
+Endeavour now at pad 39B. 
+
+
+Red Planet - Erratum
+---------------------
+
+I can't believe I did this - thanks to alert reader Mike Grabois who
+pointed out my use of 'perigee' and 'apogee' when I meant to type the
+generic terms 'periapsis' and 'apoapsis'. In the 1960s-70s the
+planet-specific terms - in this case I believe `periares', `apoares' -
+had a brief popularity, although the difficulty of coming up with new
+terms for each new body (how about `perieroticon'  for NEAR about Eros?)
+has led to the generic terms winning out for the most part. Exceptions
+are perihelion/aphelion which is well-hallowed in use for the Sun;
+perijove and apojove which seem to be in common use for Galileo at
+Jupiter; in astronomy,  periastron/apastron and
+perigalacticon/apogalacticon are sometimes seen for stars and galaxies
+respectively.
+
+Recent Launches
+---------------
+
+No new orbital launches this week. A suborbital STARS missile defense
+target(Polaris with Orbus-1 upper stage) was destroyed during launch
+from Kodiak on Nov 9.  A successful Minuteman 3 operational test flew
+from Vandenberg to Kwajalein on Nov 7. A Topol' was launched from
+Plesetsk to Kamchatka on Nov 1.
+
+Mars Odyssey continues aerobraking and now has a periapsis of 110 km.
+Genesis is now arriving at the Earth-Sun L1 point. A malfunctioning
+thermal radiator is causing some concern for the health of the
+sample return capsule's critical battery, which is overheating, 
+but Genesis is expected to begin collecting solar wind samples
+on schedule.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Sep  7 1939   Picosat 7/8       -              Sindri, LEO      Technology  00-42C
+Sep  8 1525   USA 160       )   Atlas IIAS     Vandenberg SLC3E Sigint       40A
+              NRO satellite )                                                40C
+Sep 14 2335   Pirs           )  Soyuz-U        Baykonur LC1     Station module  
+              Progress M-SO1 )                                  Cargo        41A
+Sep 21 1849   Orbview-4  )      Taurus 2110    Vandenberg 576E  Imaging      F01
+              QuikTOMS   )                                      Environment  F01
+              SBD        )                                      Technology   F01
+              Celestis-4 )                                      Burial       F01
+Sep 25 2321   Atlantic Bird 2   Ariane 44P     Kourou ELA2      Ku telecom   42A
+Sep 30 0240   Starshine 3  )    Athena-1       Kodiak           Science      43A
+              Picosat      )                                    Technology   43B
+              PCSat        )                                    UHF/VHF comm 43C
+              Sapphire     )                                    Technology   43D
+Oct  5 2120   USA 161           Titan 4B       Vandenberg SLC4E Imaging      44A
+Oct  6 1645   Raduga-1          Proton-K/DM2?  Baykonur         C telecom    45A
+Oct 11 0232   USA 162           Atlas IIAS     Canaveral SLC36B Data relay?  46A
+Oct 18 1851   QuickBird         Delta 7320     Vandenberg SLC2W Imaging      47A
+Oct 21 0859   Soyuz TM-33       Soyuz-U        Baykonur LC1     Spaceship    48A
+Oct 22 0453   TES      )        PSLV           Sriharikota      Imaging?     49A
+              BIRD     )                                        Imaging      49C
+              PROBA    )                                        Imaging/tech 49B
+Oct 25 1134   Molniya-3         Molniya-M      Plesetsk LC43/3  Comms        50A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Feb 14  HST SM-3B
+OV-103 Discovery       OPF Bay 1?    Maintenance
+OV-104 Atlantis        OPF Bay 2?    STS-110 2002 Mar 21  ISS 8A
+OV-105 Endeavour       LC39B         STS-108 2001 Nov 29  ISS UF-1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

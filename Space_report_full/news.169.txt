@@ -1,0 +1,102 @@
+Jonathan's Space Report 
+
+No. 169        1993 Sep 23
+------------------------------------------------------------------------------
+
+Shuttle 
+------- 
+
+Discovery retrieved the ORFEUS-SPAS satellite from orbit on Sep 19.
+Commander Frank Culbertson flew Discovery up to SPAS and
+mission specialist Dan Bursch used the RMS to grapple it at 1149 UTC.
+Discovery landed on runway 15 at Kennedy Space Center at
+0756:06 (main gear touchdown) on Sep 22, in the first night
+landing at KSC. The mission duration was 236 hr 11 min,
+giving Discovery a total flight time of 2629 hr 02 min in
+17 flights. This temporarily gives it back the lead in total flight
+hours from Columbia, which was rolled out to pad 39B on Sep 17.
+Launch of Columbia's STS-58 flight is scheduled for Oct 14.
+
+Mir
+---
+
+The Expedition 14 crew of Vasiliy Tsibliev and Aleksandr Serebrov 
+continue in orbit aboard the Mir complex. They made two 
+spacewalks in the past week, one of which overlapped with the
+Discovery EVA. More details next week, I hope.
+
+Launches
+--------
+
+Kosmos-2263, launched into a 848 x 854 km x 71.0 deg orbit, is 
+a heavy signals intelligence satellite. Other satellites in
+the same series include Kosmos-2219, 2227 and 2237. The program
+had three consecutive launch failures in 1990-1992, but the
+last 4 launches have been successful. Zenit has had 21 launches
+with 5 failures since the first suborbital test flight in 1985.
+
+Kosmos-2264, launched into a 402 x 418 km x 65.0 deg orbit,
+is an electronic intelligence ocean reconnaissance satellite
+or EORSAT. It carries a low thrust engine to maintain precise
+separation with other EORSATs and uses radio interferometry
+to locate transmissions from ships. The Tsiklon-M launch
+vehicle uses a modified R-36M ICBM (known as SS-9 in the West).
+
+The ACTS communications satellite is drifting in the geostationary
+ring towards its scheduled position of 100 deg West.
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug 24 1045     Resurs-F1       Soyuz           Plesetsk        Remote s.  53A
+Aug 30 1238     Navstar GPS 35  Delta 7925      Canaveral LC17  Navigation 54A
+Aug 31 0440     Meteor-2        Tsiklon         Plesetsk LC32   Weather    55A
+Aug 31 1520     Temisat         -               Meteor-2,LEO               55C
+Sep  3 1117     UHF F2          Atlas I  AC-75  Canaveral LC36  Comsat     56A
+Sep  7 1325     Kosmos-2262     Soyuz           Baykonur        Recon      57A
+Sep 12 1145     Discovery       Shuttle         Kennedy LC39B   Spaceship  58A
+Sep 12 2113     ACTS            TOS             Discovery, LEO  Comsat     58B
+Sep 13 1506     ORFEUS-SPAS     -               Discovery, LEO  Astronomy  58C
+Sep 16 0736	Kosmos-2263	Zenit		Baykonur LC45	SIGINT	   59A
+Sep 17 0043	Kosmos-2264	Tsiklon-M	Baykonur LC90	EORSAT	   60A
+
+Reentries
+---------
+
+Aug  5          Kosmos-2260     Landed
+Aug 18          Molniya-3 (22)  Reentered
+Aug 28          Meteor-Priroda (77-57A) Reentered
+Sep 10          Resurs-F        Landed
+Sep 22          Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39B         STS-58
+OV-103 Discovery       OPF Bay 3     STS-60
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-61
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/RSRM-34/ET-57/OV-102 LC39B       STS-58
+ML2/RSRM-23/             VAB Bay 1   STS-61
+ML3/                     Refurb      
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+
+        

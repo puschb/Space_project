@@ -1,0 +1,209 @@
+Jonathan's Space Report
+No. 588                                           2007 Nov 24, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Astronauts Parazynski and Wheelock made a spacewalk out to the port end
+of the Station truss to repair the SAW-4B solar array on Nov 3. The
+Quest airlock was depressurized at 1000 UTC with hatch opening at 1002
+UTC. By 1203 UTC Parazynski was moved to the vicinity of the solar array
+tear, standing on the end of the OBSS boom, which was grappled by the
+Canadarm-2 sitting at worksite 8 on the truss. He installed five
+'cuff-link' straps to strengthen the solar array and prevent further
+tearing; the array was then fully extended by 1523 UTC, ensuring an
+adequate electrical power supply for the Station in the near term,
+pending repairs to the starboard truss' Solar Alpha Rotary Joint (SARJ).
+The airlock hatch was closed at 1712 UTC and repressurization was at
+1722 UTC. On this spacewalk, Wheelock used spacesuit EMU 3003 as before,
+but due to problems with Parazynski's EMU 3004, he used EMU 3006
+instead. 
+
+EMU 3006 was also used by Yuri Malenchenko for EVA-5, which was delayed 
+until after Discovery's departure. Quest was depressurized at about 0952 UTC
+on Nov 9, with hatch open at 0953 UTC. Malenchenko, together with ISS
+Commander Peggy Whitson in EMU 3018, disconnected cables from the PMA-3
+docking adapter to prepare it for unberthing, and electrically
+activated the power-data grapple fixture (PDGF) on the Harmony module.
+They returned to the airlock and closed the hatch at 1646 UTC, with
+repressurization at 1649 UTC.
+
+Discovery undocked from the Station at 1032 UTC on Nov 5. After a
+flyaround, they departed with a second sep burn at 1214 UTC. The deorbit
+burn was at 1658 UTC on Nov 7, with landing at Kennedy Space Center
+runway 33 at 1801 UTC to complete the mission.
+
+Whitson and Malenchenko remain aboard the station with astronaut Dan
+Tani as the current Expedition 16 crew.  On Nov 12 the PMA-2 docking
+port was unbolted from the Destiny module and attached to the end of
+Harmony. On Nov 14, the PMA-2/Harmony combination was detached from the
+side of the Unity module and installed on the end of Destiny. On Nov 20
+Tani and Whitson made a spacewalk to connect a cooling loop from the
+truss to Destiny, and make connections between Destiny and Harmony. On
+Nov 24 they made another spacewalk (in progress at this writing) to
+connect a second cooling loop, and inspect the truss rotary joint. At
+the end of these operations, PMA-2 is again ready to serve as a Shuttle
+docking port, and Harmony lies between PMA-2 and Destiny ready to have
+its side docking ports used for further modules, the first of which will
+be Europe's Columbus.
+
+SAR-Lupe 3
+----------
+
+Germany's third SAR-Lupe radar satellite was launched on Nov 1
+at 0051 UTC; it separated from the Russian Kosmos-3M final stage rocket
+at 0120 UTC into a 465 x 493 km x 98.2 deg orbit. The final stage
+carries a small Automatic Identification System package for OHB/Bremen,
+to test a system for monitoring of shipping traffic.
+
+Chang'e-1
+---------
+
+China's Chang'e-1 moon probe increased its Earth orbital apogee to
+120000 km on Oct 29 at 1001 UTC, and again to 380000 km at 0915 UTC on
+Oct 31. It entered a 210 x 8600 km lunar orbit at 0337 UTC on Nov 5. The
+orbit inclination is polar, but I haven't seen a precise number for it.
+
+
+DSP 23
+------
+
+The second Delta 4 Heavy launch on Nov 11 put the DSP (Defense Support
+Program) Flight 23 early warning satellite in orbit. DSP satellites,
+built by Northrop Grumman in Redondo Beach, feature an infrared
+telescope for detection of missile launches. The Delta entered
+a 217 x 1576 km x 29 deg orbit at SECO-1 12 min after launch; an hour later
+the second Delta second stage burn went to 919 x 36325 km x 26.6 deg
+(these are prelaunch estimates of the orbit); a third burn at
+0800 UTC put the satellite in circular geosynchronous orbit. 
+
+The first Delta 4H launch in Dec 2004, with a demonstration satellite,
+suffered from early cutoff of the Common Booster Core stages, and the
+SECO-1 orbit was lower than planned (the apogee was around 105 km; I
+still have not seen a value for the perigee achieved - I hope readers
+will let me know if they have relevant data) and two nanosatellites
+reentered immediately. The Delta 4H recovered and put the demonstration
+satellite in a near-synchronous orbit with a 10 degree inclination,
+running out of fuel in the process; this delayed further Delta 4H launches.
+On the new launch on Nov 11 Boeing reports indicate that everything went well,
+and independent observers have seen the Centaur in a geosynchronous orbit
+with a 3 degree inclination, as expected.
+
+Yaogan 3
+--------
+
+China launched the Yaogan 3 radar satellite on Nov 11 using a new
+variant of the Chang Zheng (Long March) rocket. The CZ-4C is like the
+CZ-4B but includes a restart capability in the upper stage. It also has
+a new interstage adapter between the first and second stages.  Yaogan 1
+is in a 628 x 628 km x 97.8 deg orbit, and Yaogan 2 is in a  629 x 656
+km x 97.9 deg orbit; the Yaogan 1 CZ-4B third stage was placed in a 451
+x 619 km x 97.8 deg orbit. Yaogan 3 is in a 613 x 623 km orbit, and the
+third stage is  in a 456 x 612 km x 97.9 deg orbit.
+
+Rosetta
+--------
+
+Europe's Rosetta probe flew past Earth at 2057 UTC on Nov 13, 5301 km
+above 63 46S 74 35W. The close flyby, with an eccentricity of 3.6,
+changes Rosetta's ecliptic solar orbit from 0.78 x 1.59 AU x 1.9 deg to
+0.91 x 2.26 AU x 7.7 deg, setting it on course for a flyby of minor
+planet (2867) Steins in Sep 2008.
+
+Ariane
+------
+
+Ariane 5ECA vehicle L538, on flight V179, placed two communications
+satellites in geostationary transfer orbit on Nov 14. The EPC stage
+reached a -1065 x 168 km suborbital trajectory, with the ESC-A upper
+stage continuing to GTO in a single burn. The upper satellite is Skynet
+5B, an Astrium Eurostar E3000 satellite owned by EADS' Paradigm company,
+which provides communications services at SHF and UHF to the UK Ministry
+of Defence. The lower satellite is Star One C1 (formerly Brasilsat C1),
+a joint project between a group of S American countries led by Brazil's
+Embratel telecoms organization. Star One is the name of the Embratel
+subsidiary that operates the Brasilsat system. The satellite is a
+Thales Alenia Spacebus 3000B3 spacecraft. The satellites spent
+an extended period in transfer orbit. Object A (32293) is now being
+tracked over the western Atlantic, suggesting it may be Star One.
+
+Sirius 4
+--------
+
+The Sirius 4 satellite for SES Sirius AB (the former Nordiska Satellit
+AB)  was launched aboard a Krunichev Proton-M on Nov 17. The satellite
+carries Ku-band and Ka-band communications payloads for Nordic, Baltic
+and East European communications. SES Sirius' Sirius 2 and Sirius 3 are
+colocated in GEO at 5 deg E; Sirius 1 was retired in 2003. The SES
+Sirius satellites are not to be confused with the Sirius digital radio
+satellites owned by Sirius Satellite Radio.
+   
+   NSAB/SES Sirius satellites and Sirius Radio satellites:
+  Owner         Name        Type             Launch         Orbit (km x km x deg)
+
+  NSAB          Tele-X      Spacebus 300    1989 Apr  2     36076 x 36112 x 9.1
+  NSAB          Sirius 1    HS-376          1993 (see note) 36049 x 36137 x 7.3
+  NSAB          Sirius 2    Spacebus 3000B  1997 Nov 12     35782 x 35790 x 0.0
+  NSAB          Sirius 3    HS-376HP        1998 Oct  5     35780 x 35793 x 0.1
+  SES Sirius    Sirius 4    A2100AX         2007 Nov 17     12676 x 35751 x 10.0
+
+  Sirius Radio  Sirius 1    LS-1300         2000 Jun 30     24587 x 46990 x 62.1
+  Sirius Radio  Sirius 2    LS-1300         2000 Sep  5     24504 x 47066 x 63.6
+  Sirius Radio  Sirius 3    LS-1300         2000 Nov 30     24580 x 46989 x 64.0
+  Sirius Radio  Sirius 4    LS-1300         Ground spare, will not be launched
+  Sirius Radio  Sirius 5    LS-1300         Launch expected 2008
+
+  Note: NSAB Sirius 1 is the former British Satellite Broadcasting BSB 1,
+  launched in 1989, and was bought in orbit by NSAB in 1993 Dec.
+
+The Proton-M reached a -942 x 164 km x 51.5 deg suborbital trajectory.
+The first three Briz-M upper stage burns reached 173 x 173 km, 258 x
+5000 km and 385 x 35681 km x 49.1 deg. At this point, the DTB fuel tank
+was jettisoned. A final Briz burn at 0730 UTC on Nov 18 put Sirius 4 in
+a 6916 x 35478 km x 17.4 deg high-perigee geostationary transfer orbit.
+By Nov 21 the satellite's own Leros propulsion system had raised its
+orbit to 12676 x 35751 km x 10.0 deg on the way to GEO.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Oct  5 2202   Intelsat IS-11 )  Ariane 5GS       Kourou ELA3      Comms      44B
+              Optus D-2      )                                    Comms      44A
+Oct 10 1322   Soyuz TMA-11      Soyuz-FG         Baykonur LC1     Spaceship  45A
+Oct 11 0022   WGS SV-1          Atlas V 421      Canaveral SLC41  Comms      46A
+Oct 17 1223   Navstar GPS 55    Delta 7925       Canaveral SLC17A Navigation 47A
+Oct 20 2012   Globalstar FM66)  Soyuz-FG/Fregat  Baykonur LC31    Comms      48C
+              Globalstar FM67)                                    Comms      48A
+              Globalstar FM68)                                    Comms      48D
+              Globalstar FM70)                                    Comms      48B
+Oct 23 0439   Kosmos-2430       Molniya          Plesetsk LC16/2  Early Warn 49A
+Oct 23 1538   Discovery   )     Shuttle          Kennedy LC39A    Spaceship  50A
+              Harmony     )                                       Module     50
+Oct 24 1005   Chang'e-1         Chang Zheng 3A   Xichang         Lunar probe 51A
+Oct 26 0735   Kosmos-2431  )    Proton-K/DM2     Baykonur LC81    Navigation 52A
+              Kosmos-2432  )                                      Navigation 52B
+              Kosmos-2433  )                                      Navigation 52C
+Nov  1 0051   SAR-Lupe 3 )      Kosmos-3M        Plesetsk LC132/1 Radar      53A
+              AIS        )                                                   53B
+Nov 11 0150   DSP 23            Delta 4H         Canaveral SLC37B Early Warn 54A
+Nov 11 2248   Yaogan 3          Chang Zheng 4C   Taiyuan          Radar      55A
+Nov 14 2206   Skynet 5B   )     Ariane 5ECA      Kourou ELA3      Comms      56B?
+              Star One C1 )                                                  56A?
+Nov 17 2239   Sirius 4          Proton-M/Briz-M  Baykonur LC200/39 Comms     57A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+

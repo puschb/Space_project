@@ -1,0 +1,222 @@
+Jonathan's Space Report 
+
+No. 157         1993 Jun 14
+------------------------------------------------------------------------------
+
+Proton Failure - ERRATUM
+------------------------
+
+The launch failure of a Gorizont comsat on May 27 turns out to be due to
+the Proton's third stage rather than an upper stage problem. It now
+appears that the spacecraft failed to enter orbit. The UR-500K Proton is
+built by NPO  Mashinostroenie's Krunishchev factory. This is the first
+time the UR-500K has failed to reach orbit since 1986, although there
+have been several upper stage failures since then.
+
+Kosmos-2240
+-----------
+
+The Kosmos-2240 spy satellite, launched on Apr 2, reentered on Jun 7.
+Kosmos-2240 is one of a series of satellites known in the West as '4th
+generation' spy satellites. It appears that, unlike all earlier Soviet
+imaging recon satellites, they do not use the 1959-vintage Vostok
+satellite bus, although they are probably still made by the same
+company, the TsSKB (Central Specialized Design Bureau), formerly a
+subdivision of NPO Energiya. They were introduced in 1975,  and
+originally had a lifetime of 30 days which was a big improvement on the
+Vostok satellites, at that time limited to 15 day missions. Later minor
+improvements increased the lifetime, first to 44 days and then, in 1984,
+to 59 days. The two flights so far this year show a further improvement,
+lasting 65 and 66 days. This modest increase is nevertheless significant
+as the first sign of an upgrade to this satellite class in a decade. By
+my count, Kosmos-2240 is the 107th in the series, although the
+classification of several flights is controversial.
+
+Shuttle
+-------
+
+The launch of STS-57 is now due for June 20. The following launch,
+STS-51, has now slipped to July 17. The new manifest is out; here
+is my own version, concentrating on the major items of cargo.
+(most acronyms explained at the end)
+
+Mission Date      Orbiter    Cargo Type        Cargo Name
+STS-57  1993 Jun  Endeavour  SHAB              Spacehab-1
+                             SL-TA             Spacehab-1
+                             MPESS-GBA         GBA 5
+                             MPESS-HH-M        SHOOT
+                             EURECA            EURECA-1
+
+STS-51  1993 Jul  Discovery  TOS/GE4000        ACTS
+                             ASTRO-SPAS        ORFEUS
+
+STS-58  1993 Aug  Columbia   SL-LM             Spacelab SLS-2
+                             SL-TT,SL-TA       Spacelab SLS-2
+                             EDO               EDO 2
+
+
+STS-60  1993 Nov  Discovery  SHAB              Spacehab 2
+                             SL-TA             Spacehab 2
+                             WSF               Wake Shield Facility
+                             MPESS-GBA         GBA 6
+
+STS-61  1993 Dec  Endeavour  FSS               HST SM-1 
+                             SAC               HST SM-1 (solar panels)
+                             ORUC              HST SM-1 (COSTAR, WFPC2, etc)
+
+STS-62  1994 Feb  Columbia   MPESS             USMP-2 
+                             MPESS             USMP-2 
+                             MPESS HH-M        OAST 2
+                             EDO               EDO 3
+
+STS-59  1994 Mar  Endeavour  SL-PLT            Spacelab SRL-1
+                             MPESS             Spacelab SRL-1
+
+STS-63  1994 May  Discovery  SHAB              Spacehab 3
+                             SL-TA             Spacehab 3
+                             MPESS-SFSS/SEC    Spartan-201
+                             MPESS-HH-M        International EUV/FUV Hitchhiker
+
+STS-65  1994 Jun  Columbia   SL-LM             Spacelab IML-2
+                             SL-TA,SL-TT       Spacelab IML-2
+                             EDO               EDO 4
+
+STS-66  1994 Aug  Endeavour  SL-IG             Spacelab Atlas-3
+                             SL-PLT            Spacelab Atlas-3
+                             ASTRO-SPAS        CRISTA
+
+STS-64  1994 Sep  Discovery  SL-PLT            LITE
+                             MPESS-SFSS/SEC    Spartan-204
+                             MPESS-GBA         GBA 7
+
+STS-67  1994 Nov  Columbia   SL-IG             Spacelab Astro-2
+                             SL-PLT            Spacelab Astro-2
+                             SL-PLT            Spacelab Astro-2
+                             EDO               EDO 5
+
+STS-68  1994 Dec  Atlantis   SL-PLT            Spacelab SRL-2
+                             MPESS             Spacelab SRL-2
+
+STS-69  1995 Jan  Discovery  SHAB              Spacehab 4
+                             SL-TA             Spacehab 4
+                             SPAS              SPAS-3 (BMDO)
+
+STS-70  1995 May  Endeavour  MPESS-HH-M        Int'l EUV/FUV Hitchhiker
+                             MPESS-SFSS/SEC    OAST-Flyer
+                             MPESS-GBA         GBA 8
+                             WSF               Wake Shield Facility
+
+STS-71  1995 Jun  Atlantis   SL-LM             Spacelab-Mir
+                             SL-DM             Mir Docking Module
+                            
+STS-72  1995 Jul  Discovery  IUS/TDRS          TDRS 7
+
+STS-73  1995 Sep  Endeavour  SHAB              Spacehab 5
+                             SL-TA             Spacehab 5
+                             MPESS-SFSS/SEC    Spartan 201
+                             MPESS-HH-M        OAST-3
+                            
+STS-74  1995 Sep  Columbia   SL-LM             Spacelab USML-2
+                             SL-TA,SL-TT       Spacelab USML-2
+                             EDO               EDO 6                           
+
+
+Cargo Types:
+ASTRO-SPAS 2nd generation Shuttle Pallet Satellite built by MBB GmBH
+EDO        Extended Duration Orbiter Pallet
+EURECA     European Retrievable Carrier, to be retrieved from orbit;
+           based on modified SL-PLT
+GE4000     Martin Marietta Astro Space comsat with Star 37FXP apogee motor
+FSS        Flight Servicing Structure
+IUS        Inertial Upper Stage (Orbus 21 and Orbus 6 motors)
+MPESS      Mission-Peculiar Experiment Support Structure, cross-bay truss
+MPESS-GBA  GAS Bridge Assembly, modified MPESS type truss for GAS cans
+MPESS-HH-M Hitchhiker-MSFC, modified MPESS with avionics for experiments
+MPESS-SFSS Spartan Flight Support Structure, modified MPESS type truss
+ORUC       HST Orbital Replacement Unit Carrier
+SAC        HST Solar Array Carrier
+SEC        Spartan Experiment Carrier (deployable satellite)
+SHAB       Spacehab, Inc. pressurized module
+SL-DM      Docking Module for Mir docking mission
+SL-IG      Spacelab Igloo (avionics container)
+SL-LM      Spacelab Long Module. 
+SL-PLT     Spacelab Pallet
+SL-TA      Spacelab Airlock Tunnel Adapter
+SL-TT      Spacelab Transfer Tunnel
+TOS        Transfer Orbit Stage based on Orbus 21 motor
+WSF        Wake Shield Facility (deployable experiment)
+
+
+Selected payload acronyms:
+
+ACTS       Advanced Communications Technology Satellite
+GBA        Getaway-Special (GAS) Bridge Assembly with ~10 GAS cans
+HST SM     Hubble Space Telescope Servicing Mission
+IML        International Microgravity Lab
+ORFEUS     Orbiting and Retrievable Far and Extreme UV Spectrometer
+SHOOT      Superfluid Helium On Orbit Transfer experiment
+SLS        Spacelab Life Sciences
+SRL        Space Radar Lab
+USMP       US Microgravity Payload
+
+--------------------------------------------------------------------------------
+
+Launches
+
+
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+May 11 1450?    Kosmos-2245 )   Tsiklon         Plesetsk        Comsat     30A
+                Kosmos-2246 )                                              30B
+                Kosmos-2247 )                                              30C
+                Kosmos-2248 )                                              30D
+                Kosmos-2249 )                                              30E
+                Kosmos-2250 )                                              30F
+May 12 0056     Astra 1C   )    Ariane 42L      Kourou          Comsat     31A
+                Arsene     )                                    Comsat     31B
+May 13 0007     Navstar GPS 37  Delta 7925      Canaveral       Navsat     32A
+May 21 0920?    Resurs-F2       Soyuz           Plesetsk        Remote Sens. 33A
+May 22 0645?    Progress M-18   Soyuz           Baykonur        Cargo      34A
+May 26 0335?    Molniya-1       Molniya         Plesetsk        Comsat     35A
+May 27          Gorizont        Proton          Baykonur        Comsat     FTO
+
+Reentries
+---------
+
+May  6          Kosmos-2243     Reentered
+May  6          Columbia        Landed at Edwards AFB
+May 20          Molniya-1(37)   Reentered
+Jun  7          Kosmos-2240     Landed in Kazakhstan?
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-58
+OV-103 Discovery       OPF Bay 3     STS-51
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LC39B         STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1?/RSRM-33/ET-59       VAB Bay 1   STS-51
+ML2/RSRM-32/ET-58/OV-105 LC39B       STS-57
+ML3/                     
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+

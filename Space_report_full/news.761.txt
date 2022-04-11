@@ -1,0 +1,399 @@
+Jonathan's Space Report 
+No. 761                                                         2019 Feb 24 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+[Post publication errata:
+  1. Spaceship Two mission id is VF-01, not VP-04  (Thanks to NP for that info).
+  2. MySat-1 is from Abu Dhabi, not Malaysia. Oops.
+]
+
+
+Spaceship Two
+-------------
+
+Virgin Galactic's Spaceship Two VSS Unity made its second spaceflight on
+Feb 22. Takeoff of the White Knight Two carrier plane, VMS Eve, on
+mission WK2-265/SS2-16 was around 1605 UTC from Mojave Air and Space
+Port. Aboard VSS Unity were pilots Dave Mackay and Mike Masucci, and
+third flight crew member Beth Moses (Chief Trainer for VG).
+
+WK2 flew north to Owens Lake, west to Overlook Mountain in the Sierra
+Nevada and then south to the drop point near Kelso Valley Airport. At
+about 1653 UTC, at an altitude of 13.4 km, WK2 dropped VSS Unity.
+Unity's hybrid RM2 rocket motor fired and boosted it to an apogee of
+89.9 km; Unity then glided to touchdown on the Mojave runway RW12/30.
+
+International Space Station
+---------------------------
+
+Expedition 58 remains underway.
+
+On Jan 30 the Nanoracks NRCSD-15 cubesat package, launched on Dragon
+CRS-16, was attached to the MPEP platform. The next day the
+NRCSD-15/MPEP was pulled out of the Kibo airlock by the JEM RMS robot
+arm and its contents ejected into orbit over a period of six hours:
+
+ APL's CAT-1 and CAT-2 Cubesat Assessment and Test, two 3U cubesats with experimental signal processing payloads
+   for an unidentified US Department of Defense organization;
+ Aarhus University's 1U student cubesat Delphini 1, with a NanoEye Earth imager;
+ The University of Southern Indiana's UNITE 1U student cubesat, with a Langmuir  
+   probe to measure ionospheric electron density;
+ The San Jose State Univ/NASA-Ames TechEdSat-8, which will deploy a controllable drag brake
+   to target reentry as part of an ongoing program to attempt recovery of cubesat payloads from orbit.
+
+On Feb 7 the Slingshot deployer, launched aboard Dragon CRS-16, was mounted
+on the nose of Cygnus NG-10, currently berthed on the Unity node. Slingshot was devloped
+by SEOPS LLC, now part of Hypergiant Galactic of Houston.
+
+On Feb 8 at about 1345 UTC the Cygnus NG-10 (S.S. John Young) was
+unberthed from the Unity node and at 1616 UTC it was released into
+orbit. After departing ISS, the cargo ship SS John Young was in a 405 x
+418 km orbit slightly above the station. By 2130 UTC it had made two
+burns to raise orbit to 453 x 460 km im preparation for cubesat deploys.
+
+Cygnus/Slingshot deployed the Hypergiant Galactic/SEOPS
+Quantum Radar 1 and 2 cubesats at 0000:00 UTC on Feb 9.
+On Feb 13 at 1200 the Cygnus Nanoracks NRCSD-E deployer ejected Malaysia's MySat 
+and NRL's CHEFSAT 2. CHEFSAT-2's mission is to space-qualify consumer-grade
+E-band (mm-wave) devices.   
+
+Later on Feb 13, Cygnus made a further series of burns to lower its orbit to only
+293 x 306 km, below the ISS, and at 2245 UTC the NRCSD-E ejected KickSat-2,
+which contains over 100 small 5-gram Sprite chipsats. It is unclear when and if the
+Sprites will be ejected from Kicksat-2; the Kicksat-2 beacon has been detected
+but is very weak and it appears its antenna did not deploy correctly.
+
+(Thanks to NG Cygnus team and Nanoracks for the Cygnus cubesat deployment times.)
+
+
+HISTORICAL QUERY - SKYNET IA
+----------------------------
+
+I'm putting out this call on behalf of Stuart Eves, who is researching the British military
+communications satellite program Skynet I. The Skynet IA satellite was launched in 1969
+and there are excellent UK (RAE) records of its operations, including orbit manuevers, up to 1974,
+at which point it remained over the Indian Ocean.
+However, we know that in circa 1976 it was moved to 105W, a GEO stable position in whose
+vicinity it has remained until the present. But we have no records of this move; we suspect
+the satellite was turned back to the manufacturer Philco (later Ford Aerospace, then SS/Loral,
+now Maxar) and was moved by them back over the US for end-of-life testing. Do any readers
+have knowledge of this, or perhaps contacts who worked at Philco-Ford/Ford Aerospace in the 1970s
+who might have relevant memories and/or documents in their garage? If so, please get in touch!
+
+
+Hayabusa-2 
+----------
+
+The Hayabusa-2 probe in the vicinity of (162173) Ryugu already deposited
+three rover-landers on the asteroid, but on Feb 20 Japan began an
+attempt to land the main probe itself momentarily on the surface in a
+touch-and-go operation to collect an asteroid surface sample. The
+landing attempt was designated TD1-L08E1; L08E1 is the designation of
+the target landing site.  Hayabusa-2 began its descent at around 0415
+UTC Feb 21 and reached the surface at about 2230 UTC. It fired a
+projectile into the surface, which - it is hoped - kicked up asteroidal
+material into the probe's sample collector; and then immediately
+took off again to return towards the 20 km home point.
+
+
+SSO-A
+-----
+
+Elysium Star 2 is apparently an attached payload on the SSO-A LFF. It is
+also reported that ENOCH failed to separate, possibly also from the LFF.
+A new object cataloged on Feb 1 may be SEE-ME, which was designed to be
+ejected from the eXCITe payload.
+
+Dousti
+------
+
+Iran's second orbital attempt, and second failure, of the year came on
+Feb 5 with the older Safir rocket, carrying a small satellite named
+Dousti. US reports indicate the launch failed `early in flight', at 140s
+- which should be just before stage 1 separation.
+
+Ariane VA247
+------------
+
+Ariane flight VA247, probably vehicle L5106, flew from Kourou on Feb 5
+to a 3.0 deg geotransfer orbit, delivering two communications
+satellites. GSAT-31 is an ISRO I2K satellite for the Indian Air Force
+with a launch mass of 2536 kg; Saudi GeoSat 1, also known as
+HellasSat-4, is a Lockheed Martin A2100TR  satellite with a launch mass
+of 6495 kg, owned by Arabsat and its Greek HellasSat subsidiary. It
+carries a Ka-band comms payload for the Saudi technology agency KACST,
+and a Ku-band payload for HellasSat.
+
+
+Egyptsat-A
+-----------
+
+Egyptsat-A (MisrSat-A) was launched on Feb 21 by a Soyuz from Baykonur
+into an 0950 LTDN sun-synchronous orbit.
+The satellite, built by Energiya for Egypt's national remote sensing
+agency, replaces the similar EgyptSat-2 which failed in 2015.
+
+Nusantara Satu
+---------------
+
+Nusantara Satu is a Maxar SS/L-1300 C/Ku-band satellite for Indonesian
+telecom operator PT Pasific Satellit Nusantara. It was launched on a
+Falcon 9 from Canaveral's SLC40.  Falcon 9 B1048 became the second F9
+first stage to make a third flight; it landed successfully on the OCISLY
+droneship and is expected to fly again on a Dragon abort test a few
+months from now.
+
+Nusantara Satu, previously known as PSN 6, is the second SS/L-1300
+satellite to carry an attached subsatellite; the Hispasat 30W-6 mission
+carried PODSAT, which was ejected in transfer orbit. This mission
+carries S5, a space surveillance satellite for the US Air Force Research
+Lab. S5 will stay attached to the host satellite until it reaches
+geostationary orbit, and then separate.
+
+The Falcon 9 second stage delivered its payloads to a 69000 km
+apogee supersynchronous transfer orbit.
+
+Beresheet
+---------
+
+The Beresheet lunar lander, from the Israeli group SpaceIL, was mounted
+on top of Nusantara Satu and separated from the Falcon 9 stack before
+it. SpaceIL plans to use Beresheet's own propulsion system to raise its
+apogee to lunar distance, then enter lunar orbit and eventually land on
+the surface. Beresheet is 585 kg full 150 kg dry.
+
+
+Erratum
+-------
+
+Kalamsat-v2 was a 1 kg cubesat attached to the PSLV-DL PS4 stage. The 0.064 kg femtosat
+version was Kalamsat-v1, launched on sounding rocket NASA 41.121UO in 2017.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Dec  3 1131   Soyuz MS-11           R-7           Baykonur LC1            Spaceship   98A   S43756   200 x   239 x 51.6
+Dec  3 1834   SSO-A UFF     )       Falcon 9      Vandenberg SLC4E        Tech        99F   S43763   574 x   590 x 97.8 1017LT SSO
+              SSO-A LFF     )                                             Tech        99C   S43760   574 x   590 x 97.8 1017LT SSO
+              Eu:CROPIS     )                                             Rem.Sensing 99BB  S43807   574 x   590 x 97.8 1017LT SSO
+              SkySat C12    )                                             Imaging     99AR  S43797   574 x   590 x 97.8 1017LT SSO
+              SkySat C13    )                                             Imaging     99AW  S43802   574 x   590 x 97.8 1017LT SSO
+              STPSat 5      )                                             Tech        99E   S43762   574 x   590 x 97.8 1017LT SSO
+              KazSTSat      )                                             Imaging     99AB  S43783   574 x   590 x 97.8 1017LT SSO
+              NEXTSat-1     )                                             IR Astron   99BF  S43811   574 x   590 x 97.8 1017LT SSO
+              eXCITe        )                                             Tech        99BP  S43819   574 x   590 x 97.8 1017LT SSO
+              ICEYE-X2      )                                             Radar       99D   S43761   574 x   590 x 97.8 1017LT SSO
+              Global-2      )                                             Imaging     99BG  S43812   574 x   590 x 97.8 1017LT SSO
+              FalconSat-6   )                                             Tech        99BK  S43815   574 x   590 x 97.8 1017LT SSO
+              ESEO          )                                             Tech        99AL  S43792   574 x   590 x 97.8 1017LT SSO
+              Hawk A        )                                             Elint       99H   S43765   574 x   590 x 97.8 1017LT SSO
+              Hawk B        )                                             Elint       99AN  S43794   574 x   590 x 97.8 1017LT SSO
+              Hawk C        )                                             Elint       99AT  S43799   574 x   590 x 97.8 1017LT SSO
+              Flock 3s-1    )                                             Imaging     99N   S43770   574 x   590 x 97.8 1017LT SSO
+              Flock 3s-2    )                                             Imaging     99BR  S43821   574 x   590 x 97.8 1017LT SSO
+              Flock 3s-3    )                                             Imaging     99AG  S43788   574 x   590 x 97.8 1017LT SSO
+              AISTechSat-2  )                                             Imaging/Com 99L   S43768   574 x   590 x 97.8 1017LT SSO
+              Hiber-2       )                                             Comms       99S   S43774   574 x   590 x 97.8 1017LT SSO
+              Landmapper-BC4)                                             Imaging     99K   S43767   574 x   590 x 97.8 1017LT SSO
+              VESTA         )                                             Comms       99Z   S43781   574 x   590 x 97.8 1017LT SSO
+              Yukon         )                                             Comms       99BC  S43808   574 x   590 x 97.8 1017LT SSO
+              Kodiak        )                                             Comms       99G   S43764   574 x   590 x 97.8 1017LT SSO
+              SpaceBEE 5    )                                             Comms       99BM  S43817   574 x   590 x 97.8 1017LT SSO
+              SpaceBEE 6    )                                             Comms       99BN  S43818   574 x   590 x 97.8 1017LT SSO
+              SpaceBEE 7    )                                             Comms       99BL  S43816   574 x   590 x 97.8 1017LT SSO
+              Orbweaver 1   )                                             Tech        99AP  S43795   574 x   590 x 97.8 1017LT SSO
+              Orbweaver 2   )                                             Tech        99AD  S43785   574 x   590 x 97.8 1017LT SSO
+              ITASAT-1      )                                             Tech        99AE  S43786   574 x   590 x 97.8 1017LT SSO
+              Eaglet 1      )                                             Imaging     99AJ  S43790   574 x   590 x 97.8 1017LT SSO
+              Al Farabi 2   )                                             Comms       99AZ  S43805   574 x   590 x 97.8 1017LT SSO
+              Denali        )                                             Radar       99AK  S43791   574 x   590 x 97.8 1017LT SSO
+              KazSciSat     )                                             Tech        99AB  S43783   574 x   590 x 97.8 1017LT SSO
+              MinXSS 2      )                                             Solar X     99A   S43758   574 x   590 x 97.8 1017LT SSO
+              SNUSAT 2      )                                             Imaging     99AA  S43782   574 x   590 x 97.8 1017LT SSO
+              SNUGLITE      )                                             Tech/Comms  99AC  S43784   574 x   590 x 97.8 1017LT SSO
+              PW-Sat 2      )                                             Tech        99BJ  S43814   574 x   590 x 97.8 1017LT SSO
+              RANGE A       )                                             Tech        99Q   S43772   574 x   590 x 97.8 1017LT SSO
+              RANGE B       )                                             Tech        99R   S43773   574 x   590 x 97.8 1017LT SSO
+              CSIM-FD       )                                             Tech        99AM  S43793   574 x   590 x 97.8 1017LT SSO
+              MOVE 2        )                                             Tech        99Y   S43780   574 x   590 x 97.8 1017LT SSO
+              Suomi-100     )                                             Tech        99AY  S43804   574 x   590 x 97.8 1017LT SSO
+              Elysium Star 2)                                             Burial      99C   S43760   574 x   590 x 97.8 1017LT SSO
+              ENOCH         )                                             Art         99V   S43777   574 x   590 x 97.8 1017LT SSO
+              Fox-1C (AO-95))                                             Comms       99N   S43770   574 x   590 x 97.8 1017LT SSO
+              JY1SAT (JO-97))                                             Comms       99AX  S43803   574 x   590 x 97.8 1017LT SSO
+              Astrocast-0.1 )                                             Comms       99AS  S43798   574 x   590 x 97.8 1017LT SSO
+              SeaHawk       )                                             Imaging     99BQ  S43820   574 x   590 x 97.8 1017LT SSO
+              Audacy Zero   )                                             Comms       99             574 x   590 x 97.8 1017LT SSO
+              SIRION PF 2   )                                             Comms       99             574 x   590 x 97.8 1017LT SSO
+              BRIO          )                                             Tech        99             574 x   590 x 97.8 1017LT SSO
+              Centauri 1    )                                             Comms       99             574 x   590 x 97.8 1017LT SSO
+              K2SAT         )                                             Imaging/Com 99             574 x   590 x 97.8 1017LT SSO
+              Orbital Reflector)                                          Art         99             574 x   590 x 97.8 1017LT SSO
+              RAAF M1       )                                             Comms       99             574 x   590 x 97.8 1017LT SSO
+              THEA          )                                             Sigint      99             574 x   590 x 97.8 1017LT SSO
+              Blackhawk     )                                             Comms       99             574 x   590 x 97.8 1017LT SSO
+              VisionCube    )                                             Atmos Sci   99             574 x   590 x 97.8 1017LT SSO
+              Exseedsat-1 (VO-96))                                        Comms       99             574 x   590 x 97.8 1017LT SSO
+              KNACKSAT      )                                             Tech        99             574 x   590 x 97.8 1017LT SSO
+              WeissSat 1    )                                             Tech        99             574 x   590 x 97.8 1017LT SSO
+              IRVINE02      )                                             Tech        99             574 x   590 x 97.8 1017LT SSO
+              DoD Cube 2A   )                                             Comms?      99             574 x   590 x 97.8 1017LT SSO
+              DoD Cube 2B   )                                             Comms?      99             574 x   590 x 97.8 1017LT SSO
+              DoD Cube 2C   )                                             Comms?      99             574 x   590 x 97.8 1017LT SSO
+Dec  4 2037   GSAT-11        )      Ariane 5ECA   Kourou ELA3             Comms      100A?  S43823   245 x 35741 x  3.5
+              Geo-Kompsat 2A )                                            Comms      100B?  S43824   250 x 35742 x  3.5
+Dec  5 1816   Dragon CRS-16         Falcon 9      Canaveral SLC40         Cargo      101A   S43827   204 x   358 x 51.6
+Dec  7 0412   SaudiSat-5A  )        Chang Zheng 2D Jiuquan                Tech       102A   S43831   535 x   551 x 97.6 1030LT SSO
+              SaudiSat-5B  )                                              Tech       102C   S43833   535 x   551 x 97.6 1030LT SSO
+              TY/DF-1      )                                              Tech       102B?  S43832?  535 x   551 x 97.6 1030LT SSO
+              TFSTAR       )                                              Comms      102D?  S43834?  535 x   551 x 97.6 1030LT SSO
+              Xinjiang Jiaotong--01)                                      Comms      102E?  S43835?  535 x   551 x 97.6 1030LT SSO
+              Piao chong 1 )                                              Comms      102F?  S43836?  535 x   551 x 97.6 1030LT SSO
+              Piao chong 2 )                                              Comms      102G?  S43837?  535 x   551 x 97.6 1030LT SSO
+              Piao chong 3 )                                              Comms      102H?  S43838?  535 x   551 x 97.6 1030LT SSO
+              Piao chong 4 )                                              Comms      102J?  S43839?  535 x   551 x 97.6 1030LT SSO
+              Piao chong 5 )                                              Comms      102K?  S43840?  535 x   551 x 97.6 1030LT SSO
+              Piao chong 6 )                                              Comms      102L?  S43841?  535 x   551 x 97.6 1030LT SSO
+              Piao chong 7 )                                              Imaging    102M?  S43842?  535 x   551 x 97.6 1030LT SSO
+Dec  7 1823   Chang'e 4   )         Chang Zheng 3B  Xichang              Lunar probe 103A   S43845   200 x 420000x 29.4
+              Lunar rover )                                              Lunar rover 103    A09236   200 x 420000x 29.4
+Dec 16 0633   Albus            )                                          Tech       104             489 x   511 x 85.0
+              CeReS            )                                          Science    104             489 x   511 x 85.0
+              CHOMPTT          )    Electron        Mahia                 Tech       104G   S43855   489 x   511 x 85.0
+              Cubesail         )                                          Tech       104             489 x   511 x 85.0
+              DaVinci          )                                          Education  104J   S43857   489 x   511 x 85.0
+              ISX-CP11         )                                          Science    104H   S43856   489 x   511 x 85.0
+              NMTSat           )                                          Science    104             489 x   511 x 85.0
+              RSat-P           )                                          Tech       104             489 x   511 x 85.0
+              Shields          )                                          Tech       104B   S43850   489 x   511 x 85.0
+              STF-1            )                                          Science    104D   S43852   495 x   516 x 85.0
+              Goergen (SHFT-1) )                                          Rad Astron 104M   S43860   496 x   511 x 85.0
+              AC11-Eagle Scout )                                          Imaging    104N   S43861   490 x   515 x 85.0
+              AC11-R3          )                                          Imaging    104A   S43849   490 x   515 x 85.0
+Dec 19 1040   GSAT-7A               GSLV Mk II      Sriharikota           Comms      105A   S43864   145 x 38932 x 19.4
+Dec 19 1637   CSO-1                 Soyuz ST-A      CSG ELS               Imaging    106A   S43866   800?x   800?x 98?
+Dec 21 0020   Kosmos-2533           Proton-M        Baykonur              Comms      107A   S43867 35421 x 35802 x  0.2 
+Dec 21        SEDA-AP                               ISS, LEO              Science   98067PU S43870   401 x   408 x 51.6
+Dec 21 2351   Honygun GJYW          Chang Zheng 11  Jiuquan               Comms      108A   S43871  1065 x  1072 x 99.9 0600LT SSO
+Dec 23 1351   GPS III SV01          Falcon 9        Canaveral SLC40       Navigation 109A   S43873  1192 x 20199 x 55.0 
+Dec 24 1653   TJS 3        )        Chang Zheng 3C  Xichang               Tech?      110A   S43874 35777 x 35796 x  0.1 GEO 59E
+              TJS 3 subsat )                                              Tech       110C   S43917 35782 x 35793 x  0.1 GEO 59E
+Dec 27 0207   Kanopus-V No. 5   )   Soyuz-2-1A/Fregat Vostochniy          Imaging    111A   S43876   504 x   511 x 97.5 2322LT SSO
+              Kanopus-V No. 6   )                                         Imaging    111B   S43877   499 x   511 x 97.5 2322LT SSO
+              GRUS 1            )                                         Imaging    111    S43878   486 x   562 x 97.6 2322LT SSO
+              UWE-4             )                                         Tech       111E   S43880   571 x   587 x 97.3
+              D-Star ONE Sparrow   )                                      Tech/Comms 111F   S43881   571 x   583 x 97.3
+              iSat                 )                                      Comms      111D   S43879   571 x   583 x 97.3
+              Lemur-2-RemyColton   )                                      Met/Comms  111J   S43884   571 x   583 x 97.3
+              Lemur-2-Gustavo      )                                      Met/Comms  111K   S43885   571 x   583 x 97.3
+              Lemur-2-ChristinaHolt)                                      Met/Comms  111G   S43882   571 x   583 x 97.3
+              Lemur-2-Zo           )                                      Met/Comms  111L   S43886   571 x   583 x 97.3
+              Lemur-2-TinyKev      )                                      Met/Comms  111H   S43883   571 x   583 x 97.3
+              Lemur-2-SarahBettyBoo)                                      Met/Comms  111N   S43888   571 x   583 x 97.3
+              Lemur-2-NatalieMurray)                                      Met/Comms  111M   S43887   571 x   583 x 97.3
+              Lemur-2-DaisyHarper  )                                      Met/Comms  111P   S43889   571 x   583 x 97.3
+              ZACube-2          )                                         Comms      111    S43891?  495 x   515 x 97.30
+              Lume-1            )                                         Comms      111AJ  S43908   480 x   512 x 97.30
+              Flock 3k-1/Dove 1062 )                                      Imaging    111U   S43894   480 x   512 x 97.30
+              Flock 3k-2/Dove 106c )                                      Imaging    111V   S43895   480 x   512 x 97.30
+              Flock 3k-3/Dove 1068 )                                      Imaging    111S   S43892   480 x   512 x 97.30
+              Flock 3k-4/Dove 1063 )                                      Imaging    111T   S43893   480 x   512 x 97.30
+              Flock 3k-5/Dove 1067 )                                      Imaging    111Z   S43899   480 x   512 x 97.30
+              Flock 3k-6/Dove 1069 )                                      Imaging    111W   S43896   480 x   512 x 97.30
+              Flock 3k-7/Dove 106a )                                      Imaging    111AC  S43902   480 x   510 x 97.30
+              Flock 3k-8/Dove 106b )                                      Imaging    111AB  S43901   480 x   510 x 97.30
+              Flock 3k-9/Dove 1065 )                                      Imaging    111AG  S43906   480 x   510 x 97.30
+              Flock 3k-10/Dove 106d)                                      Imaging    111AF  S43905   480 x   510 x 97.30
+              Flock 3k-11/Dove 106e)                                      Imaging    111AE  S43904   480 x   510 x 97.30
+              Flock 3k-12/Dove 106f)                                      Imaging    111AD  S43903   480 x   509 x 97.30
+Dec 29 0800   Chongqing   )          Chang Zheng 2D/YZ3  Jiuquan          Comms      112F   S43914   515 x   525 x 50.0
+              Yunhai-2 01 )                                               Meteo      112A   S43909   515 x   525 x 50.0
+              Yunhai-2 02 )                                               Meteo      112B   S43910   515 x   525 x 50.0
+              Yunhai-2 03 )                                               Meteo      112C   S43911  1088 x  1098 x 50.0
+              Yunhai-2 04 )                                               Meteo      112D   S43912  1090 x  1099 x 50.0
+              Yunhai-2 05 )                                               Meteo      112E   S43913  1091 x  1100 x 50.0
+              Yunhai-2 06 )                                               Meteo      112G   S43915  1092 x  1100 x 50.0
+Jan 10 1711   Zhongxing-2D           Chang Zheng 3B      Xichang          Comms      01A    S43920   181 x 35818 x 27.1 
+Jan 11 1531   Iridium SV167  )       Falcon 9            Vandenberg SLC4E Comms      02K    S43931   611 x   623 x 86.7
+              Iridium SV168  )                                            Comms      02C    S43924   611 x   623 x 86.7
+              Iridium SV169  )                                            Comms      02E    S43926   611 x   623 x 86.7
+              Iridium SV170  )                                            Comms      02J    S43930   611 x   623 x 86.7
+              Iridium SV171  )                                            Comms      02H    S43929   611 x   623 x 86.7
+              Iridium SV172  )                                            Comms      02F    S43927   611 x   623 x 86.7
+              Iridium SV173  )                                            Comms      02D    S43925   611 x   623 x 86.7
+              Iridium SV175  )                                            Comms      02G    S43928   611 x   623 x 86.7
+              Iridium SV176  )                                            Comms      02B    S43923   611 x   623 x 86.7
+              Iridium SV180  )                                            Comms      02A    S43922   611 x   623 x 86.7
+Jan 15 0030   Payam                  Simorgh             Khomeini SC      Comms/Imag F01    F01532 -2600?x   500?x 55.0
+Jan 18 0050   RAPIS         )        Epsilon             Uchinoura        Tech       03     S43932   498 x   510 x 97.3 0932LT SSO
+              RiseSat       )                                             Tech       03C    S43934   490 x   513 x 97.3 0932LT SSO
+              MicroDragon   )                                             Tech       03D    S43935   491 x   511 x 97.3 0932LT SSO
+              OrigamiSat-1 (FO-98))                                       Tech       03B    S43933   489 x   513 x 97.3 0932LT SSO
+              Aoba-VELOX IV )                                             Tech       03J    S43940   481 x   512 x 97.3 0932LT SSO
+              Nexus (FO-99) )                                             Tech       03F    S43937   480 x   512 x 97.3 0932LT SSO
+              ALE-1         )                                             Tech       03G    S43938   480 x   513 x 97.3 0932LT SSO
+Jan 19 1910   USA 290                Delta 4 Heavy       Vandenberg SLC6  Imaging    04A    S43941   395 x   420 x 73.6
+Jan 21 0542   Jilin Lincao 1     )   Chang Zheng 11      Jiuquan          Imaging    05B    S43943   516 x   540 x 97.5 1200LT SSO
+              Wenchang Chaosuan 1)                                        Imaging    05E    S43946   517 x   539 x 97.5 1200LT SSO
+              Qingteng Zhi Xing  )                                        Imaging    05C    S43944   523  x  539 x 97.5 1200LT SSO
+              Lingque 1 A xing   )                                        Imaging    05A    S43942   516 x   539 x 97.5 1200LT SSO
+Jan 24 1807   Microsat-R )           PSLV-DL             Satish Dhawan FLP Imaging   06A    S43947   265 x   279 x 96.5 2340LT SSO
+              Kalamsat-v2)                                                 Tech      06B    S43948   448 x   452 x 98.7 2340LT SSO
+Jan 31 1025   CAT-1 )                                    ISS, LEO          Tech     9867PV? S44029?  402 x   408 x 51.6
+              CAT-2 )                                                      Tech     9867PW? S44030?  402 x   408 x 51.6
+Jan 31 1200   Delphini 1                                 ISS, LEO          Imaging  9867PX? S44031?  402 x   408 x 51.6
+Jan 31 1340   UNITE                                      ISS, LEO          Science  9867PY? S44032?  402 x   408 x 51.6
+Jan 31 1645   TechEdSat-8                                ISS, LEO          Tech     9867PZ? S44032?  402 x   408 x 51.6
+Feb  1?       SeeMe?                                     EXCITE, LEO     Imaging     99BS   S43822   571 x   594 x 97.8 1017LT SSO
+Feb  5        Dousti                 Safir               Semnan          Imaging      F02   F01533 -6000?x    10?x 55.0
+Feb  5 2101   Saudi Geosat 1 )       Ariane 5ECA         Kourou ELA3       Comms      07A   S44034   242 x 35770 x  3.0
+              GSAT-31        )                                             Comms      07B   S44035   245 x 35841 x  3.0
+Feb  9 0000   Quantum Radar 1 )                        Cygnus NG10,LEO     Tech     18092C  S44041   455 x   459 x 51.6 
+              Quantum Radar 2 )                                            Tech     18092D  S44042   457 x   457 x 51.6 
+Feb 13 1200   MySat-1  )                               Cygnus NG10,LEO     Tech     18092E  S44044?  455 x   471 x 51.6  
+              CHEFSAT-2 )	                                           Tech     18092F  S44045?  455 x   471 x 51.6  
+Feb 13 2245   Kicksat-2                                Cygnus NG10,LEO     Tech     18092G  S44046   297 x   306 x 51.6
+Feb 21 1647   EgyptSat-A             Soyuz-2-1b/Fregat   Baykonur LC31     Imaging    08A   S44047   652 x   656 x 98.0 0950LT SSO
+Feb 22 0145   Nusantara Satu  )      Falcon 9            Canaveral SLC40   Comms      09A   S44048   226 x 69068 x 27.6
+              S5              )                                            Imaging    09D?  Attached to Nusantara Satu
+              Beresheet       )                                           Lunar probe 09B   S44049   242 x 68845 x 27.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Dec 13 1600   VSS Unity VP03    Spaceship Two      Kelso Valley          Test           82.7     Mojave
+Dec 18 0746   DEUCE 2           Black Brant IX     White Sands           UV Astron     282       White Sands
+Dec 23        Nudol' KV         Nudol'             Plesetsk              Test          500?      Laptev Sea
+Dec 26 0959   Avangard          UR-100NU           Yasniy                Test         1000?      Kura
+Jan  4 0927   CAPER-2           Black Brant XIIA   Andoya                Magnetosphere 774       Norwegian Sea
+Jan 13 0913   G-CHASER          Terrier Imp.Malemute Andoya              Atmosphere    174       Norwegian Sea
+Jan 22        Arrow Target      Silver Sparrow?    F-15, Med. Sea?       Target        200?      Med. Sea
+Jan 22        Arrow KV          Arrow 3            Palmachim             Interceptor   200?      Intercept
+Jan 23 1405   New Shepard CC2   New Shepard        West Texas            Test          107       West Texas
+Feb  6 0701   Mk 21 RV/FTU-1    Minuteman 3        Vandenberg            Test         1300?      Pacific Ocean
+Feb  6 0831   Yars RV           Yars               Plesetsk              Test         1300?      Kura
+Feb 22 1654   VSS Unity VP04?   Spaceship Two      Kelso Valley          Test           89.9     Mojave
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+</PRE>
+<HR>
+<A HREF="http://planet4589.org/space/space.html">Jonathan's Space Home Page</A>
+<P>
+<A HREF="http://planet4589.org/jcm/jmcdowell.html">Jonathan's Home Page</A>
+</BODY>
+
+

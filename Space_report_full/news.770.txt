@@ -1,0 +1,225 @@
+Jonathan's Space Report 
+No. 770                                                        2019 Oct 19   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+IAC 2019
+--------
+
+I'll be at the IAC 2019 conference in Washington, D.C. I hope to meet some of you there!
+
+Catalog of Deep Space Objects
+-----------------------------
+
+The US satellite catalog is pretty comprehensive for artificial objects
+in Earth orbit below an altitude of 50,000 km. Beyond that it is less
+reliable, and beyond 150,000 km it is seriously incomplete. At 150,000
+km lunar perturbations are large enough that Keplerian orbits stop being
+a good long term approximation.
+
+No-one is officially responsible for knowing what hardware is in
+heliocentric orbit or on the other planets, despite the planetary
+protection concerns. 
+
+As a start to fixing that, I present version 1.0 of DEEPCAT, the Catalog
+of Deep Space Objects:
+
+ https://planet4589.org/space/deepcat/index.html
+
+
+International Space Station
+---------------------------
+
+Expedition 61 began at 0737 UTC on Oct 3.
+
+On Sep 24 the 8th H-II Transfer Vehicle (HTV), Kounotori 8 (HTV-8), was
+placed in LEO by an H-IIB vehicle from Tanegashima. It carries another
+set of replacement batteries for the station truss. HTV-8 arrived at the
+station on Sep 28; it was grappled by Canadarm-2 at 1112 UTC and berthed
+on the Harmony nadir port at 1409 UTC.
+
+On Sep 25 astronauts Oleg Skripochka (Roskosmos), Jessica Meir (NASA), and
+Hazza al Mansouri (United Arab Emirates) were launched into orbit aboard Soyuz MS-15
+(Soyuz spacecraft 744). The launch vehicle was Soyuz-FG No. 71, the last of the Soyuz-FG
+series. Future missions will use the Soyuz-2 series rockets.
+
+Soyuz MS-15 docked with the ISS Zvezda module at 1942 UTC Sep 25 after a 5 hour 45 min flight.
+
+On Sep 29-Oct 1 the Canadarm-2 and the JEM RMS arm were used to move the Exposed Pallet EP-8
+from HTV-8 to the Mobile Base System POA, and to move EP-7 from the POA to HTV-8.
+EP-7 had been stored on the POA for the past year.
+
+On Oct 3 at 0737 UTC Soyuz MS-12 undocked from the Rassvet module with astronauts Ovchinin,
+Hague and Al Mansoori. Soyuz fired its deorbit engine at 1006 UTC; the three modules
+separated at 1034 UTC, and the descent module landed near 47 24N 69 34E in Kazakhstan
+at 1059 UTC.
+
+On Oct 4 the Canadarm-2 took EP-8 off the POA again and moved it next to
+the P6 truss in preparation for spacewalk operations. On Oct 6
+astronauts Koch and Morgan, in roles EV-1 and EV-2 and using suits 3004 and 3008 respectively, carried
+out US EVA-56. The Quest airlock was depressurized at 1132 UTC and the hatch was
+opened at 1138 UTC.  The astronauts then made the following transfers:
+  NiH battery 0087 was removed from P6 IEA 2B slot 1 at 1306 UTC and installed on EP8 Slot X at 1339 UTC.
+  Li-ion battery 0015 was moved from EP8 Slot A to P6 IEA 2B slot 1 from 1406 to 1422 UTC
+  NiH battery 0093 was moved from P6 IEA 2B slot 2 to EP8 Slot A from 1444 to 1530 UTC.
+  Adapter plate SN09 (?) was moved from EP8 Slot A to P6 IEA 2B slot 2 from 1522 to 1550 UTC.
+  NiH battery 0096 was moved from P6 IEA 2B slot 3 to slot 2, on top of the adapter plate, from 1610 to 1616 UTC.
+  Li-ion battery 0005 was moved from EP8 Slot B to P6 IEA 2B slot 3 from 1648 to 1716 UTC.
+The astronauts then returned to the airlock with hatch closure at 1835 UTC and repressurization at 1840 UTC.
+
+On Oct 11 US EVA-57 featured Koch and Morgan, this time swapping roles as EV-2 and EV-1. 
+Quest was depressurized from 1134 to 1823 UTC and the hatch was open from 1137 UTC to 1814 UTC.
+During the spacewalk:
+  NiH battery 0099 was moved from P6 2B slot 4 to EP8 slot B from 1230 to 1312 UTC.
+  Adapter plate SN10? was moved from EP8 slot B to P6 2B slot 4 from 1304 to 1317 UTC.
+  NiH battery 0100 was moved from P6 2B slot 6 to the adapter plate in slot 4 from 1350 to 1354 UTC.
+  Li-ion battery SN17 was moved from EP8 slot D to P6 2B slot 6 from 1421 to 1438 UTC.
+  NiH battery 0097 was moved from P6 2B slot 5 to EP8 slot D from 1503 to 1550 UTC.
+  Adapter plate SN12 was moved from EP8 slot D to P6 2B slot 5 from 1543 to 1553 UTC.
+This completed the work on P6's 2B side, with three Li-ion batteries and 3 adapter plates installed,
+four NiH batteries moved to the EP for disposal and two NiH batteries stored on top of adapter plates.
+
+Following the failure of the 2B2 battery charge/discharge unit (BCDU) on
+the P6 2B IEA, US EVA-58 with Koch and Meir was added to replace the
+BCDU with a spare from ELC-1. The airlock was depressurized at 1132 UTC,
+and the hatch opened at 1137 UTC. 
+
+Koch amd Meir moved spare BCDU 0028 from ELC1 at 1305 UTC and installed
+in in P6 in the 2B2 slot at 1501 UTC. Failed BCDU 011 was removed from
+P6 2B2 at 1452 UTC and brought back to the airlock at 1557 UTC.
+Following some further minor tasks the crew returned to the airlock with
+hatch close at 1851 UTC and beginning of repressurization at 1855 UTC.
+This was the first spacewalk in which all of the spacewalkers were
+women.
+
+
+Beidou
+------
+
+Two Beidou-3 MEO satellites, M23/24 (DW47/48), were launched to 12-hour orbits on Sep 22.
+
+Yunhai-1-02
+-----------
+
+China launched the second Yunhai-1 satellite on Sep 25. The satellite carries
+a GNSS radio occultation meteorology payload.
+
+EKS No. 3
+----------
+
+Russia launched the third EKS (Tundra) early warning satellite on Sep 26.
+The satellite is built by RKK Energia, with overall system integration by Kometa.
+It was given the codename Kosmos-2541.
+
+Gaofen 10
+---------
+
+The second Gaofen 10 high resolution imaging satellite was launched from Taiyuan on Oct 4
+into a 0200LT node sun-synch orbit. The first GF-10 failed to reach orbit in 2016.
+
+
+Tsubame
+--------
+
+The Tsubame (SLATS) low orbit test satellite reentered on Oct 1. Its final orbit was 133 x 147 km.
+
+Kosmos-2535/2536
+----------------
+
+Kosmos-2535 and 2536 continue proximity operations. Kosmos-2537 and Kosmos-2538
+(objects B and C but we're not sure which is which) have not changed orbit, but in 
+October several new objects were cataloged in a similar orbit and appear to have
+been released from objects B and/or C around Oct 11. They may be debris objects
+from a minor collision or sub-payloads for radar calibration (like the ESO test objects
+released from the Romb and Kol'tso satellites in the past).
+
+
+MEV-1/Eutelsat 5WB
+------------------
+
+International Launch Services and Khrunichev launched a Proton to supersynchronous transfer
+orbit on Oct 9 and deployed two payloads built by Northrop Grumman/Dulles (formerly Orbital Sciences).
+Eutelsat W5B is a television satellite for the European operator Eutelsat SA. MEV-1, the Mission
+Extension Vehicle, is a Northrop Grumman experimental satellite which will rendezvous and dock with 
+the Intelsat 901 satellite in GEO in order to extend its operational lifetime.
+
+ICON
+----
+
+NASA's Ionospheric Connection Explorer, ICON, was launched on Oct 11. The Northrop Grummann
+L-1011 Stargazer carrier aircraft took off from Cape Canaveral's runway 31/13 (the Skid Strip)
+at 0031 UTC. After an aborted drop run at 0130 UTC, the L-1011 dropped Pegasus at 29.0N 78.5W
+at 0200 UTC. The three-stage solid rocket ignited after a 5 second free fall, and reached orbit 11 minutes later.
+ICON has an optical interferometer, ultraviolet imagers and an ion velocity meter to study the thermosphere
+and ionosphere.
+
+Palisade
+--------
+
+AstroDigital's 16U technology development cubesat Palisade was launched by Electron flight 9 (mission
+name As The Crow Flies) into Electron's highest orbit yet. The satellite was placed in a 1207 x 1225 km orbit,
+with the second stage and two pieces of debris in a 309 x 1200 km x 87.9 deg orbit. The kick stage
+was deorbited.
+
+TJS 4
+-----
+
+Tongxing Jishu Shiyan 4 was launched from Xichang on Oct 17 to geotransfer orbit. The satellite
+is described as a communications techology satellite, but may be a signals intelligence satellite.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Sep 12 0326   Zi Yuan 1 02D   )          Chang Zheng 4B    Taiyuan          Imaging    59A S44528?   748 x   758 x 98.6
+              Jingshi 1       )                                             Imaging    59B S44529?   732 x   750 x 98.6
+              Jinniuzuo naxing)                                             Tech       59C S44530?   731 x   750 x 98.6
+Sep 16        Seeker                                      Chaffee, LEO      Tech       22K S44533    466 x   484 x 51.6
+Sep 19 0642   OVS-3  )                   Chang Zheng 11    Jiuquan          Imaging    60A S44534?   494 x   512 x 97.4
+              OHS-3A )                                                      Imaging    60C S44536?   494 x   511 x 97.4
+              OHS-3B )                                                      Imaging    60D S44537?   494 x   511 x 97.4
+              OHS-3C )                                                      Imaging    60E S44538?   494 x   511 x 97.4
+              OHS-3D )                                                      Imaging    60F S44539?   494 x   511 x 97.4
+Sep 22 2110   Beidou DW 47)               Chang Zheng 3B/YZ1 Xichang        Navigation 61A S44542  21527 x 22191 x 55.0
+              Beidou DW 48)                                                 Navigation 61B S44543  21527 x 22191 x 55.0
+Sep 24 1605   Kounotori 8                 H-IIB              Tanegashima    Cargo      62A S44546    188 x   301 x 51.6 
+Sep 25 0054   Yunhai-1 02 xing            Chang Zheng 2D     Jiuquan        Weather    63A S44547    767 x   780 x 98.6
+Sep 25 1357   Soyuz MS-15                 Soyuz-FG           Baykonur LC1   Spaceship  64A S44550    195 x   215 x 51.6
+Sep 26 0746   Kosmos-2541                 Soyuz-2-1B/Fregat  Plesetsk       Early Warn 65A S44552   1640 x 38543 x 63.8
+Oct  4 1851   GaoFen 10                   Chang Zheng 4C     Taiyuan        Imaging    66A S44622    612 x   622 x 97.8
+Oct  9 1017   MEV-1        )              Proton-M/Briz-M    Baykonur       Servicing  67  S44624? 11989 x 65080 x 13.4
+              Eutelsat 5WB )                                                Comms      67  S44625? 11982 x 64871 x 13.4
+Oct 11 0200   ICON                        Pegasus XL       L1011, Canaveral Science    68A S44628    569 x   569 x 27.0
+Oct 17 0122   Palisade                    Electron           Mahia LC1      Tech       69A S44634   1208 x  1225 x 87.9
+Oct 17 1521   TJS 4                       Chang Zheng 3B     Xichang LC3    Sigint?    70A S44637    195 x 34974 x 27.0
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Sep  4        USN Mk 4 RV x 4?  Trident D-5       SSBN 739, WTR          Test         1000?      Pacific/Guam 
+Sep  4        USN Mk 4 RV x 4?  Trident D-5       SSBN 739, WTR          Test         1000?      Pacific/Guam 
+Sep  6        USN Mk 4 RV x 4?  Trident D-5       SSBN 739, WTR          Test         1000?      Pacific/Guam 
+Sep  6        USN Mk 4 RV x 4?  Trident D-5       SSBN 739, WTR          Test         1000?      Pacific/Guam 
+Sep 18 0930?  NASA 36.340DR     Black Brant 9        Wallops I.          Tech          200?      Atlantic
+Sep 30 1804   ESIS              Black Brant 9        White Sands         Solar UV      246       White Sands
+Sep 30        RV                Topol'-M             Plesetsk            Op.Test      1000?      Kura
+Oct  1 2211   RV                Bukgeukseong-3       Wonsan?             Test          950       Sea of Japan
+Oct  2 0813   GT232GM           Minuteman 3          Vandenberg LF10     Op.Test      1300?      Kwajalein
+Oct  7 1500   DUST              Black Brant 9        White Sands         Physics       338       White Sands
+Oct 17?       RV                Yars                 Plesetsk            Op.Test      1000?      Kura
+Oct 17?       RV x 4?           Sineva            K-18, Barents Sea      Op.Test      1000?      Kura
+Oct 17?       RV x 3?           Volna             K-44, Sea of Okhotsk   Op.Test      1000?      Chiza
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,189 @@
+Jonathan's Space Report
+
+No 428                                              2000 Jun 10, Cambridge, MA
+-------------------------------------------------------------------------------
+Note: I've updated the geostationary satellite and master launch list
+files at http://hea-www.harvard.edu/~jcm/space/log
+
+
+Shuttle and Stations
+--------------------
+
+The ISS (International Space Station) is operating in automated mode in
+a 369 x 378 km x 51.6 deg orbit. The PMA-2/Unity/PMA-1/Zarya stack
+awaits the launch of the Zvezda module next month. Zvezda will dock
+to the rear port on Zarya.
+
+The Mir EO-28 crew, Sergey Zalyotin and Aleksandr Kaleri, continue to
+operate the Mir complex in a 360 x 378 km x 51.6 deg orbit. The orbital
+plane of Mir is currently around 120 deg away from that of ISS. Soyuz
+TM-30 and Progress M1-2 are docked to the station. The EO-28 crew are
+scheduled to return to Earth in Soyuz TM-30 around Jun 16.
+
+The next few planned Shuttle launches all depend on the Zvezda launch.
+If all goes well, STS-106/Atlantis will carry the ISS 2A.2b payload
+consisting of the Spacehab Logistics Double Module and the Integrated
+Cargo Carrier. STS-92/Discovery will carry the ISS 3A payload carrying
+the ITS Z1 space station truss, the PMA-3 docking adapter and a Spacelab
+Pallet with the Control Moment Gyro package. STS-97/Endeavour will carry
+the ITS P6 truss and solar arrays.
+
+Current Launches
+----------------
+
+The first successful Proton/Briz-M launch flew on Jun 6 carrying the
+Gorizont No. 45L payload. The three-stage Proton-K, with a first test of
+upgraded engines to be used on the Zvezda space station module launch,
+was flown on a suborbital trajectory. 9 minutes after launch it
+separated from the payload assembly with the model 14S43 Briz-M stage.
+Earlier 4-stage Proton vehicles used the Energiya Blok-DM family of
+stages; the new stage is built by Krunichev, who also build the Proton-K
+core vehicle. A first flight of Proton/Briz-M failed early in launch
+last year, before the Briz-M got a chance to ignite. 
+
+Briz-M ignition probably occurred around 12 minutes after launch after a
+short coast. A 5 min first burn put Briz-M/Gorizont in a 200 km parking
+orbit probably inclined at around 51.6 deg. One hour later a second
+Briz-M burn raised apogee to 6000 km, possibly changing inclination
+slightly as well. At second perigee around 4hr after launch the third
+Briz-M burn put the stack in a 369 x  34988 km x  48.8 deg transfer
+orbit. The Briz-M then jettisoned its empty toroidal supplementary fuel
+tank and coasted to apogee. About 10 hr after launch a fourth Briz-M
+burn placed Gorizont No. 45L in near-geostationary orbit. US Space
+Command have cataloged the torus tank but neither the Briz-M nor the
+Gorizont have yet been cataloged.
+
+The payload, Gorizont ("Horizon") No. 45L, is expected to be the final
+launch of this series of television broadcasting satellite. It carries 6
+C-band transponders as well as one L-band and one Ku-band transponder.
+The previous Gorizont was launched in 1996; the new Ekspress satellites
+are replacing the system. The satellites are built by NPO Prikladnoi
+Mekhaniki of Zheleznogorsk for GP Kosmicheskaya Svyaz, the Russian
+comsat operator.
+
+Orbital Sciences launched its first Pegasus of the year on Jun 7.
+The L-1011 Stargazer OCA carrier airplane took off from RW30/12 at
+Vandenberg at 1221 UTC on Jun 7 and flew to the drop box at 36.0N 123.0W
+over the Pacific. The L-1011 dropped the Pegasus XL rocket at
+1319 UTC and five seconds later the first, winged, stage ignited.
+Third stage separation at 1334 UTC placed the TSX-5 payload in a 403 x 1704 km
+x 69.0 deg orbit. 
+
+TSX-5 is the fifth in the STEP (Space Test Experiments Program) series
+of satellites. The name was changed to TSX (Tri-Service Experiments),
+probably in an attempt to overcome the jinx that led to  three out of
+the first five missions failing.
+
+The STEP satellites use the Orbital LEOStar bus developed by
+DSI/McLean and TRW/Chantilly, both now part of Orbital.
+The M1 and M4 satellites carried the optional hydrazine propulsion module.
+STEP M2 was placed in a lower than planned orbit due to a fourth
+stage problem. M1 and M3 failed to orbit; M4's solar panels
+failed to deploy.
+
+ Mission   Main expt  STP Name  Launch       Life  
+ STEP M0   TAOS       P90-5     1994 Mar 13  >5 yr
+ STEP M2   SIDEX      P91-2     1994 May 19  3 yr?
+ STEP M1   -          P90-1     1994 Jun 27  0
+ STEP M3   -          P92-2     1995 Jun 22  0
+ STEP M4   -          P95-1     1997 Oct 22  0
+ TSX 5     STRV-2     P95-2     2000 Jun  7  Operating
+
+TSX-5's main section is the STRV-2 experiment module, which is sponsored
+by the Ballistic Missile Defense Organization in collaboration with the
+UK Ministry of Defense's DERA organization at Farnborough, to test
+infrared sensors and a laser communications payload.  STRV-2 will
+attempt to take infrared images of UK military aircraft at perigee, and
+then downlink data via laser. The mission will be controlled from
+Kirtland AFB, New Mexico. STRV-2 also carries vibration isolation and
+debris impact sensors. It is a followon to the STRV-1 microsatellites
+launched piggyback on Ariane in Jun 1994.
+
+The secondary payload on TSX-5 is the S97-1 CEASE device. The Compact
+Environmental Anomaly Sensor, developed by AFRL (USAF Research Lab),
+is a prototype sensor package to provide warning of spacecraft
+charging and radiation events.
+
+
+Compton Gamma Ray Observatory
+-----------------------------
+
+The Compton Gamma Ray Observatory has been destroyed. NASA decided to
+end the mission because of concerns that further gyro failures might
+make it difficult to carry out a controlled deorbit. In early May, GRO
+was in its 482 x 487 km x 28.5 deg operational orbit (its last orbital
+reboost was in Apr 1997). The first descent burn at 0151 UTC on May 31
+lowered it to a 362 x 474 km orbit. A second burn at 0236 UTC on Jun 1
+put it down at 237 x 471 km. Burn 3, at 0356 to 0417 UTC on Jun 4,
+lowered perigee to only 148 km. One orbit later, the final burn from
+0522 to 0552 UTC on Jun 4 put GRO in its final 28 x 470 km orbit. At
+0609 on the descent to perigee the spacecraft began tumbling and runaway
+heating was detected; loss of contact came at 0610 UTC with impact of
+debris in the Pacific southeast of Hawaii at 0618 UTC.
+
+GRO, built by TRW/Redondo Beach and launched on Space Shuttle Atlantis
+in Apr 1991, was the second of the Great Observatories program which
+also includes Hubble, Chandra, and SIRTF. GRO really marked the maturity
+of gamma ray astronomy as a discipline and its discoveries about gamma
+ray bursts, gamma ray quasars, and galactic gamma ray sources are of
+lasting importance. At this week's American Astronomical Society meeting
+in Rochester, the model of GRO at the TRW booth was quickly adorned with
+a wreath. Alas, our plans to sneak in overnight and replace the model
+with a tank of tropical fish and charred metal parts foundered due to
+insufficient energy on the part of the conspirators.
+
+
+Errata
+-------
+
+Apologies to Energomash for a typo. The RD-180 engine is rated at 4152
+kN thrust, not 412 kN!. However, Av Week's report quotes a 3570 kN
+thrust during the ascent.
+
+Apojove of Galileo's current orbit is only 20.7 million km, lower than I
+had estimated last issue (I think I must have got Kepler's Third the
+wrong way up :-)). This puts it inside the orbits of the outermost
+Jovian moons. It's still the largest orbit Galileo has made around
+Jupiter. Apojove will be on Sep 8.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  3 0707   GOES 11           Atlas 2A       Canaveral SLC36A Weather    22A
+May  3 1325   Kosmos-2370       Soyuz-U        Baykonur LC1     Imaging    23A
+May  8 1601   DSP 20            Titan 4B       Canaveral LC40   Early Warn 24A
+May 11 0148   GPS SVN 51        Delta 7925     Canaveral SLC17A Navsat     25A
+May 16 0828   Simsat-1 )        Rokot          Plesetsk LC133   Test       26A
+              Simsat-2 )                                                   26B
+May 19 1011   Atlantis          Space Shuttle  Kennedy  LC39A   Spaceship  27A
+May 24 2310   Eutelsat W4       Atlas 3A       Canaveral SLC36B Comsat     28A
+Jun  6 0259   Gorizont          Proton/Briz-M  Baykonur LC81P   Comsat     29A
+Jun  7 1319   TSX 5             Pegasus XL     Vandenberg RW30/22 Science  30A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Sep?    ISS 3A    
+OV-104 Atlantis        OPF Bay 3     STS-106 2000 Aug?    ISS 2A.2b 
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A    
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

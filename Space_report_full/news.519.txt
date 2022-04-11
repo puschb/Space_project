@@ -1,0 +1,93 @@
+Jonathan's Space Report
+No. 519                                     2004 Jan 29, Garching bei Munchen
+-------------------------------------------------------------------------------
+
+The NASA/JPL Mars Exploration Rover B (MER-B, MER-1) "Opportunity"
+landed on Mars successfully on Jan 25.  On 0433 UTC on Jan 25,
+Opportunity's MER-1 cruise stage separated. The lander and the cruise
+stage entered the Martian atmosphere at 0448:42 UTC; the cruise stage
+burnt up as planned, and the lander deployed its parachute after a
+successful reentry at 0503 UTC, followed by heatshield jetison, airbag
+deployment and retro rocket firing, with touchdown around 0454:33 UTC
+(this was the expected time, I haven't seen a precise actual time). The
+airbags bounced several times and began rolling at 0500 UTC, coming to
+rest a few minutes later. Petal opening was at 0706 UTC, turning the
+spacecraft right way up and revealing the rover inside. Light time to
+Earth at the time of landing was 11 min 4s. The Meridiani site is at
+about 2 S, 354 E.
+
+The airbag-enclosed lander came to rest inside a small (20 m diameter)
+crater. The rover deployed its wheels on Jan 28 and will roll onto the
+surface at the weekend. Its landing site has been renamed the Challenger
+Memorial Station; the  Spirit site has been named the Columbia Memorial
+Station and some hills near the site are named the Apollo 1 Hills,
+individually Grissom, White and Chaffee hills. Recall that the Viking 1
+lander was named Mutch Memorial Station after Viking imaging team member
+Thomas Mutch, and the Pathfinder landing site was called Sagan Memorial
+Station after Carl Sagan. In July 2001 Dan Goldin announced that Viking
+Lander 2 would be called Soffen Station after the late Gerald Soffen,
+but to my knowledge no press release or written announcement about this
+was ever made, and I'm not sure if it's official. For the MER sites,
+there seems to be some ambiguity about whether the Station is just the
+lander, or some poorly defined area surrounding the lander, or all the
+way to the local horizon.
+
+The Spirit rover, exploring Gusev crater, entered safemode on Jan 20
+because of a file system problem in the vehicle's flash memory.
+Controllers are repairing the problem and a full recovery is now
+expected; Spirit successfully returned a new surface image on Jan 28.
+
+A Progress M1 cargo ship is scheduled for launch on Jan 29 to bring
+supplies to the ISS.
+
+Editorial
+---------
+
+My sources confirm that the Hubble servicing mission cancellation
+decision was indeed made on grounds of expediting the completion of ISS
+and the limited gains from extending Hubble's life, and not largely on
+safety grounds per se. Recall that the Columbia accident board
+explicitly commented that the mission should not be precluded. Now if
+the pragmatic reasons for the move were admitted, I might agree with the
+decision anyway if alternate facilities for ultraviolet astronomy are to
+made available - but I'm not too optimistic about that. Whatever the
+merits, it is clear that major problems remain with vertical
+communication in the NASA organization - the folks on the Hubble team
+should really have been made more aware that this decision was being
+weighed rather than being reassured that SM4 was almost certain to
+happen and totally blindsided by the cancellation news (at least, that's
+my impression as an outsider after conversations with several Hubblers.)
+I don't know where in the management chain this communications failure
+happened.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Dec  2 1004   USA 173        )  Atlas IIAS      Vandenberg SLC3E  Sigint     54A
+              USA 173 P/L 2? )                                    Sigint     54C
+Dec  5 0600   Gruzomaket        Strela          Baykonur PL132    Test       55A
+Dec 10 1742   Kosmos-2402 )     Proton-K/Briz   Baykonur PL81/24  Navigation 56A
+              Kosmos-2403 )                                       Navigation 56B
+              Kosmos-2404 )                                       Navigation 56C
+Dec 18 0230   UHF F/O F11       Atlas IIIB      Canaveral SLC36B  Comms      57A
+Dec 21 0805   GPS SVN 47        Delta 7925      Canaveral SLC17A  Navigation 58A
+Dec 27 2130   Amos-2            Soyuz-FG/Fregat Baykonur PL31/6   Comms      59A
+Dec 28 2300   Ekspress AM-22    Proton-K/DM-2M  Baykonur PL200/39 Comms      60A
+Dec 29 1906   Tan Ce 1          CZ-2C           Xichang           Science    61A
+Jan 11 0413   Estrela do Sul    Zenit-3SL       Odyssey           Comms      01A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+

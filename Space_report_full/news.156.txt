@@ -1,0 +1,128 @@
+Jonathan's Space Report 
+
+No. 156         1993 Jun 2
+Off to the AAS in Berkeley for a week - there will probably
+be no JSR next week. Anyone at the AAS, stop by and say hi
+at my poster on Monday. 
+------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The STS-57 launch has been delayed until the middle of June.
+The delay was caused by the decision to replace a main engine
+turbopump.
+
+Here's an update on the current Shuttle schedule.
+
+Jun  STS-57  Endeavour  Spacehab-1, GBA 5, SHOOT, Eureca retrieval,DTO-1210 EVA
+Jul  STS-51  Discovery  ACTS/TOS, ORFEUS-SPAS, DTO-1210 EVA
+Sep  STS-58  Columbia   Spacelab Life Sciences 2/Extended Duration Orbiter
+Nov  STS-60  Discovery  Spacehab-2, GBA 6, Wake Shield Facility, RKA 
+Dec  STS-61  Endeavour  HST Servicing Mission, 5 repair EVAs
+
+Mir
+---
+
+The Progress M-18 cargo craft docked with Mir on May 24. The Mir complex
+now consists of the core module, the Kvant, Kvant-2 and Kristall modules,
+the Sofora structure, and the Soyuz TM-16, Progress M-17 and Progress
+M-18 ferry craft. A return capsule on board Progress M-18 will be
+used to return experimental samples to Earth in July.
+
+Launches
+--------
+
+The spacecraft launched on May 21 has been confirmed as a Resurs-F
+remote sensing flight. It is the Resurs-F2 model, which stays in orbit
+for around 30 days. On May 26 its orbit was 228 x 233 km x 82.6 deg.
+
+
+The Arsene amateur radio satellite has successfully fired its SEP Mars
+apogee motor and is in a 17600 x 37000 km orbit inclined at 1 degree to
+the equator. Its VHF system isn't working right but the S-band
+reportedly is fine.
+
+A Gorizont communications satellite was launched by Proton on May 27
+from Baykonur. I don't have any orbital elements yet, but a Space News
+article indicates that the NPO Energiya-built Blok-DM fourth stage
+failed, leaving  the payload either in parking orbit or in an incorrect
+transfer orbit. The Blok-DM is separate from the main UR-500K Proton
+rocket built by NPO Mashinostroeniye, and is essentially considered to
+be part of the payload,  like IUS stages on Shuttle missions. On
+geostationary orbit missions, it burns twice, first to go from low
+circular orbit to geostationary transfer orbit, and second to
+circularize the transfer orbit at apogee. A bigger stage is needed for
+this than for US launch vehicles: Russia's launch site in Kazakhstan is
+at 46 deg North, and because of ground range constraints the initial
+orbit is at 51 degrees to the equator, requiring a large velocity change
+to enter the final equatorial orbit. The Blok-D series of upper stages
+was originally developed for the Soviet piloted moon landing program.
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+May 11 1450?    Kosmos-2245 )   Tsiklon         Plesetsk        Comsat     30A
+                Kosmos-2246 )                                              30B
+                Kosmos-2247 )                                              30C
+                Kosmos-2248 )                                              30D
+                Kosmos-2249 )                                              30E
+                Kosmos-2250 )                                              30F
+May 12 0056     Astra 1C   )    Ariane 42L      Kourou          Comsat     31A
+                Arsene     )                                    Comsat     31B
+May 13 0007     Navstar GPS 37  Delta 7925      Canaveral       Navsat     32A
+May 21 0920?    Resurs-F2       Soyuz           Plesetsk        Remote Sens. 33A
+May 22 0645?    Progress M-18   Soyuz           Baykonur        Cargo      34A
+May 26 0335?    Molniya-1       Molniya         Plesetsk        Comsat     35A
+May 27          Gorizont        Proton          Baykonur        Comsat     36A?
+
+Reentries
+---------
+
+May  6          Kosmos-2243     Reentered
+May  6          Columbia        Landed at Edwards AFB
+May 20          Molniya-1(37)   Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-58
+OV-103 Discovery       OPF Bay 3     STS-51
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LC39B         STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1?/RSRM-33             VAB Bay 1   STS-51
+ML2/RSRM-32/ET-58/OV-105 LC39B       STS-57
+ML3/                     
+
+Acronym reminder:
+ET:   External Tank
+LC:   Launch Complex
+ML:   Mobile Launcher
+OMDP: Orbiter Maintainance Down Period
+OPF:  Orbiter Processing Facility
+OV:   Orbiter Vehicle
+RSRM: Redesigned Solid Rocket Motor
+SRB:  Solid Rocket Booster
+VAB:  Vehicle Assembly Building
+
+
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+

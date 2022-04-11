@@ -1,0 +1,221 @@
+Jonathan's Space Report 
+No. 750                                                  2018 Jun 18   Somerville, MA
+---------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+During May Expedition 55 continued with  Anton Shkaplerov in command,
+Scott Tingle, Norishige Kanai, Oleg Artemev, Ricky Arnold and Drew
+Feustel as flight engineers. On Jun 1 Feustel took command as Soyuz
+MS-07 prepared to undock.
+
+Soyuz MS-07 undocked at 0916 UTC Jun 3 with Shkaplerov, Tingle and
+Kanai. Feustel, Artemev and Arnold remained aboard ISS as Expedition 56.
+Soyuz MS-07 made its deorbit burn at 1147 UTC; the modules separated at
+1214 UTC, the descent module began reentry at 1217 UTC and landed in
+Kazakhstan at 1239 UTC.
+
+Soyuz MS-09 was launched on Jun 6, carrying Sergey Prokop'ev
+(Roskosmos), Serena Aunon-Chancellor (NASA), and Alex Gerst (ESA). It
+docked with the Rassvet module at 1301 UTC Jun 8.
+
+Astronauts Arnold and Feustel made spacewalk US EVA-51 on Jun 14. They
+installed cameras and wireless comm equipment next to the PMA-2/IDA-2
+docking port on the Harmony module that will be used by approaching Crew
+Dragon and Starliner vehicles; replaced a camera on the CP3 truss
+position, and closed the telescope cover on the failed CATS atmosphere
+observatory experiment. As a final task Feustel secured a a loose
+component on the solar array blanket box on the S4 truss (the box that
+one of the big solar panels unfurled from). In the process he dropped a
+large `wire tie' that floated off and is now cataloged as 43498,
+1998-067NS. 
+
+
+GF-6
+----
+
+A SAST/Shanghai Chang Zheng 2D launched a DFH CAST-2000 high resolution
+imaging satellite, Gao Fen 6, on Jun 2. Gao Fen 6 has a 2 metre
+resolution imager and a hyperspectral imager. A secondary 6U cubesat
+payload for Wuhan University was deployed; Luojia-1 kexue shiyan weixing
+01 xing (Luojia-1 science experiment satellite S/C 01) carries a low
+light level imager for studies of illumination on the Earth's night
+side.
+
+GF-6 is the 12th Gao Fen (`high resolution') satellite to be launched.
+All are in sun-synchronous orbit (SSO) except for the geostationary GF-4.
+
+  Gao Fen satellites
+  ------------------
+                 Launch         Orbit (km x km x deg)  
+  Gao Fen 1-01   2013 Apr 26    628 x   653 x 97.9       SSO 1100 LT
+  Gao Fen 2      2014 Aug 19    621 x   634 x 97.9       SSO 1100 LT
+  Gao Fen 8      2015 Jun 26    483 x   490 x 97.4       SSO 1330 LT
+  Gao Fen 9      2015 Sep 14    618 x   663 x 97.9       SSO 1100 LT
+  Gao Fen 4      2015 Dec 28  35766 x 35808 x  0.0       GEO 105.8E
+  Gao Fen 3      2016 Aug  9    750 x   752 x 98.4       SSO 0600 LT
+  Gao Fen 10     2016 Aug 31   Failed to orbit          (SSO 0200 LT)
+  Gao Fen 1-02   2018 Mar 31    637 x   644 x 98.0       SSO 1030 LT
+  Gao Fen 1-03   2018 Mar 31    636 x   645 x 98.0       SSO 1030 LT
+  Gao Fen 1-04   2018 Mar 31    637 x   644 x 98.0       SSO 1030 LT
+  Gao Fen 5      2018 May  8    699 x   702 x 98.1       SSO 0130 LT
+  Gao Fen 6      2018 Jun  2    632 x   647 x 98.1       SSO 1030 LT
+
+
+SES-12
+------
+
+SpaceX launched a Falcon 9 on Jun 4 with a 5384 kg Ku/Ka-band television
+broadcast satellite, SES-12. SES-12 is an Airbus Eurostar 3000e with
+electric propulsion. It was launched to a 210 x 58276 km x 25.9 deg
+supersynchronous transfer orbit. By Jun 14 four perigee raising burns
+had changed the orbit to 1032 x 59868 km x 23.8 deg.
+
+FY-2-09
+-------
+
+Fengyun erhao 09 xing, also called Fengyun erhao H xing (FY-2H), was
+launched on Jun 5. It is the last in the FY-2 series of Chinese
+spin-stabilized geostationary meteorological satellites. On around Jun 7
+the apogee motor was fired to circularize the orbit and was then
+ejected. As of Jun 16 the satellite was on station at 94.0E in a 35775 x
+35796 km x 2.3 deg orbit. The apogee motor was in a 35482 x 36212 km x
+2.4 deg orbit, crossing the geostationary region  - which is an
+undesirable place to leave space junk.
+
+
+IGS R-6
+-------
+
+Japan's Information Gathering Satellite Radar-6  (Joho shushu eisei Reda 6-goki)
+was launched from Tanegashima on Jun 12 into sun-synchronous orbit with
+descending node local time of 13:15.
+
+The IGS series is operated by Japan's Cabinet Satellite Intelligence Center
+(Naikaku Eisei Joho Senta) and includes both optical and radar satellites.
+
+  IGS satellites
+  ------------------
+                      Launch         Orbit (km x km x deg)  
+  IGS Optical-1       2003 Mar 28    Reentered 2014 Jul         SSO 1020LT
+  IGS Optical-2       2003 Nov 29    Failed to orbit            SSO 1330LT
+  IGS Optical-2       2006 Sep 11    Reentered 2016 Oct         SSO 1330LT
+  IGS Optical-3 Test  2007 Feb 24    Reentered 2013 Nov         SSO 1330LT
+  IGS Optical-3       2009 Nov 28    584 x 590 x 97.7           SSO 1030LT 
+  IGS Optical-4       2011 Sep 23    587 x 588 x 97.7           SSO 1315LT
+  IGS Optical Demo    2013 Jan 27    425 x 429 x 97.2           SSO 1330LT
+  IGS Optical-5       2015 Mar 26    510 x 516 x 97.5           SSO 1030LT
+  IGS Optical-6       2018 Feb 27    485 x 499 x 97.2           SSO 2345LT
+
+  IGS Radar-1         2003 Mar 28    Reentered 2012 Jul         SSO 1020LT
+  IGS Radar-2         2003 Nov 29    Failed to orbit            SSO 1330LT
+  IGS Radar-2         2007 Feb 24    Reentered 2014 Apr         SSO 1330LT
+  IGS Radar-3         2011 Dec 12    510 x 515 x 97.5           SSO 1030LT    
+  IGS Radar-4         2013 Jan 27    511 x 515 x 97.5           SSO 1330LT
+  IGS Radar Spare     2015 Feb  1    481 x 484 x 97,4           SSO 1015LT
+  IGS Radar-5         2017 Mar 17    486 x 489 x 97.4           SSO 1015LT
+  IGS Radar-6         2018 Jun 12    500 x 502 x 97.4           SSO 1315LT
+
+
+Glonass M-56
+------------
+
+Russia lanched another Glonass navigation satellite on Jun 16; it was given 
+the cover name Kosmos-2527.
+
+Hayabusa-2
+----------
+
+On Jun 18 Hayabusa-2 was under 180 km from asteroid Ryugu; it is making
+trajectory correction burns about every 2 days. It is expected to be
+stationkeeping 20 km from Ryugu by the end of the month.
+
+TESS
+----
+
+On May 30 at 0130 UTC TESS made its final orbit insertion burn, changing
+the orbit from 99036 x 435600 km x 36.6 deg to 99037 x 366905 km x 36.6
+deg, a P/2 lunar resonant orbit. Instrument commissioning is underway
+and TESS should begin its search for extrasolar planets soon.
+
+LEO Vantage 1
+-------------
+
+Telesat's LEO Vantage 1 satellite was launched in January on PSLV-C40
+into a 496 x 508 km orbit. While I wasn't paying attention, it raised
+orbit slowly between Jan 21 and Apr 5 and is now in a 996 x 1004 km SSO.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+May  3 1606   Apstar 6C               Chang Zheng 3B    Xichang          Comms        41A   S43450   239 x 41827 x 27.2
+May  5 1105   Mars Insight)           Atlas V 401       Vandenberg SLC3E Mars probe   42A   S43457   115 x-110126x 63.4
+              MarCO-A     )                                              Mars probe   42B   S43458   115 x-110126x 63.4
+              MarCO-B     )                                              Mars probe   42C   S43459   115 x-110126x 63.4
+May  8 1828   GaoFen 5                Chang Zheng 4C    Taiyuan          Imaging      43A   S43461   682 x   688 x 98.1
+May 11 1030   1KUNS-PF  )                              ISS, LEO          Tech       98-67NQ S43467   400 x   402 x 51.6
+              Batsu-CS1 )                                                Tech       98-67NR S43468   400 x   402 x 51.6
+May 11 1040   UBAKUSAT                                 ISS, LEO          Tech       98-67NP S43466   400 x   402 x 51.6
+May 11 2014   Bangabandhu 1           Falcon 9 FT5      Kennedy SLC39A   Comms        44A   S43463   296 x 35515 x 19.3
+May 12?       USA 287                                  EAGLE, high orbit Tech         36G   S43465 35290?x 35290?x  0.1
+May 20 2128   Queqiao    )            Chang Zheng 4C    Xichang          Comms        45A   S43470   159 x376347 x 29.0
+              Longjiang 1)                                               Radio Astron 45B   S43471   184 x400603 x 28.5
+              Longjiang 2)                                               Radio Astron 45C   S43472   184 x400603 x 28.5
+May 21 0844   SS J.R Thompson         Antares 230       MARS LA0B        Cargo        46A   S43474   228 x   319 x 51.6
+May 22 1948   GRACE-FO 1  )           Falcon 9          Vandenberg SLC4E Science      47A   S43476   485 x   504 x 89.0
+              GRACE-FO 2  )                                              Science      47B   S43477   485 x   504 x 89.0
+              Iridium 110 )                                              Comms        47F   S43481   488 x   718 x 86.7
+              Iridium 147 )                                              Comms        47E   S43480   489 x   714 x 86.7
+              Iridium 152 )                                              Comms        47D   S43479   493 x   710 x 86.7
+              Iridium 161 )                                              Comms        47C   S43478   489 x   714 x 86.7
+              Iridium 162 )                                              Comms        47G   S43482   491 x   715 x 86.7
+Jun  2 0413   Gao Fen 6       )       Chang Zheng 2D    Jiuquan          Imaging      48A   S43484   635 x   646 x 98.0
+              Luojia-1 KSW 01 )                                          Imaging      48B   S43485   635 x   647 x 98.0
+Jun  4 0445   SES-12                  Falcon 9 FT       Canaveral SLC40  Comms        49A   S43488   210 x 58276 x 25.9
+Jun  5 1307   Fengyun 2 09            Chang Zheng 3A    Xichang LC2      Weather      50A   S43491   219 x 35906 x 24.6
+Jun  6 1112   Soyuz MS-09             Soyuz-FG          Baykonur LC1     Spaceship    51A   S43493   190 x   247 x 51.6
+Jun 12 0420   IGS R-6                 H-IIA             Tanegashima      Radar        52A   S43495   500 x   502 x 97.4
+Jun 16 2146   Kosmos-2527             Soyuz-2-1B/Fregat Plesetsk         Navigation   53A   S43508 19116 x 19155 x 64.8
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The suborbital launches table includes known flights above 80 km.
+The new Boosted Zombie rocket tested on Jun 7 has a Terrier Mk 70 first stage and a Zombie (ATACMS
+derived) second stage; it is unclear how high it flew.
+
+On Jun 18 the University of Colorado's EVE payload was launched to calibrate the Solar Dynamics Observatory
+EVE instrument; this is the 7th launch in the series.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+May  8        Burkan RV         Burkan 2H          Yemen                 Weapon        100?      Riyadh 
+May  8        Burkan RV         Burkan 2H          Yemen                 Weapon        100?      Riyadh 
+May 13 0830   TEXUS 54          VSB-30             Esrange               Microgravity  261       Esrange B zone
+May 14 0823   Mk 12 or 21 RV?   Minuteman 3        Vandenberg LF04       Test         1300?      Kwajalein?
+May 22        RV x ?            Bulava             K-535, White Sea      Test         1000?      Kura
+May 22        RV x ?            Bulava             K-535, White Sea      Test         1000?      Kura
+May 22        RV x ?            Bulava             K-535, White Sea      Test         1000?      Kura
+May 22        RV x ?            Bulava             K-535, White Sea      Test         1000?      Kura
+May 29 1854   Hi-C 2.1          Black Brant 9      White Sands           Solar EUV     290       White Sands
+May 31 0400   TEXUS 55          VSB-30             Esrange               Microgravity  255       Esrange B zone
+Jun  3 0418   Agni RV           Agni V             Kalam Island          Test          800       Indian O.
+Jun  7        NASA 12.081BZ-DR  Boosted Zombie     White Sands           Test          100?      White Sands
+Jun 18 1900   EVE 7             Black Brant 9      White Sands           Solar EUV     250?      White Sands
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+
+

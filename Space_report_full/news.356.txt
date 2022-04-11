@@ -1,0 +1,137 @@
+Jonathan's Space Report
+No. 356                                      1998 Apr 19 Cambridge, MA 
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The current commander of Mir is of course Talgat Musabaev,
+and not Anatoliy Solov'yov as I foolishly stated last week.
+Musabaev and Budarin carried out another 6 hour spacewalk on Apr 17,
+preparing for installation of the new VDU engine. Hatch open was
+0740 UTC and hatch closed at 1412 UTC. Two truss structures
+on the Kvant module were retracted and stored on the module
+exterior; the new VDU was unlatched from its carrier in the
+Progress cargo ship. It will be installed on the next EVA.
+
+Space Shuttle OV-102 Columbia was launched into orbit on Apr 17
+on an extended duration Spacelab long module mission using
+Long Module Unit 2.
+The STS-90 cargo bay sidewall canisters are:
+ Bay 4P forward: G-744 Sierra College, ozone measurements
+        aft:     G-772 Colorado, COLLIDE dust collision experiment
+ Bay 4S forward: SVF   JPL Shuttle Vibration Forces experiment
+        aft:     G-197 Lockheed Martin, Pulse Tube Refrigerator cryocooler
+In addition, the OARE acceleration experiment is mounted on the
+payload bay floor in bay 11.
+
+STS-90/Neurolab experiments include tests on the astronauts' adaptation
+to free fall, and studies on rat development and neurobiology. The life
+sciences payload includes 132 rats (Rattus norvegii), four oyster
+toadfish (Opsanus tau), freshwater snails (Biomphlaria glabrata),
+swordtail fish (Xiphophorus helleri), and crickets (Acheta domesticus).
+The Spacelab module includes the Vestibular Function Experiment Unit,
+the BOTEX botany experiment incubator (used for the crickets), the CEBAS
+aquatic enclosure, and various rat animal enclosures. It also includes
+the VVIS centrifuge, the VCF visuo-motor coordination facility, and the
+VEG virtual reality headset, all of which are used on the human
+subjects. A special suit and cap to monitor astronauts while asleep is
+also carried. Unfortunately, in contrast to earlier Spacelab flight
+press kits, this mission's public release doesn't give details of the
+layout of the Spacelab module racks.
+
+Columbia was launched at 1819 UTC on Apr 17. The solid rocket boosters
+(RSRM-65)  separated at 1821 UTC, and a few seconds later the OMS
+engines ignited for a 1min 43s burn, the first OMS assist maneuver. This
+adds extra thrust to that provided by the SSME main engines, and will be
+needed for Space Station launches. The maneuver appears to have gone
+fine. Transfer orbit insertion at main engine cutoff, 1827 UTC, was
+followed by separation of external tank ET-91 and a second OMS burn at
+1902 UTC to circularize the orbit at 257 x 286 km x 39.0 deg.
+
+Meanwhile, the Shuttle launch schedule for the next year is
+completely up in the air pending decisions on Space Station delays.
+
+STS-93/AXAF
+-----------
+
+ NASA and the AXAF Science Center are sponsoring a contest to name the
+Advanced X-ray Astrophysics Facility (AXAF), a 4-tonne X-ray telescope
+to be launched on Space Shuttle Columbia in December 1998. The winner
+will get a free trip to see the launch, and everyone who enters will get
+a free AXAF poster. The winning entry can be the name of a place or a
+thing symbolizing exploration of the universe, or a mythological or
+fictional character, or a historical person (but not someone alive
+today). Previous X-ray satellites have been named after physicists
+Albert Einstein, Wilhelm Rontgen, and Bruno Rossi; the first X-ray
+satellite, launched from Kenya, was named Uhuru after the Swahili word
+for freedom. You can get details of the contest at
+
+            http://asc.harvard.edu/contest.html
+
+Entries are due by June 30 and the winner will be announced later
+in the year.
+
+Recent Launches
+---------------
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar 14 2246   Progress M-38     Soyuz-U       Baykonur LC1      Cargo      15A
+Mar 16 2132   UHF F/O F8        Atlas II      Canaveral SLC36A  Comsat     16A
+Mar 24 0146   SPOT 4            Ariane 40     Kourou ELA2       Imaging    17A
+Mar 25 1701   Iridium 51 )      CZ-2C/SD      Taiyuan           Comsat     18A
+              Iridium 61 )                                      Comsat     18B
+Mar 30 0602   Iridium 55        Delta 7920    Vandenberg SLC2   Comsat     19A
+              Iridium 57                                        Comsat     19B
+              Iridium 58                                        Comsat     19C
+              Iridium 59                                        Comsat     19D
+              Iridium 60                                        Comsat     19E
+Apr  2 0242   TRACE             Pegasus XL    Vandenberg        Solar obs. 20A
+Apr  7 0213   Iridium 62        Proton-K      Baykonur          Comsat     21A
+              Iridium 63                                        Comsat     21B
+              Iridium 64                                        Comsat     21C
+              Iridium 65                                        Comsat     21D
+              Iridium 66                                        Comsat     21E
+              Iridium 67                                        Comsat     21F
+              Iridium 68                                        Comsat     21G
+Apr 17 1819   Columbia   )      Shuttle       Kennedy LC39B     Spaceship  22A
+              Neurolab   )
+
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        LEO           STS-90  Apr 17
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  ?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/RSRM66/ET-96        VAB Bay 1     STS-91
+MLP2/
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

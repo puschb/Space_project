@@ -1,0 +1,169 @@
+Jonathan's Space Report
+No. 658                                        2012 May  7  Somerville, MA USA
+--------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+Soyuz TMA-22 undocked from the Poisk module at 0818 UTC on Apr 27,
+with Soyuz commander Anton Shkaplerov and flight engineers
+Anatoliy Ivanishin and Dan Burbank. The spacecraft landed in Kazakhstan
+at 1145 UTC.
+
+The undocking of Soyuz TMA-22 marked the start of ISS Expedition 31. The
+current Ex 31 crew are commander Oleg Kononenko, flight engineer 4 Andre
+Kuipers, and flight engineer 5 Don Pettit.
+
+ATV 3 is docked at Zvezda. The Progress M-15M cargo ship was launched on
+Apr 20 on ISS mission 47P into a 187 x 230 km orbit, soon adjusted to
+245 x 305 km x 51.6 deg. Progress M-15M is spacecraft tail number 415.
+It docked with the Pirs module at 1439 UTC on Apr 22,
+
+Progress M-14M completed its free flight for the Radar-Progress experiment
+and was deorbited over the Pacific on Apr 28.
+
+YahSat
+------
+
+The second Astrium Eurostar E3000 satellite for Al Yah Satellite
+Communications of Abu Dhabi was launched on Apr 23, aboard a Proton-M
+from Baykonur. The satellite has a launch mass of around 6050 kg
+including propellant. On Apr 25 the satellite was in a 3905 x 35740 km x 23.7
+deg transfer orbit; by May 3 the satellite was in a 35785 x 35804 km x 0.0 deg
+geosynchronous orbit drifting past 47 deg E.
+
+
+RISAT
+-----
+
+India's Radar Imaging Satellite (RISAT-1) was launched from the Satish Dhawan
+Space Center on Sriharikota Island on Apr 26. The 1858 kg RISAT-1 carries
+a C-band synthetic aperture radar payload mounted on an IRS-derived bus.
+RISAT-2, launched in 2009, was a smaller Israeli-built radar payload.
+
+The PSLV-XL rocket's first stage flew eastward to a roughly -5940 x 82
+km x 46.6 deg suborbital path, avoiding overflight of Sri Lanka; the
+second stage then flew southward toward polar orbit, with the third
+stage reaching perhaps -1940? x 333? km x 96.1 deg and impacting the
+southern Indian Ocea at 35.5S 74.5E. The fourth stage entered orbit and
+deployed RISAT-1 to a 465 x 480 km x 97.6 deg initial orbit. RISAT-1's
+onboard engines raised this orbit to 530 x 549 km x 97.6 deg by Apr 28,
+putting the satellite in a sun-synchronous orbit with 05:51 local time
+descending node. 
+
+
+Beidou
+------
+
+A Chang Zheng (Long March) 3B was launched from Xichang with a new large fairing
+and dual satellite adapter, carrying two Beidou-2 satellites called
+'shier ke Beidou er hao weixing' and 'shisan ke Beidou er hao weixing'
+(Beidou-2 satellite 12 and 13) by CALT; they are also known as COMPASS MEO 3
+and MEO 4.
+
+The two satellites were inserted in 200 x 21550 km x 55.0 deg orbits and
+will separately use their own apogee engines to make their orbits
+circular. Four objects with identifiers 2012-018A,B,C,D have been
+cataloged - the two Beidou, the CZ-3B third stage, and the
+intersatellite adapter. On May 6, A and B were still in the transfer
+orbit and no new elements for C and D are available since May 1. It's
+possible that C and D were really the payloads and have been temporarily
+lost after their move to the expected circular orbit.
+
+
+AEHF 2
+------
+
+Atlas V flight AV-031 was launched from Cape Canaveral on May 4 into a
+185 x 901 km x 27.5 deg parking orbit and then a 225 x 50031 km x 20.6 deg
+transfer orbit. It deployed the 6200 kg AEHF SV-2 satellite. The US Air Force Advanced
+EHF communications satellite provides strategic military communications at EHF
+frequencies and is based on the Lockheed Martin/Sunnyvale A2100 spacecraft bus
+with a Japanese IHI BT-4 apogee thruster and an electric propulsion system. 
+The first AEHF had a failure in its main propulsion system but was able
+to eventually reach orbit with its electric ion thrusters.
+
+The AV-031 Centaur stage vented its remaining propellant; an initial set
+of orbital data implying deorbit seems to have been incorrect. Orbit on
+May 5 is reported to be 88 x 50406 km x 20.4 deg, with first perigee pass
+around 1040 UTC on May 5.
+
+Tianhui 1-02
+-------------
+
+On May 6 the satellite 'Tianhui yihao 02 xing'  (Mapping-1 Sat 02)
+was launched from Jiuquan space center by a Chang Zheng 2D launch
+vehicle into a 490 x 506 km x 97.4 deg sun-synchronous orbit
+with a 13:30 local time descending node.  Its elder sibling TH 1-01
+in an orbit with approximately the same local time.
+The CZ-2D second stage was not cataloged and probably was deorbited
+on the first Earth revolution.
+
+TH 1-02, called Tianhui-1B by Western sources, carries
+visibile-band mapping cameras with 5m resolution.
+
+Deep Space
+-----------
+
+The Cassini spacecraft flew past Enceladus at 74 km on both Apr 13 and May 2.
+On May 1, the Dawn spacecraft began to raise its 210 km low altitude orbit
+around Vesta to begin its second high altitude mapping phase at around 680
+km above the surface.
+
+
+Suborbital Flights
+------------------
+
+The Minuteman missile launched on Feb 25 was mission GT203GM, not
+GT206GM as I reported in JSR655, and carried a single Mk 21 reentry
+vehicle from Vandenberg to Kwajalein.
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar 23 0434   Edoardo Amaldi     Ariane 5ES-ATV    Kourou ELA3       Cargo     10A
+Mar 25 1210   Intelsat IS-22     Proton-M/Briz-M   Baykonur LC200/39 Comms     11A
+Mar 30 0549   Kosmos-2479        Proton-K/DM-2     Baykonur LC81/24  EarlyWarn 12A
+Mar 31 1027   Apstar 7           Chang Zheng 3B/E  Xichang LC2       Comms     13A
+Apr  3 2312   NROL-25            Delta 4M+(5,2)    Vandenberg SLC6   Radar     14A
+Apr 12 2239   Kwangmyongsong-3   Unha-3            Sohae             Tech      F01
+Apr 20 1250   Progress M-15M     Soyuz-U           Baykonur LC31/6   Cargo     15A
+Apr 23 2218   Yahsat-1B          Proton-M/Briz-M   Baykonur LC200/39 Comms     16A
+Apr 26 0017   RISAT-1            PSLV-XL           Sriharikota       Radar     17A
+Apr 29 2050   Beidou DW 12     ) Chang Zheng 3B    Xichang LC2       Nav       18A
+              Beidou DW 13     )                                     Nav       18B
+May  4 1842   AEHF 2             Atlas V 531       Canaveral SLC41   Comms     19A
+May  6 0710   Tianhui 1-02       Chang Zheng 2D    Jiuquan SLS2      Imaging   20A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Mar 19 1405   REXUS 12         Imp. Orion         ESRANGE             Micrograv     82
+Mar 22 0900   NASA 36.277UG    Black Brant IX     White Sands         IR Astron    320?
+Mar 27 0858   NASA 45.004UE    Terrier Oriole     Wallops             Atm. Sci     375?
+Mar 27 0859   NASA 46.002UE    Terrier Malemute   Wallops             Atm. Sci     200?
+Mar 27 0900   NASA 41.097UE    Terrier Orion      Wallops             Atm. Sci     157?
+Mar 27 0902   NASA 46.003UE    Terrier Malemute   Wallops             Atm. Sci     254?
+Mar 27 0903   NASA 41.098UE    Terrier Orion      Wallops             Atm. Sci     169?
+Mar 29        Target           Unknown            White Sands?        Target        80?
+Apr  5 1418   SL-6             SpaceLoft XL       Spaceport America   Tech         117
+Apr 19 0237   Agni RV          Agni V             Chandipur           R&D          800
+Apr 25        Shaheen RV       Shaheen 1A         Somniani?           R&D          100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

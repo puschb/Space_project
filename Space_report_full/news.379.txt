@@ -1,0 +1,118 @@
+Jonathan's Space Report
+No. 379                                       1998 Nov  9 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle, Mir and Station
+------------------------
+
+The Spartan 201 satellite was deployed from Discovery on Nov 1 and
+retrieved on Nov 3. Spartan 201 is on its fifth mission to observe the
+solar corona, and this time will be used to recalibrate the SOHO
+satellite which recently resumed observations of the Sun.
+
+Discovery landed at 1703:31 UTC Nov 7 on runway 33 at the Shuttle
+Landing Facility.
+
+On the Mir complex, crew Gennadiy Padalka and Sergey Avdeev are
+unloading the Progress M-40 cargo ship docked at the rear
+(+X, Kvant) docking port.
+
+The launch of the Zarya module is scheduled for Nov 20 from complex 81L
+at Baykonur (5-GIK) aboard a three-stage Proton-K (8K82K) launch
+vehicle.
+
+Errata
+-------
+
+The GE 5 satellite does not have C-band transponders; it
+is a purely Ku-band satellite.
+
+In recent editions of my geo.log file, the IDs for Turksat 1C
+and Arabsat IIA were mistakenly exchanged. The files geo.log
+and launchlog.txt have been corrected and updated.
+
+
+Recent Launches
+---------------
+
+Panamsat's PAS 8 satellite was launched on Nov 4. An International
+Launch Services Proton, built by Krunichev, placed the PAS 8 in orbit.
+The Energiya Blok DM3 upper stage made two burns to deliver PAS 8 to a
+6784 x 35941 km x 17.3 deg transfer orbit. PAS 8 is a Space
+Systems/Loral FS-1300 satellite with 24 C-band and 24 Ku-band
+transponders. It is due to be located over the Pacific after its R-4D
+apogee engine raises the orbit to geostationary, and will provide
+international communications services for Panamsat.
+
+Boeing's Delta 2 launched five Iridium comsats into low earth orbit on
+Nov 6. The new batch includes Iridium 2, one of three prototype
+satellites now refurbished for flight. Launch of the Delta 7920 from
+Vandenberg Air Force Base entered a 168 x 539 km x 86.4 deg parking
+orbit, and then placed the five satellites in  a circular 516 x 530 km x
+86.0 deg polar orbit, in plane 5 of the system. The second stage then
+lowered its orbit to 243 x 512 km so that it will reenter quickly.
+
+The ROSAT X-ray observatory ceased science observations in September
+after accidentally pointing at the Sun again and burning out its
+remaining camera. ROSAT was launched in June 1990 and operated
+well beyond its original expected lifetime. Spacecraft controllers
+in Germany are carrying out end-of-life tests with the satellite.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  3 1004   STEX   )          ARPA Taurus    Vandenberg 576E  Technol.   55A
+              ATEX   )
+Oct  5 2251   Eutelsat W2 )     Ariane 44L     Kourou ELA2      Comsat     56A
+              Sirius 3    )                                     Comsat     56B
+Oct  9 2250   Hot Bird 5        Atlas IIA      Canaveral SLC36B Comsat     57A
+Oct 20 0719   UHF F/O F9        Atlas IIA      Canaveral SLC36A Comsat     58A
+Oct 21 1637   ARD     )         Ariane 5       Kourou ELA3      Technol.  
+              Maqsat 3)                                         Technol.   59A
+Oct 23 0002   SCD-2             Pegasus        Canaveral RW02/20 Rem.Sens. 60A
+Oct 24 1208   Deep Space 1)     Delta 7326     Canaveral SLC17A Probe      61A
+              SEDSAT 1    )                                     Amateur    61B
+Oct 25 0414   Progress M-40     Soyuz-U        Baykonur LC1     Cargo      62A
+Oct 28 2216   Afristar  )       Ariane 44L     Kourou ELA2      Radio com  63A
+              GE 5      )                                       Comsat     63B
+Oct 29 1919   Discovery )       Shuttle        Kennedy LC39B    Spaceship  64A
+              Spacehab  )                                       Laboratory 64A
+Oct 30 1845   PANSAT            -              Discovery, LEO   Test sat   64B
+Nov  1 1703   Spartan 201       -              Discovery, LEO   Astronomy  64C
+Nov  4 0512   PAS 8             Proton-K/DM3   Baykonur         Comsat     65A
+Nov  6 1337   Iridium  2)       Delta 7920-10C Vandenberg SLC2W Comsat     66A
+              Iridium 83)                                       Comsat     66E
+              Iridium 84)                                       Comsat     66D
+              Iridium 85)                                       Comsat     66C
+              Iridium 86)                                       Comsat     66B
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Mar? 1999
+OV-103 Discovery       OPF Bay 1     STS-92  Oct 1999
+OV-104 Atlantis        OPF Bay 2     STS-101 Aug 1999
+OV-105 Endeavour       LC39A         STS-88  Dec  3
+
+MLP2/                          LC39B
+MLP3/RSRM-67/ET-97/OV-105      LC39A     STS-88
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+

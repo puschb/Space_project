@@ -1,0 +1,105 @@
+Jonathan's Space Report
+No. 294                         1996 Jul 26               Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Atlantis is in VAB High Bay 1. The new BI-83 solid booster stack is
+being assembled on Mobile Launch Platform 1 in VAB High Bay 3. However,
+a problem during assembly means that they're going to have to
+disassemble one part of one of the SRBs and try again; no word yet on
+whether this will be a delay. Around Aug 1, external tank ET-82,
+originally intended for STS-80, will be connected to the BI-83 stack. 
+Atlantis will be dismounted from BI-82/ET-80 about the same time, and
+connected to the BI-83/ET-82 stack on around Aug 13. ET-80 will then be
+disconnected from BI-82, the SRB stack will be disassembled, cleaned and
+reassembled (possibly getting a new BI designation?), and according to a
+story on Bill Harwood's page will be used for STS-81. Launch of Atlantis
+is now planned for around Sep 12.
+
+Launch to Mir of a Progress cargo ship (vehicle No. 232) was originally
+planned for Jul 25, but was scrubbed due to a tank pressurization
+problem at T-45s. Another launch attempt will be made Jul 26.
+
+Recent Launches
+---------------
+
+Atlas II flight AC-125 was launched from Complex 36 at Cape Canaveral
+Air Station on Jul 25. Payload was an HS-601 comsat built by Hughes for
+the US Navy, UHF Followon F7 (UHF F/O F7).  The UHF Followon comsats are
+used for US Navy fleet communications. The Lockheed Martin Atlas II uses
+a stretched Atlas first stage and a Centaur II liquid hydrogen/liquid
+oxygen second stage. The Centaur makes two burns to deliver the HS-601
+satellite to geostationary transfer orbit. The early UHF F/O satellites
+were launched on Atlas I, but with the addition of an EHF (extremely
+high frequency) communications package they were moved to the Atlas II.
+
+Navstar SVN 40's apogee motor fired successfully prior to Jul 21 and on
+Jul 23 it was in a 723.65 min, 20275 x 20368 km x 55.0 deg drift orbit.
+It has been assigned the telemetry number PRN 10 and will be placed in
+position E3 to begin service on Aug 12. Meanwhile, Navstar 20, launched
+in 1990, was  retired last May 21; it was the first of the Block II GPS
+satellites to leave service.
+
+The two comsats launched by Ariane on Jul 9 are reaching their final
+orbits. Arabsat 2A was on station at 26.0 deg E on Jul 23. Turksat 1C
+was at 31.3 deg E on Jul 22, drifting 0.1 degree per day.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+
+Jun  4 1234   Cluster F1  )    Ariane 5       Kourou ELA3     Science     FTO
+              Cluster F2  )
+              Cluster F3  )
+              Cluster F4  )
+Jun 15 0655   Intelsat 709     Ariane 44P     Kourou ELA2     Comsat      35A
+Jun 20 1449   Columbia      )  Shuttle        Kennedy LC39B   Spaceship   36A
+              Spacelab LMS 1)
+Jun 20 1845   Kosmos           Soyuz-U        Plesetsk        Recon       FTO
+Jul  2 0748   TOMS             Pegasus XL     Vandenberg      Rem.sens.   37A
+Jul  3 0031   USA 125          Titan 404      Canaveral LC40  Comsat?     38A
+Jul  3 1047   Apstar 1A        Chang Zheng 3  Xichang         Comsat      39A
+Jul  9 2224   Arabsat 2A  )    Ariane 44L     Kourou ELA2     Comsat      40A
+              Turksat 1C  )                                   Comsat      40B
+Jul 16 0050   Navstar SVN 40   Delta 7925     Canaveral LC17B Navsat      41A
+Jul 25 1242   UHF F7           Atlas 2        Canaveral LC36  Comsat
+
+
+Payloads no longer in orbit
+--------------------------
+
+Jul  7        Columbia/LMS         Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-80  Nov 11
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        VAB Bay 1     STS-79  Sep 12
+OV-105 Endeavour       OPF Bay 3     OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-56                VAB Bay 3      STS-79
+ML2/RSRM-54/ET-80/OV-104   VAB Bay 1      STS-79    
+ML3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

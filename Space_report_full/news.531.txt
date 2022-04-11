@@ -1,0 +1,123 @@
+Jonathan's Space Report
+No. 531                                        2004 Jul 25, Somerville, MA
+-------------------------------------------------------------------------------
+
+NASA's Aura research satellite was launched on Jul 15. The Boeing Delta
+7920 rocket took off from Space Launch Complex 2-West at Vandenberg AFB
+and reached a 185 x 691 km x 98.2 deg transfer orbit 11 minutes later.
+At apogee a second burn placed Aura in  a 673 x 681 km x 98.2 deg orbit.
+The Delta rocket separated and  made two more burns  to change its
+inclination and lower perigee to 202 x 673 km x 103.0 deg, ensuring that
+the rocket will reenter quickly. Aura carries a hydrazine propulsion
+system to maintain its orbit. When it reaches its final orbit of 705 km,
+it will form part of the "A-Train", a constellation of remote sensing
+satellites in the same afternoon-ascending-node, sun-synchronous,
+orbital plane providing coordinated observations. Aqua leads the
+A-train, with Aura trailing; smaller satellites will be launched
+inbetween the two.
+
+Aura is EOS Chemistry-1, the third large satellite in the Earth
+Observing System series, with a launch mass of 3112 kg. The spacecraft,
+built by Northrop Grumman Space Technology (formerly TRW), carries an
+infrared radiometer and spectrometer, an ultraviolet/visible ozone
+monitoring spectrometer, and a microwave sounder, and will study ozone
+and pollutants in the atmosphere.
+
+Arianespace launched the Canadian Anik F2 communications satllite on
+July 18. The second uprated Ariane 5G+ took off from Kourou at 0044 UTC
+as flight V163, vehicle 519. The core stage entered a 44 x 1553 km x 7.1
+deg orbit at 0053 UTC and separated from the EPS upper stage. The core
+stage reentered over the Pacific after one orbit, at around 0223 UTC.
+The upper stage shut down at 0111 UTC and put Anik F2 in a 631 x 38370
+km x 6.7 deg geostationary transfer orbit. 
+
+Anik F2 is a Boeing 702 model satellite with a mass of 5965 kg at
+launch, and will provide high speed internet and digital communications
+across North America. It includes C-band, Ku-band and Ka-band
+communications payloads, a 490N bipropellant apogee engine and four
+XIPS-25 ion thrusters for  orbit control. The apogee engine was
+fired for the first time on Jul 24 to raise perigee to 5900 km.
+
+Russia launched a new Parus navigation satellite on Jul 22, naming it
+Kosmos-2407. The 820 kg satellite was launched into a 951 x 1006 km x
+83.0 deg orbit using a Kosmos-3M rocket from the northern launch site at
+Plesetsk.
+
+Tan Ce 2, the second probe in the Chinese-European Double Star
+magnetospheric research program, was launched from the Taiyuan Space
+Center on Jul 25. The CZ-2C/SM rocket entered a 666 x 38566 km x 90.1
+deg polar orbit, complementing the 28-degree equatorial Tan Ce 1
+launched from Xichang last year and the four European Cluster satellites
+in deeper 22000 x 116000 km x 89 deg Earth orbits. Tan Ce 2 has a mass
+of 343 kg.
+
+
+ Registration of satellites with the UN
+ ---------------------------------------
+
+I've updated the UN satellite registry data on my web page.
+
+France has updated its registration of satellites with the United Nations.
+In UN document ST/SG/SER.E/445, 
+<A HREF="http://www.oosa.unvienna.org/Reports/Regdocs/ser445F.pdf">
+http://www.oosa.unvienna.org/Reports/Regdocs/ser445F.pdf,
+</A>
+submitted to the UN on 2004 Mar 4, it
+gave a new list of satellites superseding previous information, which
+includes the registration of 22 previously unregistered satellites. Although
+I congratulate France on these corrections, regrettably there are
+many errors in the part of the document covering earlier years
+of the French space program; these errors are documented at
+
+<A HREF="http://www.planet4589.org/space/un/france.html">
+http://www.planet4589.org/space/un/france.html
+</A>
+
+In its latest submission to the UN, Russia for the first time since 1966
+(with an arguable exception in 1985) failed to register one of its
+satellites - the Gruzomaket dummy payload launched in December 2003 on
+the first Strela test launch. The submission confirms the name of
+2004-05A as Molniya-1T but surprisingly gives the official name of
+2004-10A as Globus-1 instead of Raduga-1 (the Globus-1 name was
+previously classified and Raduga-1 had been used as a cover name).
+Meanwhile, the USA remains the main culprit for unregistered and
+erroneously registered satellites - although most of these errors are
+due to bureaucratic sloppiness, the 2003-54C classified surveillance
+payload was mendaciously registered as "USA 173 debris" despite the fact
+that independent observers have seen the satellite maneuver. Finally,
+the Intelsat satellites remain unregistered by the UK.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+
+Jun 10 0128   Kosmos-2406       Zenit-2         Baykonur LC45     Sigint     21A
+Jun 16 2227   Intelsat 10-02    Proton-M/Briz-M Baykonur LC200/39 Comms      22A
+Jun 23 2254   GPS SVN 60        Delta 7925      Canaveral SLC17B  Navigation 23A
+Jun 29 0359   Telstar 18        Zenit-3SL       Odyssey           Comms      24A
+Jun 29 0630   Demeter       )   Dnepr           Baykonur LC109    Science    25C
+              SaudiSat-2    )                                     Comms      25F
+              SaudiComsat-1 )                                     Comms      25D
+              LatinSat C    )                                     Comms      25G
+              SaudiComsat-2 )                                     Comms      25E
+              Unisat-3      )                                     Tech       25H
+              AMSAT-Echo    )                                     Comms      25K
+              Latinsat D    )                                     Comms      25A
+Jul 15 1002   Aura              Delta 7920      Vandenberg SLC2W  Science    26A
+Jul 18 0044   Anik F2           Ariane 5G+      Kourou ELA3       Comms      27A
+Jul 22 1746   Kosmos-2407       Kosmos-3M       Plesetsk LC132    Navigation 28A
+Jul 25 0705   Tan Ce 2          CZ-2C/SM        Taiyuan           Science    29A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

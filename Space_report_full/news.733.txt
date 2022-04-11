@@ -1,0 +1,281 @@
+Jonathan's Space Report 
+No. 733                                                       2016 Dec 28    Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 50 continues. 
+
+The Progress MS-04 cargo ship was launched from Baykonur on a Soyuz-U
+rocket on Dec 1. However, the vehicle failed during third stage burn and
+its debris fell in the Tuva Republic. Lost with the rest of the cargo
+was the first Orlan-MKS spacesuit (possibly serial No. 3). Unconfirmed
+reports from commenters in the Novosti Kosmonavtiki forum suggest the
+Progress separated from the rocket third stage prematurely and the
+accelerating stage then crashed into the Progress.
+
+The 16-tonne Japanese HTV-6 (Kounotori-6) cargo ship was launched on Dec
+9. The pressurized module contains 600 kg of water and 2152 kg of dry
+cargo. This includes two JAXA J-SSOD and one Nanoracks NRCSD-10 cubesat
+deployers; these will be transferred to the Kibo module.
+
+The J-SSOD #5 contains the following cubesats:
+  STARS-C Oyaki and Koki ('parent' and 'child'), two 1U cubesats connected by a tether,
+    from Shizuoka University which is contining the earlier STARS experiments by Kagawa U.
+    STARS-C appears to have the alternate name 'Hagoromo', also used for a 1990 lunar orbiter.
+
+The J-SSOD #6 contains the following cubesats:
+  EGG, a U. Tokyo 3U cubesat with a 0.6m deployable aeroshell for controlled reentry.
+  ITF-2, from Tsukuba University, a 1U amateur radio payload.
+  AOBA-VeloxIII is a 2U mission from Kyushu Tech and NTU of Singapore with a 
+   micropropulsion system.
+  FREEDOM, a 1U cubesat with a 1.5m deorbit drag device, from Nakashima Engineering of
+   Hirokawa and Tohoku University.
+  Waseda-Sat3, a 1U cubesat from Waseda University with a large thin film drag sail.
+  TuPOD, from GAUSS SRi (Rome), a 3U cubesat containing (and ejecting)
+  two cylindrical 'Tubesats', each 0.75 kg, 0.09m dia 0.13m long. The tubesats are 
+  TANCREDO-1 from a school in Ubatuba, Brazil
+   and OSNSAT from the Open Space Network of Mountain View, California.
+
+The NRCSD-10 contains four Lemur-2 3U cubesats from Spire Global, and
+the TechEdSat-5 (TES-5) from NASA-Ames. TES-5 will carry out a
+controlled reentry experiment with an 'exobrake' drag sail.  In
+addition, the  Honeywell/Morehead U. DM-7 'dependable multiprocessor'
+experiment will be attached to the Nanoracks External Platform on the
+Kibo exposed facility; it is a 1U box.
+
+The HTV also has an Exposed Pallet, which on this mission (using the
+enhanced capacity EP6B+) carries a set of replacement batteries for the
+ISS truss, with a total cargo mass of 1367 kg. The S4, S6, P4 and P6
+truss segments each contain an Integrated Electronics Assembly (IEA),
+with 12 Ni-H2 batteries apiece in separate ORUs (Orbital Replacement
+Units).  On this mission the S4 batteries are to be replaced. Six new
+197 kg Li-ion battery ORUs will be installed and six of the 166 kg Ni-H2
+battery ORUs will be transferred to the HTV EP for disposal on reentry.
+The remaining six Ni-H2 ORUs will remain on S4, but they will be taken
+off line and new 29 kg Adapter Plate ORUs will  be installed between
+them and the truss.
+
+On Dec 14 the Exposed Pallet was grappled by the Canadarm-2, pulled
+out of HTV-6 and attached to the Mobile Base System on the ISS truss.
+On Dec 15-16 the J-SSOD #5 was moved to the Kibo module's airlock.
+On Dec 19 the Japanese RMS arm took the MPEP platform, with
+J-SSOD attached, out of the airlock and the STARS-C cubesat was
+ejected from it at 0855 UTC. On Dec 27 J-SSOD #6 was installed
+in the airlock with its sats to be deployed in January.
+
+
+Gokturk-1
+---------
+
+The Turkish Defense Ministry's Gokturk-1 high resolution (0.7m) imaging satellite
+was launched by the light European launch vehicle Vega on Dec 5. The satellite
+was built by Thales Alenia (Cannes).
+
+WGS 8
+-----
+
+The 8th Boeing 702-class Wideband Global Satcom payload for the US Dept.
+of Defense carries an improved 'channelizer' that increases the capacity
+of the satellite. The second stage was reportedly deorbited, and the
+extra propellant required to do this necessitated a lower apogee
+transfer orbit than for previous WGS missions. By Dec 25 WGS-8
+had reached a 26728 x 44588 km x 0.2 deg orbit.
+
+Resourcesat-2A
+--------------
+
+On Dec 7 India launched the Resourcesat-2A imaging satellite to provide
+continuity of service for the system as 2011's Resourcesat-2 ages. The
+satellite has a 6 metre resolution imager.
+
+Fengyun 4-01
+------------
+
+The first satellite in the FY-4 series flew on Dec 10 to geotransfer orbit.
+China's FY-1 and newer FY-3 series are polar orbiting weather satellites comparable
+to the NOAA polar series, while the FY-2 constellation, now to be superseded
+by the FY-4 system, consists of geostationary satellites like NOAA's GOES.
+FY-4 No. 1 carries a 0.5 km resolution imager, a 913-channel IR sounder,
+a lightning mapping imager, and a space environment package.
+
+Arase
+-----
+
+Japan's second Epsilon rocket launched the 350 kg ERG geospace
+science satellite on Dec 20 into elliptical orbit.
+ERG carries experiments to study energetic particles, waves and fields
+in the magnetosphere. After launch, ERG was renamed 'Arase' (rough water,
+a metaphor for the dynamic magnetic storms of geospace).
+
+The second Epsilon uses a new second stage, the M-35. The first flight
+in 2013 used a derivative of the M-34 from the old M-V rocket. The M-35,
+with a mass of 17200 kg, is a growth version sized to match the 2.6m
+diameter of the larger Epsilon first stage. The third stage is the
+KM-V2c, with minor improvements compared to the previous mission's
+KM-V2b. The PBS liquid post-boost 4th stage was not included on this
+flight.
+
+
+
+Gaojing
+-------
+
+On Dec 28 China launched a CZ-2D from Taiyuan - the first time the 2D model has
+flown from their southern launch site. However, the rocket appears to have
+run into problems and achieved orbit with an underspeed of 100 m/s, making
+a 212 x 520 km orbit instead of a circular 500 km one. 
+
+The main payloads are Gaojing 1 and 2, two commercial high resolution
+(0.5m) imaging satellites also called SuperView 1 and 2. The satellites
+are owned by Beijing Aerospace World View Information Technology Co.,
+Ltd (also called Beijing Space View Tech Co.Ltd.); the US company
+DigitalGlobe is a major investor.
+
+Also aboard was BY70-1, or Bayi kepu weixing 01 xing, a 2U cubesat with
+an amateur radio payload developed by high school students at the
+PLA-related Beijing Bayi School.
+
+Tan Weixing
+-----------
+
+China's Tan Weixing (Carbon Satellite or TanSat) was launched on Dec 21.
+It carries a high resolution grating spectrometer to measure CO2 and O2
+distribution and a wide field of view cloud/aerosol imager. The 620 kg
+satellite will map  global CO2 sources and sinks with a precision of 1
+percent. Three smaller payloads from the Shanghai microsatellite center
+were also carried; they are about 50 kg each. Spark-01 and Spark-02 
+have hyperspectral imagers; the third, referred to as Chao fenbianlu duo
+guangpu chengxiang weixing (Ultra-resolution multispectral imaging
+satellite) has a 1.4m resolution imager.
+
+Ariane
+------
+
+Ariane vehicle L587, mission VA234, placed two comm satellites in orbit
+on Dec 21. JCSAT 15, for Sky Perfect JSAT of Japan, will become JCSAT-110A
+once it becomes operational at 110E to replace JCSAT-110R. Star One D1,
+for Embratel Star One of Brazil, will replace Brasilsat B4. Both are
+Loral 1300 class satellites built in MDA/Loral's Palo Alto factory.
+
+Tianlian 1-04
+-------------
+
+On Dec 1 Tianlian 1-04 was tracked on station at 76.9E, a few degrees from
+Tianlian 1-01.
+
+CZ-11
+-----
+
+The Nov 9 launch of a CZ-11 rocket, described last issue, put 4 objects
+in a circular 500 km orbit and 3 in an elliptical 500 x 1000 km orbit.
+It now appears that the final stage rocket, with attached amateur radio
+payload CAS-2T, is object E, one of those in the elliptical orbit.
+Space-Track has identified object A in the circular orbit as the main
+pulsar navigation experiment satellite, and puts E in the 'large' radar
+cross-section category which supports the idea that E is the rocket.
+
+I am guessing that the two remaining small payloads are the two
+remaining elliptical orbit objects F and G while objects B to D are
+launch adapters or other debris. But it could be the other way around.
+
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+Nov  2 0620   Himawari 9            H-IIA 202         Tanegashima LP1  Weather       64A    S41836    243 x 35857  x 22.4
+Nov  3 1243   Shi Jian 17           Chang Zheng 5/YZ2 Wenchang LC101   Comms/Tech    65A    S41838  35771 x 35804  x  0.8 GEO 163E
+Nov  9 2342   Maichong Xing SW   )  Chang Zheng 11    Jiuquan SLS-E    Astronomy     66A    S41841    493 x   512  x 97.4
+              Xiaoxiang-1        )                                     Tech          66F?   S41846?   503 x  1034  x 98.8
+              Lishui 1-01        )                                     Imaging       66G?   S41847?   503 x   992  x 98.8
+              KS-1Q              )                                     Imaging       66E?   S41845?   503 x  1029  x 98.8
+              CAS-2T             )                                     Imaging       66E?   S41845?   503 x  1029  x 98.8
+Nov 11 1830   WorldView-4       )   Atlas V 401       Vandenberg SLC3E Imaging       67A    S41848    607 x   611  x 98.0
+              Prometheus 2.1    )                                      Comms         67     S41849    572 x   585  x 98.0
+              Prometheus 2.2    )                                      Comms         67     S41850    571 x   584  x 98.0
+              Aerocube 8C       )                                      Tech          67     S41851    573 x   586  x 98.0
+              Aerocube 8D       )                                      Tech          67     S41852    575 x   585  x 98.0
+              CELTEE            )                                      Tech          67     S41853    576 x   586  x 98.0
+              Opticube 4        )                                      Cal           67     S41854    576 x   585  x 98.0
+              RAVAN             )                                      Tech/Sci      67     S41855    569 x   583  x 98.0
+Nov 11 2314   Yunhai-1 01           Chang Zheng 2D    Jiuquan          Weather       68A    S41857    760 x   787  x 98.5
+Nov 17 1306   GalileoSat-15  )      Ariane 5ES        Kourou ELA3      Nav           69A    S41859  22879 x 22906  x 54.6
+              GalileoSat-16  )                                         Nav           69B    S41860  22890 x 22926  x 54.6
+              GalileoSat-17  )                                         Nav           69C    S41861  22901 x 22912  x 54.6
+              GalileoSat-18  )                                         Nav           69D    S41862  22898 x 22899  x 54.5
+Nov 17 2020   Soyuz MS-03           Soyuz-FG          Baykonur LC1     Spaceship     70A    S41864    195 x   228  x 51.6
+Nov 19 2342   GOES 16 (GOES R)      Atlas V 541       Canaveral SLC41  Weather       71A    S41866   8157 x 35269  x 10.6
+Nov 22 1524   Tianlian-1 04         Chang Zheng 3C    Xichang          Data relay    72A    S41869    201 x 41776  x 17.4
+Nov 25 2015   Lemur-2-Sokolsky)                     Cygnus OA-5, LEO   Weather/AIS   62D    S41872    498 x   507  x 51.6  
+              Lemur-2-Xiaoqing)                                        Weather/AIS   62C    S41871    498 x   507  x 51.6  
+Nov 26 0010   Lemur-2-Anubhavthakur )               Cygnus OA-5, LEO   Weather/AIS   62E    S41873    498 x   507  x 51.6  
+              Lemur-2-Wingo         )                                  Weather/AIS   62F    S41874    498 x   507  x 51.6  
+Dec  1 1451   Progress MS-04        Soyuz-U           Baykonur LC1     Cargo         F02    F01484  -4000?x   190  x 51.6
+Dec  5 1351   Gokturk-1             Vega              CSG ZLV          Imaging       73A    S41875    679 x   691  x 98.1 2230LT SSO
+Dec  7 0454   Resourcesat-2A        PSLV-XL          Satish Dhawan FLP Imaging       74A    S41877    814 x   831  x 98.7 1030LT SSO
+Dec  7 2352   WGS SV-8              Delta 4M+(5,4)    Canaveral SLC37B Comms         75A    S41879    430 x 44207  x 27.0
+Dec  9 1326   Kounotori 6           H-IIB             Tanegashima      Cargo         76A    S41881    276 x   302  x 51.6    
+Dec 10 1611   Fengyun-4 01          Chang Zheng 3B/G2 Xichang LC3      Weather       77A    S41882    184 x 35803  x 28.4
+Dec 15 1337   CYGNSS A  )           Pegasus XL        Canaveral RW13   Weather       78D    S41887    515 x   537  x 35.0
+              CYGNSS B  )                                              Weather       78C    S41886    515 x   537  x 35.0
+              CYGNSS C  )                                              Weather       78H    S41891    515 x   537  x 35.0
+              CYGNSS D  )                                              Weather       78B    S41885    515 x   537  x 35.0
+              CYGNSS E  )                                              Weather       78A    S41884    515 x   537  x 35.0
+              CYGNSS F  )                                              Weather       78F    S41889    515 x   537  x 35.0
+              CYGNSS G  )                                              Weather       78G    S41890    515 x   537  x 35.0
+              CYGNSS H  )                                              Weather       78E    S41888    515 x   537  x 35.0
+Dec 18 1913   Echostar 19           Atlas V 431       Canaveral SLC41  Comms         79A    S41893    164 x 65110  x 25.6
+Dec 19 0855   Hagoromo Parent  )                      ISS, LEO         Tech        98-67KR  S41895    400 x   406  x 51.6
+              Hagoromo Child   )
+Dec 20 1100   Arase                 Epsilon           Uchinoura        Space Sci     80A    S41896    228 x 32259  x 31.4
+Dec 21 1922   Tan Weixing  )        Chang Zheng 2D    Jiuquan          Atmos Sci     81A    S41898    690 x   719 x  98.2 0138LT SSO
+              Spark-01     )                                           Imaging       81B    S41899    690 x   720 x  98.1
+              Spark-02     )                                           Imaging       81C    S41900    690 x   726 x  98.1
+              CFDG         )                                           Imaging       81D    S41901    690 x   728 x  98.1
+Dec 21 2030   JCSAT 15    )         Ariane 5ECA       Kourou ELA3      Comms         82A    S41903  35721 x 35774 x   0.1 GEO 135Edr
+              Star One D1 )                                            Comms         82B    S41904  35741 x 35777 x   0.1 GEO  86Wdr
+Dec 28 0323   Gaojing 1  )          Chang Zheng 2D    Taiyuan          Imaging       83A    S41907    212 x   523 x  97.6
+              Gaojing 2  )                                             Imaging       83B    S41908    212 x   523 x  97.6
+              BJ70-1     )                                             Comms         83C    S41909    212 x   523 x  97.6
+
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+There have been suggestions of planned Chinese missile launches in early
+December based on NOTAM airspace closures, but no evidence that the
+launches actually occurred.
+
+On Dec 16 the US Army (as part of a NASA managed launch) test-launched the Zombie, a missile-defense target missile
+probably based on an ATACMS motor. It's not clear whether the flight was exoatmospheric.
+The Dec 15 MDA target launch was intercepted by two SM-6 endoatmospheric missiles from the Aegis ship DDG 53.
+It's not clear what kind of target launch vehicle was used.
+
+Also on Dec 16, according to Pentagon sources quoted by Bill Gertz in the Washington Free Beacon,
+Russia again tested the Nudol antisatellite missile. It's probable Russia is still just testing
+the rocket launch vehicle rather than carrying out actual intercepts at this stage.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Oct 25 0858   RV                UR-100NU           Yasniy                Test         1000?      Kura
+Dec 15        FTM-27 Target     ?                  Kauai?                Target        200?      Pacific Ocean
+Dec 16        A-235 test        Nudol              Plesetsk              Test          100?      -
+Dec 16 1615   NASA 12.080DR     Zombie             White Sands           Test           80?      White Sands
+Dec 26 0535   Agni RV           Agni V             Kalam Island          Test          500?      Indian Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+

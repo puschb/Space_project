@@ -1,0 +1,117 @@
+Jonathan's Space Report
+No. 252               1995 Aug 13                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Endeavour was rolled back out to launch pad 39A on Aug 8. Repairs
+to the SRBs begin this weekend.
+
+
+Recent Launches
+--------------
+
+Delta no. 228, launched from Cape Canaveral on Aug 5, suffered the first
+significant partial failure of a Delta II vehicle (out of 42 launches).
+The Delta 7925 model took off from Pad 17B, but it appears that one of
+the Hercules GEM strapon solid boosters failed to separate, causing the
+first stage to deliver less velocity than planned to the vehicle. The
+second stage compensated by burning for 35 seconds longer than planned
+on its first burn, which placed the rocket in parking orbit. The second
+burn to raise apogee and lower inclination was successful, but the third
+burn of the second stage shut down early when fuel ran out. The
+satellite and third stage separated from the second stage, and the PAM-D
+third stage ignited, placing the satellite in an orbit with an apogee of
+only 30000 km instead of 35700 km. The last similar strapon separation
+failure was in 1974 during launch of the Westar 1 satellite. Delta has
+been a remarkably reliable vehicle; in the last 25 years it has failed
+to reach orbit only 3 times in 150 launches, with an additional handful
+of partial failures similar to Delta 228.
+
+The payload of Delta 228 is Korea Telecom's Mugunghwa satellite
+(informally known to the Western media as Koreasat 1). Mugunghwa is
+a Lockheed Martin Astro Space Series 3000 satellite, and has a Star 30
+solid apogee motor which will be fired to raise the orbit; Mugunghwa
+will need to use some of its hydrazine stationkeeping propellant 
+to complete the orbit circularization and make up for the stage 1 
+underperformance. Late on Aug 5, Mugunghwa was in a 1371 x 29388 km x 20.6
+deg, 532.3 min orbit. The Delta second stage, which was unable to make
+its fourth planned burn to depletion after separation since the
+fuel was already depleted, is in a 938 x 1373 km x 26.7 deg,
+108.5 min orbit. On Aug 10 Mugunghwa fired the Star 30 motor and
+entered a 1074.1 min, 26911 x 29817 km x 0.2 deg equatorial orbit.
+
+The Magion 4 satellite has been cataloged as 23646, 1995-39F.
+Space Command elements place it in a 760 x 191760 km x 63.3 deg
+orbit with a period of 5454.13 minutes.
+
+The IABS apogee stage from the DSCS III Atlas launch has not yet
+been cataloged by Space Command.
+
+A Molniya-3 satellite was launched on Aug 9 from Plesetsk. The Russian
+Molniya satellites are used for domestic communications from 12-hour
+period elliptical orbits inclined at 63 degrees.
+
+Panamsat's PAS 4 satellite raised its orbit to 1203 min, 26461 x 35729 km
+x 0.4 deg with burns of its liquid apogee motor on Aug 5 and Aug 6.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jul  5 0309   Kosmos-2315     Kosmos-3M       Plesetsk LC132  Navigation  32A
+Jul  7 1623   Helios 1A  )    Ariane 40       Kourou ELA2     Recon       33A
+              CERISE        )                                 Sigint      33B
+              UPM LBSAT 1   )                                 Technology  33C
+Jul 10 1238   USA 112         Titan 4 Centaur Canaveral LC41  Sigint      34A
+Jul 13 0530   Galileo Probe   -               Galileo, Solar orb.      89-84E
+Jul 13 1342   Discovery       Space Shuttle   Kennedy LC39B   Spaceship   35A
+Jul 13 1955   TDRS 7          IUS             Discovery,LEO   Comsat      35B
+Jul 20 0304   Progress M-28   Soyuz-U         Baykonur LC1    Cargo       36A
+Jul 24 1552   Kosmos-2316 )   Proton-K/DM2    Baykonur LC??   Navigation  37A
+              Kosmos-2317 )                                   Navigation  37B
+              Kosmos-2318 )                                   Navigation  37C
+Jul 31 2330   DSCS III F9     Atlas IIA Centaur Canaveral LC36A Comsat    38A
+Aug  2 2359   Prognoz-M2  )   Molniya-M       Plesetsk LC43/3 Science     39A
+              Magion 4    )                                   Science     39F
+Aug  3 2358   PAS 4           Ariane 4        Kourou ELA2     Comsat      40A
+Aug  5 1110   Mugunghwa       Delta 7925      Canaveral LC17B Comsat      41A
+Aug  9 0121   Molniya-3       Molniya-M       Plesetsk LC43   Comsat      42A
+   
+Reentries
+---------
+
+Jul  7        Atlantis        Landed at KSC
+Jul 22        Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-73  Sep 21
+OV-103 Discovery       OPF Bay 1     OMDP
+OV-104 Atlantis        OPF Bay 2     STS-74  Oct 26
+OV-105 Endeavour       LC39A         STS-69  Aug ?
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-48/ET-72/OV-105   LC39A      STS-69
+ML2/RSRM-51                VAB Bay 1? STS-74
+ML3/RSRM-50                VAB Bay 3  STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

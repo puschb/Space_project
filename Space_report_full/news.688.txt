@@ -1,0 +1,289 @@
+Jonathan's Space Report
+No. 688                                                       2013 Nov 2, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 37 is underway with commander Fyodor Yurchikin, FE-5 Luca
+Parmitano, FE-6 Karen Nyberg, FE-1 Oleg Kotov, FE-2 Sergey Ryazanskiy
+and FE-3 Michael Hopkins.
+
+
+Ferry ship Soyuz TMA-09M is at Zvezda, TMA-10M at Poisk. Cargo ship
+Progress M-20M is at the Pirs module.
+
+The Cygnus Demo ferry was unberthed from Harmony at 1004 UTC Oct 22
+and released into a 415 x 419 km orbit by the SSRMS at 1131 UTC.
+On Oct 23 at 1306 UTC the orbit was lowered to 180 x 420 km; a further
+burn at 1741 UTC lowered it further to 50 x 420 km and the Cygnus
+reentered and burnt up at 1816 UTC over the South Pacific.
+
+The ATV-4 Albert Einstein cargo ship undocked from the Zvezda module at
+0855 UTC Oct 28.
+
+Soyuz TMA-09M, flown by Yurchikin, Nyberg and Parmitano, undocked from
+the Rassvet module at 0833 UTC Nov 1 and flew around the station at a
+distance of 200m to redock at 0854 UTC with the Zvezda aft port freed up
+by ATV-4.
+ 
+ATV-4 was deorbited over the Pacific on Nov 2, with the final deorbit
+burns at 0835 and 1128 UTC lowering perigee to -70 km; entry loss of
+signal was at 1204 UTC.
+
+I finally saw 'Gravity' last night. For movie lovers traumatized by the apparent
+physics errors, my nerdy analysis of the fictional STS-157 mission may be found at 
+  http://planet4589.org/space/jsr/gravity.html
+
+
+SJ-15
+-----
+
+Bob Christy of zarya.info reports new activity in the Chinese 2013-037
+satellites. The 2013-037A payload, possibly SJ-15, made a slight orbit adjustment of 1km
+on Oct 15 to 660 x 675 km and then released a new object, 2013-037J, with which it is
+stationkeeping within 2 km.
+
+I suspect the new object is a target subsatellite, possibly passive, for experiments
+with proximity operations.
+
+SJ-16
+-----
+
+China launched a new spacecraft on Oct 25, Shi Jian 16. The CZ-4B rocket's third
+stage put SJ-16 into a 600 x 616 km x 75.0 deg orbit, a new profile for the series.
+The mission of SJ-16 is unknown; the SJ ('practice') series satellites carry a mix of
+technology development and military payloads.
+
+Yaogan 18
+---------
+
+Yaogan 18, launched on Oct 29 into sun-synchronous orbit, appears to be the third
+in a series that began with Yaogan 6 and 13. It is in a 492 x 510 km x 97.6 deg
+orbit.
+
+
+Falcon 9 v1.1
+-------------
+
+Various sources tell me that the defunct-before-launch CUSAT 2/Top satellite
+was after all launched on the Falcon 9, and remains attached to the Falcon 9
+second stage. CUSAT (formerly CUSAT 1/Bottom) was launched attached to CUSAT 2
+and separated from it after orbit insertion. CUSAT mass is 23 kg.
+
+The DANDE satellite's lightband adapter bracket was jettisoned from it on Oct 30
+(and cataloged as 2013-055AC). DANDE can now begin its atmospheric density studies.
+
+The situation with the tracking of the objects from the Falcon 9 launch
+has now settled out. The mistake with the international designations
+caused a second overall relabelling so that 55U and 55V are now at the
+end of the list, just to add to the confusion. We now see that all the payloads
+are very close to the original deployment orbit as expected, it is the debris
+objects which have a large scatter in their apogees and perigees.
+
+The old debris object 2013-055D/39268 is now labelled
+2013-055K/39274; the old objects 39265, 39267, 39268, 39269, 39270 are
+no longer being tracked - some have reentered, others may have been errors of
+some kind. The NEW objects 39265-39270 are identified with the payloads and
+are all in orbits close to 39271/2013-055G which (apart from a few early
+element sets which belong to something else) is the Falcon 9 rocket.
+The POPACS objects 39268-39270 still seem to be uncertain; some TLEs for E and F
+may be for parts of the POPACS deployer.
+
+Revised orbital data
+
+ A  Cassiope   325 x 1485 x 81.0
+ B  CUSAT      324 x 1482 x 81.0
+ C  DANDE      325 x 1485 x 81.0
+ D  POPACS 1   324 x 1480 x 81.0
+ E  POPACS 2   323 x 1482 x 81.0
+ F  POPACS 3   324 x 1481 x 81.0
+ G  Falcon 9   319 x 1487 x 81.0
+E' POPACS bit? 324 x 1474 x 81.0
+F' POPACS bit? 324 x 1475 x 81.0
+
+ Debris
+Old Name  New Name        Initial            Current (Oct 11-12)
+39272/H   39272/H         275 x 1420 x 81.0    254 x  766 x 81.1
+39275/K   39275/L         258 x 1421 x 81.0    Reentered Oct 6
+39268/D   39274/K         403 x 1433 x 81.0    432 x 1283 x 80.9
+-         39275/L         -                    405 x  648 x 81.0
+-         39276/M         -                    402 x 1179 x 80.9
+39277/M   39277/N         444 x 1588 x 81.0    460 x 1397 x 81.0
+39278/N   39278/P         407 x 1596 x 81.0    468 x 1393 x 81.0
+39280/P   39280/R         369 x 1595 x 81.0    325 x 1473 x 81.0
+39281/Q   39281/S         378 x 1539 x 81.0    253 x  329 x 80.8
+39282/R   39282/T         350 x 1523 x 80.9    330 x  793 x 80.9
+39283/S   -               391 x 1590 x 81.0    Lost?
+-         39283/U         453 x 1508 x 81.0    491 x  629 x 81.2
+38284/T   39284/V         390 x 1573 x 81.0    383 x  834 x 81.0
+39273/U   39273/J         323 x 1409 x 81.0    Reentered Oct 8
+39279/V   -               319 x 1647 x 81.0    Lost?
+-         39279/Q         -                    428 x 1173 x 81.0
+39265/A   -               261 x 1339 x 81.0    Lost
+39266/B   -               306 x 1483 x 81.0    Lost
+39267/C   -               276 x 1472 x 81.0    Lost
+39269/E   -               264 x 1461 x 81.0    Lost
+39270/F   -               236 x 1460 x 81.0    Lost
+39271/G   -               420 x 1410 x 81.0    Lost
+39274/J   -               336 x 1408 x 81.0    Lost
+39276/L   -               323 x 1380 x 81.0    Lost
+
+
+
+LADEE
+-----
+
+The LOI-2 burn at 1038 UTC Oct 9 lowered the orbit to 227 x 2200 km. A
+further burn on Oct 13 at 0333 UTC circularized the orbit at 235 x
+250 km and LADEE is now in its commissioning phase, and breaking
+records with its laser communication system.
+
+
+Juno
+-----
+
+The Juno mission completed has its first orbit of the Sun, heading out
+to the inner asteroid belt at 2.2AU and back for a 552 km flyby of Earth
+at 1922 UTC Oct 9, which sends it out again into a 0.98 x 5.44 AU x 4.5
+deg solar orbit on its way to Jupiter orbit insertion.
+
+
+Sirius FM6
+----------
+
+A Proton rocket put the Sirius FM6 spacecraft in orbit on Oct 25. Proton
+reached a -516 x 174 km trajectory at 1818 UTC (some 20 km lower than
+expected) and released the Briz stage. Briz fired from 1820 to 1825 UTC
+to reach 173 x 173 km; from 1916 to 1934 UTC to rach 270 x 4999 km; from
+2137 to 2148 UTC to reach 327 x 15140 km, at which point it jettisoned
+the DTB propellant tank; from 2150 to 2156 UTC to reach 430 x 35809 km;
+and on Oct 26 from 0300 to 0307 UTC to reach 4074 x 35818 km x 23.2 deg
+where the Sirius satellite was released.
+
+Sirius FM6 is a Loral 1300 satellite with a launch mass of 6003 kg. It
+will provide satellite digital radio services for Sirius XM. 
+
+   Satellite   Launch        Current orbit
+
+   Sirius FM1  2000 Jun 30   24590 x 46978 x 60.2
+   Sirius FM2  2000 Sep  5   24470 x 47096 x 64.1
+   Sirius FM3  2000 Nov 30   24446 x 47121 x 64.5
+   XM-2        2001 Mar 18   35771 x 35800 x 0.2  GEO 115.2W
+   XM-1        2001 May  8   35770 x 35801 x 0.2  GEO 115.2W
+   XM-3        2005 Mar  1   35783 x 35790 x 0.0  GEO  85.1W
+   XM-4        2006 Oct 31   35785 x 35786 x 0.0  GEO 115.2W
+   Sirius FM5  2009 Jun 30   35779 x 35796 x 0.0  GEO 96W
+   Sirius XM-5 2010 Oct 14   35782 x 35790 x 0.0  GEO  85.2W
+   Sirius FM6  2013 Oct 25    4074 x 35818 x 23.2 En route GEO
+
+Note that Sirius FM4 was not launched.
+
+
+2013 launch statistics
+----------------------
+
+This year has seen the resurgence of the Russian space launch program.
+Orbital attempts so far include 24 Russian rockets (some from Kourou; I count
+Dnepr, Zenit-3SLB as Russian despite their partly Ukrainian manufacture, but
+Zenit-3SL I count as an international project).
+The US is next at 15 launches, then China 10, ESA 5, Japan 3, India 2, 
+S Korea 1, Sea Launch 1.
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Sep  1 1916   Yaogan 17     )    Chang Zheng 4C   Jiuquan LC603     SIGINT      46A
+              YW-17 subsat 1)                                       SIGINT      46B
+              YW-17 subsat 2)                                       SIGINT      46C
+Sep  7 0327   LADEE              Minotaur V       Wallops I. LA0B   Lunar probe 47A
+Sep 11 2323   Gonets-M No. 14 )  Rokot            Plesetsk LC133/3  Comms       48A
+              Gonets-M No. 16 )                                     Comms       48B
+              Gonets-M No. 17 )                                     Comms       48C
+Sep 14 0500   Hisaki             Epsilon          Uchinoura         Astronomy   49A
+Sep 18 0810   AEHF 3             Atlas V 531      Canaveral SLC41   Comms       50A
+Sep 18 1458   Cygnus Demo        Antares 110      Wallops I. LA0A   Cargo       51A
+Sep 23 0307   Fengyun-3 3        Chang Zheng 4C   Taiyuan LC9       Weather     52A
+Sep 25 0437   Kuaizhou-1         Kuaizhou         Jiuquan           Imaging?    53A
+Sep 25 2058   Soyuz TMA-10M      Soyuz-FG         Baykonur LC1	    Spaceship   54A
+Sep 29 1600   Cassiope   )       Falcon 9 v1.1    Vandenberg SLC4E  Comm/Sci    55A
+              POPACS 1   )                                          Sci         55D
+              POPACS 2   )                                          Sci         55E
+              POPACS 3   )                                          Sci         55F
+              DANDE      )                                          Sci         55C
+              CUSat      )                                          Tech        55B
+Sep 29 2138   Astra 2E           Proton-M/Briz-M  Baykonur LC200/39 Comms       56A
+Oct 25 0350   Shi Jian 16        Chang Zheng 4B   Jiuquan           Tech?       57A
+Oct 25 1808   Sirius FM6         Proton-M/Briz-M  Baykonur LC200/39 Comms       58A
+Oct 29 0250   Yaogan 18          Chang Zheng 2C   Taiyuan           Radar?      59A
+
+Suborbital launches
+-------------------
+
+The Strategic Rocket Forces flew an experimental reentry vehicle on a
+Topol' launch from Kapustin Yar to the Balkash range at Sary Shagan on
+Oct 10; the launch was observed by Mike Hopkins on board the ISS,
+orbiting several thousand km to the southeast. Ejecta in an upper stage
+rocket plume of some kind were illuminated by the Sun making an easily
+visible cloud.
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Thanks to Thomas Schiller for alerting me to the FTM-22 and Prithvi launches.
+The ARAV-ER vehicle is possibly a Terrier-Oriole-Star 20, but I would love to get
+a confirmation or correction on that.
+
+The NASA 36.290US flight carried Colorado's annual payload to calibrate the SDO EVE
+solar flux experiment.
+
+Russia launched a series of missiles on Oct 30 as part of a large scale
+military exercise: a Topol from Plesetsk to Kura, a Voevoda R-36M2 from Dombarovskiy/Yasniy
+to Kura, an R-29RM from a sub in the Barents Sea to Kura, and an R-29R from
+a sub in the Sea of Okhotsk to Chizha.  One Iskander-M and three Tochka-U short
+range missiles launched from Kapustin Yar to unknown targets may also have been
+mildly exoatmospheric. Pavel Podvig's russianforces.org site has, as usual, the details.
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Sep  3 0616   Radar target     Silver Sparrow      F-15, Med. Sea    Target       150?
+Sep  6 0520   Bulava RV        Bulava            K-550, White Sea    Test         100?
+Sep 10        MBRV?            Unknown             Wake Island       Target       300?
+Sep 10        MBRV?            eMRBM               C-17, Pacific     Target       300?
+Sep 10        Aegis KV         SM-3              USS Decatur,Pacific Interceptor  150?
+Sep 10        THAAD KV         THAAD               Meck Island       Interceptor  100?
+Sep 10        THAAD KV         THAAD               Meck Island       Interceptor  100?
+Sep 10 2110?  USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 10 2110?  USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 12        USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 12        USN RV           Trident D-5       SSBN, Atlantic O.   Test        1000?
+Sep 15 0920   Agni RV          Agni V              Wheeler I. IC4    Test         800?
+Sep 19 0030   FTM-21 Target    ARAV-C++            Kauai             Target       300?
+Sep 19 0032?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  300?
+Sep 19 0032?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  300?
+Sep 22 1001   Mk 21 RV?        Minuteman 3         Vandenberg LF10   Op. test    1300?
+Sep 26 1033   Mk 21 RV?        Minuteman 3         Vandenberg LF09   Op. test    1300?
+Oct  4 0533   FTM-22 Target    ARAV-ER             Kauai             Target       300?
+Oct  4 0537?  Aegis KV         SM-3-1B           USS Lake Erie       Interceptor  150?
+Oct  7 0345   Prithvi RV       Prithvi II          Chandipur         Op. test     100?
+Oct  8 0650?  Prithvi RV       Prithvi II          Chandipur         Op. test     100?
+Oct 10 1339   Exptl. RV        Topol'              Kapustin Yar      RV test     1000?
+Oct 23 1800   NASA 36.290US    Black Brant IX      White Sands       Solar        278?
+Oct 30        Topol' RV        Topol'              Plesetsk          Exercise    1000?
+Oct 30        10 RVs??         R-36M2              Yasniy            Exercise    1000?
+Oct 30        RV               Shtil'?           K-117, Barents Sea  Exercise    1000?
+Oct 30        RV               Volna             L-433, S.of Okhotsk Exercise    1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,130 @@
+Jonathan's Space Report
+No. 285                       1996 Apr 28                 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The 77KSI (TsM-I) Priroda module was launched by Proton from Baykonur on
+Apr 23. The 19500 kg Priroda is the final module for the Mir complex,
+and was built by the Krunichev factory. 77KSI carries a set of remote
+sensing experiments and some microgravity experiments:
+
+ MSU-SK and MSU-E optical and infrared scanners
+ OZON-M ozone profile detector
+ ISTOK-1 infrared spectrometer
+ MOS Imaging spectrometer, Germany
+ ALISA LIDAR optical sounder, France
+ IKAR-N, IKAR-D scanning and pointing microwave radiometers
+ IKAR-P microwave radiometer
+ TRAVERS Synthetic aperture radar operating at 9 and 23 cm
+ MOMS-2P Stereoscopic imagers
+ MIM  Microgravity Isolation Mount, Canada
+
+On Apr 25 one of the two battery systems on Priroda failed. Priroda does
+not carry solar panels. Fortunately, Priroda docked with Mir at 1243 UTC
+on Apr 26. This is the first time one of the 77KS modules has docked on
+the first attempt. On Apr 27, Priroda was due to be rotated from
+the -X port to the +Z port. Kristall is at -Z, Kvant-2 at +Y, Spektr
+at -Y, and Kvant at +X. The Soyuz TM-23 craft is docked to the +X port
+of Kvant, and the Stikovochnoy Otsek (Docking Module) is attached
+at the -Z port of Kristall. 
+
+Recent Launches
+---------------
+
+The Midcourse Space Experiment (MSX) was launched at 1227:40 UTC on Apr
+24 from Vandenberg into an 896 x 906 km x 99 deg orbit. MSX is a
+Ballistic Missile Defense Organization satellite which will study the
+infrared, visible and ultraviolet signatures of ballistic missiles in
+their midcourse phase (after the launch vehicle rocket plume has shut
+down). The main experiment on MSX is the Spirit III cryogenic infrared
+telescope, the first to use solid hydrogen instead of the liquid helium
+that has been used by infrared astronomy satellites in the past. The
+hydrogen will maintain the dewar at 8.5K. MSX will also perform civilian
+scientific research, with atmospheric observations and astronomical
+studies. The MSX spacecraft was built by Johns Hopkins University's
+Applied Physics Lab.
+ MSX instruments are:
+  SPIRIT III,  0.34m Spatial IR Imaging Telescope, 2.5 -28 microns
+  UVISI   UV and Visible Imagers and Spectrographic Imagers
+  CIC     Contamination Instrumentation Complement
+  (to study outgassing and contamination of optical surfaces)
+  SBV     Space Based Visible camera, 0.15m telescope/CCD
+
+
+Titan IV K-16 was launched from Cape Canaveral on Apr 24. It was a Titan
+401 variant with a Centaur upper stage, and the payload is probably a
+geostationary orbit signals  intelligence satellite.
+
+Kosmos-2332 was launched on Apr 24. It entered a 303 x 1575 km  x 83 deg
+orbit, characteristic of radar calibration satellites including Kosmos-1179,
+Kosmos-1463 and Kosmos-2265. It is believed that these satellites are
+spherical in shape and may be based on the Vostok/Zenit descent cabin
+shell.
+
+Telesat Mobile Inc. (TMI) of Canada's M-SAT satellite was launched by
+Ariane on Apr 20. M-SAT uses the Hughes HS-601 design, but its prime
+contractor was Spar Aerospace of Canada (a similar industrial
+partnership was used for the Anik D satellites in the 1980s in which
+Spar used the Hughes HS-376 design). The satellite is almost identical
+to the AMSC-1 satellite launched last year for American Mobile Satellite
+Corp., and carries L-band transponders for communications between mobile
+users.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar  9 0133   REX-II           Pegasus XL     L1011/Vandenberg Technol.   14A
+Mar 14 0711   Intelsat 707     Ariane 44LP    Kourou ELA2     Comsat      15A
+Mar 14 1740   Kosmos-2331      Soyuz-U        Plesetsk LC43/4 Recon       16A
+Mar 21 0453   IRS-P3           PSLV           Sriharikota     Rem.sensing 17A
+Mar 22 0813   Atlantis         Shuttle        Kennedy LC39B   Spaceship   18A
+Mar 28 0021   GPS 33           Delta 7925     Canaveral LC17A Navigation  19A
+Apr  3 2301   Inmarsat III F1  Atlas IIA      Canaveral LC36  Comsat      20A
+Apr  8 2309   Astra 1F         Proton-K/DM2   Baykonur        Comsat      21A
+Apr 20 2236   M-SAT 1          Ariane 42P     Kourou ELA2     Comsat      22A
+Apr 23 1148   Priroda          Proton-K       Baykonur        Spaceship   23A
+Apr 24 1227   MSX              Delta 7920     Vandenberg SLC2W Mil.tech.  24A 
+Apr 24 1303   Kosmos-2332      Kosmos-3M      Plesetsk        Radar cal   25A
+Apr 24 2337   USA-118          Titan 401      Canaveral LC41  Sigint      26A?
+
+Payloads no longer in orbit
+--------------------------
+
+Mar  9        Columbia        Landed at KSC
+Mar 12        FSW-1 capsule   Reentered over Atlantic
+Mar 13        ODERACS IIA     Reentered
+Mar 19        TSS-1           Reentered over Middle East? (or Atlantic?)
+Mar 31        Atlantis        Landed at Edwards AFB
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-78  Jun 27
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-79  Jul 31
+OV-105 Endeavour       LC39B         STS-77  May 16
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-47/ET-78/OV-105  LC39B       STS-77
+ML2/                                  STS-79
+ML3/RSRM-55            VAB Bay 3      STS-78
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

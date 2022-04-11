@@ -1,0 +1,226 @@
+Jonathan's Space Report
+No. 419                                        2000 Jan 28  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Mission STS-99 is scheduled for launch on Jan 31 carrying Space Radar
+Lab 3, the Shuttle Radar Topography Mission. Orbiter Endeavour's payload
+bay contains:
+ Bay 1-2:    External Airlock
+ Bay 3 Port: Portable Foot Restraint on GABA sidewall carrier
+ Bay 6:      Antenna Trunnion Structure
+ Bay 8-9:    Spacelab Pallet
+ Bay 11:     Antenna Trunnion Structure
+
+Mounted on the pallet and the two ATS devices is the large imaging radar
+payload consisting of the SIR-C C-band/L-band radars and the
+international X-SAR X-band radar, as well as the ADAM mast which will
+extend to 60m length carrying an 360 kg, 8-m long outboard radar for
+interferometric imaging. The outboard mast is a new development,
+the rest of the payload is similar to the configuration flown on
+SRL-1 and SRL-2 in 1994 (STS-59 and STS-68). 
+
+Sponsors of the mission are NIMA (the National Imagery and Mapping
+Agency), NASA, DLR (Germany) and ASI (Italy); the mission is managed by
+JPL. Crew are Keven Kregel (CDR), Dom Gorie (Pilot), Janet Kavandi (MS,
+NASA), Janice Voss (MS, NASA), Mamoru Mohri (MS, NASDA-Japan), Gerhard
+Thiele (MS, ESA).
+
+Recent Launches
+---------------
+
+
+The first launch of 2000 was Lockheed Martin Astronautics's Atlas
+AC-138. The Atlas IIA rocket took off from Cape Canaveral and placed a
+Lockheed Martin/Valley Forge DSCS III satellite in geostationary
+transfer orbit, attached to an IABS upper stage. The DSCS III, serial
+number B-8, is part of the US Air Force's Defense Satellite
+Communications System and will be parked over the Pacific. Mass is about
+900 kg dry.
+
+AC-138 entered a 148 x 899 km x 29.3 deg parking orbit at 0113 UTC
+on Jan 21. At 0125 UTC the Centaur reignited for its second burn and
+delivered the payload to a 240 x 35253 km x 26.1 deg geostationary
+transfer orbit. On Jan 22 the IABS was scheduled to make its apogee burn.
+The IABS carries two Marquardt R-4D engines to place the DSCS in
+geostationary orbit.
+
+Arianespace launched an Ariane 4 (42L model) on Jan 25. Payload was the
+Hughes HS-601HP satellite Galaxy 10R, which will supplement Panamsat's
+Galaxy cable TV distribution constellation. Galaxy 10R,with a dry mass
+of 1987 kg, is a replacement for Galaxy 10, lost on the first Delta 3
+launch failure. It carries Ku and C band transponders and will be parked
+at 127 deg W.
+
+The Ariane 4, flight V126, had two strap-on liquid boosters. The three
+stage vehicle flew from the ELA 2 pad on the coast of French Guiana
+directly to a 217 x 33232 km x 7.0 deg geostationary transfer orbit.
+
+
+Zhongxing-22, launched on Jan 25 by Chang Zheng 3A from Xichang, is a
+Chinese comsat. The CZ-3A is a three-stage launch vehicle with a liquid
+hydrogen upper stage; this was its fourth flight, although the CZ3B
+(with 5 flights) is basically the same vehicle with strapon boosters.
+The Zhongxing series of comsats has provided domestic Chinese
+communications since 1988 for the China Telecommunications Broadcast
+Satellite Corp, a division of the Chinese ministry of Posts and 
+Telecommunications. Early satellites were Chinese-built DFH-2A models,
+and later DFH-3 (Chinese-built but based on a German design). Zhongxing
+5 and 7 where US-built satellites; the US government banned the delivery
+of Zhongxing 8, built by Loral and intended for launch last year. It's
+not clear what the significance of '22' in Zhongxing-22's name is. It's
+also not clear what kind of satellite Zhongxing-22 is; I'm guessing that
+it's a Chinese-built satellite, probably developed by the Chinese
+Academy of Space Technology in Beijing and probably derived from the
+DFH-3 (3-axis stablized) design which was of similar mass (launch mass
+of ZX-22 is 2300 kg).  The DFH-3 has a liquid apogee engine probably
+derived from the MBB S400.It was reported in 1999 that the Feng Huo 1
+(FH-1) satellite was to be launched by CZ-3A in early 2000; it is
+possible that ZX-22 is actually FH-1 by another name. 
+
+Below I give the list of known Zhongxing satellites and their initial
+orbits (the final rocket stage from the ZX-2 launch was never tracked by
+Space Command). ZX-22 is the first domestic Chinese comsat to be placed
+in a slightly supersynchronous transfer orbit, although several CZ-3B
+flights with commercial Western payloads have used a similar transfer orbit.
+The high apogee supports the idea that ZX-22 has a liquid apogee engine
+rather than a solid motor.
+
+  Satellite  Type          Launch        Vehicle  Initial orbit km x km x deg
+  ZX-1       CAST DFH-2A   1988 Mar  7   CZ-3     182 x 35738 x 31.1
+  ZX-2       CAST DFH-2A   1988 Dec 22   CZ-3     ?
+  ZX-3       CAST DFH-2A   1990 Feb  4   CZ-3     245 x 35523 x 30.7
+  ZX-4       CAST DFH-2A   1991 Dec 28   CZ-3     213 x  2455 x 31.0 (fail)
+  ZX-5       LM 3000       Purchased 1993 Jun, was Spacenet 1
+  ZX-6       CAST DFH-3    1994 Nov 29   CZ-3A    246 x 36052 x 28.1
+  ZX-7       Hughes HS-376 1996 Aug 18   CZ-3     200 x 17329 x 27.2 (fail)
+  ZX-6 (R)   CAST DFH-3    1997 May 11   CZ-3A    211 x 35884 x 28.5 
+  ZX-22      CAST?         2000 Jan 25   CZ-3A    493 x 42266 x 24.9 
+
+
+Jan 27 saw the first launch from the California Spaceport, a commercial
+pad on a leased site at Vandenberg Air Force Base. The CLF (Commercial
+Launch Facility) is near the SLC-6 complex on South Vandenberg. The
+launch was the debut of the Orbital Sciences Minotaur, which uses
+Minuteman and Pegasus/Taurus stages. The Minotaur is the space launch vehicle
+for the USAF Orbital/Suborbital Program which uses refurbished hardware
+for small missions; USAF refer to it with the acronym OSPSLV
+(Orbital/Suborbital Program Space Launch Vehicle), which doesn't seem
+any quicker to type than Minotaur. 
+
+The Minotaur first stage is the M55A1 (Minuteman 2 stage 1); the second
+stage is the Aerojet SR19 (Minuteman 2 stage 2). The third stage is the
+Alliant Orion 50XL (Pegasus stage 2) and the final stage is the Orion 38
+(Pegasus stage 3). The first three stages burned for 3 min 20 s, after
+which the vehicle coasted to apogee and the fourth stage ignited at T+10
+min 15s to enter a 746 x 810 km x 100.2 deg polar orbit. This is the
+first orbital launch to use Minuteman hardware. The US has previously
+used refurbished Thor, Atlas and Titan missiles as space launch vehicles.
+
+The Space Test Program P98-1 mission consists of a large collection of
+small satellites aboard the Minotaur launch.  JAWSAT, the USAF's Joint
+AF Academy/Weber State Satellite, is a 64 kg satellite carrying a plasma
+experiment and a particle detector as well as a technology test.
+
+FALCONSAT is a 15 kg USAF Academy satellite, I don't know what its
+payload is (their web site describes four possible payloads but
+doesn't specify which one was selected for flight).
+
+OCSE is the Optical Calibration Sphere Experiment, a 3.5m diameter
+inflatable sphere built by L'Garde Inc. for calibrating the lasers at
+the AFRL Starfire Optical Range. Mass of OCSE plus container is 22 kg.
+The 0.48m long 0.41m diameter OCSE canister was ejected from the JAWSAT
+stack; 42 seconds later, with the canister clear of the other payloads,
+the canister door opened and 10 seconds after that inflation of the
+sphere began (At this writing, successful sphere inflation has not yet
+been confirmed). The canister remains attached to the inflated sphere.
+Once inflated, the sphere's material becomes rigidized - I've handled
+samples of this stuff, and you'd never believe it had been inflated, its
+consistency is something like hard PVC or maybe bamboo... light and
+striated but definitely solid.
+
+ASUSAT is a 5 kg Arizona State University satellite with an Earth imager
+and an amateur radio transponder. 
+
+OPAL is Stanford University's  13 kg Orbiting Picosat Automated
+Launcher. which carries an acclerometer and a magnetometer and four even
+smaller satellites called `picosatellites'. The 0.5 kg STENSAT, built by
+an AMSAT-NA group, carries an amateur radio transponder. The 0.25 kg
+DARPA/Aerospace Corp. MEMS (Micro Electro-mechanical Systems)
+picosatellites, carry an intersatellite communications experiment  and
+are connected by a 30-m tether. Santa Clara University's Artemis 0.6 kg
+picosatellite carries a VLF wave experiment. The picosatellites are
+still attached to OPAL and will be deployed later.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  3 1623   Helios 1B  )      Ariane 40      Kourou ELA2      Imaging    64A
+              Clementine )                                      Sigint     64B
+Dec  3 1951   Mars Polar Lander                MPL Cruise Stage Lander     01D?
+Dec  3 1951   Scott Probe   )                  MPL Cruise Stage Lander     01E?
+              Amundsen Probe)                                   Lander     01F?
+Dec  4 1853   Orbcomm FM30 )    Pegasus XL/HAPS Wallops         Comsat     65A
+              Orbcomm FM31 )                                    Comsat     65B
+              Orbcomm FM32 )                                    Comsat     65C
+              Orbcomm FM33 )                                    Comsat     65D
+              Orbcomm FM34 )                                    Comsat     65E
+              Orbcomm FM35 )                                    Comsat     65F
+              Orbcomm FM36 )                                    Comsat     65G
+Dec 10 1432   XMM               Ariane 5       Kourou ELA3      Astronomy  66A
+Dec 11 1940   SACI-2            VLS            Alcantara        Research   F05
+Dec 12 1738   DMSP 5D-3 F-15    Titan 23G      Vandenberg SLC4W Weather    67A
+Dec 18 1857   Terra             Atlas 2AS      Vandenberg SLC3E Rem.Sens.  68A
+Dec 20 0050   Discovery         Space Shuttle  Kennedy LC39B    Spaceship  69A
+Dec 21 0712   KOMPSAT    )      Taurus         Vandenberg 576E  Imaging    70A
+              ACRIMSAT   )                                      Science    70B
+              Celestis-03)                                      Burial     70C
+Dec 22 0050   Galaxy 11         Ariane 44L     Kourou ELA2      Comsat     71A
+Dec 26 0800   Kosmos-2367       Tsiklon-2      Baykonur LC90    Recon      72A
+Dec 27 1913   Kosmos-2368       Molniya-M      Plesetsk LC16    Early Warn 73A
+Jan 21 0103   DSCS III B-8      Atlas IIA      Canaveral SLC36A Comsat     01A
+Jan 25 0104   Galaxy 10R        Ariane 42L     Kourou ELA2      Comsat     02A
+Jan 25 1645   Zhongxing-22      CZ-3A          Xichang LC2      Comsat     03A
+Jan 27 0303   JAWSAT    )       Minotaur       Vandenberg CLF   Tech.      04E
+              ASUSAT    )                                       Img/Com    04A
+              OPAL      )                                       Tech.      04B
+              OCSE      )                                       Calib.     04C
+              Falconsat )                                       Science?   04D
+              Artemis   )                                       Science
+              STENSAT   )                                       Comsat
+              MEMS 1    )                                       Tech.
+              MEMS 2    )                                       Tech.
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay  1    STS-92  2000?        ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Mar 16  ISS 2A.2a
+OV-105 Endeavour       LC39A         STS-99  2000 Jan 31  SRTM
+
+
+MLP1/
+MLP2/                          LC39B
+MLP3/RSRM-71/ET-92/OV-105      LC39A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

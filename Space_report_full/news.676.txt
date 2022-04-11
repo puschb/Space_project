@@ -1,0 +1,118 @@
+Jonathan's Space Report
+No. 676                                             2013 Mar 20    Somerville, MA USA
+---------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 34 continued during early March with commander Kevin Ford and
+flight engineers FE-1 Oleg Novitskiy, FE-2 Yevgeniy Tarelkin, FE-4 Roman
+Romanenko, FE-5 Chris Hadfield, and FE-6 Tom Marshburn. Ferry ship Soyuz
+TMA-06M was docked at the Poisk module; Soyuz TMA-07M is at Rassvet;
+cargo ship Progress M-17M is at the Zvezda aft port and Progress M-18M
+is at the Pirs module. Dragon CRS-2 is at the nadir Harmony port.
+
+SpaceX recovered nominal operation of Dragon CRS-2 following the
+thruster initialization anomaly that happened on orbit insertion. Dragon
+made a further orbit change, possibly at around 0540 UTC, on Mar 2,
+moving from a 391 x 405 km orbit to a 332 x 507 km orbit, apogee now
+well above the ISS in its 401 x 417 km orbit. Another burn at circa 1100
+UTC adjusted the orbit to 430 x 447 km and was followed by burns on Mar
+3 to complete the rendezvous.
+
+Dragon arrived 350m from the Station at 0840 UTC on Mar 3 and approached
+along the R-bar (ISS-Earth vector) to a distance of 10m. It was captured
+by the SSRMS at 1031 UTC and bolted to the nadir CBM port of the Harmony
+module by 1356 UTC.
+
+On Mar 6 the station SSRMS arm unloaded the HRS Grapple Fixture package
+from the Dragon trunk and berthed it on the Mobile Base System.
+Meanwhile, the crew unloaded all the cargo in the pressurized section.
+Dragon return to Earth is scheduled for Mar 25.
+
+On Mar 13 the Station crew held a change-of-command ceremony as Chris
+Hadfield became Commander. Expedition 35 formally began, with Hadfield,
+Romanenko and Marshburn, when Soyuz TMA-06M undocked at 2343 UTC on Mar
+15 carrying Ford, Tarelkin and Novitskiy.
+
+At 0213 UTC on Mar 16 Soyuz TMA-06M fired its engines to lower orbit
+from 399 x 417 km x 51.6 deg to about -25 x 407 km. It reentered the
+atmosphere at 0242 UTC and landed in Kazakhstan at about 0306 UTC Mar
+16. As of Mar 20 I have not seen a definitive landing time.
+
+
+SBIRS GEO-2
+------------
+
+The second geostationary satellite in the Space-Based Infrared System
+was launched into geostationary transfer orbit on Mar 19 on Atlas V
+flight AV-037.  The SBIRS GEO satellites are built by Lockheed Martin
+and probably have a mass of around 4500 kg. SBIRS carries two infrared telescopes,
+one with a staring sensor and one scanning. The SBIRS system also includes
+secondary payloads on NRO elliptical orbit (HEO) satellites.
+
+Parking orbit of about 174 x 1060 km x 26.7 deg was reached at 2136 UTC;
+GTO of 182 x 35804 km x 22.2 deg at 2149 UTC; and the Centaur separated
+at 2204 UTC to let SBIRS begin its independent climb to GEO altitude. 
+
+
+SBIRS launches:              Current orbit (km x km x deg)
+   HEO-1  2006 Jun 28        2082 x 38273 x 63.4
+   HEO-2  2008 Mar 13        2166 x 38190 x 63.2
+   GEO-1  2011 May  7       35775 x 35798 x  5.7  GEO 93.7E
+   GEO-2  2013 Mar 19         182 x 35804 x 22.2
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Feb  1 0656   Intelsat IS-27     Zenit-3SL        SL Odyssey, Pacific Comms     F01
+Feb  6 1604   Globalstar M078 )  Soyuz-2-1A        Baykonur LC31/6   Comms      05A
+              Globalstar M093 )                                      Comms      05B
+              Globalstar M094 )                                      Comms      05C
+              Globalstar M095 )                                      Comms      05D
+              Globalstar M096 )                                      Comms      05E
+              Globalstar M097 )                                      Comms      05F
+Feb  7 2136   Amazonas 3       ) Ariane 5ECA       Kourou ELA3       Comms      06A
+              Azerspace        )                                     Comms      06B
+Feb 11 1441   Progress M-18M     Soyuz-U           Baykonur          Cargo      07A
+Feb 11 1802   Landsat 8          Atlas V 401       Vandenberg SLC3E  Imaging    08A
+Feb 25 1231   SARAL       )                                         Altimeter   09A
+              Sapphire    )                                         SpSur       09C
+              NEOSSat     )      PSLV-CA           Sriharikota     Astron/SpSur 09D
+              UniBRITE    )                                         Astronomy   09G
+              TUGSAT-1    )                                         Astronomy   09F
+              AAUSAT3     )                                         Ship nav    09B
+              STRaND-1    )                                          Tech       09E
+Mar  1 1510   Dragon CRS-2       Falcon 9          Canaveral SLC40   Cargo      10A
+Mar 19 2121   SBIRS GEO-2        Atlas V 401       Canaveral SLC41  Early Warn  11A
+
+Suborbital launches
+-------------------
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Feb  7 0821   NASA 49.001UE    T-T Oriole N.       Poker Flat        Auroral      754
+Feb 13 0910   ARAV-B Target    Terrier Oriole      Kauai             Target       150?
+Feb 13 0915?  FTM-20 KV        Aegis SM-3          CG-20, Pacific    Interceptor  150?
+Feb 15        NASA 41.104GT    Terrier Imp Orion   White Sands       Tech         130?
+Feb (many)    Julan RV?        Scud              An Nasriyah, Syria  Weapon        80?
+Feb 25 0600?  Arrow KV         Arrow 3           Palmachim?          Interceptor  100?
+Mar 11 0610?  Shark            Terrier Lynx        Wallops I         Target       300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

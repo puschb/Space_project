@@ -1,0 +1,134 @@
+Jonathan's Space Report
+No. 532                                         2004 Aug  9, Somerville, MA
+-------------------------------------------------------------------------------
+* Space Station
+
+The Progress M-49 cargo ship, which has been docked to the Space Station
+since May 27, undocked at 0605 UTC on Jul 30 and carried out a deorbit
+burn at 1039 UTC leading to reentry over the Pacific starting at 1114
+UTC. Progress M-50 is being prepared for launch to bring new supplies to
+the stations. Astronauts Padalka and Fincke made a spacewalk on Aug 3,
+in Orlan-M suits 25 and 26, during which they installed rendezvous and
+docking hardware for the European Automated Transfer Vehicle (ATV),
+scheduled to launch next year. The Pirs airlock was depressurized by
+0642 UTC, with the hatch opened at 0658 UTC. The astronauts reentered
+the airlock at 1116-1120 UTC and closed the hatch at 1128 UTC. Pirs was
+repressurized at 1129 UTC. During the spacewalk, the torques on the
+station from the astronauts' work (or, according to Jim Oberg,
+outgassing from the spacesuit sublimators) were enough to exceed the
+capacity of the CMG gyros in the Z1 module, and thrusters had to be used
+to reorient the station. The spacewalk lasted 4h 48 min (depress to
+repress at 50 mbar) or 4h 30min (hatch open/close). Thanks as usual to
+Andrey Krasil'nikov for EVA details.
+
+* Hubble
+
+One of the Hubble Space Telescope's premier science instruments failed
+on August 3. A power converter has blown in the main electronics box for
+the Space Telescope Imaging Spectrograph (STIS), the only instrument on
+HST that can take spectra, leaving the spectrograph permanently
+unusable. This is a huge blow to astronomers,  since spectra are needed
+to study the chemical composition and physical state of the objects
+Hubble studies, as well as measuring redshifts of galaxies and gas
+velocities around black holes - all science goals that the imaging
+instruments cannot help with. STIS's ultraviolet capability is unique -
+since ultraviolet light from space doesn't reach ground-based telescopes
+- leaving astronomers without any way to study the important ultraviolet
+spectral fingerprints of ionized hydrogen and carbon crucial to studies
+of quasars and of the atmospheres of hot stars. Hubble's sharp imaging
+also helped STIS, allowing spectra of very small regions - such as the
+nuclei of galaxies -  to be picked out from the middle of larger
+sources, key in pinning down the presence of massive black holes in the
+nuclei of galaxies. STIS was added to Hubble on the second servicing
+mission in February 1997, replacing two earlier instruments, the Faint
+Object Spectrograph and the Goddard High Resolution Spectrograph. Its
+successor, the Cosmic Origins Spectrograph (COS), is ready for launch
+but grounded indefinitely because of the ban on post-Columbia Shuttle
+missions to Hubble.
+
+* NASA Discovery Program
+
+The MESSENGER probe to Mercury was launched on Aug 3. The Boeing Delta
+7925H went into parking orbit from Cape Canaveral; the second stage's
+second burn raised the orbit, and then the PAM-D solid motor burn put
+the probe on an escape trajectory. MESSENGER will pass lunar orbit at
+0600 UTC on Aug 4 and leave the Earth's sphere of influence at around
+1800 UTC on Aug 5, entering a 0.92 x 1.08 AU x 6.4 deg heliocentric
+orbit, with a perihelion about 0.0013 AU (200000 km) larger than
+planned, due to a 15 m/s underspeed on the third stage burn. MESSENGER
+(Mercury Surface, Space Environment, Geochemistry and Ranging) will make
+an Earth flyby on 2005 Aug 1, Venus flybys in 2006 and 2007, and Mercury
+encounters in 2008 Jan, 2008 Oct, 2009 Sep and 2011 Mar. On the fourth
+encounter the Aerojet 660N engine will fire to put Messenger in a 200 x
+15193 km x 80 deg orbit around the innermost planet.
+
+* Proton launch
+
+International Launch Services and Krunichev launched Proton-M no. 53507
+with upper stage Briz-M No. 88510 on Aug 4, carrying the Amazonas 1
+communications satellite. Amazonas, a Eurostar 3000 model satellite built
+by Astrium, is owned by the Spanish company Hispasat and will be
+operated by its Brazilian Hispamar subsidiary. The Briz upper
+stage put Amazonas in a 3142 x  35789 km x 9.1 deg transfer orbit.
+ 
+* Assorted probes
+
+The European ion-drive lunar probe, SMART-1, launched in Sep 2003 into
+geostationary transfer orbit, had by Jul 12 reached a 22361 x 155133
+km x 6.9 deg orbit, having used about 41 kg of xenon propellant.
+
+The final stage of the Chinese/European Double Star 2 (Tan Ce 2) probe
+has not yet been tracked. Tan Ce 2 is in a  654 x  38573 km x  90.0 deg
+polar orbit with apogee over the Arctic Circle. 
+
+* Historical note: Astrofizika
+
+The latest issue of the Russian magazine Novosti Kosmonavtiki (NK), in an
+interesting article on the history of the Meteor weather satellite
+system, provides the first details on the mysterious satellite
+Kosmos-1066 launched in December 1978. Kosmos-1066 was identified by
+Igor Lissov and Sergey Voevodin on the FPSPACE list in 1997 as being the
+cover name for the article 11F653 spacecraft 'Astrofizika', but we
+didn't know what it was for. The Astrofizika name suggested a possible
+astrophysics payload but no science results had been reported. The new
+NK article quotes Yuriy Trifonov, director of VNII Elektromekhaniki, the
+design organization for the Meteors, as saying that Kosmos-1066 was
+based on Meteor-1 and carried special optical instruments for the
+observation of artificially created `light sources' on Earth; the craft
+carried an SPD-50 electric thruster like those on Meteor-Priroda to
+allow its orbit to be adjusted to pass over the experiment sites.  The
+Astrofizika satellite is believed to have operated for almost two years.
+
+NK speculate the experiments may have been military in nature, and I
+note that the main USSR organization for the development of directed
+energy weapons was called NPO Astrofizika. Maybe the satellite was
+measuring laser signal strength from an experimental laser at the
+Terra-3 facility to study propagation energy losses, for future
+application to beam weapons, or something of that kind - I emphasize,
+for the benefit of those inclined to overhype, that I am not suggesting
+an actual beam weapon delivering significant energy on target, just a
+jumped-up satellite tracking laser.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                         DES.
+
+Jul 15 1002   Aura              Delta 7920      Vandenberg SLC2W  Science    26A
+Jul 18 0044   Anik F2           Ariane 5G+      Kourou ELA3       Comms      27A
+Jul 22 1746   Kosmos-2407       Kosmos-3M       Plesetsk LC132    Navigation 28A
+Jul 25 0705   Tan Ce 2          CZ-2C/SM        Taiyuan           Science    29A
+Aug  3 0616   MESSENGER         Delta 7925H     Canaveral SLC17B  Probe      30A
+Aug  4 2232   Amazonas          Proton-M/Briz-M Baykonur LC200/39 Comms      31A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

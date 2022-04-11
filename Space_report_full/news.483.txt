@@ -1,0 +1,218 @@
+
+Jonathan's Space Report
+No. 483                                          2002 Jul 10, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Shuttle fleet has been grounded. (Technically, only the next launch,
+of STS-107/Columbia, has been delayed, and processing continues on the
+rest of the Orbiters, but in fact there will be no launches until NASA
+has solved this problem). Cracks were found in pipes containing
+propellant flow lines in the aft fuselage of the Orbiters. These
+`flowliners' supply cold liquid hydrogen from the external tank; they
+might be difficult to replace and it is feared that Shuttle missions
+could be delayed many months. On the other hand, engineers may determine
+that the tiny cracks aren't a  problem, or can be patched up easily, in
+which case the delay in the STS-107 schedule would be only about one
+month and other missions might fly on time. My guess is that the delay
+will end up being relatively short, but we should know more in a week or
+so.
+
+The next flight is currently STS-107, although that could change. This
+mission is a rare non-Station related flight (the only other one in the
+past two years was the STS-109 Hubble mission); it was added to the
+schedule to preserve science opportunities following the end of the
+Spacelab program. Here's my estimate of Columbia's payload bay manifest
+for STS-107. The masses are even more guesswork than usual, so if anyone
+has access to good weight and balance data for the mission, please let
+me know.
+
+STS-107
+                            Mass (kg)
+Bay  1    Tunnel Adapter     500?
+Bay  2-3  Tunnel             800?
+Bay  4-7  Spacehab RDM      8000?
+Bay  10   FREESTAR MPESS    2000?
+Keel 11   OARE                53
+Bay 12-13 EDO pallet        3200?
+                          ------
+Total                      14553?
+
+The Spacehab Research Double Module is making its first flight. It
+carries a selection of microgravity experiments including  the
+Combustion Module 2 racks, the Vapor Compression Distillation rack which
+is a prototype for a Station water recycling system, a centrifuge, a
+refrigerator/freezer, and three Animal Enclosure Modules carrying a
+total of 13 rats. Educational experiments include an ant colony,
+spiders, bees and Medaka fish. The RDM is pressurized and connected to
+the cabin by the Tunnel and the Tunnel Adapter (which has a hatch that
+could be used for emergency spacewalks).
+
+The FREESTAR (Fast Reaction Experiments Enabling Science Technology
+Applications and Research) is a Hitchhiker science payload managed by
+NASA-Goddard. FREESTAR uses an MPESS cross-bay bridge and is a followon
+to the USMP series. It carries the Critical Viscosity of Xenon
+experiment, as well as an ozone spectrometer, a detector to study solar
+radiation output, and an Israeli experiment with UV and IR cameras to
+study dust and aerosols in the atmosphere in the Mediterraean and the
+Sahara. An Israeli astronaut, Col. Ilan Ramon, will be flying on the
+mission.
+
+The OARE is an acceleration measuring package installed in the bottom of
+the payload bay. The EDO (Extended Duration Orbiter) pallet contains
+hydrogen and oxygen tanks used to generate electricity for the long
+duration mission.
+
+The Shuttle Carrier Aircraft returned Endeavour from California
+to Kennedy Space Center on Jun 28-29; Endeavour is now in the OPF
+being inspected for plumbing cracks.
+
+The Progress No. 257 cargo ship (Progress M1-8) undocked from the
+Zvezda module at 0826 UTC on Jun 25. The deorbit burn
+was at 1135 UTC, lowering its orbit from 379 x 398 km x 51.6 deg
+to 50 x 398 km, and the spacecraft reentered over the Pacific
+at 1213 UTC with debris impact near 46S 144W.
+
+Progress spacecraft No. 246 (Progress M-46) was launched from Baykonur
+on Jun 26. ISS mission 8P uses the older model Progress M. M-46
+docked with the Zvezda module at 0623 UTC on Jun 29 after carrying
+out tests of the Kurs rendezvous system on Jun 28.
+
+Erratum: STS-111 landing time was 1757:41 UTC not 1747 UTC.
+
+
+Recent Launches
+---------------
+
+A Kosmos-3M (11K65M) rocket was launched from Plesetsk on Jul 8 and
+placed a pair of Russian Defense Ministry satellites, Kosmos-2390 and
+Kosmos-2391, in 1466 x 1507 km x 82.5 deg orbits. The launch was a
+surprise, as it doesn't fit the established profile of any existing
+Russian military system. Aleksandr Zhelezneyakov's site,
+www.cosmoworld.ru, reports that the satellites are Strela-3 
+communications relay satellites. Previously Strela-3 satellites were
+launched in groups of six aboard Tsiklon rockets, but it  appears that
+the Russian Defense Ministry is moving away from use of the Ukrainian
+Tsiklon. Also, earlier Strela-3 launches were in 1390 x 1415 km orbits,
+significantly lower than the latest launch. The Kommersant newspaper
+reports that the Strela-3 satellites are used by the GRU intelligence
+agency, although it's not clear if the Russian journalists got this from
+new Russian sources or are just repeating the guesses of American and
+British analysts which they found on the Web (Note to old-timers: these
+days one has to be very careful of that kind of circular confirmation -
+it's a different era from the times when anything appearing in the
+Soviet press could be assumed to be official information).
+
+The latest NASA Discovery mission was successfully launched on Jul 3.
+The CONTOUR (Comet Nucleus Tour) probe, built and operated by the Johns
+Hopkins University's Applied Physics Laboratory (APL), flew into orbit
+on a Boeing Delta 7425-9.5 from Cape Canaveral.
+
+Launch was at 0647 UTC, with the first burn of the second stage
+completed at 0659 UTC putting the spacecraft in a 185 x 197 km x 29.7
+deg parking orbit. At 0746 UTC the second stage restarted for a short 4s
+burn to 185 x 309 km x 29.7 deg, and then separated once the PAM-D (ATK
+Star 48B) solid third stage was spun up. The 1.5 minute burn of the
+third stage motor at 0748 UTC put it and CONTOUR in a 90 x 106689 km x
+30.5 deg phasing orbit, according to my analysis of Space Command
+tracking data. This is a little lower perigee than the planned 200 km,
+and may have been either a tracking error or something that was fixed at
+first apogee; by Jul 8 CONTOUR's orbit was 214 x 106686 km x 29.8 deg.
+CONTOUR will stay in this phasing orbit until Aug 15, when it will be
+in the right position for injection into solar orbit using its internal
+ATK Star 30 solid motor. Flyby of comet 2P/Encke is scheduled for Nov
+2003.
+
+Here's my understanding of Contour's planned trajectory (subject to
+correction by any APL or JPL readers). It will mostly be in an orbit
+similar to the Earth, except for the 2004-2006 'backflip' to 12 degrees
+ecliptic inclination which uses two Earth flybys to change its
+orbital orientation without using much fuel.
+
+   CONTOUR planned mission
+ Date          Event                     Orbit (perihelion, aphelion, eclip. inc.)
+ 2002 Aug 15   Solar orbit injection     0.80 x 1.35 AU x 0? deg
+ 2003 Aug 15   Earth flyby 1, 58000 km   0.9 x  1.2? AU x 0? deg
+ 2003 Nov 12   2P/Encke, 100 km nucleus flyby          
+ 2004 Aug 14   Earth flyby 2, 40180 km   1.0 x 1.0 AU x 12 deg 'backflip' orbit
+ 2005 Feb 10   Earth flyby 3, 218770 km  
+ 2006 Feb 10   Earth flyby 4, 30000 km   0.9 x 1.1? AU x 0? deg, end backflip
+ 2006 Jun 18   73P/Schwassmann-Wachmann-3 nucleus flyby
+ 2007 Feb 10   Earth flyby 5, 7600 km    0.8 x 1.35? AU x 0? deg
+ 2008 Feb 11   Earth flyby 6, 19000 km, target for third comet
+ 2008 Aug 15   (possible flyby of 6P/d'Arrest; or may go to a different target)
+
+
+Arianespace launched an Ariane 5G on mission V153 on Jul 5. The Ariane
+vehicle placed two satellites in geostationary transfer orbit. Stellat-5
+is an Alcatel Spacebus 3000B3 with a dry mass of 1805 kg and 2245 kg of
+propellant. The satellite carries Ku-band and C-band transponders, and
+is a joint venture between France Telecom and Europe*Star which will
+provide 2-way internet access and video transmission from 5 deg W.
+Stellat-5 is colocated with France Telecom's Telecom 2C.
+
+Stellat 5 was mounted above the Sylda 5F support structure. Inside Sylda
+5F was the N-Star c satellite, an S-band satellite for mobile telephone
+communications for NTT DoCoMo of Japan. N-Star c has a communications
+payload built by Lockheed Martin and uses the Star 2 bus from Orbital.
+The small Star 2 satellite probably has a dry mass around 800 kg and is
+the first flight of a new Orbital hydrazine/nitrogen tetroxide liquid
+apogee propulsion system with a 500N thrust apogee engine developed by
+Japan's IHI.
+
+Russia's latest Kobal't class spy satellite, Kosmos-2387, has returned
+to Earth, landing probably at about 0230 UTC on Jun 27. Just before
+deorbit, a new object was left in orbit and cataloged as 2002-08C (27456);
+this may be a telescope sunshade or part of the propulsion module. It
+reentered a day later.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  5 0644   Intelsat 905      Ariane 44L     Kourou ELA2      Comms.       27A
+Jun  5 2122   Endeavour )       Shuttle        Kennedy LC39A    Spaceship    28A
+              Leonardo  )
+Jun 10 0114   Ekspress A1R      Proton-K/DM2M? Baykonur         Comms        29A
+Jun 15 2239   Galaxy 3C         Zenit-3SL      Odyssey, POR     Comms        30A
+Jun 20 0933   Iridium SV97 )    Rokot/Briz-KM  Plesetsk         Comms        31A
+              Iridium SV98 )                                    Comms        31B
+Jun 24 1823   NOAA 17           Titan 23G      Vandenberg SLC4W Weather      32A
+Jun 26 0536   Progress M-46     Soyuz-U        Baykonur LC1/5   Cargo        33A
+Jul  3 0647   CONTOUR           Delta 7425-9.5 Canaveral SLC17A Space probe  34A
+Jul  5 2322   Stellat 5 )       Ariane 5G      Kourou ELA3      Comms        35A
+              NStar c   )                                                    35B
+Jul  8 0636   Kosmos-2390 )     Kosmos-3M      Plesetsk         Comms        36A
+              Kosmos-2391 )                                     Comms        36B
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107  Unknown     Spacehab
+OV-103 Discovery       VAB           Maintenance
+OV-104 Atlantis        OPF           STS-112  Unknown     ISS 9A
+OV-105 Endeavour       OPF           STS-113  Unknown     ISS 11A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

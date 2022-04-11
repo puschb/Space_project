@@ -1,0 +1,175 @@
+Jonathan's Space Report 
+No. 209               1994 Sep 2                   Mt Hopkins, Arizona
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-64. The orbiter Discovery
+will carry a variety of science payloads. The payload
+bay will contain:
+ 1) a Spacelab pallet with the LIDAR In-Space Technology
+Experiment (LITE). LITE's laser transmitter
+and telescope receiver will be used to make atmospheric
+measurements and demonstrate laser measurement technology.
+ 2) an MPESS pallet with the Spartan 201 solar observatory
+on its second mission; it will be deployed for two days of
+observations of the solar south pole, to coordinate with
+the Ulysses data.
+ 3) SPIFEX, the Shuttle Plume Impingement Flight Experiment.
+This is a package of instruments on a 10m boom to be attached
+to the RMS arm. It's for testing what happens when the Shuttle
+maneuvers near another spacecraft such as a space station.
+ 4) an MPESS type GAS Bridge pallet carrying 10 GAS (Getaway Special)
+canisters.
+ 5) A sidewall Hitchhiker-G pallet carrying the
+ROMPS (Robot Operated Materials Processing System), two GAS cans
+testing use of robotics in space processing.
+ 6) SAFER Recharge Station, a nitrogen gas refuelling station for
+the  SAFER (Simplified Aid for EVA Rescue), a new propulsive
+spacesuit backpack to be tested by Mark Lee and Carl Meade
+on a spacewalk. The Recharge Station is on the
+payload bay wall; SAFER itself will be stored in the crew cabin.
+
+
+
+Launches
+--------
+
+Progress M-24 failed to dock with Mir on Aug 27. A second automatic docking
+attempt on Aug 30 also failed. A third and final attempt, manually
+controlled by Mir commander Yuriy Malenchenko, was successful on Sep 2.
+
+Kiku-6's LAPS apogee motor failed to develop the correct thrust when it
+was fired on Aug 31 at 0519 UT.  The LAPS was separated at 1510 UTC,
+leaving Kiku-6 in a 7791 x 38715 km x 13.1 deg transfer orbit
+instead of the intended geostationary one.
+
+The USA-105 satellite, launched by Titan 4 Centaur from pad 41
+at Cape Canaveral, is believed to have entered geostationary orbit.
+It may be the first of a new series of geostationary signals 
+intelligence satellites, following on from the MAGNUM satellites
+launched from the Shuttle since 1985. 
+
+The Magellan Venus probe lowered its periapsis to 182 km 
+on Sep 25 in preparation for the Windmill experiment to
+study the amount of torque produced by the Venusian upper
+atmosphere.
+
+Kosmos-2290 was launched by a Zenit rocket from Baykonur
+on Aug 26 into a 211 x 292 km x 64.8 deg orbit. This type
+of orbit suggests that it may be the first of a new generation
+of imaging reconnaissance satellites. All previous Soviet
+and Russian imaging spy satellites were launched by
+derivatives of the R-7 ICBM, the most recent of which are
+the 11A511U and 11A511U2 variants of the Soyuz booster. This
+would mark the first use of the Zenit for a spy satellite,
+although 1987 test flights of the rocket which placed
+inert satellites into similar orbits may have been related.
+
+
+Optus B3 was launched by a Chang Zheng 2E (Long March) rocket
+from the Xichang space center in China on Aug 27. Optus 
+is an Australian telecommunications company. The CZ-2E placed
+the Optus satellite into a 189 x 1084 km orbit at an inclination
+of 27.8 deg. The Thiokol Star 63F solid perigee motor then
+fired to place Optus B3 in a 383 x 39123 km x 24.1 deg transfer
+orbit. Optus B3 will  use its own liquid apogee motor to raise
+the orbit to a circular geostationary one. The satellite is
+a Hughes HS-601 comsat and replaces Optus B2, which disintegrated
+during launch in Dec 1992. The Optus B satellites are successors
+to the Aussat K series launched in the 1980s.
+
+  Chinese CZ-2E and CZ-3 geostationary class launches
+
+CZ3   1984 Jan 29  Chinese comsat
+CZ3   1984 Apr  8  Chinese comsat
+CZ3   1986 Feb  1  Chinese comsat
+CZ3   1988 Mar  7  Chinese comsat
+CZ3   1988 Dec 22  Chinese comsat
+CZ3   1990 Feb  4  Chinese comsat
+CZ3   1990 Apr  7  HS-376 Asiasat 1
+CZ3   1991 Dec 28  Chinese comsat
+CZ3   1994 Jul 21  HS-376 Apstar 1
+
+CZ2E  1990 Jul 16  HS-601 dummy, Test launch
+CZ2E  1992 Aug 13  HS-601 Optus B1
+CZ2E  1992 Dec 21  HS-601 Optus B2
+CZ2E  1994 Aug 27  HS-601 Optus B3
+
+CZ3A  1994 Feb  8  DFH-3 dummy, Test launch
+
+The 12th Block 5D Defense Meteorological Satellite Program spacecraft
+was orbited by a refurbished Atlas E from Vandenberg Air Force Base in
+California on Aug 29. DMSP F-12, or DMSP 23545 as it is also known, is
+built by  Martin Marietta Astro Space and based on the Tiros-N bus also
+used by the civilian NOAA weather satellites.
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jul  1 1224     Soyuz TM-19     Soyuz-U2        Baykonur LC1    Spaceship   36A
+Jul  3 0800     FSW-2           Chang Zheng 2   Jiuquan         Remote sens 37A
+Jul  6 2358     Kosmos-2282     Proton/DM2      Baykonur LC81   EarlyWarn   38A
+Jul  8 1643     Columbia      ) Space Shuttle   Kennedy LC39A   Spaceship   39A
+                Spacelab IML-2)
+Jul  8 2305     PAS 2     )     Ariane 44L      Kourou ELA2     Comsat      40A
+                BS-3N     )                                     Comsat      40B
+Jul 14 0513     Nadezhda        Kosmos-3M       Plesetsk LC133  Navsat      41A
+Jul 20 1735     Kosmos-2283     Soyuz-U         Plesetsk LC43   Recon       42A
+Jul 21 1055     APStar 1        Chang Zheng 3   Xichang         Comsat      43A
+Jul 29 0929     Kosmos-2284     Soyuz-U         Baykonur LC31   Recon       44A
+Aug  2 2000     Kosmos-2285     Kosmos-3M       Plesetsk LC132  ?           45A
+Aug  3 1439     P90-6 APEX      Pegasus/NB-52   Point Arguello  Technology  46A
+Aug  3 2357     DBS 2           Atlas IIA       Canaveral LC36A Comsat      47A
+Aug  5 0112     Kosmos-2286     Molniya         Plesetsk LC16   Early Warn  48A
+Aug 10 2305     Brasilsat B1  ) Ariane 44LP     Kourou ELA2     Comsat      49A
+                Turksat 1B    )                                 Comsat      49B
+Aug 11 1527     Kosmos-2287   ) Proton-K/DM2    Baykonur LC81   Navsat      50A
+                Kosmos-2288   )                                 Navsat      50B
+                Kosmos-2289   )                                 Navsat      50C
+Aug 23 1431     Molniya-3       Molniya         Plesetsk LC43   Comsat      51A
+Aug 25 1425     Progress M-24   Soyuz-U         Baykonur LC1    Cargo       52A
+Aug 26 1200 	Kosmos-2290	Zenit-2         Baykonur LC45   Recon?      53A
+Aug 27 0858     USA-105         Titan Centaur   Canaveral LC41  SIGINT?     54A
+Aug 27 2310     Optus B3        CZ-2E           Xichang         Comsat      55A
+Aug 28 0750     Kiku 6          H-II            Tanegashima     Comsat      56A
+Aug 29 1743?    DMSP 23545      Atlas E         Vandenberg      Weather     57A
+
+
+Reentries
+---------
+
+Jul  9          Soyuz TM-18     Landed in Kazakhstan
+Jul 18	        FSW-2           Landed in China
+Jul 23          Columbia        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     OMDP    -
+OV-103 Discovery       LC39B         STS-64  Sep 9
+OV-104 Atlantis        OPF Bay 3     STS-66  Oct 27
+OV-105 Endeavour       VAB Bay 1     STS-68  Oct 2
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65/OV-105   VAB Bay 1 STS-68
+ML2/RSRM-41/ET-66/OV-103   LC39B     STS-64 
+ML3/                       VAB Bay 3? STS-66   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

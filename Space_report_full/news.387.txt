@@ -1,0 +1,158 @@
+Jonathan's Space Report: 10th anniversary edition!
+No. 387                                          1999 Feb  1  Cambridge, MA
+-------------------------------------------------------------------------------
+Editorial
+---------
+
+The first issue of JSR was sent to an internal email distribution here
+at the Harvard-Smithsonian Center for Astrophysics on 1989 Jan 30, ten
+years ago - I assumed only a few of my friends would be interested. The
+name was intended to emphasize the informal nature of my ramblings, in
+contrast to some of the more pompous and expensive newsletters out
+there. I was persuaded to distribute it more widely, and was surprised
+and astonished to see it grow to an audience of thousands - over 2800 on
+the direct email list as of today, and many more via the WWW and
+republication in other forms. Let me take this opportunity to express my
+thanks to all of you who have  been kind enough to send me information,
+corrections and encouragement over the years. I hope you will continue
+to find JSR a useful source of information!
+
+Shuttle and Station
+------------------------
+
+We're still waiting to hear how long the delay to STS-93 will be.
+Engineers have examining the suspect circuit boards on the Chandra
+observatory. I understand they seem to be almost all fine; we will go
+ahead and fly Chandra to Kennedy Space Center on Feb 4 and make fixes at
+the Cape. Nevertheless, because the Space Station mission STS-96 wants
+to fly in May, we will not be able to launch until well after that.
+Stay tuned for an official announcement on a new launch date.
+
+The Mir space station remains in orbit with Gennady Padalka and Sergey
+Avdeev aboard. The first of several orbit-raising burns was made on Jan
+27. The Progress M-40 cargo craft will undock on Feb 4 and deploy the
+25-m diameter Znamya-2.5 reflector, which may be visible from as a flash
+brighter than the full Moon in various locations around the world (for
+example at around 0h UTC on Feb 5 in Southern Canada).  The reflector,
+attached to the nose of Progress, will reflect a patch of sunlight about
+6km wide on the surface. Znamya-2.5 is developed by the Space Regatta
+Consortium (SRC), led by the RKK Energiya company which operates Mir.
+Mir commander Padalka will use the TORU manual control system to point
+the reflector at the Earth. An earlier experiment, Znamya-2, was
+carried out in Feb 1993. Astronomers have expressed concern about the
+potential that experiments like Znamya may interfere with  observations
+of the night sky. Although Znamya-2.5 itself isn't really a big deal,
+the fact that there is currently no international regulation controlling
+the launching of bright satellites which could destroy sensitive
+astronomical detectors (or, as some have suggested, replace the romantic
+night sky with orbiting billboards for Coke and Microsoft...) has led
+the International Astronomical Union to oppose the Znamya-2.5 experiment
+on the grounds of the precedent it would set.  SRC's long term idea is
+that Znamya could lead to a constellation of huge space mirrors to
+illuminate Arctic cities, which raises a lot of environmental, political
+and practical concerns. Nevertheless, Znamya-2.5 is also an important
+test of the technology of deployable large structures and solar sails,
+with many useful potential applications, and presumably Energiya's main
+intention is that the publicity will generate Western contracts for
+further, less controversial, experiments with deployable structures
+which would use their expertise.
+
+Recent Launches
+---------------
+
+Lockheed Martin's Athena-1 serial LM-6 launch vehicle took off from
+Spaceport Florida's pad at Cape Canaveral Air Station on Jan 27 and
+placed Taiwan's first satellite in orbit. ROCSAT (Republic of China
+Satellite) was built by TRW for Taiwan's National Space Program Office.
+The Castor 120 first stage and Orbus 21D second stage entered suborbital
+trajectories (the Orbus 21D probably just missed orbiting) and the
+Primex OAM third stage burned to enter transfer orbit. After a second
+OAM burn to circularize at apogee, ROCSAT separated into a 588 x 601 km
+x 35.0 deg orbit.
+
+ROCSAT carries a Ka-band experimental communications payload,
+an ocean color imager experiment to study plankton distribution
+for fisheries management, and an instrument to measure thermal
+plasma in the equatorial ionosphere. It also has a small
+hydrazine orbit adjust engine. Mass of the satellite is 400 kg.
+
+Athena launches to date: (LLV-1 and LMLV-1 were earlier names for Athena-1)
+ 
+Date        Serial   Type     Site     Payload
+1995 Aug 15 DLV      LLV-1    V SLC6   Gemstar   (failed)
+1997 Aug 23 LM-001   LMLV-1   V SLC6   Lewis
+1998 Jan  7 LM-004   Athena-2 CC SLC46 Lunar Prospector
+1999 Jan 27 LM-006   Athena-1 CC SLC46 Rocsat 
+
+
+The Galileo probe made another flyby of Europa at 0210 UTC on Feb 1, at
+an altitude of 1495 km. Lunar Prospector lowered its orbit again on Jan
+29, to only 25 x 35 km above the lunar surface. Mars Global Surveyor is
+completing its aerobraking, with orbit now 113 x 551 km x 93.1 deg
+around Mars.
+
+Erratum
+-------
+
+The small PANSAT satellite launched on STS-88 was developed by the Naval
+Postgrad School at Monterey, not by the Naval Academy as implied in my
+annual launch list.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  4 0835   Endeavour  )      Shuttle        Kennedy LC39A    Spaceship  69A
+              Unity      )                                      Station    69F
+              PMA-1      )
+              PMA-2      )
+Dec  6 0043   Satmex 5          Ariane 42L     Kourou ELA2      Comsat     70A
+Dec  6 0057   SWAS              Pegasus XL     Vandenberg       Astronomy  71A
+Dec 10 1157   Nadezhda  )       Kosmos-3M      Plesetsk         Navsat     72A
+              Astrid-2  )	                                Science    72B
+Dec 11 1845   Mars Climate Orb. Delta 7425     Canaveral SLC17A Mars probe 73A
+Dec 14 0431   SAC-A                            Endeavour,LEO    Science    69B
+Dec 15 0209   Mightysat                        Endeavour,LEO    Technol.   69C
+Dec 19 1130   Iridium 88?)      CZ-2C/SD       Taiyuan          Comsat     74A
+              Iridium 89?)                                      Comsat     74B
+Dec 22 0108   PAS 6B            Ariane 42L     Kourou ELA2      Comsat     75A
+Dec 24 2003   Kosmos-2361       Kosmos-3M      Plesetsk         Navsat     76A
+Dec 30 1835   Kosmos-2362  )    Proton-K/DM2   Baykonur         Navsat     77A
+              Kosmos-2363  )                                    Navsat     77B
+              Kosmos-2364  )                                    Navsat     77C
+Jan  3 2021   Mars Polar Lander) Delta 7425    Canaveral SLC17B Mars probe 01A
+              MPL Cruise Stage )
+              DS2 Microprobe 1 )
+              DS2 Microprobe 2 )
+Jan 27 0034   ROCSAT-1          Athena-1       Canaveral SLC46  Science    02A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Unknown
+OV-103 Discovery       OPF Bay 1     STS-96  May 1999
+OV-104 Atlantis        VAB Bay 2     STS-101 Aug 1999
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 1999
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/
+MLP3/                          
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

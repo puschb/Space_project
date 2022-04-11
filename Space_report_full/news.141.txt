@@ -1,0 +1,172 @@
+
+Jonathan's Space Report 
+
+No. 141		1993 Jan 26
+------------------------------------------------------------------------------
+
+Mission STS-55
+--------------
+
+Mission STS-55 is due for launch in February. The payload is
+Spacelab D-2, a materials science laboratory. It will comprise
+a Spacelab Long Module with the Materials Science Double Rack,
+the Anthrorack, and the Advanced Fluid Physics Module;
+and a truss in the payload bay to carry more experiments
+outside the pressurized Long Module. The Spacelab mission is to
+be operated by DARA (Deutsche Agentur fur Raumfahrtgelegenheiten),
+the German space agency and is the second German Spacelab
+mission (Spacelab D-1 flew in 1985). The Spacelab payload will
+be aboard OV-102 Columbia on its 14th flight. Crew are
+Steven Nagel (Commander; 4th flight; commanded STS-37/GRO),  Tom
+Henricks (Pilot; 2nd flight), Jerry Ross (Payload Commander; 4th
+flight), Dr. Bernard Harris, MD (Mission Specialist, 1st flight),
+Charles Precourt (Mission Specialist, 1st flight), Hans-Wilhelm Schlegel
+(DARA Payload Specialist, 1st flight), and Dr. Ulrich Walter (DARA
+Payload Specialist, 1st flight).
+
+
+Mir
+---
+
+The Soyuz TM-16 spaceship was launched on Jan 24 at around 0600 UT. The
+crew are Gennadiy Manakov and Aleksandr Polishchuk. The Soyuz carries
+the APAS androgynous docking system instead of the usual probe system.
+Most dockings use the 'probe and drogue system' where a probe on one
+spacecraft is inserted into a socket on the other and latched. This has
+the disadvantage that two spacecraft with the same `sex', e.g. both
+probes, cannot dock with each other. NASA and NPO Energiya jointly
+developed an 'androgynous' system for the Apollo-Soyuz mission in 1975;
+each spacecraft has an identical system with three flanges sticking out,
+and the flanges of one spacecraft fit between the flanges of the other.
+After three solo test flights on Soyuz spaceships in 1974, the system
+was first used for a docking in 1975 when it was carried on Soyuz-19 and
+Apollo Docking Module 2 (the Apollo CSM 111 spaceship attached itself to
+the Docking Module using the traditional probe/drogue system). Despite
+the intention that it would replace the old system, it has not been used
+for 17 years, since the Soyuz continued to use the old system and the
+only American spaceships to have carried out a docking  in that period
+are the Manned Maneuvering Units MMU 2 and 3, which used the
+probe/drogue system. However, the Kristall module launched in May 1990
+and attached to the Mir complex carries the APAS system, with the
+intention that it be used for dockings with the Buran space shuttle. On
+Jan 26 Manakov and Polishchuk successfully carried out a manual docking
+with the Kristall module APAS port. This means there are now three
+active ports on the complex - the Mir front port, occupied by Soyuz
+TM-15 since Jul 1992; the Kvant rear port, occupied by Progress M-15
+since Oct 1992; and the Kristall APAS port. Radio Moscow reports that an
+unpiloted flight of the second Buran orbiter is still nominally
+scheduled for the spring of 1994; the orbiter would carry out an
+automatic docking with the Kristall module after which a crew would
+enter it and possibly carry out a test flight in it. However it is clear
+that funding for this mission has not been approved and I remain
+doubtful that it will occur. Meanwhile, NASA orbiter OV-104 Atlantis is
+at the Rockwell plant in Palmdale, California being reconfigured to
+accept a docking module which would allow it to link up with the
+Kristall module port in 1995, as part of a mission of an American
+astronaut aboard the Mir station.
+
+Mir complex current configuration:
+(docking port numbers are my own arbitrary assignments;
+they are in order of use.)
+
+Mir port 1:       Soyuz TM-15
+Mir port 2:       Kvant (port 1)
+Mir port 3:       Kvant-2 (port 1)
+Mir port 4:       Kristall (port 1)
+Mir port 5:       (vacant)
+Mir port 6:       (vacant)
+Kvant port 1:	  Mir core module (port 2)
+Kvant port 2:     Progress M-15
+Kvant-2 port 1:   Mir core module (port 3)
+Kvant-2 SPK port: SPK maneuvring unit
+Kristall port 1:  Mir core module (port 4)
+Kristall port 2:  Soyuz TM-16
+					______
+					\    /
+			           ------|TM |------
+				  |______|16 |______|
+					 \   /
+					 /   \
+					 |   |
+					 -----
+                                         /___\ <-- APAS unit
+                                         / 2 \
+                                         \   /  <--Kristall docking
+                                        -------    node
+                                    |  /       \
+                                    |  |       |
+                                    |  |   |   |
+                                    |  |   |   |
+                                    |  |   |   |
+                                    | /Kristall \
+              ______  _____________ | \_       _/
+|\_____  __  _|     \ |            \|___\_1___/__  _____/|
+|PM15| \/  \|  Kvant ||    Mir          \/4-\ /  \/ |TM15|
+| ___|_/\__/|_2     1||2            ____    1|\__/\_|___ |
+|/            |     / |             ____/\3_/           \|
+              ------  |____________/   _/---- \_
+                 ||                   /   1     \
+                 ||                   \_Kvant-2_/
+                 ||                    |       |
+                 ||                    |       |
+                 ||                    |   |   |
+         Sofora  ||                    |   |   |
+                 ||               SPK  |       |
+                [_]                  []|       |
+              VDU                       \_____/
+                                        |-----|
+					Airlock                                        
+
+(c) Jonathan McDowell 1993
+
+
+--------------------------------------------------------------------------------
+
+Launches
+--------
+
+Date		Name		Launch Vehicle	Site		Mission	   INTL.
+									   DES.
+
+Jan 12 1100?	Kosmos-2230	Kosmos R-14	Plesetsk	Navsat	   01A
+Jan 13 0155?	Molniya-1	Molniya		Plesetsk	Comsat	   02A
+Jan 13 1359	Endeavour	STS-54		Kennedy		Spaceship  03A
+Jan 13 2012	TDRS 6		IUS		STS-54,LEO	Comsat     03B
+Jan 19 1455?	Kosmos-2231	Soyuz		Plesetsk	Recon      04A
+Jan 24 0600?	Soyuz TM-16	Soyuz		Baykonur	Spaceship  05A
+
+Reentries
+---------
+
+Jan 10 0416	Kosmos-2229	Landed in Kazakhstan
+Jan 18		Kosmos-2220	Landed in Kazakhstan?
+Jan 19 1338	Endeavour	Landed at Kennedy Space Center
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-55
+OV-103 Discovery       OPF Bay 3     STS-56
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-56	       VAB Bay 1 
+ML2/
+ML3/STS-55/ET	       VAB Bay 3
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+

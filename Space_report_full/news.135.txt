@@ -1,0 +1,100 @@
+
+Jonathan's Space Report 
+
+No. 135		1992 Dec 1
+------------------------------------------------------------------------------
+
+Cosmonauts Solov'yov and Avdeev continue in orbit aboard the
+Mir/Kvant/Kvant-2/Kristall/Soyuz TM-15/Progress M-15 orbital complex. On
+Nov 23 they ejected a small satellite, Mak-2, from one of the airlocks
+into a 392 x 397 km orbit inclined 51.6 deg. The precursor Mak-1
+satellite, which was deployed in June 1991 but failed, carried an
+experiment to study plasma in the upper atmosphere. I don't have any
+details on Mak-2 yet, it may be a replacement. If anyone knows the
+payload or the deployment time please let me know.
+
+Discovery is on Pad 39A awating launch on mission STS-53 on Dec 2. 
+Recent speculations by Sean Sullivan and Philip Chien passed on to me by
+Bruce Watson suggests that the payload is to enter an elliptical 12-hour
+orbit. This implies it is probably the second satellite in a series of
+highly classified electronic intelligence satellites which I refer to as
+Advanced JUMPSEAT. These satellites apparently are replacing the
+JUMPSEAT satellites launched by Titan 34B Agena D from 1971 to 1983. The
+JUMPSEAT satellites, also known as AFP 711, were built by Hughes
+Aircraft, who also built the LEASAT comsats. The unclassified payload
+bay drawings for STS-53 suggest a shape and size similar to LEASAT for
+the Adv JUMPSEAT, so I speculate that the propulsion system is the same,
+namely a UTC Orbus 7S solid perigee motor and a Marquardt R4D liquid
+apogee motor. Here is the launch history of the JUMPSEAT series as I
+have reconstructed it, but there are still some uncertainties:
+
+Satellite	Launch		Date	Orbit
+
+Jumpseat 1	T3B-36	   1971 Mar 21	390x33800x63.2	   1971-21A
+Jumpseat 2	T3B-37	   1972 Feb 16	Agena failed	    -
+Jumpseat 3	T3B-38	   1973 Aug 21	460x39296x63.3	   1973-56A
+Jumpseat 4	T3B-50	   1975 Mar 10	295x39337x63.5	   1975-17A
+Jumpseat 5	T34B-2	   1978 Feb 25	805x34272x63.5	   1978-21A
+Jumpseat 6	T34B-8	   1981 Apr 24	700x39300x63??	   1981-38A
+Jumpseat 7	T34B-9	   1983 Jul 28	1028x39321x63.4	   1983-78A
+Adv Jumpseat 1	STS-28	   1989 Aug  8	Unknown		   1989-61B
+
+I had earlier speculated that the Titan 2 launches in Sep 1988,
+Sep 1989 and Apr 1992 were the Advanced JUMPSEAT payloads, but
+I now believe this to be incorrect; they remain among the most
+mysterious US military payloads; the launch of the second one
+was omitted from US reports to the UN in an unusual contravention of
+the treaty on registration of space objects.
+
+Kosmos-2221 was launched by Tsiklon from Plesetsk on Nov 24.
+It is an electronic intelligence spacecraft in a 650x 663 km 
+x 82.5 deg orbit.
+
+Kosmos-2222, launched on Nov 25, is an early warning satellite
+in an elliptical 597x  39758 km x 62.90 deg orbit.
+
+Launches:
+Date		Payload		Rocket		From
+
+Nov 20 1540?	Kosmos-2220	Soyuz		Plesetsk	      77A
+Nov 21 1345     MSTI-1		Scout		Vandenberg	      78A
+Nov 22 2354 	Navstar GPS 32 	Delta 7925	Canaveral	      79A
+Nov 23 		Mak-2		-		Mir		1986-17GX
+Nov 24 0420?	Kosmos-2221	Tsiklon		Plesetsk	      80A
+Nov 25 1100?	Kosmos-2222	Molniya		Plesetsk	      81A
+Nov 27 1325?	?		Proton/Blok-DM	Baykonur	      82A
+
+Reentries:
+Date
+Nov 19		Molniya-1 (54)
+Nov 20		Kosmos-2210	[Landed in Kazakhstan?]
+Nov 22		Resurs-500	[Landed in Kazakhstan]
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-55
+OV-103 Discovery       LC39A         STS-53
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       VAB Bay 1     STS-54
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-53/ET/OV-103   LC39A 
+ML2/STS-54/ET/OV-105   VAB Bay 1
+ML3/STS-55	       VAB Bay 3
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+

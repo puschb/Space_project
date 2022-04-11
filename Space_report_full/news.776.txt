@@ -1,0 +1,184 @@
+Jonathan's Space Report
+No. 776                                                        2020 Mar 10  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 62 continues.
+
+Cygnus NG-13, the S.S. Robert Lawrence, was grappled by Canadarm-2 at 0905 UTC Feb 18
+and berthed at Unity nadir at 1116 UTC.
+
+NG-13's pressurized cargo of 3466 kg includes;
+    ColKa, a Ka-band antenna package to be EVA-installed on Columbus. (ESA, built by MDA-UK; 120 kg)
+    RED-EYE 2, a DARPA satellite (100kg class, Kaber deployer)
+    Nanoracks NRCSD-18 deployment with 2 known cubesats:
+     DeMi, a 6U cubesat with a DARPA deployable mirror experiment, led by Aurora Flight Sciences (10 kg class)
+     TechEdSat-10, a 1x6U cubesat (0.6 x 0.1 x 0.1m) with a controllable aerobrake for targeted reentry 
+                  (Ames/San Jose State, 10 kg class)
+NG-13's external cargo of 167 kg is an NRCSD-E deployer carrying unknown cubesats.
+ 
+On Feb 19 the Nanoracks NRCSD-17 deployment was carried out, with
+cubesat deployers launched on NG-13 and CRS-19 extracted frome the Kibo
+module by the JEM-RMS.
+
+On Feb 20 the JEM-RMS robot arm moved the ICS-EF unit from JEM-EF slot
+EFU7 to slot EFU13. The ICS-EF Inter-Orbit Communication System provided
+data links via the Kodama satellite, which was retired in 2017. The
+Canadarm-2 arm unberthed and jettisoned the 310 kg, 1.9 x 0.8m box into
+orbit at 1850 UTC Feb 21.
+
+On Mar 7 Dragon CRS-20 was launched carrying cargo for ISS including the
+commercial Bartomoleo  experiment platform from Airbus, which will be
+attached to the Columbus module. The Falcon 9 first stage made a
+successful return to Landing Zone 1 at Cape Canaveral. Dragon arrived at
+ISS on Mar 9, with Canadarm-2 grapple at 1025 UTC and berthing at 1218
+UTC.
+
+XJS
+---
+
+Four new technology test satellites (Xin Jishu Shiyan Weixing) for Earth
+observation and intersatellite communications were launched from Xichang
+on Feb 19. XJS C and D were built by SAST/Shanghai; XJS E by Harbin, and
+XJS F by DFH Satellite.
+
+Meridian
+--------
+
+Russian military communications satellite Meridian-M No. 19L was launched on Feb 20
+from Plesetsk into a Molniya orbit. 
+
+MEV-1
+-----
+
+The Northrop Grumman MEV-1 satellite approached within 5 km of its target satellite Intelsat 901
+on Feb 18. After several practice approaches, MEV-1 successfully docked with Intelsat 901 
+on Feb 25 at 0715 UTC. MEV-1 will remain attached to I-901 to provide attitude control and propulsion,
+extending the communications satellite's useful life. I-901 raised itself out of GEO on Dec 11
+to participate in the experiment. The satellites are in a 36080 x 36099 km x 1.6 deg orbit, drifting 4 degrees
+west a day over Indonesia.
+
+USA 294
+-------
+
+The USA 294 satellite launched by Electron in January has been located in a 586 x 588 km x 70.0 deg orbit.
+
+Debris event
+------------
+
+The S5M rocket stage of Tsiklon-3 No 67082-803, which launched Meteor-3 No. 5 in Aug 1991,
+disintegrated on Feb 12 at 1046 UTC. 28 debris objects have been cataloged. This is
+the 5th S5M stage to disintegrate. 104 more S5M stages remain in orbit.
+
+Beidou
+------
+
+Beidou DW 54, the second geostationary payload in the Beidou-3 series, was launched to geotransfer
+orbit on Mar 9. The satellite has the system designations Beidou-3 GEO-2/C60.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Feb  1 1544   CIRiS                                      Slingshot/NG-12,LEO  Sci   19071K? S45120?  458 x  474 x 51.6
+Feb  1 1943   ORCA-2                                     Slingshot/NG-12,LEO  Tech  19071L? S45121?  459 x  473 x 51.6
+Feb  1 2115   EdgeCube   )                               Slingshot/NG-12,LEO  Rem.sen. 19071M? S45122? 459 x  473 x 51.6
+              MakerSat-1?)                                                    Tech  19071N? S45123?  459 x  473 x 51.6
+Feb  1?       MiniCarb                                   Slingshot/NG-12,LEO  Sci   19071P? S45124?  459 x  473 x 51.6
+Feb  1?       VPM                                        Slingshot/NG-12,LEO  Sci   19071Q? S45125?  459 x  473 x 51.6
+Feb  1?       Lynk??                                     Slingshot/NG-12,LEO  Comms 19071R? S45126?  459 x  473 x 51.6
+Feb  6 2142   OneWeb 0013 )               Soyuz 2-1B/Fregat  Baykonur LC31    Comms    08A  S45131   439 x  460 x 87.4
+              OneWeb 0021 )                                                   Comms    08D  S45134   439 x  464 x 87.4
+              OneWeb 0028 )                                                   Comms    08K  S45140   440 x  465 x 87.4
+              OneWeb 0026 )                                                   Comms    08J  S45139   440 x  465 x 87.4
+              OneWeb 0020 )                                                   Comms    08C  S45133   449 x  466 x 87.4
+              OneWeb 0051 )                                                   Comms    08AA S45155   440 x  466 x 87.4
+              OneWeb 0059 )                                                   Comms    08AH S45162   442 x  467 x 87.4
+              OneWeb 0036 )                                                   Comms    08P  S45144   443 x  467 x 87.4
+              OneWeb 0032 )                                                   Comms    08L  S45141   443 x  468 x 87.4
+              OneWeb 0058 )                                                   Comms    08AG S45161   444 x  468 x 87.4
+              OneWeb 0022 )                                                   Comms    08E  S45135   446 x  467 x 87.4
+              OneWeb 0024 )                                                   Comms    08G  S45137   447 x  467 x 87.4
+              OneWeb 0044 )                                                   Comms    08V  S45150   447 x  467 x 87.4
+              OneWeb 0041 )                                                   Comms    08T  S45148   448 x  468 x 87.4
+              OneWeb 0039 )                                                   Comms    08R  S45146   448 x  468 x 87.4
+              OneWeb 0047 )                                                   Comms    08X  S45152   448 x  468 x 87.4
+              OneWeb 0056 )                                                   Comms    08AE S45159   448 x  469 x 87.4
+              OneWeb 0062 )                                                   Comms    08AJ S45163   448 x  470 x 87.4
+              OneWeb 0057 )                                                   Comms    08AF S45160   448 x  472 x 87.4
+              OneWeb 0023 )                                                   Comms    08F  S45136   448 x  472 x 87.4
+              OneWeb 0038 )                                                   Comms    08Q  S45145   448 x  473 x 87.4
+              OneWeb 0054 )                                                   Comms    08AD S45154   448 x  473 x 87.4
+              OneWeb 0049 )                                                   Comms    08Z  S45154   448 x  474 x 87.4
+              OneWeb 0035 )                                                   Comms    08N  S45143   449 x  475 x 87.4
+              OneWeb 0017 )                                                   Comms    08B  S45132   449 x  475 x 87.4
+              OneWeb 0065 )                                                   Comms    08AK S45164   449 x  476 x 87.4
+              OneWeb 0025 )                                                   Comms    08H  S45138   451 x  476 x 87.4
+              OneWeb 0052 )                                                   Comms    08AB S45156   451 x  476 x 87.4
+              OneWeb 0053 )                                                   Comms    08AC S45157   452 x  476 x 87.4
+              OneWeb 0040 )                                                   Comms    08S  S45147   452 x  476 x 87.4
+              OneWeb 0033 )                                                   Comms    08M  S45142   453 x  476 x 87.4
+              OneWeb 0045 )                                                   Comms    08W  S45151   454 x  476 x 87.4
+              OneWeb 0048 )                                                   Comms    08Y  S45153   454 x  476 x 87.4
+              OneWeb 0043 )                                                   Comms    08U  S45149   455 x  476 x 87.4
+Feb  9 0134   IGS O-7                     H-IIA              Tanegashima      Imaging  09A  S45165   477? x 506?x 97.4?
+Feb  9 1515   Zafar                       Simorgh            Khomeini         Imaging  F01  F01548 -2000? x 540 x 55
+Feb 10 0403   Solar Orbiter               Atlas V 411        Canaveral LC41   Probe    10A  S45167   240  x-38671x32.9
+Feb 15 2021   S.S. Robert Lawrence        Antares 230+       Wallops MARS LA0A Cargo   11A  S45175   195 x  267 x 51.6
+Feb 17 1505   Starlink 1105     )         Falcon 9           Canaveral LC40   Comms   )12A           212 x  383 x 53.0
+              Starlink 1138     )                                             
+              Starlink 1143     )
+              Starlink 1154     )
+              Starlink 1187-1189)
+              Starlink 1191-1192)
+              Starlink 1197-1206)
+              Starlink 1208-1212)
+              Starlink 1214-1222)
+              Starlink 1224-1241)
+              Starlink 1243-1247)
+              Starlink 1254     )
+              Starlink 1269-1271)                                             Comms   )12BM          212 x   383 x 53.0
+Feb 18 2218   JCSAT 17      )              Ariane 5ECA+       Kourou ELA3     Comms    13A   S45245  280 x 35729 x  6.0
+              GEO-Kompsat 2B)                                                 Comms    13B   S45246  280 x 35729 x  6.0
+Feb 19 0710   RadSat-U                                 NRCSD-17, ISS, LEO     Tech   9867QZ? S45257  413 x   421 x 51.6
+Feb 19 0935   Phoenix                                  NRCSD-17, ISS, LEO    Imaging 9867RA? S45258  413 x   421 x 51.6
+Feb 19 1120   QARMAN                                   NRCSD-17, ISS, LEO     Sci    9867RB? S45259  413 x   421 x 51.6
+Feb 19 1255   CryoCube-1  )                            NRCSD-17, ISS, LEO     Tech   9867RC? S45260  413 x   421 x 51.6
+              AztechSat-1 )                                                   Comms  9867RD? S45261  413 x   421 x 51.6
+Feb 19 1430   SOCRATES                                 NRCSD-17, ISS, LEO     Tech   9867RE? S45262  413 x   421 x 51.6
+Feb 19 1600   Argus-02 MVP)                            NRCSD-17, ISS, LEO     Tech   9867RF? S45263  413 x   421 x 51.6
+              HARP        )                                                   Tech   9867RG? S45264  413 x   421 x 51.6
+Feb 19 1740   SORTIE                                   NRCSD-17, ISS, LEO     Sci    9867RH? S45265  413 x   421 x 51.6
+Feb 19 2107   XJS C )                      Chang Zheng 2D     Xichang         Tech      14A  S45249  474 x   483 x 35.0
+              XJS D )                                                         Tech      14B  S45250  474 x   483 x 35.0
+              XJS E )                                                         Tech      14C  S45251  474 x   483 x 35.0
+              XJS F )                                                         Tech      14D  S45252  474 x   483 x 35.0
+Feb 20 0825   Meridian-M No. 19L           Soyuz-2-1A/Fregat  Plesetsk LC43/3 Comms     15A  S45254 1017 x 39344 x 62.8
+Mar  7 0450   Dragon CRS-19                Falcon 9           Canaveral SLC40 Cargo     16A  S45341  204 x   384 x 51.6
+Mar  9 1155   Beidou DW 54                 Chang Zheng 3B     Xichang         Nav       17A  S45344  231 x 35775 x 28.4
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jan 19        RV                K-4                  Visakhapatnam       Test          500?      Indian Ocean
+Jan 24        RV                K-4                  Visakhapatnam       Test          500?      Indian Ocean
+Jan 27 1340   Polar NOx 2       Black Brant 9        Poker Flat          Aeronomy      260       Alaska
+Feb  5 0833   FTU-2             Minuteman 3          Vandenberg          Test         1300?      Kwajalein
+Feb 12        USN RVs           Trident D5LE         USS Maine, Pacific  Test         1000?      Wake Island
+Feb 16        USN RVs           Trident D5LE         USS Maine, Pacific  Test         1000?      Wake Island
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

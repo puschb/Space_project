@@ -1,0 +1,163 @@
+Jonathan's Space Report
+No. 562                                   2006 Mar 17, Somerville, MA
+-------------------------------------------------------------------------------
+
+MRO at Mars
+-----------
+
+On 2006 Mar 8, NASA's Mars Reconnaissance Orbiter  entered Mars'
+gravitational sphere of influence at around 577000 km range. At 2112 UTC
+on Mar 10 the MRO's Aerojet-Redmond engines  (six MR-107N thrusters
+firing at 170N) ignited to begin the Mars Orbit Insertion burn.  Light
+travel time to Earth was 11 min 58s at the time of the burn; orbit
+insertion now confirmed. Planned orbit was 279 x 44500 km x 93.3 deg.
+Over the next several months MRO will use aerobraking to lower its orbit
+for operational imaging of the surface.
+
+New Horizons 
+------------
+
+Meanwhile, New Horizons trajectory data is now on the JPL Horizons site.
+NH is in a solar escape orbit with a perihelion of 0.98 AU, an ecliptic
+inclination of 0.87 deg and an eccentricity of 1.03. After the February
+2007 Jupiter encounter it will have a perihelion of 2.2 AU, an
+inclination of 2.3 deg and an eccentricity of 1.40. On 2015 Jul 14 the
+probe passes Pluto, 1.1AU above the ecliptic plane and 32.9 AU from the
+Sun. As seen from Earth, NH and Pluto will be near the star Xi Sgr.
+
+ASTRO-F
+-------
+
+Japan launched the ASTRO-F infrared astronomy satellite at 2128 UTC on
+Feb 21. ASTRO-F separated from the M-V-8 rocket final stage in a 301 x
+718 km x 98.2 deg orbit; it will use an onboard propulsion system to
+reach its final orbit and then will eject its optics cover. 
+The satellite has been named "Akari" (light). By Mar 3 it was in a
+707 x 716 km x 98.2 deg orbit; this had been adjusted to
+695 x 710 km by Mar 16. Because of attitude control problems,
+ejection of the optics cover has been delayed until mid-April.
+
+Akari carries a 0.67m-diameter liquid-helium-cooled infrared telescope
+with detectors ranging from the near infrared to 60 and 170 micron
+channels in the far IR. It will carry out the first far infrared sky
+survey since IRAS in 1983.
+
+The tiny 3 kg CUTE-1.7-APD satellite built by Toyko Institute of 
+Technology was ejected from the M-V-8 third stage at 2145 UTC.  The
+other secondary payload,  a 15-meter-diameter solar sail (SSP, solar
+sail sub payload, soraseiru sabupeiro-do) deployed from the stage at
+2146 UTC but opened incompletely.
+
+Arabsat 4A
+----------
+
+A Krunichev Proton-M/Briz-M rocket suffered a launch failure on Feb 28.
+The Briz-M stage is rumoured to have shut down 27 minutes 31s into a
+planned 31-minute second burn, according to several sources.
+This was a very long engine burn, but the AMC-15 launch in 2004 saw
+a 37.5 minute burn, so it's not a record for Briz-M.
+
+There are now two objects cataloged in a 505 x 14695 km x 51.5 deg
+orbit, presumably the Arabsat 4A payload and Briz. Since the failure was
+before the end of the second burn, the Briz DTB tank will not have
+separated, and the B object is Briz with the DTB still attached.
+
+Arabsat 4A, also known as BADR-ONE (not to be confused with the small
+Pakistani Badr-A satellite launched in 1990) is an EADS-Astrium 2000+
+satellite with a launch mass of 3341 kg, intended for Middle East
+communications by Arabsat, the Arab Satellite Communications
+Organization.
+
+Ariane 5
+--------
+
+Ariane vehicle 527 was launched on Mar 11 on flight V170 carrying
+Eutelsat's HotBird 7A and Hisdesat's Spainsat. The EPC core stage flew
+into a -1141 x 158 km x 6.8 deg orbit, and fell back to Earth. The ESC-A
+upper stage made a single burn to a 270 x 35748 km x 5.0 deg GTO.
+
+Hot Bird 7A is an Alcatel Spacebus 3000 with an Astrium S400 apogee
+engine, and will provide television broadcasting services for the
+European operator Eutelsat. Spainsat is a Loral LS-1300 with an
+Aerojet-Redmond R-4D engine, and will provide secure X and Ku band
+communications for the  Spanish defense ministry. HB7A has a dry mass of
+1740 kg and a solar panel span of 36.9m. Spainsat has a dry mass of 1467
+kg and a solar panel span of 31.4m. By Mar 16 HB7A was in a 34124 x 35761 km
+x 0.1 deg near-geostationary orbit drifting over the Atlantic;
+Spainsat was still in transfer orbit as of Mar 13.
+
+
+NASA
+-----
+
+The carnage continues in the NASA science program. A few weeks ago, the
+NuStar X-ray mission was cancelled, and now the Dawn asteroid mission
+has been axed only a year from launch (this decision is apparently under
+review). This follows a couple years of delays in selecting new small
+missions. These missions had been approved for development and weren't
+suffering from major problems (well, in Dawn's case I hear different
+stories from different people) - their cancellation seems to be purely
+for budgetary reasons. They are being sacrificed to pay for the
+Exploration initiative and for other science programs which have run
+into trouble. Rare editorial: this is a bad idea; we really need a wide
+portfolio of small science missions for the health of NASA's science
+program. Having only a few large flagship missions eat the whole budget 
+is not a smart way to go, however wonderful they are. My impression is
+that the current plan gives a larger fraction of the astrophysics budget
+to my good (and well-deserving but more professionally flexible) friends
+at the large aerospace contractors, and a smaller fraction to pay the
+salaries of astrophysicists, who have no other source of funding to turn
+to. By the time the budget recovers, our reservoir of world-class
+expertise will have left science for other careers.
+
+Let me be clear: the problem is both an external one - other pressures
+on the US federal budget, and pressures to fund the human spaceflight
+program - and an internal systemic one: the astronomical community's
+process for recommending priorities to NASA, which used to work well,
+now is widely perceived as disconnected from much of the community and
+as effectively broken in the  current budgetary context. The process
+builds in 'undercosting' at all levels of the system, ensures that
+flagship missions are emphasized above all else, and guarantees that the
+budget will be hugely overrun. The recent cuts to NASA's astrophysics
+program are ill-advised and unfair to the hard-working scientists who
+dedicate their lives to these missions. But until we astronomers get our
+own house in order again, it's going to be hard to convince Mike Griffin
+and Mary Cleave (the NASA boss and head of science, respectively) that
+we deserve different treatment.
+
+Errata
+-------
+
+I am informed that MTSAT-2 has a US-built Aerojet/Redmond R-4D-11-164
+apogee engine, not the IHI 500N engine; also that NEC and Toshiba have
+merged into NTspace (NEC Toshiba Space Systems) and they are the prime
+contractor for the Daichi satellite. I can also confirm that there have
+been no launches from pad 2 at Tanegashima. Thanks to Peter Buist, Olwen
+Morgan and Carl Stechman.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Feb  3 2302   RadioSkaf         -               Pirs, LEO        Amateur com 05-35C
+Feb 15 2335   Echostar 10       Zenit-3SL       Odyssey, POR     Comms       03A
+Feb 18 0627   MTSAT-2           H-2A            Tanegashima      Com/Imaging 04A
+Feb 21 2128   Akari        )    M-V             Uchinoura        IR Astron.  05A
+              CUTE-1.7-APD )                                     Tech/Comms  05C
+              SSP          )                                     Tech        05B
+Feb 28 2010   Arabsat 4A        Proton-M/Briz-M Baykonur LC200/39 Comms      06A
+Mar 11 2233   Hotbird 7A )      Ariane 5 ECA    Kourou ELA3      Comms       07A
+              Spainsat   )                                       Comms       07B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

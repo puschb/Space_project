@@ -1,0 +1,124 @@
+Jonathan's Space Report 
+No. 219               1994 Nov 17              Cambridge, MA
+--------------------------------------------------------------------------------
+
+Erratum
+-------
+
+Thanks to Pawel Moskalik for pointing out that the previous
+single-mission duration record for a woman was held by Chiaki
+Mukai of Japan, not Seddon and Lucid of the US.
+
+Shuttle
+-------
+
+Atlantis carried out a new type of rendezvous on Nov 12, the plus R bar 
+approach. R-bar is the radius vector of the target satellite (in
+Earth-centered spherical polar coordinates), while V-bar is the velocity
+vector of the satellite (almost parallel to the tangential - theta -
+vector in the orbit plane since low orbits are all roughly circular).
+Usually the Shuttle gets to the right value of R but a greater Theta and
+brakes to let the target catch up - a V-bar approach. In the R-bar
+approach the Shuttle gets to about the right Theta but a smaller value
+of R, with velocity adjusted so that its slightly elliptical orbit will
+carry it outward to the correct R value without any further thruster
+firings. This approach minimizes thruster effluent contamination of the
+target. (Rendezvous gurus, correct me if I have any of this wrong).
+
+The rendezvous with CRISTA-SPAS was completed early on Nov 12 and the
+satellite was grappled with the RMS arm at 1305 UT. It was berthed in
+the payload bay by 1650 UT. The deorbit burn was carried out at 1431 UT
+on Nov 14, with main gear touchdown on Edwards runway 22 at 1533:45UT.
+Wheels stop was at 1534:34. The 16cm icicle produced from waste water
+dumps survived reentry and landing, according to the KSC Shuttle Status
+Report. Atlantis will return to KSC next week to begin preparation for
+its next mission, the first Mir docking.
+
+Mir
+---
+
+Progress M-25 docked with Mir at the rear Kvant port at 0904 on Nov 13.
+It will be replaced in February with Progress M-26. The next crew,
+aboard Soyuz TM-21 in March, will include NASA astronaut Norman
+Thagard. Plans for 1995 include the completion of the Mir complex
+with the docking of the Priroda and Spektr modules.
+
+Recent Launches
+---------------
+
+The Resurs-O1 earth observation satellite is in a 660 x 663 km x 98.0
+deg orbit. It carries the German Safir-R1 communications experiment as a
+secondary attached payload.
+
+There are three imaging recon satellites currently in orbit
+operated by the GRU (Central Intelligence Agency) of the MO RF
+(Ministry of Defence of the Russian Federation):
+ Kosmos-2267, launched 1993 Nov  5 by Soyuz-U, 
+              current orbit  236 x 299 km x 70.4 deg
+ Kosmos-2280, launched 1994 Apr 28 by Soyuz-U, 
+              current orbit 232 x 269 km x 70.4 deg
+ Kosmos-2290, launched 1994 Aug 26 by Zenit, 
+              current orbit 206 x 359 km x 64.8 deg.
+Kosmos-2267 and Kosmos-2280 are the 17th and 18th satellites in
+the advanced series which has replaced the older Yantar' class satellites.
+The first of the series was Kosmos-1426 in 1982, and Kosmos-2267 just
+exceeded the record 372-day lifetime of its predecessor Kosmos-2223.
+Kosmos-2290 is the first of a new series launched by Zenit. Its orbit
+is similar to the five satellites in the Soyuz-launched Kosmos-2031 series.
+
+--------------------------------------------------------------------------------
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Oct 11 1430     Okean-O1 No. 7  Tsiklon-3       Plesetsk LC32   Rem.sensing 66A
+Oct 13 1619     Ekspress        Proton-K/DM-2-1 Baykonur LC200  Comsat      67A
+Oct 15 0505     IRS-P2          PSLV            Sriharikota     Rem.sensing 68A
+Oct 31 1430     Elektro         Proton-K/DM-2-1 Baykonur LC81     Weather     69A
+Nov  1 0037     Astra 1D        Ariane 42P      Kourou ELA2     Comsat      70A
+Nov  1 0931     Wind            Delta 7925      Canaveral LC17B Science     71A
+Nov  2 0104     Kosmos-2293     Tsiklon-2       Baykonur LC90   EORSAT      72A
+Nov  3 1700     Atlantis        Space Shuttle   Kennedy LC39B   Spaceship   73A
+Nov  4 0547     Resurs-O1 No. 3 Zenit-2         Baykonur LC45   Rem.sensing 74A
+Nov  4 1250     CRISTA-SPAS     -               Atlantis, LEO   Science     73B
+Nov 11 0722     Progress M-25   Soyuz-U         Baykonur LC1?   Cargo       75A
+
+Reentries
+---------
+
+Oct 11          Endeavour       Landed at Edwards AFB
+Oct 12          Magellan        Entered Venus atmosphere
+Nov  4          Molniya-1       Reentered (1984-29A)
+Nov  4          Soyuz TM-19     Landed in Kazakhstan
+Nov 14          Atlantis        Landed at Edwards AFB
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-63  Feb 2
+OV-104 Atlantis        Edwards       STS-66  
+OV-105 Endeavour       OPF Bay 1     STS-67  Feb 23
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM/ET                VAB Bay 3 STS-63                       
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/                      
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                        |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                 |
+'-------------------------------------------------------------------------'
+
+

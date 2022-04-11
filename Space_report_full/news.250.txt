@@ -1,0 +1,111 @@
+Jonathan's Space Report
+No. 250               1995 Jul 30                       Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Damage to the O-rings in internal nozzle joints in the
+left hand SRB for STS-71 and another SRB for STS-70 have raised
+safety concerns. Launch of STS-69 has been postponed pending
+checks on the sealant in the nozzle joints. It appears the problem
+can be solved by improvements to the process of applying the sealant,
+and there will only be a brief delay (less than a month).
+
+Mir
+---
+
+The second EVA was carried out on Jul 19 at 0039 UT and lasted 3 hr 8
+min. Solov'yov remained in the airlock hatch due to spacesuit problems,
+while Budarin began work on installing the MIRAS infrared spectrometer
+experiment. The third EVA was at 0030 on 21 Jul, and lasted 5hr 35 min.
+Both cosmonauts completed the installation of MIRAS.
+ (Info from C. van den Berg's MIRNEWS).
+
+Progress M-28 is docked at the -X port on Mir; Soyuz TM-21 is docked
+at the +X port on Kvant.
+
+Recent Launches
+--------------
+
+Three Uragan (Hurricane) navigation satellites were launched
+on Jul 24 and given the names Kosmos-2316, 2317, and 2318.
+Their GLONASS satellite numbers are 780, 781 and 785 respectively.
+They will form part of the GLONASS system, in orbital plane 2.
+On Jul 25 the orbit of Kosmos-2316 was 675.26 min, 19101 x 19134 km
+x 64.8 deg. The other two satellites were in similar orbits.
+
+The Galileo Orbiter successfully completed the ODM maneuver 
+on Jul 27. This was the first major firing of the main liquid
+propellant engine which will be used for orbit insertion.
+The Orbiter is now targeted for its flyby of Io, while the Probe
+is on a Jovian impact trajectory.
+
+Geostationary Satellite Movements
+---------------------------------
+
+1995-35B, TDRS 7 was at 150W on Jul 27, drifting E at 2.5 deg/d.
+1995-29A, DBS 3 appears to be moving from its initial location at 110W.
+1995-27A, UHF F/O F5, is on station at 72.6E as of Jul 28.
+1994-55A, Optus B3 may have moved from its station at 152.5E
+1984-80A, Himawari 3 has moved out of geostationary orbit.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jun  8 0443   Kosmos-2313     Tsiklon-2       Baykonur LC90   Recon       28A
+Jun 10 0024   DBS 3           Ariane 42P      Kourou ELA2     Comsat      29A
+Jun 22 1958   STEP 3          Pegasus XL/L1011 PAWA           Science     FTO
+Jun 27 1932   Atlantis        Space Shuttle   Kennedy LC39A   Spaceship   30A
+Jun 28 1825   Kosmos-2314     Soyuz-U         Plesetsk LC43   Recon       31A
+Jul  5 0309   Kosmos-2315     Kosmos-3M       Plesetsk LC132  Navigation  32A
+Jul  7 1623   Helios 1A  )    Ariane 40       Kourou ELA2     Recon       33A
+              CERISE        )                                 Sigint      33B
+              UPM LBSAT 1   )                                 Technology  33C
+Jul 10 1238   USA 112         Titan 4 Centaur Canaveral LC41  Sigint      34A
+Jul 13 0530   Galileo Probe   -               Galileo, Solar orb.      89-84E
+Jul 13 1342   Discovery       Space Shuttle   Kennedy LC39B   Spaceship   35A
+Jul 13 1955   TDRS 7          IUS             Discovery,LEO   Comsat      35B
+Jul 20 0304   Progress M-28   Soyuz-U         Baykonur LC1    Cargo       36A
+Jul 24 1552   Kosmos-2316 )   Proton-K/DM2    Baykonur        Navigation  37A
+              Kosmos-2317 )                                   Navigation  37B
+              Kosmos-2318 )                                   Navigation  37C
+
+Reentries
+---------
+
+Jun  8        Kosmos-2258     Reentered
+Jul  7        Atlantis        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-73  Sep 21
+OV-103 Discovery       OPF Bay 1     OMDP
+OV-104 Atlantis        OPF Bay 2     STS-74  Oct 26
+OV-105 Endeavour       LC39A         STS-69  Aug  5
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-48/ET-72/OV-105   LC39A     STS-69
+ML2/                       
+ML3/                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+
+

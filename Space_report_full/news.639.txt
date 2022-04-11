@@ -1,0 +1,242 @@
+Jonathan's Space Report
+No. 639                                       2011 Mar 16  Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+Best wishes to my colleagues and readers in Japan. I understand that
+ISAS/Sagamihara is largely undamaged, but the ISS control center at
+JAXA/Tsukuba is out of action for the time being, thankfully with no
+casualties. I have not yet heard reports from the Kakuda hypersonic
+propulsion research center at Miyagi, near the epicenter.
+
+I expect to be in Montreal on Apr 7 - do my Quebecois readers know if there
+are tours of CSA/St-Hubert? 
+
+
+Shuttle and Station
+-------------------
+
+Soyuz TMA-01M undocked from the Station's Poisk module at 0427 UTC Mar
+16.  Crewmembers Aleksandr Kaleri (commander), Oleg Skripochka and Scott
+Kelly, formerly of Expedition 26, returned to Earth with landing in
+Kazakhstan at 0753 UTC. On the Station, Expedition 27 has now begun
+under the command of Dmitri Kondratev, together with flight engineer 5
+Paolo Nespoli and flight engineer 6 Cady Coleman.
+
+Space Shuttle Discovery was launched on Feb 25 on mission STS-133.
+Discovery's  main cargo is Leonardo, the Permanent Multipurpose Module (PMM),
+a cargo storage unit now added to the station.
+
+Discovery docked with the Station at 1914 UTC on Feb 26.
+On Feb 27 the Express Logistics Carrier 4 (ELC-4) was transferred from
+the Shuttle to the S3 segment of the stationt russ. ELC-4 carries spare
+parts for station external systems. On Feb 28 astronauts Bowen and Drew
+made a spacewalk from the Quest airlock to install a power cable between
+the Unity and Tranquility modules and move the failed Pump Module S/N 0002
+from the mobile base system (where it was stashed during a previous
+spacewalk) to a longer term home on the ELC-2 carrier, freeing up the
+MBS attachment point to be used for other things. They also adjusted
+the track system for the Mobile Transporter so that it can move the robot
+arm down further along the S3 segment than before. The airlock
+was depressurized at 1541 UTC and repressurized at 2220 UTC; hatch open/close
+was 1546 to 2215 UTC.
+
+The Station's SSRMS arm was used to move Leonardo from Discovery's cargo
+bay to the nadir port on the Unity module between 1346 and 1505 UTC on
+Mar 1.
+
+On Mar 2 Drew and Bowen again used Quest to go outside, depressurizing
+it at 1535 UTC, and opening the hatch at 1541 UTC. Among other tasks
+they vented the failed Pump Module, retreived the LWAPA experiment
+support plate from Columbus and stowed it in the Shuttle payload bay,
+installed a camera on the Dextre arm, adjusted a camera sunshade and
+added a lighting system on the truss, and relocated the Strela 
+adapter to the Zarya module from PMA3, where it had been stowed since
+2006; the adapter was launched on STS-96 in 1999.
+
+Discovery undocked from the PMA-2 adapter on the Harmony module
+at 1200 UTC on Mar 7, reducing the station's crew complement from
+12 to 6. The spaceship made its 39th and final landing on runway 15 of Kennedy
+Space Center at 1657 UTC on Mar 9.
+
+The Johannes Kepler ATV is docked at the Zvezda module; Kounotori-2 is
+berthed at Harmony nadir (on Mar 10, after the departure of Discovery,
+the SSRMS arm moved it there from Harmony zenith);  Progress M-09M is at
+the Pirs module; and Soyuz TMA-20 at Rassvet. Launch of Soyuz TMA-21 has
+been delayed until April.  
+
+Taurus XL launch failure
+------------------------
+
+The Orbital Sciences Taurus rocket suffered its second launch failure in
+a row on Mar 4. Once again the fairing failed to separate, and the extra
+mass being carried by the rocket meant that after stage 4 burnout the
+velocity was a few tenths of a km/s too low, giving the payload the
+correct orbital apogee but a negative perigee with impact probably in
+the Antarctic.
+
+Orbital says that they used a different fairing separation system
+on this flight, one that has flown successfully in the past year
+on the Minotaur rocket, but the similar nature of the failure
+to the one that destroyed the Orbiting Carbon Observatory mission
+on the previous launch will inevitably be a blow to the company's
+reputation. The T8 failure was thought to be due to the failure of
+the separation system to pressurize; on this T9 flight, the system
+did pressurize but the fairing still did not separate. It may turn
+out that the pressurization issue wasn't the true cause of the T8
+problem either.
+
+The main instrument on NASA's Glory satellite lost in the Taurus flight 9
+failure  was an aerosol polarimetry sensor (APS) that would have
+provided a global map of aerosol particulates (soot and sulphates) which
+would have helped calibrate climate change models. This compounds the
+loss of OCO on Taurus flight 8, which would have made a global map of
+carbon dioxide. Even if a replacement APS is built, the delay of several
+years in these projects seems to me to be a significant blow to climate
+change research - in contrast to my own field of astronomy, a few years
+delay in improving our understanding of climate change may really matter
+to the world. Glory also carried a radiometer to measure the total solar
+output; this would have replaced the one that has been flying on the
+SORCE satellite since 2003.
+
+Three cubesat payloads were also lost in the launch: Montana State University's
+Explorer 1 Prime, the University of Colorado's Hermes and the University
+of Kentucky's KySat-1.
+
+  Taurus flight history:
+  T1   1994 Mar 13   Taurus 1110   USAF STEP 0  
+  T2   1998 Feb 10   Taurus 2210   US Navy Geosat Follow-On
+  T3   1998 Oct  3   Taurus 1110   NRO STEX
+  T4   1999 Dec 21   Taurus 2110   KOMPSAT (Korea) and ACRIMSAT (NASA)
+  T5   2000 Mar 12   Taurus 1110   USAF/DoE MTI
+  T6*  2001 Sep 21   Taurus 2110   USAF Orbview-4/NASA QuickTOMS
+  T7   2004 May 20   Taurus 3210   ROCSAT-2 (Taiwan)
+  T8*  2009 Feb 24   Taurus 3110   OCO (NASA)
+  T9*  2011 Mar  4   Taurus 3110   Glory (NASA)
+
+  T6, T8 and T9 failed to reach orbit: three failures in four launches.
+
+Orbital's broader stable of orbital space launchers is doing a bit better;
+so far this century we have:
+  Minotaur I    7 out of  7 successful orbital attempts
+  Minotaur IV   2 out of  2 successful orbital attempts
+  Pegasus XL   10 out of 10 successful orbital attempts
+  Taurus        1 out of  4 successful orbital attempts
+  ----------------------------------------------------
+  Total        20 out of 23    (87 percent)
+
+Glonass-K
+---------
+
+The first Glonass-K satellite was launched on Feb 26.
+The Soyuz-2-1B rocket entered an orbit with a perigee of
+less than 80 km, with reentry over the S Pacific, and deployed the
+Fregat upper stage whose three burns resulted in 212 x 241 km,
+278 x 19145 km and 19279 x 19715 km x 64.8 deg orbit.
+The 935 kg payload, based on ISS Reshetnev's Ekspress-1000 bus, 
+separated into the latter orbit. Earlier Glonass satellites
+used Reshetnev's Uragan pressurized bus; the new satellite bus
+is unpressurized and the payload includes both an extra nav signal
+in the GPS L3 band and a COSPAS-SARSAT search and rescue transponder
+payload. This first Glonass-K has serial number 11 (Reshentev
+satellite series always start with 11 - I think 1 to 10 may be used for
+ground test articles).
+
+OTV
+---
+
+The X-37B spaceplane, called the Orbital Test Vehicle (OTV) by the US
+Air Force, is a reusable lifting body similar in concept to the Space
+Shuttle Orbiter but much smaller (5000 kg rather than 100000 kg) and
+with no crew. At least two OTVs have been built; OTV-1 made its first
+flight from 2010 Apr 23 to Dec 3, and OTV-2 was launched on its first
+flight on Mar 5. The craft is possibly in a circa 400 x 420 km x 40 deg
+orbit like that used by OTV-1; the mission is expected to last about 9
+months with landing at Vandenberg Air Force Base in around December.
+Launch was by United Launch Alliance with a Lockheed Martin Atlas V 501,
+serial AV-026. Centaur AV-026 was deorbited over the Indian Ocean
+on the first orbit.
+
+OTV-2 has been found by Greg Roberts in a circa 315 x 341 km x 43 deg orbit.
+
+FASTRAC
+-------
+
+The command to separate the two FASTRAC satellites, launched on 2010 Nov 20,
+was sent on 2011 Mar 14, but separation did not occur.
+
+
+NROL-27
+-------
+
+United Launch Alliance launched a Delta 4 Medium from Cape Canaveral on
+Mar 11 carrying a payload for the National Reconnaissance Office. The
+payload is thought to be a Satellite Data System communications
+satellite headed for geostationary orbit. The launch was designated
+NROL-27; the payload has the codename USA 227. The Delta 4 second stage
+probably made three burns before deploying the payload and will have
+ended up in near-geosynchronous orbit.
+
+
+Kosmos cover names
+------------------
+
+Since 1962 most Soviet/Russian military satellites have had a program
+name (Kometa, Gektor, Musson) and a cover name in the Kosmos series
+(Kosmos-1 onwards). The program names used to be secret, with only the
+Kosmos names publicly known. In recent years both names have been used
+in official public Russian statements, and now the program names are
+used almost exclusively. Kosmos numbers are still assigned, but
+belatedly, and are mostly ignored in the Russian media. Thus, Geo-IK-2
+and Glonass-K are Kosmos-2470 and Kosmos-2471.  I am considering
+relegating the Kosmos names to the status of 'alternate name' and using
+the Glonass-K, etc., names as the primary ones in my database for new
+launches - but this will depend a bit on how the latest launches are
+reported by Russia to the UN; as of the most recent official filings
+available at oosa.un.org  the Kosmos names were still used.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jan 18 0300   Nanosail-D2                          Fastsat, LEO     Tech       62L
+Jan 20 1229   Elektro-L         Zenit-3SLBF        Baykonur LC45    Weather    01A
+Jan 20 2110   USA 224           Delta 4H           Vandenberg SLC6  Imaging    02A
+Jan 22 0537   Kounotori 2       H-IIB              Tanegashima Y2   Cargo      03A
+Jan 28 0131   Progress M-09M    Soyuz-U            Baykonur         Cargo      04A
+Feb  1 1400   Geo-IK-2 No. 11   Rokot              Plesetsk LC133/3 Geodetic   05A
+Feb  6 1226   RPP (USA 225)     Minotaur I         Vandenberg SLC8  Tech       06A
+Feb 16 2151   Johannes Kepler   Ariane 5ES         Kourou ELA3      Cargo      07A
+Feb 24 2153   Discovery STS-133 Space Shuttle      Kennedy LC39A    Spaceship  08A
+Feb 26 0307   Glonass-K No. 11  Soyuz-2-1B         Plesetsk LC43/4  Navigation 09A
+Mar  4 1009   Glory  )          Taurus XL 3110     Vandenberg 576E  Climate    F01
+              E1P    )                                              Sci        F01
+              Hermes )                                              Tech       F01
+              KySat-1)                                              Tech       F01
+Mar  5 2246   OTV-2 F1          Atlas V 501        Canaveral SLC41  Spaceplane 10A
+Mar 11 2338   USA 227 (NROL-27) Delta 4M+(4,2)     Canaveral SLC37  Comms?     11A
+ 
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Jan 22 0610   Aegis Target     Terrier Oriole     Wallops I.          Target       100?
+Jan 28 1049   NASA 36.257UG    Black Brant IX     Poker Flat          UV Astron    240?
+Feb  5 0811   NASA 36.256UE    Black Brant IX     Poker Flat          Atmosphere   260?
+Feb 22 1256   REXUS 9          Orion              Kiruna              Micrograv     81
+Feb 23 1000   REXUS 10         Orion              Kiruna              Micrograv     82
+Mar  1 2100   8 x Mk 5 RV      Trident D-5        USS Nevada, Pacific Test        1000?
+Mar  2 1340   Patriot Target   Juno               Fort Wingate        Target       100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

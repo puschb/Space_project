@@ -1,0 +1,174 @@
+Jonathan's Space Report
+No. 333                                    1997 Sep 5  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Historical Space Archive
+------------------------
+
+Over the past year I have been digitizing an archive of historical
+launch vehicle photos. Peter Hunter generously loaned me his photo
+collection, which includes many previously unpublished photographs of
+early United States launch vehicles, including some recently
+declassified ones. I hope to continue adding to this archive over the
+coming years, but it's now substantial enough to warrant making it
+publicly available. You can explore this archive at
+http://hea-www.harvard.edu/~jcm/space/book/lv.html. In the coming
+months, I'm also planning to complete a list of all orbital
+launches and a comprehensive Shuttle cargo history - stay tuned.
+
+
+Shuttle and Mir
+---------------
+
+A Russian commission of enquiry has formally blamed EO-23 crewmembers
+Vasiliy Tsibliev and Aleksandr Lazutkin, as well as flight controllers,
+for the Jun 25 accident in which the Progress M-34 cargo ship collided
+with the Mir complex. A spacewalk by Solov'yov and Foale to locate the
+punctures in Spektr is scheduled for Sep 6; the airlock is about to be
+depressurized as I write this.
+
+Recent Launches
+---------------
+
+A Chang Zheng 2C rocket built by the China Academy of Launch Vehicle
+Technology was orbited from the Taiyuan polar orbit launch site at 37.8N
+111.5E on Sep 1 at 1400:15.7 UTC. It carries two dummy Iridium
+satellites (Iridium Mass Frequency Simulators), in preparation for the
+start of regular Iridium launches from Taiyuan. This is the first CZ-2C
+from Taiyuan, earlier CZ-2C missions were from Jiuquan and previously
+Taiyuan was used for the CZ-4. This version of the CZ-2C is believed to
+have a somewhat lengthened second stage compared to the usual version.
+As far I can tell, the Iridium MFS satellites were probably built by
+Motorola/Chandler but are owned by China Aerospace Corp. Mass is about
+650 kg per satellite. The satellites are inert, but are built to
+reproduce the mass distribution and oscillation frequencies of a true
+Iridium satellite during launch, to provide a realistic test of the
+CZ-2C launch vehicle.
+
+The second stage of the CZ-2C entered a 215 x 638 km x 86.2 deg orbit 5
+min after launch. The new Smart Dispenser (SD) stage with the two
+satellites attached  separated 5 min later, and its solid motor ignited
+at apogee 48 min after launch, to enter a 623 x 633 km x 86.3 deg orbit
+from which the two mass simulators were dispensed at around 1450 UTC.
+Another motor on the SD ignited four minutes later to deorbit the stage,
+avoiding cluttering up Earth orbit with debris. The solid motor is
+probably a Chinese motor built by CALT/Shaanxi.
+
+Space Command has redesignated the objects in the launch since they
+were first cataloged (actually, the designations seem to still be
+somewhat in flux:)
+ Originally       Now     Object
+   48A           48C     CZ-2C stage 2 in transfer orbit
+   48B,48F       48B,48A Dummy Iridium satellites in circular orbit
+   48C           48F     Debris in transfer orbit
+   48D,E         48D,E   Debris (launch adapter?) in transfer orbit, decaying fast.
+The SD stage was deorbited before being cataloged, in keeping with
+Iridium's policy of having as few objects adding to the orbital
+debris population as possible. Twelve more Iridium satellites are
+due to be launched this month, seven on a Proton and five on a Delta.
+
+Meanwhile, sources report that the successful launch of a CZ-3B rocket
+last month, which orbited the Agila 2 satellite, may have been marred by
+a downrange accident. The first stage of the CZ-3B impacted in Hunan
+province  1000 km downrange from Xichang, and allegedly caused property
+damage in a village, although I understand that this has not been
+acknowledged by China Great Wall Industry Corp or China Aerospace Corp.
+There have also been rumours of casualties but those are denied by the
+Chinese authorities.
+
+Ariane flight V99, on Sep 2, launched two satellites into geostationary
+transfer orbit. Hot Bird 3 is a high power television broadcasting
+satellite for EUTELSAT, the European Telecommunications Satellite
+Organization, and Meteosat 7 is a weather satellite for EUMETSAT
+(European Meteorological Satellite Organization) built by Aerospatiale.
+Hot Bird 3 is built by Matra Marconi Space (Toulouse) and is a Eurostar
+2000+ satellite with a Marquardt R-4D apogee engine. Meteosat 7 is the
+first Meteosat Transition Programme satellite (MTP-1), using the same
+design as the Meteosat Operational Programme (MOP) satellites Meteosat 4
+to 6.  It carries a three channel radiometer with 2.5km resolution.
+Launch mass was 750 kg; it has a solid Mage 1 apogee motor. The first
+Meteosat weather satellite was launched in 1977.
+
+GE Americom's GE 3 communications satellite was launched on Sep 4 by a
+Lockheed Martin Atlas IIAS, flight AC-146. The satellite has C and Ku
+band transponders for domestic communications relay and broadcasting. It
+was built by Lockheed Martin Telecommunications and is an A2100 series
+satellite like its two precursors. The satellite was placed in a mildly
+supersynchronous transfer orbit of 309 x 43913 km x 19.1 deg; its Royal
+Ordnance Leros apogee engine will circularize the orbit.
+
+The Cassini launch to Saturn, originally scheduled for Oct 6, will be
+delayed because overpressurized air hoses at the launch pad blew away
+some insulation on the Huygens Titan entry probe. They are still
+expecting to launch within the window, which extends to Nov 4.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  1 1802   Columbia        ) Shuttle       Kennedy LC39A    Spaceship  32A
+              Spacelab MSL-1R )
+Jul  5 0411   Progress M-35     Soyuz-U       Baykonur LC1     Cargo      33A
+Jul  6 0600   Sojourner         -         Sagan Station, Mars  Rover
+Jul  9 1304   Iridium SV015 )   Delta 7920    Vandenberg SLC2W Comsat     34A
+              Iridium SV017 )                                  Comsat     34B
+              Iridium SV018 )                                  Comsat     34C
+              Iridium SV020 )                                  Comsat     34D
+              Iridium SV021 )                                  Comsat     34E
+Jul 23 0343   GPS SVN 43        Delta 7925    Canaveral LC17A  Navsat     35A
+Jul 28 0115   Superbird C       Atlas IIAS    Canaveral LC36B  Comsat     36A
+Aug  1 2020   OrbView 2         Pegasus XL    Vandenberg       Remote sen.37A 
+Aug  5 1536   Soyuz TM-26       Soyuz-U       Baykonur LC1     Spaceship  38A
+Aug  7 1441   Discovery         Shuttle       Kennedy LC39A    Spaceship  39A
+Aug  7 2227   CRISTA-SPAS                     OV-103,LEO       Remote sen.39B
+Aug  8 0646   PAS 6             Ariane 4      Kourou ELA2      Comsat     40A
+Aug 14 2049   Kosmos-2345       Proton-K/DM2  Baykonur         Early Warn 41A
+Aug 19 1750   Agila 2           CZ-3B         Xichang LC2      Comsat     42A
+Aug 21 0038   Iridium SV022)    Delta 7920    Vandenberg SLC2W Comsat     43E
+              Iridium SV023)                                   Comsat     43D
+              Iridium SV024                                    Comsat     43C
+              Iridium SV025)                                   Comsat     43B
+              Iridium SV026)                                   Comsat     43A
+Aug 23 0651   Lewis             LMLV-1        Vandenberg SLC6 Remote sen. 44A
+Aug 25 1439   ACE               Delta 7920    Canaveral LC17A Space sci.  45A
+Aug 28 0033   PAS 5             Proton-K/DM3  Baykonur         Comsat     46A
+Aug 29 1502   FORTE             Pegasus XL    Vandenberg      Space sci.  47A
+Sep  1 1400   Iridium MFS   )   CZ-2C         Taiyuan          Inert      48B
+              Iridium MFS   )                                  Inert      48F
+Sep  2 2221   Hot Bird 3  )     Ariane 44LP   Kourou ELA2      Comsat     49A
+              Meteosat 7  )                                    Weather    49B
+Sep  4 1203   GE-3              Atlas IIAS    Canaveral LC36A  Comsat     50A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       OPF Bay 3     STS-91  May 28
+OV-104 Atlantis        LC39A         STS-86  Sep 22
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                       
+MLP2/RSRM-61/ET/OV-104   LC39A       STS-86
+MLP3/
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

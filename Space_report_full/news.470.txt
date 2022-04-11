@@ -1,0 +1,143 @@
+Jonathan's Space Report
+No. 470                                              2001 Dec 28 Cambridge, MA
+-------------------------------------------------------------------------------
+
+A happy and safe 2002 to all space cadets around the world.
+
+Shuttle and Station
+--------------------
+
+Raffaello was transferred back to the Shuttle payload bay on Dec 14.
+Endeavour undocked from Station at 1728 UTC on Dec 15 and made
+a half loop around the station before making a small separation
+burn at 1822 UTC.
+
+The Starshine-2 reflector satellite was ejected from the MACH-1 bridge
+in Endeavour's payload bay at 1502 UTC on Dec 16. It is part of an
+educational project and will be tracked by school students around the
+world.
+
+Endeavour landed on runway 15 at Kennedy Space Center at 1755 UTC on Dec
+17. The Expedition 3 crew of Culbertson, Dezhurov and Tyurin returned to
+Earth aboard Endeavour, leaving the Expedition 4 crew of Yuriy
+Onufrienko, Dan Bursch and Carl Walz in charge of the Station.
+
+
+Recent Launches
+---------------
+
+The REFLECTOR satellite launched from Baykonur on Dec 10 consists
+of four triangular fins on a square base plus a deployable boom,
+with an array of laser retroreflectors. The satellite is 1.4m
+long and 0.5m wide but only 6 kg in mass; it was made by NII KP
+in Russia under contract to the Air Force Research Lab at Kirtland
+AFB, New Mexico. It will be used to calibrate laser imaging systems
+and other optical sensors. (Thanks to Richard Rast for info).
+
+Russia launched the Kosmos-2383 naval electronic intelligence satellite
+on Dec 21. The two-stage 11K69 Tsiklon-2 rocket, derived from the R-36
+ICBM, was launched at 0400 UTC and put the satellite in an orbit of
+approximately 145 x 405 km x 65.0 deg at 0405 UTC. At apogee, the US-P
+class satellite, built by KB Arsenal, ignited its own propulsion system
+to increase velocity by about 70-80 m/s and circularize the orbit at 404
+x 415 km x 65.0 deg. The Tsiklon-2 second stage remained in the low
+perigee orbit and probably reentered over N America at sixth perigee
+(1250 UTC) or seventh perigee (1420 UTC).
+
+Another Tsiklon rocket, this time an 11K68 Tsiklon-3 with an S5M upper
+stage, was orbited on Dec 28. It carried six small communications relay
+satellites in a replacement launch for a failure almost exactly a year
+earlier. Three of the satellites are part of the Russian Defense
+Ministry's Strela-3 program, and the other three are Rosaviakosmos
+Gonets-D1s, the civilan variant of the same vehicle. The satellites are
+built by the NPO PM company. The launch vehicle is built by the
+Ukrainian Yuzhnoe firm.
+
+According to a Rosaviakosmos release, the Tsiklon was launched at
+0324:24 UTC and the second stage burn was complete at 0329:02. The S5M
+stage separated and ignited at 0330 and shut down at 0332:00. At this
+stage I estimate the vehicle would have been in a suborbital -550 x 1400
+km trajectory. A second burn at apogee at 0406:15 UTC put the stage in a
+1400 km orbit. The three Gonets satellites separated first, beginning at
+0407:28 UTC; the last of the three Kosmos/Strela satellites was ejected
+at 0408:33, and will have perigee about 15 km higher than the first of
+the  deployments.
+
+On Dec 28, Mars Odyssey was in a 99 x 2951 km x 93 deg orbit around
+Mars, continuing to aerobrake. 
+
+The Deep Space 1 probe was turned off on Dec 18, completing an
+incredibly successful technology proving mission. DS1's orbit is about
+1.30 x 1.44AU x 0.22 deg. DS1's ion drive technology will be used for
+the Dawn asteroid orbiter mission which has just been selected for
+NASA's Discovery program. Editorial note: this is a very promising sign.
+Historically, (and not just in the space game) institutional and
+bureaucratic hurdles have meant that many technology development
+initiatives don't actually get folded in to production use, even when
+successful. This suggests that the New Millenium Program may really
+achieve its goal of feeding new tech into NASA's operational bag of
+tricks, something that is badly needed.
+
+The FUSE ultraviolet observatory is currently in safemode following
+reaction wheel problems. 
+
+Note:  I know some of you look forward to my annual launch summary. In
+recent years it's been fun to get it out earlier and earlier; I had it
+done on New Year's Day last year so I'm not feeling the need to prove
+anything at this point. This year, pressure of real work means that I'm
+not going to be doing it any time soon - sorry! I will, however,
+be putting my thirty-thousand-launch sounding rocket/missile launch
+database on the web in the near future - stay tuned.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Nov 26 1824   Progress M1-7     Soyuz-FG       Baykonur LC1     Cargo        51A
+Nov 27 0035   DirecTV 4S        Ariane 44LP    Kourou ELA2      TV broadcast 52A
+Dec  1 1804   Kosmos-2380 )     Proton-K/DM2   Baykonur         Navsat       53A
+              Kosmos-2381 )                                     Navsat       53B
+              Kosmos-2382 )                                     Navsat       53C
+Dec  5 2219   Endeavour )       Shuttle        Kennedy LC39B    Spaceship    54A
+              Raffaello )                                       Cargo
+Dec  7 1507   Jason 1   )       Delta 7920-10  Vandenberg SLC2W Science      55A
+              TIMED     )                                       Science      55B
+Dec 10 1719   Meteor-3M )       Zenit-2        Baykonur LC45    Weather      56A
+              Badr B    )                                       Imaging      56
+              Maroc-Tubsat)                                     Imaging      56
+              Kompas    )                                       Science      56
+              Reflector )                                       Technology   56
+Dec 16 1502   Starshine-2       -              Endeavour, LEO   Education    54B
+Dec 21 0400   Kosmos-2383       Tsiklon-2      Baykonur LC90    Siginit      57A
+Dec 28 0324   Kosmos-2384 )     Tsiklon-3      Plesetsk LC32    Comms relay  58
+              Kosmos-2385 )                                     Comms relay  58
+              Kosmos-2386 )                                     Comms relay  58
+              Gonets-D1   )                                     Comms relay  58
+              Gonets-D1   )                                     Comms relay  58
+              Gonets-D1   )                                     Comms relay  58
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Feb     HST SM-3B
+OV-103 Discovery       VAB           Maintenance
+OV-104 Atlantis        OPF Bay 2?    STS-110 2002 Mar?    ISS 8A
+OV-105 Endeavour       OPF Bay 1?    STS-111 2002 May     ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

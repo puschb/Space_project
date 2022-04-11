@@ -1,0 +1,174 @@
+Jonathan's Space Report
+No. 495                                            2003 Mar 11, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Expedition 6 crew Bowersox, Pettit and Budarin remain aboard the
+International Space Station. The Progress M-47 cargo craft is docked to
+the aft Zvezda port and the Soyuz TMA-1 transport ship is docked to the
+Pirs module.
+
+Soyuz TMA-2 will be launched in April carrying the new Expedition 7
+crew of Yuriy Malenchenko and Edward Lu. 
+
+I am pleased to see that the NASA Orbital Information Group has reinstated
+the STS-107 orbital data for public access.
+
+
+Recent Launches
+---------------
+
+Boeing launched the second Delta IV rocket on Mar 11. This launch used
+the simple Delta IVM variant with a CBC first stage and the 4-meter
+second stage, as opposed to the first launch which had additional solid
+boosters. Launch was at 0059 UTC on Mar 11; the first burn of the second
+stage ended at  0113 UTC and put it in a 186 x 402 km x 29.2 deg parking
+orbit. The second burn started at 0125 UTC and lasted 4 minutes putting
+DSCS III A-3 and its IABS (Integrated Apogee Boost Subsystem) apogee
+stage  into a 234 x 35780 km x 25.5 deg. The IABS will fire its twin
+R-4D bipropellant engines on Mar 13 to circularize the orbit, and
+separate from DSCS after a final burn around Mar 15.
+
+The payload of the Delta IVM was a US Air Force communications
+satellite, DSCS III A-3, carrying X-band and UHF transponders operated
+by the Defense Information Systems Agency. The Defense Satellite
+Communications System started with the Philco-Ford IDSCS (Initial or
+Interim DSCS) launched in clusters into sub-synchronous orbits in the
+1960s. The IDSCS satellites are poorly documented (we don't know how
+long each one operated for, and there's some confusion about the
+nomenclature of the satellites). The phase II DSCS satellites, built by
+TRW, were launched starting in 1971, and the phase III DSCS built by
+GE/Valley Forge replaced them starting in 1982. DSCS phase II had six
+different sub-variants (A through F), while DSCS III had only two
+variants (A and B, apparently also known as  Engineering Development
+Model and Production Model versions). A-3 is one of the first production
+models, in storage for decades and enhanced for this launch by Lockheed
+Martin/Sunnyvale (the corporate inheritors of the GE space group). 
+Below I present the most detailed launch log yet published for the DSCS
+program.
+
+Launch mass of DSCS is 1244 kg; dry mass around 900 kg.
+Launch mass of IABS is about 1488 kg; dry mass is 270 kg.
+
+ DSCS satellites - history
+
+Sat.    OPS   Rocket            Upper Stage        Launch        Retired
+      or USA                                                     (if known)
+
+I-1     9311  Titan IIIC-11     Transtage-11       1966 Jun 16   1970s?
+I-2     9312
+I-3     9313
+I-4     9314
+I-5     9315
+I-6     9316
+I-7     9317
+I-?    (9321) Titan IIIC-12     Transtage-12       1966 Aug 26   Launch failure
+I-?    (9322)
+I-?    (9323)
+I-?    (9324)
+I-?    (9325)
+I-?    (9326)
+I-?    (9327)
+I-?    (9328)
+I-8     9321  Titan IIIC-13     Transtage-13       1967 Jan 18   1970s?
+I-9     9322
+I-10    9323
+I-11    9324
+I-12    9325
+I-13    9326
+I-14    9327
+I-15    9328
+I-16    9331  Titan IIIC-14     Transtage-14       1967 Jul  1   1970s?
+I-17    9332
+I-18    9333
+I-19    9334
+I-20    9341  Titan IIIC-16     Transtage-16       1968 Jun 13   1970s?
+I-21    9342
+I-22    9343
+I-23    9344
+I-24    9345
+I-25    9346
+I-26    9347
+I-27    9348
+
+(Note: IDCSP 13/OPS 9326 was still operating in mid 1978 and appears
+ to have been the last Phase I satellite working.)
+
+II A-1  9431  Titan 23C-3       Transtage-21       1971 Nov  3   1973 Jun
+II A-2  9432  Titan 23C-3       Transtage-21       1971 Nov  3   1980?
+II B-3  9433  Titan 23C-8       Transtage-26       1973 Dec 13   1982?
+II B-4  9434  Titan 23C-8       Transtage-26       1973 Dec 13   1993 Dec 17
+II B-5  9435  Titan 23C-7       Transtage-25       1975 May 20   Launch failure
+II B-6  9436  Titan 23C-7       Transtage-25       1975 May 20   Launch failure
+II C-7  9437  Titan 23C-14      Transtage-32       1977 May 12   1981 Dec 20
+II C-8  9438  Titan 23C-14      Transtage-32       1977 May 12   1990 Feb
+II C-9  9439  Titan 23C-17      Transtage-35       1978 Mar 25   Launch failure
+II C-10 9440  Titan 23C-17      Transtage-35       1978 Mar 25   Launch failure
+II C-11 9441  Titan 23C-18      Transtage-36       1978 Dec 14   1993 Dec 13
+II C-12 9442  Titan 23C-18      Transtage-36       1978 Dec 14   1993 Dec 13
+II D-13 9443  Titan 23C-19      Transtage-37       1979 Nov 21   1994 Jul 19
+II D-14 9444  Titan 23C-19      Transtage-37       1979 Nov 21   1995 Jun 19
+II F-16 9445? Titan 34D-1       IUS-2              1982 Oct 30   1997 May 23
+II E-15 9446? Titan 34D-2       Transtage D-2      1989 Sep  4   Status unknown
+
+III A-1  -    Titan 34D-1       IUS-2              1982 Oct 30
+III B-4  U11  Shuttle 51J       IUS-12             1985 Oct  3
+III B-5  U12  Shuttle 51J       IUS-12             1985 Oct  3
+III A-2  U43  Titan 34D-2       Transtage D-2      1989 Sep  4
+III B-14 U78  Atlas II  AC-101  IABS-1             1992 Feb 11
+III B-12 U82  Atlas II  AC-103  IABS-2             1992 Jul  2
+III B-9  U93  Atlas II  AC-104  IABS-3             1993 Jul 19
+III B-10 U97  Atlas II  AC-106  IABS-4             1993 Nov 28
+III B-7  U113 Atlas IIA AC-118  IABS-5             1995 Jul 31
+III B-13 U135 Atlas IIA AC-131  IABS-6             1997 Oct 25
+III B-8  U148 Atlas IIA AC-138  IABS-7             2000 Jan 31
+III B-11 U153 Atlas IIA AC-140  IABS-8             2000 Oct 20
+III A-3       Delta IVM (2)     IABS-9             2003 Mar 11
+III B-6       Delta IVM (?)     IABS-10            Awaiting launch
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan  6 1419   Coriolis          Titan II        Vandenberg SLC4W Environment 01A
+Jan 13 0045   ICESAT  )         Delta 7320-10   Vandenberg SLC2W Environment 02A
+              CHIPSat )                                          Astronomy   02B
+Jan 16 1539   Columbia )        Shuttle         Kennedy LC39     Spaceship   03A
+              Spacehab )                                         Lab
+Jan 25 2013   SORCE             Pegasus XL      Canaveral RW30/12 Solar obs  04A
+Jan 29 1806   GPS SVN 56 )      Delta 7925      Canaveral SLC17  Navigation  05A
+              XSS-10     )                                       Technology  05B
+Feb  2 1259   Progress M-47     Soyuz-U         Baykonur         Cargo       06A
+Feb 15 0700   Intelsat 907      Ariane 44L      Kourou ELA2      Comms       07A
+Mar 11 0059   DSCS III A-3      Delta IVM       Canaveral SLC37B Comms       08A
+        
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        VAB           STS-114  Unknown     ISS ULF1
+OV-105 Endeavour       OPF           STS-115  Unknown     ISS 12A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+
+

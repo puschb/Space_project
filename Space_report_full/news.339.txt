@@ -1,0 +1,267 @@
+Jonathan's Space Report
+No. 339                                  1997 Nov 5 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Editorial
+---------
+
+Apologies for the gap in service; I've been travelling.  Of course, I
+leave the office for two weeks and more stuff goes on than usually
+happens in two months - so this issue is a big one. Note: I've recently
+updated some of the info on my space home page
+http://hea-www.harvard.edu/~jcm/space/space.html including the
+geostationary satellite log.
+
+Shuttle and Mir
+---------------
+
+Columbia is now on pad 39B ready for launch on mission STS-87,
+scheduled for Nov 19.
+
+Mir crew Solov'yov and Vinogradov carried out a 6h38min internal
+spacewalk on Oct 20, during which they worked inside the depressurized
+Mir base block transfer compartment and the damaged Spektr module to
+connect new cables to the Spektr module, restoring the capability
+to point the Spektr solar arrays. NASA astronaut David Wolf remained
+inside the station.
+
+During an EVA on Nov 3 the Mir crew removed an old solar panel from
+Kvant. The solar panel was retracted on command, removed from the
+Kvant module, and stowed on the exterior of the core module.
+It will be replaced by a US/Russian cooperative solar array
+currently stored folded up on the Docking Module.
+The outer Kvant-2 hatch did not seal correctly after the EVA, but
+the inner hatch is well sealed.
+
+The Sputnik-40 1/3-scale model of PS-1 ("Sputnik" ) was also
+hand-launched during the EVA into a 383 x 391 km x 51.6 deg orbit. The
+model is also referred to as PS-2, but this is a bad idea since PS-2 was
+the correct name of the second Soviet satellite, which carried the dog
+Laika. Sputnik-40  (the French spelling Spoutnik-40 may also be
+considered correct) was cataloged by US Space Command as object 24958,
+previously reserved for the Intelsat 803 Ariane rocket which has
+apparently still not been tracked. The model was built by high school
+students in the republic of Kabardin-Balakarsk in the Russian
+Federation, in the Caucasus near Chechnya.  The radio transmitter
+payload was built by students on Reunion, a French territory in the
+Mascarene Islands in the Indian Ocean east of Madagascar. If anyone
+knows the exact time the Sputnik model was released, please let me know.
+
+Recent Launches
+---------------
+
+The NASA/ESA Cassini/Huygens Saturn probe was launched on Oct 15. Launch
+vehicle was Titan 4B Centaur, serial B-33. The Titan took off at 0843
+UTC, and separated from the Centaur at 0852 UTC. The first Centaur burn
+placed the Centaur/Cassini combination in a 168 x 446 km x 28.7 deg
+parking orbit at 0854 UTC. Centaur restarted at about 0913 UTC and shut
+down again at 0919 UTC, now on an escape trajectory from the Earth. It
+separated from Cassini at 0926 UTC and vented its remaining propellants
+to move its path away from the space probe. I don't have any solar
+orbital elements for Cassini yet. Cassini was built by JPL, with a
+Propulsion Module System built by Lockheed Martin/Denver. The
+ESA Huygens probe, which will land on Titan, was built by Aerospatiale
+and CASA.
+
+Mars Global Surveyor has raised its perigee to 170 km while controllers
+study unexpected movements in its loose solar panel.
+Meanwhile, JPL announced the end of the Mars Pathfinder mission;
+last signal detected from the Sagan Memorial Station was on Oct 6.
+
+Apstar 2R was launched on Oct 16. It is an SS/Loral FS-1300 comsat
+for Asia Pacific Telecom and will provide telecom services for China.
+Launch vehicle was a Chinese Chang Zheng (Long March) 3B, the third
+to be launched. Apstar 2R is now on station at 76 deg E.
+
+The third NRO Lacrosse radar imaging satellite was launched on Oct 24
+into a 425 x 672 km x 57.0 deg orbit; the on board engine will
+circularize the orbit later. It replaces the first Lacrosse in a 57
+degree orbit. Launch vehicle was a Titan 4A, serial A-18 (formerly
+K-18). The payload is publicly identified as USA 133; it reportedly
+carries a large radar to  carry out reconnaissance missions even in the
+presence of cloud cover. The satellite is probably built by Lockheed
+Martin Astronautics/Denver.
+
+DSCS III B-13 is an X-band (8/7 GHz) comsat for the US Department of
+Defense, built by Lockheed Martin/Valley Forge (formerly GE Space; this
+satellite, however, was the first DSCS to complete its testing at
+Lockheed Martin/Sunnyvale). Lockheed Martin/Denver's Atlas Centaur
+AC-131 placed the satellite in transfer orbit, and the IABS-6 upper
+stage (using twin Marquardt R-4D liquid apogee engines) circularized it
+at geostationary altitude. Launch of AC-131 was on Oct 25. The AC-131
+Centaur stage has an attached secondary payload, the USAF Academy's
+Falcon Gold experiment to test out the usability of GPS navigation at
+geostationary altitude. 
+
+   DSCS III satellites:
+   Satellite   Launch date      Launch vehicle
+   A-1         1982 Oct 30      Titan 34D-1/IUS
+   B-4         1985 Oct  3      STS-51J/IUS
+   B-5         1985 Oct  3      STS-51J/IUS
+   A-2         1989 Sep  4      Titan 34D/Transtage
+   B-14        1992 Feb 11      Atlas II/IABS
+   B-12        1992 Jul  2      Atlas II/IABS
+   B-9         1993 Jul 19      Atlas II/IABS
+   B-10        1993 Nov 28      Atlas II/IABS
+   B-7         1995 Jul 31      Atlas IIA/IABS
+   B-13        1997 Oct 25      Atlas IIA/IABS
+
+The STEP M4 satellite, built by TRW/Chantilly and launched for the US
+Air Force Space Test Program as flight P95-1, failed to communicate with
+the ground after launch on Oct 22 and a spacecraft emergency was
+declared. So far controllers have not been able to contact the
+satellite. It appears that the solar panels failed to deploy. The launch
+itself was another success for Orbital's Pegasus XL.  The 400 kg
+research satellite carries the Orbiting Ozone and Aerosol Measurement
+experiment, the Electromagnetic Propagation Experiment, and the Digital
+Ion Drift Meter. The STEP program record has been rather mixed, with the last
+three missions failing (and STEP M2 operating from a lower than planned orbit):
+P90-5  STEP M0   1994 Mar 13      Taurus       539 x 559 km x 105.0 deg
+P91-2  STEP M2   1994 May 19      Pegasus/HAPS 603 x 821 km x 82.0 deg
+P90-1  STEP M1   1994 Jun 27      Pegasus XL   Failed to orbit
+P92-2  STEP M3   1995 Jun 22      Pegasus XL   Failed to orbit
+P95-1  STEP M4   1997 Oct 22      Pegasus XL   433 x 501 km x 45.0 deg
+
+The MIRACL laser was used on Oct 17 to illuminate the MSTI-3 satellite
+in an antisatellite experiment. The experiment was not intended to
+damage the satellite, just to measure the illumination level; however, a
+telemetry problem prevented MSTI-3's data from being returned. MSTI-3 is
+a USAF (originally SDIO) satellite carrying experimental infrared
+sensors.
+
+The European Space Agency launched the Ariane 502 vehicle on Oct 30.
+This was a crucial launch for the future of ESA and Arianespace,
+following the failure of Ariane 501. The vehicle placed its payloads in
+orbit, but  the EPC core stage shut down early and had a roll control
+problem, making the orbit significantly lower than planned, at 534 x
+26631 km x 7.8 deg. The EAP solid boosters and the EPS final stage
+appear to have operated correctly. The main payload was MAQSAT-H, built
+by Kayser-Threde of Munich as a dummy comsat with accelerometers to
+measure the launch environment. The TEAMSAT experiment package, attached
+to MAQSAT-H, was developed by ESTEC and carries several technology
+experiments. TEAMSAT has ejected a subsatellite, the YES (Young
+Engineers Satellite) which is a small satellites with several
+experiments, (but a 20 km tether experiment will not be carried out due
+to space debris concerns). MAQSAT-B, also built by Kayser-Threde, is a
+smaller dummy satellite stored below the SPELTRA dual launch adapter and
+which remains attached to the EPS stage. A dummy ballast mass replaced
+the AMSAT amateur radio satellite which was pulled off the mission
+because of a predicted rougher ride than originally specified; this
+ballast probably is also attached to MAQSAT-B.
+
+Brazil's first satellite launch attempt failed on Nov 2. The VLS rocket
+was destroyed 65 seconds after launch.  VLS (Veiculo Laucadror de
+Satelites) has an S43TM core stage with four similar S43 strapons; an
+S40TM second stage; and an S44 third stage. The S43 stage which appears
+to have failed was previously flown on the Sonda 4 sounding rocket and
+the VLS-R1 test vehicle.
+
+This was the first orbital launch attempt from the Centro Tecnico
+Aeroespacial at Alcantara, Maranhao state, Brasil (02 deg 17' S, 44 deg 23' W), carried
+out under the auspices of the Brazilian space agency INPE (Instituto
+Nacional de Pesquisas Espacias). The payload was SCD-2A, Satelite de
+Coleta de Dados (Data Collection Satellite), a 150 kg satellite which
+was a refurbished prototype for SCD-1, launched by Pegasus in 1993. The
+SCD satellites relay environmental data from remote stations in the
+Amazon basin   to a ground station at Cuiaba. The satellite is an
+octagonal cylinder, 1.0 m in diameter and 0.72 m high.
+
+The Foton No. 11 microgravity spacecraft carried the first Kayser-Threde
+Mirka reentry vehicle. It contains experiments to study reentry
+technology and heat shield materials.  Both the Foton descent module and
+Mirka were successfully recovered in Kazakstan on Oct 23.
+
+Launch of the GPS SVN38 navigation satellite is scheduled for Nov 6.
+
+Vacation Report
+----------------
+
+The Centre Spatial de Toulouse (CST) of CNES (Centre National d'Etudes
+Spatiales) has been France's main space development and satellite
+control center since the mid 1970s. Very roughly, CNES/Evry maps to
+NASA-Marshall, CNES/Kourou to NASA-KSC, CNES/Paris to NASA HQ, and
+CNES/Toulouse to NASA-Goddard (and to a lesser extent JSC, with some hopes
+to be JPL as well). The operations control center at CST takes care of
+the Telecom and TDF comsats and the Spot remote sensing satellites, and
+also provides its services to commercial comsat clients for early
+orbit operations and checkout, with multiple independent control rooms
+available for dual-satellite launches. There's also a separate control center
+for the COSPAS/SARSAT search and rescue system, which relays emergency
+messages to the relevant rescue agencies. The digital SAR package on
+NOAA's weather satellites is made by the folks at Toulouse. CST is
+currently developing the Proteus minisatellite, which will be first used
+for the international Jason altimetry project. Other divisions
+at CST are responsible for Spot and Helios, for microgravity missions
+and piloted flights, microsatellites and balloons. Thanks to my friends at
+CNES for their remarkable hospitality.
+
+Cite de l'Espace
+
+I also visited the Cite de L'Espace, Toulouse's space tourist
+attraction. It's sort of accessible by public transport, but for some
+incomprehensible reason the bus line stops one km short of it. The main
+attraction is a lifesize Ariane 5; you can walk underneath the main
+engine and there is a small exhibition on Ariane propulsion systems
+inside the dummy launch tower. An Ariane 1 in pieces illustrates the
+different tanks and interstages making up a rocket. On display are full
+size models of Sputnik, ERS 2, Soyuz, Starlette, Mage 2, Telecom 1,
+Meteosat and Soho.  There's a nice display on COSPAS/SARSAT and a model
+of the Columbus lab that you can walk in, and some fairly good  displays
+on satellite components, plus some nice meteorites. A lot of the
+material on display is from products of Matra Marconi Space/Toulouse,
+which is not too surprising.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  5 1508   Progress M-36     Soyuz-U       Baykonur LC1     Cargo      58A
+Oct  5 2101   Echostar III      Atlas IIAS    Canaveral LC36   Comsat     59A
+Oct  9 1800?  Foton No. 11  )   Soyuz-U       Plesetsk         Micrograv  60A
+              Mirka         )
+Oct 15 0843   Cassini  )        Titan Centaur Canaveral LC40 Saturn probe 61A
+              Huygens  )                                      Titan probe 
+Oct 16 1913   Apstar 2R         CZ-3B         Xichang         Comsat      62A
+Oct 22 1315   STEP M4           Pegasus XL    Wallops I?       Technology 63A
+Oct 24 0232   Lacrosse 3?       Titan 4A      Vandenberg SLC4E  Recon     64A
+Oct 25 0046   DSCS III B-13 )   Atlas IIA     Canaveral LC36A  Comsat     65A
+              Falcon Gold   )                                  Technology 65B
+Oct 30 1343   Maqsat H )        Ariane 5      Kourou ELA3      Technology 66A
+              Maqsat B )                                                  66B
+Nov  2 1225   SCD-2A            VLS           Alcantara        Rem.sens.  FTO
+Nov  3 0405   Sputnik-40                      Mir,LEO          Demo       58C
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-87  Nov 19
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        OPF Bay 3     OMDP
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/RSRM63/ET-89/OV-102 VAB Bay 3     STS-87                         
+MLP2/
+MLP3/RSRM64              VAB Bay 1     STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

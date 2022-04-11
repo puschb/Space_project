@@ -1,0 +1,108 @@
+
+Jonathan's Space Report 
+
+No. 143		1993 Feb 10
+------------------------------------------------------------------------------
+
+STS-55
+------
+
+Columbia is on pad 39A, ready for launch later in the month for
+the Spacelab D-2 mission.
+
+Mir
+---
+
+Progress TM-15 undocked from Mir on Feb 4. Later the same day, in a 400
+km altitude orbit, it deployed the Znamya solar sail. The Progress was
+used to point the sail for the mirror experiment, where sunlight was
+reflected onto Western Europe; the patch of light was observed by the
+Mir cosmonauts. Znamya was then jettisoned; because of its high surface
+area to mass ratio, atmospheric drag rapidly lowered its orbit. By 0930
+on Feb 5 it was in a 191 x 203 km orbit and it reportedly has since
+reentered.
+
+--------------------------------------------------------------------------------
+
+Launches
+--------
+
+A McDonnell Douglas Delta 7925 rocket launched the Rockwell Navstar GPS
+22 satellite on Feb 3 into a 174x  20387 km x 34.8 deg orbit. The
+satellite's on board apogee motor was then due to circularize the orbit
+at 20000 km and change the inclination to 55 degrees. The satellite has
+been given the designation USA 88. 
+
+I note that the classified satellite deployed by Discovery in December
+has still not been given either a USA number or a NORAD/Space Command
+permanent  satellite catalog number. This is the first time that any US
+payload has been omitted from the official satellite catalog, and seems
+a particularly pathetic attempt at pretending it doesn't exist, given
+that the object was observed by amateurs at sites across the world.  The
+omission is further confirmation that the spacecraft has a signals
+intelligence mission, since historically these satellites are treated
+with the most secrecy. It will be interesting to see whether the US will
+include the satellite in its next list of launchings submitted to the
+United Nations under the Convention on Registration of Space Objects.
+Only satellite USA-72 has so far been omitted from these listings
+entirely, although other classified payloads have been listed with
+erroneous or misleading orbital information.
+
+Orbital Sciences Corp.'s third Pegasus launch was a success. NASA's
+NB-52 (S/N 008) flew from Edwards AFB to Kennedy Space Center in Florida
+carrying the  Pegasus F3 launch vehicle, nicknamed 'Santos Dumont'. On
+Feb 9 the NB-52 took off from the  SLF (Shuttle Landing Facility,
+RW05/33) at Kennedy at around 1320 UTC and flew until it was 130 km off
+the coast at 13 km altitude. The Pegasus was dropped at 1430 UTC and its
+Hercules Orion 50S first stage motor ignited 5 seconds later. All three
+stages worked well and Pegasus placed its Orion 38 third stage and the
+110 kg Brazilian SCD-1 satellite in a 750 x 770 km x 25.0 deg orbit.  
+The 'Satelite de Coleta de Dados' is operated by the Instituto Nacional
+de Pesquisas Espacias (INPE) and will be used to forward environmental
+data from remote stations in the Amazon, basin to a central ground
+station.
+
+
+Date		Name		Launch Vehicle	Site		Mission	   INTL.
+									   DES.
+
+Feb  3 0255	Navstar GPS 22	Delta 		Canaveral	Navsat	   07A
+Feb  4 		Znamya 		-		Prog.M15,LEO	R&D	   1986-17GZ
+Feb  9 1430	SCD-1		NB52/Pegasus F3	Kennedy		Comsat	   	   
+
+Reentries
+---------
+
+Jan 24		Kosmos-1463	Reentered
+Feb  1		Soyuz TM-15	Landed in Kazakhstan
+Feb  5?		Znamya		Reentered
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39A         STS-55
+OV-103 Discovery       OPF Bay 3     STS-56
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-56	       VAB Bay 1 
+ML2/
+ML3/STS-55/ET/OV-102   LC39A
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+

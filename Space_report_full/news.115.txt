@@ -1,0 +1,185 @@
+Jonathan's Space Report
+
+No. 115		1992 May 19
+------------------------------------------------------------------------------
+
+STS-49 Mission Report (Continued)
+---------------------------------
+
+The third rendevous with Intelsat began around 1530 UTC on May 13 with
+an orbit adjustment maneuver. A software problem with the  targeting
+code led to cancellation of the TPI (Terminal Phase Initiation) burn; at
+1929 UTC a 'TI delay burn' was executed to keep Endeavour in the correct
+phasing for a later rendezvous attempt. The three spacewalkers, Pierre
+Thuot, Richard Hieb and Tom Akers, had already partially depressed the
+airlock to 5 PSI; they remained in the airlock during the delay. The TPI
+burn was finally executed at 2057.55 UTC and the depressurization was
+resumed at 2109. The hatch opened for the longest ever EVA at 2112; over
+the next hour (at 2119, 2153, 2203, and 2213) four mid  course
+correction burns were made as Endeavour approached the Intelsat VI F-3
+satellite; braking began at 2219. Intelsat was in a 355x370 km orbit at 28.3 deg.
+
+By around the same time the EVA crew had assembled the lower plane of
+the ASEM pyramid - three long poles forming a triangle attached to the
+top of the payload bay walls. Akers attached himself to the ASEM using a
+foot restraint; Hieb attached himself to the starboard sill of the
+payload bay; and Thout attached himself to the RMS arm which was
+operated from the cabin by Bruce Melnick. The Endeavour was then flown
+slowly towards Intelsat until at 2359.31 UTC on May 13 the three
+astronauts simultaneously grabbed the lower end of it and stopped its
+rotation.
+
+At 0045 UTC on May 14 Melnick started moving Thuot around the satellite
+and at 0122.57 the infamous capture bar was soft docked to the satellite
+by Hieb and Thuot. Thout then used an EVA power tool to hard dock the
+bar at 0132.55. Thout then exited the RMS and at 0147.41 the RMS
+grappled the capture bar grapple fixture allowing Hieb and Akers to
+release the satellite; it had been hand-held for 1h 48m. At 0300 UTC the
+Intelsat was hard berthed on the docking adapter to the Orbus 21S PKM,
+and the RMS released the capture bar. The grapple extensions on the bar
+were then removed and the PKM (Perigee Kick Motor) electrically
+activated and mated to the satellite. The three astronauts returned to
+the airlock.
+
+At 0440 UTC the first attempt to deploy the satellite failed. After two
+further failures and some rearranging of circuit breakers the satellite
+was sprung out of the payload bay at 0453.22 UTC. Hieb returned to the
+bay for cleanup tasks and the Endeavour moved away (a small burn at 0516
+and a larger one at 0539). Finally at 0541 the airlock was repressurized
+for a total EVA time of 8h 29m.
+
+EVA-4 began at 2107 UTC on May 14, with Akers and Thornton in the
+payload bay. They completed assembly of the ASEM pyramid, demonstrated
+the Crew Propulsive Device, a  gas gun similar to the HHMUs used on
+Gemini 4 and Skylab, and installed extra components on the MPESS pallet.
+ The RMS was then used to unberth the MPESS from the  payload bay and
+dock it to the ASEM pyramid. It was then undocked from the pyramid and
+at 0241 UTC on May 15 it was reberthed in the bay. The RMS ungrappled
+the MPESS at 0245 as the pyramid was disassembled. The crew returned to
+the airlock at 0437 and repressurization began at 0452, for an EVA time
+of 7h 45m.
+
+Deorbit from the 343 x 360 km orbit occurred at 1955 UTC on May 16 and
+Endeavour landed on runway 22 at Edwards Air Force Base at 2057.38 UTC
+on May 16. The drag chute was used for the first time to slow the craft
+on rollout.
+
+Next mission is STS-50/Columbia, the first flight of the Extended
+Duration Orbiter kit.
+
+STS-49 Statistics and Records
+-----------------------------
+
+* First flight of OV-105 Endeavour
+* First dual active rendezvous (both Intelsat VI F-3 and OV-105
+  maneuvered to meet each other)
+* Dan Brandenstein gains most flight hours of any active US astronaut 
+  (789:05 in 4 missions) and most rendezvous experience (5 rv in 3 missions)
+  and is the first person to fly 4 different Orbiters (Challenger, Discovery,
+  Columbia, Endeavour, but so far not Atlantis).
+* Longest ever EVA (Hieb, Thuot, Akers: 08:29)
+* Kathryn Thornton holds record for longest EVA by a woman (07:45 beating
+  Savitskaya's record of 03:35)
+* First 3-person EVA since 1973 and first ever in which all 3 were
+  outside the spacecraft
+* First use of drag chute on landing for piloted spaceship
+* First manual in-orbit assembly of a rocket stage to a spacecraft 
+  (first such assembly in general was docking of Gemini 10 with
+  Agena 5005, which was used to move Gemini 10 to a higher orbit).
+* 3 rendezvous in a single mission, joint record with Gemini 9 (1966),
+  Soyuz T-15 (1986), and Progress M-7 (1991).
+* Thuot holds record for largest number of docking failures !!
+
+Pedantic Definition Corner: Spacewalks and Depress
+--------------------------------------------------
+                                                                                 
+ NASA reported that EVA-3 was the 100th EVA (Extra-Vehicular Activity)
+in history. You have to be a little careful about how you define EVAs.
+In 1969 Apollo 9 astronauts spacewalked in Earth orbit from a docked
+Apollo command module and  lunar module; Scott and McDivitt EVA'd from
+the command module and Schweickart from the LM. Since these were
+separate spaceships with separate airlocks, albeit docked to each other
+at the time, I count these as two separate EVAs  even though they were
+simultaneous, making STS-49/EVA-3 spacewalk no. 101. But actually I
+think a more interesting concept than EVA is 'depress work', time spent
+in a spacesuit under depressurized (vacuum) conditions whether inside or
+outside the shell of a spacecraft. NASA sort of implicitly agrees with
+me since it counts EVA time up to the moment of repressurization of the
+airlock, even if the crew spend an extra hour inside the airlock with
+the hatch closed. After all, what's dangerous (and hence in some sense
+significant) about EVA is that the astronaut is protected no longer by
+the pressurized spaceship cabin but only by a spacesuit - the spacesuit
+is their new spaceship. Logically extending this idea, I like to count
+cases where the spaceship cabin is depressurized even when the crew do
+not emerge. This is really pretty much the same as an EVA except for the
+'E'. In Gemini and Apollo, the cabin was depressurized sometimes for
+'Equipment Dumps' where the crew threw extra stuff out the hatch, e.g.
+lunar overshoes on Moon landings after all the moonwalks were done.
+These typically lasted 2 to 3 minutes, there were 9 of them. On the
+Skylab 2 flight, docking problems led to the crew having to suit up,
+depressurize the cabin, and disassemble their docking probe to repair
+it, before they could successfully dock their spacecraft. This depress
+is very poorly documented and not included in most lists of EVAs since
+the crew stayed in the cabin. Finally, the Soyuz-11 spaceship was
+unintentionally depressurized in June 1971 leading to the deaths of the
+crew. Not counting this last, the total number of occasions when crews
+worked in spacesuits in a depressurized environment (hmm, need an
+acronym here clearly - how about DP for depressurizations?), the total
+number of DPs by STS-49 EVA-3 is then 111 as opposed to 100 in the NASA
+list of EVAs.
+
+Launches
+-----------
+
+The Palapa B4 satellite was launched by Delta at 0040 UTC on May 14 from
+Launch Complex 17B at Cape Canaveral. This was the 589th Thor launch,
+209th Delta launch, and the 23rd Delta 2 launch. All 23 Delta 2 launches
+have been successful.
+
+Palapa B4 is a Hughes HS376 class comsat, owned by the Indonesian
+telecommunications agency PT Telekomunikasi, formerly PERUMTEL.
+Indonesia was the first Third World country with a domestic comsat
+system, as comsats have advantages for communications in a country made
+up of lots of islands.
+
+The Palapa series is summarized below.
+
+Satellite	Type	Launch Date	Launch Vehicle
+
+Palapa 1	HS333	1976 Jul  8	D125   Delta 2914
+Palapa 2	HS333	1977 Apr 15	D129   Delta 2914
+Palapa B1	HS376	1983 Jun 19	STS-7  OV-099/PAM-D
+Palapa B2	HS376	1984 Feb  6	STS-11 OV-099/PAM-D
+Palapa B2P	HS376	1987 Mar 21	D182   Delta 3920/PAM-D
+Palapa B2R	HS376	1990 Apr 13	D194   Delta 6925
+Palapa B4	HS376	1992 May 14	D209   Delta 7925
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 3  STS-50  
+OV-103 Discovery       OPF Bay 2  Mod     
+OV-104 Atlantis        OPF Bay 1  STS-46  
+OV-105 Endeavour       EAFB	  STS-49
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-46/ET          VAB Bay 1          
+ML2/                   VAB Bay 2          
+ML3/STS-50/ET          VAB Bay 3          
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+
+

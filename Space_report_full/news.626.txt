@@ -1,0 +1,189 @@
+Jonathan's Space Report
+No. 626                                            2010 Apr 20   Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Space Shuttle Discovery docked with the PMA-2 port on the Harmony node
+on Apr 8. Astronauts Mastracchio and Anderson made three spacewalks in
+suits EMU 3017 and 3008) from the Quest airlock on Apr 9, 11 and 13.
+During the spacewalks they replaced an ammonia tank assembly (ATA) on
+the S1 truss.
+
+The ammonia is used as a coolant fluid in the truss thermal control
+system. In EVA-1 the station robot arm (SSRMS) moved the new ATA  from
+the LMC carrier in the Shuttle bay to the ESP-2, where the astronauts
+attached a temporary handle. Then the ATA was moved to the Mobile Base
+System (MBS) on the truss. During EVA-2 the astronauts removed the old
+ATA from S1 and handed it to the robot arm which temporarily placed it
+on one of the truss CETA carts. The SSRMS then picked up the the new ATA
+from the MBS, moved it to near S1 and handed it to the astronauts who
+bolted it to the truss. The old ATA was then moved from the CETA cart to
+the MBS. During EVA-3 the astronauts hooked up fluid lines to the newly
+installed ATA; then the SSRMS moved the old ATA to the Shuttle payload
+bay where Mastracchio and Anderson fixed it to the LMC for the trip home
+to Earth, where it will be refurbished. Some stubborn bolts made all of
+this take longer than expected and some other tasks were cancelled,
+notably the return to Earth of the MISSE-LWAPA adapter  plate fixture
+attached to Columbis (the plate had held the MISSE 6 experiment which
+was returned to Earth on an earlier mission). The crew did retrieve the
+SEEDS experiment from the Kibo Exposed Facility and replace a gyro in
+S1, among other minor tasks.
+
+Spacewalk timing details:
+           Quest     Hatch Battery Hatch   Quest
+           depress   open  power   closed  repress
+EVA-1 Apr  9 0527    0530   0531    1156   1158
+EVA-2 Apr 11 0525?   0528   0530    1253   1256
+EVA-3 Apr 13 0605?   0612   0614    1235   1238
+
+Meanwhile, the Leonardo module was moved from the payload bay
+to the zenith CBM port on the Harmony module between 0322 and 0424 UTC
+on Apr 8. Among the cargo transferred from Leonardo was the Crew Quarters 4
+rack, the MELFI-3 freezer, the WORF (Window Orbital Research Facility)
+which will be placed over Destiny's window to host observation experiments,
+the MARES exercise device, and EXPRESS Rack 7. On Apr 15 at 2025
+the SSRMS unberthed Leonardo from Harmony; it was left hanging overnight
+and then berthed back in Discovery's bay at 0708 UTC Apr 16.
+
+The hatches between Discovery and PMA-2/Harmony were closed at 1030 UTC
+on Apr 17 and the Shuttle undocked at 1252 UTC. It made a loop around
+the Station at about 160m distance and then departed at 1401 UTC.
+On Apr 20 Discovery fired its OMS engines at 1203 UTC to reduce its velocity by
+92m/s, changing its orbit from 322 x 345 km to around 13 x 344 km. 
+Orbiter OV-103 landed on runway 33 at Kennedy Space Center at 1308:35 UTC
+after 15 days 2 hours 47 min 10s of flight of which 15 days 2 hours 20 min
+were in space (above 80 km).
+
+Leonardo has made 7 flights into space; its sibling MPLM (Multi-Purpose
+Logistics Module) Raffaello has made 3. The module is about 4400 kg
+empty but launch masses have ranged from 8300 to 12750 kg. Here's my
+best guess for the launch and landing masses of the MPLM (this does not
+include the ROEU umbilical which is attached to the payload bay sidewall
+to provide power while MPLM is in the bay and which I believe has a mass
+of 127 kg.) However, different sources give different masses, so don't
+take this table as definitive. (Figures for 2001-2006 are from Capararo
+et al 2007, IAC-07-B3.3.04).
+
+  Mission            Launch        Mass up  Mass down (kg)
+  Leonardo Flight 1  2001 Mar 8    10213      6540   STS-102/5A.1    Discovery
+  Leonardo Flight 2  2001 Aug 10    9467      7799   STS-105/7A.1    Discovery
+  Leonardo Flight 3  2002 Jun  5   10753      9140   STS-111/UF-2    Endeavour
+  Leonardo Flight 4  2006 Jul  4    9588      8124   STS-121/ULF-1.1 Discovery
+  Leonardo Flight 5  2008 Nov 15   12748      6966   STS-126/ULF-2   Endeavour
+  Leonardo Flight 6  2009 Aug 29   12601      8927   STS-128/17A     Discovery
+  Leonardo Flight 7  2010 Apr  5   12371      9242   STS-131/19A     Discovery
+  Leonardo Flight 8  2011?         ?                 STS-133/ULF-5
+
+  Raffaello Flight 1 2001 Apr 19    8811      6763   STS-100/6A      Endeavour
+  Raffaello Flight 2 2001 Dec  5    9228      8693   STS-108/UF-1    Endeavour
+  Raffaello Flight 3 2005 Jul 26    8301      9110   STS-114/LF-1    Discovery
+
+Leonardo will be converted to become the PMM (Permanent Multipurpose Module)
+and will be left on the station on its next flight.
+
+The remaining flights currently on the Shuttle manifest are:
+ STS-132  with the Rassvet docking and cargo module
+ STS-133  with the Leonardo PMM
+ STS-134  with the AMS-02 particle physics experiment
+
+
+CryoSat-2
+----------
+
+ESA's CryoSat-2 made it to orbit on Apr 8 aboard a Dnepr launch vehicle.
+Dnepr is a refurbished R-36MUTTKh missile; it was launched by MK Kosmotras
+from LC109/95, an underground silo at the Baykonur spaceport. The two
+main stages put the payload module on a suborbital trajectory; the final
+stage MIRV bus then performs the low-thrust orbit insertion burn,
+dragging the payload behind it ino a 710 x 726 km x 92.0 deg orbit.  The
+final stage ended up in a higher orbit of 716 x 1119 km.
+
+CryoSat-2 will study the thickness of the polar ice caps. It replaces
+CryoSat-1, which inspected the polar ice cap rather too closely in 2005 when
+the Rokot launch vehicle malfunctioned and dumped it in the Arctic.
+The satellite carries a Ku-band radar.
+
+GSLV
+----
+
+The first flight of India's GSLV Mk II failed on Apr 15. The GSLV-D3's
+new CUS12 third stage engines did not operate and the vehicle tumbled
+after second stage separation, remaining in a suborbital -4400 x 137 km
+x 19 deg trajectory above the Bay of Bengal. The vehicle reentered 8
+minutes after launch at 1105 UTC, probably over the Andaman Sea. The
+previous GSLV model used a Russian-built upper stage; this flight had
+the ISRO CUS12 using the Indian Cryogenic Engine. The ICE has a 69.5 kN
+LOX/LH2 main engine and two 2 kN vernier steering engines. The main
+engine reportedly ignited for one second but then the turbopump failed
+and the vehicle started falling back to Earth.
+
+Payload was GSAT-4, with a Ka-band communications system and a GPS-augmentation
+navigation transmitter.
+
+ 
+Kosmos-2462
+------------
+
+A new Russian Defense Ministry satellite, Kosmos-2462, was launched on
+Apr 16 into a 169 x 327 km x 67.2 deg orbit. It is probably a Kobal't-M
+recoverable imaging spy satellite built by KB Arsenal. 
+
+
+Suborbital flights
+------------------
+
+The US Air Force Research Lab and Australia's Defense Science and Technology
+Organization launched the HIFiRE-1 hypersonic test flight on Mar 22 from
+Woomera. Launch vehicle was a Terrier Mk 70/Improved Orion and planned
+apogee was 288 km. The flight follows a HIFiRE-0 precursor test last year.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar  1 2119   Kosmos-2459 )       Proton-M/DM-2    Baykonur         Navigation 07A
+              Kosmos-2460 )                                         Navigation 07C
+              Kosmos-2461 )                                         Navigation 07B
+Mar  4 2357   GOES 15             Delta 4M+(4,2)   Canaveral SLC37B Weather    08A
+Mar  5 0455   Yaogan Weixing 9)   Chang Zheng 4C   Jiuquan          Sigint?    09A
+              YW-9 subsat 1   )                                     Sigint?    09B
+              YW-9 subsat 2   )                                     Sigint?    09C
+Mar 20 1826   Echostar XIV        Proton-M/Briz-M  Baykonur LC200/39 Comms     10A
+Apr  2 0404   Soyuz TMA-18        Soyuz-FG         Baykonur LC1     Spaceship  11A
+Apr  5 1021   Discovery (STS-131) Space Shuttle    Kennedy LC39A    Spaceship  12A
+              Leonardo                                              Module     12
+Apr  8 1357   CryoSat-2           Dnepr            Baykonur LC109/95 Science   13A
+Apr 15 1057   GSAT-4              GSLV Mk II       Sriharikota      Comms      F01
+Apr 16 1500   Kosmos-2462         Soyuz-U          Plesetsk         Imaging    14A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Mar  2 0725   SSC REXUS 7     Improved Orion  Esrange         Aeron/Tech    83
+Mar  4 0450   Sineva RV-1)    Sineva          K-114, Barents  Op. Test    1000?
+              Sineva RV-2)
+              Sineva RV-3)
+              Sineva RV-4)
+Mar  4 1015   SSC REXUS 8     Improved Orion  Esrange         Tech          88
+Mar 22        HiFire-1        Terrier Orion   Woomera         Hypersonic   288?
+Mar 26 1343   SSC MAXUS 8     Castor 4B       Esrange         Micrograv    700
+Mar 27 0014   RV              Dhanush      INS-P51, Chandipur Test         100?
+Mar 27 0018   RV              Prithvi         Chandipur       Test         100?
+Mar 27 1409   NASA 12.067GT   Terrier Malemute Wallops LA1    Test         270
+Mar 27 1937   Agni RV         Agni I           Chandipur      Test         300
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

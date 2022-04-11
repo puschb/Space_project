@@ -1,0 +1,197 @@
+Jonathan's Space Report
+No. 669                                            2012 Oct 24  Somerville, MA USA
+----------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 33 continues with commander Suni Williams, FE-4 Yuriy
+Malenchenko and FE-6 Aki Hoshide; Soyuz TMA-06M (factory no. 707, ISS
+flight 32S) was launched on Oct 23 with Oleg Novitskiy, Yevgeniy
+Terelkin and Kevin Ford; the crew, callsign 'Kazbek', will become part
+of Ex-33 when they arrive at the Station.
+
+SpaceX's Dragon CRS-1 cargo ship reached the ISS on Oct 10 and was
+captured by the SSRMS arm at 1056 UTC. Berthing at the Harmony
+module was completed at 1303 UTC.
+
+The five cubesats ejected from the JEM on Oct 4 have been cataloged as
+1998-067CN to 1998-067CS; Mike Rupprecht DK3WN has identified three of them
+so far using their radio signals. The cubesats went into space on the         
+2012-038 (HTV-3) launch but USSTRATCOM, to whom the World Data
+Center at GSFC has delegated the naming process, has elected to label all
+ISS-associated objects with the Zarya module's launch number.
+
+The Orbcomm OG2-1 satellite reentered at 0619 UTC on Oct 10 after 2 days
+in space, probably over the NE Pacific west of Vancouver. An Orbcomm
+press release states that they were able to test out the satellite's
+systems before the reentry. The Falcon 9 second stage has also
+reentered, and the three debris objects will probably come down in the
+next day or two.
+
+The ISS orbit was raised slightly on Oct 17 using the Zvezda module engines.
+
+
+Galileo
+-------
+
+The IOV 3 and 4 in-orbit validation satellites for the Galileo
+navigation system, Europe's analog to GPS, were orbited by a
+Soyuz/Fregat from the Centre Spatial Guyanais on Oct 12. The two
+satellites have been given the nicknames David and Sif in honor of two
+young competition winners, Mr. David Markarjanc (b.2001) of the Czech
+Republic and Ms. Sif Skov Christensen (b.2002) of Denmark. 
+
+The Fregat-MT No. 1031 upper stage inserted the stack in a 202 x 23248 km x 56.0 deg
+transfer orbit; after a second burn at 2149 UTC the two satellites were
+ejected into circular orbit. The Soyuz-ST-B (Soyuz-2-1b) third stage
+was on a suborbital trajectory and reentered over the Atlantic at about 1832 UTC.
+On Oct 23 IOV-3 was in a 23215 x 23232 km x 55.3 deg orbit.
+
+SJ-9
+----
+
+On Oct 14 China launched two technology satellites, SJ-9A and SJ-9B (Shi
+Jian jiu hao A/B weixing) using a CZ-2C launch vehicle with an SMA solid
+motor upper stage. The CZ-2C second stage ended up in a 260 x 674 km x
+98.0 deg transfer orbit; the satellites are in a 623 x 650 km x 98.0
+deg, 1029LTDN sun-synchronous orbit together with a small dual payload
+adapter. The SMA stage seems to have made a pair of depletion burns to a
+363 x 607 km x 98.1 deg disposal orbit. Two of the four second stage
+motor separation covers have so far been cataloged, in 260 x 890 km
+orbits.
+
+The SJ-9 satellites carry technical experiments and will perform formation flying
+exercises. They are under the control of the Zhonggou ziyuan weixing yingyong zhongxin
+(China Resources Satellite Applications Center).
+
+On Oct 19 SJ-9A began maneuvers, lowering its orbit to 619 x 644 km and then
+returning to a 623 x 650 km orbit on Oct 22-23. 
+
+Ekspress/Telkom
+--------------
+
+The upper stage from the failed Ekspress/Telkom launch, Briz-M No. 99532
+(catalog 38746), disintegrated on Oct 16, presumably when residual
+fuel and oxidizer came into contact, and generated an as-yet-unknown
+quantity of orbital debris. The stage was in a 263 x 5012 km x 49.9 deg orbit.
+None of the debris has yet been cataloged.
+
+IS-23
+-----
+
+Intelsat's IS-23 satellite, an Orbital Star-2.4 model, was launched on
+Oct 14 by a Proton/Briz-M from Baykonur.  The satellite will provide Ku
+and C band communications services for the Americas, Europe and Africa
+from 53W. This is the first Star-2 class satellite to be directly
+inserted into geosynchronous orbit by its launch vehicle rather than
+using liquid apogee burns from transfer orbit. On Oct 19 the
+satellite was in a 25-hour, 36916 x 37239 km x 0.1 deg drift orbit;
+by Oct 22 IS-23 had braked to a 24-hour, 35780 x 35948 km x 0.1 deg 
+near-synchronous orbit drifting west over 50 deg W.
+
+Launch Vehicle Statistics
+--------------------------
+
+The practice, of which I and others have long been guilty, of evaluating launch
+vehicle reliability based on a simple pass/fail value for each launch is rather a
+blunt instrument, as the recent Falcon 9 launch shows.
+
+I have revised my launch tables (http://planet4589.org/space/lvdb/) 
+to include an attempt at reasonably objective fractional success values for marginal cases. 
+For pass/fail purposes I consider a score of 0.75 or less to be a failure; one could argue for 
+lowering that boundary a little bit.
+
+For launches with a single payload, or multiple equal-priority payloads, I give:
+ - full success                   1.00
+ - orbit usable but not nominal   0.75
+ - orbit but not a usable one     0.40
+ - payload failed to separate     0.25  (even if good orbit)
+ - orbit not reached              0.00  (or reentry after circa 1 orbit)
+
+For missions with primary (P) and secondary (S) payloads, a rough scaling
+to give the P 3 times the weight of S -
+ - full success                   1.00
+ - S off-nominal orbit            0.95
+ - S unusable orbit               0.85
+ - S failed to sep                0.75
+ - P off-nominal orbit            0.55
+ - P unusable orbit               0.30
+ - P failed to separate           0.10
+
+There's still some subjectivity here, and I've allowed myself to assign intermediate values,
+e.g. when an orbit is only slightly off-nominal. Now obviously scores of 0.40 or less
+are going to mean an unhappy customer, but I think it's still worth distinguishing from complete
+failure to orbit a it usually indicates a vehicle which is 'close' to working in contrast
+to some vehicles which never make it beyond first or second stage burn (I'm looking at you,
+North Korea...). For Earth escape missions stranded in LEO, I've kept a 0 (complete failure) score.
+
+Here are the proposed scores assigned so far that differ from 0.0 and 1.0:
+ 0.25  96-061 Pegasus
+ 0.40  63-021 Thor Agena; 67-032 Proton; 76-062,76-088, 80-031, 86-075,90-055 Molniya, 78-119, 95-052 Kosmos,
+       84-120, 04-052 Tsiklon, 91-051 Pegasus, 95-U01 Mu-3S-II, 96-048 CZ-3, 80-043 Atlas,
+       99-017, 99-023 Titan, 99-024 Delta 3, 06-006, 08-011, 11-045, 12-044 Proton/Briz, 11-005 Rokot
+ 0.45  04-050 Delta 4H  (primary payload medium-bad orbit, secondary failed to orbit)
+ 0.50  01-029 Ariane 5/V142
+ 0.75  97-057 PSLV, 97-066 Ariane 502, 07-027 Atlas V/NROL-30, 09-029 Soyuz/Meridian
+ 0.80  00-048 Delta 3, 01-015 GSLV  (somewhat off-nominal orbit)
+ 0.85  12-054 Falcon 9  (primary perfect, secondary unusable)
+
+I haven't done a throrough scrub of the database, particularly the older launches - let me know
+what you think. Note that I don't count PAM and IUS payloads on Shuttle as part of the launch vehicle.
+There's a whole other discussion to be had about measuring each stage instead of the LV
+as a whole, and measuring upper stage and apogee motor reliability - but that is not this discussion:
+the question of integrated launch vehicle reliability comes up often enough to be worth doing better.
+
+Orbital Launch Stats 2012 to Date
+---------------------------------
+
+Total 60 attempts:
+Russia 18, US 14, China 14, France/ESA 7, India 2, Japan 2, Iran 1 + 1 fail, North Korea 1 fail
+
+Sea Launch counted as US, Soyuz/CSG counted as France, so for country of LV manufacture it's
+Russia/Ukraine 21, China 14, US 12, Europe 6, India 2, Japan 2, Iran 2, NK 1. Orbital's Antares
+and South Korea's Naro will make it even tougher to construct meaningful nation-based statistics,
+since they have Russian-built first stages.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Oct  4 1210   GPS SVN65          Delta 4M+(4,2)    Canaveral SLC37B  Navsat    53A
+Oct  4 1437   RAIKO    )                           ISS Kibo, LEO     Tech      98-067CN
+              We Wish  )                                             Tech      98-067CS
+Oct  4 1544   F-1      )                           ISS Kibo, LEO     Tech      98-067CR
+              Niwaka   )                                             Tech      98-067CP
+              TechEdSat)                                             Tech      98-067CQ
+Oct  8 0035   Dragon CRS-1 )     Falcon 9          Canaveral SLC40   Cargo     54A
+              Orbcomm OG2-1)                                         Comms     54B
+Oct 12 1815   Galileo IOV-3 )    Soyuz ST-B        Kourou ELS        Navsat    55A
+              Galileo IOV-4 )                                        Navsat    55B
+Oct 14 0325   Shi Jian 9 A )     Chang Zheng 2C    Taiyuan           Tech      56A
+              Shi Jian 9 B )                                         Tech      56B
+Oct 14 0837   Intelsat IS-23     Proton-M/Briz-M   Baykonur LC81/24  Comms     57A
+Oct 23 1051   Soyuz TMA-06M      Soyuz-FG          Baykonur LC31     Spaceship 58A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Oct  4 0337   RV               Prithvi 2          Chandipur           Op.Test      100?
+Oct  5 0555   RV               Dhanush            Ship, Chandipur     Op.Test      100?
+Oct 19        RV               Volna            K-433 sub, S. Okhotsk Op.Test     1000?
+Oct 19 0912   RV               Topol              Plesetsk            Op.Test     1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

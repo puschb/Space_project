@@ -1,0 +1,333 @@
+Jonathan's Space Report
+No. 798                                                           2021 Oct 14     Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+Note: I have added a new set of lists on my website covering various aspects of
+human spaceflight. See http://planet4589.org/space/astro/web/index.html
+
+International Space Station
+---------------------------
+
+Expedition 65 continues under the command of Thomas Pesquet (ESA). Flight engineers are
+Shane Kimbrough (NASA), Megan McArthur (NASA), Akihiko Hoshide (JAXA), Oleg Novitsky (Roskosmos),
+Pyotr Dubrov (Roskosmos), Mark Vande Hei (NASA) and Anton Shkaplerov (Roskomos). These eight
+are currently accompanied by the visiting film crew Shipenko and Peresild for a total of 10 people
+on ISS. For a couple of minutes during the NS-18 suborbital flight there were a total of 14 people
+in space. This equalled the record set during Inspiration 4, when its four crew were supplemented
+by three on Shenzhou 12 and seven on ISS.
+
+Soyuz MS-18 undocked from the Rassvet module at 1221:36 UTC Sep 28 and redocked with Nauka at 1304:15 UTC,
+inaugurating Nauka's SSVP docking adatper.
+
+Cargo ship Dragon CRS-23 undocked from the IDA-2 port at 1312 UTC Sep 30. It lowered
+its orbit at about 1708 UTC to 253 x 406 km, and made its deorbit
+burn at 0207 UTC Oct 1, landing off the coast of Florida at about 80.6W 29.8N at roughly 0257 UTC.
+The trunk was ejected a few minutes before deorbit and remains in the 253 x 406 km orbit.
+
+Soyuz MS-19 was launched on Oct 5 at 0855 UTC, carrying commander Anton Shkaplerov
+and two passengers, movie director Klim Shipenko and actor Yulia
+Peresild. The ship docked at the Rassvet module at 1222 UTC the same day.
+
+On Oct 6 the Japanese RMS removed the J-SSOD-19 deployer from the Kibo airlock,
+and J-SSOD-19 ejected two Australian and two Phillipine cubesats.
+
+Oct Oct 12 the Japanese RMS removed the Nanoracks NRCSD-21 deployer from the Kibo
+Airlock. NRCSD-21 deployed the cubesats CAPSAT, SPACE HAUC and PR-CUNAR2.
+
+Chinese Space Station
+-----------------------
+
+The Tianzhou 2 cargo ship undocked from the aft port of the Tianhe
+module at 0225 UTC Sep 18, and redocked with the forward port, vacated
+by Shenzhou 12 two days earlier. China reported the process lasted
+`about 4 hours', which I assume means redocking sometime prior to 0630
+UTC.
+
+The Tianzhou 3 cargo ship was launched at 0710 UTC Sep 20 and docked with the aft port
+of Tianhe at 1408 UTC the same day. 
+
+Inspiration4
+------------
+
+The Dragon trunk ejected from Inspiration4 is being tracked in a 360 x 369 km x 51.7 deg orbit.
+
+Jilin-1 GF02D
+-------------
+
+EXPACE launched a Kuaizhou-1A rocket from Jiuquan on Sep 27 with Changuang Weixing Jishu's Jilin-1 Gaofen 02D
+high resolution imaging satellite. This is a return to flight of the KZ-1A following its Sep 2020 launch failure
+with Jilin-1 Gaofen 02C.
+
+Shiyan 10
+---------
+
+CALT launched a Chang Zheng 3B from Xichang on Sep 27 with the Shiyan 10
+test satellite Two objects were cataloged in a 51 degree inclination
+geotransfer orbit. After a long delay, China announced that although the
+rocket had followed the correct trajectory, the Shiyan 10 payload itself
+had failed during the ascent.
+
+Landsat 9
+-----------
+
+The Landsat 9 imaging satellite was launched on Sep 27. The satellite is
+similar to Landsat 8 and is built by Northrop Grumman (former Spectrum
+Astro/Gilbert). It has optical, near and mid infrared imagers.
+
+The Centaur also carried the ESPA Flight System  (EFS), an ESPA ring fixed between the Centaur
+and Landsat carrying several cubesat dispensers. EFS ejected four 6U cubesats:
+  Cesium Astro's CS1 and CS2, for intersatellite communication experiments in partnership with the US Defense
+   Department's Defense Innovation Unit.
+  The University of Colorado's CUTE (Cubesat UV Transit Experiment) to study exoplanet atmospheres
+  Boston University's CUPID with a soft X-ray telescope to study charge exchange emission from the
+   interaction of the solar wind with the Earth's exosphere. This emission is a frequent annoyance
+   to X-ray astronomers likeme as it is a hard-to-predict contribution to the background noise in our images
+   in telescopes like Chandra.
+
+
+Chang'e-5
+---------
+
+The Chang'e-5 orbiter, which made a 16500 km lunar flyby on Sep 12 after returning from
+Sun-Earth L1, looks likely to make a further lunar encounter on Nov 17.
+
+Rant on Registration
+---------------------
+
+
+The US government needs to improve its procedure for  generating the
+list of its satellites that it registers with the UN.
+This will be a long, ranty, thread.
+
+Since the start of the space age it has been standard practice
+that all Earth satellite launches, even `secret' ones, have been
+publicly announced.
+
+In 1962, around the time of the Cuban Missile Crisis,  the US was
+alarmed when it discovered the USSR had launched several unannounced
+satellites into low orbit. Were they, perhaps, orbital nukes? No, it
+turned out, they were failed interplanetary probes. Nevertheless this
+reinforced the idea that unannounced launches were a bad idea.
+
+Relatedly, a UN register of space objects was established;
+UN Resolution 1721B and, later, the UN Registration Convention
+came into force. The US has mostly, but not perfectly, complied
+with the requirements of the convention.
+
+
+Recently there's been a new problem in the US registrations. The
+registration documents are clearly generated from the US satellite
+catalog maintained by SpaceForce 18SPCS. This is not good enough. Why?
+
+Let's look at an example - the Electron 4 mission of Dec 2018, launch
+2018-104. This placed 11 United States payloads in orbit, and two New Zealand
+rocket stages. All 13 objects are being tracked by Space Force,
+and we know which 2 objects are the rocket stages. 
+So, we have 11 tracked objects that we know are the 11 US payloads.
+
+But, for 5 of these payloads we don't know which object is which.
+Tracked objects E, F, K, L and P are the satellites
+Ceres, RSat, Cubesail, Albus and NMTSat in some order, but we don't
+know which order. In the US satellite catalog, catalog numbers
+corresponds to objects being tracked, and they only get a name associated
+with them if Space Force knows what the tracked object is.
+So, if you search for the NASA 'Albus' satellite or the New Mexico Tech 'NMTSat'
+in the satellite catalog you won't
+find anything. If you count the number of US payloads launched in 2018,
+these won't be included and you'll get too low an answer.
+
+More recently, there are the V-R3X payloads from launch 2021-006
+which aren't even identified as US objects in the catalog, even though
+we know they are objects BC, BG and DQ in some order. So, they are not
+included in US registration document ST/SG/SER.E/977 - but they should be.
+
+This is (arguably) not Space Force's fault. It's their catalog and  this
+is what works for them, I guess. BUT:  the requirement on the State
+Dept. for UN registration is NOT 'tell me which of your satellites you
+are tracking'. It's 'tell me which satellites you have put in orbit'. So
+it is NOT OK for them to use the satcat as a complete list for this
+purpose - because it is not OK for them to leave out satellites like
+Albus just because we don't know
+which catalog number it is. We know the US launched Albus and it is in orbit,
+so it should be registered with the UN. I would argue the same is true of the Thinsats
+deployed from Cygnus even though SpaceForce decided they weren't going to bother
+cataloging them at all because they reentered after a few days. They met the usual
+criterion for registration with the UN and should be registered.
+
+This used not to be a big problem because very few launched US payloads were
+not identified with a catalog number. But now with all these cluster cubesat
+launches, it's much more common. I estimate there are 28 unregistered US satellites
+in 2018, and 9 in 2019, although only 1 in 2020. There look to be a bunch in 2021
+but not all the reg documents are in yet.
+
+One possibility is that Space-Track could maintain a separate public table of
+object information versus launch number for objects known to be in orbit
+but not associated with a catalog number.
+
+It shouldn't be too hard to do better. I keep a list of the unregistered
+satellites on my website (objects marked [US] in square parentheses in
+https://planet4589.org/space/gcat/data/cat/psatcat.html If one person
+can do this in his spare time, it seems like the US government should be
+able to manage it. Do better, America!  End of rant.
+
+OneWeb
+------
+
+36 more satellites were launched from Vostochniy on Oct 14.
+
+CHASE
+-----
+
+China's H-alpha Solar Explorer was launched on Oct 14. The 500 kg Xihe satellite,
+operated by Nanjing University and developed by SAST/Shanghai, will take high
+resolution spectra of the H-alpha spectral line of the solar spectrum. This is red-light
+emission produced by the element hydrogen, and is stronger in the active areas (sunspots
+etc) of the Sun.
+
+10 other small satellites were also deployed.
+
+ - Tianyuan-1 is a 6U cubesat from Nanjing U of Sci and Tech. which is
+   testing a small solid motor and a microthruster
+ - QX-1 (Shangye qixang tance xingzuo shiyan weixing) is a commercial GNSS
+   radio occultatin meteorology test satellite from DFH Shenzhen
+ - MD-1 (Guidao daqi midu tance shiyan weixing) is a satellite frm DFH Shenzhen to study atmospheric density
+ - Tianshu-1 is  low orbit GNSS augementation technology test satellite
+   from Huoyan Digital Intelligence Tech Service Co Ltd of Shanghai
+ - Jiaotong shiyan weixing is a test of VDES (next-generation ship
+   tracking maritime comms) owned by SISE/Shanghai and built by Lizheng
+   Sat.App.Tech.; it has a mass of 103 kg and has a 40 mN Hall thruster to raise its orbit to 900 km
+ - HEAD-2E and HEAD-2F are commercial AIS ship tracking sats for HEAD Aerospace/ Beijing
+ - SSS-1 (Daxeusheng xiaowexing) is a 30 kg student satellite from Beihang University and 
+   is part of an Asia-Pacific Space Cooperation Organization (ASPCO)  student satelite project
+   SSS-1 has a deployable boom, an ADS-B receiver, and an intersatellite comms experiment for use with SSS-2A
+ - SSS-2A is a 3U cubesat developed by Shanghai Jiaotong Univ
+ - Jin Zijing 2 (Golden Bauhinia 2) is a small satellite for imaging
+   developed by Beijing Zero Gravity Lab for Hong Kong Aerospace Tech Group
+
+
+NS-18
+-----
+
+New Shepard booster PM4 launched capsule CC2.0-2 RSS First Step to 107 km apogee
+on Oct 13, carrying Chris Boishuizen, Glen de Vries, Audrey Powers and William Shatner.
+The 10m 9s flight spent 2m 29s above 80 km.
+
+BepiColombo
+-----------
+
+The ESA/JAXA BepiColombo probe flew past Mercury on Oct 1. It entered Mercury's
+gravitational sphere at 1427 UTC Oct 1, made closest approach of 196 km altitude
+at 2336 UTC, and departed the gravitational sphere at 0845 UTC Oct 2.
+
+
+Errata
+------
+  
+- FPMU is the Floating Potential Measurement Unit
+- Initial inclination of Inspiration 4 is 51.6 deg (not km!)
+- Correct spelling of the Inspiration 4 medical officer's surname is Arceneaux.
+These have been amended in the archival version of the report.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name			     Launch Vehicle	 Site		 Mission  INTL.  Catalog  Perigee Apogee  Incl	 Notes
+Sep  3 0159   BSS-1	  )		       Firefly Alpha	    Vandenberg SLC2W   Tech    F08 F01599 -6370? x 15?x 137
+	      Serenity	  )							       Edu     F08 F01607 -6370? x 15?x 137
+	      Hiapo	  )							       Edu     F08 F01608 -6370? x 15?x 137
+	      Qubik 1	  )							       Tech    F08 F01600 -6370? x 15?x 137
+	      Qubik 2	  )							       Tech    F08 F01601 -6370? x 15?x 137
+	      GENESIS L   )							       Com     F08 F01605 -6370? x 15?x 137
+	      GENESIS N   )							       Com     F08 F01604 -6370? x 15?x 137
+	      Spinnaker 3 )							       Tech    F08 F01609 -6370? x 15?x 137
+Sep  7 0301   Gao Fen 5-02		       Chang Zheng 4C	    Taiyuan	       Imaging 79A S49122  680 x 691 x 98.3
+Sep  9 1150   Zhongxing 9B		       Chang Zheng 3B	    Xichang	       Comms   80A S49125 206 x 35792 x 24.6
+Sep  9 1959   Kosmos-2551		       Soyuz-2-1V	    Plesetsk LC43/4    Imaging 81A S49127 295 x 307 x 96.4
+Sep 10 0455   RAAF M2 B 					  RAAF M2 A, LEO       Tech   23J  S47973 545 x 558 x 45.0
+Sep 14 0355   Starlink 3042-3043	       Falcon 9 	    Vandenberg SLC4E   Comms   82	  212 x 339 x 70.0 
+	      Starlink 3045-3048
+	      Starlink 3050-3060
+	      Starlink 3068-3069
+	      Starlink 3071-3074
+	      Starlink 3077-3078
+	      Starlink 3080-3091
+	      Starlink 3093
+	      Starlink 3095-3096
+	      Starlink 3100-3104
+	      Starlink 3106-3107
+	      Starlink 3109
+	      Starlink 3116
+	      Starlink 3118-3119
+Sep 14 1807   OneWeb SL0292		       Soyuz-2-1b/Fregat    Baykonur LC31     Comms   83A-AK	    445 x 472 x 87.4
+	      OneWeb SL0303
+	      OneWeb SL0306-0307
+	      OneWeb SL0320-0322
+	      OneWeb SL0324-0328
+	      OneWeb SL0331
+	      OneWeb SL0333-0346
+	      OneWeb SL0348
+	      OneWeb SL0350-0352
+	      OneWeb SL0354-0355
+	      OneWeb SL0357
+Sep 16 0002   Inspiration4		       Falcon 9 	    Kennedy LC39A     Spaceship 84A  S49220  570 x 579 x 51.6
+Sep 20 0710   Tianzhou 3		       Chang Zheng 7	    Wenchang LC201    Cargo	85A  S49222  199 x 325 x 41.5
+Sep 27 0619   Jilin-1 Gaofen 02D	       Kuaizhou 1A	    Jiuquan	      Imaging	86A  S49256  532 x 545 x 97.5
+Sep 27 0820   Shiyan 10 		       Chang Zheng 3B	    Xichang LC3       Tech	87A  S49258  177 x 40105 x 51.0
+Sep 27 1812   Landsat 9 )		       Atlas V 401	    Vandenberg SLC3E  Imaging	88A  S49260  649 x 686 x 98.2
+	      CUTE	)							      Astronomy 88D  S49263  550 x 574 x 97.6
+	      CuPID	)							      Astronomy 88E  S49264  550 x 573 x 97.6
+	      Cesium CS1)							      Tech	88B? S49261  551 x 581 x 97.6
+	      Cesium CS2)							      Tech	88C? S49262  550 x 581 x 97.6
+Oct  5 0855   Soyuz MS-19		       Soyuz-2-1a	    Baykonur LC31     Spaceship 89A  S49269  195 x 227 x 51.6
+Oct  6 0920   Binar-1 ) 					    ISS, LEO	      Tech    98067SR S49272 413 x 421 x 51.6
+	      Maya-3  ) 							      Tech    98067SS S49273 413 x 421 x 51.6
+	      Maya-4  ) 							      Tech    98067ST S49274 413 x 421 x 51.6
+Oct  6 1055   CUAVA-1						    ISS, LEO	      Tech    98067SU S49275 413 x 421 x 51.6
+Oct 12 1100   CAPSat						    ISS, LEO	      Tech    98067SV S49276?
+Oct 12 1230   SPACE HAUC)					    ISS, LEO	      Tech    98067SW S49277?
+	      PR-CuNaR2 )							      Tech    98067SX S49278?
+Oct 14 0940   OneWeb SL0332		       Soyuz-2-1b/Fregat    Vostochniy PU1S   Comms   90A-AM  S49279  413 x 421 x 87.4
+              OneWeb SL0347
+              OneWeb SL0349
+              OneWeb SL0353
+              OneWeb SL0356
+              OneWeb SL0358-SL0388
+Oct 14 1051   Xihe (CHASE)        )            Chang Zheng 2D       Taiyuan           Solar     91A  S49315?  503 x 522 x 97.5
+              QX-1                )                                                   Meteo     91B?
+              Tianshu-1           )                                                   Tech?     91C?
+              JTSY                )                                                   Comms     91D?
+              HEAD-IIE            )                                                   Comms     91E?
+              Guidao Daqi Midu TSW)                                                   Sci       91F?
+              SSS-1               )                                                   Tech      91G?
+              HEAD-IIF            )                                                   Comms     91H?
+              Tianyuan-1          )                                                   Tech?     91J?
+              Zijinjing-2         )                                                   Tech?     91K?
+              SSS-2A              )                                                   Tech      91L?
+               
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Sep  5        HE warhead        Zulfiqar           Sanaa?                Weapon        150?      Ras Al-Tanura
+Sep  9 1725   EVE 8             Black Brant IX     White Sands           Solar EUV     293       White Sands
+Sep 11 2207   HOT SHOT 4?       Terrier Imp.Mal.   Wallops I             Tech          200?      Atlantic 
+Sep 12 1730   BVT-03            GBI                Vandenberg            Test          300?      Pacific
+Sep 15        Hyunmoo-4-4       Hyunmoo-4-4        SS-088, Anhui         Test          150?      Pacific?
+Sep 17        USN RVs           Trident D-5        SSBN 742, ETR         Test         1800?      Atlantic
+Sep 17        USN RVs           Trident D-5        SSBN 742, ETR         Test         1800?      Atlantic
+Oct  8 1740   CLASP 2.1         Black Brant IX     White Sands           Solar UV      272       White Sands
+Oct 13 1449   NS-18             New Shepard        West Texas            Tourist       107       West Texas
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

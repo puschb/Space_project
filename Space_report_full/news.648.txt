@@ -1,0 +1,244 @@
+Jonathan's Space Report
+No. 648                                      2011 Oct 10    Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+UARS and Rosat
+--------------
+
+A new report on Space-Track gives the UARS satellite reentry at 0400 UTC
++/- 1 min over 14.1S 170.2W - in the SW Pacific near American Samoa.
+NASA's UARS site has also been updated to reflect this information. This
+is about 10-15 min earlier than previously estimated. This represents
+the beginning of reentry, with a debris footprint extending up to 1000
+km NE, making it almost certain that no debris reached the US coast.
+
+A 5 tonne rocket stage from the Tiangong-1 launch was expected
+to have reentered on Oct 10.
+
+The 2.5 tonne ROSAT astronomy satellite will reenter later in October.
+As much of 1 tonne of the dense X-ray Telescope mirror assembly
+may survive reentry. On Oct 10, ROSAT was in a 244 x 250 km x 53.0 deg
+orbit.
+
+Tiangong 1
+----------
+
+China launched the Tiangong-1 spacelab on Sep 29 into a 198 x 332 km x
+42.8 deg orbit. The CZ-2FT1, an uprated version of the CZ-2F used to
+launch the Shenzhou spaceships, placed the 8500 kg module in orbit. A
+forthcoming Shenzhou crew will dock with the module.
+
+At 1758 UTC on Sep 29 TG-1 raised its orbit to 197 x 345 km; at 0809
+UTC on Sep 30 the orbit was further raised to 336 x 353 km.
+
+
+Tacsat-4
+--------
+
+The Naval Research Lab's Tacsat-4 UHF communications satellite was
+launched into elliptical orbit by a Minotaur IV rocket from Kodiak Island.
+This was the first use of a souped-up Minotaur IV where an ATK Star 48V
+motor replaces the usual Orion 38 motor. The Star 48 family of motors
+first flew in the 1980s as part of the PAM-D upper stage for Delta and Shuttle;
+the 48V variant was the upper stage for the Conestoga 1620 vehicle
+used in one failed 1995 launch; the Tacsat-4 launch was the Star 48V's
+first chance to actually fire in space.
+
+The Minotaur IV was launched at 1549 UTC and inserted Tacsat-4/Star 48V
+on a ballistic trajectory at 1552 UTC, still attached to the SR-120
+third stage. At 1612 UTC the SR-120 separated, and the Star 48V burned
+to insert the satellite into a 189 x 11833 km x 63.4 deg orbit. After
+stage 4 separation, Tacsat-4 coasted to apogee and fired its own orbit
+control motor at 1837 UTC to change the orbit to 340 x 11843 km. The
+satellite has a  3.7-meter-diameter UHF communications antenna to support
+military handheld satphones; the vehicle was built by NRL and APL.
+On Sep 28 the orbit was further raised to 646 x 11836 km and the 
+inclination adjusted to 63.6 deg. On Oct 5 another orbit raise put
+Tacsat-4 in a 748 x 12001 km x 63.6 deg orbit.
+
+The Minotaur IV stage 4 is built around the GCA (Guidance Control Assembly)
+package, containing the Star 48 solid motor. I estimate the post-burnout
+mass of stage 4 must be in the 500 to 1000 kg range, of which only 139 kg
+is the empty Star 48V motor. (If anyone has a better number, please let me
+know). 
+
+
+QuetzSat-1
+----------
+
+QuetzSat SRL de CV is a Mexican joint venure of SES Satellite Leasing (UK)
+and Grupo Medcom/Mexico. Their first satellite, QuetzSat-1, is a 5514 kg
+Ku-band Loral 1300 vehicle whose capacity will be leased to Echostar.
+The satellite was launched from Baykonur on Sep 29 by a Proton-M on
+its first commercial flight since the Ekspress AM-4 failure,
+and deployed into a 5909 x 35791 km x 18.6 deg orbit. The Briz-M 
+DTB drop tank was left in a 328 x 17710 km x 49.5 deg orbit.
+By Oct 8 QuetzSat-1 was in a 35722 x 35796 km x 0.1 deg orbit
+drifting past 68 deg W.
+
+Glonass-M
+----------
+
+A Glonass-M navigation satellite was launched from Plesetsk on Oct 2.
+Glonass-M No. 42 (Uragan-M No. 742) separated from the Fregat stage
+at 2347 UTC. The Soyuz-2-1B rocket put the Fregat in an approximately
+60 x 220 km orbit from which it maneuvered to 220 x 220 km, 250 x 19100 km
+and then to the deployment orbit of 19235 x 19667 km x 64.8 deg.
+
+Intelsat IS-18
+--------------
+
+A Sea Launch Zenit-3SLB (the land-launched version of the rocket) was
+launched from Baykonur on Oct 5 into a 5269 x 35769 km x 19.5 deg
+geostationary transfer orbit. The payload was Intelsat IS-18, a 3200 kg
+Orbital Star-2.4E satellite with a Ku and C band communications payload
+for Pacific Ocean communications including a special beam for French
+Polynesia.
+
+The new Sea Launch AG has its formal headquarters in Bern, although
+launch operations remain based in Long Beach. Sea Launch AG seems to be
+basically the sales company, with the actual launch service carried out
+in international waters by Energia Logistics Ltd. (ELUS) of Long Beach.
+using rocket stages provided  by Yuzhmash in the Ukraine and RKK Energiya of Moscow. So for
+those who like to track which country launched a satellite, is this a
+Swiss, US, Ukrainian or Russian launch? In my opinion, categorizing 
+space activities by country is becoming less useful.
+
+Here are this year's statistics so far - note that even without
+SeaLaunch (which if anything might be considered Russian now that
+Energia is running it) Russia is in the lead, but China has not managed
+yet to reach last year's record of matching the US.
+
+ Orbital launch attempts so far in 2011, by country of launch vehicle
+
+                         2011      2011   2010   2010
+            Family     Per Fam   Total   Per Fam   Total
+           ----------------------------------------------
+ Russia     Zenit*     2                 0
+            Rokot      1                 2
+            Proton     5                12
+            Dnepr*     1                 3
+            Kosmos     0                 1
+            Soyuz     11         20     13     31
+
+ USA        Shuttle    3                 3
+            Atlas5     4                 4
+            Delta 2    2                 1
+            Delta 4    3                 3
+            Minotaur1  2                 0
+            Falcon 9   0                 2
+            Taurus/M4  2         16      2     15
+ China      CZ         12        12     15     15
+ France*    Ariane5    5          5      6      6
+ SeaLaunch  Zenit      2          2      0      0
+ Japan      H2         2          2      2      2
+ India      PSLV       2          2      3      3
+ Iran       Safir      1          1      0      0
+ Israel     Shaviyt    0          0      1      1
+ S Korea    Naro       0          0      1      1
+                                ---           ---
+                                 60            74
+  *Arianespace headquartered in France; Dnepr and Zenit
+  first stages designed and manufactured in the Ukraine
+
+
+Eutelsat W3C
+-------------
+
+The W3C satellite was launched by a Chinese CZ-3BE on Oct 7 into
+a 193 x 35806 km x 26.1 deg transfer orbit; on Oct 8 this
+was raised to 4596 x 35800 km x 14.6 deg.
+Eutelsat W3C is a Thales Spacebus 4000C3 with a launch mass of 5400 kg.
+
+
+GRAIL
+-----
+
+Thanks to Jon Giorgini for including trajectory data for GRAIL on JPL's
+Horizons site. The two GRAIL spacecraft are on their way to Sun-Earth L1;
+the Delta second stage is in a 0.88 x 1.05 AU x 0.01 deg heliocentric
+orbit with a period of around 347 days.
+
+
+Satellite catalog
+------------------
+
+For some reason, catalog numbers 37786 and 37787 have not been assigned.
+Two pieces of minor debris from the NOAA 12 weather satellite have
+been cataloged as 37831 and 37832.
+
+Suborbital launches
+-------------------
+
+According to lenta.ru and Pavel Podvig's russianforces.org, the Russian
+Navy carried out the second test flight of the R-29MU2.1 Layner missile
+from submarine K-114 Tula on Sep 29. The R-29MU2.1 is a version of
+the R-29MU2 Sineva missile but carrying up to 10 reentry vehicles.
+Meanwhile, India carried out launches of the Prithvi and Agni rockets
+over the Bay of Bengal.
+
+The THAAD antimissile system was tested on Oct 5 against two target
+missiles. One target was probably the SR-19 based Coleman Aerospace
+SRALT dropped out of a C-17 airplane, and the other was likely a Scud
+surrogate of some kind launched from the Mobile Launch Platform ship
+(former USS Tripoli)  off Kauai. The THAAD missiles were launched from a
+truck on the Barking Sands missile base on the Kauai shore.
+
+The first of a new type of Russian ICBM was launched at Plesetsk on Sep
+27 at 0708 UTC, according to Pavel Podvig at russianforces.org. The
+missile failed at a few km altitude, so is not included in my table of
+suborbital space launches below. 
+
+Erratum: launch of the SRALT rocket in July was Jul 9 0204, not Jul 8
+1404 (thanks to Carl Rigg for the correction). Launch of China's
+SJ-11-03 was recorded by Xinhua English edition as 0028 Beijing time but
+daylight launch imagery confirms 1228 Beijing time (0428 UTC) is
+correct.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep 10 1308   GRAIL-A   )       Delta 7920H        Canaveral SLC17B  Lunar     46A    
+              GRAIL-B   )                                            Lunar     46B
+Sep 18 1633   Zhongxing 1A      Chang Zheng 3B(E?) Xichang           Comms     47A
+Sep 20 2247   Kosmos-2473       Proton-M/Briz-M    Baykonur          Comms     48A
+Sep 21 2138   Arabsat 5C  )     Ariane 5ECA        Kourou ELA3       Comms     49A
+              SES 2       )                                          Comms     49B
+Sep 23 0436   IGS O-4           H-2A 202           Tanegashima       Imaging   50A
+Sep 24 2018   Atlantic Bird 7   Zenit-3SL         SL Odyssey, Pacific Comms    51A?
+Sep 27 1549   Tacsat-4          Minotaur 4+        Kodiak            Comms     52A
+Sep 29 1316   Tiangong-1        Chang Zheng 2FT1   Jiuquan           Module    53A 
+Sep 29 1832   Quetzsat-1        Proton-M/Briz-M    Baykonur LC200/39 Comms     54A
+Oct  2 2015   Glonass-M No. 42  Soyuz-2-1B         Plesetsk          Navsat    55A
+Oct  5 2100   Intelsat IS-18    Zenit-3SLB         Baykonur LC45     Comms     56A
+Oct  7 0821   Eutelsat W3C      Chang Zheng 3B(E)  Xichang           Comms     57A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Sep 1  1343   ARAV?            Terrier Oriole?    Kauai               Target       150?
+Sep 1  1344   Aegis KV         SM-3 Block 1B      CG-70, Kauai        Interceptor  150?
+Sep 3  0946   RV               Topol'             Plesetsk            Test        1000?
+Sep 26 0320   Prithvi RV       Prithvi-2          Chandipur IC3       Test         100?
+Sep 29        10 RVs?          Layner             K-114, Barents Sea  R&D         1000?
+Sep 30 0400?  Agni RV          Agni 2             Chandipur IC4       Test         220
+Oct  5 0556?  FTT-12 Target    SRALT?             C-17, Kauai         Target       100?
+Oct  5 0556?  FTT-12 Target    ? Target SRBM      MLP, Kauai          Target       100?
+Oct  5 0600?  THAAD KV         THAAD              Kauai               Intercept    100?
+Oct  5 0600?  THAAD KV         THAAD              Kauai               Intercept    100?
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

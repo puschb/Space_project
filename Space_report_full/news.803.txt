@@ -1,0 +1,361 @@
+Jonathan's Space Report
+No. 803                                                      2022 Feb 21        Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 66 continues.
+
+On Jan 19 astronauts Shkaplerov and Dubrov made a spacewalk from the Poisk airlock
+to work on outfitting the new Prichal module. The airlock wsa
+depressurized around 1150 UTC and the hatch was open at 1218 UTC. Dubrov, in suit
+Orlan MKS4, and Shkaplerov - in suit MKS5 - emerged at 1225 and 1236 UTC,
+and used the Strela crane to reach the Nauka module, then crawled down
+to Prichal. They installed handrails, cables and two antennas. They
+relocated a TV camera, and installed two docking targets.
+At 1729 UTC Jan 19 the astronauts jettisoned the docking target cover;
+at 1810 and 1811 UTC two antenna covers were jettisoned; and at 1905 and
+1906 UTC two cleaning towels were thrown into space after the astronauts
+wiped themselves down to avoid bringing any thruster contamination into
+the airlock. At 1910 and 1915 UTC respectively Shkaplerov and Dubrov
+went back inside the airlock, with hatch closure at 1929 UTC and
+repressurization beginning at 1932 UTC.
+
+Cargo ship Dragon CRS-24 undocked from IDA-3 at 1540 UTC Jan 23 and at about 1755 UTC
+lowered its orbit to 186 x 377 km x 51.6 deg. It jettisoned the trunk into a 184 x 369 km orbit
+and made its deorbit burn at 2018 UTC Jan 24, splashing down in the Gulf of Mexico
+near Panama City, at around 86.2W 29.7N at about 2105 UTC.
+
+On Jan 26 the Japanese RMS arm extracted Nanoracks NRCSD-22 from the Kibo airlock;
+NRCSD-22 then ejected five cubesats. On Feb 3 the JRMS was used similarly with the JAXA
+J-SSOD #20 deployer, ejecting two cubesats.
+
+On Feb 8 at 0736 UTC the engines of Progress MS-18 were fired to change the ISS orbit by 0.3 m/s.
+
+Progress MS-19 was launched from Baykonur on Feb 15 with 2523 kg of cargo including six 3U amateur
+radio satellites for later manual EVA deployment. The ship docked with the Poisk module at 0703:20 UTC Feb 17.
+
+Northrop Grumman Cygnus cargo ship NG-17, the S.S. Piers Sellers, was launched on Feb 19.
+It arrived at ISS on Feb 21; SSRMS grappled it at 0944 UTC and berthed it at Unity nadir at 1202 UTC.
+
+GSSAP
+------
+
+Two GSSAP geosynch space surveillance sats for the Space Force were launched on Jan 21 at 1900 UTC
+by a ULA Atlas V 511. This is the only flight of the 511 model, with one strapon SRM booster,
+a single-engine Centaur, and a 5-meter-diameter fairing.
+
+The Centaur reached a 176 x 319 km x 28.0 deg parking orbit at 1913 UTC and a 231 x 36329 km x 26.0
+deg geotransfer orbit at 2013 UTC. Deployment of the payloads in circular  36100 km orbits occurred
+at 0135 and 0145 UTC Jan 22.
+
+The payloads were also given the cover designations USA 324 and USA 325. 
+
+Ludi Tance
+----------
+
+At 2344 UTC Jan 25 China's SAST launched a CZ-4C from Jiuquan with the
+Ludi Tance 1 hao 01 zu A xing, a 3200 kg L-band SAR satellite. The name
+translates as Land Probe 1 Group 01 Sat A.
+
+CSG2
+----
+
+The second Cosmo-Skymed Second Generation radar satellite, FM2, was
+launched by SpaceX on Jan 31 into the same 17:46 local time orbital plane as FM1. The
+X-band SAR satellite is operated by ASI (the Italian space agency) and
+the Italian Ministry of Defence.
+
+USA 326
+-------
+
+A new large imaging reconnaissance satellite for the US National Reconnaissance Office is now
+in orbit after launch from Vandenberg Space Force Base by a SpaceX Falcon 9 on Feb 2.
+
+
+Kosmos-2553
+-----------
+
+On Feb 5 Russia launched a military satellite from the Plesetsk spaceport into an unusual
+orbit nearly 2000 km high. With the cover name Kosmos-2553, the satellite is thought to be
+the first Neitron radar satellite, built by NPO Masinostroenie. The Soyuz-2a third
+stage flew a suborbital trajectory to the western Pacific; the Fregat upper stage
+made several burns to reach the target orbit and a final one after payload separation
+to deorbit itself. It's not immediately obvious which ocean was used for the Fregat disposal.
+
+Starlink
+---------
+
+49 more Starlinks (Group 4-6) were launched to the Group 4 shell on Jan
+19. The Falcon 9 first stage landed on the droneship A Shortfall Of
+Gravitas.
+
+Starlink Group 4-7, with 49 satellites, was launched from Kennedy Space
+Center on Feb 3. However, a geomagnetic storm on Feb 4 meant that
+atmospheric density was larger than expected and drag forces exceeded
+the ability of the satellites to operate correctly. According to SpaceX
+(spacex.com, Feb 8), `the increased drag at the low altitudes prevented
+the satellites from leaving safe-mode to begin orbit raising maneuvers,
+and up to 40 of the satellites will reenter or already have reentered
+the Earth's atmosphere.' In fact, 11 satellites appear to have survived,
+with 38 reentering within a few days.
+
+Starlink Group 4-8 was launched from Cape Canaveral on Feb 21, this time
+using a two-burn insertion profile to a slightly higher deployment orbit.
+The number of satellites aboard was reduced to 46 as a result.
+
+OneWeb
+------
+
+On Feb 10, 34 OneWeb satellites were launched on an Arianespace Soyuz from French Guiana.
+
+
+Astra LV0008
+-------------
+
+Astra Rocket 3.3, mission LV0008, was launched from Cape Canaveral on
+Feb 10 carrying four cubesats: BAMA-1 for the U. of Alabama, QubeSat for
+Berkeley, INCA for NMSU, and R5-S1 for Johnson Space Center. Three minutes
+after launch the first stage shut down but there was some kind of problem
+during fairing and first stage separation; the vehicle tumbled and did not
+reach orbit.
+
+Transporter 3
+--------------
+
+Four previously unknown US military payloads, USA 320 to USA 323, have
+been cataloged associated with the Transporter 3 launch. The OroraTech
+infrared imager, FOREST, is aboard the 6U satellite Lemur-2-Rohovithsa.
+D-Orbit's ION SCV 004 has deployed the VZLUSat-2, STORK-1 and 2, LabSat,
+Dodona and SW1FT cubesats.
+
+Corrections to last week's Transporter 3 comments: Three, not four,
+Unicorn-2 imaging sats (2A,2D,2E); and aboard ION-SCV I missed the SW1FT
+cubesat from SatRevolution. ICEYE X14 is US-licenced and is probably the
+Orbital Effects XR-2 satellite.
+
+
+Shiyan 12
+----------
+
+The two Shiyan 12 satellites launched in December maintained a 100 km separation at 94E in GEO
+until Jan 8, when they moved about 40 km above GEO and began proximity operations, staying within
+5 km of each other most of the time since Jan 18.
+
+PSLV-C52
+----------
+
+ISRO launched the PSLV-C52 mission on Feb 14. The rocket placed the 1710 kg RISAT-1A (EOS-04) C-band
+radar imaging satellite in a 0600 LTDN sun-synch orbit. Two secondary payloads
+were also deployed: INS-2TD, a 17 kg ISRO test satellite with a thermal imager, and
+InspireSat-1, an 8 kg satellite with a solar X-ray spectrometer. InspireSat-1 is a joint project
+of the Indian Institute of Space Science and Technology  in Thiruvananthapuram and the University of
+Colorado's LASP space physics lab.
+
+Upper stage to hit moon
+-----------------------
+
+Further analysis by Bill Gray shows that an  upper stage, abandoned
+since 2014, will actually impact the lunar farside at around 1222 UTC
+Mar 4. Originally thought to be a Falcon 9 upper stage from the 2015
+DSCOVR launch, further backtracking of the orbit data now shows that it
+is actually the CZ-3C Y12 third stage from China's Chang'e-5T1  lunar
+test mission, launched in Oct 2014. (China issued a confusing statement
+saying it wasn't the booster from Chang'e-5 - the 2020 followon mission -
+which no-one was claiming it was anyway).
+
+Following a flyby of the Moon soon after launch, the stage remained
+in a 350000 x 565000 km x 57.4 deg deep Earth orbit in
+the outer part of the Earth-Moon system. The perigee was close to lunar
+distance, making eventual further lunar encounters  inevitable. Orbits
+like this are somewhat chaotic, their orbital parameters strongly
+affected over time by lunar and solar gravity as well as the Earth.
+
+Further lunar flybys occurred: 23573 km on 2016 Jan 17, and 9312 km on
+2022 Jan 5. This last flyby sent the stage on an elliptical
+orbit that came as low as 25000 km from the Earth, on Jan 21, then out
+again to lunar distance. It will come back in to 45000 km  perigee on
+Feb 9 on a path for a fatal last apogee at 688000 km on Feb 23 from
+which it will fall back in to hit the Moon on Mar 4.
+
+The stage is about 4 tonnes and it will hit the Moon at 2.5 km/s.
+
+We know lots of junk from lunar missions has ended up hitting the Moon,
+for example upper stages from lunar missions and junk left in lunar
+orbit. The LCROSS mission deliberately smashed a Centaur stage (similar size)
+into the Moon on 2009 Oct 9, with a special spacecraft following behind
+it to study the impact. 
+
+This is the first time that something not explicitly targeted at
+the Moon has been noticed to accidentally hit it, but that's mainly
+because we weren't paying attention until recently. Thanks to Bill Gray
+and a few other people who have spent their own time keeping track of
+the space junk that's too far out for SpaceForce to care about, we can
+now spot events like this. Amazingly it is no one's paid job to do -
+the fact that the stage was initially misidentified adds emphasis to
+our lack of knowledge of the artificial objects abandoned in cislunar space.
+
+There are about 30 to 50 lost deep space objects like this that have
+been missing for years - 50 years in some cases - that haven't been
+picked up by asteroid searches, and probably some of them hit the moon
+without us noticing. This is not 'the launch agency did something bad' - it's
+perfectly standard practice to abandon stuff in deep orbit - this is
+'none of the space agencies care about leaving stuff out beyond the
+Moon'.
+
+Traffic in deep space is increasing.  And it's not like the old days with
+just the USA and the USSR sending stuff to deep space, it's many countries and even
+commercial companies like SpaceX. So I think it's time for the world to
+get more serious about regulating and cataloging deep space activity.
+
+Thanks to Bill Gray and Dan Adamo for sterling astrodynamics work
+sorting this out.
+
+Oh, and where is the DSCOVR booster? Based on extrapolation of
+a dataset provided by SpaceX, Dan Adamo derives a prediction which
+implies it left the Earth-Moon system in March 2015 and is now
+in a 0.95 x 0.99 AU x 0.1 deg heliocentric orbit.
+
+SJ-21
+-----
+
+China's Shi Jian 21 turns out to be the first space garbage truck. On Jan 21 it
+appears to have docked with the defunct Beidou 2-G2 satellite drifting
+in GEO and then raised its orbit above GEO. On Jan 27 Beidou was tracked
+in a 36076 x 38886 km orbit, 290 x 3100 km above GEO, and SJ-21 had lowered its
+orbit back to the GEO ring.
+
+
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name			     Launch Vehicle	 Site		 Mission  INTL.  Catalog  Perigee Apogee  Incl	 Notes
+Jan  6 2149   Starlink 3230                    Falcon 9              Kennedy LC39A    Comms        01A          209 x 337 x 53.2
+              Starlink 3232
+              Starlink 3234
+              Starlink 3278
+              Starlink 3290
+              Starlink 3294-3295
+              Starlink 3299-3300
+              Starlink 3302
+              Starlink 3308
+              Starlink 3310-3312
+              Starlink 3314-3316
+              Starlink 3318-3343
+              Starlink 3346-3349
+              Starlink 3353
+              Starlink 3355
+Jan 13 1525   Transporter 3 (105 payloads)    Falcon 9              Canaveral LC40    Various      02        520 x 535 x 97.5
+Jan 13 2252   GEARRS-3                        LauncherOne          Cosmic Girl, Mojave  Comms      03 S51094 502 x 508 x 45.0
+              STORK-3                                                                   Imaging    03
+              SteamSat-2                                                                Tech       03
+              PAN A/B                                                                   Tech       03
+              Adler-1 (Lemur-2-Krywe)                                                   Sci        03F
+              TES-13                                                                    Tech       03
+Jan 17 0235   Shiyan 13                       Chang Zheng 2D         Taiyuan            ?          04A S51102 357 x 1298 x 98.7
+Jan 19 0202   Starlink 3172-3173              Falcon 9               Kennedy LC39A      Comms      05A
+              Starlink 3175-3177
+              Starlink 3179-3180
+              Starlink 3183-3185
+              Starlink 3243
+              Starlink 3253
+              Starlink 3344
+              Starlink 3350
+              Starlink 3352
+              Starlink 3354
+              Starlink 3356-3366
+              Starlink 3368-3370
+              Starlink 3372-3375
+              Starlink 3386-3400
+Jan 21 1900   GSSAP 5                         Atlas V 511            Canaveral SLC41 Surveillance  06A S51280? 36107 x 36166 x 0.0
+              GSSAP 6                                                                              06B S51281? 36075 x 36168 x 0.0
+Jan 25        ASCENT or USA 326?                                     LDPE-1, GSO       ?         118E  S51287  35517 x 35524 x 0.1
+Jan 25 2344   Ludi Tance 1-01A                Chang Zheng 4C         Jiuquan            Radar      07A S51824  590 x 601 x 97.8
+Jan 26 1200   FEES2                                                  ISS, LEO       Tech         9867TB S51439 409 x 421 x 51.6
+              GASPACS                                                               Tech         9867TC S51440 409 x 421 x 51.6
+Jan 26 1210   PATCOOL                                                ISS, LEO       Tech         9867TD S51441 409 x 421 x 51.6
+Jan 26 1330   DAILI                                                  ISS, LEO       Tech         9867TE S51442 409 x 421 x 51.6
+Jan 26 1340   TARGIT                                                 ISS, LEO       Tech         9867TF S51443 409 x 421 x 51.6
+Jan 26 1502   VZLUSat-2                                             ION SCV004, LEO  Sci          02?   -
+Jan 28        LabSat                                                ION SCV004, LEO  Tech         02?   -
+Jan 31        STORK-1                                               ION SCV004, LEO  Imaging      02?   -
+Jan 31 2311   Cosmo-Skymed SG-FM2             Falcon 9               Canaveral SLC40 Radar         08A  S51444  621 x 648 x 97.9
+Feb  2 2027   USA 326                         Falcon 9               Vandenberg SLC4E Imaging      09A  S51445  492 x 524 x 97.4
+Feb  3 0855?  Light-1                                               ISS, LEO         Tech       9867TG? S51509  407 x 422 x 51.6
+Feb  3 1030?  GT-1                                                  ISS, LEO         Tech       9867TH? S51510  410 x 421 x 51.6
+Feb  3        STORK-2                                               ION SCV004, LEO  Imaging      02?   -
+Feb  3 1813   Starlink 3152                   Falcon 9               Kennedy LC39A   Comms         10A- S51456-  209 x 336 x 53.2
+              Starlink 3163-3167                                                                        S51504
+              Starlink 3169-3170
+              Starlink 3174
+              Starlink 3178
+              Starlink 3181-3182
+              Starlink 3186-3189
+              Starlink 3220-3224
+              Starlink 3367
+              Starlink 3376-3377
+              Starlink 3384
+              Starlink 3401-3420
+              Starlink 3422-3423
+              Starlink 3426-3427
+Feb  4        SW1FT                                                 ION SCV004, LEO  Tech         02?   -
+Feb  5 0700   Kosmos-2553                     Soyuz-2-1a/Fregat      Plesetsk LC43/4  Radar?      11A  S51511  1987 x 1994 x 67.1
+Feb 10 1809   OneWeb SL0410-0411              Soyuz-ST-B/Fregat      CSG ELS          Comms       12A- S51622  468 x 487 x 87.4                                                                                       
+              OneWeb SL0415-0416                                                                      -S51655
+              OneWeb SL0422-0423
+              OneWeb SL0425
+              OneWeb SL0428
+              OneWeb SL0431
+              OneWeb SL0434-0436
+              OneWeb SL0438-0439
+              OneWeb SL0442-0446
+              OneWeb SL0448-0449
+              OneWeb SL0451-0452
+              OneWeb SL0455-0458
+              OneWeb SL0461
+              OneWeb SL0463-0464
+              OneWeb SL0468
+              OneWeb SL0473-0475
+Feb 10 2000   BAMA-1  )                       Rocket 3.3              Canaveral SLC46    Tech     F01 F01620  -5150?x 278? x 41
+              INCA    )                                                                  Sci      F01 F01621
+              QubeSat )                                                                  Tech     F01 F01622
+              R5-S1   )                                                                  Tech     F01 F01623
+Feb 14 0029   EOS-04      )                   PSLV-XL                 Satish Dhawan FLP  Radar    13A S51656  516 x 534 x 97.5
+              INS-2TD     )                                                              Tech     13B S51567? 516 x 534 x 97.5
+              InspireSat-1)                                                              Sci      13C S51568? 516 x 534 x 97.5
+Feb 15 0424   Progress MS-19                  Soyuz-2-1a              Baykonur LC31      Cargo    14A S51570?
+Feb 19 1740   S.S. Piers Sellers              Antares 230+            Wallops MARS LA0A  Cargo    15A S51712
+Feb 21 1440   Starlink                        Falcon 9                Canaveral SLC40    Comms    16A
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jan  9 0500   DXL 4             Black Brant 9      Wallops I             X-ray Astron  267       Atlantic
+Jan 17        Warhead           Zulfiqar (YE)      Al Jawf?              Weapon        100?      Abu Dhabi
+Jan 17        Warhead           Zulfiqar (YE)      Al Jawf?              Weapon        100?      Abu Dhabi
+Jan 17        Warhead           Zulfiqar (YE)      Al Jawf?              Weapon        100?      Abu Dhabi
+Jan 18        Target            Silver Sparrow?    F-15, Med. Sea        Target        150?      Israel
+Jan 18        Arrow KV          Arrow 3            Palmachim?            Interceptor   150?      Intercept
+Jan 18        Arrow KV          Arrow 3            Palmachim?            Interceptor   150?      Intercept
+Jan 24 0015?  Warhead           Zulfiqar (YE)      Al Jawf?              Weapon        100?      Abu Dhabi
+Jan 24 0015?  Warhead           Zulfiqar (YE)      Al Jawf?              Weapon        100?      Abu Dhabi
+Jan 24 0015?  Warhead           Zulfiqar (YE)      Al Jawf?              Weapon        100?      Dharan
+Jan 29 0700   MAPHEUS 9         IM/IM              Kiruna                Micrograv     254       ESRANGE
+Jan 29 2252   RV                Hwasong-12?        Mupyong               Test         2000       Sea of Japan
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+
+

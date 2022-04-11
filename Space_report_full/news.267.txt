@@ -1,0 +1,201 @@
+Jonathan's Space Report
+No. 267                         1995 Dec 8                    Cambridge, MA
+--------------------------------------------------------------------------------
+
+Oops
+----
+Apologies to some of my Canadian readers, apparently an error in my mailing
+list has been leaving a whole bunch of you off. I think it's fixed now.
+(How many issues did you miss?) 
+
+Galileo at Jupiter
+------------------
+
+The two Galileo space probes have reached Jupiter. NASA Ames Research
+Center's Galileo Probe was released from the Galileo Orbiter in July;
+it entered the atmosphere of Jupiter at 2204 UTC on Dec 7 at latitude
+6.5 deg N, longitude 4.4 deg W in the NEB.  The probe on-board timer
+was due to activate the probe at 1600 UTC after 5 months of
+dormancy. At 2311 UTC confirmation was received on Earth that the
+Orbiter was receiving data from the Probe. The parachute was deployed
+at 2206 UTC and a few seconds later the deceleration module
+(heatshield) was jettisoned.  The probe was due to continue
+transmitting data until 2319 UTC.  Theoretical analysis indicates that
+the probe parachute would melt at 2349 UTC and the internal probe
+equipment, made of aluminium, would melt around 0030 UTC with the
+probe's titanium structure surviving much deeper into the atmosphere,
+disintegrating at around 0700 UTC on Dec 8.
+
+Perijove for the Jet Propulsion Laboratory's Galileo Orbiter
+spacecraft was at 2153 UTC on Dec 7 at distance of 214600 km from the
+center of the giant planet. Closest approach to Europa was 30921 km at
+1309 UTC Dec 7, and to Io was 1000 km at 1745 UTC. Galileo has now
+entered orbit around Jupiter.  The S400 liquid apogee engine ignited
+at 0027 UTC Dec 8 and completed its burn at 0116 UTC on Dec
+8. Galileo's first orbit was planned to have a perijove of 2 Jupiter
+radii and an apojove of 250 Jupiter radii. I don't have actual orbital
+elements yet.
+
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-72, scheduled for January 11. The
+STS-72 stack with orbiter Endeavour was rolled out from VAB bay 3 to
+pad 39B on Dec 6. Endeavour's cargo bay contains eight small carriers
+mounted on the port and starboard bay walls in bays 1 to 4, containing
+equipment related to the EDFT-3 spacewalk. If any reader has
+information about this payload-bay mounted EDFT-3 equipment, please
+let me know.
+
+Mir
+---
+
+Launch of the Progress M-30 cargo ferry is expected on December 15.
+
+Recent Launches
+--------------
+
+A Lockheed Martin Titan 4 launch vehicle (serial K-15) was sent into
+orbit from Space Launch Complex 4-East at Vandenberg Air Force Base on
+Dec 5.  The payload is believed to have entered a sun-synchronous
+polar orbit and is probably the latest Improved CRYSTAL imaging spy
+satellite for the National Reconnaissance Office (NRO). Prime
+contractor for the satellite is probably Lockheed. Within the NRO,
+responsibility for imaging satellites is given to the CIA. The
+satellite probably carries a large optical telescope with optical
+and near infrared imaging array (CCD) sensors, as well as the ICMS
+mapping system.
+
+Here is the complete list of Titan 4 launches to date; thanks to
+several correspondents for helping me refine this, but there may still
+be errors - corrections are welcome.
+
+  Serial Date      Model Pad   Upper stage and payload		  Notes
+
+  Titan 4 launches from Cape Canaveral:
+  K-1  1989 Jun 14 402   41    IUS/ USAF DSP 14 early warning
+  K-4  1990 Jun  8 405   41    Navy Advanced PARCAE                (1)
+  K-6  1990 Nov 12 402   41    IUS/ USAF DSP 15 early warning
+  K-10 1994 Feb  7 401   40    Centaur TC-12/Milstar 1 comsat
+  K-7  1994 May  3 401   41    Centaur TC-10/NRO Advanced JUMPSEAT (1)
+  K-9  1994 Aug 27 401   41    Centaur TC-11/NRO Advanced VORTEX   (1)
+  K-14 1994 Dec 22 402   40    IUS/ USAF DSP 17 early warning
+  K-23 1995 May 14 401   40    Centaur TC-17/NRO Advanced ORION    (1)
+  K-19 1995 Jul 10 401   41    Centaur TC-8/NRO Advanced JUMPSEAT  (1)
+  K-21 1995 Nov  6 401   40    Centaur TC-13/Milstar 2 comsat
+  
+  Titan 4 launches from Vandenberg AFB:
+  K-5  1991 Mar  8 403   4E    NRO LACROSSE 2                      (1)
+  K-8  1991 Nov  7 403   4E    Navy Advanced PARCAE                (1)
+  K-3  1992 Nov 28 404   4E    TPA/Improved CRYSTAL 2              (1,2)
+  K-11 1993 Aug  2 403   4E    Navy Advanced PARCAE                (1,3)
+  K-15 1995 Dec  5 404   4E    TPA/Improved CRYSTAL 3              (1)
+
+  Notes:
+  (1) Classified payload, true name unknown. 'Advanced X' indicates
+  a new generation replacing the series which had codename X.
+  PARCAE was a US Navy intelligence spacecraft. JUMPSEAT and
+  VORTEX were USAF/NSA electronic and signals intelligence payloads.
+  ORION was a CIA signals intelligence spacecraft. LACROSSE is
+  a radar imaging satellite. Improved CRYSTAL is an optical and
+  near infrared imaging satellite.
+  All of these missions are classified and my analysis is based on guesses 
+  from information in the open literature.
+  (2) Titan model 404 may possibly carry the Titan Payload Adapter (TPA) 
+  designed to support payloads originally built for Shuttle launch.
+  (3) Launch failure.
+
+Arianespace SA launched the V81 Ariane mission on Dec 6.  Launch was
+at 2323 UT; at 2340 UT the H-10-III third stage shut down, entering
+geostationary transfer orbit. At 2344 the Telecom 2C satellite
+separated, followed by the Mini-SPELDA adapter plate, and at 2349 UT
+the Insat 2C satellite was released. The satellites entered a 630.1
+min, 224 x 35712 km x 6.8 deg transfer orbit.  V81 was the 11th flight
+of Ariane in 1995, all of which have been successful.
+
+Telecom 2C is a Matra Marconi Space comsat for France Telecom.
+The spacecraft carries 10 C-band and 11 Ku-band transponders
+for French domestic communications and communications with
+the departements d'outremer. It also has 5 X-band transponders
+for the Delegation Generale pour l'Armement, which operates
+the military Syracuse communications network. The mass
+of Telecom 2C is 1120 kg, with a fuel load of 1163 kg giving
+a launch mass of 2283 kg. 
+The spacecraft has an R-4D-12 liquid apogee engine which will
+be used to place it in geostationary orbit at 3 degrees E.
+
+Insat 2C is the Indian Space Research Organization's latest 
+domestic communications, television and radio broadcast satellite.
+It carries 22 C-band and 4 Ku-band transponders, as well as
+an S-band transponder for mobile services. The spacecraft
+and its internal LAM (Liquid Apogee Motor) were built
+by ISRO with its Indian industrial partners.
+
+Erratum: The Chinese EPKM perigee kick motor, designated SPTM-17, has
+flown once before, on the first CZ-2E launch, but it did not place its
+dummy payload in geostationary transfer orbit. The Asiasat 2 launch
+was the first time the SPTM-17 was flown with a real payload.
+
+The Asiasat 2 satellite carries a Leros-class dual mode liquid apogee
+engine built by Royal Ordnance plc, England (I don't know which
+particular model, though).  Asiasat 2 fired its engine last week to
+enter a 5326 x 35031 km x 13.8 deg intermediate orbit, and again on
+Dec 4 to enter a circular 1403.9 min, 34375 x 35932 km x 0.6 deg drift
+orbit. On Dec 5 it was over 92 deg E drifiting 3 deg E per day.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Nov  4 1422   Radarsat )       Delta 7920     Vandenberg SLC2 Rem sensing 59A
+              SURFSAT  )                                                  59B
+Nov  6 0515   Milstar DFS 2   Titan 4 Centaur Canaveral LC40  Comsat      60A
+Nov 12 1230   Atlantis       ) Shuttle        Kennedy   LC39A Spaceship   61A
+              Docking Module )
+Nov 17 0120   ISO              Ariane 44P     Kourou ELA2     Astronomy   62A
+Nov 17 1430?  Gals-2           Proton-K/DM2M  Baykonur        Comsat      63A
+Nov 28 1130   Asiasat 2        Chang Zheng 2E Xichang         Comsat      64A
+Dec  2 0808   SOHO             Atlas IIAS     Canaveral LC36  Astronomy   65A
+Dec  5 2118   USA 116?         Titan 4        Vandenberg SLC4E Recon      66A
+Dec  6 2323   Telecom 2C   )   Ariane 44L     Kourou ELA2     Comsat      67A
+              Insat 2C     )                                  Comsat      67B
+
+
+Reentries
+---------
+
+Nov  5        Columbia        Landed at KSC
+Nov 18        Molniya-1 (80-92A) Reentered
+Nov 20        Atlantis        Landed at KSC
+Dec  7        Galileo Probe   Entered Jovian atmosphere
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       LC39B         STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-52/ET-75/OV-105  LC39B      STS-72                       
+ML2/                       
+ML3/RSRM                  VAB Bay 1? STS-75                                     
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

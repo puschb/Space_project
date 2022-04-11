@@ -1,0 +1,163 @@
+Jonathan's Space Report
+No. 466                                             2001 Oct 27 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Soyuz TM-33 docked at Zarya's nadir docking port at 1044 UTC on Oct 23
+with the EP-2 visiting crew. EP-2 Commander Afanas'ev, Flight engineer-1
+Haignere'   and flight engineer-2 Kozeev joined the Ex-3 crew of
+Commander Frank Culbertson, Soyuz commander Dezhurov and flight engineer
+Tyurin aboard the station with hatch opening around 1215 UTC.
+
+A slight correction to JSR 465: Haignere is now an ESA astronaut
+flying a mission for CNES, rather than a CNES astronaut. And of course
+vehicle 206 is Soyuz TM-32, it's vehicle 207 that is Soyuz TM-33.
+
+Endeavour has been moved to the VAB. In preparation for flight STS-108
+it will be connected to the BI-110 stack consisting of the RSRM-82 solid
+rocket motors and the ET-111 external tank. The payload bay will contain
+the Raffaello logistics module, the MACH-1 Hitchiker experiment bridge,
+and the new LMC lightweight experiment bridge as well as an adapter beam
+with two GAS canisters and the RMS-303 manipulator arm. STS-108
+will deploy the Starshine-2 and SPASE subsatellites in addition to
+its logistics delivery to the Station. Meanwhile, there has still
+been no contact with the Simplesat astronomy test satellite deployed
+on the last flight and it now seems probable that the satellite failed.
+
+
+Red Planet
+----------
+
+Congratulations to the JPL Mars team on a successful milestone in the
+Mars 2001 mission, navigating Odyssey to within 1 kilometer of its
+insertion target!
+
+The 2001 Mars Odyssey probe entered Mars orbit on Oct 24. The orbit
+insertion burn with the main 640N bipropellant hydrazine/N2O4 engine
+began at 0218UTC and ended at 0238 UTC after a 20 min 19 sec burn with a
+300 km periapsis at 0231 UTC. Mass of the spacecraft is now about 456 kg
+(including 79 kg of fuel left) compared with 725 kg at launch.
+
+The Odyssey team has kindly provided the orbital data at first apogee: 
+relative to a 3397.5km radius for Mars, the  orbit was 272 x 26818 km x
+93.42 deg with a period of 18hr 36min. Longitude of node is 278.4 deg
+and argument of perigee is 112.5 deg, putting closest approach near the
+Martian north pole. The choice of a 93.4 deg orbit, the same as for MGS,
+makes the spacecraft sun-synchronous. Apogee was reached at 1147 UTC on
+Oct 24 and the next perigee was at 2105 UTC (by which time orbital
+mechanics reduced the apogee slightly to 26400 km). Aerobraking was due
+to begin on Oct 26; the solar panels will reach almost 180 deg C when
+Odyssey dips through the Martian atmosphere.
+
+Observations with the THEMIS infrared mapper and the MARIE radiation
+experiment begin shortly; the gamma-ray spectrometer will take some
+data, but its 6-meter experiment boom will not be deployed until next spring,
+after MO has reached its 400 km circular mapping orbit.
+
+
+
+Recent Launches
+---------------
+
+India launched the Technology Experiment Satellite (TES) on Oct 22. TES
+is an experimental spy satellite, or at least an imaging satellite
+intended to try out spy satellite technology; it is probably a modified
+IRS remote sensing satellite. It has a mass of 1108 kg at launch, and
+carries cameras and instruments designed to develop a future Indian
+space reconnaissance capability. India decided to move into the spy
+satellite game when a 1999 incursion into disputed territory in Kashmir
+caught it by surprise. TES was developed by ISRO, the Indian Space
+Research Organization.
+
+Two small secondary payloads were carried on the PSLV. BIRD (Bispectral
+IR Detector) is a German research satellite testing a new sensor for
+Earth imaging studies, detecting forest fires and other hot spots and
+studying vegetation changes. BIRD is being referred to as BIRD-2 by US
+Space Command, presumably because of the unrelated BIRD-Rubin payload
+carried on a Kosmos-3M launch last year.
+
+Proba is a European Space Agency technology development minisatellite
+with a mass of 94 kg, carrying an IR spectrometer, debris impact
+detectors, and Earth imaging cameras as well as an experimental
+spacecraft processor and spacecraft autonomy experiments. The
+satellite was built by Verheart in Belgium using the MiniSIL bus
+developed by SI of England, and is being controlled from Belgium.
+
+PSLV-C3 took off from Sriharikota at 0453UTC on Oct 22 and its first
+three stages completed their burns and separated b 0501 UTC when the PS4
+stage began its long 7 minute insertion burn. The PS4 uses two MON-3/MMH
+bipropellant 7kN LVS engines developed by ISRO; at 0509:10 UTC the PS4
+deployed the TES satellite into a 550 x 579 km x 97.8 deg
+sun-synchronous orbit, with ejection of BIRD coming 40 seconds later.
+PS4's small RCS engines then raised the orbit to 553 x 676 km, and PROBA
+was ejected at 0520 UTC.
+
+An Molniya-3 communications satellite built by  NPO PM was launched from
+Plesetsk on Oct 25 on an 8K78M Molniya-M launch vehicle with a 2BL upper
+stage. This is the second Molniya-3 this year, following only 4 launches
+in the previous 5 years. The 8K78M's 11S59 packet and 11S510 third
+stage put the Molniya-3/ML stage combo into a 214 x 617 km x 62.8 deg
+parking orbit at 1143 UTC, 9 min after launch. At around 1230 UTC,
+near apogee over the South Pacific, the BOZ ullage motor fired
+and separated, as the ML main engine ignited and put the Molniya-3
+satellite in a 615 x 40659 km x 62.8 deg orbit with apogee over the
+northern hemisphere.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Sep  7 1939   Picosat 7/8       -              Sindri, LEO      Technology  00-42C
+Sep  8 1525   USA 160       )   Atlas IIAS     Vandenberg SLC3E Sigint       40A
+              NRO satellite )                                                40C
+Sep 14 2335   Pirs           )  Soyuz-U        Baykonur LC1     Station module  
+              Progress M-SO1 )                                  Cargo        41A
+Sep 21 1849   Orbview-4  )      Taurus 2110    Vandenberg 576E  Imaging      F01
+              QuikTOMS   )                                      Environment  F01
+              SBD        )                                      Technology   F01
+              Celestis-4 )                                      Burial       F01
+Sep 25 2321   Atlantic Bird 2   Ariane 44P     Kourou ELA2      Ku telecom   42A
+Sep 30 0240   Starshine 3  )    Athena-1       Kodiak           Science      43A
+              Picosat      )                                    Technology   43B
+              PCSat        )                                    UHF/VHF comm 43C
+              Sapphire     )                                    Technology   43D
+Oct  5 2120   USA 161           Titan 4B       Vandenberg SLC4E Imaging      44A
+Oct  6 1645   Raduga-1          Proton-K/DM2?  Baykonur         C telecom    45A
+Oct 11 0232   USA 162           Atlas IIAS     Canaveral SLC36B Data relay?  46A
+Oct 18 1851   QuickBird         Delta 7320     Vandenberg SLC2W Imaging      47A
+Oct 21 0859   Soyuz TM-33       Soyuz-U        Baykonur LC1     Spaceship    48A
+Oct 22 0453   TES      )        PSLV           Sriharikota      Imaging?     49A
+              BIRD     )                                        Imaging      49C
+              PROBA    )                                        Imaging/tech 49B
+Oct 25 1134   Molniya-3         Molniya-M      Plesetsk LC43/3  Comms        50A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Feb 14  HST SM-3B
+OV-103 Discovery       OPF Bay 1?    Maintenance
+OV-104 Atlantis        OPF Bay 2?    STS-110 2002 Mar 21  ISS 8A
+OV-105 Endeavour       VAB Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

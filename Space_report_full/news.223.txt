@@ -1,0 +1,118 @@
+Jonathan's Space Report 
+No. 223               1994 Dec 15           Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Discovery is nearly ready for transfer from the Orbiter
+Processing Facility to the Vehicle Assembly Building
+in preparation for mission STS-63.
+The External Tank for mission STS-67 was due to be connected
+to the Solid Rocket Boosters in the VAB this week.
+
+Recent Launches
+---------------
+
+The next Titan 4 launch is scheduled for Dec 17 from LC40 at Cape
+Canaveral.
+
+Thanks to Mike Kenny and Roy Parnell for giving me the launch time of
+the Chinese DFH-3 satellite. The DFH-3 satellite has begun to raise its
+orbit; on Dec 14 it was in a 6389 x 36064 km x 12.4 deg orbit.
+
+The Orion-1 satellite has reached near-synchronous orbit.
+Around Dec 10 it lowered apogee from 35686 x 65286 km and
+by Dec 14 it was in a 35620 x 36021 km x 0.03 deg orbit,
+over 43.5 deg W drifting 0.4 deg per day.
+
+A Molniya-1T satellite was launched from Plesetsk on Dec 14 into a 426 x
+39091 km x 63.1 deg orbit with a period of 700.88 minutes. The orbit
+will later be raised until the period is 717.8 minutes (half a sidereal
+day). This is reportedly the 48th Molniya-1T to be launched from
+Plesetsk, which implies that the Molniya-1T variant must have replaced
+the original Molniya-1 around 1975. Until recently, official statements
+continued to use the 'Molniya-1' name. The Molniya satellites relay
+C-band (6/4 GHz) and 1 GHz communications to ground stations in the
+former USSR's Orbita network. 
+
+ 13 Molniya-1, 48 Molniya-T, 19 Molniya-2 satellites, and 48 Molniya-3
+satellites have been launched from Plesetsk since Feb 1970 toward
+elliptical 12 hour orbits (two of the Molniya-2 and two of the Molniya-3
+had upper stage failures). The orbits have a 62.8 degree (65 deg before
+1973) inclination which minimizes orbital precession; their perigees are
+in the Southern hemisphere so that the apogees (where a satellite spends
+most of its time in an elliptical orbit) are high above the northern
+hemisphere, providing good visibility from the high latitude parts of
+the Soviet Union. 
+
+ 33 Molniya-1 and Molniya-1T satellites were launched from the Baykonur
+cosmodrome into similar orbits between 1964 and 1989, and one Molniya-1S
+satellite was launched from Baykonur into geostationary orbit. All
+Molniya launches used the Molniya-M launch vehicle, except for the first
+few test flights which used the original Molniya rocket, and Molniya-1S
+which used the Proton. Molniya-M consists of the standard Soyuz launch
+vehicle with an extra Blok-L fourth stage.
+
+
+
+--------------------------------------------------------------------------------
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Nov  1 0037     Astra 1D        Ariane 42P      Kourou ELA2     Comsat      70A
+Nov  1 0931     Wind            Delta 7925      Canaveral LC17B Science     71A
+Nov  2 0104     Kosmos-2293     Tsiklon-2       Baykonur LC90   EORSAT      72A
+Nov  3 1700     Atlantis        Space Shuttle   Kennedy LC39B   Spaceship   73A
+Nov  4 0547     Resurs-O1 No. 3 Zenit-2         Baykonur LC45   Rem.sensing 74A
+Nov  4 1250     CRISTA-SPAS     -               Atlantis, LEO   Science     73B
+Nov 11 0722     Progress M-25   Soyuz-U         Baykonur LC1    Cargo       75A
+Nov 20 0039     Kosmos-2294  )  Proton-K/DM-2   Baykonur LC200  Navsat      76A
+                Kosmos-2295  )                                  Navsat      76B
+                Kosmos-2296  )                                  Navsat      76C
+Nov 24 0916     Kosmos-2297     Zenit-2         Baykonur LC45   SIGINT      77A
+Nov 29 0254     Geo-IK          Tsiklon-3       Plesetsk LC32   Geodetic    78A
+Nov 29 1021     Orion 1         Atlas IIA       Canaveral LC36A Comsat      79A
+Nov 29 1702     DFH-3           Chang Zheng 3A  Xichang         Comsat      80A
+Dec  1 2255     Panamsat K2     Ariane 42P      Kourou ELA2     Comsat      FTO
+Dec 14 1421     Molniya-1T      Molniya-M       Plesetsk LC43   Comsat      81A
+
+
+Reentries
+---------
+
+Nov  4          Molniya-1       Reentered (1984-29A)
+Nov  4          Soyuz TM-19     Landed in Kazakhstan
+Nov 14          Atlantis        Landed at Edwards AFB
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-63  Feb 2
+OV-104 Atlantis        OPF Bay 3     STS-71  May
+OV-105 Endeavour       OPF Bay 1     STS-67  Mar
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-42/ET-68          VAB Bay 3 STS-63                       
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/                      
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

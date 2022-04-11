@@ -1,0 +1,125 @@
+
+Jonathan's Space Report
+No. 463                                         2001 Oct 3    Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 3 crew continues work on the Station. The Progress M-SO1
+vehicle undocked from the Pirs module at 1536 UTC  on Sep 26 and was
+deorbited over the Pacific at 2330 UTC the same day. This leaves the
+Pirs docking port free for dockings.
+
+Upcoming Shuttle flights are likely to be delayed because of recently
+discovered damage to mounting points on the OMS pods in several
+orbiters.
+
+The daily Shuttle processing reports from KSC are now suppressing
+information about which orbiter is in which OPF bay at the request of
+security officials. While I'm in agreement with the need for increased
+security at NASA bases - access control can be pretty lax sometimes -
+this, like so many recent so-called security measures, seems to fall in
+the 'really silly' category.
+
+
+Recent Launches
+---------------
+
+The first orbital launch from Alaska's Kodiak Island took place on 2001
+Sep 30. The Lockheed Martin Athena-1 (serial LM-001) took off
+from the Kodiak Launch Complex at 0240 UTC. The Castor 120 first stage
+and Orbus 21 second stage fired and separated, followed at 0245 UTC by
+the first burn of the Orbit Adjust Module (OAM). The OAM uses four
+MR-107 hydrazine engines which fired for 12 min to put the payload in a
+237 x 815 km transfer orbit. After coast to apogee above East Africa, a
+second burn at around 0337 UTC circularized the orbit. USAF Space Test
+Program satellites Picosat, Sapphire and PCSat were deployed into an 790
+x 800 km x 67 deg orbit between 0344 and 0352 UTC; the OAM then made a
+perigee lowering burn, probably about 0355 UTC, to a 470 x 800 km orbit.
+Another burn half an orbit later put OAM in a 467 x 474 km orbit. The
+Starshine-3 was deployed around 0450 UTC; it is a 90 kg, 0.9m geodetic
+sphere that will be observed by school students. The project is managed
+by NASA GSFC and Starshine was built by NRL.  Finally, the OAM made a
+perigee-lowering depletion burn which left in in a 215 x 403 km x 67.2
+deg orbit from which it should reenter in a few months. STP P97-1
+Picosat (incorrectly called Picosat 9 by Space Command) was built by
+Surrey Satellite for the USAF using a Uosat-type bus; the 68 kg
+satellite carries a polymer battery experiment and ionospheric
+instruments. PCSat is a UHF/VHF amateur radio satellite built by US
+Naval Academy students at Annapolis; mass is probably of order 10 kg.
+SAPPHIRE was built by Stanford University students and carries
+experimental infrared horizon sensors, a voice synthesizer and a digital
+camera. The satellite is about 0.5m in size and has a mass of 16 kg.
+
+  Athena flights:
+
+Type Serial  Date     Payload          Site
+
+1  DLV   1995 Aug 15  Gemstar          SLC6, Vandenberg    (Failure)
+1  LM-2  1997 Aug 23  Lewis            SLC6, Vandenberg    
+2  LM-4  1998 Jan  7  Lunar Prospector SLC46, Canaveral  
+1  LM-6  1999 Jan 27  ROCSAT           SLC46, Canaveral
+2  LM-5  1999 Apr 27  Ikonos           SLC6, Vandenberg    (Failure)
+2  LM-7  1999 Sep 24  Ikonos           SLC6, Vandenberg   
+1  LM-1  2001 Sep 30  Kodiak Star      KLC, Kodiak 
+
+
+The MAP satellite has now arrived at the vicinity of the Earth-Sun L2
+point, although I have been unable to obtain detailed trajectory
+information.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Aug  6 0728   DSP 21            Titan 4B/IUS   Canaveral SLC40  Early Warn   33A
+Aug  8 1613   Genesis           Delta 7326     Canaveral SLC17A Space probe  34A
+Aug 10 2110   Discovery  )      Shuttle        Kennedy LC39     Spaceship    35A
+              Leonardo   )
+Aug 20 1830   Simplesat         -              Discovery, LEO   Astronomy    35B
+Aug 21 0924   Progress M-45     Soyuz-U        Baykonur LC1     Cargo        36A
+Aug 24 2034   Kosmos-2379       Proton-K/DM2M? Baykonur LC81R   Early Warn?  37A
+Aug 29 0700   VEP-2   )         H-2A           Tanegashima      Technology   38B
+              LRE     )                                         Geodesy      38A
+Aug 30 0646   Intelsat 902      Ariane 44L     Kourou ELA2      C/Ku telecom 39A
+Sep  7 1939   Picosat 7/8       -              Sindri, LEO      Technology  00-42C
+Sep  8 1525   USA 160           Atlas IIAS     Vandenberg SLC3E Sigint       40A
+Sep 14 2335   Pirs           )  Soyuz-U        Baykonur LC1     Station module  
+              Progress M-SO1 )                                  Cargo        41A
+Sep 21 1849   Orbview-4  )      Taurus 2110    Vandenberg 576E  Imaging      F01
+              QuikTOMS   )                                      Environment  F01
+              SBD        )                                      Technology   F01
+              Celestis-4 )                                      Burial       F01
+Sep 25 2321   Atlantic Bird 2   Ariane 44P     Kourou ELA2      Ku telecom   42A
+Sep 30 0240   Starshine 3  )    Athena-1       Kodiak           Science      43A
+              Picosat      )                                    Technology   43B
+              PCSat        )                                    UHF/VHF comm 43C
+              Sapphire     )                                    Technology   43D
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       OPF Bay 2     Maintenance
+OV-104 Atlantis        VAB           STS-110 2002 Feb 28  ISS 8A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

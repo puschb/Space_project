@@ -1,0 +1,118 @@
+Jonathan's Space Report
+No. 346                                        1998 Jan 11 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Solov'yov and Vinogradov made a 3h 6min spacewalk on Jan 9 to
+recover some equipment and begin repairs to the leaking Kvant-2 airlock
+hatch; they found a bolt on the hatch was not tight, causing a 10-mm
+gap.
+
+Launch of STS-89 to Mir is scheduled for Jan 22. Crew is Terrence
+Wilcutt, Joe Edwards, James Reilly, Michael Anderson, Andy Thomas and
+Bonnie Dunbar (all of NASA) and Salizhan Sharipov (Russian Air Force).
+Thomas will replace David Wolf aboard Mir.
+
+
+Recent Launches
+---------------
+
+Lunar Prospector was launched on Jan 7. The first Athena-2 launch
+vehicle took off from LC46 at Spaceport Florida, the commercial
+spaceport at the Cape Canaveral site. Lunar Prospector carries a gamma
+ray spectrometer and other instruments (alpha particle spectrometer,
+magnetometer, electron reflectometer, neutron spectrometer) to study the
+composition of the lunar surface. It also carries a Celestis capsule
+with some of the ashes  of lunar scientist Gene Shoemaker. LP is
+a Lockheed Martin LM100 class satellite. The LM100 is a small
+spin stablized bus; in its LP configuration it has a triangular structure 
+(half an Iridium bus) surrounded by a cylindrical solar panel shell.
+
+The first stage of Athena-2 is a Thiokol Castor 120 solid motor, derived
+from the Peacekeeper ICBM first stage. The second stage is another
+Castor 120, and the third stage is a UTC Orbus 21D solid motor. A fourth
+stage, although not formally counted as such, is the lower-thrust Primex
+OAM (Orbit Adjust Module) which performs final orbit insertion and trim
+burns. The OAM entered orbit with the payload which then separated. The
+payload consisted of the LP probe and its TLI stage, which fired its
+Star 37  solid motor on the first orbit to place LP on a translunar
+trajectory. LP fired its own hydrazine propulsion system and entered
+a 71 x 8500 km x 89.7 deg lunar orbit on Jan 11.
+
+A Boeing Delta 7925 launched the Skynet 4D communications satellite for the UK
+Ministry of Defense on Jan 10. Skynet 4D is built by Matra Marconi
+Space/Stevenage using the old ECS bus.
+
+The 8 Orbcomm satellites launched in December, A1 to A8, were flight
+models FM-5 to FM-12 respectively.
+
+EarthWatch lost contact with the EarlyBird satellite on Dec 28.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  2 2252   JCSAT-5    )      Ariane 44P    Kourou ELA2      Comsat     75A
+              Equator-S  )                                     Space sci  75B
+Dec  2 2310   Astra 1G          Proton        Baykonur         Comsat     76A
+Dec  3 1215   AERCam/Sprint                   OV-102, LEO      Technology 
+Dec  8 0716   Iridium 42 )      CZ-2C/SD      Taiyuan          Comsat     77A
+              Iridium 44 )                                     Comsat     77B
+Dec  8 2352   Galaxy 8I         Atlas 2AS     Canaveral LC36B  Comsat     78A
+Dec  9 0717   Kosmos-2347       Tsiklon-2     Baykonur LC90    Recon      79A
+Dec 15 1540?  Kosmos-2348       Soyuz-U       Plesetsk         Recon      80A
+Dec 17 0737   X-Mir Inspector                 Progress,LEO     Technology 58D
+Dec 20 0845   Progress M-37     Soyuz-U       Baykonur         Cargo      81A
+Dec 20 1316   Iridium 45 )      Delta 7920    Vandenberg SLC2  Comsat     82A
+              Iridium 46 )                                     Comsat     82B
+              Iridium 47 )                                     Comsat     82C
+              Iridium 48 )                                     Comsat     82D
+              Iridium 49 )                                     Comsat     82E
+Dec 22 0016   Intelsat 804      Ariane 42L    Kourou ELA2      Comsat     83A
+Dec 23 1911   Orbcomm FM5 )     Pegasus XL/H  Wallops          Comsat     84F
+              Orbcomm FM6 )                                    Comsat     84G
+              Orbcomm FM7 )                                    Comsat     84H
+              Orbcomm FM8 )                                    Comsat     84A
+              Orbcomm FM9 )                                    Comsat     84E
+              Orbcomm FM10)                                    Comsat     84B
+              Orbcomm FM11)                                    Comsat     84C
+              Orbcomm FM12)                                    Comsat     84D
+Dec 24 1332   EarlyBird         Start-1       Svobodniy        Rem Sens.  85A
+Dec 24 2319   Asiasat 3         Proton-K/DM3  Baykonur         Comsat     86A
+Jan  7 0228   Lunar Prospector  Athena-2      SP Florida LC46  Probe      01A
+Jan 10 0032   Skynet 4D         Delta 7925    Canaveral LC17B  Comsat   
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-90  Apr  2
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LC39A         STS-89  Jan 22
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                                             
+MLP2/RSRM65              VAB Bay 3     STS-90
+MLP3/RSRM64/ET-90/OV-105 LC39A         STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

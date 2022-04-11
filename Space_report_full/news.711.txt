@@ -1,0 +1,234 @@
+Jonathan's Space Report 
+No. 711                                                      2015 Apr 15     Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 43 continues under the command of Terry Virts, with FE-3
+Anton Shkaplerov and FE-4 Samantha Cristoforetti joined by Gennadiy
+Padalka, Mikhail Kornienko and Scott Kelly after the TMA-16M (flight
+42S) docking. 
+
+Soyuz TMA-16M was launched on Mar 27, docking with the Poisk module
+5h50m after launch. Soyuz TMA-15M is docked at Rassvet; Progress M-25M
+is docked at Pirs and Progress M-26M at Zvezda. 
+
+The Dragon CRS-6 supply ship was launched on Apr 14. Its Falcon 9 launch
+vehicle delivered it into a 206 x 357 km orbit. The Falcon 9's first
+stage was flown down to the barge 'Just Read The Instructions' in the
+Atlantic but, according to tweets by Elon Musk, valve stiction caused
+control problems in the final burn and the stage crash-landed.
+
+CRS-6 carries 16 cubesats: 14 3U-size Flock-1e for Planet Labs, one
+Arkyd-3R for Planetary Resources (also a 3U) and a 1U cubesat,
+Centennial-1, for Booz Allen Hamilton carrying an Air Force Research Lab
+imaging experiment. The cubesats will be transferred to the Kibo module
+after Dragon docking and ejected into orbit via the NanoRacks deployers and
+the Kibo robot arm. CRS-6 also carries a number of mice aboard the Rodent
+Research 2 package, and a 20 kg microgravity-qualified Lavazza espresso machine
+(I'm a little surprised any Italian astronauts agreed to fly to ISS before
+installation of this essential life support equipment. For the record, I'm a tea
+drinker myself.)
+
+Galileo
+--------
+
+The European Commission's GalileoSat-7 and 8 (ESA designation Galileo
+FOC FM03 and FM04) were launched on Mar 27 by a Soyuz/Fregat. This time
+the launch went perfectly and delivered the satellites to a 23500 x
+23580 km x 55.1 deg orbit.
+
+Arirang-3A
+----------
+
+South Korea's Arirang-3A (KOMPSAT-3A) imaging satellite was launched on
+a Kosmotras Dnepr from a silo at the Yasniy missile base in Russia on
+Mar 25 into a 522 x 540 km x 97.5 deg sun-synchronous orbit at 0130
+local time descending node. The Dnepr third stage ended up in a 524 x
+1440 km orbit.
+
+IGS O-5
+-------
+
+The Information Gathering Satellite Optical-5 was launched on Mar 26 from Japan.
+The spy satellite is operated by the Japanese government. It has been tracked
+by hobbyist observers in a 500 km sun-synchronous orbit.
+
+GPS IIF-9
+---------
+
+GPS flight IIF-9, space vehicle SVN71, nicknamed Deneb, was launched on Mar 25 by
+a Delta 4 into a 12-hour-period orbit to join the navigation constellation.
+
+IRNSS-1D
+--------
+
+The 4th Indian Regional Navigation Satellite System payload was launched on Mar 28.
+The 1425 kg satellite joined its siblings IRNSS-1A and 1B in inclined synchronous orbit with an 
+orbit on Apr 12 of 35699 x 35870 km x 30.5 deg. IRNSS-1C is in equatorial GEO.
+
+
+Beidou daohang weixing 17
+--------------------------
+
+The BDW 17 satellite, first in the Beidou-3 generation of Chinese navigation satellites,
+was launched on Mar 30. For the first time the CZ-3C rocket used an additional, 4th, stage,
+the Yuanzheng-1 (Expedition-1). The stage uses UDMH/N2O4 storable propellants like the
+Briz-M or Fregat, but has even lower thrust -  only 6.5 kN - and so will need yet longer
+burn times.
+
+The the CZ-3C third stage has been tracked in a 194 x 25307 km x 54.9
+deg transfer orbit, and as of Apr 12  an object (40549) that is probably Beidou
+is in a 35796 x 36781 km x 55.0 deg orbit  drifting over 120E. The YZ-1
+stage has not yet been tracked; its orbit is probably a little higher
+than Beidou following a depletion burn. It's possible however that YZ-1
+is 40549 and it's Beidou that hasn't been found yet.
+
+Gonets/Kosmos
+-------------
+
+A Rokot launch vehicle placed three 225-kg Gonets-M message relay satellites
+in a 1500 km polar orbit on Mar 31. Gonets-M is the civilian version of the
+military Strela-3/Rodnik system. As with other recent Gonets and Strela launches,
+an additional military payload was carried. For the first time, this payload
+was ejected from the Briz-KM upper stage after its depletion burn, and so
+ended up in a lower perigee orbit than the Gonets trio. The payload, Kosmos-2504,
+began small orbit maneuvers on Apr 9.
+
+
+Cassini
+-------
+
+[ORIGINAL - OOPS]
+The Cassini probe made a 2721 km flyby of Titan at 2252 UTC May 7. The probe is
+now in a 188700 x 2428000 km x 0.4 deg equatorial Saturn orbit.
+
+[EDITED/CORRECTED]
+The Cassini probe made a 2275 km flyby of Titan at 1430 UTC Mar 16. The probe is
+now in a 276000 x 3164000 km x 0.3 deg equatorial Saturn orbit.
+
+Dawn
+----
+
+Dawn entered the Ceres Hill sphere (where Ceres gravity wins out over the Sun's,
+mumble mumble caveat equivocate...) on Jan 26 and flew past Ceres at a
+distance of 38600 km on Feb 23. Slowing down as it arced out, it became
+bound to Ceres on Mar 6 at a distance of 60000 km. Initial orbit was
+38000 km pericereal height (or peridemeter as Marc Rayman would prefer)
+at an inclination of 34 deg to the Ceres equator. Dawn reached an
+apocereal height of 75850 km on Mar 19 and slowly reapproached Ceres as
+the ion drive twisted the orbital inclination to a pure polar orbit of
+15900 x 62900 km x 90.0 deg by Apr 13. The next predicted pericereal
+pass is at 15970 km on Apr 18. The bright spots seen in early Dawn
+images of Ceres remain mysterious at this writing.
+
+
+
+Debunking PASCAL-B
+-------------------
+
+Following on from the previous issue's discussion of the Zwicky Pellets,
+by popular demand (i.e. one guy who asked) this time I tackle the internet
+story that goes 'we launched a manhole cover into solar orbit'. 
+
+On 1957 Aug 27 at 2235 UTC, at area U3d of the Nevada Test Site
+(http://nuclearweaponarchive.org/Usa/Tests/Plumbob.html) the PASCAL-B
+Pu-fission/HE device was detonated with a yield of 0.3 kT. The test was
+carried out in an underground shaft sealed  with a 900 kg, 1.2 m dia
+0.1m thick steel cap. According to test scientist Bob Brownlee,
+calculations showed that the cap left the silo travelling vertically at
+about 60 km/s, much higher than Earth escape velocity. Although Brownlee
+did not claim the cap would actually escape Earth, the story has been
+exaggerated to claim the cap might be in solar orbit.  
+
+However, a simple calculation shows that even ignoring ablation, heat
+transfer and gravity, the effects of atmospheric drag in the lower
+atmosphere would slow the cap below escape velocity before it reached 2
+km altitude (and then essentially stop it well within the atmosphere).
+So, PASCAL-B did not reach space. I encourage readers with expertise in
+ablation hydro or supernova shocks to perform the relevant calculations,
+but I assume the cap was shredded and melted so that no macroscopic
+debris fell back to the ground. The initial kinetic energy of the cap
+was 3 terajoules. If you convert all that energy to thermal and share it
+among 900 kg of Fe atoms (ignoring the fact that we heat the air too) I
+get a temperature of about 20 million K. That's certainly an
+overestimate but indicates that plenty of energy is available to
+vaporise the material.
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Mar  2 0125   Flock 1b-21  )                        ISS Kibo, LEO    Imaging       98-67FQ S40427    395 x    402 x  51.7
+              Flock 1b-22  )                                         Imaging       98-67FR S40428    395 x    402 x  51.7
+Mar  2 0350   ABS-3A           ) Falcon 9 v1.1      Canaveral SLC40  Comms           10A   S40424    358 x  63319 x  24.8
+              Eutel.115 West B )                                     Comms           10B   S40425    360 x  63379 x  24.8
+Mar  2 0845   Flock 1b-9   )                        ISS Kibo, LEO    Imaging       98-67FS S40429    392 x    407 x  51.6
+              Flock 1b-10  )                                         Imaging       98-67FT S40430    398 x    413 x  51.6
+Mar  3 0300   Flock 1d'-1  )                        ISS Kibo, LEO    Imaging       98-67FU S40451    393 x    405 x  51.6
+              Flock 1d'-2  )                                         Imaging       98-67FV S40452    393 x    406 x  51.6
+Mar  3 1050   Flock 1b-5   )                        ISS Kibo, LEO    Imaging       98-67FW S40453    394 x    407 x  51.6
+              Flock 1b-6   )                                         Imaging       98-67FX S40454    392 x    407 x  51.6
+Mar  4 0120   TechEdSat-4  )                        ISS Kibo, LEO    Tech          98-67FY S40455    393 x    402 x  51.6
+              GEARRSat     )                                         Comms         98-67FZ S40456    395 x    404 x  51.6
+Mar  4 0830   MicroMAS     )                        ISS Kibo, LEO    Sci           98-67GA S40457    393 x    406 x  51.6
+              LambdaSat    )                                         Tech/Comms    98-67GB S40458    393 x    405 x  51.6
+Mar  5 0145   Flock 1b-11  )                        ISS Kibo, LEO    Imaging       98-67GC S40459    395 x    405 x  51.6
+              Flock 1b-12  )                                         Imaging       98-67GD S40460    395 x    405 x  51.6
+Mar 13 0244   MMS 1 )             Atlas V 421       Canaveral SLC41  Sci             11A   S40482    559 x  70130 x  28.9
+              MMS 2 )                                                Sci             11B   S40483    554 x  70159 x  28.9
+              MMS 3 )                                                Sci             11C   S40484    554 x  70174 x  28.9
+              MMS 4 )                                                Sci             11D   S40485    554 x  70190 x  28.9
+Mar 18 2205   Ekspress AM-7       Proton-M/Briz-M   Baykonur LC200/39 Comms          12A   S40505   5406 x  35752 x  19.9
+Mar 25 1836   GPS SVN 71          Delta 4M+(4,2)    Canaveral SLC37  Nav             13A   S40534  20466 x  20468 x  55.0
+Mar 25 2208   Arirang-3A          Dnepr             Yasniy Sh370/13  Imaging         14A   S40536    522 x    540 x  97.5 0130LT
+Mar 26 0121   IGS Optical 5       H-IIA 202         Tanegashima      Imaging         15A   S40538    511 x    515 x  97.5 1015LT
+Mar 27 1942   Soyuz TMA-16M       Soyuz-FG          Baykonur LC1     Spaceship       16A   S40540    198 x    213 x  51.6
+Mar 27 2146   GalileoSat-7 )      Soyuz ST-B/Fregat CSG ELS          Nav             17A   S40544  23566 x  23606 x  55.1
+              GalileoSat-8 )                                         Nav             17B   S40545  23564 x  23570 x  55.1
+Mar 28 1149   IRNSS-1D            PSLV-XL           Sriharikota      Nav             18A   S40547    277 x  20569 x  19.2
+Mar 30 1352   Beidou DW 17        Chang Zheng 3C/YZ1 Xichang LC2     Nav             19A   S40549  35796 x  36781 x  55.0 
+Mar 31 1348   Gonets-M No. 21)    Rokot             Plesetsk LC133   Comms           20A   S40552   1497 x   1508 x  82.5
+              Gonets-M No. 22)                                       Comms           20B   S40553   1496 x   1507 x  82.5
+              Gonets-M No. 23)                                       Comms           20C   S40554   1494 x   1506 x  82.5
+              Kosmos-2504    )                                       Experimental?   20D   S40555   1172 x   1515 x  82.5      
+Apr 14 2010   Dragon CRS-6        Falcon 9 v1.1     Canaveral SLC40  Cargo           21A   S40588    205 x    360 x  51.6
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+The US Air Force Global Strike Command launched two Minuteman 3 ICBMs
+from Vandenberg on a regular test of the system. Tests GT214GM and
+GT215GM each carried a single reentry vehicle which splashed down in the
+ocean near Guam. Minuteman tests usually aim their reentry vehicle at
+Kwajalein Atoll although, since 2006, occasional flights to test the
+missile's maximum range have used the Guam target area instead.
+
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Mar  1 2133   RV               Hwasong 6?          Nampo, N Korea   Test          134
+Mar  1 2141   RV               Hwasong 6?          Nampo, N Korea   Test          134
+Mar  5 0144   WADIS 2          VS-30               Andoya           Atm.Sci       126
+Mar  9        RV               Shaheen 3           Somniani?        Test          500? 
+Mar 17 0915   REXUS 17         Imp. Orion          Kiruna           Micrograv      81
+Mar 18 1330   REXUS 18         Imp. Orion          Kiruna           Micrograv      81
+Mar 18        RV               Rubezh              Kapustin Yar     Test         1000?
+Mar 23 1036   Mk 12/21 RV?     Minuteman 3         Vandenberg LF10  Test         1300?
+Mar 27 1054   Mk 12/21 RV?     Minuteman 3         Vandenberg LF04  Test         1300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

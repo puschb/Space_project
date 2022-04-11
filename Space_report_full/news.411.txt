@@ -1,0 +1,134 @@
+Jonathan's Space Report
+No. 411                                            1999 Nov 16 Cambridge, MA
+-------------------------------------------------------------------------------
+(Erroneously sent out as "draft")
+
+Web Site Updated
+-----------------
+
+My web site, http://hea-www.harvard.edu/~jcm/space/space.html
+has undergone a significant update.
+
+A major new feature is the index of geostationary launches. In addition
+to my usual list of current orbital postions, I've added a historical
+listing of which longitudes the various satellites have ever been
+stationed at, an estimate of the time each satellite first entered the
+near-geostationary region (which I define to be orbital periods between
+23 and 25 hours), and an estimate of the time the satellite ceased
+operating. I hope readers who have geostationary satellites of their own
+will help me correct and improve this listing, which is at 
+ http://hea-www.harvard.edu/~jcm/space/logs/geo.date
+
+Recent Launches
+---------------
+
+Plans are to launch Discovery on STS-103 in early December.
+Discovery has been mated to external tank ET-101 and solid boosters
+RSRM-73, and was rolled out from VAB bay 1 to the pad on Nov 13.
+
+GE 4 was launched by Ariane on Nov 13. The GE 4 satellite will provide C
+and Ku-band communications services for GE Americom, replacing the older
+Spacenet 4 satellite. It is an A2100AX type spacecraft built by Lockheed
+Martin/Sunnyvale. Arianespace used an Ariane 44LP rocket to place GE 4
+in geostationary transfer orbit.
+
+Below I list all the satellites in GE Americom (formerly RCA Americom)'s
+fleet. The early satellites were built by RCA/GE/Lockheed Martin's
+East Windsor operation; the A2100s were built by LM/Sunnyvale; and
+GE 5 was built by Alcatel/Cannes.
+
+  Historical list of GE Americom satellites
+              Type         Launch        Retired
+RCA Satcom 1  Satcom      1975 Dec 13   1984 Jun
+RCA Satcom 2  Satcom      1976 Mar 26   1985 Jan
+RCA Satcom 3  Satcom      1979 Dec  7   Launch failure, in GTO
+RCA Satcom 3R Satcom      1981 Nov 20   1991 Apr
+RCA Satcom 4  Satcom      1982 Jan 16   1991 Dec
+RCA Satcom 5  Adv.Satcom  1982 Oct 27   1991 Apr?; at 105W (Alascom Aurora 1)
+RCA Satcom 1R Adv.Satcom  1983 Apr 11   1992 Dec
+RCA Satcom 2R Adv.Satcom  1983 Sep  8   1995 Mar
+
+Satcom K-2    Series 4000 1985 Nov 27   At 81W
+Satcom K-1    Series 4000 1986 Jan 12   1997 Jul
+Satcom K-3    Series 5000 cancelled, became Astra 1B
+Satcom K-4    Series 5000 cancelled, became Intelsat K
+Satcom C-1    Series 3000 1990 Nov 20   At 137W
+Satcom C-5    Series 3000 1991 May 29   At 139W (Alascom Aurora 2)
+Satcom C-4    Series 3000 1992 Aug 31   At 135W
+Satcom C-3    Series 3000 1992 Sep 10   At 131W
+Satcom C-2    Series 3000 not launched, status unknown
+
+GE 1          A2100       1996 Sep  8   At 103W
+GE 2          A2100       1997 Jan 30   At 85W
+GE 3          A2100       1997 Sep  4   At 87W
+GE 5        Spacebus 2000 1998 Oct 28   At 79W
+GE 4          A2100AX     1999 Nov 13   -
+
+
+NASDA's H-2 rocket failed four minutes after launch from Tanegashima on
+Nov 15. The H-2 jettisoned its two large solid boosters 1.5 min after
+launch, but toward the end of the burn of the large first stage
+something went wrong - details so far unknown - and the rocket was lost.
+This H-2 carried the 5S type fairing and a new second stage with the
+LE-5B engine being developed for the H-2A program, but the accident
+happened before second stage ignition. 
+
+The payload was the Multi-functional Transportation Satellite, with a
+communications and air traffic control payload for the Japanese
+transportation ministry and a meteorological payload for the Japanese
+Meteorological Agency. MTSAT was built by Space Systems/Loral and based
+on their FS-1300 series comsat bus. MTSAT had a mass of 1223 kg dry,
+2900 kg at launch. The spacecraft was a follow-on to the GMS (Himawari)
+weather satellite series.
+
+The AP report on the launch failure includes Japan's repeated erroneous
+claim that it was the first nation to dock two satellites under remote
+control. In fact, the ETS-7 experiment last year came 30 years after
+the first remote control docking by the USSR's Kosmos-186 and Kosmos-188.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  7 1251   Navstar SVN 46    Delta 7925     Canaveral SLC17A Navsat     55A
+Oct 10 0328   DirecTV 1R        Zenit-3SL      Odyssey, POR     Comsat     56A
+Oct 14 0315   Zi Yuan 1 )       Chang Zheng 4B Taiyuan          Imaging    57A
+              SACI 1    )                                       Science    57B
+Oct 18 1322   Globalstar 31)    Soyuz-Ikar     Baykonur LC1     Comsat     58A
+              Globalstar 56)                                    Comsat     58B
+              Globalstar 57)                                    Comsat     58C
+              Globalstar 59)                                    Comsat     58D
+Oct 19 0622   Orion 2           Ariane 44LP    Kourou ELA2      Comsat     59A
+Oct 27 1616   Ekspress-A1       Proton-K       Baykonur         Comsat     F03
+Nov 13 2255   GE 4              Ariane 44LP    Kourou ELA2      Comsat     60A
+Nov 15 0729   MTSAT             H-2            Tanegashima      Comsat     F04
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       LC39B         STS-103 1999 Dec  6
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Mar 16
+OV-105 Endeavour       OPF Bay 2     STS-99  2000 Jan 13
+
+MLP1/
+MLP2/RSRM-73/ET-101/OV-103     LC39B
+MLP3/RSRM-71?/ET?              VAB Bay 3   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

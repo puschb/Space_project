@@ -1,0 +1,152 @@
+Jonathan's Space Report
+No. 393                                        1999 Mar 29 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Human spaceflight
+-------------------
+
+The EO-27 crew of Afanas'ev, Avdeev and Haignere are aboard the Mir
+complex. Progress cargo ship No. 241 is being prepared for launch at
+Baykonur and will become Progress M-41 after launch. Discovery is being
+prepared for the STS-96 mission to the International Space Station (ISS).
+Launch date now looks like May 24, as Boeing Delta has the range for May
+20 for FUSE.
+
+The cargo bay manifest of Discovery for STS-96 is:
+
+Bay 1-2:     Orbiter Docking System/External Airlock
+Bay 1 Port:  Tool Stowage Assembly
+Bay 1 Stbd:  Tool Stowage Assembly
+Bay 3-4:     Tunnel Adapter S/N 001
+Bay 5-7:     Spacehab Tunnel
+Bay 5:       Keel Yoke Device (KYD) and
+             Integrated Cargo Carrier (ICC)
+Bay 8-12:    Spacehab Logistics Double Module
+Bay 13 Port: Adapter Beam (ABA) with IVHM
+Bay 13 Stbd: Adapter Beam (ABA) with SVF/Starshine
+Sill:        RMS Arm S/N 303
+
+The Orbiter Docking System (ODS) and External Airlock (EAL), built by
+Boeing/Palmdale, will be used to dock to the PMA-2  docking port on the
+ISS. The EAL connects to the Tunnel Adapter (TA) which contains an
+airlock hatch for EVAs. The TA in turn connects to the Spacehab Tunnel,
+which I believe was built by Boeing/Huntington Beach (did I spell that
+right for once?) and is similar to the Spacelab Tunnel hardware. The
+Spacehab Tunnel in turn leads to the Spacehab Logistics Double Module. The
+Spacehab-DM structure was built by Alenia/Torino and is owned by
+Spacehab, Inc. It contains supplies and equipment for ISS.
+
+The Keel Yoke Device props up the Spacehab, Inc. ICC (Integrated Cargo
+Carrier) which sits above the Spacehab Tunnel. The ICC is a pallet which
+carries two cranes: NASA's OTD (Orbital Replacement Unit Transfer
+Device) and Russia's Strela. The cranes will be installed on ISS. It
+also carries the SHOSS (Spacehab Oceaneering Space Systems) Box.
+(Oceaneering Space Systems is a Houston company, I don't know what
+the box is for).
+
+The adapter beam in Bay 13 port carries the IVHM vehicle health
+monitoring system, which is being checked out for operational use. The
+Bay 13 Starboard adapter beam carries two experiments, SVF and
+Starshine. SVF (Shuttle Vibration Forces) measures vibrations during
+launch. Starshine, in the forward position on the beam, is a satellite
+which will be ejected into orbit as a visual target to be used by
+students for educational exercises.
+
+STS-96 commander is Cmdr. Kent Rominger, USN, pilot is Lt Col Rick
+Husband, USAF. Mission specialists are MS1 Dr. Tamara Jernigan (NASA),
+MS2 Dr. Ellen Ochoa (NASA), MS3 Dr. Daniel Barry, MD (NASA), MS4 Julie
+Payette (Canadian Space Agency), and MS5 Pol. Valeriy Tokarev, VVS
+(Russian Space Agency). Jernigan and Barry will make a spacewalk.
+
+Recent Launches
+---------------
+
+The first Boeing Sea Launch mission was a success. The Zenit-3SL launch
+vehicle took off from the Sea Launch Odyssey mobile platform at 154.0W
+0.0N on Mar 28.  DemoSat carries launch vehicle instrumentation and is a
+dynamic model of an HS-702 satellite. Its mass is about 4500 kg. DemoSat
+was built by Boeing Commercial Space/Kent. The first two stages of the
+Zenit are built by Yuhznoe in the Ukraine. The third stage is a Blok
+DM-SL, built by Energiya/Kaliningrad and based on the Blok DM series
+used for Proton upper stages. Its first burn placed it in a 180 x 735 km
+x 1.2 deg parking orbit 13 min after launch, followed by a second burn
+47 min after launch to deliver DemoSat to a 638 x 36064 km x 1.2 deg
+geostationary transfer orbit. Three hours later, a third DM-SL burn was
+due to lower the rocket stage's orbit so that it will reenter quickly
+(I haven't had confirmation on this burn yet).
+
+Asiasat 3S was launched on Mar 21 by International Launch Services on a
+Krunichev Proton-K with an Energiya Blok DM3 upper stage. Asiasat, based
+in Hong Kong, will operate the satellite as a replacement for Asiasat 3,
+which was placed in the wrong orbit by a Proton launch in 1997.  Asiasat
+3, renamed HGS-1, is currently in inclined geostationary drift orbit
+awaiting customers, after completing a remarkable pair of trips around
+the Moon last year. The new satellite, Asiasat 3S, is a copy of its
+precursor. It is a Hughes HS-601HP with C and Ku band transponders. Mass
+in transfer orbit is 3463 kg, down to 2500 kg at beginning of life. The
+Blok DM3 placed Asiasat 3S in a 9677 x 35967 km x 13.1 deg transfer
+orbit. Asiasat's Marquardt R4D apogee engine will be used to raise
+perigee to geostationary altitude.
+
+WIRE is now stable; although its primary mission was a failure,
+it will be used for systems tests. 
+
+Pedantic correction on last week's pedantic note: Chinese scholars tell
+me that  Chunghua would be Zhonghua in Pinyin, not Zhongguo, and refers
+to China and things Chinese in the abstract.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Feb  7 2104   Stardust          Delta 7426     Canaveral SLC17A Probe      03A
+Feb  9 0354   Globalstar M023 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     04B
+              Globalstar M036 )                                 Comsat     04A
+              Globalstar M038 )                                 Comsat     04C
+              Globalstar M040 )                                 Comsat     04D
+Feb 15 0512   Telstar 6         Proton-K/DM3   Baykonur LC81L   Comsat     05A
+Feb 16 0145   JCSAT-6           Atlas 2AS      Canaveral SLC36A Comsat     06A
+Feb 20 0418   Soyuz TM-29       Soyuz-U        Baykonur LC1     Spaceship  07A
+Feb 23 1030   ARGOS    )        Delta 7920     Vandenberg SLC2W Technol.   08A
+              Orsted   )                                        Space Sci  08B
+              Sunsat   )                                        Technol.   08C
+Feb 26 2244   Arabsat 3A )      Ariane 44L     Kourou ELA2      Comsat     09A
+              Skynet 4E  )                                      Comsat     09B
+Feb 28 0400   Raduga-1          Proton-K/DM-2  Baykonur LC81P   Comsat     10A
+Mar  5 0256   WIRE              Pegasus XL     Vandenberg       Astronomy  11A
+Mar 15 0306   Globalstar M022 ) Soyuz-U/Ikar   Baykonur LC1     Comsat     12A
+              Globalstar M041 )                                 Comsat     12B
+              Globalstar M046 )                                 Comsat     12C
+              Globalstar M037 )                                 Comsat     12D
+Mar 21 0009   Asiasat 3S        Proton-K/DM3   Baykonur LC81L   Comsat     13A
+Mar 28 0130   DemoSat           Zenit-3SL      Odyssey, POR     Test       14A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        VAB Bay 2     STS-93  Jul  9
+OV-103 Discovery       OPF Bay 1     STS-96  May 24
+OV-104 Atlantis        OPF Bay 3     STS-101 Oct 14?
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/RSRM-70                   VAB Bay 3 STS-96
+MLP3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

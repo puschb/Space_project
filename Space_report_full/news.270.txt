@@ -1,0 +1,186 @@
+Jonathan's Space Report
+No. 270                       1995 Jan 2                    Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-72, still scheduled for January 11.  
+
+Mir
+---
+
+The 20th main expedition to the Mir complex continues its work. On Jan 1
+at 0000:00 UTC, the crew of Yuriy Gidzenko, Sergey Avdeev, and Thomas
+Reiter had been in flight for 119 days 14 hours 59 min 38 sec
+(remembering to put in that leap second at 1995 Dec 31d 23h 59m 60s!)
+since the liftoff of their Soyuz TM-22 spaceship from pad 1 at Baykonur
+on Sep 3.
+
+Recent Launches
+--------------
+
+The Indian Space Research Organization's IRS-1C (Indian Remote Sensing
+Satellite) satellite was launched from Baykonur on Dec 28. This was the
+first Russian launch into a retrograde (99 degree) orbit using the
+Molniya-M four stage rocket; earlier Russian retrograde launches used
+the Vostok rocket which has now been retired.  The Molniya-M for this
+flight used a fourth stage called the Blok 2BL, which fired to place
+IRS-1C in a circular 101.1 min, 805 x 817 km x 98.6 deg sun-synchronous
+orbit. The Blok-I third stage appears to have been suborbital, the first
+time such a flight profile has been used. The IRS-1C is more advanced
+than earlier Indian remote sensing satellites, with a 10-m resolution
+panchromatic camera and a 20-m resolution multispectral camera.
+
+Also launched with IRS-1C was the Skipper subsatellite, a joint project
+between the US Ballistic Missile Defense Organization and the Russian
+Defense Ministry which will simulate ICBM reentry and test out
+aerobraking techniques. According to my rather out of date information,
+the payload is built by the Utah State University Space Dynamics Lab in
+collaboration with the Moscow Aviation Institute and has a mass of 230
+kg; it will maneuver to a low perigee and then deorbit over Kwajalein in
+the Pacific in about a week. Anyone with more info on Skipper is encouraged
+to get in touch.
+
+Echostar 1, a Lockheed Martin Astro Space AS7000 series television
+broadcast satellite, was successfully launched by a Chinese Chang Zheng
+2E rocket on Dec 28 into low Earth orbit. An EPKM solid kick motor fired
+to place the satellite in a 222 x 35081 km x 24.4 deg geostationary
+transfer orbit, from where the satellite's liquid apogee engine would
+further raise the orbit to a circular geostationary one. Echostar
+carries 16 Ku-band transponders.
+
+NASA-Goddard's X-Ray Timing Explorer satellite was launched on Dec 30
+from pad 17A at Cape Canaveral. It entered a 565 x 583 km x 23.0 deg
+orbit. The satellite carries  the PCA (Proportional Counter Array)
+instrument with large collecting area but low spatial resolution, for
+accurate timing and 2-60 keV spectral measurements of bright X-ray
+sources. The HEXTE (High Energy X-ray Timing Experiment) will study
+X-rays of higher energy (up to 200 keV) and the ASM (All Sky Monitor)
+has a wide field of view to spot X-ray flare stars and burst sources in
+the 2-10 keV range.. XTE was built by NASA-Goddard Space Flight Center.
+
+XTE's launch vehicle was a two stage McDonnell Douglas Delta 7920-10
+model, Delta 230. Launch was at 1348 UTC on Dec 30; first the two liquid
+vernier engines ignite, and immediately afterwards the main engine
+ignited successfully, 2.5 seconds before liftoff. Six of the nine
+Hercules GEM solid rocket motors (Nos. 1,2,3,7,8 and 9) ignited and the
+vehicle left the pad. The six solids burnt out and separated as solids
+4,5 and 6 ignited, at around T+1 min 5 sec. Solids 4,5 and 6 then burnt
+out and separated at 2min 11 sec. The main RS-27 engine cutoff at 4min
+20 sec and the first, Thor-derived, stage fell away at 4:29. The Delta
+second stage ignited its AJ-10-118K liquid engine at 4:34 and the
+10-foot payload shroud, having survived those upper-level winds, was
+jettisoned at 4:40, at an altitude of 143 km. The first burn of the
+second stage shut down at 1358 UTC, T+9:55, with Delta/XTE in a  157 x
+613 km x 28.73 deg Earth orbit. The combination coasted toward apogee
+for an hour, and at 1456 (T+1:08:18) the Delta reignited for a 1 min 31
+sec burn to circularize the orbit at 565 x 583 km x 23.0 deg. Delta 230
+separated from XTE at 1506 UTC. At 1526 UTC Delta 230 ignited for the
+third time in an evasive maneuver to leave  the vicinity of XTE, and at
+1534 UTC the AJ-10-118K was turned on for the fourth and last time in a
+depletion burn intended to lower the orbit and get rid of residual
+propellant, to avoid the possibility of  a later explosion (in the 1970s
+exploding relic Delta stages were responsible for significant
+contributions to the orbital debris population). It ended up in a 176 x
+575 km x 25.0 deg orbit and should reenter rapidly.
+
+Satellite catalog number 23658, which had been reserved for the
+Fasat-Alfa Chilean subsatellite that failed to separate from Sich-1, has
+now been assigned to the Centaur AC-117 stage from the JCSAT-3 launch,
+which on Dec 17 was tracked in a 175 x 79168 km x 22.93 deg orbit.
+Cataloged with Kosmos-2326 (1995-71A, 23748) is the rocket stage
+(1995-71C, 23750) which reentered on the day of launch, implying the
+existence of an object (1995-71B, 23749) for which no elements have yet
+been released. This may be a misunderstanding based on the incorrect
+assumption that the Konus-A experiment is intended to separate from the
+main satellite, and the catalog number may be reassigned. The Goddard
+OIG group has reported the decay of object 23453 (Kosmos-2305), as
+suggested by me in JSR 269, although they confused the issue by
+labelling it  Kosmos-398!
+
+The Gals 2 satellite has been positioned at 70.9E over the Indian
+Ocean. Asiasat 2 has reached geostationary position at 100.5E.
+Telecom 2C fired its apogee engine between Dec 17 and 
+Dec 21, immediately reaching its geostationary location at 1.0E.
+Insat 2C arrived at its 92.5E position on Dec 19.
+On Dec 24 Galaxy 3R raised its transfer orbit to 
+1292.35 min, 30054 x 35793 km x 1.4 deg.
+Another engine firing on Dec 26 completed the ascent to synchronous
+altitude, placing it in a 1435.46 min, 35756 x 35792 km x 0.1 deg
+orbit drifting E over 94.9W.
+
+TDRS 1 left its 139.6W position in mid December to drift E.
+The German television satellite DFS Kopernikus 1 left its 33E slot
+on around Dec 14.
+The US Navy UHF F6 completed its testing period at 171W and moved
+during November-December to a new location at 105.3W.
+Intelsat 503 has reached a new station at 157.0E.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Nov  4 1422   Radarsat )       Delta 7920     Vandenberg SLC2W Rem sensing 59A
+              SURFSAT  )                                                  59B
+Nov  6 0515   Milstar DFS 2   Titan 4 Centaur Canaveral LC40  Comsat      60A
+Nov 12 1230   Atlantis       ) Shuttle        Kennedy   LC39A Spaceship   61A
+              Docking Module )
+Nov 17 0120   ISO              Ariane 44P     Kourou ELA2     Astronomy   62A
+Nov 17 1425   Gals-2           Proton-K/DM2   Baykonur LC200L Comsat      63A
+Nov 28 1130   Asiasat 2        Chang Zheng 2E Xichang         Comsat      64A
+Dec  2 0808   SOHO             Atlas IIAS     Canaveral LC36B Astronomy   65A
+Dec  5 2118   USA 116          Titan 4        Vandenberg SLC4E Recon      66A
+Dec  6 2323   Telecom 2C   )   Ariane 44L     Kourou ELA2     Comsat      67A
+              Insat 2C     )                                  Comsat      67B
+Dec 14 0610   Kosmos-2323  )                                  Navsat      68A
+              Kosmos-2324  )   Proton-K/DM2   Baykonur LC200L Navsat      68B
+              Kosmos-2325  )                                  Navsat      68C
+Dec 15 0023   Galaxy IIIR      Atlas IIA      Canaveral LC36A Comsat      69A
+Dec 18 1431   Progress M-30    Soyuz-U        Baykonur LC1    Cargo ship  70A
+Dec 20 0052   Kosmos-2326      Tsiklon-2      Baykonur LC90   Eorsat/Sci  71A
+Dec 28 0645   IRS-1C     )     Molniya-M      Baykonur LC31   Rem.sensing 72A
+              Skipper    )                                    Military    72B
+Dec 28 1150   Echostar 1       Chang Zheng 2E Xichang         Comsat      73A
+Dec 30 1348   XTE              Delta 7920     Canaveral LC17A Astronomy   74A
+
+Payloads no longer in orbit
+--------------------------
+
+Nov  5        Columbia        Landed at KSC
+Nov 18        Molniya-1 (80-92A) Reentered
+Nov 20        Atlantis        Landed at KSC
+Dec  7        Galileo Probe   Entered Jovian atmosphere
+Dec 11        Kosmos-398      Reentered over Pacific
+Dec 18        Kosmos-2305     Deorbited
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       LC39B         STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-52/ET-75/OV-105  LC39B      STS-72                       
+ML2/                       
+ML3/RSRM-53               VAB Bay 1  STS-75                                     
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

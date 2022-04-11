@@ -1,0 +1,156 @@
+Jonathan's Space Report 
+No. 204               1994 Jul 19             Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Columbia continues in orbit on the STS-65 mission.
+
+Mir
+---
+
+I now have details of the Progress M-23 flight from Vladimir
+Agapov. The Progress undocked from the Kvant module at
+0946:46 UTC on Jul 2. The braking engine was ignited at
+1444 UTC, and the Raduga VBK reentry capsule was ejected
+at 1455:45 UTC. The Progress burnt up in the atmosphere
+at 1457. The Raduga deployed its parachute after reentry
+and landed at 1509 UT at 51 deg 41 min N, 59 deg 21 min E,
+in the Orenburg region of Russia.
+
+Launches
+--------
+
+The BS-3N satellite successfully fired its Star 30BP
+apogee motor at 0306:31 UT on Jul 13. It is a Martin
+Marietta Astro Space Series 3000 satellite (I said
+GE3000 last week, but that's the old name for the bus).
+
+A Nadezhda ("Hope") navigation, search and rescue satellite
+was launched from Plesetsk on Jul 14. Nadezhda satellites
+are produced and designed by AO Polyot of Omsk and NPO Prikladnoi
+Mekhaniki of Krasnoyarsk. They operate in 1000 km orbits
+at 83 degree inclination.
+
+Fireworks on Jupiter
+--------------------
+
+The fragments of Comet 1993e (P/Shoemaker-Levy 9) have begun to impact
+Jupiter. Fragment G, which hit on Jul 18, left an impact site larger
+than the Earth. The impact sites are visible in small telescopes; the
+150-year-old 12" Northumberland refractor in Cambridge has contributed
+central meridian crossing times (these are the most important things for
+amateurs to note, as the longitudes and rotation periods of the
+individual sites are not all well determined).
+
+       Predicted     Approximate observed impact times (UTC)
+  A    Jul 16.833  Jul 16.844
+  B    Jul 17.121  Jul 17.122
+  C    Jul 17.293  Jul 17.302
+  D    Jul 17.491  Jul 17.496
+  E    Jul 17.629  Jul 17.637
+  F    Jul 18.020  Jul 18.060
+  G    Jul 18.311  Jul 18.315
+  H    Jul 18.810  Jul 18.813
+  K    Jul 19.430  Jul 19.434
+  L    Jul 19.923
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jun  7 0720     Kosmos-2281     Soyuz-U         Plesetsk LC16   Recon       32A
+Jun 14 1605     Foton No. 9     Soyuz-U         Plesetsk LC43   Materials   33A
+Jun 17 0707     Intelsat 702 )  Ariane 44LP     Kourou ELA2     Comsat      34A
+                STRV 1       )                                  Technology  34B
+                STRV 2       )                                  Technology  34C
+Jun 24 1350     UHF F/O F3      Atlas I Centaur Canaveral LC36B Comsat      35A
+Jun 27 2115     STEP 1          Pegasus XL      Point Arguello  Science     FTO
+Jul  1 1224     Soyuz TM-19     Soyuz-U2        Baykonur LC1    Spaceship   36A
+Jul  3 0804?    FSW-2           Chang Zheng 2   Jiuquan         Remote sens 37A
+Jul  6 2358     Kosmos-2282     Proton/DM2      Baykonur LC81   EarlyWarn   38A
+Jul  8 1643     Columbia      ) Space Shuttle   Kennedy LC39A   Spaceship   39A
+                Spacelab IML-2)
+Jul  8 2305     PAS 2     )     Ariane 44L      Kourou ELA2     Comsat      40A
+                BS-3N     )                                     Comsat      40B
+Jul 14 0513     Nadezhda        Kosmos-3M       Plesetsk LC133  Navsat      41A
+
+Not So Recent Launches
+----------------------
+
+Saturn SA-506 was launched from LC39A at Cape Kennedy on 1969 Jul 16 at
+1332 UTC inserting the S-IVB-506 third stage and attached Apollo 11
+spacecraft into a 188 x 192 km x 32.6 deg Earth orbit. At 1616 the S-IVB
+reignited for the TLI burn; Apollo CSM 107 separated at 1649, completed
+the transposition and docking maneuver at 1656, and separated with the
+attached Lunar Module 5 at 1749. Lunar orbit insertion of the CSM 107/
+LM 5 complex occurred at 1721 on Jul 19. On Jul 20, Apollo 11 Commander
+Neil A. Armstrong and LM Pilot Edwin E. Aldrin, Jr. transferred to LM 5,
+leaving CM Pilot Michael Collins in the CSM. At 1745 on Jul 20, LM 5
+(callsign "Eagle") undocked from the CSM 107 (callsign "Columbia") in a
+100 x 122 km lunar orbit. The Descent Orbit Insertion burn at 1908
+lowered LM 5's orbit to 16 x 106 km. At 2005 the Powered Descent
+Initiation burn was begun, and at 1969 Jul 20 d 20 h 17 m 40 s UTC the
+spaceship LM 5 "Eagle" carrying astronauts Armstrong and Aldrin landed
+at Tranquility Base, Statio Tranquillitatis (00 deg 41 ' 15 " N 23 deg
+26 ' 00 " E) in the Mare Tranquillitatis on Luna.
+
+Exploration of the Tranquility Base area was carried out from 0227 to
+0458 on Jul 21 by Armstrong (in spacesuit A7L56) and Aldrin (in suit
+A7L77). LM 5 was again depressurized from 0740 to 0745? for an equipment
+dump. LM 5's ascent stage was launched from the descent stage at 1754 on
+Jul 21 and reached a 17 x 84 km lunar orbit at 1801. The LM 5 ascent
+stage docked with CSM 107 at 2135 on Jul 21. After the crew and cargo
+were transferred, LM 5 was undocked at 2342. CSM 107 fired its SPS
+engine at 0455 for the transearth injection burn. The SM-107 service
+module was jettisoned at 1621 on Jul 24 and the CM began reentry at
+1635. At 1650 on Jul 24 the CM-107 "Columbia" landed at 13 deg 30 ' N
+169 deg 15 ' W in the Pacific Ocean, and was recovered by the carrier
+USS Hornet.
+
+Meanwhile, flight 5L (the second test launch) of the N-1 lunar launch
+vehicle resulted in a massive explosion at 2018 on 1969 Jul 3, damaging
+the N-1 launch pad at Baykonur. Luna E-8-5 sample return probe no. 401
+was launched by Proton-K at 0255 on 1969 Jul 13 from Baykonur and given
+the code name Luna-15. Luna-15 reached lunar orbit at 1000 on 1969 Jul
+17 but the attempted landing at 1552 UT on 1969 Jul 21 resulted in
+destruction of the spacecraft on impact at 17 N 60 E.
+ 
+Reentries
+---------
+
+Jun  3          Tiros VII       Reentered
+Jul  2          Progress M-23   Landed in Russia
+Jul  2          Foton No. 9     Landed in Kazakhstan
+Jul  9          Soyuz TM-18     Landed in Kazakhstan
+Jul 18?		FSW-2           Landed in China?
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LEO           STS-65
+OV-103 Discovery       OPF Bay 2     STS-64
+OV-104 Atlantis        OPF Bay 3     STS-66
+OV-105 Endeavour       OPF Bay 1     STS-68
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65          VAB Bay 3 STS-68
+ML2/RSRM-41                VAB Bay 1 STS-64 
+ML3/                       LC39A     STS-65
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

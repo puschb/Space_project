@@ -1,0 +1,170 @@
+Jonathan's Space Report
+No. 263                      1995 Nov 9                     Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Columbia landed on runway 33 at Kennedy Space Center on Nov 5 at 1145:21
+UTC (main gear touchdown) after successfully completing the 15 d 21h 52m
+US Microgravity Lab 2 (STS-73) mission.  Its next mission is STS-75, the
+Tethered Satellite reflight. OV-102 has now made 18 flights for a total
+flight time of 4016 hr 34 min, easily more than any of the other
+Orbiters. Bowersox and Thornton now have more flight time than any
+active NASA astronauts except Thagard and Dunbar.
+
+The next launch is STS-74/Atlantis, scheduled for Nov 11. Atlantis will
+dock with the Mir space station, delivering the 316GK docking module and
+supplies. Below I give the cargo bay manifest for Atlantis (my best
+guess, those in the know please send corrections!). The payload area is
+divided into 13 bays from forward (airlock) to aft (tail end). '6P'
+means a payload attached to the port side wall of Bay 6. Side wall
+payloads usually use either a GAS Beam Adapter (GABA) mounting plate or
+the smaller APC (Adaptive Payload Carrier) mounting plate. 
+
+STS-74 Cargo Bay Payloads:
+
+-       Remote Manipulator System No. 301
+Bay 1   Airlock Tunnel Adapter
+Bay 3   Orbiter Docking System
+Bay 11  316GK Docking Module
+
+Bay 1P  APC with ITEPC radiation counter
+Bay 3S  APC with TCS-1 laser rendezvous unit
+Bay 4S  APC with TCS-2 laser rendezvous unit
+Bay 5S  GABA with GLO-4 Hitchhiker experiment and avionics
+Bay 6P  GABA with PASDE canister and Hitchhiker avionics
+Bay 6S  APC with VHF communications system
+Bay 7S  GABA with PASDE canister
+Bay 13P GABA with PASDE canister
+Bay 13S APC with IMAX Cargo Bay Camera
+
+The GLO-4 experiment measures emission from airglow and
+Shuttle-atmosphere interactions. PASDE is a collection of three pairs of
+photgrammetric cameras which will image Mir solar arrays as those arrays
+wobble in response to station operations; the data will be used to study
+the structural properties of the arrays. The four GABA payloads are
+collectively known as the GPP (GLO / PASDE Payload), managed as a
+Hitchhiker-G payload under the Shuttle Small Payloads Program.
+
+The Atlantis crew will remove the Docking Module from the payload bay
+using the RMS arm, and dock one end of it to the Orbiter Docking System.
+Then they will rendezvous with the Mir complex and dock the other end
+with the Kristall module. After the mission, they will undock the ODS
+from the Docking Module, leaving the Docking Module attached to Kristall
+where it will accommodate future  Shuttle visits. The Docking Module
+is built by RKK Energia and is a stretched Soyuz orbital module with
+two APAS-type androgynous docking units.
+
+Crew of STS-74 is Ken Cameron, James Halsell, Chris Hadfield, Jerry Ross
+and William McArthur. Hadfield is a Canadian Space Agency astronaut.
+
+Meanwhile, the external tank ET-75 for the STS-72 mission was due to be
+mated to the RSRM-52 solid rocket motors in the VAB on Nov 9, but the
+KSC Shuttle Status Reports always forget to tell us what's happening to the
+other orbiters when a launch is imminent, so I don't know if that event
+actually happened. Columbia has been towed back to Orbiter Processing
+Facility Bay 2 and will be prepared for next year's STS-75 mission.
+
+Mir
+----
+
+The crew of Gidzenko, Avdeev and Reiter continue work aboard the Mir
+complex. The next major event is the arrival of the Space Shuttle
+Atlantis with the new Docking Module. Marcia Smith reports that the EVA
+on Oct 20 probably began at 1150 UT, not 1155 UT as I reported, and thus
+the duration was 5h 16m.
+
+Recent Launches
+--------------
+
+McDonnell Douglas' Delta 229 was launched from Space Launch Complex 2 at
+Vandenberg AFB on Nov 4, placing the Canadian Space Agency's Radarsat
+remote sensing spacecraft in orbit. The Delta was a two-stage model
+7920-10. RADARSAT's primary payload is a synthetic aperture C-band radar
+for imaging the Earth's surface. The radar is 15m long and 1.5m wide.
+The 2750 kg spacecraft was launched into a 783 x 787 km x 98.6 deg polar
+orbit.
+
+Attached to the Delta 229 second stage in orbit is SURFSAT, a small
+Caltech/JPL package to test deep space communications and orbital VLBI
+radio astronomy transponders. The Deep Space Network 32 GHz Ka-band
+transponders will be used to study atmospheric transmission problems at
+those frequencies and the VLBI Ku and X-band transponders will do tests
+of the ground system for Japan's VSOP and Russia's proposed Radioastron.
+The SURFSAT package is part of the Summer Undergraduate Research
+Fellowship Satellite project, built by Caltech undergraduates. The
+SURFSAT spacecraft is reported to be working well. After releasing
+Radarsat, Delta/Surfsat maneuvered into a 934 x 1494 km x 100.6 deg
+orbit.
+
+A Lockheed Martin Titan 4 Centaur was launched on Nov 6 from Cape
+Canaveral. It placed in orbit the Milstar DFS 2 satellite, which is
+scheduled to provide secure military communications from geostationary
+orbit. Titan core vehicle K-21 placed the Centaur TC-13 stage in orbit.
+Three Centaur burns were used to successively reach low earth parking
+orbit, geostationary transfer orbit, and geosynchronous orbit. The
+payload separated and was given the designation USA 115. Thrusters on
+the Milstar will position the satellite at its geostationary location.
+The Milstar satellite is built by the part of Lockheed Martin that was
+formerly Lockheed. It is the second Block 1 Milstar, with a Low Data
+Rate payload with EHF (44.5 GHz) uplink and SHF (20 GHz) downlink and
+four UHF AFSATCOM transponders. The satellite also has a 60 GHz
+crosslink to enable it to communicate with Milstar DFS 1, launched in
+Feb 1994. The next Milstar will be the first Block 2, with a Medium Data
+Rate payload of three times higher bit rate. (Payload info from Jane's
+Space Directory).
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Oct  6 0323   Kosmos-2321     Kosmos-3M       Plesetsk LC132  Navsat      52A
+Oct  8 1851   Progress M-29   Soyuz-U         Baykonur LC1    Cargo       53A
+Oct 11 1626   Luch-1          Proton-K/DM2M   Baykonur        Data Relay  54A
+Oct 19 0038   Astra 1E        Ariane 42L      Kourou ELA2     Comsat      55A
+Oct 20 1353   Columbia       ) Shuttle        Kennedy LC39B   Spaceship   56A
+              Spacelab USML-2)
+Oct 22 0800   UHF F6           Atlas II       Canaveral LC36  Comsat      57A
+Oct 23 2203   Meteor           Conestoga 1620 Wallops LA0     Micrograv   FTO
+Oct 31 2019   Kosmos-2322      Zenit-2        Baykonur LC45L  Sigint      58A
+Nov  4 1422   Radarsat )       Delta 7920     Vandenberg SLC2 Rem sensing 59A
+              SURFSAT  )                                                  59B
+Nov  6 0515   Milstar DFS 2   Titan 4 Centaur Canaveral LC40  Comsat      60A
+
+
+Reentries
+---------
+
+Oct 26        Resurs-F2       Landed 
+Nov  5        Columbia        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-75  Feb 29
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        LC39A         STS-74  Nov 11
+OV-105 Endeavour       OPF Bay 3     STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-52                VAB        STS-72                       
+ML2/RSRM-51/ET-74/OV-104   LC39A      STS-74
+ML3/                                      
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

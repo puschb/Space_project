@@ -1,0 +1,189 @@
+Jonathan's Space Report
+No. 641                                       2011 May 17  Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Progress M-10M cargo supply ship  docked with the Station's Pirs
+module at 1428 UTC on Apr 29. 
+
+Space Shuttle OV-105 Endeavour was launched on mission STS-134 on May
+16. It flew to orbit using solid rocket motors RSRM-113 and External
+Tank ET-122. The RSRMs fell back to the Atlantic and were recovered,
+after arcing into the mesosphere. ET-122, which had been repaired after
+suffering significant damage in its New Orleans factory during Hurricane
+Katrina, reached a 57 x 227 km marginal orbit; after apogee around 1336
+UTC, it reentered at first perigee over the South Pacific at around 1405
+UTC. Endeavour fired its OMS engines at apogee, entering a 231 x 324 km
+x 51.6 deg orbit at 1336 UTC. After a series of rendezvous burns,
+it is approaching the International Space Station for a docking
+planned on May 18.
+
+Endeavour will deliver a set of spare equipment to the Station on the
+ELC-3 carrier, and install the massive AMS-02 particle detector which will
+search for antimatter. The STORRM lidar is a test of rendezvous and
+docking technology  to be used on the future Orion spaceship; MISSE
+experiments are temporarily attached to the Station to study the effects
+of exposing various materials to space. STP-H3 is a set of US Defense
+Dept. experiments in the Space Test Program series, including
+experimental thermal control systems and space environment sensors.
+
+ STS-134 Cargo Bay Manifest
+---------------------------
+                                   Mass
+ External Airlock/ODS            1800? kg
+ EMU spacesuits 3004, 3018        260?
+ RMS arm 201                      410?
+ Orbiter Boom Sensor System       382?
+ Alpha Magnetic Spectrometer     6917
+ STORRM                            17?
+ PPSU-2 electronics box            17?
+ SPDU                              17?
+ ROEU 755 umbilical for ELC-3      90
+ ROEU 751 umbilical for AMS-02     78
+ MISSE carriers (3)               171
+ MISSE 8 experiment                45
+ Express Logistics Carrier:
+  ELC-3 plus support hardware    3207?
+  Cargo Transport Container       476
+  SASA-2R S-band antenna          116    
+  SASA-3R S-band antenna          116    
+  SPDM Arm 3/OCTM                 342
+  SPDM support hardware           269
+  HPGA oxygen tank                552
+  ATA-2 ammonia tank              772
+  STP-H3 experiment package       500?
+ -------------------------------------
+ Total                          16554 kg
+
+Crew of STS-134 are NASA's Mark Kelly, Greg H. Johnson, Mike Fincke,
+Greg Chamitoff, Andrew Feustel, and the European Space Agency's Roberto
+Vittori. Crew of the Space Station are Russian Space Agency astronauts
+Dmitri Kondratev (commander), Andrey Borisenko, Aleksandr Samokutyaev,
+NASA astronauts Cady Coleman and Ron Garan, and ESA astronaut Paolo Nespoli.
+Nespoli and Vittori are both Italian, and Vittori is the first Italian astronaut
+to make three flights. The first Italian astronaut was Franco Malerba, in
+1992 (although 1960s American astronaut Michael Collins was born in Rome).
+
+
+AEHF 1
+------
+
+During late March to late April, the US Air Force's AEHF 1
+communications satellite raised its orbital period from 23 hours to 25
+hours, passing briefly through the geosynchronous range. AEHF 1 was
+launched in 2010 Aug to a supersynchronous transfer orbit of 249 x 50019
+km x 22 deg; after failure of its main  propulsion system, electric
+thrusters have been used to slowly raise the orbit to its current 22923
+x 51539 km x 7.1 deg. Once the perigee has been raised to the 35780 km
+or so needed for geostationary orbit, the apogee will be lowered to
+match and the satellite will return to geosynchronicity.
+
+Meridian
+--------
+
+The fourth Meridian communications satellite was launched on May 4
+into a 978 x 39734 km x 62.8 deg orbit. The Meridian system provides
+communications for the Russian Defense Ministry, and replaces
+the older Molniya satellites.
+
+
+Space-Based Infrared System
+---------------------------
+
+The US Air Force's SBIRS GEO-1 missile early warning satellite was
+launched on May 7. This is the first dedicated satellite in the
+Space-Based Infrared System, which will be the successor to the Defense
+Support Program satellites in operation since 1970. In addition to
+GEO-1, two National Reconnaissance Office satellites in highly
+elliptical orbit, USA 184 and USA 200, carry the SBIRS HEO-1 and SBIRS
+HEO-2 payloads in addition to their main NRO signals intelligence
+payloads.
+
+GEO-1 carries an infrared telescope with a large focal plane infrared
+array to monitor large areas of the Earth at once. An internal movable
+mirror is used to scan the field of view across the visible disk of the
+Earth  looking for possible missile launches. This is in contrast to the
+older spinning DSP satellites, whose telescopes were canted at an angle
+to the spin axis so that the motion of the entire satellite swept the
+field of view around. 23 DSP satellites were launched between 1970 and
+2007.
+
+GEO-1 was inserted into geostationary transfer orbit and will use its
+own on board propulsion to circularize its orbit. The spacecraft is
+based on the Lockheed Martin A2100 bus and uses a Leros-1 apogee
+thruster from the UK company AMPAC (Thanks to Ted Molczan for pointing
+out the Aviation Week story confirming the identity of the thruster.)
+
+    SBIRS program
+    -------------
+    Payload         Launched     Vehicle        Orbit on May 8
+                                                (from hobbyist observations)
+    SBIRS HEO-1     2006 Jun 28  Delta 4M+(4,2) 2343 x 38072 x 63.3
+    SBIRS HEO-2     2008 Mar 13  Atlas V        1629 x 38725 x 63.4
+    SBIRS GEO-1     2011 May  7  Atlas V         185 x 35817 x 21.6
+
+Suborbital launches
+-------------------
+
+The Chinese Space Science and Applications Research Center launched
+its first Tianying-3C sounding rocket from Hainan Island on May 6.
+The rocket carried experiments to study electron density
+and electric fields in the ionosphere. Tianying-3C appears to be
+a single-stage solid rocket roughly comparable to the Japanese S-310.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar  4 1009   Glory  )          Taurus XL 3110     Vandenberg 576E  Climate    F01
+              E1P    )                                              Sci        F01
+              Hermes )                                              Tech       F01
+              KySat-1)                                              Tech       F01
+Mar  5 2246   OTV-2 F1          Atlas V 501        Canaveral SLC41  Spaceplane 10A
+Mar 11 2338   USA 227           Delta 4M+(4,2)     Canaveral SLC37  Comms?     11A
+Mar 22 1135   Fastrac 2                            Fastrac 1, LEO   Tech       62M
+Apr  4 2218   Soyuz TMA-21      Soyuz-FG           Baykonur LC1     Spaceship  12A
+Apr  9 2047   Beidou DW8        Chang Zheng 3A     Xichang          Nav        13A
+Apr 15 0424   USA 229 P/L 1 )   Atlas V 411        Vandenberg SLC3E Sigint     14A
+              USA 229 P/L 2 )                                       Sigint     14B
+Apr 20 0442   Resourcesat 2 )   PSLV               Sriharikota FLP  Imaging    15A
+              Youthsat      )                                       Science    15B
+              X-Sat         )                                       Imaging    15C
+Apr 22 2137   Yahsat 1         ) Ariane 5 ECA      Kourou ELA3      Comms      16A
+              Intelsat New Dawn)                                    Comms      16B
+Apr 27 1305   Progress M-10M    Soyuz-U            Baykonur LC1     Cargo      17A
+May  4 1741   Meridian No. 14L  Soyuz-2-1A         Plesetsk LC43/4  Comms      18A
+May  7 1810   SBIRS GEO-1       Atlas V 401        Canaveral SLC41  Early Warn 19A
+May 16 1256   STS-134 Endeavour Space Shuttle      Kennedy LC39A    Spaceship  20A
+ 
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Mar  1 2100   8 x Mk 5 RV      Trident D-5        USS Nevada, Pacific Test        1000?
+Mar  2 1340   Patriot Target   Juno               Fort Wingate        Target       100?
+Mar 15        Kavoshgar-4      Kavoshgar          Iran                R&D          120
+Mar 16        ARAV-B Target    Terrier Oriole     Kauai               Target       150?
+Mar 23 1850   NASA 36.275UE    Black Brant IX     White Sands         Solar EUV    250?
+Mar 29 0501   TEXUS 49         VSB-30             Kiruna              Micrograv    268
+Apr 15 0652   FTM-15 Target    LV-2               Meck Island         Target      1000?
+Apr 15 0703   FTM-15 KV        SM-3               USS O'Kane, Kauai?  Interceptor  150?
+Apr 27        4 x RV           Sineva             K-84, Barents Sea   Op. Test    1000?
+Apr 27 0800?  NASA 36.278GT    Black Brant IX     Poker Flat          Test         339?
+May  6 2302   Kunpeng-1        Tianying-3C        Hainan              Ionosphere   197
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

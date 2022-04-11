@@ -1,0 +1,122 @@
+Jonathan's Space Report 
+
+No. 122		1992 Jul 13
+
+I'll be in the real Cambridge for the next few weeks; normal service
+will resume in early August.
+------------------------------------------------------------------------------
+
+Shuttle Mission STS-50
+------------------------
+
+Orbiter OV-102 Columbia landed on Runway 33 at Kennedy Space Center
+at 1142:25 UTC Jul 9 (main gear touchdown) after a one day delay due
+to bad weather at Edwards. Mission duration was 13 days 19 h 30 m 4 sec,
+the longest Shuttle flight yet. Columbia now has 2132 flight hours
+in 12 missions, more than any of the other orbiters. The mission beat
+Gemini 7's duration by 55 minutes, making it the longest US spaceflight
+with the exception of the three Skylab missions, although it is
+still very short by Salyut/Mir standards. Bonnie Dunbar now has
+761 h 15 min in 3 flights, more than any US astronaut except
+Brandenstein, Young, and the Skylab astronauts.
+
+
+Erratum: The Shuttle record was broken at 1312 UTC Jul 6 not 1349 UTC as I
+mysteriously reported last week. Some day I'll learn to do arithmetic right :-)
+
+After nearly 10 years, the concept of a reusable Spacelab is taking  on
+more substance. Spacelab Long Module unit 1, the pressurized lab used
+for the USML-1 flight, has now made 4 flights in space. Unit 2, which
+will be used for the SL-J flight later this year, has made only 2
+flights. Spacelab unpressurized pallets have been used on 8 flights,
+but I have been unable so far to trace their re-use history (Any help
+gratefully appreciated).
+
+Giotto 
+------
+
+The European Space Agency probe Giotto encountered comet
+P/Grigg-Skjellerup on 1992 Jul 10 at 1530 UTC. Its trajectory was expected
+to pass 200 km from the nucleus. Giotto flew past P/Halley in
+1986; during that encounter its camera was destroyed, but
+its particles and fields experiments are still working.
+
+
+Mir
+---
+
+Progress M-13 docked with the front port of Mir at 1655 UTC on Jul 4. An initial
+attempt on Jul 2 was a failure. It will remain docked to Mir for only
+a few weeks; on Jul 26 the Soyuz TM-15 will be launched with a replacement
+crew and will use the docking port now occupied by the Progress.
+
+Launches
+--------
+
+General Dynamics' Atlas II Centaur flight AC-103 was launched on Jul 2 around 2200 UTC from
+Launch Complex 36A at Cape Canaveral. It carried the 6th DSCS III communications
+satellite together with an IABS apogee stage; the DSCS III is built by GE Astro Space,
+and owned by the Defense Communications Agency. DSCS stands for Defense Satellite
+Communications System.
+
+Rockwell Navstar GPS satellite 26 was launched at 0920 UTC on Jul 7 by Delta 211 ( a 7925 model)
+from Launch Complex 17B at Cape Canaveral. I don't know the serial number
+of the GPS that was axed by the anti-nuclear activists, does anyone?
+
+Kosmos-2195 was launched on Jul 1 around 2010 UTC. It is a naval navigation satellite built by
+NPO Prikladnoi Mekhaniki of Krasnoyarsk, Russia and launched by a Kosmos
+R-14 booster built by NPO Yuzhnoye of Ukraine. Launch site was Plesetsk,
+Russia. Kosmos-2195 entered the same plane as Kosmos-2135, launched in Feb 1991.
+There are 6 orbital planes in the SNG navy navsat system, and another 4 in the
+parallel civilian Tsikada system. Most recent launches to each plane are as follows:
+
+PLANE	Sat		Launch Date	Orbit		System
+					(km x km x deg)
+
+0	Kosmos-2195	1992 Jul  1	958x1010x83	D76/ Navy
+30	Kosmos-2184	1992 Apr 15	965x1016x83	D75/ Navy
+60	Kosmos-2154	1991 Aug 22	970x1009x83	D72/ Navy
+90	Kosmos-2172	1991 Nov 27	946x1019x83	D73/ Navy
+120	Kosmos-2142	1991 Apr 16	961x1020x83	D71/ Navy
+150	Kosmos-2180	1992 Feb 17	961x1015x83	D74/ Navy
+195	Kosmos-2181	1992 Mar  9	971x1014x83	E23/ Tsikada
+240	Nadezhda (3)	1991 Mar 12	955x1019x83	E22/ Tsikada-KOSPAS
+285	Kosmos-2123	1991 Feb  5	964x1006x83	E21/ Tsikada-RS12,RS13
+330	Nadezhda (2)	1990 Feb 27	953x1021x83	E20/ Tsikada-KOSPAS
+
+A satellite launched at 1000 UTC on Jul 8 from Plesetsk by a Molniya
+launch vehicle is probably an early warning satellite to be called Kosmos-2196.
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 1     STS-52
+OV-103 Discovery       OPF Bay 2     OMDP
+OV-104 Atlantis        LC39B         STS-46  
+OV-105 Endeavour       OPF Bay 3     STS-47
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-46/ET/OV-104   LC39B
+ML2/STS-47             VAB Bay 3
+ML3/		       VAB
+
+
+Thanks to McDonnell Douglas/Huntsville, General Dynamics/San Diego,
+the USNO GPS info service and Ruediger Jehn/ESOC for help in 
+preparing this issue.
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+
+

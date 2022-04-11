@@ -1,0 +1,187 @@
+Jonathan's Space Report
+No. 621                                             2010 Jan 21  Somerville, MA
+----------------------------------------------------------------------------------
+
+Editorial
+---------
+
+This issue completes the first 21 years of JSR. I began the newsletter
+in January 1989, at the request of friends who needed a compact summary
+of space activities with all the technical details. After a few issues
+of email distribution I started making available on the sci.space
+newsgroups and  ftp. After the invention of the Web, I added the html
+page in 1994 (sorry I haven't had the time to update it since then! I'll
+learn CSS sometime in the next few years, I promise.) I'd like to thank
+my thousands of loyal readers for listening to my ramblings, correcting
+my mistakes, and sending me great technical information that I've been
+able to share. I hope you continue to find the JSR useful.
+
+Shuttle and Station
+--------------------
+
+The Expedition 22 crew currently consists of Jeff Williams, Maksim
+Suraev, Oleg Kotov, T.J. Creamer and Soichi Noguchi. Astronauts Suraev
+and Williams undocked from the Zvezda aft port in Soyuz TMA-16 at 1003
+UTC on Jan 21, and flew the spacecraft around the station to dock with
+the new Poisk module on the zenithal side of Zvezda. Soyuz TMA-17 is
+docked with the nadir port on Zarya, Progress M-03M is at the Pirs port,
+and the PMA-2 ports is empty. 
+
+On Jan 11 the SSRMS robot arm was used to move the ESP-3 spare parts pallet
+from the P3 truss to the S3 truss on the other side of the station.
+
+On Jan 14 at 1005 UTC astronauts Suraev and Kotov, in Orlan-MK spacesuits
+No. 4 and No. 5, emerged from the Pirs airlock to prepare the Poisk module
+for use. Two bundles of thermal insulation were jettisoned at around
+1200 and 1410 UTC. The astronauts returned to the airlock and closed the
+hatch at 1549 UTC, completing Russian ISS spacewalk 24.
+
+Beidou
+------
+
+China launched the third geostationary Beidou navigation satellite (di
+san ke beidou daohang weixing) on Jan 16, the world's first orbital
+launch of 2010. The CZ-3C rocket put Beidou DW3 in a 196 x 35620 km x
+20.5 deg transfer orbit. The satellite is also called COMPASS-G1.
+
+WISE
+----
+
+The WISE survey is beginning, with the first light image of a region
+in Carina presented at the AAS meeting last week.
+
+The initial mass of WISE was 661 kg full,
+645 kg dry. JPL's Whitney Clavin reports to me that the ejected cryo
+cover has a mass of 17 kg. The spacecraft is a Ball Aerospace RS-300,
+with heritage from the NextSat satellite launched as part of the Air
+Force's Orbital Express mission. Ball, based in Colorado, has been
+building astronomy satellites since Orbiting Solar Observatory 1 in
+1962.
+
+2010 AL 30
+----------
+
+An apparently asteroidal object cataloged as 2010 AL 30 passed 130000 km
+from the Earth on Jan 13. The object has a solar orbital period of exactly
+one year, but is in an elliptical path which makes repeated close approaches
+to Earth and Venus. Analysis by ESA's Michael Khan suggested that
+it could be the Fregat stage from the Venus Express launch, which passed
+close to Venus in early 2006.  The current orbit for 2010 AL 30 in JPL
+Horizons suggests a pass 1.6M km from Venus on 2006 Feb 26, which would
+not be close enough to be a match. The alternative explanation,
+preferred by the Minor Planet Center, is that it's just a very lucky
+passing rock.
+
+Solar Eclipse
+-------------
+
+The Indian Space Research Organization launched  five RH-300 and two
+RH-560 suborbital rockets on Jan 14-15 to study the solar eclipse of Jan
+15. Four RH-200 mesospheric rockets were also flown. The RH-560 is
+India's largest sounding rocket and is flown from the same Sriharikota
+Island launch site used for India's orbital launches. The other, smaller
+rockets used the Thumba Equatorial Rocket Launch Station (TERLS) site at
+Thiruvananthapuram in Kerala; TERLS was India's first rocket launch
+site, inaugurated in 1963.
+
+Deep Space Probes Status
+-------------------------
+
+On 2010 Jan 1 Voyager 1 was 112.1 AU from the Sun and Voyager 2 was 91.0 AU from
+the Sun. New Horizons is 15.5 AU from the Sun, between the orbits of Saturn and Uranus.
+
+The Cassini spacecraft is in a 155000 x 2300000 km orbit around Saturn,
+after 5.5 years in the Saturnian system. On Dec 28 at 0017 UTC it made
+flyby 123TI/T64 of Titan at a height of 955 km; on Jan 12 at 2310 UTC it
+made Titan flyby 124TI/T65 at a height of 1073 km. Flyby 125TI/T66 is
+scheduled for Jan 28.
+
+The Dawn asteroid probe is in a 1.50 x 1.94 AU x 6.5 deg solar orbit and
+was 1.75 AU from the Sun on Jan 1. It continues to use its ion engines
+to enlarge its orbit and is expected to reach Vesta in 2011. Rosetta is
+in a 0.98 x 5.09 AU x 4.4 deg solar orbit moving outward from the Earth
+towards its Jul 10 flyby of (21) Lutetia. 
+
+Mars Odyssey, Mars Express and the Mars Reconnaissance Orbiter remain
+operating in Mars orbit, with the Spirit and Opportunity rovers sending
+back data from the surface. The Mars Express orbit is 353 x 10333 km x
+86.6 deg; Mars Odyssey is in a 387 x 450 km x 93 deg orbit and  MRO is
+in a 225 x 320 km x 93 deg orbit.
+
+Japan's Hayabusa spacecraft is in solar orbit between Mars and Earth,
+and is targeting a midyear Earth return. The Deep Impact Flyby
+Spacecraft, in a 0.97 x 1.02 AU x 6.7 deg orbit, will encounter comet
+103P/Hartley-2 on Oct 11. Stardust is in a 0.97 x 1.73 AU x 8.5 deg
+orbit and will pass comet P/Tempel 1 in Feb 2011.
+
+The research craft Kepler, STEREO A, STEREO B, and Spitzer are also operating
+in solar orbit close to the Earth, while WMAP, Herschel and Planck are at
+Earth-Sun L2 and SOHO, Wind and ACE are at Earth-Sun L1.
+
+Inside 1 AU, Venus Express continues operating in a 223 x
+66589 km x 90.1 deg Venus orbit, and Messenger is in a 0.31 x 0.57 AU x
+7.0 deg solar orbit setting up for Mercury arrival in Mar 2011.
+
+The Lunar Reconnaissance Orbiter is in a roughly 40 x 60 km x 90 deg orbit around
+the Moon. ARTEMIS P1 (formerly THEMIS P1) was in a 47058 x 356845 km x 59.5 deg
+lunar transfer orbit by Jan 7. ARTEMIS P2 (formerly THEMIS P2) was in a 5518 x 258042 km
+x 6.5 deg high Earth orbit, and will join P1 en route to the Moon. The IBEX
+spacecraft is in a 8038 x 307710 km x 30.3 deg orbit almost at lunar distance.
+
+Japan's small Ouna spacecraft was in low lunar orbit in 2009 but I haven't been able
+to find up-to-date information on it; updates from readers would be welcome.
+
+
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+Dec  6 0147   WGS 3             Delta 4M+(5,4)   Canaveral SLC37B Comms      68A
+Dec  9 0842   Yaogan Weixing 7  Chang Zheng 2D   Jiuquan          Imaging?   69A
+Dec 14 1038   Kosmos-2456 )     Proton-M/DM2     Baykonur LC81    Navigation 70A
+              Kosmos-2457 )                                       Navigation 70B
+              Kosmos-2458 )                                       Navigation 70C
+Dec 14 1409   WISE              Delta 7320       Vandenberg SLC2W Astronomy  71A
+Dec 15 0231   Yaogan Weixing 8) Chang Zheng 4C   Taiyuan          Imaging    72A
+              Xi Wang 1       )                                   Comms      72B
+Dec 18 1626   Helios IIB        Ariane 5GS       Kourou ELA3      Imaging    73A
+Dec 20 2152   Soyuz TMA-17      Soyuz-FG         Baykonur LC1     Spaceship  74A
+Dec 29 0022   DirecTV 12        Proton-M/Briz-M  Baykonur LC200/39 Comms     75A
+Jan 16 1612   Beidou DW3        Chang Zheng 3C   Xichang          Navigation 01A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Dec  9 0645?  RV              Bulava        TK-208, White Sea Test         500?
+Dec 10 1135   RV              Topol'          Kapustin Yar    Test        1000?
+Dec 16        Sejjil RV       Sejjil 2        Iran            Test         800?
+Dec 16 1200?  NASA 12.068GT   Mesquito        Wallops Island  Test          90?
+Dec 17 0325   NASA 41.086UO   Terrier Orion   White Sands     Airglow      130?
+Dec 24        RV x 10?        R-36M2          Yasniy          Test        1000?
+Jan 11 1155?  Target          ?               Jiuquan?        Target       100?
+Jan 11 1200?  Interceptor     DF-21?          Urumqi?         ABM test     100?
+Jan 14 0650   Eclipse         RH-300 Mk II    Thumba          Solar        116 
+Jan 14 0735   Eclipse         RH-300 Mk II    Thumba          Solar        116 
+Jan 14 0745?  Eclipse         RH-560 Mk II    Sriharikota     Solar        548
+Jan 15 0700?  Eclipse         RH-300 Mk II    Thumba          Solar        116 
+Jan 15 0730?  Eclipse         RH-300 Mk II    Thumba          Solar        116 
+Jan 15 0745   Eclipse         RH-560 Mk II    Sriharikota     Solar        523
+Jan 15 1030   Eclipse         RH-300 Mk II    Thumba          Solar        116 
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+

@@ -1,0 +1,191 @@
+Jonathan's Space Report
+No. 653                                       2012 Jan 30 Somerville MA USA
+--------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+Expedition 30 continues with Soyuz TMA-22 docked at Poisk and Soyuz
+TMA-03M docked to the Rassvet module. Progress M-13M undocked from the
+Pirs module on Jan 23 at 2210 UTC into a 375 x 405 km orbit. It made two
+burns to reach a 493 x 508 km orbit, and ejected the Chibis-M scientific
+microsatellite at 2318 UTC on Jan 24. Progress M-13M was then deorbited at
+0225 UTC on Jan 25 into a 56 x 514 km orbit. It entered
+the atmosphere at 0304 UTC, with the debris falling in the South Pacific at
+0318 UTC. Progress M-14M was launched on Jan 25 and docked with the
+Pirs module at 0009 UTC on Jan 28.
+
+FOBOS-GRUNT REENTRY
+-------------------
+
+At 1636 UTC on Jan 15, FG's orbit was 112 x 124 km x 51.4 deg. 
+According to the Russian `space control network' the spacecraft was
+expected to have reentered about 1745 UTC on Jan 15, over the Pacific
+Ocean. Other reports from the Russian `ballistics' calculations
+suggested a slightly later reentry predicted at 1759 UTC over Goias
+state in Brazil.   On Jan 23 Space-Track released an estimate reported
+that entry at 80 km was at 1746 UTC +/- 1 min, off the coast of Chile at
+46S 87W; this estimate seems likely to be reliable and is probably
+derived from DSP infrared sensors (and at least gets credit for quoting
+an error bar). The quoted location matches the final element set's
+ground track at about 1746:40 UTC - I will combined that estimated
+time with the quoted 1 minute error bar.
+
+On Jan 25 ESA announced a reentry time at 10 km of 1745
+UTC, with an uncertainty of +/-7.5 min (1 sigma; personal communication
+from Heiner Klinkrad). Adopting ESA's estimated descent time of 7
+minutes from 80 km to 10 km, this corresponds to an 80 km reentry at
+1738 UTC +/- 7.5min, consistent with the Space-Track value within the quoted
+uncertainties,
+
+Unfortunately you can't use the standard orbit propagators to figure out
+what geographical position the 10-km-altitude time corresponds to, since
+the atmosphere slows the debris down a lot. Models of the UARS reentry
+suggested that the denser debris, which might survive reentry, impacts
+800 to 1200 km downrange from the 80 km point. Taking that as a model
+for FG, and including the +/- 1 minute error range for the initial
+starting point around 1746:40UTC,  I derive a range of 84W 45S to 71W
+38S for the likely position of dense debris impact based on the
+Space-Track (USSTRATCOM) data. This region is in the south-east Pacific
+and stretches  across the Chilean coast north of Valdivia and across the
+Araucania region. to just short of the Chilean/Argentine border
+northeast of Temuco. Taking the centers of the relevant ranges gives a
+point just off  the Chilean coast, near 76W 41S.
+
+I believe it is likely that all the debris hit the ocean, but it's also
+entirely possible that some pieces reached the ground in the Araucania
+region of Chile. Only about 100 kg of the 13000 kg satellite was
+expected to reach the Earth's surface according to Russian sources,
+while the remainder would have burned up and melted high in the upper
+atmosphere.
+
+As you can see, even ten days post-reentry for a well studied event, it
+can be tough to figure out exactly where a  spacecraft came down when it
+has undergone natural reentry from an atmosphere-skimming circular
+orbit. This may be contrasted with deliberate deorbits from higher
+altitude, like the Progress M-13M entry, where the steep angle of entry
+into the atmosphere yields a well-understood time and location.
+
+WGS 4
+-----
+
+The 4th Wideband Global Satcom satellite was launched on Jan 20
+into supersynchronous geostationary transfer orbit. The Boeing 702 satellite 
+provides high bandwidth communications for the US military
+and is operated by US Army Space Command.
+
+Chinese launches
+----------------
+
+On Jan 9 the zi yuan san hao (ZY-3) mapping satellite was launched,
+together with the small 28 kg VesselSat 2, built by LuxSpace for
+Orbcomm's AIS (maritime vessel tracking) system. On Jan 13 ZY-3 was in a
+498 x 506 km x 97.5 deg orbit, Vesselsat-2 in a 489 x 500 km orbit and
+the CZ-4B third stage in a 219 x 487 km orbit. The second Chinese launch
+this month was the fengyun erhao 07 xing (FY-2 satellite 07), also
+called FY-2F. This geostationary weather satellite was launched to a 362
+x 35773 km x 24.3 deg geostationary transfer orbit.
+
+GRAIL and NPP
+---------------
+
+The two GRAIL lunar satellites have been renamed Ebb and Flow, following
+a competition in which school students suggested names. The NPP weather
+satellite has been renamed Suomi NPP after Verner Suomi (1915-1995) who
+was a pioneer of NASA's early weather satellites and flew the
+first cloud cover sensors on Vanguard 2 and Tiros 1.
+
+Passing rock
+-------------
+
+Asteroid 2012 BX34 made a close approach to Earth in a 59023 x -80873 km
+x 80.18 deg hyperbolic orbit (C3 = 87.7 km**2/s**2) at 1525 UTC on Jan
+27, over about 150W 56S. This is sufficiently above GEO altitude that it
+probably didn't come too close to any satellites (the closest pass
+I've found was to OGO 1 at 19000 km distance). It missed Chandra
+by 173000 km - phew! 
+
+
+Suborbital launches
+-------------------
+
+The second Terrier/Improved Malemute flight was launched on Jan 11. The
+T/IM is an uprated version of the Terrier Malemute developed by Sandia
+Labs, which made at least 46 flights between 1974 and 2004. I'm still
+waiting to hear what apogee the new flight reached. JAXA's S-520-26
+launch from Uchinoura released three lithium clouds for upper atmosphere
+studies.
+
+In the last JSR I missed the Dec 10 launch of Webster Cash's CODEX mission,
+NASA 36.274UH, which was flown to get soft X-ray spectra of the Vela
+region.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Dec  1 2107   Beidou DW10       Chang Zheng 3A     Xichang           Navsat    73A
+Dec 11 1117   Amos  5  )        Proton-M/Briz-M    Baykonur          Comms     74A
+              Luch 5A  )                                             DataRelay 74B
+Dec 12 0121   JSE Reda-3 gouki  H-IIA 202          Tanegashima       Radar     75A
+Dec 17 0203   Pleiades HR1 )    Soyuz ST-A         CSG ELS           Imaging   76A
+              Elisa 1      )                                         Sigint    76
+              Elisa 2      )                                         Sigint    76
+              Elisa 3      )                                         Sigint    76
+              Elisa 4      )                                         Sigint    76
+              Fasat-Charlie)                                         Imaging   76
+Dec 19 1641   Nigcomsat 1R      Chang Zheng 3BE    Xichang LC2       Comms     77A
+Dec 21 1316   Soyuz TMA-03M     Soyuz-FG           Baykonur LC1      Spaceship 78A
+Dec 22 0326   ZY-1 02C          Chang Zheng 4B     Taiyuan           Imaging   79A
+Dec 23 1208   Meridian          Soyuz-2-1B         Plesetsk          Comms     F04
+Dec 28 1709   Globalstar M084)  Soyuz-2-1A         Baykonur LC31     Comms     80A
+              Globalstar M080)                                       Comms     80B
+              Globalstar M082)                                       Comms     80C
+              Globalstar M092)                                       Comms     80D
+              Globalstar M090)                                       Comms     80E
+              Globalstar M086)                                       Comms     80F
+Jan  9 0317   ZY-3        )     Chang Zheng 4B     Taiyuan           Imaging   01A
+              Vesselsat 2 )                                          Comms     01B
+Jan 13 0056   FY-2(07)          Chang Zheng 3A     Xichang           Weather   02A
+Jan 20 0038   WGS 4             Delta 4M+(5,4)     Canaveral SLC37B  Comms     03A
+Jan 24 2318   Chibis-M          -                  PM-13M, LEO       Science   62C
+Jan 25 2306   Progress M-14M    Soyuz-U            Baykonur LC1      Cargo     04A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Dec  2 2200   VS30 V08         VS-30              Natal               Space sci?   173?
+Dec  3 0721   ICI-3            VS-30/Orion        Svalbard            Auroral      354
+Dec 10 1030   NASA 36.274UH    Black Brant IX     White Sands         Astronomy    300?
+Dec 19?       MR-30 payload    MR-30              Kapustin Yar        Test         304
+Dec 20 0848   S-310-40         S-310              Uchinoura           Ionosphere   180
+Dec 23        RV x 6?          Bulava             K-535, White Sea    Salvo test  1000?
+Dec 23        RV x 6?          Bulava             K-535, White Sea    Salvo test  1000?
+Dec 27 1200   RV x 6?          UR-100NU           Baykonur            Test        1000?
+Jan 11 1325   NASA 12.074GT    Terrier Malemute   Wallops             Test         500?
+Jan 12 1451   S-520-26         S-520              Uchinoura           Atm Sci      298
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+
+
+
+
+
+
+
+
+
+

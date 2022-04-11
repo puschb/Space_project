@@ -1,0 +1,188 @@
+Jonathan's Space Report
+No. 682                                                    2013 Jul 16, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 36 is underway. The crew are commander Pavel Vinogradov, 
+Flight Engineers FE-2 Alexandr Misurkin, FE-3 Chris Cassidy, FE-4
+Yurchikin, FE-5 Parmitano and FE-6 Nyberg. Ferry ship Soyuz TMA-08M is
+at Poisk and TMA-09M at Rassvet. Cargo ship Progress M-18M is at the
+Pirs module and ATV-4 is at the Zvezda module.
+
+Astronauts Cassidy and Parmitano made spacewalk US EVA-22 on Jul 9 from the Quest
+airlock, using EMU suits 3010 and 3011 respectively (thanks to A. Krasilnikov for
+data). The airlock was depressurized at 1200 UTC and repressurized at 1809 UTC.
+The astronauts repaired one of the two S-band space-to-ground communications
+systems by replacing its SGTRC electronics box with a spare that had been stored
+inside the Station for some time. Then they retrieved the two parts of the MISSE-8
+exposure experiment, the PEC `suitcase' and the ORMATE-III installation, and 
+installed the two Radiator Grapple Bars delivered by the last Dragon cargo
+ship. The RGB package had been stored on the Mobile Base System; the two bars
+were moved to the base of the thermal radiators on the port and starboard 
+truss sections. A `Y-bypass jumper' was wired into the Z1 truss to allow
+aspects of the station's power system to be rerouted remotely without requiring
+a future spacewalk. Finally, a multi-layer-insulation (MLI) cover was wrapped over
+the old PMA-2 docking port, formerly used by visiting Shuttles, to protect it
+for future use. 
+
+Cassidy and Parmitano made another spacewalk, US EVA-23, on Jul 16. It
+was planned to last over six hours but was cut short when water started
+leaking into Parmitano's helmet. The airlock was depressurizd at about
+1154 UTC with hatch open at 1156 UTC. Cassidy and Parmitano completed
+their first tasks involving external cabling, when at 1242 UTC Parmitano
+reported water in his helmet. The problem  got worse, and EVA work was
+paused at 1254 UTC; at 1306 UTC the decision was made to come back
+inside.
+ There are two ways to do this, 'terminate', which involves tidying up
+and returning at a normal pace, and 'abort', which would involve leaving
+things in a mess, skipping some of the normal checks, and doing a fast
+repressurization. Mission Control elected to go with the more leisurely
+method. Parmitano was inside the airlock by 1312 UTC, with Cassidy in by
+1321 UTC and the hatch closed at 1326 UTC. At this stage there was so
+much water in Parmitano's helmet that he could neither see airlock
+switches nor communicate with the ground, and concern for his safety
+increased. Airlock repressurization began at 1329 UTC and the internal
+hatch was opened at 1337 UTC, followed by `expedited suit doffing', with
+astronauts Nyberg and Yurchikin removing Parmitano's helmet and mopping
+up the water with towels.
+
+NASA's public affairs commentator, during this process, repeatedly
+claimed that the crew were not in danger. Let's recall that you're
+falling through vacuum at 27000 kph,  300 km above a planetary
+atmosphere, with only a few layers of fabric between you and certain
+death, in an environment awash with sharp-edge hazards and thermal
+challenges, and  with a scant few hours of air supply even if the
+equipment in your suit works just fine. Now you're suddenly blind,
+unable to communicate, and trying to breathe water. To quote Arthur Dent
+as penned by Douglas Adams, "this must be some new meaning of the word
+<safe> that I wasn't previously aware of." Kudos is due to the professionalism
+of the astronauts and the ground team in working through this emergency
+calmly and effectively - although I might have argued for the faster
+repress.
+
+Parmitano's suit, EMU 3011, was first flown on STS-96 in 1999; after two previous
+tours as a Station suit in 2002-2006 and 2008-2009, it was relaunched on STS-132
+in May 2010 and has been on board the ISS since then. Cassidy's suit has been
+in space since 2009. There are two other US EMU suits and three Russian Orlan
+suits on the station.
+
+
+Proton failure
+--------------
+
+The dramatic failure of a Proton-M rocket launched from Baykonur on Jul
+2  came seconds after launch when it went off course and powered itself
+downwards into the steppe. By a few seconds after launch the rocket was
+unstable in pitch and then began swinging to one side and then the
+other; by 17 seconds the vehicle was flying horizontally and then
+heading downwards. The payload section disintegrated at about T+24s and
+broke off due to aerodynamic forces seconds before the rocket impacted
+the ground and exploded at around T+32s, under 2 km from the blockhouse
+and near the Rokot/Strela silos at area 175.  Reports indicate that
+no-one was injured in the accident. Preliminary investigations suggested
+that the launch occurred 0.4 seconds early (or at least one of the pad
+cable connections separated), when the engines were not yet at full
+thrust, but later reports claim instead that the problem was with
+angular velocity sensors being physically installed upside-down, fooling
+the  rocket's flight control system and causing the unstable flight.
+
+The payload second consisted of the Blok DM-03 No. 2L upper stage carrying
+three Uragan-M (Glonass-M) navigation satellites, nos. 48, 49 and 50.
+The previous Proton-M/DM-03/Glonass launch, in 2010, also failed, but less
+spectacularly.
+
+(Anatoliy Zak at russianspaceweb.com provides excellent and detailed analysis).
+
+SJ-11-5
+--------
+
+China launched `Shijian shiyi hao 05 xing',  another Shi Jian 11
+satellite, on Jul 15. It is the 5th in a series of what are suspected to
+be infrared-telescope-equipped missile early warning satellites, and
+replaces the 4th spacecraft which was lost in a launch failure. Two
+objects have been cataloged; A, the final stage rocket, in a 684 x 749
+km x 98.1 deg orbit and B, the payload, in a 680 x 703 km x 98.1 deg
+orbit; the designations will be switched when the US JSPOC realizes which
+is which. The constellation's current status, including the local time
+of descending node (LTDN) of the sun-synchronous orbits, is:
+
+    Satellite   Launch date   Orbit                    LTDN 
+                                                      (launch) (now)
+    SJ-11 01    2009 Nov 12   685 x 702 km x 98.1 deg  09:00  09:02
+    SJ-11 03    2011 Jul  6   687 x 702 km x 98.2 deg  10:45  10:50
+    SJ-11 02    2011 Jul 29   685 x 703 km x 98.2 deg  14:00  13.47
+    SJ-11 04    2011 Aug 18   Launch failure           15:44 (planned)
+    SJ-11 05    2013 Jul 15   688 x 704 km x 98.1 deg  15:44  15:44
+
+
+IRNSS-1A
+--------
+
+The third stage of the PSLV-XL for this mission was marginally orbital
+and reentered off the coast of South America. Orbit was somewhere between -22 x 190 km
+and +60 x 190 km.
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Jun  3 0918   SES-6              Proton-M/Briz-M  Baykonur LC200/39 Comms       26A
+Jun  5 2152   ATV-4              Ariane 5ES       Kourou ELA3       Cargo       27A
+Jun  7 1837   Kosmos-2486        Soyuz-2-1B       Plesetsk LC43/4   Imaging     28A
+Jun 11 0938   Shenzhou 10        Chang Zheng 2F   Jiuquan           Spaceship   29A
+Jun 25 1728   Resurs-P           Soyuz-2-1B       Baykonur LC31/6   Imaging     30A
+Jun 25 1927   O3b SC1/PFM)       Soyuz ST-B       Kourou ELS        Comms       31A
+              O3b SC2/FM2)                                          Comms       31B
+              O3b SC3/FM4)                                          Comms       31C
+              O3b SC4/FM5)                                          Comms       31D
+Jun 27 1653   Kosmos-2487        Strela           Baykonur LC175    Radar       32A
+Jun 28 0227   IRIS               Pegasus XL       L1011, Vandenberg Solar       33A
+Jul  1 1811   IRNSS-1A           PSLV-XL          Sriharikota LP1   Navigation  34A
+Jul  2 0238   Glonass-M No. 48 ) Proton-M/DM-03   Baykonur LC81/24  Navigation  F02
+              Glonass-M No. 49 )                                    Navigation  F02
+              Glonass-M No. 50 )                                    Navigation  F02
+Jul 15 0927   SJ-11-05           Chang Zheng 2C   Jiuquan           Early Warn  35A
+
+Suborbital launches
+-------------------
+
+NASA's Daytime Dynamo experiment was carried out on Jul 4, with two
+rockets launched into the ionosphere. A Missile Defence Agency test on
+Jul 5 was a failure; a GBI rocket (using Pegasus stages) carrying a
+kinetic kill vehicle (EKV), launched from Vandenberg AFB in California,
+did not intercept the target launched from Kwajalein Atoll in the
+Pacific; it's not yet officially public whether this was a problem with the EKV or the
+rocket, although the website missiledefenseadvocacy.org is reporting that the
+GBI rocket's third stage failed to separate (presumably, from the EKV, although
+they might mean from the second stage).
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jun  6 0305   CIBER            Black Brant XII     Wallops I.        IR Astron    577
+Jun  6 1745   RV               Rubezh              Kapustin Yar      R&D launch  1000?
+Jun 20 0930   NASA 40.106UO    Terrier Imp. Orion  Wallops I.        Education    118
+Jun 21 1357   SL-7/FOP-1       SpaceLoft XL        Spaceport America Tech         119
+Jul  4 1431   NASA 21.140GE    Black Brant V       Wallops I.        Ionosphere   135?
+Jul  4 1431   NASA 41.090GE    Terrier Imp. Orion  Wallops I.        Ionosphere   160?
+Jul  5        FTG-07 Target?   LV-2?               Kwajalein         Target      1000?
+Jul  5        FTG-07 CE-I EKV  GBI                 Vandenberg        Intercept   1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm at cfa                |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

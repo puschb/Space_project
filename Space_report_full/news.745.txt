@@ -1,0 +1,329 @@
+Jonathan's Space Report 
+No. 745                                                      2018 Feb  8  Somerville, MA
+---------------------------------------------------------------------------------------------
+International Space Station
+---------------------------
+
+Expedition 54 continues with ISS Commander Aleskandr Misurkin and flight
+engineers Mark Vande Hei, Joe Acaba, Anton Shkaplerov, Scott Tingle and
+Norishige Kanai.
+
+Vande Hei and Tingle made spacewalk EVA-47 on Jan 23, using suits EMU 3003
+and 3004, to replace the LEE-B robot hand on the Canadarm-2. They
+removed LEE 201 and stowed it on External Stowage Platform 2; they then
+took LEE 204 off ESP-2 and installed it on the arm, making it the new
+LEE B. Unfortunately, according to a report by nasaspaceflight.com, the
+new LEE has been having problems and the swap may need to be reversed.
+The Quest airlock was depressurized around 1145 UTC and repressurized at
+1913 UTC.
+
+Misurkin and Shkaplerov, in suits Orlan-MKS 4 and Orlan-MK 6, made
+spacewalk VKD-44 on Feb 2. They depressurized Pirs by around 1511 UTC
+and opened the hatch at 1534 UTC. The astronauts floated to the aft end
+of Zvezda and replaced a receiver box on the large ONA (Lira)  antenna.
+The ONA can be moved into four defined positions at 90 degrees from one
+another; it was launched in 2000 with the antenna stowed pointing down,
+blocking the aft docking port, and then moved 90 deg to position 1,
+where I believe it has stayed since. The ONA was moved back to launch
+position for the work. The old box was jettisoned into orbit at 1941
+UTC. After the new ShA-317A-II box was installed, ONA refused to return
+to its original position 1, snagging on an old ATV rendezvous target.
+Eventually it was freed, but ended up in position 3, 180 degrees from
+that intended; this was deemed acceptable for the time being. The
+astronauts closed the hatch at 2347 UTC and repressurized the airlock at
+2353 UTC.
+
+This was a record duration Russian EVA using the Roskosmos criterion of
+hatch open/hatch closed, 8hr 13 min; it is the 4th longest EVA ever by
+this criterion, after STS-102 EVA1, STS-49 EVA-3, and ISS US EVA-18.  By
+the criterion I use myself (50 mbar depress to repress) it is the second
+longest spacewalk by anyone, 8hr 42min - the record is held by Helms and
+Voss on STS-102 EVA-1 at 9h 00min. It should be noted that Helms and
+Voss spent a lot of time in the depressurized airlock instead of being
+outside - I count that, because I see work in a depressurized
+environment as the interesting thing. If you only care about being
+actually outside the spacecraft, I believe (my figures are not so
+accurate for this) the record is 8h 23min, shared by Thout and Hieb
+during STS-49 EVA-3. In these egress-to-ingress rankings Misurkin is in
+13th place at about 7h42min, and Shkaplerov shares 14th place with
+Hoshide at about 7h38min.
+
+
+Ariane anomaly
+--------------
+
+Ariane flight VA241, using vehicle L5101, was launched from Kourou on Jan 25
+carrying the SES-14 and Al Yah 3 communications satellites. The rocket appears
+to have flown on a wildly incorrect azimuth, heading southeast instead of east,
+and although the payloads were inserted into geotransfer orbit with a near-correct
+apogee and perigee, the orbital inclination was 20 degrees instead of 3 degrees.
+This will require the satellites to use a lot of extra propellant to reach their
+final geostationary locations. 
+
+Arianespace has not yet explained the error but it is hard to see any way for this
+to happen other than a mission planning/preparation error in which the rocket was
+commanded to fly on an incorrect launch azimuth. In general accordance with the
+rules I defined in JSR 669, with this launch falling at the low end of the
+'orbit usable but not nominal' range, I am giving the launch a 0.65 score.
+This gives the Ariane 5 overall a score of 96.8 percent over 97 launches;
+the Ariane 5 ECA model has 97.9 percent over 65 launches.
+
+Falcon Heavy
+------------
+
+The first Falcon Heavy launch was successfully carried out on Feb 6 at 2045 UTC.
+The vehicle used center core stage B1033, with two side cores made
+from reused Falcon 9 first stages: B1023 and B1025. The side cores
+landed back simultaneously at landing zones LZ-1 and LZ-2, located on the
+site of the Cape's old Pad 13. The center core aimed for the drone ship Of Course
+I Still Love You, but missed it by 100 metres when two of the three engines
+to be used for the landing burn failed to restart. Stage 2 fired
+to enter a low parking orbit, probably around 185 x 185 km x 29.0 deg,
+at 2053 UTC. After a coast to the equator, stage 2 made its second burn at 2113 UTC
+to place itself in a 184 x 6953 km x 29.0 deg orbit, taking it into the Van Allen
+belts. Falcon spent two orbits of the Earth in this elliptical path. On approach
+to second perigee, at 0230 UTC Feb 7, the stage was passing over Los Angeles
+when it reignited for the third burn, placing it on an escape trajectory.
+
+Attached to the second stage payload adapter was Elon Musk's Tesla
+Roadster car, together with a SpaceX prototype spacesuit containing a
+mannequin named Starman, and several cameras. I assume the Roadster
+remains attached to the second stage and has not separated, but this has
+not been confirmed.
+
+The escape orbit is 717 x -79898 km x 28.9 deg with a C3 of 12.0 km**2/s**2.
+Roadster passes the orbit of the moon 0419 GMT  Feb 8; it leaves the
+Earth-Moon system (Hill sphere) 1800 GMT Feb 11 to enter a 0.99 x 1.71 AU
+x 1.1 deg heliocentric orbit. Roadster passes the orbit of
+Mars in Jul 2018, reaching aphelion on Nov 19.
+
+Congratulations to SpaceX and thanks to them for providing trajectory data;
+asteroid observers are trying to pick up the object.
+
+ASNARO-2
+--------
+
+On Jan 17 the Japanese space agency JAXA launched the third Epsilon rocket
+carrying the Asnaro-2 radar satellite to orbit. Asnaro-2 is operated by
+the trade ministry's USEF space applications center.
+
+CZ-11
+-----
+
+The CALT Chang Zheng 11 rocket made its third flight on Jan 19, placing
+two more Jilin-1 video satellites in orbit as well as 4 cubesats.
+
+- Jilin-1 Shipin 07, 08 xing (Jilin-1 Video 7 and 8), imaging sats
+  for Chang Guang Satellite Technology Ltd (CGSTL) in Changchun, Jilin province.
+- Hunan xiangjiang xinqu hao weixing  (Hunan Xiangjiang New Area satellite, also Tianyi-2),
+  a 6U cubesat with technology experiments.
+  developed by Tianyi Research Institute in Changsha, Hunan province,
+- Quan Tu Tong 1 (also Tianyi-6), a 6U cubesat for search-and-rescue service experiments 
+  built by Changsha-based Tianyi for Beijing-based Quan Tu Tong Co
+  (``Full Map Network Co.'') It carries navigation, comm, imaging, AIS, and amateur radio payloads
+- KIPP, a 3U cubesat for Kepler Communications of Toronto, to server as a pathfinder for their 
+  proposed constellation. The satellite is named in honor of a fictional robot, 
+  from the movie 'Interstellar'.
+- Huia'an hao Enlai xing, a 2U cubesat from schoolkids at Huai'an Youth Comprehensive Development Base,
+  Jiangsu province, and named in honour of Zhou Enlai who was from the area. It has a drag brake experiment.
+
+ The satellites were launched to 500 km SSO; as with the previous CZ-11 mission, some objects were
+ also placed in higher apogee 530 x 1070 km orbits; these are probably separation motor covers.
+
+
+SBIRS
+-----
+
+United Launch Alliance flew Atlas mission AV-076 on Jan 20 to place the SBIRS GEO-4 missile
+early warning satellite in geotransfer orbit. The Centaur stage made an additional maneuver
+at 0202 UTC to lower its perigee, and reentered around 1013 UTC over the Pacific SW of Hawaii.
+
+RocketLab
+---------
+
+The RocketLab Electron launch vehicle reached a successful orbit on only its second mission
+on Jan 21. The `Still Testing' mission carried RocketLab's Humanity Star (a 1-meter
+polyhedron designed for high visibility) and three cubesats - Dove Pioneer (satellite 0F1C)
+for Planet, and two SpireGlobal Lemur-2 satellites. Dove and Humanity Star were deployed
+in elliptical orbit; a previously undisclosed third stage then fired to circularize the orbit
+at 500 km and deployed the Lemurs. 
+
+I have included 'Still Testing' in the launch list as a satellite, since the stage probably
+carried diagnostic equipment to measure the launch environment.
+
+Yaogan-30 group 4
+------------------
+
+The fourth triplet of Yaogan-30 Group satellites, CX-5-10 to CX-5-12, were launched on
+Jan 25. A small sub-payload was also deployed, Weina-1, also called CX-6-6.
+
+GovSat-1
+--------
+
+SpaceX launched a Falcon 9 on Jan 31, delivering the GovSat-1 payload to geotransfer orbit.
+GovSat-1, also known as SES-16, is an OrbitalATK Geostar-3 payload for X- and Ka- band
+military communications. It is owned by LuxGovSat S.A., a joint venture of the Luxembourg
+government and SES.
+
+Kanopus/Soyuz
+-------------
+
+The third orbital launch from Russia's Vostochniy spaceport was a success, following
+the failure of a Soyuz-2-1B/Fregat launch in November. This time the rocket was a Soyuz-2-1A/Fregat.
+The Soyuz third stage was suborbital; the Fregat made two burns to a circular 505 km orbit
+and deployed two imaging satellites in the Russian government's Kanopus-V series. After two
+more Fregat burns to a 580 km orbit, 9 small satellites were deployed: four 8 kg, 24-cm S-NET
+satellites for the Technical University of Berlin, four 3U cubesats for Spire Global, and a reflight
+of the D-Star One communications cubesat design for German Orbital Systems, whose first D-Star One was lost
+in the failure of the previous Vostochniy launch.
+
+
+
+SS-520-5
+--------
+
+JAXA/ISAS launched the SS-520-5 rocket from Uchinoura on Feb 3. The 2.6
+tonne vehicle is the lighest orbital launch vehicle by a wide margin
+(ISAS' 9-tonne Lambda 4S was previously the record holder). Payload is a
+single 3U cubesat with a store-forward communications experiment.
+TRICOM-1R, for the University of Tokyo, was named Tasuki after reaching
+its 187 x 2012 km x 30.1 deg orbit.
+
+
+Zuma redux
+----------
+
+Bill Harwood (CBS) notes that NRO has denied ownership of Zuma.
+However, it could still be that NRO is the customer for the data and the
+contractor, e.g. Northrop Grumman, was to operate the satellite on NRO's
+behalf. Other possibilities are that, after 50 years of subsuming its
+space activities within NRO, CIA is back to having its own satellites;
+or that a new US secret agency has started space activities. Some have
+suggested the possibility that the satellite is actually  for a foreign
+ally of the US, but this seems unlikely to me as the most obvious
+suspects have been pretty open about their military satellites.
+
+Orbituary
+---------
+
+The 8-tonne Zenit second stage rocket from the December launch of
+Angosat-1 reentered at 2337 UTC Jan 27 over the Ucayali region of Peru.
+This is likely to be one of the two biggest uncontrolled reentries this
+year, along with Tiangong-1 whose reentry is currently expected in late
+March.
+
+(thanks to Collin Krum for the idea for the section name.)
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+Jan  8 0100   Zuma (USA 280)          Falcon 9          Canaveral LC40   Radar?       01A   S43098  1000?x  1000?x  50.0
+Jan  9 0324   Gaojing-1 03 )          Chang Zheng 2D    Taiyuan          Imaging      02A   S43099   523 x   536 x  97.6
+              Gaojing-1 04 )                                             Imaging      02B   S43100   510 x   529 x  97.6
+Jan 11 2318   Beidou DW 26  )         Chang Zheng 3B    Xichang          Navigation   03A   S43107 21538 x 22194 x  55.0 
+              Beidou DW 27  )                                            Navigation   03B   S43108 21543 x 22194 x  55.0
+Jan 12 0359   Cartosat 2ER    )       PSLV-XL          Satish Dhawan FLP Imaging      04A   S43111   495 x   510 x  97.6  0930LT
+              INS-1C          )                                          Imaging      04             495 x   508 x  97.6
+              LEO Vantage 1   )                                          Comms        04C   S43113   495 x   508 x  97.6
+              ICEYE-X1        )                                          Radar        04D   S43114   495 x   508 x  97.6
+              VividX2         )                                          Imaging      04E   S43115   495 x   508 x  97.6
+              Arkyd-6A        )                                          Imaging      04V   S43130   495 x   508 x  97.6
+              CICERO 7        )                                          Weather      04AJ  S43143   495 x   508 x  97.6
+              Landmapper-BC3  )                                          Imaging      04H   S43118   495 x   508 x  97.6
+              PICSAT          )                                          Astronomy    04W   S43131   495 x   508 x  97.6
+              Tyvak-61C       )                                          Astronomy    04AK  S43144   495 x   508 x  97.6
+              CANYVAL-X1/X2   )                                          Tech         04             495 x   508 x  97.6
+              CNUSail-1       )                                          Tech         04             495 x   508 x  97.6
+              STEP Cube Lab   )                                          Tech         04             495 x   508 x  97.6
+              KAUSAT-5        )                                          Imaging      04             495 x   508 x  97.6
+              KHUSAT-3        )                                          Tech         04             495 x   508 x  97.6
+              Fox-1D (AO-92)  )                                          Comms        04AC  S43137   495 x   508 x  97.6
+              Micromas-2A     )                                          Science      04X   S43132   495 x   508 x  97.6
+              DemoSat-2       )                                          Comms        04             495 x   508 x  97.6
+              SpaceBEE-1      )                                          Comms        04             495 x   508 x  97.6
+              SpaceBEE-2      )                                          Comms        04             495 x   508 x  97.6
+              SpaceBEE-3      )                                          Comms        04             495 x   508 x  97.6
+              SpaceBEE-4      )                                          Comms        04             495 x   508 x  97.6
+              Lemur-2-PeterWebster)                                      AIS/Weather  04P   S43124   495 x   508 x  97.6
+              Lemur-2-DaveWilson  )                                      AIS/Weather  04R   S43126   495 x   508 x  97.6
+              Lemur-2-McCafferty  )                                      AIS/Weather  04N   S43123   495 x   508 x  97.6
+              Lemur-2-BrownCow    )                                      AIS/Weather  04Q   S43125   495 x   508 x  97.6
+              Flock 3p'-1       )                                        Imaging      04L   S43121   495 x   508 x  97.6
+              Flock 3p'-2       )                                        Imaging      04K   S43120   495 x   508 x  97.6
+              Flock 3p'-3       )                                        Imaging      04J   S43119   495 x   508 x  97.6
+              Flock 3p'-4       )                                        Imaging      04M   S43122   495 x   508 x  97.6
+              Microsat-TD     )                                          Imaging      04T   S43128   346 x   371 x  96.9
+Jan 12 2211   USA 281                 Delta 4M+(5,2)    Vandenberg SLC6  Radar        05A   S43145  1052 x  1053 x 106.0
+Jan 13 0710   Ludi Kancha Weixing 3   Chang Zheng 2D    Jiuquan          Imaging      06A   S43146   496 x   506 x  97.3 1330LT
+Jan 17 2106   ASNARO 2                Epsilon           Uchinoura        Radar        07A   S43152   493 x   506 x  97.4 0546LT
+Jan 19 0412   Jilin-1 Shipin 07 )     Chang Zheng 11    Jiuquan          Imaging      08A   S43155   523 x   547 x  97.5 1030LT
+              Jilin-1 Shipin 08 )                                        Imaging      08B   S43156   523 x   547 x  97.5 1030LT
+              KIPP              )                                        Comms        08    S43157?  523 x   547 x  97.5 1030LT
+              Huai'an           )                                        Education    08    S43158?  523 x   547 x  97.5 1030LT
+              Quan Tu Tong 1        )                                    SAR          08    S43159?  523 x   547 x  97.5 1030LT
+              Hunan xiangjian xinqu )                                    Tech         08    S43160?  523 x   547 x  97.5 1030LT
+Jan 20 0048   SBIRS GEO-4             Atlas V 411       Canaveral SLC40  Missile Warn 09A   S43162   185 x 35851 x 16.9
+Jan 21 0143   Dove Pioneer         )                                     Imaging      10A   S43163   288 x   533 x 82.9
+              Lemur-2-Tallhamn-ATC )  Electron          Mahia            AIS/Weather  10B   S43164?  497 x   533 x 82.9
+              Lemur-2-Marshall     )                                     AIS/Weather  10C   S43165?  497 x   533 x 82.9
+              Still Testing        )                                     Tech         10E?  S43166?  497 x   533 x 82.9
+              Humanity Star        )                                     Advertising  10F?  S43168   288 x   533 x 82.9
+Jan 25 0539   Chuangxin-5 10 )        Chang Zheng 2C    Xichang          Sigint?      11B   S43170   591 x   602 x 35.0
+              Chuangxin-5 11 )                                           Sigint?      11C   S43171   591 x   602 x 35.0
+              Chuangxin-5 12 )                                           Sigint?      11D   S43172   591 x   602 x 35.0
+              Chuangxin-6 6  )                                           Tech?        11A   S43169   594 x   602 x 35.0
+Jan 25 2220   SES-14   )              Ariane 5ECA       Kourou ELA3      Comms        12A?  S43174   230 x 43164 x 20.7
+              Al Yah 3 )                                                 Comms        12B?  S43175   344 x 43203 x 20.5
+Jan 31 2125   GovSat-1                Falcon 9          Canaveral SLC40  Comms        13A   S43178   300?x 35800?x 25.0?
+Feb  1 0207   Kanopus V-3         )   Soyuz-2-1A/Fregat Vostochniy       Imaging      14A   S43180   500 x   511 x 97.5 2323LT
+              Kanopus V-4         )                                      Imaging      14B   S43181   500 x   510 x 97.5 2323LT
+              S-NET 1             )                                      Comms        14    S43182?  571 x   589 x 97.7
+              S-NET 2             )                                      Comms        14    S43183?  571 x   589 x 97.7
+              S-NET 3             )                                      Comms        14    S43184?  571 x   589 x 97.7
+              S-NET 4             )                                      Comms        14    S43185?  571 x   589 x 97.7
+              Lemur-2-Kadi        )                                      AIS/Weather  14    S43186?  570? x  590?x 97.7?
+              Lemur-2-TheNickMolo )                                      AIS/Weather  14    S43187?  570? x  590?x 97.7?
+              Lemur-2-Jin-Luen    )                                      AIS/Weather  14    S43188?  570? x  590?x 97.7?
+              Lemur-2-UramChanSol )                                      AIS/Weather  14    S43189?  570? x  590?x 97.7?
+              D-Star One Phoenix  )                                      Tech         14    S43190?  570? x  590?x 97.7?
+Feb  2 0751   Zhang Heng 1  )         Chang Zheng 2D    Jiuquan          Science      15A   S43192   489 x   509 x 97.3 1411LT
+              Ada           )                                            Imaging      15    S43193?  493 x   504 x 97.2
+              Maryam        )                                            Imaging      15    S43194?  488 x   508 x 97.3
+              Ulloriaq      )                                            AIS/Imaging  15    S43195?  486 x   508 x 97.3
+              GOMX-4B       )                                            Tech         15    S43196?  483 x   507 x 97,3
+              Shaonian Xing )                                            Tech         15    S43197?  483 x   507 x 97,3
+              FengMaNiu 1   )                                            Tech         15    S43199?  485 x   507 x 97.3
+Feb  3 0503   Tasuki                  SS-520            Uchinoura        Com          16A   S43201   186 x  2012 x 30.9
+Feb  6 2045   Elon's Roadster         Falcon Heavy      Kennedy LC39A    Test         17A   S43205   717 x-79898 x 28.9
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Dec 12 1659   New Shepard CC2   New Shepard        West Texas            Test           99       West Texas
+Dec 19        RV/Warhead        Burkan 2H          Sa'dah                Weapon        150?      Riyadh
+Dec 26 0330?  RV                Topol'-E?          Kapustin Yar          Test         1000?      Balkhash?
+Jan 18 0423   RV                Agni V             Kalam Island          Test         1000?      Indian Ocean
+Jan 19 1217   DXL-3             Black Brant 9      Poker Flat            XR Astron     230       Alaska
+Jan 26 1411   Super Soaker 1    Terrier Imp Orion  Poker Flat            Aeronomy      160?      Alaska
+Jan 26 1458   Super Soaker 2    Terrier Imp Orion  Poker Flat            Aeronomy      100?      Alaska
+Jan 26 1459   Super Soaker 3    Terrier Imp Orion  Poker Flat            Aeronomy      160?      Alaska
+Jan 31        FTM-29 Target     IRBM Target?       C-17, Pacific?        Target        300?      Pacific
+Jan 31        FTM-29 KV         SM-3 Block IIA     Kauai                 Interceptor      ?      Intercept (failed)
+Feb  5        Target            B-611?             Jiuquan?              Target        300?      Urumqi?
+Feb  5        Interceptor       DF-21              Urumqi?               Interceptor   100?      Intercept
+Feb  6 0300   Agni RV           Agni I             Kalam Island          Test          300?      Bay of Bengal         
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

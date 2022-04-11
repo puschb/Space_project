@@ -1,0 +1,312 @@
+Jonathan's Space Report
+No. 792                                                            2021 May  10  Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+On Apr 23 at 0949:02 UTC SpaceX launched a Falcon 9 from Kennedy Space
+Center LC39A with the Dragon SpX Crew-2 mission. Booster B1061, on its
+2nd flight, landed on the droneship Of Course I Still Love You. The
+second stage reached a 190 x 213 km x 51.6 deg orbit 8m49s after launch
+The Crew Dragon payload consists of Crew Dragon capsule C206
+"Endeavour", on its second flight, and a new Crew Dragon Trunk (the 4th)
+on its first and only flight. Aboard C206 were astronauts Shane
+Kimbrough (NASA), Megan McArthur (NASA), Akihiko Hoshide (JAXA) and Thomas Pesquet (ESA).
+The second stage was deorbited on the first orbit and reentered west of Australia.
+
+Endeavour reached a rendezvous with the ISS at a range of 400 metres at 0820 UTC Apr 24,
+and docked with the IDA-2/PMA-2 port at 0908 UTC.
+
+On May 2 at 0035 UTC Resilience undocked from IDA-3/PMA-3 with the
+Crew-1 astronauts Hopkins, Glover, Noguchi, and Walker. Resilience made
+burns at 0040, 0128, 0214 and 0407 UTC lowering its orbit slightly to
+about 400 km. At 0558 UTC the Dragon trunk was jettisoned into a 406 x
+411 km orbit. The SpaceX commentary implied the trunk and the deorbit
+propellant total 6000 lb (about 2700 kg) and the Dragon entry mass was
+21000 lb (9500 kg); since I estimate the deorbit prop needed to be about
+ 400 kg, that would imply the trunk mass is a surprisingly large 2300
+kg.
+
+Dragon's deorbit burn was frmom 0603:12 to 0619:39 UTC and decreased the spaceship's
+velocity by 115.2m/s; entry interface was at 0645 UTC and the vehicle splashed down off the
+coast of Panama City, Florida, near 86.0W 29.75N, at about 0656:43 UTC May 2.
+
+OneWeb
+------
+
+36 OneWeb satellites were launched on Apr 25 aboard a Soyuz from
+Vostochniy into a 444 x 454 km x 87.4 deg parking orbit.
+
+USA 314
+--------
+
+On Apr 26 United Launch Alliance launched a Delta 4 Heavy from
+Vandenberg AFB's Space Launch Complex 6 on mission NROL-82. The rocket
+placed a heavy National Reconnaissance Office payload codenamed USA 314
+in a 525 x 758 km x 98.0 deg, 1300 LTDN sun-synchronous orbit. USA 314
+is thought to be a version of the CRYSTAL imaging space satellite.
+
+CZ-6
+----
+
+China's SAST launched  Chang Zheng 6 no. Y5 from Taiyuan on Apr 27, placing 9 satellites in 
+a 1030 LTDN sun-synch orbit:
+
+  Qilu-1, radar imaging satellite for the Shandong Industrial Technology Research Institute.
+
+  Qilu-4, optical imaging satellite for the Shandong Industrial Technology Research Institute.
+
+  Foshan-1 is an imaging satellite for Jihua Labs in Foshan; it's not
+  clear whether they also built the satellite. Jihua Labs appears to be operated by the
+  Guandong provincial government.
+
+  Taijing 2-01, an imaging sat from Weina Xingkong Co. (MinoSpace).
+
+  Tianqi 09; IoT comms sat for Guodian Gaokeji, built by Shanghai ASES. 
+
+  Zhongan Guotong 1 (also called Hangsheng 1), from Zhongan Guotong Sat Tech Dev Co (Shenzhen) and
+  Hunan Hangsheng Satellite Technology (Changsha). 
+  Satellite for real time imaging and data transmission.
+
+  NEO-1, from Shenzhen Origin Space Tech Co. Ltd., with an imager (perhaps
+  for asteroid surveys, or just a test version for now?) and an active
+  debris removal experiment (with a target and a net, like RemoveDebris).
+
+  Jin Zijing ('Golden Bauhinia') 1-01 and 1-02): two imaging sats from
+  Lingzhong Kongjian Jishu (Beijing Zero G Lab). Previously the  G.
+  Bauhinia constellation was associated with Hong Kong Aerospace Tech
+  Group, unless that's an unrelated system with the same name.  JZ-1-02 is also
+  called Lingque-1 D02. 
+
+Vega VV18
+---------
+
+Arianespace's light Vega launcher made a successful return to flight with launch
+of the Pleiades Neo 3 imaging satellite for Airbus Space and Defense - Intelligence.
+The AVUM upper stage then lowered its orbit by 15 km and deployed NorSat-3 for the
+Norwegian Space Centre, Bravo for Aurora Insight, ELO Alpha for Eutelsat, and
+two Lemur satellites for Spire Global. The Vega AVUM stage was deorbited
+over the Indian Ocean west of Australia at 0425 UTC Apr 29.
+
+Intiially no orbital data were released for Pleiades Neo 3, but TLEs became
+available on Mar 3 showing it in a 624 x 626 km x 97.9 deg, 1030 LT SSO.
+Although it is a commercial imagery satellite, military intelligence may be
+one if its major customers.
+
+
+Tianhe
+-------
+
+The Tianhe core module for China's new Tiangong-3 space station was
+launched from Wenchang on Apr 29. The 22600 kg module was placed in
+orbit by a CZ-5B rocket. separating from the  empty 21200 kg core stage
+at 0331 UTC.
+
+About 5 minutes later, both the module and the core stage passed only
+300 km from the International Space Station, which is rather close to
+come given that there was no coordination between CALT and NASA on the
+launch trajectory. This close pass appears deliberate given that really
+careful timing was needed to achieve it.
+
+The large 21-tonne CZ-5B core stage was left in 170 x 375 km orbit, and
+after 10 days in orbit reentered over Saudi Arabia at about 0214 UTC May
+9, just after passing directly over Riyadh. Its debris fell in the 
+Indian Ocean near the Maldives about 10 minutes later.
+
+This is the second CZ-5B launch; the core stage reentries from these
+launches are the largest deliberate uncontrolled reentries in over 30
+years. Other rockets with large core stages are designed to avoid
+leaving the stages in orbit. The previous CZ-5B reentry resulted in tons
+of metal slamming into the ground in the Ivory Coast, fortunately
+causing only limited damage to buildings but understandably scaring
+quite a few people. I consider the decision of CALT to design the CZ-5B
+to leave a 21t inert core stage in low orbit on each launch to be
+negligent, and a contrast to the standard practice of other space
+agencies.
+
+Starlink
+---------
+
+60 more Starlinks were launched from Cape Canaveral on Apr 29. The Falcon 9 first stage
+landed on the JRTI droneship.
+
+Another 60 were launched on May 4 from Kennedy Space Center, with the first stage landing on OCISLY.
+
+A further 60 were launched on May 9 from Cape Canaveral, with the first stage (B1051 on a record
+tenth flight) landing on JRTI.
+
+Yaogan 34 and 30-08
+-------------------
+
+China launched the Yaogan 34 satellite on Apr 30 to a 1000 km orbit, 
+The orbital height and orbital plane of the satellite is matched to the
+three Yaogan 31 group 02 satellites.
+
+On May 6 China launched three Yaogan-30 signals intelligence satellites, Group 8 nos, 1-3.
+The Guodian Gaokeji commercial communications satellite Tianqi-12 was carreid as a secondary payload.
+
+Ingenuity
+---------
+
+The Ingenuity Mars Helicopter made its third flight on Apr 25 at 0831 UTC. It reached 5m
+altitude and went 50m downrange, then returned to its starting point and
+landed after an 81s flight. Flight 4, at 1439 UTC Apr 30, went 133m south and returned,
+also at 5 m altitude, in a 117 second flight. 
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name                           Launch Vehicle      Site            Mission  INTL.  Catalog  Perigee Apogee  Incl   Notes
+Apr  6 2100?  Jackie (AC-10a Probe 5)                            AC-10a, LEO          Calib  19-022P          462 x 475 x 51.6
+Apr  7 1634   Starlink 2048                   Falcon 9             Canaveral LC40     Comms   27A  S48092     261 x 280 x 53.0
+              Starlink 2404
+              Starlink 2412
+              Starlink 2414
+              Starlink 2417-2418
+              Starlink 2421
+              Starlink 2428
+              Starlink 2430
+              Starlink 2436-2440
+              Starlink 2442-2445
+              Starlink 2447-2452
+              Starlink 2454-2455
+              Starlink 2458-2460
+              Starlink 2462-2469
+              Starlink 2471-2476
+              Starlink 2478-2493
+              Starlink 2503
+Apr  8 2301   Shiyan 6-03                     Chang Zheng 4B        Taiyuan            Imaging?  28A  S48157  992 x 1001 x 99.5
+Apr  9 0742   Soyuz MS-18                     Soyuz-2-1a            Baykonur           Spaceship 29A  S48159  192 x 228 x 51.6
+Apr 23 0949   Endeavour (SpX Crew-2)          Falcon 9              Kennedy LC39A      Spaceship 30A  S48209  210 x 228 x 51.6
+Apr 25 2214   OneWeb SL0165    )
+              OneWeb SL0176    )              Soyuz                 Vostochniy PU1S    Comms     31           443 x 454 x 87.4
+              OneWeb SL0179-189)
+              OneWeb SL0191-209)
+              OneWeb SL0217-220)
+Apr 26 2047   USA 314                         Delta 4H              Vandenberg SLC6    Imaging   32A  S48246? 525 x 758 x 98.0
+Apr 27 0320   Qilu-1           )                                                       Radar     33           496 x 510 x 97.4
+              Qilu-4           )              Chang Zheng 6         Taiyuan LC16       Imaging   33
+              Foshan-1         )                                                       Imaging   33
+              Zhongan Guotong 1)                                                       Imaging   33
+              Tianqi 09        )                                                       Comms     33
+              NEO-1            )                                                       Tech      33
+              Taijing 2-01     )                                                       Imaging   33
+              Jin Zijing 1-01  )                                                       Imaging   33
+              Jin Zijing 1-02  )                                                       Imaging   33
+Apr 29 0150   Pleiades Neo 3 )                 Vega                 CSG ZLV            Imaging   34A
+              NorSat-3       )                                                         Com (AIS) 34B  S48269? 609 x 614 x 97.8
+              AII Bravo      )                                                         Sigint    34
+              Lemur 2161     )                                                         Com/Met   34
+              Lemur 2162     )                                                         Com/Met   34
+              ELO Alpha      )                                                         Com       34
+Apr 29 0323   Tianhe                           Chang Zheng 5B       Wenchang LC101     Station   35A   S48274 170 x 382 x 41.5
+Apr 29 0344   Starlink 2029                    Falcon 9             Canaveral SLC40    Com       36A-BM       257 x 282 x 53.0
+              Starlink 2061
+              Starlink 2441
+              Starlink 2457
+              Starlink 2470
+              Starlink 2477
+              Starlink 2495
+              Starlink 2498
+              Starlink 2501-2502
+              Starlink 2504
+              Starlink 2506-2507
+              Starlink 2509-2520
+              Starlink 2523-2524
+              Starlink 2527-2528
+              Starlink 2530
+              Starlink 2532-2538
+              Starlink 2540-2550
+              Starlink 2555-2559
+              Starlink 2562
+              Starlink 2564-2567
+              Starlink 2569
+              Starlink 2580
+Apr 30 0727   Yaogan 34                       Chang Zheng 4C        Jiuquan            Imaging?  37A  S48341 1092 x 1095 x 63.4
+May  4 1901   Starlink 1904                   Falcon 9              Kennedy LC39A      Comms     38A
+              Starlink 2499
+              Starlink 2505
+              Starlink 2526
+              Starlink 2560-2561
+              Starlink 2563
+              Starlink 2568
+              Starlink 2570-2576
+              Starlink 2578
+              Starlink 2581
+              Starlink 2585-2596
+              Starlink 2598-2614
+              Starlink 2521-2624
+              Starlink 2626
+              Starlink 2628
+              Starlink 2630-2631
+              Starlink 2635-2637
+              Starlink 2641
+              Starlink 2643
+              Starlink 2674
+May  6 1811   Yaogan 30 hao 08 zu 01 xing )  Chang Zheng 2C         Xichang            Sigint?  39A S48423  592 x 602 x 35.0 
+              Yaogan 30 hao 08 zu 02 xing )                                            Sigint?  39B S48424  592 x 602 x 35.0 
+              Yaogan 30 hao 08 zu 03 xing )                                            Sigint?  39C S48425  592 x 602 x 35.0 
+              Tianqi 12                   )                                            Comms    39D S48426  589 x 598 x 35.0
+May  9 0642   Starlink 2247                    Falcon 9             Canaveral SLC40    Com      40A-BM      257 x 282 x 53.0
+              Starlink 2269
+              Starlink 2461
+              Starlink 2494
+              Starlink 2496-2497
+              Starlink 2500
+              Starlink 2508
+              Starlink 2525
+              Starlink 2529
+              Starlink 2531
+              Starlink 2579
+              Starlink 2582-2583
+              Starlink 2619-2620
+              Starlink 2632-2634
+              Starlink 2638-2640
+              Starlink 2642
+              Starlink 2644-2645
+              Starlink 2652
+              Starlink 2654-2655
+              Starlink 2658-2661
+              Starlink 2663
+              Starlink 2675
+              Starlink 2680-2687
+              Starlink 2689-2690
+              Starlink 2692-2693
+              Starlink 2696-2700
+              Starlink 2702-2703
+              Starlink 2706
+              Starlink 2722-2723
+              Starlink 2728-2729
+              Starlink 2749
+              Starlink 2755
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Feb  3        RV                Ghaznavi           Somniani?             Test           80?      Arabian Sea?
+Feb  4        ABM Target        B-611?             Taiyuan               Test          200?      Urumqi        
+Feb  4        Interceptor       DF-21?             Urumqi?               Interceptor   100?      Takla Makan
+Feb  5 0905   OS-X6B            OS-X6B             Jiuquan?              Test          300       Jiuquan?
+Feb  9 2330   USN RV            Trident II        Sub, 76W 28N           Op. Test     1000?      S Atlantic
+Feb 24 0749   GT237GM           Minuteman III      Vandenberg LF10       Op. Test     1300?      Kwajalein
+Feb 27        HE RV             Zulfiqar           Sanaa?                Weapon        150?      Riyadh
+Mar  3        Chem. release     Terr.Terr.Oriole   Wallops               Ionosphere    300?      Atlantic
+Mar 12 1345   SOUREX            RH-560 Mk III     Satish Dhawan          Atmosphere    300?      Bay of Bengal
+Apr 14 1651   NS-15             New Shepard        West Texas            Test          106       West Texas
+Apr 19 0830   SHIELDS           Black Brant IX     White Sands           UV Astron     285       White Sands
+Apr 28 0800?  M51 payload       MSBS M51           Landes                Test?        1000?      Atlantic
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

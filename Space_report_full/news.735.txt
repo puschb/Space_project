@@ -1,0 +1,224 @@
+Jonathan's Space Report 
+No. 735                                                       2017 Feb 24  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 50 continues with the departure of two cargo ships and the arrival of two more.
+
+Japan's HTV 6 cargo ship separated from ISS on Jan 27 at 1546 UTC. However,
+its KITE tether experiment failed to deploy when commanded to do so on
+Jan 28. HTV 6 was deorbited on Feb 5 at 1442 UTC and entered the
+atmosphere over the South Pacific at 1506 UTC.
+
+On Jan 31 the Progress MS-03 cargo ship undocked at 1425 UTC
+and was deorbited at 1734 UTC with impact in the South Pacific
+at 1824 UTC.
+
+On Feb 19 Dragon CRS-10 was launched from Kennedy Space Center LC39A
+aboard a SpaceX Falcon 9; the first non-NASA launch operation ever from
+KSC and the first launch from KSC since 2011. NASA KSC abuts USAF Cape
+Canaveral Air Force Station on its northern side; previous Falcon 9 east
+coast launches were from SLC40 at Cape Canaveral. On this flight the
+Falcon 9 first stage, B1031, landed at Cape Canaveral's LZ1.
+
+CRS-10 carries three packages in its trunk for installation on ISS.  The
+USAF Space Test Program's STP-H5 experiment suite includes a NASA
+lightning sensor and NRL ionosphere-study experiments. SAGE-III IP
+continues a long series of NASA ozone monitoring studies. SAGE-III NVP
+(Nadir Viewing Platform) is an adapter which will allow the IP to be
+installed sideways on the ISS ELC platform.
+
+On Feb 22 Dragon aborted its approach to the ISS at a distance of 1.2 km
+due to a navigation system error. Rendezvous was rescheduled for Feb 23
+when Dragon was grappled by the SSRMS at 1044 UTC, then berthed on the
+Harmony module.
+
+On Feb 22 Progress MS-05 was launched from Baykonur on the final Soyuz-U-PVB
+rocket. Among other cargo it carried a new Orlan-MKS spacesuit. The
+ship docked with the Pirs module at 0830 UTC Feb 24. 
+
+Soyuz-U first flew in 1973 and has been the main variant in use since
+1976 when the Voskhod 11A57 was retired. The Molniya variant last flew
+in 2010; the -U was the last of the Soviet-era versions of the rocket
+still flying. Soyuz rocket variants still in service are Soyuz-FG,
+Soyuz-2-1a, Soyuz-2-1b, Soyuz-2-1v, and the French Guiana variants of
+2-1a/b, called ST-A and ST-B. 
+
+
+TuPOD
+-----
+
+The TuPOD cubesat from the Italian group Gauss Srl ejected its two small
+0.75kg Tubesats, TANCREDO-1 and OSNSAT, on Jan 19.
+One of the cubesats ejected with it exhibited rapid orbital decay
+and reentered on Feb 5; Space-Track identifies it as FREEDOM,
+which would imply the drag devices on EGG and Waseda-SAT3
+have not been deployed.
+
+
+Falcon 9
+--------
+
+The 11th object cataloged with the Falcon 9 launch was a data error
+(probably cross-tagging of the other 10 objects). 41927 has been
+reassigned to a debris object from a 1964 Transit navigation satellite
+launch.
+
+SBIRS
+-----
+
+Atlas AV-066 launched the third SBIRS GEO early warning sat into geotransfer
+orbit on Jan 21. SBIRS GEO uses an infrared telescope to detect missile
+launches.
+
+DSN 2
+-----
+
+The DSN Corporation is a Sky Perfect JSAT / NEC / NTT /Maeda consortium
+to provide an X-band military communications satellite for the Japanese
+Defense Ministry. DSN 2 (Kirameki 2) is their first satellite, based on
+the Mitsubishi Electric DS-2000 bus.
+
+Hispasat 36W-1
+--------------
+
+The Spanish Hispasat 36W-1 communications satellite (3220 kg at launch,
+1700 kg dry) is the first SmallGEO bus, made by OHB of Bremen, Germany.
+It was launched to geotransfer orbit by a Soyuz ST-B/Fregat in the first
+GTO launch by a Soyuz from Kourou.
+
+Ariane 588
+----------
+
+The VA235 flight placed two satellites in geotransfer orbit: SkyBrasil-1
+for AT&T/DirectTV Latin America and Intelsat (which calls the satellite
+Intelsat-32e), and Telkom-3S for the Indonesian operator Telkom.
+
+PSLV-C37
+--------
+
+India's PSLV placed a record 104 payloads in orbit on Feb 15. The main payload
+was the  714 kg `Cartosat-2 series satellite', the fourth such imaging payload
+from ISRO. Two 10 kg INS-1 (Indian Nanosatellite) technology payloads were
+carried, as well as 25 QuadPack cubesat dispensers from the Dutch company ISISSpace.
+One of these ejected cubesats for SpacePharma (a Swiss/Israeli company), Ben Gurion
+University, Al-Farabi Kazakh National University, Rashid Space Center (Dubai),
+and the Dutch research lab TNO. Another pair of QuadPacks carried 8 Lemur
+satellites for SpireGlobal. The remaining 22 QuadPacks hosted 88 Flock-3p
+imaging satellites for Planet (San Francisco).
+
+Space-Track has published identifications for 3 of the 104 satellites so far.
+
+Juno
+-----
+
+NASA has decided that Juno's main engine, its reliability in question,
+will not be used to  alter the probe's orbit around Jupiter. As of Feb
+24 Juno remains in a 3750 x 7973000 km x 90.7 deg Jovian orbit with a 53
+day orbital period.  It will reach apojove on Mar 1; perijove 5 will be
+at 0850 UTC on Mar 27. Most of the critical science data is taken during
+perijove passes as the probe skims the Jovian cloudtops.  Staying in the
+high orbit just means that the mission will take longer to complete. I
+suspect the longer intervals between perijoves will actually be somewhat
+welcome to those analysing the onslaught of data.
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+Jan  5 1518   Tongxin Jishu SW 2    Chang Zheng 3B    Xichang LC2      Sigint?       01A    S41911    201 x 35801 x  27.5
+Jan  9 0411   Linye 1 (Jilin-1S3)   Kuaizhou-1A       Jiuquan          Imaging       02A    S41913    530 x   546 x  97.5 1030LT SSO
+              Caton-1           )                                      Comms         02B?   S41914    513 x   545 x  97.5 1030LT SSO
+              Xingyun Shiyan 1  )                                      Tech          02C?   S41915    529 x   541 x  97.5 1030LT SSO
+Jan 14 1754   Iridium Next SV102 )  Falcon 9 v1.2     Vandenberg SLC4E Comms         03D    S41920    608 x   621 x  86.7
+              Iridium Next SV103 )                                     Comms         03B    S41918    610 x   622 x  86.7
+              Iridium Next SV104 )                                     Comms         03F    S41922    610 x   621 x  86.7
+              Iridium Next SV105 )                                     Comms         03E    S41921    605 x   619 x  86.7
+              Iridium Next SV106 )                                     Comms         03A    S41917    617 x   626 x  86.7
+              Iridium Next SV108 )                                     Comms         03H    S41924    607 x   622 x  86.7
+              Iridium Next SV109 )                                     Comms         03C    S41919    608 x   621 x  86.7
+              Iridium Next SV111 )                                     Comms         03K    S41926    609 x   622 x  86.7
+              Iridium Next SV112 )                                     Comms         03J    S41925    604 x   621 x  86.7
+              Iridium Next SV114 )                                     Comms         03G    S41923    610 x   617 x  86.7
+Jan 14 2333   TRICOM-1              SS-520            Uchinoura K      Tech          F01    F01486  -6340? x  200? x 30
+Jan 16 0910   ITF-2          )                                         Tech      98-067KS   S41930    395 x   405 x  51.6
+              FREEDOM        )                        ISS, LEO         Tech      98-067KU   S41932    396 x   408 x  51.6
+              WASEDA-SAT3    )                                         Tech      98-067KW   S41934    397 x   408 x  51.6
+Jan 16 0920   EGG                                     ISS, LEO         Tech      98-067KV   S41933    396 x   408 x  51.6
+Jan 16 1040   AOBA-Velox-III                          ISS, LEO         Tech      98-067KX   S41935    396 x   409 x  51.6
+Jan 16 1050   TuPOD                                   ISS, LEO         Tech      98-067KT   S41936    398 x   407 x  51.6
+Jan 19 2330?  TANCREDO-1 )                            ISS, LEO         Comms?    98-067KY   S41931    395 x   408 x  51.6
+              OSNSAT     )                                             Comms?    98-067KZ   S41939    394 x   408 x  51.6
+Jan 21 0042   SBIRS GEO-3           Atlas V 401       Canaveral SLC41  Early Warn    04A    S41937    195 x 35847 x  23.3
+Jan 24 0744   Kirameki-2            H-IIA 204         Tanegashima      Comms         05A    S41940    250?x 35860?x  22.0?
+Jan 28 0103   Hispasat 36W-1        Soyuz ST-B/Fregat CSG ELS          Comms         06A    S41942    252 x 35754 x   5.4
+Feb 14 2139   SkyBrasil-1)          Ariane 5ECA       Kourou ELA3      Comms         07B    S41945  35662 x 35785 x   0.1
+              Telkom-3S  )                                             Comms         07A    S41944  35641 x 35810 x   0.0
+Feb 15 0358   Cartosat-2 Series/4)  PSLV-XL           Sriharikota FLP  Imaging       08A    S41948    505 x   520 x  97.5
+              INS-1A             )                                     Tech          08B    S41949    496 x   508 x  97.5
+              INS-1B             )                                     Imaging       08C    S41950    496 x   507 x  97.5
+              BGUSat             )                                     Tech          08     
+              PEASSS             )                                     Tech          08     
+              Al-Farabi 1        )                                     Tech          08     
+              Dido-2             )                                     Micrograv     08     
+              Nayif-1            )                                     Tech          08     
+              Lemur-2-Jopanbutra   )                                   Com/Met-RO    08
+              Lemur-2-Spire-Minions)                                   Com/Met-RO    08
+              Lemur-2-Satchmo      )                                   Com/Met-RO    08
+              Lemur-2-RDeaton      )                                   Com/Met-RO    08
+              Lemur-2-Smita-Sharad )                                   Com/Met-RO    08
+              Lemur-2-Mia-Grace    )                                   Com/Met-RO    08
+              Lemur-2-NoguesCorreig)                                   Com/Met-RO    08
+              Lemur-2-Tachikoma    )                                   Com/Met-RO    08
+              Flock 3p (88 sats) )                                     Imaging       08
+Feb 19 1439   Dragon CRS-10         Falcon 9          Kennedy LC39A    Cargo         09A    S42053   204 x   359 x  51.6
+Feb 22 0558   Progress MS-05        Soyuz-U           Baykonur LC1     Cargo         10A    S42056   186 x   210 x 51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+News reports in the UK and discussion on nasaspaceflight.com indicate that the Trident II D-5
+submarine-launched missile has had two previously unreported failures, a US launch sometime in 2011
+and a UK launch in June 2016. Meanwhile, four Tridents were successfully launched over the Pacific
+on Feb 14-16. 
+
+Pakistan made the first test flight of its Ababeel missile, which appears to be a Shaheen-3
+with a third stage and a new payload of multiple reentry vehicles. Iran made the second
+known test flight of the Khorramshahr, which is suspected to be a medium range missile
+based on the Soviet R-27, similar to North Korea's Hwasong-10/Musudan. The missile's
+reentry vehicle failed to survive reentry, according to US sources. North Korea flew
+a land-based variant of their solid-propellant Bukgueksong submarine missile. NASA
+carried out two science flights to open their 2017 campaign at the Poker Flat launch
+site in Alaska.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jan 15        RV x10?           Dong Feng 5C       Taiyuan               Test         1000?      Taklimakan Desert
+Jan 16        RV                Topol'-M           Plesetsk              Test         1000?      Kura
+Jan 23 0230   MAIUS-1           VSB-30             Kiruna                Physics       238       ESRANGE
+Jan 24        Ababeel RV        Ababeel            Somniani?             Test          300?      Arab.Sea
+Jan 27 1345   PolarNOx          Black Brant 9      Poker Flat, Alaska    Atmos.Sci     283       Poker Flat zone 4
+Jan 29        RV                Khorramshahr       Semnan                Test          300?      Iran?
+Feb  4 0830   SFTM-1 Target     ?                  Kauai                 Target        200?      Pacific
+Fab  4 0833?  SFTM-1 KV         SM-3-IIA           DDG-53, Pacific       Intercept     150?      SFTM-1 
+Feb  9 0739   RV x 3?           Minuteman 3        Vandenberg LF10       Test         1300?      Kwajalein
+Feb 11 2255   RV                Bukgueksong-2      North Pyongan         Test          500?      Sea of Japan
+Feb 14 1130   RV x 8?           Trident D-5   Unknown sub, Cape Arguello Test         1000?      Wake Island
+Feb 14 1420   RV x 8?           Trident D-5   Unknown sub, Cape Arguello Test         1000?      Wake Island
+Feb 15?       RV x 8?           Trident D-5   Unknown sub, Cape Arguello Test         1000?      Wake Island
+Feb 16?       RV x 8?           Trident D-5   Unknown sub, Cape Arguello Test         1000?      Wake Island
+Feb 22 1014   ISINGLASS-1       Black Brant 9      Poker Flat, Alaska    Auroral       362       Poker Flat zone 4
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   

@@ -1,0 +1,248 @@
+Jonathan's Space Report 
+No. 702                                              2014 Sep 22  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+The NanoRacks cubesat deployer package remains attached to the JEM RMS robot arm
+while troubleshooting continues on electrical problems with the deployer.
+Four more 3U cubesats remain in the deployers while another package of 8 deployers
+with 16 x 3U equivialent of cubesats sits inside Kibo (more PlanetLabs Flock-1b
+satellites plus the LambdaSat, GEARRS and MicroMAS payloads).
+
+On Sep 10 at 2301 UTC Skvortsov, Artemev and Swanson undocked from the Poisk module
+in Soyuz TMA-12M. The deorbit burn at 0130 UTC Sep 11 lowered the orbit to about
+-22 x 418 km followed by module separation at 0158 UTC, atmosphere entry at 0201UTC
+and landing in Kazakhstan at 0223 UTC.
+
+Expedition 41 began with undocking of Soyuz TMA-12M; the remaining ISS
+crew are commander Max Suraev and flight engineers FE-5 Reid Wiseman and
+FE-6 Alex Gerst. Ferry craft Soyuz TMA-13M is docked to the station.
+
+On Sep 21 SpaceX launched the sixth Dragon cargo ship on mission CRS-4
+to the ISS. This was the 13th Falcon 9 launch and the 8th such launch within
+a 1 year period. The Dragon Trunk carries two packages, the ISS
+RapidScat radar scatterometer science instrument and the RapidScat Nadir Adapter, which
+will be installed on the SDX nadir attach point of the Columbus module's
+external payload facility. The Dragon cabin carries SpinSat, an 0.56m
+spherical NRL satellite to be deployed by the Kibo JEM-RMS, and the
+NASA-Ames Rodent Research 1 life sciences payload with 20 mice (mus
+musculus). Neither SpaceX nor NASA has revealed the mass of Dragon CRS-4
+but it is probably in the 9500-10500 kg range.
+
+According to US tracking data, Dragon was inserted into a 203 x 358 km x
+51.6 deg orbit; by 1400 UTC on Sep 22 it had decayed to 204 x 349 km due
+to atmospheric drag, but had not begun significant orbit raising burns
+to rendezvous with the ISS. However I'm not completely sure the object
+being tracked (catalog 40212 until Sep 22 1300 UTC, then retagged as
+40210) is actually Dragon. 
+
+The Falcon 9 second stage was deorbited on the first Earth revolution
+and reentered S of New Zealand at about 0655 UTC Sep 21.
+
+
+Maven and MOS at Mars
+---------------------
+
+The NASA/JPL Maven space probe has arrived at Mars. MAVEN was in 0.96 x
+1.45 AU x 2.0 deg solar orbit until entering Mars sphere of influence at
+0100 UTC Sep 20, then in 537 x -15778 km x 74 deg hyperbola. At 0138 UTC
+on Sep 22 the probe began a 33 minute burn to brake into a bound 380 x
+44600 km x 75 deg Mars orbit (parameters not yet confirmed).
+
+Meanwhile, the Indian Space Research Organization's Mars Orbiter Spacecraft
+entered the Mars sphere of influence from its 0.98 x 1.44 AU x 2.5 deg solar 
+orbit on Sep 22.
+
+Kobal't
+-------
+
+It now appears that something went wrong with the recovery of a Russian Defense Ministry
+Kobal't spy satellite on Sep 2. (The satellite is usually called Kosmos-2495 in the press,
+although the confusion about Kosmos numbering means it may actually be Kosmos-2493).
+
+Based on the knowledge that the satellite was no longer in orbit of Sep 2, I calculated
+(using algorithms pioneered by Phil Clark) that if it landed in the usual area,
+the deorbit would have been northbound over the Horn of Africa around 1805 UTC Sep 2
+with entry around 1818 UTC and landing around 1828 UTC near Orenburg in Russia.
+The descent module (SA) would separate from the service module (AO) after the deorbit
+burn, with the AO burning up since it does not have a heat shield. The AO carries
+the solar panels, which are likely to break off early in the descent.
+
+Reentering debris overhead was observed by people in Kazakhstan at
+around 1814 UTC Sep 2, exactly the expected time for the service module
+entry. (but also close to a pass of the Chinese Yaogan 5 satellite
+wich completed its reentry two orbits later. However, Ted Molczan reports that
+he has ruled out Yaogan 5 as a possibility.)
+
+In addition, large amounts of reentering debris were observed
+northbound over Colorado and Wyoming at about 0430 UTC on Sep 3, which
+is consistent with the projected path and timing of the satellite if no
+deorbit burn was made.
+
+I conclude that the SA landed successfully on the Sep 2 pass; possibly
+after separation the AO bounced off the atmosphere and remained in a very low
+orbit for 7 further revolutions before finally succumbing over US territory.
+This is hard to match with the data since the timing suggests whatever reentered
+over Colorado was in the original payload orbit - there are uncertainties but
+other analysts like Ted Molczan believe that the small objects (payload covers?
+solar panels?) ejected before the deorbit burn were responsible for the Colorado reentry.
+I'm surprised that low mass objects could generate such a bright display.
+Space-Track has not cataloged any additional objects associated with the mission.
+
+Meanwhile, Bob Christy reports that NOTAMS (announcements of airspace
+closures) suggest recovery dates for the two small SpK capsules. Based
+on these I infer SpK landing times of Jun 20 0808 UTC and Jul 3 0402
+UTC.
+
+
+Asiasat 6
+---------
+
+On Sep 7 SpaceX launched the Asiasat 6 satellite. It reached a 175 x 202
+km x 27.7 deg parking orbit and then was delivered to a 154 x 35752 km x
+25.4 deg geostationary transfer orbit. Asiasat is a Hong Kong based
+telecom company. The satellite has C and Ku band communications payloads
+and an additional C-band payload for the Thai operator Thaicom; this
+payload is marketed as Thaicom 7. The Loral-1300 satellite has a mass of
+3700 kg according to the press kit, although Space News quoted 4428 kg. 
+On Sep 20, Asiasat 6 had reached a 35773 x 35800 km x 0.1 deg GEO over
+119.8 deg E.
+
+Yaogan 21
+---------
+
+China's Yaogan 21 imaging satellite was launched to a 475 km, 1030LTDN SSO on Sep 8.
+The mission continues a series begun with the Zi Yuan 2 satellites.
+
+A small 67 kg subsatellite, Tiantuo-2 was also deployed. The Tiantuo
+satellites are built by the National University for Defense Technology;
+this one carries video imaging experiments.
+
+Ariane 5
+--------
+
+Ariane 5 flight VA218, vehicle 573, placed two communications satellites in
+geostationary transfer orbit on Sep 11. Measat 3b is a 5897 kg Airbus/Toulouse Eurostar 3000
+satellite for Malaysia's Measat; part of the capacity is leased to NewSat (Melbourne)
+to be marketed as the Jabiru-2 payload. Optus 10 is owned by Singtel Optus,
+the Australian subsidiary of Singapore Telecome. It is a 3970 kg Loral LS-1300 satellite
+with a Ku-band payload.
+
+CLIO
+----
+
+United Launch Alliance launched a Lockheed Martin Atlas V 401, flight
+AV-049, on Sep 17. The rocket placed the Lockheed Martin A2100 class
+CLIO satellite (USA 257) in an unusual high-perigee geostationary transfer orbit,
+possibly around 11800 x 36000 km, after coasting in an initial 174? x
+28860 km x 28 deg orbit.
+
+
+CLIO's owner is an unidentified US government agency - possibly the
+National Reconnaissance Office although nowadays its satellites are
+normally acknowledged. It may have a communications or signals
+intelligence payload.
+
+Cassini
+-------
+
+At 0525 UTC Sep 22, Cassini flew 1400 km from Titan on its T-105 flyby.
+Cassini is now in a 626000 x 3133000 km x 40.3 deg Saturn orbit
+
+Dawn
+----
+
+The Dawn probe, en route from Vesta to Ceres, safemoded due to a radiation
+event on Sep 11. Ion engine thrusting resumed by Sep 16; the probe is currently
+in a 2.45 x 3.03 AU x 9.6 deg solar orbit, reducing aphelion and increasing
+inclination on its way to Ceres arrival in 2015.
+
+Messenger
+---------
+
+The Messenger probe, in orbit around Mercury, reached a record low orbit
+of 23 x 10610 km x 83.5 deg  on Sep 12. An engine burn then raised
+periapsis, making the orbit 92 x 10610 km.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+
+Aug  2 0323   GPS 68             Atlas V 401       Canaveral SLC41   Navigation   45A
+Aug  5 0800   Asiasat 8          Falcon 9 v1.1     Canaveral SLC40   Comms        46A
+Aug  9 0545   Yaogan 20 Sat 1 )  Chang Zheng 4C    Jiuquan           Sigint       47A
+              Yaogan 20 Sat 2 )                                      Sigint       47B
+              Yaogan 20 Sat 3 )                                      Sigint       47C
+Aug 13 1830   WorldView-3    )   Atlas V 401       Vandenberg SLC3E  Imaging      48A
+              Centaur AV-047 )                                      Rocket stage  48B
+Aug 18 1423   Chasqui-1                            ISS, LEO          Tech        98-67ET
+Aug 19 0315   GaoFen 2  )        Chang Zheng 4B    Taiyuan           Imaging      49A
+              Heweliusz )                                            Astronomy    49B
+Aug 19 1825   Flock 1b-24 )                        ISS, LEO          Imaging     98-67EU
+              Flock 1b-23 )                                          Imaging     98-67EV
+Aug 20 0226   Flock 1b-26 )                        ISS, LEO          Imaging     98-67EW
+              Flock 1b-25 )                                          Imaging     98-67EX
+Aug 20 0950   Flock 1b-15 )                        ISS, LEO          Imaging     98-67EY
+              Flock 1b-16 )                                          Imaging     98-67EZ
+Aug 21 1337   Flock 1b-1  )                        ISS, LEO          Imaging     98-67FA
+              Flock 1b-2  )                                          Imaging     98-67FB
+Aug 22 1227   Galileo FOC FM01 ) Soyuz ST-B        CSG ELS           Navigation   50A
+              Galileo FOC FM02 )                                     Navigation   50B
+Aug 23 1944   Flock 1b-7  )                        ISS, LEO          Imaging     98-67FC
+              Flock 1b-8  )                                          Imaging     98-67FD
+Sep  4 0015   Chuangxin 1-04 )                     Jiuquan           Comms        51B
+              Ling Qiao      )                                       Comms        51A
+Sep  5 0929   Flock 1b-17 )                        ISS, LEO          Imaging     98-67FF
+              Flock 1b-18 )                                          Imaging     98-67FE
+Sep  7 0500   Asiasat 6          Falcon 9 v1.1     Canaveral SLC40   Comms        52A
+Sep  8 0322   Yaogan 21  )       Chang Zheng 4B    Taiyuan           Imaging      53A
+              Tiantuo 2  )                                           Imaging      53B
+Sep 11 2205   Measat 3b )        Ariane 5ECA       Kourou ELA3       Comms        54A
+              Optus 10  )                                            Comms        54B
+Sep 17 0010   CLIO               Atlas V 401       Canaveral SLC41   Sigint?      55A
+Sep 21 0552   Dragon CRS-4       Falcon 9 v1.1     Canaveral SLC40   Cargo        56A
+
+Suborbital missions
+-------------------
+
+Russia launched a submarine missile on Sep 10; India carried out a training launch
+of its Agni I missile on Sep 11. Three Trident missiles were launched from off the
+coast of Southern California Sep 12 towards the mid-Pacific, from an unidentified Trident submarine;
+at least one of the launches was widely observed along the US west coast.
+
+Israel carried out a missile defense test Sep 9; according to the Times of Israel the
+target was a Blue Sparrow missile which is thought to fly a slightly exoatmospheric
+trajectory, although the Arrow 2 interceptor itself would not have left the atmosphere.
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Aug  4 1400   S-310-43         S-310               Uchinoura        Technology    117
+Aug 17 1010   S-520-29         S-520               Uchinoura        Ionosphere    243
+Aug 23 1313   Shark?           Terrier Lynx        Wallops          Target        150? 
+Aug 25 0825?  AHW FT2          STARS IV            Kodiak           Hypersonic      1?
+Aug 28 0900   NASA 36.308GT    Black Brant IX      Wallops I.       Test/Aeron.   350?
+Sep  2 0202   EPL-ME           VS-30/EPL           Alcantara        Test          130?
+Sep  9        Sparrow Target   Blue Sparrow?       F-15D, Med.Sea   Target        100?
+Sep 10        RV               Bulava              K-551,White Sea  Test         1000?
+Sep 11 0541   Agni RV          Agni I              Chandipur        Op. Test      500?
+Sep 12 1300   USN RV           Trident D-5         Sub, Pacific O.  Test         1000?
+Sep 12 1300   USN RV           Trident D-5         Sub, Pacific O.  Test         1000?
+Sep 12 1300   USN RV           Trident D-5         Sub, Pacific O.  Test         1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

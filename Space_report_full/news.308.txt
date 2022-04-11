@@ -1,0 +1,124 @@
+Jonathan's Space Report
+No. 308                           1996 Dec  30              Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The next Shuttle mission is STS-81/Atlantis, which will fly to Mir in
+January. Atlantis was rolled out to pad 39B on Dec 10. Crew of STS-81
+is: Commander: Michael Baker; Pilot: Brent Jett; Mission Specialists:
+Jeff Wisoff, John Grunsfeld, Marsha Ivins, Jerry Linenger. Linenger will
+replace John Blaha aboard Mir. The cargo bay will contain the Spacehab
+Double Module on its second flight, as well as the Orbiter Docking
+System.
+
+Recent Launches
+---------------
+
+The Bion No. 11 life sciences satellites, with two monkeys aboard, was
+launched from Plesetsk into a 217 x 378 km x 62.8 degree orbit on Dec
+24. It carries newts, snails, Drosophila flies and other insects,
+bacteria, and two macaque monkeys, Lapik and Multik. The recoverable
+Bion spacecraft, built by TsSKB-Progress of Samara, is based on the
+Zenit/Vostok spaceship in use since 1960. Launch vehicle was a Soyuz-U.
+Here is a list of the Bion flights:
+
+ Bion 1  (Kosmos-605)  1973 Oct 31  21.5d
+ Bion 2  (Kosmos-690)  1974 Oct 22  20.5d
+ Bion 3  (Kosmos-782)  1975 Nov 25  19.5d
+ Bion 4  (Kosmos-936)  1977 Aug  3  18.6d
+ Bion 5  (Kosmos-1129) 1979 Sep 25  18.5d
+ Bion 6  (Kosmos-1514) 1983 Dec 14   5d
+ Bion 7  (Kosmos-1667) 1985 Jul 10   7d
+ Bion 8  (Kosmos-1887) 1987 Sep 29  13d
+ Bion 9  (Kosmos-2044) 1989 Sep 15  14d
+ Bion 10 (Kosmos-2229) 1992 Dec 29  12d
+ Bion 11               1996 Dec 24  In orbit
+
+Errata: Inmarsat III F3 launch time and WSF deploy times have been
+corrected in the tables below; in both cases I demonstrated an
+inability to perform simple addition. Sigh.
+
+Geoff Perry informs me that Kosmos-2336 is replacing Kosmos-2173
+in plane 4 of the Parus navigation satellite system.
+
+An object in a  153 x 949 km x 97.9 deg orbit has been observed from the
+USA 129 spy satellite launch (orbit by Ted Molczan based on observations
+by Anthony Beresford and Rob McNaught). This is probably the Titan 4
+second stage. It is reportedly brighter than expected; possibly a large
+fairing adapter remains attached (the payload may originally have been
+designed for Shuttle launch and might require  a long parallel adapter
+to mimic the payload bay - just a speculation).
+
+Next issue will contain the annual launch list. Meanwhile, here is
+a listing of the USA designations issued this year for US military
+satellites. Quotation marks indicate provisional names assigned
+by me to classified payloads.
+
+USA 117 GPS 33                                  1996-19A
+USA 118 "Adv VORTEX 2"                          1996-26A
+USA 119 "ANOSS 4"                               1996-29A
+USA 120 "ANOSS 4-1"                             1996-29B
+USA 121 "ANOSS 4-2"                             1996-29C
+USA 122 "ANOSS 4-3"                             1996-29D
+USA 123 TIPS                                    1996-29E
+USA 124 TIPS                                    1996-29F
+USA 125 "SDS B-4"                               1996-38A
+USA 126 GPS 40                                  1996-41A
+USA 127 UHF F/O F7                              1996-42A 
+USA 128 GPS 30                                  1996-56A
+USA 129 "Improved CRYSTAL 4?"                   1996-72A
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov  4 1709   SAC-B/HETE       Pegasus XL     Wallops         Science     61A
+Nov  7 1700   MGS              Delta 7925     Canaveral LC17A Mars probe  62A
+Nov 13 2240   Arabsat 2B )     Ariane 44L     Kourou ELA2     Comsat      63A
+              Measat 2   )                                    Comsat      63B
+Nov 16 2048   Mars-96          Proton-K       Baykonur LC200L Mars probe  64A
+Nov 19 1955   Columbia         Shuttle        Kennedy LC39B   Spaceship   65A
+Nov 19 2320   Progress M-33    Soyuz-U        Baykonir LC1    Cargo ship  66A
+Nov 20 0411   ORFEUS                          OV-102,LEO      Astronomy   65B
+Nov 21 2047   Hot Bird 2       Atlas IIA      Canaveral LC36B Comsat      67A
+Nov 23 0138   WSF                             OV-102, LEO     Materials   65C
+Dec  4 0658   Mars Pathfinder  Delta 7925     Canaveral LC17B Mars probe  68A
+Dec 11 1200   Kosmos-2335      Tsiklon-2      Baykonur LC90   Recon       69A
+Dec 18 0157   Inmarsat III F3  Atlas IIA      Canaveral LC36  Comsat      70A
+Dec 20 0644   Kosmos-2336      Kosmos-3M      Plesetsk LC132  Navsat      71A
+Dec 20 1804   USA 129          Titan 4        Vandenberg SLC4E Recon      72A
+Dec 24 1350   Bion No. 11      Soyuz-U        Plesetsk LC43   Life sci    73A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-80  
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        LC39B         STS-81  Jan 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-58/ET-81           VAB Bay 3      STS-82
+ML2/RSRM-54/ET-83/OV-104    LC39B          STS-81
+ML3/RSRM-59/                VAB Bay 1      STS-83
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+
+

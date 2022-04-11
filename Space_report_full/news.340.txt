@@ -1,0 +1,155 @@
+Jonathan's Space Report
+No. 340                                      1997 Nov 12  Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+Shuttle and Mir
+---------------
+
+Solov'yov and Vinogradov carried out another EVA on Nov 6, with hatch
+open at 0012 UTC and close at 0629 UTC. The Kvant-2 interior compartment
+was used as the airlock. The Russian MSB-SO solar array, which has been
+stored on the outside of the SO module since its delivery to the station
+by Atlantis on mission STS-74, has now been installed on the Kvant
+module replacing the elderly MSB-4. (The new array is not, as I claimed
+last week, the MCSA US/Russian array, which is already deployed on the
+opposite side of Kvant. Thanks to Gabe Katell for pointing out this
+goof). The Kvant-2 airlock hatch was thought to be sealed after the Nov
+6 EVA, but it turns out that the ShSO (Airlock special compartment) of
+Kvant 2 is still leaking. The PNO (Instrument-science compartment),
+which is the next room in, can continue to be used as the airlock until
+the outer lock is fixed. Jim Oberg points out that it's not clear how
+long the depressurized activity on Nov 3 lasted. The ShSO was no longer
+at vacuum as early as 0940 UTC, but at 0953 UTC and possibly as late as
+around 1045 UTC (guessing from the fact that Chris van den Berg 
+monitored radio from them in the inner airlock at 1109) the crew were
+still operating at a pressure under 5 psi. and they were not able to
+remove their suits until after 1100 UTC. So it depends on what pressure
+level you consider to count as vacuum conditions. 
+
+The Shuttle Carrier Aircraft carrying Atlantis has left Kennedy en route
+to the Boeing North American plant at Palmdale, California for Atlantis'
+Orbiter Maintenance Down Period (OMDP) refit. OV-104 will not be making
+any flights until 1999.
+
+
+
+Recent Launches
+---------------
+
+The final Block IIA Navstar Global Positioning Satellite, SVN 38, was
+orbited on Nov 5. The Block IIA GPS satellites were built by
+Boeing/Seal Beach (former Rockwell), and launched on Boeing/Huntingdon
+Beach (former McDonnell Douglas) Delta 7925 rockets. GPS SVN 38
+fired its Thiokol Star 37 apogee motor on Nov 8 and is now in
+a 19914 x 20626 km x 54.9 deg orbit. The PAM-D third stage remains
+in the 187 x 20391 km x 35.0 deg transfer orbit, while in its
+final depletion burn the Delta second stage orbit was raised
+to 459 x 561 km x 35.2 deg.
+
+The Ariane 502 launch anomaly seems to be really minor. Apparently
+when the solid boosters separated there was a bit more roll torque
+on the core stage than expected, and the centrifugal force pushed
+the propellant away from the fuel gauge, fooling it into thinking
+that the rocket was out of fuel a little early. Sounds like an easy
+fix for the next mission, and the sort of thing that would be hard
+to catch prior to an actual test flight.
+
+The Lockheed Martin/USAF Titan 4A-17 was launched on Nov 8 into highly
+elliptical orbit, carrying a classified signals intelligence satellite
+for the NRO (National Reconnaissance Office), probably in conjuction
+with the NSA (National Security Agency). It is believed that the
+satellite is a TRUMPET, with a large deployable mesh antenna, designed
+to monitor Soviet communications and missile tests (yes, *I* know the
+Soviets no longer exist... but I'm sure NRO can find something useful to
+listen into). One rumour was that the prime contractor for TRUMPET is
+Boeing/Seattle, but that's not well established. Two earlier TRUMPET
+satellites were launched in May 1994 and Jun 1995. The new satellite 
+and Centaur TC-16 were launched into a 185 x 185 km x 55.0 deg parking
+orbit. The Centaur restarted  to enter a 204 x 27890 km x 55.0 deg
+transfer orbit, and made a third burn to an 1100 x 39059 km x 63.6 deg
+operational orbit. This 'Molniya type' 12-hour, low precession, orbit 
+is also used by the SDS communications satellites which relay data from
+NRO imaging recon satellites. After spacecraft separation the Centaur
+vented its remaining propellants, and as on previous TRUMPET missions
+this caused some comet discovery reports to come in to the IAU Central
+Bureau for Astronomical Telegrams.
+
+Meanwhile, the NRO's LACROSSE 3 classified radar imaging payload is now
+in a 664 x 666 km x 55.0 deg operational orbit, according to amateur
+observers. Its Lockheed/Sunnyvale Bus-1 propulsion system raised the
+perigee from an initial 430 x 669 km orbit.
+
+Five more Motorola Iridium satellites were launched by Boeing Delta 2 on
+Nov 9 into a 625 x 642 km x 86.6 deg orbit. The Delta second stage then
+lowered its perigee to 253 km.  Of the Iridium satellites launched
+previously, all but three  are in a 777 x 777 km x 86.4  deg operational
+orbit. Iridium SV011 is 15 km lower; Iridium SV021 and SV027 never left
+their initial parking orbits.
+
+Mars Global Surveyor resumed aerobraking on Nov 9. Orbit is now 135 x
+45088 km  x 93 deg. It will continue aerobraking for a few months
+and then pause again, before finally reaching its target sun-synchronous
+orbit in 1999, a year later than planned thanks to the problem with its
+solar panel.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Oct  5 1508   Progress M-36     Soyuz-U       Baykonur LC1     Cargo      58A
+Oct  5 2101   Echostar III      Atlas IIAS    Canaveral LC36   Comsat     59A
+Oct  9 1808   Foton No. 11  )   Soyuz-U       Plesetsk         Micrograv  60A
+              Mirka         )
+Oct 15 0843   Cassini  )        Titan Centaur Canaveral LC40 Saturn probe 61A
+              Huygens  )                                      Titan probe 
+Oct 16 1913   Apstar 2R         CZ-3B         Xichang         Comsat      62A
+Oct 22 1315   STEP M4           Pegasus XL    Wallops I?       Technology 63A
+Oct 24 0232   Lacrosse 3?       Titan 4A      Vandenberg SLC4E  Recon     64A
+Oct 25 0046   DSCS III B-13 )   Atlas IIA     Canaveral LC36A  Comsat     65A
+              Falcon Gold   )                                  Technology 65B
+Oct 30 1343   Maqsat H )        Ariane 5      Kourou ELA3      Technology 66A
+              Maqsat B )                                                  66B
+              YES      )                                                  66C
+Nov  2 1225   SCD-2A            VLS           Alcantara        Rem.sens.  FTO
+Nov  3 0405   Sputnik-40                      Mir,LEO          Demo       58C
+Nov  5 0030   GPS 38            Delta 7925    Canaveral LC17A  Navsat     67A
+Nov  8 0205   Trumpet 3         Titan Centaur Canaveral LC41   Signal int 68A
+Nov  9 0134   Iridium 38 )      Delta 7920    Vandenberg SLC2  Comsat     69E
+              Iridium 39 )                                     Comsat     69D
+              Iridium 40 )                                     Comsat     69C
+              Iridium 41 )                                     Comsat     69B
+              Iridium 43 )                                     Comsat     69A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-87  Nov 19
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis   En route Palmdale  OMDP
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/RSRM63/ET-89/OV-102 LC39B         STS-87                         
+MLP2/
+MLP3/RSRM64              VAB Bay 1     STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,337 @@
+Jonathan's Space Report
+No. 679                                                     2013 May 21, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Expedition 36 is underway with astronauts  Vinogradov, Misurkin and Cassidy.
+Ferry ship Soyuz TMA-08M is at Poisk. Cargo ship Progress M-18M is at
+the Pirs module, while Progress M-19M is at the Zvezda module.
+
+On May 9 a serious ammonia coolant leak was discovered on the P6 truss
+segment, one of the outboard segments of the Station that carries a pair
+of solar array wings. The 2B solar array section was be shut down to
+isolate the leak, reducing the power available to operate the Station.
+(details are from www.nasaspaceflight.com, which has the best coverage
+on this).
+
+On May 11 astronauts Cassidy and Marshburn, in suits EMU 3010 and EMU
+3005, carried out spacewalk US EVA-21 from the Quest airlock to replace
+a Pump Flow Control System (PFCS) unit suspected to be responsible for
+the ammonia leak. The Station has eight solar array wings, labelled 1A,
+1B, 2A, 2B, 3A, 3B, 4A and 4B. Associated with each wing is one PFCS
+unit, which is a 111 kg, 1.0 x 0.5m box placed in the IEA (Integrated
+Electronics Assembly) section of the truss. In addition, two further
+PFCS units on the P6 Long Spacer (LS) were used as part of the EEATCS
+Early External Active Thermal Control System used when P6 was installed on the
+zenith of Z1 between 2000 Dec 3 and 2007 Oct 28, and a spare PFCS was
+launched on the ESP-1 external stowage platform in 2001.
+
+
+PFCS units:
+   Truss section    Solar array wing   Launched
+1  Port 6 IEA       2B                 2000 Dec 1 - removed to Port 6 Long Spacer on May 13
+2  Port 6 IEA       4B                 2000 Dec 1
+3  Port 6 LS        EEATCS             2000 Dec 1 - moved to Port 6 IEA/2B on May 13
+4  Port 6 LS        EEATCS             2000 Dec 1
+5  Lab ESP-1        -                  2001 Mar 8  (Spare)
+6  Port 4 IEA       2A                 2006 Sep 9
+7  Port 4 IEA       4A                 2006 Sep 9
+8  Stbd 4 IEA       1A                 2007 Jun 8
+9  Stbd 4 IEA       3A                 2007 Jun 8
+10 Stbd 6 IEA       1B                 2009 Mar 15
+11 Stbd 6 IEA       3B                 2009 Mar 15
+   
+During the spacewalk, the astronauts removed the 2B PFCS unit from the
+P6 IEA and swapped it with one of the EATCS units on the P6 Long Spacer.
+Quest was depressurized at 1241 UTC and repressurization began at 1814 UTC.
+It appears that the ammonia leak has indeed stopped as a result of the
+PFCS swap.
+
+On May 12 at 1948 UTC Expedition 35 commander Chris Hadfield transferred
+command of Station to Pavel Vinogradov. Meanwhile, Hadfield relased his
+cover of a David Bowie ballad performed while floating in a most
+peculiar way sitting in a tin can far above the world. If `Ground
+Control to Major Tom' rings a bell for you, you'll want to listen:
+http://www.youtube.com/watch?v=KaOC9danxNo
+
+On May 13 at 2308 UTC Soyuz TMA-07M undocked from Rassvet carrying commander Roman Romanenko
+and flight engineers Chris Hadfield and Tom Marshburn. After deorbit burn at 0137 UTC May 14,
+the descent module landed in Kazakhstan at 0231 UTC.
+
+On May 13 at 2308 UTC Expedition 36 began with commander Pavel Vinogradov, FE-2 Aleksandr
+Misurkin and FE-3 Chris Cassidy.
+
+On May 17, the Station's orbit was raised slightly using Progress M-19M's rocket engines.
+
+There is some concern that the antenna that failed to deploy correctly
+on M-19M may have damaged a Zvezda laser-reflector needed for the forthcoming
+planned ATV-4 docking. Progress M-19M will undock in mid-June.
+
+
+Kunpeng-7
+---------
+
+China reported the launch of a suborbital high altitude sounding rocket
+on May 13 to an altitude of more than (but of order?) 10000 km, and possibly
+of order 30000 km. 
+
+The Chinese report said that a barium release was carried out at around
+`1 wan' (10000) km, and that the rocket went higher than `1 wan' km, but
+did not specify how much higher. The US Dept of Defense reports that it
+tracked the launch on a path to `nearly GEO' with reentry 'over the
+Indian Ocean': Since GEO is at 35780 km, the vague phrase `nearly GEO'
+might seem to imply an apogee closer to 30-35 thousand km than 10
+thousand . However, US intelligence has been floating the possibility of
+a GEO-altitude Chinese ASAT test; one might therefore worry that if they
+only tracked it early in flight with resulting large apogee
+uncertainties, they may be prone to getting the answer they expected. It
+is hard to draw firm conclusions without a more precise statement from
+the DoD (or, for that matter, from China).
+
+For the record the full statement from LtCol Catherine Wilkinson, Dept
+of Defense, kindly forwarded by Tomotaro Inoue of Kyodo News, is:
+
+ "We detected a launch on May 13 from within China. The launch appeared
+  to be on a ballistic trajectory nearly to geosynchronous Earth orbit. We
+  tracked several objects during the flight but did not observe the
+  insertion of any objects into orbit and no objects associated with this
+  launch remain in space.
+
+ "Based upon observations, we assess that the objects reentered the
+  atmosphere above the Indian Ocean. We defer any further questions to the
+  government of China."
+
+The rocket appears to have been launched on a 32 deg inclination path SE
+from Xichang (based on NOTAM analysis) and according to reports on
+nasaspaceflight.com its flight was observed widely in SE China and Hong
+Kong. 
+
+The Kunpeng-7 magnetosphere science payload was reported to have
+included a Langmuir probe, particle detectors, a magnetometer,  and a
+barium cloud release. Because of the relatively unusual secrecy
+preceding the launch some analysts  concluded that the mission was
+actually a military one. The only previous large military program known
+to have launched from Xichang in recent years was the antisatellite test
+program; the launch vehicle for Kunpeng-7 was reported to be from the
+CASIC company and was probably a variant of the DF-21 missile used in
+that program or its DF-31 cousin. It is indeed possible that this launch
+was to qualify a new launch vehicle variant intended to carry a high
+altitude ASAT payload - but there's no evidence that such a payload was
+carried on this particular flight. 
+
+This is the highest altitude suborbital flight since Gravity Probe A in
+1976, and possibly since Blue Scout Jr O-2 in 1961. If the rocket
+reached 30000 km, its flight may have lasted 8 to 9 hours and impacted
+in the Indian Ocean - moving east for the first hour or so, and then to
+the southwest as it slowed and the Earth's rotation overtook it, passing
+perhaps over Malaysia and Sumatra, then east again in the final hour of
+descent. Flights like this can loosely be described as sounding rockets,
+but the more precise term of art is 'vertical probe', which was used to
+describe similar Soviet and US high altitude suborbital flights in the
+1960s and 1970s.
+
+Unlike typical sounding rocket or ICBM launches, although this launch
+was suborbital it had more than orbital energy, which places it in a
+special category; I assign the launch a 'U-series' pseudo-international
+designation (U for uncataloged or unusual, take your pick) of 2013-U01.
+You'll find other interesting launches in this category if you dig
+through my online launch vehicle database. I estimate the launch had a
+C3 (specific binding energy, -GM/a) of at least -42 km^2/s^2 and perhaps
+as much as -19, (compared to a LEO C3 of circa -58 and a GTO C3 of -16;
+C3>=0 is needed for Earth escape). I also find it useful to characterize
+orbits by their specific total energy ETOT, ETOT = GM/R(Earth) - GM/2a,
+which represents the sum of kinetic and potential energy relative to an
+inertial point on the geoid - ETOT is just 2 * C3 plus a constant,
+
+For this launch ETOT was between 41 and 53 in these units compared
+to 33 for LEO and 54 for GTO. For comparison sounding rockets typically
+have circa C3 = -118, ETOT = 3 and ICBMs have C3 = -80, ETOT = 21. (ETOT
+is defined as the sum of inertial kinetic and potential energy at apogee).
+
+
+Chinasat
+--------
+
+China's Zhongxing-11 (ChinaSat-11) satellite was launched on May 1 into
+geostationary transfer orbit (initial data from Rui Barbosa on
+Nasaspaceflight.com; nice to meet you in Lisboa, Rui!). Object A was in
+a 196 x 42178 km x 26.7 deg orbit initially, changed  by May 10 to a
+35775 x 35803 km x 0.7 deg orbit over the Pacific at 163 deg East.
+Object B, the CZ-3B third stage rocket, is in a 227 x 43081 km orbit.
+The ZX-11 satellite, a DFH-4 model, is operated by China Satcom
+(Zhongguo weixingtongxin jituangongsi).
+
+Vega VV02
+---------
+
+Arianespace's Vega rocket made a second successful flight on May 7.
+Flying north-northwest from Kourou, the three solid stages reached a
+near-orbital trajectory of around -370 x 226 km. Stage 3 reentered over
+the Canadian Arctic around 0228 UTC. The AVUM liquid fourth
+stage then made a first burn to about 289 x 820 km at 0217 UTC; at 0300
+UTC a second burn circularized the orbit at apogee and the upper
+payload, Proba-V, was deployed into a 787 x 828 km x 98.7 deg
+orbit. A third burn at 0310 UTC lowered perigee, leading to a 
+670 x 815 km orbit. At 0357 UTC the lid of the dual payload adapter, Vespa, was
+ejected, and at 0400 UTC AVUM's burn 4 recircularized the orbit at 669 x
+673 km x 98.1 deg. The lower payload VNREDSAT-1 was ejected at 0404 UTC,
+with the 1U cubesat ESTCube-1 deployed three minutes later. At 0423 UTC
+the AVUM stage was scheduled to make a deorbit burn for disposal in the
+South Pacific, probably reentering around 0510 UTC west of southern Chile.
+
+Proba-V is a European Space Agency technology satellite carrying the
+Vegetation sensor previously used on French SPOT remote sensing
+satellites. It was built by Qinetiq Space (formerly Verhaert) in
+Belgium. The VNREDSAT-1, built by  Astrium/Toulouse, is a remote sensing
+satellite for the Vietnam Academy of Science and Technology.  ESTCube-1
+was built by the Estonian Student Satellite Program led by the
+University of Tartu.
+
+Eutelsat 3D
+------------
+
+International Launch Services launched the Eutelsat 3D satellite on a Khrunichev 
+Proton-M on May 14 into a 6782 x 35741 km x 17.6 deg geostationary transfer orbit.
+The Briz-M stage then maneuvered to a 5866 x 34205 km x 180 deg orbit,
+with the DTB drop tank in a 335 x 18231 km x 49.5 deg orbit.
+
+Eutelsat 3D, for the Paris-based Eutelsat European satellite
+communications company,  uses a Thales Alenia Spacebus 4000 spacecraft
+bus and has Ku-band and Ka-band transponders. It will be stationed
+temporarily at 3 deg East until replaced by Eutelsat 3B, and then will
+move to 7 deg E where it will probably be renamed to Eutelsat 7B.
+
+GPS IIF F-4
+-----------
+
+United Launch Alliance flew the Atlas AV-039 mission to place a GPS navigation satellite
+in orbit on May 15. The Atlas flew up the US east coast to put the GPS and Centaur
+in a 167 x 20335 km x 55 deg transfer orbit. After coasting for three hours Centaur
+fired again to circularize the orbit, with spacecraft separation at 0102 UTC on May 16
+into a 20449 x 20471 km x 55 deg orbit. The Centaur then made a disposal burn
+to 20457 x 22342 km x 55.6 deg.
+
+The payload is GPS space vehicle number 66/ IIF-SV5, the fifth IIF model to be built
+(IIF-SV4 was launched as IIF Flight 3; SV3 has not yet been launched). It has been
+given the nickname 'Vega'. Block IIF satellites are named after stars traditionally
+used for navigation:
+    SVN62  Block IIF-1   (unknown name: please contact me if you know it!)
+    SVN63  Block IIF-2   Sirius
+    SVN65  Block IIF-3   Arcturus
+    SVN66  Block IIF-4   Vega
+
+
+Bion M-1
+--------
+
+Russia's Bion-M biological satellite landed 82 km N of Orenburg at 0312
+UTC on May 19 after a 29.7 day flight. Unfortunately the crew of gerbils
+perished during the flight due to equipment failure; all of the geckos
+and half of the mice are reported to be alive. The spacecraft was
+launched to a 252 x 554 km initial orbit and used its onboard engine
+with a burn at 0605 UTC Apr 21 to reach an operational 557 x 581 km x
+64.9 deg orbit, where it remained until May 14 at about 0350 UTC when a
+perigee lowering burn left it in a 471 x 579 km orbit.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Mar  1 1510   Dragon CRS-2       Falcon 9          Canaveral SLC40   Cargo      10A
+Mar 19 2121   SBIRS GEO-2        Atlas V 401       Canaveral SLC41  Early Warn  11A
+Mar 26 1907   Satmex 8           Proton-M/Briz-M   Baykonur LC200/39 Comms      12A
+Mar 28 2043   Soyuz TMA-08M      Soyuz-FG          Baykonur LC1/5   Spaceship   13A
+Apr 15 1836   Anik G-1           Proton-M/Briz-M   Baykonur LC200/39 Comms      14A
+Apr 19 1000   Bion-M No. 1 )     Soyuz-2-1A        Baykonur LC31/6  Life Sci    15A
+              OSSI-1       )                                                    15B
+              BEESAT-2     )                                                    15G
+              BEESAT-3     )                                                    15E
+              SOMP         )                                                    15F
+              Dove-2       )                                                    15C
+              AIST-2       )                                                    15D
+Apr 21 2100   Cygnus Mass Sim )  Antares 110       Wallops MARS 0A  Tech        16A
+              Alexander       )                                     Tech        16C
+              Graham          )                                     Tech        16E?
+              Bell            )                                     Tech        16D
+              Dove-1          )                                     Tech        16B
+Apr 24 1012   Progress M-19M     Soyuz-U          Baykonur LC1/5    Cargo       17A
+Apr 26 0413   Gao Fen 1     )                                       Imaging     18A
+              NEE-01 Pegaso )    Chang Zheng 2D   Jiuquan           Tech
+              Turksat-3USAT )                                       Tech
+              CubeBug-1     )                                       Tech
+Apr 26 0523   Glonass-M No. 47   Soyuz-2-1B/Fregat Plesetsk         Nav         19A
+May  1 1606   Zhongxing-11       Chang Zheng 3B/E Xichang           Comms       20A
+May  7 0206   Proba-V     )                                         Imaging     21A
+              VNREDSAT-1  )      Vega             Kourou ZLV        Imaging     21B
+              ESTCube-1   )                                         Tech        21C
+May 13 1258   Kunpeng-7        Unknown (DF-31?)    Xichang        Magnetosphere U01
+May 14 1601   Eutelsat 3D        Proton-M/Briz-M  Baykonur LC200/39 Comms       22A
+May 15 2138   GPS SVN 66 (Vega)  Atlas V 401      Canaveral SLC41   Nav         23A
+
+
+Suborbital launches
+-------------------
+
+Colorado's SLICE UV astronomy experiment launched from White Sands on Apr 21 as flight
+NASA 36.271UG, to study the Local Interstellar Cloud. The payload is a reflight of
+the DICE experiment launched on 2010 May 21. It was followed two days later by
+the third flight of the NASA-Goddard EUNIS solar telescope, NASA 36.269GS.
+The Johns Hopkins ultraviolet telescope FORTIS was launched on May 11.
+
+On May 1 NASA carried out the first of a series of launches from
+Roi-Namur Island, part of Kwajalein Atoll in the Pacific, with the Air
+Force Research Lab's MOSC payload. The flight, NASA 41.100DR, released a
+cloud of samarium vapor to investigate the use of 'metal oxide space
+clouds' to suppress ionospheric disturbances that disrupt radio signals.
+The flight was funded by the US Air Force Space Test Program.
+On May 7, two more Kwajalein launches were flown for the University of
+Illinois' Equatorial Vortex Experiment (EVEX), and a second MOSC launch, 41.102DR,
+flew on May 9.
+
+The French ministry of defense launched an M51 missile from the submarine Le Vigilant
+off the coast of Brittany on May 5, but it was destroyed after a first stage failure and
+did not reach space.
+
+On May 17 the Missile Defense Agency launched an ARAV-C two-stage target from Kauai
+and intercepted it with an Aegis SM-3 missile. ARAV-C is thought to use Talos and Castor 1
+solid motors.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Mar 11 0610?  Shark            Terrier Lynx        Wallops I         Target       300?
+Apr  4 2155   Kunpeng-1        Tianying-3E         Hainan            Ionosphere   191
+Apr  7 0455   Agni RV          Agni 2              Wheeler I.        Op. Test     200?
+Apr 10        Haft-IV RV       Shaheen 1           Somniani?         Op. Test     100?
+Apr 12 0425   TEXUS 50         VSB-30              Kiruna            Micrograv    261
+Apr 21 0800   SLICE            Black Brant IX      White Sands       FUV Astron   318?
+Apr 23 1730   EUNIS            Black Brant IX      White Sands       Solar EUV    320?
+May  1 0738   NASA 41.100DR    Terrier Imp. Orion  Roi-Namur         Ionosphere   189
+May  7 0400   REXUS 14         Imp. Orion          Kiruna            Micrograv     81
+May  7 0739   NASA 45.005UE    Terrier Oriole      Roi-Namur         Atmosphere   350?
+May  7 0740   NASA 46.001UE    Terrier Imp.Mal.    Roi-Namur         Atmosphere   350?
+May  9 0400   REXUS 13         Imp. Orion          Kiruna            Micrograv     83
+May  9 0723   NASA 41.102DR    Terrier Imp. Orion  Roi-Namur         Ionosphere   188 
+May 11 0500   FORTIS           Black Brant IX      White Sands       UV Astron    280?
+May 13 1258   Kunpeng-7        Unknown (DF-31?)    Xichang        Magnetosphere 30000?
+May 17 0325   FTM-19 Target    Talos-Castor?       Kauai             Target       300?
+May 17 0330?  Aegis KV         SM-3-1B             USS Lake Erie     Interceptor  150?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+ 
+

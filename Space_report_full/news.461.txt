@@ -1,0 +1,162 @@
+Jonathan's Space Report
+No. 461                          2001 Sep 16-17 New York, NY and Cambridge, MA
+-------------------------------------------------------------------------------
+
+Editorial - Off topic (but what other topic is there this week?)
+-----------------------------------------------------------------
+
+Best wishes to all those in NYC and Washington affected by the terrorist
+attacks. I just returned from two days in New York visiting a friend,
+and write some of these words as the Acela train speeds me back to
+Boston; it was incredible and harrowing, but actually being there helped
+me to absorb the reality. Nevertheless, only a few blocks from the WTC,
+things are surprisingly normal now - they're already selling tasteless
+commemorative t-shirts, and the cafes and restaurants and shops were
+quite busy only a day after the evacuation zone was moved from 14th to
+Canal St (I strenuously  obeyed the mayor's command to help revitalize
+the NYC economy by spending lots of money). We stood by the checkpoint
+at the end of Canal St and cheered the recovery workers coming off
+shift, and walked round to Gold St which is a few blocks from Liberty
+Plaza. I was surprised that although there was still a lot of smoke
+rising in the air from the smoldering fires, there was no problem with
+dust or smell from where we were. It's grim, but it could have been
+orders of magnitude worse - all kudos to the structural engineers who
+built WTC well enough to let all those thousands escape. 
+
+
+Shuttle and Station
+--------------------
+
+The Station has a new Russian docking and airlock module. The 
+Stikovochniy Otsek No. 1 (SO1, Docking Module 1), article 240GK No. 1L,
+was built by Energiya and derived from Soyuz hardware. It has a mass of
+around 3900 kg and is a 4.1m long, 2.6m dia ellipsoid. The SO1 was
+named Pirs (Russian for "pier"). It was launched attached to the GKM
+(cargo ship-module) Progress-M No. 301, named Progress M-SO1 after
+launch. Progress M-SO1 is the service module section of a Progress M;
+Pirs replaces the normal cargo and fuel sections. Mass of the GKM is
+probably around 3000 kg. 
+
+Pirs and Progress M-SO1 were launched from Baykonur at 2335 UTC on Sep
+14 aboard a Soyuz-U launch vehicle into around a 180 km circular orbit.
+By Sep 16 the combination had manuevered into a 238 x 264 km orbit; at
+0038 UTC on Sep 17, now in a 385 x 395 km x 51.6 deg orbit,
+Pirs/Progress began a flyaround of the ISS and lined up with the nadir
+port on Zvezda. Docking of Pirs with Zvezda came at 0105 UTC on Sep 17. 
+The Progress M-SO1 will later undock from the Pirs nadir port to leave
+it free for further dockings. Pirs gives extra clearance from the
+Station for ships docking underneath Zvezda, and will be used as an
+airlock for spacewalks using the Russian Orlan EVA suits.
+
+
+Recent Launches
+---------------
+
+A Lockheed Martin Atlas IIAS was launched from Space Launch Complex
+3-East at Vandenberg AFB on Sep 8. The payload was for the National
+Reconnaissance Office (NRO) and is believed to be the first of a new
+series of naval electronic intelligence satellites. The first burn of
+Centaur AC-160 put the vehicle in a transfer orbit. The phrasing of the
+launch commentary implied that the the second burn left the payload in
+'transfer orbit', but Ted Molczan reports visual observations from
+several observers indicating the bright Centaur is in the final
+deployment orbit of the NOSS satellites. I therefore conclude that the
+first burn was to a transfer orbit of around 180 x 1100 km x 63 deg. The
+second burn at 1629 UTC put Centaur and payload in an 1100 x 1100 km x
+63 deg orbit. The payload then began dispensing the NOSS subsatellites
+(only one object, however, has so far been reported, so it is possible
+the satellite design is different).
+
+The only problem with this reconstruction is that the commentary
+confirmed the payload separated from Centaur shortly after the second
+burn. If it's like the old NOSS and the payload is basically just a
+dispenser for the main satellites, it's not obvious why it would
+separate at all. Perhaps like the Titan dispenser it uses small
+thrusters for precise positioning of the deployed satellites, although
+they are also believed to have some onboard propulsion so I don't see
+why that would really be needed. I remain somewhat open to the
+possibility that the observations of a bright Centaur-like object in the
+final orbit are actually of the dispenser and that the Centaur was
+deorbited from elliptical transfer orbit. 
+
+Following experiments with small satellites by NRL in the 1960s, the
+PARCAE system was launched beginning in 1976 using Atlas F (and later
+Atlas H) launch vehicles with Star 20 kick motors. Each PARCAE launch 
+comprised three satellites which flew in formation and used
+interferometry to locate surface vessels. The PARCAE system, developed
+by NRL and then built in production by Martin Marietta/Denver, was
+superseded by an improved generation of triplets, four sets of which
+were launched between 1990 and 1996. Both generations flew in 1100 km,
+63 deg orbits. The second generation used the Titan 4 launch vehicle; it
+is believed that the excess capacity on these vehicles was used to carry
+SLDCOM communications satellite payloads. The new generation uses an
+intermediate Atlas-Centaur vehicle, so there is probably no extra
+payload this time. Prime contractor for the new satellites is  again
+believed to be the same Denver group, now called  Lockheed Martin
+Astronautics, and I speculate that NRL probably continues to have a
+management and technical role in the program under overall NRO auspices.
+
+
+The two Aerospace Corp. tethered Picosats, Picosat 7/Picosat 8, were
+ejected from the Mightysat II.1 satellite on Sep 7 at 1939 UTC into a
+511 x 539 km x 97.8 deg orbit. The 0.25 kg satellites are connected by a
+small tether (probably 30m long like the previous picosat pair) and are
+cataloged as a single object. Mightysat II.1 (Sindri) was launched in
+Jul 2000, and the deployment of the picosats was planned for a year
+after launch. The Picosat 21/23 pair was launched from the Opal
+satellite in Feb 2000.
+
+A TsSKB-Progress Blok-E final stage from a Vostok 8A92M launch vehicle
+launched on 1975 Aug 22 reentered on Sep 6. The reentry was seen by many
+people along the eastern seaboard of the USA. The 8A92M rocket placed a
+Tselina-D electronic intelligence satellite, codenamed Kosmos-756, in
+orbit; that satellite reentered in 1992.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Aug  6 0728   DSP 21            Titan 4B/IUS   Canaveral SLC40  Early Warn   33A
+Aug  8 1613   Genesis           Delta 7326     Canaveral SLC17A Space probe  34A
+Aug 10 2110   Discovery  )      Shuttle        Kennedy LC39     Spaceship    35A
+              Leonardo   )
+Aug 20 1830   Simplesat         -              Discovery, LEO   Astronomy    35B
+Aug 21 0924   Progress M-45     Soyuz-U        Baykonur LC1     Cargo        36A
+Aug 24 2034   Kosmos-2379       Proton-K/DM2M? Baykonur LC81R   Early Warn?  37A
+Aug 29 0700   VEP-2   )         H-2A           Tanegashima      Technology   38B
+              LRE     )                                         Geodesy      38A
+Aug 30 0646   Intelsat 902      Ariane 44L     Kourou ELA2      C/Ku telecom 39A
+Sep  7 1939   Picosat 7/8       -              Sindri, LEO      Technology  00-42C
+Sep  8 1525   USA 160           Atlas IIAS     Vandenberg SLC3E Sigint       40A
+Sep 14 2335   Pirs           )  Soyuz-U        Baykonur LC1     Station module  
+              Progress M-SO1 )                                  Cargo        41A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       OPF Bay 2     Maintenance
+OV-104 Atlantis        VAB           STS-110 2002 Feb 28  ISS 8A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

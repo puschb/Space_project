@@ -1,0 +1,217 @@
+Jonathan's Space Report
+No. 375                                        1998 Oct  12 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The next Shuttle mission is STS-95, with orbiter OV-103 Discovery.
+For mission STS-95, Discovery's payload bay carries a Spacehab
+module and an assortment of research experiments managed by NASA-Goddard
+(GSFC).
+
+ Bay Sill RMS Arm 202 with ACVS
+ Bay 1-2  External Airlock  
+ Bay 3-4  Tunnel Adapter 001
+ Bay 5-7  Spacehab Single Module (FU1)
+ Bay 8S   GABA with CRYOTSU
+ Bay 10   SFSS with Spartan 201
+ Bay 11   UASE with HOST
+ Bay 12   MPESS HH-M with IEH-3 and PANSAT
+ Bay 13S  APC? with IVHM
+ Bay 13P  GABA with G-467 and G-779
+
+The external airlock (EAL) is installed in Discovery for use in Space
+Station docking missions, but the ODS docking system is not installed on
+this flight. The Tunnel Adapter has a hatch in case an emergency
+spacewalk is needed, and provides a pressurized tunnel connecting the
+EAL to the Spacehab module.
+
+The Spacehab module is flight unit 1, which has flown on 3 previous
+missions (SH-01/STS-57, SH-03/STS-63, SH-04/STS-77). On this flight it
+contains microgravity experiments, including the Microgravity Glovebox,
+the PCAM and APCF protein crystal growth units, the STES vapor diffusion
+unit, the ASP advanced separation facility, and the BioDyn commercial
+bioreactor. DSO 630 includes equipment to monitor John Glenn's heart
+rate.
+
+ACVS is the Autotrack Computer Vision System, a new camera
+system mounted on the RMS manipulator arm.
+
+CRYOTSU consists of an HH-G avionics box and a GAS canister
+mounted on a GABA (GAS Beam Adapter) on the payload bay wall.
+The joint USAF/GSFC experiment tests new thermal control technology.
+
+The SFSS (Spartan Flight Support Structure) is an MPESS bridge
+across the payload bay. It carries two canisters: SEM-4
+which is full of high school experiments, and VGS (Video Guidance
+System) which includes a camera and laser for rendezvous experiments.
+Mounted on the SFSS is the Spartan-201 satellite which will be
+deployed and then retrieved by the RMS arm. Spartan-201
+is on its fifth flight, a repeat of the fourth mission to support
+SOHO calibration. The fourth mission failed when the crew did not
+activate the satellite correctly.  Spartan-201's main payload,
+as on all its flights, is the UVCS and WLC telescope package
+containing the SAO/Cambridge ultraviolet spectrometer and the
+HAO/Boulder white light coronagraph. On this mission, secondary
+experiments include the target for the VGS laser, and sample
+plates to trap beryllium ions from the solar wind.
+
+Behind SFSS in the bay is the UASE, UARS Airborne Support Equipment,
+a carrier first used to deploy the UARS satellite in 1991. It has
+been refurbished to carry the HOST (Hubble Orbital Systems Test)
+experiments. HOST includes the NICMOS infrared camera's new cooling
+system, an advanced computer and a solid state recorder; the systems
+are being tested in orbit before being installed on the Hubble
+Space Telescope on a servicing mission in 2000.
+
+The last major payload in the bay is the HH-M carrier, another MPESS
+bridge, configured to carry the IEH-3 International Extreme Ultraviolet
+Hitchhiker mission. IEH-3 carries the UVSTAR, STAR-LITE, SEH and SOLCON
+astronomical telescopes and the G-764 canister with an experiment
+to simulate accretion of interplanetary dust. It also carries the
+PANSAT canister which will eject a small satellite (PANSAT = Petite
+Amateur Navy Satellite) developed by the US Navy Postgraduate School.
+PANSAT is a 57 kg, 0.48m diameter UHF store-forward comsat. It appears
+similar to the GLOMR/SECS satellites launched in 1985 and 1990.
+Some documents indicate that canister G-238, a high school
+experiment to study cockroaches in space (I'm serious!) is also 
+on IEH-3, while others list a materials processing experiment called
+CONCAP-IV. One payload probably bumped the other at a late date, but
+I'm not sure which one is current.
+
+At the rear of the bay, another GABA adapter carries two GAS canisters.
+G-467 carries the European Space Agency's TPX II thermal control system
+experiment, while  G-779 carries Bellarmine College's 'Hearts in Space'
+experiment, with an artificial heart and circulation system to study
+changes in heart size in microgravity. On the opposite site
+of the bay, an IVHM (Integrated Vehicle Health Monitoring) sensor
+is mounted.
+
+Editorial
+---------
+
+I've added a new `work in progress' web page giving details of the
+French national space program, including previously unpublished
+information on the French sounding rocket program courtesy of
+CNES/Toulouse. Comments and corrections, as always, welcome.
+
+  http://hea-www.harvard.edu/~jcm/space/nbook/programs/europe/cnes/
+
+Errata
+-------
+
+A couple of launches got missed from my new launch log
+because they were rockets with no payloads aboard (e.g. early
+Centaur test flights). I've updated the launchlog.txt file
+to fix these and some other minor errors.
+
+The Ariane V111 launch was a 44L model, with four PAL liquid
+strapons, and not a 44LP as I said last issue. The Ariane 44L
+is the most powerful version of Ariane 4. There have been
+10 flights of the 44L with the improved H-10-3 upper stage,
+listed below:
+
+1995 Dec  6 V81  Insat 2C/Telecom 2C  
+1996 Jan 12 V82  Measat 1/PAS 3R      
+1996 May 16 V86  Palapa C2/Amos 1     
+1996 Jul  9 V89  Turksat 1C/Arab. 2A  
+1996 Aug  8 V90  Italsat 2/Telecom 2D 
+1996 Nov 13 V92  Arab. 2B/Measat 2    
+1997 Jan 30 V93  Nahuel 1A/GE-2       
+1997 Jun  3 V97  Inmarsat 3/Insat 2D  
+1997 Nov 12 V102 Sirius 2/Cakrawarta  
+1998 Oct  5 V111 Eutelsat W2/Sirius 3
+
+The (French) spelling of the home region of the CSG launch site is 
+Guyane, not Guiane. The line in the list of launch sites should
+have read
+CSG      Centre Spatial Guyanais, Kourou, Guyane, France       05 14N 52 47W
+where the revised position is that of the ELA2 pad.
+
+Recent Launches
+---------------
+
+In a launch provided by International Launch Services, a Lockheed Martin
+Astronautics Atlas IIA, serial AC-134, placed the Eutelsat Hot Bird 5
+satellite in orbit on Oct 9. The second comsat launch for Eutelsat in a
+few days, Hot Bird 5 is a Matra Marconi Space/Toulouse Eurostar 2000+.
+It provides high power broadcasting to Europe, Africa and the Middle
+East. Launch mass of the satellite was 3000 kg. 
+
+The Atlas IIA took off from Space Launch Complex 36B at Cape Canaveral,
+and the Atlas booster and sustainer delivered the Centaur IIA stage onto
+a suborbital trajectory. The Centaur first burn placed the vehicle in a
+low parking orbit, probably about 170 km, and the second burn raised
+apogee to geostationary altitude. After separation from Hot Bird, the
+Centaur made a final burn to deplete its propellant and prevent a later
+explosion. Hot Bird 5 will use its Marquardt R-4D liquid apogee engine
+to reach geostationary orbit, where it will replace Eutelsat II F-1.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  8 2113   Iridium SV77)     Delta 7920    Vandenberg SLC2   Comsat     51E
+              Iridium SV79)                                     Comsat     51D
+              Iridium SV80)                                     Comsat     51C
+              Iridium SV81)                                     Comsat     51B
+              Iridium SV82)                                     Comsat     51A
+Sep  9 2029   Globalstar FM5 )  Zenit-2       Baykonur          Comsat     F05
+              Globalstar FM7 )                                  Comsat     F05
+              Globalstar FM9 )                                  Comsat     F05
+              Globalstar FM10)                                  Comsat     F05
+              Globalstar FM11)                                  Comsat     F05
+              Globalstar FM12)                                  Comsat     F05
+              Globalstar FM13)                                  Comsat     F05
+              Globalstar FM16)                                  Comsat     F05
+              Globalstar FM17)                                  Comsat     F05
+              Globalstar FM18)                                  Comsat     F05
+              Globalstar FM20)                                  Comsat     F05
+              Globalstar FM21)                                  Comsat     F05
+Sep 16 0631   PAS 7             Ariane 44LP   Kourou ELA2       Comsat     52A
+Sep 23 0506   Orbcomm FM21 )    Pegasus XL/HAPS Wallops I       Comsat     53A
+              Orbcomm FM22 )                                    Comsat     53B
+              Orbcomm FM23 )                                    Comsat     53C
+              Orbcomm FM24 )                                    Comsat     53D
+              Orbcomm FM25 )                                    Comsat     53E
+              Orbcomm FM26 )                                    Comsat     53F
+              Orbcomm FM27 )                                    Comsat     53G
+              Orbcomm FM28 )                                    Comsat     53H
+Sep 28 2341   Molniya-1T?       Molniya-M      Plesetsk         Comsat     54A
+Oct  3 1004   STEX   )          ARPA Taurus    Vandenberg 576E  Technol.   55A
+              ATEX   )
+Oct  5 2251   Eutelsat W2 )     Ariane 44L     Kourou ELA2      Comsat     56A
+              Sirius 3    )                                     Comsat     56B
+Oct  9 2250   Hot Bird 5        Atlas IIA      Canaveral SLC36B Comsat     57A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  
+OV-103 Discovery       LC39B         STS-95  Oct 29
+OV-104 Atlantis        OPF Bay 2     ?
+OV-105 Endeavour       OPF Bay 1     STS-88  Dec  3
+
+MLP2/RSRM-68/ET-98/OV-103      LC39B     STS-95
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+

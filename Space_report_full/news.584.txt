@@ -1,0 +1,143 @@
+Jonathan's Space Report
+No. 584                                          2007 Aug 19, Somerville
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Yurchikin, Kotov and Anderson continue the Expedition 15 mission on
+board the Station. The Progress M-61 cargo ship docked with the Pirs
+module at 1840 UTC on Aug 5.
+
+Space Shuttle Endeavour was launched on Aug 8 at 2236 UTC.
+The STS-118 stack comprised Orbiter OV-105, solid rockets RSRM-97
+and external tank ET-117. The solid boosters separated 2 min after launch.
+At 2245 UTC the orbiter main engines cut off and ET-117 separated into
+an approximately 57 x 225 km x 51.6 deg orbit. The OMS-2 burn at 2313 UTC
+put Endeavour in a higher 229 x 317 km orbit as the ET fell back to reentry
+around 2346 UTC.
+
+Crew of STS-118 are Scott Kelly, Charles Hobaugh, Tracy Caldwell,  Rick
+Mastracchio, Dafydd Williams, Barbara Morgan, and Al Drew.
+
+Here is my estimated cargo bay manifest for STS-118:
+
+                           Bay      Mass (kg)
+ Orbiter Docking System    1-2      1800
+  EMU 3010                           130?
+  EMU 3017                           130?
+ Tunnel Adapter              3       112     
+ Spacehab-SM               5-7      5480?
+ SPDU                        8P         ?
+ S5 Truss                  8-10     1584
+ ESP-3                    11-12     3400
+  CMG-3R ORU              11-12      540?
+ OBSS                     Sill       450?
+ RMS 201                  Sill       410?
+-----------------------------------------
+ Total                             14036 kg
+
+The Spacehab Single Module carries research equipment and supplies for
+the Station. The SPDU (Station Power Distribution Unit) lets the Orbiter
+run off Station electricity during its stay, allowing a longer mission.
+The S5 truss will be installed on the end of S4, as a short spacer so
+that when S6 is added later, the S6 solar panels won't hit the S4 ones.
+The ESP-3 (External Stowage Platform 3) carries a spare nitrogen tank
+(NTA) for the truss cooling system,  a spare  truss  battery
+charge/discharge unit (BCDU), a spare Canadarm-2 robot arm pitch roll
+joint, and a replacement Control Moment Gyro for the Z1 truss.
+
+Endeavour docked at the PMA-2 adapter on the Station at 1802 UTC on Aug
+10 and the hatches to the Station were opened at 2004 UTC. The Shuttle
+Canadarm (RMS 201) lifted the S5 truss from the payload bay at 2050 UTC
+on Aug 10, and later handed it to the Station's Canadarm-2 which
+attached it to the main truss at 1730 UTC on Aug 11. Mastracchio and
+Williams began the first spacewalk of the mission on Aug 11 from the
+Quest airlock using suits EMU 3010 and 3017 respectively. The airlock
+was depressurized  by around 1624 UTC with hatch open at 1628 UTC; the
+astronauts supervised the S5 attachment process and completed fitting it
+out; they then monitored the retraction of a thermal radiator on the P6
+truss at 2128 UTC, closed the hatch at 2241 UTC and repressurized the
+airlock at 2245 UTC. 
+
+On Aug 13 they went outside again, with airlock depress at about 1526
+UTC and hatch open at 1529 UTC. During the spacewalk they replaced
+CMG-3, one of the gyroscopes in the Z1 truss segment. At 1626 UTC they
+removed it from Z1 and stowed it on a temporary bracket. At around 1735
+UTC they unberthed the new CMG and its frame from the ESP-3 platform in
+the rear of the payload bay, installing it on the ESP-2 platform next to
+the Quest airlock at 1822.  Then, the new CMG was removed from its frame
+at 1851 UTC and installed in Z1 at 1926 UTC. Next, the old CMG was
+carried to ESP-2 and placed in the empty frame. The hatch was closed at
+2157 UTC with repressurization at 2200 UTC. On Aug 14, ESP-3 was
+unberthed from Endeavour's payload bay and attached to the P3 truss on
+the Station, where its spare parts can be reached if needed.  
+
+EVA-3 by Richard Mastracchio and Clay Anderson 
+was on Aug 15, with airlock depress at 1434 UTC and hatch open at
+1436 UTC. The SASA antenna was relocated from P6 to P1, and the two
+CETA carts were moved from S1 to P1. At 1850 UTC Mastracchio discovered
+minor damage on his spacesuit glove, and the spacewalk was cut short.
+He returned to the airlock at 1855 UTC, with Anderson completing some
+tasks and returning at 1951 UTC. The hatch was closed at 2000 UTC
+and the airlock was repressurized at 2005 UTC. Anderson used EMU 3008,
+which is based on ISS in the Quest airlock.
+
+EVA-4 by Williams and Anderson began with Quest depressurization
+at 1314 UTC on Aug 18 and hatch opening at 1316 UTC and concluded
+with hatch closure at 1814 UTC and repressurization at 1819 UTC.
+The astronauts retrieved two MISSE exposure packs and installed
+an EWIS communications antenna on Destiny. They also installed mounting
+brackets for the OBSS (Orbiter Boom Sensor System) on the S1 truss.
+The OBSS will be left at S1 after STS-123 so that STS-124 can use it
+without having to carry it up (no room in the payload bay).
+
+A small gouge on a tile underneath the Orbiter caused some concern
+during the mission, but it was decided that a repair spacewalk
+is not required. The Shuttle crew returned to Endeavour on Aug 18
+and undocked on Aug 19 at 1156 UTC. Landing is scheduled for Aug 21.
+
+
+Ariane 
+------
+
+An Ariane 5ECA rocket launched from Kourou on Aug 14 placed the Spaceway
+3 and BSAT-3a satellites in orbit. Spaceway 3 is a 6075 kg full, 3655 kg
+dry Boeing 702 satellite for Hughes Network Systems, with a Ka-band
+payload for internet distribution. BSAT-3A is a 1967 kg full, 930 kg dry
+Lockheed Martin A2100A satellite for Japan Broadcasting Satellite
+Systems Corp. (BSAT) and has a Ku-band television payload.
+
+
+Erratum
+-------
+
+In the last issue, the launch time for Phoenix was wrong in the text,
+but correct in the table: it should read 0926 UTC not 1026 UTC.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  2 1938   SAR-Lupe 2        Kosmos-3M        Plesetsk LC132   Radar      30A
+Jul  5 1208   Zhongxing 6B      Chang Zheng 3B   Xichang LC2      Comms      31A
+Jul  7 0116   DirecTV 10        Proton-M/Briz-M  Baykonur LC200/39 Comms     32A
+Aug  2 1733   Progress M-61     Soyuz-U          Baykonur LC1     Cargo      33A
+Aug  4 0926   Phoenix           Delta 7925       Canaveral SLC17A Mars probe 34A
+Aug  8 2236   Endeavour  )      Space Shuttle    Kennedy LC39A    Spaceship  35A
+              ITS S5     )                                        Truss
+              Spacehab-SM)                                        Module
+Aug 14 2344   Spaceway 3 )      Ariane 5ECA      Kourou           Comms      36A
+              BSAT-3A    )                                        Comms      36B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,120 @@
+Jonathan's Space Report
+No. 401                                          1999 Jun 22  Cambridge, MA
+-------------------------------------------------------------------------------
+
+STS-93/Chandra
+---------------
+
+One month to launch!
+
+(I assume it will not surprise readers if these newsletters become
+even more irregular than usual for a while... we're just a *little*
+busy here!)
+
+The STS-93 stack was rolled out to pad 39B on Jun 7. The Chandra/IUS-27
+vehicle was placed in the payload canister on Jun 19. It was to be
+transferred to the pad on Jun 22, but problems with the pad service
+structure have delayed the transfer to Jun 24. Launch is still scheduled
+for Jul 20, but NASA Administrator Goldin has not yet approved the
+launch; he's waiting for the failure report on IUS-21 earlier this year.
+
+Recent Launches
+---------------
+
+Four Globalstar satellites were launched by Boeing Delta 7420-10 on Jun
+10. The two-stage Delta deployed the satellites in an intermediate
+orbit. The Globalstar satellites are built by Loral and Alenia, and will
+provide L-band mobile personal communications. As of Jun 22 the
+spacecraft were in 1410 km circular orbits at 52 deg inclination.
+
+On Jun 11, two Iridium satellites were launched from Taiyuan, China on a
+CALT Chang Zheng 2C with a Smart Dispenser upper stage. The satellites
+replaced the failed Iridium 14 and Iridium 21. The Iridium satellites
+are built by Motorola with a Lockheed Martin spacecraft bus; I don't
+know the production numbers of these satellites.
+
+A Krunichev/International Launch Services Proton-K took off from
+Baykonur on Jun 18 and placed in orbit an Energiya Blok DM3 upper stage
+with the Astra 1H payload. The DM3 ignited to enter a 200x  35854 km x
+51.6 deg transfer orbit. A second DM3 burn six hours after launch was
+successful in placing Astra in a 7474 x 35842 km x 16.4 deg
+deployment orbit.
+
+Astra 1H is a Hughes HS-601HP satellite with 28 Ku-band transponders and
+two higher frequency Ka-band transponders to support Astra's Return
+Channel System for two-way bandwidth-on-demand services. The satellite
+carries a Marquardt R-4D liquid bipropellant apogee motor and a XIPS ion
+propulsion system for stationkeeping. The Astra satellites are owned by
+the Societe Europeene des Satellites (SES) and registered by Luxembourg.
+
+NASA's QuikScat satellite was launched on Jun 20. QuikScat, built by
+Ball under a rapid delivery contract, carries the SeaWinds scatterometer
+for remote sensing of ocean winds. QuikScat was launched on  Titan
+23G-7, a two-stage refurbished ICBM. Titan 23G-7 took off from Space
+Launch Complex 4-West at Vandenberg at 0215 UTC. The second stage burned
+from 0217 UTC to 0220 UTC. The second stage then coasted to apogee with
+QuikScat still attached. Some descriptions of the mission implied that
+the second stage would separate early and an apogee motor would be used
+to achieve orbit (the NASA press kit even includes a drawing of such a
+motor), but I believe this represents confusion with earlier Titan 23G
+missions such as Landsat. On this mission, the payload entered
+elliptical orbit at the end of the Titan second stage burn, and the
+Titan second stage vernier thrusters ignited at apogee to raise perigee,
+leaving QuikScat in a 280 x 813 km x 98.7 deg parking orbit. The
+QuikScat's own hydrazine propulsion system will then fire to raise the
+perigee further over a period of weeks.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  5 0100   Orion 3           Delta 8930     Canaveral SLC17B Comsat     24A
+May 10 0133   Feng Yun 1C )     CZ-4B          Taiyuan          Imaging    25A
+              Shi Jian 5  )                                     Research   25B
+May 18 0509   TERRIERS    )     Pegasus XL/H   Vandenberg       Space sci  26A	
+              MUBLCOM     )                                     Comsat     26B
+May 20 2230   Nimiq 1           Proton-K/DM3   Baykonur LC81    Comsat     27A
+May 22 0936   USA 144?          Titan 4        Vandenberg SLC4E Unknown    28A
+May 26 0622   OceanSat 1  )     PSLV           Sriharikota      Imaging    29A
+              Kitsat-3    )                                     Imaging    29B
+              DLR-Tubsat-C)                                     Imaging    29C
+May 27 1049   Discovery   )     Shuttle        Kennedy LC39B    Spaceship  30A
+              Spacehab-DM ) 
+Jun  5 0721   Starshine         -              OV-103, LEO      Education  30B
+Jun 10 1348   Globalstar 52)    Delta 7420-10  Canaveral SLC17B Comsat     31A
+              Globalstar 49)                                               31B
+              Globalstar 25)                                               31C
+              Globalstar 47)                                               31D
+Jun 11 1715   Iridium 14A )     CZ-2C/SD       Taiyuan          Comsat     32A
+              Iridium 21A )                                     Comsat     32B
+Jun 18 0149   Astra 1H          Proton-K/DM3   Baykonur LC81    Comsat     33A
+Jun 20 0215   QuikScat          Titan 23G      Vandenberg SLC4W R/Sensing  34A
+              
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        LC39B         STS-93  Jul 20
+OV-103 Discovery       KSC RW15      STS-96  May 27
+OV-104 Atlantis        OPF Bay 3     STS-101 Oct 14
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99/OV-102      LC39B       STS-93
+MLP2/                          
+MLP3/RSRM-71?                  VAB Bay 3   STS-99
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,151 @@
+
+Jonathan's Space Report
+No. 453                                          2001 May  24, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Soyuz TM-32 remains docked to the Station's Zarya nadir port. The
+Expedition Two crew, Usachyov, Voss and Helms, remain aboard the
+Station. Progress spacecraft 255 was launched on May 20 at 2233 UTC
+aboard the first Soyuz-FG rocket - a modified Soyuz-U with 5 percent
+improved perfomance from new  fuel injection systems in the core and
+strapon engines. Vehicle 255 is named Progress M1-6 after launch, and is
+flying ISS supply mission 4P. It carries food and equipment including
+spare computer equipment for Destiny. Progress M1-6 docked with Zvezda's
+aft (-Y) port at 0024 UTC on May 23.
+
+The next Shuttle flight, in June, will deliver the Joint Airlock to the
+station. The Airlock consists of two segments - a small diameter airlock
+cylinder which is based on the Shuttle airlock design, with the hatch in
+the side of the cylinder,  and a larger diameter, short length, cylinder
+which remains pressurized and contains storage for spacesuits and
+equipment, and a CBM berthing system which will connect to the Unity
+module. The Airlock will be used for spacewalks using both the
+EMU and Orlan spacesuits. The flight will also carry a Spacelab pallet
+with oxygen and nitrogen gas tanks for installation on the airlock
+exterior.
+
+Recent Launches
+---------------
+
+Panamsat's PAS 10 satellite, which will replace PAS 4 in providing
+C-band and Ku-band television broadcasts to Africa, Asia and Europe, was
+launched by International Launch Services on May 15 using a Krunichev
+Proton-K with an Energiya Blok DM3 upper stage. PAS 10 is a Boeing
+BSS 601HP satellite.
+
+The National Reconnaissance Office's GeoLITE spacecraft was launched by
+a Boeing 7925 on May 18 into geostationary transfer orbit. GeoLITE is a
+TRW T-310 class satellite with a mass of about 1800 kg, probably
+including a solid apogee motor. The satellite carries an experimental
+laser communications payload and an operational UHF data relay payload.
+
+Space Command has once again interchanged the international designations
+of 2001-13A and 2001-14A (now Mars Odyssey and Ekran-M, respectively).
+
+Galileo reached perijove flying 450400 km above the Jovian cloud tops at
+1734 UTC on 2001 May 23. Closest approach to Io was 341771 km at 1718
+UTC; Europa was at 718513 km at 2351 UTC on May 23 and Ganymede was
+passed at 358700 km at 1120 UTC on May 24. A close 123 km pass of
+Callisto will occur on May 25 at around 1124 UTC, reducing Galileo's
+perijove on its next orbit to target it for an Io flyby.
+
+US Non-compliance with UN convention on registration of objects in outer space
+------------------------------------------------------------------------------
+
+The UN Convention on the registration of outer space objects is meant to
+reassure member states that no-one is putting secret  satellites in
+orbit that might be weapons of mass destruction. As a US citizen, it
+embarrasses me that my own country is the one with the most errors and
+omissions in its submissions to the UN - particularly as it appears that
+some of these errors represent deliberate misinformation. I therefore
+call attention to these errors below (and by the way, it's not as if
+this misinformation would actually *fool* anyone who is paying attention
+to the subject).
+
+Below I note US compliance with, and violations of the UN Convention on
+Registration for satellites launched in 1999-2000. The bulk of the
+information provided to the UN on classified satellites is deliberately
+wrong or misleading. In addition, many commercial US satellites launched
+on non-US launch vehicles were not registered, presumably due to sloppy
+record-keeping. 
+
+All classified satellites in 1999-2000:
+
+1999-017A (DSP)   Orbit given is wrong.
+1999-023A (Milstar) Orbit given is wrong.
+2000-001A (DSCS)  Orbit given is not the final orbit.
+2000-001C (IABS)  Orbit given is wrong.
+2000-024A (DSP)   Data is correct.
+2000-024D (IUS)   Inclination given is wrong (probably accidental typo).
+2000-047A (NRO)   Data is correct.
+2000-065A (DSCS)  Orbit given is not the final orbit.
+2000-065C (IABS)  Orbit given is wrong.
+2000-080A (NRO)   Orbit given is not the final orbit.
+
+For example, the orbit given for 1999-017A is actually
+the orbit of another object from the 1999-017 launch.
+In contrast, the data given for unclassified satellites is 
+substantially correct, with the following exceptions (mostly
+US satellites launched outside US territory)
+
+1999-014: Demosat satellite not registered (Boeing Sea Launch).
+1999-012, 1999-019, 1999-031, 1999-049, 1999-058, 1999-062: 
+          24 Globalstar satellites not registered.
+1999-053A: LMI 1 satellite not registered.
+2000-035A: Correctly registered, but incorrectly 
+           stated that launch was made from US territory.
+2000-067A: QuickBird satellite not registered.
+2000-075C: Incorrectly registered (ST/SG/SER.E/385); 
+           it is actually a Swedish satellite already
+           registered in ST/SG/SER.E/380 by Sweden.
+
+Full details of all registration errors by all member states since
+the opening of the convention in 1962 may be found at
+http://hea-www.harvard.edu/~jcm/space/un/un_paper1.html
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  7 0347   Ekran-M No. 18    Proton-M       Baykonur LC81/24 UHF video    14A
+Apr  7 1502   2001 Mars Odyssey Delta 7925     Canaveral SLC17A Mars probe   13A
+Apr 18 1013   GSAT-1            GSLV           Sriharikota      S,C band vid 15A
+Apr 19 1840   Endeavour  )      Space Shuttle  Kennedy LC39A    Spaceship    16A
+              Raffaello  )                                      Module
+              Canadarm-2 )
+Apr 28 0737   Soyuz TM-32       Soyuz-U        Baykonur LC1     Spaceship    17A
+May  8 2210   XM-1 Roll         Zenit-3SL      Odyssey, Pacific S-band radio 18A
+May 15 0111   PAS 10            Proton-K/DM3   Baykonur LC81/23 C/Ku video   19A
+May 18 1745   GeoLITE           Delta 7925     Canaveral SLC17B Laser/UHF    20A
+May 20 2233   Progress M1-6     Soyuz-FG       Baykonur LC1     Cargo        21A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        VAB Bay 4     STS-109 2001 Nov 19  HST SM-3B
+OV-103 Discovery       OPF Bay 2     STS-105 2001 Jul 12  ISS 7A.1
+OV-104 Atlantis        OPF Bay 3     STS-104 2001 Jun 20? ISS 7A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov     ISS UF-1
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

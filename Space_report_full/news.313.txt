@@ -1,0 +1,132 @@
+Jonathan's Space Report
+No. 313                         1997 Feb 12  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The crew swap on the Mir station is underway amid much reparking of
+spaceships. The Progress M-33 robot cargo ship undocked from the +X axis
+of Mir at 1213:56 UTC on Feb 6 and began independent orbital flight in a
+ 377 x 395 km x 51.65 deg orbit. On Feb 7 at 1628:01 the Mir crew of
+Korzun, Kaleri and Linenger undocked the Soyuz TM-24 ferry from the
+front docking port (-X), flew it around to the far side of the complex
+and redocked at the +X port at 1651:27 UTC. The new ferry ship Soyuz
+TM-25 was launched from Kazakstan on Feb 10 at 1409:30 UTC. The 11A511U
+launch vehicle placed the spacecraft in a 51.6 degree orbit. On Feb 11
+the orbit was 262 x 311 km x 51.65 deg, while Mir is in a 378 x 394 km x
+51.65 deg orbit. Crew of Soyuz TM-25 are Vasiliy Tsibliev (callsign
+'Sirius'), Aleksandr Lazutkin, and Reinhold Ewald. After several more
+rendezvous burns, Soyuz TM-25 docked with Mir at the -X port on Feb 12
+at 1551:13 UTC. (Thanks for detailed info from Chris van den Berg and
+Vladimir Agapov).
+
+Space Shuttle Orbiter OV-103 Discovery was launched on Feb 11 at 0855:17
+ UTC on mission STS-82. It will rendezvous with the Hubble Space
+Telescope on Feb 13, and astronauts will spacewalk to install the NICMOS
+and STIS science instruments. After the OMS 2 burn Discovery was in a
+350 x 579 km x 28.5 deg orbit; later on Feb 11 perigee was raised to 480
+km and on Feb 12 it was in a 576 x 584 km orbit. HST is in a 589 x 598
+km x 28.5 deg orbit. The Discovery astronauts have checked out operation
+of the robot arm and are closing in on their target.
+
+Recent Launches
+---------------
+
+The Japanese Institute of Space and Astronautical Science (ISAS) has
+launched the MUSES B satellite early on Feb 12. (1350 JST or 1358 JST
+according to different reports). It has been renamed 'Haruka', which
+means 'far-away'. Congratulations to the ISAS team!  Haruka is the space
+segment of the VSOP (VLBI Space Observatory Programme), and will unfurl
+an 8-meter radiotelescope antenna to make joint observations with ground
+based radio observatories, simulating a telescope larger than the Earth.
+Haruka carries detectors operating at 1.6, 5 and 22 GHz, and will be
+able to make radio images with very high spatial resolution,
+permitting precise measurements of quasar jets and galactic maser
+sources. MUSES B is the second Mu Space Engineering Satellite; the
+first was the MUSES A (Hiten) probe which pioneered use of advanced orbital
+dynamics and aerobraking.
+
+This was the first launch of the Japanese ISAS agency's three stage
+solid fuel M-V (Mu-5) rocket. M-V-1 was launched from the Kagoshima
+Space Center (I don't know if the launch pad has a specific
+designation). The M-14 first stage separated 25s after launch, followed
+by the M-24 second stage at T+3min:33s.  The M-34 third stage continued
+the ascent, separating at 5min 39sec after spinning up the payload
+section. The KM-V1 solid kick motor ignited to raise apogee, and
+separated 8 minutes after launch to leave Haruka in a 233 x 21527 km x
+31.2 deg orbit. On-board RCS burns will raise the perigee over the next
+week. The KM-V1 motor (1997-05B) is in a 230 x 21452 km x 31.3 deg
+orbit. The M-34 stage may have reached orbit with a similar perigee and
+a lower apogee, but it has not yet been cataloged by Space Command.
+All four of the stages involved in this launch had never flown before,
+so this was a crucial test for the ISAS launch vehicle group.
+
+The Haruka satellite is also given the  English acronym HALCA (Highly
+Advanced Laboratory for Communications and Astronomy). Each ISAS
+satellite has had a prelaunch English name (like MUSES B) and a
+postlaunch Japanese name (like Haruka). Unfortunately, starting with
+ASTRO D, ISAS also began to assign  homophonic 'English equivalents' of
+the Japanese name and use only these in English publications, thus ASTRO
+D is widely known as ASCA (Advanced Satellite for Cosmology and
+Astrophysics) rather than Asuka, its Japanese equivalent. This is
+presumably because ISAS scientists got quite reasonably fed up with
+Americans completely mangling the Japanese names of their satellites.
+However, I find the English homophones ugly, and HALCA in particular is
+kind of dumb - so I plan to use the Haruka name. 
+
+The GPS satellite lost on Jan 17 was SVN (Space Vehicle No.) 42, the
+second GPS IIR production satellite. It would have used the identifier
+PRN 12 if it had been successful. (Info from Richard Langley). Prior to
+the accident, the schedule foresaw the next launch as SVN 38, the last
+Block IIA satellite, followed by SVN 43 (GPS IIR No. 3).
+
+Despite my comment last week, the GE 2 orbit I quoted was a true orbital
+measurement, according to my sources. Ariane V93's final stage entered 
+a 210 x 35800 km x 7.0 deg orbit before deploying the two satellites and
+the Mini-Spelda adapter cover, and then performed an avoidance maneuver
+to enter a 236 x 36066 km orbit. GE Americom's GE 2 is now on station at
+82.4W and Nahuelsat's Nahuel 1A is stationary at 72.2W.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan 12 0928   Atlantis         Shuttle        Kennedy LC39B   Spaceship   01A
+Jan 17 1628   GPS 42           Delta 7925     Canaveral LC17A Navsat      FTO
+Jan 30 2204   GE 2     )       Ariane 44L     Kourou ELA2     Comsat      02A	
+              Nahuel 1A)                                      Comsat      02B
+Feb 10 1409   Soyuz TM-25      Soyuz-U        Baykonur LC1    Spaceship   03A
+Feb 11 0855   Discovery STS-82 Shuttle        Kennedy LC39A   Spaceship   04A
+Feb 12 0450   Haruka           M-V            Kagoshima       Astronomy   05A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-83  Apr  3
+OV-103 Discovery       LEO           STS-82  Feb 11
+OV-104 Atlantis        OPF Bay 3     STS-84  May 15
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/           
+ML3/RSRM-59/ET-84           VAB Bay 1      STS-83
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

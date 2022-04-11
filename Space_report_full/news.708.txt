@@ -1,0 +1,221 @@
+Jonathan's Space Report 
+No. 708                                                   2015 Feb 4    Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 42 continues with commander Barry Wilmore, FE-1 Aleksandr
+Samokutyaev, FE-2 Elena Serova, FE-3 Anton Shkaplerov, FE-4 Samantha
+Cristoforetti, and FE-5 Terry Virts. Soyuz TMA-14M is docked at Poisk;
+Soyuz TMA-15M is docked at Rassvet; Progress M-25M is docked at Pirs;
+ATV-5 Georges Lemaitre is docked at Zvezda. 
+
+Dragon CRS-5 (SC7) was launched from Cape Canaveral on Jan 10 into a 206
+x 353 km x 51.6 deg orbit. The 9700 kg spacecraft carries 1823 kg of
+internal cargo and the 494 kg CATS lidar experiment from NASA-GSFC in
+the trunk. Inside Dragon are two PlanetLabs Flock-1d' cubesats and the
+AESP-14 1U cubesat from Brazil's space agency AEB and the ITA technical
+institute. On Jan 12 Dragon was grappled by the SSRMS arm at 1054 UTC
+and berthed on the Harmony module at 1354 UTC. The cubesats were
+transferred internally to the Kibo module and will be deployed from the
+Kibo airlock. CATS was grappled by the Dextre robot on 2015 Jan 22 and
+unberthed from Dragon around 0700 UTC; it was then handed off to the
+JEM-RMS at around 1030 UTC and installed on the Kibo Exposed Facility at
+location EFU3 at about 1400 UTC.
+
+
+The Falcon 9 first stage performed a flyback attempt to land around 360
+km downrange at circa 78W 31N. The stage made a 'hard' landing on the
+ASDS (Autonomous Spaceport Drone Ship). The first stage was destroyed
+when hydraulic fluid depletion made it tip over ahd hit the deck
+sideways, but the incident did not cause serious damage to the ship. The
+ASDS has now been renamed "Just Read The Instructions" after the name of
+an AI spaceship in the book 'The Player of Games' by the late science
+fiction writer Iain M. Banks.
+
+
+RRTV-SM
+-------
+
+China's Reentry Return Test Vehicle Service Module departed the
+Earth-Moon L2 region on Jan 4 at 1500 UTC, arriving in a 200 x 5300 km
+lunar orbit at 0700 UTC on Jan 11. Following two further lunar orbit
+burns on Jan 12 and 13 it is now in a 200 x 200 km x 43.7 deg orbit
+around the Moon.
+
+
+Beagle 2
+---------
+
+The UK Mars probe Beagle 2 was never heard from after it entered the
+Martian atmosphere on 2003 Dec 25. It has now been discovered on the
+surface in Mars Reconnaissance Orbiter images at 90.4295E, 11.5265N 
+(position measured by Doug Ellison from the released image), apparently
+intact and with at least one solar panel deployed.
+
+MUOS 3
+------
+
+The US Navy MUOS 3 communications satellite was launched into
+geotransfer orbit by an Atlas V 551 rocket on Jan 21. MUOS 3 has a mass
+of around 6800 kg.
+
+SMAP
+----
+
+The Soil Moisture Active Passive satellite, developed by JPL, was
+launched into polar orbit on Jan 31. SMAP carries a 6-m L-band antenna
+for synthetic aperture radar and radiometry measurements to map
+microwave emissions from water molecules in the soil. The 944 kg
+satellite  was launched aboard a Boeing/ULA Delta II rocket along with
+four cubesats:  the 3U Cal Poly CP10 ExoCube, the 3U Michigan/JPL GRIFEX
+technology satellite, and the second pair of 1.5U NSF/Montana State/U.
+New Hampshire FIREBIRD space science satellites.
+
+IGS R-Spare
+-----------
+
+The Radar Spare satellite (Reda Yobiki) in the Information Gathering Satellite (Joho Shushu Eisei)
+series was launched on Feb 1 aboard an H-IIA 202 (flight F27) from Tanegashima.
+The IGS satellites are operated by Japan's Cabinet Satellite Intelligence Center.
+
+     IGS satellites
+     --------------------
+
+                     Launch         Initial orbit              Status
+                                     km x km x deg   LTDN
+     Radar-1         2003 Mar 28    483 x 491 x 97.3 1015      Reentered 2012 Jul 26
+     Radar-2         2003 Nov 29  -2500?x 422 x 97.3 1330      Failed to reach orbit
+     Radar-2         2007 Feb 24    485 x 490 x 97.3 1330      Reentered 2014 Apr 13
+     Radar-3         2011 Dec 12    510 x 515 x 97.5 1015      511 x 514 x 97.5  1030LTDN
+     Radar-4         2013 Jan 27    508 x 514 x 97.5 1330      511 x 514 x 97.5  1330LTDN
+     Radar-Spare     2015 Feb  1    490 x 510 x 97.5 1015      490 x 510 x 97.5  1015LTDN
+
+     Optical-1       2003 Mar 28    484 x 491 x 97.3 1015      Reentered 2014 Jul 18
+     Optical-2       2003 Nov 29  -2500?x 422 x 97.3 1330      Failed to reach orbit
+     Optical-2       2006 Sep 11    484 x 491 x 97.3 1330      460?x 460?x 97.4  Retired 2013?
+     Optical-3 Test  2007 Feb 24    486 x 488 x 97.3 1330      378 x 382 x 97.4  Retired 2011?
+     Optical-3       2009 Nov 28    586 x 588 x 97.8 1020      585 x 588 x 97.8  1030LTDN
+     Optical-4       2011 Sep 23    587 x 591 x 97.7 1330      586 x 587 x 97.7  1330LTDN
+     Demo Sat        2013 Jan 27    511 x 523 x 97.5 1330      425 x 428 x 97.1  Retired 2014?
+
+   Optical-2 and Demo Sat ('jissho eisei') have apparently not been
+   tracked by hobbyists since last summer. Optical-5 is scheduled for
+   launch in the near future.
+
+   (LTDN = Local time of the orbit descending node for a sun-synchronous orbit).
+
+Inmarsat 5-F2
+-------------
+
+The second satellite in the Inmarsat 5 series was launched on Feb 1 by Proton from Baykonur
+into a supersynchronous geotransfer orbit. The 6070 kg spacecraft is a Boeing 702HP model
+with Ka-band mobile broadband capacity for Inmarsat Global. 
+
+Fajr
+----
+
+Iran has launched its fourth satellite, its first successful orbital
+launch since Feb 2012.  Fajr (Aurora) is a 52 kg  technology payload with a
+cold-gas thruster developed by Iran Electronics Industries. There is
+suggestive evidence (mostly based on satellite imagery of launch pad
+damage revealed by the magazine Jane's Intelligence Review) that Iran
+had two launch failures in 2012, as well as more speculative evidence of
+further launch failures since then. 
+
+
+Erratum
+-------
+
+The FY satellites are operated by China's National Satellite Meteorological Centre
+(Guojia weixing qixiang zhongxin), established in 1971.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Dec  3 0422   Hayabusa-2    )    H-IIA 202         Tanegashima Y1    Space probe    76A    S40319    245 x -50912 x  29.9
+              Shin'en-2     )                                        Comms tech     76B    S40320    245 x -50912 x  29.9
+              DESPATCH      )                                        Art satellite  76C    S40321    245 x -50912 x  29.9
+              PROCYON       )                                        Space probe    76D    S40322    245 x -50912 x  29.9
+              MASCOT        )                                                        76    A08308   Attached to S40319
+              Minerva II-1a )                                                        76    A08305   Attached to S40319
+              Minerva II-1b )                                                        76    A08306   Attached to S40319
+              Minerva II-2  )                                                        76    A08307   Attached to S40319
+              SCI           )                                                        76    A08309   Attached to S40319
+              DCAM-3        )                                                        76    A08310   Attached to S40319
+              Target Marker 1)                                                       76    A08311   Attached to S40319
+              Target Marker 2)                                                       76    A08312   Attached to S40319
+              Target Marker 3)                                                       76    A08313   Attached to S40319
+              Target Marker 4)                                                       76    A08314   Attached to S40319
+              Target Marker 5)                                                       76    A08315   Attached to S40319
+Dec  5 1205   Orion EFT-1        Delta 4H           Canaveral SLC37B Spaceship test  77A   S40329    -37 x   5809 x  28.8 
+Dec  6 2040   DirecTV-14 )       Ariane 5ECA        Kourou ELA3      Comms           78B   S40333  35778 x  35795 x   0.0 GEO 76W
+              GSAT-16    )                                           Comms           78A   S40332  35777 x  35793 x   0.1 GEO 55E
+Dec  7 0326   CBERS 4            Chang Zheng 4B     Taiyuan LC9      Imaging         79A   S40336    742 x    751 x  98.5 1030LT SSO
+Dec 10 1933   Yaogan 25          ) Chang Zheng 4C   Jiuquan          Sigint          80A   S40338   1089 x   1097 x  63.4
+              Yaogan 25 fu xing 1)                                   Sigint          80B   S40339   1091 x   1097 x  63.4
+              Yaogan 25 fu xing 2)                                   Sigint          80C   S40340   1090 x   1098 x  63.4
+Dec 13 0319   USA 259            Atlas V 541        Vandenberg SLC3E Sigint          81A   S40344   2157 x  38204 x  62.8
+Dec 15 0016   Yamal 401          Proton-M/Briz-M    Baykonur LC81/24 Comms           82    S40345  35786 x  35787 x   0.0 GEO 90E
+Dec 18 1837   O3b FM9  )         Soyuz ST-B         CSG ELS          Comms           83D   S40351   8062 x   8068 x   0.0
+              O3b FM10 )                                             Comms           83A   S40349   8063 x   8068 x   0.0
+              O3b FM11 )                                             Comms           83B   S40349   8062 x   8068 x   0.0
+              O3b FM12 )                                             Comms           83C   S40350   8062 x   8068 x   0.0
+Dec 19 0443   Kondor-E No. 2     Strela             Baykonur LC175   Radar Imager    84A   S40353    498 x    501 x  74.7
+Dec 23 0557   IPM                Angara A5          Plesetsk LC35/1  Vehicle test    85    S40355  36155 x  39089 x   0.3
+Dec 25 0301   Lotos-S No. 802    Soyuz-2-1B         Plesetsk LC43/4  Sigint          86A   S40358    900 x    910 x  67.1
+Dec 26 1855   Resurs-P No. 2     Soyuz-2-1B         Baykonur LC31/6  Imaging         87A   S40360    330 x    471 x  97.3 1150LT
+Dec 27 0322   Yaogan 26          Chang Zheng 4B     Taiyuan LC9      Imaging         88A   S40362    485 x    491 x  97.4 1030LT
+Dec 27 2137   Astra 2G           Proton             Baykonur LC200/39 Comms          89A   S40364  35783 x  35789 x   0.1 GEO  21E
+Dec 31 0102   Fengyun 2-08       Chang Zheng 3A     Xichang LC2       Weather        90A   S40367  35770 x  35800 x   2.3 GEO 100E
+Jan 10 0947   Dragon CRS-5       Falcon 9 v1.1      Canaveral SLC40  Cargo           01A   S40370    400 x    408 x  51.7 ISS
+Jan 21 0104   MUOS 3             Atlas V 551        Canaveral SLC41  Comms           02A   S40374   5592 x  35788 x  16.7
+Jan 31 1422   SMAP         )     Delta 7320-10C     Vandenberg SLC2W Atm.Science     03A   S40376    660 x    686 x  98.1 0600LT
+              FIREBIRD IIA )                                         Space sci.      03B   S40377    438 x    669 x  99.1 0600LT
+              FIREBIRD IIB )                                         Space sci.      03C   S40378    438 x    669 x  99.1 0600LT
+              GRIFEX       )                                         Tech            03D   S40379    438 x    669 x  99.1 0600LT
+              ExoCube CP10 )                                         Atm.Science     03E   S40380    437 x    670 x  99.1 0600LT
+Feb  1 0121   IGS Radar Spare    H-IIA 202          Tanegashima      Radar Imager    04A   S40381    490 x    511 x  97.5 1015LT
+Feb  1 1231   Inmarsat 5F2       Proton-M/Briz-M    Baykonur LC200/39 Comms          05A   S40384   4366 x  64968 x  26.8
+Feb  2 0850?  Fajr               Safir              Semnan           Imaging         06A   S40387    224 x    469 x  55.5
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+The M-TeX (NASA 46.009/010) and MIST (NASA 41.111/112) sounding rocket
+launches from Poker Flat, Alaska on Jan 26 involved chemical releases to study the upper atmosphere.
+On Jan 28 a larger Oriole IV rocket carried the Auroral Spatial Structures Probe.
+
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Dec  2 0449   Agni RV          Agni 4              Wheeler I.       Test          300?
+Dec 11 1911   NASA 36.295US    Black Brant IX      White Sands      Solar X-ray   338
+Dec 13        RVs ?            DF-41?              Taiyuan          Test         1000?
+Dec 16        Target           Blue Sparrow??    F-15, Med. Sea     ABM Target    100?
+Dec 18 0400   CARE/LVM3-X      GSLV-3              Srikarikota SLP  Test flight   126 
+Dec 26 0802   RV x 4?          Yars                Plesetsk         Test         1000?
+Jan 26 0913   NASA 46.009UE    Terrier Imp. Mal.   Poker Flat       Atmosphere    160?
+Jan 26 0914   NASA 41.111UE    Terrier Orion       Poker Flat       Atmosphere    130?
+Jan 26 0946   NASA 46.010UE    Terrier Imp. Mal.   Poker Flat       Atmosphere    160?
+Jan 26 0947   NASA 41.112UE    Terrier Orion       Poker Flat       Atmosphere    130?
+Jan 28 1041   NASA 49.002UE    Oriole IV           Poker Flat       Aurora        590?
+Jan 31 0236   RV               Agni V              Chandipur        Test          800
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+
+
+
+

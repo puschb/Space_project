@@ -1,0 +1,134 @@
+Jonathan's Space Report 
+No. 192       1994 Apr 20
+------------------------------------------------------------------------------
+
+Thanks to Joel Runes for some data in this issue.
+
+Shuttle  
+-------  
+
+Space Shuttle Endeavour lifted off at 1105 UTC on Apr 9 from pad 39A.
+The STS-59 stack used solid motors RSRM-37 and external tank ET-63
+attached to orbiter OV-105. Endeavour reached orbit at 1113 UTC. On Apr
+11 its orbit was 211 x 226 km x 57.0 deg. Operations with the Space
+Radar Lab were successful; landing was originally due for Apr 19 but was
+delayed until Apr 20 for weather and switched to Cailfornia. Endeavour
+fired its deorbit engines at 1600 UTC. Entry interface was at
+1622, with main gear touchdown on runway 22 at Edwards AFB at 1654.30
+UTC for  a mission duration of 11 days 5 hr 49 min. The next Shuttle
+flight is STS-65, a long duration International Microgravity Lab flight
+with orbiter Columbia.
+
+LAUNCHES
+--------
+
+A cluster of 3 Uragan ("Hurricane") navigation satellites were launched
+on Apr 11 by an 8K82K Proton-K launch vehicle from Baykonur cosmodrome
+in Kazakhstan. The cluster was inserted into low earth orbit attached to
+the Blok-DM2 (11S861) upper stage, which then separated from the 8S812
+third stage (1994-21B) and the Blok-DM2 fairing (1994-21C), both of
+which reentered the same day. The Blok-DM2 ignited twice to enter first
+a transfer orbit and  then (after separation of two ullage motors) a
+circular orbit at 19000 km altitude and 65 degrees inclination. The
+three Uragan satellites, built by NPO Prikladnoi Mekhaniki of
+Krasnoyarsk, then separated from the Blok-DM2. They were given the post-launch
+names Kosmos-2275, Kosmos-2276 and Kosmos-2277. The Uragan satellites form
+part of the GLONASS system which is the Russian analog of the Navstar
+Global Positioning System.
+
+The first of a new series of GOES-NEXT weather satellites was launched
+from Cape Canaveral Air Force Station on Apr 13. The Atlas Centaur AC-73
+launch vehicle successfully delivered GOES-I (GOES 8 after launch) to a
+geostationary transfer orbit. A liquid apogee motor (probably  a
+Marquardt R4D, does anyone know for sure?) will be used to circularize
+the orbit. The first burn of the motor on Apr 15 was cut short early
+after unexpectedly high temperatures, leaving it in a 988 x 42653 km x
+23.6 deg transfer orbit; further orbit raising burns are expected soon.
+The GOES NEXT series of satellites are being built by Space
+Systems/Loral (formerly Ford Aerospace, formerly Aeronutronic Ford);
+there were a lot of problems developing GOES I's sensors and the
+satellite is way late and over the originally planned budget. GOES
+(pronounced as in "how goes it?") stands for Geostationary Operational
+Environmental Satellite; do not confuse GOES with GEOS (a frequent
+mispelling - there have been two series of GEOS satellites, one by NASA
+and one by ESA, but they have nothing to do with GOES). GOES satellites
+are operated by the National Oceanic and Atmospheric Administration
+(NOAA), and originated as NASA's SMS (Synchronous Meteorological
+Satellite) project. The GOES class satellites launched to date are as
+follows:
+
+Pre-launch name Post-launch  Launch Date     Manufacturer    Int'l Desig
+ SMS A           SMS 1        1974 May 17     Ford            1974-33A
+ SMS B           SMS 2        1975 Feb  6     Ford            1975-11A
+ SMS C/GOES A    GOES 1       1975 Oct 16     Ford            1975-100A
+ GOES B          GOES 2       1977 Jun 16     Ford            1977-48A
+ GOES C          GOES 3       1978 Jun 16     Ford            1978-62A
+
+ GOES D          GOES 4       1980 Sep  9     Hughes          1980-74A
+ GOES E          GOES 5       1981 May 22     Hughes          1981-49A
+ GOES F          GOES 6       1983 Apr 28     Hughes          1983-41A
+ GOES G          -            1986 May  3     Hughes          Launch failure
+ GOES H          GOES 7       1987 Feb 26     Hughes          1987-27A
+
+ GOES I          GOES 8       1994 Apr 13     Loral           1994-22A
+
+
+Recent Launches
+---------------
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar  2 0324     Koronas-I       Tsiklon         Plesetsk LC32   Solar phys  14A
+Mar  4 1353     Columbia        Shuttle         Kennedy LC39B   Spaceship   15A
+Mar 10 0340     Navstar GPS 36) Delta 7925      Canaveral LC17  Navsat      16A
+                SEDS 2        )                                             16B
+Mar 13 2232     P90-5    )      Taurus          Vandenberg      Technology  17A
+                DARPASAT )                                      Technology? 17B
+Mar 17 1630     Kosmos-2274     Soyuz-U         Plesetsk LC43   Recon       18A
+Mar 22 0454     Progress M-22   Soyuz-U         Baykonur LC1    Cargo       19A
+Apr  9 1105	Endeavour 	Space Shuttle	Kennedy LC39A   Spaceship   20A
+                Space Radar Lab
+Apr 11          Kosmos-2275   ) Proton/DM2      Baykonur LC81   Navigation  21A
+                Kosmos-2276   )                                 Navigation  21B 
+                Kosmos-2277   )                                 Navigation  21C
+Apr 13 0604     GOES 8          Atlas Centaur I Canaveral LC36B Weather     22A
+
+
+Reentries
+---------
+
+Mar 15          SEDS 2          Reentered
+Mar 18          Columbia        Landed at KSC
+Mar 23          Progress M-21   Deorbited
+Apr 20          Endeavour       Landed at Edwards AFB
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-65
+OV-103 Discovery       OPF Bay 3     STS-64
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       Edwards AFB   STS-59
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/ 
+ML2/                       LC39A     STS-59             
+ML3/RSRM-39/               VAB Bay 1 STS-65
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+ 
+
+,

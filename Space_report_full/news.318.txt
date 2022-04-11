@@ -1,0 +1,107 @@
+Jonathan's Space Report
+No. 318                                 1997 Apr 10 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+STS-83 performed its OMS 2 orbit circularization burn at 2000 UTC on Apr
+4, and Columbia opened its payload bay doors by 2109 UTC, beginning what
+was intended as a marathon Spacelab research mission. However, one of
+the orbiter's three fuel cells malfunctioned shortly after launch, and
+flight rules require that all three must be operating. The fuel cells
+combine hydrogen and oxygen to make water and electricity. At 1430 UTC
+on Apr 6 the crew were ordered to begin a Minimum Duration Flight (MDF).
+On Apr 8 the OMS engines ignited at 1730 UTC for the deorbit burn, and
+Columbia landed on Runway 33 at Kennedy Space Center at 1833 UTC.
+
+While this foreshortened mission must be counted as a failure, we should
+remember that in 82 orbital flights this is only the second that has had
+to be abandoned well short of its goal, the first being STS-2 in 1981.
+(A third flight, STS-44, was cut short by three days of its planned ten,
+but in that case the primary mission objectives had already been met).
+Some observers have noted that NASA has been a lot readier in recent
+years to grant waivers (exceptions) to flight rules `on the fly', I
+think mainly because flight controllers feel they now have the
+experience to know what they can safely get away with. The fact that
+they didn't consider stretching the rules this time, despite the serious
+consequences, is an encouraging sign that safety is still the top
+priority.
+
+Endeavour was moved temporarily to the VAB on Apr 8 in order to free up
+a parking space for Columbia in the Orbiter Processing Facility.
+Columbia is currently scheduled to make its next flight as STS-87 in
+October, but there is a possibility that an STS-83R reflight could be
+added to the schedule in July.
+
+A Progress cargo ship, production no. 234, was launched from Baykonur on
+Apr 6 at 1604 UTC and named Progress M-34. It carries supplies for the
+Mir station and repair equipment for Mir's oxygen generators, as well as
+replacement oxygen-generating 'candles' and a pair of new spacesuits for
+a forthcoming spacewalk. Progress M-34 docked successfully with the
+Kvant module on Mir at 1730 UTC on Apr 8. Tsibliev, Lazutkin and
+Linenger have begun repairs to Mir.
+
+Recent Launches
+---------------
+
+Kosmos-2340 was launched on an 8K78M Molniya-M rocket on Apr 9 from the
+Military Space Forces' Plesetsk spaceport. It is an early warning
+satellite of the Oko series, which operate in 12-hour elliptical orbits
+inclined at 62.8 degrees. The satellite is built by the Lavochkin
+company and the rocket is provided by TsSKB-Progress. 
+
+I have confirmed that the DMSP satellite launched on  Apr 4 was
+spacecraft serial number S-14. The launch date for F-9/S-8 was actually
+1988 Feb 3, apologies for the typo. It has been suggested to me that the
+perverse DMSP-5D-2 style of block naming was done to keep a low profile
+for both security and bureaucratic reasons. I goofed also in mentioning
+a possible DMSP Block 6 - the DMSP and civilian NOAA weather sat
+programs are being merged into something called NPOESS instead.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  1 0107   Intelsat 801     Ariane 44P     Kourou ELA2     Comsat      09A
+Mar  4 0200   Zeya             Start-1        Svobodniy LC5   Comsat      10A
+Mar  8 0601   Tempo 2          Atlas IIA      Canaveral LC36A Comsat      11A
+Apr  4 1647   DMSP 5D-2 S-14   Titan 23G      Vandenberg SLC4W Weather    12A
+Apr  4 1920   Columbia/STS-83) Shuttle        Kennedy LC39A   Spaceship   13A
+              MSL-1 Spacelab )
+Apr  6 1604   Progress M-34    Soyuz-U        Baykonur        Cargo       14A
+Apr  9 0900?  Kosmos-2340      Molniya-M      Plesetsk        EarlyWarn   15A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-87  Oct  9
+OV-103 Discovery       OPF Bay 2     STS-85  Jul 17
+OV-104 Atlantis        OPF Bay 3     STS-84  May 15
+OV-105 Endeavour       VAB Bay 2     STS-86  Sep 18
+
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-60/ET-85           VAB Bay 3      STS-84
+ML3/                        LC39A          STS-83
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

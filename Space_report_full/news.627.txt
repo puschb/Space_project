@@ -1,0 +1,233 @@
+Jonathan's Space Report
+No. 627                                          2010 May  11  Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Progress M-03M undocked from the Pirs module at 1629 UTC on Apr 22.
+According to Roscosmos, the vehicle then carried out
+the 'Radar-Progress' experiment using the propulsion system
+to locally perturb the ionosphere. At 1805 UTC on Apr 27
+it fired its engines to reenter over the Pacific.
+
+Progress M-05M was launched on Apr 28 at 1715 UTC and docked with
+Pirs at 1830 UTC on May 1.
+
+Progress M-04M undocked from the Zvezda module at 1016 UTC on May 10.
+It will remain in orbit for over a month, carrying out experiments.
+Soyuz TMA-17 will be moved from Zarya to Zvezda on May 12.
+
+Atlantis is on pad 39A at Kennedy Space Center preparing for launch
+on mission STS-132, ISS flight ULF4 (Utilization and Logistics
+Flight 4), which will deliver the Rassvet module to the
+space station. STS-132 uses external tank ET-136 with the RSRM-111 booster
+pair. 
+
+The 521GK Rassvet ('Daybreak') module, or Maliy Issledovatel'skiy
+Modul-1 (Small Research Module 1) is built by Energiya.
+Its structure is somewhat similar to the Pirs and Poisk modules
+and to a stretched Soyuz orbital module, and was originally intended for
+the now cancelled NPP (Science Power Platform) module. It is 6.6m long
+and 2.4m in diameter.  Rassvet will be attached to the nadir port of
+Zarya, and has a docking port of its own; this provides a parking place
+for a Soyuz further from the axis of the station, avoiding crowding by
+the nearby Tranquility module. The module also provides extra storage
+space.
+
+Launched attached to Rassvet are components that will later be attached
+to the forthcoming Nauka module (multipurpose laboratory module) - a radiator,
+an airlock section, and an elbow joint and work platform for the
+European robot arm. Nauka will probably be launched in 2012.
+
+Also in Atlantis' payload bay is the ICC-VLD (Integrated Cargo Carrier -
+Vertical Light Deployable), on its second flight. This truss carries
+spares for the Station: a new space-to-ground antenna (SGANT), a new work
+platform for the Dextre robot manipulator (EOTP), and six more replacement
+batteries for the P6 truss section. There are a dozen 170-kg battery
+ORUs (orbital replacement units) on each of the P6, S6, P4, and S4 truss
+segments. P6 has been up since 2000 and the batteries are getting old;
+its first six batteries were swapped out on the first ICC-VLD flight in
+2009 (STS-127).
+
+The Atlantis crew will also deliver a spare spacesuit, EMU 3011, to join
+three US EMU spacesuits and three Russian Orlan-MK suits already on the
+station. Astronauts Garrett Reisman (in EMU 3018),  Steve Bowen (in EMU
+3004), and Michael Good (in EMU 3009) will make three spacewalks to
+replace the batteries and install the SGANT and EOTP. Ken Ham and Tony
+Antonelli will fly Atlantis to the Station while Piers Sellers will
+be driving the Station robot arm.
+
+
+STS-131 cargo manifest
+ ----------------------
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3004, 3018, 3011 suits                 390?
+  APC/SPDU                         3 port           17?
+  APC/PDGF grapple fixture         5 port           71?
+  ICC-VLD carrier                  6-7            1913
+   + 6 Battery ORUs                               1020
+   + SGANT antenna                                 293
+   + EOTP platform                                 191
+  ROEU 755 umbilical               10 port          90
+  Rassvet module                   9-13           6295
+  + MLM Airlock                                    900
+  + MLM Radiator                                   570
+  + ERA-EJ elbow joint                             150
+  + ERA-PWP platform                               100
+  RMS                              Sill            410
+  OBSS                             Sill            382
+  -----------------------------------------------------
+                                           Total 14592 kg
+
+
+
+X-37B
+-----
+
+The US Air Force launched its X-37B orbital spaceplane on Apr 22. The
+Atlas V 501 rocket put the X-37B in low Earth orbit about 17 min after
+launch. The orbit is probably somewhere in the 430-450 km range with an
+inclination between 28 and 40 deg, possibly around 33 deg.  The Centaur
+AV-012 rocket separated at 0010 UTC on Apr 23 and then made a second
+burn at 0035 UTC to deplete its remaining fuel, sending it into solar
+orbit. The Atlas V is overpowered for missions like these, so the
+Centaur ends up with lots of extra propellant. An escape-orbit disposal
+was also used for the final stage from the AV-017 DMSP launch last year.
+AV-012 appears to be the first United States space vehicle in solar
+orbit whose orbit around the Sun is officially secret. 
+
+
+The X-37B is a 5000 kg winged vehicle 8.8m long 2.9m high and 4.5m in
+wingspan. Originally designed under a NASA program, it is now a
+DARPA/Air Force project developed by the Air Force Research Lab at
+Kirtland AFB and built by Boeing Phantom Works at Huntington Beach,
+California.
+
+This is flight 1 of vehicle OTV-1, and has been given the cover name USA
+212 by USStratCom. Assuming a successful mission, it will be followed in
+2010-2011 by flight 1 of OTV-2, and then  be reflown itself as flight 2
+of OTV-1. A significant aspect of the program is testing vehicle ground
+processing which is designed to be quicker and simpler than for the
+Shuttle.
+
+
+HTV-2a
+-------
+
+The US Air Force also launched an endoatmospheric hypersonic test on Apr
+22, but contact with the vehicle was lost 9 minutes into the flight. 
+The HTV-2a glider was launched on a three stage Minotaur IV Lite
+from Vandenberg's Space Launch Complex 8 toward Kwajalein Atoll in the
+Pacific. The Minotaur IV Lite uses the same three solid rocket motors as the MX
+Peacekeeper missile but with different electronics and support systems.
+
+The publicly available information on the flight is sketchy but 
+indicates that HTV-2a was boosted into space on a ballistic flight and
+only reached its operational altitude after a suborbital phase with a
+range of 1900 km out of the total flight range of 7600 km. A plausible
+reconstruction constrained by the quoted ranges and speeds is an
+injection orbit of around -3780 x 100 km x 145 deg with separation from
+the third stage at 2303 UTC, apogee at 2305 UTC over 133W 33N, reentry
+through 80 km at 2307 UTC around 143W 32N, followed by  hypersonic glide
+to an intended impact in the ocean north of the atoll around 168E 10.5N
+at 2330 UTC. Loss of contact with the HTV-2a was at 2309 UTC, early in
+its atmospheric phase.
+
+SES-1
+-----
+
+Khrunichev/International Launch Services has launched the SES-1
+satellite for SES World Skies. SES-1 is an Orbital Star-2.4 satellite
+replacing AMC-2 and AMC-4 with Ku and C band services over the US at 101
+deg W. SES World Skies combines the old New Skies Satellites (based in
+the Hague) and Americom (based in Princeton). The Proton put the upper
+stage in a -483 x 195 km x 51.5 deg trajectory. While the Proton third
+stage fell back towards reentry over the Pacific at around 1144 UTC, the
+Briz-M ignited to reach 191 x 195 km, 297 x 4999 km x 48, 496 x 33923 km
+x 46 and 33855 x 33881 km x 0 deg. The DTB additional propellant tank
+was tracked in a 518 x 33779 km x 46.2 deg orbit.
+
+CryoSat-2
+---------
+
+After the usual confusion, 2010-013B/36509 is now cataloged as the
+CryoSat Dnepr rocket stage in a 716 x 1119 km orbit, and 2010-013C/36510
+is the plume shield in a 684 x 720 km orbit. The Space-Track data are
+correct for Apr 8-9 and Apr 15 onwards, but swapped for the Apr 9-14
+period.
+
+
+Kosmos-2463
+------------
+
+Russia launched a Parus-class navigation satellite on Apr 27,
+giving it the cover name Kosmos-2463. Parus satellites are built
+by the Omsk-based company Polyot with design work by ISS Reshetnev.
+They use a Doppler navigation signal similar to the now-retired
+US Navy Transit system.
+
+Galaxy 15
+---------
+
+Intelsat's Galaxy 15 satellite failed on April 5 and began drifting off
+station, with its communications payload still transmitting. The
+satellite is an Orbital Star 2, launched in Oct 2005 as part of
+Panamsat's Galaxy fleet; Panamsat was sold to Intelsat in Jul 2006. By
+Apr 30 Galaxy 15 had drifted from 133.0W to 132.6W, and between Apr 7
+and Apr 19 Galaxy 12 was moved to 133.1W to replace it. Since their
+introduction in 1997 there have been 21 Star-class satellites launched
+including Galaxy 15; BSat-2b was stranded in transfer orbit by a launch
+vehicle failure but the other 19 are all still operating.
+
+Suborbital flights
+-------------------
+
+A Black Brant IX rocket carried a University of Colorado experiment on 
+a suborbital flight May 3, to calibrate the Solar Dynamics Observatory's
+EVE experiment.
+
+The Orion launch abort motor had a successful low-altitude atmospheric
+test on May 6 at 1300 UTC. The motor lifted a prototype Orion capsule to
+an apogee of 1.2 km; the capsule then deployed its parachutes and landed
+in the desert 2 km away.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Apr  2 0404   Soyuz TMA-18        Soyuz-FG         Baykonur LC1     Spaceship  11A
+Apr  5 1021   Discovery (STS-131) Space Shuttle    Kennedy LC39A    Spaceship  12A
+              Leonardo                                              Module     12
+Apr  8 1357   CryoSat-2           Dnepr            Baykonur LC109/95 Science   13A
+Apr 15 1057   GSAT-4              GSLV Mk II       Sriharikota      Comms      F01
+Apr 16 1500   Kosmos-2462         Soyuz-U          Plesetsk         Imaging    14A
+Apr 22 2352   X-37B OTV-1         Atlas V 501      Canaveral SLC41  Spaceplane 15A
+Apr 24 1119   SES-1               Proton-M/Briz-M  Baykonur         Comms      16A
+Apr 27 0105   Kosmos-2463         Kosmos-3M        Plesetsk LC132/1 Nav        17A
+Apr 28 1715   Progress M-05M      Soyuz-U          Baykonur LC1     Cargo      18A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Apr 23 2300   HTV-2a          Minotaur IVL     Vandenberg SLC8 Hypersonic  100?
+May  3 1832   NASA 36.258UE   Black Brant IX   White Sands     Solar EUV   280?
+May  4 1241   SpaceLoft SL-4  SpaceLoft XL     SW Regional     Micrograv   113?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

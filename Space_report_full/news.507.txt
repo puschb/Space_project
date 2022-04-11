@@ -1,0 +1,183 @@
+Jonathan's Space Report
+No. 507                                           2003 Aug 25, Somerville, MA
+-------------------------------------------------------------------------------
+
+ Editorial - A New Home in Cyberspace for JSR
+ --------------------------------------------
+
+Although Jonathan's Space Report and its associated archives and data
+have always been primarily written and maintained on my personal
+computer at home, the Harvard-Smithsonian Center for Astrophysics (CfA)
+has kindly provided public distribution for it on the Internet (ftp, and
+later www) since 1988.  For a number of reasons the time has now
+come to draw more clearly the somewhat fuzzy line between my official
+work in astrophysics and my off-duty work as a historian of space
+exploration, and to clarify that the JSR is my own personal analysis
+rather than the official position of the CfA. This will ensure that the
+JSR remains a fully independent source. I have therefore transferred the
+JSR to a new domain maintained at my own expense. This domain is:
+
+              http://www.planet4589.org
+
+As before, the JSR will not accept any financial sponsorship and both the
+newsletter and the content on my site will remain freely available to all.
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew, Yuriy Malenchenko and Edward Lu, remain on board
+the Space Station. 
+
+
+SIRTF
+-----
+
+Congratulations to my friends and colleagues on the SIRTF team!
+
+The Space Infrared Telescope Facility (SIRTF), last of NASA's Great
+Observatories, was launched into solar orbit at 0535 UTC on Aug 25.
+SIRTF is built by Lockheed Martin/Sunnyvale with the Cryogenic Telescope
+Assembly (CTA) built by Ball; management is by JPL with science ops at
+the SIRTF Science Center across the street from the Caltech astronomy
+department in Pasadena. SIRTF follows on from the US/UK/Netherlands IRAS
+sky survey satellite (1983) and ESA's ISO observatory (1995-98); the US
+Defense Dept.'s MSX (1996-1997) was another notable IR mission which
+made a galactic plane survey. The other Great Observatories  were the
+Hubble Space Telescope, the Compton Gamma Ray Observatory, and the
+Chandra X-ray Observatory.
+
+SIRTF has a 0.85-meter infrared telescope, with a liquid-helium cooled
+focal plane carrying the three main instruments, IRAC, IRS and MIPS.
+IRAC (built by Giovanni Fazio's team across the street from me here at
+the Harvard-Smithsonian) is a near infrared camera imaging in the 3 to 8
+micron range. IRS is a spectrograph covering the mid infrared 5 to 40
+micron range. The MIPS far infrared Multiband Imaging Photometer will
+cover the 12 to 160 micron range. The spacecraft is 4.45m high and 2.11m
+in diameter. It has solar arrays which are mounted along one side of the
+telescope and act as a sunshield; the telescope observes anywhere on a
+strip of sky roughly perpendicular to the line joining SIRTF to the Sun,
+with about 35 percent of the sky visible to SIRTF at any one time. The
+spacecraft has a dry mass of 851 kg; at launch it carries 50 kg of
+helium cryogen, 16 kg of nitrogen for attitude control, and a 6 kg
+telescope cover which will be ejected into solar orbit, for a total mass
+of 923 kg.
+
+SIRTF was launched by the second Delta II Heavy; the first, a model
+7925H, put the MER-B Mars Exploration Rover into space in July. SIRTF's
+less powerful model 7920H doesn't have a third stage but is otherwise
+similar. The second stage entered a 166 x 167 km x 31.5 deg Earth
+parking orbit, and after about 33 minutes of coast, passing south of
+Madagascar, restarted at 0613 UTC to enter a hyperbolic orbit with a
+perigee of 170 km, an eccentricity of 1.0061, and a velocity of 11.05
+km/s (about 40000 kph). If the Earth were the only  source of gravity
+around, the spacecraft would eventually slow to a velocity of about 0.6
+km/s relative to Earth. However, on Sep 1 SIRTF will reach the point at
+which its orbit is dominated by the Sun's gravity rather than that of
+Earth. 
+
+Currently a rough approximation to the Earth's orbit is 0.983 x 1.017 AU
+x 0.00 deg in ecliptic coordinates (an AU is 149.6 million km, the mean
+distance of the Earth from the Sun, and the ecliptic plane is the mean
+plane of the Earth's orbit).  The small extra speed of SIRTF compared to
+the Earth will change SIRTF's heliocentric orbit to about 0.996 x 1.019
+AU x 1.14 deg with a year about 4 days longer than Earth's. Most of the
+energy goes into the small inclination change, but the higher average
+distance from Earth means that SIRTF moves more slowly around the Sun,
+until by a year after launch SIRTF trails Earth by 10 million km.  By
+Kepler's second law, the slowest point in each orbit is the aphelion
+(farthest point from the Sun). The aphelic velocities of SIRTF and Earth
+are almost the same, but SIRTF will be at its aphelion - and thus
+slowest  speed - at launch, while Earth is just past its aphelion and 
+starting to speed up again. This means that SIRTF will start falling
+behind the Earth right away. To achieve this, the Delta must fire
+to give SIRTF speed backwards and outwards relative to the Earth's motion. 
+
+[Note for those who, like me, know just enough orbital mechanics to be
+dangerous: decreasing the velocity around the Sun would normally reduce
+the orbital period. While SIRTF is still near the Earth, the fact that
+the Earth is just ahead of it and tugging on it helps to increase
+SIRTF's angular momentum relative to the Sun. By the time SIRTF leaves
+the Earth's gravitational sphere of influence, it is just enough further
+out from the Sun that the larger distance compensates for the smaller
+tangential velocity in producing larger total angular momentum and thus
+orbital period.]
+
+SIRTF's orbit is called an 'Earth-trailing orbit'; it has the advantage
+that the infrared-bright Earth is nice and small, so doesn't block out
+large interesting pieces of the sky SIRTF might want to look at. Also,
+the total velocity change needed from parking orbit to get to a distant
+circular orbit around the Earth by going to transfer orbit and then
+burning again to circularize is more than the velocity change needed for
+escape, letting you use a smaller rocket. On the other hand, after a
+number of years SIRTF will be so far from Earth it will drift out of
+communications range - but by then its helium will have run out anyway.
+I've put some diagrams of the SIRTF orbit on the web at
+http://www.planet4589.org/space/misc/sirtf/sirtf.html
+
+[Note: all of the numbers in this section are estimates I've made based
+on the prelaunch trajectory data available at JPL's Horizons web site.]
+
+SIRTF's Delta second stage was also in a hyperbolic Earth orbit  at
+spacecraft separation. However, two further burns at 0642 UTC and 0647
+UTC are reported to have reduced the velocity enough to make the orbit
+elliptical again, with a negative perigee. The stage will coast out to a
+high apogee and then fall back into the Pacific Ocean. If anyone can
+provide details of the stage's trajectory I'd appreciate it.
+
+Other Recent Launches
+---------------------
+
+The Brazilian satellite launch vehicle, VLS-1 serial number V03,
+exploded on the launch pad during prelaunch tests on 2003 Aug 22 at
+around 1630 UTC. 21 rocket technicians were killed and a further 20 were
+injuered. It appears that one of the strapon boosters ignited by
+accident. The two satellite payloads, SATEC and UNOSAT, were also
+destroyed in the blast, as was the launch pad. VLS-1 flights V01 and V02
+both ended in failure.
+
+Kosmos-2400 and Kosmos-2401 were launched on Aug 19 from the northern
+Russian launch site Plesetsk. A Kosmos-3M (11K65M) rocket placed the
+pair in 1467 x 1500 km x 82.5 deg orbits, similar to the profile of
+Kosmos-2390 and Kosmos-2391 in Jul 2002. The satellites are believed to
+be Strela-3 military communications satellites.
+
+
+As I predicted in JSR 506, Kosmos-2399 raised its perigee on Aug 14 to
+205 km. In fact the apogee was also lowered to 330 km, which makes the
+orbit an even better fit for the standard operational orbit for Don
+(17F12) film-return capsule imaging satellites. A Russian newspaper
+report (Kommersant, 13 Aug) claims that Kosmos-2399 is a Neman
+(Yantar'-4KS1M) imaging satellite, which uses data relay satellites to
+return CCD imagery rather than physically recovering film. However, all
+previous Neman satellites have had higher perigees and lower apogees
+near 240 x 300 km, so I remain a little skeptical of this report.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  8 0318   MER-B Opportunity Delta 7925H     Canaveral SLC17B  Mars probe 32A
+Jul 17 2345   Rainbow 1         Atlas V 521     Canaveral SLC41   Comms      33A
+Aug  8 0331   Echostar 9        Zenit-3SL       Odyssey, POR      Comms      34A
+Aug 12 1420   Kosmos-2399       Soyuz-U         Baykonur LC31/6   Imaging    35A
+Aug 13 0209   Scisat-1          Pegasus XL      Vandenberg RW30/12 Science   36A
+Aug 19 1050   Kosmos-2400 )     Kosmos-3M       Plesetsk LC132/1  Comms      37A
+              Kosmos-2401 )                                                  37B
+Aug 25 0535   SIRTF             Delta 7920H     Canaveral SLC17B  Astronomy  38A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  c/o Harvard-Smithsonian Center for|                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

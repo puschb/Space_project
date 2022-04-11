@@ -1,0 +1,162 @@
+Jonathan's Space Report
+No. 332                                1997 Aug 29  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Problems with Mir's primary and backup oxygen systems were quickly fixed
+on Aug 25. Power from Spektr and Kristall's solar panels has resumed,
+but they're having problems making the panels track the sun. The
+spacewalk by Solov'yov and Foale to search for the Spektr punctures will
+take place in early September.
+
+The STS-86 mission is being prepared for launch in September,
+and will dock with Mir. During a spacewalk, the MEEP exposure
+experiments will be retrieved from the outside of Mir's
+Docking Module. The payload bay of Atlantis contains:
+ Bay 1: Tunnel adapter
+ Bay 2-4: External Airlock and Orbiter Docking System
+ Bay 5-7: Long Tunnel
+ Bay 5S? : carriers for retrieved MEEP experiment
+ Bay 8-9: Spacehab Double Module
+ Bay 13S: GAS can
+The ODS will be used to dock to Mir; supplies will be brought
+up in the Spacehab module.
+
+Recent Launches
+---------------
+
+NASA's Advanced Composition Explorer (ACE) was launched on Aug 25. The
+Advanced Composition Explorer is the last Delta-class Explorer space
+science satellite, and will study the composition of cosmic rays and
+high energy particles in interplanetary space. ACE will be stationed at
+the Earth-Sun L1 libration point, 1.4 million km from Earth in the
+direction of the Sun.
+
+ACE was launched by a Boeing Delta 7920-8. The Delta second stage
+entered a 185 km parking orbit and then reignited to place itself
+and ACE in a 185 km x 1.4 million km elliptical orbit. At apogee,
+ACE will fire an onboard propulsion system to station itself at L1.
+The Delta rocket will probably be perturbed into solar orbit.
+This is the first time a Delta second stage has been placed in such
+a high orbit; previously escape missions have used the three stage
+version of the Delta. 
+
+The Delta-class Explorers have been:
+ISEE 1    International Sun-Earth Explorer 1     1977 Oct 22-1987 Sep
+IUE       International Ultraviolet Explorer     1978 Jan 26-1996 Sep
+ISEE 3    International Sun-Earth Explorer 3
+(ICE)     (aka International Cometary Explorer)  1978 Aug 12-1986
+DE 1/2    Dynamics Explorer 1 and 2              1981 Aug  3-1991 Feb
+SME       Solar Mesosphere Explorer              1981 Oct  6-1983 Jul
+AMPTE-CCE Charge Composition Explorer            1984 Aug 16-1989 Jan 
+COBE      Cosmic Background Explorer             1989 Nov 18-1997 May
+EUVE      Extreme Ultraviolet Explorer           1992 Jun  7
+RXTE      Rossi X-ray Timing Explorer            1995 Dec 30
+ACE       Advanced Composition Explorer          1997 Aug 25
+
+(Many earlier Explorer flights were also launched on Delta, but I  count
+them in other subdivisions of the Explorer program, e.g. Atmosphere
+Explorer and Interplanetary Monitoring Platform).
+
+
+Another Panamsat comsat was launched on Aug 28 aboard an International
+Launch Services/Krunichev Proton-K from Baykonur. An Energiya Blok DM-3
+upper stage was used to deliver it to a standard geostationary
+transfer orbit of 214 x 36018 km x 51.6 deg. (Actually the Proton
+usually uses a slightly lower 46 degree transfer orbit inclination).
+The PAS 5 satellite is a Hughes HS-601HP design, and is using a
+Marquardt R-4D-12 liquid apogee engine to raise its orbit to
+geostationary.
+
+Orbital's Pegasus XL made another successful flight on Aug 29. This time
+it launched the FORTE satellite for Los Alamos National Lab. FORTE will
+study natural and artificial radio emissions from the ionosphere, as
+part of a program to develop technology for monitoring nuclear test ban
+treaties. Early reports are that FORTE is operating successfully in an
+800 x 807 km x 70.0 deg orbit. FORTE stands for Fast On-orbit Recording
+of Transient Events; it was built at Los Alamos.
+
+The Lewis satellite's attitude control system malfunctioned on Aug 26,
+leading to battery discharge and probable loss of the satellite,
+although attempts to revive it are continuing.
+
+Last issue I mentioned Olin Aerospace as proving propulsion for the
+LMLV's Orbit Adjust Module. This company is now Primex Aerospace.
+
+NASA's Advanced X-ray Astrophysics Facility (AXAF) is scheduled for
+launch one year from now. The spacecraft, being built by TRW, will carry
+imaging and spectroscopic X-ray detectors and be launched into a highly
+elliptical orbit by Shuttle/IUS on 1998 Aug 27. The AXAF operations
+control center will be in Cambridge, Massachusetts, together with the
+AXAF Science Center (a joint venture led by the SAO and MIT X-ray
+groups, who also developed the instruments together with Penn State,
+Utrecht and MPE). As the launch date approaches, don't be surprised if
+this newsletter gets a little sporadic :-)
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  1 1802   Columbia        ) Shuttle       Kennedy LC39A    Spaceship  32A
+              Spacelab MSL-1R )
+Jul  5 0411   Progress M-35     Soyuz-U       Baykonur LC1     Cargo      33A
+Jul  6 0600   Sojourner         -         Sagan Station, Mars  Rover
+Jul  9 1304   Iridium SV015 )   Delta 7920    Vandenberg SLC2W Comsat     34A
+              Iridium SV017 )                                  Comsat     34B
+              Iridium SV018 )                                  Comsat     34C
+              Iridium SV020 )                                  Comsat     34D
+              Iridium SV021 )                                  Comsat     34E
+Jul 23 0343   GPS SVN 43        Delta 7925    Canaveral LC17A  Navsat     35A
+Jul 28 0115   Superbird C       Atlas IIAS    Canaveral LC36B  Comsat     36A
+Aug  1 2020   OrbView 2         Pegasus XL    Vandenberg       Remote sen.37A 
+Aug  5 1536   Soyuz TM-26       Soyuz-U       Baykonur LC1     Spaceship  38A
+Aug  7 1441   Discovery         Shuttle       Kennedy LC39A    Spaceship  39A
+Aug  7 2227   CRISTA-SPAS                     OV-103,LEO       Remote sen.39B
+Aug  8 0646   PAS 6             Ariane 4      Kourou ELA2      Comsat     40A
+Aug 14 2049   Kosmos-2345       Proton-K/DM2  Baykonur         Early Warn 41A
+Aug 19 1750   Agila 2           CZ-3B         Xichang LC2      Comsat     42A
+Aug 21 0038   Iridium 22)       Delta 7920    Vandenberg SLC2W Comsat     43E
+              Iridium 23)                                      Comsat     43D
+              Iridium 24)                                      Comsat     43C
+              Iridium 25)                                      Comsat     43B
+              Iridium 26)                                      Comsat     43A
+Aug 23 0651   Lewis             LMLV-1        Vandenberg SLC6 Remote sen. 44A
+Aug 25 1439   ACE               Delta 7920    Canaveral LC17A Space sci.  45A
+Aug 28 0033   PAS 5             Proton-K/DM3  Baykonur         Comsat     46A
+Aug 29 1502   FORTE             Pegasus XL    Vandenberg      Space sci.  47A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-87  Nov 19
+OV-103 Discovery       OPF Bay 3     STS-91  May 28
+OV-104 Atlantis        LC39A         STS-86  Sep 22
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                       
+MLP2/RSRM-61/ET/OV-104   LC39A       STS-86
+MLP3/
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

@@ -1,0 +1,146 @@
+Jonathan's Space Report
+No. 248               Quatorze juillet 1995 (Bastille)          Cambridge, MA
+--------------------------------------------------------------------------------
+(sound of Marseillaise humming in background...)
+
+Navette
+-------
+
+STS-70 was launched at 1341:55 UTC on Jul 13. A hold was called at T-31s
+(just before transition to RSLS computer control) when one of the flight
+controllers noticed that the signal monitored by range safety destruct
+radio recievers on the External Tank was fluctuating, but within a
+minute he had fixed the problem and the Shuttle was cleared to continue
+counting down from the T-31s mark with no recycle required. This was the
+shortest time between landing of the previous mission and launch of a
+new one - only 6 days. The previous  record between landing and next
+launch for Shuttle missions was STS-55 in 1993, which followed the
+STS-56 landing by 9 days.
+
+The Solid Rocket Boosters (RSRM-44) separated at around 1343:58, and the
+three main engines (including the new Block I upgrade engine) continued
+burning successfully until main engine cutoff (MECO) around 1350:30 UTC.
+The external tank (ET-71) separated, leaving Discovery in a 67 x 291 km
+x 28.5 deg transfer orbit. The OMS 2 circularization burn was carried out
+at 1424 UTC, putting Discovery in a 90.6 min, 301 x 302 km x 28.5 deg orbit,
+and the payload bay doors were due to be opened at
+1509 UTC. The TDRS-G satellite payload was deployed at 1955 UTC.
+At around 2009 the OMS engines were fired to separate from the vicinity
+of TDRS, putting OV-103 in a 90.85 min, 299 x 333 km x 28.5 deg orbit.
+
+Crew of STS-70 are Col. Tom Henricks, USAF (Commander); Kevin Kregel
+(Pilot); and mission specialists  Maj. Nancy Currie, US Army, Dr. Donald
+Thomas, and Dr. Mary Weber.
+
+Atlantis was towed to the Orbiter Processing Facility Bay 2
+on Jul 7 following its landing at Kennedy Space Center.
+Its next mission is STS-74.
+
+Station Orbitale Mir
+---
+
+The EO-19 crew of Solov'yov and Budarin have settled in on the Mir
+station and are awaiting the launch of a Progress M supply craft.
+
+It turns out that RKK Energia's 316GK docking module planned for launch
+on STS-74 is a lengthened Soyuz BO (Bitovoy Otsek - Habitable Module or
+orbital module), with a central cylindrical section added and two
+APAS-89 docking units added on each end. Thanks to David Anderman and
+Maxim Tarasenko for clearing this up.
+
+Erreur
+---------
+
+Of course, the 3h 32s deorbit burn of Atlantis (JSR 247) should have
+read 3min 32s!
+
+Lancements recents
+--------------------------------------------------------------------------------
+
+A Titan 4 Centaur was launched from Cape Canaveral on Jul 10.
+The rocket used was Titan 45K-19 with the Centaur TC-8 upper stage.
+According to John Pike, the rocket had the large (86 foot) payload shroud.
+It was observed to head towards a high inclination orbit and it may
+be assumed to be another satellite like USA 103 last year, an advanced
+signals intelligence satellite intended for a Molniya-like orbit.
+
+The Galileo Probe separated from the Orbiter at 0530 UTC on Jul 13. It
+will  remain powered down for the coast to Jupiter, and will be awakened
+when its accelerometers detect braking due to entry in Jupiter's
+atmosphere. The Galileo Orbiter will fire its engine for a deflection
+maneuver on Jul 27.
+
+The modified Tsikada class navigation satellite launched on Jul 5 from
+LC 132 Pad 1 at Plesetsk was named Kosmos-2315.  According to Maxim
+Tarasenko, it carries an additional Kurs transponder. The modified
+satellite may possibly have the designation Nadezhda-M.
+
+TDRS-G, attached to Inertial Upper Stage IUS-26, was deployed from
+Space Shuttle Discovery on Jul 13 at 1955 UTC. The IUS SRM-1 solid
+rocket motor burn was at 2055 UTC, placing the TDRS and IUS SRM-2
+in transfer orbit. At around 0230 UTC on Jul 14 the SRM-2 ignited
+to place TDRS-G, now renamed TDRS-7, in a geosynchronous drift orbit.
+
+Satellites geostationnaires
+---------------------------------
+
+1995-23A (Intelsat 706) is drifting E from its previous 56W position.
+
+Table de lancements 
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jun  8 0443   Kosmos-2313     Tsiklon-2       Baykonur LC90   Recon       28A
+Jun 10 0024   DBS 3           Ariane 42P      Kourou ELA2     Comsat      29A
+Jun 22 1958   STEP 3          Pegasus XL/L1011 PAWA           Science     FTO
+Jun 27 1932   Atlantis        Space Shuttle   Kennedy LC39A   Spaceship   30A
+Jun 28 1825   Kosmos-2314     Soyuz-U         Plesetsk LC43   Recon       31A
+Jul  5 0309   Kosmos-2315     Kosmos-3M       Plesetsk LC132  Navigation  32A
+Jul  7 1623   Helios 1A  )    Ariane 40       Kourou ELA2     Recon       33A
+              CERISE     )                                    Sigint      33B
+              UPMSAT 1   )                                    Technology  33C
+Jul 10 1238   USA 112         Titan 4 Centaur Canaveral LC41  Sigint      34A
+Jul 13 0530   Galileo Probe   -               Galileo, Solar orb.      89-84E
+Jul 13 1342   Discovery       Space Shuttle   Kennedy LC39B   Spaceship   35A
+Jul 13 1955   TDRS 7          IUS             Discovery,LEO   Comsat      35B
+
+Retours dans l'atmosphere
+------------------------
+
+Jun  8        Kosmos-2258     Reentered
+Jul  7        Atlantis        Landed at KSC
+
+Etat de preparation des Navettes
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-73  Sep 21
+OV-103 Discovery       LEO           STS-70  
+OV-104 Atlantis        OPF Bay 2     STS-74  Oct 26
+OV-105 Endeavour       LC39A         STS-69  Aug  3
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-48/ET-72/OV-105   LC39A     STS-69
+ML2/                       LC39B     STS-70                                 
+ML3/                       VAB       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+
+
+
+</PRE>
+</BODY>

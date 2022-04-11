@@ -1,0 +1,224 @@
+Jonathan's Space Report 
+No. 237               1995 Apr 12                   Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Processing of Discovery for STS-70 and Atlantis for STS-71 continues; it
+seems likely that STS-70 will fly first because of the delays in the Mir
+program. Columbia completed its refit in California and departed
+Palmdale on Apr 11 aboard the Shuttle Carrier Aircraft en route to KSC.
+
+Mir
+---
+
+Dezhurov, Strekalov and Thagard remain aboard Mir; they had been
+in space for 29 days 9 hr 49 min at 1600UTC on Apr 12. Launch of
+Progress No. 227 (named Progress M-27 after launch) 
+was carried out on Apr 9 at 1934 UTC, and the Progress docked with
+the Mir complex on Apr 11 at 2300 UTC.
+
+Apr 12 is the 34th anniversary of the launch of the Vostok spaceship,
+when Yuriy A. Gagarin became the first human in space.
+
+Recent Launches
+--------------------------------------------------------------------------------
+
+The newly formed Lockheed Martin carried out its first launch
+on Mar 22; the former General Dynamics Commercial Launch Services,
+which had become Martin Marietta CLS, is now part of the new
+Lockheed Martin empire, and the San Diego (old GD/Convair Space Systems
+Division) and Denver (old Martin Marietta Astronautics Titan plant)
+operations are to be merged.
+
+Lockheed Martin's Atlas IIAS launch vehicle flight AC-115 (Atlas stage
+number 8204) took off from LC36B at Cape Canaveral and placed a Space
+Systems/Loral FS-1300 class communications satellite in orbit for
+INTELSAT, the International Telecommunications Satellite Organization.
+Intelsat 705 will be placed over the Atlantic Ocean. 
+
+The AC-115 launch was swiftly followed by the final Atlas E launch from
+Vandenberg on Mar 24, and a further Atlas Centaur launch, this time a
+IIA model, from pad 36A at Canaveral on Apr 7. AC-114 (with Atlas first
+stage 8111) placed  American Mobile Satellite Corp.'s AMSC-1 into orbit.
+AMSC-1 (also known as M-SAT) is a Hughes HS-601 class comsat with 16
+L-band and one Ku-band transponders. The satellite is the first to be
+optimized for mobile telephone communications. It will be complemented
+by a similar M-SAT satellite for Canada's Telesat Mobile Inc., to be
+launched later this year.
+
+Orbital Sciences Corp.'s Pegasus launch vehicle returned to flight on
+Apr 3. This was the first successful launch using the Lockheed L-1011
+carrier airplane, which took off from Vandenberg AFB and dropped the
+Pegasus over the Point Arguello Warning Area in the Pacific. The 3-stage
+standard Pegasus placed three small satellites in a 730 x 750 km x 70.0
+deg orbit. The three satellites all use OSC's new Microstar bus design.
+Two of the satellites, Orbcomm FM1 and FM2, are the first satellites in
+OSC's  Orbital Communications Corp. (Orbcomm) subsidiary's low Earth
+orbit (LEO) communications network. They are 1.0m in diameter and 0.16m
+high, with a mass of 40 kg; once on orbit they deploy a 3.3m long
+VHF/UHF communications antenna and a pair of solar panels spanning 2.2m.
+Orbcomm FM2's uplink antenna was malfunctioning last week, but FM1
+was operating well.
+
+The third satellite is Microlab 1, a 68 kg scientific satellite 1.0m in
+diameter and 0.3m high. It carries NASA-MSFC's Optical Transient
+Detector experiment to study the global distribution of lightning, and
+the University Corporation for Atmospheric Research's GPS-MET experiment
+ which will study the occultation of GPS navigation satellite signals by
+the atmosphere to derive meteorological information. Microlab is owned
+by OSC, with NASA and NSF renting the space for and operation of their
+experiments.
+
+The Orbcomm program has been shrouded in commercial secrecy, with
+few details released on the precursor test payloads:
+  Satellite     Launch date    Orbit             Design.
+  Orbcomm-X     1991 Jul 17    771 x 776 x 98.5  1991-50B
+  Orbcomm-XP-1  1993 Feb  9    727 x 790 x 25.0  1993-09A
+  Orbcomm?      1993 Apr 25    747 x 835 x 69.9  1993-26B
+  Orbcomm FM1   1995 Apr  3    727 x 756 x 70.0  1995-17A
+  Orbcomm FM2   1995 Apr  3    737 x 747 x 70.0  1995-17B
+  Microlab 1    1995 Apr  3    731 x 749 x 70.0  1995-17C
+
+On Apr 5 Israel launched its most sophisticated satellite to date, the
+'Ofeq-3  ("Horizon-3") 3-axis stabilized technology satellite. The
+Shaviyt launch vehicle  took off on a westward trajectory from Palamchim
+Air Force Base in Israel and placed the satellite and the AUS-51 solid
+motor third stage in a retrograde orbit. 'Ofeq-3 carries an
+electro-optical scanner and has a mass of 225 kg. It has been reported
+in the media as Israel's first spy satellite, but I think this is
+probably an overstatement. 'Ofeq-3 should probably be considered as
+Israel's first 3-axis-stabilized technology development satellite, with
+an experimental imaging system (whose resolution may be as good as a few
+metres) intended for both remote sensing and military reconnaissance
+applications, but it isn't a full fledged spysat.
+
+'Ofeq-3's westward orbit is rare, but not a record; some US Air Force
+satellites in the 1960s went to an inclination of 144 degrees to the
+eastward equator (i.e. 36 degrees to the westbound equator). There are
+quite a few polar retrograde satellites with inclinations up to around
+105 degrees, and the GAMBIT spy satellites used inclinations up to 110
+degrees regularly in the 1960s and 1970s. Below I give a table of all
+satellites whose inclinations exceeded 110.5 degrees.
+
+   Highest inclination satellite orbits
+
+Satellite       Launch       Orbit (km x km x deg)   Owner
+ GAMBIT 28      1966 May 14   133 x  358 x 110.6      NRO
+ GAMBIT 68      1971 Jan 21   139 x  418 x 110.9      NRO
+ GAMBIT 69      1971 Apr 22   132 x  401 x 110.9      NRO
+ GAMBIT 71      1971 Oct 23   134 x  416 x 110.9      NRO
+ GAMBIT 64      1970 Apr 15   130 x  388 x 111.0      NRO
+ GAMBIT 66      1970 Aug 18   151 x  365 x 111.0      NRO
+ GAMBIT 67      1970 Oct 23   135 x  396 x 111.1      NRO
+ GAMBIT 70      1971 Aug 12   137 x  424 x 111.0      NRI
+ GAMBIT 72      1972 Mar 17   131 x  409 x 111.0      NRO
+ GAMBIT 44      1966 Jun 20   127 x  325 x 111.4      NRO
+ GAMBIT 49      1968 Jan 18   138 x  404 x 111.5      NRO
+ GAMBIT 51      1968 Apr 17   134 x  427 x 111.5      NRO
+ GAMBIT 47      1967 Oct 25   136 x  429 x 111.6      NRO
+ GAMBIT 45      1967 Aug 16   142 x  449 x 111.9      NRO
+ CORONA 66?     1964 Jun 13   350 x  364 x 115.0      NRO
+ CORONA 70?     1964 Aug 21   349 x  363 x 115.0      NRO
+ Geos 3         1975 Apr  9   839 x  853 x 115        NASA
+ GAMBIT 27      1966 Apr 19   145 x  398 x 117.0      NRO
+ RAE 1          1968 Jul  4  5861 x 5861 x 120        NASA
+ NTS 1          1974 Jul 14 13445 x13767 x 125        USAF
+ 'Ofeq-1        1988 Sep 19   245 x 1152 x 142.9      Israel
+ 'Ofeq-2        1990 Apr  3   206 x 1586 x 143.2      Israel
+ 'Ofeq-3        1995 Apr  5   369 x  729 x 143.4      Israel
+ OV1-2          1965 Oct  5   403 x 3462 x 144.3      USAF
+ OV1-8P         1966 Jul 14   998 x 1013 x 144.3      USAF
+ OV1-4          1966 Mar 30   879 x 1011 x 144.5      USAF
+ OV1-5          1966 Mar 30   996 x 1048 x 144.7      USAF
+
+Kosmos-2290 was deorbited on Apr 4 from its 180 x 557 km x 64.8 deg
+orbit. The reason for the unusual maneuver a week before deorbit
+(see JSR 236) remains unclear.
+
+My description of the Start launch vehicle last week was inaccurate;
+it differs from Start-1 in that there is a new second stage inserted
+between the first and second stages of Start-1. According to Maxim
+Tarasenko, apparently there are actually six stages including a small
+kick motor to circularize the orbit. The failure was in the fourth
+stage, and the fifth stage never got a chance to fire. The debris
+impacted eastern Russia.
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar  2 0638   Endeavour    )  Space Shuttle   Kennedy LC39A   Spaceship   07A
+              Astro 2      )
+Mar  2 1300   Kosmos-2306     Kosmos-3M       Plesetsk LC132  Calibration 08A
+Mar  7 0923   Kosmos-2307  )  Proton-K/DM2    Baykonur LC200  Navigation  09A
+              Kosmos-2308  )                                  Navigation  09B
+              Kosmos-2309  )                                  Navigation  09C
+Mar 14 0611   Soyuz TM-21     Soyuz-U2        Baykonur LC1    Spaceship   10A
+Mar 18 0801   SFU          )  H-II            Tanegashima     Science     11A
+              GMS-5        )                                  Weather     11B
+Mar 22 0405?  Kosmos-2310     Kosmos-3M       Plesetsk        Navigation  12A
+Mar 22 0618   Intelsat 705    Atlas IIAS      Canaveral LC36B Comsat      13A
+Mar 22 1645?  Kosmos-2311     Soyuz-U         Plesetsk        Recon       14A
+
+Mar 24 1405   DMSP 24547      Atlas E         Vandenberg SLC3 Weather     15A
+
+Mar 28 0900   Gurwin-1     )  Start           Plesetsk        Technology  FTO
+              UNAMSAT      )                                  Comsat      FTO
+              EKA-2        )                                  Dummy       FTO
+
+Mar 28 0618   Eutelsat HB1 )  Ariane 44LP     Kourou          Comsat      16B
+              Brasilsat B2 )                                  Comsat      16A
+
+Apr  3 1348   Orbcomm 1  )    Pegasus L1011   VAFB/PAWA       Comsat      17A
+              Orbcomm 2  )                                    Comsat      17B
+ 	      Microlab 1 )                                    Science     17C
+
+Apr  5 1116   'Ofeq-3         Shaviyt         Palamchim       Technol.    18A
+Apr  7 2347   AMSC-1          Atlas IIA       Canaveral LC36A Comsat      19A
+Apr  9 1934   Progress M-27   Soyuz-U         Baykonur        Cargo       20A
+
+
+Reentries
+---------
+
+Mar  2        ODERACS II D    Reentered
+Mar  3        ODERACS E       Reentered
+Mar  3        Foton 10        Landed in Russia
+Mar 10        Kosmos-2280     Deorbited
+Mar 15        Progress M-26   Deorbited over Pacific
+Mar 18        Endeavour       Landed at Edwards AFB
+Mar 18        Kosmos-2244     Deorbited
+Mar 22        Soyuz TM-20     Landed in Kazakhstan
+Apr  3        Kosmos-2137     Reentered
+Apr  4        Kosmos-2290     Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Aboard SCA    OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-70  Under review
+OV-104 Atlantis        OPF Bay 3     STS-71  Under review
+OV-105 Endeavour       OPF Bay 1     STS-69  Jul 20 
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-44                VAB Bay 3 STS-70                                 
+ML3/RSRM-45/ET-70          VAB Bay 1 STS-71
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

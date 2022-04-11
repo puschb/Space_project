@@ -1,0 +1,110 @@
+
+Jonathan's Space Report 
+
+No. 148		1993 Mar 31
+I'll be travelling for a couple of weeks so JSR will probably not
+appear for a while.
+------------------------------------------------------------------------------
+
+STS-55 and STS-56
+-----------------
+
+Analysis of the STS-55 launch pad abort is continuing. Contamination has
+been found in the failed main engine check valve. STS-56 has jumped the
+queue and is now due to launch on April 6 at 0532 UTC. STS-55 will
+follow, in late April, and STS-57 will fly in late May. Now that STS-57
+has been mated to its tank and boosters, there are three complete
+Shuttle stacks at KSC.
+
+New Russian Launch Vehicle
+---------------------------
+
+The first launch of the Start, a  converted RS-12M (NATO designation
+SS-25) ICBM, was carried out from Plesetsk on Mar 25. It placed an test
+satellite in orbit, carrying a comsat made by NPO Kompleks. The orbit is
+683 x 970 km inclined 75.8 degrees, similar to the orbits used for test
+launches of the Tsiklon rocket in 1977. The RS-12M was developed from 
+the 1970's vintage RS-12 missile, known by NATO as SS-13. Both missiles
+were developed by the Nadiradize design bureau. This is the first time
+in many years that a Soviet military missile has been converted for
+space use; previous cases were the Korolev R-7 (1957, became Vostok/Soyuz launcher),
+the Yangel R-12 (1962, became original Kosmos launcher); the Yangel R-14
+(1964, became current Kosmos launcher); and the Yangel R-36 (1966,
+used for military space projects; civilian modification Tsiklon introduced
+in 1977). The other Soviet launch vehicles (UR-500 Proton, N-1, Energiya, Zenit)
+were developed directly for space use.
+
+Atlas Failure
+-------------
+
+General Dynamics' Atlas-Centaur AC-74 was launched at 2138 UTC on Mar
+25. The Atlas lost some power during the booster burn, and the Centaur
+had to burn longer to make up and get into parking orbit. As a result,
+the second Centaur burn to transfer orbit ran out of fuel during the
+burn. The Hughes UHF Follow On (UFO) F1 satellite was left in a 219 x
+9158 km x 27.3 deg orbit. The UFO F1 satellite is an HS-601 comsat built
+by Hughes, and currently owned by Hughes. It was to be delivered
+on-orbit to the US Navy to replace the Fltsatcom series of UHF
+communications satellites, hence the name. This is the third failure of
+the Atlas I class rocket in the last 4 launches; however, the Atlas II
+class rocket has not had any failures.
+
+Russian Launches
+----------------
+
+A geostationary satellite was launched by Proton from Baykonur on Mar
+25. It hasn't reached its final position yet and I don't know what kind
+of satellite it is (the name Gorizont in the table below is just a
+guess). A signals intelligence satellite was launched by Zenit from
+Baykonur on Mar 26. Again, I don't know the correct name yet, but the
+orbit is one used by the latest generation of Kosmos electronic
+listening satellites. 
+
+Launches
+--------
+
+Date		Name		Launch Vehicle	Site		Mission	   INTL.
+									   DES.
+
+Mar 25 0240?	Gorizont?	Proton		Baykonur	Comsat?	   13A
+Mar 25 1330?	Kosmos-2237?	Start		Plesetsk	Comsat	   14A
+Mar 25 2138	UFO 1		Atlas I		Canaveral	Comsat	   15A
+Mar 26 0225?	Kosmos-2238?	Zenit		Baykonur	SIGINT	   16A
+Mar 30 0309	Navstar GPS 31	Delta		Canaveral	Navsat	   17A
+
+
+Reentries
+---------
+
+Mar 11		Kosmos-1116	Reentered
+Mar 14		NSA B7 		Reentered (1967-43B)
+Mar 16		DUVE		Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39A         STS-55
+OV-103 Discovery       LC39B         STS-56
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       VAB Bay 1     STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-56/ET/OV-103   LC39B 
+ML2/STS-57/ET/OV-105   VAB Bay 1
+ML3/STS-55/ET/OV-102   LC39A
+
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+

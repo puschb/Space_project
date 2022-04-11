@@ -1,0 +1,122 @@
+Jonathan's Space Report
+
+No. 445                                           2001 Jan 29, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Atlantis rolled out to the pad on Jan 26 after further wiring
+checks. Launch is now scheduled for Feb 7.
+Revised estimate for the STS-98 cargo bay: (still looking
+for a payload bay diagram)
+
+                                               Est. Mass (kg)
+Bay 1-2:     Orbiter Docking System                     1800
+             and External Airlock
+             3 EMU spacesuits (S/N unknown)              360?
+Bay 4-13:    Destiny Module                            14056
+Unknown      Adapter Beam with                            78?
+             PDGF (Power Data Grapple Fixture)
+Unknown      Adapter Beam with                           100?
+             SASA (S-band Antenna Support Assembly)             
+Sill:        Canadarm RMS 202                            410
+                                                      ------
+                      Total payload bay cargo          16804 kg
+
+
+Expedition One crew Bill Shepherd, Yuriy Gidzenko and Sergey Krikalyov
+remain on the ISS, awaiting the launch of STS-98. They will be
+relieved by the Expedition Two crew which will fly on STS-102
+in March. 
+
+
+The Mir station had a power failure on Jan 18, delaying the launch of
+the Progress cargo ship that was to deorbit it for a few days. Progress
+No. 254, post launch name Progress M1-5, was launched on Jan 24.
+According to a report by Anatoliy Zak, the Progress carries  2677 kg of
+fuel. Total launch mass is probably around 7300 kg. A special 3-day
+fuel-economy approach was be used to keep as much fuel as possibile for
+the deorbit, scheduled for Mar 6. Progress M1-5 docked with the +X Kvant
+port at 0533 UTC on Jan 27. Progress M-43 undocked at 0519 UTC on Jan 25
+from the same port and on Jan 29 was in a 271 x 280 km x 51.6 deg orbit.
+On Jan 29, Mir was in a 90.41 min, 284 x 305 km x 51.6 deg orbit.
+Since Jan 5, when it dipped below its Jan 2000 orbit, it has been lower
+in average height than at any time since orbit insertion in 1986.
+In mid-January its perigee dipped below the Nov 1987 record of 286 km.
+
+Current Launches
+----------------
+
+The Shenzhou spacecraft reportedly carried a monkey, a dog and a rabbit.
+
+On Jan 27, Turksat 2A was in a 35768 x 35804 km x 0.1 deg, 1436.10 min
+geostationary orbit at 41.9 deg E. It entered the geosynchronous region
+with a burn on Jan 15 around 0800 UTC which raised the period from
+1078.3 to 1428.4 min.
+
+Errata
+-------
+
+Stardust's closest appoach distance was 6012 km, not 3706 km as I reported
+in JSR 444. My mind just can't seem to get around the fact that some people
+still use imperial units :-)
+
+I reported the Japan's LDREX experiment as a failure. J-M. Desobeau
+correctly pointed out to me that although the LDREX antenna failed to
+deploy, strictly as an experiment LDREX was a success, although it
+must have been a very disappointing one for NASDA. The experiment
+was designed to determine whether the deployment mechanism (planned for
+the ETS-8 satellite) worked, and it indeed returned lots of information
+on that subject, which hopefully will lead to a successful ETS-8 mission
+in the future. (If the video camera or telemetry hadn't functioned, LDREX
+would have been a failure, but problems with the antenna deployment were
+what LDREX was designed to measure and don't per se make it a failure).
+ 
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Dec  1 0306   Endeavour)        Space Shuttle  Kennedy LC39     Spaceship  78A
+              ITS P6   )                                       Station seg.
+Dec  5 1232   EROS A1           Start-1        Svobodniy        Imaging    79A   
+Dec  6 0247   USA 155           Atlas 2AS      Canaveral SLC36A Commsat?   80A
+Dec 20 0026   Astra 2D )        Ariane 5G      Kourou ELA3      Commsat    81A
+              GE 8     )                                        Commsat    81B
+              LDREX    )                                        Tech       81C
+Dec 20 1620   Beidou            CZ-3A          Xichang LC2      Navsat     82A
+Dec 27 1856   Gonets D-1 )      Tsiklon-3      Plesetsk LC32    Commsat    F03
+              Gonets D-1 )
+              Gonets D-1 )
+              Strela-3   )
+              Strela-3   )
+              Strela-3   )
+Jan  9 1700   Shenzhou 2        Chang Zheng 2F Jiuquan          Spaceship  01A
+Jan 10 2209   Turksat 2A        Ariane 44P     Kourou ELA2      Commsat    02A
+Jan 24 0428   Progress M1-5     Soyuz-U        Baykonur LC1     Cargo      03A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-102 2001 Mar  8  ISS 5A.1
+OV-104 Atlantis        LC39A         STS-98  2001 Feb  7  ISS 5A
+OV-105 Endeavour       OPF Bay 2     STS-100 2001 Apr 19  ISS 6A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

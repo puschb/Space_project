@@ -1,0 +1,286 @@
+Jonathan's Space Report 
+No. 741                                                    2017 Oct 6     Somerville, MA
+---------------------------------------------------------------------------------------------
+Apologies for the long gap since the last issue, I've been busy.
+
+International Space Station
+---------------------------
+
+Dragon CRS-12 was launched on Aug 14 at 1631 UTC and arrived at the ISS on
+Aug 16. The Canadarm-2 grappled CRS-12 at 1032 UTC and the Dragon was berthed
+at the Harmony nadir port at 1302 to 1307 UTC.
+
+On Aug 17 astronauts Yurchikin, in suit Orlan-MKS No. 4, and Ryazanskiy,
+in Orlan-MK No. 6, performed spacewalk VKD-43. They threw five small
+satellites into space and retrieved and installed materials exposure
+experiments. Depressurization time was 7hr 58 min; hatch open-to-close
+time was 7h 34 min. This was the first use of the new Orlan-MKS model
+spacesuit.
+
+On Sep 2 at 2158 UTC Soyuz MS-04 undocked from the Poisk module with
+Yurchikin, Fischer and Whitson. At undocking, Expedition 53 began. The
+Soyuz MS-04 spacecraft landed at 0121 UTC Sep 3. Soyuz MS-05 remains
+docked to the Rassvet module.
+
+On Sep 12 Soyuz MS-06 was launched from Baykonur with astronauts
+Aleksandr Misurkin, Mark Vande Hei, and Joe Acaba. The Soyuz docked at
+the Poisk module at 0255 UTC and the hatch to ISS was opened at 0508
+UTC.
+
+On Sep 16 at about 2000 UTC Dragon CRS-12 was unberthed from Harmony;
+it was released at 0840 UTC Sep 17. After a deorbit burn at 1324 UTC
+it splashed down SW of Los Angeles near 120.9W 32.4N at about 1414 UTC.
+
+Astronauts Bresnik and VandeHei, in suits EMU 3003 and 3008
+respectively, made spacewalk US EVA-44 on Oct 5. The airlock was
+depressurized around 1200 UTC and repressurized at 1900 UTC. They
+replaced one of the LEE (Latching End Effector) systems on the end of
+the Canadarm-2 (SSRMS, Space Station Remote Manipulator System). 
+
+The Canadarm-2 was launched in 2001; it has a LEE on each end (LEE-A and
+LEE-B). The LEE is around 190 kg and about a metre long.
+One LEE grabs the ISS and the other a satellite (like Dragon) or
+station component to be moved. The arm can 'walk' across the station by
+alternately grabbing ISS at each end, first using A as its 'foot' 
+then B and then A, etc. There is also a LEE on the MBS POA. The MBS
+(Mobile Base System) is a device that sits on the MT (Mobile
+Transporter) truck that goes up and down the truss railway. The SSRMS
+can attach itself to the MBS and be moved along the truss to work on
+different parts of the station. MBS has four PDGF (Power/Data Grapple
+Fixture) attachment points; it also has a device called the POA
+(Payload/ORU Accommodations) for temporary storage of a cargo, and this
+POA has a LEE on it.
+
+There are five LEE systems on the ISS:
+   LEE S/N 201, acting as LEE-B on the SSRMS.
+   LEE S/N 202, acting as LEE-A on the SSRMS until Oct 5.
+   LEE S/N 203, acting as the LEE on the MBS POA until Oct 5. Launched in 2002.
+   LEE S/N 204, a spare LEE stored on Express Logistics Carrier 1 (ELC-1). Launched in 2009.
+   LEE S/N 301, attached to the Dextre SPDM robot arm. Launched in 2008.
+
+In addition, there's another spare LEE on Earth. The most heavily used
+LEEs are the ones on the end of the Canadarm and LEE 202 has been
+showing  degraded behaviour recently. During the spacewalk it was
+swapped with LEE 203, so now LEE 203 is on the Canadarm-2 and LEE 202 is
+on the less-frequently-used MBS POA.
+
+Blagovest
+---------
+
+On Aug 16 a Khrunichev Proton was launched from Baykonur carrying the Blagovest No. 11L 
+military communications satellite, which was later given the code name Kosmos-2520.
+Blagovest is built by Reshetnev and uses the Ekspress-2000 bus.
+
+TDRS-M
+------
+
+A United Launch Alliance Atlas V 401 placed the TDRS M satellite in geotransfer orbit
+on Aug 18. TDRS M (to be renamed TDRS 13 in service) is a NASA Tracking and Data
+Relay Satellite.
+
+Sputnik-Inspektor
+-----------------
+
+The Kosmos-2519 satellite launched in June made small orbit adjustments on Jul 27 and Aug 3
+to a 649 x 668 km orbit. On Aug 23, according to the Russian Ministry of Defense, it
+released a 'small satellite-inspector' (maliy sputnik-inspektor) whose mission is to
+observe other Russian satellites. Most likely the satellite's first task is to observe
+the Kosmos-2519 host satellite, described as a generic platform for carrying experiments.
+The inspector is thought to be designated Kosmos-2521.
+
+Formosat-5
+----------
+
+SpaceX launched a Falcon 9 from Vandenberg on Aug 24 carrying the Formosat-5 imaging satellite
+for Taiwan's National Space Office (NSPO, Guojia Taikong Zhongxin). Formosat-5 has a mass
+of only 525 kg, much less than F9 could carry to this orbit. The F9 S/N B1038 first stage
+landed downrange on the 'Just Read The Instructions'; the second stage completed just
+more than 1 orbit and was deorbited in the South Pacific east of New Zealand.
+
+ORS-5
+-----
+
+ORS-5 is a space surveillance satellite (also called SensorSat) for the US Air Force 
+Operationally Responsive Space office (Kirtland AFB, New Mexico). The satellite was
+inserted into equatorial LEO to monitor debris and satellites in the GEO belt.
+
+A 5-stage Minotaur IV was used to orbit the satellite. Stage 4, with an
+Orion 38 motor, inserted the stack in a 400 x 600 km x 24.6 deg parking
+orbit. Stage 5, with a second Orion 38, made the plane change to reach
+599 x 604 km x 0.02 deg. 
+
+Three cubesats were ejected into the parking orbit: two for Los Alamos (probably the 1.5U
+comm satellites Prometheus 2.2 and 2.4) and one for DARPA, understood to be the 3U cubesat DARPA
+High Frequency Receiver experiment developed by Utah's SDL.  The DoD has cataloged
+three pieces of debris but has not cataloged the cubesats. (Of course, the
+claimed 'debris' may well be the cubesats; it will be interesting to see what the US
+registers with the UN).
+
+PSLV-C39
+---------
+
+On Aug 31 launch C39 of the PSLV rocket ended in failure when the
+payload fairing (`heat shield' in ISRO parlance) failed to separate. The
+extra mass caused stage 3 to be low and slow at cutoff; instead of
+reaching apogee of 170 km and impacting off the coast of Chile it
+probably reached only 155 km and crashed near Borneo. The fourth stage,
+PS4, was also slowed by the extra mass, reaching a 166 x 6556 km orbit
+instead of the planned 284 x 20650 km. It appears that the IRNSS-1H
+navigation satellite may have separated from the PS4 payload adapter but
+remains trapped withing the attached nose fairing, resulting in a single
+object in orbit with a mass of about 2600 kg dry plus 827 kg of
+propellant. According to ISRO the propellant was successfully vented
+during the first day in orbit. On Sep 1 two debris objects were cataloged
+in a similar orbit, but since Sep 7 no orbital data has been released from
+them.
+
+X-37B
+-----
+
+The fifth flight of the X-37B Orbital Test Vehicle project (and probably
+the third flight of spacecraft number 1) began on Sep 7. This was the
+first X-37 launch on a Falcon 9; the B1040 core stage landed back at
+Cape Canaveral's Landing Zone 1. The spacecraft was also given the code
+name USA 277.
+
+Proton launches
+---------------
+
+Amazonas-5, for Spanish operator Hispasat's Brazilian Hispamar
+subsidiary, was launched on Sep 11. Amazonas-5 is an SSL/MDA 1300
+satellite bus with a launch mass of 5900 kg, built at Loral/Palo Alto.
+Asiasat-9 for the Hong Kong operator Asiasat, launched on Sep 28.
+Asiasat 9 is also an SSL/MDA 1300 bus, with  a launch mass of 6141 kg. 
+
+Uragan No.  752
+----------------
+
+A new GLONASS-M navigation satellite, vehicle Uragan-M No. 752 or
+GLONASS M-52, also codenamed Kosmos-2522, was launched into 12-hour
+orbit on Sep 22.
+
+USA 278
+-------
+
+A ULA Atlas 5 placed an NRO satellite in highly elliptical orbit on Sep
+24. The satellite is thought to host a signals intelligence payload
+(possibly codenamed RAVEN) and the HEO-4 missile early warning package.
+The Centaur stage was deorbited after one revolution.
+
+YG-30-01
+--------
+
+The Chinese space program returned to flight on Sep 29 after a pause
+following the June ZX-9A launch mishap. The CZ-2C, in a rare  flight
+from Xichang, placed three satellites in orbit. The satellites are
+called Yagoan 30 hao 01 zu 01,02,03 xing (Resource No. 30 Group 01 Sat
+01,02,03). They appear to be a new series, possibly replacing the higher
+orbit triplets Yaogan 9, 16, 1 7, 20, 25. The name is odd, since the
+previous Yaogan series launch in May 2016 was called Yaogan 30 (Yaogan
+30 hao weixing) but appears to be unrelated. It's possible that the
+Chinese authorities lost track of the count and should have named the
+new launch Yaogan 31-01.
+
+Ariane L5100
+------------
+
+Ariane 5 vehicle L5100, flight VA239 was launched into geotransfer orbit
+on 2017 Sep 29 with two communications satellites: the 3520 kg BSAT-4a
+for BSAT Corp of Tokyo  (a Loral 1300 bus) and the 6538 kg Intelsat 37e
+(a Boeing 702MP bus) for Intelsat.
+
+Osiris-Rex
+----------
+
+NASA's OSIRIS-Rex space probe made a 17200 km flyby of Earth on Sep 22
+with closest approach at 1653 UTC. It left the Earth's gravitational
+Hill sphere on Sep 25 at 0849 UTC and is now in a 0.87 x 1.31 AU x 6.4 deg
+solar orbit on course for rendezvous with minor planet (101955) Bennu
+in Aug 2018.
+
+Cassini
+-------
+
+The Cassini spacecraft was launched in 1997 and entered Saturn orbit in
+2004. Following a remarkable series of scientific discoveries, the
+spacecraft was placed in a disposal orbit with final apoapsis at 0539
+UTC on Sep 12, 1.2 million km from Saturn. From there it fell towards
+the planet, picking up speed, and entered Saturn's atmosphere on Sep 15
+at a speed of 34.3 km/s (123660 km/hr). The spacecraft tumbled and broke
+up at 1032:16 UTC, sending out its last radio signal which reached Earth
+at 1155:42 UTC.
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Aug  1 0703   Silu-1                                Tianzhou-1, LEO     Tech          21F   S42903   385 x   395 x  42.8
+Aug  2 0158   OptSat-3000         )   Vega             Kourou           Imaging       44A   S42900   440 x   450 x  97.2
+              Ven{\mu}s           )                                     Imaging       44B   S42901   720 x   724 x  98.4
+Aug 14 1631   Dragon CRS-12           Falcon 9         Kennedy LC39A    Cargo         45A   S42904   204 x   353 x  51.6
+Aug 16 2207   Kosmos-2520             Proton-M/Briz-M  Baykonur LC81/24 Comms         46A   S42907 35511 x 35766 x   0.1
+Aug 17 1510   Tomsk-TPU-120                         ISS, LEO            Tech        98-67MZ S42910?  401 x   408 x  51.6
+Aug 17 1515   Tanyusha YuZGU No. 1                  ISS, LEO            Tech        98-67NA S42911?  401 x   408 x  51.6
+Aug 17 1516   Tanyusha YuZGU No. 2                  ISS, LEO            Tech        98-67NB S42912?  401 x   408 x  51.6
+Aug 17 1521   TNS-0-2                               ISS, LEO            Tech        98-67NC S42913?  401 x   408 x  51.6
+Aug 17 1529   TS530-Zerkalo                         ISS, LEO            Tech        98-67ND S42914?  401 x   408 x  51.6
+Aug 18 1229   TDRS M                  Atlas V 401      Canaveral SLC41  Comms         47A   S42915  4647 x 35753 x  26.2
+Aug 19 0529   Michibiki-3             H2A 204          Tanegashima      Nav           48A   S42917   344 x 35392 x  19.9
+Aug 23        Kosmos-2521                           Kosmos-2519, LEO    Tech          37D   S42919   654 x   669 x  98.0
+Aug 24 1851   Formosat-5              Falcon 9         Vandenberg SLC4E Imaging       49A   S42920   717 x   730 x  98.3
+Aug 26 0604   ORS-5           )       Minotaur IV      Canaveral SLC46  SpaceSurv     50A   S42921   599 x   604 x   0.0
+              Prometheus 2.2? )                                         Comms         50C?  S42922   388 x   602 x 24.52  
+              Prometheus 2.4? )                                         Comms         50D?  S42923   384 x   603 x 24.53  
+              DHFR            )                                         Tech          50B?  S42924   430 x   597 x 24.52  
+Aug 31 1330   IRNSS-1H                PSLV-XL          Satish Dhawan SLP Nav          51A   S42928   166 x  6556 x 19.16
+Sep  7 1400   X-37B OTV-5             Falcon 9         Kennedy LC39A    Spaceplane    52A   S42932   350?x   350?x 43?
+Sep 11 1923   Amazonas 5              Proton-M/Briz-M  Baykonur LC200/39 Comms        53A   S42934  4360 x 35270 x 22.8
+Sep 12 2117   Soyuz MS-06             Soyuz-FG         Baykonur LC1      Spaceship    54A   S42937   192 x   240 x 51.6
+Sep 22 0002   Kosmos-2522             Soyuz-2-1B/Fregat Plesetsk LC43-4  Nav          55A   S42939 19130 x 19160 x 64.8
+Sep 24 0549   USA 278                 Atlas V 541      Vandenberg SLC3E  Sigint       56A   S42941  2100?x 37800?x 62.8
+Sep 28 1852   Asiasat-9               Proton-M/Briz-M  Baykonur LC200/39 Comms        57A   S42942  4014 x 35848 x 23.4  
+Sep 29 0421   YG-30 01 zu 01 xing )   Chang Zheng 2C   Xichang           Sigint       58A   S42945   592 x   601 x 35.0
+              YG-30 01 zu 02 xing )                                      Sigint       58B   S42946   592 x   601 x 35.0
+              YG-30 01 zu 03 xing )                                      Sigint       58C   S42947   594 x   601 x 35.0
+Sep 29 2156   BSAT-4a      )          Ariane 5 ECA     Kourou ELA3       Comms        59B   S42951   265 x 35617 x  5.9
+              Intelsat-37e )                                             Comms        59A   S42952   263 x 35693 x  6.0
+
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Aug  2 0910   GT223GM           Minuteman 3        Vandenberg LF10       Test         1000?      Kwajalein
+Aug 13 0930   Rocksat-X 7       Terrier Imp.Mal.   Wallops               Education     151       Atlantic
+Aug 23        RV                DF-4               Taiyuan, China        Test         1000?      China
+Aug 23        Hyunmoo RV        Hyunmoo-2B?        Anhueng, S Korea      Test          100?      E China Sea
+Aug 23        Hyunmoo RV        Hyunmoo-2B?        Anheung, S Korea      Test          100?      E China Sea
+Aug 24?       Hyunmoo RV        Hyunmoo-2B?        Anheung, S Korea      Test          100?      E China Sea
+Aug 25 2149   RV                Hwasong 5?         Kittareyong, N.Korea  Training?     100?      Sea of Japan
+Aug 25 2219   RV                Hwasong 5?         Kittareyong, N.Korea  Training?     100?      Sea of Japan
+Aug 28 2058   RV                Hwasong 12         Pyongyang-Sunan, N.K. Test          550       Pacific Ocean
+Aug 29        FTM-27E2 Target   MRBM-T3?           Kauai                 Target        300?      Pacific Ocean
+Sep  3        Hyunmoo RV        Hyunmoo-2B?        Unknown site,S Korea  Test          100?      Sea of Japan
+Sep  9 1134   WINDY 1           Black Brant 9      Kwajalein             Ionosphere    409       Pacific
+Sep  9 1139   WINDY 2           Terrier Malemute   Kwajalein             Ionosphere    400?      Pacific
+Sep 12        RV x4?            Yars               Plesetsk              Test         1000?      Kura
+Sep 14 2157   RV                Hwasong 12         Pyongyang-Sunan, N.K. Test          770       Pacific Ocean
+Sep 14 2330?  RV                Hyunmoo-2A?        Goseung, S Korea?     Test          100?      Sea of Japan
+Sep 17        PTV               Janus              Wake Island           Target        300?      Kwajalein
+Sep 20        RV x4?            Yars               Plesetsk              Test         1000?      Kura
+Sep 26 1530?  Topol-E RV        Topol'-E           Kapustin Yar          Test         1000?      Sary Shagan
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

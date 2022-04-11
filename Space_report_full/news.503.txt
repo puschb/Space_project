@@ -1,0 +1,97 @@
+Jonathan's Space Report
+No. 503                                            2003 Jun 30, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew, Yuriy Malenchenko and Edward Lu, remain on board
+the Space Station. The ferry ship Soyuz TMA-2 (spacecraft 7K-STM 212)
+and two cargo ships, Progress M-47 (spacecraft 7K-TGM 247) and Progress
+M1-10 (spacecraft 7K-TGM 259) are docked to the Station.
+
+Recent Launches
+---------------
+
+Russia has launched an 8K78M Molniya-M rocket from the northern Plesetsk
+spaceport carrying a Russian government Molniya-3 communications
+satellite. The Molniya-M rocket is just a Soyuz-U with an extra fourth
+state. The satellite entered a 211 x 559 km x 62.8 deg parking orbit,
+and then the Blok ML upper stage fired to put it in a 604 x 40578 km x
+62.7 deg drift orbit with a 734 minute period; the orbit will later be
+adjusted to 717.8 minutes (semi-synchronous) with an onboard engine. By
+Jun 28 it was in a 719.1 minute, 631 x 39789 km x 62.9 deg orbit. The
+special  orbital inclination of i = 63 degrees,  ( sin i ) squared  =
+4/5, minimizes the rotation of the orbit in its plane due to the
+oblateness of the Earth, keeping the apogee in the northern hemisphere.
+
+Russian sources have not released the serial number of the payload, but
+it may possibly be Molniya-3 No. 65. US sources list it as Molniya 3-53
+because it is the 53rd satellite to be given the Molniya-3 name, but the
+3-53 designation is not used in official Russian sources. The first
+Molniya-3 was Molniya-3 No. 11 launched in Nov 1974; satellite series
+built by  NPO Prikladnoi Mekhaniki always start with No. 11 - perhaps
+Nos. 1-10 are reserved for ground test articles or something. Subsequent
+satellites were launched somewhat out of production order and No. 14 was
+never launched, so we can't really guess the correct designation.  54
+Molniya-3 satellites and one Molniya-3K have now been launched,
+including two satellites which were stranded in parking orbit and given
+Kosmos designations.
+
+Space Command has redesignated the two parts of Japan's USERS satellite 
+for no very good reason: 2002-42A (27515) is now the SEM, still in orbit
+(although still listed as decayed in the NASA OIG site, new elements are
+being issued) and 2002-42H (27815) is now the REM, which landed on May
+29 (although all the elements associated with it are actually orbital
+data for the SEM, and are for dates in early June after the REM landed). 
+I think I'm not going to update my own catalog just yet in case they 
+switch back again.
+
+Orbimage's Orbview-3 1-meter-resolution commercial imaging satellite was
+launched on Jun 26 by Orbital Sciences. The L-1011 carrier plane took
+off from Vandenberg AFB at 1757 UTC and dropped the Pegasus XL rocket at
+1853 UTC, probably over the standard Pacific drop zone at 36.0N 123.0W.
+It reached a 366 x 430 km x 97.3 deg orbit at 1901 UTC deploying
+Orbview-3, which uses an Orbital Leostar bus and has a launch mass of
+304 kg (probably including of order 50 kg of hydrazine for orbit
+raising; other sources imply that the 304 kg figure may be the bus only
+and does not include the 66 kg science instrument). This is the third
+Pegasus launch this year, following SORCE and GALEX.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  8 1128   GSAT-2            GSLV            Sriharikota      Comms       18A
+May  9 0429   Hayabusa          M-V             Kagoshima        Probe       19A
+May 13 2210   Hellas Sat 2      Atlas V 401     Canaveral SLC41  Comms       20A
+May 24 1634   Beidou            CZ-3A           Xichang          Navigation  21A
+Jun  2 1745   Mars Express      Soyuz-FG/Fregat Baykonur LC31    Probe       22A
+Jun  4 1923   Kosmos-2398       Kosmos-3M       Plesetsk         Navigation  23A
+Jun  6 2215   AMC-9             Proton-K/Briz-M Baykonur LC200/39 Comms      24A
+Jun  8 1034   Progress M1-10    Soyuz-U         Baykonur LC1     Cargo       25A
+Jun 10 1356   Thuraya 2         Zenit-3SL       Odyssey, Pacific Phone comms 26A
+Jun 10 1758   MER-A Spirit      Delta 7925      Canaveral SLC17A Mars probe  27A
+Jun 11 2238   BSAT-2c    )      Ariane 5G       Kourou ELA3      Comms       28A
+              Optus/D C1 )                                       Comms       28B
+Jun 19 2000   Molniya-3         Molniya-M       Plesetsk LC43/3  Comms       29A
+Jun 26 1853   Orbview-3         Pegasus XL      Vandenberg RW30/12 Imaging   30A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

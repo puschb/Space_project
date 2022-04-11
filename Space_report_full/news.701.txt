@@ -1,0 +1,278 @@
+Jonathan's Space Report 
+No. 701                                                  2014 Sep  6    Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 40 is continuing with ISS in a 410 x 419 km x 51.7 deg orbit.
+ISS Commander is Steve Swanson (NASA); flight engineers are FE-1 Aleksandr
+Skvortsov (Roskosmos), FE-2 Oleg Artemev (Roskosmos), FE-4 Max Suraev (Roskosmos),
+FE-5 Reid Wiseman (NASA), FE-6 Alexander Gerst (ESA).
+
+The SS Janice Voss cargo freighter was unberthed from the Harmony nadir port
+at 0914 UTC Aug 15 and released by Canadarm-2 at 1040 UTC. It was deorbited
+around 1233 UTC Aug 17 and reentered at 1315 UTC over the S Pacific.
+
+On Aug 18 astronauts Skvortsov and Artemev made spacewalk VKD-39 from the Pirs
+module. The airlock was depressurized at 1340 UTC and the hatch opened at 1402 UTC.
+At 1423 UTC Artemev hand-launched the 1U cubesat Chasqui-1, a joint Peruvian-Russian
+project. Chasqui-1 was built by the Universidad Nacional de Ingenieria in Lima and
+the Yugo-Zapadniy gosudarstvenniy universitet (Southwest State University) in Kursk.
+
+The crew also worked with materials exposure experiments;
+they installed the EXPOSE-R2 experient on Zvezda's URM-D-II boom, and on Poisk they
+retrieved Panel 2 of the Vinoslivost experiment and swapped out the SKK-1-M2 cassette
+for the new SKK-2-M2; they also installed the new BKDO experiment to study the
+effects of rocket thruster plumes impinging on the station. Finally a Biorisk exposure
+canister was retrieved from Pirs, and the astronauts went back inside to close the
+Pirs hatch at 1913 UTC and repressurize the airlock at about 1916 UTC.
+
+On Aug 19 the JEM RMS arm picked up the Nanoracks cubesat packages from the Kibo airlock
+and began deploying the PlanetLabs Flock-1b cubesats. (Thanks to Henry Hallam for 
+providing deploy times). Electrical problems with the deployer meant that deploys
+were suspended after Aug 21. Two pairs of cubesats were accidentally deployed
+on Aug 23 and Sep 5 without being commanded; PlanetLabs was able to contact and command
+them without problems. 
+
+WorldView-3
+-----------
+
+DigitalGlobe's WorldView-3 high resolution imaging satellite was
+launched Aug 13 into a 612 x 614 km x 98.0 deg, 1015LTDN sun-synchronous
+orbit by an Atlas V 401 rocket, serial AV-047. The Centaur stage
+restarted to use up its extra propellant by accelerating to an escape
+trajectory to solar orbit. WV-3 has an imager with 0.3m ground
+resolution in addition to multispectral and 3.7-micron IR cameras.
+Digital Globe was formerly EarthWatch Inc, and merged with the former
+Space Imaging Inc. (GeoEye) in 2012, which itself absorbed EOSAT in 1996
+and OrbImage in 2006, completing the consolidation of the first
+generation of US commercial imaging companies.
+
+         Digital Globe satellites
+         ------------------------
+
+                            Operated                             Resolution
+  
+  EOSAT Landsat 5           1984 Mar - 2001 Jul (to USGS)          30m
+  EOSAT Landsat 4           1985 Sep - 2001 Jun (from NOAA)        30m
+  EOSAT Landsat 6           1993 Oct            (launch failure)   15m
+
+  OrbImage OrbView-1        1995 Apr - 2000 Apr                     10 km (lightning sensor)
+  OrbImage OrbView-2        1997 Aug - 2010 Dec                     1 km SeaWIFS
+  OrbImage OrbView-3        2003 Jun - 2011 Mar                     1m
+  OrbImage OrbView-4        2001 Sep            (launch failure)    1m
+  GeoEye   GeoEye-1         2008 Sep - present                      0.4m
+
+  EarthWatch EarlyBird      1997 Dec            (failed on orbit)   3 m 
+  EarthWatch QuickBird 1    2000 Nov            (launch failure)    1 m 
+  EarthWatch QuickBird 2    2001 Oct - present                      0.6m
+
+  SpaceImaging Ikonos 1     1999 Apr            (launch failure)    1 m
+  SpaceImaging Ikonos 2     1999 Sep - present                      1 m
+
+  DigitalGlobe WorldView-1  2007 Sep - present                      0.5m
+  DigitalGlobe WorldView-2  2009 Oct - present                      0.5m
+  DigitalGlobe WorldView-3  2014 Aug - present                      0.3m
+  
+
+
+Gaofen
+------
+
+China's Gaofen-2 high resolution imaging satellite was launched on Aug 19 into
+a 608 x 631 km x 98.0 deg, 1020 LTDN sun-synchronous orbit aboard
+a CZ-4B rocket from Taiyuan. (Gaofen-1 was launched using a CZ-2D from Jiuquan).
+Poland's BRITE-P2 'Heweliusz' (Hewelius) astronomy nanosatellite was carried as a secondary
+payload. It is named after astronomer Jan Heweliusz (aka Jan Howelcke) (1611-1687).
+This sixth and final member of the initially planned BRITE constellation carries
+an R-band photometer.
+
+GF-2 and WV-3 are in very similar orbits; GF-2 is currently following about an hour behind,
+although as the periods are slightly different they will eventually lap each other.
+GF-2 has 0.80m resolution with 48 km swath.
+
+Galileo
+--------
+
+The first two Galileo FOC (Full Operational Capability) satellites, FM01
+and FM02, were launched from the Centre Spatial Guyanais on Aug 22. 
+Soyuz put the payload stack on a suborbital trajectory. The Fregat stage
+made a first burn to put the stack in elliptical transfer orbit, and
+then began the coast to apogee. At apogee at 1605 UTC the Fregat made a
+second burn intended to circularize the orbit at 23500 x 23500 km x 55.0
+deg. The satellites separated from the Fregat-MT No. 1039 upper stage at
+1615 UTC. Unfortunately the orbit actually reached was 13700 x 25900 km
+x 49.7 deg, more elliptical than planned  and with the wrong orbital
+inclination, presumably due to a problem with the second Fregat burn.
+The burn appears to have had the correct 1400 m/s magnitude but with an
+attitude error of 145 degrees (with an uncertainty of at least 10 deg
+since my guess at the pre-burn orbit parameters is speculative). Reports
+on the Novosti Kosmonavitiki forum and on russianspaceweb.com indicate
+that attitude control thrusters may have failed during the coast,
+leaving Fregat pointing the wrong way at second main engine ignition.
+For some reason its onboard computers did not sense the incorrect attitude.
+
+The FOC satellites have a mass of 733 kg full 660 kg dry and are built
+by OHB (Bremen) with navigation payloads by SSTL (Guildford) and a
+propulsion system from Moog ISP (Niagara Falls) with eight 1N MONARC-1
+hydrazine thrusters. (Moog ISP is the former Bell Aerospace, which built
+the Agena engine). The earlier IOV test satellites were partly owned by
+ESA, but the FOC satellites are owned by the European Union's GSA
+(Global Navigation Satellite Systems Agency), based in Prague. The FOC
+satellites carry two rubidium and two hydrogen maser atomic clocks and
+broadcast on L-band; they also carry the MEOSAR search and rescue
+transponder payload.
+
+Satellite FM01 is also called GalileoSat-5, GSAT-0201, and Doresa; it was to be in plane C2.
+Satellite FM02 is also called GalileoSat-6, GSAT-0202, and Milena; it was to be in plane C7.
+
+I estimate that the satellites have around 240 m/s delta-V capacity each, compared
+to perhaps 600 to 1000 m/s needed to fully correct the orbits. By the rules laid out in previous JSRs,
+I am scoring this Soyuz launch with a success weight of 40 percent for statistical
+purposes (reached orbit but not the right one).
+
+OCO-2
+-----
+
+The OCO-2 satellite raised its orbit from 690 km to its operational height of 700 km by Aug 3.
+
+Foton-M
+--------
+
+Foton-M No. 4 landed in the Orenburg district on Sep 1 at 0918 UTC.
+The geckos carried as part of the payload, however, were found to have died.
+
+Kobalt'-M
+---------
+
+Russia's Kobal't-M No. 564 spy satellite, possibly codenamed Kosmos-2493
+or Kosmos-2495 depending on which Russian statements you believe, landed
+at around 1828 UTC on Sep 2 after 119 days in space.
+
+
+CX1-04
+------
+
+A Chinese launch on Sep 4 put two small communications satellites in a
+778 x 809 km x 98.5 deg, 0630 LTDN sun-synchronous orbit. The satellites
+are Chuangxin-1 satellite 04 from the Chinese Academy of Sciences, for
+message data relay, and Ling Qiao Tongxin Shiyan Weixing (Smart
+Communications Test Satellite), a joint venture of Tsinghua University
+and Xinwei Telecom for tests of multimedia data transmission. The CX-1
+satellite is around 90 kg and the Ling Qiao is 135 kg. The CZ-2D second
+stage lowered its orbit to 254 x 835 km after deploying the satellites.
+
+
+
+LVDB
+----
+
+The launch vehicle database at http://planet4589.org/space/lvdb/index.html has been updated.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+
+Jul  2 0956   OCO-2              Delta 7320       Vandenberg SLC2W   Science      35A
+Jul  3 1243   Gonets-M No. 18 )  Rokot            Plesetsk LC133/4   Comms        36A            
+              Gonets-M No. 19 )                                      Comms        36B
+              Gonets-M No. 20 )                                      Comms        36C
+Jul  8 1558   Meteor-M No. 2 )   Soyuz-2-1B/Fregat Baykonur LC31     Weather      37A
+              Relek          )                                       Space sci    37B
+              TDS-1          )                                       Tech         37H
+              SkySat-2       )                                       Imaging      37D
+              DX-1           )                                       Tech         37C
+              AISSAT-2       )                                       Comms AIS    37G
+              UKube-1        )                                       Tech         37F
+Jul 10 1855   O3b No. 3    )     Soyuz ST-B/Fregat CSG ELS           Comms        38D
+              O3b No. 6    )                                         Comms        38C
+              O3b No. 7    )                                         Comms        38B
+              O3b No. 8    )                                         Comms        38A
+Jul 13 1652   SS Janice Voss     Antares 120       Wallops MARS LA0  Cargo        39A
+Jul 14 1515   Orbcomm OG2-3   )  Falcon 9 v1.1     Canaveral SLC40   Comms        40F
+              Orbcomm OG2-4   )                                      Comms        40E
+              Orbcomm OG2-6   )                                      Comms        40C
+              Orbcomm OG2-7   )                                      Comms        40B
+              Orbcomm OG2-9   )                                      Comms        40A
+              Orbcomm OG2-11  )                                      Comms        40D
+Jul 18 2050   Foton-M No. 4      Soyuz-2-1A        Baykonur LC31     Micrograv    41A
+Jul 23 2144   Progress M-24M     Soyuz-U           Baykonur LC1      Cargo        42A
+Jul 28 2328   GSSAP-1  )         Delta 4M+(4,2)    Canaveral SLC37B  Tracking     43A
+              GSSAP-2  )                                             Tracking     43B
+              ANGELS   )                                             Tracking     43C
+Jul 29 2347   Georges Lemaitre   Ariane 5ES        Kourou ELA3       Cargo        44A
+Aug  2 0323   GPS 68             Atlas V 401       Canaveral SLC41   Navigation   45A
+Aug  5 0800   Asiasat 8          Falcon 9 v1.1     Canaveral SLC40   Comms        46A
+Aug  9 0545   Yaogan 20 Sat 1 )  Chang Zheng 4C    Jiuquan           Sigint       47A
+              Yaogan 20 Sat 2 )                                      Sigint       47B
+              Yaogan 20 Sat 3 )                                      Sigint       47C
+Aug 13 1830   WorldView-3    )   Atlas V 401       Vandenberg SLC3E  Imaging      48A
+              Centaur AV-047 )                                      Rocket stage  48B
+Aug 18 1423   Chasqui-1                            ISS, LEO          Tech        98-67ET
+Aug 19 0315   GaoFen 2  )        Chang Zheng 4B    Taiyuan           Imaging      49A
+              Heweliusz )                                            Astronomy    49B
+Aug 19 1825   Flock 1b-24 )                        ISS, LEO          Imaging     98-67EU
+              Flock 1b-23 )                                          Imaging     98-67EV
+Aug 20 0226   Flock 1b-26 )                        ISS, LEO          Imaging     98-67EW
+              Flock 1b-25 )                                          Imaging     98-67EX
+Aug 20 0950   Flock 1b-15 )                        ISS, LEO          Imaging     98-67EY
+              Flock 1b-16 )                                          Imaging     98-67EZ
+Aug 21 1337   Flock 1b-1  )                        ISS, LEO          Imaging     98-67FA
+              Flock 1b-2  )                                          Imaging     98-67FB
+Aug 22 1227   Galileo FOC FM01 ) Soyuz ST-B        CSG ELS           Navigation   50A
+              Galileo FOC FM02 )                                     Navigation   50B
+Aug 23 1944   Flock 1b-7  )                        ISS, LEO          Imaging     98-67FC
+              Flock 1b-8  )                                          Imaging     98-67FD
+Sep  4 0015   Chuangxin 1-04 )                     Jiuquan           Comms        51A?
+              Ling Qiao      )                                       Comms        51B?
+Sep  5 0929   Flock 1b-17 )                        ISS, LEO          Imaging     98-67FF
+              Flock 1b-18 )                                          Imaging     98-67FE
+
+Suborbital missions
+-------------------
+
+Japan's JAXA agency launched an S-520 rocket on Aug 17 to study the sporadic E layer in the ionosphere.
+Jeffrey Lewis draws my attention to a launch from Taiyuan, China on Aug 7 claimed to
+be of a hypersonic glide reentry vehicle. Based on images from the impact
+site of one of the stages, the launch appears to have used a large
+liquid fuelled booster, possibly a modified CZ-2C. The launch may have been endoatmospheric
+(by the definition I use, apogee less than 80 km), so it is not included in my table for now.
+
+Another military hypersonic glide test failed on Aug 25, this time a US Army mission
+on a converted Polaris missile launched from Kodiak, Alaska. The missile went off
+course and was destroyed shortly after launch.
+
+On Sep 1 Brazil tested its first liquid propulsion system, the 5 kN LOX/ethanol EPL L5,
+as a second stage on a VS-30 sounding rocket.
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jul  9 1200   Dummy satellite  Angara-1.2PP        Plesetsk LC35/1  Test          188
+Jul 12 1620   Hwasong 6 RV?    Hwasong 6?          Chiha?           Test          100?
+Jul 12 1620   Hwasong 6 RV?    Hwasong 6?          Chiha?           Test          100?
+Jul 22 1910   NASA 36.289US    Black Brant IX      White Sands      Solar EUV     320
+Jul 23        Target           Unknown             Jiuquan?         Test?         100?
+Jul 23        Interceptor      Unknown             Korla?           Test?         100?
+Aug  4 1400   S-310-43         S-310               Uchinoura        Technology    117
+Aug 17 1010   S-520-29         S-520               Uchinoura        Ionosphere    243
+Aug 23 1313   Shark?           Terrier Lynx        Wallops          Target        150? 
+Aug 25 0825?  AHW FT2          STARS IV            Kodiak           Hypersonic      1?
+Aug 28 0900   NASA 36.308GT    Black Brant IX      Wallops I.       Test/Aeron.   350?
+Sep  1        EPL-ME           VS-30/EPL           Alcantara        Test          130?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

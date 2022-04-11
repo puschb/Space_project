@@ -1,0 +1,182 @@
+Jonathan's Space Report 
+No. 712                                                     2015 May 21     Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 43 continues under the command of Terry Virts, with FE-1
+Anton Shkaplerov and FE-2 Samantha Cristoforetti joined by FE-3 Gennadiy
+Padalka, FE-4 Mikhail Kornienko and FE-5 Scott Kelly after the TMA-16M
+(flight 42S) docking. 
+
+Dragon CRS-6 arrived at ISS on Apr 17. The SSRMS arm grappled CRS-6 at 1055 UTC
+and berthed it on the Harmony module at 1329 UTC. The cargo ship was unberthed
+again around 0929 UTC May 21, released at 1104 UTC and splashed down in the
+Pacific at 1642 UTC May 21.
+
+Among the cubesats on CRS-6 that will be deployed from the Kibo module
+is Booz Allen Hamilton's Centennial-1. So far I've had no useful
+response to my query to BAH about which of the company's many locations
+built the satellite - do any of my readers know? Indications are that
+the satellite may have been built at BAH's Herndon, Virginia operation
+with program management at the Dayton, Ohio location.
+
+Progress M-26M's engines were used to move the ISS out of the path of
+some space debris on Apr 23 and (following a malfunction on May 16) made
+an orbit reboost on May 18.  The Progress M-25M cargo ship undocked from
+the Pirs module at 0641 UTC Apr 25 and was deorbited on Apr 26, with
+debris falling in the South Pacific at 1300 UTC.
+
+Progress M-27 was launched on Apr 28; however, the Soyuz-2-1a third
+stage did not shut down correctly and damaged the spacecraft during
+separation. 44 debris objects were tracked, 20 of them being cataloged
+(all  reentered by May 7). Limited telemetry was obtained from the
+Progress, but Russian mission control was unable to control the
+spacecraft, which was found to be spinning. The damaged spacecraft
+reentered over the South Pacific off the SW coast of Chile at 0220 UTC
+May 8. I am scoring the launch as 0.30 success (orbit reached but fatal
+payload separation problem).
+
+Ariane
+-------
+
+Ariane 5 launched two communication satellites on Apr 26. Thor 7, a
+Loral 1300 satellite, will provide broadcast services for Norway's
+Telenor, including a Ka-band payload dedicated to maritime and Antarctic
+communications. Sicral 2 provides secure communications for the Italian
+and French armed forces. Both satellites have raised their orbits to GEO; there is
+no tracking data for Sicral available. Sicral is a Thales/Telespazio Spacebus
+4000 satellite.
+
+SpaceX Turkmen launch
+-----------------------
+
+A SpaceX Falcon 9 placed a communications satellite in geostationary
+transfer orbit on Apr 27. The satellite has the baroque name of
+TurkmenAlem52E/MonacoSat, which requires some unpacking. The satellite
+was built by Thales Alenia Space in Cannes and is a Spacebus 4000C2
+model with a 4700 kg launch mass. It is owned by the Turkmenistan
+National Space Agency and the Turkmen Ministry of Communications, which
+will operate 26 Ku-band transponders, and will be stationed at the 52E
+position - hence the first component of the name. The GEO orbital slot
+is assigned to Monaco and its GEO telecom operator Space Systems
+International; Monaco has a further 12 Ku-band transponders on the
+satellite for the MonacoSat portion of the payload, which will be
+operated by the SES company on its behalf.
+
+Mexsat-1
+--------
+
+Mexsat-1, a Boeing 702-GEM satellite for the Mexican SCT (communications ministry), was
+lost on May 16 when the Proton launch vehicle suffered another failure.
+Malfunction of the third stage vernier engine 8 minutes into flight led to a premature
+shutdown and impact of stage 3, Briz-M and payload in the Chita region between
+Lake Baikal and the Chinese border.
+
+X-37B
+------
+
+On May 20 an Atlas V orbited an X-37B Orbital Test Vehicle into an unknown orbit,
+probably around 400 km and 40 deg inclination like previous missions.
+There are two X-37Bs and for the first time the USAF has not announced which
+of them is flying the mission. In contrast there is somewhat more openness than
+before about the payload, which includes an AFRL ion engine test and a NASA
+materials exposure experiment.
+
+After releasing the X-37B the Centaur AV-054 rocket stage reignited to
+reach a 355 x 700 km x 55-57 deg orbit and at around 1700 UTC released a
+set of 9 cubesats. Centaur then made a third burn to deorbit itself over
+the Indian Ocean. Detailed orbital data for this mission are not yet
+available.
+
+The 9 cubesats are:
+ The USS Langley, a 3U cubesat from the US Naval Academy (UNSA) testing out an IP link
+  to the satellite's computer which hosts a Unix webserver.
+ ParkinsonSat-1 is a 1.5U cubesat from USNA hosting the USN SCP/ODTML buoy communications payload
+  and an amateur radio payload.
+ BRICSAT-P is another USNA 1.5U cubesat, built in collaboration with George Washington Univ.,
+  testing an electric micropropulsion system. 
+ Aerocube-8A and 8B, from the Aerospace Corporation, are two 1.5U cubesats testing an ion-electrospray
+  propulsion system and carbon nanotube materials.
+ GEARRS-2, the second 3U Globalstar Risk Reduction satellite from startup Near Space Launch (a Taylor U. spinoff)
+  with AFRL to demo cubesat data relay via the Globalstar system.
+ O/C-1 to O/C-3, three 3U Optical Cubesats sponsored by NRO and 
+   built by Cal Poly as targets for space surveillance calibration. It's unclear who the owners of the satellite are.
+ LightSail-A, the Planetary Society's 3U cubesat with a solar sail deployment experiment.
+
+
+Cassini
+-------
+
+The Cassini probe made a 2721 km flyby of Titan at 2252 UTC May 7. The probe is
+now in a 188700 x 2428000 km x 0.4 deg equatorial Saturn orbit.
+
+Erratum: last issue's entry should have read:
+The Cassini probe made a 2275 km flyby of Titan at 1430 UTC Mar 16. The probe is
+now in a 276000 x 3164000 km x 0.3 deg equatorial Saturn orbit.
+
+
+Procyon
+--------
+
+The Japanese PROCYON mission's plan to perform an Earth swingby followed by flyby of 
+asteroid 2000 DP107 has been abandoned following malfunction of its ion engine.
+The probe, in solar orbit, may continue to make scientific measurements with its
+ultraviolet camera. Procyon was originally in a 0.9 x 1.1 AU x 6.8 deg solar orbit
+but I'm not sure how much this was changed by its 3 months of ion engine operation.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Apr 14 2010   Dragon CRS-6        Falcon 9 v1.1     Canaveral SLC40  Cargo           21A   S40588    205 x    360 x  51.6
+Apr 26 2000   Thor 7   )          Ariane 5 ECA      Kourou ELA3      Comms           22A   S40613  35778 x  35795 x   0.0 GEO 11.7W
+              Sicral 2 )                                             Comms           22B   S40614  35780?x  35800?x   0.0 GEO?
+Apr 27 2303   TurkmenAlem52E/     Falcon 9 v1.1     Canaveral SLC40  Comms           23A   S40617  35784 x  35788 x   0.1 GEO 52.0E
+                MonacoSat
+Apr 28 0709   Progress M-27M      Soyuz-2-1a        Baykonur LC31    Cargo           24A   S40619    186 x    258 x  51.6
+May 16 0547   Mexsat-1            Proton-M/Briz-M   Baykonur LC200/39 Comms          F01   F01446  -2000?x    160 x  50.5?
+May 20 1505   X-37B OTV-4    )    Atlas V 501       Canaveral SLC40   Tech           25A   S40651    400?x    400?x  40.0?
+              USS Langley    )                                        Tech           25B   S40652    350?x    700?x  55?
+              PSat-1         )                                        Comms          25D   S40654    350?x    700?x  55?
+              BRICSat-P      )                                        Tech           25E   S40655    350?x    700?x  55?
+              GEARRS-2       )                                        Comms          25G   S40657    350?x    700?x  55?
+              Aerocube-8a    )                                        Tech           25J   S40659    350?x    700?x  55?
+              Aerocube-8b    )                                        Tech           25K   S40660    350?x    700?x  55?
+	      O/C-1          )                                        Calibration    25C   S40653    350?x    700?x  55?
+	      O/C-2          )                                        Calibration    25F   S40656    350?x    700?x  55?
+	      O/C-3          )                                        Calibration    25H   S40658    350?x    700?x  55?
+              LightSail-A    )                                        Tech           25L   S40661    350?x    700?x  55?
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+North Korea launched a ballistic missile from submerged platform, apparently on May 8.
+The missile is thought to be derived from the Soviet R-27 and may be the same
+as the missile known as 'Musudan' that has been tested in the past. However, South Korean
+reports suggest the flight was a low altitude test only and did not reach space.
+
+On May 2, NASA flight 36.292UH carried the University of Iowa's OGRESS,
+a new X-ray grating spectrograph instrument, on a suborbital test flight
+to observe the Cyg Loop supernova remnant.
+
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Apr 15        RV               Ghauri              Tilla?           Test          400?
+Apr 16 0422   Agni RV          Agni III            Chandipur        Test          350?
+Apr 18 1101   NASA 46.008UO    Terrier Imp.Malemute Wallops         Education     174?
+May  2 0830   NASA 36.292UH    Black Brant IX      White Sands      XR Astron     272
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   

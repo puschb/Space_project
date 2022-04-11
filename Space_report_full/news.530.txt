@@ -1,0 +1,104 @@
+Jonathan's Space Report
+No. 530                                        2004 Jul 8, Somerville, MA
+-------------------------------------------------------------------------------
+
+At the International Space Station, astronauts Padalka and Fincke made a
+spacewalk on Jun 30 and successfully completed the CMG (control moment
+gyro) circuit breaker repair in one of the secondary power distribution
+assemblies in the S0 truss segment. The Russian Pirs airlock module was
+depressurized to 50 mbar by 2104 UTC, and the hatch was opened at 2119
+UTC. The astronauts used the Strela boom to go from Pirs to the forward
+end of the Zarya module, and then climbed up from Unity to the S0 truss.
+They returned to the Pirs airlock by 0253 UTC and closed the hatch at
+0259 UTC on Jul 1, repressurizing the airlock at 0300 UTC (Thanks to
+Andrey Krasil'nikov for details).
+
+Cassini has entered Saturn orbit. The main engine fired from 0112 UTC to
+0248 UTC on Jul 1; Cassini is now in a roughly 20300 x 9037181 km x 17.3
+deg orbit around the ringed planet. The neutral mass spectrometer cover
+was ejected at 0315 UTC. A distant 339000 km Titan flyby on Jul 2 at
+around 0930 UTC gave tantalizing glimpses of the surface; the first
+close Titan flyby, at only 1200 km, is expected on Oct 26.
+
+On Jun 29 a Boeing Sea Launch Zenit-3SL rocket took off from the Odyssey
+platform on the equator and put a Space Systems Loral communications
+satellite in orbit. The initial burn of the Blok DM-SL third stage
+raised the trajectory from -2222 x 224 km to a 180 x 913 km x 0 deg 
+equatorial parking orbit as planned. The second burn of the DM-SL,
+intended to reach a 756 x 35929 km orbit, shut down 54 seconds early, and the
+satellite only reached a 722 x 21618 km x 0.05 deg transfer orbit. The
+spacecraft's own propulsion system will be used to make up the
+shortfall. A test burn on Jul 1 raised perigee to 955 km.
+
+Part of the new payload will be operated by Loral Skynet, which calls
+the satellite Telstar 18. Another part of the payload will be operated
+by APT Satellite Inc., which calls it Apstar 5. Although it's not
+entirely clear whether the ownership of the satellite is still joint, as
+originally planned, it seems that Loral is the effective operator of the
+satellite (as opposed to the comms payload), so I'll call it Telstar 18.
+
+A Kosmotras Dnepr rocket was launched from Baykonur on Jun 29 placing a
+number of small satellites in orbit. The Dnepr upper stage releases the
+payloads while still firing, and so they ended up in orbits with 698 km
+perigees and apogees increasing in order of separation time:
+
+  Sep order  COSPAR   Satellite                   Orbit
+  1          25J      Dnepr Plume shield          685 x 712 km x 98.3 deg
+  2          25C      Demeter                     696 x 722 km
+  3          25F      Saudisat-2                  699 x 734 km
+  4          25D      SaudiComsat-1               699 x 749 km
+  5          25G      Latinsat-C                  699 x 765 km
+  6          25E      SaudiComsat-2               698 x 782 km
+  7          25H      Unisat-3                    698 x 799 km
+  8          25K      Amsat-Echo                  697 x 817 km
+  9          25A      Latinsat-D                  695 x 852 km
+ 10          25B      Dnepr DS stage              679 x1193 km
+
+(Normally it takes Space Command a long time to correctly sort out multiple
+payloads from a launch like this, but they seem to have got their
+act together recently).
+
+Demeter is a French scientific satellite. SaudiComsat-1 and 2
+(KACST, SaudiArabia) and Latinsat-C and Latinsat-D (SpaceQuest/Aprize
+Argentina), and  Amsat-Oscar-E (SpaceQuest/AMSAT-NA) are small 10-12 kg
+cubes, while Saudisat-2 is a cuboid about 35 kg. Finally, Unisat-3 is an
+Italian research satellite with a mass of 12 kg. Some earlier reports
+indicated that a Celestis burial capsule package would be attached
+to the final stage rocket, but Joe Burger tells me Celestis 
+confirmed to him that no such package was aboard.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+
+May  4 1242   DirecTV-7S        Zenit-3SL       Odyssey, Pacific  Comms      16A 
+May 19 2222   AMC-11            Atlas IIAS      Canaveral SLC36B  Comms      17A
+May 20 1747   ROCSAT-2          Taurus          Vandenberg 576-E  Imaging    18A
+May 25 1234   Progress M-49     Soyuz-U         Baykonur LC1      Cargo      19A
+May 28 0600   Kosmos-2405       Tsiklon-2       Baykonur LC90/20  Sigint     20A
+Jun 10 0128   Kosmos-2406       Zenit-2         Baykonur LC45     Sigint     21A
+Jun 16 2227   Intelsat 10-02    Proton-M/Briz-M Baykonur LC200/39 Comms      22A
+Jun 23 2254   GPS SVN 60        Delta 7925      Canaveral SLC17B  Navigation 23A
+Jun 29 0359   Telstar 18        Zenit-3SL       Odyssey           Comms      24A
+Jun 29 0630   Demeter       )   Dnepr           Baykonur LC109    Science    25C
+              SaudiSat-2    )                                     Comms      25F
+              SaudiComsat-1 )                                     Comms      25D
+              LatinSat C    )                                     Comms      25G
+              SaudiComsat-2 )                                     Comms      25E
+              Unisat-3      )                                     Tech       25H
+              AMSAT-Echo    )                                     Comms      25K
+              Latinsat D    )                                     Comms      25A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

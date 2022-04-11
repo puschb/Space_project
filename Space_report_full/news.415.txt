@@ -1,0 +1,140 @@
+Jonathan's Space Report
+No. 415                                            1999 Dec 20 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Space Shuttle OV-103 Discovery was launched at 0050 UTC on Dec 20 on
+Hubble servicing mission SM-3A. At 0058 UTC the external tank ET-101
+separated leaving the Orbiter in a 56 x 587 km x 28.5 deg transfer
+orbit. The OMS 2 burn at 0134 UTC raised the orbit to 313 x 582 km.
+Hubble is in a 591 x 610 km x 28.5 deg orbit, and Discovery will
+rendezvous with it on Tuesday.
+
+Discovery's payload bay contains:
+ Bay 1-2: External airlock/ODS
+ Bay 7-8: ORU Carrier (Spacelab pallet)
+ Bay 11:  Flight Servicing System (FSS)
+ Bay 8 port?: APC carrier with foot restraint
+ Bay 12 port?: APC carrier with HST foot retstraint
+
+The ORU Carrier contains the COPE protective enclosure with the three
+RSU gyros, the new solid state recorder, and the S-band transmitter; the
+LOPE enclosure with an HST-486 computer and the voltage improvement kit;
+the ASIPE enclosure with the spare HST-486 and spare RSU; the FSIPE
+enclosure with the replacement FGS-2 fine guidance sensor; and the NPE
+enclosure with the New Outer Blanket Layer insulation.
+
+The FSS contains the BAPS (Berthing and Positioning System) used to dock
+with the aft end of the Hubble Space Telescope. Discovery will
+rendezvous with HST, grapple it with the RMS manipulator arm, and  berth
+it on the BAPS. Astronauts will then make at least three spacewalks to
+change out the equipment on HST. Finally, Discovery will release the
+telescope back into orbit.
+
+Crew of STS-103 are Curt Brown (Commander), Scott Kelly (Pilot), Steven
+Smith (Payload Commander),  John Grunsfeld, Michael Foale, Claude
+Nicollier, and Jean-Francois Clervoy (Mission Specialists). Nicollier
+and Clervoy are European Space Agency astronauts.
+
+Recent Launches
+---------------
+
+NASA's Terra satellite (formerly Earth Observing System EOS AM-1) was
+launched from SLC-3E at Vandenberg on Dec 18 by a Lockheed Martin
+Astronautics Atlas 2AS, mission AC-141. This was the first Centaur
+launched from Vandenberg and the first Atlas to use the new extended
+length 4.3-m payload fairing. Terra is the first spacecraft in the EOS
+program, and was built by Lockheed Martin/Valley Forge, who also built
+the earlier Nimbus series of spacecraft. The spacecraft was placed in a
+654 x 684 km x 98.2 deg orbit. The Centaur stage then made a depletion
+burn and was left in a 355 x 654 km x 98.3 deg orbit. The 4854 kg Terra
+carries multispectral imagers, a radiation budget instrument,  a
+detector to measure CO and methane pollution,  and an instrument to
+study cloud top and vegetation properties,
+
+Space Launch Complex 3-East was originally Launch Complex 1-2 at the
+Naval Missile Facility, Point Arguello. It was used starting in 1961 for
+MIDAS and SAMOS launches, and in 1966-68 for SV-5D lifting body launches
+and an Atlas Burner 2 launch. In 1978 it was reactivated for Atlas E and
+F launches of Navstar GPS satellites, and from 1983 to 1987 was used for
+Atlas H launches of the classified Navy triplet ocean surveillance
+satellites. 
+
+XMM has safely reached its final orbit. It will be put in safemode on
+Dec 20 until early January to avoid any Y2K problems caused by ground
+systems. Instrument checkout will begin in early January.
+
+ XMM Orbit raising burns:
+ Sep     Dec 10 1501 UTC   826 x 113946 km x 38.9
+ DV-1A   Dec 11 1220 UTC  2531 x 114042 km x 38.9 (estimate)
+ DV-1B   Dec 11 1413 UTC  4897 x 114002 km x 38.9
+ DV-2    Dec 13 1225 UTC  6480 x 113990 km x 39.9
+ DV-3    Dec 15 1210 UTC  7359 x 113975 km x 38.9
+ DV-4    Dec 16 1130 UTC  7365 x 113774 km x 38.9 (estimate)
+
+The DMSP 5D-3 satellite was built by Lockheed Martin/East Windsor (the
+former RCA), not at Valley Forge (former GE). Apologies for the error,
+I got confused between it and the Terra launch.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov 13 2255   GE 4              Ariane 44LP    Kourou ELA2      Comsat     60A
+Nov 15 0729   MTSAT             H-2            Tanegashima      Comsat     F04
+Nov 19 2230   Shenzhou          Chang Zheng 2F Jiuquan          Spaceship  61A
+Nov 22 1620   Globalstar 29 )   Soyuz-Ikar     Baykonur LC1     Comsat     62A
+              Globalstar 34 )                                   Comsat     62B
+              Globalstar 39 )                                   Comsat     62C
+              Globalstar 61 )                                   Comsat     62D
+Nov 23 0406   UHF F/O F10       Atlas 2A       Canaveral SLC36B Comsat     63A
+Dec  3 1622   Helios 1B  )      Ariane 40      Kourou ELA2      Imaging    64A
+              Clementine )                                      Sigint     64B
+Dec  3 1951   Mars Polar Lander                MPL Cruise Stage Lander     01D?
+Dec  3 1951   Scott Probe   )                  MPL Cruise Stage Lander     01E?
+              Amundsen Probe)                                   Lander     01F?
+Dec  4 1853   Orbcomm FM30 )    Pegasus XL/HAPS Wallops         Comsat     65A
+              Orbcomm FM31 )                                    Comsat     65B
+              Orbcomm FM32 )                                    Comsat     65C
+              Orbcomm FM33 )                                    Comsat     65D
+              Orbcomm FM34 )                                    Comsat     65E
+              Orbcomm FM35 )                                    Comsat     65F
+              Orbcomm FM36 )                                    Comsat     65G
+Dec 10 1432   XMM               Ariane 5       Kourou ELA3      Astronomy  66A
+Dec 11 1830   SACI-2            VLS            Alcantara        Research   F05
+Dec 12 1738   DMSP 5D-3 F-15    Titan 23G      Vandenberg SLC4W Weather    67A
+Dec 18 1857   Terra             Atlas 2AS      Vandenberg SLC3E Rem.Sens.  68A
+Dec 20 0050   Discovery         Space Shuttle  Kennedy LC39B    Spaceship  69A?
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       LEO           STS-103 1999 Dec 20  HST SM-3A
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Mar 16  ISS
+OV-105 Endeavour       LC39A         STS-99  2000 Jan 13  SRTM
+
+MLP1/
+MLP2/                          LC39B
+MLP3/RSRM-71?/ET?/OV-105       LC39A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,128 @@
+Jonathan's Space Report
+No. 283                       1996 Apr 9                   Cambridge, MA
+-------------------------------------------------------------------------------
+
+Editorial
+---------
+
+There have been some more problems with the mailer here at CfA - please
+let me know if you didn't get JSR 282.
+
+Shuttle and Mir
+---------------
+
+The STS-76 mission was meant to be shortened by one day for a landing
+on Mar 30, but in the event bad weather resulted in a waveoff and
+Atlantis fired its OMS engines for the deorbit burn at 1223 UTC on Mar 31,
+for touchdown on runway 22 at Edwards Air Force Base in California at
+1328:57 UTC on Mar 31, giving a mission duration of 9 days 5 hr 15 min
+and 53s.
+
+Atlantis was placed atop one of NASA's two SCA Shuttle Carrier Aircraft
+for the trip back to Florida. The SCA took off from Edwards on Apr 6 but
+five minutes later one of the Boeing 747's engines showed a fire warning
+light and the plane returned to Edwards after an abortive 15 minute
+flight. The engine has been replaced and another try will be made on Apr
+11.
+
+STS-76 Mission Specialist-4, Dr. Shannon Lucid, remains aboard the Mir
+complex and is now Mir EO-21 Kosmonavt-Issledovatel'
+(Cosmonaut-Researcher).
+
+Space Shuttle Endeavour (OV-105) was moved from the Orbiter
+Processing Facility to the Vehicle Assembly Building on Apr 8,
+and has been mated to the external tank for STS-77.
+
+Recent Launches
+---------------
+
+The Inmarsat III F1 satellite was launched on Apr 3 by a Lockheed Martin
+Atlas IIA Centaur rocket. The launch was carried out by Lockheed Martin
+Commercial Launch Services. The satellite will provide mobile
+communications services at L-band for the International Maritime
+Satellite Organization.  The satellite is a Lockheed Martin Astro Space
+AS4000 series satellite with a Matra Marconi Space communications
+payload and a Star 37 solid apogee motor. The apogee motor was fired
+prior to April 8, by which time the Inmarsat was being tracked in a
+1414.5 minute, 35174 x 35549 km x 2.7 deg drift orbit.
+
+LKEI (Lockheed Krunichev Energiya International) launched a Proton-K
+rocket from Baykonur on Apr 8, carrying an RKK Energiya Blok-DM2 upper
+stage and the Astra 1F satellite for SES (Societe Europeene des
+Satellites, a company headquartered in Luxembourg). This is the first
+commercial launch of a Western-built satellite by a Proton. The Astra 1F
+is a Hughes HS-601 television broadcasting satellite.
+
+The Navstar satellite launched on March 28 was GPS SVN 33. By Mar 30 it
+had fired its Star 37 apogee motor and was in a 20252 x 20548 km x 54.8
+deg orbit. It will be stationed in plane C, slot 2 with code PRN 03. SVN
+33 is the satellite which was attacked with an axe by an anti-nuclear
+activist a couple of years ago. SVN 10, launched in Sep 1984, was
+boosted to a higher orbit and turned off on Mar 26.
+
+Space Command has cataloged a number of fragments in elliptical
+orbit with a period of 166 minutes which it has associated with
+the 1966-77 launch, FTV 1352. The spacecraft was a second generation
+MIDAS infrared early warning development satellite. It is possible that
+the association is erroneous and the fragments are actually yet
+more clumps of needles from the West Ford (1963-14) passive
+communications experiment, which inserted millions of copper
+dipoles into similar orbits.
+
+France's Telecom 1C satellite, launched in 1988, has raised its orbit
+and is probably retired. It had been stationed at 1.0 deg E.
+
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar  9 0133   REX-II           Pegasus XL     L1011/Vandenberg Technol.   14A
+Mar 14 0711   Intelsat 707     Ariane 44LP    Kourou ELA2     Comsat      15A
+Mar 14 1740   Kosmos-2331      Soyuz-U        Plesetsk LC43/4 Recon       16A
+Mar 21 0453   IRS-P3           PSLV           Sriharikota     Rem.sensing 17A
+Mar 22 0813   Atlantis         Shuttle        Kennedy LC39B   Spaceship   18A
+Mar 28 0021   GPS 33           Delta 7925     Canaveral LC17A Navigation  19A
+Apr  3 2301   Inmarsat III F1  Atlas IIA      Canaveral LC36  Comsat      20A
+Apr  8 2309   Astra 1F         Proton-K/DM2   Baykonur        Comsat      21A
+
+
+Payloads no longer in orbit
+--------------------------
+
+Mar  9        Columbia        Landed at KSC
+Mar 12        FSW-1 capsule   Reentered over Atlantic
+Mar 13        ODERACS IIA     Reentered
+Mar 19        TSS-1           Reentered over Middle East? (or Atlantic?)
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-78  Jun 27
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        Edwards       STS-76  
+OV-105 Endeavour       VAB Bay 1     STS-77  May 16
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-54/ET/OV-105  VAB Bay 1      STS-77
+ML2/
+ML3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

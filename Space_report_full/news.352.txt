@@ -1,0 +1,156 @@
+Jonathan's Space Report
+No. 352                                        1998 Mar 11 Cambridge, MA 
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Talgat Musabaev and Nikolai Budarin entered the Kvant-2 module on Mar 3
+and depressurized the inner (PNO) and outer (ShSO) airlock in 
+preparation for a spacewalk. However, they were unable to open the outer
+hatch, which was repaired by the previous crew. The airlock compartment
+was eventually repressurized; duration in vacuum is not yet available.
+Depress was probably earlier than 0130 UTC; repress was around 0245 UTC.
+
+AXAF
+----
+
+NASA has named Eileen Collins to command Shuttle mission STS-93 which
+will deploy the AXAF observatory. STS-93 will be the first space mission
+to be commanded by a woman (not counting Vostok-6, the solo flight by
+Tereshkova). Eileen Collins, who has made two flights as pilot, will be
+STS-93 commander. This may not seem like a big deal to some of my
+readers from around the world, but in a country where the first woman
+president still seems quite a way off I think it's a significant thing
+for kids to see a woman in a prominent command role. The USSR at one
+point had plans for Svetlana Savitskaya to command a Soyuz mission, but
+the flight was cancelled; that crew would have been all-female, one
+suspects because the old guys in charge of the Soyuz program at that
+time couldn't cope with the idea of a woman giving male cosmonauts
+orders. Fortunately, NASA has gotten its act together a little better
+than that for some years now, with the women mission specialists being
+selected for missions on an equal basis. Kathy Sullivan was named
+Payload Commander (in charge of the payload component of a mission) of
+the 1992 flight of STS-45 and almost half of the Payload Commander slots
+have been filled by women. The mission Commander slot, however, is a
+role with much greater prestige and real authority. Collins was picked
+as the first female pilot astronaut in 1990, making her the first to be
+eligible for this command slot, and her selection for this mission is
+consistent  with the careers of the rest of her astronaut class.
+
+Steve Hawley, the former astronomer who deployed Hubble, is also on the
+crew, together with pilot Jeff Ashby and mission specialists Cady
+Coleman and Michel Tognini.
+
+
+Launch of STS-93 is now scheduled for Dec 3.  Work on preparing
+the payload for launch continues, with a recent successful end-to-end
+test flowing data through the spacecraft and flight instruments
+to the control center. I've started an STS-93 web page at
+http://hea-www.harvard.edu/~jcm/space/axaf/sts93.html
+
+Recent Launches
+---------------
+
+No launches yet this month.
+
+Lunar Prospector continues in a 100 km lunar polar orbit. On Mar 5
+NASA announced that LP has confirmed the presence of ice in the
+lunar soil in the polar regions, greatly increasing the possibilities
+for lunar colonization.
+
+
+The five Iridium satellites launched on Feb 18 began raising their orbits
+to operational altitude in early March.
+Most of the Iridium constellation is in a 100.4 min, 774 x 780 km x 86.4
+deg operational orbit to which the satellites maneuver after launch into
+a much lower parking orbit. However, some satellites have been placed in  
+a reserve orbit 10-15 km lower than the operational one. One satellite was
+temporarily placed in a higher 785 x 790 km orbit. Of the 51 Iridium  
+satellites launched to date, two failed and remained in parking orbit;
+six are currently in the reserve orbit; four were still raising their orbits
+from parking to operational as of March 9; and the remaining 39 satellites
+are in the operational orbit. Details of orbital changes for individual
+satellites are as follows:
+
+1997 Jul:    SV021 failed, stayed in parking orbit.
+1997 Sep  6: SV011 to reserve orbit since this date
+1997 Sep 11: SV004 to reserve orbit for 19 days, now operational
+1997 Sep:    SV027 failed, stayed in parking orbit
+1997 Oct:    SV036 delayed 2 weeks in move from parking orbit
+1997 Nov 22: SV040 deployed to reserve orbit until Jan 27  
+1997 Nov 23: SV038 deployed to reserve orbit, remains there   
+1997 Dec 11: SV020 to high reserve for 9 days, now operational
+1997 Dec 20: SV018 to reserve orbit since this date
+1997 Dec 23: SV042 to reserve orbit since this date
+1997 Dec 27: SV026 to reserve orbit for 1 month, now operational
+1998 Jan 11: SV005 to reserve orbit since this date
+1998 Feb  3: SV048 to reserve orbit since this date
+1998 Feb 21: SV024 drifting higher, probably will move to reserve
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+            
+Jan  7 0228   Lunar Prospector  Athena-2      Canaveral SLC46   Probe      01A
+Jan 10 0032   Skynet 4D         Delta 7925    Canaveral SLC17B  Comsat     02A
+Jan 22 1256   'Ofeq-4           Shaviyt       Palmachim         Imaging    F01
+Jan 23 0248   Endeavour         Shuttle       Kennedy LC39A     Spaceship  03A
+Jan 29 1633   Soyuz TM-27       Soyuz-U       Baykonur LC1      Spaceship  04A
+Jan 29 1837   CAPRICORN         Atlas IIA     Canaveral SLC36A  Comsat?    05A
+Feb  4 2329   Brasilsat B3   )  Ariane 44LP   Kourou ELA2       Comsat     06A
+              Inmarsat 3 F5  )                                  Comsat     06B
+Feb 10 1320   GFO         )     Taurus        Vandenberg 576E   Altimeter  07A
+              Orbcomm G1  )                                     Comsat     07B
+              Orbcomm G2  )                                     Comsat     07C
+              Celestis-02 )                                     Burial     07D
+Feb 14 1434   Globalstar FM1 )                                  Comsat     08A
+              Globalstar FM2 )  Delta 7420    Canaveral SLC17A  Comsat     08B
+              Globalstar FM3 )                                  Comsat     08C
+              Globalstar FM4 )                                  Comsat     08D
+Feb 17 1030?  Kosmos-2349       Soyuz-U       Baykonur LC31?    Recon      09A
+Feb 18 1358   Iridium 50 )      Delta 7920    Vandenberg SLC2   Comsat     10A
+              Iridium 52 )                                      Comsat     10C
+              Iridium 53 )                                      Comsat     10D
+              Iridium 54 )                                      Comsat     10E
+              Iridium 56 )                                      Comsat     10B
+Feb 21 0755   Kakehashi         H-II          Tanegashima Y     Comsat     11A
+Feb 26 0707   SNOE        )     Pegasus XL    Vandenberg        Science    12A
+              Teledesic 1 )                                     Comsat     12B
+Feb 27 2238   Hot Bird 4        Ariane 42P    Kourou ELA2       Comsat     13A
+Feb 28 0021   Intelsat 806      Atlas IIAS    Canaveral SLC36B  Comsat     14A
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-90  Apr 16
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Sep 17?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/RSRM66              VAB Bay 1     STS-91
+MLP2/RSRM65/ET           VAB Bay 3     STS-90
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

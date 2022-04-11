@@ -1,0 +1,101 @@
+
+Jonathan's Space Report
+
+Apr 16 1991 (no.71)
+----------------------------------------------------
+
+Atlantis landed at 1355 UT on Apr 11, on lakebed runway 33
+at Edwards AFB, after 143 hours and 32 minutes in space.
+After 8 flights, Atlantis has flown 952 hr 15 min.
+Activation of GRO is proceeding smoothly so far.
+Launch of STS 39/Discovery is due for Apr 23 at 07:05 EST.
+
+Viktor Afanas'ev and Musa Manarov continue in orbit aboard the
+Mir/Kvant/Kvant-2/Kristall/Soyuz TM-11/Progress M-7 complex.  
+Launch of Soyuz TM-12 remains due for May 12.
+
+The Almaz radar satellite was launched by 3-stage Proton from
+Baykonur on Mar 31. The satellite design is related to the
+Salyut/Mir space stations, and was originally intended
+as part of a piloted military space station project also
+called Almaz. The original Almaz project was cancelled in
+the late 1970s and the crews transferred to Soyuz and Buran
+training. The current Almaz satellite was preceded by 
+a simpler version, Kosmos-1870, in 1987. Data from the 
+satellite will be commercially available.
+
+A 4-stage Proton launched three GLONASS navigation satellites,
+Kosmos-2139, Kosmos-2140, and Kosmos-2141, on Apr 4.
+
+The ASC 2 television relay satellite was launched on Apr 12
+by a Delta 7925. The ASC satellites were originally planned
+by American Satellite Corp (Amersat). The company was bought
+by Continental Telecommunications Inc (Contel) before the first one was
+launched, and became Contel ASC. ASC 1 was launched 
+on 27 Aug 1985 by a PAM-D rocket from the spaceship Discovery.
+In Mar 1991, General Telephone and Electronics (GTE) merged with 
+Contel, and Contel ASC is being merged with the GTE Spacenet Corp.
+After on orbit checkout by Contel ASC, the new ASC 2 satellite
+will be renamed Spacenet 4. GTE already has two fleets of satellites:
+Gstar and Spacenet. Gstar was its original fleet; the Spacenet
+satellites were built by Southern Pacific Communications (SPC).
+SPC was bought up by GTE before the first Spacenet was launched.
+The full GTE fleet is:
+
+Satellite	Bands	Launch Date	Vehicle		Status
+
+Spacenet F1	C, Ku	1984 May 23	Ariane V9	In GEO
+Spacenet F2	C, Ku	1984 Nov 10	Ariane V11	In GEO
+Gstar 1		Ku	1985 May  8	Ariane V13	In GEO
+ASC 1		C, Ku	1985 Aug 27	STS 51-I	In GEO
+Spacenet F3	C, Ku	1985 Sep 12	Ariane V15	Destroyed on launch
+Gstar 2		Ku	1985 Mar 28	Ariane V17	In GEO
+Spacenet F3R	C, Ku	1988 Mar 11	Ariane V21	In GEO
+Gstar 3		Ku	1988 Sep  8	Ariane V25	In GEO
+Gstar 4		Ku	1990 Nov 20	Ariane V40	In GEO
+Spacenet F4(ASC2) C,Ku	1991 Apr 12	Delta 204	Just launched
+
+___________________________________
+|Current STS status:              |
+|Orbiters                         |
+|                                 |
+|OV-102 Columbia        OPF Bay 1 |
+|OV-103 Discovery       LC39A     |
+|OV-104 Atlantis        EAFB      |
+|                                 |
+|ML/ET/SRB stacks                 |
+|                                 |
+|ML1                              |
+|ML2/STS-39/ET/OV-103   LC39A     |
+|ML3/STS-40             VAB Bay 3 |
+-----------------------------------
+
+10 years ago:  21 Apr 1981. Kosmos-1266, the 19th Soviet
+nuclear reactor satellite, was launched from Baykonur.
+Its reactor powered a radar intended to track naval vessels.
+However the spacecraft malfunctioned and on Apr 29 the 
+reactor was separated and moved to a 950 km high orbit
+where it will remain for several centuries. Its companion
+satellite, Kosmos-1249, continued operating until Jun 1981.
+
+20 years ago:  19 Apr 1971 The first Salyut space station was
+launched on a 3-stage Proton rocket from Baykonur. Salyut
+was a pressurised laboratory with a solar telescope and other
+instruments. The Soyuz 11 crew later spent a month aboard it.
+
+30 years ago:  Apr 1961. The week following the flight
+of Vostok was rather quiet, with tests of Pershing,
+Jupiter and Polaris ballistic missiles.
+
+(c) 1991 Jonathan McDowell. Information in this report is obtained
+from public sources and does not reflect the official views of NASA.
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (205)544-7724                 |
+ |  Space Science Lab ES65            | uucp:                                  |
+ |  NASA Marshall Space Flight Center | bitnet :                               |
+ |  Huntsville AL 35812               |  inter : mcdowell@xanth.msfc.nasa.gov  |
+ |  USA                               |   span : ssl::mcdowell                 |
+ '-----------------------------------------------------------------------------'
+
+

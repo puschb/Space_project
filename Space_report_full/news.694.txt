@@ -1,0 +1,222 @@
+Jonathan's Space Report 
+No. 694                                                 2014 Feb 28    Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 38 continues under commander Oleg Kotov and flight engineers
+Sergey Ryazanskiy, Mike Hopkins, Koichi Wakata, Rich Mastracchio, and
+Mikhail Tyurin. The Soyuz TMA-10M ferry ship is being prepared to
+return Kotov, Ryazanskiy and Hopkins to Earth in March; it is docked at
+the Poisk module. Soyuz TMA-11M is docked at Rassvet, Progress M-21M
+is docked at Zvezda and Progress M-22M is docked at Pirs. Progress M-20M
+was deorbited on Feb 11 following a week of indepedent operations,
+with impact in the South Pacifc at 1555 UTC.
+
+Stefan Barensky has drawn my attention to the fact that Progress M-22M
+carried a 1U cubesat to the ISS for later deployment. The payload is
+Chasqui 1 from Peru's Universidad Nacional de Ingenieria. It will be
+ejected manually during a spacewalk later this year.
+
+The Cygnus ship 'Gordon Fullerton' carried two bags of cubesats to ISS.
+Each bag contained the equivalent of 16 3U cubesats, loaded in eight
+Nanoracks 2x3U cubesat deployers. The first bag's worth of eight
+deployers has been installed on the MPEP (Multi-Purpose Experiment
+Plaform) which goes on a slide in the Kibo module airlock. The MPEP was
+moved outside Kibo and then maneuvered by the Kibo robot arm (JEM RMS) to the
+deploy position, where two satellites at a time (one deployer's worth)
+were ejected.
+(Thanks to Will Marshall of PlanetLabs for some of the details here).
+
+The first two Flock-1 satellites, 3U Dove-class Earth imaging cubesats
+for the San Francisco based company PlanetLabs, were deployed by the JEM
+RMS at about 0831 UTC on Feb 11. By Feb 15 all 16 satellites from the first
+Nanoracks bag had been ejected. Thanks to Henry Hallam at PlanetLabs for updating
+me on deployment times and spacecraft names. 
+  The post deployment names of the Flock satellites in order of deployment are
+  Flock1-1, Flock1-2, etc.
+
+The 'Gordon Fullerton' was unberthed from the Harmony module at around
+1020 UTC Feb 18 and released by the robot arm at 1142 UTC. It lowered
+its orbit at 1324 UTC; at 1745 UTC a second burn put Cygnus on a reentry
+trajectory. The delta-V of these burns has not been announced. Cygnus
+underwent destructive reentry over the Pacific with loss of signal at
+1823 UTC Feb 19.
+
+The MPEP was returned to the Kibo module on Feb 19 and Wakata loaded a new set
+of NanoRacks cubesat deployers on it on Feb 20. On Feb 25 Wakata sent the MPEP
+back out of the Kibo airlock and JAXA controllers grappled it with the JEM-RMS,
+moving it to the deploy position again. Deployments of the second batch
+of satellites began later the same day. All the PlanetLabs satellites
+had been ejected by early on Feb 28. The five remaining satellites, of 1U and 2U
+size, were ejected from a single deployer at 0730 UTC Feb 28. They are -
+    Ardusat-2  from Nanosatisfi Inc., San Francisco, with an Arduino processor
+    SkyCube-1  from Southern Stars Group LLC, San Francisco, with an Earth imager
+    UAP-SAT from Universidad Alas Peruanas, Lima.
+    Litsat-1 from the Lithuanian Space Association, Vilnius, Lithuania.
+    LituanicaSat-1 from Kaunas Tech Univ. in Kaunas, Lithuania.
+
+
+
+Kosmos-1220
+-----------
+
+The Kosmos-1220 satellite burned up over Tayma in northwestern Arabia on
+Feb 16 at 0140 UTC. Kosmos-1220 was a vehicle in the Soviet Union's US-P
+(Controlled Satellite - Passive)  series, which featured radio antennae
+to monitor radio emissions from  US Navy ships; it was powered by large
+solar panels. The US-P satellites operated in 400 km orbits. In many
+cases American radars detected evidence of explosions at the end of
+their missions, with dozens of pieces of debris appearing in nearby
+orbits. Strangely, for some vehicles there were multiple debris events
+over a period of months, long after the apparent end of mission;  the
+explosions do not seem to have completed disrupted the spacecraft -
+their purpose and nature remain mysterious. Were the explosions
+deliberate or, perhaps, a consequence of a design flaw in the propulsion
+system?
+
+Kosmos-1220 was launched on 1980 Nov 4 and ended its main mission on
+1981 Mar 27 when it raised its orbit to 406 x 465 km. A year later, on
+1982 Jun 20, it exploded generating 81 pieces of debris, all but five of
+which reentered during the 1980s.  One small piece, 1980-089CJ (SSN
+25795) remains today in a 486 x 647 km x 65.0 deg orbit.  Most of the
+debris was small, but not all: 1980-089AS (SSN 13349) had a radar cross
+section of 17 square metres, larger than the main remnant of the
+Kosmos-1220 spacecraft itself (10.3 sq m) - perhaps it was a solar
+panel or the main cruciform antenna. 89AS reentered  on 1982 Dec 15.
+
+
+GPS IIF-5
+---------
+
+United Launch Alliance flew a Boeing Delta 4 from Cape Canaveral on Feb 21
+carrying a Block IIF Global Positioning System satellite to 20000 km circular
+orbit. The payload is GPS Space Vehicle Number 64, the 5th in the IIF series
+to be launched.
+
+ACRIMSAT
+--------
+
+I have been informed that the small ACRIMSAT satellite which has been
+studying the total solar output since 1999 (see JSR 416) failed on 2013
+Dec 14 due to battery problems, months after a review recommended its
+continued operation. The ACRIM series of experiments, critical data for
+climate change studies, flew on Solar Max (1980),  Spacelab-1 (1983),
+UARS (1991), and ACRIMSAT. The similar TIM instrument on the SORCE
+satellite (2003) continues operating, but will it survive until a
+replacement instrument flies on the JPSS satellite no sooner than 2017?
+
+
+GPM-C
+-----
+
+The GPM-C (Global Precipitation Mission-Core) satellite was launched
+from Tanageashima on Feb 27. The joint US-Japanese satellite carries the
+JAXA/NICT/NEC Toshiba Dual-frequency Precipitation Radar and the
+GSFC/Ball GPM Microwave Imager. Launch mass is 3850 kg; the satellite
+was built by NASA's Goddard Space Flight Center and will be registered
+as a US satellite.  
+GPM-C was placed into a 390 x 395 km x 65.0 deg orbit with a single burn of the H-2A second
+stage. The second stage then deployed a cluster of small Japanese satellites. Three
+are microsatellites, 
+  ShindaiSat, from Shinshu Univ., 33 kg
+  STARS-2, from Kagawa Univ.,     22 kg
+  Teikyosat-3, from Teikyo Univ,  22 kg
+and four are 1U cubesats with masses between 1 and 2 kg:
+  ITF-1, from Tsukuba Univ.
+  OPUSat, from Osaka Prefectural University
+  Invader, from Tama Art University
+  K-SAT2, from Kagoshima University.
+
+STARS-2 is composed of two sections and a tether, which if it deploys successfully
+will be 300 metres long.
+
+
+Erratum - Athena-Fidus
+----------------------
+
+Stefan Barensky points out that the Athena-Fidus story is more complicated than I 
+had reported. The satellite is for both military and civilian government communications;
+in France the civilian space agency CNES and the military procurement agency DGA
+are both responsible, while in Italy the corresponding ASI and Segredifesa/DNA
+agencies are involved. And the correct name for ASI is Agenzia Spaziale Italiana.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Jan  5 1048   GSAT-14            GSLV             Sriharikota SLP   Comms        01A
+Jan  6 2206   Thaicom 6          Falcon 9 v1.1    Canaveral SLC40   Comms        02A
+Jan  9 1807   Cygnus Orb-1       Antares 120      Wallops MARS 0A   Cargo        03A
+Jan 24 0233   TDRS 12            Atlas V 401      Canaveral SLC41   Comms        04A
+Feb  5 1623   Progress M-22M     Soyuz-U          Baykonur LC1/5    Cargo        05A
+Feb  6 2130   ABS 2        )     Ariane 5ECA      Kourou ELA3       Comms        06A
+              Athena-Fidus )                                                     06B
+Feb 11 0831   Flock1-1       )   -                ISS, LEO          Imaging    98-067DG      
+              Flock1-2       )                                      Imaging    98-067DH
+Feb 11 1241   Flock1-3       )   -                ISS, LEO          Imaging    98-067DJ
+              Flock1-4       )                                      Imaging    98-067DK
+Feb 12 0830   Flock1-5       )   -                ISS, LEO          Imaging    98-067DL
+              Flock1-6       )                                      Imaging    98-067DM
+Feb 13 0820   Flock1-11      )   -                ISS, LEO          Imaging    98-067DN
+              Flock1-12      )                                      Imaging    98-067DP
+Feb 14 0415   Flock1-13      )   -                ISS, LEO          Imaging    98-067DQ
+              Flock1-14      )                                      Imaging    98-067DR
+Feb 14 1145   Flock1-15      )   -                ISS, LEO          Imaging    98-067DS
+              Flock1-16      )                                      Imaging    98-067DT
+Feb 14 2109   Turksat-4A         Proton-M/Briz-M  Baykonur LC81/24  Comms        07A
+Feb 15 0700   Flock1-7       )   -                ISS, LEO          Imaging    98-067DU
+              Flock1-8       )                                      Imaging    98-067DV
+Feb 15 1055   Flock1-9       )   -                ISS, LEO          Imaging    98-067DW
+              Flock1-10      )                                      Imaging    98-067DX
+Feb 21 0159   GPS SVN 64         Delta 4M+(4,2)   Canaveral SLC37B  Navigation   08A
+Feb 25 1700   Flock1-17      )                    ISS, LEO          Imaging    98-067DY
+              Flock1-18      )                                      Imaging    98-067DZ
+Feb 26 0420   Flock1-21      )                    ISS, LEO          Imaging    98-067EC
+              Flock1-22      )                                      Imaging    98-067ED
+Feb 26 0735   Flock1-19      )                    ISS, LEO          Imaging    98-067EA
+              Flock1-20      )                                      Imaging    98-067EB
+Feb 27 0150   Flock1-23      )                    ISS, LEO          Imaging    98-067EC
+              Flock1-24      )                                      Imaging    98-067ED
+Feb 27 0740   Flock1-25      )                    ISS, LEO          Imaging    98-067EE
+              Flock1-26      )                                      Imaging    98-067EF
+Feb 27 1837   GPM-C        )     H-2A             Tanegashima LP1   Climate      09A             
+              ShindaiSat   )                                        Tech         09
+              STARS-2      )                                        Tech         09
+              Teikyosat-3  )                                        Bio          09
+              ITF-1        )                                        Tech         09
+              OPUSat       )                                        Tech         09
+              Invader      )                                        Edu          09
+              K-SAT 2      )                                        Tech         09
+Feb 28 0420?  Flock1-27      )                    ISS, LEO          Imaging    98-067EG
+              Flock1-28      )                                      Imaging    98-067EH
+Feb 28 0730   SkyCube 1        )                  ISS, LEO          Imaging    98-067
+              Litsat 1         )                                    Tech       98-067
+              LituanicaSat-1   )                                    Tech       98-067
+              Ardusat-2        )                                    Tech       98-067
+              UAP-SAT          )                                    Tech       98-067
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jan  3        Arrow KV         Arrow 3             Palmachim        Test          100?
+Jan 15 0909   FTX-18 target    Terrier Orion       Wallops          Target        130?
+Jan 15 0909   FTX-18 target    Terrier Orion       Wallops          Target        130?
+Jan 15 0909   FTX-18 target    Terrier Orion       Wallops          Target        130?
+Jan 20 0522   Agni 4 RV        Agni 4              Chandipur IC4    Test          900?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

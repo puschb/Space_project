@@ -1,0 +1,110 @@
+Jonathan's Space Report
+No. 389                                         1999 Feb  18  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+------------------------
+
+The Mir space station remains in orbit with Gennady Padalka and Sergey
+Avdeev aboard. 
+
+Columbia is being stored in the VAB till April; Atlantis will
+soon be moved to OPF Bay 3 for processing.
+
+
+Recent Launches
+---------------
+
+International Launch Services delivered Loral Skynet's Telstar 6 to
+orbit on a Krunichev Proton-K with an Energiya DM3 upper stage on Feb
+15. Telstar 6 is an FS-1300 class satellite built by Space
+Systems/Loral, and has a Marquardt R-4D liquid apogee engine and a mixed
+C and Ku band communications payload. Launch mass of Telstar 6 is around
+3700 kg. The Blok DM3 stage entered a 6638 x 35756 km x 17.4 deg orbit.
+On Feb 18 Telstar 6 was in a 15037 x 35800 km x 7.9 deg transfer orbit
+after the first R-4D burn.
+
+Loral Skynet inherited AT&T's Telstar comsat line in 1997. The Telstar 3
+series of the 1980s was the first of the current sequence of GEO
+domestic comms satellites, named in honor of the two famous early 1960s
+AT&T Telstar transatlantic relay satellites in MEO.
+
+Satellite      Type                Launch date   Launch vehicle
+
+  Telstar 1    Bell Labs Telstar   1962 Jul 10   Delta
+  Telstar 2    Bell Labs Telstar   1963 May  7   Delta B
+  Telstar 301  Hughes HS-376       1983 Jul 28   Delta 3920/PAM
+  Telstar 302  Hughes HS-376       1984 Sep  1   STS/PAM
+  Telstar 303  Hughes HS-376       1985 Jun 19   STS/PAM
+  Telstar 401  GE AS7000           1993 Dec 16   Atlas IIAS
+  Telstar 402  MM AS7000           1994 Sep  9   Ariane 42L
+  Telstar 402R LMAS AS7000         1995 Sep 24   Ariane 42L
+  Telstar 5    Loral FS-1300       1997 May 24   Proton-K/DM4
+  Telstar 6    Loral FS-1300       1999 Feb 15   Proton-K/DM3
+
+Another ILS launch on Feb 16 placed JCSAT-6 in orbit. A Lockheed Martin
+Atlas 2AS, serial AC-152, took off from pad 36A at Cape Canaveral and
+after two burns of the Centaur upper stage entered supersynchronous
+transfer orbit of 258 x 96736 km x 24.1 deg. JCSAT-6 is a Hughes HS-601
+satellite, also with an R-4D apogee engine, carrying a Ku-band relay
+payload. It is operated by JSAT (Japan Satellite Systems, Inc., Tokyo)
+and will provide communications and  data relay for Japan and the
+Pacific Rim. Launch mass is 2900 kg, dry mass is 1230 kg.
+
+Satellite      Type                Launch date   Launch vehicle
+
+  JCSAT 1       Hughes HS-393      1989 Mar  6  Ariane 44LP
+  JCSAT 2       Hughes HS-393      1990 Jan  1  Titan 3
+  JCSAT 3       Hughes HS-601      1995 Aug 29  Atlas IIAS
+  JCSAT 4       Hughes HS-601      1997 Feb 17  Atlas IIAS
+  JCSAT 5       Hughes HS-601      1997 Dec  2  Ariane 44P
+  JCSAT 6       Hughes HS-601      1999 Feb 16  Atlas IIAS
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan  3 2021   Mars Polar Lander) Delta 7425    Canaveral SLC17B Mars probe 01A
+              MPL Cruise Stage )
+              DS2 Microprobe 1 )
+              DS2 Microprobe 2 )
+Jan 27 0034   ROCSAT-1          Athena-1       Canaveral SLC46  Science    02A
+Feb  7 2104   Stardust          Delta 7426     Canaveral SLC17A Probe      03A
+Feb  9 0354   Globalstar FM23 ) Soyuz-U/Ikar   Baykonur         Comsat     04B
+              Globalstar FM36 )                                 Comsat     04A
+              Globalstar FM38 )                                 Comsat     04C
+              Globalstar FM40 )                                 Comsat     04D
+Feb 15 0512   Telstar 6         Proton-K/DM3   Baykonur LC81    Comsat     05A
+Feb 16 0145   JCSAT-6           Atlas 2AS      Canaveral SLC36A Comsat     06A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        VAB Bay 2     STS-93  Jul  9
+OV-103 Discovery       OPF Bay 1     STS-96  May 20
+OV-104 Atlantis        VAB Aisle     STS-101 Oct 14
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93?
+MLP2/
+MLP3/                          
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+

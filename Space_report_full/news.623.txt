@@ -1,0 +1,137 @@
+Jonathan's Space Report
+No. 623                                             2010 Feb 13 Somerville, MA
+----------------------------------------------------------------------------------
+
+Editorial
+----------
+
+In an attempt to enter the 2010s, JSR updates are now  available on
+Facebook - look for "Jonathan's Space Report" - and Twitter - follow
+"planet4589".
+
+Shuttle and Station
+--------------------
+
+Space Shuttle OV-105 Endeavour launched from Kennedy Space Center in
+Florida at 0914 UTC on Feb 8. This is Shuttle mission STS-130, Station
+flight 20A. 
+
+>From the top of Prospect Hill in Somerville, Massachusetts we got a
+great view of Endeavour rising above the horizon, vanishing at main
+engine cutoff as it arced over the Boston city skyline, and then
+intermittently reappearing again at least four times, for about 1 second
+out of every 5-10 or so. It's been suggested  that this is the RCS jets
+firing but I've seen this on five launches now (never managed to time it
+properly though, and this was the last chance!) and it seems too
+periodic and inconsistent with the two known RCS burns (separation and
+the Photo DTO) - maybe it's the ET venting or tumbling? The separation
+RCS burn does show up on a five-second-exposure photo my colleague Nick
+Wright took, and seems fainter. 
+
+At 0922 Endeavour entered a 58 x 229 km x 51.6 deg orbit. Then at 0951
+the OMS engines ignited for a 1min33s, 43.3m/s burn to raise perigee out
+of the atmosphere. By 2010 UTC, after a further burn, Endeavour was in 
+a 206 x 233 km x 51.7 deg orbit. It docked with the Station in a 301 x
+348 km orbit at 0506 UTC on Feb 10. After a somewhat longer than normal
+waiting period for  oscillations to damp down, the docking ring was
+retracted for a firm seal at 0555 UTC.
+
+The Expedition 22 crew currently consists of Jeff Williams, Maksim
+Suraev, Oleg Kotov, T.J. Creamer and Soichi Noguchi.  The visiting crew
+of Zamka, Virts, Patrick, Behnken, Robinson and Hire remain based aboard
+the Shuttle Orbiter. There is a full house at ISS now, as Soyuz TMA-16
+is docked at Poisk; Soyuz TMA-17 is docked with the nadir port on Zarya,
+Progress M-03M is at the Pirs port, Progress M-04M is at the Zvezda aft
+port, Endeavour is at the PMA-2 port, while the reserve PMA-3 port is,
+as always, empty.
+
+STS-130 is the first human spaceflight launch of 2010. Last year there
+were nine such launches (four Soyuz, five Shuttle), the most since 1997.
+(1985 remains the recordholder with 11 launches.)
+
+On Feb 12 Behnken and Patrick began a spacewalk to support installation
+of the Tranquility module. The airlock hatch was opened at 0216 UTC;
+Node 3 was unberthed from the Shuttle at 0405 UTC and attached to the
+Unity module between 0556 and 0620 UTC. Behnken used spacesuit 3018,
+replacing the planned suit 3004 which had a power harness problem.
+Patrick used suit 3005; it developed a fan problem during the spacewalk
+so suit 3004 will be repaired and used by him during the forthcoming
+second and third spacewalks.
+
+On board the station, in addition to the Russian Orlan-MK suits nos. 4,
+5 and 6, there are US SEMU suits 3009 (launched on STS-128), 3010 and
+3018 (both launched on STS-129), 3004 and 3005 (both launched on the
+current mission.) Suits 3004 and 3018 are currently scheduled to be
+brought down on Endeavour.
+
+
+Solar Dynamics Observatory
+--------------------------
+
+SDO was launched on Feb 11 aboard Atlas mission AV-021. The SDO payload
+was described in JSR 622. AV-021 entered a 175 x 3706 km x 28.7 deg
+parking orbit and then a 2480 x 35369 km x 28.6 deg transfer orbit. SDO
+separated from the Centaur and will now use its onboard R4D thruster to
+raise the orbital period from 11 hours to 24 hours. AV-021 vented its
+remaining propellant, leaving it in a slightly lower 2397 x 33517 km x
+28.4 deg orbit.
+
+Intelsat IS-16
+---------------
+
+IS-16 is an Orbital Sciences Star-2.4 Ku-band satellite which will
+backup SKY's Latin America services. It was launched by a Khrunichev
+Proton-M on Feb 12. After intermediate orbits of -432 x 196 km x 51.5
+deg, 189 x 194 km x 51.5 deg, 314 x 4989 km x 48.6 deg, and 509 x 37663
+km x 46.1 deg, the Briz upper stage deployed the Intelsat in a 37515 x
+38009 km x 0.1 deg supersynchronous orbit.
+
+
+Missile tests
+-------------
+
+The DRDO (India's defense missile agency) launched the fourth Agni III
+missile from the IC4 pad on Inner Wheeler Island in Orissa on Feb 7. It
+flew south or southwest over the Bay of Bengal and the Indian Ocean,
+splashing down in the southern hemisphere after a 3500 km range flight
+to orbital parameters of around -4070 x 350 km x (80 to 131) deg - the
+exact direction of the flight is not known.
+
+On Feb 12 the Missile Defense Agency tested the Airborne Laser against
+a Scud launched from a floating platform in the Pacific and a Black Brant IX
+launched from San Nicolas I. on the S Californian coast. Apogees of
+the targets were probably in the 100-200 km range.
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+Feb  3 0345   Progress M-04M      Soyuz-U          Baykonur LC1     Cargo      03A
+Feb  8 0914   Endeavour (STS-130) Space Shuttle    Kennedy LC39A    Spaceship  04A
+Feb 11 1523   SDO                 Atlas V 401      Canaveral SLC41  Astronomy  05A
+Feb 12 0039   Intelsat IS-16      Proton-M/Briz-M  Baykonur LC200/39 Comms     06A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Feb  3        Kavoshgar-3     Kavoshgar       Iran            Bio          100?
+Feb  7 0520   Agni III RV     Agni III        Chandipur       R&D flight   350
+Feb  9 0901   NASA 41.084UE   Terrier Orion   Poker Flat      Atmosphere   160?
+Feb 12 0444   ABL Target      Scud            MLP, Pacific O. Target       100?
+Feb 12 0530?  MARTI Target    Black Brant IX  San Nicolas I   Target       100?
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+

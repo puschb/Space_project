@@ -1,0 +1,284 @@
+Jonathan's Space Report
+No. 650                                       2011 Nov 16  Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+The Progress M-10M cargo ship undocked from the Pirs module at 0904 UTC
+on Oct 29; the craft fired its deorbit engines at 1210 UTC and reentered
+over the Pacific at 1248 UTC.
+
+Progress M-13M was launched on Oct 30, reaching orbit at 1019 UTC to
+sighs of relief from the ISS project. It successfully docked with the
+Pirs module on Nov 2, with the result that the crew will have enough
+supplies to avoid evacuating the Station. This is the first flight of
+the old 11S510 model of the Soyuz upper stage and RD-0110 engine since
+the Aug 24 failure of Progress M-12M. Two Soyuz 2-1B launches used the
+14S54 third stage with an improved engine. The Progress M-13M flight is
+ISS mission 45P and spacecraft production serial No. 413. It carries
+the Chibis-M microsatellite which will be ejected after undocking.
+
+Soyuz TMA-22 was launched on Nov 14 with commander Anton Shkaplerov and
+flight engineers Anatoliy Ivanishin and Dan Burbank. It docked with the
+Poisk module at 0524 UTC on Nov 16, and the astronauts joined the Soyuz
+TMA-02M crew of Volkov, Fossum and Furukawa on board ISS.
+
+NPP
+---
+
+The NPP weather satellite was launched from Vandenberg on Oct 28.
+NPP is a nested acronym standing for NPOESS Preparatory Project,
+where NPOESS was the National Polar Orbiting Environmental Satellite System,
+a now-cancelled project that has been replaced by the Joint Polar Satellite
+System. NPP will provide interim capability between the last of the
+old NOAA Advanced TIROS-N polar weather satellites and the first JPSS
+satellite to be launched in a few years.
+
+The Delta 7920 launch vehicle carried six Cubesats in deployers attached
+to its final stage. The first P-POD deployer carried three 1U Cubesats,
+each 1 kg, 0.1m in size: AubieSat-1 from Auburn University, Alabama;
+M-Cubed (the Michigan Multipurpose Mission) from the University of
+Michigan; and E1PU2 (Explorer-1 Prime, Unit 2) from Montana State
+University, which carries one of Van Allen's Geiger tubes. The second
+deployer carred a 3U Cubesat, 0.1 x 0.3m, the RAX-2 Radio Aurora
+Explorer, an NSF-funded mission also from the University of Michigan.
+The final deployer carried two 1.5U cubesats, DICE-1 and DICE-2 from
+Utah State University, which will study the magnetosphere and will each
+deploy electric field antennas measuring 10 meters tip-to-tip.
+
+Launch from Space Launch Complex 2-West at Vandenberg was at 0948 UTC;
+Stage 2 reached a 195 x 853 km x 98.7 deg orbit at 0958 UTC. At 1040 UTC
+a second burn circulazed the orbit at 816 x 819 km and the NPP satellite
+separated at 1046 UTC. Stage 2's third burn at 1120 UTC lowered the
+orbit and increased inclination, to 458 x 816 km x 101.7 deg (a higher
+perigee than originally planned). At 1126 UTC the three 1U Cubesats were
+ejected, followed at 1128 UTC by RAX-2 and at 1129 UTC by the pair of
+DICE. A final burn at 1143 UTC lowered the Delta stage's orbit to 179 x
+706 km x 107.3 deg to speed its eventual reentry. By Nov 8 NPP had
+adjusted its orbit to 822 x 824 km x 98.7 deg.
+
+Shenzhou 8
+----------
+
+The Shenzhou 8 spaceship was launched on Oct 31 on a mission to
+rendezvous and dock with the Tiangong-1 spacelab. Shenzhou 8, like
+Shenzhou 1 to 4, does not carry a crew. The first automated robotic
+rendezvous and docking was carried out by the Soyuz No. 5 and No. 6
+spaceships (Kosmos-186 and Kosmos-188) in 1967.
+
+Shenzhou 8 was inserted into a 261 x 314 km x 42.8 deg orbit and
+completed a rendezvous with Tiangong 1 on Nov 2, in a 328 x 338 km 
+orbit. Docking was carried out successfully on Nov 2 at 1728 UTC. On Nov
+14 at 1127 UTC it undocked, retreated to 140m and redocked at 1153 UTC.
+On Nov 16 at 1030 UTC  Shenzhou 8 undocked from Tiangong 1 and prepared
+to return to Earth.
+
+Glonass-M
+----------
+
+Three Glonass-M (Uragan-M) navigation satellites were launched on Nov 4
+from Baykonur aboard a Proton-M. The launch used a Briz-M upper stage.
+This is the Block 44 Glonass launch, with satellites Uragan-M No. 743,
+744 and 745, also known as Glonass-M No. 43, 44 and 45.  The satellites
+will probably also get the cover names Kosmos-2475 to Kosmos-2477.
+On Nov 12 the satellites were in orbits of 18907 x 19172 km x 64.8 deg,
+19160 x 19319 km x 64.8 deg, and 19018 x 19178 km x 64.8 deg.
+
+
+Fobos-Grunt
+------------
+
+The Fobos-Grunt probe took off at 2016 UTC on Nov 8 and reached a 206 x
+341 km x 51.4 deg Earth parking orbit, but the solar orbit insertion
+burns  did not take place. The probe separated from the Zenit-2SB41.1
+rocket's second stage and remains in low earth orbit attached to its MDU
+propulsion unit (similar to the Fregat stage). Attempts by ground
+control to contact the vehicle have been unsuccessful, and the probe,
+with an approximate mass of 13500 kg, is expected to reenter towards the
+end of the year.
+
+The Fobos-Grunt mission was intended to return a sample of the Martian
+moon Phobos to Earth. The main spacecraft is attached to a Fregat-related
+propulsion system consisting of the MDU main propulsion system (around
+735 kg dry with 7015 kg of propellant) and the SBB drop tank (with a
+further 3000 kg of propellant). The MDU was meant to make a first
+burn to raise apogee to 4250 kg, release the drop tank, then make a second
+burn to 17500 km and, some days later, a third to solar orbit insertion.
+In August 2012 it would have also performed the Mars orbit insertion
+burn. At this stage the MDU would have separated from the main spacecraft,
+together with a truss structure and the 115 kg Chinese Yinghuo-1 
+subsatellite; these three objects would have been left in a 900 x 77000 km
+equatorial Mars orbit. The Fobos-Grunt PM (Pereletniy Modul', or cruise
+module) would have made two major burns to enter a 9900 km circular
+Mars orbit, completed a rendezvous with Phobos, and after some months
+of close observation would have landed on its surface. A surface sample
+would then have been transferred to the 7 kg SA (descent capsule)
+which would have been launched to Mars orbit by the VA (vosvrashchaemiy
+apparat, return module). The VA would have made the trans-Earth insertion
+burn and controlled approach to Earth, separating shortly before the SA
+performed entry and landing, which would have occurred in August 2014.
+
+This was an extremely ambitious mission given the limited resources (and
+underpaid scientists and engineers) of the IKI space science center and
+the Lavochkin company which built the vehicle and managed the mission.
+The last fully successful Russian interplanetary mission was Vega-2 in
+1985-86, followed by a partial success by Fobos-2 in 1988-89. The
+Fobos-1 and Mars-96 missions were failures. With this record, the
+IKI/Lavochkin team, which have had a monopoly on Russian/Soviet
+interplanetary exploration since IKI's formation in 1965, would have
+been better advised to attempt a much more modest probe - in my opinion.
+I hope the failure reviews lead to a robust and successful Russian deep
+space program in the years to come. It's really good news that the
+Spektr-R orbiting radiotelescope, developed by the same team, is now
+making successful single-dish astronomical observations and preparing
+for its initial interferometric experiments.
+
+
+Yaogan 12
+----------
+
+The Yaogan Weixing 12 satellite was launched on Nov 9. The YW satellites
+are Earth observing satellites, at least some of which probably have a
+military role. The YW-12 launch also carried the small Tianxun-1
+technology satellite. Tianxun-1 was built by the Nanjing University of
+Aeronautics and Astronautics (Nanjing Hangkong Hangtian Daxue), carries
+a small Earth observing CCD camera  and has a mass of 58 kg. The
+satellites are in a 480 x 490 km x 97.4 deg orbit.
+
+
+Kosmos-2472
+-----------
+
+The Kosmos-2472 imaging satellite landed on Oct 24. The Kobal't-M class
+satellite fired its Ikar-class propulsion system to deorbit  around
+2020-2030 UTC; the Yantar'-type descent module then separated, reentered
+around 2037 UTC and landed at about 2048 UTC after a 119.2-day flight.
+
+The spacecraft was launched into a 195 x 337 km x 81.5 deg orbit on Jun
+27, moving to a 217 x 338 km x 81.4 deg orbit on Jun 29. From Jun 29 to
+Aug 14 the spacecraft was kept between roughly 215-223 x 315-340 km with
+orbit reboost burns on Jul 17 and Aug 1. Then the orbit was lowered to
+210 x 245 km, and for the remainder of the mission was reboosted to 210
+x 250 km each time apogee decayed to around 220 km. Boosts occurrent on
+Aug 31, Sep 2, 13 and 23, Oct 1 and 12. The final orbit on Oct 24 was
+200 x 242 km. The 81-degree orbit was previously used from the 1960s to
+the 1990s for monitoring the breakup of Arctic ice, in particular  by
+the Fram satellites (1975-1985). The satellite probably carried two
+SpK small film recovery capsules which were jettisoned and deorbited
+to a parachute landing sometime during the mission - unfortunately
+the dates of these ejections can't be determined from the orbital data.
+
+Dawn
+----
+
+The Dawn probe continues to operate in polar circumVestal orbit.
+According to data on the Dawn web site and in Marc Rayman's journal,
+orbit capture was at 0348 UTC on Jul 16 at about 16000 km from Vesta's
+surface; ion engine thrusting was suspended from Jul 23 to Jul 29 in a
+5200 km orbit, followed by descent to the  survey orbit of 2700 km
+altitude which was reached on Aug 2. From Aug 31 to Sep 18 the orbit was
+lowered again to 680 km for the high altitude mapping orbit (HAMO)
+phase. On Nov 2 thrusting resumed to leave HAMO for the low altitude
+mapping orbit which will be at 180 km; by Nov 16 altitude was 339 km. Of
+course Vesta is far from spherical; altitudes are expressed relative to
+a mean Vesta radius of 265 km.
+
+
+Suborbital launches
+--------------------
+
+The Israeli Defense Force launched a ballistic missile on Nov 2
+westward over the Mediterranean. This is probably the second test flight
+of an improved missile which some western analysts dub the "Jericho III".
+(Note that we don't know the true Israeli names of their ballistic missiles).
+Russia launched a Bulava missile from a submarine in the White Sea
+to the Kura range on Oct 28, and a Topol' missile from Plesetsk to Kura
+on Nov 3.
+
+The fifth flight of the Wisconsin/GSFC X-ray Quantum Calorimeter (XQC)
+payload was launched on Nov 6, to observe the X-ray background and demonstrate
+the detector technology.
+
+India launched the long range Agni IV missile (previously known as Agni II Prime)
+from Wheeler's Island near Balasore on Nov 15.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep 10 1308   GRAIL-A   )       Delta 7920H        Canaveral SLC17B  Lunar     46A    
+              GRAIL-B   )                                            Lunar     46B
+Sep 18 1633   Zhongxing 1A      Chang Zheng 3B(E?) Xichang           Comms     47A
+Sep 20 2247   Kosmos-2473       Proton-M/Briz-M    Baykonur          Comms     48A
+Sep 21 2138   Arabsat 5C  )     Ariane 5ECA        Kourou ELA3       Comms     49A
+              SES 2       )                                          Comms     49B
+Sep 23 0436   IGS O-4           H-2A 202           Tanegashima       Imaging   50A
+Sep 24 2018   Atlantic Bird 7   Zenit-3SL         SL Odyssey, Pacific Comms    51A?
+Sep 27 1549   Tacsat-4          Minotaur 4+        Kodiak            Comms     52A
+Sep 29 1316   Tiangong-1        Chang Zheng 2FT1   Jiuquan           Module    53A 
+Sep 29 1832   Quetzsat-1        Proton-M/Briz-M    Baykonur LC200/39 Comms     54A
+Oct  2 2015   Glonass-M No. 42  Soyuz-2-1B         Plesetsk          Navsat    55A
+Oct  5 2100   Intelsat IS-18    Zenit-3SLB         Baykonur LC45     Comms     56A
+Oct  7 0821   Eutelsat W3C      Chang Zheng 3B(E)  Xichang           Comms     57A
+Oct 12 0531   Megha-Tropiques ) PSLV-CA            Sriharikota       EarthObs  58A
+              SRMSat          )                                      Tech      58D
+              VesselSat-1     )                                      Comms/AIS 58C
+              Jugnu           )                                      Tech      58B
+Oct 19 1848   ViaSat-1          Proton-M/Briz-M    Baykonur          Comms     59C
+Oct 21 1030   Galileo IOV PFM ) Soyuz-2-1B         Kourou ELS        Navsat    60A
+              Galileo IOV FM2 )                                      Navsat    60B
+Oct 28 0948   NPP            )  Delta 7920         Vandenberg SLC2W  Weather   61A
+              M-Cubed        )                                       Imaging
+              AubieSat-1     )                                       Sci/Edu
+              E1PU2          )                                       Sci/Edu
+              RAX-2          )                                       Science
+              DICE-1         )                                       Science
+              DICE-2         )                                       Science
+Oct 30 1011   Progress M-13M    Soyuz-U            Baykonur LC1      Cargo     62A
+Oct 31 2158   Shenzhou 8        Chang Zheng 2F     Jiuquan           Spaceship 63A
+Nov  4 1251   Glonass-M No. 43) Proton-M/Briz-M    Baykonur LC81     Navsat    64A
+              Glonass-M No. 44)                                      Navsat    64B
+              Glonass-M No. 45)                                      Navsat    64C
+Nov  8 2016   Fobos-Grunt       Zenit-2SB          Baykonur LC45    Mars probe 65A
+Nov  9 0321   Yaogan Weixing 12) Chang Zheng 4B    Taiyuan           Imaging?  66B
+              Tianxun 1        )                                     Imaging   66A
+Nov 14 0414   Soyuz TMA-22      Soyuz-FG           Baykonur LC1      Spaceship 67A
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Sep 1  1353   ARAV?            Terrier Oriole?    Kauai               Target       150?
+Sep 1  1354   Aegis KV         SM-3 Block 1B      CG-70, Kauai        Interceptor  150?
+Sep 3  0946   RV               Topol'             Plesetsk            Test        1000?
+Sep 26 0320   Prithvi RV       Prithvi-2          Chandipur IC3       Test         100?
+Sep 29        10 RVs?          Layner             K-114, Barents Sea  R&D         1000?
+Sep 30 0400?  Agni RV          Agni 2             Chandipur IC4       Test         220
+Oct  5 0556?  FTT-12 Target    SRALT?             C-17, Kauai         Target       100?
+Oct  5 0556?  FTT-12 Target    ? Target SRBM      MLP, Kauai          Target       100?
+Oct  5 0600?  THAAD KV         THAAD              Kauai               Intercept    100?
+Oct  5 0600?  THAAD KV         THAAD              Kauai               Intercept    100?
+Oct  8 1025   NASA 36.225UG    Black Brant 9      White Sands         Astronomy    200?
+Oct 11 2115   NASA 41.094UE    Terrier Orion      Andoya              Atm. Sci     130?
+Oct 13 1350   NASA 41.093UE    Terrier Orion      Andoya              Atm. Sci     130?
+Oct 28 0340   RV x 6?          Bulava             K-535, White Sea    Test        1000?
+Nov  2 0750   RV               Jericho III        Palmachim           Test         300?
+Nov  3 0645   RV               Topol'             Plesetsk            Test        1000?
+Nov  6        NASA 36.264UH    Black Brant 9      White Sands         Astronomy    250?
+Nov 15 0330   Agni RV          Agni IV            Chandipur           Test         900
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

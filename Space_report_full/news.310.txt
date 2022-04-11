@@ -1,0 +1,192 @@
+Jonathan's Space Report
+No. 310                         1997 Jan  12    Toronto, Ontario
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Atlantis was launched at 0928 UTC on Jan 12 from pad 39B. Solid rocket booster
+came at 0930 UTC. The orbiter entered a 51.6 degree inclination
+orbit around the Earth at 0936 UTC.
+
+Atlantis will dock with the Mir orbital
+station, and NASA astronaut Jerry Linenger will replace John Blaha.
+Russian astronauts Valeriy Korzun and Aleksandr Kaleri will remain on
+the station.
+             
+Recent Launches
+---------------
+
+The Bion No. 11 spacecraft landed near Kustanai on Jan 7.
+One of the two monkeys, Multik, died a day later from
+unspecified causes.
+
+Geostationary Transfer Orbits
+-----------------------------
+
+Some recent comsat launches have used an extremely high apogee
+transfer orbit with subsequent apogee lowering to reach their
+final orbits. The following article is an attempt to put this
+new orbital technique in context.
+
+The first geostationary satellite was Syncom 3, launched in August 1964
+into a 1113 x 38084 km x 16.80 deg, 694.5 min transfer orbit. A solid
+motor was used to circularize the orbit at 36000 km. The perigee of
+Syncom 3's transfer orbit was unusually high; between 1970 and 1990,
+almost all geostationary satellites used transfer orbits with perigees
+between 150 and 600 km, and apogees from 34000 to 41000 km. 
+
+During the 1980s the use of liquid propellant apogee engines  (LAEs)
+began to supersede the older solid rocket apogee motors (AKMs), but it
+was not until the 1990s that the greater flexibility of the LAE was
+fully exploited, most notably in Atlas Centaur launches. A number of
+transfer orbit techniques are now in use.
+
+To classify transfer orbits, I consider the first orbit entered by the
+spacecraft with an apogee above 5000 km (i.e. the first burn after any
+initial low parking orbit). Thus, the Astra 1F Proton launch in 1996
+used a standard GTO of 220 x 36131 x 51.6 for its initial transfer
+orbit, but the final stage made an extra burn leaving the payload in a
+11970 x 35936 x 7.0 orbit. In similar Ariane missions, the final stage
+would separate in the standard GTO orbit and the LAE first burn would
+leave the payload in the 12000 km perigee orbit. I don't care whether
+this extra burn is made by the launch vehicle or the payload, I am
+focussing on the initial transfeer orbit which in this case is the 220
+km perigee one. With this proviso, the different transfer orbits
+in use can be usefully grouped as follows (names and arbitrary
+dividing lines are my invention:)
+
+(1) Standard GTO: 150-700 x 34000-41000. Still used by
+almost all Ariane, H-II and Chang Zheng launches.
+
+(2) High perigee GTO (HP-GTO): 700-4000 x 34000-41000. This
+type of orbit was used by Syncom 3 and Early Bird and then abandoned
+in favour of lower perigees. It appears to have been used
+by some Titan 34D/Transtage classified missions beginning in 1984,
+and came back into regular use with the first flight of the
+Delta 7925 in 1991. All Delta 7925 geostationary missions
+have had transfer orbit perigees between 700 and 3000 km.
+Three Atlas launches have also used a high perigee GTO: Galaxy V (1992-13),
+Inmarsat III F-1 (1996-20) and F-3 (1996-70).
+
+(3) Low-GTO: Apogees below 30000 km. For these missions, a perigee
+motor places the spacecraft in an orbit with an intermediate apogee
+well below geostationary, and subsequent LAE burns are used to reach GEO.
+Introduced by the LEASAT/SYNCOM IV spacecraft in 1984, they have
+also been used by a Titan JCSAT launch and the UHF and Galaxy 
+missions with HS-601 satellites: (UHF F/O F1 was also intended for this orbit
+but failed).
+
+1984-93		Leasat 2		316   15213  27.2   278.7   Low-GTO
+1984-113	Leasat 1		317   15227  27.1   278.95  Low-GTO
+1985-28		Leasat 3		317   15877  27.0   288.59  Low-GTO
+1985-76		Leasat 4		374   15556  27.5   284.66  Low-GTO
+1990-01		Titan/JCSAT		299   19294  26.79  340.91  Low-GTO
+1990-02		STS/Leasat		320   15076  27.21  276.73  Low-GTO
+1992-072     	Galaxy VII              199   29834   6.95  518.52  Low-GTO
+1993-015        UHF F/O F1		215    9134  27.28  192.75  Failure
+1993-039     	HS601-Galaxy 4H         211   27551   6.97  478.28  Low-GTO
+1993-056  	UHF F/O F2		222   14928  27.00  273.39  Low-GTO
+1994-035  	UHF F/O F3              225   15596  26.95  283.30  Low-GTO
+1995-003  	UHF F/O F4		297   27437  26.74  477.79  Low-GTO
+1995-027  	UHF F/O F5		290   26514  26.93  461.43  Low-GTO
+1995-057  	UHF F/O F6		260   27482  26.97  477.94  Low-GTO
+1996-042  	UHF F/O F7	        276   27198  26.88  473.21  Low-GTO
+
+(4) Sub-GTO: Apogees between 30000 and 34000 km. A different compromise
+between final stage and LAE fuel loading, I treat these missions as
+different from the Low-GTO ones since only a small burn is needed to
+reach final altitude, although it could be argued that 25000 km would be
+a better dividing line. The only such mission launched to date is
+DBS 3 in 1995, although two earlier non-GEO science satellites used
+such orbits as their final mission orbits.
+
+1978-87A	EXOS-B			230   30558  31.09  532.9   Sub-GTO
+1990-065  	CRRES		  	332   33724  18.07  593.99  Sub-GTO
+1995-029     	DBS 3                   237   32782   6.91  574.33  Sub-GTO
+
+(5) High-GTO: super-synchronous transfer orbits with apogees between
+41000 km and 50000 km. These orbits have the advantage that, since the
+apogee velocity is lower, inclination changes take less fuel (the low
+initial inclination of Ariane launches is presumably the reason that
+standard GTO is fine for them). Apogee is then lowered after the plane
+change. Some USAF classified launches in the CANYON and VORTEX programs
+have used marginally high apogees around 41000 km, but their final
+orbits were elliptical and no apogee lowering was required. Two
+scientific satellites in near-geosynchronous orbits, IUE and SCATHA,
+also used high apogees. The GOES weather satellites were the first
+operational geostationary satellites to use such transfer orbits, with
+apogees around 50000 km, starting with GOES 4 in 1980. Since then, three
+commercial satellites (Eutelsat II F3 and two Apstars, on Atlas and
+CZ-3) have used such orbits.
+
+1978-12		IUE			173  46081  28.71  840.64  High-GTO
+1979-06		SCATHA			185  43905  27.39  794.8   High-GTO
+1980-74		GOES 4			167  49610  26.50  917.03  High-GTO
+1981-49		GOES 5			167  49645  26.50  917.79  High-GTO
+1983-41		GOES 6			263  48017  24.87  884.27  High-GTO
+1991-083  	Eutelsat II F-3	  	854  41247  16.93  753.48  High-GTO 
+1994-022  	GOES 8		  	113  42247  27.41  758.81  High-GTO
+1995-025  	GOES 9		  	130  41709  27.12  748.07  High-GTO
+1994-43		CZ3/Apstar		210  42039  26.62  756.52  High-GTO
+1996-39		CZ3/Apstar		225  42184  26.93  759.84  High-GTO
+
+
+(5) Super-GTO. The truly spectactular super-synchronous transfer orbits
+used by some recent commercial satellites reach apogees previously only explored
+by deep space research probes. The first highly eccentric GTO mission was
+the Intelsat 603 satellite, launched from LEO in May 1992 following its
+repair by astronauts on mission STS-49. It reached an apogee of over 70000 km.
+This was followed by the Orion 1 satellite in 1974, which reached a
+record-breaking 120000 km, almost a third of the way to the Moon.
+I also include the scientific ISO satellite in the list below.
+
+1990-021  Intelsat 603                9169   71624   7.28 1677.60  Super-GTO
+1994-079  Orion 1         	       379  120929  25.61 2878.61  Super-GTO
+1995-043  JCSAT 3		       187   79154  22.95 1639.02  Super-GTO
+1995-062  ISO                          537   72555   5.19 1475.07  Super-GTO
+1996-006  Palapa C1		       253   89628  21.86 1928.33  Super-GTO
+1996-054  GE 1			       196   56275  25.03 1068.17  Super-GTO
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Dec  4 0658   Mars Pathfinder  Delta 7925     Canaveral LC17B Mars probe  68A
+Dec 11 1200   Kosmos-2335      Tsiklon-2      Baykonur LC90   Recon       69A
+Dec 18 0157   Inmarsat III F3  Atlas IIA      Canaveral LC36  Comsat      70A
+Dec 20 0644   Kosmos-2336      Kosmos-3M      Plesetsk LC132  Navsat      71A
+Dec 20 1804   USA 129          Titan 4        Vandenberg SLC4E Recon      72A
+Dec 24 1350   Bion No. 11      Soyuz-U        Plesetsk LC43   Life sci    73A
+Jan 12 0928   Atlantis         Shuttle        Kennedy LC39B   Spaceship
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-80  
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        LEO           STS-81  Jan 12
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-58/ET-81           VAB Bay 3      STS-82
+ML2/                        LC39B          STS-81
+ML3/RSRM-59/                VAB Bay 1      STS-83
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

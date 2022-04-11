@@ -1,0 +1,436 @@
+Jonathan's Space Report
+No. 789                                                         2021 Feb 23   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 64 continues under the command of Sergey Ryzhikov.
+
+Cygnus NG-14, the S.S. Kalpana Chawla, was deorbited on Jan 26 with
+entry over the S Pacific at 2023 UTC. It departed ISS on Jan 6 and spent
+20 days in a 475 x 490 km orbit.
+
+On Jan 27 astronauts Hopkins and Glover performed spacewalk US EVA-69
+using spacesuits EMU 3006 and 3009. SAFER backpacks 13 and 18 were also
+used. The Quest airlock was depressurized by about 1118 UTC and the
+hatch was opened at 1126 UTC, with the astronauts putting the suits on
+battery power 2 min later. The first major task was to install the ColKa
+antenna on the outside of ESA's Columbus module. ColKa, built by
+MDA/Harwell in England, provides high bandwidth Ka-band science data
+download. The ColKa package was launched on the Cygnus NG-13 mission in
+Feb 2020 and has been stored inside ISS since then. The package has a
+mass of 105 kg plus a 15 kg removable cover. Glover mounted the
+Canadarm-2 at ESP-2 and carried ColKa to Columbus, installing it at 1242
+UTC and completing bolting it down by 1316 UTC. Next the astronauts
+routed cables to ColKa and to the Bartomoleo platform. (Unfortunately,
+two Bartomoleo cables could not be connected and were left tied down for
+a future EVA.) The ColKA cover was removed at 1529 UTC and jettisoned
+into space by Glover at 1600 UTC. The cover was cataloged as S47513,
+1998-067RY in a 417 x 421 km orbit. The astronauts then retrieved
+equipment from the airlock and moved to the P6 truss to remove two
+H-fixture bolts from the solar array mast there. The astronauts returned
+to the airlock, ingressing at 1813 UTC and closing the hatch at 1820
+UTC. Quest was repressurized at 1824 UTC.
+
+On Jan 29 the Dextre arm removed a spare LiIon battery, attached to a
+FRAM adapter plate, from the ESP-3 stowage platform. The battery was
+launched to ISS in the Dragon CRS-19 trunk. Dextre then removed old NiH
+batteries 72 and 69 from P4 IEA slot 5 and 6. The new battery was then
+removed from its FRAM and placed in slot 5. One of the old batteries was
+stowed on the HTV-9 EP-9 external pallet, and the other was attached to
+the FRAM, which then was put back on ESP-3.
+
+If any of my readers know the LiIon battery serial number, please let me know.
+
+EVA-70 on Feb 1 completed the battery work. Hopkins and Glover,  using the same suits,
+depressurized Quest by 1248 UTC, opened the hatch at 1255 UTC, and went to battery
+power at 1256 UTC. They went to the P4 IEA. In slot 2 were two adapter plates, one
+on top of the other. They removed the top one, AP0009, and installed it
+in the empty slot 6, and connected it to the battery in slot 5. This marks
+the near completion of 3 years of battery replacement work at ISS; all that
+remains is to dispose of the EP-9 pallet with its old batteries.
+
+The astronauts then removed two more H-fixtures from solar array masts,
+replaced a EVTCG camera group on the CP3 boom at S1 lower outboard,
+added a new HD camera to the camera group on the Destiny module's CP13 boom,
+and installed a new WVEB  (Wrist Vision Equipment Box) camera at the base of the
+Japanese JRMS robot arm. They returned to airlock with hatch closure at 1812 UTC
+and repressurization at 1815 UTC.
+
+
+The Progress MS-15 cargo ship undocked from Pirs at 0521:30 UTC Feb 9.
+It fired its engine for the 3.5-minute deorbit burn at 0830:11 UTC with
+debris impact in the S Pacific at 0913 UTC. Progress MS-16 was launched
+on Feb 15 and docked with the Pirs module at 0626  UTC Feb 16.
+
+On Feb 20 Northrop Grumman launched the Cygnus NG-15 cargo ship, S.S.
+Katherine Johnson, on an Antares 230+ rocket from the Mid-Atlantic
+Regional Spaceport at Wallops Island, Virginia. NG-15 will rendezvous
+with the ISS; the 8050 kg spacecraft includes 3734 kg of pressurized
+cargo. Aboard Cygnus for later deployment is a JAXA J-SSOD (#16) with
+seven cubesats: Paraguay's first satellite, GuaraniSat; a Filipino
+satellite, Maya-2; Kyushu Tech's Tsuru; Tel Aviv University's TAU-SAT;
+Moldova's first satellite, the Technical University of Moldova's
+TUMnanosat; Osaka OPU's Hirogari; and RymanSat's RSP-01. The S.S. Katherine
+Johnson was captured by Candarm-2 at 0938 UTC Feb 22 and berthed on the
+Unity module at 1216 UTC.
+
+J-SSOD-16 will be transferred to Kibo for later
+deployment. Nanoracks NRCSD-E and SEOPS-LLC Slingshot deployers are also
+attached to Cygnus and will deploy their payloads after NG-15 leaves
+ISS. Slingshot will deploy Gunsmoke-J and two other military cubesats
+(maybe LANL/SOCOM Prometheus 2 sats?). NRCSD-E carries the UAE's
+DhabiSat and the IT-SPINS satellite from Montana State U.
+
+Also aboard the Antares were nine ThinSat `strings' (each a set of small
+payload boxes connected by cables), ejected from the Antares second
+stage 13 min after launch. The satellites are expected to reenter
+in a matter of days. Each ThinSat string is 1 to 2 kg in mass and
+up to 2 metres long, but they have not been added to the US satellite catalog
+despite meeting the traditional criteria for being counted as satellites.
+I have added them to the GCAT auxiliary catalog as objects A09696 to A09704.
+
+Transporter-1
+-------------
+
+On Jan 24 SpaceX launched the Transporter-1 mission, placing a record
+number of satellites in orbit on a single launch. 110 satellites were
+deployed, plus a dispenser structure and 4 support rods. Two of the
+satellites are dispenser craft containing a total of 33 further
+satellites to be deployed in the coming weeks, so the total number of
+payloads associated with the launch will be 143. The second stage
+entered parking orbit at 1508 UTC, and circularized its orbit at 1554
+UTC. Deployments occurred from 1558 to 1631 UTC. The Sherpa-FX satellite
+then deployed subsatellites from about 1800 to 2000 UTC.
+
+The second stage was deorbited in the south Pacific west of Chile at
+about 1658 UTC and the first stage landed on the OCISLY droneship.
+
+Transporter-1 is a complex mission. The second stage carried a stack of
+10 Starlink satellites. Above the Starlinks was a payload adapter with
+three ESPA rings above it. The ESPA rings are designated A, B and C with
+C being the topmost one. The various rideshare payloads were attached to
+dispensers on the four large ports around each ESPA ring. In addition,
+an extra dispenser location was present on the top ring, and the Falcon
+9 second stage had a cubesat dispenser attached to its aft end next to
+the rocket engine.
+
+The mission is a good illustration of the importance of new layer of
+intermediary space companies that bundle satellite deployments, sitting
+between the launch vehicle providers and the satellite owners. In my
+opinion, this extra `service industry' layer is a sign of the existence
+of a mature commerical space economy. 
+
+The Transporter 1 payloads, excluding Starlink, are listed below.
+The satellites are mostly from the USA except where noted. The 143 satellites
+have 24 different owner/operators from 11 countries.
+
+ESPA Port    Carrier mission          Payloads
+
+A2      D-Orbit Pulse                    ION-SVC-2 LAURENTIUS  (D-Orbit, Italy)   Dispenser
+A4      Spaceflight Sherpa-FX            Sherpa-FX             (Spaceflight)      Dispenser
+B1      -                                IQPS  QPS-SAR-2       (QPS Labs, Japan)  Radar imaging
+B2      EXOLAUNCH Zeitgeist EXOPORT2     1 x ICEYE XR          (ICEYE-US)         Radar imaging
+                                         36 x 0.25U Spacebee   (Swarm Tech)       IoT comms
+                                         1  x 6U AU Charlie    (Aurora Insight)   RF spectrum
+                                         1 x 3U PIXL 1         (DLR, Germany)     Laser com test
+                                         1  x 2U SOMP-2b       (Dresden Tech, Germany)  Science
+B3      EXOLAUNCH Zeitgeist EXOPORT1     2 x ICEYE             (ICEYE, Finland)   Radar imaging
+C1      ISILAUNCH IS34           8 x 6U Kepler                 (Kepler Comms, Canada) IoT Comms
+                                 4 x 3U SuperDove Flock 4c-37 to 40 (Planet)      Imaging
+                                 1 x 3U ASELSAT                (ASELSAN, Turkey)  Tech
+                                 1 x 3U IDEASSat               (NCU, Taiwan)      Science
+                                 1 x 1.5U YUSAT-1              (NTOU, Taiwan)     Com/AIS
+                                 1 x 1U UVSQ-SAT               (UVSQ, France)     Science
+                                 1 x 6U Hiber-4                (Hiber, Netherlands) IoT Comms
+C3      NanoRacks Eyries-1       1 x Nemo-V1 Hugo              (GHGSat, Canada)   Science
+                                 8 x 3U Lemur                  (SpireGlobal)      AIS/GNSS-RO weather
+C4      ISILAUNCH IS34           36 x 3U SuperDove Flock 4s-1 to 36 (Planet)      Imaging
+C5      -                                Capella-3             (Capella Space)    Radar imaging
+C6      -                                Capella-4             (Capella Space)    Radar imaging
+Aft     Maverick MERCURY         3 x 1U  V-R3X                 (NASA-Ames/CMU)    Tech
+
+Sherpa-FX released the following payloads:
+
+Sherpa-FX                        3 x Defiant  Hawk-2A,B,C      (Hawkeye 360)      RF spectrum
+                                 1 x 6U  PTD-1                  (NASA-Ames/Tyvak)  Tech
+                                 5 x 3U  Astrocast-1.x1 to 1.x5 (Astrocast, Switzerland) IoT comms
+                                 1 x 1,5U Prometheus-2.10       (Los Alamos/SOCOM)   Military Comms
+                                 3 x 0.5U ARCE-1A,B,C           (U. South Florida)   Tech
+
+ION will release the following payloads:
+
+ION-SVC                          8 x 3U  SuperDove  Flock 4s-41 to 48  (Planet)     Imaging
+                                 12 x 0.25U SpaceBEE            (Swarm Tech)        IoT Comms
+
+The first two of these, Flock 4s-48 and 45, were deployed on Feb 8 and 10; deployments continue.
+
+
+
+YG-31
+-----
+
+The second YG-31 group, Yaogan 31 group 2 (YG-31 hao 02 zu 01,02,03 xing) was launched from Jiuquan
+on Jan 29. The satellites are suspected to be ocean surveillance signals intelligence satellites
+similar to the US Navy/NRO NOSS-PARCAE satellites launched since the 1970s.
+
+SQ-1
+----
+
+The second Shang Quxian 1 (Hyperbola-1) orbital rocket from iSpace
+(Interstellary Glory Space Tech) was launched from Jiuquan on Feb 1, but
+failed to reach orbit. There are some indications that the failure
+occurred during first stage burn. Payload currently unknown; initial reports that the Fangzhou2
+cubesat was aboard were incorrect.
+
+
+This launch, SQ-1 Y2, used a modified version of the rocket with 1.4 m diameter second
+and third stages (Y1 used 1.2m diamaeter for these stages). In GCAT this version will
+be labelled as variant 2.
+
+Lotos-S
+-------
+
+Russia launched a Soyuz-2-1b from Plesetsk on Feb 2 carrying the fifth Lotos-S electronic
+intelligence satellite. As normal for these satellites, it entered a 245 x 899 km x 67.1 deg
+orbit and then circularized to 901 x 910 km on Feb  8.
+The satellite will probably get the cover name Kosmos-2549.
+
+TJS 6
+-----
+
+China's CALT launched a CZ-3B on Feb 4 with the TJS 6 satellite. TJS 6 is thought to be a cover name
+for the Huoyan-3 early warning satellite. By Feb 19 the satellite reached geostationary orbit
+at 178.5E.
+
+Mars
+----
+
+The UAE's Misabar Al'amal (Hope Probe) spacecraft entered  Mars'
+gravitational sphere of influence at 0236 UTC Feb 5 and went into orbit
+around Mars at 1737 UTC Feb 9 with the completion of its orbit insertion
+burn.  Orbit was expected to be about 1000 x 49380 km x 19.6 deg.
+China's Tianwen-1 entered the sphere of influence at 1435 UTC Feb 5 and
+completed Mars orbit insertion at 1208 UTC Feb 10.  Orbit was 445 x
+180011 km x 10.4 deg; on Feb 15 it changed its orbit to 278 x 181532 km
+x 87.3 deg and on Feb 20 to 278 x 84591 km x 87.7 deg.
+
+The Mars 2020 spacecraft, with the Perseverance rover, entered Mars' gravitational sphere at 0200 UTC
+Feb 14, on a -85 x -19810 km x 23.0 deg hyperbolic impact trajectory.
+It arrived on Mars on Feb 18:
+  At 2026:46 UTC, the cruise stage was jettisoned at 1600 km altitude 
+  At 2028:48 UTC, two 70 kg cruse mass balance devices were jettisoned at 1258 km altitude.
+  At 2036:52 UTC, the vehicle aeroshell reached entry interface at 5.4 km/s velocity, 125 km altitude.
+  At 2040:39 UTC, six smaller balance masses (about 25 kg each) were ejected at 21 km altitude.
+  At 2040:55 UTC the main parachute was deployed, 11 km up.
+  At 2041:17 UTC the aeroshell (heat shield) was ejected at 10 km.
+  At 2042:42 UTC the backshell and its attached parachute were ejected at 2.2 km.
+  At 2043:26 UTC the descent stage (skycrane) separated from the rover, lowering it on cables. 
+  At 2043:42 UTC the descent stage performed a flyaway maneuver and the rover landed on the surface.
+  At 2043:49 UTC the descent stage shut off its engines and crashed nearby shortly theareafter
+The rover and helicopter are reported to be healthy, and the rover continues to return images
+from the surface. By my estimates,
+  Rover landing location was around 77.4508E 18.4446N in Jezero Crater on the edge of Isidis Planitia
+  Heat shield:                      77.4741E 18.4553N
+  Backshell:                        77.7418E 18.4516N
+  Descent stage:                    77.4419E 18.4522N
+
+
+Starlink
+--------
+
+Starlink launches on 2021 Feb 4 and Feb 16 each placed 60 more Starlink satellites in orbit.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name                           Launch Vehicle      Site            Mission  INTL.  Catalog  Perigee Apogee  Incl   Notes
+
+Jan  8 0215   Turksat 5A                        Falcon 9           Canaveral LC40 Comms    01A  S47306   288 x 55049 x 17.7
+Jan 17 1938   CACTUS 1    )                                                        Tech    02            492 x 518 x 60.7
+              CAPE 3      )                     LauncherOne  Cosmic Girl, Pacific  Tech    02A  S47309   490 x 519 x 60.7
+              ExoCube 2   )                                                        Tech    02L  S47319   490 x 516 x 60.7
+              MiTEE 1     )                                                        Tech    02F  S47314   489 x 509 x 60.7
+              PolarCube   )                                                        Tech    02
+              Q-PACE      )                                                        Tech    02
+              TechEdSat-7 )                                                        Tech    02   S47312?   489 x 513 x 60.7
+              RadFxSat-2  )                                                        Tech    02C  S47311    493 x 511 x 60.6
+              PICS 1      )                                                        Tech    02
+              PICS 2      )                                                        Tech    02
+              Prometheus 2.8 )                                                     Comms   02E  S47313    493 x 514 x 60.7
+              Prometheus 2.11)                                                     Comms   02N  S47345    489 x 512 x 60.7
+Jan 19 1625   Tiantong-1 03                     Chang Zheng 3B     Xichang         Comms   03A  S47321   182 x 35815 x 28.5
+Jan 20 0726   GMS-T                             Electron           Mahia LC1       Comms   04A  S47346  1140 x 1281 x 89.9
+Jan 20 1302   Starlink 1952     )               Falcon 9           Kennedy LC39A   Comms   05   S47349-  256 x 284 x 53.0
+              Starlink 2011     )                                                               S47408
+              Starlink 2017     )
+              Starlink 2034     )
+              Starlink 2045-2047)
+              Starlink 2049-2050)
+              Starlink 2055     )
+              Starlink 2069-2071)
+              Starlink 2076-2077)
+              Starlink 2079-2082)
+              Starlink 2084-2086)
+              Starlink 2088-2089)
+              Starlink 2092-2094)
+              Starlink 2096-2106)
+              Starlink 2108-2115)
+              Starlink 2117-2124)
+              Starlink 2127-2128)
+              Starlink 2130     )
+              Starlink 2133-2135)
+Jan 24 1500   Transporter-1         )                                                Deployer 06
+              Starlink 2199-2208    )           Falcon 9           Canaveral LC40    Comms    06A-K        517 x 536 x 97.5
+              ION SVC LAURENTIUS    )                                                Deployer 06CV S47504  523 x 537 x 97.5
+              SHERPA-FX 1           )                                                Deployer 06
+              Izanami QPS-SAR-2     )                                                Radar    06CA S47485  522 x 537 x 97.5
+              Capella-3/Whitney     )                                                Radar    06CE S47489  532 x 559 x 97.5
+              Capella-4/Whitney     )                                                Radar    06BW S47481  521 x 537 x 97.5
+              ICEYE X8              )                                                Radar    06DB S47510  524 x 537 x 97.5
+              ICEYE X9              )                                                Radar    06CX S47506  523 x 537 x 97.5
+              XR 1                  )                                                Radar    06CY S47507  523 x 537 x 97.5
+              V-3RX 1               )                                                Tech     06
+              V-3RX 2               )                                                Tech     06
+              V-3RX 3               )                                                Tech     06
+              GHGSat Hugo           )                                                Science  06DA S47509  524 x 537 x 97.5
+              Flock-4s 1 to 36      )                                                Imaging  06
+              Flock-4s 37 to 40     )                                                Imaging  06
+              Kepler-8 /Amarok      )                                               IoT Comms 06BR S47476  525 x 537 x 97.5
+              Kepler-9 /Artemis     )                                               IoT Comms 06DX S47531  525 x 537 x 97.5
+              Kepler-10/Baby Yoda   )                                               IoT Comms 06CS S47501  521 x 536 x 97.5
+              Kepler-11/Daneel      )                                               IoT Comms 06CU S47503  523 x 536 x 97.5
+              Kepler-12/Boba        )                                               IoT Comms 06AK S47446  531 x 555 x 97.5
+              Kepler-13/Lucky       )                                               IoT Comms 06AT S47454  529 x 536 x 97.5
+              Kepler-14             )                                               IoT Comms 06
+              Kepler-15/sudo rm -rf )                                               IoT Comms 06BA S47461   526 x 537 x 97.5
+              UVSQ-SAT              )                                                Science  06AB?S47438?  518 x 537 x 97.5
+              Yushan Weixing        )                                                Comms    06AC S47439   519 x 537 x 97.5
+              Feishu Weixing        )                                                Science  06AX S47458   520 x 537 x 97.5
+              ASELSAT               )                                                Tech     06
+              PIXL 1                )                                                Tech     06
+              SOMP 2b               )                                                Science  06AJ S47445   519 x 537 x 97.5
+              Hiber 4               )                                               IoT Comms 06EB S47541   520 x 537 x 97.5
+              Aurora Insight Charlie)                                            RF Spectrum  06AD S47440   522 x 535 x 97.5
+              Lemur-2-Neva          )                                            AIS/GNSS Met 06AP S47450   520 x 537 x 97.5
+              Lemur-2-NallyWacker   )                                            AIS/GNSS Met 06AW S47457   520 x 537 x 97.5
+              Lemur-2-Ruari-Elidh   )                                            AIS/GNSS Met 06DC S47511   524 x 537 x 97.5
+              Lemur-2-JenniferSong  )                                            AIS/GNSS Met 06DR S47525   520 x 537 x 97.5
+              Lemur-2-Chantal       )                                            AIS/GNSS Met 06DV S47529   525 x 537 x 97.5
+              Lemur-2-SaoirseDH5Guo )                                            AIS/GNSS Met 06AS S47453   521 x 537 x 97.5
+              Lemur-2-NoobNoob      )                                            AIS/GNSS Met 06DY S47538   520 x 537 x 97.5
+              Lemur-2-Mango1        )                                            AIS/GNSS Met 06CJ S47493   520 x 537 x 97.5
+              SpaceBEE-40 to 63     )                                               IoT Comms 06
+Jan 24 1800?  Hawk 2A  )                                          Sherpa-FX1, LEO RF Spectrum 06CW S47505   525 x 536 x 97.5
+              Hawk 2B  )                                                          RF Spectrum 06CZ S47508   525 x 536 x 97.5
+              Hawk 2C  )                                                          RF Spectrum 06CT S47502   525 x 536 x 97.5
+Jan 24 1813   Astrocast-1.x1 )                                    Sherpa-FX1, LEO   IoT Comms 06T  S47430   524 x 535 x 97.5
+              Astrocast-1.x2 )                                                      IoT Comms 06CD S47488   524 x 535 x 97.5
+Jan 24 1904   Astrocast-1.x3 )                                    Sherpa-FX1, LEO   IoT Comms 06CC S47487   524 x 535 x 97.5
+              Astrocast-1.x4 )                                                      IoT Comms 06DK S47519   524 x 535 x 97.5
+              Astrocast-1.x5 )                                                      IoT Comms 06DH S47517   524 x 535 x 97.5
+Jan 24 1915?  Prometheus 2.10                                     Sherpa-FX1, LEO   Comms     06
+Jan 24 1915?  ARCE 1A  )                                          Sherpa-FX1, LEO   Tech      06
+              ARCE 1B  )                                                            Tech      06
+              ARCE 1C  )                                                            Tech      06
+Jan 24 1927   PTD-1                                               Sherpa-FX1, LEO   Tech      06
+Jan 29 0447   Yaogan 31 hao 02 zu 01 xing)     Chang Zheng 4C      Jiuquan          Sigint    07A S47532  1091 x 1096 x 63.4
+              Yaogan 31 hao 02 zu 02 xing)                                          Sigint    07B S47533  1091 x 1096 x 63.4
+              Yaogan 31 hao 02 zu 03 xing)                                          Sigint    07C S47536  1091 x 1096 x 63.4
+Feb  1 0815?  Test payload?                    Shang Quxian 1      Jiuquan          Tech      F01 F01578 -6300?x   10?x 97?
+Feb  2 2045   Kosmos-2549?                     Soyuz-2-1b          Plesetsk LC43/4  Sigint    08A S47546   240 x  899 x 67.1
+Feb  4 0619   Starlink 1702     )              Falcon 9            Canaveral SLC40  Comms     09  S47548-  251 x  292 x 53.0
+              Starlink 1806     )                                                                 S47607
+              Starlink 1909     )
+              Starlink 1938     )
+              Starlink 1940     )
+              Starlink 1951     )
+              Starlink 1953-1971)
+              Starlink 1975-1982)
+              Starlink 1984     )
+              Starlink 1986-1991)
+              Starlink 1993-2008)
+              Starlink 2021-2025)
+Feb  4 1536   Tongxin Jishu Shiyan 6          Chang Zheng 3B     Xichang LC3      Early Warn? 10A  S47613   195x x 35811 x 28.5     
+Feb  8 1232   Flock 4s-48                                       ION-SCV 2, LEO      Imaging   06EJ S47617   523 x 541 x 97.5
+Feb 10 1022   Flock 4s-45                                       ION-SCV 2, LEO      Imaging   06EP S47688   523 x 541 x 97.5
+Feb 13 1200   Flock 4s-46                                       ION-SCV 2, LEO      Imaging   06EK S47684   523 x 541 x 97.5
+Feb 14 1027   Flock 4s-47                                       ION-SCV 2, LEO      Imaging   06EL S47685   523 x 541 x 97.5
+Feb 15 0445   Progress MS-16                   Soyuz-2-1a        Baykonur LC31      Cargo     11A S47618   190 x 221 x 51.6 
+Feb 16 0400   Starlink 1528                     Falcon 9          Canaveral SLC40    Comms    12 S47667-   257 x 282 x 53.0
+              Starlink 1609                                                                      S47680               
+              Starlink 1645
+              Starlink 1669
+              Starlink 1704
+              Starlink 1761
+              Starlink 1972-1974
+              Starlink 1983
+              Starlink 1985
+              Starlink 1992
+              Starlink 2009-2010
+              Starlink 2012-2016
+              Starlink 2018-2020
+              Starlink 2022
+              Starlink 2026-2028
+              Starlink 2030-2033
+              Starlink 2035-2044
+              Starlink 2051-2054
+              Starlink 2056-2060
+              Starlink 2062
+              Starlink 2064-2067
+              Starlink 2078
+              Starlink 2083
+              Starlink 2090-2091
+              Starlink 2095
+Feb 16 1006   Flock 4s-44                                       ION-SCV 2, LEO      Imaging   06EM S47686  520 x 538 x 97.5
+Feb 17 0956   Flock 4s-43                                       ION-SCV 2, LEO      Imaging   06EN S47687  520 x 538 x 97.5
+Feb 20 1736   S.S. Katherine Johnson )        Antares 230+       Wallops Pad 0A     Cargo     13A  S47689  170 x 320 x 51.7
+              ThinSat 2A             )                                              Tech      13   A09696  170?x 320?x 51.6
+              ThinSat 2B             )                                              Tech      13   A09697  170?x 320?x 51.6
+              ThinSat 2C             )                                              Tech      13   A09698  170?x 320?x 51.6
+              ThinSat 2D             )                                              Tech      13   A09699  170?x 320?x 51.6
+              ThinSat 2E             )                                              Tech      13   A09700  170?x 320?x 51.6
+              ThinSat 2F             )                                              Tech      13   A09701  170?x 320?x 51.6
+              ThinSat 2G             )                                              Tech      13   A09702  170?x 320?x 51.6
+              ThinSat 2H             )                                              Tech      13   A09703  170?x 320?x 51.6
+              ThinSat 2I             )                                              Tech      13   A09704  170?x 320?x 51.6
+Feb 18 0946   Flock 4s-42                                       ION-SCV 2, LEO      Imaging   06EQ S47612  520 x 538 x 97.5
+Feb 19 1011   Flock 4s-41                                       ION-SCV 2, LEO      Imaging   06
+
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Iran test-flew its new Zoljanah space launch vehicle on a suborbital mission at some point on or
+prior to Feb 1. Iran often announces such tests days or weeks after the event.
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+
+Jan 14 1717   RSS First Step    New Shepard        West Texas            Test          106       West Texas
+Jan 16        Sejjil RV         Sejjil             Garmsar, Iran         Op. Test      800?      Indian Ocean
+Jan 16        Sejjil RV         Sejjil             Garmsar, Iran         Op. Test      800?      Indian Ocean
+Jan 16        Sejjil RV         Sejjil             Garmsar, Iran         Op. Test      800?      Indian Ocean
+Jan 16        Emad RV           Emad               Garmsar, Iran         Op. Test      400?      Indian Ocean
+Jan 16        Emad RV           Emad               Garmsar, Iran         Op. Test      400?      Indian Ocean
+Jan 16        Ghadr RV          Ghadr              Garmsar, Iran         Op. Test      400?      Indian Ocean
+Jan 20        RV                Shaheen 3          Somniani?             Test          500?      Arabian Sea
+Jan?          Test payload      Zoljanah           Shahrud?              Test          500?      Arabian Sea
+Feb  3        RV                Ghaznavi           Somniani?             Test           80?      Arabian Sea?
+Feb  4        ABM Target        B-611?             Taiyuan               Test          200?      Urumqi        
+Feb  4        Interceptor       DF-21?             Urumqi?               Interceptor   100?      Takla Makan
+Feb  5 0905   OS-X6B            OS-X6B             Jiuquan?              Test          300       Jiuquan?
+Feb  9 2330   USN RV            Trident II        Sub, 76W 28N           Op. Test     1000?      S Atlantic
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

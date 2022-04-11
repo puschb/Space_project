@@ -1,0 +1,126 @@
+Jonathan's Space Report
+No. 400                                        1999 Jun 6  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Human spaceflight
+-------------------
+
+The first Shuttle mission of the year, STS-96, took off on May 27 at
+1049 UTC. After solid rocket booster separation at 1051 UTC, main engine
+cutoff at 1057 UTC, and separation of external tank ET-100, Discovery
+was in a 74 x 320 km x 51.6 deg transfer orbit. After the OMS-2 burn at
+1132 UTC, the orbit was 324 x 341 km x 51.6 deg. Discovery docked with
+the International Space Station's PMA-2 docking port at 0424 UTC on May
+29. ISS was in a 379 x 385 km x 51.6 deg orbit. In its current
+configuration, it consists of the PMA-2 docking port, NASA's Unity node,
+the NASA-owned, Russian-built Zarya module, and the PMA-1 docking unit
+connecting Unity and Zarya.
+
+On May 30 at 0256 UTC Tammy Jernigan and Dan Barry entered the payload
+bay of Discovery from the tunnel adapter hatch, and made a 7hr 55min
+spacewalk, transferring equipment to the exterior of the station. On May
+31 at 0115 UTC the hatch to Unity was opened and the crew began several
+days of cargo transfers to the station. Battery units and communications
+equipment were replaced and sound insulation was added to Zarya.
+Discovery undocked from ISS at 2239 UTC on Jun 3 into a 385 x 399 km x
+51.6 deg orbit, leaving the station without a crew aboard. At 0721 UTC
+on Jun 5 the Starshine satellite was ejected into a 379 x 396 km x 51.6
+deg orbit from a canister at the rear of Discovery's payload bay.  The
+small Starshine satellite, built by NRL, will be observed by students as
+part of an educational exercise. The payload bay doors were closed at
+around 0215 UTC on Jun 6 and the deorbit burn was at 0454 UTC. Discovery
+landed on runway 15 at Kennedy Space Center at 0602 UTC.
+
+It looks like the Mir space station might be abandoned in August, after
+the current crew completes its mission. Energiya hasn't managed to find
+funding to continue the program, although it wouldn't astonish me if the
+decision to shut Mir down was reversed yet again. Mir was launched in
+February 1986. If the Mir crew return without replacement before
+permanent occupation of ISS begins next year, there will be no humans in
+space for the first time since September 1989.
+
+
+STS-93/Chandra
+---------------
+
+The Chandra spacecraft was connected to the IUS-27 upper stage on Jun 3,
+in the Vertical Processing Facility at Kennedy Space Center. On the same
+day, Columbia was towed from the Orbiter Processing Facility to the
+Vehicle Assembly Building and then connected to its external tank and
+solid rocket boosters to complete the STS-93 stack. The stack will be
+rolled out to the launch pad on Jun 7 and prepared for a launch in late
+July (the exact date is still being argued about).
+
+Recent Launches
+---------------
+
+The NRO satellite launched on May 22 was placed in an initial 200 x 293
+km x 63.4 deg orbit. It probably contains its own propulsion system to
+raise the orbit. My best guess now is that the payload is an NRL Titan
+Launch Dispenser which will deploy three ocean surveillance
+subsatellites in an 1100 km orbit, or a Satellite Data Systems comsat
+which will be placed by a kick motor into a Molniya-type elliptical
+orbit.
+
+India launched its Polar Satellite Launch Vehicle from Sriharikota on
+May 26. PSLV-C2 launched the Oceansat (IRS-P4) satellite and two small
+subsatellites, Korea's Kitsat-3 and Germany's DLR-Tubsat-C.  PSLV has a
+solid stage 1 and stage 3 with a liquid stage 2 using an Ariane-derived
+Vikas engine and a fourth stage with two small liquid engines.
+
+The Indian Space Research Organization (ISRO) IRS-P4 is a 1036 kg remote
+sensing satellite with an ocean color imager experiment. The 110 kg
+Kitsat-3 is built by the Korea Advanced Inst. of Technology (KAIST)
+(earlier Kitsats were built in collaboration with Surrey Satellite) and
+carries a small earth imager. The 45 kg DLR-Tubsat-C was built by the
+Technical University of Berlin for the German space agency DLR, and also
+carries an imager.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  5 0100   Orion 3           Delta 8930     Canaveral SLC17B Comsat     24A
+May 10 0133   Feng Yun 1C )     CZ-4B          Taiyuan          Imaging    25A
+              Shi Jian 5  )                                     Research   25B
+May 18 0509   TERRIERS    )     Pegasus XL/H   Vandenberg       Space sci  26A	
+              MUBLCOM     )                                     Comsat     26B
+May 20 2230   Nimiq 1           Proton-K/DM3   Baykonur LC81    Comsat     27A
+May 22 0936   USA 144?          Titan 4        Vandenberg SLC4E Unknown    28A
+May 26 0622   OceanSat 1  )     PSLV           Sriharikota      Imaging    29A
+              Kitsat-3    )                                     Imaging    29B
+              DLR-Tubsat-C)                                     Imaging    29C
+May 27 1049   Discovery   )     Shuttle        Kennedy LC39B    Spaceship  30A
+              Spacehab-DM ) 
+Jun  5 0721   Starshine         -              OV-103, LEO      Education  30B
+
+              
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        VAB Bay 1     STS-93  NET Jul 18
+OV-103 Discovery       KSC RW15      STS-96  May 27
+OV-104 Atlantis        OPF Bay 3     STS-101 Oct 14
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99/OV-102      VAB Bay 1   STS-93
+MLP2/                          
+MLP3/RSRM-71?                  VAB Bay 3   STS-99
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

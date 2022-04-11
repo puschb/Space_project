@@ -1,0 +1,135 @@
+Jonathan's Space Report
+No. 286                       1996 May 8                Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The Progress M-31 cargo ship, spacecraft No. 231, was launched on May 5
+It will deliver 1140 kg of fuel and 1700 kg of cargo to the Mir complex.
+The Progress is a modified Soyuz with a fuel tank in place of the
+descent module, and is built by RKK Energiya for the Russian Space
+Agency.
+
+The Progress docked at the -X port on Mir at 0854 UTC on May 7 according
+to an AP report. On Apr 27 the Priroda (spacecraft No. 77KSI) module was
+rotated from -X to +Z. The batteries used to power Priroda on its trip
+to Mir have been removed from the module and will be placed in Progress
+M-31 for disposal during reentry. Mir crew Yuriy Onufrienko, Yuriy
+Usachyov and Shannon Lucid will remain on the station until August.
+
+Endeavour remains on pad 39B as preparations for the launch of STS-77
+continue. Launch is now set for May 19. Meanwhile, the external tank and
+solid boosters for STS-78 have been connected.
+
+New NASA Astronauts
+-------------------
+
+A new group of 35 NASA astronaut candidates has been selected. This
+equals the 1978 group as the largest selection ever. There are ten
+pilots and 25 mission specialists; eight of the mission specialists are
+women. Three of the pilots are surnamed Kelly, two of them being twins -
+Mark and Scott Kelly, both Navy lieutenants.  Half the pilots are
+currently at the Navy test pilot base at Patuxent River, Maryland, which
+has sent many people on to the astronaut office. The other traditional
+source, the Air Force test pilot base at Edwards, generated only one
+pilot and one mission specialist this time around. Of the civilians, one
+comes from Orbital Sciences Corp.'s Pegasus rocket program, two from Los
+Alamos, and two from Georgia Tech. The remainder are from NASA related
+centers: three from JSC (Houston), two from Kennedy, two from Goddard,
+and one each from Langley and JPL. This is a bit broader than some
+earlier selections which tended to pick almost all the civilians from
+JSC. All the new candidates were born in the USA except for GSFC's Dr.
+Piers Sellers who was born in England.  None of the previous (1994)
+group of astronauts has yet been selected for a mission.
+
+Recent Launches
+---------------
+
+Lockheed Martin's Atlas I Centaur flight AC-78 was launched on Apr 30
+from Cape Canaveral. AC-78's Centaur second stage made two burns, the
+second changing the orbital plane to lower the inclination to the equator,
+delivering its payload to a 581 x 605 km x 4.0 deg orbit.
+This is probably the lowest inclination payload launched from Cape
+Canaveral with the exception of geostationary missions.
+
+The AC-78 payload was SAX, the Italian Space Agency's Satellite per
+Astronomia a raggi X. SAX carries a set of 30 nested, gold coated
+concentrators with detectors to study the spectrum of X-ray sources over
+a wide energy range, from photon energies of 0.1 to 200 keV and an
+approximately 1 degree field of view. Three Xenon gas scintillation
+proportional counters (GSPCs) study the 1-10 keV range, while a fourth,
+the LEGSPC, studies the 0.1-1 keV range. A High Pressure GSPC (HPGSPC)
+coveres the hard X-ray range of 3-120 keV, while the PDS (Phoswich
+Detector System) is sensitive up to 200 keV. All of these instruments
+are in the focal plane of the X-ray concentrator telescope. They don't
+have the collecting area of the Rossi X-ray Timing Explorer, but they
+have better spatial resolution since Rossi doesn't have an imaging
+telescope. Previous missions like Einstein, ROSAT and Rossi don't cover
+the full X-ray energy range (Einstein and ROSAT didn't have the hard
+energies, Rossi and Asuka don't have the soft energies), and X-ray
+sources are so variable that if you want to have the big picture you
+need get the whole range simultaneously, so SAX fills an important
+niche. An auxiliary coded mask telescope pointing out to the side uses
+Dutch-built Wide Field Cameras to study a much larger 20 degree field 
+of view for monitoring transient sources in the 2-30 keV range. The
+Dutch NIVR space agency collaborates with ASI (Agenzia Spaziale
+Italiano) on the SAX project, as well as  the European Space Agency's
+ESTEC research center, also in Holland, which built the LEGSPC. SAX was
+built by the Italian company Alenia.
+
+
+The classified satellite launched on Apr 24 is probably an advanced
+version of the VORTEX signals intelligence spacecraft. The launch
+vehicle used powerful twin solid rocket motors built by UTC-CSD. These
+separated two minutes into flight from the liquid-propellant Lockheed
+Martin  (orig. Martin Marietta) Titan K-16 two-stage core vehicle. The
+23-m payload shroud separated at about four minutes after launch. At
+about nine minutes into flight the Lockheed Martin (orig. General
+Dynamics) Centaur TC-15 upper stage ignited in the first of three burns
+to geostationary orbit. The payload designation has now been
+confirmed as USA 118.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Apr  3 2301   Inmarsat III F1  Atlas IIA      Canaveral LC36  Comsat      20A
+Apr  8 2309   Astra 1F         Proton-K/DM2   Baykonur        Comsat      21A
+Apr 20 2236   M-SAT 1          Ariane 42P     Kourou ELA2     Comsat      22A
+Apr 23 1148   Priroda          Proton-K       Baykonur        Spaceship   23A
+Apr 24 1227   MSX              Delta 7920     Vandenberg SLC2W Mil.tech.  24A 
+Apr 24 1303   Kosmos-2332      Kosmos-3M      Plesetsk        Radar cal   25A
+Apr 24 2337   USA-118          Titan 401      Canaveral LC41  Sigint      26A
+Apr 30 0431   SAX              Atlas I        Canaveral LC36B Astronomy   27A
+May  5 0704   Progress M-31    Soyuz-U        Baykonur        Cargo       28A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-78  Jun 27
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-79  Jul 31
+OV-105 Endeavour       LC39B         STS-77  May 19
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-47/ET-78/OV-105  LC39B       STS-77
+ML2/RSRM-54            VAB Bay 1      STS-79
+ML3/RSRM-55/ET-79      VAB Bay 3      STS-78
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,185 @@
+Jonathan's Space Report
+No. 680                                                      2013 Jun 12, Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+Soyuz TMA-09M was launched on May 28 carrying Fyodor Yurchikin, Karen
+Nyberg and Luca Parmitano. Launched into a 194 x 227 km x 51.7 deg
+orbit, it manoeuvred several times and reached a 408 x 421 km orbit for
+final approach to ISS, docking with the Rassvet  module at 0210 UTC May
+29 after a 5 hr 39min flight, the fastest ascent to ISS to date (see
+discussion in JSR 677).
+
+On Jun 5 the fourth Automated Transfer Vehicle, ATV 4, was launched from Kourou.
+The cargo ship was named `Albert Einstein' - not to be confused with the Einstein
+Observatory satellite launched in 1978. Launch mass was 19870 kg at separation
+from the upper stage.
+
+The Ariane 5ES rocket entered a -1242 x 141 km transfer orbit at 2200
+UTC. The first EPS upper stage burn reached 137 x 260 km at 2209 UTC.
+The second burn at 2251 UTC  raised perigee, and the EPS stage separated
+from ATV 4 'Albert Einstein' at 2256 UTC. The ATV will take ten days to
+complete the rendezvous with ISS.
+On Jun 10 Albert Einstein maneuvered to a 287 x 301 km orbit.
+
+Progress M-19M undocked from the Zvezda module at 1358 UTC on Jun 11, making room
+for ATV, and entered a 416 x 456 km orbit for Radar-Progress ionospheric
+experiments.
+
+Expedition 36 is underway. The crew are commander Pavel Vinogradov, 
+Flight Engineers FE-2 Alexandr Misurkin, FE-3 Chris Cassidy, FE-4
+Yurchikin, FE-5 Parmitano and FE-6 Nyberg. Ferry ship Soyuz TMA-08M is
+at Poisk and TMA-09M at Rassvet. Cargo ship Progress M-18M is at the
+Pirs module.
+
+
+Shenzhou 10
+-----------
+
+China's Shenzhou 10 spaceship was launched on Jun 11, carrying three
+astronauts. Shenzhou 10 Commander (zhiling zhang) is Maj-Gen. Nie Haisheng;
+Operator (caozuo shou) is Air Force Lt-Col. Zhang Xiaoguang, and 
+Experiment Officer (shiyan yuan) is Air Force Major Wang Yaping.
+Shenzhou 10 reached a 198 x 310 km orbit, soon raised to 260 x 313 km
+on its way to a rendezvous with the Tiangong-1 spacelab.
+
+WGS 5
+-----
+
+A United Launch Alliance Delta 4 rocket placed the WGS 5 satellite in
+supersynchronous geostationary transfer orbit on May 25. The Wideband
+Gapfiller Satellite provides communications for the US military, and is
+built by Boeing/El Segundo using the BSS702 bus. The Delta 4 reached a
+185 x 6880 km x 25.6 deg parking orbit at 0047 UTC and then restarted to
+achieve a 439 x 66900 km x 24.0 deg orbit at 0058 UTC, deploying the
+satellite at 0107 UTC. (Orbit details from spaceflightnow.com).
+The satellite will probably raise perigee to an orbit of around  35000 x 67000 km,
+while lowering inclination,
+and then lower apogee to reach the target 35780 km equatorial
+geostationary orbit, but orbit data is not being made public.
+
+SES-6
+-----
+
+A Proton was launched from Baykonur on Jun 3 carrying the SES-6
+satellite. The Briz-M stage made five burns from -496 x 171 km x 51.5
+deg to 173 x 173 km x 51.5 deg, 295 x 6000 km x 51.0 deg, 360 x 14911 km
+x 50.8 deg, 475 x 65044 km x 50.5 deg, and finally to a 4461 x 65024 km
+x 26.4 deg supersynchronous transfer orbit. The payload separated
+at 0049 UTC on Jun 4.
+
+SES-6 is a Eurostar 3000 satellite with a mass of 6140 kg at launch.
+Procured by SES Satellite Leasing of the Isle of Man, it will be operated
+by SES World Skies of the Hague, also a subsidiary of the Luxembourg-based SES
+conglomerate.
+
+Persona
+-------
+
+Russia launched a Persona spy satellite on June 7. After insertion into
+an initial 186 x 679 km x 98.3 deg orbit it was given the cover name
+Kosmos-2486  (Kosmos-2485 was the Glonass launch in April). On Jun 11
+the satellite maneuvered into a 714 x 732 km circular sun-synchronous
+orbit with 1031 local time descending node.
+
+
+GPS IIF
+-------
+
+Thanks to Richard Langley for passing on info from Boeing spokesperson
+Paula Shawa - the Boeing nickname for GPS IIF-1/SVN62 was, appropriately
+enough, Polaris. 
+
+The Block IIF satellites are built by Boeing/El Segundo and have a
+launch mass of around 1630 kg (including an unknown amount of
+propellant); they are 2.5m high and have a solar panel span of about
+18m. The IIF navigation payloads carry atomic clocks and broadcast
+L-band navigation signals in the L1M, L2M, L2C  and L5 channels; they
+also carry sensors to detect nuclear explosions as part of an early
+warning system. The IIF system replaces earlier  Block I, Block II, and
+IIA series built by  Rockwell/Seal Beach (now part of Boeing) and Block
+IIR satellites built by Lockheed Martin/Valley Forge.
+
+Erratum
+--------
+
+In JSR 679, the inclination of the intermediate Eutelsat 3D/Briz-M orbit
+should of course have read 18.0 deg, not 180 deg.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+May  1 1606   Zhongxing-11       Chang Zheng 3B/E Xichang           Comms       20A
+May  7 0206   Proba-V     )                                         Imaging     21A
+              VNREDSAT-1  )      Vega             Kourou ZLV        Imaging     21B
+              ESTCube-1   )                                         Tech        21C
+May 13 1258   Kunpeng-7        Unknown (DF-31?)    Xichang        Magnetosphere U01
+May 14 1601   Eutelsat 3D        Proton-M/Briz-M  Baykonur LC200/39 Comms       22A
+May 15 2138   GPS SVN 66         Atlas V 401      Canaveral SLC41   Nav         23A
+May 25 0027   WGS 5              Delta 4M+(5,4)   Canaveral SLC37B  Comms       24A
+May 28 2031   Soyuz TMA-09M      Soyuz-FG         Baykonur          Spaceship   25A
+Jun  3 0918   SES-6              Proton-M/Briz-M  Baykonur LC200/39 Comms       26A
+Jun  5 2152   ATV-4              Ariane 5ES       Kourou ELA3       Cargo       27A
+Jun  7 1837   Kosmos-2486        Soyuz-2-1B       Plesetsk LC43/4   Imaging     28A
+Jun 11 0938   Shenzhou 10        Chang Zheng 2F   Jiuquan           Spaceship   29A
+
+Suborbital launches
+-------------------
+
+On May 22 the US Air Force launched a Minuteman 3 missile from Vandenberg Air Force
+Base, California. The reentry vehicle splashed down in Kwajalein Atoll.
+
+On Jun 6, flight NASA 40.030UG saw the launch of the CIBER near infrared telescope to its
+highest ever altitude, to minimize atmospheric emissions contaminating its observations
+of the cosmic extragalactic background light. The CIBER payload fell in the Atlantic
+as planned, and was not recovered. CIBER observes in the 0.8-2 micron band.
+The three earlier flights of CIBER were on Black Brant IX rockets from White Sands,
+with the payload being recovered from the desert.
+
+     CIBER 1  NASA 36.226UG  2009 Feb 25
+     CIBER 2  NASA 36.265UG  2010 Jul 11
+     CIBER 3  NASA 36.277UG  2012 Mar 22
+     CIBER 4  NASA 40.030UG  2013 Jun  6
+
+Also on Jun 6, the Russian Strategic Rocket Forces carried out a test
+launch of a new-generation Rubezh (`Frontier') missile from Kapustin Yar, most likely
+impacting the Balkash test range at Sary Shagan. The new missile is
+suspected to be a derivative of the existing Topol' solid fuel series of
+missiles; earlier launches were in Sep 2011 and May and Oct 2012.
+(Thanks to Andrey Krasil'nikov for providing the link to the Rubezh name
+on nasaspaceflight.com).
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+May  1 0738   NASA 41.100DR    Terrier Imp. Orion  Roi-Namur         Ionosphere   189
+May  7 0400   REXUS 14         Imp. Orion          Kiruna            Micrograv     81
+May  7 0739   NASA 45.005UE    Terrier Oriole      Roi-Namur         Atmosphere   350?
+May  7 0740   NASA 46.001UE    Terrier Imp.Mal.    Roi-Namur         Atmosphere   350?
+May  9 0400   REXUS 13         Imp. Orion          Kiruna            Micrograv     83
+May  9 0723   NASA 41.102DR    Terrier Imp. Orion  Roi-Namur         Ionosphere   188 
+May 11 0500   FORTIS           Black Brant IX      White Sands       UV Astron    280?
+May 13 1258   Kunpeng-7        Unknown (DF-31?)    Xichang        Magnetosphere 30000?
+May 17 0325   FTM-19 Target    Talos-Castor?       Kauai             Target       300?
+May 17 0330?  Aegis KV         SM-3-1B             USS Lake Erie     Interceptor  150?
+May 22 1327   GT207GM          Minuteman 3         Vandenberg LF04   Op. Test    1300?
+Jun  6 0305   CIBER            Black Brant XII     Wallops           IR Astron    577
+Jun  6 1745   RV               Rubezh              Kapustin Yar      R&D launch  1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

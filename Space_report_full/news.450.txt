@@ -1,0 +1,121 @@
+Jonathan's Space Report
+No. 450                                           2001 Apr 9, Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+Shuttle and Station
+--------------------
+
+The International Space Station remains in operation, with the
+Expedition 2 crew of Usachev, Voss and Helms aboard.
+
+The next Space Shuttle mission is STS-100, scheduled for Apr 19
+using orbiter OV-105 Endeavour. It will carry out International
+Space Station Flight 6A which will continue the outfitting of
+the Station.
+
+Here is an initial estimate of what's in the STS-100 payload
+bay; corrections welcome.
+
+  STS-100 cargo: The JSR guess
+                                               Est. Mass (kg)
+Bay 1-2:     Orbiter Docking System                     1800
+             and External Airlock
+             3 EMU spacesuits (S/N unknown)              360?
+Unknown:     Adapter Beam with                           100?
+                DCSU switching unit
+Bay 5?:      Spacelab Pallet                            1400
+	     with SSRMS (Space Station Remote           1500
+               Manipulator System)
+                  LDA                      
+                  UHF Antenna                             56?
+Bay 8-12?:   Rafaello Module (MPLM-2)                   4800?
+             MPLM racks and cargo                       5400?
+Unknown      Adapter Beam with IMAX Camera               238
+Sill:        Canadarm RMS 303?                           410
+                                                      ------
+                      Total payload bay cargo          16064 kg
+
+Recent Launches
+---------------
+
+The first Krunichev Proton-M was launched at 0447 UTC on Apr 7. The
+improved 3-stage Proton launch vehicle, with a new digital flight
+control system and enhanced first stage engines, delivered its payload
+section to a suborbital trajectory at 0456 UTC. The Briz-M upper stage
+then fired to enter a 200 km parking orbit. Although initial Proton-M
+literature indicated the Briz-M usually uses a further 3 burns to reach
+geostationary orbit, it appears that only two more burns were used on
+this occasion: one at around 0540 UTC to enter a 200 x 35800 km GTO,
+after which the Briz-M toroidal drop tank was probably jettisoned, and
+one at around 1100 UTC, to circularize the orbit at geostationary
+altitude. Briz-M reportedly separated from its payload at 1131 UTC.
+Space Command had not cataloged the three orbiting objects by early Apr
+8. Anatoly Zak tells me he has unconfirmed data that the initial parking
+orbit insertion may have been at 0508 UTC, implying an extremely long
+Briz-M first burn, which may have partly compensated for the lack of an
+intermediate burn.
+
+The payload was Ekran-M No. 18, a UHF television broadcasting satellite
+which will be stationed at 99 deg E. The first Ekran-M was launched in
+1987 replacing the original model Ekrans which were first launched in
+1977, and have provided television service to the Russian Far East since
+that time. The satellite has a launch mass of around 2100 kg and
+will replace Ekran-M No. 20 which was launched in 1992 and is operating
+far beyond its design life.
+
+The 2001 Mars Odyssey probe was launched on Apr 7 into solar orbit.
+Formerly the Mars Surveyor 2001 Orbiter, this is the first spacecraft in
+the revamped NASA Mars Exploration Program. Built by Lockheed Martin
+Astronautics (Denver) and JPL, the satellite is similar to Mars Climate
+Orbiter. It carries a 6-meter boom with a gamma ray spectrometer for
+remote sensing of Martian surface mineralogy, as well as an infrared
+imager and a radiation environment monitor. Mars Odyssey (the "2001"
+seems to be dropped in informal use) will reach Mars orbit in October.
+The probe has a dry mass of 376 kg and carries 349 kg of propellant.
+
+2001 Mars Odyssey was launched by a Boeing Delta 7925 from Cape
+Canaveral and entered a 195 x 215 km x 52 (?) deg parking orbit 10 min
+after launch. After a 12 minute coast the Delta second stage fired again
+and separated from the third stage, which placed the probe on an Earth
+escape trajectory. The second stage's final orbit was 177 x 1805 km x
+40.0 deg, the lowered inclination probably the result of the depletion burn.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  8 1142   Discovery (STS-102) Shuttle      Kennedy LC39B    Spaceship  10A
+              Leonardo                                          Module
+Mar  8 2251   Eurobird  )       Ariane 5G      Kourou ELA3      Commsat    11A
+              BSAT-2a   )                                       Commsat    11B
+Mar 18 2233   XM-2 Rock         Zenit-3SL      Odyssey,Pacific  Commsat    12A
+Apr  7 0447   Ekran-M No. 18    Proton-M       Baykonur LC81/24 Commsat    
+Apr  7 1502   2001 Mars Odyssey Delta 7925     Canaveral SLC17A Mars probe 13A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 1     STS-109 2001 Nov 19  HST SM-3B
+OV-103 Discovery       OPF Bay 2     STS-105 2001 Jul 12  ISS 7A.1
+OV-104 Atlantis        OPF Bay 3     STS-104 2001 Jun  7  ISS 7A
+OV-105 Endeavour       LC39A         STS-100 2001 Apr 19  ISS 6A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

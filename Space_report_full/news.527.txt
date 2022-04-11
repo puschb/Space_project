@@ -1,0 +1,126 @@
+Jonathan's Space Report
+No. 527                                        2004 Jun 2, Denver, Colorado
+-------------------------------------------------------------------------------
+
+At the American Astronomical Society in Denver, the science highlight
+was an all-day session of the spectacular first results from the Spitzer
+Space Telescope. Warmest congratulations to my many friends involved in
+the Spitzer mission. IRAS, the US-UK-Netherlands satellite which flew
+the first significant infrared mission in 1983, wasn't very sensitive,
+even though it cataloged hundreds of thousands of infrared sources. It
+also had poor angular resolution, giving a very fuzzy image of the sky.
+ISO, Europe's follow-on mission in the 1990s, gave excellent results on
+bright sources in our Galaxy but was beset with calibration problems
+which limited its ability to study faint extragalactic objects. Spitzer
+takes far sharper and deeper images, far more sensitive spectra, and 
+appears to be by far the most well calibrated infrared mission to date.
+It has shown itself able to reveal beautiful detail in nearby star
+forming regions and to detect faint and distant galaxies. After multiple
+cutbacks, redesigns and descopes, my friends used to joke that
+SIRTF/Spitzer, the last of NASA's Great Observatories program, was now
+only a 'Pretty Good Observatory' but I think we now have to apologize
+and welcome it fully into  Great Observatory status together with Hubble,
+Chandra, and the deceased Compton.
+
+NASA Administrator Sean O'Keefe, in a speech on Jun 1 to the American
+Astronomical Society meeting in Denver, clarified NASA's new strategy by
+confirming that basic astronomy research remains part of NASA's mission
+- something that had not been entirely clear in the confusion at NASA HQ
+and elsewhere following the presidential announcement of the Exploration
+initiative and the subsequent budget revisions. He mentioned future (and
+recently delayed) research missions such as Constellation X by name -to
+audible sighs of relief from those sitting near me - and acknowledged
+the success of Explorer missions like WMAP. However, things got a bit
+murkier in a later press conference (he did not take questions from the
+astronomer audience) when he was asked whether the astronomical
+community's own assessment of science priorities remained valid.  The
+Decadal Survey study is astronomy's traditional method of avoiding
+internal food fights at budget time by establishing a consensus
+beforehand - in the latest study, prioritizing the JWST and Con-X
+missions. O'Keefe implied that the science community's opinion was only
+one input among many to the priorities for the science program. He
+referred to the new priorities as `a matter of sequencing', which I take
+to be code for saying that planet-finding missions are to be given
+priority over black-hole and early-universe studies at least in the near
+term. (Perhaps he just meant that we need to do the Webb Telescope first
+and then Con-X, but that doesn't explain some of the other budget shifts
+in favor of missions like TPF.) Astronomers at the meeting seemed
+reassured that there seems to be a commitment to carry out the broad
+astrophysics program in the long run, but concerned that the new process
+of mission prioritization appears much less transparent and more
+top-down in contrast to the peer-community involvement of the past. The
+new NASA strategy is still evolving, so it's possible that a more open
+process will emerge.
+
+O'Keefe addressed another specific concern of the astrophysics community,
+the future of the Hubble Space Telescope, by announcing a request for
+proposals for a robotic HST servicing mission. This would leverage
+existing efforts such as the ASTRO/Orbital Express automated rendezvous
+mission and the Canadian SPDM 'robot hand'; in one scenario, a robot
+spacecraft would rendezvous and dock with HST, attaching itself to the
+end of the aft shroud. The basic version would contain a deorbit module
+to remove HST safely from orbit. A second, enhanced version could 
+attach new batteries and gyros to the spacecraft, prolonging its life
+before deorbit. A third version would also use a robot arm to replace
+the WFPC-2 camera with the already-built WFC-3, and possibly open the
+aft shroud to install the COS spectrograph, making Hubble able to take
+spectra of objects 10 times fainter than it is now able to. We'll see
+when the proposals come in whether the third version (the one
+astronomers are interested in!) is plausible. I believe that it is all
+realistic, with the possible exception of the COS installation - the
+astronauts have had some trouble in the past reclosing the doors, and
+I'm not sure how easy it will be for a robot to do this, but maybe it's
+fine. The big issue is the funding - O'Keefe refused to speculate on the
+cost but some rumours talk of a billion-dollar class mission. He did say
+that most of the cost would come from the Exploration budget (rather
+than science) since the point is partly to develop a general capability
+for robotic servicing. 
+
+ESA has completed its report on the Beagle 2 Mars lander failure, but
+the report has not been publicly released. Nevertheless, a press release
+indicates several areas identified as possible contributors to the
+failure: problems due to shocks from pyro firings in spacecraft
+separation events; problematic cross-connected wiring; possible
+collision between the lander and its jettisoned heat shield, and
+possible air bag or parachute failure.
+
+Progress M-49 (spacecraft Progress 7K-TGM No. 249) was launched from
+Baykonur on May 25. The vessel carries cargo for the Space Station,
+including spacesuit Orlan-M No. 27, and is ISS flight 14P.
+The spacecraft docked with the Zvezda module on May 27 at 1355 UTC.
+
+Kosmos-2407, launched on May 28 into a 400 km, 65 degree orbit is
+a US-PU electronic intelligence satellite for the Russian Navy.
+
+The USAF weather satellite DMSP Block 5D-2 F-11 (S-12), launched in 1991
+and retired in 1995, has exploded in orbit with debris objects
+generated. It seems likely the fragmentation was due to either a battery
+explosion or to residual fuel in the attitude control system.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Apr 16 0045   Superbird 6       Atlas IIAS      Canaveral SLC36A  Comms      11A
+Apr 18 1559   Shiyan 1 )        CZ-2C           Xichang           Imaging    12A  
+              Naxing 1 )                                          Tech       12
+Apr 19 0319   Soyuz TMA-4       Soyuz-FG        Baykonur LC1      Spaceship  13A
+Apr 20 1657   Gravity Probe B   Delta 7920      Vandenberg SLC2W  Science    14A
+Apr 26 2037   Ekspress AM-11    Proton-K/DM-01  Baykonur LC200/39 Comms      15A
+May  4 1242   DirecTV-7S        Zenit-3SL       Odyssey, Pacific  Comms      16A 
+May 19 2222   AMC-11            Atlas IIAS      Canaveral SLC36B  Comms      17A
+May 20 1747   ROCSAT-2          Taurus          Vandenberg 576-E  Imaging    18A
+May 25 1234   Progress M-49     Soyuz-U         Baykonur LC1      Cargo      19A
+May 28 0600   Kosmos-2407       Tsiklon-2       Baykonur LC90/20  Sigint     20A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

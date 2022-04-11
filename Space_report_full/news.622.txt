@@ -1,0 +1,258 @@
+Jonathan's Space Report
+No. 622                                             2010 Feb 5  Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 22 crew currently consists of Jeff Williams, Maksim
+Suraev, Oleg Kotov, T.J. Creamer and Soichi Noguchi. 
+Soyuz TMA-16 is docked at Poisk; Soyuz TMA-17 is
+docked with the nadir port on Zarya, Progress M-03M is at the Pirs port,
+and the PMA-2 port is empty. Progress M-04M was launched on Feb 3
+and docked with the Zvezda aft port at 0426 UTC on Feb 5.
+
+On Jan 23 the PMA-3 docking port was relocated from the port side of the
+Unity module to the zenith location on the Harmony module. The Station
+arm (SSRMS) unberthed PMA-3 at about 1000 UTC and the move was complete
+around 1130 UTC. This frees up the Unity port-side location for the
+docking of the Tranquility module during STS-130. PMA-1
+is the port that joins Unity to the Zarya module and the Russian
+segment. PMA-2 is the port at the other end of US segment, on the end of
+the Harmony module, used for Shuttle dockings. PMA-3 is a backup port.
+I apologize for the multiple meanings of the word 'port' in this paragraph!
+
+Endeavour is scheduled to launch on Feb 7 on mission STS-130. Crew are
+Col. George Zamka, Col. Terry Virts, Dr. Nick Patrick, LtCol. Bob
+Behnken, Dr. Steven Robinson and Kathryn Hire. The mission will deliver the
+Tranquility node to the Station, adding extra work space and docking ports.
+The Cupola attached to Tranqulity will provide large windows for Earth observation.
+My estimate of the STS-130 payload bay contents is:
+
+ STS-130 cargo manifest  
+  ----------------------
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3004, 3005 suits                       260? 
+  APC/SPDU                         3 port           18 
+  APC/SPDU                         7 port           17   
+  Tranquility Node                 8-12          13004   
+  Cupola                           7              1805 
+  RMS 201                          Sill            410 
+  OBSS                             Sill            382 
+  -----------------------------------------------------
+                                           Total 17696 kg
+SDO
+---
+
+The Solar Dynamics Observatory is scheduled for launch on Feb 9. SDO  is
+the lead mission in NASA's Living With a Star (LWS) program. It will
+study the Sun at optical, ultraviolet and soft X-ray wavelengths from an
+inclined geosynchronous Earth orbit. The spacecraft was built in-house
+at NASA-Goddard; the mission is managed by GSFC and its control center
+is located there. What's new about SDO is that it will image the whole
+sun at very high cadence - typically returning new high resolution solar
+images every ten seconds, allowing the rapid evolution of solar activity
+to be studied. SDO will replace many of the capabilities of the elderly
+SOHO spacecraft which has been monitoring the Sun for 15 years.
+
+SDO consists of a box-shaped service module with a GSFC-developed
+bipropellant propulsion system and a high gain antenna, topped by two
+tapered solar array wings and a science instrument module. The
+spacecraft has a dry mass of 1650 kg; at launch it also carries a
+propellant load of 1450 kg for its main bipropellant Aerojet/Redmond R4D apogee
+thruster, which has a thrust of 445 Newtons.  The propulsion system also
+contains 8 smaller 22N thrusters for attitude control.
+ 
+SDO will be launched from Space Launch Complex 41 at Cape Canaveral by a
+Lockheed-Martin Atlas V 401 model space launch vehicle, serial number
+AV-021, with a CCB first stage powered by one RD-180 engine, a
+single-engine RL-10A-powered Centaur second stage, and a 4-m Large
+Payload Fairing. The first stage will separate 4 minutes 9s after launch
+and the first Centaur burn will last from T+4:19 to T+15:17. SDO and
+Centaur AV-021 will then be in an elliptical parking orbit. At T+1 hour
+42 min 43s the Centaur will reignite for 3 min 15 s to reach a 2500 x
+35355 km x 28.5 deg transfer orbit. SDO and AV-021 will separate at T+1h
+48 min 46s, and over a period of several days the observatory will raise
+its orbit to geosynchronicity.
+
+After a total of 4 main engine firings, the spacecraft will be on
+station in view of the TDRS main ground station complex at White Sands.
+
+SDO carries three main instruments - AIA, EVI and HMI, comprising
+a total of six imaging telescopes, three spectrographs and a photometer.  
+
+AIA, the Atmospheric Imaging Assembly (Lockheed/Palo Alto, A. Title,
+with telescopes built by my colleagues at the Smithsonian Astrophysical
+Observatory)  will make temperature maps of the solar   corona with 10
+second cadence. The four 0.20m aperture normal-incidence EUV telescopes
+each have their 4096x4096 pixel CCD focal planes divided in two, with
+different narrow band filters on each half. The filters are centered on
+spectral lines which provide temperature diagnostics.
+
+- AIA Telescope 1 sees 335A and 131A;  (1 Angstrom = 0.1 nanometres).
+- AIA Telescope 2 sees 211A and 193A;
+- AIA Telescope 3 sees 171A and a half-aperture measuring the UV and
+ optical at 1600A (Carbon IV), 1700A (UV continuum) and a broad filter
+ centered on 4500A (optical continuum).
+- AIA Telescope 4 sees 304A and 94A.
+ 
+AIA sees the whole solar photosphere in its 41 arcmin field of view and
+has a spatial resolution of 0.6 arcseconds. It's this instrument that
+will provide the mission's most photogenic data.
+
+EVE, the EUV Variability Experiment (Colorado/LASP, Woods) measures the
+EUV irradiance using its ESP, MEGS-A and MEGS-B spectrographs and the
+MEGS-SAM and MEGS-P instruments. EVE doesn't have spatial resolution,
+it just sums all the light from the Sun to make spectra.
+
+ - ESP (EUV Spectro-Photometer) is a non-focussing
+     transmission grating spectrograph with 4 bands
+     covering the 170-380A EUV range plus a zero order flux measurement in
+     the 1-70A (0.2-12 keV) soft X-ray band, with 0.25 second cadence.
+ - MEGS-A, the first part of the Multiple EUV Grating Spectrograph, covers
+     the 50-370A EUV range with 1A resolution and 10s cadence on a 2048 x
+     1024 pixel CCD. It is a grazing incidence spectrograph.
+ - MEGS-B is a normal incidence grating spectrograph for
+   the 350-1050A FUV range; it also includes a photodiode, MEGS-P,
+   for a measurement of the 1215A Lyman alpha line UV flux
+ - MEGS-SAM is a pinhole camera for 1-70A X-ray event data. It shares the MEGS-A
+    detector but has a separate aperture.
+
+A version of EVE was test-flown on rocket NASA 36.233US on 2006 Oct 28, and
+further rockets will be flown during SDO's operation to help calibrate
+the instrument's accurate measurement of total solar output.
+
+HMI, the Helioseismic and Vector Magnetic Imager (Stanford, Scherrer)
+is a single 0.14m-aperture telescope with a tunable filter and two 4096 x 4096 CCDs.
+It observes a 50A bandpass around 6768A in the optical, which contains a Ni I
+absorption line. Measurements of the Doppler shift and Zeeman splitting of this
+line generate maps of solar surface oscillations and the solar magnetic field.
+The field of view covers the whole solar disk with 1 arcsecond resolution.
+
+Other solar space observatories currently in operation include Hinode,
+TRACE, RHESSI, SORCE, STEREO A/B and the SXI imager on GOES 14.
+
+
+Spirit
+------
+
+The Mars Rover team has abandoned attempts to move the Spirit rover from
+its sand-trap location at 'Home Plate' in the Gusev Crater site. Spirit
+became stuck on 2009 May 7 after five years exploring the Gusev area. It
+will continue to make scientific observations from its now-final resting
+place. The second rover, Opportunity, continues its drive south from
+Victoria to Endeavour craters and is approaching a small crater called
+Concepcion.
+
+Ouna
+----
+
+Jun Takei reports that the Ouna spacecraft stopped operating on 2009 Jun
+29 at 1208 UTC. Because of Ouna's low orbit around the Moon, I expect
+that Ouna will impact the lunar surface during 2010 if it has not
+already done so.
+
+Suborbital shots
+----------------
+
+France has carried out the fourth test launch of its new MSBS M51
+missile, which carries four to six reentry vehicles. The launch on Jan
+27 from the SNLE 612 'Le Terrible' at around 4.05W 47.63N  in the Baie
+d'Audierne off the coast of Bretagne (Brittany) was the first from a
+submarine after three earlier flights from a pad at the Landes base near
+Bordeaux. The suborbital trajectory of the M51 is not known but is
+probably  around -5100 x 1000 km x 132.0 deg. The reentry vehicles
+splashed down in the North Atlantic east of Bermuda near 31.4N 56.5W.
+
+The US Missile Defense Agency (MDA) launched a GBI interceptor from
+Vandenberg on Jan 31. The GBI is based on the motors from the Pegasus
+rocket. As part of the same test MDA launched the first LV-2 target
+missile from  Kwajalein Atoll; LV-2 is made of refurbished motors from
+the Trident I missile, and represents the first Trident I hardware
+launched since 2001.
+
+Iran launched the Kavoshgar 3 suborbital sounding rocket with a biological
+payload (a rat and two turtles). This small rocket appears similar to Kavoshgar
+2 and is probably comparable with the US Orion sounding rocket.
+
+
+Raduga-1M
+---------
+
+A new Russian Defense Ministry satellite was launched on a Khrunichev
+Proton-M on Jan 28. The satellite is the second new-generation
+Globus-1M (or Globus-M) military communications satellite, with the cover name
+Raduga-1M. Raduga-1M separated from the Briz-M upper stage at 0916 UTC on Jan 28
+into geosynchronous orbit. at 35772 x 35797 km x 0.1 deg over 55E.
+
+Beidou
+-------
+
+The Beidou DW3 satellite is now in geostationary orbit over 160E.
+The Beidou satellites are reportedly based on the DFH-3 communications
+satellite, and so probably use an FY-25 liquid apogee motor with 490N thrust.
+
+Cassini
+-------
+
+Cassini flew 7490 km from Titan at 2228 UTC on Jan 28. The spacecraft's next
+flyby is of Rhea, on 2010 Mar 2.
+
+
+Table of Recent (orbital) Launches 
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission     INTL.  
+                                                                          DES.
+Dec  6 0147   WGS 3             Delta 4M+(5,4)   Canaveral SLC37B Comms      68A
+Dec  9 0842   Yaogan Weixing 7  Chang Zheng 2D   Jiuquan          Imaging?   69A
+Dec 14 1038   Kosmos-2456 )     Proton-M/DM2     Baykonur LC81    Navigation 70A
+              Kosmos-2457 )                                       Navigation 70B
+              Kosmos-2458 )                                       Navigation 70C
+Dec 14 1409   WISE              Delta 7320       Vandenberg SLC2W Astronomy  71A
+Dec 15 0231   Yaogan Weixing 8) Chang Zheng 4C   Taiyuan          Imaging    72A
+              Xi Wang 1       )                                   Comms      72B
+Dec 18 1626   Helios IIB        Ariane 5GS       Kourou ELA3      Imaging    73A
+Dec 20 2152   Soyuz TMA-17      Soyuz-FG         Baykonur LC1     Spaceship  74A
+Dec 29 0022   DirecTV 12        Proton-M/Briz-M  Baykonur LC200/39 Comms     75A
+Jan 16 1612   Beidou DW3        Chang Zheng 3C   Xichang          Navigation 01A
+Jan 28 0018   Raduga-1M         Proton-M/Briz-M  Baykonur LC81/34 Comms      02A
+Feb  3 0345   Progress M-04M    Soyuz-U          Baykonur         Cargo      03A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Dec  9 0645?  RV              Bulava        TK-208, White Sea Test         500?
+Dec 10 1135   RV              Topol'          Kapustin Yar    Test        1000?
+Dec 16        Sejjil RV       Sejjil 2        Iran            Test         800?
+Dec 16 1346   NASA 12.068GT   Mesquito        Wallops Island  Test          90?
+Dec 17 0325   NASA 41.086UO   Terrier Orion   White Sands     Airglow      130?
+Dec 24 0630   RV x 10?        R-36M2          Yasniy          Test        1000?
+Jan 10 2300   MARTI/36.247DR  Black Brant IX  San Nicholas I  Target       100?
+Jan 11 1155?  Target          ?               Jiuquan?        Target       100?
+Jan 11 1200?  Interceptor     DF-21?          Urumqi?         ABM test     100?
+Jan 14 0650   Eclipse         RH-300 Mk II    Thumba          Solar        116 
+Jan 14 0735   Eclipse         RH-300 Mk II    Thumba          Solar        116 
+Jan 14 0745?  Eclipse         RH-560 Mk II    Sriharikota     Solar        548
+Jan 15 0700?  Eclipse         RH-300 Mk II    Thumba          Solar        116 
+Jan 15 0730?  Eclipse         RH-300 Mk II    Thumba          Solar        116 
+Jan 15 0745   Eclipse         RH-560 Mk II    Sriharikota     Solar        523
+Jan 15 1030   Eclipse         RH-300 Mk II    Thumba          Solar        116 
+Jan 27 0825   TN75 RV x 6?)   MSBS M51        Baie d'Audierne R&D launch  1000?
+Jan 31 2339   FTG-06 Target   LV-2            Meck I, Kwajalein Target    1000?
+Jan 31 2345   FTG-06 EKV      GBI OBV         Vandenberg      Interceptor 1000?
+Feb  3        Kavoshgar-3     Kavoshgar       Iran            Bio          100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

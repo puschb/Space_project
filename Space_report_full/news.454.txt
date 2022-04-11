@@ -1,0 +1,117 @@
+Jonathan's Space Report
+No. 454                                          2001 Jun 10, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Dr. Patricia Hilliard Robertson, a NASA astronaut in training, died in a
+Houston hospital early on May 25 (UTC)  after a May 22 plane crash in
+Manvel, Texas. Dr. Robertson, 38,  was a passenger in the small private
+plane. 
+
+On Jun 8, Station astronauts Yuriy Usachyov and James Voss carried out
+depressurized work in the Zvezda transfer section, using Orlan-M
+spacesuits, while Susan Helms remained in the pressurized Zarya module
+(the Soyuz transfer ship is docked to Zarya). The Zvezda transfer
+airlock was depressurized at 1404 UTC and the astronauts went to battery
+power at 1419 UTC. Then the 1-meter diameter flat hatch cover was
+removed from the nadir docking port, opening the transfer compartment to
+vacuum at 1420 UTC (NASA TV reported this happened at 1421 UTC). The
+Zvezda docking cone, removed from the axial port after docking with
+Zarya last year, was then installed in the open hatch at around 1432 UTC
+and sealed in place at 1440 UTC, closing off the compartment again. The
+compartment was repressurized starting at 1458 UTC. Operation duration
+was 54 min (depress/repress), 20 min (hatch open/close, Russian rule), 0
+min (egress/ingress - no actual external spacewalk was performed) or 39
+min (usual NASA rule). Although NASA usually counts EVAs from `suits to
+battery power' until repress, this time they are using the Russian rule
+of hatch open to hatch close, cheating Jim Voss out of 19 min of EVA
+scorecard that he would normally be credited with.
+
+The STS-104 mission is facing delays due to problems with the Station's
+Canadarm-2 robot arm (SSRMS). The SSRMS's Arm Contoller Unit and its
+Shoulder Pitch Joint showed malfunctions in their backup systems. The
+Airlock (STS-104's main payload) can't be installed without the SSRMS,
+and although the arm can be used in its current state, there are
+concerns that there isn't enough redundancy in case of failure. There is
+a chance STS-104 might  be slipped to later in the year, with a
+spacewalk on STS-105 being used to repair the arm. A working SSRMS is
+needed for all future Station assembly. The problems are likely to
+further slip this year's Shuttle schedule, which recently saw the next
+Hubble mission move to early 2002.
+
+
+Recent Launches
+---------------
+
+Kosmos-2377 was launched on May 29 into a 165 x 358 km x 67.1 deg orbit,
+typical of the Yantar' class reconnaissance satellite. This generation
+of Yantar', possibly called Kobal't, carries a large recoverable capsule
+containing the camera system and film, as well as two small film
+capsules returned during the mission. The satellite will probably
+remain in space for around 120 days with a landing around Sep 26.
+
+Kosmos-2378 was launched on Jun 8 into a 963 x 1010 km x 82.9 deg orbit.
+It is probably a Parus class navigation satellite. The Kosmos-3M
+launch vehicle went up from Plesetsk and entered a roughly 150 x 1000 km
+transfer orbit; the second stage ignited again for a short 11s burn 
+to put the Parus in its final orbit. This is the first Kosmos-3M
+flight since a failure in November 2000.
+
+Intelsat 901 was launched on Jun 9 by Arianespace. The first of the
+Intelsat 9 series, it will provide telecommunications services in the
+Atlantic Ocean Region for Intelsat. The intergovernmental International
+Telecommunications Satellite Organization, ITSO (INTELSAT),
+headquartered in Washington, D.C, is in the process of transferring its
+satellites to the privatized Intelsat LLC company. 
+
+Intelsat 901 is an FS-1300HL, an improved version of the
+long-standing Space Systems/Loral (originally Aeronutronic Ford) FS-1300
+platform. The satellite has C-band beams for the Atlantic region and a
+Ku-band spot beam for Europe, and (probably) an R-4D liquid apogee engine, and
+has a dry mass of 1972 kg and a launch mass of 4723 kg. It
+provides Intenet, video and telephone services. It will be stationed at
+18W. The satellite was launched by an Ariane 44L from Kourou into
+geostationary transfer orbit, together with the H-10-3 cryogenic third
+stage rocket.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  8 2210   XM-1 Roll         Zenit-3SL      Odyssey, Pacific S-band radio 18A
+May 15 0111   PAS 10            Proton-K/DM3   Baykonur LC81/23 C/Ku video   19A
+May 18 1745   GeoLITE           Delta 7925     Canaveral SLC17B Laser/UHF    20A
+May 20 2233   Progress M1-6     Soyuz-FG       Baykonur LC1     Cargo        21A
+May 29 1755   Kosmos-2377       Soyuz-U        Plesetsk LC43/4  Recon        22A
+Jun  8 1512   Kosmos-2378       Kosmos-3M      Plesetsk LC132   Navsat       23A
+Jun  9 0645   Intelsat 901      Ariane 44L     Kourou ELA2      C/Ku telecom 24A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        VAB Bay 4     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       OPF Bay 2     STS-105 2001 Aug  5? ISS 7A.1
+OV-104 Atlantis        VAB Bay 1     STS-104 2001 Jul  7? ISS 7A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+

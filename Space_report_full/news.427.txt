@@ -1,0 +1,166 @@
+Jonathan's Space Report
+
+No 427                                              2000 May 29, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Orbiter OV-104 Atlantis reached the International Space Station at
+around 0309 UTC on May 21, and docked with the PMA-2 docking adapter on
+the Unity node at 0431 UTC.
+
+On May 22 at around 0145 UTC the Atlantis cargo bay airlock was
+depressurized. Mission specialists Jeff Williams and James Voss opened
+the hatch on the Tunnel Adapter at around 0200 UTC and floated into the
+cargo bay to carry out external maintenance work on ISS. They reattached
+the US crane, attached the Russian Strela transfer boom, and replaced a
+faulty antenna on the Unity node, as well as attaching EVA handrails to
+the station exterior. They returned to the tunnel adapter and closed the
+hatch around 0820 UTC (?), beginning repressurization of the airlock at
+0832 UTC. [Anyone who has accurate times for the depress and hatch
+open/close, please forward them].
+
+On May 23 at 0003 UTC the Atlantis crew opened the first hatch to PMA-2
+and entered the  Station. The crew replaced a set of batteries in Zarya,
+installed fans and ducting to improve airflow, and delivered supplies
+and equipment. Three hour-long orbit raising burns by the RCS engines on
+Atlantis, on May 24 at 0002 UTC, May 25 around 0116 UTC, and May 25 at
+2336 UTC, put the ISS/Atlantis complex in a 372 x 380 km x 51.6 deg
+orbit. On May 11 ISS had been in a 332 x 341 km orbit.
+
+The STS-101 crew left the station on May 26, closing the PMA-2 hatch at 
+0808 UTC and undocking at 2303 UTC. Atlantis performed a 180 degree
+flyaround of the station and departed the vicinity around 2344 UTC.
+
+Atlantis closed its payload bay doors around 0230UTC on May 29 and fired
+the OMS engines for deorbit at 0512 UTC.  The vehicle landed on RW15 at
+Kennedy Space Center at 0620 UTC. Atlantis will be turned around
+for the next flight, STS-106, which will launch after the Zvezda
+module is orbited this summer.
+
+Current Launches
+----------------
+
+Flight AC-201, the first Lockheed Martin Astronautics Atlas 3A, took 
+off from Cape Canaveral's Space Launch Complex 36B on May 24. The Atlas
+III first stage is a major redesign for the vehicle, replacing the
+venerable MA-5 engine system with an Energomash RD-180. The RD-180 is a
+LOX/kerosene engine with 412 kN thrust and two combustion chambers. The
+irony of the US's first intercontinental missile being reequipped with
+Russian engines has drawn a lot of comment. All previous Atlas models
+used a MA-5A sustainer with one nozzle and MA-5A booster with two
+nozzles, one on either side of the sustainer. The booster package with
+the two booster nozzles was jettisoned early in flight, so Atlas was
+described as a `stage-and-a-half' vehicle. The new much simpler design
+has no separating booster package. It retains the 3.05m diameter core
+tank size and is stretched to a length of 29m. The Atlas III first stage
+cutoff 3 min 2s after launch, and separated from the second stage 11s
+later.
+
+The Atlas 3A second stage is the Centaur IIIA, or Single Engine Centaur.
+All previous Centaur stages have used a pair of Pratt and Whitney RL-10
+LOX/LH2 engines, and the new design is similar in size and shape to its
+twin-engine Centaur IIA predecessor. The Centaur IIIA uses an RL-10A-4-1B
+engine which is basically the same as that used on Centaur IIA.
+
+The Centaur made its first burn to a 188 x 486 km x 26.8 deg parking
+orbit at 2322 UTC, and at 2336 UTC restarted to deliver its payload to a
+230 x 45777 km x 19.9 deg supersynchronous transfer orbit.
+
+AC-201's payload was Eutelsat W4, an Alcatel Spacebus 3000B2 comsat for
+the European Telecommunications Satellite Organization (Eutelsat). Dry
+mass of the satellite is 1285 kg. It carries 32 Ku-band transponders,
+and antennae covering Russia and Africa. It will be stationed at 36 deg E.
+This is the third of the high power Eutelsat W series to be launched
+(W1 was destroyed in a ground accident).
+
+There have been many different Atlas variants; here's a recap.
+They all have in common the basic Atlas design of a 3.05m diameter
+thin-wall `balloon' tank which needs to be kept pressurized
+to stop it collapsing.
+
+ Atlas A, B, C   ICBM development, 1957-1959
+ Atlas D         Deployed ICBM, and space vehicle first stage.
+                 Used for Mercury spacecraft and for Agena stage.
+ Atlas D (LV-3C) Atlas D with adapter for Centaur
+ Atlas E,F       Deployed silo ICBM, refurbished for space use later.
+		 Used 1960-1995.
+ Atlas SLV-3     Atlas D upgraded for space launch vehicle use
+ Atlas SLV-3A    Upgraded stretched SLV-3 for later Atlas Agena
+ Atlas SLV-3C    SLV-3 with adapter for Centaur
+ Atlas SLV-3D    Improved SLV-3C introduced 1973
+ Atlas G         Upgraded SLV-3D introduced 1984
+ Atlas H         Special SLV-3 version replacing Atlas E/F for
+                 classified USN launches
+
+ Atlas I         Commercial version of Atlas G
+ Atlas II        Stretch of Atlas I; used in II, IIA and IIAS variants
+                 IIAS has four strapon solid boosters.
+ Atlas III       New version with RD-180 main engine
+
+The Atlas III stage will also be used in the Atlas 3B launch vehicle,
+which will carry the Centaur IIIB/DEC and Centaur IIIB/SEC (dual and
+single engine variant) upper stages. The planned `Atlas 5' launch
+vehicle, which will succeed both Atlas 3 and Titan 4, (there is no Atlas
+4!) does not use an Atlas stage at all: it will have a 3.8 meter
+diameter Common Core Booster which uses the same RD-180 engine as the
+Atlas III, and I'll count it as a new family of launch vehicle.
+
+
+Deep Space
+----------
+
+The Galileo probe made its encounter G28 perijove pass of the Jupiter
+system on May 30-31. Reported closest approach to Jupiter was 479000 km
+at 0553 UTC on May 31; this is probably distance above cloud tops rather
+than from Jupiter center (an extra 71000 km).  The main event was a
+Ganymede flyby at an altitude of 808 km at 1010 UTC on May 30. Galileo
+is now apparently in a high eccentricity orbit which will bring it back
+for its next perijove on Dec 28. If I've done my sums right, this
+implies a record high apojove of 32 million kilometers in September,
+well outside the orbit of Jupiter's outermost know satellite Sinope.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  4 0501   Soyuz TM-30       Soyuz-U        Baykonur LC1     Spaceship  18A
+Apr 17 2106   Sesat             Proton         Baykonur LC200L  Comsat     19A
+Apr 19 0029   Galaxy IVR        Ariane 42L     Kourou ELA2      Comsat     20A
+Apr 25 2008   Progress M1-2     Soyuz-U        Baykonur LC1     Cargo      21A
+May  3 0707   GOES 11           Atlas 2A       Canaveral SLC36A Weather    22A
+May  3 1325   Kosmos-2370       Soyuz-U        Baykonur LC1     Imaging    23A
+May  8 1601   DSP 20            Titan 4B       Canaveral LC40   Early Warn 24A
+May 11 0148   GPS SVN 51        Delta 7925     Canaveral SLC17A Navsat     25A
+May 16 0828   Simsat-1 )        Rokot          Plesetsk LC133   Test       26A
+              Simsat-2 )                                                   26B
+May 19 1011   Atlantis          Space Shuttle  Kennedy  LC39A   Spaceship  27A
+May 24 2310   Eutelsat W4       Atlas 3A       Canaveral SLC36B Comsat     28A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Sep?    ISS 3A    
+OV-104 Atlantis        OPF Bay 3     STS-106 2000 Aug?    ISS 2A.2b 
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A    
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

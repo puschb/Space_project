@@ -1,0 +1,128 @@
+Jonathan's Space Report
+No. 455                                           2001 Jun 28, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Atlantis is now on the launch pad, being prepared for a July launch
+to the Station.
+
+The payload bay of STS-104 contains the Airlock and two Spacelab
+Pallets each with a pair of high pressure gas tanks for attaching
+to the airlock exterior. I believe an IMAX camera is also
+in the cargo bay although the press kit doesn't mention it.
+Total Orbiter launch mass is reported by the press kit as 117127 kg.
+Current Station mass (including Soyuz and Progress) is 120470 kg.
+
+                                                            Mass/kg
+Bay 1-2   Orbiter Docking System/External Airlock            1800
+          3 EMU spacesuits?                                   360?
+Bay 4-5?  Spacelab Pallet (Fwd)   O2-1/O2-2 oxygen tanks     2500
+Bay 6-7?  Spacelab Pallet (Aft)   N2-1/N2-2 nitrogen tanks   2500
+Bay 8-12? Station Joint Airlock                              6064
+          Adapter beam with IMAX Cargo Bay Camera             238
+Sill      RMS arm                                             410
+-------------------------------------------------------------------------
+                                                      Total 13872 kg?
+
+STS-104 commander is Steven Lindsey, a member of the 1994 group who was
+pilot on STS-87 and STS-95. Pilot is Charles Hobaugh,  who becomes the
+fourth pilot of the 1996 group to fly. Mission specialists are Janet
+Kavandi (STS-91,STS-99) and spacewalkers Michael Gernhardt
+(STS-69/83/94) and James Reilly (STS-89).  They will install the Airlock
+onto the Unity module, and then put the oxygen and nitrogen tanks onto
+the airlock exterior.
+
+Recent Launches
+---------------
+
+A new report gives the Kosmos-2378 launch time as 1508 UTC, not 1512 UTC.
+
+Astra 2C was launched on Jun 16 by International Launch Services on a
+Krunichev Proton-K with an Energiya Blok DM3 upper stage. The Boeing
+601HP satellite will broadcast Ku-band television programming to Europe
+for SES (Societe Europeene des Satellites, Luxembourg). Dry mass of the
+satellite is probably around 2000 kg.
+
+International Launch Services carried out its second launch in a few
+days on Jun 19, this time with Atlas IIAS serial AC-156 from Cape
+Canaveral. The payload was the ICO-2 satellite for New ICO (formerly ICO
+Global Communications), which will provide mobile communications and
+data/internet services at S-band, supporting 4500 simultaneous calls.
+The Boeing BSS-601M satellite is similar to the standard geostationary
+601 model except that it omits the R-4D apogee engine and associated
+fuel, and has a larger payload section. Launch mass is 2700 kg; dry mass
+is probably around 2200-2400 kg with the remainder being stationkeeping
+fuel.  New ICO is based in London, so the satellite will presumably be
+registered with the UN by the UK government.
+
+The AC-156 launch vehicle's Centaur stage reached a 167 x 10099 km x 44.6
+deg transfer orbit 10 minutes after launch. A second burn 1.5hr later
+put ICO-2 into a circular 10100 km orbit. The first ICO satellite
+was launched in Mar 2000 but failed to reach orbit. The new satellite
+will be used for testing out the ICO system before the remaining
+satellites are launched. Unlike the Iridium and Globalstar constellations,
+ICO uses a small number of large satellites.
+
+
+The two 10 kg Saudi Arabian amateur satellites, Saudisat 1A/1B, were
+launched by Dnepr in Sep 2000. Their amateur radio payloads, 
+Saudi-OSCAR-41 and Saudi-OSCAR-42, have apparently not yet entered
+service (although reportedly have been checked out successfully).
+Although not announced at the time of launch, these satellites have a
+secondary commercial payload. Aprize Satellite of Fairfax, Virginia has
+a 400 MHz UHF Aprizestar commercial satellite location payload on each
+of the satellites, which will enter operation when Aprize completes
+financing and developed of user equipment. They will be used as
+pathfinders for a planned network of asset location satellites (for
+instance, relaying data from transmitters on shipping containers). These
+0.2m-cube, 10 kg satellites will be built by SpaceQuest (Aprize's parent
+company) in Fairfax, but the Saudi satellites were built by and are
+owned by King Abdulaziz City for Science and Technology. (The article in
+this week's Space News was a bit misleading,  so I thought I would
+clarify the situation - thanks to Aprize CEO D. Lorenzini for some of
+this info).
+
+
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  8 2210   XM-1 Roll         Zenit-3SL      Odyssey, Pacific S-band radio 18A
+May 15 0111   PAS 10            Proton-K/DM3   Baykonur LC81/23 C/Ku video   19A
+May 18 1745   GeoLITE           Delta 7925     Canaveral SLC17B Laser/UHF    20A
+May 20 2233   Progress M1-6     Soyuz-FG       Baykonur LC1     Cargo        21A
+May 29 1755   Kosmos-2377       Soyuz-U        Plesetsk LC43/4  Recon        22A
+Jun  8 1508   Kosmos-2378       Kosmos-3M      Plesetsk LC132   Navsat       23A
+Jun  9 0645   Intelsat 901      Ariane 44L     Kourou ELA2      C/Ku telecom 24A
+Jun 16 0149   Astra 2C          Proton-K/DM3   Baykonur LC81/23 Ku video     25A
+Jun 19 0441   ICO-2             Atlas IIAS     Canaveral SLC36B C/S phone/data 26A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        VAB Bay 4     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       VAB Bay 3     STS-105 2001 Aug?    ISS 7A.1
+OV-104 Atlantis        LC39B         STS-104 2001 Jul 12  ISS 7A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

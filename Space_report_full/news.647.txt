@@ -1,0 +1,306 @@
+Jonathan's Space Report
+No. 647                                       2011 Sep 25 Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+UARS
+----
+
+NASA's UARS satellite reentered on Sep 24. The Upper Atmosphere Research
+Satellite was deployed in 1991 from the Space Shuttle Discovery on
+mission STS-48. UARS studied the depletion of the ozone layer, confirming
+that CFCs cause the `ozone hole', and improved models of upper atmosphere
+chemistry, including studies of methane in the Antarctic, sulphur dioxide
+from volcanoes, and global wind measurements.
+
+UARS reportedly began entering the atmosphere over the Pacific but  the
+exact time and location are not known. Reports of debris entry over
+Canada are unconfirmed, and my best conclusion bast on these estimates
+and the absence of confirmed observations over the west coast is that
+entry was probably over the Pacific SE to E of Hawaii around 0410-0415
+UTC with the debris falling over a several hundred km range in the ocean
+falling short of the Oregon/Washington coastline.
+
+The official USSTRATCOM report says: "24 September. 04:16 UTC +/- 53
+minutes ascending 30.9 N 218.9E over the Pacific." Be very careful with
+this - they don't really mean that it reentered over the Pacific, just
+that that is the midpoint of the range of uncertainty. So this
+translates to 0323 UTC to 0509 UTC. At the NASA press conference, Nick
+Johnson said he thought a +/- 20 minute range was probable so 0356 to
+0436 UTC. During that period of time UARS would have passed from the
+Pacific near New Zealand (0352), over the Pacific south of Hawaii
+(0407), crossing into N America over Portland, Oregon (0418) and then up
+over Canada, crossing the Labrador coast (0428) and then SE over the
+Atlantic to Mauritania (0440).
+
+I would have expected the DSP missile early warning satellites to have
+detected infrared radiation from the entry - they do keep a close watch
+on the eastern Pacific in case of a submarine-launched missile attack on
+the US. It is a bit surprising to me that there's apparently no
+information from that source - or at least none that's been admitted.
+
+Note that ROSAT, which will reenter later this year, is much less massive
+overall but has larger parts that will survive reentry. 
+
+
+Large Uncontrolled Reentries 
+-----------------------------
+
+Here's a list of big things falling from orbit - excluding
+controlled deorbits - in order of mass (my best estimate of mass at reentry time).
+
+ Name                     Reentry date Metric       Reentry Location      Type of spacecraft
+                                        tons
+
+ Skylab                   1979 Jul 11    76   31.8S 124.4E  Australia       Space station
+ Polyus                   1987 May 15    70?                Pacific         Test satellite
+ Saturn S-II-13           1975 Jan 11    49   34N    19W    Atlantic        Rocket stage
+ DOS-6 (Salyut-7/K1686)   1991 Feb  7    40   34.9S  63.8W  Argentina       Space station
+ Kosmos-1917/1918/1919    1988 Feb 17    22?                                Navsats/rocket stage
+ DOS-3 (Kosmos-557)       1973 May 22    19                 Indian Ocean    Space station
+ Almaz OPS-1 (Salyut-2)   1973 May 28	 19		    Pacific	    Space station
+ Apollo BP-15/Saturn SA-7 1964 Sep 22	 18   26.4S 69.0E   Indian Ocean    Dummy spaceship/Rocket stage
+ 3MS 170 (Kosmos-419)	  1971 May 12	 18?				    Mars Probe/Rocket stage
+ Kosmos-154 (L-1)	  1967 Apr 19	 18?		    Atlantic	    Moonship/Rocket stage
+ Saturn SA-5		  1966 Apr 30	 17		    Brazil	    Rocket stage/Nosecone
+ Proton-4		  1969 Jul 24	 17				    Research satellite
+ Kosmos-305/Blok-D        1969 Oct 22    17?                Australia?      Moon probe/rocket stage
+ Blok DM-2 No. 17L        1987 Feb 13    17?                                Rocket stage
+ Apollo BP-13/Saturn SA-6 1964 Jun  1	 17   13.6N 179E    Pacific	    Dummy spaceship/rocket stage
+ Proton UR-500 No. 207	  1965 Sep 18	 13				    Rocket stage
+ Proton UR-500 No. 209	  1966 Jan  4	 13				    Rocket stage
+ Proton UR-500 No. 212    1966 Aug 21    13                                 Rocket stage
+ Saturn S-IVB-204         1968 Jan 23    13                 Australia       Rocket stage
+ HS-601 Model/CZ-2E       1990 Oct  1    13?                                Dummy comms sat/stage
+ Proton-3 (N-4 No 4)      1966 Sep 16    12                                 Research satellite
+ Saturn S-IVB-502         1968 Apr 26    12                                 Rocket stage
+ Lunar Module LTA-2R      1968 Sep  3    12                 Pacific         Dummy spaceship
+ Saturn S-IVB-205         1968 Oct 18    12                 Indian Ocean    Rocket stage
+ Blok-D                   1969 Sep 27    11?                                Rocket stage
+ Pegasus 1/SA-9           1978 Sep 17    10     7S 15E      Angola          Rocket stage/science sat
+ Pegasus 2/SA-8           1979 Nov  3    10                 Atlantic        Rocket stage/science sat
+ Pegasus 3/SA-10          1969 Aug  4    10     3.4N 56.7E  Indian Ocean    Rocket stage/science sat
+ 82LB72 LVI-1             1976 Dec 23    10?                                Dummy spaceship
+ 82LB72 LVI-3             1978 Mar 23    10?                                Dummy spaceship
+ 82LB72 LVI-4             1979 Jun 16    10?                                Dummy spaceship
+ EPN 3.695 (Kosmos-1871)  1987 Aug 10    10?                                Dummy spy satellite
+ EPN 3.695 (Kosmos-1873)  1987 Sep 14    10?                                Dummy spy satellite
+
+Some of the above list represent rocket stages that got stranded in low orbit
+with all their fuel aboard. It's possible that in some cases the fuel got vented before
+reentry, in which case the mass would be much less. Kosmos-1917-1918-1919 is
+one example.  A few examples, like Polyus, were propulsive deorbits done
+accidentally, which I count as 'uncontrolled'.
+
+Notorious reentries of smaller satellites
+-----------------------------------------
+
+ Mars-96                  1996 Nov 17     7                     Bolivia      Mars probe
+ Kosmos-954               1978 Jan 24     4? (Nuclear reactor)  Canada       Spy satellite
+ Kosmos-1402              1983 Jan 23     4  (Nuclear reactor)  Indian Ocean Spy satellite
+ Solar Max                1989 Dec  2     2                     Indian Ocean Astronomy sat
+ CORONA 1014              1964 Dec  6     2                     Venezuela    Spy satellite
+ USA 193                  2008 Feb 21     2  (destroyed by ASAT to prevent reentry) 
+
+Large controlled destructive reentries 
+---------------------------------------
+ Add to this list: 134 Shuttle External Tanks, 30t each
+                    60 Ariane EPC stages, 12 to 14t each
+                     2 Energiya core stages, 80? t each
+   which completed less than 1 complete orbit.
+
+ Mir                      2001 Mar 23    120     Pacific                      Space station
+ Columbia (STS-107)       2003 Feb  1    106     Texas                        Spaceship
+ Salyut-6/Kosmos-1267     1982 Jul 29     35     Pacific                      Space station
+ Saturn S-IVB-501/LTA-10R 1967 Nov  9     30?    W Pacific                    Rocket stage/dummy spaceship
+ Salyut-5                 1977 Aug  8     19     Pacific                      Space station
+ Salyut-1                 1971 Oct 11     19     Pacific                      Space station
+ Salyut-3                 1975 Jan 24     19     Pacific                      Space station
+ Salyut-4                 1977 Feb  2     19     Pacific                      Space station
+ ATV Jules Verne          2008 Sep 29     19?    Pacific                      Cargo ship
+ ATV Johannes Kepler      2011 Jun 21     19?    Pacific                      Cargo ship
+ Kosmos-1870 (Mech-K)     1989 Jul 29     18?    Pacific                      Radar satellite
+ Almaz-1 (Mech-KU)        1992 Oct 17     18?    Pacific                      Radar satellite
+ HTV-1                    2009 Nov  1     16?    Pacific                      Cargo ship
+ HTV-2                    2011 Mar 30     16?    Pacific                      Cargo ship
+ Kosmos-929 (TKS)         1978 Feb  2     15     Pacific                      Cargo ship
+ Kosmos-1443              1983 Sep 19     15     Pacific                      Cargo ship
+ GRO                      2000 Jun  4     15     Pacific                      Astronomy sat
+ LACROSSE 1               1997 Mar 25     14?    Pacific?                     Spy satellite
+ LACROSSE 2               2011 Mar 26?    14?    Pacific?                     Spy satellite
+ Saturn S-IVB-206         1973 May 25     14     31N 176W Pacific             Rocket stage
+ Saturn S-IVB-207         1973 Jul 28     14     22N 177W Pacific             Rocket stage
+ Saturn S-IVB-208         1973 Nov 16     14?    26N 170W Pacific             Rocket stage
+ Saturn S-IVB-210         1975 Jul 16     14?    13N 177W Pacific             Rocket stage
+ KH11-1                   1979 Jan 28     13?    Pacific?                     Spy satellite
+ KH11-2                   1981 Aug 23     13?    Pacific?                     Spy satellite
+ KH11-3                   1982 Oct 30     13?    Pacific?                     Spy satellite
+ KH11-4                   1984 Nov 23     13?    Pacific?                     Spy satellite
+ KH11-5                   1985 Aug 13     13?    Pacific?                     Spy satellite
+ CRYSTAL (USA 6)          1994 Oct 20     13?    Pacific?                     Spy satellite
+ CRYSTAL (USA 27)         1992 Jun?       13?    Pacific?                     Spy satellite
+ CRYSTAL (USA 33)         1996 May        13?    Pacific?                     Spy satellite
+ CRYSTAL (USA 86)         2000 Jun  5     13?    Pacific?                     Spy satellite
+ CRYSTAL (USA 116)        2008 Nov 18     13?    Pacific?                     Spy satellite
+
+Large sats blown up before reentry 
+-----------------------------------
+ Saturn S-IVB-203/AS-203  1966 Jul 15     15?  Pieces found in Peru and Africa
+
+Large sats with controlled landings
+-------------------------------------
+ 133 Space Shuttle flights 1981-2011      90-110  
+ Buran OK-1K               1988 Nov 15    79
+ 
+Large stuff still in orbit
+---------------------------
+ International Space Station             410 +
+ LACROSSE (USA 133)        -              15?
+ LACROSSE (USA 152)        -              15?
+ LACROSSE (USA 182)        -              15?
+ CRYSTAL (USA 129)         -              14?
+ CRYSTAL (USA 161)         -              14?
+ CRYSTAL (USA 186)         -              14?
+ CRYSTAL (USA 224)         -              14?
+ Hubble Space Telescope    -              11
+
+
+
+International Space Station
+---------------------------
+
+Soyuz TMA-21 undocked from the Poisk module at 0038 UTC on Sep 16
+carrying Aleksandr Samokutyaev, Ron Garan and Andrey Borisenko.
+Expedition 29 began at 0038 UTC on Sep 16 with Mike Fossum as commander,
+and with flight engineers Sergey Volkov and Satoshi Furukawa.
+
+Soyuz TMA-02M remains docked at the Station. Progress M-13M is scheduled
+for launch Oct 31; Soyuz TMA-03M on Nov 12.
+
+
+Soyuz statistics
+-----------------
+
+A reader has asked me to clarify that the Soyuz/Fregat which failed to
+reach the correct orbit was due to procedures error (incorrect fuelling)
+and was not a Fregat manufacturing or hardware failure. In general, I
+have noticed anecdotally (small number statistics) that an increasing
+number of failures have been due to procedural mistakes at launch time
+(wrong amount of fuel, wrong software command, etc.), compared
+to the old-school method of blowing the rocket up by getting the
+plumbing wrong during manufacture. Another metric that would
+be interesting to generate is to distinguish operator from manufacturer
+errors, although this could be difficult - maybe inadequately clear
+manufacturer's documentation is the root error for some operator
+failures?
+
+ZX-1A
+-----
+
+Following last month's launch failure, China has resumed successful flights.
+The military communications satellite Zhongxing 1A (Chinasat 1A) was
+launched on Sep 18 into geostationary transfer orbit using a Chang
+Zheng (Long March) 3B.
+
+Kosmos-2473
+-----------
+
+The first Garpun military communications satellite was launched on Sep
+20 from Baykonur and given the cover name Kosmos-2473. Garpun is thought
+to be a data relay satellite built by ISS Reshetnev. As of Sep 24 an
+object from the launch (perhaps the Briz-M DTB tank) was being tracked
+by the US in a 402 x 35586 km x 48.6 deg transfer orbit; it is reported
+from Russian sources that the payload is actually in geosynchronous orbit.
+
+Ariane 5
+--------
+
+The Arabsat 5C and SES-2 satellites were launched on Sep 21 by vehicle
+561. Arabsat 5C is an Astrium/Thales Eurostar 3000 C-band/Ka-band
+communications satellite  for Arab countries. SES-2 is an Orbital
+Star-2.4 satellite for SES World Skies. The satellite carries a
+communications payload with 24 C-band and 24 Ku-band transponders, and a
+US Air Force infrared surveillance sensor experiment. The satellites
+were deployed into a 250 x 35700 km x 1.9 deg transfer orbit.
+
+IGS O-4
+-------
+
+On Sep 23 JAXA launched the IGS Optical-4 (Jouhou shuushuu eisei kougaku
+4 gouki)  satellite to replenish Japan's imaging spy satellite
+constellation.
+
+Atlantic Bird 7
+---------------
+
+Eutelsat's Atlantic Bird 7 communications satellite, an Astrium Eurostar
+3000, was launched into geostationary transfer orbit on Sep 24 by a
+Zenit-3SL rocket. This was the first launch by the new Sea Launch
+company, which is 95 percent owned by RKK Energia. The old Sea Launch,
+which declared bankruptcy, was a joint venture led by Boeing involving
+Yuzhnoe, who build the Zenit-2SB core vehicle, Energia who build the
+Blok DM-SL third stage and Kvaerner who built the floating launch
+platform. There were 30 Sea Launch missions between 1999 and 2009.
+
+
+KH-7/KH8/KH-9 declassification
+-------------------------------
+
+The NRO has declassified its film-return satellites GAMBIT and HEXAGON.
+You may enjoy the images at http://planet4589.org/jcm/pics/11/gambit/index.html
+The declassified docs are at http://planet4589.org/space/docs/nro
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Aug  3 1843   Radioskaf-V       -                  EVA, ISS          Comms   98-67CK
+Aug  5 1625   Juno              Atlas 551          Canaveral SLC41   Probe     40A
+Aug  6 2252   Astra 1N )        Ariane 5ECA        Kourou ELA3       Comms     41A
+              BSAT 3c  )                                             Comms     41B
+Aug 10 1615   Paksat 1R         Chang Zheng 3B     Xichang           Comms     42A
+Aug 15 2257   Haiyang 2         Chang Zheng 4B     Taiyuan LC2       Rem.Sens. 43A
+Aug 17 0712   NigeriaSat-X)                                          Tech      44C
+              NigeriaSat-2)                                          Imaging   44B
+              Edusat      )                                          Tech      44A
+              Sich-2      )     Dnepr              Yasniy            Rem.Sens. 44G
+              Rasat       )                                          Imaging   44D
+              AprizeSat-5 )                                          Comms/AIS 44E
+              AprizeSat-6 )                                          Comms/AIS 44F
+              BPA-2       )                                          Tech      44H
+Aug 17 2125   Ekspress AM-4     Proton-M/Briz-M    Baykonur          Comms     45A
+Aug 18 0928   SJ11-04           Chang Zheng 2C     Jiuquan           Unknown   F02
+Aug 24 1300   Progress M-12M    Soyuz-U            Baykonur          Cargo     F03
+Sep 10 1308   GRAIL-A   )       Delta 7920H        Canaveral SLC17B  Lunar     46A    
+              GRAIL-B   )                                            Lunar     46B
+Sep 18 1633   Zhongxing 1A      Chang Zheng 3B(E?) Xichang           Comms     47A
+Sep 20 2247   Kosmos-2473       Proton-M/Briz-M    Baykonur          Comms     48A
+Sep 21 2138   Arabsat 5C  )     Ariane 5ECA        Kourou ELA3       Comms     49A
+              SES 2       )                                          Comms     49B
+Sep 23 0436   IGS O-4           H-2A 202           Tanegashima       Imaging   50A
+Sep 24 2018   Atlantic Bird 7   Zenit-3SL         SL Odyssey, Pacific Comms    51A?
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Aug 11 1445   HTV-2b           Minotaur 4 Lite    Vandenberg SLC8     Test         100?
+Aug 27 0320   RV x 6?          Bulava             K-535, White Sea    Test        1000?
+Sep 1  1343   ARAV?            Terrier Oriole?    Kauai               Target       150?
+Sep 1  1344   Aegis KV         SM-3 Block 1B      CG-70, Kauai        Interceptor  150?
+Sep 3  0946   RV               Topol'             Plesetsk            Test        1000?
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

@@ -1,0 +1,155 @@
+Jonathan's Space Report
+No. 314                     1997 Feb 21  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Discovery completed its rendezvous with Hubble on Feb 13. Steve Hawley
+used the RMS arm to grapple HST at 0834 UTC and by shortly after 0900
+UTC the telescope was docked to the FSS (Flight Support Structure) in
+the aft part of the cargo bay. On Feb 14 astronauts Mark Lee and Steven
+Smith carried out a spacewalk to install the STIS and NICMOS science
+instruments. After depressurizing the airlock to 5 psi, the spacewalk
+was postponed when escaping air caused the Hubble solar arrays to move.
+Depressurization was completed at around 0430 UTC. First, the GHRS
+spectrograph was removed from its axial bay on HST and parked on the
+ORUC carrier. Then, the STIS spectrograph was removed from its ORUC
+enclosure and placed inside HST. GHRS was placed in the empty enclosure
+for return to Earth. Now it was the turn of the Faint Object
+Spectrograph (FOS, my personal favorite HST instrument which has
+generated loads of delicious data on the ultraviolet spectra and
+continua of quasars) to be retired. It was removed from its axial bay
+and parked, to be replaced by the NICMOS infrared camera/spectrograph
+brought up in the SAC carrier (used to carry up new solar panels on
+STS-61). Finally FOS was laid in the NICMOS enclosure on SAC for its
+journey home to honorable retirement. According to Bill Harwood's web page,
+the airlock close was at 1116 UTC, but I don't have the repressurization
+time.
+
+HST's science compartment has radial bays, accessed from the side, and
+axial bays, accessed from the end. The radial bays contain three Fine
+Guidance Sensors, FGS-1 to FGS-3 (FGS-1 was replaced on this
+mission), and the WFPC-2 Wide Field and Planetary Camera, responsible
+for the majority of the pretty pictures you see. The axial bays, whose
+boundaries are rotated 45 degrees to the radial bays, contain the Faint
+Object Camera (FOC), which takes ultraviolet pictures, the COSTAR device
+which carries corrective lenses for FOC, and the new NICMOS and STIS.
+COSTAR also provided spectacles for GHRS and FOS, but NICMOS and STIS
+have their own corrective optics. FOS is the only one of the original
+science (non-FGS) instruments still aboard. The High Speed Photometer
+was replaced by COSTAR, and the original WFPC was replaced by WFPC-2.
+
+   HST Instruments
+Location      Launch    After STS-82   Carried up in        
+--------      ------    ------------   -------------        
+Radial +V2    FGS-1     FGS-1R         STS-82 ORUC FSIPE    
+Radial -V3    FGS-2     FGS-2          STS-31R HST          
+Radial -V2    FGS-3     FGS-3          STS-31R HST
+Radial +V3    WFPC      WFPC-2         STS-61 ORUC SIPE
+Axial +V3/+V2 FOC       FOC            STS-31R HST
+Axial +V2/-V3 HSP       COSTAR         STS-61 ORUC SIPE
+Axial -V3/-V2 GHRS      STIS           STS-82 ORUC SIPE
+Axial -V2/+V3 FOS       NICMOS         STS-82 SAC SIPE
+
+The spacewalkers have discovered potentially serious rips in Hubble's 
+insulation, caused by degradation over the seven years the material
+has been in orbit. An orbital debris puncture in an antenna
+was also noticed.
+
+Four more spacewalks have now been completed. EVA-2, by Greg Harbaugh
+and Joe Tanner, replaced the Fine Guidance Sensor in a 7h 26m spacewalk.
+EVA-3, by Lee and Smith, made a 7h 11m walk to install a new computer
+and data recorder. EVA-4 was 6h 34m and saw installation of new
+electronics and covers on the magnetometer sensors, plus initial repairs
+to the insulation. EVA-5 involved more insulation repairs; the
+astronauts then spent some time in the airlock awaiting word on whether
+an extra gyro replacement would be needed, before finally cleaning up
+the payload bay and repressurizing after a 5h 17m walk. (The times given
+are NASA's EVA times from when the spacesuits go on battery power until
+repressurization; I prefer to measure from depressurization to
+repressurization, which gives times about 5 minutes longer in each
+case).
+
+The Hubble Space Telescope was released back into orbit at  0641 UTC on
+Feb 19. Discovery landed on Runway 15 at Kennedy Space Center at
+0832 UTC on Feb 21.
+
+Recent Launches
+---------------
+
+An 11K68 Tsiklon-3 rocket built by the Ukrainian Dnepropetrovsk company
+Yuzhnoe was launched from Plesetsk in Russia on Feb 14. The S5M third
+stage fired twice to enter a circular 1400 km orbit and deployed six
+small communications satellites built by NPO Prikladnoi Mekhaniki of
+Krasnoyarsk, Russia. The names of the satellites are not yet confirmed
+but I am guessing that three are Kosmos military satellites in the
+Strela-3 system for the Russian Federation Ministry of Defense (MO RF)
+and three are development satellites for the Gonets civilian version of
+Strela-3, which is probably officially owned by the Russian Space Agency
+(RKA). The first satellite is in a 1413 x 1422 km x 82.6 deg orbit;
+orbits for the others are similar.
+
+JCSAT 4 was launched by a Lockheed Martin Astronautics/Denver Atlas IIAS
+from Cape Canaveral on Feb 17. JCSAT 4 is a communications satellite
+owned by Japan Satellite Systems Inc (JSAT, Kabushiki-gaisha Nihon
+Sateraito Sisutemuzu). It is an HS-601 class satellite built by Hughes.
+The Atlas IIAS AC-127 Centaur second stage entered a low parking orbit
+and then reignited to place JCSAT-4 in a Super-GTO orbit of 221 x 94251
+km x 23.5 deg. The HS-601's liquid apogee engine will change inclination
+to equatorial, then lower the apogee and raise  perigee to achieve
+geostationary orbit. By Feb 20, it was in a 14339 x 94291 km x 6.5 deg
+orbit.
+
+Galileo completed its orbit 6 Europa encounter  on Feb 20. It flew 587
+km from Europa. Its next orbit will take it past Ganymede on Apr 5.
+The Haruka satellite has now raised its perigee to 500 km.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan 12 0928   Atlantis         Shuttle        Kennedy LC39B   Spaceship   01A
+Jan 17 1628   GPS 42           Delta 7925     Canaveral LC17A Navsat      FTO
+Jan 30 2204   GE 2     )       Ariane 44L     Kourou ELA2     Comsat      02A	
+              Nahuel 1A)                                      Comsat      02B
+Feb 10 1409   Soyuz TM-25      Soyuz-U        Baykonur LC1    Spaceship   03A
+Feb 11 0855   Discovery STS-82 Shuttle        Kennedy LC39A   Spaceship   04A
+Feb 12 0450   Haruka           M-V            Kagoshima       Astronomy   05A
+Feb 14 0347   Kosmos-2337      Tsiklon-3      Plesetsk LC32/1 Comsat      06A
+              Kosmos-2338                                     Comsat      06B
+              Kosmos-2339                                     Comsat      06C
+              Gonets-D1 No. 4                                 Comsat      06D
+              Gonets-D1 No. 5                                 Comsat      06E
+              Gonets-D1 No. 6                                 Comsat      06F
+Feb 17 0142   JCSAT 4          Atlas IIAS     Canaveral LC36B Comsat      07A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     STS-83  Apr  3
+OV-103 Discovery       RW15 KSC      STS-82  
+OV-104 Atlantis        OPF Bay 3     STS-84  May 15
+OV-105 Endeavour       Palmdale      OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-60                 VAB Bay 3      STS-84
+ML3/RSRM-59/ET-84           VAB Bay 1      STS-83
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'

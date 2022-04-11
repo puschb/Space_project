@@ -1,0 +1,179 @@
+Jonathan's Space Report
+No. 548                                            2005 Jun 15, Somerville, MA
+-------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+Discovery was rolled back out to the pad on Jun 15 with its new
+ET-121 external tank and RSRM-92 solid boosters. Launch is scheduled
+for July.
+
+NOAA 18
+-------
+
+A new NOAA POES (Polar Orbiting Environmental Satellite) weather
+satellite was launched on May 20 at 1022 UTC. The 1442 kg NOAA-N
+satellite, built by Lockheed Martin using the Advanced Tiros-N bus,
+became NOAA 18 after reaching orbit. NOAA, the National Oceanographic
+and Atmospheric Administration, is the US weather agency. Earlier NOAA
+satellites were launched by surplus Atlas E and Titan II missiles, but
+these have now been retired and so a Boeing Delta 7320 was used for this
+mission. The satellite entered a 846 x 866 km x 98.8 deg orbit. It
+carries weather imagers, microwave sensors, particle detectors, an
+infrared sounder, and the SARSAT-10 search and rescue transponder.
+
+
+DirecTV 8
+---------
+
+DirecTV 8 was launched on May 22 by International Launch Services aboard
+a Krunichev Proton-M/Briz-M from Baykonur. The satellite carries Ka-band
+and Ku-band communications payloads for US domestic television
+broadcasting. By June 2, DirecTV 8 was in a 35772 x 35792 km x 0.1 deg
+orbit drifting over 102.9W towards its 101W location where it will
+join DirecTV 1/1R, 2, and 4S.
+
+DirecTV satellites launched so far:
+  DirecTV 1   1993 Dec 18   Hughes HS-601          GEO 101.1W
+  DirecTV 2   1994 Aug  3   Hughes HS-601          GEO 100.8W
+  DirecTV 3   1995 Jun 10   Hughes HS-601          GEO  91.1W
+  DirecTV 6   1997 Apr  7   Loral LS-1300          GEO 109.8W
+  DirecTV 1R  1999 Nov  9   Hughes HS-601HP        GEO 100.9W
+  DirecTV 4S  2001 Nov 27   Boeing BSS-601HP       GEO 101.1W
+  DirecTV 5   2002 May  7   Loral LS-1300          GEO  72.5W
+  DirecTV 7S  2004 May  4   Loral LS-1300          GEO 119.1W
+  DirecTV 8   2005 May 22   Loral LS-1300          GEO 102.9W drifting
+
+DirecTV also owns the Spaceway 1 satellite launched in April, now
+in a 28255 x 43325 km x 0.2 deg orbit. It reached a 26062 x 45473 km
+orbit with 24 hr period on May 11 and since then has been making small
+maneuvers to decrease eccentricity, possibly using its XIPS-25 electric
+propulsion system.
+
+Foton
+-----
+
+The second Foton-M satellite was launched on May 31. The Foton
+satellites, built by TsSKB-Progress in Samara, are modified versions of
+the Vostok/Zenit design and have a recoverable spherical pressurized
+module used for microgravity and life science experiments. A lot of the
+capacity on this flight is taken up with European Space Agency
+experiments, including an exterior 2 kg reentry capsule called Fotino
+which will separate during reentry on Jun 16 and  land uprange.
+
+This is the first Foton launch from Baykonur and it entered a 258 x 291
+km x 63.0 deg orbit. The first 12 Foton satellites were launched from
+Plesetsk into more eccentric 215 x 350-390 km x 62.8 deg orbits;  they
+were followed by launch of Foton-M No. 1 from Plesetsk on 2002 Oct 15,
+which failed seconds after launch falling back on the pad and causing
+one fatality. 
+
+
+HAMSAT
+------
+
+AMSAT-VU's HAMSAT has been assigned an international OSCAR amateur satellite
+number: it is VO-52 (VUSat-Oscar 52). (AMSAT-VU is the Indian branch of AMSAT,
+and VU is the international amateur callsign prefix for India.)
+
+Cassini
+-------
+
+Cassini made another pass through the inner Saturnian system on Jun 8
+with a 156400 km periapsis at 1037 UTC. On this pass, there were distant
+encounters with the small moons Calypso (Saturn XIV) and Pallene (Saturn XXIII). 
+Cassini has already made a lot of close approaches to Saturnian moons,
+not all of which involved science observations.
+
+Here are Saturnian moon encounters to date within 120000 km (for
+non-science encounters, I calculated the approaches from JPL Horizons,
+and these may be off by 20000 km or more because of inconsistent
+trajectory data - best I can do right now. Horizons doesn't have any
+Pallene ephemeris data so I don't know how close that approach was, and
+for the same reason I don't have a time for the Polydeuces pass.)
+
+Encounter time UTC  Moon      Height above surface
+
+1979 Sep  1 1452    Janus         2500 km  Pioneer-11
+1979 Sep  1 1620    Mimas       103000 km  Pioneer-11
+1980 Nov 12 0540    Titan         3915 km  Voyager-1
+1980 Nov 12 0621    Rhea         73216 km  Voyager-1
+1980 Nov 13 0142    Mimas        88231 km  Voyager-1
+1981 Aug 26 0345?   Enceladus    86754 km  Voyager-2
+1981 Aug 26 0612?   Tethys       92474 km  Voyager-2
+
+Cassini
+
+2004 Jun 11 1903    Phoebe        2068 km 
+2004 Jun 30 2227    Calypso      52080 km
+2004 Jul  1 0031    Mimas        76400 km
+2004 Jul  1 0117    Pandora      89850 km
+2004 Jul  1 0152    Janus        67800 km
+2004 Jul  1 0358    Prometheus  107400 km
+2004 Oct 26 1530    Titan         1174 km  Ta
+2004 Dec 13 1138    Titan         1200 km  Tb
+2004 Dec 15 0144    Dione        72500 km
+2004 Dec 15 0501    Mimas       107500 km
+2005 Jan  1 0137    Iapetus     123400 km
+2005 Jan 14 1112    Titan        60000 km  Tc
+2005 Jan 16 0608    Mimas       108000 km
+2005 Feb 15 0658    Titan         1577 km  T3
+2005 Feb 16 2304    Pandora     102600 km
+2005 Feb 17         Polydeuces    6189 km
+2005 Feb 17 0011    Epimetheus   73500 km
+2005 Feb 17 0024    Atlas         6170 km
+2005 Feb 17 0330    Enceladus     1176 km  E03
+2005 Mar  9 0434    Helene       74500 km
+2005 Mar  9 0908    Enceladus      504 km  E04
+2005 Mar  9 1129    Atlas        73800 km
+2005 Mar  9 1155    Tethys       82500 km
+2005 Mar 29 1847    Tethys      109200 km
+2005 Mar 29 2034    Enceladus    55600 km
+2005 Mar 29 2202    Atlas        97400 km
+2005 Mar 29 2325    Epimetheus   62100 km
+2005 Mar 31 2005    Titan         2402 km  T4
+2005 Apr 15 0015    Epimetheus   46000 km
+2005 Apr 15 0126    Mimas        82600 km
+2005 Apr 15 0422    Calypso      70470 km
+2005 Apr 16 1911    Titan         1025 km  T5 (06TI)
+2005 May  2 1920    Helene      114200 km
+2005 May  2 2148    Tethys       51800 km
+2005 May  2 2303    Epimetheus  118500 km
+2005 May 21 0630    Atlas        99700 km
+2005 May 21 0648    Prometheus  107400 km
+2005 May 21 0815    Enceladus   102100 km
+2005 Jun  8 1025    Calypso      97810 km
+2005 Jun  8?        Pallene      Unknown
+
+Cassini has more flybys of Titan, Enceladus and Mimas lined up in the coming
+months.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Apr 11 1335   XSS-11            Minotaur        Vandenberg SLC8  Tech        11A
+Apr 12 1200   Apstar 6          CZ-3B           Xichang          Comms       12A
+Apr 15 0046   Soyuz TMA-6       Soyuz-FG        Baykonur LC1     Spaceship   13A
+Apr 15 1726   DART              Pegasus XL/HAPS Vandenberg       Tech        14A
+Apr 26 0731   Spaceway 1        Zenit-3SL       Odyssey          Comms       15A
+Apr 30 0050   USA 182?          Titan 4B        Canaveral SLC40  Radar?      16A
+May  5 0445   Cartosat )        PSLV            SDLC SLP         Imaging     17A
+              HAMSAT   )                                         Comms       17B
+May 20 1022   NOAA 18           Delta 7320      Vandenberg SLC2W Weather     18A
+May 22 1759   DirecTV 8         Proton-M/Briz   Baykonur LC200/39 Comms      19A
+May 31 1200   Foton-M No. 2     Soyuz-U         Baykonur LC1     Micrograv   20A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

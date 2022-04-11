@@ -1,0 +1,222 @@
+Jonathan's Space Report 
+No. 695                                                     2014 Mar 28    Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Soyuz TMA-10M undocked from Poisk at 0002 UTC Mar 11, landing in
+Kazakhstan at 0324 UTC with astronauts Kotov, Hopkins and Ryazanskiy.
+The undocking marked the end of Expedition 38 and the beginning of
+Expedition 39, with Koichi Wakata becoming the first Japanese ISS
+commander. Russian Mikhail Tyurin and American Rich Mastracchio  round
+out the crew.
+
+On Mar 25 Soyuz TMA-12M was launched into a 193 x 244 km orbit carrying
+Aleksandr Aleksandrovich Skvortsov, Oleg Germanovich Artem'ev and Dr.
+Steve R. Swanson. The third planned rendezvous burn at 2348 UTC was
+cancelled, apparently due to a software problem, postponing the ship's
+rendezvous with ISS until Mar 27. The craft was in a 297 x 333 km x 51.7
+deg orbit after the problem, and maneuvered to a 414 x 425 km orbit on
+Mar 26. Docking with Poisk came according to the revised plan, at 2353
+UTC Mar 27. Mass of the ISS after docking was about 409 tonnes.
+
+Note: There have been two members of the Star City cosmonaut team called
+"Aleksandr Aleksandrovich Skvortsov" - the one currently in orbit, born
+1966 and active since 1997, and his father, born 1942, who was a trainee
+cosmonaut from 1965 to 1967 and left without making any spaceflights.
+Russian names, of course, do not use the American 'Junior' convention
+which would disambiguate father and son.
+
+
+MH370
+-----
+
+The search for the lost Malaysian airliner, flight MH370, has involved
+several satellites. It has been reported that US infrared assets (i.e.
+DSP and its relatives) did not see any infrared event that could be
+associated with an inflight explosion. Australian
+Geospatial-Intelligence Organization analysis of Worldview-2 commercial satellite
+imagery led to candidate debris in the Indian Ocean on Mar 20; successive
+candidate debris fields have been seen in images from China's Gao Fen 1,
+France's Spot-6 and Thailand's Thaichote/THEOS satellite. As of Mar 27
+none of these leads have panned out.
+
+One constraint on the plane's location was obtained by measuring the
+light-travel-time of two-way data communication between the Inmarsat 3F1
+satellite in GEO at 64.5E and  equipment aboard the plane - this gives a
+distance but not a direction, leading to a wide arc-shaped search locus.
+Additional analysis using the Doppler shift of the frequency gave the
+component of relative speed of satellite and plane along the line
+joining them; combining the information allowed analysts to narrow the
+search zone to an ocean region 2300 km southwest of Australia. 
+
+Cassini
+-------
+
+The Cassini probe, approaching periapsis 202 in orbit around Saturn,
+completed the T-99 Titan flyby on Mar 6, flying 1500 km from the surface
+at 1628 UTC. The flyby changed the orbit to 0.80 x 2.96 million km x
+45.5 deg.
+
+Ekspress-AT1/2
+---------------
+
+Russia's Krunichev company launched a Proton rocket on Mar 15 carrying
+two satellites built by ISS Reshetnev of Krasnoyarsk for Kosmicheskaya
+Svyaz (Russan Satellite Communications Co.) The Ekspress-AT1 satellite
+has a mass of 1672 kg. AT2 is smaller at 1326 kg.
+The satellites carry Ku-band comm payloads and will be located at 56E and 140E.
+On Mar 27 AT1 was in a 35701 x 35903 km x 0.1 deg orbit drifting over 70E;
+AT2 was in a 35564 x 35859 km x 0.1 deg orbit over 78E.
+
+Aist/SKRL
+---------
+
+The objects from the Soyuz-2-1V launch of Dec 2013 (2013-078) have been reassigned:
+  Object originally cataloged as 39490 (78A) is now 39493 (78D). It is the second stage rocket.
+  Object originally cataloged as 39491 (78B) is unchanged. It is thought to be the SKRL-756-2 calsphere.
+  Object originally cataloged as 39492 (78C) is unchanged. It is thought to be Aist-1.
+  Object originally cataloged as 39493 (78D) no longer exists (last TLEs Jan 14). 
+      Its orbit of 601 x 625 km was similar to 78B and may have been a tracking error of some kind.
+      The extra object was a mystery at the time, so its deletion makes things match what was expected.
+  Object originally cataloged as 39494 (78E) is now 39490 (78A). Thought to be SKRL-756-1 calsphere.
+  New object 39494 is the Briz-M stage from the Inmarsat 5 launch, previously untracked, and now
+   discovered in a 2805 x 63785 km x 27.1 deg orbit.
+
+Ariane L571
+-----------
+
+Arianespace put two communications satellites in a 260 x 35690 km x 3.0
+deg GTO on Mar 22. Both satellites are carrying out orbit raising burns
+on their way to geostationary orbit. Astra 5B is a 5724 kg Airbus
+Defense and Space Eurostar 3000L for SES and was in a 15373 x 35665 km x
+0.8 deg orbit on Mar 27. Amazonas 4A is a 2938 kg Orbital GeoStar-2.4
+for Hispasat of Spain, and was in a 27450 x 35715 km x 0.3 deg orbit on
+Mar 27.
+
+Glonass
+--------
+
+Russia's Glonass-M No. 54 (Uragan-M No.  754) navigation satellite was launched from
+Plesetsk on Mar 24. It has been given the codename Kosmos-2491. The satellite was placed in
+a 19128 x 19153 km x 64.8 deg orbit by the Fregat upper stage. According to information
+on the Novosti Kosmonavtiki forum, the Fregat stages are using a new scheme of serial
+numbers; this one is No. 112-01 according to some reports. The '112' indicates that
+it is a Soyuz launch from Plesetsk for the civilian Roskosmos agency.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Jan  5 1048   GSAT-14            GSLV             Sriharikota SLP   Comms        01A
+Jan  6 2206   Thaicom 6          Falcon 9 v1.1    Canaveral SLC40   Comms        02A
+Jan  9 1807   Cygnus Orb-1       Antares 120      Wallops MARS 0A   Cargo        03A
+Jan 24 0233   TDRS 12            Atlas V 401      Canaveral SLC41   Comms        04A
+Feb  5 1623   Progress M-22M     Soyuz-U          Baykonur LC1/5    Cargo        05A
+Feb  6 2130   ABS 2        )     Ariane 5ECA      Kourou ELA3       Comms        06A
+              Athena-Fidus )                                                     06B
+Feb 11 0831   Flock1-1       )   -                ISS, LEO          Imaging    98-067DG      
+              Flock1-2       )                                      Imaging    98-067DH
+Feb 11 1241   Flock1-3       )   -                ISS, LEO          Imaging    98-067DJ
+              Flock1-4       )                                      Imaging    98-067DK
+Feb 12 0830   Flock1-5       )   -                ISS, LEO          Imaging    98-067DL
+              Flock1-6       )                                      Imaging    98-067DM
+Feb 13 0820   Flock1-11      )   -                ISS, LEO          Imaging    98-067DN
+              Flock1-12      )                                      Imaging    98-067DP
+Feb 14 0415   Flock1-13      )   -                ISS, LEO          Imaging    98-067DQ
+              Flock1-14      )                                      Imaging    98-067DR
+Feb 14 1145   Flock1-15      )   -                ISS, LEO          Imaging    98-067DS
+              Flock1-16      )                                      Imaging    98-067DT
+Feb 14 2109   Turksat-4A         Proton-M/Briz-M  Baykonur LC81/24  Comms        07A
+Feb 15 0700   Flock1-7       )   -                ISS, LEO          Imaging    98-067DU
+              Flock1-8       )                                      Imaging    98-067DV
+Feb 15 1055   Flock1-9       )   -                ISS, LEO          Imaging    98-067DW
+              Flock1-10      )                                      Imaging    98-067DX
+Feb 21 0159   GPS SVN 64         Delta 4M+(4,2)   Canaveral SLC37B  Navigation   08A
+Feb 25 1700   Flock1-17      )                    ISS, LEO          Imaging    98-067DY
+              Flock1-18      )                                      Imaging    98-067DZ
+Feb 26 0420   Flock1-21      )                    ISS, LEO          Imaging    98-067EA
+              Flock1-22      )                                      Imaging    98-067EB
+Feb 26 0735   Flock1-19      )                    ISS, LEO          Imaging    98-067EC
+              Flock1-20      )                                      Imaging    98-067ED
+Feb 27 0150   Flock1-23      )                    ISS, LEO          Imaging    98-067EE
+              Flock1-24      )                                      Imaging    98-067EF
+Feb 27 0740   Flock1-25      )                    ISS, LEO          Imaging    98-067EG
+              Flock1-26      )                                      Imaging    98-067EH
+Feb 27 1837   GPM-C        )     H-2A             Tanegashima LP1   Climate      09C
+              Ginrei       )                                        Tech         09A
+              STARS-2      )                                        Tech         09G
+              Teikyosat-3  )                                        Bio          09E
+              Yui          )                                        Tech         09F
+              OPUSat       )                                        Tech         09D
+              Invader      )                                        Edu          09H
+              Hayato-2     )                                        Tech         09B
+Feb 28 0420?  Flock1-27      )                    ISS, LEO          Imaging    98-067EJ
+              Flock1-28      )                                      Imaging    98-067EK
+Feb 28 0730   SkyCube 1        )                  ISS, LEO          Imaging    98-067EN
+              Litsat 1         )                                    Tech       98-067EP
+              LituanicaSat-1   )                                    Tech       98-067EQ
+              Ardusat-2        )                                    Tech       98-067EL
+              UAP-SAT          )                                    Tech       98-067EM
+Mar 15 2308   Ekspress-AT1 )     Proton-M/Briz-M  Baykonur LC81/24  Comms        10A
+              Ekspress-AT2 )                                        Comms        10B
+Mar 22 2204   Astra 5B   )       Ariane 5ECA      Kourou ELA3       Comms        11A
+              Amazonas 4A)                                          Comms        11B
+Mar 23 2254   Glonass-M No. 54   Soyuz-2-1B       Plesetsk LC43/4   Navigation   12A
+Mar 25 2117   Soyuz TMA-12M      Soyuz-FG         Baykonur LC1      Spaceship    13A
+
+
+Suborbital missions
+-------------------
+
+NASA Flight 36.287, the Ground-to-Rocket Electrodynamics-Electrons Correlative Experiment
+led by M. Samara of SWRI, was launched from the Poker Flat range in Alaska on Mar 3.
+
+North Korea carried out short range missile tests between Feb 21 and at least Mar 16.
+Most of the launches were within the atmosphere, but Scud class launches on Feb 27 and Mar 2
+were probably exoatmospheric. The missiles are assumed to have carried dummy reentry vehicles.
+Two larger Nodong (Rodong) missiles were launched on Mar 25.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Dec 14        Kavoshgar Pazhuhesh  Shahab-1        Semnan           Bio           120
+Dec 17 1236   GT210GM          Minuteman III       Vandenberg LF04  Op. test     1300?
+Dec 23 1128   Agni RV          Agni 3              Chandipur        Test          350
+Dec 24 0700   Yars RV-1 )      Yars                Plesetsk         Test         1000?
+              Yars RV-2 )
+              Yars RV-3 )
+              Yars RV-4 )
+Dec 27 1730   Topol' RV        Topol'              Kapustin Yar     Test         1000?
+Jan  3        Arrow KV         Arrow 3             Palmachim        Test          100?
+Jan 15 0909   FTX-18 target    Terrier Orion       Wallops          Target        130?
+Jan 15 0909   FTX-18 target    Terrier Orion       Wallops          Target        130?
+Jan 15 0909   FTX-18 target    Terrier Orion       Wallops          Target        130?
+Jan 20 0522   Agni 4 RV        Agni 4              Chandipur IC4    Test          900?
+Feb 27 0842?  Hwasong RV       Hwasong 5?          Kittaeryong      Training       80?
+Feb 27 0842?  Hwasong RV       Hwasong 5?          Kittaeryong      Training       80?
+Feb 27 0842?  Hwasong RV       Hwasong 5?          Kittaeryong      Training       80?
+Feb 27 0842?  Hwasong RV       Hwasong 5?          Kittaeryong      Training       80?
+Mar  2 2119?  Hwasong RV       Hwasong 6?          Kittaeryong      Training      150?
+Mar  2 2119?  Hwasong RV       Hwasong 6?          Kittaeryong      Training      150?
+Mar  3 1109   GREECE           Black Brant IX      Poker Flat Pad3  Aurora        335
+Mar  4 1810   Topol' RV        Topol'              Kapustin Yar     Test         1000?
+Mar 25 1735   Nodong RV        Nodong 1?           Sukchon          Test          150?
+Mar 25 1742   Nodong RV        Nodong 1?           Sukchon          Test          150?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

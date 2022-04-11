@@ -1,0 +1,269 @@
+Jonathan's Space Report 
+No. 762 (Resend 1)                                               2019 Mar  9  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+Note: First try had a stray unicode character which caused some mailers to send it to spam.
+Let's see if this version works; apologies if you already did receive JSR762.
+
+Spaceship Two
+-------------
+
+Thanks to additional data from Mike Moses, here is a more detailed
+description of the recent flight.
+
+Virgin Galactic's Spaceship Two VSS Unity made its second spaceflight on
+Feb 22. Takeoff of the White Knight Two carrier plane, VMS Eve, on
+flight WK2-265/N202VG-016 was at 1607:02 UTC from Mojave Air and Space Port.
+The mission ID for the flight was VF-01 (F is for full flight profile).
+VSS Unity carried three crew memors:
+ David Mackay, VG Chief Pilot, who becomes the first Scottish-born astronaut
+ Michael Massuci, VG pilot;
+ Beth Moses, the first woman on a commercial human spaceflight launch. 
+
+Beth is the Chief Trainer for VG (her full birth name, for the
+historical record,  was Natalie Beth Stubbings). She also became, as far
+as I know, the first person to unstrap and float around the cabin on a
+suborbital spaceflight. The crew became the 569th, 570th, and 571st humans
+to fly in space (using my 80 km definition).
+
+WK2 flew north to Owens Lake, west to Overlook Mountain in the Sierra
+Nevada and then south to the drop point near Kelso Valley Airport at
+118.22W 35.38N. At 1653:40, at an altitude of 13.4 km, WK2 dropped VSS
+Unity. Unity's hybrid RM2 rocket motor fired for 59 seconds starting at
+1653:43 and boosted it to an apogee of 89.92 km; Unity then glided to
+touchdown on the Mojave runway RW12/30, with wheels stop at 1708:49 UTC,
+for a flight duration of 15 min 9s.
+
+Powered flights of VSS Unity to date:
+ Date (Drop)              Flight              Mission   Drop point      Apogee Duration 
+                                                                               (Wheels stop)
+ 2018 Apr  5              WK2-246/N202VG-012  VP-01     Unknown         26 km 
+ 2018 May 29              WK2-249/N202VG-013  VP-01-2   Unknown         35 km
+ 2018 Jul 26 1644         WK2-252/N202VG-014  VP-02     Unknown         52 km     14:12?
+ 2018 Dec 13 1559:39      WK2-261/N202VG-015  VP-03     118.22W 35.39N  82.72 km  14:06
+ 2019 Feb 22 1653:40      WK2-264/N202VG-016  VF-01     118.22W 35.38N  89.92 km  15:09
+
+
+International Space Station
+---------------------------
+
+Expedition 58 remains underway.
+
+At 0221 UTC Feb 26, the Progress MS-10 cargo ship docked to the Zvezda
+module fired its engines to boost the ISS orbit slightly and set up for
+the Soyuz MS-12 launch. The 0.9m/s burn lasted  451s. and used 139 kg of
+prop. This was the 3rd reboost by Progress MS-10.
+
+The Cygnus NG-10 freighter, the S.S. John Young, was deorbited over the
+Pacific Ocean and reentered  at around 145W 40S over the
+"spacecraft graveyard" east of New Zealand at 0905 UTC Feb 25 after
+100.0 days in space.
+
+On Mar 2 the first Crew Dragon, DM-1, was launched on a Falcon 9 from
+Kennedy Space Center. Falcon 9 stage 1 flew to a downrange landing on
+the OCISLY droneship. Stage 2 placed the Crew Dragon in a 194 x 358 km x
+51.6 deg orbit. The Stage 2 is believed to have deorbited itself west of
+Australia at about 0839 UTC. Dragon made its first orbit adjust burns to
+224 x 369 km and 235 x 351 km later in the morning.
+
+DM-1 docked at IDA-2/PMA-2 at 1051 UTC on Mar 3. The cabin carries
+the anthropomorphic test dummy `Ripley' and 180 kg of cargo.
+Stephen Clark of SpaceflightNow reports that NASA tell him the
+docking mass of DM-1 was 12055 kg. My guess is that the launch mass is
+roughly 1000 kg more than that, but as usual SpaceX are being coy
+about that for incomprehensible reasons. 
+
+DM-1 undocked at 0732 UTC Mar 8 and manuevered to a 395 x 401 km orbit. At
+1248 UTC the trunk was jettisoned into orbit. At 1253 Dragon began
+its deorbit burn; after a successful reentry, it splashed down
+at 1345 UTC in the Atlantic off Florida, at about 76.7W 30.5N.
+
+
+Beresheet
+---------
+
+The Israeli lunar probe Beresheet made a perigee raising burn at 1129
+UTC Feb 24, to 668 x 69021 km x 27.0 deg. A second burn at 1930 UTC on
+Feb 28 raised apogee to 127572 km, and a third one at 1311 UTC Mar 7
+boosted  the orbit to 470 x 271500 km x 27.8 deg.
+
+OneWeb
+------
+
+The first six OneWeb satellites were launched on Feb 27. A Soyuz
+ST-B/Fregat took off from the Centre Spatial Guyanais at 2137 UTC Feb
+27. The Blok I rocket delivered the upper composite to a marginally
+orbital trajectory at 2147 UTC; the stage probably reentered over the
+Arctic. Fregat burns at 2147 UTC and 2233 UTC placed the stack in a
+roughly 1000 km circular orbit. First, OneWeb satellites 6 and 11
+were deployed; then, after a small orbit adjust, 7, 8, 10, and
+12 were dispensed. Each satellite has a mass of 148 kg. Four satellite mass
+simulators were also carried; they remained attached to the 468 kg RUAG
+dispenser cylinder on the Fregat. Fregat made a series of small
+manuevers to simulate dispensing a full 32-satellite OneWeb stack and
+then made a deorbit burn at 0113 UTC Feb 28 and reentered over the
+Indian Ocean east of Madagascar at 0200 UTC. Fregat made two complete
+orbits, but did not get a catalog number.
+
+OneWeb arranged for schoolchildren in six schools around the world to
+give names to the satellites:
+
+  OneWeb-0006 SherpaSat  - named by students from Khairkola, Nepal after
+            Pasang Lhamu Sherpa (1961-1993), the first woman to climb Everest.
+  
+  OneWeb-0007 ChinghizSat - named by students from Kotur-Suu, Kyrgyzstan after
+            Chinghiz Aitmatov (1928-2008), Kyrgyz novelist and diplomat.
+  
+  OneWeb-0008 IcyerekezoSat - named by students from Nkombo Island, Rwanda
+    aftger the Kinyarwanda word for 'vision'.
+
+  OneWeb-0010 ChusigSat - named by students from Santa Cruz, Ecuador,
+    after Eugenio Espejo (1747-1795), journalist, lawyer and activist;
+    Espejo is thought to have had the Kichwa name Chusig,
+
+  OneWeb-0011 LempiraSat - named by students from Siguatepeque, Honduras
+    after Lempira (1499?-1537), leader of the Lenca people.
+
+  OneWeb-0012 NanuqSat - named by students from Anchorage, Alaska after
+    a divine polar bear from Inupiaq legend.
+
+Kosmos-482
+----------
+
+There have been some media stories about the idea that the failed 1972 Soviet Venus
+probe Kosmos-482 might reenter this year. Not exactly. Let's unpack this.
+
+In the late 1960s and early 1970s the newly-formed IKI (Space Research
+Institute) and the Lavochkin company developed a series of  Venus probes
+based on an evolution of Korolev's early Mars/Venera probe design.
+In the 1972 Venus window, the last two such probes were launched: V-71
+No. 670 and V-71 No. 671, both on Molniya-M (8K78M) four-stage launch
+vehicles (basically Soyuz rockets with a fourth stage, in this case the
+Blok-NVL)
+
+Probe No. 670 was boosted to solar orbit and named Venera-8 ("Venus-8").
+It was launched on 1972 Mar 27 and successfully landed on Venus on 1972 
+Jul 22, surviving for 50 minutes on the surface.
+
+Probe No. 671 didn't go so well.  The lower 3 stages of the Molniya-M
+rocket put the stack in a 196 x 215 km Earth partking orbit. Then the
+Blok-NVL's BOZ ullage motor unit fired to give the upper stage a little
+kick and itself separated.
+The Blok-NVL main engine now ignited but shut down prematurely, 2 min
+into a 4 min burn. The Venera probe/Blok-NVL stack was now  stranded in
+a 206 x 9800 km Earth orbit. 
+
+US tracking found THREE objects in this orbit. One was labelled as
+Kosmos-482, one as the rocket stage, and one as debris.
+"Kosmos-482" and the "rocket stage" (1972-023A and B) had relatively  
+rapid orbital decay and reentered in 1981 and 1983 respectively. The 
+debris object, 1972-023E, came down more slowly.
+
+In Sep 2000 I noted this and discussed with a few experts the possiblity 
+that, with its 1 sq m radar cross section, 23E (object 6073)  might be
+the separated Venera descent sphere; I started labelling it as such in
+my online satellite catalog. Funnily enough, in June 2002 the NORAD
+satellite catalog starting labelling 6073 as the Venera descent sphere
+too. Probably just a coincidence.
+
+Recent optical observations by  Ralf Vandebergh have cast some doubt on
+these identifications - he concludes it's more long&irregular than
+small&round. So it's possible I was wrong - I think the jury is open. 
+The current fuss - e.g.
+https://www.space.com/failed-soviet-venus-spacecraft-falls-to-earth-soon.html
+ - is about this third object, 1972-023E, SSN 6073.
+
+The suggestion that 23E will reenter soon seems to be based on the fact
+that it has a 200 km perigee.  But it's had a 200 km perigee since 1972.
+
+At https://planet4589.org/space/misc/k482/k482.jpg is a plot showing the
+average height of the various objects from the launch versus time;
+and at https://planet4589.org/space/misc/k482/k482c.jpg
+is a plot showing the perigee (red), apogee (blue) and average
+height (green) of the 23E object (presumed descent capsule, only bit of
+Kosmos-482 still up there). Doesn't look like imminent reentry to me.
+(You'll notice an oscillation in the decay rate, which correlates
+nicely with the solar cycle.)
+
+One possibility to explain the optical observations is that we had 23A
+and 23E the wrong way round. But it's odd that 23E has the lower A/m.
+Another (slim) possibility is that the capsule deployed a bit of the
+Venus entry parachute, but not enough to affect the A/m.
+
+So to recap: Soviet Venus probe stuck in elliptical orbit. Payload
+separated from rocket stage after failure. Third object - still in orbit
+- speculated to be the 500 kg, 1.0m diam. entry sphere. But might not 
+be. Reentry probably early-mid 2020s?
+
+If it *is* the entry sphere, it might well survive Earth atmosphere
+entry and hit the ground.  In which case I expect it'll have the usual
+one-in-about-10000 chance of hitting someone. The vehicle is dense but 
+inert and has no nuclear materials.  No need for major concern.   
+
+
+Erratum: 
+--------
+
+MySat-1 is not from Malaysia, I don't know where my brain was when I typed that.
+It's from Masdar Institute of Science and Technology, Abu Dhabi. Apologies
+for the error.
+
+Note:
+-----
+
+I don't normally run ads, but: The late and great Jacques Tiziou was a
+space journalist from the 1960s onwards, and is one of the few people
+who had a personal space archive that rivals mine. His son has a
+kickstarter to preserve the materials, which you may wish to take a look at:
+
+https://www.kickstarter.com/projects/jjtiziou/space-junk-excavating-the-tiziou-space-history-mus
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Feb  1?       SeeMe?                                     EXCITE, LEO     Imaging     99BS   S43822   571 x   594 x 97.8 1017LT SSO
+Feb  5        Dousti                 Safir               Semnan          Imaging      F02   F01533 -6000?x    10?x 55.0
+Feb  5 2101   Saudi Geosat 1 )       Ariane 5ECA         Kourou ELA3       Comms      07A   S44034   242 x 35770 x  3.0
+              GSAT-31        )                                             Comms      07B   S44035   245 x 35841 x  3.0
+Feb  9 0000   Quantum Radar 1 )                        Cygnus NG10,LEO     Tech     18092C  S44041   455 x   459 x 51.6 
+              Quantum Radar 2 )                                            Tech     18092D  S44042   457 x   457 x 51.6 
+Feb 13 1200   MySat-1  )                               Cygnus NG10,LEO     Tech     18092E  S44044?  455 x   471 x 51.6  
+              CHEFSAT-2 )	                                           Tech     18092F  S44045?  455 x   471 x 51.6  
+Feb 13 2245   Kicksat-2                                Cygnus NG10,LEO     Tech     18092G  S44046   297 x   306 x 51.6
+Feb 21 1647   EgyptSat-A             Soyuz-2-1b/Fregat   Baykonur LC31     Imaging    08A   S44047   652 x   656 x 98.0 0950LT SSO
+Feb 22 0145   Nusantara Satu  )      Falcon 9            Canaveral SLC40   Comms      09A   S44048   226 x 69068 x 27.6
+              S5              )                                            Imaging    09D?  Attached to Nusantara Satu
+              Beresheet       )                                           Lunar probe 09B   S44049   242 x 68845 x 27.6
+Feb 27 2137   OneWeb-0006 )          Soyuz ST-B/Fregat   CSG ELS           Comms      10E   S44061   984 x  1007 x 87.8
+              OneWeb-0007 )                                                Comms      10D   S44060   984 x  1007 x 87.8
+              OneWeb-0008 )                                                Comms      10C   S44059   985 x  1009 x 87.8
+              OneWeb-0010 )                                                Comms      10B   S44058   986 x  1010 x 87.8
+              OneWeb-0011 )                                                Comms      10F   S44062   987 x  1005 x 87.8
+              OneWeb-0012 )                                                Comms      10A   S44057   985 x  1010 x 87.8
+Mar  2 0749   Crew Dragon DM-1       Falcon 9            Kennedy LC39A    Spaceship   11A   S44063   235 x   351 x 51.6
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Feb  6 0701   Mk 21 RV/FTU-1    Minuteman 3        Vandenberg            Test         1300?      Pacific Ocean
+Feb  6 0831   Yars RV           Yars               Plesetsk              Test         1300?      Kura
+Feb 22 1654   VSS Unity VF-01   Spaceship Two      Kelso Valley          Test           89.9     Mojave
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

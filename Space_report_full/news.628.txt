@@ -1,0 +1,211 @@
+Jonathan's Space Report
+No. 628                                             2010 May 26   Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+On the station, Soyuz TMA-17 switched parking spots, and Atlantis made its
+final visit to add the Rassvet module and replace some batteries.
+
+Astronauts Kotov, Creamer and Noguchi flew Soyuz TMA-17 from Zarya to
+Zvezda on May 12. They undocked from the Zarya nadir port at 1326 UTC,
+retreated to a distance of 50m by 1335 UTC, flew around to 50m from
+Zvezda by 1341 UTC. After stationkeeping for a few minutes they began
+final approach at 1348 UTC and docked with the aft Zvezda port at 1353
+UTC. This left the Zarya port ready to receive the Rassvet module when
+it was delivered by Atlantis.
+
+Atlantis took off from Kennedy Space Center on May 14 at 1820 UTC. The
+SRBs separated two minutes after launch. Main engine cutoff and external
+tank separation followed at 1828 UTC, with Atlantis and the ET in a 58 x
+219 km x 51.6 deg orbit. The OMS-2 burn at 1858 UTC raised the orbit of
+Atlantis to 157 x 228 km, and over the next two days the Shuttle raised its
+orbit to match the 340 x 353 km path of ISS.
+
+Atlantis docked with the PMA-2 port on the station at 1428 UTC on May
+16. The Station robot arm took the ICC-VLD carrier from the payload bay
+and stowed it on the transporter base overnight. On May 17 at 1151 UTC
+the Quest airlock was depressurized past 50 mbar at the beginning of the
+first spacewalk by Garrett Reisman and Steve Bowen, during which the
+astronauts installed a new SGANT (Space-to-Ground Antenna) on the Z1
+truss and the EOTP equipment platform on the Dextre robot. On May 18 at
+1220 UTC the Rassvet module was connected to the nadir port on Zarya. On
+May 19 EVA-2 with Bowen and Good from 1036 UTC to 1747 UTC and on May 21
+EVA-3 with Good and Reisman from 1024 to 1713 UTC saw the successful
+replacement of six batteries on the P6 truss. The station truss
+has 48 replaceable 170-kg battery packs, 12 on each of the S4, P4, S6 and P6
+truss segments. P6 was launched seven years earlier than the other segments
+and its batteries are aging, so six of them were replaced on mission STS-127
+last year and the other six were swapped out this time.
+
+The Station arm put the ICC-VLD back in the Shuttle's payload bay at
+0950 UTC on May 22. Atlantis undocked at 1522 UTC on May 23 and landed
+on runway 33 at Kennedy Space Center at 1248 UTC on May 26, completing
+mission STS-132, which was (at least according to the current plan) its
+final flight in space.
+
+In the Vehicle Assembly Building, solid rocket motors RSRM-112 are being
+stacked on the launch platform while external tank ET-137 is being 
+prepared nearby, and next door, in Orbiter Processing Facility 3 (OPF 3),
+OV-103 Discovery is being kitted out for mission STS-133 which will
+probably fly late this year. The final Shuttle mission, STS-134, 
+will use orbiter OV-105 Endeavour, now in OPF 2. Its launch will probably
+slip to early in 2011.
+
+
+X-37B
+-----
+
+One month after it was launched, hobbyist observers Kevin Fetter and
+Greg Roberts have located the secret X-37B spaceplane in a 399 x 419 km
+x 40.0 deg orbit.
+
+
+Akatsuki
+--------
+
+Japan's PLANET-C (`puranetto-c') Venus probe, Akatsuki, was launched from
+Tanegashima on May 20 at 2158 UTC. Akatsuki is Japanese for 'Dawn'
+or 'Daybreak' - just like the Russian 'Rassvet', a popular spacecraft
+name this week it seems.
+
+Launch was by H-IIA 202 rocket, flight F17. F17 reached a 292 x 306 km x
+30.0 deg low Earth orbit at 2210 UTC and deployed three cubesats:
+KSAT for Kagoshima University, Negai* ("Negai-star" but always written
+with a star symbol) for Soka University in Tokyo, and Waseda-Sat 2 for
+Waseda University in Tokyo. KSAT carries an experiment to study
+atmospheric water vapor.
+
+The three cubesats have been cataloged in 290 x 305 km x 30.0 deg orbits.
+
+F17's second stage restarted at 2220 UTC to accelerate to escape
+velocity. It cutoff at 2224 UTC, and then deployed three spacecraft
+into a 0.72 x 1.07 AU x 2.0 deg solar orbit: Akatsuki, Unitec-1 and Ikaros.
+Unitec-1 will space-qualify university-built spacecraft computers;
+Ikaros will test a solar sail; and Akatsuki will become a Venus-orbiting
+weather satellite with visible, infrared and ultraviolet cameras. The
+PAF900M adapter separating Akatsuki and Ikaros was jettisoned
+into solar orbit.
+
+Ariane V194
+-----------
+
+Arianespace launched Ariane 5ECA vehicle L551 on May 21. Flight number
+V194 placed the Astra 3B and ComsatBw-2 communications satellites.
+in transfer orbit. The L551 core stage reached a -971 x 173 km x 6.5
+deg suborbital path and the ESC-A stage put the satellites
+in a 263 x 35764 km x 3.0 deg transfer orbit.
+
+Astra 3B is an Astrium Eurostar 3000 satellite with Ku- and Ka-band
+transponders and supplements SES Astra's service at 23E.  Launch mass is
+5471 kg; dry mass is probably around 3000 kg. The smaller COMSATBw-2
+(launch mass 2440 kg, dry 1040 kg) is a TAS-F Spacebus 3000B2 satellite
+with SHF, UHF and Ku-band communications systems for the Bundeswehr
+(German armed forces).
+
+Artemis
+-------
+
+I have been remiss in not keeping up to date with the Artemis lunar
+mission. Two of NASA's five Earth orbiting THEMIS spacecraft, THEMIS B and
+C, were coopted for ARTEMIS following the end of their primary
+magnetospheric research missions. Their onboard propulsion systems were
+used to raise their orbits starting last July, and they are now both
+operating beyond the orbit of the Moon. THEMIS B made lunar flybys on Jan 31 and
+Feb 13, and THEMIS C made a lunar flyby on Mar 28. The THEMIS and ARTEMIS
+missions are led by a team at University of California-Berkeley.
+The spacecraft will study the solar wind, the distant magnetotail, and the
+lunar wake, and will end up in lunar orbit.
+
+Here is data based mostly on the GSFC SSC Locator orbit tool;
+it differs somewhat from the information on the ARTEMIS team's
+web pages at Berkeley.
+
+THEMIS B (ARTEMIS P1): 2007-004B
+  Time UTC
+ 2009 Sep 10          2870 x 284665 km x 10.0 deg orbit
+ 2009 Sep 13          2870 x 347000 km translunar injection
+ 2009 Sep 17 0049     Lunar flyby height 43875 km 
+ 2009 Sep 26          19690 x 347310 km x 8.8 deg orbit
+ 2009 Dec  2          32851 x 356728 km x 10.6 deg orbit
+ 2009 Dec  8 0125     Lunar flyby height 16101 km 
+ 2009 Dec 25          48908 x 354833 km 
+ 2010 Jan 31 0813     Lunar flyby height 11992 km  
+ 2010 Feb 13 1006     Lunar flyby height 2958 km
+ 2010 Mar 15          Apogee at 1189181 km
+ 2010 Apr 13 2120     Perigee at 10644 km 
+ 2010 May 22          At 1438600 km en route to Earth-Moon L2 
+ 
+THEMIS C (ARTEMIS P2): 2007-004C
+  Time UTC
+ 2009 Sep  6          3505 x 159642 km x 8.1 deg orbit
+ 2010 Feb  1 1444     Distant lunar pass at 69222 km
+ 2010 Feb 25          7065 x 287087 km x 3.9 deg orbit
+ 2010 Feb 26          7268 x 325166 km translunar injection
+ 2010 Mar  1 0411     Distant lunar pass at 68036 km
+ 2010 Mar  7          18644 x 326528 km
+ 2010 Mar 28 0734     Lunar flyby height 9366 km? (10200 km per UCB)
+ 2010 Apr 20          Apogee at 948560 km
+ 2010 May 12          Perigee at 89178 km
+ 2010 May 22          At 734400 km en route to 1200000 km apogee
+
+Suborbital flights
+------------------
+
+Taiwan launched a suborbital ionospheric payload on May 5; India tested
+the Agni missile on May 17. Another MARTI target for the Airborne Laser
+project was launched on a NASA Black Brant from San Nicholas Island off
+the California coast on May 3. NASA 36.270UG was launched from White
+Sands on May 21 carrying the University of Colorado's Diffuse
+Interstellar Cloud Experiment (DICE), which uses a far-ultraviolet
+spectrograph to detect absorption along the line of sight to two stars.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Apr  2 0404   Soyuz TMA-18        Soyuz-FG         Baykonur LC1     Spaceship  11A
+Apr  5 1021   Discovery (STS-131) Space Shuttle    Kennedy LC39A    Spaceship  12A
+              Leonardo                                              Module     12
+Apr  8 1357   CryoSat-2           Dnepr            Baykonur LC109/95 Science   13A
+Apr 15 1057   GSAT-4              GSLV Mk II       Sriharikota      Comms      F01
+Apr 16 1500   Kosmos-2462         Soyuz-U          Plesetsk         Imaging    14A
+Apr 22 2352   X-37B OTV-1         Atlas V 501      Canaveral SLC41  Spaceplane 15A
+Apr 24 1119   SES-1               Proton-M/Briz-M  Baykonur         Comms      16A
+Apr 27 0105   Kosmos-2463         Kosmos-3M        Plesetsk LC132/1 Nav        17A
+Apr 28 1715   Progress M-05M      Soyuz-U          Baykonur LC1     Cargo      18A
+May 14 1820   Atlantis (STS-132)  Space Shuttle    Kennedy LC39A    Spaceship  19A
+May 20 2158   Akatsuki    )       H-IIA 202        Tanegashima     Venus Probe 20D
+              Ikaros      )                                         Solar sail 20E
+              Unitec-1    )                                         Tech       20F
+              Negai*      )                                       Tech/imaging 20A
+              Waseda-Sat 2)                                         Imaging    20B
+              KSAT        )                                         Science    20C
+May 21 2201   Astra 3B  )         Ariane 5ECA      Kourou ELA3      Comms      21A
+              ComsatBw-2)                                           Comms      21B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Apr 23 2300   HTV-2a          Minotaur IVL     Vandenberg SLC8 Hypersonic  100?
+May  3 0947   NASA 36.248DR   Black Brant IX   San Nicholas I  Target      150?
+May  3 1832   NASA 36.258UE   Black Brant IX   White Sands     Solar EUV   280?
+May  4 1241   SpaceLoft SL-4  SpaceLoft XL     SW Regional     Micrograv   113?
+May  5 1150   SR VII          Sounding Rocket  Jiu Peng        Ionosphere  287
+May 17 0348   Agni RV         Agni A2          Wheeler I       Training    300?
+May 21 0900?  NASA 36.270UG   Black Brant IX   White Sands     UV Astron   325?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

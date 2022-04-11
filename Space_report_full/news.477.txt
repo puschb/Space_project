@@ -1,0 +1,104 @@
+Jonathan's Space Report
+No. 477                                             2002 Apr 26 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+In the course of 4 spacewalks the STS-110 crew added the S0 truss to the
+Station. On Apr 11 at 1030 UTC the S0 truss was unberthed from Atlantis,
+and berthed to the Destiny module's Lab Cradle Assembly at 1346 UTC. At
+1433 the Quest airlock was depressurized and Smith and Walheim emerged
+to bolt in place the two forward MTS struts and deploy a trailing
+umbilical for the mobile transporter. The airlock was repressurized at
+2224 UTC.
+
+The second spacewalk was from 1405 to 2139 UTC on Apr 13; Ross and Morin
+attached the aft MTS struts and deployed the second trailing umbilical.
+On Apr 14 from 1344 to 2015 UTC Smith and Walheim made the third EVA and
+rewired the SSRMS station robot arm to get power via S0; they also
+removed launch restraint bolts from the Mobile Transporter. On Apr 16
+from about 1426 UTC to 2106 UTC the airlock was again depressurized, and
+Ross and Morin deployed the Airlock Spur, a small ladder from S0 to
+Quest, as well as installing some floodlights. The Mobile Transporter
+was tested in a small move on Apr 15.
+
+Atlantis undocked from ISS at 1831 UTC on Apr 17 and returned to
+Earth on Apr 19, with a deorbit burn at 1518:59 UTC and landing
+on runway 33 at KSC at 1626:57 UTC.
+
+At 0916 UTC on Apr 20 Soyuz TM-33 undocked from the Zarya nadir port
+carrying the Expedition-4 crew. It redocked with the Pirs nadir port at
+0937 UTC.  Soyuz TM-34 (spacecraft No. 208) was launched on Apr 25.
+Commander is Yuri Gidzenko of Rosaviakosmos, flight engineer is Roberto
+Vittori of ESA. Tourist Mark Shuttleworth, a South African citizen, is
+also aboard as 'uchastnik poleta', or 'flight participant'. The 4S
+flight will dock at the Zarya nadir port and  the crew will return to
+Earth in the old TM-33 vehicle, leaving TM-34 as the active rescue
+vehicle. At 1210 UTC Soyuz TM-34 was in a 242 x 269 km x 51.6 deg orbit.
+
+The next Shuttle mission is STS-111, scheduled for late May.
+
+
+Recent Launches
+---------------
+
+Arianespace launched Ariane mission V150, an Ariane 44L, on Apr 16. The
+Lockheed Martin A2100 class NSS 7 satellite was put in orbit; the
+satellite is owned by New Skies, an Intelsat spinoff, and carries a C/Ku
+band telecoms payload. The spacecraft was in a 24200 x 35706 km x 0.7
+deg orbit by Apr 24, on its way to GEO.
+
+Space Command has now cataloged the Kosmos-2388 satellite in a 519 x
+39178 km x 62.93 deg orbit, over two weeks after its launch.
+As of Apr 22, TDRS I was still in an 8391 x 35806 km transfer orbit
+with no new orbit changes since late March.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  1 0108   Envisat           Ariane 5G      Kourou ELA3      Rem.Sensing  09A
+Mar  1 1122   Columbia STS-109  Space Shuttle  Kennedy LC39A    Spaceship    10A  
+Mar  8 2259   TDRS I            Atlas 2A       Canaveral SLC36A Data relay   11A
+Mar 17 0921   GRACE 1 )         Rokot          Plesetsk LC133   Science      12A
+              GRACE 2 )                                                      12B
+Mar 19 2228   Kolibri           -              Progress, LEO    Education  01-51C
+Mar 21 2013   Progress M1-8     Soyuz-FG       Baykonur LC1     Cargo        13A
+Mar 25 1415   Shenzhou 3  )     CZ-2F          Jiuquan          Spaceship    14A
+              SZ-3 module )                                                  14C
+Mar 29 0129   Astra 3A)         Ariane 44L     Kourou ELA2      Comms        15A
+              JCSAT 8 )                                         Comms        15B
+Mar 30 1725   Intelsat 903      Proton-K/DM3   Baykonur LC81/23 Comms        16A
+Apr  1 2207   Kosmos-2388       Molniya-M      Plesetsk LC16/2  Early Warn   17A
+Apr  8 2044   Atlantis STS-110) Space Shuttle  Kennedy LC39B    Spaceship    18A
+              S0              )                                 Station piece
+Apr 16 2302   NSS 7             Ariane 44L     Kourou ELA2      Comms        19A
+Apr 25 0626   Soyuz TM-34       Soyuz-U        Baykonur LC1     Spaceship    20A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107 2002 Jul 11  Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        OPF           STS-112 2002 Aug 22  ISS 9A
+OV-105 Endeavour       VAB           STS-111 2002 May 30  ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

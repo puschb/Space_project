@@ -1,0 +1,369 @@
+Jonathan's Space Report
+No. 271-A                    1996 Jan 3                       Cambridge, MA
+--------------------------------------------------------------------------------
+
+Special Edition - 1995 Launch Summary
+--------------------------------------
+
+As usual, this year's summary is in a different format from last year's.
+There are four parts: Launch and orbital data; Manufacturer data; 
+abbreviation list; and launch vehicle data. There may be some errors,
+particularly in the manufacturer data - please let me know any you spot.
+Because of the large size of the launch summary, I am sending the launch
+vehicle data in a separate message (271-B). 
+
+ORBITAL PAYLOADS 1995
+
+PART 1 - List and current status
+
+ Orbits are given for late Dec 1995: 
+ perigee (km) x apogee (km) x inclination (deg)
+
+INT'L   NAME            AGENCY  TYPE      LAUNCH     ORBIT OR STATUS
+DESIGN.                                   DATE
+
+01A  Intelsat 704     INTELSAT  Comsat     Jan 10   35776 x 35796 x  0.1 66.0E
+-    EXPRESS          DARA      Micrograv  Jan 15   Crashed in Ghana Jan 15
+02A  Tsikada          MO RF     Navsat     Jan 24     962 x  1023 x 82.9
+02B  Astrid           SSC       Science    Jan 24     963 x  1027 x 82.9
+02C  FAISAT           FAI       Comsat     Jan 24     965 x  1023 x 82.9
+-    Apstar 2         APT       Comsat     Jan 25   Destroyed in launch
+03A  UHF F4           HCI/USN   Comsat     Jan 29   35773 x 35804 x  4.8 177.0W
+04A  Discovery STS-63 NASA-JSC  Spaceship  Feb  3   Landed at KSC Feb 11
+04A  Spacehab SH03    Spacehab  Lab        Feb  3   Attached to Discovery
+04C  ODERACS IIA      NASA-JSC  Calibrat.  Feb  4     268 x   280 x 51.6
+04D  ODERACS IIB      NASA-JSC  Calibrat.  Feb  4   Reentered Sep 29
+04E  ODERACS IIC      NASA-JSC  Calibrat.  Feb  4   Reentered?
+04F  ODERACS IID      NASA-JSC  Calibrat.  Feb  4   Reentered Mar 2
+04G  ODERACS IIE      NASA-JSC  Calibrat.  Feb  4   Reentered Feb 27
+04H  ODERACS IIF      NASA-JSC  Calibrat.  Feb  4   Reentered?
+04B  Spartan 204      USAF      Tech/Astro Feb  7   Retrieved by Discovery Feb 9
+05A  Progress M-26    RKA       Cargo      Feb 15  Deorbited over Pacific Mar 15
+06A  Foton No. 10     RKA       Micrograv  Feb 16   Landed in Russia Mar 3
+07A  Endeavour STS-67 NASA-JSC  Spaceship  Mar  2   Landed at Edwards Mar 18
+07A  Astro 2          NASA-MSFC Astronomy  Mar  2   Attached to Endeavour
+08A  Kosmos-2306      MO RF     Calibrat.  Mar  2     466 x   513 x 65.8
+09A  Kosmos-2307      MO RF     Navsat     Mar  7   19110 x 19149 x 64.7
+09B  Kosmos-2308      MO RF     Navsat     Mar  7   19108 x 19151 x 64.7
+09C  Kosmos-2309      MO RF     Navsat     Mar  7   19094 x 19165 x 64.7
+10A  Soyuz TM-21      RKA       Spaceship  Mar 14   Landed in Kazakhstan Sep 11
+11A  SFU              NASDA     Science    Mar 18     471 x   483 x 28.5
+11B  Himawari 5       NASDA     Weather    Mar 18   35784 x 35791 x  0.6 140.2E
+12A  Kosmos-2310      MO RF     Navigation Mar 22     980 x  1010 x 82.9
+13A  Intelsat 705     INTELSAT  Comsat     Mar 22   35776 x 35798 x  0.0  50.1W
+14A  Kosmos-2311      MO RF     Recon      Mar 22   Landed in Russia? May 31
+15A  DMSP 24547       USAF      Weather    Mar 24     845 x   854 x 98.8
+-    Gurwin 1         ISA       Technology Mar 28  Fell in Sea of Okhotsk Mar 28
+-    UNAMSAT          UNAM      Comsat     Mar 28  Fell in Sea of Okhotsk Mar 28
+-    EKA              NIITT     Technology Mar 28  Fell in Sea of Okhotsk Mar 28
+16A  Brasilsat B2     EMBRATEL  Comsat     Mar 28   35782 x 35793 x  0.1  65.1W
+16B  Hot Bird 1       EUTELSAT  Comsat     Mar 28   35773 x 35798 x  0.0  13.0E
+17A  Orbcomm FM1      Orbcomm   Comsat     Apr  3     733 x   748 x 70.0
+17B  Orbcomm FM2      Orbcomm   Comsat     Apr  3     734 x   748 x 70.0
+17C  Microlab 1       OSC       Science    Apr  3     733 x   747 x 70.0
+18A  'Ofeq-3          ISA       Rem.sens.  Apr  5     366 x   694 x143.4
+19A  AMSC-1           AMSC      Comsat     Apr  7   35777 x 35796 x  0.0 101.1W
+20A  Progress M-27    RKA       Cargo      Apr  9  Deorbited over Pacific May 23
+86-17JE GFZ-1         GFZ       Geodesy    Apr 19     380 x   387 x 51.6
+21A  ERS-2            ESA       Rem.sens.  Apr 21     783 x   784 x 98.6
+22A  USA 110          NRO/NSA   Sigint     May 14   35787 x 35787 x  0.0 ??
+23A  Intelsat 706     INTELSAT  Comsat     May 17   35776 x 35798 x  0.0  53.1W
+24A  Spektr           RKA       Lab        May 20  Docked to Mir Jun 1
+25A  GOES 9           NOAA      Weather    May 23   35809 x 35911 x  0.2 
+26A  Kosmos-2312      MO RF     Early Warn May 24     938 x 39416 x 63.2
+27A  UHF F5           HCI/USN   Comsat     May 31   35774 x 35796 x  4.8  72.3E
+28A  Kosmos-2313      MO RF     Elint      Jun  8     410 x   419 x 65.0
+29A  DBS 3            DirecTV   Comsat     Jun 10   35784 x 35789 x  0.0 101.0W
+-    STEP M3          USAF      Technology Jun 22  Destroyed during launch 
+30A  Atlantis STS-71  NASA-JSC  Spaceship  Jun 27   Landed at KSC Jul 6
+31A  Kosmos-2314      MO RF     Recon      Jun 28   Landed in Russia? Sep 6
+32A  Kosmos-2315      MO RF     Navsat     Jul  5     970 x  1013 x 82.9
+33A  Helios 1A        CNES/DGA  Recon      Jul  7     679 x   682 x 98.1
+33B  CERISE           CNES/DGA  Sigint     Jul  7     666 x   675 x 98.1
+33C  UPM/LBSAT 1      UPM       Technology Jul  7     663 x   676 x 98.1
+34A  USA 112          NRO/NSA   Sigint     Jul 10    1000 x 39000 x 64 ??
+89-84E Galileo Probe  NASA-ARC  Probe      Jul 13  Entry into Jupiter Dec 7
+35A  Discovery STS-70 NASA-JSC  Spaceship  Jul 13   Landed at KSC Jul 22
+35B  TDRS 7           NASA-GSFC Comsat     Jul 13   35774 x 35795 x  0.3 149.8W
+36A  Progress M-28    RKA       Cargo      Jul 20  Deorbited over Pacific Sep 4
+37A  Kosmos-2316      MO RF     Navsat     Jul 24   19083 x 19176 x 64.8
+37B  Kosmos-2317      MO RF     Navsat     Jul 24   19084 x 19174 x 64.8
+37C  Kosmos-2318      MO RF     Navsat     Jul 24   19036 x 19223 x 64.8
+38A  DSCS III B7      USAF      Comsat     Jul 31   35787 x 35787 x  0.0 ??
+39A  Interbol-1       RKA       Science    Aug  2    4426 x188331 x 68.2
+39F  Magion-4         Czech     Science    Aug  2    1409 x192523 x 63.1 (Aug)
+40A  PAS 4            PAS       Comsat     Aug  3   35774 x 35798 x  0.0  68.5E
+41A  Mugunghwa-ho     KoreaTel  Comsat     Aug  5   35775 x 35801 x  0.0 116.0E
+42A  Molniya-3        RKA?      Comsat     Aug  9     468 x 39875 x 62.9
+-    Vitasat/Gemstar  VITA/CTA  Comsat     Aug 15  Destroyed during launch 
+43A  JCSAT 3          JSAT      Comsat     Aug 29   35779 x 35794 x  0.0 128.1E
+44A  N-Star a         NTT       Comsat     Aug 29   35782 x 35791 x  0.1 131.9E
+45A  Kosmos-2319      MO RF     Comsat     Aug 30   35755 x 35818 x  1.3  80.0E
+46A  Sich 1           NKAU      Rem.sens.  Aug 31     631 x   668 x 82.5
+46A  Fasat-Alfa       FACh      Comsat/RS  Aug 31  Failed to sep from Sich 1
+47A  Soyuz TM-22      RKA       Spaceship  Sep  3  Docked to Mir Sep 5
+48A  Endeavour STS-69 NASA-JSC  Spaceship  Sep  7  Landed at KSC Sep 18
+48B  Spartan 201      NASA-GSFC Astronomy  Sep  8  Retrieved by Endeavour Sep 10
+48C  WSF 2            SVEC      Micrograv. Sep 11  Retrieved by Endeavour Sep 14
+49A  Telstar 402R     AT&T      Comsat     Sep 24   35770 x 35803 x  0.1  89.0W
+50A  Resurs F-2 N.10  RKA       Rem.sens.  Sep 26  Landed in Russia Oct 26
+51A  Kosmos-2320      MO RF     Recon      Sep 29     235 x   372 x 64.9
+52A  Kosmos-2321      MO RF     Navsat     Oct  6     256 x   754 x 82.9
+53A  Progress M-29    RKA       Cargo      Oct  8  Deorbited over Pacific Dec 19
+54A  Luch 1           RKA       Comsat     Oct 11   35753 x 35818 x  2.9  77.1E
+55A  Astra 1E         SES       Comsat     Oct 19   35766 x 35802 x  0.0  19.2E
+56A  Columbia STS-73  NASA-JSC  Spaceship  Oct 20  Landed at KSC Nov 5
+56A  USML-2           NASA-MSFC Lab        Oct 20  Attached to Columbia
+57A  UHF F6           HCI/USN   Comsat     Oct 22   35776 x 35797 x  5.0 105.3W
+-    Meteor           EER       Micrograv  Oct 23  Destroyed during launch 
+58A  Kosmos-2322      MO RF     Sigint     Oct 31     847 x   854 x 71.0
+59A  Radarsat         CSA       Rem.sens.  Nov  4     790 x   792 x 98.6
+59B  SURFSAT          NASA/JPL  Technology Nov  4     934 x  1494 x100.6
+60A  Milstar DFS 2    USAF      Comsat     Nov  6   35787 x 35787 x 10.0 ??
+61A  Atlantis STS-74  NASA-JSC  Spaceship  Nov 12  Landed at KSC Nov 20
+61A  316GK SM         RKA       Lab        Nov 12  Docked to Mir Nov 15
+62A  ISO              ESA       Astronomy  Nov 17    1110 x 70504 x  5.1
+63A  Gals-2           Land      Comsat     Nov 17   35784 x 35788 x  0.2  70.9E
+64A  Asiasat 2        Asiasat   Comsat     Nov 28   35777 x 35798 x  0.4 100.5E
+65A  SOHO             ESA       Astronomy  Dec  2  En route Earth-Sun L1 point
+66A  USA 116          NRO/CIA   Recon      Dec  5     250 x   976 x 98.7 ?
+67A  Telecom 2C       FT        Comsat     Dec  6   35777 x 35793 x  0.1   1.1E
+67B  Insat 2C         ISRO      Comsat     Dec  6   35755 x 35817 x  0.2  92.5E
+68A  Kosmos-2323      MO RF     Navsat     Dec 14   18677 x 19133 x 64.8
+68B  Kosmos-2324      MO RF     Navsat     Dec 14   19133 x 19142 x 64.8
+68C  Kosmos-2325      MO RF     Navsat     Dec 14   19112 x 19147 x 64.8
+69A  Galaxy 3R        HCI       Comsat     Dec 15   35756 x 35792 x  0.1
+70A  Progress M-30    RKA       Cargo      Dec 18  Docked to Mir Dec 20
+71A  Kosmos-2326      MO RF     Elint/Astr Dec 20     406 x   415 x 65.0    
+72A  IRS-1C           ISRO      Rem.sens.  Dec 28     805 x   817 x 98.6
+72B  Skipper          BMDO/MO RF Technol.  Dec 28     804 x   813 x 98.6
+73A  Echostar 1       Echostar  Comsat     Dec 28     222 x 35081 x 24.4
+74A  XTE              NASA-GSFC Astronomy  Dec 30     565 x   583 x 23.0    
+
+
+PART 2: Manufacturers/Designers.
+
+For most of the Russian spacecraft, the company named is the
+design bureau rather than the production factory.
+
+Des.  Name            Manufacturer      Bus
+
+01A  Intelsat 704     Loral     	FS-1300
+-    EXPRESS          DASA
+02A  Tsikada          Polyot    	Parus/Tsikada
+02B  Astrid           SSC               Freja-C    
+02C  FAISAT           FAI       
+-    Apstar 2         Hughes    	HS-601
+03A  UHF F4           Hughes    	HS-601
+04A  Discovery STS-63 Rockwell  	OV-103
+04A  Spacehab SH03    MDAC      	Spacehab
+04C  ODERACS IIA      NASA-JSC      
+04D  ODERACS IIB      NASA-JSC  
+04E  ODERACS IIC      NASA-JSC  
+04F  ODERACS IID      NASA-JSC  
+04G  ODERACS IIE      NASA-JSC  
+04H  ODERACS IIF      NASA-JSC  
+04B  Spartan 204      NASA-GSFC 	Spartan
+05A  Progress M-26    Energiya  	7K-TGM
+06A  Foton No. 10     TsSKB     	Vostok/Foton
+07A  Endeavour STS-67 Rockwell  	OV-105
+07A  Astro 2                    	Spacelab PLT
+08A  Kosmos-2306      Yuzhnoe?  
+09A  Kosmos-2307      Polyot    	Uragan
+09B  Kosmos-2308      Polyot    	Uragan
+09C  Kosmos-2309      Polyot    	Uragan
+10A  Soyuz TM-21      Energiya  	7K-STM
+11A  SFU              Mitsubishi 
+11B  Himawari 5       NEC               GMS
+12A  Kosmos-2310      Polyot    	Parus/Tsikada
+13A  Intelsat 705     Loral     	FS-1300
+14A  Kosmos-2311      TsSKB     	Yantar'
+15A  DMSP 24547       LMAS      	Block 5D
+-    Gurwin 1         Technion
+-    UNAMSAT          UNAM 
+-    EKA              NIITT
+16A  Brasilsat B2     Hughes    	HS-376W
+16B  Hot Bird 1       Aerospatiale 	Spacebus 2000
+17A  Orbcomm FM1      OSC               Microstar	
+17B  Orbcomm FM2      OSC               Microstar
+17C  Microlab 1       OSC               Microlab
+18A  'Ofeq-3          IAI
+19A  AMSC-1           Hughes            HS-601
+20A  Progress M-27    Energiya          7K-TGM
+86-17JE GFZ-1         Kayzer-Threde     GFZ
+21A  ERS-2            Dornier           SPOT
+22A  USA 110          Hughes?           Adv Orion
+23A  Intelsat 706     Loral 		FS-1300
+24A  Spektr           Salyut		77KS
+25A  GOES 9           Loral		GOES-Next
+26A  Kosmos-2312      Lavochkin		Oko
+27A  UHF F5           Hughes		HS-601
+28A  Kosmos-2313      Arsenal		EORSAT
+29A  DBS 3            Hughes		HS-601
+-    STEP M3          TRW/DSI		Eagle
+30A  Atlantis STS-71  Rockwell		OV-104
+31A  Kosmos-2314      TsSKB		Yantar'
+32A  Kosmos-2315      Polyot		Parus/Tsikada
+33A  Helios 1A        Aerospatiale	SPOT Mk 4
+33B  CERISE           SST		Uosat
+33C  UPM/LBSAT 1      UPM       
+34A  USA 112          Boeing?		Adv JUMPSEAT
+89-84E Galileo Probe  Hughes            Galileo Probe
+35A  Discovery STS-70 Rockwell		OV-103
+35B  TDRS 7           TRW		TDRS
+36A  Progress M-28    Energiya		7K-TGM
+37A  Kosmos-2316      Polyot		Uragan
+37B  Kosmos-2317      Polyot		Uragan
+37C  Kosmos-2318      Polyot		Uragan
+38A  DSCS III B7      LMAS              DSCS III
+39A  Interbol-1       Lavochkin         Prognoz
+39F  Magion-4         Czech             Magion
+40A  PAS 4            Hughes            HS-601
+41A  Mugunghwa-ho     LMAS              AS3000
+42A  Molniya-3        NPO-PM            Molniya-3
+-    Vitasat/Gemstar  CTA               Gemstar
+43A  JCSAT 3          Hughes		HS-601
+44A  N-Star a         Loral		FS-1300
+45A  Kosmos-2319      NPO-PM            Geizer
+46A  Sich 1           Yuzhnoe           Okean
+46A  Fasat-Alfa       SST               Uosat
+47A  Soyuz TM-22      Energiya		7K-STM
+48A  Endeavour STS-69 Rockwell		OV-105
+48B  Spartan 201      NASA-GSFC		Spartan
+48C  WSF 2            SII		WSF
+49A  Telstar 402R     LMAS		AS7000
+50A  Resurs F-2 N.10  TsSKB		Vostok/Resurs F-2
+51A  Kosmos-2320      TsSKB		Advanced Recon
+52A  Kosmos-2321      Polyot		Parus/Tsikada
+53A  Progress M-29    Energiya		7K-TGM
+54A  Luch 1           NPO-PM		Luch
+55A  Astra 1E         Hughes		HS-601
+56A  Columbia STS-73  Rockwell		OV-102
+56A  USML-2           			Spacelab LM
+57A  UHF F6           Hughes		HS-601
+-    Meteor           EER      		Meteor
+58A  Kosmos-2322      Yuzhnoe		Tselina
+59A  Radarsat         Spar 		Radarsat
+59B  SURFSAT          MDAC		Delta
+60A  Milstar DFS 2    LMA		Milstar
+61A  Atlantis STS-74  Rockwell		OV-104
+61A  316GK SM         Energiya		316GK (Modified 7K-BO)
+62A  ISO              Aerosp. 		ISO
+63A  Gals-2           NPO-PM		Gals
+64A  Asiasat 2        LMAS		AS7000
+65A  SOHO             MMS		
+66A  USA 116          LMA?		Improved CRYSTAL
+67A  Telecom 2C       MMS		Eurostar
+67B  Insat 2C         ISRO      	Insat 2
+68A  Kosmos-2323      Polyot		Uragan
+68B  Kosmos-2324      Polyot		Uragan
+68C  Kosmos-2325      Polyot		Uragan
+69A  Galaxy 3R        Hughes		HS-601
+70A  Progress M-30    Energiya		7K-TGM
+71A  Kosmos-2326      Arsenal		EORSAT
+72A  IRS-1C           ISRO      	IRS
+72B  Skipper          USU-SDL/Iskra		
+73A  Echostar 1       LMAS		AS7000
+74A  XTE              NASA-GSFC		XTE
+
+PART 3 - Abbreviations for Organizations
+
+Aerosp.  Aerospatiale
+AMSC     American Mobile Satellite Corp.
+APT      Asia Pacific Telecom Satellite Co.
+Arsenal  KB Arsenal, St-Peterburg, Russia
+Asiasat  Asia Satellite Telecommunications Co., Hong Kong
+AT&T     AT&T Corp.
+BMDO     Ballistic Missile Defense Organization, US DoD
+Boeing   Boeing Aerospace
+CIA      Central Intelligence Agency
+CNES     Centre National d'Etudes Spatiales, France
+CSA      Canadian Space Agency
+CTA      CTA, Inc., Virginia
+Czech    Czech Republic
+DARA     Deutsche Agentur fur Raumfahrtgelegenheiten, Germany
+DASA     Deutsche Aerospace
+DGA      Delegation Generale de l'Armament, France
+DirecTV  DirecTV Satellite Inc.
+Dornier  Dornier Aerospace, Germany
+Echostar Echostar Satellite Corp.
+EER      EER Systems Inc.
+EMBRATEL Embratel SA, Brazil
+Energiya RKK Energiya, Kaliningrad, Russia
+ESA      European Space Agency
+EUTELSAT European Telecommunications Satellite Organization
+FACh     Fueza Aerea de Chile (Chilean Air Force)
+FAI      Final Analysis, Inc.
+FT       France Telecom
+GFZ      Geoforschungszentrum, Potsdam, Germany
+HCI      Hughes Communications Inc.
+Hughes   Hughes Aircraft Co.
+IAI      Israeli Aircraft Industries
+INTELSAT International Telecommunications Satellite Organization
+ISA      Israeli Space Agency
+Iskra    KB Iskra, Moscow Aviation Inst.
+ISRO     Indian Space Research Organization
+JPL      Jet Propulsion Laboratory
+JSAT     Japan Satellite Systems
+Kayser-T Kayser-Threde GmbH, Germany
+KoreaTel Korea Telecom
+Land     Land Group, China
+Lavochkin NPO Lavochkin, Russia
+LMA      Lockheed Martin Astronautics
+LMAS     Lockheed Martin Astro Space
+Loral    Space Systems/Loral
+MDAC     McDonnell Douglas Astronautics
+Mitsub.  Mitsubishi, Japan
+MMS      Matra Marconi Space
+MO RF    Ministry of Defense of the Russian Federation
+NASA     United States National Aeronautics and Space Administration
+NASA-ARC  Ames Research Center
+NASA-GSFC Goddard Space Flight Center
+NASA-JSC  Johnson Space Flight Center
+NASA-MSFC Marshall Space Flight Center
+NASDA    National Space Development Agency, Japan
+NEC      Nippon Electric Corp, Japan
+NIITT    NII-TT, Russia
+NKAU     National Space Agency of Ukraine
+NOAA     United States National Oceanic and Atmospheric Administration
+NPO-PM   NPO Prikladnoi Mekhaniki, Krasnoyarsk
+NRO      National Reconnaissance Office, US DoD
+NSA      National Security Agency, US DoD
+NTT      Nippon Telephone and Telegraph
+Orbcomm  Orbital Communications Corp.
+OSC      Orbital Sciences Corp.
+PAS      PanAmSat Inc.
+Polyot   AKO Polyot, Omsk, Russia
+RKA      Russian Space Agency (Moskva, Russia)
+Rockwell Rockwell International Corp.
+Salyut   KB Salyut, Russia
+SES      Societe Europeene des Satellites, Luxembourg
+SII      Space Industries Inc. Houston, Texas
+Spacehab Spacehab, Inc.
+Spar     Spar Aerospace, Canada
+SSC      Swedish Space Corp.
+SST      Surrey Satellite Technology, Ltd.
+SVEC     Space Vacuum Epitaxy Center, Houston, Texas
+Technion Technion University, Israel
+TRW      TRW Inc, Redondo Beach, California
+TsSKB    Central Specialized Design Bureau, Samara, Russia
+UNAM     Autonomous University of Mexico
+UPM      Madrid Polytechnic University, Spain
+USAF     United States Air Force
+USN      United States Navy
+USU-SDL  Utah State U. Space Dynamics Lab
+VITA     Volunteers In Technical Assistance, Inc.
+Yuzhnoe  KB Yuzhnoe, Dnepropetrovsk, Ukraine
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

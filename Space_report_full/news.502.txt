@@ -1,0 +1,129 @@
+
+Jonathan's Space Report
+No. 502                                           2003 Jun 17, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew, Yuriy Malenchenko and Edward Lu, are on board the
+Space Station. Soyuz TMA-2 is docked to the nadir Zarya port and acts as
+the crew return vehicle. Progress vehicle 247 (M-47, flight ISS-10P) is
+docked at Zvezda's rear port. Progress vehicle 259 was launched on Jun 8
+on flight ISS-11P and became Progress M1-10. It docked with the nadir
+port on Pirs at 1115 UTC on Jun 11. Launch mass was 7270 kg.
+
+
+Recent Launches
+---------------
+
+International Launch Services launched a Krunichev Proton-K with a
+Briz-M upper stage on Jun 6. The Proton carried the AMC-9 satellite for
+SES Americom and the Briz-M into a suborbital path. The first Briz-M
+burn acheived a low parking orbit of around 180 x 180 km x 51.6 deg. A
+second burn reached 275 x 5000 x 50.3 deg; a third burn increased the
+orbit until the DTB fuel tank was depleted and jettisoned in a 296 x
+15061 km x 49.6 deg orbit. The fourth burn achieved a standard GTO of
+375 x 35786 km x 49 deg, and a final burn released AMC-9 (Americom-9)
+into an intermediate geostationary transfer orbit of 6445 x 35674 km x
+17.2 deg. The Briz-M stage has not yet been cataloged. AMC-9 will use
+its own engine to go the rest of the way to geostationary, and by Jun 10
+was in a 31848 x 35689 km x 0.8 deg orbit.
+
+AMC-9 is an Alcatel Spacebus 3000B3 with C and Ku band communications
+payloads and will provide services in North America from 72W. Launch
+mass was 4100 kg; dry mass probably around 2000 kg. The Americom series
+continues the original US domestic communications satellites, the RCA
+Americom 'Satcom' series first launched in 1975. Americom has been
+through several owners, and is now a subsidiary of the Luxembourg-based
+Societe Europeene des Satellites (SES) which was originally formed to
+run the Astra network.
+
+A Boeing Sea Launch Zenit-3SL was launched from the Odyssey platform
+floating at 154W 0N on Jun 10. The payload is a Boeing GEM spacecraft
+(modified BSS-702) for Thuraya Satellite (Abu Dhabi), which features a
+large (12m) antenna  for L-band mobile communications. The Thuraya-2
+satellite has a launch mass of 5177 kg. The Yuzhnoe Zenit second stage
+was placed on a suborbital -2155 x 187 km trajectory, and the first
+Energiya Blok DM-SL burn reached a 180 x 1390 km x 6.3 deg transfer
+orbit. A second burn put Thuraya in a 1200 x 35786 km x 6.3 deg orbit.
+
+
+The first of NASA's Mars Exploration Rovers was launched on Jun 10.
+The Boeing Delta 7925 reached a 170 km parking orbit; the second
+stage made a second burn to a 163 x 4762 km x 28.5 deg orbit
+and separated from the PAM-D third stage. Its Star 48 solid
+motor fired to put the Rover on an escape trajectory, separating
+at 1835 UTC.  The Rover will enter a 1.042 x 1.550 AU x 0.26 deg
+orbit around the Sun.
+
+The spacecraft launched on Jun 10 is MER-2 "Spirit", Mars Exploration
+Rover 2, on the MER-A mission. The first flight article, MER-1
+"Opportunity", completed checkout later and has been assigned to the
+MER-B mission to be launched later on the first flight of the Delta
+7925H rocket into a 1.01 x 1.53 AU x 1.04 deg solar orbit.  MER-A
+consists of the 174 kg Spirit rover, the 365 kg MER-2 lander, the 198 kg
+backshell and 90 kg heatshield which encapsulate lander and rover during
+Mars atmosphere entry, and the 183 kg Cruise stage which carries 52 kg
+of propellant, for a total launch mass of 1062 kg. The MER rovers were
+built by JPL.
+
+Corrected mass breakdown for Mars Express (thanks Martin Ransom): Mars
+Express has a mass of 637 kg dry including science payload and Beagle
+separation device together with 480 kg of propellant and the 69 kg
+Beagle 2 lander for a total of 1186 kg. In addition to this a 37 kg
+adapter remained attached to Fregat. Mars Express is in a 1.014 x 1.531
+AU x 0.2 deg orbit around the Sun, following a course correction  on Jun
+5 and leaving the Earth's nominal sphere of influence on Jun 6.
+NASA's OIG (and possibly USAF Space Command) have issued a decay
+notice for satellites 27816/27817, Mars Express and its Fregat rocket -
+this is of course a mistake (or at least inconsistent with previous
+treatment of spacecraft in solar orbit).
+
+Arianespace launched Ariane 515G from Kourou on Jun 11 to place BSAT-2c
+and Optus and Defence C1 into geostationary transfer orbit. The upper
+spacecraft, Optus and Defence C1, is an Australian satellite jointly
+owned by Singtel Optus Pty and the Australian Dept. of Defense. Previous
+satellites in the series were simply named Optus and didn't carry the
+extra defence comms payload. Prime contractor is Mitsubishi, using a
+Loral FS-1300 bus with a UHF, X-band and Ka-band communications payload.
+BSAT-2c, which was launched in the lower position below the SYLDA
+adapter, is an Orbital Sciences Star-1 bus for Broadcasting Satellite
+System Corp. BSAT-2c fired its solid apogee motor on Jun 16
+to enter geosynchronous drift orbit.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+May  8 1128   GSAT-2            GSLV            Sriharikota      Comms       18A
+May  9 0429   Hayabusa          M-V             Kagoshima        Probe       19A
+May 13 2210   Hellas Sat 2      Atlas V 401     Canaveral SLC41  Comms       20A
+May 24 1634   Beidou            CZ-3A           Xichang          Navigation  21A
+Jun  2 1745   Mars Express      Soyuz-FG/Fregat Baykonur LC31    Probe       22A
+Jun  4 1923   Kosmos-2398       Kosmos-3M       Plesetsk         Navigation  23A
+Jun  6 2215   AMC-9             Proton-K/Briz-M Baykonur LC200/39 Comms      24A
+Jun  8 1034   Progress M1-10    Soyuz-U         Baykonur LC1     Cargo       25A
+Jun 10 1356   Thuraya 2         Zenit-3SL       Odyssey, Pacific Phone comms 26A
+Jun 10 1758   MER-A Spirit      Delta 7925      Canaveral SLC17A Mars probe  27A
+Jun 11 2238   BSAT-2c    )      Ariane 5G       Kourou ELA3      Comms       28A
+              Optus/D C1 )                                       Comms       28B
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

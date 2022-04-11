@@ -1,0 +1,174 @@
+
+Jonathan's Space Report
+No. 408                                             1999 Sep 26 Cambridge, MA
+-------------------------------------------------------------------------------
+
+
+The Shuttle schedule's still on hold pending repairs to the Orbiters.
+Columbia was flown to Palmdale, California for refurbishment on Sep 24-25.
+It will remain there until mid-2000. The next mission will probably
+be STS-103/Discovery, the HST servicing mission, currently expected
+in late November.
+
+Recent Launches
+---------------
+
+Mars Climate Orbiter began its Mars Orbit Insertion burn on Sep 23 at
+0850UTC, but a navigation error meant that the closest approach to  the
+surface of Mars was only 57 km, half the intended height. No signal was
+received after MCO went behind the planet, and it is feared that the
+spacecraft burnt up during the unintentional aerocapture maneuver.
+Closest approach to the  planet was probably around 0900 UTC. I don't
+know the latitude and longitude of closest approach, or the likely
+impact site - if anyone has calculated these please pass the info on to
+me. It's possible that MCO survived the aeropass and is in orbit around
+Mars but defunct, with its antenna broken off; or that the friction took
+so much energy from MCO that its debris impacted on Mars some way down
+track from the entry point. Questions for the class: do we know the
+current state of the Martian atmosphere at the entry point well enough
+to model what happened to MCO? My immediate prejudice based on behaviour
+of elliptical orbit low perigee Earth satellites is that the main part
+of the MCO bus, even if damaged, should have survived the first pass and
+remained in orbit, but probably in an orbit that would impact on the
+next rev: about 50 km perigee, unknown apogee, and 90 degrees
+inclination.  The location of the succeeding impact point depends
+critically on that unknown apogee, which determines the orbital period
+and therefore how much Mars rotated before the impact. I'm not competent
+to do the relevant calculations, so we'll have to wait for more
+definitive statements from JPL.
+
+Foton 12 (spacecraft 34KS No. 12) was launched on Sep 9. The Foton
+satellites, built by TsSKB Progress of Samara, Russia, are based on the
+Zenit spy satellite bus, related to the old Vostok spaceship.  The
+spacecraft consists of a spherical descent module, a service module with
+solid-propellant deorbit motor, and a separable battery pack. Foton
+missions carry materials processing experiments and life sciences
+experiments. This flight carried a number of European experiments. The
+11A511U (Soyuz-U) launch vehicle took off from Plesetsk at 1800 UTC on
+Sep 9 and entered a 216 x 379 km x 62.8 deg orbit 9 minutes later. After
+two weeks of microgravity, the battery pack and a small adapter
+separated, with two retrorocket covers also being ejected into a higher
+323 x 492 km orbit. The retrorocket fired and separated, with the
+spacecraft's descent module landing in Russia at 52 28N 53 50E at
+between 0918 UTC and 0929 UTC (reports differ) on Sep 24.
+
+Four more Globalstar satellites were launched on Sep 22. A Starsem
+Soyuz/Ikar rocket placed the four satellites in orbit. The 11A511U
+Soyuz-U took off from area 1 at 5 GIK (Baykonur). The four strapons
+separated 2 min after launch, and at 4 min after launch the Blok-A
+central core (nominally stage 2) separated. The Blok I third stage 
+fired until 9 min after launch, entering a 235 x 906 km x 51.9 deg
+transfer orbit and separating from the Ikar upper stage and dispenser.
+At apogee Ikar burned to deploy the four satellites (M033, M050, M055,
+M058) in a 900 x 960 km x 51.9 deg parking orbit. Ikar later made a
+deorbit burn and reentered on Sep 24. Globalstar satellite numbers which
+have not yet been launched are M029, M031, M034, M039, M056, and M057. 
+The Globalstar satellites use the Space Systems/Loral LS-400 bus,
+built by SS-L/Palo Alto and Alenia/Roma. Globalstar will provide
+handheld telephone service starting in the next few months.
+
+Lockheed Martin launched an Atlas 2AS vehicle on Sep 23 carrying the
+Echostar 5 satellite. The Centaur second stage delivered Echostar 5 to a
+supersynchronous transfer orbit of 131 x 45526 km x 26.6 deg. This was
+the first flight to use RL-10 engines since the Delta 3 failure in May.
+Echostar 5 is a Ku-band satellite supplementing the Dish Network,
+built by Space Systems/Loral using the FS-1300 bus.
+
+The Lockheed Martin Athena has also returned to flight. Athena-2 flight
+LM-007 took off from Space Launch Complex 6 at Vandenberg AFB on Sep 24
+with Space Imaging Inc's Ikonos commercial imaging satellite. Ikonos
+flight satellite number 2 has apparently been named simply 'Ikonos' on
+orbit (satellite number 1 fell in the Pacific in a launch failure). If
+the launch profile was similar to that planned for the first Ikonos
+launch, the Orbus 21 third stage placed Ikonos and the OAM fourth stage
+on a suborbital trajectory. The first OAM burn would then place the
+stack in a 220 x 689 km x 98.2 deg transfer orbit 10 min after launch.
+51 min after launch, the OAM fired again at apogee for 6 minutes,
+placing Ikonos in a 678 x 682 km x 98.1 deg  sun-synchronous orbit with
+a 10:30am descending node. It then separated from Ikonos and fired again
+to lower its orbit for disposal. Space Command is tracking it in a 207 x
+431 km x 98.2 deg orbit, but also cataloged a third object in a 137 x
+630 km x 97.7 deg orbit. The orbit of this third object is very close to
+the quoted post-disposal orbit for the OAM intended for the Ikonos 1
+launch, so I'm wondering if this might actually be the OAM. The lower
+inclination is odd if it's a piece that came off during the transfer
+orbit, although I suppose it might be the Orbus 21 stage if that overperformed
+and just reached orbit.
+
+Ikonos spacecraft 2 carries a 1-meter resolution black-and-white camera and
+a 4-meter resolution color camera, with a 13 km swath width. The spacecraft 
+was built by Lockheed Martin/Sunnyvale using the LM900 bus and carries
+6 MR-103G 0.1N thrusters for attitude control. Mass is 726 kg.
+
+Arianespace launched an Ariane 44LP with the Telstar 7 satellite
+into supersynchronous transfer orbit of 129 x 59944 km x 7.0 deg
+on Sep 25 (this orbit is from the Space Command data and the perigee
+seems a bit low; the third stage is tracked in a 175 x 64273 km
+orbit). It's unusual for an Ariane launch to use the high-apogee transfer
+orbit technique. Telstar 7 is a Space Systems/Loral FS-1300 satellite owned
+by Loral Skynet. It has 24 C-band and 24 Ku-band transponders and
+has a dry mass of 1537 kg (3790 kg fuelled). Telstar 7 will provide
+communications for North America from 129 deg E.
+This was a busy week for Space Systems/Loral, with 4 Globalstar and
+two FS-1300 satellites orbited.
+
+The Yamal 101 satellite was in a 1442.06 35504 x 36302 km x 0.0 deg
+geosynchronous drift orbit ayt 63.1E drifting 1.5 deg W per day on Sep
+24. The Yamal 102 satellite was in a 1438.99 min, 35581 x 36104 km x 0.0
+deg orbit over 70E drifting 0.7 deg W per day on Sep 22. The early
+orbital data showing the Yamals in transfer orbit was erroneous; Space
+Command is not yet tracking the SOZ ullage motors.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Aug 12 2252   Telkom 1          Ariane 42P     Kourou ELA2      Comsat     42A
+Aug 17 0437   Globalstar 24)    Delta 7420     Canaveral SLC17B Comsat     43A
+              Globalstar 27)
+              Globalstar 53)
+              Globalstar 54)
+Aug 18 1800   Kosmos-2365       Soyuz-U        Plesetsk LC43/3  Recon      44A
+Aug 26 1203   Kosmos-2366       Kosmos-3M      Plesetsk         Navsat     45A
+Sep  4 2234   Koreasat 3        Ariane 42P     Kourou ELA2      Comsat     46A
+Sep  6 1636   Yamal 101 )       Proton-K/DM    Baykonur         Comsat     47A
+              Yamal 102 )                                       Comsat     47B
+Sep  9 1800   Foton 12          Soyuz-U        Plesetsk         Micrograv  48A
+Sep 22 1433   Globalstar 33)    Soyuz-U/Ikar   Baykonur LC1?    Comsat     49A
+              Globalstar 50)                                    Comsat     49B
+              Globalstar 55)                                    Comsat     49C
+              Globalstar 58)                                    Comsat     49D
+Sep 23 0602   Echostar 5        Atlas 2AS      Canaveral SLC36A Comsat     50A
+Sep 24 1821   Ikonos            Athena-2       Vandenberg SLC6  Imaging    51A
+Sep 25 0629   Telstar 7         Ariane 44LP    Kourou ELA2      Comsat     52A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-103 1999 Nov
+OV-104 Atlantis        OPF Bay 3     STS-101 2000
+OV-105 Endeavour       OPF Bay 2     STS-99  1999 Dec
+
+MLP1/
+MLP2/
+MLP3/RSRM-71?/ET?              VAB Bay 3   STS-99?
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

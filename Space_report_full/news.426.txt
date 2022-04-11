@@ -1,0 +1,101 @@
+
+
+Jonathan's Space Report
+No. 426                                         2000 May 21, Bonn
+-------------------------------------------------------------------------------
+
+
+Shuttle and Stations
+--------------------
+
+Space Shuttle OV-104 Atlantis was launched at 1011:10 UTC on May 19,
+starting mission STS-101. This was the first launch with the new
+electronic cockpit displays and other upgrades, and it seems to have
+gone almost flawlessly. The solid boosters separated at 1013 UTC and the
+main engines cutoff at 1019 UTC. The external tank, ET-102 then
+separated, with both orbiter and ET-102 in a low perigee orbit. The NASA
+PAO claimed it had reached an orbit with a 320 km perigee, but this was
+clearly an error - probably the planned post OMS-2 orbit. I'm trying to
+find out the actual transfer orbit but the PAO folks don't seem to know
+it; it was probably around 52 x 320 km. 
+
+One disadvantage of the increased computerization: in the old days you
+could hear the capcom read up the maneuver pads with the engine firing
+data, and the astronauts repeat it back. Now they just say "use the
+stuff we loaded into your computer" and the rest of us never get to see
+the numbers...
+  
+At 1054 UTC the OMS engines fired to raise perigee to 159 x 329 km x 51.6
+deg. Atlantis docked with the International Space Station at 0431 UTC
+on May 21.
+
+
+Current Launches
+----------------
+
+The Rokot launch vehicle was flown from Plesetsk on May 16. The
+two-stage modified UR-100NUTTKh ICBM, developed by Krunichev, delivered
+a Briz-KM upper stage to a suborbital trajectory. The first Briz burn
+was to an approximately 200 x 550 km transfer orbit; the second burn
+circularized at apogee. It placed two 660 kg dummy satellites in orbits
+similar to the parking orbit that was used for the defunct Iridium
+program. Simsat-1 is in a 543 x 558 km x 86.3 deg orbit; Simsat-2 is in
+a 520 x 544 km x 86.4 deg orbit. The Briz-KM stage made a third burn to
+lower its perigee to a 178 x 556 km x 86.4 deg disposal orbit.
+
+Rokot (`roar' or `rumble') is called Rockot by its Western marketers,
+EUROCKOT Launch Services GmbH, a joint venture between Krunichev and
+DaimlerChrysler Aerospace. This was its first flight from Plesetsk,
+using a launch pad originally used for Kosmos rockets.
+
+Last week I identified the Kosmos-2370 Neman-class satellite launched
+May 3 as a Yantar'-4KS2 design. In fact, this designation is
+speculative; Phil Clark proposed it as the most probable identification.
+It would be more correct to say that the 17F117 Neman is based on the
+Yantar' bus and is a descendant of the Yantar'-4KS1 design.
+
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  4 0501   Soyuz TM-30       Soyuz-U        Baykonur LC1     Spaceship  18A
+Apr 17 2106   Sesat             Proton         Baykonur LC200L  Comsat     19A
+Apr 19 0029   Galaxy IVR        Ariane 42L     Kourou ELA2      Comsat     20A
+Apr 25 2008   Progress M1-2     Soyuz-U        Baykonur LC1     Cargo      21A
+May  3 0707   GOES 11           Atlas 2A       Canaveral SLC36A Weather    22A
+May  3 1325   Kosmos-2370       Soyuz-U        Baykonur LC1     Imaging    23A
+May  8 1601   DSP 20            Titan 4B       Canaveral LC40   Early Warn 24A
+May 11 0148   GPS SVN 51        Delta 7925     Canaveral SLC17A Navsat     25A
+May 16 0828   Simsat-1 )        Rokot          Plesetsk LC133   Test       26A
+              Simsat-2 )                                                   26B
+May 19 1011   Atlantis          Space Shuttle  Kennedy  LC39A   Spaceship  27A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Sep?    ISS 3A
+OV-104 Atlantis        LEO           STS-101 2000 May 19  ISS 2A.2a
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

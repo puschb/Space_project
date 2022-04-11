@@ -1,0 +1,127 @@
+Jonathan's Space Report
+No. 272                       1996 Jan 11                   Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Space Shuttle Endeavour was launched on 1996 Jan 11,  at 0941:00 UTC,
+beginning mission STS-72. Endeavour entered a 66 x 455 km x 28.5 deg
+transfer orbit at main engine cutoff (0949:35), followed
+by separation of the ET-75 external tank (0949:47). The OMS-2 apogee burn
+at 1024:30 placed the OV-105 spacecraft in a 180 x 460 km orbit.
+The NSR rendezvous burn tomorrow will place Endeavour on track
+to meet up with the SFU satellite, currently in a 469 x 478 km
+x 28.5 deg orbit. The Japanese National Space Development Agency's
+Space Flyer Unit (SFU) was launched by an H-II rocket in Mar 1995.
+A NASDA astronaut, Koichi Wakata, is a member of the STS-72 crew.
+
+The STS-72 launch was unusual in that for the first time there
+was no mission requirement for a transatlantic landing (TAL) 
+abort site, since with a single engine failure the Orbiter could
+have made it either to orbit or back to the Cape at all times
+during the ascent. Two engine failures might have caused the
+crew to go to the Banjul, Gambia, site since the weather
+was bad at the mission's nominal TAL site at Ben Guerir,
+Morocco.
+
+Payloads on STS-72 include the Spartan 206 satellite (known
+also as OAST Flyer) and the EDFT-3 spacewalk experiment.
+
+Errata
+-------
+
+In JSR 271A, the Start launch fell on Russia, not the Sea of Okhotsk as
+originally reported. NIITT should read MITT - Moscow Institute of
+Thermal Technology. Gals-2 was procured and delivered on orbit to Land
+by AO Informkosmos, so change owner to Informkosmos/Land. The UNAMSAT
+was built by Moscow State University for UNAM. Molniya-3 is probably
+owned by MSvyazi (Russian Federation Ministry of Communications).
+Finally, it is more accurate to call the Foton and Resurs buses 'Zenit',
+instead of 'Vostok', the design is ultimately derived from the
+Vostok and Zenit spacecraft first built in 1960-63.
+
+In JSR 271B, the Israeli Shaviyt was omitted from the summary table, and
+an extra Zenit appeared mysteriously. The totals should have read 80
+launches, not 79. The Soyuz launchers are from TsSKB/Progress, not
+Energiya.
+
+Recent Launches
+--------------
+
+IRS-1C raised its orbit on Jan 1 from 805 x 817 km to 816 x 818 km.
+
+The Skipper satellite (JSR270) will investigate UV emission from a body
+entering the Earth's atmosphere. It will dip in and out of the
+atmosphere in a low perigee orbit. (Thanks to Gunter Krebs for info).
+However, as of Jan 10 Skipper was still being recorded by Space Command
+in its original 804 x 813 km orbit. (To be more precise, there are
+three objects from the 1995-72 launch. Object A, identified as IRS,
+raised its orbit. Objects B and C, which I am assuming are Skipper
+and the 2BL rocket stage, are in the 804 x 813 km orbit. Space Command
+has not as far as I know identified either object as Skipper. It is possible
+that Skipper is actually a fourth, uncataloged object but at the moment
+I find this unlikely.)
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Dec  2 0808   SOHO             Atlas IIAS     Canaveral LC36B Astronomy   65A
+Dec  5 2118   USA 116          Titan 4        Vandenberg SLC4E Recon      66A
+Dec  6 2323   Telecom 2C   )   Ariane 44L     Kourou ELA2     Comsat      67A
+              Insat 2C     )                                  Comsat      67B
+Dec 14 0610   Kosmos-2323  )                                  Navsat      68A
+              Kosmos-2324  )   Proton-K/DM2   Baykonur LC200L Navsat      68B
+              Kosmos-2325  )                                  Navsat      68C
+Dec 15 0023   Galaxy IIIR      Atlas IIA      Canaveral LC36A Comsat      69A
+Dec 18 1431   Progress M-30    Soyuz-U        Baykonur LC1    Cargo ship  70A
+Dec 20 0052   Kosmos-2326      Tsiklon-2      Baykonur LC90   Eorsat/Sci  71A
+Dec 28 0645   IRS-1C     )     Molniya-M      Baykonur LC31   Rem.sensing 72A
+              Skipper    )                                    Military    72B
+Dec 28 1150   Echostar 1       Chang Zheng 2E Xichang         Comsat      73A
+Dec 30 1348   XTE              Delta 7920     Canaveral LC17A Astronomy   74A
+Jan 11 0941   Endeavour        Shuttle        Kennedy LC39B   Spaceship   01A
+
+
+Payloads no longer in orbit
+--------------------------
+
+Nov  5        Columbia        Landed at KSC
+Nov 18        Molniya-1 (80-92A) Reentered
+Nov 20        Atlantis        Landed at KSC
+Dec  7        Galileo Probe   Entered Jovian atmosphere
+Dec 11        Kosmos-398      Reentered over Pacific
+Dec 18        Kosmos-2305     Deorbited
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       LEO           STS-72  
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                      LC39B      STS-72              
+ML2/                       
+ML3/RSRM-53               VAB Bay 1  STS-75                                     
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

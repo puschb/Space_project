@@ -1,0 +1,186 @@
+Jonathan's Space Report
+No. 655                                       2012 Mar 19 Somerville, MA USA
+--------------------------------------------------------------------------------
+
+Space Station
+-------------
+
+Expedition 30 continues with Soyuz TMA-22 docked at Poisk and Soyuz
+TMA-03M docked to the Rassvet module. Ex-30 commander is Dan Burbank;
+flight engineers 1 to 5 are Anton Shkaplerov, Anatoliy Ivanishin, Oleg
+Kononenko, Andre Kuipers, Don Pettit. The Progress M-14M cargo ship
+is docked at the Pirs module. On Mar 17 the International Space
+Station was in a 378 x 400 km x 51.6 deg orbit.
+
+The European Space Agency is preparing for the launch of the ATV cargo
+vehicle 'Edoardo Amaldi' from Kourou. The ATV-3 vehicle will dock at the
+Zvezda module.
+
+
+REQUEST
+-------
+
+I'm looking for TLE data for Soyuz TM-5 (19204) for 1988 Sep 1 to Sep 7
+(a time period that includes the multiple reentry attempts).
+The online archive is missing this data, but I know some of you have
+hoarded the paper copies...
+
+Note
+-----
+For those of you in DC, I'll be giving an informal astronomy presentation on Fri
+Mar 23, 2-4pm at my exhibit at the Natural History Museum 
+ http://www.mnh.si.edu/exhibits/evolving-universe/
+
+
+SES-4
+------
+
+The SES-4 communications satellite reached its checkout orbit
+at the 26W Atlantic Ocean slot on Feb 29. At launch it was owned
+by SES Satellite Leasing (Isle of Man); it will be operated by 
+SES World Skies (den Haag).
+
+Beidou
+------
+
+China launched the 11th Beidou Daohang Weixing on Feb 24.
+The navigation satellite entered geostationary orbit over 58.7E
+on Mar 1. On Mar 17 the orbit was 35777 x 35796 km x 1.9 deg
+at 58.6E.
+
+Four geostationary Beidou Daohang Shiyan Weixing (Experimental Beidou
+Navigation Satellite) satellites were laucnhed in 2000-2007; since then
+the operational Beidou Daohang Weixing system has included one medium
+orbit satellite, five GEO satellites and five inclined-GEO satellites.
+
+MUOS 1
+------
+
+The US Navy's first Mobile User Objective System (MUOS)
+was orbited on Feb 24 by a powerful Atlas 551 vehicle, flight AV-030.
+The MUOS payload was delivered to a 3463 x 35786 km x 19.0 deg transfer
+orbit. MUOS 1 has a dry mass of 3812 kg and is about 6740 kg fully fuelled;
+it is based on the Lockheed Martin A2100 spacecraft and will support
+UHF communications.
+
+Following UHF comms experiments with Lincoln Lab's LES satellites in the
+1960s, the US Navy began using the UHF payload on the Tacsat satellite
+(1969-1972). This was followed by the Marisat Gapfiller payloads (from
+1976), the FLTSATCOM system (from 1978) and the 'UHF Follow-On' system (from
+1993), which the MUOS system will supersede.
+
+
+LARES
+-----
+
+The LARES satellite launched on the first Vega flight is the latest
+in a series of passive, spherical, high (usually) mass-to-surface-area satellites
+carrying mirrors and laser retroreflectors for geodetic applications.
+
+  Satellite    Agency          Launch date Mass/kg       Current orbit
+                                                Diam/m
+  Starlette    CNES, France    1975 Feb  6    48 0.2   804 x  1106 km x 49.8 deg
+  Lageos       NASA, USA       1976 May  4   411 0.6  5837 x  5948 km x109.8 deg 
+  Ajisai       NASDA, Japan    1986 Aug 12   685 2.1  1479 x  1497 km x 50.0 deg
+  Etalon 1     MOM, USSR       1989 Jan 10  1230 1.3 19082 x 19168 km x 64.4 deg
+  Etalon 2     MOM, USSR       1989 May 31  1230 1.3 19082 x 19161 km x 64.4 deg
+  Lageos 2     ASI, Italy      1992 Oct 22   405 0.6  5615 x  5951 km x 52.7 deg
+  Stella       CNES, France    1993 Sep 26    48 0.2   796 x   804 km x 98.6 deg
+  GFZ-1        GFZ,Germany     1995 Apr  9    20 0.2   Reentered 1999 Jun 23
+  WESTPAC      EOS, Australia  1998 Jul 10    24 0.2   814 x   817 km x 98.4 deg
+  Starshine 1  NRL/GSFC, USA   1999 May 27    40 0.5   Reentered 2000 Feb 18
+  LRE          NASDA, Japan    2001 Aug 29    86 0.5   287 x 34091 km x 28.4 deg
+  Starshine 3  NRL/GSFC, USA   2001 Sep 30    90 0.9   Reentered 2003 Jan 21
+  Starshine 2  NRL/GSFC, USA   2001 Dec  5    39 0.5   Reentered 2002 Apr 26
+  Larets       FKA,Russia      2003 Sep 27    10 0.2   675 x   692 km x 97.8 deg
+  Blits        FKA,Russia      2009 Sep 17     7 0.2   818 x   821 km x 98.7 deg
+  LARES        ASI, Italy      2012 Feb 13   400 0.4  1435 x  1452 km x 69.5 deg
+
+The name of the attached payload on the Vega AVUM stage is the LARES
+A&H/SS  (Avionics and Harness Subsystem) and consists of several boxes
+on one `petal' (sector) of the LARES support system. The system is built
+by Temis S.r.l. of Milano, while the overall support system is built by
+the Milan company OHB CGS (formerly Carlo Gavazzi Space). Overall mass
+of the LARES support system is probably 300 kg, and the dry AVUM is
+around 660 kg for a total in orbit mass for the object of about 960 kg.
+
+Suborbital flights
+-------------------
+
+Cornell's MICA (Magnetosphere-Ionosphere Coupling in the Alfven
+resonator) auroral study payload, NASA flight 36.273UE, was launched on
+Feb 19. The rocket reached 325 km and deployed a pair of payloads to
+study auroral Alfven wave resonances; the aft payload carried wire
+antennas measuring 12m tip-to-tip and had a mass of about 45 kg. The
+forward payload was 303 kg.
+
+US Global Strike Command launched a Minuteman III from Vandenberg on
+Feb 25, carrying a single reentry vehicle which flew to a target
+in the Pacific, probably near the Kwajalein Atoll test range.
+
+On Feb 22 the US Navy launched a Trident II D-5 missile from the USS
+Tennessee submarine, SSBN 734, off the coast of Cape Canaveral, as
+flight DASO-23 (Demonstration and Shakedown Operation). The missile flew
+southeast down the Eastern Test Range, inserting the post-boost bus onto
+a suborbital trajectory. The bus probably deployed 8 reentry vehicles,
+either Mk 4 or Mk 5 type, possibly for impact near Ascension Island.
+This was the 137th consecutive success from Trident II; the previous
+acknowledged launch was the 135th, mission DASO-22, in March 2011,
+implying that an unacknowledged launch occurred sometime in the past
+year from the Pacific coast by an unidentifed submarine. The Pacific
+launches are not always announced even after the submarine in question
+has completed its patrol,  for reasons that are not really clear. A
+total of 5 launches between 2005 and 2011 have unknown dates: successful
+flights nos. 112 (DASO?), 114 (FCET-35?), 115 (FCET-35?),  125
+(FCET-40), and 136 (FCET-44?).
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jan  9 0317   ZY-3        )     Chang Zheng 4B     Taiyuan           Imaging   01A
+              Vesselsat 2 )                                          Comms     01B
+Jan 13 0056   FY-2(07)          Chang Zheng 3A     Xichang           Weather   02A
+Jan 20 0038   WGS 4             Delta 4M+(5,4)     Canaveral SLC37B  Comms     03A
+Jan 24 2318   Chibis-M          -                  PM-13M, LEO       Science   62C
+Jan 25 2306   Progress M-14M    Soyuz-U            Baykonur LC1      Cargo     04A
+Feb  3 0004?  Navid             Safir              Semnan            Imaging   05A
+Feb 13 1000   LARES   )         Vega               Kourou ELV        Geodesy   06A
+              Almasat )                                              Tech      06B
+              XaTcobeo )                                             Tech      06
+              ROBUSTA  )                                             Tech      06
+              e-st@r   )                                             Tech      06
+              Goliat   )                                             Tech      06
+              PWSat-1  )                                             Tech      06
+              MaSat-1  )                                             Tech      06
+              UNICubeSat-GG )                                        Tech      06
+              LARES Support Sys)                                     Tech      06K
+Feb 14 1936   SES-4              Proton-M/Briz-M   Baykonur LC200/39 Comms     07A
+Feb 24 1612   Beidou DW 11       Chang Zheng 3C    Xichang           Nav       08A
+Feb 24 2215   MUOS 1             Atlas V 551       Canaveral         Comms     09A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Jan 11 1325   NASA 12.074GT    Terrier Malemute   Wallops             Test         500?
+Jan 12 1451   S-520-26         S-520              Uchinoura           Atm Sci      298
+Jan 28 1815   STIG-A-III       STIG-A             Spaceport America   Test          82
+Feb 10 0440   Target           Prithvi            Chandipur           Target       100
+Feb 13 0932   MASER 12         VSB-30             ESRANGE             Micrograv    260
+Feb 19 0541   NASA 36.273UE    Black Brant IX     Poker Flat          Auroral      325
+Feb 22        8 x USN Mk 5 RV? Trident II         USS Tennessee, ETR  Op.Test     1000?
+Feb 25 1046   GT206GM          Minuteman III      Vandenberg LF09     Op.Test     1300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

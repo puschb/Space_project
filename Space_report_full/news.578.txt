@@ -1,0 +1,163 @@
+Jonathan's Space Report
+No. 578                                       2007 Mar 16, Montreal
+-------------------------------------------------------------------------------
+
+STP-1
+-----
+
+The US Air Force STP-1 mission was launched on Mar 9 at 0310 UTC on
+Atlas V flight AV-013. It carries the Orbital Express mission with the
+two linked satellites ASTRO (Autonomous Space Transporter and Robotic
+Orbiter) and NextSat. The satellites will carry out refuelling
+experiments and undocking/docking experiments. Astro/Nextsat were
+deployed to a 490 x 498 km x 46.0 deg orbit. STP-1 also carried the
+first ESPA (EELV Secondary Payload Adapter) ring with four smaller
+satellites attached.  The US Naval Academy's Midstar-1 carries
+experimental spacecraft systems and was ejected into a 494 x 498 km x
+46.0 deg orbit. The Centaur stage then made two burns to raise the
+orbit, entering a 397 x 3435 km x 44 deg 'fast transfer' orbit 34 min
+after launch and then a 557 x 560 km x 35.4 deg orbit  13 min later. The
+remaining three satellites were then deployed.
+
+STPSat, built by AeroAstro (hi, Rick...) carries experiments to study
+the Earth's atmosphere, ionosphere and radiation environment. The Los
+Alamos Lab CFESat, built by Surrey Satellite (hi, lads...)  carries the
+Cibola Flight Experiment to survey the radio spectrum and study the
+ionosphere and lightning. Falconsat 3 is a USAF Academy student
+satellite  with ionospheric experiments and plasma atttiude control
+thrusters.   STPSat will also eject two small MEPSI picosatellites for
+the Aerospace Corp.
+
+Finally the Centaur stage was disposed of in a 500 x 545 km x 35.7 deg
+orbit.
+
+
+
+IGS
+---
+
+Makoto Kamada and other sources report the following information 
+from Japanese newspapers:
+
+The Optical-3 Verification satellite is an experimental satellite on a
+six-month engineering mission to test out improvements to the earlier
+Japanese optical spy satellites, which performed less well than hoped.
+The true Optical-3 satellite will fly in 2009, followed by launch
+of Radar-3 and Optical-4 in around 2011. After an initial checkout phase
+by JAXA, the satellites are operated by the Cabinet Satellite
+Intelligence Center (CSICE, Naikaku Eisei Joho Center) of Tokyo
+via its main Kitaura Fuku Center ground station in Ibaraki prefecture.
+
+Ariane
+------
+
+Ariane vehicle L535, flight V175 was launched on Mar 11. The EPC first
+stage entered a -1251 x 157 km x 7.2 deg suborbital path; the EPS upper
+stage delivered the payloads to geostationary transfer orbit.
+
+Payloads were Skynet 5A and Insat 4B. 
+
+Insat 4B is an ISRO communications satellite with C and Ku band
+channels, and a dry mass of 1335 kg.  Insat 4B was in a 261 x  35749 km
+x 4.5 deg transfer orbit.
+
+Skynet 5A is an EADS Astrium Eurostar 3000S communications satellite
+with a dry mass of 2170 kg. It is owned and operated by Paradigm Secure
+Communications to provide military comms for the UK Ministry of Defence
+and NATO. The first Skynet satellite was deployed in 1969 as an
+outgrowth of the US Initial Defense Satellite Communications System. By
+Mar 14 Skynet 5A was in a 32876 x  35734 km x 0.19 deg. 
+
+Europe now has an extensive history of military communications satellites,
+summarized below.
+
+European GEO military communications
+-------------------------------------
+
+Operator     Satellite      Launch       End of life
+
+UK MoD       Skynet 1A      1969 Nov 28  1980s?   IDCSP/A     Philco/Palo Alto
+UK MoD       Skynet 1B      1970 Aug 19  Failed   IDCSP/A     Philco/Palo Alto
+UK MoD       Skynet 2A      1974 Jan 19  Failed   Skynet II   Marconi/Stevenage?
+UK MoD       Skynet 2B      1974 Nov 23  1990s?   Skynet II   Marconi/Stevenage?
+UK MoD       Skynet 4B      1988 Dec 10  1998     ECS         Marconi/Stevenage
+UK MoD       Skynet 4A      1990 Jan  1  2005     ECS         Marconi/Stevenage
+UK MoD       Skynet 4C      1990 Aug 30  Active   ECS         Marconi/Stevenage
+UK MoD       Skynet 4D      1998 Jan 10  Active   ECS         Marconi/Stevenage
+UK MoD       Skynet 4E      1999 Feb 26  Active   ECS         Marconi/Stevenage
+UK MoD       Skynet 4F      2001 Feb  7  Active   ECS         Marconi/Stevenage
+Paradigm     Skynet 5A      2007 Mar 11  Active   E3000S      Astrium/Stevenage
+
+NATO NICS    NATO IIA       1970 Mar 20  1984     IDCSP/A     Philco/Palo Alto
+NATO NICS    NATO IIB       1971 Feb  3  1984?    IDCSP/A     Philco/Palo Alto
+NATO NICS    NATO IIIA      1976 Apr 22  1992     NATO-III    Ford/Palo Alto
+NATO NICS    NATO IIIB      1977 Jan 28  1993     NATO-III    Ford/Palo Alto
+NATO NICS    NATO IIIC      1978 Nov 19  1992     NATO-III    Ford/Palo Alto
+NATO NICS    NATO IIID      1984 Nov 13  2003     NATO-III    Ford/Palo Alto
+NATO NICS    NATO IVA       1991 Jan  8  Active   ECS         Marconi/Stevenage
+NATO NICS    NATO IVB       1993 Dec  8  Active   ECS         Marconi/Stevenage
+
+France DGA   Syracuse 1     1984 Aug  4  1992     ECS         Matra/Toulouse
+             (on Telecom 1A)
+France DGA   Syracuse 1     1985 May  8  1988     ECS         Matra/Toulouse
+             (on Telecom 1B)
+France DGA   Syracuse 1     1988 Mar 11  1996     ECS         Matra/Toulouse
+             (on Telecom 1B)
+France DGA   Syracuse 2     1991 Dec 16  2005     ES2000      MMS/Toulouse
+             (on Telecom 2A)
+France DGA   Syracuse 2     1992 Apr 15  2004     ES2000      MMS/Toulouse
+             (on Telecom 2B)
+France DGA   Syracuse 2     1995 Dec  6  Active   ES2000      MMS/Toulouse
+             (on Telecom 2C)
+France DGA   Syracuse 2     1996 Aug  8  Active   ES2000      MMS/Toulouse
+             (on Telecom 2D)
+France DGA   Syracuse 3A    2005 Oct 13  Active   SB4000      Alcatel Alenia/Cannes
+France DGA   Syracuse 3B    2006 Aug 11  Active   SB4000      Alcatel Alenia/Cannes
+Spain FAE    Secomsat       1992 Sep 10  2003     ES2000      MMS/Toulouse
+             (on Hispasat 1A)
+Spain FAE    Secomsat       1993 Jul 22  2006     ES2000      MMS/Toulouse
+             (on Hispasat 1B)
+Hisdesat     XTAR-EUR       2005 Feb 12  Active   LS1300      Loral/Palo Alto
+Hisdesat     Spainsat       2006 Mar 11  Active   LS1300      Loral/Palo Alto
+Italy DNA    Sicral 1A      2000 Feb  7  Active   Italsat     Alenia/Torino 
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jan 10 0416   Cartosat-2  )     PSLV            Sriharikota LP1  Imaging     01B
+              SRE-1       )                                      Tech        01C
+              LAPAN Tubsat)                                      Imaging     01A
+              Pehuensat   )                                      Comms       01D
+Jan 18 0212   Progress M-59     Soyuz-U         Baykonur LC1     Cargo       02A
+Jan 30 2322   NSS 8             Zenit-3SL       SL Odyssey, POR  Comms       F01
+Feb  2 1628   Beidou 2A         Chang Zheng 3A  Xichang          Navigation  03A
+Feb 17 2301   THEMIS A  )       Delta 7925      Canaveral SLC17B Science     04A
+              THEMIS B  )                                        Science     04B
+              THEMIS C  )                                        Science     04C
+              THEMIS D  )                                        Science     04D
+              THEMIS E  )                                        Science     04E
+Feb 24 0441   IGS Radar-2    )  H-2A 2024       Tanegashima YLP1 Radar       05A
+              IGS Optical-3V )                                   Imaging     05B
+Mar  9 0310   STPSat-1   )      Atlas V 401     Canaveral SLC41  Tech        06D
+              Astro      )                                       Tech        06A
+              NextSat    )                                       Tech        06C
+              Midstar 1  )                                       Tech        06B
+              Falconsat-3)                                       Tech/Sci    06E
+              CFESat     )                                       Science     06F
+              MEPSI Picosat)                                     Tech        06
+              MEPSI Picosat)                                     Tech        06
+Mar 11 2203   Skynet 5A )       Ariane 5ECA     Kourou ELA3      Comms       07A
+              Insat 4B  )                                        Comms       07B
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

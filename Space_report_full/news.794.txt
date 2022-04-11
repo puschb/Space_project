@@ -1,0 +1,232 @@
+Jonathan's Space Report
+No. 794                                                            2021  Jun 30   Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+The Dragon CRS-22 cargo ship docked at IDA-3 at 0909 UTC Jun 5.
+
+On Jun 10 at 2249 UTC the Canadarm-2 extracted the IROSA solar array package from CRS-22's trunk.
+At 0343 UTC Jun 11 the package was stowed on the POA (`Payload ORU Accommodation') on the station
+truss' Mobile Base System. The MBS was later moved to worksite 8 at the end of the truss railway
+to put the IROSA package nearer the P6 truss where the new arrays are to be installed.
+
+CRS-22 delivered the Nanoracks NRCSD-20 package to ISS; the crew moved it to the Kibo module airlock and
+on Jun 14 the Japanese RMS arm extracted NRCSD-20 from the airlock. Two cubesats, RamSat and SOAR,
+were ejected from it at 0505 UTC Jun 14. NRCSD-20 was then placed back in the airlock. CRS-22
+also delivered J-SSOD-17, as noted below.
+
+RamSat is a 2U student satellite from Robertsville Middle School, Oak
+Ridge, Tennessee. SOAR is a 3U cubesat from the University of Manchester
+to study materials coatings and aerodynamics in lower LEO.
+
+On Jun 16 astronauts Pesquet and Kimbrough made a spacewalk in suits
+3009 and 3006 to attempt installation of IROSA array 2B, as US EVA-74.
+The crew lost some time due to problems with Kimbrough's spacesuit, but
+eventually removed array 2B from the IROSA launch package and attached
+it to the support bracket at the base of the 2B array mast on truss
+segment P6. However, they were unable to unfold the two halves of the
+array cylinder and returned to the airlock with the array still in a
+packed configuration.
+ Quest was depressurized from 1204 to 1926 UTC and the hatch was open from 1210 to 1923 UTC.
+
+On Jun 20 US EVA-75 saw the completion of 2B IROSA deployment. EVA-75
+used spacesuits 3009 (Pesquet) and 3015 (Kimbrough) with SAFER units 13
+and 15. The airlock was depressuized at 1135 UTC and repressurized at
+1810 UTC (50 mbar level). The hatch was open from 1141 to 1807 UTC. EV1
+was outside 1147 to 1755, EV2 from 1154 to 1745. The astronauts went on
+to battery power at 1142 UTC and back to station power around 1805 UTC?.
+The IROSA 2B array was unfolded at 1300 UTC and deployed from 1524 to
+1535 UTC. The 2nd IROSA array, 4B, remained attached to the carrier on
+the MBS POA until EVA-76.
+
+On Jun 22 the Japanese RMS robot arm extracted the J-SSOD-17 deployer from the
+Kibo airlock. J-SSOD-17 was delivered to ISS on CRS-22. At 1055 UTC the deployer
+ejected MIR-SAT1, a 1U cubesat from the Mauritius Research and Innovation Council
+sponsored by the UN KiboCube program. 
+
+A second satellite was deployed a few hours later (actual time unknown).
+It was described only as a 'business satellite'. We don't know the owner
+or even which country licences the satellite. In the Space-Track
+database it is called 'BD-28', which I suspect is a designation from
+JAXA's commercial cubesat integrator SpaceBD, which probably managed the
+integration and flight, and not the name that the owner gave the
+satellite. SpaceTrack marks the satellite as being a US one, but it's not clear
+where they get that information.
+
+On Jun 25 Pesquet and Kimbrough carried out US EVA-76 to install the 4B IROSA
+array on the 4B mod kit at P6. The airlock was depressurized at 1145 UTC and
+repressurized at 1837 UTC. Hatch open/close was 1151 to 1833 UTC; astronauts
+went on battery pwer at 1152 UTC. The 4B IROSA was removed from the carrier
+at 1410 UTC and soft docked to the mod kit on P6 at 1550 UTC. Array deployment
+was complete at 1755 UTC.
+
+On Jun 29 the Canadarm-2 unberthed the S.S.Katherine Johnson (Cygnus NG-15) from
+the Unity module and at 1632 UTC released it into orbit. At 2250 UTC the IT-SPINS and MySat-2
+cubesats were deployed from the Nanoracks NRCSD-E deployer on NG-15.
+
+On Jun 29 the Progress MS-17 cargo ship (spacecraft 7K-TGM No. 446) was launched from Baykonur.
+It is scheduled to dock with the Poisk module.
+
+SXM-8
+-----
+
+On Jun 6 SpaceX launched the SXM-8 digital radio broadcasting satellite
+for Sirius XM. Launch mass of the satellite is approximately 7000 kg.
+The F9 first stage landed on the droneship JRTI. SXM-8 and the F9 second
+stage were placed in a 235 x 19384 km transfer orbit. SXM-8 was on station
+in geostationary orbit at 120.5W by Jun 22.
+
+
+CZ-2D
+-----
+
+The first of the Beijing-3 series of imaging satellites was launched from Taiyuan by a SAST CZ-2D
+on Jun 11. The satellite is operated by 21st Century Aerospace Technology of Beijing.
+The Beijing-1 satellite was built for them by Surrey Satellite and launched in 2005.
+21AT also leased the capacity of the DMC-3 satellites from Surrey, launched in 2015, and branded
+the data as Beijing-2.
+
+TacRL-2
+-------
+
+The first US Space Force Tactical Responsive Launch, TacRL-2, flew successfully on Jun 13, placing 
+the Odyssey satellite in orbit. The Northrop Grumman L-1011 Stargazer aircraft took off
+from runway 30/12 at Vandenberg Space Force Base at about 0710 UTC and headed out over the California
+coast. At 0811 UTC the airplane dropped its Pegasus XL launch vehicle at about 123.5W 35.3N.
+The Pegasus first stage ignited 5 seconds later and after about 8 minutes stage 3 burnout left
+the third stage and the Odyssey satellite in sun-synchronous orbit with a 23:43 local time descending node. 
+
+Odyssey is a satellite dedicated to `space domain awareness', which is US military jargon for 
+tracking other satellites and space debris.
+
+NROL-111
+---------
+
+On Jun 15 Northrop Grumman launched a Minotaur 1 rocket from the Mid-Atlantic Regional Spaceport
+at Wallops Island, Virginia on the NROL-111 launch mission for the US National Reconnaissance Office.
+Three small satellites were placed in low Earth orbit. Their mission is not known; I am labelling them
+as communications for now but that's a very low confidence guess.
+
+Shenzhou 12
+-----------
+
+China's first human spaceflight launch in over 4 years took off on Jun 17. The CZ-2F placed Shenzhou 12
+in orbit on its way to a rendezvous with the Tianhe/Tianzhou-2 complex.
+
+Crew of Shenzhou 12 are Nie Haipeng, Liu Boming and Tang Honbo. The spaceship docked with the forward
+port of the Tianhe module at 0754 UTC. The mission is scheduled to last three months.
+
+GPS
+----
+
+The fifth GPS Block III navigation satellite was launched on Jun 17. The
+first stage of the Falcon 9 launch vehicle landed on the droneship JRTI;
+the second stage made two burns to  place the GPS satellite in transfer
+orbit and then made a third burn to deorbit the stage southeast of South
+Africa. By Jun 25 GPS III SV05 was in a 21068 x 21098 km x 55.0 deg orbit.
+
+Yaogan 30 Group 09
+-------------------
+
+The 9th triplet of Yaogan 30 (also called Chuangxin-5) satellites was
+launched from Xichang on Jun 18. There are now 27 Yaogan-30 satellites
+in orbit; they are thought to be a signals intelligence constellation
+although a communications role also seems possible.
+
+A secondary payload, the Tianqi-14 commercial IoT data relay satellite
+for Guodian Gaokeji, was also deployed.  The CZ-2C second stage carried
+out propellant depletion venting while tumbling, resulting in one of the
+notorious spiral clouds being observed under its ground track in New Caledonia
+and Vanuatu.
+
+Iranian launch failure
+----------------------
+
+US government sources have confirmed that Iran attempted an orbital
+launch of the Simorgh rocket from the Khomeini launch complex at the
+Semnan spaceport on Jun 12, but the launch failed in some way. This is
+the 4th failed orbital attempt of the rocket (there was also a 2016 test
+launch that may not have been intended to reach orbit).
+
+There are some indications there may have been a second failed launch
+on Jun 23.
+
+Pion-NKS
+--------
+
+The Russian Defense Ministry launched its first Pion NKS naval
+electronic intelligence satellite, Pion-NKS No. 901, on Jun 25. The
+6.5-tonne spacecraft was developed by KB Arsenal (St-Peterburg) and
+TsSKB-Progress (Samara). It will probably raise perigee and circularize
+orbit on Jun 26.
+
+
+Erratum
+-------
+
+In the text of JSR793 the May 15 Starlink launch was misstated as being on May 9.
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name                           Launch Vehicle      Site            Mission  INTL.  Catalog  Perigee Apogee  Incl   Notes
+Jun  2 1617   Fengyun 4 02 xing               Chang Zheng 3B        Xichang LC2        Weather 47A  S48808 186 x 35808 x 28.5
+Jun  3 1729   Dragon CRS-22                   Falcon 9              Kennedy LC39A      Cargo   48A  S48831 193 x 212 x 51.6
+Jun  6 0426   SXM-8                           Falcon 9              Canaveral LC40     Comms   49A  S48838 235 x 19384 x 27.0
+Jun 11 0303   Beijing-3 )                     Chang Zheng 2D        Taiyuan            Imaging 50A  S48840 488 x  502 x 97.5
+              Yangwang-1)                                                            UV Astron 50
+              Haisi-2   )                                                              Imaging 50
+              Tianjian  )                                                              Tech    50
+Jun 12        Test satellite?                 Simorgh?              Khomeini          Test?    F03
+Jun 13 0811   Odyssey                         Pegasus XL            Vandenberg AFB    Tracking 51A  S48844 405 x  452 x 97.5
+Jun 14 0505   RamSat)                                               ISS, LEO       Education 9867SL S48851 414 x 421 x 51.6
+              SOAR  )                                                                Tech    9867SM S48850 414 x 421 x 51.6
+Jun 15 1335   USA 316 )                       Minotaur 1            MARS LA0B         Comms?   52A  S48846 500?x 500? x 50?
+              USA 317 )                                                               Comms?   52B  S48847 500?x 500? x 50?
+              USA 318 )                                                               Comms?   52C  S48848 500?x 500? x 50?
+Jun 17 0122   Shenzhou 12                     Chang Zheng 2F        Jiuquan          Spaceship 53A  S48852 193 x 486 x  41.4
+Jun 17 1609   GPS III SV05                    Falcon 9              Canaveral LC40    Nav      54A  S48859 394 x 20176 x 55.0
+Jun 18 0630   Yaogan 30 hao 09 zu 01 xing)    Chang Zheng 2C        Xichang           Sigint?  55A  S48860 590 x  603 x 35.0
+              Yaogan 30 hao 09 zu 02 xing)                                            Sigint?  55B  S48861 591 x  602 x 35.0
+              Yaogan 30 hao 09 zu 03 xing)                                            Sigint?  55D  S48863 592 x  602 x 35.0
+              Tianqi 14                  )                                            Comms    55E  S48864 571 x  681 x 35.1
+Jun 22 1055   MIR-SAT1                                              ISS, LEO          Tech   9867SP S48868 416 x 420 x  51.6
+Jun 22 1200?  BD-28                                                 ISS, LEO          Tech   9867SN S48867 415 x 419 x 51.6
+Jun 23?       Test satellite?                 Simorgh?              Khomeini          Test?    F03
+Jun 25 1950   Kosmos-2550                     Soyuz-2-1b            Plesetsk LC43/4   Sigint   56A  S48865 195 x 466 x 67.1
+Jun 29 2250   IT-SPINS )                                            Cygnus NG-15, LEO Sci      13C     
+              MySat-2  )                                                              Tech     13D
+Jun 29 2327   Progress MS-17                  Soyuz-2-1a            Baykonur LC31     Cargo    57A  S48869
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+May 22 1526   VG-021            Spaceship Two      Elephant Butte        Test           89       Spaceport America
+May 24 0535   MAPHEUS 11        IM/IM              Kiruna                Micrograv     216?      ESRANGE
+May 26        T4-B Target       Terrier Oriole     South Uist            Target        300?      Atlantic
+May 26        AEGIS KV          SM-3             DDG-117, D-701 Atlantic Interceptor   150?      Intercept T4-B
+May 27 0115   VIPER             Terr. Imp. Mal.    Wallops               Ionosphere    151?      Atlantic
+May 29?       FTM-31E1 Target   MRBM-T3c2          Kwajalein Meck I.     Target        500?      Pacific
+May 30        T4-B Target       Terrier Oriole     South Uist            Target        300?      Atlantic
+May 30        AEGIS KV          SM-3             DDG-117, D-701 Atlantic Interceptor   150?      Intercept T4-B
+Jun  7 0625   CIBER 2           Black Brant 9      White Sands           IR Astron     310       White Sands
+Jun 11?       RV?               Topol?             Plesetsk              Test         1000?      Kura
+Jun 23 0050   DLR BOLT-1        VS-31/Orion        Kiruna                Hypersonic    280?      ESRANGE
+Jun 25 1232   RockOn            Terrier/Imp.Orion  Wallops Island        Education     116       Atlantic
+Jun 28 0525   Agni P RV         Agni P             Kalam Island          Test          800?      Indian Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

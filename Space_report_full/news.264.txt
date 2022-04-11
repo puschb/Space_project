@@ -1,0 +1,136 @@
+Jonathan's Space Report
+No. 264                        1995 Nov 17                    Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Mission STS-74 was launched at 12:30:43 UTC on 1995 Nov 12.
+Atlantis left pad 39A on the second attempt; the Nov 11 attempt was
+scrubbed at T-5min due to bad weather at the transatlantic abort sites.
+On Nov 12, separation of the RSRM-51 solid rocket motors came at
+12:32:47 (approx) and main engine cutoff (MECO) was at around 12:39:15,
+followed by separation of external tank ET-74 a few seconds later.
+The OMS-2 orbit circularization burn was successful at 1314 UTC
+and the payload bay doors were opened at about 1400 UTC.
+Atlantis was placed in a 300 x 339 km x 51.64 deg orbit with a
+period of 90.92 min.
+
+The RMS arm was used to grapple the 316GK Docking Module in the
+payload bay at around 0546 UTC (scheduled) on Nov 14. The Docking
+Module (DM) was due to be unberthed at 0621 UTC and moved over
+the Orbiter Docking System (ODS) in the forward part of the payload bay.
+At 0717 UT on Nov 14 the Docking Module was successfully connected
+to the Orbiter Docking System as Atlantis fired thrusters to
+slam the ODS into one of the DM's docking ports, docking the craft together.
+At around 0900 UT the RMS arm released the DM, now connected to the ODS
+by a tight seal.
+
+Atlantis made an OMS burn at 0327 UTC on Nov 15 to begin the terminal
+approach to Mir. It made rendezvous at a distance of 50m at 0528 UTC
+(data from Bill Harwood). Atlantis remained at 50m until 0556 when it
+resumed its approach, stopping again at 0618 at a distance of 10m. Final
+approach from 10m began at 0622 and Atlantis docked with Mir at 0627:39
+UTC on Nov 15. By 0636 the latches on the APDS docking system were
+closed and the Docking Module was firmly attached to Kristall. The
+hatches to Mir were opened at about 0900 UTC. Orbit of the Mir/Atlantis
+complex is 391 x 394 km x 51.6 deg. Crew of the complex are: Yuriy
+Gidzenko (Station commander, Russian Air Force),  Sergey Avdeev (Mir
+Flight Engineer, RKK Energiya), Thomas Reiter (Mir Flight Engineer 2,
+European Space Agency), Ken Cameron (Atlantis commander, NASA), James
+Halsell (Atlantis pilot, NASA), Chris Hadfield (Mission specialist,
+Canadian Space Agency), Jerry Ross (Mission Specialist, NASA), and
+William McArthur  (Mission Specialist, NASA).
+
+
+Recent Launches
+--------------
+
+The European Space Agency's Infrared Space Observatory (ISO) is in
+orbit! In 1983, the IRAS satellite made the first survey of the far
+infrared sky. Its liquid-helium cooled telescope operated for less than
+a year, but it is still generating Ph.D. theses at a rapid rate -
+perhaps one of the most striking examples of a single mission having a
+profound influence on astronomy. Unlike IRAS, ISO will carry out pointed
+observations at specific targets of interest instead of scanning the
+entire sky. ISO's instruments are much more sophisticated - IRAS
+measured the brightness of sources at four wavelengths while ISO will
+return images and high resolution spectra over the entire infrared range
+from 2.5 microns to 200 microns. Mass of ISO is 2498 kg at launch, 2418
+kg at beginning of observations, and 1515 kg dry. There are four
+instruments, the LWS and SWS long and short wavelength spectrometers,
+and the ISOCAM and ISOPHOT camera and photometer systems. The liquid
+helium cooled 60 cm telescope may operate for as much as a year and a
+half. ISO was launched by an Ariane 44P from Kourou on Nov 17 into an
+elliptical transfer orbit with a period of  24 hours 8.8 minutes, and an
+altitude of 570 x 71498 km x 5.2 deg. Its on-board propulsion system
+will synchronize the orbit with a 23-hour 56 minute sidereal period, but
+unlike a communications satellite the orbit will be elliptical with an
+apogee of 70000 km, taking it far from the radiation belts. The cover of
+the cryogenic dewar will be ejected on Nov 28 launch and performance
+verification observations are planned to begin around Dec 10.
+Astronomers with time scheduled on ISO (including your eager
+correspondent!) will have to wait until early next year before regular
+observations begin.
+
+The V80 flight of Ariane used a standard 44P vehicle, with an H-10-III
+upper stage, but with the No. 02 type payload fairing. Launch was at 0120
+UTC on Nov 12, with second stage burn at 0123 and third stage burn at
+0125. The third stage shut down at 0138 and ISO separated at 0140 UTC.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Oct  6 0323   Kosmos-2321     Kosmos-3M       Plesetsk LC132  Navsat      52A
+Oct  8 1851   Progress M-29   Soyuz-U         Baykonur LC1    Cargo       53A
+Oct 11 1626   Luch-1          Proton-K/DM2M   Baykonur        Data Relay  54A
+Oct 19 0038   Astra 1E        Ariane 42L      Kourou ELA2     Comsat      55A
+Oct 20 1353   Columbia       ) Shuttle        Kennedy LC39B   Spaceship   56A
+              Spacelab USML-2)
+Oct 22 0800   UHF F6           Atlas II       Canaveral LC36  Comsat      57A
+Oct 23 2203   Meteor           Conestoga 1620 Wallops LA0     Micrograv   FTO
+Oct 31 2019   Kosmos-2322      Zenit-2        Baykonur LC45L  Sigint      58A
+Nov  4 1422   Radarsat )       Delta 7920     Vandenberg SLC2 Rem sensing 59A
+              SURFSAT  )                                                  59B
+Nov  6 0515   Milstar DFS 2   Titan 4 Centaur Canaveral LC40  Comsat      60A
+Nov 12 1230   Atlantis       ) Shuttle        Kennedy   LC39A Spaceship   61A
+              Docking Module )
+Nov 17 0120   ISO              Ariane 44P     Kourou ELA2     Astronomy   62A
+
+Reentries
+---------
+
+Oct 26        Resurs-F2       Landed 
+Nov  5        Columbia        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-75  Feb 29
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        LEO           STS-74  
+OV-105 Endeavour       OPF Bay 3     STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-52/ET-75          VAB        STS-72                       
+ML2/                       LC39A      STS-74
+ML3/                                      
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

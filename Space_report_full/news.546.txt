@@ -1,0 +1,107 @@
+Jonathan's Space Report
+No. 546                                          2005 Apr 14, Somerville, MA
+-------------------------------------------------------------------------------
+
+NASA
+----
+
+Mike Griffin was confirmed as NASA Administrator on Apr 14. In testimony
+to the US Senate, Griffin endorsed both human exploration and the
+robotic science program, saying "NASA can do more than one thing".
+That's a very encouraging beginning - let's hope he can make the math
+work out, because just in the past couple of weeks space science got hit
+with big cuts to Great Observatory operating budgets and major research
+grant (i.e. postdoc salary) programs in order to help pay for Shuttle
+return-to-flight costs.
+
+Space Station
+-------------
+
+Expedition 10 astronauts Shalizan Sharipov (in suit Orlan-M No. 27) and
+Leroy Chiao (in suit Orlan-M No. 25) made a spacewalk on Mar 28 from the
+Pirs airlock module. They installed communications and GPS antennae to
+support rendezvous and docking by the European ATV Jules Verne ferry.
+Pirs was depressurized by 0608 UTC and the hatch was opened at 0625 UTC.
+At 0830 UTC Sharipov threw a 5 kg nanosatellite into space, and at 1055
+UTC the hatch was closed for repressurization at 1057. The nanosatellite
+experiment is called Nanosputnik,  TEKh-42 or TNS-0 No. 1, and is 0.3m
+long. Several antenna covers and cleaning towels were also jettisoned,
+with mass at most 0.1 kg each. [Times from Andrey Krasil'nikov; duration
+4h30min hatch open/close; 4h49min depress/repress].
+
+Launch of Soyuz TMA-6 is scheduled for Apr 15, with Expedition 11 crew
+Sergey Krikalyov and John Phillips  as well as EP-8 visiting crewmember
+Roberto Vittori aboard.
+
+XSS-11
+------
+
+The US Air Force has launched the XSS-11 experimental satellite on an
+Orbital Minotaur from Space Launch Complex 8 at Vandenberg. The
+satellite probably entered an 800 km, 99 deg orbit. It will rendezvous
+with several defunct US-owned satellites to test autonomous rendezvous
+and inspection technology. The satellite was built by Lockheed
+Martin/Denver for the Air Force Research Lab.
+
+Apstar 6
+--------
+
+APT Satellite Co. (Hong Kong) launched the APStar 6 communications
+satellite to supplement its existing fleet. The satellite was launched
+by China using a CZ-3B into a 209 x 49991 km x 26 deg supersynchronous
+transfer orbit. It is an Alcatel Spacebus 4000 with Ku and C band
+transponders.
+
+
+Ekspress AM-2
+-------------
+
+Russia's Ekspress AM-2 communications satellite was launched at 2131 UTC
+on Mar 29 by a Krunichev Proton-K rocket, serial number 410-09, with an
+Energiya Blok DM-2M upper stage. The Proton-K third stage reached low
+parking orbit, with the DM-2M first burn at 2244 UTC entering elliptical
+transfer orbit. Ekspress AM-2 is built by NPO PM with an Alcatel comms
+payload of C, Ku and L band transponders. It will be stationed at 80E.
+[Note: some reports quote 2231 UTC, which is an error caused by ignoring
+Moscow's recent shift to daylight saving time when converting from Moscow time].
+
+Cassini
+-------
+
+The Cassini spacecraft made its Titan-4 flyby at 2005 UTC on Mar 31,
+passing 2402 km above 33.3 deg N 118.6 deg W. Closest approach to Saturn
+on this orbit was on Mar 29, completing a 20-day circuit which began
+with a 504 km Enceladus flyby and a 82000 km Tethys flyby on Mar 9. The
+flyby lowered the Saturnian apoapsis  The north polar Titan-5 (06TI)
+flyby is due on 1912 UTC Apr 16 at a height of 1025 km above 74.0N 272W.
+
+Himawari-6
+----------
+
+Japan has renamed the MTSAT-1R as Himawari-6, following on from the
+GMS weather satellites Himawari-1 to 5 (Himawari means 'sunflower').
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Mar  1 0351   XM Radio 3        Zenit-3SL       Odyssey, PO      Comms       08A
+Mar 11 2142   Inmarsat 4 F-1    Atlas V 431     Canaveral SLC41  Comms       09A
+Mar 28 0830   TNS-0 Nanosputnik -               ISS, LEO         Tech        05C
+Mar 29 2131   Ekspress AM-2     Proton-K/DM2M   Baykonur PL200   Comms       10A
+Apr 11 1335   XSS-11            Minotaur        Vandenberg SLC8  Tech        11A
+Apr 12 1200   Apstar 6          CZ-3B           Xichang          Comms       12A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

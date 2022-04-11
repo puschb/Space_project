@@ -1,0 +1,245 @@
+Jonathan's Space Report
+No. 374 draft                              1998 Oct  5  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Editorial
+---------
+
+I have updated the satellite catalog 
+http://hea-www.harvard.edu/~jcm/space/log/satcat.txt
+and released a major new product - the master log of all orbital launches,
+with as many launch times, launch vehicle serial numbers, pads, etc.
+as I've been able to dig up. This is at
+http://hea-www.harvard.edu/~jcm/space/log/launch.html
+It includes a 1Mb text file about 180 columns wide, launchlog.txt.
+Those of you who love this kind of dataset (you know who you are),
+please feed back any errors you find.
+
+
+Orbital Launch Sites
+--------------------
+
+As part of preparing the launch log, I've come up with a revised
+list of orbital launch sites.
+
+I apologize for the mixed use of (degrees minutes) and decimal degrees
+in the latitudes and longitudes. The abbreviations on the left are my own.
+Note that Baykonur and Plesetsk have changed their designations over the
+years. I've counted San Marco as a mobile sea launch complex, since
+that was its original design even though they never got around to moving
+it.
+
+--- Fixed Launch Sites ---
+
+CC       Cape Canaveral, Florida                              28 27N 80 32W
+KSC      Kennedy Space Center, Florida                        28 27N 80 32W
+SPFL     Spaceport Florida, Cape Canaveral, Florida           28 28N 80 32W
+PA       Point Arguello, California (later S Vandenberg)      34 37N 120 35W
+V        Vandenberg AFB, California                           34 38N 120 32W
+WI       Wallops Island, Virginia                             37 50N 75 29W
+
+NIIP-5   5NIIP, Baykonur, Kazakstan                           45 38N 63 16E
+GIK-5    5GIK, Kosmodrom Baykonur, Kazakstan                  45 38N 63 16E
+NIIP-53  Plesetsk, Archangel'sk, Rossiya                      65 42N 40 21E
+GIK-1    Plesetsk, Archangel'sk, Rossiya                      65 42N 40 21E
+GNIIP    Plesetsk (Strategic Rocket Forces), Rossiya          65 42N 40 21E
+GTsP-4   Kapustin Yar, Astrachan', Rossiya                    48 31N 45 48E
+GIK-2    Svobodniy-18, Amurskaya, Rossiya                     51.7N 128.0E   
+
+ALCA     Alcantara, Maranhao, Brasil                          02 17S 44 23W
+CSG      Centre Spatial Guyanais, Kourou, Guiane              05 12N 52 44W
+HMG      Hammaguir, Algerie                                   30 54N 03 05W
+JQ       Jiuquan, Nei Monggol Zizhiqu, Zhong Guo (China)      41.1N 100.3E
+KASC     Kagoshima, Kyushu, Nihon (Japan)                     31 15N 131 04E
+MUSU     Musudan, Hamgyong Namdo, Choson (N Korea)            40.5N 129.5E
+PALB     Palmachim AFB, Israel                                31.9N  34.7E
+SHAR     Sriharikota, Andhra Pradesh, India                   13.8N  80.3E
+TNSC     Tanegashima, Osumi-Shoto, Nihon (Japan)              30.4N 131.0E
+TYSC     Taiyuan, Shanxi, Zhong Guo (China)                   37.8N 111.5E
+WOO      Woomera, South Australia                             31 06S 136 48E
+XSC      Xichang, Sichuan, Zhong Guo (China)                  28.1N 102.3E
+
+--- Launch Takeoff Points for Air Drop Launch Vehicles ---
+
+EAFB     Edwards AFB, California                              34.5N 117.5W
+GAN      Gando AFB, Gran Canaria                              27.6N 15.2W
+NOTS     Naval Ordnance Test Station, China Lake, California  35.4N 117.4W
+V        Vandenberg AFB, California                           34 38N 120 32W
+WI       Wallops Island, Virginia                             37 50N 75 29W
+KSC      Kennedy Space Center, Florida                        28 27N 80 32W
+
+--- Launch Sites for Mobile (Air, Sea) Launch Vehicles ---
+
+BLA      Barents Sea Launch Area, Murmansk, Rossiya           35.3E 69.3N
+DZGC     Drop Zone, Gran Canaria                              27.0N 15.3W
+DZSB     Drop Zone, Point Mugu Santa Barbara Channel          34.0N 120.0W
+DZWI     Drop Zone, Wallops Island                            37.0N 72.0W
+MFWA     Drop Zone, Mayport, Florida, Warning Area            29N? 79W?
+PAWA     Drop Zone, Point Arguello Warning Area               36.0N 123.0W
+SMLC     San Marco Launch Complex, Indian Ocean, Kenya        02 56S 40 13E
+
+
+
+Shuttle and Mir
+---------------
+
+The next Shuttle mission is STS-95, with orbiter OV-103 Discovery.
+
+
+Errata
+-------
+
+The Orbcomm launch on Sep 23 was at 0506 UTC, not 1706 UTC
+as I said in last week's text.
+
+PAS 3R is over the Atlantic at 44W, not over the Indian Ocean;
+I confused it with Measat 1 which was launched at the same time.
+
+Recent Launches
+---------------
+
+
+* Kosmos-2361?
+
+A satellite was launched on Sep 28 for the Russian Defence Ministry and
+reported as a Kosmos satellite; it would then be Kosmos-2361.  Usually,
+Kosmos satellites launched on the 8K78M launch vehicle are Oko-class
+early warning satellites built by Lavochkin, but these are launched with
+arguments of perigee around 312 degrees, and the new launch has an
+argument of perigee of 280 degrees, a characteristic fingerprint of
+Molniya communications satellites. The NASA OIG bulletin board is
+reporting the satellite as a Molniya-1. It's possible that the satellite
+is a failed Molniya-1, or that TASS messed up and gave out the wrong
+name.
+
+The 8K78M (Molniya-M) launch vehicle placed Kosmos-2361 and the Blok-L
+fourth stage in low 208 x 384 km parking orbit from Plesetsk. The Blok-L
+burn then delivered the payload to a 12-hour, 419 x 40708 km x 62.8 deg
+elliptical orbit.
+
+
+* Orbital Sciences launches STEX 
+
+An Orbital Science ARPA Taurus rocket placed the STEX (Space Technology
+EXperiments) satellite in orbit on Oct 3. The STEX satellite was built
+by Lockheed Martin Astronautics (Denver) for the National Reconnaissance
+Office. STEX's main experiments are provided by the Naval Research Lab,
+including Hall Effect electric thrusters derived from Russian technology
+and a 6 kilometer tether experiment, a follow-on to the earlier TIPS
+satellite. STEX also carries experimental solar arrays and batteries.
+STEX entered a 665 km orbit with an inclination of 85 degrees. It
+has also been designated USA 140.
+
+The ATEX advanced tether experiment consists of two end masses connected
+with a 6 km polyethelyne tether. The upper end mass will be deployed
+with the lower end mass remaining attached to STEX, for a series of
+dynamics experiments. Later, the lower end mass will separate from
+STEX and the ATEX end masses will form a free-flying pair as a distinct
+satellite.
+
+The ARPA Taurus rocket uses a TU-904 solid motor as its first stage; the
+stage is the first stage of the Peacekeeper ICBM. The regular Taurus
+uses a commercial variant of the stage, the Castor 120. The second and
+third stages are Alliant  Orion 50 solid motors, like the first and
+second stages of Orbital's winged Pegasus launch vehicle. The fourth
+stage is an Orion 38, the same as the Pegasus third stage. This was the
+third Taurus launch, and like the others was carried out from complex
+576-East at Vandenberg Air Force Base.
+
+  Taurus launches:
+
+  1  ARPA Taurus  1994 Mar 13  STEP M0
+  2  Taurus       1998 Feb 10  GFO/Orbcomm
+  3  ARPA Taurus  1998 Oct  3  STEX/ATEX
+
+
+* Ariane launches Eutelsat W2 and Sirius 3
+
+On Oct 5 Ariane mission V111 launched two European comsats.
+V111 used the Ariane 44LP version with two liquid and two solid
+strapons. 
+
+Eutelsat W2 is an Alcatel Spacebus 3000B2, with 32 Ku-band transponders.
+It will be stationed at 16E, replacing Eutelsat II F2. It is owned by
+the European Telecommunications Satellite Organization (Eutelsat). W2
+was originally intended for launch on Ariane 5, but after the loss of W1
+in a ground accident Eutelsat didn't want to risk flying W2 on a test
+mission.
+
+Sirius 3 is a small comsat for NSAB, the Swedish `Nordiska Satellite'
+consortium. NSAB aren't ready to use Sirius 3 yet, so they are leasing
+it to Eutelsat's main rival, SES-Astra, for a year. It will be stationed
+at 28E for Astra services and then moved to 5E to provide services
+to Sweden. The Hughes HS-376HP satellite has 15 Ku-band transponders.
+It carries a Thiokol Star 30 solid apogee motor.
+
+
+Table of Recent Launches
+ ------------------------
+
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  8 2113   Iridium SV77)     Delta 7920    Vandenberg SLC2   Comsat     51E
+              Iridium SV79)                                     Comsat     51D
+              Iridium SV80)                                     Comsat     51C
+              Iridium SV81)                                     Comsat     51B
+              Iridium SV82)                                     Comsat     51A
+Sep  9 2029   Globalstar FM5 )  Zenit-2       Baykonur          Comsat     F05
+              Globalstar FM7 )                                  Comsat     F05
+              Globalstar FM9 )                                  Comsat     F05
+              Globalstar FM10)                                  Comsat     F05
+              Globalstar FM11)                                  Comsat     F05
+              Globalstar FM12)                                  Comsat     F05
+              Globalstar FM13)                                  Comsat     F05
+              Globalstar FM16)                                  Comsat     F05
+              Globalstar FM17)                                  Comsat     F05
+              Globalstar FM18)                                  Comsat     F05
+              Globalstar FM20)                                  Comsat     F05
+              Globalstar FM21)                                  Comsat     F05
+Sep 16 0631   PAS 7             Ariane 44LP   Kourou            Comsat     52A
+Sep 23 0506   Orbcomm FM21 )    Pegasus XL/HAPS Wallops I       Comsat     53A
+              Orbcomm FM22 )                                    Comsat     53B
+              Orbcomm FM23 )                                    Comsat     53C
+              Orbcomm FM24 )                                    Comsat     53D
+              Orbcomm FM25 )                                    Comsat     53E
+              Orbcomm FM26 )                                    Comsat     53F
+              Orbcomm FM27 )                                    Comsat     53G
+              Orbcomm FM28 )                                    Comsat     53H
+Sep 28 2341   Molniya-1T?       Molniya-M      Plesetsk         Early Warn 54A
+Oct  3 1004   STEX   )          ARPA Taurus    Vandenberg 576E  Technol.   55A
+              ATEX   )
+Oct  5 2251   Eutelsat W2 )     Ariane 44LP    Kourou ELA2      Comsat     56A
+              Sirius 3    )                                     Comsat     56B
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Jan  ?
+OV-103 Discovery       LC39B         STS-95  Oct 29
+OV-104 Atlantis        OPF Bay 2     STS-96  May 13
+OV-105 Endeavour       OPF Bay 1     STS-88  Dec  3
+
+MLP2/RSRM-68/ET-98/OV-103      LC39B     STS-95
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+

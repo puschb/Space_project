@@ -1,0 +1,361 @@
+Jonathan's Space Report
+No. 692                                          2014 Jan 5  National Harbor, Maryland
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+The launch of the next Cygnus freighter was delayed to January as astronauts
+on the ISS prepared for spacewalks on Dec 21 and 24 to repair the failed 
+Loop A thermal control system.
+
+US EVA-24 was carried out on Dec 21 with Rick Mastracchio in spacesuit
+EMU3010 and Mike Hopkins in EMU3011 (the now-repaired suit which
+malfunctioned on Luca Parmitano's spacewalk). Quest was depressurized at 1157 UTC,
+with hatch open at 1159 UTC and the suits on battery power at 1201 UTC.
+The astronauts went to the S1 truss segment and removed Pump Module S/N 
+The hatch was closed at 1724 UTC and Quest was repressurized at 1729 UTC.
+
+US EVA-25 followed on Dec 25, with Hopkins in EMU 3005 and Mastracchio
+in EMU 3011. Mastracchio's old suit 3010 was sidelined beacuse a
+misconfiguration of the sublimator  at the end of the previous spacewalk
+left its status in doubt. The airlock was depressurized at 1149 UTC,
+hatch open at 1152, and battery power at 1153. The astronauts went to
+External Stowage Platform 3 and removed spare Pump Module serial number
+0006. The SSRMS robot arm moved Hopkins and the PM to the S1 truss; it
+was installed at 1456 UTC and bolted in place at 1508 UTC. The
+astronauts then connected ammonia fluid lines and electrical cables. One
+ ammonia line initially refused to disconnect from its previous location
+and then did spill some NH3 flakes in the vicinity of the spacewalkers, 
+requiring some decontamination precautions on return to the airlock. The
+astronauts closed the hatch at 1904 UTC and, after a 15 minute hold to
+check for contamination, repressurized the airlock slowly from 1923 to
+1954 UTC.
+
+Russian spacewalk VKD-37 began with depressurization of the Pirs airlock
+around 1250 UTC Dec 27 and opening of the hatch at 1301 UTC. Oleg Kotov
+in Orlan-MK No. 6 and Sergey Ryazanskiy on Orlan-MK No. 4 installed two
+video cameras from the Vancouver-based company UrtheCast. After
+struggling with the cabling on the medium resolution camera, the
+astronauts jettisoned the UrtheCast MRC cable reel at 1646 UTC, and an
+obsolete space science experiment, Vsplesk, at 1754 UTC. The new
+Seismoprognoz experiment launched on Progress M-21M was installed on
+Zvezda to replace Vsplesk. However, at 1816 UTC it was reported that the
+UrtheCast cameras were not working correctly, and the astronauts were
+ordered to dismount them and bring them back inside. The spacewalk
+concluded with hatch closure at 2107 UTC and repressurization around
+2109 UTC.
+
+
+
+Gaia
+----
+
+The European Space Agency's Gaia observatory was launched on Dec 19. The
+2000 kg Gaia spacecraft will measure the three-dimensional positions and
+velocities of galactic stars. The  problem of accurate stellar distances
+has been a limiting factor in astrophysics with big uncertainties
+leading to uncertain masses, luminosities and other physical properties
+for all but the nearest stars; the Gaia catalog, when it is available
+early next decade, will put the whole field of astrophysics on a firmer
+footing. Gaia will spin around, with its two 1.5 x 0.5m silicon carbide
+primary mirrors sweeping starlight across its gigapixel detector array.
+The array has 106 CCDs each with 4500 x 1996 pixels. The SkyMapper array
+of 7 x 2 CCDs and the 7 x 9 array of Astrometric Field CCDs will measure
+positions; the 7 x 2 array of the Blue and Red photometer will pass the
+light through blue and red filters to measure accurate brightness and
+color; and the 4 x 3 array of the Radial Velocity Spectrometer CCDs will
+sit behind a spectrograph and use the 8500A Ca II triplet spectral lines
+to measure the Doppler shift of the brighter stars along the line of
+sight. The angular separation of the two mirrors is precisely monitored,
+to create an accurate latitude-longitude grid across the sky by
+measuring angular distances between widely separated pairs of stars.
+
+Gaia was launched by a Soyuz ST-B with upper stage Fregat-MT No. 1039
+from Kourou-Sinnamary. The Soyuz reached a -681 x 180 km x 15.0 deg
+suborbital path; the Fregat made a first burn to 175 x 175 km and then
+reignited for a long burn from 0933 to 0949 UTC to propel Gaia to a 344
+x 962690 km x 15.0 deg orbit, on its way to the Sun-Earth L2 point Gaia
+will fire its own propulsion system of 6 10-N thrusters to raise apogee
+to around 1.5 million km towards midnight; in a few weeks it will enter
+a Lissajous orbit around the L2 point and begin observations. Gaia's
+data will take years to process and will result in the best yet catalog
+of galactic stars.
+
+Mars Express
+-------------
+
+On Dec 29 at 0709 UTC, ESA's Mars Express spacecraft made a flyby 45 km
+from the surface of Phobos (58 km from its center). Mars Express is in a
+318 x 10518 km x 86.9 deg Martian polar orbit; congratulations to its
+friendly operations team which has just celebrated ten years around the
+planet!
+
+
+Tupac Katari
+------------
+
+Bolivia's first communications satellite was launched on Dec 20. Tupac
+Katari is named after the historical Bolivian leader Julian Apasa Nina
+(Tupac Katari, 1750-1781). The Tupac Katari satellite was built by
+China's CAST using a DFH-4 bus and has a mass at launch of 5100 kg. It
+was launched from Xichang on a CALT Chang Zheng (Long March) 3BE into a
+200 x 43890 km x 24.8 deg geostationary transfer orbit, and will be
+controlled by Chinese-trained Bolivian engineers at the Amachuma ground
+station.
+
+Rodnik
+------
+
+A Rokot launch vehicle took off from Plesetsk early on Dec 25 carrying
+three Rodnik low orbit communications satellites for the Russian
+military into a 1480 x 1509 km x 82.5 deg orbit. They are expected to
+get the codenames Kosmos-2488 to Kosmos-2490. The Briz-KM upper stage
+successfully deployed the satellites and made its depletion burn
+to an 1150 x 1500 km orbit, in contrast to the previous Rodnik launch
+in January.
+
+Ekspress
+--------
+
+Russia's new Ekspress AM-5 communications satellite was launched from Baykonur
+on Dec 26. AM-5 uses a Reshetnev Ekspress-2000 bus with C, Ku, Ka and L-band
+communications payloads developed in collaboration with the Canadian company MDA.
+The launch vehicle was a Proton-M with a Briz-M upper stage (serial numbers
+93541 and 99543, according to Rui Barbosa's Em Orbita site zenite.nu).
+The Briz-M made four burns to deliver Ekspress AM-5 to a sub-geostationary
+orbit of around 33800 x 37800 km x 0.18 deg according to a posting on
+the Novosti Kosmonavtiki forum; US tracking has not yet picked it up.
+It will use its on-board electric propulsion system (ion drive)
+to complete the trek to GEO.
+
+Soyuz-2-1V
+----------
+
+Russia ended the year with the first launch of a new rocket, the
+Soyuz-2-1V. This new, lighter version of the Soyuz is a major redesign,
+abandoning the four side-mounted conical strapon boosters that were the
+R-7 family's trademark since the ICBM and Sputnik launches in 1957. The
+core stage's lower section has been slightly enlarged in diameter and a
+new propulsion system used - the main engine is the NK-33A based on the
+NK-33 first developed (but never used) for the N-1 moon rocket in the
+1970s. (An Americanized version of the NK-33, the Aerojet AJ-26, is the
+main engine for Orbital's new Antares rocket). The Soyuz-2-1V second
+stage is the same Blok-I stage as the existing Soyuz-2-1B, with an
+RD-0124 engine. This first flight carries the optional Volga third
+stage, a low-thrust orbit positioning bus derived from a spy satellite
+propulsion system.
+
+The inaugural launch of the Soyuz-2-1V on Dec 28 carried the Aist
+satellite and two SKRL-756 calibration spheres. These were deployed from
+a long cylindrical adapter attached to the Volga stage into a 599 x 625
+km x 82.4 deg orbit. The Volga stage with its adapter was expected to be
+deorbited over the South Pacific. The Soyuz second stage was left in a
+259 x 594 km x 82.4 deg orbit.
+
+GSAT-14
+-------
+
+India launched its Geostationary Satellite Launch Vehicle (GSLV)
+on Jan 5, placing the GSAT-14 satellite in geostationary transfer
+orbit.
+
+
+
+Orbital launch statistics 2013
+------------------------------
+
+Russia 33 (+2 fail), USA 19, China 14(+1 fail), Europe 5, Japan 3, India
+3, South Korea 1 - for a total of 78 to orbit + 3 failures to orbit
+(some of the 78 also failed to reach their intended orbits). I am
+counting Soyuz-at-Kourou and the Sea Launch failure as Russian. The
+story of recent years has been the strong rise of China as a launching
+state; but this year the noticeable thing is the return of Russia to a
+dominance of the launching statistics not seen since the fall of the
+USSR. This includes nine Proton launches (all but two for non-Russian
+customers) and 15 Soyuz launches including two from Kourou and 8 ISS-related ones.
+
+The year also saw 209 payloads orbited thanks to the late surge of mass
+cubesat deployments; this compares with 134 payloads launched last year.
+  Countries of ownership, 2013 payloads:
+    USA       87
+    Russia    28
+    China     18
+    UK        9 (arguable, assuming formal ownership of
+                 two SES satellites to SES Satellite Leasing UK.)
+    ESA       7
+    Germany   6
+    S Korea   6
+    Japan     5
+    India     5
+    Canada    4
+    Spain     3
+    Argentina, Austria, Denmark, Ecuador, 
+     Netherlands, Peru, Vietnam -   2 each
+    Azerbaijan, Bolivia, Estonia, France, Italy,  
+     Israel, Luxembourg, Mexico, Norway, Pakistan,
+     Poland, Qatar, Singapore, Turkey, UAE, Ukraine,
+     South Africa:                  1 each
+ These 209 payloads include 51 amateur/academic, 37 business/commercial, 74 civil, 47 defense
+ (there is some overlap, of course). Six of the payloads (LADEE, MOM, Maven, Chang'e-3, Yutu, Gaia)
+ are now beyond Earth orbit.
+
+Suborbital launches
+-------------------
+
+The USAF launched a Minuteman III from Vandenberg on Dec 17; Russia launched
+a Yars missile from Plesetsk to Kura on Dec 24. Yars carries multiple reentry
+vehicles. On Dec 27 the Russian rocket forces rounded out the year
+with a reentry vehicle test on a Topol' missile launched from Kapustin
+Yar to Sary-Shagan.
+
+Errata:
+ -  In JSR691 I said that Yutu is the 6th wheeled vehicle on the Moon.
+It is in fact the seventh - I forgot a hand cart used on the Apollo 14 mission,
+the Modular Equipment Transporter. Thanks to Henry Spencer for catching the mistake.
+
+ -  In JSR691 I gave the Kavoshgar 1 launch date as 2008 Feb, which is when it was
+announced; Igor Lissov points out that the Kavoshgar web site says the launch
+was in Aban 1385, which corresponds to 2006 Oct 22 to Nov 20.
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+Nov  5 0908   Mars Orbiter Spacecraft   PSLV-XL   Sriharikota       Mars probe  60A
+Nov  7 0414   Soyuz TMA-11M       Soyuz-FG        Baykonur LC1      Spaceship   61A
+Nov 11 2346   Raduga-1M          Proton-M/Briz-M  Baykonur LC81/24  Comms       62A
+Nov 18 1828   MAVEN              Atlas V 401      Canaveral SLC41   Mars probe  63A
+Nov 19 1218   PicoDragon   )                      ISS, LEO          Tech      98-067DA
+              Ardusat-1    )                                        Tech      98-067DB
+              Ardusat-X    )	                                    Tech      98-067DC
+Nov 20 0115   STPSAT-3       )   Minotaur I       Wallops I LA0B    Tech        64A
+              ORS-3          )                                      Tech        64
+              TJ3Sat         )                                      Tech        64
+              DragonSat      )                                      Tech        64
+              COPPER         )                                      Tech        64
+              ChargerSat 1   )                                      Tech        64
+              SwampSat       )                                      Tech        64
+              Ho'oponopono 2 )                                      Radar cal   64
+              KySat-2        )                                      Tech        64
+              CAPE 2         )                                      Tech        64
+              Trailblazer    )                                      Tech        64
+              Vermont Lunar Cubesat )                               Tech        64
+              PhoneSat-2.4   )                                      Tech        64
+              NPS-SCAT       )                                      Tech        64
+              Black Knight 1 )                                      Tech        64
+              Firefly        )                                      Science     64
+              Horus/STARE-B  )                                      Space Surv. 64
+              SENSE-A        )                                      Ionospheric 64
+              SENSE-B        )                                      Ionospheric 64N
+	      ORSES          )                                      Comms       64
+              ORS Tech 1     )                                      Tech        64
+              ORS Tech 2     )                                      Tech        64
+              Prometheus 1A? )               	                    Comms       64
+              Prometheus 1B? )               	                    Comms       64
+              Prometheus 2A? )               	                    Comms       64
+              Prometheus 2B? )               	                    Comms       64
+              Prometheus 3A? )               	                    Comms       64
+              Prometheus 3B? )               	                    Comms       64
+              Prometheus 4A? )               	                    Comms       64
+              Prometheus 4B? )               	                    Comms       64
+Nov 20 0331   Yaogan 19          Chang Zheng 4C   Taiyuan           Imaging     65A
+Nov 20 0758   TechEdSat-3p                        ISS, LEO          Tech      98-067DD
+Nov 21 0710   Dubaisat-2       )                                    Imaging     66D
+              SkySat-1         ) Dnepr            Yasniy            Imaging     66C
+              STSat-3          )                                    Astronomy   66G
+              AprizeSat-7      )                                    Comms       66A
+              AprizeSat-8      )                                    Comms       66K
+              WNISAT-1         )                                    Weather     66H
+              Lem              )                                    Astronomy   66R
+              GOMX-1           )                                    Comms       66Q
+              Dove-3           )                                    Imaging     66P
+              Delfi-3nXt       )                                    Tech        66N
+              Triton 1         )                                    Comms/AIS   66M
+              KHUSAT-1         )                                    Science     66J
+              KHUSAT-2         )                                    Science     66L
+	      OPTOS            )                                    Tech        66E
+              Manolito         )                                    Tech        66AB
+              Krysaor          )                                    Tech        66AA
+              UWE-3            )                                    Tech        66Z
+              VELOX-P2         )                                    Tech        66Y
+              First-MOVE       )                                    Tech        66AG
+              FUNcube-1        )                                    Tech        66AE
+              HINCube-1        )                                    Tech        66B
+              Tshepiso         )                                    Tech        66AF
+              BPA-3            )                                    Tech        66AJ
+              Unisat-5         )                                    Tech        66F
+                Dove-4         )                                    Imaging     66
+                ICUBE-1        )                                    Tech        66
+                PUCPSat-1      )                                    Tech        66
+                Pocket-PUCP    )                                    Tech        66
+                HUMSAT-D       )                                    Tech        66
+		QBScout-1      )                                    Tech        66
+		BeakerSat-1    )                                    Tech        66
+                $50SAT         )                                    Tech        66
+                WREN           )                                    Tech        66
+Nov 22 1202   SWARM-1   )        Rokot            Plesetsk          Science      67A
+              SWARM-2   )                                           Science      67B
+              SWARM-3   )                                           Science      67C
+Nov 25 0212   Shiyan 5 Weixing   Chang Zheng 2D   Jiuquan           Tech/Sci?    68A
+Nov 25 2053   Progress M-21M     Soyuz-U          Baykonur LC31     Cargo        69A
+Dec  1 1730   Chang'e-3 )        Chang Zheng 3BE  Xichang           Moon probe   70A
+              Yutu      )                                           Rover
+Dec  3 2241   SES-8              Falcon 9 v1.1    Canaveral SLC40   Comms        71A
+Dec  6 0714   TOPAZ 3?    )      Atlas V 501      Vandenberg SLC3E  Radar        72A
+              Aerocube 5a )                                         Tech         72D
+              Aerocube 5b )                                         Tech         72E
+              SMDC-ONE 2.3)                                         Comms        72N
+              SMDC-ONE 2.4)                                         Comms        72L
+              Tacsat 6    )                                         Tech?        72M
+              ALICE       )                                         Tech         72F
+              SNAP-3      )                                         Tech?        72G
+              FIREBIRD A  )                                         Sci          72B
+              FIREBIRD B  )                                         Sci          72C
+              MCubed-2    )                                         Tech/Imaging 72H
+              IPEX        )                                         Tech         72K
+              CUNYSAT 1   )                                         Sci          72J
+Dec  8 1212   Inmarsat 5 F1      Proton-M/Briz-M  Baykonur LC200/39 Comms        73A
+Dec  9 0326   ZY-1 No. 3         Chang Zheng 4B   Taiyuan           Imaging      F03
+Dec 19 0912   Gaia               Soyuz-2-1B/Fregat CSG ELS          Astronomy    74A
+Dec 20 1642   Tupac Katari 1     Chang Zheng 3BE  Xichang           Comms        75A
+Dec 25 0031   Kosmos-2488 )      Rokot            Plesetsk LC133/3  Comms        76A
+              Kosmos-2489 )                                         Comms        76B
+              Kosmos-2490 )                                         Comms        76C
+Dec 26 1049   Ekspress AM-5      Proton-M/Briz-M  Baykonur LC81/24  Comms        77A
+Dec 28 1230   Aist 1        )    Soyuz-2-1V/Volga Plesetsk LC43/4   Science      78A
+              SKRL-756 No. 1)                                       Radar cal    78B
+              SKRL-756 No. 2)                                       Radar cal    78C
+Jan  5 1048   GSAT-14            GSLV             Sriharikota SLP   Comms        01?
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Nov  3 0925   NASA 36.294UH    Black Brant IX      White Sands      X-ray Astron  280?
+Nov 12 1615?  SL-8             SpaceLoft XL        Spaceport America Tech         116 
+Nov 20 1140   NASA 36.296UG    Black Brant IX      White Sands      UV Astron     277
+Nov 27 0350   NASA 36.261UG    Black Brant IX      White Sands      UV Astron     280?
+Dec 14        Kavoshgar Pazhuhesh  Shahab-1        Semnan           Bio           120
+Dec 17 1236   GT210GM          Minuteman III       Vandenberg LF04  Op. test     1300?
+Dec 24 0700   Yars RV-1 )      Yars                Plesetsk         Test         1000?
+              Yars RV-2 )
+              Yars RV-3 )
+              Yars RV-4 )
+Dec 27 1730   Topol' RV        Topol'              Kapustin Yar     Test         1000?
+Jan  3        Arrow KV         Arrow 3             Palmachim        Test          100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+ 
+

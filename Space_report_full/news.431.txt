@@ -1,0 +1,81 @@
+Jonathan's Space Report
+
+No 431                                              2000 Aug 6,  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+The Zarya/Unity stack docked with the Zvezda module at 0045 UTC on Jul 26,
+forming the basic core of the International Space Station. Progress-M1
+vehicle No. 251 (Progress M1-3) was launched on Aug 6 and will dock with
+Zvezda's rear port.
+
+Current Launches
+----------------
+
+An Orbital Sciences Minotaur was launched from Vandenberg on Jul 19. The
+payload was Mightysat 2.1, also known as Sindri. The 125 kg satellite is
+a Spectrum Astro SA-200B platform The Minotaur placed it in a 547 x 581
+km x 97.8 deg orbit. The satellite carries a hyperspectral imager for
+earth imaging and spectroscopy, as well as satellite technology
+experiments such as advanced solar arrays. An Aerospace Corp./DARPA
+picosatellite experiment, consisting of two small boxes connected by a
+deployable tether, is attached to Mightysat and may be deployed later. A
+similar picosat was deployed on the previous Minotaur launch in January.
+
+A Sea Launch Zenit-3SL was launched from the Odyssey platform at 154W 0N
+in the Pacific on Jul 28. 14 minutes after launch it entered an
+intermediate parking orbit (parameters unknown); a second burn of the
+Blok DM-SL upper stage put the PAS-9 payload in geostationary transfer
+orbit. PAS 9 is a Hughes HS-601HP communications satellite for Panamsat,
+and will replace PAS 5 at 58W.
+
+The first two Cluster satellites have reached their operational orbits.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  4 2344   Kosmos-2371       Proton-K/DM-2? Baykonur LC200?  Comms      36A
+Jul 12 0456   Zvezda            Proton-K       Baykonur LC81L   Station    37A
+Jul 14 0521   Echostar VI       Atlas 2AS      Canaveral SLC36B Comms      38A
+Jul 15 1200   CHAMP   )         Kosmos-3M      Plesetsk LC132   Science    39A
+              MITA    )                                         Science    39B
+              Rubin   )                                         Imaging    39C
+Jul 16 0917   GPS SVN 44        Delta 7925     Canaveral LC17A  Navsat     40A
+Jul 16 1239   Samba   )         Soyuz-Fregat   Baykonur LC31    Science    41A
+              Salsa   )                                         Science    41B
+Jul 19 2009   Mightysat 2.1     Minotaur       Vandenberg CLF   Tech       42A
+Jul 28 2242   PAS 9             Zenit-3SL      Odyssey, POR     Comms      43A 
+Aug  6 1827   Progress M1-3     Soyuz-U        Baykonur LC1     Cargo
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Oct     ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-106 2000 Sep     ISS 2A.2b
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+MLP-1 
+MLP-2/RSRM-75/ET-103         VAB Bay 1  STS-106
+MLP-3/RSRM-76/ET-104         VAB Bay 3  STS-92
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

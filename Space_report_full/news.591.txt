@@ -1,0 +1,205 @@
+Jonathan's Space Report
+No. 591                                           2008 Feb 15, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+The Progress M-61 cargo ship, which undocked on Dec 22, was
+deorbited over the Pacific on Jan 22 after a month of free flight
+carrying out the Plazma-Progress experiment.
+
+On Jan 30, Whitson and Tani made a spacewalk to replace a motor
+on the starboard truss beta gimbal and carry out further inspections
+of the failed solar array alpha rotary joint.
+
+The Progress M-63 cargo ship was launched on Feb 5 and docked with the
+Pirs module on Feb 7 at 1438 UTC. Progress M-62 undocked on Feb 4 at
+1032 UTC and carried out Earth observations for 10 days before being
+deorbited on Feb 15 at 0944 UTC.
+
+Space Shuttle Atlantis was launched at 1945 UTC on Feb 7 on mission
+STS-122, ISS flight 1E, with the Columbus module. It reached a 58 x 230
+km orbit at 1954 UTC; the OMS-2 burn at 2023 UTC raised this to 215 x
+233 km. Atlantis docked with the PMA-2 port on the Station at 1717 UTC
+on Feb 9.
+
+The ESA Columbus Orbital Facility was unberthed from Atlantis at 1956
+UTC on Feb 11 and bolted to the Harmony module at 2144 UTC. Astronauts
+Walheim and Love made a spacewalk on Feb 11 with depressurization of
+Quest at 1412 UTC and repressurization at 2212 UTC, assisting the
+installation of Columbus; they removed a grapple fixture from the
+payload bay at 1602 UTC and installed it on Columbus at 1659 UTC. On Feb
+13 Walheim and Schlegel began a spacewalk with depress of Quest at 1421
+UTC and repress at 2112 UTC; they swapped out a nitrogen tank assembly
+(NTA) on the P1 truss. On Feb 15 Walheim and Love installed the SOLAR
+and EUTEF experiments on the exterior of Columbus and stashed a failed
+CMG (Control Moment Gyro) in the payload bay of Atlantis;
+depress/repress was 1306 UTC to 2033 UTC.
+
+Dan Tani will return to Earth on Atlantis; the new Expedition 16 crew
+is NASA's Peggy Whitson, Russia's Yuriy Malenchenko and ESA's Leo Eyharts.
+
+
+STS-122 Cargo Manifest
+----------------------
+
+                                 Bay        Mass (kg )
+Orbiter Docking System           1-2        1800
+ with EMU 3015, 3017                         240?
+SPDU on APC                      3P          100?
+PDGF on ICAPC                    5P           71                             
+ICC-LITE with EUTEF, SOLAR, NTA  6          2063
+ECSH (EVA Cargo Stowage) on APC  7P          100?
+Columbus Orbital Facility        8-12      12077
+RMS and OBSS                     Sill        860?
+------------------------------------------------
+                                  Total:   17311
+
+
+Kosmos numbers
+--------------
+
+Russia's Globus military communications satellite launched on
+Dec 9 was originally reported with the cover name Kosmos-2434,
+with the three Uragan-M satellites launched on Dec 25 getting
+cover names Kosmos-2435 to 2437.
+
+According to information from Richard Langley, the Uragan satellites are
+now Kosmos-2434 to 2436 instead; we believe that the Globus satellite
+has been reassigned the cover name Raduga-1 (like the other satellites
+in that series). The satellites have not yet been registered with the UN
+so this information is tentative; I'll keep you all posted.
+
+USA 193
+-------
+
+The NRO's experimental USA 193 surveillance satellite, which was
+reported to be crippled soon after its launch on a Delta II in Dec 2006
+into a  351 x 365 km  x 58 deg orbit, is approaching reentry. Orbital
+data from independent observers show that the satellite's trajectory has
+slowly decayed since launch due to friction with the atmosphere; by Jan
+22 it was in a 275 x 279 km x 58 deg orbit dropping about 1 km a day,
+and the decrease in height will soon accelerate catastrophically. The
+satellite is thought to have been intended to test prototype instruments
+for future spy satellites, possibly including a radar sensor; it was
+reportedly developed by Lockheed Martin (LM-Sunnyvale has experience in
+recon satellites, but LM-Denver is involved in the Space Radar area;
+both groups could be involved). 
+
+Reports of 'dangerous material' on board the satellite refer to
+hydrazine orbit adjust propellant; mass of the spacecraft is probably
+around 2000 to 4000 kg. It's fairly rare for satellite payloads of this
+mass to have an uncontrolled reentry - only one or two a year - but 
+empty rocket stages as heavy as this come down about once every three
+weeks. (Some reports claim this reentry is the 'second largest'
+uncontrolled reentry, after Skylab. This, of course, is complete
+nonsense.) The spacecraft carries about 1000 kg of hydrazine, which has
+frozen; about 500 kg is expected to survive reentry as a slushy lump
+giving off toxic fumes. The US government has announced plans to launch
+Aegis SM-3 ballistic missile interceptors to destroy the satellite, in
+the first US antisatellite test since 1986. The US Department of Defense
+states that the danger of the falling hydrazine is the motivation for
+this test. However, some observers suggest that the danger is not large
+enough to justify such extreme measures.
+
+
+TecSAR
+-------
+
+Israel's TecSAR (Polaris) experimental  radar reconnaissance satellite
+was launched at 0345 UTC on Jan 21 by an Indian Polar Satellite Launch
+Vehicle, flight PSLV-C10, from the First Launch Pad at Satish Dhawan
+Space Centre on Sriharikota Island. At 19 min 45 s after launch the
+satellite was deployed into a 469 x 585 km x 41.0 deg orbit; the PS4
+final rocket stage is in a 403 x 581 km x 41.0 deg orbit. The 300 kg
+satellite carries an X-band dish antenna for synthetic aperture radar
+(SAR) imaging. 
+
+PSLV-C10 was the variant of PSLV with no strapon boosters used for
+light weight payloads.
+
+Ekspress AM-33
+--------------
+
+The Ekspress AM-33 communications satellite for the Russian 
+domestic satellite company Kosmicheskaya Svyaz was launched on
+a Krunichev Proton-M/Briz-M on Jan 28. AM-33 is built by NPO Prikladnoi
+Mekhaniki, with a communications payload developed by Thales Alenia.
+It has a mass of 2540 kg. The spacecraft entered a 405 x 35550 km x 46.2 deg
+transfer orbit before being placed in geosynchronous orbit; an object
+tracked in that orbit is probably the Briz DTB propellant tank.
+
+Thor 5
+------
+
+Telenor's Ku-band Thor 5 satellite was launched on Feb 11 by a Proton-M/Briz-M
+from Baykonur. The satellite is an Orbital Star-2 light geostationary spacecraft.
+Telenor Satellite Broadcasting is a Norwegian satellite company.
+
+Rascom
+------
+
+The RASCOM-QAF-1 satellite has now reached geostationary orbit at 2.8 deg E,
+after a month-long delay due to propulsion system difficulties.
+
+Iranian rocket
+--------------
+
+On Feb 4 the Islamic Republic of Iran held a ceremony to inaugurate a
+space launch center as part of a program to develop a satellite launch
+vehicle, and launched a suborbital rocket. The Iranian news agency
+IRNA says in its English language version:
+
+ "The president said the launch of the first space research unit would be
+great stride to serve the mankind and would lead to Iran's exaltation
+and progress.
+ He inaugurated Iran's first space terminal this morning."
+
+I interpret "space terminal" as meaning "launch site", and "space research unit"
+as meaning "research rocket". But any Persian-speaking readers who have read the
+reports in their original language are encouraged to send clarifications.
+
+According to most of the reports, the rocket is called Kavoshgar-1
+('Explorer' or 'Researcher'); an Israeli news report calls the rocket
+Safir-1 ('Emissary'), and a photograph of a (possibly the) rocket
+has the Safir name written on the side, together with "IRILV", which
+presumably stands for "Islamic Republic of Iran Launch Vehicle".
+It may be that the photo is a mockup of the satellite launch version,
+and Kavoshgar is the rocket or mission name for the suborbital version.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Dec  9 0015   Raduga-1?         Proton-M/Briz-M  Baykonur LC81/24  Comms     58A
+Dec  9 0231   Cosmo 2           Delta 7420-10    Vandenberg SLC2W  Radar     59A
+Dec 10 2205   USA 198 (NROL-24) Atlas V 401      Canaveral SLC41   Comms?    60A
+Dec 14 1317   Radarsat-2        Soyuz-FG/Fregat  Baykonur LC31     Radar     61A
+Dec 20 2004   GPS 57 (USA 199)  Delta 7925       Canaveral SLC17A  Nav       62A
+Dec 21 2141   Rascom-QAF-1 )    Ariane 5GS       Kourou ELA3       Comms     63A
+              Horizons 2   )                                       Comms     63D
+Dec 23 0712   Progress M-62     Soyuz-U          Baykonur LC1      Cargo     64B
+Dec 25 1932   Kosmos-2434?)     Proton-M/DM-2    Baykonur LC81/24  Nav       65A
+              Kosmos-2435?)                                        Nav       65B
+              Kosmos-2436?)                                        Nav       65C
+Jan 15 1149   Thuraya 3         Zenit-3SL        Odyssey, Pacific  Comms     01A
+Jan 21 0345   Polaris (TecSAR)  PSLV             Sriharikota FLP   Radar     02A
+Jan 28 0018   Ekspress AM-33    Proton-M/Briz-M  Baykonur LC200/39 Comms     03A
+Feb  5 1303   Progress M-63     Soyuz-U          Baykonur LC1      Cargo     04A
+Feb  7 1945   Atlantis (STS-122) Space Shuttle   Kennedy LC39A     Spaceship 05A 
+              Columbus         )                                   Module    -
+Feb 11 1134   Thor 5            Proton-M/Briz-M  Baykonur          Comms     06A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

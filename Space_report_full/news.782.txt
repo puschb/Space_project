@@ -1,0 +1,198 @@
+Jonathan's Space Report
+No. 782                                                        2020 Aug 29   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+General Catalog of Artifical Space Objects
+-------------------------------------------
+
+The first full release of my General Catalog of Artifical Space Objects (GCAT) is now available
+at https://planet4589.org/space/gcat 
+
+International Space Station
+---------------------------
+
+Expedition 63 continues.
+
+Astronauts Hurley and Behnken returned to Earth aboard Dragon C206 Endeavour on Aug 2.
+Dragon undocked from IDA-2 at 2335 UTC Aug 1. At 0549 UTC Aug 2 a phasing burn of about
+37m/s lowered perigee to circa 280 km. The trunk was jettisoned at 1752 UTC and Dragon
+began its 11 min 22 s, 70 m/s deorbit burn at 1756 UTC, lowering perigee further to
+about 42 km. The spacecraft nosecone was closed at 1810 UTC and the capsule reached
+entry interface at 1836 UTC. Descending on four main parachutes, Dragon splashed
+down in the Pensacola recovery zone in the Gulf of Mexico at 87.6W 29.8N at about
+1847:48 UTC completing a flight lasting 63 days 23 hr 25 min 3s. The capsule was
+retrieved by the SpaceX ship Go Navigator at 1917 UTC.
+
+This was the first time since 1976 Oct 16 (Soyuz-23) that a space crew returned
+from orbit to a water landing (splashdown).
+
+Dragon's trunk was cataloged in a 279 x 407 km orbit the day after landing.
+
+The final HTV cargo ship, Kounotori 9, was unberthed from the ISS
+Harmony nadir port at 1351 UTC Aug 18 and released into orbit by
+Canadarm-2 at 1736 UTC. On Aug 20, after orbit lowering burns at 0040
+and 0211 UTC it performed the deorbit burn at 0640 UTC Aug 20 and
+entered the atmosphere at about 0707 UTC over the Pacific. It burnt up
+on reentry. The EP-8 pallet, with discarded ISS batteries, was aboard.
+
+
+Mars 2020
+---------
+
+NASA's Mars 2020 mission was launched from Cape Canaveral by a ULA Atlas
+V 541, mission AV-088, on Jul 30. Launch was at 1150 UTC, with parking
+orbit insertion at 1201 UTC into a 167 x 250 km x 29.1 deg orbit. At
+1235 UTC the Centaur stage restarted to accelerate the vehicle to an
+escape hyperbola with C3 = 14.49 km2/s2.
+
+The Mars 2020 spacecraft consists of the cruise stage (mass about 539
+kg; 0.6m high 4.4m dia cylinder) and the entry vehicle. The entry
+vehicle is 4.5m dia with a backshell, parachute, and aeroshell (heat
+shield), containing the Perseverance Rover (1025 kg, 2.1m x 1.5m). The
+backshell is about 294 kg, the heat shield 382 kg, and the 21.5m
+diameter parachute is 55 kg. Perseverance is similar in design to
+Curiosity.
+
+Attached to the rover is the Ingenuity Mars Helicopter, a 1.8 kg
+1.2m-span technology-test rotorcraft, contained within the MHDS (Mars
+Helicopter Delivery System) cover, which will be jettisoned from the
+rover. The helicopter will make 90-second flights up to 5 metres
+altitude.
+
+Mars 2020 will reach Mars in Feb 2021.
+
+Ekspress
+--------
+
+On Jul 30 Russia's Khrunichev launched a Proton-M  carrying two Ekspress communications
+satellites for the Russian space communications company Kosmicheskaya Svyaz'. The Briz-M
+upper stage made five burns on an 18 hour trip to deploy the payloads in a low-inclination
+supersynchronous transfer orbit. The DTB propellant tank was left in
+an intermediate 416 x 23275 km x 49.5 deg orbit after the third burn.
+My guess for the various intermediate orbits is:
+
+ Jul 30 2141 UTC   182 x 182 km x 51.6 deg
+ Jul 30 2205 UTC   275 x 3000 km? x 50.3 deg
+ Jul 31 0000 UTC   416 x 23275 km x 49.5 deg
+ Jul 31 0641 UTC   450?x 54800?km x 47? deg
+ Jul 31 1523 UTC   16689 x 54900 km x 0.6 deg
+
+
+The two Ekspress-1000N satellites were built by ISS Reshetnev
+(Zheleznogorsk) with C/Ku/L-band communications payloads by Thales
+Alenia.
+
+Ariane triple payload
+----------------------
+
+Arianespace's latest Ariane 5 launch placed three satellites in geotransfer orbit.
+Intelsat's Galaxy 30 is a Northrop Grummann GeoStar-2.4E with C, Ku, Ka, and L-band
+communications payloads. BSAT/Tokyo's BSAT-4b is a Maxar 1300 Ku-band broadcasting satellite.
+The thid payload is Mission Extension Vehicle 2 (MEV-2), built by Northrop Grumman for its
+subsidiary Space Logistics LLC. MEV-2 will dock with an Intelsat satellite to extend its life.
+
+
+Starlink
+--------
+
+The 10th Starlink launch, V1.0-9, carried 57 Starlinks and two BlackSky Global imaging sats
+to orbit on Aug 7. The Falcon 9 first stage (B1051 on its 5th flight) landed on the OCISLY.
+Launch was at 0512 UTC with a 170 x 400? km parking orbit insertion at 0521 UTC, restart at 0559 UTC to
+a 386 x 403 km x 53.0 deg orbit, deployment of Global-7 and Global-8 at 0613 and 0618 UTC, and
+release of the Starlink satellites at 0645 UTC. Stage 2 was later deorbited.
+Four deployment rods and one rideshare adapter were cataloged as debris objects.
+
+The 11th launch, V1.0-10, was on Aug 18. It carried 58 Starlinks and three SkySat satellites for Planet.
+Insertion was to a 216 x 360 km x 53.0 deg orbit.
+
+GaoFen 9
+--------
+
+Two more GaoFen 9 imaging satellites, No. 4 and No 5, were launched on Aug 6 and 23.
+Launched with GF9-4 is Tsinghua University's Gravity and Atmosphere Science Satellite (Zhongli yu Daqi Kexue
+Weixing). With GF9-5 were launched Tiantuo 5 from NUDT/Changsha and the Multipurpose Experiment
+Satellite (Duogongneng Shiyan Weixing, DGSW) from the Military Academy in Beijing.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Jul 10 0417   Jilin-1 Gaofen 02E )         Kuaizhou 11         Jiuquan         Imaging    F06 F01566 -4000?x  500?x 97?
+              Centispace-1-2S    )                                             Imaging    F06 F01567 -4000?x  500?x 97?
+Jul 13 1340   DeMi                                             ISS, LEO        Tech   9867RP  S45916   415 x  418 x 51.6
+Jul 13 1655   TechEdSat 10                                     ISS, LEO        Tech   9867RQ  S45917   413 x  419 x 51.6
+Jul 15 0749?  Kosmos-2547?                                 Kosmos-2543, LEO    Weapon? 19079E S45915   504 x  784 x 97.9
+Jul 15 1346   USA 305 )                    Minotaur IV         MARS LA0B       Sigint?    46A S45873   569 x  580 x 54.0
+              USA 306 )                                                        Sigint?    46B S45874   569 x  580 x 54.0
+              USA 307 )                                                        Sigint?    46C S45875   572 x  579 x 54.0
+              USA 308 )                                                        Sigint?    46D S45876   572 x  579 x 54.0
+Jul 19 2158   Misabar Al'amal              H-2A 202            Tanegashima     Mars probe 47A S45918   242 x -72755 x 30.3
+Jul 20 2130   ANASIS II                    Falcon 9            Canaveral SLC40 Comms      48A S45920   211 x  45454 x 27.4
+Jul 23 0441   Tianwen-1                    Chang Zheng 5       Wenchang LC101  Mars probe 49A S45935   664 x -79065 x 30.5
+Jul 23 1426   Progress M-15                Soyuz-2-1A          Baykonur LC31   Cargo      50A S45937   199 x    228 x 51.7
+Jul 25 0313   Zi Yuan 3-03         )       Chang Zheng 4B      Taiyuan         Imaging    51A S45939   485 x    499 x 97.5
+              Tianqi 10            )                                           Comms      51  S45940?  485 x    499 x 97.5
+              Longxia yan 1        )                                          X-ray Astro 51  S45941?  485 x    499 x 97.5
+Jul 30 1150   Perseverance )               Atlas V 541         Canaveral SLC41 Mars probe 52A S45983?  208 x -68003 x 27.6
+              Ingenuity    )                                                    Helicopter     
+Jul 30 2125   Ekspress-80  )               Proton-M/Briz-M     Baykonur LC200/39 Comms    53A S45985? 16581 x 54811 x  0.6
+              Ekspress-103 )                                                              53B S45987? 16591 x 54803 x  0.6
+Aug  6 0401   Gao Fen 9-04            )    Chang Zheng 2D      Jiuquan         Imaging    54A S45025    486 x   506 x 97.5
+              Zhongli yu Daqi Kexue W.)                                        Science    54B S45026    483 x   505 x 97.5
+Aug  7 0512   Starlink 1514     )
+              Starlink 1515     )
+              Starlink 1522-1527)
+              Starlink 1529     )
+              Starlink 1530     )                                                              S46027
+              Starlink 1532-1536)          Falcon 9            Kennedy LC39A   Comms    55A-BJ   to     386 x   403 x 53.0  
+              Starlink 1538-1544)                                                              S46083 
+              Starlink 1548     )
+              Starlink 1549     )
+              Starlink 1551     )
+              Starlink 1552     )
+              Starlink 1554-1574)
+              Starlink 1576-1584)
+              Starlink 1591     )
+              Global-7          )                                              Imaging  55BP  S46088    385 x   402 x 53.0
+              Global-8          )                                              Imaging  55BQ  S46089    385 x   402 x 53.0
+Aug 15 2204   Galaxy 30  )                 Ariane 5ECA         Kourou ELA3     Comms    56C   S46114    254 x 35741 x  6.0
+              MEV-2      )                                                     Servicing56B   S46113    268 x 35756 x  6.0
+              BSAT-4b    )                                                     Comms    56A   S46112    261 x 35783 x  6.0
+Aug 18 1431   Starlink 1545      )         Falcon 9            Canaveral SLC40 Comms   57A-BK S46117    290 x   356 x 53.0
+              Starlink 1585-1590 )                                                              to
+              Starlink 1592-1616 )                                                            S46174
+              Starlink 1618-1643 )
+              Starlink 1667      )
+              Skysat C17         )                                             Imaging   57BQ S46179     250 x  359 x 53.0
+              Skysat C18         )                                             Imaging   57BR S46180     250 x  359 x 53.0 
+              Skysat C19         )                                             Imaging   57BS S46235     236 x  353 x 53.0
+Aug 23 0227   Gao Fen 9-05  )              Chang Zheng 2D      Jiuquan         Imaging   58A? S46232     485 x  505 x 97.5
+              Tiantuo 5     )                                                  Comms     58B? S46233     485 x  505 x 97.5
+              DGSW          )                                                  Tech      58C? S46234     485 x  505 x 97.5
+
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jun 12        M51 RV            M51             S617, Baie d'Audierne    Test         1200?      Atlantic Ocean
+Aug  4 0721   Mk 12 RV)         Minuteman 3        Vandenberg LF10       Op. Test     1300?      Kwajalein BOA
+              Mk 12 RV)
+              Mk 12 RV)
+Aug 12        Sparrow Target    Silver Sparrow?    F-15, Med. Sea        Target        100?      Israel (intercepted)
+Aug 25        DF-26 RV          DF-26              Da Qaidam             Test          500?      S China Sea
+Aug 25        DF-21 RV          DF-21D?            Ningbo                Test          500?      S China Sea
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

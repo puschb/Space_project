@@ -1,0 +1,171 @@
+Jonathan's Space Report
+No. 601                                           2008 Oct 12, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Sergey Volkov, Oleg Kononenko, and Greg Chamitoff remain aboard the
+Station as Expedition 17. The Jules Verne ATV was deorbited over
+the Pacific on Sep 29, reentering at 1331 UTC. Progress M-65 and
+Soyuz TMA-12 are docked to the Station.
+
+Soyuz TMA-13 was launched at 0701 UTC on Oct 12 and reached orbit at
+0710 UTC. Commander is Yuriy Lonchakov, flight engineer is Michael
+Fincke, and in the third seat is spaceflight participant (tourist)
+Richard Garriott. Garriott is the son of of Skylab astronaut Owen
+Garriott. Once they reach the Station, Garriott consitutes ISS visiting
+crew EP-15; Fincke is commander of Expedition 18, with Lonchakov as
+flight engineer. The TMA-13 callsign is 'Titan'.
+
+
+Shenzhou 7
+----------
+
+The Shenzhou 7 spaceship was launched on Sep 25. The crew were Zhai
+Zhigang, commander ("zhilingzhang"), Liu Boming, orbital module
+astronaut ("guidaocang hangtianyuan") and Jing Haipeng, descent module
+monitor astronaut ("fanhuicang zhishou hangtianyuan" ).  On the previous
+flight, Nie Haisheng's role was 'operator' - 'caozuoshou', with Fei
+Junlong as zhihuizhang ('commander'). (Thanks to contributor 'hesidu' on
+nasaspaceflight.com for these Chinese designations.)
+
+On Sep 27, China accomplished its first spacewalk. The SZ-7 orbital
+module (guidaocang, GC) was depressurized by about 0830 UTC. The hatch
+was opened at 0838 UTC with a residual pressure of 20 mbar. Zhai
+Zhigang, wearing a Chinese-made Feitian spacesuit, emerged at 0843 UTC
+and was fully outside by 0844 UTC. Meanwhile, Liu Boming, wearing a
+Russian suit, Orlan-M No. 42, remained partially inside the GC. He made a SEVA
+(Stand-Up EVA, i.e. partially emerging - a term from Gemini days) at
+0848 for about 2 minutes and handed Zhai a Chinese flag to wave. Zhai
+translated along the GC retrieved a materials sample tray mounted on the
+module exterior, and returned to the hatch area at  0854 UTC. He went
+inside at 0858 UTC.  The hatch was closed at 0859-0900 UTC and the GC
+was repressurized sometime around 0915 UTC, and the pressure was back up
+to 400 mbar by  0926 UTC. (Some of these time estimates are courtesy of
+Andrey Krasil'nikov's postings on nasaspaceflight.com). The descent
+module (fanhuicang, FC) stayed pressurized throughout, and the third
+crewmember, Jing Haipen, stayed there with no spacesuit on.
+
+I estimate that time in depressurized operations was around 45 min for 
+Zhai and Liu; hatch open/close time was 22 min; time outside was 14 min
+for Zhai only. I find the depressurization time to be more interesting,
+so that's what I mainly track in my records.
+
+A 40 kg subsatellite was ejected from the nose of the SZ7 orbital module at
+1127 UTC. It is probably object the designated 2008-47G by the US (47C-F seem
+to be the separation motor covers from the second stage, based on their
+orbital parameters). On Sep 28 it was in a 329 x 338 km orbit.
+The subsatellite was informally referred to as BanXing (companion satellite)
+by Chinese commentators, but does not seem to have an official name.
+
+On Sep 28, the GC orbital module was ejected at 0848 UTC, and at about
+0851:16 UTC the propulsion module (tuijincang, TC) ignited for the
+deorbit burn over the South Atlantic at 7.5N 24.1W, at 330 km altitude.
+The burn was completed at about 0853:18 UTC (based on the graphics on
+Chinese TV coverage) over 13.6N 19.3W. I estimate that the delta-V was
+about 115 m/s, similar to Soyuz, and that the post-burn orbit was -50 x 330
+km x 42.4 deg. At 0913 UTC the FC and the TC separated as reentry began,
+about 150 km over western Tibet. The TC probably burnt up at around 0918
+UTC over the Gobi desert, and the FC deployed its main parachute at 0924
+UTC, with landing at 0937:40 UTC at 42.278N 111.355E in the Chinese
+province of Nei Monggol (Inner Mongolia), between Hohhot and Erenhot.
+
+The GC remains in a 329 x 336 km x 42.4 deg orbit, with designation 
+2008-47H.
+
+
+Falcon 1
+--------
+
+SpaceX's Falcon 1 rocket has reached orbit on its fourth try. The
+successful launch from Omelek Island at Kwajalein Atoll in the Pacific
+carried a dummy 'mass simulator' satellite, nicknamed Ratsat, which
+remained attached to the Falcon 1 second stage. After a short restart
+burn, the stage is in a 621 x 643 km x 9.35 deg orbit.
+
+
+Hubble Space Telescope
+----------------------
+
+The primary science data formatter control unit  on HST has failed,
+temporarily halting science operations. This has delayed the
+STS-125 servicing mission.
+
+
+AMC 14
+------
+
+The AMC 14 satellite continues to slowly raise its orbit towards
+geostationary. It now has a period of over 20 hours, at 27379 x 36198 km x
+15.8 deg. The satellite was stranded in transfer orbit in March.
+
+THEOS
+-----
+
+Kosmotras launched a Dnepr vehicle from the Yasniy (Dombarovskiy)
+missile base  on Oct 1, placing the THEOS satellite in sun-synchronous
+orbit. THEOS is owned by the Geo-Informatics and Space Technology
+Development Agency (GISTDA; Bangkok) of the Thai Ministry of Science and
+Technology. THEOS was built by EADS Astrium (I think Astrium/Toulouse?)
+using the same bus as Rocsat-2.
+
+THEOS is in a 672 x 692 km x 98.4 deg orbit; the plume shield is 645 x
+688 km x 98.8 deg, and the third stage is in a 675 x 1172 km x 98.8 deg
+orbit.
+
+FORMOSAT-3
+----------
+
+The Taiwan/US FORMOSAT-3 ionospheric research constellation was launched
+in April 2006 into initial orbits of 497 x 537 km x 72.0 deg.
+Based on a report at the 58th IAC in 2007, the individual
+satellites can now be identified; objects 2006-11A,B,C,D,E and F
+are satellites FORMOSAT-3 FM6, FM1, FM5, FM3, FM4 and FM2 respectively.
+Five of the satellites have reached their operational 750 x 850 km orbits,
+but FM3 is apparently stuck in an intermediate orbit due
+to solar array problems.
+Here are some details for those of you who love keeping their satellite
+catalogs up to date. The Rel.Long column gives the orbit ascending node
+relative to that of FM5; FM3 is drifting relative to the constellation
+because of its lower altitude.
+
+Catalog    Satellite         Current orbit,    Orbit raise dates    Rel.Long
+                             km x km x deg     Start       End
+29047/11A  FORMOSAT-3 FM6    763 x 839 x 72.0  2006 Dec    2007 Feb   -60
+29048/11B  FORMOSAT-3 FM1    769 x 833 x 72.0  2007 Sep    2007 Nov  -150
+29049/11C  FORMOSAT-3 FM5    774 x 828 x 72.0  2006 Jun    2006 Jul     0
+29050/11D  FORMOSAT-3 FM3    675 x 750 x 72.0  2007 Jun    2007 Aug (-160)
+29051/11E  FORMOSAT-3 FM4    752 x 850 x 72.0  2007 Mar    2007 May   -90
+29052/11F  FORMOSAT-3 FM2    771 x 831 x 72.0  2006 Sep    2006 Dec   -30
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep  6 0325   Huan Jing-1A )    Chang Zheng 2C   Taiyuan           Imaging   41A
+              Huan Jing-1B )                                       Imaging   41B
+Sep  6 1851   GeoEye-1          Delta 7420       Vandenberg SLC2W  Imaging   42A
+Sep 10 1950   Progress M-65     Soyuz-U          Baykonur LC1/5    Cargo     43A
+Sep 19 2148   Nimiq 4           Proton-M/Briz-M  Baykonur LC200/39 Comms     44A
+Sep 24 1928   Galaxy 19         Zenit-3SL        SL Odyssey        Comms     45A
+Sep 25 0849   Kosmos-2442)      Proton-M/DM-2    Baykonur LC81/24  Nav       46A
+              Kosmos-2443)                                         Nav       46B 
+              Kosmos-2444)                                         Nav       46C 
+Sep 25 1310   Shenzhou 7        Chang Zheng 2F   Jiquan            Spaceship 47A
+Sep 27 1127   Subsatellite                       SZ7, LEO          Tech      47G
+Sep 28 2315   Ratsat            Falcon 1         Omelek            Test      48A
+Oct  1 0637   THEOS             Dnepr            Yasniy            Imaging   49A
+Oct 12 0701   Soyuz TMA-13      Soyuz-FG         Baykonur          Spaceship 50A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

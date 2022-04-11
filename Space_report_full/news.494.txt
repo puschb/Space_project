@@ -1,0 +1,154 @@
+Jonathan's Space Report
+No. 494                                            2003 Feb 23, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Astronauts Bowersox, Pettit and Budarin remain aboard the International
+Space Station. The Progress M-47 cargo craft is docked to the aft Zvezda
+port and the Soyuz TMA-1 transport ship is docked to the Pirs module.
+
+The STS-107 investigation continues. It is still not clear what the root
+cause of the accident is, although investigation continues into the foam
+impacts and the possibility that minor damage to the wing could trigger
+early boundary layer transition and higher than normal heating. As usual
+in such accidents, it is likely that several problems were missed and
+contributed to the disaster. It's also likely that each problem was
+recognized, worried about, but ultimately dismissed by management. I
+confidently expect the usual rush to crucify those who made guesses that
+turned out to be wrong, and urge everyone to remember that hindsight is
+easy.
+
+Analysis so far supports the idea of a breach somewhere in the left
+wing, allowing hot gas to reach the landing gear area and parts of the
+left fuselage, and changing the aerodynamics of the wing. New data
+indicates a lot of RCS thruster activity just before loss of contact,
+suggesting to me that loss of vehicle control may have been the
+proximate cause of the destruction. Loss of voice communications and
+interruption of telemetry was at 1359:32 UTC; a final 2 second telemetry
+fragment shows that most of Columbia was intact up to 1400:04 UTC.
+Ground video shows multiple contrails at 1400:30 UTC.
+
+Last week I praised JSC's Ron Dittemore. Now I have to chide a different
+part of NASA. In a fit of apparent bureaucratic insanity, GSFC's OIG
+(Orbital Information Group) web site that makes orbital data available
+to the public has removed the orbital data for STS-107, stating:
+
+"The OIG has secured access to all STS-107 data for the duration of
+ the investigation and review period.  The OIG Web site will reinstate access to
+ the data following official release of support by JSC. 02/03/2003"
+
+What possible reason can there be for this? The data had *already* been
+made public; it doesn't interfere with the investigators' access to the
+data to keep it available for everyone else. It seems totally at
+variance with the openness of the rest of the investigation, and just
+begs for conspiracy theorists and UFO nuts to start thinking NASA has
+something to hide. I completely understand wanting not to release
+preliminary engineering analysis from the investigation, but this is
+data that was made available in a standard way while the mission
+was still up, and was circulated as it came out on several internet lists.
+Anyway, I already archived the data I have at
+ http://hea-www.harvard.edu/~jcm/space/elements/27600/S27647
+if anyone wants it.
+
+
+Recent Launches
+---------------
+
+The MAP satellite, part of NASA's MIDEX Explorer program, has been
+renamed the Wilkinson Microwave Anisotropy Probe (WMAP) after David T.
+Wilkinson (1935-2002), one of the leaders of the COBE and MAP satellite
+projects.
+
+The WMAP team announced their preliminary results on Feb 11. For those
+familiar with cosmology, the answers are:
+
+  H0 = 71 +/- 3 km/s/Mpc (if Lambda is z-independent)
+  Omega-total = 1.02 +/- 0.02
+  Omega-baryon = 0.047, Omega-CDM = 0.23, Omega-Lambda = 0.73 +/- 0.04
+  t0 (age of Universe) = 13.7 +/- 0.2 Gyr
+  t(reionization) = 0.2 Gyr  (from polarization)  z(reion)= 17+/-5
+  t(last scattering) = 0.38 Myr  z(last scat) = 1088 +/-2
+  w < -0.78
+  No evidence for non-gaussian structure.
+
+We've been wanting to know these numbers for a long time. For those of
+you to whom the above is gibberish, just understand that it makes us
+very happy. There are still a number of model-dependent assumptions in
+some of the WMAP results though, and I anticipate spirited attempts to
+knock a few holes in the above values over the next few years.
+
+The final Ariane 4 was launched on Feb 15. Flight V159, an Ariane 44L
+model, took off from the South American launch site and placed the third
+stage and the Intelsat 907 communications satellite in geostationary
+transfer orbit. There were 144 launches of the Ariane 1/2/3/4 series
+rockets from pads ELA1 and ELA2 at Kourou; this includes 7 launch
+failures. Ariane 5 is a completely new design and launches from pad
+ELA3; it is expected to return to flight in March.
+
+Mass of the Loral-built Intelsat 907 is 1473 kg dry; it carries 1947 kg
+of propellant. 907 will provide international telephone and TV
+transmission links for the Americas, Europe and Africa.
+
+The Indian Space Research Organization (ISRO) has renamed the
+METSAT-1 weather satellite. It will now be known as KALPANA-1,
+after astronaut Dr. Kalpana Chawla (1961-2003).
+
+The European Space Agency's Artemis satellite reached its geostationary
+position at 21.0E on 2003 Feb 5, after a year of ion engine burns to
+raise its orbit. Artemis was launched on 2001 Jul 12 but  the Ariane 5
+upper stage cut off early and left it in a low 592 x 17548 km x 3.0 deg
+transfer orbit.  It used its bipropellant engine to reach a 30902 x
+30964 km x 0.8 deg intermediate orbit by the end of Jul 2001 and then
+began using the ion engine in Feb 2002.
+
+Errata
+---------
+
+Reports indicate that the XSS-10 propulsion system is a bipropellant
+engine derived from the LEAP missile interceptor.
+
+The Taurus Lite suborbital launch probably did not use the full-up
+Orion 50SLXG motor planned for the ballistic missile interceptor, 
+just the current Taurus stage Orion 50SG.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan  6 1419   Coriolis          Titan II        Vandenberg SLC4W Environment 01A
+Jan 13 0045   ICESAT  )         Delta 7320-10   Vandenberg SLC2W Environment 02A
+              CHIPSat )                                          Astronomy   02B
+Jan 16 1539   Columbia )        Shuttle         Kennedy LC39     Spaceship   03A
+              Spacehab )                                         Lab
+Jan 25 2013   SORCE             Pegasus XL      Canaveral RW30/12 Solar obs  04A
+Jan 29 1806   GPS SVN 56 )      Delta 7925      Canaveral SLC17  Navigation  05A
+              XSS-10     )                                       Technology  05B
+Feb  2 1259   Progress M-47     Soyuz-U         Baykonur         Cargo       06A
+Feb 15 0700   Intelsat 907      Ariane 44L      Kourou ELA2      Comms       07A
+        
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        VAB           STS-114  Unknown     ISS ULF1
+OV-105 Endeavour       OPF           STS-115  Unknown     ISS 12A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

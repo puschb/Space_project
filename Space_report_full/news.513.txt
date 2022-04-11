@@ -1,0 +1,103 @@
+Jonathan's Space Report
+No. 513                                             2003 Nov 3, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Soyuz TMA-2 undocked from the Zarya module at 2317 UTC on Oct 27 with
+Yuriy Malenchenko, Ed Lu and Pedro Duque aboard. It fired its deorbit
+engines at 0147 UTC on Oct 28 and landed near Arkalyk in Kazakhstan at
+about 0241 UTC. Happily, there was no repetition of the reentry anomaly
+which caused Soyuz TMA-1 to land off course. Aboard the Station, the
+Expedition 8 crew of Mike Foale and Aleksandr Kaleri are settling in to
+their vigil on orbit. Soyuz TMA-3 is docked to the Pirs module and 
+Progress M-48 is docked to Zvezda.
+
+Recent Launches
+---------------
+
+Eurockot/Krunichev has launched a UR-100N Rokot two-stage refurbished
+missile with a Briz-KM upper stage and the SERVIS-1 satellite. SERVIS-1
+(Space Environment Reliability Verification of Integrated System) is
+owned by the Japanese USEF organization and (possibly) the Japanese
+Ministry of Trade and Industry; the satellite is to flight-qualify a
+variety of spacecraft components including navigation, computer, star
+tracker, battery and laser gyro. It was built by Mitsubishi. The purpose
+of SERVIS is to increase the reliability of Japanese satellites;
+meanwhile, JAXA lost contact with the Midori-2 earth observing satellite
+last week and its mission is presumed lost.
+
+China has launched a recoverable satellite with a Chang Zheng 2D rocket
+from Jiuquan. The satellite is a modified version of the FSW-2
+recoverable satellite and includes a camera payload which will probably
+be used for both military reconnaissance and earth resources studies.
+Some Western analysts expected that the new FSW would be the previously
+promised `seeds' mission with a study of 1000 species of seeds in space,
+but the Xinhua news agency release  does not mention this and emphasizes
+only 'land surveying, mapping and other scientific experiments'.
+No US orbital elements have been released so far.
+
+Thanks to work by independent analysts and info from some of the
+satellite operators, I can now report the identities of the 2003-42 launch
+objects:
+
+ 27939 2003-42A  Mozhaets 4
+ 27940 2003-42B  S3M rocket/Rubin-4-DSI
+ 27941 2003-42C  NigeriaSat-1
+ 27942 2003-42D  UK-DMC 
+ 27943 2003-42E  BILSAT-1
+ 27944 2003-42F  Larets
+ 27945 2003-42G  STSat-1
+ 27947 2003-42J  cataloging error - not a real object
+
+BILSAT-1 has begun testing its cold-gas propulsion system; the
+Surrey-built satellites comprising the Disaster Monitoring Constellation
+(Alsat, UK-DMC, NigeriaSat and BILSAT) have a limited maneuvering
+capability. It has been confirmed that Larets is a small 0.2m sphere
+covered with laser retroreflectors for calibration and geodesy, although
+it still isn't clear which Russian organizations built, own and operate
+it.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Sep  9 0429   USA 171           Titan 4B/Centaur Canaveral SLC40  Sigint     41A
+Sep 16        PS2               KT-1            Taiyuan           Test       F01
+Sep 27 0612   UK-DMC       )                                      Imaging    42D
+              NigeriaSat-1 )    Kosmos-3M       Plesetsk LC132    Imaging    42C
+              BILSAT-1     )                                      Imaging    42E
+              STSat-1      )                                      Astronomy  42G
+              Mozhaets-4   )                                      Comms?     42A
+              Larets       )                                      Calib      42F
+              Rubin-4-DSI  )                                      Test       42B
+Sep 27 2314   Insat 3E  )       Ariane 5G       Kourou ELA3       Comms      43E
+              e-Bird    )                                         Comms      43B
+              SMART-1   )                                         Lunar      43C
+Oct  1 0403   Galaxy 13         Zenit-3SL       SL Odyssey        Comms      44B
+Oct 15 0100   Shenzhou 5 )      CZ-2F           Jiuquan           Spaceship  45A
+              SZ-5 OM    )                                        Imaging    45G
+Oct 17 0452   IRS-P6            PSLV            Sriharikota       Imaging    46A
+Oct 18 0538   Soyuz TMA-3       Soyuz-FG        Baykonur          Spaceship  47A
+Oct 18 1617   DMSP F16          Titan 23G       Vandenberg        Weather    48A
+Oct 21 0316   ZY-1 No. 2  )     CZ-4B           Taiyuan           Imaging    49A
+              CX-1        )                                       Comms      49B
+Oct 30 1343   SERVIS-1          Rokot           Plesetsk          Tech       50A
+Nov  3 0720   FSW               CZ-2D           Jiuquan           Imaging    51A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |                                    |
+|   c/o                              |                                    |
+|  Center for Astrophysics,          |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

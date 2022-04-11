@@ -1,0 +1,160 @@
+Jonathan's Space Report
+No. 505                                            2003 Aug 1, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew, Yuriy Malenchenko and Edward Lu, remain on board
+the Space Station.  Novosti Kosmonavtiki magazine has published its
+account of the  Soyuz TMA-1 landing, including the actual landing time
+of 0204:25 UTC on May 4 - I haven't seen this time published in English
+sources.
+
+The Columbia investigation board has a nice analysis of the foam impact
+on  http://www.caib.us/news/documents/impact_velocity.pdf. One
+implication they don't draw is that, counter to the gut assumption made
+in pre-accident discussions, low density foam is arguably WORSE than
+high density ice. The change in velocity due to drag is proportional to
+one over the density, so the kinetic energy of impact is (1/2) mass
+times velocity squared, which is proportional to density times
+(1/density) squared, which is (1/density): the velocity change wins out
+over the mass increase, and low  density material  packs MORE bang
+(energy) and the SAME wallop (momentum m dv) as more dense material.
+However, it has been pointed out to me that the physics of the collision
+is a bit more complicated, for example due to differences in elasticity
+the foam collision probably deposits a smaller fraction of its energy,
+so that may cancel out the effect. Clearly from the imagery there are
+pieces of foam debris after the collision which still have significant
+energy. 
+
+Recent Launches
+---------------
+
+On Jul 17 Lockheed Martin launched AV-003, the first 500-series Atlas V.
+It is a 521 variant with a 5-m fairing, two Aerojet strapon solid
+boosters, and a single-engine Common Centaur upper stage; the previous
+two Atlas V launches were 400-series missions using a smaller fairing
+and no strapons. The enormous fairing made AV-003 highly reminiscent of
+a Titan IV. The vehicle entered a 167 x 4166 km x 27.1 deg parking orbit
+15 min after launch, according to Spaceflightnow.com (Justin, thanks
+again for continuing to include these figures in your commentary, as the
+ILS webcast commentators never bother to quote them). The Centaur
+restarted near apogee and delivered the payload to a high-perigee
+geostationary transfer orbit of 3815 x 35761 km x 17.5 deg.
+
+This was the first flight of the Aerojet Atlas V SRM boosters, which
+with a mass of 46t and a size of 19.2m long, 1.6m diameter are
+comparable to the first stage of the MX/Peacekeeper ICBM (shorter and
+fatter at 10.7m long 2.3m diameter) - much bigger than the Delta
+GEM strapons, but much smaller than the Ariane 5 and Titan 4 SRBs.
+
+AV-003's payload is Rainbow 1, a satellite built by Lockheed Martin in
+Sunnyvale (the rocket is built by the Denver branch of LM). The A2100AX
+class satellite has a launch mass of 4328 kg and will be used by
+Cablevision Systems Corp of Bethpage, NY. By Jul 23 Rainbow 1 had used
+its Leros engine to reach an orbit of 10529 x 35746 km x 8.8 deg,
+and by Jul 29 it was on station at 62 deg W in a 35644 x 35931 km x 0.1
+deg geostationary orbit.
+
+Canada's MOST astronomy satellite is successfully undergoing  on-orbit
+checkout, with first light expected in the coming weeks.
+
+Questions For Readers
+---------------------
+
+I'm trying to improve my log of objects in the geostationary corridor,
+adding debris that is not in the Space Command satellite catalog. It
+turns out that a number of geostationary weather satellites have ejected
+lens caps into orbit: Meteosat Second Generation (MSG 1) ejected two,
+although the recent GOES satellites have their cooler covers on hinges
+rather than ejecting them. I would be grateful if anyone who has worked
+on the earlier Meteosat, GOES/SMS, or NASDA GMS satellites can tell me
+whether or not these satellites ejected cooler covers. (For extra
+credit, provide ejection dates/times, dimensions and mass, and the same
+info for the ejected lower despun sections containing the spent apogee
+motors). Anyone else littering the geostationary band is encouraged
+to own up (e.g. telescope covers like those ejected from the DSP
+satellites).
+
+One funky example I came across in this search was the Canadian CTS
+(Communications Technology Satellite), launched in 1976. As with many
+satellites, it was spin-stabilized during the coast to geostationary
+orbit and prior to deploying its main solar array wings. Unusually, it
+got power during this period from an extra set of solar arrays mounted
+outside the folded-up array wings. Once CTS reached geostationary, it
+ejected these extra arrays, called JBSA (Jettisonable Body Solar
+Arrays), reducing its angular momentum and allowing the main wings to
+unfold (Acta Astronautica 5, 343). The 1.8-meter JBSAs do not currently
+appear in the satellite catalog, which is noticeably incomplete for
+older objects in high equatorial orbit - until the late 1980s, the US
+sensor net was still optimized for quickly  distinguishing satellites
+from incoming missiles, and tracking high altitude debris was not a
+priority. CTS pioneered Ku-band satellite communications, and was
+used for early tests of broadcasting to remote locations in both
+Canada and Australia.
+
+
+Fun (Educational) Toys
+-------------------------------------
+
+Dave Doody, from Cassini Flight Ops, draws my attention to
+      http://www.jpl.nasa.gov/scalemodels/
+
+
+Other News Sources
+------------------
+
+Brian Webb asked me to draw readers' attention to his free email 
+newsletter concentrating on the Vandenberg area,
+http://home.earthlink.net/~kd6nrp/newsletter.htm
+
+The spaceflightnow.com site, Stefan Barensky's site, www.orbireport.com,
+and Aleskandr Zheleznyakov's site (in Russian)
+www.cosmoworld.ru/spaceencyclopedia/hotnews/, remain the best other
+general sources of timely on-line space information which contain original
+(primary source) information.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  2 1745   Mars Express      Soyuz-FG/Fregat Baykonur LC31    Probe       22A
+Jun  4 1923   Kosmos-2398       Kosmos-3M       Plesetsk         Navigation  23A
+Jun  6 2215   AMC-9             Proton-K/Briz-M Baykonur LC200/39 Comms      24A
+Jun  8 1034   Progress M1-10    Soyuz-U         Baykonur LC1     Cargo       25A
+Jun 10 1356   Thuraya 2         Zenit-3SL       Odyssey, Pacific Phone comms 26A
+Jun 10 1758   MER-A Spirit      Delta 7925      Canaveral SLC17A Mars probe  27A
+Jun 11 2238   BSAT-2c    )      Ariane 5G       Kourou ELA3      Comms       28A
+              Optus/D C1 )                                       Comms       28B
+Jun 19 2000   Molniya-3         Molniya-M       Plesetsk LC43/3  Comms       29A
+Jun 26 1853   Orbview-3         Pegasus XL      Vandenberg RW30/12 Imaging   30A
+Jun 30 1415   Monitor-E mockup)                                   Tech       31A
+              Mimosa          )                                   Science    31B
+              MOST            ) Rokot           Plesetsk LC133    Astronomy  31D
+              CUTE-I          )                                   Tech       31E
+              Quakesat        )                                   Science    31F
+              Can X-1         )                                   Tech       31H
+              Cubesat XI-IV   )                                   Tech       31J
+              AAU-Cubesat     )                                   Imaging    31G
+              DTUSat          )                                   Tether     31C
+Jul  8 0318   MER-B Opportunity Delta 7925H     Canaveral SLC17B  Mars probe 32A
+Jul 17 2345   Rainbow 1         Atlas V 521     Canaveral SLC41   Comms      33A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

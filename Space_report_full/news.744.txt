@@ -1,0 +1,390 @@
+Jonathan's Space Report 
+No. 744                                                    2018 Jan 17  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+The 2017 annual summary report at http://planet4589.org/space/papers/space17.pdf has been
+updated to Rev 2, correcting mistakes in the payload mass figures in table 5.
+
+International Space Station
+---------------------------
+
+Expedition 54 continues with ISS Commander Aleskandr Misurkin and flight
+engineers Mark Vande Hei, Joe Acaba, Anton Shkaplerov, Scott Tingle and
+Norishige Kanai.
+
+On Dec 29 the Dextre and Canadarm-2 robot arms were used to move the TSIS
+solar instrument from the Dragon trunk to Express Logistics Carrier 3.
+On Jan 1-2 they moved the Space Debris Sensor to the Columbus External
+Payload Facility. On Jan 3 and 4 the Rapidscat instrument and the Rapidscat
+Nadir Adapter were moved from the Columbus EPF to the Dragon trunk for
+disposal.
+
+On Jan 10 the Dextre robot moved the spare Yaw Joint unit from the ESP-2 storage
+platform to the EOTP temporary stowage unit as part of preps for more work on
+the robot arm manipulators.
+
+Dragon CRS-13 was recovered safely on Jan 13. The Canadarm-2 unberthed
+Dragon at 2249 UTC Jan 12 and released it at 0958 UTC Jan 13. Release
+was performed remotely by ground control for the first time. Dragon's
+undocking mass was around 9500 kg and it was carrying about 1850 kg of
+return cargo. It made three small separation burns between 1002 and 1012
+UTC and then a 10 minute deorbit burn starting at 1443 UTC. The trunk
+was jettisoned at about 1501 UTC and reentry interface was reached at
+about 1514 UTC (I'd welcome a more accurate entry timeline if anyone has
+one). Capsule C108 splashed down at 1537 UTC near 30.1N 123.0W
+completing its second trip to space. The CRS-13 trunk, with Rapidscat,
+burned up at around 1514 UTC over the Pacific.
+
+
+What's Up With Zuma?
+---------------------
+
+The first orbital launch of the year was carried out by SpaceX on Jan 8
+with a secret payload called ZUMA, to be sent to low Earth orbit
+inclined at 50 degrees.  SpaceX's contract was with the Northrop Grumman
+company, which was probably also the spacecraft prime contractor, and
+fronted for the ultimate user which is an unknown US government agency
+(probably the NRO, but it's always possible a new secret
+three-letter-agency has arrived on the scene). According to
+industry sources prior to launch, Northrop Grumman is known to have
+provided its own payload adapter instead of using the standard Falcon 9
+one. A payload adapter connects the spacecraft to the final stage of the
+rocket and performs the actual separation of spacecraft from rocket once
+orbit is achieved. (Don't confuse this with the payload fairing or nosecone, which
+protects the spacecraft from the atmosphere). This function is normally the responsibility of the
+launch provider, but it is reasonable to infer that in this case payload
+separation was the responsibility of Northrop Grumman or of the US
+government customer, rather than of SpaceX.
+
+Falcon 9 mission 48 was launched from Cape Canaveral's Pad 40
+and used first stage B1043, which returned to the Cape to
+land at landing zone LZ1. Mission events after payload fairing separation
+are secret, but SpaceX later reported that the Falcon 9 did its job correctly.
+The second stage was expected to separate from the payload and perform a deorbit
+burn after about 1.5 orbits, destroying itself over the Indian Ocean.
+Consistent with this, a rocket burn was seen at the appropriate time by observers
+in Sudan. It appared the vehicle tumbled during the burn, which should have
+reduced the effective velocity change, but perhaps (if rumours described below
+are correct) not enough to prevent reentry.
+
+For a successful mission I would have expected two entries in the US
+satellite catalog: the payload, given the bland cover name USA 280 and
+the international designation 2018-001A, and the rocket, which would get
+2018-001B despite its short stay in orbit (the normal rule is that you
+get cataloged if you stay up more than one complete orbit). In the
+event, only one catalog entry appeared, that for USA 280. The Wall
+Street Journal reported, citing sources on Capitol Hill, that the
+mission was a failure - the spacecraft failed to separate from the upper
+stage and was destroyed on reentry.
+
+This scenario, if true, is consistent with the available data, including
+the claim that SpaceX does not think it is at fault (although a full
+failure investigation could always find something subtle that could
+change that). It would imply that the combined Zuma/Falcon Stage 2
+completed its 1.5 orbits - consistent with it getting a single catalog
+entry - and that the second stage then was deorbited with the expensive
+payload still attached. Industry insiders have suggested that multiple
+attempts would have been made to separate the payload. It is possible
+that the deorbit burn was not aborted because if the payload remained in
+orbit attached to the stage, it would present a significant debris risk
+(similar to the risk used to justify the antisatellite intercept of USA
+193 in 2008). If it's clear the mission is a failure, it's more prudent
+to carry out safe disposal of the vehicle. The `decay date' (i.e. reentry
+date) column in the satellite catalog has been left blank, but
+that is standard for secret missions which have often reentered without
+any acknowledgement.
+
+Others have suggested a scenario in which the mission was a success and
+the failure rumours are a deliberate cover story as part of an attempt
+to conceal the spacecraft. I find this unlikely for two reasons.
+Firstly, the source of the rumours seem to be Congressional staffers who
+can influence the spy agencies' budgets, will be displeased with them at
+the hundreds of megabucks apparently lost, but will be even less pleased
+about being made patsies for a cover story - and they will find out.
+Secondly, my impression is these rumours have made amateur observers
+even more determined than usual to search for the satellite in order to
+clarify the situation, so it's highly unclear what such a cover story
+would actually achieve.
+
+Satellite observer Marco Langbroek has calculated that the Sudan
+observation implies an orbital altitude around 1000 km;  such an orbit
+makes some kind of radar satellite seem the most likely mission. The
+Falcon 9 has about a 9000 kg capacity to this orbit, which sets an upper
+limit to the payload mass. A successful deorbit with unexpected extra
+mass attached would suggest the payload was well below that limit.
+
+
+Superview-1
+-----------
+
+The first Chinese launch of the year used the SAST/Shanghai CZ-2D rocket from
+Taiyuan space center. The third and fourth satellites in Beijing Space View's Gaojing-1
+(Superview-1) high resolution imaging constellation were launched on Jan
+9 into 1030 local time sun-synchronous orbit, joining the first pair launched a
+year earlier. On Jan 12 the satellites began adjusting their orbit slightly.
+
+ Orbits as of Jan 13: (03 and 04 might be the wrong way round)
+  Gaojing-1 01 xing    513 x 536 km x 97.6 deg
+  Gaojing-1 02 xing    514 x 535 km x 97.6 deg
+  Gaojing-1 03 xing    523 x 536 km x 97.6 deg
+  Gaojing-1 04 xing    510 x 529 km x 97.6 deg
+
+Beidou
+------
+
+The CALT/Beijing CZ-3B was used for China's second launch, from Xichang.
+Flight Y45's third stage reached a 210 x 18546 km x 55.0 deg transfer
+orbit and deplyed the Yuanzheng-1 (YZ-1) Y5 upper stage, which
+immediately raised apogee to 22000 km. A second burn of the YZ-1
+circularized the orbit to 21543 x 22194 km, after which two Beidou-3
+navigation satellites were deployed. Beidou Daohang Weixing (Polaris
+Navigation Satellite) 26 and 27 are also designated MEO-7 and MEO-8.
+These two satellites were built by the Shanghai CAS Institute for
+Microsatellite Innovation (Zhongguo kexueyuan weixiao weixing chuangxin
+yanjiuyuan), unlike the MEO-1 and 2 satellites launched in November
+which were built by Beijing's CAST.
+
+
+PSLV-C40
+--------
+
+India launched the PSLV-C40 mission on Jan 12, returing the PSLV successfully to flight after
+a fairing separation failure last August. The primary payload was the Cartosat-2ER
+imaging satellite; a cluster of 30 smaller satellites was also deployed.
+
+Most of the payloads were deployed in the same orbit as Cartosat, around 495 x 520 km.
+However,  the final satellite to be deployed, Microsat-TD, went to a lower
+orbit of 328 x 368 km, taking advantange of the PSLV PS4 stage's recently added
+multi-burn capability. It is a 100-kg-class ISRO technology development
+satellite using a bus based on IMS-1 (launched in 2008). According to Gunter Krebs
+(space.skyrocket.de) it has a 0.8m resolution imager and has a mass around 120 kg.
+
+The other payloads are:
+
+- INS-1C, the third Indian Nanosatellite mission. With a mass of 11 kg, it carries
+  an experimental multispectral imager.
+
+- Telesat's LEO Vantage 1 satellite for test and validation of technology for
+  a Ka-band LEO constellation; built by Surrey Satellite, mass around 100 kg.
+
+- VividX2, a 100 kg class HD video satellite for the UK imaging company Earth-i.
+  The satellite was built by Surrey Satellite Technologies - somewhat
+  unsurprisingly as Earth-i headquarters is literally across the street from them (and a few miles
+  from where I used to live as a teenager, so I know the area!). SSTL calls the satellite Carbonite-2.
+
+- ICEYE-X1, a proof of concept mission for radar imaging company ICEYE of Helsinki, using a 70 kg
+  satellite built by York Space Systems of Denver, Colorado, with launcher integration by Spaceflight
+  Industries.
+
+- The ISILaunch-21 cubesat mission from ISIS-BV (Netherlands), with 5 QuadPack deployers each
+  with 12U cubesat capacity; Spaceflight Industries was responsible for two 6U satellites and
+  8 smaller cubesats. A total of 25 cubesats correpsonding to 69U capacity were deployed:
+
+  - Arkyd-6A is a 6U cubesat for Planetary Resources, with a mid-infrared imager.
+
+  - Landmapper BC3 (Corvus BC3), a 6U Earth imaging cubesat for AstroDigital's BC (Broad Coverage)
+    system. The original BC3 (and BC4) failed to orbit in November; this satellite appears to have 
+    the internal name Landmapper BC-3-v2. 
+
+  - CICERO 7, for GeoOptics, a Tyvak-built 6U cubesat for GNSS-RO meteorology.
+
+  - Picsat, a 3U cubesat from the Observatoire de Paris-Meudon, to perform transit photometry 
+    of the exoplanet Beta Pic b.
+
+  - Tyvak-61C, a 3U satellite from Tyvak Corp of California, reportedly to measure variability of luminous (but
+    I think they probably mean bright, i.e. apparent rather than absolute magnitude) stars. I haven't heard anything
+    about this astronomy mission and am curious to know more.
+
+  - CANYVAL-X, a 3U technology experiment from Yonsei University (Seoul): 
+   Cubesat Astronomy by NASA and Yonsei using Virtual Telescope Alignment.
+   The payload consists of 2U and 1U cubesats which will later separate and perform a formation flying test.
+
+  - CNUSAIL-1 (Papillon), a 3U cubesat test of a drag sail from Chungnam National Univ., Seoul.
+
+  - KAUSAT-5, a 3U cubesat with an Earth imager, from Korea Aerospace University (formerly Hankuk
+  Aviation University, whose earlier HAUSAT-1 was lost in a 2006 launch failure).
+
+  - SIGMA (KHUSAT-3), a space science 3U cubesat from Kyung Hee University, Seoul.
+
+  - Micromas-2A, for microwave radiometry of tropical weather, a 3U cubesat from MIT Lincoln Lab.
+
+  - 4 SpireGlobal Lemur-2 satellites with ship tracking and GNSS-RO meteorology payloads.
+
+  - 4 Planet Dove imaging satellites, Dove 1100, 1102, 1105, and 1107, forming the Flock 3P-prime group and serving
+    as testbeds for improving the Planet constellation.
+
+  - DemoSat-2, a 3U satellite to test a UHF radio payload, from an unknown US commercial operator.
+
+  - StepCubeLab, a 1U test satellite from Choson U., Gwangju.
+
+  - Fox-1D, or AMSAT-OSCAR-92, is a 1U amateur radio satellite from AMSAT-NA.
+
+  - SpaceBEE-1 to SpaceBEE-4, tiny satellites 0.10 x 0.10 x 0.025m in size (0.25U cubesat form factor).
+    These are reportedly NOT the satellites from the TUBSAT team known as Beesat-5 to Beesat-8, although
+    they appear very similar.  They have communications payloads. It is not known who owns SpaceBEE.
+
+ ISIS-BV reported 23 of the cubesats used the QuadPack deployers. These included Picsat, StepCubeLab,
+  KAUSAT, CNUSAIL, CANYVAL, Dove, Lemur; it's not clear which 2 cubesats used a different deployer.
+
+ As of Jan 14, objects T and U in Space-Track appear to be the PS4 stage and Microsat-TD (since they are in the
+ lower orbit). However, it is not unlikely the catalog numbers will be shuffled.
+
+ If anyone wants to own up to being the owner of SpaceBEE or DemoSat-2, please contact me!
+ 
+
+USA 281
+-------
+
+ULA launched a Delta 4 from Vandenberg on Jan 12 on behalf of the US National Reconnaissance Office.
+Launch NROL-47 placed the secret USA 281 satellite in a 1050 km retrograde orbit; the satellite
+is believed to be a TOPAZ radar imaging vehicle. The Delta 4 second stage was deorbited after
+payload separation and did not get a US catalog number.
+
+LKW 3
+-----
+
+China's third LKW imaging satellite was launched into a 1330 LTDN sun-synchronous orbit
+on Jan 13, 45 degrees from the orbital plane of LKW-1 and 2.
+
+
+GOES 13
+-------
+
+NOAA's GOES 13 weather satellite was launched in 2006 and has served
+at 75 deg W as the GOES East operational satellite since Apr 2010,
+returning images of Atlantic area weather. GOES 16, launched in 2016,
+took up GOES East duties in December; GOES 13 was moved off station
+on Jan 11 and is drifting east, probably to a reserve location.
+
+Swift
+-----
+
+The Swift satellite, launched in 2004 to study gamma ray bursts,
+was renamed the Neil Gehrels Swift Observatory on Jan 10 to honor
+the late Neil Gehrels (1952-2017), who was the mission's originator
+and principal investigator.
+
+Tsubame
+--------
+
+The Tsubame low orbit satellite launched on Dec 23 has begun testing
+its propulsion system. Its apogee was lowered by 20 km in 2 burns
+on Jan 13 and 15, leaving it in a 456 x 608 km orbit. Initial low operational
+orbit is expected to be 268 x 268 km.
+
+
+Afristar
+-------
+
+On Jan 6 the Afristar satellite's orbit was raised to the GEO graveyard,
+at 36114 x 36176 km x 3.7 deg. The satellite was retired after 20 years
+service at the 21.0E location. Originally used by Noah Samara's
+Worldspace for digital pan-African distribution  of local African radio
+content, it was repurposed in 2010  for Samara's Yazmi online education
+company and then sold on in 2017 to CMMB/Hong Kong's Silkwave
+broadcasting operator, now part of CMMB Vision.
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+Dec  2 1043   Kosmos-2524             Soyuz-2-1B        Plesetsk LC43/4  Sigint       76A   S43032   245 x   900 x 67.1
+Dec  3 0411   LKW-1                   Chang Zheng 2D    Jiuquan LC603    Imaging      77A   S43034   478 x   592 x 97.5 1030LT SSO
+Dec  6 1924   Lemur-2-YongLin                         SS Cernan, LEO     AIS/Weather  71E?  S43041?  449 x   454 x 51.6
+              Lemur-2-Kevin                                              AIS/Weather  71F?  S43042?  449 x   454 x 51.6
+              CHEFSat                                                    Tech         71G?  S43043?  449 x   454 x 51.6
+              Aerocube 7B                                                Tech         71H?  S43044?  449 x   454 x 51.6
+              Aerocube 7C                                                Tech         71J?  S43045?  449 x   454 x 51.6
+Dec  6 2240   Lemur-2-BrianDavie                      SS Cernan, LEO     AIS/Weather  71K?  S43046?  449 x   454 x 51.6
+              Lemur-2-RomaCoste                                          AIS/Weather  71L?  S43047?  449 x   454 x 51.6
+              PropCube Fauna                                             Tech         71M?  S43048?  449 x   454 x 51.6
+              Asgardia 1                                                 Tech         71N?  S43049?  449 x   454 x 51.6
+              ISARA                                                      Tech         71P?  S43050?  449 x   454 x 51.6
+Dec  7 0200   Lemur-2-RocketJonah                     SS Cernan, LEO     AIS/Weather  71Q?  S43051?  449 x   454 x 51.6
+              Lemur-2-Liu-Poh-Chun                                       AIS/Weather  71R?  S43052?  449 x   454 x 51.6
+              Lemur-2-McCullagh                                          AIS/Weather  71S?  S43053?  449 x   454 x 51.6
+              Lemur-2-Dunlop                                             AIS/Weather  71T?  S43054?  449 x   454 x 51.6
+Dec 10 1640   Alcomsat 1              Chang Zheng 3B    Xichang LC2      Comms        78A   S43039   180 x 41795 x 26.4
+Dec 12 1836   GalileoSat 19 )         Ariane 5ES        Kourou ELA3      Navigation   79A   S43055 22818 x 22922 x 57.0
+              GalileoSat 20 )                                            Navigation   79B   S43056 22906 x 23046 x 57.0
+              GalileoSat 21 )                                            Navigation   79C   S43057 22905 x 23172 x 57.2
+              GalileoSat 22 )                                            Navigation   79D   S43058 22903 x 22911 x 56.9
+Dec 15 1536   Dragon CRS-13           Falcon 9          Canaveral LC40   Cargo        80A   S43060   204 x   356 x 51.6
+Dec 17 0721   Soyuz MS-07             Soyuz-FG          Baykonur LC1     Spaceship    81A   S43063   185 x   238 x 51.6
+Dec 23 0126   Shikisai )              H2A 202           Tanegashima      Imaging      82A   S43065   790 x   793 x 98.7 1015LT SSO
+              Tsubame  )                                                 Tech         82B   S43066   470 x   655 x 98.7 
+Dec 23 0127   Iridium SV116           Falcon 9          Vandenberg SLC4E Comms        83C   S43072   609 x   626 x  86.7
+              Iridium SV130                                              Comms        83D   S43073   609 x   626 x  86.7
+              Iridium SV131                                              Comms        83K   S43079   609 x   626 x  86.7
+              Iridium SV134                                              Comms        83F   S43075   609 x   626 x  86.7
+              Iridium SV135                                              Comms        83A   S43070   609 x   626 x  86.7
+              Iridium SV137                                              Comms        83G   S43076   609 x   626 x  86.7
+              Iridium SV138                                              Comms        83B   S43071   609 x   626 x  86.7
+              Iridium SV141                                              Comms        83H   S43077   609 x   626 x  86.7
+              Iridium SV151                                              Comms        83E   S43074   609 x   626 x  86.7
+              Iridium SV153                                              Comms        83J   S43078   609 x   626 x  86.7
+Dec 23 0414   LKW-2                   Chang Zheng 2D    Jiuquan          Imaging      84A   S43080   492 x   511 x  97.5 1033 LT SSO
+Dec 25 1944   Yaogan-30 03 zu 01 xing) Chang Zheng 2C   Xichang          Sigint       85A   S43081   589 x   604 x  35.0
+              Yaogan-30 03 zu 02 xing)                                   Sigint       85B   S43082   589 x   604 x  35.0
+              Yaogan-30 03 zu 03 xing)                                   Sigint       85C   S43083   589 x   604 x  35.0
+Dec 26 1900   Angosat                 Zenit-3F          Baykonur LC45    Comms        86A   S43087 35962 x 36118 x   0.1
+Jan  8 0100   Zuma (USA 280)          Falcon 9          Canaveral LC40   Radar?       01A   S43098  1000?x  1000?x  50.0
+Jan  9 0324   Gaojing-1 03 )          Chang Zheng 2D    Taiyuan          Imaging      02A   S43099   523 x   536 x  97.6
+              Gaojing-1 04 )                                             Imaging      02B   S43100   510 x   529 x  97.6
+Jan 11 2318   Beidou DW 26  )         Chang Zheng 3B    Xichang          Navigation   03A   S43107 21538 x 22194 x  55.0 
+              Beidou DW 27  )                                            Navigation   03B   S43108 21543 x 22194 x  55.0
+Jan 12 0359   Cartosat 2ER    )       PSLV-XL          Satish Dhawan FLP Imaging      04A?  S43111   495 x   510 x  97.6
+              INS-1C          )                                          Imaging      04             495 x   508 x  97.6
+              LEO Vantage 1   )                                          Comms        04             495 x   508 x  97.6
+              ICEYE-X1        )                                          Radar        04             495 x   508 x  97.6
+              VividX2         )                                          Imaging      04             495 x   508 x  97.6
+              Arkyd-6A        )                                          Imaging      04             495 x   508 x  97.6
+              CICERO 7        )                                          Weather      04             495 x   508 x  97.6
+              Landmapper-BC3  )                                          Imaging      04             495 x   508 x  97.6
+              PICSAT          )                                          Astronomy    04             495 x   508 x  97.6
+              Tyvak-61C       )                                          Astronomy    04             495 x   508 x  97.6
+              CANYVAL-X1/X2   )                                          Tech         04             495 x   508 x  97.6
+              CNUSail-1       )                                          Tech         04             495 x   508 x  97.6
+              STEP Cube Lab   )                                          Tech         04             495 x   508 x  97.6
+              KAUSAT-5        )                                          Imaging      04             495 x   508 x  97.6
+              KHUSAT-3        )                                          Tech         04             495 x   508 x  97.6
+              Fox-1D          )                                          Comms        04             495 x   508 x  97.6
+              Micromas-2A     )                                          Science      04             495 x   508 x  97.6
+              DemoSat-2       )                                          Comms        04             495 x   508 x  97.6
+              SpaceBEE-1      )                                          Comms        04             495 x   508 x  97.6
+              SpaceBEE-2      )                                          Comms        04             495 x   508 x  97.6
+              SpaceBEE-3      )                                          Comms        04             495 x   508 x  97.6
+              SpaceBEE-4      )                                          Comms        04             495 x   508 x  97.6
+              Lemur-2-PW        )                                        AIS/Weather  04             495 x   508 x  97.6
+              Lemur-2-DaveWilson)                                        AIS/Weather  04             495 x   508 x  97.6
+              Lemur-2-McCafferty)                                        AIS/Weather  04             495 x   508 x  97.6
+              Lemur-2-BrownCow  )                                        AIS/Weather  04             495 x   508 x  97.6
+              Flock 3p'-1       )                                        Imaging      04             495 x   508 x  97.6
+              Flock 3p'-2       )                                        Imaging      04             495 x   508 x  97.6
+              Flock 3p'-3       )                                        Imaging      04             495 x   508 x  97.6
+              Flock 3p'-4       )                                        Imaging      04             495 x   508 x  97.6
+              Microsat-TD     )                                          Imaging      04T?  S43128   346 x   371 x  96.9
+Jan 12 2211   USA 281                 Delta 4M+(5,2)    Vandenberg SLC6  Radar        05A   S43145  1052 x  1053 x 106.0
+Jan 13 0710   Ludi Kancha Weixing 3   Chang Zheng 2D    Jiuquan          Imaging      06A   S43146   496 x   506 x  97.3
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Dec 12 1659   New Shepard CC2   New Shepard        West Texas            Test           99       West Texas
+Dec 19        RV/Warhead        Burkan 2H          Sa'dah                Weapon        150?      Riyadh
+Dec 26 0330?  RV                Topol'-E?          Kapustin Yar          Test         1000?      Balkhash?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

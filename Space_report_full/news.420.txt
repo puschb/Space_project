@@ -1,0 +1,177 @@
+Jonathan's Space Report
+No. 420                                            2000 Feb  10  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+STS-99 is due for launch Feb 11.
+
+The first Progress M1 enhanced cargo ferry was launched from Baykonur on
+Feb 1. Spacecraft 11F615A55 No. 250 took off from area 1 at 5-GIK
+(Baykonur) at 0647 UTC. 
+
+The original Progress, 7K-TG or 11F615A15 (the A15 mod of the 11F615
+Soyuz class vehicle) was first launched in 1978. The 11F615 Soyuz,
+developed as a lunar spaceship in the 1960s and used as a space station
+crew transport since the 1970s, had a propulsion module
+(priborno-agregatniy ostek, PAO), a descent vehicle (spuskaemiy apparat,
+SA), and a habitation module (bitovoy otsek, BO). The Progress was very
+similar but replaced the BO with an externally simpler cargo module
+(gruzovoy otsek, GO) and replaced the recoverable SA with a
+non-recoverable fuel module (Otsek komlonyemntov dozapravki, OKD) used
+for refuelling the space station. 43 Progress vehicles were launched to
+the DOS-5 (Salyut-6), DOS-6 (Salyut-7), and DOS-7 (Mir) space stations.
+
+The first 7K-TGM or 11F615A55 (the A55 mod of Soyuz),  Progress M, was
+launched in 1989 and had improved onboard systems. 42 Progress M
+vehicles have been launched to Mir.
+
+The Progress M1 (probably 7K-TGM1) modification of the A55 variant was
+developed for the International Space Station. This vehicle, however,
+was assigned to Mir. It docked with the unoccupied Mir complex on Feb 3
+at 0802:20 UTC and began raising Mir's orbit on Feb 5, with further
+burns planned through Feb 9.
+
+Progress M-42 undocked on Feb 2 at 0311:52 UTC and was deorbited over
+the Pacific later the same day at 0610:40 UTC with an 8 minute burn.
+The spacecraft had been docked to the Kvant module since 1999 Jul 18.
+
+
+Recent Launches
+---------------
+
+The European Space Agency's X-ray observatory, now renamed XMM-Newton,
+has released its first light images (http://xmm.esa.int). 
+Warmest congratulations to my European colleagues on the succesful
+beginning of what I hope will be a long and productive science career
+for XMM-Newton - and fingers crossed for my friends at Goddard and in Japan
+for the launch of the third and final member of the new generation
+of X-ray observatories, Astro E, due in a few minutes as I type this.
+
+Hispasat 1C was launched on Feb 3 by an Atlas IIAS from Cape Canaveral
+Air Force Station. The satellite is an Alcatel/Cannes Spacebus 3000 and
+joins the Spanish domestic satcom fleet. It was placed in a 222 x 45730
+km x 18.7 deg transfer orbit.
+
+Kosmos-2369 was launched by Zenit-2 from Baykonur on Feb 3.
+The satellite is a Tselina-2 signals intelligence vehicle built
+by KB Yuzhnoe and is in an 845 x 853 km x 71.0 deg orbit.
+
+Four Loral Globalstar communications satellites were launched by a
+Boeing Delta 7420 from Cape Canaveral Air Force Station on Feb 8. I
+don't have the flight model numbers for these satellites yet. The Delta
+rocket entered a 185 x 914 km x 51.9 deg transfer orbit 11 min after
+launch; at 1 hour after launch a second burn circularized the orbit at
+916 km.
+
+
+The first test flight of the Soyuz-Fregat launch vehicle on Feb 8
+appears to have been a success. The Fregat upper stage is derived from
+Lavochkin's Fobos/Mars-96 ADU propulsion unit. It uses the same liquid
+engine as Rokot's Briz upper stage. The three-stage 11A511U Soyuz-U
+rocket placed Fregat and its payload in a suborbital trajectory. A first
+Fregat burn to transfer orbit was followed by a second burn at apogee to
+circularize the orbit. Fregat then deployed a 1-tonne dummy mass. The
+dummy satellite was placed in a 581 x 606 km x 64.8 deg orbit. After
+several hours, Fregat made a third burn to lower perigee, followed by a
+fourth at perigee to deorbit. It then separated the attached IRDT
+(Inflatable Reentry and Descent Technology) payload, a joint project
+between ESA, the German DASA and the Russian Lavochkin company. IRDT was
+built by DASA-Bremen and Lavochkin. IRDT separated, and both Fregat and
+IRDT deployed inflatable heat shields for reentry. According to the ESA
+web site they landed in Russia 8 hours after launch with an impact
+velocity of about 47 kph. No report yet on how well the payloads
+survived; a Russian report indicates the landing was in the Orenburg
+recovery zone but that the landers have not yet been found. IRDT was 110
+kg and had a shield 0.8m in size packed, inflating to 3.6m dia. on use.
+Fregat itself had a 4-m diameter shield.
+
+A press release from China confirms that Zhongxing-22 was a DFH-3
+satellite built by the China Academy of Space Technology.
+
+The FalconSat-1 satellite launched on Jan 27 carries  the CHAWS-LD
+(Charging Hazards and Wake Studies-Long Duration) experiment to measure
+spacecraft charging effects in LEO. The satellite was developed and is
+operated by USAFA (the US Air Force Academy) and also provides USAFA
+cadets with space operations experience and training. The USAFA flew an
+earlier experiment, Falcon Gold, as an attached payload on a Centaur
+upper stage in Oct-Nov 1997, and is also involved in the main JAWSAT
+payload on the Jan 27 launch. Mass of FalconSat-1 is 52 kg, not
+15 kg as I claimed last issue. The ASUSat 1 satellite failed
+after 15 hours on orbit because of power supply problems.
+
+The Artemis team of women undergrads at Santa Clara University has three
+picosatellites, not just one, aboard the OPAL deployer. They are called
+JAK, Thelma, and Louise. (JAK is the initials of the infant son of
+Artemis' advisor). JAK has a mass of about 0.2 kg, the other two around
+0.5 kg. Size around 0.1-0.2m each. There are a total of 
+six picosats (three Artemis, STENSAT, and two Aerospace Corp.
+picosats).
+
+The first two picosats, the tethered DARPA/aerospace corp pair,
+were deployed on Feb 7 at 0334:16 UTC. Thanks to James Cutler of
+Stanford for this info. OPAL is having some transmitter problems
+which delayed the initial picosat release.
+
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan 21 0103   DSCS III B-8      Atlas IIA      Canaveral SLC36A Comsat     01A
+Jan 25 0104   Galaxy 10R        Ariane 42L     Kourou ELA2      Comsat     02A
+Jan 25 1645   Zhongxing-22      CZ-3A          Xichang LC2      Comsat     03A
+Jan 27 0303   JAWSAT    )       Minotaur       Vandenberg CLF   Tech.      04A
+              OCS       )                                       Calib.     04B
+              OPAL      )                                       Tech.      04C
+              FalconSat I)                                      Tech.      04D
+              ASUSAT    )                                       Img/Com    04E
+              JAK       )                                       Science    04B
+              Thelma    )                                       Science    04B
+              Louise    )                                       Science    04B
+              STENSAT   )                                       Comsat     04B
+Feb  1 0647   Progress M1-1     Soyuz          Baykonur LC1     Cargo      05A
+Feb  3 0926   Kosmos-2369       Zenit-2        Baykonur LC45    Sigint     06A
+Feb  3 2330   Hispasat 1C       Atlas IIAS     Canaveral SLC36  Comsat     07A
+Feb  7 0334   MEMS 1    )       -              OPAL, LEO        Tech.      04H	
+              MEMS 2    )                                       Tech.      04H
+Feb  8 2124   Globalstar  )     Delta 7420     Canaveral SLC17  Comsat     08A
+              Globalstar  )                                     Comsat     08B
+              Globalstar  )                                     Comsat     08C
+              Globalstar  )                                     Comsat     08D
+Feb  8 2320   IRDT           )  Soyuz/Fregat   Baykonur LC31    Tech       09
+              Dummy satellite)                                  Tech       09A
+	      Fregat         )                                  Tech       09B
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay  1    STS-92  2000 Sep?    ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Apr 25  ISS 2A.2
+OV-105 Endeavour       LC39A         STS-99  2000 Feb 11  SRTM
+
+
+MLP1/
+MLP2/                          LC39B
+MLP3/RSRM-71/ET-92/OV-105      LC39A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

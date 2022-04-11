@@ -1,0 +1,107 @@
+Jonathan's Space Report
+No. 522                                        2004 Mar 19, Somerville, MA
+-------------------------------------------------------------------------------
+
+- Minor planet 2004 FH, a 30-meter rock discovered on Mar 16, passed
+about 42000 km above the South Atlantic around 27W 30S on Mar 18 at
+2200 UTC.  This is just beyond geostationary orbit, and the closest
+known approach to Earth of an object of this size, excepting those
+inferred from the discovery of large holes in the ground. (Fortunately,
+although Chandra was at about the same altitude, it was over the Pacific
+at the time - phew.)
+
+- Rosetta, Europe's flagship science mission for the first half of this
+decade, was launched from Kourou on Mar 2 at 0717 UTC. The probe will orbit a a
+comet and deliver the Philae lander to its surface.
+
+The launch vehicle, Ariane No. 518G (flight V158) was the first Ariane
+5G+, with an improved EPS upper stage. The EPC core stage entered a 45 x
+3849 km x 5.7 deg orbit 9 min after launch. It completed one orbit and
+reentered at perigee over the eastern Pacific. The EPS second stage
+ignited on the descending leg of the orbit at 0914UTC and burned for 17
+minutes. During the burn the instantaneous orbital perigee increased so
+that the payload missed the atmosphere easily with a closest approach of
+225 km; altitude increased to engine cutoff at about 1100 km, at which
+point Rosetta and the EPS stage were in a hyperbolic Earth escape orbit
+with a perigee of 392 km. The EPS stage separated from Rosetta at 0932 UTC.
+Rosetta left the Earth's gravitational sphere of influence early on
+March 5, and is now in an 0.885 x 1.094 AU orbit around the Sun inclined
+at 0.4 deg to the ecliptic and will reach perihelion around May 25.
+
+Rosetta's target comet, 67P/Churyumov-Gerasimenko, is in a 1.29 x 5.72 AU
+x 7.1 deg orbit. To reach this very different orbit, Rosetta will make
+an Earth flyby in Mar 2005, a Mars flyby in Feb 2007, two more Earth
+flybys in Nov 2007 and Nov 2009, and  will reach the comet in 2014.
+On the way, Rosetta will make flybys of minor planets (2867) Steins
+(on 2008 Sep 5) and (21) Lutetia (on 2010 Jul 10).
+
+Rosetta was built by Astrium/Friedrichshafen, and carries the OSIRIS
+camera, ultraviolet, visible, infrared and microwave spectrographs,
+neutral and ion mass spectrometers and gas chromatograph, dust detectors
+and analysers, comet plasma analysers, and the CONSERT radar sounder to
+study the interior of the nucleus.
+
+- The US-P class naval signals intelligence satellite Kosmos-2383 was
+destroyed in orbit in late February. The debris is in low orbit and will
+reenter quickly; such detonations are common for this class of Russian
+military satellite. Kosmos-2383 was launched in Dec 2001 and has not
+yet been replaced.
+
+- On March 13, MBSAT was launched by Lockheed Martin Atlas 3A from Cape
+Canaveral. The Loral-built MBSAT will relay digital audio and multimedia
+to mobile users in Japan using a large deployable S-band mesh antenna. 
+Atlas Centaur AC-202 reached a 166 x 940 km orbit 12 min after launch,
+and then restarted to enter a 183 x 35939 km x 24.8 deg transfer orbit.
+MBSAT will use an R-4D liquid engine to raise its orbit to geostationary
+over longitude 144 deg E. MBSAT is a joint venture between Mobile 
+Broadcasting Co. of Tokyo and SK Telecom of Seoul.
+
+- A Krunichev Proton-M was launched from Baykonur on Mar 15 carrying a
+Briz-M upper stage and the European Eutelsat W3A satellite.  This is the
+third launch of Proton-M, which has a more powerful first stage and
+improved systems than the usual Proton-K. Eutelsat W3A is the first
+Astrium Eurostar 3000S model, a larger version of the long-running
+Eurostar series, and will provide communications for Eutelsat to Europe,
+the Middle East, and Africa. 
+
+The Briz-M first burn put the spacecraft in a 185 x 185 km x 51.6 deg
+orbit; the second burn finished at 0030 UTC on Mar 16 in a 250 x 5000 km
+x 50.3 deg orbit, and the third burn ended at 0246 UTC in a 302 x 15585
+km x 49.5 deg orbit. At this point the Briz torus tank was ejected. A
+fourth burn at 0252 UTC raised the orbit to 380 x 35814 km x 49.1 deg,
+and a fifth burn at 0805 UTC raised perigee and lowered inclination to
+3575 x 35709 km x 12.3 deg. The Briz stage then separated, and  Eutelsat
+W3A began using its own propulsion to raise its orbit towards
+geostationary. The Briz stage has not yet been cataloged.
+
+
+- I'm still not sure whether Kosmos-2405 was an Oko early warning satellite
+or a Molniya communications satellite.
+
+- Russia has split the Rosaviakosmos agency into separate aviation and
+space parts; the new Russian space agency is the Federal Space Agency
+(Federal'noe kosmicheskoye agentstvo).
+ 
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Feb  5 2346   AMC-10            Atlas IIAS      Canaveral SLC36A  Comms      03A
+Feb 14 1850   DSP 22            Titan 4B/IUS    Canaveral SLC40  Early Warn  04A
+Feb 18 0705   Kosmos-2405       Molniya-M       Plesetsk          Comms?     05A
+Mar  2 0717   Rosetta           Ariane 5G+      Kourou ELA3      Comet probe 06A
+Mar 13 0540   MBSAT             Atlas IIIA      Canaveral SLC36B  Comms      07A
+Mar 15 2306   Eutelsat W3A      Proton-M/Briz-M Baykonur          Comms      08A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

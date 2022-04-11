@@ -1,0 +1,121 @@
+Jonathan's Space Report
+No 274                        1996 Feb 4                  Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-75/Columbia, featuring the reflight of
+the Tethered Satellite System. The cargo includes the TSS-1R Spacelab
+pallet and deployable TSS satellite with its 20 km tether; the TSS-1R
+MPESS truss with electrodynamics instrumentation; and two more MPESS
+cross-bay structures carrying the experiments for the USMP-3 (United
+States Microgravity Payload) mission.
+
+Crew of STS-75 are commander Lt-Col Andrew Allen, USMC/NASA, pilot
+Lt-Col Dr. Scott Horowitz, USAF/NASA,  payload commander Dr. Franklin
+Chang-Diaz, NASA, mission specialists Dr. Jeff Hoffmann, NASA,  Claude
+Nicollier, ESA, and Lt-Col. Maurizio Cheli, Italian Air Force, ESA, and 
+payload specialist Dr. Umberto Guidoni, ASI. (ASI is Agenzia Spaziale
+Italiano; ESA is European Space Agency; NASA is National Aeronautics and
+Space Administration.)  Allen, Horowitz and Hoffmann are from the US;
+Chang-Diaz is a naturalized US citizen from Costa Rica; Cheli and
+Guidoni are Italians and Nicollier is from Switzerland. This mission is
+extremely unusual in that not only is the main payload flying for a
+second time, but most of the crew are held over from that TSS-1 (STS-46)
+mission. Allen, Chang-Diaz, Hoffmann, and Nicollier flew on STS-46 with
+Loren Shriver, Marsha Ivins and Franco Malerba. Horowitz, Cheli and
+Guidoni are making their first flights.
+
+Recent Launches
+--------------
+
+A Gorizont broadcasting satellite was launched from Baykonur on Jan 25.
+It used a Proton-K launch vehicle with a standard Blok-DM2 upper stage.
+Gorizont satellites provide C and Ku band communications and are
+built by NPO Prikladnoi Mekhaniki of Krasnoyarsk. Mikhail Reshetnev,
+founder of NPO-PM and one of the last of the surviving Chief Designers
+of the early Soviet space program, died on Jan 29.
+
+The first Atlas launch of the year came in the early hours of Feb 1. The
+Indonesian satellite Palapa C-1, a Hughes HS-601 spacecraft, was
+launched by a Lockheed Martin Atlas IIAS from Cape Canaveral. Centaur
+AC-126 placed Palapa in a supersynchronous transfer orbit of 240 x 89462
+km x 21.9 deg. The apogee will slowly be lowered to synchronous
+altitude. Indonesia was the first developing country to purchase a
+domestic satellite communications system; the HS-333 class Palapa A
+satellites began linking the islands of the Indonesian archipelago in
+1976. They were replaced by HS-376 class Palapa B satellites in the
+1980s, starting with Palapa B-1 launched on Shuttle mission 7 (Sally
+Ride's flight) in 1983.
+
+The GOES 3 weather satellite arrived at 103W in January. It had been
+drifting from 180W since early 1995.
+
+Locations of recently launched geostationary satellites:
+ Gals No. 2    71.0E 
+ Asiasat 2    100.5E 
+ Telecom 2C     1.2E 
+ Insat 2C      92.4E 
+ Galaxy 3R     95.0W 
+ Echostar 1   119.2W 
+ PAS 3R        42.8W+0.10W/d (Jan 31)
+ Measat 1      91.6E 
+ Koreasat 2   117.4E+0.9W/d (Feb 1)
+ Gorizont      40.8E+1.0W/d (Feb 2)
+ Palapa C1    Transfer orbit
+
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jan 11 0941   Endeavour        Shuttle        Kennedy LC39    Spaceship   01A
+Jan 12 2310   Panamsat 3R  )   Ariane 44L     Kourou ELA2     Comsat      02A
+              Measat 1     )                                  Comsat      02B
+Jan 14 1111   Koreasat 2       Delta 7925     Canaveral LC17B Comsat      03A
+Jan 14 1132   OAST-Flyer                      OV105, LEO      Science     01B 
+Jan 16 1534?  Kosmos-2327      Kosmos-3M      Plesetsk        Navsat      04A
+Jan 25 1000?  Gorizont         Proton-K/DM2   Baykonur	      Comsat      05A
+Feb  1 0115   Palapa C-1       Atlas IIAS     Canaveral LC36B Comsat      06A
+
+Payloads no longer in orbit
+--------------------------
+
+Dec  7        Galileo Probe   Entered Jovian atmosphere
+Dec 11        Kosmos-398      Reentered over Pacific
+Dec 18        Kosmos-2305     Deorbited
+Jan 20        Endeavour       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       KSC RW15      STS-72
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-46/             VAB            STS-76                       
+ML3/RSRM-53/ET-76/OV-102 LC39B          STS-75                                     
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

@@ -1,0 +1,106 @@
+
+Jonathan's Space Report
+
+No. 441                                           2000 Dec 19, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+The STS-97 mission has been completed successfully, and Station Alpha
+has a new set of solar panels. The Station was observed by several
+dozen of us from the roof of the Harvard Observatory as it passed
+over at 0006 UTC on Dec 16, an impressive sight at about mag -1. 
+
+Astronauts Noriega and Tanner on Dec 7 performed EVA-3 to fix the
+tension in the SAW-2B solar array on the Station. Airlock depress was at
+1609 UTC, hatch open at 1610 UTC and battery power at 1613 UTC. The
+astronauts left the airlock a few  minutes later, probably about 1620
+UTC. After fixing the solar array they installed the FPPU device to
+measure plasma conditions near the top of P6 and performed a few other
+minor tasks. They returned to the airlock at around 2110 UTC, closing
+the hatch at 2119 and repressurizing at 2122 for a duration of 5:14
+(depress), 5:09 (Hatch open/close) or 5:10 (NASA rule).
+
+The Endeavour crew then entered the station at 1436 UTC on Dec 8,
+delivering supplies to Alpha's Expedition One crew. Hatches
+were closed again at 1551 UTC Dec 9, and Endeavour undocked at 1913 UTC
+the same day. After one flyaround of the station, Endeavour fired
+its engines to depart the vicinity at 2017 UTC Dec 9.
+
+The deorbit burn was at 2158 UTC on Dec 11, changing the
+orbit from 351 x 365 km to 27 x 365 km, with landing
+at Runway 15 of Kennedy Space Center at 2303 UTC.
+
+The next Shuttle flight is STS-98. Orbiter 104 Atlantis will deliver the
+Destiny lab module to the Station. Atlantis has been mated to external
+tank ET-106 and solid boosters RSRM-77. The stack is on Mobile Launch
+Platform MLP-2 in high bay 3 of the Vehicle Assembly Building. Rollout
+of STS-98 to the pad is being delayed because some wiring in the SRBs
+needs repair. During the STS-97 launch, the SRB separation system had
+problems  when one explosive separation cartridge failed to fire; a
+backup system  saved the mission.
+
+
+
+Current Launches
+----------------
+
+No new launches since Dec 6; an Ariane 5G is scheduled for Dec 20.
+(the "5G" designation is used for the generic Ariane 5 to distinguish
+it from the uprated versions which will be introduced soon).
+
+The UTC launch dates for EROS A1 and USA 155 are Dec 5 and Dec 6
+respectively; sorry about the typo last issue.
+
+Object 26614, originally cataloged as 2000-72G from the Ariane-5 PAS-1R
+launch, has been recataloged as 1978-26HU; I assume 72G turned out
+to be spurious or unconfirmed. 72F, cataloged as "Ariane 5 deb (SYLDA)"
+is actually the conical ACU 1663SP adapter that separated PAS 1R from
+AMSAT's SBS adapter.
+
+ 
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Nov 10 1714   GPS SVN 41        Delta 7925     Canaveral SLC17A Navsat     71A
+Nov 16 0107   PAS 1R   )        Ariane 5G      Kourou ELA3      Commsat    72A
+              AMSAT-Oscar-40)                                   Commsat    72B
+              STRV-1c  )                                        Tech       72C
+              STRV-1d  )                                        Tech       72D
+Nov 16 0132   Progress M1-4     Soyuz-U        Baykonur LC1     Cargo      73A
+Nov 20 2300   QuickBird 1       Kosmos-3M      Plesetsk LC132   Imaging    74A
+Nov 21 1824   EO-1  )           Delta 7320     Vandenberg SLC2W Imaging    75A
+              SAC-C )                                           Imaging    75B
+              Munin )                                           Science    75C
+Nov 21 2356   Anik F-1          Ariane 44L     Kourou ELA2      Commsat    76A
+Nov 30 1959   Sirius 3          Proton-K/DM3   Baykonur LC81L   Commsat    77A
+Dec  1 0306   Endeavour)        Space Shuttle  Kennedy LC39     Spaceship  78A
+              ITS P6   )                                       Station seg.
+Dec  5 1232   EROS A1           Start-1        Svobodniy        Imaging    79A   
+Dec  6 0247   USA 155           Atlas 2AS      Canaveral SLC36A Commsat?   80A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-102 2001 Mar  1  ISS 5A.1
+OV-104 Atlantis        VAB Bay 3     STS-98  2001 Jan 18  ISS 5A
+OV-105 Endeavour       OPF Bay 2     STS-100 2001 Apr 19  ISS 6A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   

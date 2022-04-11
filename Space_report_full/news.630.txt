@@ -1,0 +1,151 @@
+Jonathan's Space Report
+No. 630                                              2010 Jul 17 Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Soyuz TMA-19 undocked from Zvezda at 1913 UTC on Jun 28 and backed away
+to a distance of 30m, then flew around the station and redocked at the
+Rassvet module at 1938 UTC. This freed the Zvezda port for the planned
+arrival of Progress M-06M, which was launched on Jun 30. At around 1630
+on Jul 2 Progress M-06M approached the station, but radio interference
+caused the onboard computers to abort the rendezvous and the vehicle
+flew past at a distance of around 3 km. It returned to ISS on Jul 4 and
+successfully docked at 1617 UTC.
+
+Progress M-04M had undocked from Zvezda on May 10 and moved to a 338 x 351 km orbit
+to carry out experiments. It made one orbit maintenance burn on Jun 10,
+raising its orbit to 347 x 353 km. On Jul 1 it completed its mission with a 
+deorbit burn at 1354 UTC and impact in the south Pacific at 1440 UTC.
+Progress M-05M remains docked to the Pirs module.
+
+Deep Impact
+------------
+
+The Deep Impact Flyby Spacecraft, carrying out the EPOXI mission, flew
+past Earth on Jun 27. Closest approach of 30480 km was at 2203 UTC; the
+encounter changes DI's solar orbit from 0.97 x 1.03 AU x 6.6 deg to 0.98
+x 1.22 AU x 3.2 deg and puts it on course to encounter comet
+103P/Hartley-2 on Nov 4. DI was launched on 2005 Jan 12,  delivered an
+impactor craft to 9P/Tempel-1 on 2005 Jul 4, and made previous Earth
+flybys on 2007 Dec 31 and 2008 Dec 29. Beginning in late 2007, it also
+carried out studies of extrasolar planets with its high resolution
+camera - congrats to my friends Sarah Ballard and Jessie Christiansen
+for their recent papers on the results (Astrophysical Journal 716, 1047
+and 710, 97).
+
+
+Rosetta
+-------
+
+The Rosetta comet probe, on its way to Churyumov-Gerasimenko, flew
+past asteroid (21) Lutetia at a distance of 3162 km, at 1545 UTC on
+Jul 10. Lutetia is the largest asteroid yet visited by a spacecraft,
+with a size of roughly 100 km. Lutetia is in a 2.04 x 2.83 AU x 3.1 deg
+orbit around the Sun; Rosetta is in a 0.98 x 5.09 AU x 4.4 deg orbit.
+
+Echostar XV
+-----------
+
+The Echostar XV satellite was launched on Jul 10 to provide Dish Network
+broadcasting.  An International Launch Services Proton-M/Briz-M put
+the Loral 1300 satellite in a 5981 x 35835 km x 18.7 deg transfer orbit.
+By Jul 15 the satellite was in a 34421 x 35827 km x 0.3 deg orbit
+approaching geostationary status.
+
+PSLV
+----
+
+India's Polar Satellite Launch Vehicle made a successful flight from the
+Satish Dhawan Space Center on Sriharikota Island on Jul 12, placing the
+Cartosat 2B and Alsat-2A satellites in polar orbit. Cartosat 2B is an
+imaging satellite for ISRO (the Indian Space Research Organization) with
+0.8 meter resolution. Alsat-2A was built by EADS Astrium for the Centre
+National des Techniques Spatiales of Algeria (which is possibly now part
+of the Agence Spatiale Algerienne, although I'm not fully clear on its
+organizational status), and carries a 2.5-meter resolution camera. Also
+deployed by the PSLV-C15 mission were several smaller payloads:
+AISSat-1, built by UTIAS-Toronto for the Norwegian space center FFI with
+a ship-tracking payload;  Studsat, a 1 kg picosatellite with a simple
+imager for remote sensing built by students in Bangalore and Hyderabad,
+and led by the Nitte Meenakshi Institute of Technology in Bangalore; and
+TISat-1 (Ticino Satellite 1), a 1 kg cubesat built by SUPSI (Scuola
+Universitaria Professionale della Svizzera Italiana) in the
+Italian-speaking Ticino region of Switzerland;.
+
+Suborbital flights
+------------------
+
+NASA flight 36.265UG carried the second flight of the CIBER-I infrared
+astronomy payload which will search for light from early galaxies. The
+US Air Force flew a single reentry vehicle from Vandenberg to Kwajalein
+on Jun 30 using a Minuteman 3, the second such launch in two weeks. On
+Jun 29, a 'foreign military asset' (possibly an R-17 Scud) was launched
+from the Missile Defense Agency's seaborne mobile launch platform in the
+Pacific and on reentry was intercepted at low altitude in the atmosphere
+by a THAAD missile.
+
+On 1960 Nov 23, Skylark SL49 was launched from Woomera carrying the
+first space experiment from Leicester University. The Leicester group,
+led by Ken Pounds, went on to become one of the main UK space science
+teams, from  the Ariel V satellite in the 1970s to participation in
+NASA's Swift mission today. A conference to celebrate 50 years of the
+group was held at Leicester this month, and unluckily for those present
+I was there to record the reunion of X-ray astronomers young and old:
+  http://www.planet4589.org/jcm/trips/10/uk/part2/index.html
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun  2 0159   SERVIS 2            Rokot            Plesetsk LC133/3 Tech       23A
+Jun  2 1553   Beidou DW4          Chang Zheng 3C   Xichang          Navigation 24A
+Jun  3 2200   Arabsat 5B          Proton-M/Briz-M  Baykonur LC200/39 Comms     25A
+Jun  4 1845   Dragon Qual Unit    Falcon 9         Canaveral SLC40  Test       26A
+Jun 10 0801   STSAT-2B            Naro-1           Naro             Tech       F02
+Jun 15 0139   SJ-12               Chang Zheng 2D   Jiuquan          Science?   27A
+Jun 15 1442   Prisma-Mango )      Dnepr            Yasniy           Tech       28B
+              Prisma-Tango )                                        Tech       28B
+              Picard       )                                        Solar phys 28A
+              BPA-1        )                                        Navigation 28C
+Jun 15 2135   Soyuz TMA-19        Soyuz-FG         Baykonur LC1     Spaceship  29A
+Jun 21 0214   Tandem-X            Dnepr            Baykonur LC109   Radar      30A
+Jun 22 1900?  'Ofeq-9             Shaviyt-1        Palmachim        Imaging    31A
+Jun 26 2141   Arabsat 5A )        Ariane 5ECA      Kourou ELA3      Comms      32A
+              Chollian   )                                       Comms/Weather 32B
+Jun 30 1535   Progress M-06M      Soyuz-U          Baykonur LC1     Cargo      33A
+Jul 10 1840   Echostar XV         Proton-M/Briz-M  Baykonur LC200/39 Comms     34A
+Jul 12 0352   Cartosat 2B )       PSLV-CA          Sriharikota      Imaging    35A
+              Alsat 2A    )                                         Imaging    35D
+              AISSAT-1    )                                         Navigation 35C
+              TISat-1     )                                         Tech       35B
+              Studsat     )                                         Tech       35G
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Jun  6 2225   BVT-1?          GBI              Vandenberg      Test        300?
+Jun  8        USN RV x 8?     Trident II       SSBN 738, ETR   Op Test    1000?
+Jun  8        USN RV x 8?     Trident II       SSBN 738, ETR   Op Test    1000?
+Jun  9        USN RV x 8?     Trident II       SSBN 738, ETR   Op Test    1000?
+Jun  9        USN RV x 8?     Trident II       SSBN 738, ETR   Op Test    1000?
+Jun 16 1001   GT200-GM1?      Minuteman III    Vandenberg LF10 Op Test    1300?
+Jun 24 1000   NASA 41.088UO   Terrier Orion    Wallops LA2     Education   120?
+Jun 29 0732   FTT-14 Target   FMA (Scud?)      MLP, Kauai      Target       80?
+Jun 30 1040   GT201GM RV      Minuteman III    Vandenberg LF04 Op Test    1300?
+Jul 11        NASA 36.265UG   Black Brant IX   White Sands     Astronomy   320?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@www.planet4589.org    |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

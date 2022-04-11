@@ -1,0 +1,316 @@
+Jonathan's Space Report 
+No. 738 [Corrected]                                             2017 Jun 3    Somerville, MA
+---------------------------------------------------------------------------------------------
+Because the original version of this issue had some Unicode characters in it,
+it got processed by mail as an attachment which got stripped off by some receiving mailers.
+That'll teach me to be too clever. I am therefore resending without the offending accents and 
+taking the opportunity to fix one error in the launch table. For those of you who already got this twice,
+my profound apologies and please discard earlier versions. - Jonathan
+
+International Space Station
+---------------------------
+
+During May, Expedition 51 continued with Soyuz MS-03 (vehicle No. 733)
+and MS-04 (vehicle No. 735)  docked at the Station. On Jun 2 with the
+undocking of Soyuz MS-03 carrying Novitskiy and Pesquet, Expedition 52
+began under the command of Fyodor Yurchikin, with Peggy Whitson and Jack
+Fischer as flight engineers.
+
+The SS John Glenn (Cygnus OA-7) arrived at ISS on Apr 22, with grapple
+by Canadarm-2 at 1005 UTC and berthing on the Unity module at 1239 UTC.
+
+On May 4 to 6 the SSRMS and SPDM robot arms were used to exchange the
+MBSU  (Main Bus Switching Unit) No. 2 on the S0 truss with a spare
+stored on ESP-2. The old MBSU was launched with S0 in 2002; the spare
+was launched with ESP-2 in 2005.
+
+On May 12 astronauts Whitson and Fischer performed spacewalk US EVA-42.
+One of the two SCU (Service and Cooling Umbilicals) in the Quest airlock
+developed a leak. The SCUs provide power and oxygen during spacewalk preps;
+the astronauts took turns using the one working one, but that meant
+less battery power was available during the actual EVA. Whitson
+went onto battery power at 1222 UTC; airlock depressurizatin
+began about 1230 UTC and reached 50 mbar at 1303 UTC. At 1306 UTC
+the hatch was opened, and at 1308 UTC Fischer went on to battery power.
+This latter event seems to be what NASA is recording as the start time of
+the spacewalk. 
+
+The astronauts went to Express Logistics Carrier 4 (ELC-4) on the S3
+truss. ELC-4 was launched in Feb 2011; its ExPCA (Express Pallet
+Controller Assembly, basically the pallet's computer) has failed. The
+astronauts replaced it with a new ExPCA launched on OA-7 and brought the
+old one back to the airlock. Also launched on OA-7 was the PMA-3 forward
+shield, which they installed at the base of PMA-3. The astronauts
+entered Quest and closed the hatch at 1714 UTC; Quest was repressurized
+starting at 1721 UTC.
+
+On May 23 Whitson and Fischer headed out again on EVA-43, two days after
+the new MDM EXT-1 computer on the S0 truss, installed Mar 30, unexpectedly failed. The
+astronauts brought out a spare computer and swapped it with the failed one.
+They also installed new wireless antennas on the Destiny module.
+
+Between May 16 and May 18, 17 cubesats were deployed from the Nanoracks
+NRCSD-11 dispenser attached to the JEM RMS robot arm on Kibo. On May 24
+the dispensers were swapped out in the Kibo airlock and bet ween May 25
+and May 26 a further 17 cubesats were deployed from NRCSD-12.
+Twenty-eight of these cubesats were part of the QB50 mission led by
+Belgium's Von Karman Institute (VKI), and carry sensors (mass
+spectrometer, flux probe, Langmuir probe) to study the upper atmosphere.
+The cubesats deployed were:
+ 
+  May 16 0825   SOMP-2          2U QB50-DE02, TU Dresden
+                Havelsat        2U QB50-TR02, from the Turkish company HAVELSAN A.S. and Istanbul Tech U.
+                Columbia Sat    2U QB50-US04, part of the QBUS quartet, from Univ. Turabo, Puerto Rico
+  May 16 1155   KySat-3/SGSAT   1U cubesat with a stellar gyroscope experiment from KentuckySpace.
+                CXBN 2          2U cubesat with X-ray astronomy experiment from Morehead State U, Kentucky
+                IceCube         3U cubesat from NASA-Goddard to test an 874GHz submm receiver for 
+                                mapping atmospheric ice (not to be confused with the Cornell cubesats 
+                                IceCube-1 and 2, lost in a 2006 launch failure)
+  May 17 0145   Phoenix         2U QB50-TW01, from National Chen Kung Univ in Tainan City, Taiwan
+                X-Cubesat       2U QB50-FR01, from the Ecole Polytechnique in Paris
+                qbee50-LTU-OC   2U QB50-SE01, from Lulea Technical University in Lulea, Sweden and OpenCosmos 
+                                               in Didcot, Oxfordshire.
+  May 17 0813   Altair          An unusual cubesat 6U long (0.1 x 0.1 x 0.6m) to test the Altair spacecraft bus
+                                for Millenium Space Systems of California.
+  May 17 1240   SHARC           SHARC is a radar calibration satellite for the US Air Force Research Lab;
+                                different sources give it as 1x5U or 1x6U. 
+  May 18 0100   ZA-Aerosat      2U QB50-AZ01, from Cubespace in Stellenbosch, S. Africa, a spinoff
+                                company from Stellenbosch University which built 2 previous South African sats. 
+                LINK            2U QB50-KR01, from the KAIST space research institute in South Korea.
+  May 18 0415   CSUNSat 1       A 2U cubesat from California State Univ. Northridge, with a JPL low temperature
+                                energy storage experiment.
+  May 18 0825   UPSat           2U QB50-GR02, from the University of Patras in Greece.
+                SpaceCube       2U QB50-FR05, from the Ecole Nationale Superieure des Mines in Paris.
+                Hoopoe          2U QB50-IL01, from Herzliya Science Center in Israel
+  May 25 0525   Challenger Sat  2U QB50-US01, a QBUS satellite from the University of Colorado.
+                NJUST-1         2U QB50-CN03, from Nanjing University of Science and Technology and VKI.
+                USNW-EC0        2U QB50-AU02, from the University of New South Wales in Sydney.
+  May 25 0835   DUTHSat         2U QB50-GR01, from the Democritus University of Thrace in Greece.
+                Zidingxiang-1   2U QB50-CN02, also called LilacSat-1, from Harbin Inst. of Technology, Manchuria.
+                nSIGHT 1        2U QB50-AZ02, from SCS-Space of Cape Town, South Africa.
+  May 25 1155   QBITO           2U QB50-ES01, from Universita Politecnica de Madrid.
+                Aalto-2         2U QB50-FI01, from Aalto Univ. in Finland
+                SUSat           2U QB50-AU01, from the Univ. of Adelaide
+  May 25 2340   SNUSAT 1b       2U QB50-KR03, from Seoul National University
+  May 26 0400   i-INSPIRE 2     2U QB50-AU03, from the Univ. of Sydney
+                PolyITAN-2-SAU  2U QB50-UA01, from Kiev Polytechnical Institute
+                SNUSAT 1        2U QB50-KR02, from Seoul National University
+  May 26 0855   Ex-Alta 1       2U QB50-CA03, from the Univ. of Alberta in Edmonton, Alberta
+  May 26 1215   Aoxiang 1       2U QB50-CN04, from Shaanxi Engineering Laboratory for Microsatellites in Xi'an
+                BeEagleSat      2U QB50-TR01, from Istanbul Tech U. and the Turkish AF Academy
+                Atlantis Sat    2U QB50-US02, a QBUS collaboration satellite from the U. of Michigan.
+
+ In addition, the US DoD/Australian DoD technology cubesat Biarri Point is reported to have been carried to the ISS
+ on OA-7; it is not clear whether or not the satellite is still on ISS or was deployed clandestinely.
+
+On Jun 2 astronauts Novitskiy and Pesquet transferred to Soyuz MS-03 and
+undocked from the Rassvet module at 1047 UTC. After a deorbit burn at
+1317 UTC they landed in Kazakhstan at 1410 UTC.
+
+Launch of the Dragon CRS-11 cargo ship is currently scheduled for Jun 3.
+
+NROL-76
+-------
+
+SpaceX carried out its first launch of an NRO payload on May 1. The
+launch was codenamed NROL-76. Falcon 9 core stage B1032 took off from
+Kennedy Space center's LC39A and landed at nearby Cape Canaveral's
+Landing Zone 1. The second stage entered a low Earth orbit with a 51
+degree inclination and deployed the USA 276 payload. The stage then
+carried out a long duration coast as a technology test before being
+deorbited. USA 276, which was reportedly built by Ball Aerospace, is
+apparently an experimental NRO technology demonstration satellite,
+possibly a followon to USA 193 whch failed a decade ago.
+
+Hobbyist observers soon located USA 276 in a 389 x 409 km x 50.0 deg
+orbit; Marco Langbroeck notes that it will pass relatively close to the ISS
+in early June.
+
+
+Ariane 5
+--------
+
+After delays due to social unrest in French Guiana, Arianespace on May 4
+resumed launches with flight VA236 on launcher L589, placing the
+Brazilian military communications satellite 'Satelite Geoestacionario
+de Defesa e Comunicacoes Estrategicas 1 (SGDC) 1 (SGDC) and the Korea Telecom
+satellite Koreasat-7 in geotransfer orbit. On Jun 2 SGDC was on station
+at 74.4W and Koreasat 7 was on station at 114.5E.
+
+On Jun 1 Ariane 5 vehicle 590 (flight VA237) placed Viasat-2 and
+Eutelsat 172B in geotransfer orbit. Eutelsat 172B is the first
+Airbus/Toulouse Eurostar 3000e satellite, using electric propulsion for
+orbit raising. It carries 600 kg of xenon, saving 2500 kg of mass
+compared to the earlier bipropellant chemical-propulsion model.
+
+
+South Asia Satellite
+--------------------
+
+India launched a GSLV Mk II rocket on May 5 placing the GSAT-9
+Ku-band communications satellite and the CUS-08 cryogenic upper stage in
+geotransfer orbit. GSAT-9 has been named South Asia Satellite; India has
+donated the use of one transponder each to neighbouring countries in
+SAARC (South Asian Association for Regional Cooperation): Afghanistan,
+Bangladesh, Bhutan, Maldives, Nepal and Sri Lanka. The remaining SAARC
+country, Pakistan, refused to participate.
+By May 22 GSAT-9 was on station at 97.3E.
+
+RocketLabs
+----------
+
+RocketLabs, a California-based company with a New Zealand subsidiary,
+made its first orbital launch attempt on May 25. The Electron rocket
+took off from Rocket Labs Launch Complex 1 on Mahia Peninsula on North
+Island, New Zealand carrying a non-separable launch vehicle
+instrumentation payload. The first stage, with 9 Rutherford LOX/kero
+engines, completed its burn and separated from the second stage which
+ignited its single Rutherford vac engine and propelled the rocket above
+the atmosphere; however, orbit was not achieved. Further details are not
+yet available.
+
+Inmarsat
+--------
+
+SpaceX launched another Falcon 9 on May 15, placing Inmarsat's broadband
+communications satellite 5F4 in a supersynchronous geotransfer orbit of
+385 x 70134 km x 24.5 deg. No attempt was made to recover the first
+stage. By Jun 1 Inmarsat 5F4 was in a  28061 x 43518 km x 0.2 deg
+elliptical synchronous orbit while the Falcon 9 second stage remained
+in a 388 x 69831 km x 24.6 deg orbit.
+
+
+SES-15
+------
+
+The SES-15 communications satellite was launched from French Guiana on
+May 18 aboard an Arianespace Soyuz-ST-A with a Fregat-M upper stage into
+geotransfer orbit. SES-15 is the fifth Boeing 702SP electric-propulsion
+satellite and has a launch mass of 2302 kg. The satellite began orbit
+raising on May 24 and as of Jun 2 was in a 3017 x 32594 km x 5.3 deg
+orbit.
+
+Kosmos-2518
+-----------
+
+The second EKS missile early warning satellite was launched by Russia on May 25.
+It was given the cover name Kosmos-2518. The satellite is in an elliptical
+Molniya orbit with a period of 12 hours; reports that the system uses
+the 24-hour Tundra orbit are incorrect and apparently reflect an early
+design option for the system that was not adopted.
+
+QZSS
+----
+
+Japan's second Quasi Zenith Satellite System navigation satellite, Michibiki-2,
+was launched on Jun 1. As well as a navigation signal, the payload
+has a space weather monitor.
+
+
+Tianzhou 1
+-----------
+
+The Tianzhou cargo ship docked with the Tiangong-2 lab at 0416 UTC Apr 22.
+It carried out a refuelling test on Apr 27; another is expected in late June.
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+Apr 12 1104   Shi Jian 13           Chang Zheng 3B    Xichang LC2      Comms         18A    S42662   237 x 41743 x  21.0
+Apr 18 1511   SS John Glenn         Atlas V 401       Canaveral SLC41  Cargo         19A    S42681   398 x   412 x  51.6
+Apr 20 0713   Soyuz MS-04           Soyuz-FG          Baykonur LC1     Spaceship     20A    S42682   399 x   409 x  51.6
+Apr 20 1141   Tianzhou-1            Chang Zheng 7     Wenchang LC201   Cargo         21A    S42684   311 x   369 x  42.8
+May  1 1115   USA 276               Falcon 9 FT       Kennedy LC39A     Unknown      22A    S42689   387 x   410 x  50.0
+May  4 2150   SDGC       )          Ariane 5ECA       Kourou ELA3       Comms        23B    S42692   259 x 35765 x   4.0
+              Koreasat-7 )                                              Comms        23A    S42691   260 x 35741 x   4.0
+May  5 1127   South Asia Satellite  GSLV Mk II        Satish Dhawan SLP Comms        24A    S42695   156 x 35936 x  20.7
+May 15 2321   Inmarsat 5F4          Falcon 9 FT       Kennedy LC39A     Comms        25A    S42698   381 x 69843 x  24.5
+May 16 0825   SOMP-2          )                      ISS, LEO           Space sci   98067LH S42700   398 x   406 x  51.6
+              Havelsat        )                                         Space sci   98067LJ S42701   398 x   406 x  51.6
+              Columbia Sat    )                                         Space sci   98067LK S42702   398 x   406 x  51.6
+May 16 1155   KySat-3/SGSAT )                        ISS, LEO           Tech        98067LL S42703   401 x   402 x  51.6
+              CXBN 2        )                                           Astronomy   98067LM S42704   401 x   402 x  51.6
+              IceCube       )                                           Tech/sci    98067LN S42705   401 x   402 x  51.6
+May 17 0145   Phoenix         )                      ISS, LEO           Space sci   98067LP S42706   401 x   402 x  51.6
+              X-Cubesat       )                                         Space sci   98067LQ S42707   401 x   402 x  51.6
+              qbee50-LTU-OC   )                                         Space sci   98067LR S42708   401 x   403 x  51.6
+May 17 0813   Altair                                 ISS, LEO           Tech        98067LS S42711   400 x   404 x  51.6
+May 17 1240   SHARC                                  ISS, LEO           Tech        98067LT S42712   400 x   404 x  51.6
+May 18 0100   ZA-Aerosat   )                         ISS, LEO           Space sci   98067LU S42713   400 x   404 x  51.6
+              LINK         )                                            Space sci   98067LV S42714   400 x   404 x  51.6
+May 18 0415   CSUNSat 1                              ISS, LEO           Space sci   98067LW S42715   400 x   404 x  51.6
+May 18 0825   UPSat    )                             ISS, LEO           Space sci   98067LX S42716   400 x   404 x  51.6
+              SpaceCube)                                                Space sci   98067LY S42717   400 x   404 x  51.6
+              Hoopoe   )                                                Space sci   98067LZ S42718   400 x   404 x  51.6
+May 18 1154   SES-15                Soyuz-ST-A        CSG ELS           Comms        26A    S42709   300 x 31336 x  6.1
+May 25 0420?  It's A Test           Electron          RLLC 1            Test         F02                     100?
+May 25 0525   Challenger Sat )                       ISS, LEO           Space sci   98067MA S42721   400 x   404 x  51.6
+              NJUST-1        )                                          Space sci   98067MB S42722   400 x   404 x  51.6
+              USNW-EC0       )                                          Space sci   98067MC S42723   400 x   404 x  51.6
+May 25 0634   EKS No. 2             Soyuz-2-1B        Plesetsk LC43/4   Early Warn   27A    S42719  1651 x 38512 x  63.8
+May 25 0835   DUTHSat       )                        ISS, LEO           Space sci   98067MD S42724   400 x   404 x  51.6
+              Zidingxiang-1 )                                           Space sci   98067ME S42725   400 x   404 x  51.6
+              nSIGHT 1      )                                           Space sci   98067MF S42726   400 x   404 x  51.6
+May 25 1155   QBITO      )                           ISS, LEO           Space sci   98067MG S42728   400 x   404 x  51.6
+              Aalto-2    )                                              Space sci   98067MH S42729   400 x   404 x  51.6
+              SUSat      )                                              Space sci   98067MJ S42730   400 x   404 x  51.6
+May 25 2340   SNUSAT 1b                              ISS, LEO           Space sci   98067MK S42727   400 x   404 x  51.6
+May 26 0400   i-INSPIRE 2    )                       ISS, LEO           Space sci   98067ML S42731   400 x   404 x  51.6
+              PolyITAN-2-SAU )                                          Space sci   98067MM S42732   400 x   404 x  51.6
+              SNUSAT 1       )                                          Space sci   98067MN S42733   400 x   404 x  51.6
+May 26 0855   Ex-Alta 1                              ISS, LEO           Tech        98067NP S42734   400 x   404 x  51.6
+May 26 1215   Aoxiang 1    )                         ISS, LEO           Space sci   98067MN S42735   400 x   404 x  51.6
+              BeEagleSat   )                                            Space sci   98067MN S42736   400 x   404 x  51.6
+              Atlantis Sat )                                            Space sci   98067MN S42737   400 x   404 x  51.6
+Jun  1 0017   Michibiki 2           H-2A              Tanegashima       Navigation    28A   S42738  7090 x 35991 x  38.8
+Jun  1 2345   ViaSat 2      )       Ariane 5ECA       Kourou ELA3       Comms         29A   S42740   266 x 35686 x   6.0
+              EUTELSAT 172B )                                           Comms         29B   S42741   262 x 35689 x   5.9
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+North Korea launched the Hwasong-12, a one (or possibly two)-stage IRBM
+(intermediate range ballistic missile), on May 13 on a high apogee
+trajectory. The US claimed that the reentry vehicle fell into the sea
+only 100 km from Vladivostok after a 30 minute flight, but Russia
+reported it fell 500 km from Russian territory in the central part of
+the Sea of Japan, after a 23 minute flight. A picture of Kim Jong Un
+looking at the trajectory shows that the target was actually about 260
+km from Vladivostok and 150 km from the Russian coastline.
+The missile is thought to be the smaller derivative of the KN-08 (US
+designation) seen in this year's North Korean military parade.
+
+On May 30 the US Missile Defense Agency launched an ICBM-T2 target
+missile from Kwajalein. The Orbital ATK missile has a new 2-meter
+diameter first stage, possibly a recycled Trident C-4 first stage; the
+upper stages are thought to be the Orion 50SXLT and the Orion 50. A
+GBI-OBV missile with a CE-II `kill vehicle' was launched from Vandenberg
+to intercept it. The MDA claims that the intercept was successful.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Apr  4 2142   RV                Hwasong ER?        Sinpo                 Test          189       Sea of Japan
+Apr  7 0930   MAXUS 9           Maxus              Kiruna                Micrograv     678       ESRANGE B zone
+Apr 26 0703   GT220GM RV        Minuteman 3        Vandenberg LF09       Test         1300?      Kwajalein
+May  3 0702   GT222GM RV        Minuteman 3        Vandenberg LF04       Test         1300?      Kwajalein
+May  5 1824   RAISE 3           Black Brant IX     White Sands           Solar EUV     296       White Sands
+May 13 0920   MAPHEUS 6         VSB-30             Kiruna                Micrograv     254       ESRANGE B zone
+May 13 2028   RV                Hwasong-12         Kusong                Test         2111       Sea of Japan
+May 16 0945   SubTec-7          Black Brant IX     Wallops I             Tech          248       Atlantic
+May 21 0759   RV                Bukguekseong-2     Pukchang              Test          560       Sea of Japan
+May 28 2039   RV                Hwasong ER?        Wonsan                Test          150?      Sea of Japan
+May 30 1910?  FTG-15 Target     ICBM-T2            Kwajalein Meck        Target       1000?      Pacific
+May 30 1928   FTG-15            GBI                Vandenberg LF23       Interceptor   500?      FTG-15 intercept
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,101 @@
+
+Jonathan's Space Report
+No. 409                                         1999 Oct 7  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Recent Launches
+---------------
+
+Lockheed Martin Intersputnik's LMI-1 satellite was launched on Sep 26 by
+International Launch Services on a Krunichev Proton with an Energiya
+Blok DM3 upper stage. LMI-1 will provide communications services to 
+Eastern Europe and Central Asia. LMI 1 is currently in a geostationary
+drift orbit.
+
+Analysis of the quoted velocites at separation for the various Athena 2
+stages suggests that the object now being cataloged as 1999-51C is the
+Orbus 21 ESBM stage, and 1999-51B is the OAM stage. Athena sources
+confirm this (Space Command originally incorrectly cataloged the old 51B
+- the object now called 51C - as the OAM, but seem to have corrected
+things now). My sources also inform me that although the Lewis launch
+vehicle in 1997 had "LM-1" incorrectly painted on the side, it is really
+tail number "LM-2". I'll update the launch logs soon.    
+
+Russia launched another Zenit-class recoverable satellite from Plesetsk
+on Sep 28 into a 220 x 231 km x 82.3 deg orbit. The satellite is probably
+a Resurs F-1M remote sensing satellite. This is the second Resurs F-1M
+flight; the first was in Nov 1997, following on from the
+Resurs F-1 flights which ended in 1993.
+
+The third GPS Block 2R satellite was launched on Oct 7. The spacecraft
+is Block IIR SV06, or SVN 46 in the overall production numbering scheme.
+This satellite replaced SVN 50, which was soaked during a storm at
+pad 17 earlier this year and has been returned to the factory for
+repairs.
+
+The Mars Climate Orbiter fiasco was reportedly due to confusion between
+metric and imperial units in a software interface between Lockheed
+Martin/Denver and the JPL nav team coupled with the use of some new
+software. After all these years on this side of  the pond I still find
+it hard to deal with the fact that US engineers still use imperial
+units! Thruster impulse data should have been in Ns, but used lbf-s
+instead, and noone caught the error. It may never be clear whether
+MCO impacted Mars or remained in solar orbit, although I feel
+the former is more likely.
+
+A Minuteman 2 missile with an MSLS reentry section was launched from
+silo LF03 at Vandenberg on Oct 3 at 0201 UTC. The IFT-3 flight used the
+MSLS vehicle as a target for an EKV interceptor launched from Kwajalein.
+The interceptor launch vehicle is the two-stage PLV, made up of a
+Minuteman 2 second and third stage. Intercept was reported to be
+successful.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  4 2234   Koreasat 3        Ariane 42P     Kourou ELA2      Comsat     46A
+Sep  6 1636   Yamal 101 )       Proton-K/DM    Baykonur         Comsat     47A
+              Yamal 102 )                                       Comsat     47B
+Sep  9 1800   Foton 12          Soyuz-U        Plesetsk         Micrograv  48A
+Sep 22 1433   Globalstar 33)    Soyuz-U/Ikar   Baykonur LC1?    Comsat     49A
+              Globalstar 50)                                    Comsat     49B
+              Globalstar 55)                                    Comsat     49C
+              Globalstar 58)                                    Comsat     49D
+Sep 23 0602   Echostar 5        Atlas 2AS      Canaveral SLC36A Comsat     50A
+Sep 24 1821   Ikonos            Athena-2       Vandenberg SLC6  Imaging    51A
+Sep 25 0629   Telstar 7         Ariane 44LP    Kourou ELA2      Comsat     52A
+Sep 26 2230   LMI-1             Proton-K/DM3   Baykonur         Comsat     53A
+Sep 28 1100?  Resurs F-1M       Soyuz-U        Plesetsk         Imaging    54A
+Oct  7 1251   Navstar SVN 46    Delta 7925     Canaveral SLC17A Navsat     55A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-103 1999 Nov
+OV-104 Atlantis        OPF Bay 3     STS-101 2000
+OV-105 Endeavour       OPF Bay 2     STS-99  1999 Dec?
+
+MLP1/
+MLP2/
+MLP3/RSRM-71?/ET?              VAB Bay 3   STS-99?
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

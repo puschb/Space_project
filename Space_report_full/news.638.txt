@@ -1,0 +1,107 @@
+Jonathan's Space Report
+No. 638                                            2011 Feb 25 Sagamihara, Japan
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Space Shuttle Discovery was launched on Feb 25 on mission STS-133.
+Discovery's  main cargo is Leonardo, the Permanent Multipurpose Module
+(PMM), a cargo storage unit to be added to the station. The ELC-4
+logistics carrier is also aboard.
+
+Expedition 26 is now underway with crew commander Scott Kelly,  flight
+engineer-2 Aleksandr Kaleri, flight engineer-3 Oleg Skripochka, flight
+engineer-4 Dmitri Kondratev, flight engineer-5 Paolo Nespoli and flight
+engineer-6 Cady Coleman aboard the Station. Soyuz TMA-01M is docked at
+Poisk, Progress M-07M at Zvezda, and Soyuz TMA-20 at Rassvet.
+
+Kounotori 2 arrived at the Station on Jan 27. It was grappled by the
+SSRMS arm and berthed on the nadir port of the Harmony module at 1451 UTC. 
+Progress M-09M was launched from Baykonur on Jan 28. According
+to nasaspaceflight.com, the cargo ship carries Energia's 30 kg Kedr amateur
+radio minisatellite. It docked with Pirs on Jan 30 at 0239 UTC.
+
+Skripochka and Kondratev made another spacewalk, Russian EVA 28, on
+Feb 16. Pirs airlock hatch open/close was 1330 UTC to 1821 UTC, with one small
+piece of debris floating away at 1330 UTC and the Ferrozond foot restraint
+jettisoned at 1654 UTC. The Molniya-Gamma and SVCh-Radiometria experiments
+were installed on the Russian segment of the station, and two experimental
+insulation panels were retrieved. The astronauts used spacesuits Orlan MK-4
+and MK-5 respectively.
+
+On Feb 16 the European Space Agency's second Automated Transfer Vehicle,
+ATV 2 "Johannes Kepler" was launched by Ariane 5ES vehicle 544 from
+Kourou. The core stage flew to a -1274 x 139 km x 51 deg orbit; first
+EPS burn reached a 142 x 256 km orbit at 2208 UTC, followed by
+circulazation at 268 x 271 km at 2250 UTC and ATV separation at 2254 UTC. The
+EPS third burn at 0015 UTC on Feb 17 was used to deorbit the stage. The
+separated ATV has a mass of 19712 kg.
+ATV 2 docked with the Station's Zvezda module on Feb 25.
+
+
+Geo-IK-2
+--------
+
+Russia's Geo-IK-2 No. 11 satellite, built by ISS Reshetnev, was stranded
+in transfer orbit when the Rokot launch vehicle's Briz-KM upper stage
+failed to restart for its second burn on Feb 1. The payload and rocket
+are being tracked in 355 x 933 km  and 319 x 1053 km x 99.5 deg orbits.
+The model 14F31 satellite is based on the Glonass-M bus and so probably has a mass
+around 1400 kg.
+
+RPP
+---
+
+The National Reconnaissance Office's Rapid Pathfinder Program technology
+satellite was launched on Feb 6. No details are available; it presumably
+ended up in a polar orbit between 500 and 1500 km.
+
+Suborbital launches
+-------------------
+
+The Far-ultraviolet Imaging Rocket Experiment (FIRE) was launched from
+the Poker Flat Research Range in Alaska on Jan 28. The telescope,
+developed by Jim Green's group at U Colorado/Boulder, imaged the nearby
+galaxy M51 in the 900-1100A far ultraviolet band.
+
+The Polar NOx payload was also launched from Poker Flat in early Feb,
+but failed to return science data.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jan 18 0300   Nanosail-D2                          Fastsat, LEO     Tech       62L
+Jan 20 1229   Elektro-L         Zenit-3SLBF        Baykonur LC45    Weather    01A
+Jan 20 2110   USA 224           Delta 4H           Vandenberg SLC6  Imaging    02A
+Jan 22 0537   Kounotori 2       H-IIB              Tanegashima Y2   Cargo      03A
+Jan 28 0131   Progress M-09M    Soyuz-U            Baykonur         Cargo      04A
+Feb  1 1400   Geo-IK-2 No. 11   Rokot              Plesetsk LC133/3 Geodetic   05A
+Feb  6 1226   RPP (USA 225)     Minotaur I         Vandenberg SLC8  Tech       06A
+Feb 16 2151   Johannes Kepler   Ariane 5ES         Kourou ELA3      Cargo      07A
+Feb 25 2153   Discovery )       Space Shuttle      Kennedy LC39A    Spaceship  08A
+              PMM       )                                        Station mod.  08
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Jan 22 0610   Aegis Target     Terrier Oriole     Wallops I.          Target       100?
+Jan 28 1049   NASA 36.257UG    Black Brant IX     Poker Flat          UV Astron    240?
+Feb  5 0811   NASA 36.256UE    Black Brant IX     Poker Flat          Atmosphere   260?
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+

@@ -1,0 +1,118 @@
+
+Jonathan's Space Report
+
+7 Aug 1991 (no.83)
+----------------------------------------------------
+
+Atlantis is in orbit on mission STS-43.  Tracking and Data Relay
+Satellte TDRS-5 has reached geostationary orbit.  Atlantis is currently
+operating payload bay experiments SSBUV (an ozone monitor) and SHARE (a
+test of space station hardware).  Meanwhile, Discovery has been mated
+to the STS-48 stack and will  be rolled out to the pad next week.
+
+Anatoliy Artsebarksiy and Sergey Krikalyov continue in orbit aboard the
+Mir/Kvant/Sofora/Kvant-2/Kristall/Soyuz TM-12/Progress M-8 complex.  More
+spacewalks were made to complete the installation of the 14 metre Sofora
+structure on Jul 19, 23 and 27.
+
+The Kosmos-2152 spy satellite landed on Jul 23.
+
+NASA has issued a press release denying that an emergency HST repair
+mission is being planned.  The Hubble Space Telescope has lost two
+gyros, and a third one had a glitch recently.  But the most worrying
+rumour has been that the solar panels are oscillating more strongly than
+had been believed and are in danger of structural failure.  If an
+emergency repair mission were necessary, it would be really bad news
+because there probably wouldnt be enough money to fly the COSTAR optical
+fixup mission as well.  Meanwhile, never daunted, astronomers are
+preparing their observing proposals for the second cycle of HST
+observations which is scheduled to begin in July next year. 
+
+___________________________________
+|Current STS status:              |
+|Orbiters                         |
+|                                 |
+|OV-102 Columbia        OPF Bay 3 |
+|OV-103 Discovery       VAB Bay 3 |
+|OV-104 Atlantis        LEO       |
+|OV-105 Endeavour       OPF Bay 1 |
+|                                 |
+|ML/ET/SRB stacks                 |
+|                                 |
+|ML1                    VAB       |
+|ML2                              |
+|ML3/STS-48/ET/OV-103   VAB Bay 3 |
+-----------------------------------
+
+N.B.  Information in this report is obtained from public sources and
+does not reflect the official views of NASA. 
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (205)544-7724                 |
+ |  Space Science Lab ES65            | uucp:                                  |
+ |  NASA Marshall Space Flight Center | bitnet :                               |
+ |  Huntsville AL 35812               |  inter : mcdowell@xanth.msfc.nasa.gov  |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+Launches 1991 Jul
+
+Launch	Date	Payload/Launch vehicle		Site			Payload User/
+									Manufacturer
+
+1991-46	Jul 2	Gorizont/Proton-K		Baykonur,Kazakhstan	MSvyazi/NPO-PM
+1991-47	Jul 4	Navstar 22,LOSAT-X/Delta 7925	Canaveral,USA		USAF/Rockwell
+1991-48	Jul 9	Kosmos-2152/Soyuz		Plesetsk, Rossiya	GRU/KB Foton
+1991-49 Jul 10	Kosmos-2153/Soyuz		Baykonur,Kazakhstan	GRU/KB Foton?
+1991-50	Jul 17	ERS-1    )/Ariane 40		Kourou,France		ESA/Dornier
+		Uosat 5  )						Univ.Surrey
+		Orbcomm-X)						OSC/VCIT
+		TUBSAT   )						Tech.Univ.Berlin
+		SARA     )						Esieespace
+1991-51	Jul 17	Microsat 1 to 7/Pegasus-HAPS	Edwards,USA		DARPA/DSI
+1991-52	Jul 23	Resurs-F/Soyuz			Plesetsk,Rossiya	GUGK/KB Foton
+
+New objects in orbit 1991 Jul
+							km x km x deg
+Jul  2	1991-46B	Proton rocket			200x200x51.6?	Reentered Jul 4
+Jul  2  1991-46C	Proton adapter			200x200x51.6?	Reentered Jul 4?
+Jul  2	1991-46E	Blok-DM adapter			347x35631x47.4	
+Jul  2	1991-46F	Blok-DM adpater			295x35625x47.4
+Jul  2	1991-46D	Blok-DM rocket			35540x35664x1.5
+Jul  2	1991-46A	Gorizont satellite		35675x35803x1.5	Communications,TV
+Jul  4	1991-47C	Delta 7920 rocket		389x403x37.5	
+Jul  4	1991-47B	LOSAT-X satellite		400x413x40.0
+Jul  4  1991-47D	PAM-D rocket			188x20241x34.5
+Jul  4	1991-47A	Navstar 22 satellite		19765x20255x55.3 Navigation
+Jul  9	1991-48B	Blok-I rocket			160x190x82.3?	Reentered Jul 10
+Jul  9	1991-48A	Kosmos-2152 satellite		235x349x82.3	Landed Kazakhstan Jul 23
+Jul 10	1991-49B	Blok-I rocket			182x251x64.9	Reentered Jul 13
+Jul 10	1991-49A	Kosmos-2153 satellite		241x281x64.9	Advanced Recon
+Jul 17	1991-50F	H-10 rocket/ASAP		744x815x98.5	
+Jul 17	1991-50A	ERS 1 satellite			776x782x98.5	Earth resources
+Jul 17	1991-50B	Uosat 5				766x776x98.5	Amateur
+Jul 17	1991-50C	Orbcomm X			771x776x98.5	Virginia experiments
+Jul 17	1991-50D	TUBSAT				768x776x98.5	Animal migration study
+Jul 17	1991-50E	SARA				769x776x98.5	Amateur radio astronomy
+Jul 17	1991-51H	HAPS rocket			361x478x82.0
+Jul 17	1991-51A	Microsat 1			358x458x82.0	Communications
+Jul 17	1991-51B	Microsat 2			358x458x82.0	Communications
+Jul 17	1991-51C	Microsat 3			358x458x82.0	Communications
+Jul 17	1991-51D	Microsat 4			358x458x82.0	Communications
+Jul 17	1991-51E	Microsat 5			358x458x82.0	Communications
+Jul 17	1991-51F	Microsat 6			358x458x82.0	Communications
+Jul 17	1991-51G	Microsat 7			358x458x82.0	Communications
+Jul 21	1991-44D	Resurs-F engine			243x260x82.3	
+Jul 21	1991-44E,F	Resurs-F engine adapters	200x220x82.3
+Jul 21	1991-44G,H	Resurs-F engine adapters	230x380x82.3
+Jul 23	1991-52B	Blok-I rocket			160x180x82.3?
+Jul 23	1991-52A	Resurs-F satellite		256x272x82.3	Remote sensing
+
+Also cataloged during Jul: Lots more bits from the Delta explosion, and some other
+objects I dont have international designators for yet.
+
+Note: the names and descriptions of satellites are my own guesses at the most
+likely identifications of given objects. Orbits are perigee height (km) x apogee height (km) x 
+inclination (deg).
+

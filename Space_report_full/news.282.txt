@@ -1,0 +1,152 @@
+Jonathan's Space Report
+No. 282                      1996 Mar 29                  Cambridge, MA
+--------------------------------------------------------------------------------
+
+Apologies to those on the email list for the spurious messages, you
+shouldn't get any more of these. The list setup program, which  should
+have configured the list to prevent other people sending to it, had a
+bug in it, which has now been fixed. Thanks to all of you who did NOT
+immediately send `er, what's going on?' followup messages to the whole
+list - I've seen that sort of problem exponentiate rapidly on other
+lists!
+
+Shuttle and Mir
+---------------
+
+OV-104 Atlantis has been launched on the third Mir docking mission,
+STS-76. Liftoff was on Mar 22 at 0813:04 UTC. Docking with the Mir
+station was accomplished at 0234 UTC on Mar 24; the docking ring was
+retracted for hard dock at 0247 UTC. The Atlantis crew  entered Mir a
+few hours later, and by the following day Lucid's Soyuz reentry seat had
+been transferred to Soyuz TM-23, allowing Lucid to become part of the
+Mir EO-21 crew. As part of the STS-76 crew, Lucid was Mission Specialist
+4; as part of EO-21, she will have the callsign Skif-3 and I'm guessing
+that she is designated Bortinzhener-2 (Flight Engineer 2) rather than
+Kosmonavt-Issledovatel' (Research Engineer), but I'm not sure. (Can
+anyone help on this one? Maxim?)
+
+On Mar 27 astronauts Linda Godwin and Rich Clifford made an EVA from the
+airlock in the Tunnel Adapter between Atlantis's middeck cabin and the
+Orbiter Docking System. Using the NASA times which refer to use of
+battery power, the spacewalk began at 0636 UTC and ended at 1238 UTC; I
+don't have the depressurization/repressurization times since I was too
+busy looking at the comet. The astronauts moved the four Mir
+Environmental Experiment Payloads from the rear of the Orbiter cargo bay
+to the exterior of Mir's Docking Module, and removed a television camera
+from the Docking Module exterior.
+
+The Atlantis astronauts returned to the Shuttle and closed the
+hatches at around 1300 UTC on Mar 28. They undocked at 0108 UTC
+on Mar 29, and flew slowly around the complex,
+separating at 0208 UTC. Landing is due for 1257 UTC on Mar 30, shortening
+the mission by one day compared to the original plan. The Mir/Atlantis
+complex is in a 390 x 397 km x 51.6 deg orbit.
+
+The Great (?) Comet of 1996
+---------------------------
+
+Meanwhile, Comet C/1996 B2 Hyakutake, which reached perigee of 15
+million km on Mar 25, is easily visible to the naked eye even in the
+partly cloudy, bright skies of Cambridge, MA. As seen from the darker
+skies of Walden Pond on Mar 27, the  comet's tail stretched from Polaris
+most of the way to the pointer stars of the Great Bear. This is the Real
+Thing - if you've only seen it from an urban area, make sure to catch it
+from a rural  dark site in the next few days. Brian Marsden of the IAU
+Central Bureau for Astronomical Telegrams says *he* doesn't consider
+this a Great Comet in the historically used sense, and we should hang on
+for Hale-Bopp next year, but *I'm* impressed nevertheless.
+
+Obituary
+--------
+
+Former astronaut Col. Robert Overmyer, 59, was killed on Mar 22 in
+Duluth, Minnesota, while  the prototype Cirrus Design VK30 small
+airplane he was flying went into an unrecoverable spin. Overmyer was
+selected as a USAF Manned Orbiting Laboratory  astronaut in 1966, and
+transferred to NASA in 1969.  He was pilot of STS-5/Columbia,  and
+commander of mission 51-B/Challenger (Spacelab 3).
+
+Recent Launches
+---------------
+
+A Rockwell Block IIA Navstar Global Positioning System (GPS) satellite
+was launched on Mar 28. It will be placed in plane C. I don't have the
+SVN number of the satellite yet; Navstar SVN 30, 33, 38 and 40 remained
+to be launched in the Block IIA series. Launch was by a McDonnell
+Douglas Delta 7925, which placed the satellite in a 192 x 20269 km x
+34.9 deg transfer orbit. A solid Thiokol Star 37 apogee motor will
+circularize the orbit at 20000 km.
+
+Intelsat 707 reached its 1.0 deg E geostationary position on Mar 22.
+
+The Skipper satellite, launched last December, reportedly failed one
+day after deployment because the solar panels were wired to discharge
+instead of charge. Skipper was to have tested ballistic missile
+defense technologies in an aerobraking orbit, but remains instead in
+its original 800 km circular track.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Feb  1 0115   Palapa C-1       Atlas IIAS     Canaveral LC36B Comsat      06A
+Feb  5 0719   N-STAR b         Ariane 44P     Kourou ELA2     Comsat      07A
+Feb 14 1901   Intelsat 708     Chang Zheng 3B Xichang         Comsat      FTO
+Feb 17 2043   NEAR             Delta 7925-8   Canaveral LC17B Space probe 08A
+Feb 19 0058   Gonets-D1  )                                                09A?
+              Gonets-D1  )                                                09B?
+              Gonets-D1  )     Tsiklon-3      Plesetsk LC32   Comsats     09C?
+              Kosmos-2328)                                                09D?
+              Kosmos-2329)                                                09E?
+              Kosmos-2330)                                                09F?
+Feb 19 0832   Raduga           Proton-K/DM2   Baykonur LC81   Comsat      10A
+Feb 21 1234   Soyuz TM-23      Soyuz-U2       Baykonur LC1    Spaceship   11A
+Feb 22 2018   Columbia         Shuttle        Kennedy LC39B   Spaceship   12A
+Feb 24 1124   Polar            Delta          Vandenberg SLC2W Science    13A
+Feb 26 0130   TSS-1                           OV-102,LEO      Science     12B
+Mar  9 0133   REX-II           Pegasus XL     L1011/Vandenberg Technol.   14A
+Mar 14 0711   Intelsat 707     Ariane 44LP    Kourou ELA2     Comsat      15A
+Mar 14 1740   Kosmos-2331      Soyuz-U        Plesetsk LC43/4 Recon       16A
+Mar 21 0453   IRS-P3           PSLV           Sriharikota     Rem.sensing 17A
+Mar 22 0813   Atlantis         Shuttle        Kennedy LC39B   Spaceship   18A
+Mar 28 0021   GPS              Delta 7925     Canaveral LC17A Navigation  19A
+
+Payloads no longer in orbit
+--------------------------
+
+Feb 22        Progress M-30   Deorbited over Pacific
+Feb 29        Soyuz TM-22     Landed in Kazakstan
+Mar  9        Columbia        Landed at KSC
+Mar 12        FSW-1 capsule   Reentered over Atlantic
+Mar 19        TSS-1           Reentered over Middle East
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-78  Jun 27
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        LEO           STS-76  
+OV-105 Endeavour       OPF Bay 3     STS-77  May 16
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-54/             VAB Bay 1      STS-77
+ML2/RSRM-46/ET-77/OV-104 LC39B          STS-76                       
+ML3/
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

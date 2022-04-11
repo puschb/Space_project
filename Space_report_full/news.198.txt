@@ -1,0 +1,151 @@
+Jonathan's Space Report 
+No. 198       1994 May 31
+--------------------------------------------------------------------------------
+Shuttle
+-------
+
+OV-104 Atlantis has returned to Florida after modifications at Rockwell's
+Palmdale, California plant. The 747 Shuttle Carrier Aircraft flew from
+Palmdale to Biggs AAF, El Paso, TX on May 27; from Biggs to
+Warner-Robbins AFB, Macon, GA on May 28; and on to the Shuttle Landing
+Facility at KSC on May 29. During the refurbishment, OV-104 was modified
+to support the Mir docking module. Atlantis is now in  Orbiter
+Processing Facility Bay 3; Discovery vacated that slot and is being
+garaged in the Vehicle Assembly Building until Columbia's processing is
+complete (around Jun 10); Discovery will then take that parking spot. 
+[Source: Spacelink; KSC PAO]
+
+Summary of forthcoming missions:
+Jul     OV-102 Columbia STS-65, carrying Spacelab Long Module (International 
+         Microgravity Lab 2) and Extended Duration Orbiter pallet (4th flight).
+Aug     OV-105 Endeavour STS-68, carrying Spacelab Pallet (Shuttle Radar Lab 2) and 
+         MPESS pallet (MAPS air pollution monitor)
+Sep     OV-103 Discovery STS-64, carrying Spacelab Pallet (Lidar In-Space Techology 
+         Experiment), and MPESS pallet with Spartan-201 free flyer.
+Oct     OV-104 Atlantis STS-66, carrying Spacelab Igloo and Pallet (ATLAS-3), and
+         Astro-SPAS free flyer (CRISTA).
+
+Columbia's crew consists of six NASA astronauts and the third Japanese
+space traveller, Dr. Chiaki Naito Mukai, who will become the first
+Japanese woman in space.
+
+MIR
+---
+
+Progress M-23 docked with the Mir complex at 0618 UTC on May 24.
+[Source: V. Agapov]. The EO-15 commander and flight engineer,
+Viktor Afanas'ev and Yuriy Usachyov, will be replaced next
+month by the EO-16 crew, Yuriy Malenchenko and Talgat Musabaev,
+who will be launched on the Soyuz TM-19 ferry ship on Jun 20.
+Physician-cosmonaut Valeriy Polyakov will remain aboard Mir.
+Both Malenchenko, a Russian Air Force cosmonaut, and Musabaev,
+a Kazakh Space Agency cosmonaut, will be on their first flights.
+
+LAUNCHES
+--------
+
+Pegasus update: the fifth Pegasus flight on May 19 used a four stage
+version of Pegasus, not the three stage one as I implied last week.
+The HAPS (Hydrazine Auxiliary Propulsion System) fourth stage 
+has flown once before, on the second Pegasus fight. The first three
+Pegasus stages fired successfully, and Orbital Sciences is 
+investigating the cause of STEP Mission 2's low perigee. It may have
+been a guidance problem or a malfunction in the HAPS burn; the problem
+occurred out of telemetry range so it's not immediately clear what happened.
+[Source: OSC Public Affairs]
+
+ Pegasus launch list:
+  Date         Type         Drop site             Payloads
+
+  1990 Apr  5  Pegasus      Point Arguello W.A.   Pegsat, SECS
+  1991 Jul 17  Pegasus/HAPS Point Arguello W.A.   Microsats 1,2,3,4,5,6,7
+  1993 Feb  9  Pegasus      Mayport, FL W.A.      SCD-1, Orbcomm CDS
+  1993 Apr 25  Pegasus      Point Arguello W.A.   Alexis
+  1994 May 19  Pegasus/HAPS Point Arugello W.A.   STEP Mission 2 (P91-A)
+
+Russian Space Forces launched a three stage Tsiklon-3 from Plesetsk on May
+25, but a problem seems to have occurred during separation of the second
+stage from the S5M third stage, and the vehicle and its payload impacted
+in the Arctic. The payload was referred to as Kosmos-2281, but it is not
+clear if it will keep this codename - launch failures have never yet been
+given Kosmos names. The Ukranian Yangel design bureau (now NPO
+Yuzhnoe) converted the R-36M ICBM (known in the West as the SS-9 Scarp)
+to a two stage space launcher called Tsiklon-2. (Tsiklon-1 was a
+cancelled project using the R-16 ICBM). Tsiklon-2 first flew in the late
+1960s, and in 1977 the S5M third stage was added to make the Tsiklon-3,
+which is now the standard light launch vehicle used by the Russians.
+[Source: Press reports (failure); Plesetsk Press Releases (S5M,  Tsiklon
+details)]
+
+Information Wanted
+------------------
+
+Well, I have no takers so far on my Redstone/Defender question. This week's
+questions:
+1) Who can tell me which 747 was used on Atlantis' cross country trip?
+(Rick A, are you there?)
+2) Can anyone tell me ANYTHING about the MG-18 (also known as M-2)
+rocket used as the fourth stage of the Scout X-2M variant?
+3) What propulsion system is used by the SPOT 1, 2, 3 satellites, and
+who builds it?
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Apr  9 1105     Endeavour       Space Shuttle   Kennedy LC39A   Spaceship   20A
+                Space Radar Lab
+Apr 11 0749     Kosmos-2275   ) Proton/DM2      Baykonur LC81   Navigation  21A
+                Kosmos-2276   )                                 Navigation  21B 
+                Kosmos-2277   )                                 Navigation  21C
+Apr 13 0604     GOES 8          Atlas Centaur I Canaveral LC36B Weather     22A
+Apr 23 0802     Kosmos-2278     Zenit-2         Baykonur LC45   SIGINT      23A
+Apr 26 0214     Kosmos-2279     Kosmos-3M       Plesetsk LC133  Navsat      24A
+Apr 28 1714     Kosmos-2280     Soyuz-U         Baykonur LC31   Recon       25A
+May  3 1555     USA-103         Titan Centaur   Canaveral LC41  SIGINT      26A
+May  4 0000     SROSS C2        ASLV            Sriharikota     Science     27A
+May  9 0247     MSTI-2          Scout G-1       Vandenberg SLC5 Technology  28A
+May 19 1703     P91-A (STEP 2)  Pegasus/HAPS    Point Arguello WA  Science  29A
+May 19 0201     Gorizont 42     Proton/DM2      Baykonur LC81   Comsat      30A
+May 22 0430     Progress M-23   Soyuz-U         Baykonur        Cargo       31A
+May 25 1015     Kosmos-2281     Tsiklon-3       Plesetsk        ?           FTO
+
+Reentries
+---------
+
+Apr 20          Endeavour       Landed at Edwards AFB
+May  8          SEDS 2 deployer Reentered
+May 21          Kosmos-2274     Reentered
+May 23          Progress M-22   Deorbited
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-65
+OV-103 Discovery       VAB Bay 2     STS-64
+OV-104 Atlantis        OPF Bay 3     STS-66
+OV-105 Endeavour       OPF Bay 1     STS-68
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40                VAB Bay 3 STS-68
+ML2/                       
+ML3/RSRM-39/ET             VAB Bay 1 STS-65
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+
+
+
+

@@ -1,0 +1,123 @@
+Jonathan's Space Report
+No. 359                                         1998 May 11 Cambridge, MA
+-------------------------------------------------------------------------------
+
+I've updated the geostationary satellite log at
+http://hea-www.harvard.edu/~jcm/space/jsr/geo.html
+
+
+Shuttle and Mir
+---------------
+
+The next Shuttle mission is STS-91; orbiter OV-103 Discovery will dock
+with Mir to pick up Andrew Thomas, the final NASA resident on the
+station, and allow an inspection visit by Russian Shuttle-Mir program
+director Valeriy Ryumin.
+
+Recent Launches
+---------------
+
+The Hughes HGS-1 satellite made its final translunar injection burn
+at 0042 UTC on May 8. It is now on a free-return trajectory to the Moon
+with an apogee of 413600 km, and will pass 8000 km from the Moon on May 13.
+
+Meanwhile, Hughes Global Services has moved  the Leasat 5 satellite to
+156E for use  by the Australian Defence Force. The Hughes HS-381 Leasat
+satellites, which originally provided UHF services for the US Navy, have
+been replaced by satellites in the HS-601 class UHF Follow-On series.
+
+An 8K78M launch vehicle (built by TsSKB-Progress of Samara) with a 2BL
+fourth stage was launched from Plesetsk on May 7. It placed an Oko-class
+Russian military early warning satellite in elliptical twelve-hour
+orbit. The satellite, built by NPO Lavochkin of Moscow, was given the
+cover name Kosmos-2351 after launch.
+
+A Krunichev Proton-K launch vehicle placed the Echostar 4 satellite in a
+213 x 35703 km x 48.5 deg geostationary transfer orbit on May 7. It
+appears that contrary to reports no second burn of the Blok DM3 stage
+was intended. The satellite separated from the stage near apogee, 6h 40m
+into the flight. On May 11, Echostar 4 was in a 12263 x 35747 km x 10.6
+deg orbit after a burn of its Leros liquid apogee engine. Echostar 4 is
+an A2100AX class comsat built by Lockheed Martin/Sunnyvale for Echostar
+Comms. Corp. of Littleton, Colorado. Launch services were provided by
+International Launch Services (the Lockheed/Krunichev/Energiya joint
+venture).
+
+A classified NRO satellite was launched on May 9 from Cape Canaveral,
+probably to geostationary orbit. The Lockheed Martin Astronautics Titan
+4B rocket (serial B-25) has two SRMU solid boosters and a two-stage
+Titan liquid rocket core (serial K-25). The second stage delivered
+Centaur TC-18 and the payload to a suborbital trajectory. The TC-18
+liquid hydrogen-fuelled upper stage made three rocket burns to deliver
+the satellite to geostationary orbit. The satellite is believed to be a
+follow-on to the ORION signals intelligence satellite. The first ORION
+follow-on was launched in May 1995.
+
+The correct flight model numbers of the recently launched Globalstar
+satellites are FM-6,8,14 and 15.
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  2 0242   TRACE             Pegasus XL    Vandenberg        Solar obs. 20A
+Apr  7 0213   Iridium 62        Proton-K      Baykonur          Comsat     21A
+              Iridium 63                                        Comsat     21B
+              Iridium 64                                        Comsat     21C
+              Iridium 65                                        Comsat     21D
+              Iridium 66                                        Comsat     21E
+              Iridium 67                                        Comsat     21F
+              Iridium 68                                        Comsat     21G
+Apr 17 1819   Columbia   )      Shuttle       Kennedy LC39B     Spaceship  22A
+              Neurolab   )
+Apr 24 2238   Globalstar FM6)   Delta 7420    Canaveral LC17    Comsat     23A
+              Globalstar FM8)                                              23B
+              Globalstar FM14)                                             23C
+              Globalstar FM15)                                             23D
+Apr 28 2253   Nilesat 1  )      Ariane 44P    Kourou ELA2       Comsat     24A
+              BSAT 1B    )                                      Comsat     24B
+Apr 29 0437   Kosmos-2350       Proton-K/DM2  Baykonur          Comsat?    25A
+May  2 0916   Iridium 69        CZ-2C/SD      Taiyuan           Comsat     26A
+              Iridium 71                                        Comsat     26B
+May  7 0853   Kosmos-2351       Molniya-M     Plesetsk          Early Warn 27A
+May  7 2345   Echostar 4        Proton-K/DM2  Baykonur          Comsat     28A
+May  9 0138   USA 139           Titan Centaur Canaveral LC40    Sigint     29A?
+
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Dec 3
+OV-103 Discovery       LC39A         STS-91  Jun 2
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  ?
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/RSRM66/ET-96/OV-103 LC39A       STS-91
+MLP2/
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+
+

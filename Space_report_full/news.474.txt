@@ -1,0 +1,163 @@
+
+Jonathan's Space Report
+No. 474                                           2002 Mar 21 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+STS-109 carried out a successful set of upgrades to the Hubble
+Space Telescope; Progress M1-7 undocked from the Station;
+Progress M1-8 is ready for launch.
+
+STS-109 was launched at 1122:02 UTC on Mar 1. Main engine cutoff came at
+1130 UTC with Columbia in a 55 x 574 km x 28.5 deg transfer orbit. The
+OMS-2 burn at about 1207 UTC raised perigee to about 195 km. There was a
+problem with a freon cooling loop on the Orbiter, but it wasn't quite
+bad enough to affect the mission.
+
+The Hubble Space Telescope closed its aperture door on Mar 2 in
+preparation for the rendezvous. Columbia got within 100m of HST by 0852
+UTC on Mar 3 and grappled it with the RMS at 0931 UTC. HST was berthed
+on the FSS in Columbia's payload bay by 1032 UTC.
+
+The astronauts carried out five spacewalks to refurbish HST. On EVA-1
+the airlock was depressurized at 0630 on Mar 4 and  repressurized at
+1338 UTC. Grunsfeld and Linnehan replaced the -V2 solar array with the
+new rigid array stored in the RAC carrier, and replaced a solar array
+diode box. On EVA-2, depress was at  0634 on Mar 5 and repress was at
+1356 UTC; Newman and Massimino replaced the +V2 solar array and diode
+box, and replaced the RWA-1 reaction wheel assembly. On EVA-3, depress
+was at 0825 UTC on Mar 6 and repress at 1516 UTC; the HST was powered
+entirely down and Grunsfeld and Linnehan changed out the power control
+unit. On EVA-4, by Newman and Massimino, depress was at 0856 UTC on Mar
+7 and repress was at 1630 UTC. The Faint Object Camera was removed and
+the Advanced Camera for Surveys was installed. The CASH (Cross Aft
+Shroud Harness) wire harness for the cooling system was installed. EVA-5
+ran from 0841 to 1606 UTC on Mar 8, and saw installation of the NICMOS
+cooling system (NCS) by Grunsfled and Linnehan. During preparations for
+EVA-3, a problem with a valve on Grunsfeld's suit caused it to leak
+water, and Grunsfeld switched to Newman's suit. For each of EVA-3,4,5
+the appropriate size  legs and arms were replaced on the same basic HUT
+(Hard Upper Torso)/PLSS (Primary Life Support System) combination.
+
+HST was deployed from Columbia at 1004 UTC on Mar 9 into a 578 x 584 km
+x 28.5 deg orbit. Columbia landed on Mar 12 at KSC; deorbit was at 0822
+UTC with landing on runway 33 at 0931 UTC.
+
+On the Space Station, the Expedition 4 crew finished loading the
+Progress 256 (Progress M1-7) craft, and it undocked from Zvezda's aft
+port at 1743 UTC on Mar 19. The Kolibri-2000 microsatellite was ejected
+from the Progress cargo compartment at 2228 UTC; Progress fired
+its engines to deorbit over the Pacific at about 0127 UTC on Mar 20.
+
+Kolibri is a joint Russian-Australian educational project to allow
+school children to monitor low frequency waves and particle
+fluxes in low orbit. The IKI space science group leads the 
+project together with Energiya, NPO-M and Polyot, although
+it's not clear to me who actually built the satellite. It has
+a mass of 21 kg and has a 2-meter gravity gradient boom and
+four solar panels. The satellite is in a 385 x 388 km x 51.6 deg orbit.
+
+Recent Launches
+---------------
+
+According to Arianespace,  Ariane 511 put Envisat directly in its target
+orbit (within 20 metres) and no orbit adjust maneuvers are required. The
+EPC stage was on a -2610 x 651 km x 93.8 deg orbit, reaching apogee
+around 0125 UTC and reentering north of Ellesmere Island at about 0136
+UTC. Envisat is in a 766 x 784 km x 98.5 deg orbit.
+
+A Lockheed Martin Atlas IIA, AC-143, was launched from Cape Canaveral on
+Mar 8. It orbited NASA's TDRS-I (TDRS-9) data relay satellite. The
+Centaur entered a 167 x 578 km parking orbit and then a subsynchronous
+transfer orbit. TDRS-I is a Boeing BSS-601 satellite supporting S, Ku
+and Ka band communications. 
+
+The Iridium satellites launched in February were vehicles 90,91,94,95, and 96.
+SV 92 and 93 were launched in Jun 1999 to replace SV 14 and 20.
+
+Two scientific satellites, GRACE 1 and 2, were launched on Mar 17 from
+Plesetsk by a Rokot vehicle. The Krunichev Rokot is a two-stage UR-100N
+ballistic missile with a Briz-KM third stage. The Briz stage ignited 5
+min after launch and after a ten minute burn reached a 300 x 500 km
+orbit at about 0936 UTC. A second burn at 1042 UTC placed the satellites
+in a 483 x 506 km x 89 deg orbit; the two satellites separated from the
+dispenser at 1047 UTC. A third Briz burn then lowered the rocket stage
+orbit to 146 x 487 km x 89 deg so that it will reenter quickly.
+
+Pedantic note: I would like to join other astropedants, notably Phillip
+Clark, in deploring the new-fangled use of the word `deorbit' for this
+kind of perigee lowering burn which does not immediately place the
+vehicle  on a suborbital trajectory. Until fairly recently, `deorbit'
+always meant to immediately remove from orbit, although GEO satellite
+operators have used it to mean `move a little way out of the
+geostationary corridor' for about a decade now. How about `orbit safing'
+or `infraorbiting'? The watering down of the meaning of `deorbit' leaves
+me without a word that means specifically `actively maneuver onto a
+trajectory whose perigee is within the atmosphere', the sense in which
+`deorbit burn' is used in the Shuttle program, and which contrasts
+with both `reenter' (which includes passive decay due to atmospheric drag)
+and with `orbit maneuver' (which includes orbit changes that result
+in a continuing orbit).
+
+The GRACE satellites, built by Astrium/Friedrichshafen using the FlexBus
+platform first used for the CHAMP satellite, will measure local spatial
+and temporal variations in the Earth gravity field using GPS and a
+microwave intersatellite link. The project is a joint effort of NASA and
+the German DLR space agency and the science leads are the University of
+Texas at Austin and the GFZ in Potsdam. The GRACE satellites are so
+sensitive, they can measure changes in gravity due to the redistribution
+of water in the ocean and atmosphere as a function of time.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Jan 16 0030   Milstar FLT-5     Titan Centaur  Canaveral SLC40  Comms        01A
+Jan 23 2347   Insat 3C          Ariane 42L     Kourou ELA2      Comms        02A
+Feb  4 0245   MDS-1  )          H-2A           Tanegashima      Tech         03A
+              DASH   )                                          Tech         03
+	      VEP-3  )                                          Tech         03
+Feb  5 2058   HESSI             Pegasus XL     Canaveral        Astronomy    04A
+Feb 11 1743   Iridium 90)       Delta 7920     Vandenberg SLC2W Comms        05A
+              Iridium 91)                                                    05B
+              Iridium 94)                                                    05C
+              Iridium 95)                                                    05D
+              Iridium 96)                                                    05E
+Feb 21 1243   Echostar 7        Atlas 3B       Canaveral SLC36B Comms        06A
+Feb 23 0659   Intelsat 904      Ariane 44L     Kourou ELA2      Comms        07A
+Feb 25 1726   Kosmos-2387       Soyuz-U        Plesetsk LC43/3  Imaging      08A
+Mar  1 0108   Envisat           Ariane 5G      Kourou ELA3      Rem.Sensing  09A
+Mar  1 1122   Columbia STS-109  Space Shuttle  Kennedy LC39A    Spaceship    10A  
+Mar  8 2259   TDRS 9            Atlas 2A       Canaveral SLC36A Data relay   11A
+Mar 17 0921   GRACE 1 )         Rokot          Plesetsk LC133   Science      12A
+              GRACE 2 )                                                      12B
+Mar 19 2228?  Kolibri           -              Progress, LEO    Education  01-51C
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107 2002 Jul 11  Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        LC39B         STS-110 2002 Apr  4  ISS 8A
+OV-105 Endeavour       OPF Bay 1?    STS-111 2002 May  2  ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+`

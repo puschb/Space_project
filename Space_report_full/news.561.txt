@@ -1,0 +1,139 @@
+Jonathan's Space Report
+No. 561                                   2006 Feb 19, Somerville, MA
+-------------------------------------------------------------------------------
+
+Station
+-------
+
+Expedition 12 astronauts McArthur and Tokarev made a spacewalk on Feb 3
+from the Pirs airlock module using spacesuits Orlan-M No. 25 and No. 27
+respectively. The airlock was depressurized at 2225 UTC; hatch open was
+at 2244 UTC. Surplus spacesuit Orlan-M No. 14, modified into the
+RadioSkaf satellite by addition of amateur radio equipment from
+AMSAT-NA, was jettisoned by hand at 2302 UTC.  RadioSkaf was cataloged
+as 2005-35C, associating it with the Progress M-54 launch which brought
+the radio equipment to the station (Orlan-M 14 itself was launched
+aboard Pirs in 2001). As of Feb 18 the suit was still transmitting but
+much more weakly than expected. It has been give the amateur radio
+satellite designation AMSAT-OSCAR 54.
+
+The astronauts relocated an attachment fixture from Zarya to the PMA3
+docking adapter; failed to add a safing bolt to a cable on the Mobile
+Transporter, and tied down the cable instead. They retrieved the Biorisk
+experiment from the outside of the Pirs module and carried out a photo
+survey of the exterior of the Zvezda module. At 0359 UTC on Feb 3 they
+jettisoned a couple of cleaning towels, and at 0417 they went back
+inside Pirs with hatch closed at 0427 UTC and repressurization beginning
+at 0433 UTC.
+
+
+Daichi
+------
+
+Japan's Advanced Land Observing Satellite, ALOS (Riku iki kansoku
+gijutsu eisei) was launched on Jan 23 by an H2A from Tanegashima into a
+697 x 697 km x 98 deg orbit and named "Daichi" (Land). Daichi carries an
+L-band synthetic aperture radar, an optical 2.5-meter resolution mapping
+camera, and a 10-meter resolution visible/near-infrared radiometer. JAXA
+(the Japan Aerospace Exploration Agency) manages the satellite and was
+apparently also the effective prime contractor, with Mitsubishi, NEC and
+Toshiba as subcontractors.
+
+The flight 8 H2A launch used a 2022 configuration with two SRB-A large
+strapons, 2 SSB Castor IVL smaller strapons, and a type 5S large
+fairing. The rocket launched southbound from Tanegashima and the second
+stage made a single burn to reach orbit. The H2A launch vehicle is
+operated and marketed by Rocket Systems Corp. (Kabushikigaisha Roketto
+Shisutemu) with actual launch activities carried out by JAXA  (Ucyu
+Koukou Kenkyu Kaihatsu Kikou).
+
+Daichi is in a 697 x 700 km x 98.2 deg orbit; the second stage
+made a depletion burn which lowered it to a 548 x 699 km orbit.
+
+MTSAT-2
+-------
+
+Another H2A mission followed on Feb 18, with MTSAT-2 reaching 
+geostationary transfer orbit. MTSAT-2, a Multifunctional Transport
+Satellite (Unyu tamokuteki eisei shin), is jointly owned by JCAB (the
+Japan Civil Aviation Bureau, koukuu kyoku) and JMA (Kisho-chou, the
+Japanese Meteorological Agency), both under the Ministry of Land,
+Infrastructure and Transport (Kokudo koutsuushou). Its aeronautical
+payload provides communications relay between aircraft and air traffic
+control, GPS augmentation navigation for aircraft, and transmits the
+location of aircraft to air traffic control. The JAMI  (Japan Advanced
+Meteorological Imager) weather camera has one visible and four infrared
+channels. MTSAT-2 was built by Mitsubishi using the new DS2000 bus, and
+has the same general layout as the Loral 1300 satellites used for
+MTSAT-1: a box-shaped bus with a solar panel array on one side and a
+long boom with a small conical solar sail on the opposite side. MTSAT-2
+has a Japanese (IHI) 500N apogee thruster, and its launch mass is 4650
+kg. Span is 30m, and bus size is probably around 4 x 4 x 6m.
+It is likely that MTSAT-2 will be renamed Himawari-7.
+
+Although there are two launch pads at Tanegashima's Yoshinobu launch
+complex,  I believe that both launches used the main (no. 1) pad - in
+fact, I don't think the second pad has ever been used for a launch. Can
+anyone confirm this?
+
+
+
+NIMS
+----
+
+As of January 2006, at least NNS (Navy Navigation Satellite) satellites
+O-23, O-25, O-31, O-32 are still operating and part of the NIMS (Navy
+Ionospheric Monitoring System) constellation. O-27 and O-29 may still
+also be alive (O-27 was alive in Jan 2000 but may have fallen silent in
+2001). Thanks to Richard Lang for leads on this issue (see JSR 560).
+
+
+New Horizons
+------------
+
+ New Horizons made its first pair of trajectory corrections, TCM-1A and
+1B, on Jan 28 and 30; TCM-3 is scheduled for March. Pluto flyby
+will be at 1158 UTC on 2015 Jul 14.
+
+Echostar 10
+-----------
+
+US television broadcaster Echostar saw the launch of its Echostar 10
+satellite on Feb 15. Echostar 10 is a 4333 kg Lockheed Martin A2100AX
+satellite with a Ku-band comms payload. Launch was by Sea Launch
+Zenit-3SL from the floating Odyssey platform at the equator. At 2348 UTC
+the DM reached a 180 x 2105 km x 0 deg parking orbit. At 0022 UTC on Feb
+16, the DM burned again and delivered Echostar 10 to geostationary
+transfer orbit. The DM  separated from Echostar 10 at 0037 UTC.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Dec 21 1838   Progress M-55     Soyuz-U         Baykonur LC1/5   Cargo       47A
+Dec 21 1934   Gonets-D1M   )    Kosmos-3M       Plesetsk LC132/1 Comms       48A
+              Kosmos-2416  )                                     Comms       48B
+Dec 21 2233   Insat 4A   )      Ariane 5GS      Kourou ELA3      Comms       49A
+              MSG 2      )                                       Weather     49B
+Dec 25 0507   Kosmos-2417 )     Proton-K/DM2    Baykonur LC81/23 Navigation  50A
+              Kosmos-2418 )                                      Navigation  50B
+              Kosmos-2419 )                                      Navigation  50C
+Dec 28 0519   GIOVE A           Soyuz-FG/Fregat Baykonur LC31/6  Navigation  51A 
+Dec 29 0228   AMC 23            Proton-M/Briz-M Baykonur LC200   Comms       52A
+Jan 19 1900   New Horizons      Atlas V 551     Canaveral SLC41  Pluto probe 01A
+Jan 24 0133   Daichi            H-2A            Tanegashima      Imaging     02A
+Feb  3 2302   RadioSkaf         -               Pirs, LEO        Amateur com 05-35C
+Feb 15 2335   Echostar 10       Zenit-3SL       Odyssey, POR     Comms       03A
+Feb 18 0627   MTSAT-2           H-2A            Tanegashima      Com/Imaging 04A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,322 @@
+Jonathan's Space Report
+No. 799                                                      2021 Nov 14        Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+Note: I have added a new set of lists on my website covering various aspects of
+human spaceflight. See http://planet4589.org/space/astro/web/index.html
+
+International Space Station
+---------------------------
+
+Expedition 65 concluded on Oct 17 with the undocking of Soyuz MS-18 and the beginning
+of Expedtion 66.
+
+Soyuz MS-18 undocked fromm Nauka at 0114:00 UTC Oct 17 with Novitskiy,
+Shipenko and Peresild; the ship landed in Kazakhstan at 0435:44 UTC
+according to Roskosmos.
+
+The Progress MS-17 cargo ship undocked from Poisk at 2342 UTC Oct 20, retreated over
+100 km, and performed a re-rendezvous to redock with Nauka at 0421 UTC Oct 22.
+
+Progress MS-18 was launched on Oct 28. It docked with the aft port on
+Zvezda at 0131:19 UTC Oct 30.
+
+On Nov 6 Anton Shkaplerov took command of ISS from Thomas Pesquet, prior
+to the latter's return to Earth on Crew-2.
+
+Dragon Crew-2 'Endeavour' undocked from IDA-3 at 1905 UTC Nov 8 with
+astronauts Kimbrough, McArthur, Hoshide and Pesquet. It jettisoned its
+trunk at 0235 UTC Nov 9 into a 406 x 412 km orbit and performed a
+deorbit burn at 0239 UTC, landing  off the coast of Pensacola, Florida
+at 0333 UTC Nov 9, at about 87.5W 29.8N.
+
+Dragon Crew-3 'Endurance' (capsule C210) was launched on Nov 11 carrying
+Raj Chari (Cdr), Tom Marshburn (Pilot), Matthais Maurer (Mission
+Specialist 1) and Kayla Barron (Mission Specialist 2). During the launch
+Maurer became the 600th person in space (as usual, I use 80 km as the
+defining boundary and assign numbers in the `crew rank' order as given
+in this paragraph). Endurance docked with the Station's IDA-2 port at
+2332 UTC Nov 11.
+
+
+
+Chinese Space Station
+----------------------
+
+Shenzhou 13 was launched on Oct 15, carrying Zhai Zhigang, Wang Yaping and Yu Guangfe.
+It docked with the nadir docking port on Tianhe at 2248 UTC the same day, beginning
+the second expedition aboard the Chinese space station.
+
+On Nov 7 from about 1051 to about 1701 UTC astronauts Zhai and Wang made a spacewalk,
+testing out the robot arm and installing a grapple fixture on it.
+
+Chinese orbital weapon test
+---------------------------
+
+The Financial Times quotes unnamed US government sources as revealing
+that China launched a missile sometime in August that placed a reentry
+vehicle (RV) in Earth orbit. The RV completed slightly less than one
+orbit and was deorbited for impact at an unspecified location (probably
+in China). This is a technique tested by the USSR in the 1960s and
+called `Fractional Orbital Bombardment System' (FOBS) by the US defense
+community.
+
+Space Force did not catalog any objects from the mission and it did not receive an 
+international designation. I am assigning it the `uncataloged' designation 2021-U01
+in my system in GCAT (https://planet4589.org/space/gcat/).
+
+A denial from China implied that the Chinese think what is being referred to is
+the spaceplane test on Jul 16. At the time we thought it was a short range test,
+but as Marco Langbroek points out it might have been an one-orbit test where the
+landing was geographically not far from the takeoff. However, Chinese statements
+at the time described the test as suborbital, and a more recent FT statement
+specifies that the alleged FOBS launch was on Jul 27. (A second `hypersonic'
+test the new FT story mentions, on Aug 13, was not specified to be orbital.)
+
+The launch vehicle is suspected to have been a CZ-2C, and Chinese
+statements indicate that the Jul 19 and Aug 24 CZ-2C launches were the
+76th and 78th of the kind respectively, implying a launch between those
+two dates, consistent with the Jul 27 date. The earlier FT report also
+cites the US sources as saying the missile missed its target by 'two
+dozen miles', No upper stage was left in orbit, so the perigee was probably
+within the atmosphere or not much above it.
+
+Properties of the mission:  
+   Launch date: 2021 Jul 27
+   Launch vehicle; CZ-2C?
+   Launch site: Taiyuan?
+   Impact site: Unknown
+   Orbit: Unknown: possibly around 60-100 x 200 km?
+   Inclination: Unknown - probably 97 deg?
+
+Lucy
+----
+
+The Lucy asteroid probe was launched on Oct 16. Lucy is a NASA Discovery
+program mission built by Lockheed Martin/Denver and the mission is
+operated by NASA-Goddard with the science team headed by Hal Levison of
+SwRI.  The spacecraft has a mass of 1550 kg wet, 821 kg dry and its large circular
+solar panels give it a span of 15.8 metres. It has a Nammo-Westcott (UK) Leros-1c
+bipropellant MON/hydrazine main engine with a 458N thruster. Lucy carries
+the L'LORRI imager, the L'Ralph-LEISA imaging IR spectrometer, the L'Ralpha-MVIC
+high resolution camera and the L'TES thermal infrared spectrometer.
+
+Lucy left the Sun-Earth Hill sphere at 1250 UTC Oct 19 to enter a 0.84 x
+1.16 AU x 0.2 deg solar orbit. It will reach aphelion on Jan 26 and
+return to Earth for a 300 km flyby a year after launch, on 2022 Oct 16.
+This will put Lucy in a 0.85 x 2.24 AU x 0.0 deg solar orbit which sets
+it up for a second Earth flyby on 2024 Dec 13. That flyby will boost the
+probe to a 0.96 x 5.75 AU x 4.4 deg solar orbit with a 2027 aphelion at
+the Sun-Jupiter L4 (SJL4) Lagrange point, where Lucy will fly past
+several of the Jupiter L4 Trojan asteroids. Returning to the vicinity of
+Earth at perihelion on 2030 Dec 27, a further Earth gravity assist will
+target it to a 0.95 x 5.63 AU x 10.7 deg orbit on track for Sun-Jupiter
+L5 and a 2033 visit to the region of the L5 Trojans.
+
+Lucy's planned asteroid flybys, mostly at a nominal distance of about
+1000 km, are:
+
+ Date          Target                     Category
+ 2025 Apr 20   (52246) Donaldjohanson     Main belt asteroid
+ 2027 Aug 12   (3548) Eurybates           L4 Trojan
+               (3548) I Queta             L4 Trojan moon
+ 2027 Sep 15   (15094) Polymele           L4 Trojan
+ 2028 Apr 18   (11351) Leucus             L4 Trojan
+ 2028 Nov 11   (21900) Orus               L4 Trojan
+ 2033 Mar  3   (617) Patroclus/Menoetius  L5 Trojan binary
+
+
+Nuri
+----
+
+South Korea's KSLV-2 (Nuri) satellite launch vehicle made its first
+flight on Oct 21 from Naro Space Center.  Nuri is a three-stage
+LOX/kerosene rocket and for this flight carried a dummy satellite with a
+mass of 1500 kg, targeting a 700 km circular sun-synchronous orbit. The
+third stage fired to depletion but had an underspeed of 800 m/s, and
+failed to reach orbit. After passing through a roughly 740 km apogee the
+third stage and the  successfully-separated payload fell back to reenter
+south of Australia about 30 minutes after launch. The mission
+demonstrated successful operation of the first, second, and (to some
+extent) third stages as well as all separation systems (including
+fairing and payload), so although a failure this flight was a very good
+first attempt.
+
+South Korea's previous KSLV-1 launch vehicle used a Russian first stage,
+so Nuri is its first truly domestically produced orbital launch vehicle.
+
+Ariane 5
+--------
+
+Arianespace launched an Ariane 5 on Oct 24 placing two communications satellites
+in geotransfer orbit. SES-17 is a 6411 kg Thales Alenia Spacebus Neo200 for SES
+with Ka-band service to the Americas and the Atlantic. Syracuse 4A is
+a 3852 kg Thales Alenia Spacebus Neo100 for DGA, the French defense agency,
+with X-band and Ka-band communications payloads. Both satellites have
+electric (ion) propulsion systems; SES-17 with SPT-140 and Syracuse 4A with PPS-5000 thrusters.
+
+Shi Jian 21
+-----------
+
+A SAST/Shanghai satellite reported to be studying orbital debris remediation technology
+was launched on a CALT/Beijing CZ-3B rocket from Xichang on Oct 24. The satellite was
+given the code name Shi Jian 21. The satellite reached geosynchronous orbit and
+released a second object, which the US Space Force have labelled as an apogee kick motor
+and I call a subsatellite.
+As of Nov 4, the two objects were drifting at 1 degree west per day over the Pacific.
+On Nov 13 SJ-21 braked slightly, reducing drift rate from 1.05 to 1.01 degrees a day.
+
+Yaogan 32
+----------
+
+The Group 2 (02 zu) Yaogan-32 satellites were launched on Nov 3. The pair of presumed signals
+intelligence satellites were placed in the 14:00 local time plane, joining the Group 1 satellites
+launched in Oct 2018 to the 09:00 plane.
+
+
+QZS-1R
+------
+
+QZS-1R, the fifth Quasi-Zenith Satellite (Michibiki) GPS regional
+augmentation satellite, was launched on Oct 26 by a Mitsubishi Heavy
+Industries H-IIA from Tanegashima. The satellite, built by Mitsubishi
+Electric, is owned by the Japanese government and will be operated in
+inclined synchronous orbit. The orbit was circularized on Oct 28
+and as of Nov 13 the satellite was in a 32653 x 38947 km x 34.0 deg
+orbit.
+
+
+After launch the satellite was given the name `Michibiki Shogoki
+Kokei-Ki'  (Michibiki Vehicle 1 Successor).
+
+SDGSAT
+------
+
+On Nov 3 China launched a satellite it calls Guangmu Diqiu Kexue
+Weixing (Wide-Eye Earth Science Satellite) for the Chinese Academy
+of Sciences. In English it refers to the satellite as SDGSAT-1
+(Sustainable Development Goals Satellite). The satellite carries
+Earth remote sensing imagers.
+
+Yaogan 35
+---------
+
+On Nov 6 China's SAST launched a CZ-2D with three Yaogan-35 satellites to
+a 500 km, 35 degree inclination orbit.
+Yaogan 35 A and B are built by DFH Satellite (Beijing) and 35C was built
+by SAST (Shanghai). Mission of the satellites is not yet clear; it is possible
+that A and B are imaging satellites and C is a radar satellite.
+
+Starlink
+---------
+
+53 more Starlinks were launched on Nov 13 as Group 4-1. The Group 4 satellites are targeted
+to a 540 km, 53.2 deg operational orbit.
+
+
+Shiyan 10
+---------
+
+Reports of the Shiyan-10 satellite's death appear to have been
+premature. A series of small orbit raising burns occurred between Oct 15
+and Oct 18. The satellite is now in a 1090 x 40107 km x 51.1 deg orbit.
+
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name			     Launch Vehicle	 Site		 Mission  INTL.  Catalog  Perigee Apogee  Incl	 Notes
+Jul 27?       Chinese Orbital RV               Chang Zheng 2C?      Taiyuan?          Test      U01  A09890  100?x200?x 97?
+Oct  5 0855   Soyuz MS-19		       Soyuz-2-1a	    Baykonur LC31     Spaceship 89A  S49269  195 x 227 x 51.6
+Oct  6 0920   Binar-1 ) 					    ISS, LEO	      Tech    98067SR S49272 413 x 421 x 51.6
+	      Maya-3  ) 							      Tech    98067SS S49273 413 x 421 x 51.6
+	      Maya-4  ) 							      Tech    98067ST S49274 413 x 421 x 51.6
+Oct  6 1055   CUAVA-1						    ISS, LEO	      Tech    98067SU S49275 413 x 421 x 51.6
+Oct 12 1100   CAPSat						    ISS, LEO	      Tech    98067SV S49276?
+Oct 12 1230   SPACE HAUC)					    ISS, LEO	      Tech    98067SW S49277?
+	      PR-CuNaR2 )							      Tech    98067SX S49278?
+Oct 14 0940   OneWeb SL0332		       Soyuz-2-1b/Fregat    Vostochniy PU1S   Comms   90A-AM  S49279  413 x 421 x 87.4
+              OneWeb SL0347
+              OneWeb SL0349
+              OneWeb SL0353
+              OneWeb SL0356
+              OneWeb SL0358-SL0388
+Oct 14 1051   Xihe (CHASE)        )            Chang Zheng 2D       Taiyuan           Solar     91A  S49315?  503 x 522 x 97.5
+              QX-1                )                                                   Meteo     91B?
+              Tianshu-1           )                                                   Tech?     91C?
+              JTSY                )                                                   Comms     91D?
+              HEAD-IIE            )                                                   Comms     91E?
+              Guidao Daqi Midu TSW)                                                   Sci       91F?
+              SSS-1               )                                                   Tech      91G?
+              HEAD-IIF            )                                                   Comms     91H?
+              Tianyuan-1          )                                                   Tech?     91J?
+              Zijinjing-2         )                                                   Imaging?  91K?
+              SSS-2A              )                                                   Tech      91L?
+Oct 15 1623   Shenzhou 13                      Chang Zheng 2F        Jiuquan          Spaceship 92A  S49326   381 x 390 x 41.5
+Oct 16 0934   Lucy                             Atlas V 401           Canaveral LC41   Probe     93A  S49328   158 x -40741 x 30,6
+Oct 21 0800   Nuri Test Payload                Nuri                  Naro LC2         Tech      F09  F01612 -1650 x 750 x 97
+Oct 24 0127   Shi Jian 21                      Chang Zheng 3B        Xichang          Tech      94A  S49330   216 x 35813 x 28.5
+Oct 24 0210   SES-17     )                     Ariane 5 ECA+         Kourou ELA3      Comms     95A? S49332   248 x 35288 x  6.0
+              Syracuse 4A)                                                            Comms     95B? S49333   258 x 35288 x  5.9
+Oct 25 0219   QZS-1R                           H-IIA 202             Tanegashima      Nav       96A  S49336   242 x 35101 x 32.0
+Oct 27 0619   Jilin-1 Gaofen 02D               Kuaizhou-1A           Jiuquan          Imaging   97A  S49338   533 x 547 x 97.5
+Oct 28 0000   Progress MS-18                   Soyuz-2-1a            Baykonur LC31    Cargo     98A  S49379   207 x 252 x 51.6
+Nov  3 0743   Yaogan 32 hao 02 zu 01 xing )    Chang Zheng 2C/YZ1S   Jiuquan          Sigint    99A  S49383   689 x 703 x 98.3
+              Yaogan 32 hao 02 zu 02 xing )                                           Sigint    99B  S49384   689 x 703 x 98.3
+Nov  5 0219   SDGSAT-1 (Guangmu)               Chang Zheng 6         Taiyuan          Imaging  100A  S49388   502 x 514 x 97.5
+Nov  6 0300   Yaogan 35A )                     Chang Zheng 2D        Xichang          Tech?    101A  S49390   493 x 499 x 35.0
+              Yaogan 35B )                                                            Tech?    101B  S49391   493 x 499 x 35.0
+              Yaogan 35C )                                                            Tech?    101C  S49392   493 x 499 x 35.0
+Nov  9 0055   RAISE-2     )                    Epsilon               Uchinoura        Tech     102A  S49395   561 x 573 x 97.6
+              Oruri       )                                                           Tech     102B? S49396   543 x 572 x 97.6
+              Asutarisuku )                                                           Sci      102C? S49397   543 x 572 x 97.6
+              Z-SAT       )                                                           Imaging  102E? S49399   543 x 572 x 97.6
+              DRUMS       )                                                           Tech     102D? S49398   543 x 572 x 97.6
+              Hibari      )                                                           Tech     102F? S49400   543 x 572 x 97.6
+              KOSEN-1     )                                                           Astron   102H? S49402   543 x 572 x 97.6
+              ARICA       )                                                           Astron   102J? S49403   543 x 572 x 97.6
+              NanoDragon  )                                                           Com      102G? S49401   543 x 572 x 97.6
+Nov 11 0203   Endurance (Crew-3)               Falcon 9              Kennedy LC39A    Spaceship 103A S49407   190 x 212 x 51.6
+Nov 13 1219   Starlink 3044                    Falcon 9              Canaveral LC40   Comms    104A-BE        212 x 333 x 53.2
+              Starlink 3049                                                                    S49408-S49460
+              Starlink 3075
+              Starlink 3097-3099
+              Starlink 3105
+              Starlink 3108
+              Starlink 3110-3112
+              Starlink 3114-3115
+              Starlink 3117
+              Starlink 3120-3141
+              Starlink 3144-3147
+              Starlink 3149-3151
+              Starlink 3153-3162
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Oct  3        T-MINUS Test      Dart               Andoya                Atmosphere     80?      Norw. Sea
+Oct  3?       PMWE              Imp. Malemute      Andoya                Atmosphere    100?      Norw. Sea
+Oct  3?       PMWE              Imp. Malemute      Andoya                Atmosphere    100?      Norw. Sea
+Oct  3?       PMWE              Imp. Malemute      Andoya                Atmosphere    100?      Norw. Sea
+Oct  8 1740   CLASP 2.1         Black Brant IX     White Sands           Solar UV      272       White Sands
+Oct 13 1449   NS-18             New Shepard        West Texas            Tourism       107       West Texas
+Oct 20        H4H 1             Terrier Malemute?  Wallops I             Tech          200?      Atlantic
+Oct 20        H4H 2             Terrier Malemute?  Wallops I             Tech          200?      Atlantic
+Oct 20        H4H 3             Terrier Malemute?  Wallops I             Tech          200?      Atlantic
+Oct 27 1420   Agni RV           Agni V             Kalam Island          Test          800?      Indian Ocean
+Nov  4 0209   SS-520-3          SS-520             Svalbard              Ionosphere    956       Arctic
+Nov  8 0925   SISTINE 2         Black Brant IX     White Sands           UV Astron     257       White Sands
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

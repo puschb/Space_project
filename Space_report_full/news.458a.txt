@@ -1,0 +1,116 @@
+Jonathan's Space Report
+No. 458                                          2001 Aug 6  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The next Shuttle flight is STS-105, scheduled for Aug 9.
+
+The cargo bay contains the Integrated Cargo Carrier platform and 
+the Leonardo module, and a set of canisters on the sidewall.
+The ICC will carry the Early Ammonia Servicer for the P6 truss,
+and two small exposure experiments PEC-1 and PEC-2 under the
+MISSE materials exposure program, which will be installed on Quest.
+The Leonardo module contains Express Racks 4 and 5, as well
+as resupply stowage racks.
+
+HEAT is a Hitchhiker payload comprising Simplesat, AMTEC and SEM-10, on
+two adapter beams on the port and starboard sides of bay 13. The 13P
+beam carries AMTEC in the forward position and SEM-10 in the aft
+position.  AMTEC, the Alkali Metal Thermal-to-Electric Converter, is a
+JPL technology experiment. SEM-10 is a canister with 11 high school
+experiments and AMTEC's avionics.  The 13S beam carries  the Simplesat
+can forward and the ACE avionics plate aft. The octagonal cylinder 
+Simplesat will be ejected from one canister and will test out GPS
+attitude control. 
+
+Another adapter beam, somewhere else in the payload bay (please email me
+if you know where) carries two more canisters. G-780 is a Mayo High
+School (Rochester, Minnesota) experiment to study germination of faba
+beans. G-774 is the Microgravity Smoldering Combustion (MSC) experiment.
+
+Recent Launches
+---------------
+
+MAP flew past the Moon on Jul 30 at 1639 UTC at a distance of 5200 km
+above the lunar surface.
+
+Galileo passed Io at a distance of 200 km at 0459 UTC on Aug 6.
+Closest approach to Jupiter on this orbit was an altitude of 350000 km
+at 0452 UTC on Aug 6.
+
+The satellite launched on Jul 20 was given the name Molniya-3 after
+reaching orbit. It is a Molniya-3K satellite, and not a Molniya-1K
+satellite as erroneously reported earlier.
+
+A Peackeeper missile was launched from Vandenberg on flight test 30PA on
+Jul 27 at around 0801 UTC, but was destroyed during flight and did not
+reach its planned 1000 km apogee.
+
+Russia's first scientific satellite in several years was launched on Jul
+31. A Yuzhnoe Tsiklon-3 vehicle took off from Plesetsk at 0800 UTC and
+reached transfer orbit at 0807 UTC. The S5M second stage restarted at
+0850 UTC and separated a minute later delivering Koronas-F to a 486 x
+529 km x 82.5 deg orbit. Koronas-F, an AUOS-SM type solar-pointing
+satellite built by Yuzhnoe in Dnepropetrovsk, Ukraine, carries a set of
+solar physics instruments.
+
+There were 11 launches of earth-oriented AUOS-Z satellites between 1976
+and 1991, followed by development of the two solar-pointing AUOS-SM
+satellites AUOS-SM-KI (Koronas-I) and  AUOS-SM-KF (Koronas-F), whose
+names reflect the two research insitutes who were the original principal
+investigators for the experiment payloads.  The I satellite, for the
+IZMIRAN geophysics institute, was launched in 1994 and reentered earlier
+this year. The new F satellite carries that designation  because the
+original lead organization was the Lebedev institute known as FIAN in
+Russian, although it also carries experiments from IZMIRAN and other
+research centers. 
+
+A new Defense Support Program infrared missile early warning satellite
+was launched on Aug 6. The Lockheed Martin Titan 4B took off from Cape
+Canaveral into a  328 x 663 km x 28.7 deg parking orbit. The Boeing
+IUS-16 upper stage then fired its first solid motor to enter
+geostationary transfer orbit. The second IUS solid motor fired at around
+1400 UTC placing DSP Flight 21 in near-geosynchronous orbit.
+The DSP satellites are built by TRW and have a mass of about 2300 kg.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul 12 0904   Atlantis STS-104) Shuttle        Kennedy LC39B    Spaceship    28A
+              Quest           )                                 Station module
+Jul 12 2158   Artemis   )       Ariane 5G      Kourou ELA3      Expt. comms  29A
+              BSAT-2b   )                                       Ku video     29B
+Jul 20 0017   Molniya-3         Molniya-M      Plesetsk LC43/4  Comms        30A
+Jul 23 0723   GOES 12           Atlas IIA      Canaveral SLC36A Weather      31A
+Jul 31 0800   Koronas-F         Tsiklon-3      Plesetsk LC32    Astronomy    32A
+Aug  6 0728   DSP 21            Titan 4B/IUS   Canaveral SLC40  Early Warn   33A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Jan 17  HST SM-3B
+OV-103 Discovery       LC39A         STS-105 2001 Aug  9  ISS 7A.1
+OV-104 Atlantis        OPF Bay 2     STS-110 2002 Feb 28  ISS 8A
+OV-105 Endeavour       OPF Bay 1     STS-108 2001 Nov 29  ISS UF-1
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

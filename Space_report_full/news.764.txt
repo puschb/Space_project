@@ -1,0 +1,258 @@
+Jonathan's Space Report 
+No. 764                                                        2019 Apr 30 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Correction to previous description of battery work: the new-but-failed battery
+that was removed on Apr 3 was the one in channel 4A3 slot 5, not the one in slot 3.
+On Apr 5 the SPDM moved NiH battery 0072 from AP005 on P4 IEA 4A slot 6 to slot 5.
+
+On Apr 8 McClain and St-Jacques performed spacewalk EVA 54. The airlock was
+depressurized by about 1125 UTC with hatch open at 1126 and the suits on battery
+power at 1131. At  1229 the adapter plate removed from 4A slot 6 and placed on
+top of the plate in slot 2 at 1240 UTC. This opens up slot 6 for one of the old
+batteries. 
+
+The spacewalkers then carried out cabling to provide external wireless support and
+backup power to Canadarm-2. The airlock was repressurized at 1800 UTC.
+
+On Apr 11 the SPDM moved NiH battery 0069 from EP7 slot Y to the newly empty
+slot 6 on P4 4A. Then, battery 0070 was moved from the Dextre EOTP to slot Y.
+
+So the 4A side has the following right now:
+     Slot 1  Li-ion 15?        Slot 2  Adapter 07 + Adapter 05
+     Slot 3  Li-ion 17?        Slot 4  Adapter 06 + NiH 0071
+     Slot 5  NiH 0072          Slot 6  NiH 0069
+
+On Apr 17 the 10th Antares rocket took off from the Mid-Atlantic
+Regional Spaceport at Wallops Island, placing Cygnus NG-11 (the S.S.
+Roger Chaffee) in low orbit at 2053 UTC and separating from the payload
+at 2055 UTC. The Chaffee reached the ISS on Apr 19, with SSRMS
+grapple at 0928 UTC and berthing on Unity nadir at about 1130 UTC.
+
+The NG-11 mission carries a large number of nanosatellites hosted on a
+variety of dispenser systems.
+
+Four Planetary Systems Corp. CSD 3U deployers were attached to the
+Antares second stage, and ejected their payloads, SASSI2 and 12
+ThinSats, at 2059 UTC Apr 17.  Unusually, the payloads were not
+cataloged by US space tracking, and were expected to have reentered by
+around Apr 24.
+
+
+SASSI-2 (Student Aerothermal Spectrometer Satellite of Illinois and Indiana,
+correctly written as SASSI-superscript-2) is a 3U cubesat from the University
+of Illinois to study the diffuse bow shock of a satellite in low orbit.
+
+The ThinSats are a new design from NearSpaceLaunch for the Virginia Commercial
+Space Flight Authority and carry student experiments. Twelve Thinsats were
+deployed. Each is made of a number of Thinsat cases 0.01 x 0.11 x 0.11m in size
+connected by solar panel ribbons 0.30m long 0.05m wide. The satellites are
+launched folded up and deploy after ejection in an accordion-like fashion.
+The twelve satellites include:
+ Three Thinsat 3T (1B,1G,1K), consisting of three Thinsat cases connected by two ribbons.
+ Overall mass 1 kg, size 0.01 x 0.1 x 1.3m.  
+
+ Six Thinsat 6T (1C,1D,1F,1H,1J,1L), consisting of six Thinsat cases connect by five ribbons.
+ Overall mass 2 kg, size 0.01 x 0.1 x 2.7m
+
+ Three Thinsat D+4T (1A, 1E, 1I), consisting of five Thinsat cases (one of them a double-width
+ 0.03 x 0.11 x 0.11m case) connected by 4 ribbons. Overall mass 2 kg, size (0.01-0.03) x 0.1 x 2.2m.  
+
+The JAXA J-SSOD No. 11 dispenser will be delivered to the Kibo module for later deployment.
+It contains three 1U cubesats developed by Kyushu Tech students:
+ Uguisu, for Kyushu Tech
+ Raavana-1, for the Arthur C. Clarke Institute for Modern Technologies, Moratuwa, Sri Lanka;
+ Nepalisat-1, for the Nepal Academy of Space Technology, Kathmandu.
+
+The Nanoracks NRCSD-16 payload will also be delivered to the Kibo module for later deployment.
+It includes:
+  Aeternitas (1U, Old Dominion University, Virginia);
+  Libertas (1U, University of Virginia);
+  Ceres  (1U, Virginia Polytechnic);
+  KRAKsat (1U, Kraksat team and Akademia Gorniczo-Hutnicza, Krakow, Poland) with
+   a ferrofluid attitude control system experiment.
+  Swiatowid (2U, SatRevolution, Wroclaw, Poland), with a 4m res Earth imager.
+  IOD-1 GEMS, Orbital Microsystems (Boulder, Colorado and Harwell, UK; 3U from ClydeSpace),
+   with a passive microwave weather sensor.
+  EntrySat (2U from Institut superieur de l'aeronautique et de l'espace, Toulouse), to study
+   the atmospheric reentry environment.
+
+The Nanoracks NRCSD-E mission 7 is attached to the Chaffee's service module.
+Its payloads are:
+  Aerocube-10a, a 1.5U cubesat from the Aerospace Corp containing
+  29 small subsatellites (AC-10a Probe 01 to 29), each 0.016 kg and 0.1m in diameter,
+  which will be ejected to serve as radar targets to study atmospheric density.
+  AC-10a also has an optical beacon to serve as a target for AC-10b.
+ 
+  Aerocube-10b, a 1.5U cubesat with a steam thruster, to carry out proximity
+  manuevering near AC-10a.
+
+  Seeker, a 3U cubesat from NASA JSC to serve as an inspector satellite maneuvering
+  in the vicinity of the Chaffee.
+
+  Kenobi, a 3U cubesat from NASA JSC which will remain attached to the NRCSD-E and
+  will relay data from Seeker.
+
+Finally, the SEOPS LLC Slingshot system will be attached to the Chaffee before it 
+departs ISS, and will deploy further cubesats whose identities have not yet been
+revealed. These cubesats will be delivered to ISS on the next Dragon.
+
+
+PSLV
+-----
+
+It has now been confirmed that the two NanoAvionics cubesats M6P and
+BlueWalker-1 were ejected into the wrong orbit (435 x 514 km instead of
+493 x 510 km), probably due to a deployment hang-up delaying the
+ejection until after the final PSLV-PS4 burn.
+
+Arabsat 6A
+-----------
+
+The Arabsat 6A communications satellite was launched by the first operational
+Falcon Heavy on Apr 11. The two side cores landed back at Cape Canaveral
+and the center core landed downrange on the OCISLY droneship. The second
+stage carried on to parking orbit and then after a second burn
+to highly elliptical supersynchronous transfer orbit of 324 x 90078 km x 23.0 deg
+By Apr 26 the satellite was in a 36074 x 89938 km x 1.3 deg, ready to lower 
+apogee to GEO.
+
+During the voyage back to port the core stage toppled over onto the deck
+of the OCISLY and was partly destroyed.
+
+
+
+B'reshit
+--------
+
+The SpaceIL lunar lander made several orbit circularization burns from Apr 4 to Apr 10.
+On Apr 6 apogee was lowered from 10000 km to 750 km; on Apr 8 at 0548 UTC
+the orbit was reduced to 211 x 467 km, and on Apr 10 about 1700 UTC to 16 x 200 km.
+On Apr 11 at 1912 UTC B'reshit began its landing burn, but after failure
+of an IMU the main engine cut off. It was restarted too late to save the landing,
+with impact (possibly near 18E 32N) at 1923 UTC Apr 11.
+
+Beidou
+------
+
+China launched a new Beidou 3 satellite on Apr 20 to geostationary transfer orbit.
+It reportedly was planned to enter an inclined GEO at 55 degrees, with apogee
+burn apparently on Apr 21, but as of Apr 30 the satellite had not been tracked
+in its new orbit.
+
+Tianhui-2 Group 1
+-----------------
+
+On Apr 29 China launched two new mapping satellites,  Tianhui-2 01 zu 01
+xing and Tianhui-2 01 zu 02 xing, into a 0600 local time descending node
+sun-synchronous orbit. The vehicle was launched at 2252 UTC and entered
+orbit around 2305 UTC; After payload separation the third stage made a
+perigee-lowering burn at 2311 UTC.
+
+Hammaguir
+---------
+
+From 1952 to 1967, France's main space launch site was the CIEES (Centre
+Interarmees d'Essais d'Engins Speciaux) B2 site at Hammaguir, Algeria. 
+(The older CIEES B0 and CIEES B1 were at Colomb-Bechar to the northeast,
+and were used for small military missile tests). Until 2015, as far as I
+can tell, no map of the CIEES B2 had been publicly available. The French
+space agency CNES then released a 1965 map for the 2015 celebrations of
+the anniversary of the first French satellite launch. Thanks to this,
+which I just became aware of (courtesy of @syncloss on twitter),  it is
+now possible to identify the locations of the launch pads at CIEES B2.
+
+Launch area                    Rockets
+
+Blandine                30.8591N 3.0850W     Veronique, Vesta
+Bacchus                 30.8497N 3.0691W     Centaure, Dragon, Belier, Antares
+Brigitte (Agate pad)    30.7782N 3.0566W     Agate, Topaze, Rubis
+Brigitte (Diamant pad)  30.7782N 3.0539W     Emeraude, Saphir, Diamant
+Beatrice                30.7986N 3.0154W     Cora 
+
+
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Apr  1 0357   EMISAT               ) PSLV-QL             Satish Dhawan SLP Sigint     18A   S44078   736 x   758 x 98.4 0930LT SSO
+              BlueWalker 1         )                                       IoT Comms  18AD  S44105   434 x   515 x 97.5
+              M6P                  )                                       IoT Comms  18AF  S44109   434 x   515 x 97.5
+              Astrocast-0.2        )                                       IoT Comms  18F   S44083   494 x   510 x 97.5
+              Danu Pathfinder 1    )                                       AIS Comms  18AB  S44103   490 x   507 x 97.5
+              Lemur-2-JohanLoran   )                                   AIS/ADS-B/Met  18G   S44084   494 x   510 x 97.5
+              Lemur-2-Beaudacious  )                                   AIS/ADS-B/Met  18H   S44085   493 x   510 x 97.5
+              Lemur-2-Elham        )                                   AIS/ADS-B/Met  18J   S44086   493 x   510 x 97.5
+              Lemur-2-Victor-Andrew)                                   AIS/ADS-B/Met  18K   S44087   493 x   510 x 97.5
+              Flock 4a-1/ Dove 2218)                                       Imaging    18B   S44079   494 x  510 x  97.5
+              Flock 4a-2/ Dove 2201)                                       Imaging    18C   S44080   494 x  510 x  97.5
+              Flock 4a-3/ Dove 2206)                                       Imaging    18D   S44081   494 x  510 x  97.5
+              Flock 4a-4/ Dove 2220)                                       Imaging    18E   S44082   494 x  510 x  97.5
+              Flock 4a-5/ Dove 2227)                                       Imaging    18T   S44095   493 x  507 x  97.5
+              Flock 4a-6/ Dove 220b)                                       Imaging    18S   S44094   494 x  507 x  97.5
+              Flock 4a-7/ Dove 222d)                                       Imaging    18R   S44093   494 x  507 x  97.5
+              Flock 4a-8/ Dove 2213)                                       Imaging    18Q   S44092   494 x  507 x  97.5
+              Flock 4a-9/ Dove 2224)                                       Imaging    18W   S44098   493 x  507 x  97.5
+              Flock 4a-10/Dove 2205)                                       Imaging    18V   S44097   493 x  507 x  97.5
+              Flock 4a-11/Dove 2223)                                       Imaging    18U   S44096   493 x  507 x  97.5
+              Flock 4a-12/Dove 2209)                                       Imaging    18AE  S44108   494 x  507 x  97.5
+              Flock 4a-13/Dove 220c)                                       Imaging    18AA  S44102   492 x  507 x  97.5
+              Flock 4a-14/Dove 222c)                                       Imaging    18Z   S44101   492 x  507 x  97.5
+              Flock 4a-15/Dove 2207)                                       Imaging    18Y   S44100   493 x  507 x  97.5
+              Flock 4a-16/Dove 222b)                                       Imaging    18X   S44099   493 x  507 x  97.5
+              Flock 4a-17/Dove 2212)                                       Imaging    18L   S44088   493 x  510 x  97.5
+              Flock 4a-18/Dove 2215)                                       Imaging    18M   S44089   493 x  510 x  97.5
+              Flock 4a-19/Dove 2235)                                       Imaging    18N   S44090   493 x  510 x  97.5
+              Flock 4a-20/Dove 2232)                                       Imaging    18P   S44091   493 x  510 x  97.5
+              AISAT-1/PSLV-C45-PS4                                         Tech/Comms 18AC  S44104   435 x  515 x  97.5
+Apr  4 1101   Progress MS-11         Soyuz-2-1A          Baykonur LC31     Cargo      19A   S44110   407 x  411 x  51.6   
+Apr  4 1703   O3b FM17  )            Soyuz ST-B/Fregat   CSG ELS           Comms      20A   S44112  7809 x 7839 x   0.0
+              O3b FM18  )                                                  Comms      20B   S44113  7818 x 7839 x   0.0
+              O3b FM19  )                                                  Comms      20C   S44114  7830 x 7840 x   0.0
+              O3b FM20  )                                                  Comms      20D   S44115  7839 x 7841 x   0.0
+Apr  5 0156   SCI                            Hayabusa-2, Ryugu space       Weapon    14076  D00957   Ryugu impact
+Apr  5 0214   DCAM-3                         Hayabusa-2, Ryugu space       Imaging   14076  D00958   Ryugu space
+Apr 11 2235   Arabsat 6A             Falcon Heavy        Kennedy LC39A     Comms      21A   S44186   320 x89807 x  23.0
+Apr 17 2046   S.S. Roger Chaffee )   Antares 230         MARS LA0B         Cargo      22A   S44188   285 x  380 x  51.6
+              SASSI-2            )                                         Science    22C?  A09407   201 x  291 x  51.6
+              ThinSat 1A         )                                         Tech       22D?  A09408   201 x  291 x  51.6
+              ThinSat 1B         )                                         Tech       22E?  A09409   201 x  291 x  51.6
+              ThinSat 1C         )                                         Tech       22F?  A09410   201 x  291 x  51.6
+              ThinSat 1D         )                                         Tech       22G?  A09411   201 x  291 x  51.6
+              ThinSat 1E         )                                         Tech       22H?  A09412   201 x  291 x  51.6
+              ThinSat 1F         )                                         Tech       22J?  A09413   201 x  291 x  51.6
+              ThinSat 1G         )                                         Tech       22K?  A09414   201 x  291 x  51.6
+              ThinSat 1H         )                                         Tech       22L?  A09415   201 x  291 x  51.6
+              ThinSat 1I         )                                         Tech       22M?  A09416   201 x  291 x  51.6
+              ThinSat 1J         )                                         Tech       22N?  A09417   201 x  291 x  51.6
+              ThinSat 1K         )                                         Tech       22P?  A09418   201 x  291 x  51.6
+              ThinSat 1L         )                                         Tech       22Q?  A09419   201 x  291 x  51.6
+Apr 20 1441   Beidou DW44                Chang Zheng 3B   Xichang          Navigation 23A   S44205   193 x35788 x  28.5
+Apr 29 2252   Tianhui-2 01 zu 01 xing )  Chang Zheng 4B   Taiyuan          Imaging    24A   S44207   506 x  517 x  97.4 0600LT SSO
+              Tianhui-2 01 zu 02 xing )                                    Imaging    24B   S44208   506 x  517 x  97.4 0600LT SSO
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Apr  5 2214   AZURE 1           Black Brant XIA    Andoya                Auroral       320       Norwegian Sea
+Apr  5 2216   AZURE 2           Black Brant XIA    Andoya                Auroral       320       Norwegian Sea
+Apr 11 1651   CLASP 2           Black Brant IX     White Sands           Solar UV      274       White Sands
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

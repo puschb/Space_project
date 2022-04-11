@@ -1,0 +1,301 @@
+Jonathan's Space Report
+No. 361                               1998 May 24 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Launch of the Station seems to be slipping further, with a probable
+delay of STS-88 to December according to news reports. This would push
+STS-93 to January according to the AP report.
+
+Progress M-39 remains docked to the Mir orbital complex, and the crew
+are unloading it. STS-91 is on the pad, ready for the final US trip to
+Mir. In addition to Andrew Thomas, much of the US scientific equipment
+aboard Mir will also be brought home.
+
+For mission STS-91, Discovery's payload bay has a new configuration.
+Forward in the bay is the external airlock and docking system. Behind
+this is the tunnel adapter, which on most earlier missions was between
+the docking system and the main cabin. Behind the tunnel adapter is the
+Spacehab tunnel, followed by a single Spacehab module. The Spacehab
+module carries water, food, and equipment for Mir. Further aft in the
+payload bay is the Alpha Magnetic Spectrometer. This particle physics
+experiment uses a new cross-bay carrier, containing a large (3000 kg)
+magnet and scintillator detectors which will be used in a search for
+antiprotons and antinuclei in cosmic rays.
+
+Eight GAS canisters are also installed in the payload bay. Bay 6 port
+has SEM-3, with high school experiments, and an inert canister
+containing commemorative flags. Bay 6 starboard has G-648 (Canadian
+space agency organic thin films experiment) and another canister of
+flags. Bay 13 port has G-765 (Canadian space agency fluids experiment)
+and SEM-5 (high school passive experiments). Bay 13 starboard has two
+small size (2.5-cubic foot) containers, G-090 and G-743.
+
+Recent Launches
+---------------
+
+HGS-1 completed its first lunar flyby on May 13, and returned to a
+perigee of about 36000 km at about 0300 UTC on May 17. HGS has decided
+to send the satellite on a second lunar flyby on Jun 6 to further
+improve the orbit. Current orbit is 35646 km x 475763 km x 18.2 deg.
+
+Galaxy 4H, a Hughes HS-601 satellite, failed on May 19, disrupting pager
+services across the United States. A computer failure resulted in loss
+of attitude control. Ku-band traffic is being transferred to Galaxy 3R,
+while Galaxy 6 is being moved to the Galaxy 4H orbital position to
+replace its C-band coverage.
+
+Echostar 4 has reportedly had problems deploying its solar panels.
+
+
+Orbits
+-------
+
+The following discussion is for technically oriented pedants only.
+
+There's been a lot of discussion lately about the exact definitions of
+varous kinds of orbit: what is the difference between Low Earth Orbit
+(LEO) and Medium Earth Orbit (MEO)? There's no right answer, since these
+names are arbitrary. I have my own definitions, which I give below. The
+boundaries I use are motivated by the physical boundaries in the
+atmosphere and by historical practice.
+
+ My proposed definitions:
+
+(1)  Atmospheric (ATM):     suborbital trajectory with apogee less than
+80 km (mean height of the mesopause, and same as old USAF definition of
+50 miles for astronaut wings)
+
+(2)  Suborbital spaceflight (SO): suborbital trajectory with apogee more
+than 80 km.
+
+(3)  Transatmospheric orbit (TAO): orbital flight with perigee less than
+80 km but  more than zero. Potentially used by aerobraking missions and
+transatmospheric vehicles, also in some temporary phases of orbital
+flight (e.g. STS pre OMS-2, some failures when no apogee restart)
+
+(4)  LEO: Low Earth Orbit. Orbits with perigee above 80 km and apogee
+less than L km. It's not clear what the value of L should be. A
+histogram of apogee heights for objects currently in orbit shows a big
+peak from 100 km to about 2500 km, followed by an almost empty region,
+followed by a small peak at 19000 km (GLONASS and GPS) and another peak
+at 36000 km (GEO). Why are there so few satellites in the 3000 - 19000
+km range? It's because of the radiation belts. Of course polar orbit
+satellites pass through the radiation belts even at low altitude (the
+magnetosphere dips into the auroral circle). But at 3000 km and up you
+pass through the belts at all latitudes. What is the lower level of the
+radiation belts? I'm still researching this. However, if you look at the
+apogee histogram in more detail, you see that the lower orbit satellites
+have two broad peaks: one from 300 km to 1300km peaking at 800-1000 km;
+and another at 1300-2200 km peaking at 1500 km. This analysis is
+compromised by the fact that the histogram may be dominated by debris
+objects from a small number of explosions; it would be better to plot
+payloads only. Redoing the analysis with only international designations
+"A" and "B" (e.g. 1997-04B, but not 1997-04F) gives a similar result
+but with narrower peaks. In particular, there are very few payloads or
+rocket stages with apogees in the 1100 to 1400 km or 1600 to 2000 km
+ranges. I therefore suggest that the LEO/MEO boundary value L should be
+set at either:
+
+ apogee 1000 km, a round number definition which would exclude the large
+   number of satellites in the 1000-1100 km range including Parus/Tsikada and
+   Transit navsats. I think 1000 km is a little too low to exclude.
+ apogee 1100 km, a strict definition of LEO
+ apogee 1600 km, a definition including Globalstar and Strela/Gonets and older ESSA/NOAA
+          polar satellites
+ apogee 2000 km, a safe 'round number' definition including all LEO
+          payloads and debris objects.
+ period 120 minutes ( 2 hours ). Another 'round number'.
+   This has an average height of 1680 km and a maximum apogee of 3280 km.
+
+With the 2000 km or 2 hr definitions, MEO (Medium Earth Orbit) would be the relatively
+unpopulated region between LEO and the geosynch corridor, which contains
+the Glonass and GPS satellites and the old Midas early warning sats,
+and not much else. I have decided to use the 2 hr definition, but I suspect
+that the industry may end up using something toward the lower end, say
+the 1100 km definition.
+
+I consider several subcategories of LEO sorted by inclination. The physically
+motivated one is LEO/S or SSO:  Sun Synchronous orbit, when the orbital plane
+precesses to keep the same sun angle. This requires a period (hh:min) of 
+  T =  3:47 * ( - cos i )** (3/7)  +/- 0:10, for i = 97.0 - 103.0 degrees.
+It's probably good enough to use a less strict but simpler definition of SSO:
+LEO/S  Sun Synch     T =  1:26 - 2:00, i = 95.0 - 104.0
+One might also usefully define
+LEO/R  Retrograde:   T =  1:26 - 2:00, i = 104.0 - 180.0
+LEO/P  Polar:        T =  1:26 - 2:00, i =  85.0 -  95.0
+LEO/E  Equatorial    T =  1:26 - 2:00, i =   0.0 -  20.0
+
+Of course technically `retrograde' is anything with i more than 90.0 degrees,
+but one is more likely to refer to orbits with i below 104 deg as polar or
+sun-synchronous.
+
+The next boundary of interest is between MEO and the 'geosynchronous
+corridor'. To study the geosynchronous corridor, it's most helpful to
+work in orbital period and consider drift rates. For a pure equatorial
+orbit, non-Keplerian perturbations introduce drifts of order 0.05
+degrees per day. These dominate Keplerian drift in longitude if the
+period is roughly between 23h 55.5m and 23h 56.5 min. I call this
+'geostationary orbit'. Satellites which are still operational but are
+being moved from one slot to another usually are drifting at between 0.1
+and 10 degrees per day. I find the 10 degree per day drift rate one
+convenient boundary, corresponding to periods from 23h 17m to 24h 37m
+(that's what I used to use in my geo.log file). An alternative criterion
+is to make a period cut from 23h to 25h: 1 hour either side of the
+geosynch period. 
+
+
+MEO is then everything vaguely circular below 23 hours and above LEO.
+Objects which are in elliptical orbits and with MEO-type orbital
+periods, I call HEO (highly elliptical orbits). A special case of HEO is
+the Molniya orbit, with inclination 63 degrees and period 12 hours,
+giving zero perigee precession and an apogee stabilized in longitude
+every other orbit. Another special case is geostationary transfer orbit
+(GTO), subclasses of which I defined in JSR 310 back in Jan 1997
+(included in the summary table below).
+
+I now use personal definitions as follows:
+
+                    Period (hh:mm)     Inc (deg)    Ecc
+
+Three with the synchronous period:
+
+GEO/S  Stationary      23:55.5 - 23:56.5  0.0 - 2.0   0.00 - 0.01
+ (the good stuff, circular and equatorial)
+
+GEO/I  Inclined GEO    23:55.5 - 23.56.5  0.0 - 2.0   0.01-0.05
+                   and 23:55.5 - 23.56.5  2.0 - 20.0  0.00-0.05
+ (still circular and somewhat equatorial)
+
+GEO/T  Synchronous     23:55.5 - 23.56.5  0 - 20.0      0.05 - 0.85
+                   and 23:55.5 - 23.56.5  20.0-180.0    0.00 - 0.85
+ (synchronous but not circular equatorial)
+
+The corresponding three cases with periods not equal to the magic one:
+
+GEO/D  Drift GEO       23:00   - 25:00    0.0 - 2.0   0.00 - 0.05
+GEO/ID Inc. Drift GEO  23:00   - 25:00    2.0 - 20.0  0.00 - 0.05
+GEO/NS Near-Sync       23:00   - 25:00    0 - 180     0.05 - 0.85
+                   and 23:00   - 25:00    20 - 180    0.00 - 0.85
+
+
+Rather than High Earth Orbit (too easily confused with Highly Elliptical
+Orbit) I use Deep Space Orbit (DSO), for anything circular above GEO,
+and Deep Highly Eccentric Orbit (DHEO) for elliptical deep orbits.
+
+Finally, I summarize the categories I am suggesting in the table below.
+If you would like to propose alternative definitions, please forward
+them to me.
+
+--------------------------------------------------------------------------------
+Orbit Classification Summary 
+--------------------------------------------------------------------------------
+(A = apogee/km, P = perigee/km, T = period/hh:mm, i = inc/deg, e = eccentricity)
+
+Main categories
+ATM   Atmospheric   A < 80
+SO    Suborbital    A >= 80, P < 0
+TAO   Trans-Atm     A >= 80, P = 0 - 80
+LEO   Low           T= 1:26   -  2:00 (P>80)
+MEO   Medium        T= 2:00   - 23:00, e < 0.5
+HEO   Highly Ellip  T= 4:03   - 23:00, e > 0.5 (implies A > 13000)
+GEO   Near-Synch    T=23:00   - 25:00    
+DSO   Deep Space    T>25:00, e < 0.5
+DHEO Deep Eccentric T>25:00, e > 0.5
+HCO   Heliocentric  
+PCO   Planetocentric
+SSE   Solar System Escape
+
+Subcategories
+LEO/S  Sun Synch      T =  1:26 - 2:00, i= 95.0 - 104.0
+LEO/R  Retrograde:    T =  1:26 - 2:00, i= 104.0 - 180.0
+LEO/P  Polar:         T =  1:26 - 2:00, i=  85.0 -  95.0
+LEO/E  Equatorial     T =  1:26 - 2:00, i=   0.0 -  20.0
+HEO/M:  Molniya orbit T = 11:30 - 12:30, i= 62.0 - 64.0,  e= 0.50 - 0.77
+GEO/S  Stationary     T= 23:55.5 - 23:56.5,i= 0.0 - 2.0   0.00 - 0.01
+GEO/I  Inclined GEO   T= 23:55.5 - 23.56.5,i= 0.0 - 20.0  0.00 - 0.05
+GEO/T  Synchronous    T= 23:55.5 - 23.56.5,i= 0 - 180     0.00 - 0.85
+GEO/D  Drift GEO      T=23:00   - 25:00  i=  0.0 - 2.0,   e= 0.00 - 0.05 
+GEO/ID Inc. Drift GEO T=23:00   - 25:00  i=  0.0 - 20.0,  e= 0.00 - 0.05
+GEO/NS Near-Sync      T=23:00   - 25:00  i=  0 - 180,     e= 0.00 - 0.85
+
+GTO subclasses of HEO, from JSR 310
+GTO/L  Low GTO        A = 13000 - 30000
+GTO/S  Sub-GTO        A = 30000 - 41000
+GTO    Std GTO        P = 150 - 700, A = 34000 - 41000, 
+GTO/HP High Peri. GTO P = 700- 4000, A = 34000 - 41000, 
+GTO/H  High GTO       A > 41000
+(Super-GTO now superseded by GTO/H and DHEO as appropriate)
+
+Table of Recent Launches
+ ------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  2 0242   TRACE             Pegasus XL    Vandenberg RW30/15 Solar obs. 20A
+Apr  7 0213   Iridium 62        Proton-K/DM2  Baykonur          Comsat     21A
+              Iridium 63                                        Comsat     21B
+              Iridium 64                                        Comsat     21C
+              Iridium 65                                        Comsat     21D
+              Iridium 66                                        Comsat     21E
+              Iridium 67                                        Comsat     21F
+              Iridium 68                                        Comsat     21G
+Apr 17 1819   Columbia   )      Shuttle       Kennedy LC39B     Spaceship  22A
+              Neurolab   )
+Apr 24 2238   Globalstar FM6)   Delta 7420    Canaveral SLC17A  Comsat     23A
+              Globalstar FM8)                                              23B
+              Globalstar FM14)                                             23C
+              Globalstar FM15)                                             23D
+Apr 28 2253   Nilesat 1  )      Ariane 44P    Kourou ELA2       Comsat     24A
+              BSAT 1B    )                                      Comsat     24B
+Apr 29 0437   Kosmos-2350       Proton-K/DM-2 Baykonur          Comsat?    25A
+May  2 0916   Iridium 69        CZ-2C/SD      Taiyuan           Comsat     26A
+              Iridium 71                                        Comsat     26B
+May  7 0853   Kosmos-2351       Molniya-M     Plesetsk          Early Warn 27A
+May  7 2345   Echostar 4        Proton-K/DM3  Baykonur          Comsat     28A
+May  9 0138   USA 139           Titan Centaur Canaveral SLC40   Sigint     29A
+May 13 1552   NOAA 15           Titan 2       Vandenberg SLC4W  Weather    30A
+May 14 2212   Progress M-39     Soyuz-U       Baykonur LC1      Cargo      31A
+May 17 2116   Iridium 70)       Delta 7920    Vandenberg SLC2W  Comsat     32A
+              Iridium 72)                                       Comsat     32B
+              Iridium 73)                                       Comsat     32C
+              Iridium 74)                                       Comsat     32D
+              Iridium 75)                                       Comsat     32E
+                                                                         
+Current Shuttle Processing Status
+__________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Jan ?
+OV-103 Discovery       LC39A         STS-91  Jun 2
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-88  Dec 3
+
+
+MLP/SRB/ET/OV stacks
+              
+MLP1/RSRM66/ET-96/OV-103 LC39A       STS-91
+MLP2/
+MLP3/
+              
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+
+
+

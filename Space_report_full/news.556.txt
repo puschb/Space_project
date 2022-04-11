@@ -1,0 +1,186 @@
+Jonathan's Space Report
+No. 556                                        2005 Nov  8, Somerville, MA
+-------------------------------------------------------------------------------
+
+Station
+------
+
+Expedition 11 crew Sergey Krikalyov and John Phillips, and EP-9 tourist
+Greg Olsen, have returned to Earth. Soyuz TMA-6 undocked from the Zarya
+module at 2149 UTC on Oct 10. The deorbit burn at 0019 UTC on Oct 11
+lowered the orbit from 346 x 348 km to about -40 x 348 km; the orbital
+and service modules separated at 0043 UTC and after reentry the
+spacecraft landed at 0109 UTC on Oct 11. There was some concern
+due to an apparent small pressure leak in the spacecraft, but the crew
+were recovered safe and well.
+
+The Expedition 12 crew of Bill McArthur and Valeriy Tokarev made a
+spacewalk on Nov 7. The airlock reached 240 mbar at around 1429 UTC, but
+because of a valve left in an incorrect position, the pressure did not
+drop below 130 mbar and at 1448 UTC the airlock was repressurized. I
+count this as a `partial depressurization' only and not as a full EVA.
+After opening the crew lock door and resetting the valve, the airlock
+was depressurized again, reaching 50 mbar at 1527 UTC. The airlock hatch
+was opened at 1529 UTC, with the spacesuits on battery power at 1532
+UTC. McArthur and Tokarev emerged at 1544 and 1550 UTC respectively. The
+first task was to take a camera from the airlock and a camera support
+assembly from the ESP-2 storage platform, and install them at the far
+end of the P1 truss segment (a similar camera is already at the end of
+S1). At 1800 UTC they headed for the other end of the truss to remove a
+failed rotary joint motor controller on S1; by 1836 UTC, after returning
+to the airlock, they set off for the top of the P6 tower to remove the
+failed FPP experiment. At 1920 McArthur threw the FPP (Floating
+Potential Probe) into space, where it is now being tracked in a 338 x
+346 km orbit. After returning to the truss and replacing a power module
+on the mobile transporter, the astronauts  went back to the airlock.
+Tokarev went inside at 2025 UTC followed by McArthur at 2035 UTC. The
+hatch was closed at 2046 UTC with repressurization at 2054 UTC, for a
+duration of 5h27m (depress/repress), 5h17m (hatch open/close) or 5h22m
+(NASA rule).
+
+Shenzhou 6
+----------
+
+China's second piloted spaceflight was launched at 0100 UTC on Oct 12.
+Two astronauts, Fei Junlong and Nie Haishen, were aboard the Shenzhou 6
+spacecraft which reached a 330 x 337 km x 42.4 deg orbit. The crew
+entered the orbital module of Shenzhou, in contrast to the previous
+flight where Yang Liwei remained in the descent vehicle throughout the
+flight.  The vehicle landed safely at 2032 UTC on Oct 16, leaving the
+orbital module in space for tests.
+
+Titan
+-----
+
+The last Titan rocket, 4B-26, was launched on Oct 19. It deployed
+USA 186, a classified NRO satellite, into polar orbit. Hobbyists have
+observed the satellite and determined its orbit to be 264 x 1050 km
+x 97.9 deg. This confirms that the satellite is one of the improved
+CRYSTAL series (KH-11 derived) imaging reconnaissace satellites,
+replacing a satellite launched in 1996.
+
+
+Cryosat
+--------
+
+ESA's Cryosat was launched on Oct 8 but failed to reach orbit. Because
+of a software error, the Rokot second stage failed to shut down, and did
+not separate from the third stage. The vehicle impacted in the Arctic.
+It would have studied polar ice to look for effects of global warming.
+There is some hope that this important mission will get a reflight.
+
+Demonstrator-2R
+---------------
+
+Novosti Kosmonavtiki reports that on Oct 6 at 2130 UTC the Russian Navy
+carried out a suborbital test of the inflatable Demonstrator reentry vehicle,
+but once again the reentry vehicle was not recovered.
+
+Ariane 
+-------
+
+The European heavy launch vehicle has made another successful flight.
+Ariane 5GS, flight V168, vehicle L524, was launched on Oct 13. The EPC
+core stage reached a 44 x 1609 km x 7.9 deg orbit and reentered over the
+Pacific. The EPS upper stage placed two satellites in a 577 x 35789 km x
+7.0 deg geostationary transfer orbit. Syracuse 3A is a Spacebus 3000B3
+communications  satellite built by Alenia Alcatel for the French
+military procurement agency DGA.  The smaller Galaxy 15 was built for
+the US company Panamsat by Orbital Sciences using the Star 2 platform, 
+and will provide services over the US. Both satellites have now reached
+geostationary orbit.
+
+Many thanks to Arianespace for their hospitality on my recent visit to
+Evry!
+
+Kosmos-2415
+-----------
+
+The Russian Kometa mapping satellite Kosmos-2415 completed its standard
+44-day mission with a landing at 2144 UTC on Oct 15, according to
+analyst Phillip Clark. (A landing 24 hours later is not entirely ruled
+out by the data I have, and Space Command reported an Oct 16 landing).
+
+Multi-satellite launch
+----------------------
+
+Russia's Polyot company launched a group of small satellites on a
+Kosmos-3M rocket from Plesetsk on Oct 27.
+
+The launch includes the first Iranian satellite, Sinah-1 (or Sina-1).
+This satellite is a 160 kg experimental payload built by Russia's
+Polyot, based in Omsk, and carries a remote sensing (some reports
+implausibly allege `spy satellite') payload. The satellite is 0.8 x 1.3
+x 1.6m in size.
+
+Earlier reports were confused: another Iranian satellite, a 100-kg class
+satellite called Mesbah built by Italy's Carlo Gavazzi Space and based
+on the MITA satellite bus was also meant to be aboard, but has
+reportedly  been delayed. Based on photos of the satellite cluster in
+final assembly, Sinah-1 uses a very similar design to MITA, covered by a
+prism-shaped cluster of solar-panels. Since Carlo Gavazzi Space and its
+partner OHB System of Bremen have been collaborating with Polyot on
+launch vehicle engineering, I'm guessing that there is also a
+collaboration of some sort on satellite buses and that explains the
+similarity between the Italian MITA and the Russian-built Sinah-1. I'm
+still a bit confused though, and any clarification is welcomed.
+
+The other payloads are:
+  Topsat, built by Surrey Satellite, an imaging satellite for UK
+   military research.
+  Beijing-1 (China-DMC), built by Surrey Satellite, part of the Disaster 
+   Monitoring  Constellation and to be operated by Tsinghua University for
+   a Chinese company, Beijing Landview Mapping Information Technology Ltd.
+   It carries a 31-cm mapping telescope with a resolution of 4 meters.
+  SSETI-Express, a student-built satellite sponsored by the European Space
+   Agency. Shortly after 0830 UTC it ejected three small 1 kg Cubesats: 
+   UWE-1 for the University
+   of Wurzburg, NCube-2 for Norway, and XI-V for the University of Tokyo.
+   (NCube-2 has not been heard from and its separation has not been confirmed).
+   SSETI Express lost power by 2020 UTC on the day of launch.
+  Mozhaets-5, an experimental satellite built partly by students at the
+   Mozhaiskiy military academy and carrying a laser communications
+   experiment. Mozhaets-5 failed to separate from the rocket final stage
+   and controllers haven't established communications with it.
+  Rubin-5 is a technology/communications payload using the ORBCOMM system; it
+   remains intentionally attached to the rocket final stage (in fact,
+   it's part of the adapter used to deploy the other satellites). It includes
+   the AATiS SAFIR-S amateur transponder and the ESA ASOLANT solar-powered
+   GPS antenna experiment.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep  2 0950   Kosmos-2415       Soyuz-U         Baykonur LC31    Imaging     34A
+Sep  8 1308   Progress M-54     Soyuz-U         Baykonur LC1     Cargo       35A
+Sep  8 2153   Anik F1R          Proton-M/Briz-M Baykonur LC200/39 Comms      36A
+Sep 23 0224   STP-R1            Minotaur        Vandenberg SLC8  Tech        37A
+Sep 26 0337   Navstar GPS 57    Delta 7925      Canaveral SLC17A Navigation  38A
+Oct  1 0355   Soyuz TMA-7       Soyuz-FG        Baykonur LC1     Spaceship   39A
+Oct  8 1502   Cryosat           Rokot           Plesetsk LC133   Science     F03
+Oct 12 0100   Shenzhou 6        CZ-2F           Jiuquan          Spaceship   40A
+Oct 13 2232   Syracuse 3A  )    Ariane 5GS      Kourou ELA3      Comms       41A
+              Galaxy 15    )                                     Comms       41B
+Oct 19 1805   USA 186           Titan 4B        Vandenberg SLC4E Imaging     42A
+Oct 27 0652   Topsat        )   Kosmos-3M       Plesetsk LC132/1 Imaging     43B
+              Beijing-1     )                                    Imaging     43A
+              Sinah         )                                    Imaging?    43D
+              SSETI Express )                                   Imaging/Tech 43E
+              Mozhaets-5    )                                    Tech/Comms  43G
+              UWE-1         )                                    Comms       43F
+              NCube-2       )                                    Comms       43
+              Cubesat XI-V  )                                    Tech        43C
+              Rubin-5       )                                    Comms       43G
+             
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

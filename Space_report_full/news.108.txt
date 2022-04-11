@@ -1,0 +1,139 @@
+Jonathan's Space Report
+
+No. 108      1992 Mar 30
+
+I hope the email version of this is getting to people. If you see this
+on the net and were expecting to have already received it by email, let
+me know. It's nice to know who reads this regularly, so even if you
+don't want to be on the email list, consider dropping me a note if you
+find these reports useful.
+------------------------------------------------------------------------------
+
+First, a correction to last week's report. Soyuz TM-14 was launched
+at 1054 UTC not 0854 UTC on Mar 17. This reduces the flight hours
+of Viktorenko, Kaleri and Flade by 2 hours. Thanks to Ed O'Grady
+for spotting this typo which crept in half way through my sums!
+
+The Soviet Union's last imaging spy satellite, Kosmos-2153, reentered on
+Mar 13 after 247 days in space. This left Kosmos-2175, launched on Jan
+21, as the SNG's (Commonwealth of Independent States) only remaining
+imaging satellite, and it was expected to reenter on Mar 20. No replacement
+had been launched by Mar 24.
+
+The STS-45 mission continues in orbit. There have been some problems
+with the FAUST (Far UV Space Telescope) and the SEPAC (electron gun
+experiment) but both have got at least some data. Overall things are
+going pretty well and I'm having fun watching NASA Select seeing the
+folks I used to know at Huntsville hunched over their consoles at the
+POCC (Hi, Chuck). Landing is due on Apr 2.
+
+Kosmos-895 reentered on Mar 22. Launched in Feb 1977, it was
+a Soviet military signals intelligence satellite.
+
+There haven't been many launches recently so I thought I'd
+take the opportunity to review the first quarter of the year,
+giving launch vehicle, payload, organization responsible for the
+launch and the payload, and manufacturer of the payload. Note that
+barely half of the launches so far are by the ex-SSSR. This is way
+down on previous years; of 22 launches to the same time last year
+17 were Soviet, so not only has the ex-SSSR launch rate gone 
+down but that for the rest of the world has increased somewhat
+(not statistically significantly relative to last year, but
+there has been a trend over the past few years). 
+
+Of course, who owns the various Russian satellites is somewhat
+speculative and probably not known by anyone, even the putative
+owners.
+
+Launch,Date	LV	 Payload			LV/org	PL/org		PL/Manufacturer
+
+01  Jan 21	Soyuz	 Kosmos-2175			VS SNG  GRU		KB Foton
+02  Jan 22	STS	 Discovery/Spacelab IML-1	NASA	NASA/ESA/CSA	Rockwell/MBB-Alenia
+03  Jan 24	Molniya	 Kosmos-2176			VS SNG	PVO		NPO-PM
+04  Jan 25	Soyuz	 Progress M-11			VS SNG	NPOE		NPO Energiya
+05  Jan 29	Proton	 Kosmos-2177,2178,2179		VS SNG  VMF		PO Polyot
+06  Feb 10	Atlas 2	 DSCS III F-5			GDCLS	USAF/DCA	GE
+07  Feb 11	H-1	 Fuyo-1				NASDA	NASDA		Mitsubishi
+08  Feb 17	Kosmos	 Kosmos-2180			VS SNG	VMF		PO Polyot
+09  Feb 23	Delta 2	 GPS 25				MDSSC	USAF		Rockwell
+10  Feb 26	Ariane	 Superbird B2			AE	SCCJ		SS/Loral
+			 Arabsat 1C				ASCO	 	Aerospatiale
+11  Mar  4	Molniya	 Molniya-1			VS SNG	RKA?		NPO-PM
+12  Mar  9	Kosmos	 Kosmos-2181			VS SNG	VMF		PO Polyot
+13  Mar 14	Atlas 1	 Galaxy V			GDCLS	HCI		Hughes
+14  Mar 17	Soyuz	 Soyuz TM-14			VS SNG	NPOE/RKA	NPO Energiya
+15  Mar 24	STS	 Atlantis/Spacelab Atlas-1	NASA	NASA/ESA	Rockwell/BAe
+
+Abbreviations for organizations
+
+AE	Arianespace SA, France
+ASCO	Arab Satellite Communications Organization, Saudi Arabia
+CSA	Canadian Space Agency, Canada
+DCA	Defence Communications Agency, US Department of Defense, USA
+ESA	European Space Agency
+GDCLS   General Dynamics Commercial Launch Services, USA
+GRU     Glavnoye Razvedivatel'noye Upravileniye (Soviet Military Intelligence), SNG
+HCI	Hughes Communications Inc., USA
+MBB	Messerschmitt-Bolkow-Blohm, Deutschland (Germany)
+MDSSC	McDonnell Douglas Space Systems Corp, USA
+NASA	National Aeronautics and Space Administration, USA
+NASDA   National Space Development Agency, Nippon (Japan)
+NPOE    NPO Energiya (Energiya Scientific/Production Organization), Rossiya
+NPO-PM	NPO Prikladnoi Mekhaniki, Rossiya
+POP	PO Polyot, Rossiya
+PVO     Protivo-Vosdushniya Oborona (SNG Air Defense Force), SNG
+SCCJ	Space Communications Corp, Nippon (Japan)
+SNG     Sodruzhestva Nezabisimikh Gosudarst' (Commonwealth of Independent States)
+USAF	United States Air Force, USA
+VMF     Voenno-Morskoy Flot (SNG Navy), SNG
+VS SNG  Vooruzhennikh Sil Sodruzhestva Nezabisimikh Gosudarst'
+         (Combined Forces of the Commonwealth of Independent States)
+
+
+/* followups to talk.politics.space: we want our NTV!
+ For those of you who have wondered why NASA Select doesnt cover
+ the expendable launches anymore, I hear that the Administrator decided
+ that putting non-NASA launches on NASA Select is bad PR if there is 
+ a failure, since everyone thinks the failure is NASA's. Maybe a nice
+ big letter writing campaign to the new Administrator might change this.
+*/ Oops, I editorialized, I promise I won't do it again.
+
+____________________________________________
+|Current STS status:                       |
+|Orbiters               Location   Mission |
+|                                          |
+|OV-102 Columbia        OPF Bay 3  STS-50  |
+|OV-103 Discovery       OPF Bay 2  Mod     |
+|OV-104 Atlantis        LEO        STS-45  |
+|OV-105 Endeavour       LC39B      FRF     |
+|                                          |
+|ML/SRB/ET/OV stacks                       |
+|                                          |
+|ML1/                   LC39A              |
+|ML2/STS-49/ET/OV-105   LC39B              |
+|ML3/STS-50             VAB Bay 3          |
+--------------------------------------------
+
+Key: 
+ET  External Tank
+FRF Flight Readiness Firing
+LC  Launch Complex
+LEO Low Earth Orbit
+ML  Mobile Launcher
+OPF Orbiter Processing Facility
+OV  Orbiter Vehicle
+SRB Solid Rocket Boosters
+VAB Vehicle Assembly Building
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+
+

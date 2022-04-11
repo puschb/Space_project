@@ -1,0 +1,240 @@
+Jonathan's Space Report
+No. 593                                          2008 Mar 15, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+On Mar 11 Orbiter OV-105 Endeavour launched on Shuttle mission STS-123,
+Station flight 1J/A. I observed STS-123's naked-eye ascent from the roof
+of the Harvard Observatory in Cambridge, MA as a bright rapidly moving
+object, vanishing at MECO, then, just as on previous occasions that I've
+seen it from here, reappearing with only slightly lower brightness with
+a roughly regular period for about 1 second every 6 or 7 seconds until
+it set - presumably I'm seeing RCS burns, but I'm a bit surprised that
+they are so bright.
+
+Launch of STS-123 was at 0628:14 UTC. MECO put Endeavour in a 58 x 220 km  orbit;
+OMS-2 came 38m 30s after launch and raised the orbit to roughly 220 x
+233 km. On Mar 13 at 0220 UTC Endeavour reached a point 0.2 km below
+the Station and began its final approach; it docked with PMA-2 at 0349 UTC.
+
+Astronaut Garrett Reisman has joined the Expedition 16 crew of Whitson
+and Malenchenko, replacing Leo Eyharts.
+
+Added to the Station on this mission will be the Canadian Dextre
+robot manipulator (to go on the end of the Canadarm-2) and the Japanese
+Kibo ELM-PS, to be temporarily stowed on the zenith port of Harmony.
+Japan's Kibo station module complex will eventually consist of the Kibo
+JEM-PM (Pressurized Module; the main lab), the Kibo JEM-EF (Exposed Facility, for
+external experiments), the ELM-PS (Experiment Logistics Module - Pressurized
+Section), which plays a role similar to the MPLM logistics modules, 
+the ELM-ES (Experiment Logistics Module - Exposed Section) for supply
+of temporary experiments, a bit like the deployable ICC or SLP pallets,
+and the JEM-RMS Japanese robot arm. The ELM-PS was built by  MHI
+(Mitsubishi Heavy Industry) at its Tobishima factory in Nagoya; it will be
+controlled from the Tsukuba facility of the Japanese space agency JAXA.
+
+The Station arm grappled the Dextre pallet at around
+0700 on Mar 13 and attached it to the Mobile Base System on the Station
+truss by around 0800. At 0113 UTC on Mar 14 the Quest airlock was depressurized,
+and Rick Linnehan (in EMU 3004) and Garrett Reisman (in EMU 3006) began
+a spacewalk to prepare the ELM-PS for installation and begin assembling
+Dextre from its component pieces. The airlock was repressurized to end
+the spacewalk at 0819 UTC.
+
+STS-123 also carries a lot of small payloads. The MISSE 6 payload
+consists of two suitcase-like materials exposure trays, PEC 6a and PEC
+6b, which will be attached to a lightweight adapter plane (LWAPA) to be
+fixed to the Columbus External Payload Facility. The PEC cases are on
+APC class sidewall carriers in the cargo bay, while the heavier LWAPA
+needs the heftier SPA beam (GAS beam) carrier. Three more SPA beams
+carry a spare Canadarm-2 Yaw Joint and a  pair of DCSU (Direct Current
+Switching Unit) boxes, to be stowed on the Station ESP platform as
+spares. Another SPA beam carries RIGEX, a US Air Force Space Test
+Program payload which will evaluate inflatable materials inside a closed
+canister. More APC carriers host EVA cargo stowage (ECSH), SIP
+(standard interface panels, for what I'm not sure) and SPDU (the Station
+Power Distribution Unit to let the Shuttle run off Station electricity
+while docked).
+
+Here is my version of the STS-123 payload bay manifest:
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3003, 3004 suits                       260?
+  APC/SPDU                         3 port          100?
+  SPA/Yaw Joint                    3 stbd          336
+  ICAPC/MISSE PEC 6a               4 port          103
+  SPA/DCSU 1                       4 stbd          363
+  ICAPC/MISSE PEC 6b               5 port          103
+  SPA/DCSU 2                       5 stbd          363
+  APC/SIP                          6 stbd          ?
+  SLP-D1/Dextre                    7-8            3485
+  APC/ECSH                         9 port          100?
+  Kibo ELM-PS                      10-12          8484
+  APC/SIP?                         11 stbd?        ?
+  SPA/MISSE LWAPA                  13 port         244
+  SPA/RIGEX                        13 stbd         315
+  RMS 202                          Sill            410
+  OBSS IBA S/N 003                 Sill            450?
+  ----------------------------------------------------
+                                     Cargo total 16916 kg
+
+The Dextre robot is carried up on a Spacelab Pallet (SLP),
+a flexible unpressurized cargo bay carrier built by British Aerospace (in their
+Stevenage plant, I think?) in the late 1970s. At least 11 different
+pallets seem to have flown, some at least 3 times, for a total of 32 missions
+to date including the current one.
+Here is a list of pallet flights; I don't have serial numbers for the more
+recent flights, and would be glad to receive them. (The ISS Cupola used
+to be planned for a pallet launch on STS-132, but I understand it is now
+to be launched directly attached to Node 3. Pallet MD003 is probably the
+same as F003, but I think E002 and E003 were separate builds of engineering
+models for the pallet system and are not the same as F002 and F003.)
+
+ Flt No. SLP S/N  Cargo              STS Mission
+
+  1      E002     OSTA-1                 STS-2
+  2      E003     OSS-1                  STS-3
+  3      F001     Spacelab 1             STS-9
+  4      F006     OSTA-3                 STS 41-G
+  5      F007     HS-376R (Westar)       STS 51-A
+  6      F008     HS-376R (Palapa)       STS 51-A
+  7      F002     Spacelab 2 Fwd         STS 51-F
+  8      F005     Spacelab 2 Mid         STS 51-F
+  9      F003     Spacelab 2 Aft         STS 51-F
+ 10      F010     Spacelab Astro 1 Fwd   STS-35
+ 11      F002     Spacelab Astro 1 Aft   STS-35
+ 12      F004     Spacelab Atlas 1 Fwd   STS-45
+ 13      F005     Spacelab Atlas 1 Aft   STS-45
+ 14      F003     TSS-1                  STS-46
+ 15      F008     Spacelab Atlas 2       STS-56
+ 16      ?        HST SM-1 ORU Carrier   STS-61
+ 17      F006     Spacelab SRL-1         STS-59
+ 18      F007     LITE                   STS-64
+ 19      F006     Spacelab SRL-2         STS-68
+ 20      F008     Spacelab Atlas 3       STS-66
+ 21      F010     Spacelab Astro 2 Fwd   STS-67
+ 22      F002     Spacelab Astro 2 Aft   STS-67
+ 23      F003?    TSS-1R                 STS-75
+ 24      ?        HST SM-2 ORU Carrier   STS-82
+ 25      ?        HST SM-3A ORU Carrier  STS-103
+ 26      ?        SRTM                   STS-99
+ 27      MD003    ISS PMA-3              STS-92
+ 28      ?        ISS SSRMS              STS-100
+ 29      ?        ISS Airlock O2/N2 Fwd  STS-104
+ 30      ?        ISS Airlock O2/N2 Aft  STS-104
+ 31      ?        HST SM-3B RA Carrier   STS-109
+ 32      ?        ISS Dextre             STS-123
+ 33 (Planned) ?   HST SM-4 ORU Carrier   STS-125
+
+Meanwhile, the Jules Verne ATV has resumed its rendezvous sequence, now
+that a propulsion anomaly has been resolved; by late on Mar 11 it was in
+a 275 x 291 km orbit. Dan Deak confirms from CSG sources that the EPS
+stage did indeed reenter following its deorbit burn at 0628 UTC on Mar
+9. Two more burns were made on Mar 12 and raised the orbit to 302 x 316 km; 
+a test of the collision avoidance manuever is planned on Mar 14.
+
+AMC 14
+------
+
+An International Launch Services/Khrunichev Proton-M was launched from
+Baykonur on Mar 14. The Proton third stage was suborbital; the Briz-M
+upper stage entered a 173 km parking orbit at 2337 UTC, but the second
+burn at 0017 UTC on Mar 15, meant to send it to an 890 x 35745 km x 49.1
+deg transfer orbit, failed in some way, stranding the Lockheed Martin
+A2100AXS communications satellite payload, AMC 14 out of reach of
+geostationary orbit.  The burn was planned as an extremely long duration
+one: 34 minutes. No further details are available at the moment.
+
+AMC 14 was to be owned by SES Americom and leased
+by Echostar, replacing Echostar 3 at 61.5W.  The satellite has a launch
+mass of 4140 kg, probably including around 2000 kg of MON-3 nitrogen
+tetroxide  and MMH (monomethyl hydrazine) propellant.
+
+
+Recent Proton failures include Arabsat 4A in 2006 Nov, a similar failure
+in which the long 30-minute second burn of the Briz ended prematurely;
+Arabsat was deliberately deorbited a month later to avoid an
+uncontrolled reentry. Another failure in 2007, JCSAT 11, was unrelated
+(stage 1/2 separation failure).
+
+Prognoz 6
+---------
+
+The SO-M No. 506 solar particles observatory was launched in September
+1977 and given the code name Prognoz 6. It and the Blok SO-L fourth
+stage of the 8K78M Molniya launch vehicle entered a 488 x 200000 km x
+65.0 deg elliptical orbit. On 2008 Mar 6 Prognoz-6 was in a 26274 x
+171974 km x 51.7 orbit; the Blok SO-L was never tracked, but has now
+finally been cataloged in a 33653 x 161978 x 48.1 deg orbit. I hope this
+indicates a new interest at Space Command in documenting the deep space
+population of objects, which is very poorly cataloged at present.
+
+NROL-28
+-------
+
+United Launch Alliance launched a Lockheed Martin Atlas V 411 from Space
+Launch Complex 3-East at Vandenberg on Mar 13. The mission, which used
+vehicle AV-006, was a National Reconnaissance Office launch designated
+NROL-28 and placed a payload designated USA 200 in an elliptical 12-hour
+63-degree inclination orbit. Observers in Beijing saw the venting of the
+Centaur after separation as a bright naked-eye transient 'comet'.
+
+Analysts believe that this launch is the second in a new series of
+satellites carrying combined signals intelligence and early warning payloads,
+and is similar to USA 184 launched on NROL-22 (a Delta 4) in 2006 Jun.
+USA 184 probably carried the SBIRS HEO-1 infrared missile early warning package
+and the NASA/Los Alamos TWINS-A magnetospheric research payload; I expect
+that HEO-2 and TWINS-B are aboard the new launch. This is believed to be
+the 12th highly elliptical orbit NRO signals intelligence mission since the
+launch of the first JUMPSEAT mission in 1971, although there is some
+uncertainty about the identity of flights 6 and 7:
+
+   Flight Designation Date         LV                  Orbit km x km x deg
+       [First generation]
+   1      -           1971 Mar 21  Titan 23B/Agena     328 x 39264 x 63.2
+   2      -           1972 Feb 16  Titan 23B/Agena     Failed to orbit
+   3      -           1973 Aug 21  Titan 23B/Agena     392 x 39132 x 63.3
+   4      -           1975 Mar 10  Titan 34B/Agena     295 x 39338 x 63.5
+   5      -           1978 Aug  5  Titan 34B/Agena     315 x 39053 x 62.5
+   6      -           1981 Apr 24  Titan 34B/Agena     Orbital data unknown
+   7      USA 4       1984 Aug 28  Titan 34B/Agena     342 x 38347 x 63.6
+       [Second generation]
+   8      USA 103     1994 May  3  Titan 401A/Centaur  1551 x 38802 x 63.1
+   9      USA 112     1995 Jul 10  Titan 401A/Centaur  1575 x 38780 x 63.4
+   10     USA 136     1997 Nov  8  Titan 401A/Centaur  1960 x 38395 x 63.4
+       [Third generation]
+   11     USA 184     2006 Jun 28  Delta 4M+(4,2)      1139 x 39210 x 63.3
+   12     USA 200     2008 Mar 13  Atlas V 411         Orbit to be determined
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jan 15 1149   Thuraya 3         Zenit-3SL        Odyssey, Pacific  Comms     01A
+Jan 21 0345   Polaris (TecSAR)  PSLV             Sriharikota FLP   Radar     02A
+Jan 28 0018   Ekspress AM-33    Proton-M/Briz-M  Baykonur LC200/39 Comms     03A
+Feb  5 1303   Progress M-63     Soyuz-U          Baykonur LC1      Cargo     04A
+Feb  7 1945   Atlantis (STS-122) Space Shuttle   Kennedy LC39A     Spaceship 05A 
+              Columbus         )                                   Module    -
+Feb 11 1134   Thor 5            Proton-M/Briz-M  Baykonur          Comms     06A
+Feb 23 0855   Kizuna            H-IIA 2024       Tanegashima       Comms     07A
+Mar  9 0403   Jules Verne ATV   Ariane 5ES       Kourou ELA3       Cargo     08A
+Mar 11 0628   Endeavour(STS-123) Space Shuttle   Kennedy LC39A     Spaceship 09A
+Mar 13 1002   USA 200           Atlas V 411      Vandenberg SLC3E  Sigint    10A
+Mar 14 2318   AMC 14            Proton-M/Briz-M  Baykonur LC200/39 Comms     11A?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

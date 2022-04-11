@@ -1,0 +1,200 @@
+Jonathan's Space Report 
+
+No. 154         1993 May 18
+------------------------------------------------------------------------------
+
+Shuttle
+----------------- 
+
+Columbia returned to KSC aboard the 747 on May 14 and is now in the
+Orbiter Processing Facility  being turned around for the STS-58 mission
+in August. Next mission is Endeavour/STS-57 due for June 3; according to
+the magazine Space News, pad workers have been unable to locate the
+source of a crash-bang-clatter sound heard emanating from the orbiter
+during pad tests. Doesn't that give you a great feeling? STS-57
+will carry the Spacehab experiment module and retrieve the European
+EURECA satellite.
+
+Mir
+---
+
+Gennady Manakov and Aleksandr Poleshchuk remain in orbit aboard the Mir
+complex. Soyuz TM-16 is docked to the Kristall axial port and Progress
+M-16 is docked to the Kvant port. A new Progress mission is due for
+launch on May 18 and will dock to the forward Mir port. Apologies
+for misspelling Poleshchuk's name in previous reports; the new spelling
+is consistent with the transliteration scheme I normally use.
+
+Launches
+--------
+
+Date            Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Apr 16 0800?    Kosmos-2242     Tsiklon         Plesetsk        SIGINT     24A
+Apr 21 0030?    Molniya-3       Molniya         Plesetsk        Comsat     25A
+Apr 25 1244     Alexis          Pegasus         Edwards/NB52    Astronomy  26A
+Apr 26 1450     Columbia     )  Shuttle         Kennedy LC39    Spaceship  27A
+                Spacelab D-2 )
+Apr 27 1230?    Kosmos-2243     Soyuz           Baykonur        Recon      28A
+Apr 28 0335?    Kosmos-2244     R-36            Baykonur        Ocean Rec. 29A
+May 11 1450?    Kosmos-2245 )   Tsiklon         Plesetsk        Comsat     30A
+                Kosmos-2246 )                                              30B
+                Kosmos-2247 )                                              30C
+                Kosmos-2248 )                                              30D
+                Kosmos-2249 )                                              30E
+                Kosmos-2250 )                                              30F
+May 12 0056     Astra 1C   )    Ariane 42L      Kourou          Comsat     31A
+                Arsene     )                                    Comsat     31B
+May 13 0007     Navstar GPS 37  Delta 7925      Canaveral       Navsat     32A
+
+Reentries
+---------
+
+Apr 17          Discovery       Landed at KSC
+Apr 29          Kosmos-925      Reentered
+May  6          Kosmos-2243     Reentered
+May  6          Columbia        Landed at Edwards AFB
+
+
+Six small Gonets class communications satellites, Kosmos-2245 to Kosmos-2250,
+were launched into a 1400 x 1420 km orbit at an inclination of 82.6 degrees
+on May 11. The satellites are built by NPO Prikladnoi Mekhanikoi of Krasnoyarsk.
+
+It has been reported that the Kosmos-2243 recon satellite launched
+on Apr 27 was destroyed due to an explosion in the Blok-I third stage
+of the Soyuz launch vehicle near the end of third stage burn. Space
+Command cataloged the satellite (or its main fragment) as reentering
+on May 6.
+
+The Ariane launch vehicle made its much delayed first launch of the year
+on May 12. The main payload was the Astra 1C television broadcasting
+satellite for SES (Societe Europeene des Satellites, based in
+Luxembourg) and it will be stationed at 19 degrees E over the equator.
+This satellite is the fifth Hughes HS-601 comsat to be launched; two of
+the five have been lost in launch accidents. A second payload was the
+ARSENE satellite built by the French amateur radio group RACE (Radio
+Amateur Club de L'Espace).  This launch was the first flight of the
+Ariane 42L variant, with two liquid strapon boosters. The basic Ariane 4
+variant without strapons is the 40, which has made two flights. The 42P
+(4 flights) and 44P (2 flights) have two and four liquid strapons; the
+44LP (6 flights)  has two liquids and two solids; and the 44L (13
+flights) has 4 liquid boosters. Ariane 4 has made a total of 28 flights
+of which one was a failure. Its main rival, the Delta II, has now made
+34 flights with no failures.
+
+The latest Delta II flight also marked the 600th launch of  McDonnell
+Douglas' Thor first stage. The Thor started life in 1957 as an
+intermediate range ballistic missile; it is one of the most used large
+rocket stages, beaten only by the Minuteman (about 760 launches of the
+M55A1/M55E1 first stage) and OKB-1's R-7 ICBM (at least 1490 launches,
+of which 1424 put a payload in orbit, since pre-Sputnik suborbital tests
+in 1957 to the Apr 27 launch of Kosmos-2243). 
+
+The Delta's payload was a Rockwell Navstar navigation satellite GPS/SVN 37, 
+which carries an atomic clock and operates in a 20000 km high circular orbit.
+The last Navstar launch, GPS/SVN 31, carried an interesting secondary
+payload, the SEDS tether experiment. Enrico Lorenzini,
+one of the scientists involved in the experiment, graciously gave me some 
+technical details on the mission, so I include a detailed recap of the flight
+below. Opinions and errors are, of course, mine.
+
+
+
+The SEDS 1 Mission
+-------------------
+
+Space tethers were experimented with on the Gemini XI and XII missions
+in 1966 with the idea of eventually using them to provide artificial
+gravity. At the time the true potential of space tethers was not
+understood. Recent theoretical work has led to the idea that long
+tethers can be used to generate electricity, alter a spacecraft's orbit,
+and deliver probes to study the upper atmosphere. In August 1992 an
+ambitious Italian Space Agency experiment on the Shuttle, TSS-1,
+attempted to deploy a long tether. However, there were problems with the
+deployer mechanism and the tether only got out to a quarter of a
+kilometre. Although a lot was learned about tether dynamics during
+retrieval - a time when the tether is least controllable - the mission
+was a failure. The first fully successful tether mission was carried out
+on 1993 Mar 30. The SEDS (Small Expendable Deployer System) consisted of
+a small 10 kg deployer cylinder 33 cm long and a tiny 23 kg satellite
+(`end mass') of similar size. The satellite was connected to the
+cylinder by a rope made of Spectra-1000 which was 0.75 mm in diameter
+and 20 km long. The cylinder remained attached to the Delta second stage
+rocket in orbit. Here is a log of the mission events.
+
+1993 Mar 30
+Time (UTC)
+0309   A Delta model 7925 launch vehicle, Delta 219,
+       ignited on Launch  Complex 17A at Cape Canaveral. 9 solid Hercules GEM
+       strapon boosters and an Extra Extended Long Tank Thor liquid first stage
+       propelled the Delta onto a suborbital trajectory. 
+0314?  The Delta ignited its single Aerojet AJ10-118K engine for the first time. 
+0320?  Delta main engine cut off; the spacecraft entered a 184 x 746 km orbit 
+       inclined 34.0 deg to the equator. 
+0321?  The Delta's main payload separated: a PAM-D solid rocket carrying the 
+       Navstar GPS 31 navigation satellite. 
+0330?  The PAM-D ignited, placing itself and GPS 31 in an elliptical 
+       150 x 20415 km orbit inclined 34.8 degrees. The GPS 31 would later
+       fire its internal Star 37 solid motor to end up in a 20000 km circular
+       orbit.
+0412   Delta 219 reached first apogee at 746 km. The SEDS-1 end mass was
+       released from the deployer cylinder and began to unreel down towards
+       Earth.
+0527   The SEDS-1 end mass was now 20 km below Delta 219 - at the end
+       of its tether (pun intended). The end mass was allowed to swing
+       back and forth on the tether like a huge pendulum so its dynamics
+       could be studied.
+0541   A knife on the deployer cylinder aboard Delta 219 cut through the
+       tether, while Delta 219 was at its second apogee. The end mass
+       now found itself free in orbit at an altitude of 726 km. 
+       However, the combination of the backwards speed it picked up 
+       while swinging on the tether and the lower altitude meant that 
+       its new orbit was -50 x 726 km x 34.0 deg, with a perigee 50 km
+       below the surface of the Earth.
+0612   Delta 219 reignited its main engine to use up excess fuel. Earlier
+       Deltas had exploded in orbit because of leftover fuel, so this
+       maneuver was introduced to reduce the pollution of orbital debris.
+       The Delta ended up in a 305 x 1300 km orbit inclined 36.2 deg.
+0616   The path of the SEDS end mass, following its orbital trajectory, 
+       intersected the atmosphere 100 km above the Pacific Ocean just
+       south of Baja California. The end mass and the attached tether
+       burned up on reentry, and the SEDS 1 mission was at an end.
+
+The SEDS system was developed and  built by NASA-Marshall, the
+Harvard-Smithsonian Center for Astrophysics, and Tether Applications of
+San Diego, CA; the end mass was built by NASA-Langley. A second SEDS
+mission this summer will investigate the electromagnetic properties of
+space tethers.
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-58
+OV-103 Discovery       OPF Bay 3     STS-51
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LC39B         STS-57
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/                   
+ML2/STS-57/ET/OV-105   LC39B
+ML3/                   
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu        |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+ 
+
+

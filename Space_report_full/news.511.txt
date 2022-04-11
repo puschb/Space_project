@@ -1,0 +1,119 @@
+Jonathan's Space Report
+No. 511                                            2003 Oct 9, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Travel
+------
+
+All the most interesting events in space happen while I'm away on
+travel. In the next 10 days we expect the launch of the first Chinese
+astronaut aboard Shenzhou-5 and the launch of Soyuz TMA-3 with the
+Expedition 8 crew. However, I will have only intermittent access to the
+net while I am in Strasbourg and Darmstadt, and the JSR website will
+probably not be updated; expect full reports in late October.
+
+
+Shuttle and Station
+--------------------
+
+Progress M1-10 has been deorbited. It undocked from the Station on Sep 4
+and has spent a month on an Earth Observation mission. The deorbit
+engine ignited at 1126 UTC on Oct 3 from a 247 x 340 km x 51.6 deg
+orbit, reducing it to approximately 69 x 253 km. Progress M1-10
+reentered the atmosphere over the Pacific  at 1158 UTC and broke up
+around 1205 UTC.
+
+NASA is now scheduling the STS-114 return-to-flight mission for 2004 Sep
+12, with the STS-121 followon mission on 2004 Nov 15. This schedule
+is likely to change further.
+
+Recent Launches
+---------------
+
+Panamsat's Galaxy 13/Horizons-1 satellite was launched on Oct 1 by a
+Boeing Sea Launch Zenit-3SL rocket from the floating Odyssey platform at
+154W 0N in the Pacific. The satellite carries both C-band and Ku-band
+communications payloads. The C-band payload is referred to as Galaxy 13;
+the Ku-band payload is jointly owned by Panamsat and the Japanese JSAT
+company and is called Horizons-1; this latter will help carry digital
+data services between the Americas and Asia via a relay station in
+Hawaii. The satellite is a Boeing 601HP model. 
+
+The Yuzhnoe Zenit-3SL second stage separated in a -1917 x 185 km x 0 deg
+suborbital path 8 min after launch and fell back to the Pacific. The
+Energiya Blok DM-SL upper stage  reached an initial 180 x 8353 km x 0
+deg parking orbit 16 min after launch, then restarted and separated from
+the payload 1 hour after launch in a 2396 x 35751 km x 0.04 deg
+geostationary  transfer orbit.  Launch mass was 4090 kg.
+
+As of Oct 8, most of the Ariane 516 payloads were still recorded in their
+initial orbits by Space Command, although Insat 3E is known to have made
+several orbit raising burns and is now in a geostationary drift
+orbit. The e-Bird satellite fired its apogee motor at about 1025 UTC
+on Sep 30.
+
+75 debris objects, SSN 27964-28038, have been cataloged from the
+explosion of a small Proton SOZ ullage rocket in orbit. Each Energiya
+Blok DM class upper stage uses two small liquid motors to accelerate the
+stage and push propellant to the back of the tanks before starting the
+main engine for the DM's second burn. In most variants of the stage,
+these ullage rockets, called SOZ (sistema obespecheniya zapuska), are
+ejected as soon as the main engine reaches full thrust and remain in the
+transfer orbit. Over the years materials in the SOZ can degrade and
+allow leftover fuel and oxidizer to mix, causing an explosion. In this
+particular case, Proton 349-02 was launched from Baykonur on 1988 Sep 16
+at 0200 UTC and placed a payload section in orbit consisting of the
+upper stage, Blok DM2 11S861 No. 43L,  and three Uragan navigation
+satelites, Nos. 42L, 43L and 44L, given the cover names Kosmos-1970,
+1971 and 1972 after launch. The DM2 fired to enter an eccentric orbit
+with an apogee of 19100 km and then at apogee the SOZ units fired,
+separated into a 413 x 19112 km x 64.9 deg orbit, and the DM2 fired to
+circularize the orbit and release the Uragans.  The two SOZ units were
+cataloged as 19535/1988-85F and 19537/1988-85G. Since the demise of
+NASA's quarterly orbital debris report, there's no source that
+identifies the origin of orbital debris - hopefully some reader with
+good orbit propagation software can figure out which of the two objects
+was the source of the explosion. The debris objects are in orbits of
+400-760 x 18100-18850 km x 65.2-65.7 deg; In September SOZ-1 1988-85F
+was in a 717 x 18510 km x 65.3 deg orbit, and SOZ-2 1988-85G was in a
+713 x 18327 km x 65.2 deg orbit. SOZ-1 hasn't had any new orbital data
+since Aug 23, so it seems a reasonable guess that it is the one that
+exploded. The explosion occurred between mid August and Sep 9.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Sep  9 0429   USA 171           Titan 4B/Centaur Canaveral SLC40  Sigint     41A
+Sep 16        PS2               KT-1            Taiyuan           Test       F01
+Sep 27 0612   STSat-1      )                                      Astronomy  42A
+              UK-DMC       )                                      Imaging    42
+              NigeriaSat-1 )    Kosmos-3M       Plesetsk LC132    Imaging    42
+              BILSAT-1     )                                      Imaging    42
+              Mozhaets-4   )                                      Comms?     42
+              Larets       )                                      Calib?     42
+              Rubin-4-DSI  )                                      Test       42
+Sep 27 2314   Insat 3E  )       Ariane 5G       Kourou ELA3       Comms      43E
+              e-Bird    )                                         Comms      43B
+              SMART-1   )                                         Lunar      43
+Oct  1 0403   Galaxy 13         Zenit-3SL       SL Odyssey        Comms      44A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  1 Fitchburg St C-205              |                                    |
+|  Somerville MA 02143               |                                    |
+|    and                             |                                    |
+|  Center for Astrophysics,          |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+

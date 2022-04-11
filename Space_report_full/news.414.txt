@@ -1,0 +1,193 @@
+Jonathan's Space Report
+No. 414                                            1999 Dec 12 Cambridge, MA
+-------------------------------------------------------------------------------
+
+The European Space Agency's XMM satellite is in orbit. The fourth Ariane
+5 launch (and the first commercial flight) took off on schedule from
+Kourou on Dec 10 at 1432 UTC. The initial version of the Ariane 5 EPS
+upper stage can only make a single burn, so mission 504 flew an unusual
+direct ascent trajectory to its highly elliptical orbit. The EPC main
+stage separated at 1442 UTC in a high energy suborbital trajectory with
+a  velocity of around 7.8 km/s, and impact near the Galapagos Islands (I
+don't know what the apogee was). The EPS upper stage ignited and made a
+long 16 minute burn to accelerate the vehicle to over 9 km/s and 1880 km
+altitude. XMM separated from the EPS upper stage at 1501 UTC, and is in
+an 838 x 112473 km x 40.0 deg transfer orbit, very close to the planned
+one. The first apogee burn will be on Dec 11.  Space Command have
+cataloged the spacecraft as  1999-66A (although the listing calls it
+MMX!)
+
+This mission, Ariane 504 or flight V119, was the second fully successful
+flight for Ariane 5, which is a completely new launch vehicle (Ariane 4
+is basically an upgraded version of Ariane 1, 2 and 3). The first Ariane
+5 flight ended in disaster, with the Cluster science payload ending up
+in the mangrove swamp next to the launch pad. The second flight had a
+relatively minor roll problem which left the experimental payload in an
+orbit which was thousands of kilometers lower than planned. The third
+flight placed the ARD capsule on its planned suborbital trajectory and
+put a dummy satellite in geostationary transfer orbit. The first two
+test missions were carried out under the auspices of  the European Space
+Agency (ESA); Ariane 503 was owned and launched by the commercial
+Arianespace launch provider, but counted as a test mission, while XMM is
+Arianespace's first commercial contract to fly on Ariane 5, albeit with
+ESA as the customer. The success of flight V119 will bolster confidence
+that the early problems with the vehicle are behind it, and 2000 should
+see a ramp up of commercial geostationary comsat launches on Ariane 5.
+
+The Ariane 5 vehicle consists of two EAP (Etage d'Acceleration a Poudre)
+solid boosters, the EPC (Etage Principal Cryogenique) main stage which
+features the LH2/LOX high energy 1145 kN Snecma Vulcain engine, and the
+EPS (Etage a Propergols Stockables) upper stage with the 29 kN Aestus
+engine burning hydrazine and nitrogen tetroxide. The large nose fairing
+covers EPS and the payload. The only other launch vehicles with a
+liquid hydrogen first stage are the Shuttle and Japan's H-2.
+
+XMM (X-ray Multi-Mirror Mission), built by DaimlerChrysler Dornier
+Satellitensystem, is a large X-ray  observatory which will complement
+NASA's Chandra X-ray Observatory. XMM has larger collecting area but
+poorer spatial resolution, so it will be better at getting detailed
+spectra of bright and moderately faint X-ray sources, while Chandra will
+be better at detecting the very faintest X-ray sources and at
+distinguishing spectral details in different parts of a source (for
+instance, separating a pulsar from a supernova remnant or a quasar from
+a cluster of galaxies). The claim on the ESA web site that XMM "will see
+infinitely more than any previous X-ray satellite" 
+(http://www.estec.esa.nl/spdwww/xmm/factsheet.html) is an embarrassingly
+ridiculous misstatement, but I certainly expect XMM to make many
+important discoveries and be one of the most important space science
+missions of the coming decade.
+
+XMM has three similar X-ray telescopes. One of the telescopes images
+directly onto the EPIC-pn CCD camera; the other two have Reflection
+Grating Spectrometers (RGS) which split the light, sending images
+to the EPIC-MOS cameras and dispersed spectra to the RFC-MOS cameras.
+XMM also carries an 0.30-meter aperture optical/ultraviolet telescope,
+the Optical Monitor, which will allow simultaneous measurements
+of the optical and ultraviolet light from the source being studied
+with the X-ray telescopes.
+
+XMM's hydrazine propulsion system has eight 22N thrusters which will be
+used to raise the perigee to around 7000 km. Dry mass of XMM is 3234 kg,
+and it carries 530 kg of hydrazine fuel at launch. Control of the XMM
+spacecraft will be from ESOC/Darmstadt, while the instruments will be
+controlled from the VILSPA/Madrid station. The instruments will not be
+fully activated until early next year, when XMM is in its final orbit
+and VILSPA is ready for operation, so it will be a while before we know
+whether the telescope is working correctly. The Leicester University
+X-ray group will support the scientific analysis of data from XMM.
+There's a strong heritage of world-class X-ray astronomy in Europe, with
+the British groups at Leicester and Mullard Space Science Lab flying
+early sounding rockets and the Ariel 5 satellite in the 1970s and the
+Birmingham group (TTM/Kvant), the Utrecht group and the ESA team at
+ESTEC in Holland, the German groups at MPE/Garching (ROSAT) and now
+AIP/Potsdam, and a number of institutes (Milano, Bologna, Palermo, Roma)
+in Italy (BeppoSAX), as well as a bunch of places that don't do hardware
+but are very strong in data analysis and theory, like Andy Fabian's team
+in Cambridge. Oh, and let's not forget the Danes and Toulouse and
+Southampton and  ... I'm sure whoever else I left out will remind me in
+no uncertain terms. The point is that while in many fields of space
+exploration Europe plays second rank to the US, in X-ray astronomy it's
+- in my opinion - an equal partner. 
+
+
+Brazil ran into more bad luck on Dec 11 when the second launch of its
+VLS-1 rocket met a similar fate to the first one. Three minutes after
+launch the second stage failed to ignite and the vehicle went off
+course. It was destroyed by range safety command. On the previous
+mission, the strapons on the first stage failed, so at least on this
+flight the Brazilian team were able to test the first stage
+successfully. VLS-1 mission V02 carried a research satellite, SACI-2.
+
+A USAF weather satellite in the Defense Meteorological Satellite Program
+(DMSP)  was launched from Vandenberg on Dec 12. The first Block 5D-3
+model, satellite F-15 was placed in a suborbital trajectory by a
+two-stage Titan 23G, a refurbished Titan II ICBM. The Star 37S kick
+motor on the satellite fired  13 min after launch for orbit insertion.
+DMSP 5D F-15 is now in an 837 x 851 km x 98.9 deg orbit. The spacecraft,
+built by Lockheed Martin/Valley Forge, is similar in design to the
+civilian NOAA weather satellites.
+
+The Orbcomm Pegasus launch took off from Runway 22 at Wallops at 1756
+UTC on Dec 3, and drop was at 1853 UTC. Thanks to Justin Ray of
+www.spaceflightnow.com (an excellent site) for the info; apparently the
+new Orbcomm satellites are slightly more massive that the earlier ones -
+probably around 45 kg.
+
+The Oldest Spacecraft - Errata
+-------------------------------
+
+ Pioneer 11 shouldn't have been in the list, it's been silent since
+1995, and I omitted Nozomi which should have been there. I am informed
+TVSAT 2 was switched off on 1999 Oct 5, and that NOAA 10 (and possibly
+NOAA 9) is still alive. Thanks to all those who caught the errors. 
+
+The surviving Marisat is actually Marisat 102, launched Oct 1976, and is
+qowned by Comsat General Corp, not INMARSAT (at one time INMARSAT used to
+lease the C and L band capacity). It is the oldest commercial satellite
+still in operation, and is a Hughes HS-356  (basically the same design
+as the HS-333 used for Anik A and Westar).
+  
+The IMP 8 and LES-9 satellites are confirmed to be still working, and
+there is a report that Navy Navigation Satellite O-2 (sometimes
+incorrectly referred to as Transit 5B-5), which was launched in 1964,
+may still be transmitting. A number of spacecraft, like Giotto, are
+believed to be still workable but are currently dormant.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov 13 2255   GE 4              Ariane 44LP    Kourou ELA2      Comsat     60A
+Nov 15 0729   MTSAT             H-2            Tanegashima      Comsat     F04
+Nov 19 2230   Shenzhou          Chang Zheng 2F Jiuquan          Spaceship  61A
+Nov 22 1620   Globalstar 29 )   Soyuz-Ikar     Baykonur LC1     Comsat     62A
+              Globalstar 34 )                                   Comsat     62B
+              Globalstar 39 )                                   Comsat     62C
+              Globalstar 61 )                                   Comsat     62D
+Nov 23 0406   UHF F/O F10       Atlas 2A       Canaveral SLC36B Comsat     63A
+Dec  3 1622   Helios 1B  )      Ariane 40      Kourou ELA2      Imaging    64A
+              Clementine )                                      Sigint     64B
+Dec  3 1951   Mars Polar Lander                MPL Cruise Stage Lander     01D?
+Dec  3 1951   Scott Probe   )                  MPL Cruise Stage Lander     01E?
+              Amundsen Probe)                                   Lander     01F?
+Dec  4 1853   Orbcomm FM30 )    Pegasus XL/HAPS Wallops         Comsat     65A
+              Orbcomm FM31 )                                    Comsat     65B
+              Orbcomm FM32 )                                    Comsat     65C
+              Orbcomm FM33 )                                    Comsat     65D
+              Orbcomm FM34 )                                    Comsat     65E
+              Orbcomm FM35 )                                    Comsat     65F
+              Orbcomm FM36 )                                    Comsat     65G
+Dec 10 1432   XMM               Ariane 5       Kourou ELA3      Astronomy  66A
+Dec 11 1830   SACI-2            VLS            Alcantara        Research   F05
+Dec 12 1738   DMSP 5D-3 F-15    Titan 23G      Vandenberg SLC4W Weather    67A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       LC39B         STS-103 1999 Dec 11  HST SM-3A
+OV-104 Atlantis        OPF Bay 3     STS-101 2000 Mar 16  ISS
+OV-105 Endeavour       VAB Bay 1     STS-99  2000 Jan 13  SRTM
+
+MLP1/
+MLP2/RSRM-73/ET-101/OV-103     LC39B
+MLP3/RSRM-71?/ET?/OV-105       VAB Bay 1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

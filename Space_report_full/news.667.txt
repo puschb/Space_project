@@ -1,0 +1,184 @@
+Jonathan's Space Report
+No. 667                                            2012 Sep 17  Somerville, MA USA
+----------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+On Sep 12 the Japanese HTV-3 cargo ship was unberthed by the SSRMS arm
+at about 1202 UTC and released into space at 1550 UTC. After one of
+HTV-3's onboard computers failed, a planned small separation burn was
+replaced by a much larger abort burn which safely and rapidly separated
+HTV-3 from the vicinity of the ISS. HTV-3 was successfully deorbited
+over the Pacific on Sep 14.
+
+On Sep 16 at 2309 UTC Soyuz TMA-04M undocked from Poisk carrying
+Expedition 32 crew Gennadiy Padalka, Sergey Revin and Joe Acaba, marking
+the beginning of ISS Expedition 33 under the command of NASA's Capt. Sunita Lyn
+Williams, USN, with crewmembers Flight Engineer-4 Yuriy Malenchenko
+(Roskosmos) and Flight Engineer-6 Akihiko Hoshide (JAXA). 
+
+According to Wikipedia (I haven't managed to confirm this from other
+sources) the full original name of Ohio-born Capt. Williams was Sunita
+Pandya Krishna; her father's surname is Pandya so the Krishna should be
+considered a suffix. Williams' first flight was on STS-116/Expedition
+14-15; she is the second woman to command a space station, following
+Peggy Whitson.
+
+Soyuz TMA-04M flew for 2h 47 min in a 403 x 426 km orbit, and then
+at 0156 UTC on Sep 17 fired its deorbit engine to enter a 13 x 425 km
+entry orbit. The three Soyuz modules separated at 0225 UTC. At around
+0230 UTC the BO and PAO (orbital and service modules) burnt up in
+the atmosphere as the SA (descent module) performed a controlled entry.
+The spacecraft landed in Kazakhstan at 0235 UTC.
+
+
+SPOT 6
+------
+
+On Sep 9 India launched PSLV-C21 from the Satish Dhawan Space Center on
+Sriharikota Island into a 640 x 647 km x 98.2 deg, 10:00LT
+sun-synchronous polar orbit. The main payload was the 712 kg SPOT 6
+Earth observing satellite built by Astrium/Toulouse for Astrium
+subsidiary Spot Image (Toulouse). Earlier SPOT satellites were owned by
+CNES with Spot Image marketing the data.
+
+A secondary payload, the 15 kg PROITERES, was also deployed.
+PROITERES (Project of Osaka Inst. of Technology Electric Rocket Engine aboard
+small Spaceship) carries a pulsed plasma thruster experiment.
+
+NROL-36
+-------
+
+On Sep 13 United Launch Alliance flew a Lockheed Martin Atlas V 401, serial
+AV-033, from Vandenberg Air Force Base. The main payload is thought to be a
+pair of Navy signals intelligence satellites deployed in a 1010 x 1200
+km x 63.4 deg orbit after the second Centaur burn. (The primary satellite is
+USA 238; the secondary satellite has not yet been cataloged and may not
+have separated yet). This series of satellites is thought to be the modern
+successor to NRL's GRAB/POPPY/PARCAE satellites, first launched in 1960.
+
+The Centaur then made two further burns to 470 x 780 km x 64.7 deg. The
+Centaur second stage carries the OUTSat secondary payload which ejected
+11 small 'cubesats,' for a mixture of US military and university customers.
+Of particular interest is CXBN, a Morehead State U. experiment to produce
+an all-sky 30-50 keV hard X-ray cosmic diffuse emission map. The two US
+Army sats in the SMDC-ONE (Operational Nanosatellite Effect) program
+are variously numbered 1.1/1.2 and 2.1/2.2 in different sources.
+
+The OUTSat structure is the NPSCUl launcher developed by the US Naval
+Postgraduate School. It contains 8 P-POD cubesat deployers which ejected
+the individual cubesats, a mixture of 1U (0.1m cube),
+2U (0.1 x 0.1 x 0.2m box) and 3U (0.1 x 0.1 x 0.3m box) payloads, as follows:
+
+  Pod 1 3U SMDC-ONE 1.2     (US Army Space and Missile Defence Command, Huntsville, Alabama)
+                             Comms
+  Pod 3 3U Aeneas           (U. Southern California, Los Angeles and Dept. of Homeland Security)
+                             Cargo container tracking
+  Pod 4 3U CSSWE            (U. Colorado, Boulder)  Colorado Student Space Weather Expt.
+                             Radiation belt electrons and protons
+  Pod 5 1U CP5              (Cal Poly. State U., San Luis Obispo)
+                             Solar sail deorbit technology
+        2U CXBN             (Morehead State U., Morehead, Kentucky)
+                             Cosmic Hard X-ray background
+  Pod 6 3U CINEMA 1         (U Cal. Berkeley)
+                             Magentospheric studies
+  Pod 7 3U Re               (Lawrence Livermore Natl. Lab, California)
+                             Space debris tracking
+  Pod 8 3U SMDC-ONE 1.1     (US Army Space and Missile Defence Command, Huntsville, Alabama)
+                             Comms
+  Pod 2 1U Aerocube 4       (Aerospace Corp., El Segundo, California)
+        1U Aerocube 4A      (Aerospace Corp., El Segundo, California)
+        1U Aerocube 4B      (Aerospace Corp., El Segundo, California)
+
+The payloads were ejected in the order Pod 1,3,4,5,6,7,8,2. I believe
+the OUTSat remained attached to the Centaur; whether you count it as an
+attached secondary payload or a  non-payload piece of hardware is a
+matter of taste, but I'll count it as a payload.
+
+Since their first flight in 2003, 102 Cubesats have been launched: 2
+suborbital, 19 launch failures (4 exoatmospheric),  and 81 orbital. Of
+these, 60 are still in orbit. This includes two attached pairs,
+M-Cubed/E1PU2 and STARS-1, and five cubesats currently aboard the Kibo module
+which should be deployed later this month.
+
+
+Errata
+-------
+
+Thanks to the editor of the German translation of JSR  for spotting
+the typo in Sunita Williams' surname in the last few issues. Amazing how
+many times one can look at an error and not spot it. A reminder to my
+loyal readers that they are encouraged to point out to me typos and
+mistakes of all kinds.
+
+Armstrong and Aldrin landed just 20 seconds before they would have been told
+to abort due to low fuel readings. However, Henry Spencer points out that it
+later turned out they had 63.5 seconds of hover time remaining.
+
+And of course, Jim Lovell was Capt USN (Ret.), not USAF - apologies for that
+cut-and-paste error.
+
+Suborbital flights
+------------------
+
+A US Army/Orbital Juno target missile was launched from Fort Wingate to White
+Sands on Sep 13; the Juno is similar to the old Hera and like it has
+an SR19 motor topped with an M57A1 motor, both old Minuteman stages.
+NASA launched a Terrier Lynx from Wallops on Sep 11 on a military mission
+but neither the flight number nor the DoD customer has been identified. Previous 
+Terrier Lynx flights have been for the Naval Air Warfare Center and the Missile
+Defense Agency.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Aug  1 1935   Progress M-16M     Soyuz-U           Baykonur LC1      Cargo     42A
+Aug  2 2054   Intelsat IS-20 )   Ariane 5ECA       Kourou ELA3       Comms     43A
+              Hylas 2        )                                       Comms     43B
+Aug  6 1931   Telkom-3    )      Proton-M/Briz-M   Baykonur LC81/24  Comms     44A
+              Ekspress MD2)                                          Comms     44B
+Aug 19 0655   Intelsat IS-21     Zenit-3SL         SL Odyssey, Pacific Comms   45A
+Aug 20 1829   Sfera-53           -                 ISS, LEO          Sci       98-067CM
+Aug 30 0805   RBSP A )           Atlas V 401       Canaveral SLC41   Sci       46A
+              RBSP B )                                               Sci       46B
+Sep  9 0423   SPOT 6    )        PSLV-CA           Sriharikota LP1   Imaging   47A
+              PROITERES )                                            Tech      47B
+Sep 13 2139   USA 238?      )    Atlas V 401       Vandenberg SLC3E  Sigint    48A
+              OUTSat        )                                        Tech      48N
+              SMDC-ONE 1.2  )                                        Comms     48B
+              Aeneas        )                                        Comms     48C
+              CSSWE         )                                        Sci       48D
+              CXBN          )                                        XR Astron 48E
+              CP5           )                                        Tech      48F
+              CINEMA 1      )                                        Sci       48G
+              Re/STARE      )                                        Tracking  48H
+              SMDC-ONE 1.1  )                                        Comms     48J
+              Aerocube-4    )                                        Tech?     48M
+              Aerocube-4.5A )                                        Tech?     48K
+              Aerocube-4.5B )                                        Tech?     48L
+              USA 238 P/L 2?)                                        Sigint    48
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Aug  7 0730   S-310-41         S-310              Uchinoura           Reentry test 150
+Aug  9 0316   Agni RV          Agni II            Chandipur           Test         220?
+Sep 12        Radar target?    Terrier Lynx       Wallops Island      Target?      300?
+Sep 13 1230   Patriot Target   Juno               Fort Wingate        Target       100?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

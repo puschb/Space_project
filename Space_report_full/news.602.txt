@@ -1,0 +1,255 @@
+
+Jonathan's Space Report
+No. 602                                2008 Oct 26, Baltimore/STScI, Maryland
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Soyuz TMA-13 was launched at 0701 UTC on Oct 12 and reached orbit at
+0710 UTC. Commander is Yuriy Lonchakov, flight engineer is Michael
+Fincke, and in the third seat is spaceflight participant (tourist)
+Richard Garriott. Garriott is the son of of Skylab astronaut Owen
+Garriott. Once on board the Station, Garriott consituted ISS visiting
+crew EP-15; Fincke is commander of Expedition 18, with Lonchakov as
+flight engineer. The TMA-13 callsign is 'Titan'.
+
+Soyuz TMA-13 is spacecraft production number 11F732 No. 223, and is
+flying ISS mission 17S. TMA-13 docked at the Zarya nadir port
+at 0826 UTC on Oct 14.
+
+Soyuz TMA-12 undocked from Pirs at 0016 UTC on Oct 24, with
+Volkov, Kononenko and Garriott aboard. The spacecraft landed
+safely in the target zone at 0337 UTC.
+
+
+Chandraayan-1
+--------------
+
+India's first lunar probe, Chandrayaan-1, was launched by PSLV flight
+C11 from Sriharikota on Oct 22. Launch was at 0052 UTC into a 225 x
+22817 km x 17.9 deg initial orbit; the craft will use its own engines to
+inject itself on a translunar trajectory. An initial burn has raised
+the orbit to 301 x 37830 km.
+
+The probe has instruments from India, the US and Europe and will
+enter lunar orbit. A small Moon Impact Probe will be ejected toward
+the lunar surface.
+
+
+IBEX
+----
+
+NASA's Interstellar Boundary Explorer, IBEX, was launched on Oct 19
+by an Orbital Sciences Pegasus XL.
+
+IBEX carries two ENA (Energetic Neutral Atom) cameras, to map out
+the boundary of the heliosphere (the edge of the solar system where
+the solar wind meets the interstellar medium). Shocks at the heliospheric
+boundary accelerate neutral atoms to high speeds; those atoms travel
+in straight lines, so the IBEX detectors in high Earth orbit
+can tell which direction they came from, and make an all-sky map 
+of the less and more energetic parts of the heliosphere.
+
+The L-1011 aircraft took off from RW06/24 at Kwajalein, 1651 UTC Oct 19.
+The mission events were as follows, based on the prelaunch info from
+Justin Ray on spaceflightnow.com and my own timings from the webcast:
+
+- Pegasus Drop at 1747:22.64 UTC over 167.6E 10.5N, azimuth 81.5 deg
+- Stage 1 ignition 1747:28
+- Stage 1 burnout  Drop + 1:21
+- Stage 1 sep      Drop + 1:30
+- Stage 2 burn     Drop + 1:33
+- Fairing sep      Drop + 2:18
+- Stage 2 burnout  Drop + 2:47
+- Stage 2 sep      Drop + 4:57 ?
+ - Stage 3 burn     Drop + 5:05
+- Stage 3 burnout  Drop + 6:22
+  Orbit insertion at 200 x 200 km x 11 deg
+- Stage 3 spinup   Drop + 7:47
+- Stage 3 sep      Drop + 8:22
+- Adapter cone sep       - Unknown, guessing Drop + 8:25?
+- Star 27H motor burn    - Unknown, guessing Drop + 8:30?
+- Star 27H motor burnout - Unknown, guessing Drop + 9:16?
+- Star 27H sep from IBEX - Unknown, guessing Drop + 12:38?
+
+This leaves four objects in orbit:
+ (1)  Stage 3 Orion 38 motor, in 210 x 413 km x 11 deg orbit
+    Mass probably 202 kg, cylinder + nozzle size 1.4m long 1.0m dia
+
+ (2)  Adapter cone, in 210 x 413 km x 11 deg orbit
+    Mass unknown, maybe around 10 kg,
+      cone frustrum size 0.6m long 0.7 to 1.0m dia
+
+ (3)  Star 27H (TE-M-1157) motor, in 219 x 250281 km x 11.0 deg orbit.
+    Mass 27 kg size 1.2m long 0.7m dia.
+    Initial mass was 368 kg prior to ignition of solid propellant
+    The motor may reenter around Oct 25 after its first orbit.
+
+ (4)  IBEX spacecraft, in 219 x 250281 km x 11.0 deg orbit
+    Mass 107 kg full 80 kg dry, octagonal cyl. size 0.6m high 1.0m dia
+    based on Orbital Microstar bus.
+    Reached first apogee around 0100 UTC on Oct 22.
+    Will use hydrazine thruster to raise perigee to 7000 km.
+
+My mass estimates total 485 kg for items 2,3,4 prior to SRM ignition,
+which is a little larger than the 462 kg reported by NASA.
+
+
+COSMO-Skymed 3
+--------------
+
+A Boeing Delta 2 launched Italy's third COSMO civil/military radar
+satellite on Oct 25. The 1900 kg COSMO 3 carries an X-band synthetic
+aperture radar. Planned orbit was 620 x 637 km x 97.8 deg; initial
+orbit appears to be 621 x 624 km, with the Delta stage orbit
+lowered to 189 x 621 km after propellant depletion.
+
+SJ-6
+----
+
+Xinhua reports that the third pair of Shi Jian 6 satellites were
+launched on Oct 25  at 0115 UTC. It has been reported that the
+satellites are built by the SAST group in Shanghai and the DFH Co. in
+Beijing, suggesting that in each pair the two satellites are of
+different design. The DFH Co. satellite is probably a CAST-968 300
+kg-class minisatellite, and the SAST satellite might be based on the
+larger FY-1 weather satellite bus.
+
+The SJ6 satellites are described as performing environmental research,,
+but the lack of detailed description raises the suspicion that they
+are actually military surveillance satellites of some kind.
+Orbit of SJ6A-3 and SJ6B-3 is 580 x 604 x 97.7.
+
+
+Russian suborbital launches
+---------------------------
+
+On Oct 12-13 as part of the Stabil'nost'-2008 military exercise,
+Russia launched four long range ballistic missiles.
+
+On Oct 11 (prior to 0905 UTC when the Russian media announced it)
+the submarine K-114 Tula launched a Sineva missile from the Barents Sea
+to an impact area in the equatorial region of the Pacific Ocean, with
+a range of 11500 km. The Sineva usually carries four reentry
+vehicles, although for this maximum range test there may only have been one.
+The Sineva is an improved version of the R-29RM Shtil' missile and
+its designation may be R-29RGU or R-29RMU.
+
+On Oct 12 at 0724 UTC an RT-2PM Topol' missile was launched from the
+GIK-1 Plesetsk spaceport (or, probably, the GNIIP military test range at
+Plesetsk, if that is still a distinct entity - if my Russian friends can
+clarify, please let me know). It probably had a single reentry vehicle,
+and reached the standard Kura impact zone in Kamchatka.
+
+On Oct 12 prior to 0846 UTC, the submarine K-84 Ekaterinburg launched
+a missile from the Barents Sea to the Kura range. Pavel Podvig suggests that
+this is a regular R-29RM Shtil' missile, not the improved Sineva version.
+
+On Oct 12 prior to 0846 UTC, the submarine K-506 Zelenograd launched
+a missile, probably an R-29R Volna with 4 reentry vehicles, from the
+Sea of Okhotsk to the Chizha range in the Kanin peninsula.
+
+Orbital Debris
+--------------
+
+The last cataloged piece of orbital debris from USA 193, the NRO satellite
+destroyed by an Aegis missile, reentered on Oct 9.
+
+Currently cataloged in low orbit are 174 pieces of debris from the
+Russian US-PU satellite Kosmos-2421, which disintegrated on Mar 14; 235
+pieces from the Chinese ZY-1 satellite, which exploded on 2007 Feb 18;
+and 2339 pieces from the Jan 2007 Chinese antisatellite test.
+
+34 pieces of debris from the Briz-M stage which exploded on 2007 Feb 19
+are now cataloged in orbit, but there are probably many more.
+
+The picture changes when we focus on the lowest part of Low Earth Orbit,
+the region below the International Space Station.  Although many
+spacecraft are launched to Low Earth Orbit, they don't usually stay
+there long and the actual population at any one time is surprisingly sparse
+and (except for debris) dominated by human-spaceflight-related activities.
+
+As of Oct 12, these were the spacecraft with an average altitude of 355 km
+or less:
+
+Shenzhou 7 related objects:
+178 x 246 km Shenzhou 7 second stage rocket
+326 x 336 km Shenzhou 7 subsatellite   
+328 x 334 km Shenzhou 7 GC (orbital module)   
+
+ISS related objects:
+235 x 238 km Early Ammonia Servicer
+248 x 266 km Soyuz TMA-13
+325 x 331 km Unidentified debris piece from Jul 11 EVA (1998-67BG)
+350 x 355 km International Space Station
+
+Active payloads:
+321 x 325 km CHAMP gravity research satellite
+
+Other large objects:
+166 x 412 km Delta 335 (GeoEye 1 rocket)
+253 x 374 km S5M stage (Sich 1M rocket)
+310 x 321 km Blok E stage (Kosmos-1093 rocket)
+321 x 340 km Strela stage
+
+Debris:
+53 pieces of debris from Kosmos-2421
+4 other debris objects
+
+So, clearly, the Kosmos-2421 debris is the biggest hazard to
+astronaut-carrying spacecraft at the height of ISS and below. Between
+355 and 450 km, the picture changes slightly: there are a further 108
+pieces of Kosmos-2421 debris and 25 other pieces of debris, 8 rocket
+stages, 6 probably active satellites (Genesat 1, NFIRE, TRMM, Quickbird
+2, Orbview 3, Mimosa) and 10 probably dead ones (Tselina-D, ROSAT, WIRE,
+Tacsat 2, Meteor No. 12, Shtil'-1, Kosmos-1484, Gruzomaket, and DAPP
+12). Above 450 km, LEO quickly gets considerably more crowded.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep  6 0325   Huan Jing-1A )    Chang Zheng 2C   Taiyuan           Imaging   41A
+              Huan Jing-1B )                                       Imaging   41B
+Sep  6 1851   GeoEye-1          Delta 7420       Vandenberg SLC2W  Imaging   42A
+Sep 10 1950   Progress M-65     Soyuz-U          Baykonur LC1/5    Cargo     43A
+Sep 19 2148   Nimiq 4           Proton-M/Briz-M  Baykonur LC200/39 Comms     44A
+Sep 24 0928   Galaxy 19         Zenit-3SL        SL Odyssey        Comms     45A
+Sep 25 0849   Kosmos-2442)      Proton-M/DM-2    Baykonur LC81/24  Nav       46A
+              Kosmos-2443)                                         Nav       46B 
+              Kosmos-2444)                                         Nav       46C 
+Sep 25 1310   Shenzhou 7        Chang Zheng 2F   Jiquan            Spaceship 47A
+Sep 27 1127   Subsatellite                       SZ7, LEO          Tech      47G
+Sep 28 2315   Ratsat            Falcon 1         Omelek            Test      48A
+Oct  1 0637   THEOS             Dnepr            Yasniy            Imaging   49A
+Oct 12 0701   Soyuz TMA-13      Soyuz-FG         Baykonur          Spaceship 50A
+Oct 19 1747   IBEX              Pegasus XL       Kwajalein         Astronomy 51A
+Oct 22 0052   Chandraayan-1     PSLV             Sriharikota     Lunar probe 52A
+Oct 25 0115   SJ-6A-3 )         Chang Zheng 4B   Taiyuan           Unknown   53A  
+              SJ-6B-3 )                                            Unknown   53A
+Oct 25 0228   COSMO 3           Delta 7420-10    Vandenberg SLC2W  Radar     54A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+
+
+
+
+
+
+
+
+
+

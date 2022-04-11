@@ -1,0 +1,143 @@
+Jonathan's Space Report 
+No. 197       1994 May 24
+------------------------------------------------------------------------------
+
+MIR
+---
+
+Progress M-23 was launched May 22 from Baykonur toward the Mir station.
+The older Progress M-22 cargo ferry was deorbited on May 23. Progress
+cargo ships are based on the Soyuz transport spaceship design, but
+carry a fuel section instead of the cosmonaut descent module. They supply
+water, air, food and fuel as well as carry new experiments and equipment
+for the crew. Progress M-23 is scheduled to dock at the port on the
+rear of the Kvant TKM-E astrophysical module.
+
+LAUNCHES
+--------
+
+Launch of the USAF Rome Lab's P91-A (STEP 2) satellite was successfully
+carried out on May 19. The B-52 carrier aircraft took off from RW4/22 at
+Edwards AFB and flew out to the Point Arguello Warning Area over the
+Pacific. The Orbital Sciences Corp. Pegasus was dropped at 1703 UTC and
+all three stages fired placing the payload in orbit. However, the orbit
+achieved was only 603 x 832 km x 82 deg instead of the planned 833 km
+circular orbit. The low perigee is not a huge disaster, the old Scout
+did the same thing a number of times and had the flights counted as
+successes, and most missions would not be seriously affected by this
+sort of anomaly. However, the next Pegasus launch will most likely be
+delayed until the cause of the malfunction is understood and fixed. STEP
+2 was built by TRW and is probably a lightsat in the Eagle series. It will
+study propagation of radio signals through the ionosphere. This Pegasus
+was the fifth of the winged boosters to be launched; all have reached orbit
+although the second one was only partially successful.
+
+Another Gorizont communications satellite for the US company
+Rimsat of Ft. Wayne, Indiana was orbited on May 19 by Proton from Baykonur.
+It will be placed over Eastern Asia at 142.5 deg E. The spacecraft
+is probably owned by AO Informkosmos, a Russian company in which Rimsat
+is a major holder; it is leased by Rimsat.  The satellite, built by
+NPO Prikladnoi Mekhaniki of Krasnoyarsk, has both C and Ku band transponders.
+The first Rimsat Gorizont was launched in November 1993. The first Soviet
+Gorizont satellite was launched in 1978; the series is soon to be replaced by an
+improved spacecraft called Express.
+
+
+Information Wanted
+------------------
+
+This week's JSR Irregulars' Gold Medal goes to Bart de Pontieu (MPE),
+Kelly Beatty (Sky & Tel),  and Mark Shaffer (BAe) for giving me info on
+the IRM kick motor. The AMPTE (Active Magnetospheric Particle Tracer
+Explorers) launch was a complicated one; three
+spacecraft were placed in geostationary transfer orbit by a three-stage
+Delta rocket. The Johns Hopkins APL-built CCE satellite separated and
+fired its Star 13 rocket to move to a lower inclination orbit. The IRM
+satellite, built by the German Max Planck MPE group, then fired its
+Hercules BE-3 motor to raise its apogee to more than 100 000 km. Finally
+the British UKS satellite separated from IRM (UKS didn't have propulsion
+of its own). The IRM satellite created three 'artifical comets' by
+releasing lithium and barium into the magnetosphere.
+
+The BE-3 "Alcyone" rocket has an interesting history, it was originally the
+retro-rocket used to try and land the Block II Ranger probes on the
+Moon in 1962. It was used on the Vela satellites as an apogee motor,
+as the third stage of the Redstone/SPARTA rocket used to launch
+Australia's first satellite WRESAT in 1967, and as the fifth
+stage of the Scout E-1 launch vehicle, used only once in 1974 to
+launch the Hawkeye satellite. This comes to a total of 27 flights that
+I am aware of, any more examples gratefully received.
+
+That question was so successful I'm going to try another fishing
+expedition. Does anyone have any information on the Redstone rockets
+launched in 1966/1967 from San Nicolas Island, CA as part of the US
+Army's Project Defender? I know there was at least one launch in Nov
+1966. The Redstone was the rocket that launched Alan Shepard, and I have
+(partial) details on all its flights except for these Defender launches.
+Even the History Office at Redstone Arsenal had no record of them. Anyone
+with details on the launches from Fort Wingate, please get in touch too,
+as my info on these is pretty sketchy. I have records of 101 Redstone
+launches in all so far.
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Mar 22 0454     Progress M-22   Soyuz-U         Baykonur LC1    Cargo       19A
+Apr  9 1105     Endeavour       Space Shuttle   Kennedy LC39A   Spaceship   20A
+                Space Radar Lab
+Apr 11 0749     Kosmos-2275   ) Proton/DM2      Baykonur LC81   Navigation  21A
+                Kosmos-2276   )                                 Navigation  21B 
+                Kosmos-2277   )                                 Navigation  21C
+Apr 13 0604     GOES 8          Atlas Centaur I Canaveral LC36B Weather     22A
+Apr 23 0802     Kosmos-2278     Zenit-2         Baykonur LC45   SIGINT      23A                                                                                 
+Apr 26 0214     Kosmos-2279     Kosmos-3M       Plesetsk LC133  Navsat      24A
+Apr 28 1714     Kosmos-2280     Soyuz-U         Baykonur LC31   Recon       25A
+May  3 1555     USA-103         Titan Centaur   Canaveral LC41  SIGINT      26A
+May  4 0000     SROSS C2        ASLV            Sriharikota     Science     27A
+May  9 0247     MSTI-2          Scout G-1       Vandenberg SLC5 Technology  28A
+May 19 1703     P91-A (STEP 2)  Pegasus         Point Arguello WA  Science  29A
+May 19 0201     Gorizont/Rimsat Proton/DM2      Baykonur        Comsat      30A
+May 22 0431?    Progress M-23   Soyuz-U         Baykonur        Cargo       31A
+
+
+Reentries
+---------
+
+Mar 23          Progress M-21   Deorbited
+Apr 20          Endeavour       Landed at Edwards AFB
+May  8          SEDS 2 deployer Reentered
+May 21          Kosmos-2274     Reentered
+May 23          Progress M-22   Deorbited
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        OPF Bay 2     STS-65
+OV-103 Discovery       OPF Bay 3     STS-64
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       OPF Bay 1     STS-68
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40                VAB Bay 3 STS-68
+ML2/                       
+ML3/RSRM-39/ET             VAB Bay 1 STS-65
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+
+
+
+

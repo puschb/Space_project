@@ -1,0 +1,161 @@
+Jonathan's Space Report
+No. 563                                        2006 Apr 26, Somerville, MA
+-------------------------------------------------------------------------------
+
+Station
+-------
+
+There's been a lot of traffic at the International Space Station
+over the past month.
+
+The Progress M-54 cargo ship undocked from the Zvezda module on
+Mar 3 at 1006 UTC and fired its engines to reenter over the Pacific at
+1305 UTC. Progress M-55 remains docked to the Pirs module.
+
+At 0649 UTC on Mar 20 McArthur and Tokarev flew Soyuz TMA-7 from the
+Zarya docking port to the docking port at the aft end of Zvezda, with
+docking at 0711 UTC. This leaves Zarya free to welcome Soyuz TMA-8 early
+on Apr 1.
+
+At 0230 UTC on Mar 30 spacecraft Soyuz TMA-8 was launched from Baykonur
+with commander Pavel Vinogradov, NASA astronaut Jeffrey Williams and
+Brazilian astronaut Marcos Pontes. TMA-8 docked with the Zarya nadir
+port at 0419 UTC on Apr 1.
+
+McArthur, Tokarev and Pontes transferred to TMA-7 on Apr 8, closing the
+hatches at 1715 UTC and undocking from Zvezda at 2028 UTC, leaving
+Vinogradov and Williams as Expedition 13 in charge of the station.
+Soyuz TMA-7 fired its engines at 2258 UTC for the deorbit burn
+and landed in Kazakhstan at 2348 UTC.
+
+The Progress M-56 cargo ship was launched on Apr 24
+and is en route for docking with the Zvezda module.
+
+
+Falcon 1
+--------
+
+The first launch of SpaceX's Falcon 1 rocket ended in a failure within
+the first minute of flight (available video ends at about 41s after
+launch with the vehicle heading back down to the ocean). According to SpaceX
+founder Elon Musk, a fuel leak at T+25s caused a fire in the first stage
+engine area. The Falcon 1 was launched from Omelek Island, Kwajalein
+Atoll on Mar 24 carrying the 20 kg Falconsat-2 test/science payload for
+the USAF Academy and DARPA. It's been reported from Kwaj
+(kwajrockets.blogspot.com) that the payload fell back to Earth through
+the roof of SpaceX's machine shop.
+
+
+Arabsat 4A
+-----------
+
+The Arabsat 4A satellite, stranded in transfer orbit by a Krunichev
+Briz-M failure on Feb 28, was removed from orbit on Mar 24. The
+satellite probably fired its apogee engine around 0020 UTC to lower its
+perigee into the atmosphere; according to an MSNBC press report it
+reentered over the South Pacific at 0207 UTC.
+
+
+Space Technology 5
+------------------
+
+Space Technology 5, one of NASA's New Millenium Program projects, was
+launched on 2006 Mar 22. ST5 consists of three small spacecraft 25 kg in
+mass, 0.5m high 0.5m diaemter with a small extensible magnetometer boom.
+The Goddard-built craft will study the magnetosphere, but the main point
+of the project -also known as Nanosat Constellation Trailblazer - is to
+demonstrate fully functional satellites in a very small package. The
+satellites include a cold gas microthruster, and miniaturized
+telemetry/command and power systems.
+
+The Orbital Sciences L-1011 Stargazer carrier aircraft took off
+from RW30/12 at Vandenberg on Mar 22 at 1304 UTC. The Pegasus rocket
+was dropped from the aircraft at 1403 UTC over approximately 123W 36N.
+At 1409 UTC the vehicle reached a 301 x 4568 km x 105.6 deg polar orbit.
+A special dispenser ejected the three satellites.
+
+Venus Express
+--------------
+
+ESA's Venus Express arrived in orbit around Venus on Apr 11. The
+53-minute orbit insertion burn begain at 0710 UTC and left VEx in a
+highly elliptical polar orbit around Venus with an apoapsis of 350000
+km. Orbit lowering is in progress; as of the final main engine burn
+scheduled for  Apr 23 the orbit was expected to be 257 x 70463 km.
+
+JCSAT-9
+-------
+
+On Apr 12 Sea Launch orbited the JCSAT-9 communications satellite using
+a Zenit-3SL rocket. JCSAT-9, built by Lockheed Martin using an A2100AX
+bus, will provide comms services for the Japanese JSAT company. The
+satellite was placed in an initial 1710 x  35667 km x 0.04 deg orbit.
+By Apr 23 it was in a 35664 x 35769 km x 0.03 deg orbit drifting
+over 130 deg E.
+
+FORMOSAT-3
+----------
+
+The US-Taiwanese FORMOSAT-3 mission was launched on Apr 15 by a Orbital
+Sciences Minotaur from Vandenberg Air Force Base. FORMOSAT-3 consists of
+six small 62 kg Orbcomm-type satellites with GPS receivers which will measure
+atmospheric conditions by studying the effect of the atmosphere on GPS
+satellite signals passing through it. The satellites, also known as
+COSMIC (Constellation Observing System for Meteorology, Ionosphere and
+Climate), will eventually be positioned in equally spaced orbit planes
+at around 800 km altitude. Initial orbits were around 500 x 540 km x 72
+deg.
+
+EROS B
+------
+
+A new 290 kg satellite for the Israeli ImageSat company (incorporated in the
+Cayman Is.) was launched on Apr 25 by a Russian Start-1 solid launch
+vehicle from the far Eastern launch base at Svobodniy into a 503 x 513 km
+x 97.3 deg orbit.
+
+Astra 1KR
+---------
+
+Lockheed Martin launched an Atlas V 411, serial AV-008, from Cape
+Canaveral on Apr 20. The unusual long first Centaur burn went to a 167 x
+22442 km x 24.8 deg transfer orbit, followed by  a second burn to 6470 x
+36240 km x 23.8 deg. The payload, a Lockheed Martin A2100 Ku-band comms
+satellite for SES Astra, will use its own propulsion to head for
+geostationary orbit.
+
+Note:  The Dawn mission (JSR 562) has now been uncancelled...
+-----
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar 11 2233   Hotbird 7A )      Ariane 5 ECA    Kourou ELA3      Comms       07A
+              Spainsat   )
+Mar 22 1403   ST5-FWD )         Pegasus XL      L1011,WTR        Tech        08A
+              ST5-MID )                                                      08B
+              ST5-AFT )                                                      08C
+Mar 24 2230   Falconsat-2       Falcon 1        Omelek           Tech        F01
+Mar 30 0230   Soyuz TMA-8       Soyuz-FG        Baykonur LC1     Spaceship   09A
+Apr 12 2330   JCSAT-9           Zenit-3SL       Odyssey, POR     Comms       10A
+Apr 15 0140   Formosat-3 FM1 )  Minotaur        Vandenberg SLC8  Science     11A
+              Formosat-3 FM2 )                                   Science     11B
+              Formosat-3 FM3 )                                   Science     11C
+              Formosat-3 FM4 )                                   Science     11D
+              Formosat-3 FM5 )                                   Science     11E
+              Formosat-3 FM6 )                                   Science     11F
+Apr 20 2027   Astra 1KR         Atlas V 411     Canaveral SLC41  Comms       12A
+Apr 24 1603   Progress M-56     Soyuz-U         Baykonur LC1     Cargo       13A
+Apr 25 1647   EROS B            Start-1         Svobodniy        Imaging     14A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+---------------------------------------------------------------------------

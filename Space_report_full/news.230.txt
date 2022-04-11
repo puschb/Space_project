@@ -1,0 +1,145 @@
+Jonathan's Space Report 
+No. 230               1995 Feb 11              Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+--------
+
+The STS-63 mission was completed successfully on Feb 11. Discovery
+deployed the six ODERACS calibration objects on Feb 4 at 0457. Next, the
+RMS arm was used to move Spartan-204 around the payload bay making
+ultraviolet spectra of Shuttle glow (the interaction of the Orbiter with
+the upper atmosphere) and reaction control jet firings. Spartan-204 was
+unberthed at around 0600 on Feb 4 and reberthed on the Spartan Flight
+Support Structure by around 1100 (?). 
+
+On Feb 6 at 1416, 1502 and 1637 UTC Discovery made the final burns in
+the Mir rendezvous, arriving at 120m from Mir at about 1816 UTC. After
+stationkeeping at that distance, the crew were given the go to proceed
+in to a close approach (a leaky thruster had been shut off). The body of
+the Shuttle was  parallel to the core of the Mir station, with the bay
+facing the Kristall module where Atlantis will dock in June. On the
+STS-63 flight the Orbiter Docking System is replaced by a Spacehab
+module and no docking was possible. The Shuttle began the approach at
+1840 and at around 1929 UTC it reached a distance of 11m, measured from a
+point on the roof of the Spacehab module to the Kristall docking port.
+Discovery remained  stationkeeping at the 11m distance for about 5
+minutes, and then backed off to the 120m point again. It then carried
+out a flyaround of the complex starting at 2016, and making a final
+burn to end the rendezvous at around 2113.
+
+On Feb 7 the RMS arm again unberthed the Spartan-204 satellite, and at
+1226 Titov released it from the arm for a free flight to make UV
+spectroscopic observations of the interstellar medium. The satellite was
+retrieved at 1133 on Feb 9 and berthed shortly afterwards. Mission
+Specialists Bernard Harris and Mike Foale depressurized the airlock at
+1156 on Feb 9 and entered the payload bay from the hatch on the Tunnel
+Adapter. They carried out a 15-minute cold soak test of their modified
+Hamilton Standard EMU spacesuits; earlier EVA crews have had problems
+with getting their hands too cold while in shadow. Next, Harris
+practised moving the Spartan satellite around by hand to gain experience
+for Space Station assembly tasks, but a second such exercise by Foale
+was cancelled when the astronauts reported cold hands. The EVA ended
+after 4h 39m at 1535 UT. Development of heated spacesuit gloves is
+to be accelerated.
+
+After closing the payload bay doors on Feb 11, Discovery's OMS engines
+were fired at 1044 UT to deorbit the spaceship. OV-103 completed its
+20th mission with main gear touchdown on Kennedy Space Center's
+Runway 15 at 1150:19 UT on Feb 11, with wheels stop at 1150:39.
+
+[Details I don't have yet: individual designations and deployment
+order for the ODERACS satellites; actual timeline for unberth/reberth
+of Spartan for the mass handling exercise].
+
+Discovery's next mission will be in the summer, when Tom Henricks
+will command a crew of five on a mission to deploy the TDRS-G
+Tracking and Data Relay Satellite. This will follow the Astro-2
+astronomy mission by Endeavour next month and the Mir docking
+by Atlantis in June.
+
+Launch of the next Progress tanker to Mir is expected in a few
+days' time.
+
+Recent Launches
+--------------------------------------------------------------------------------
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jan 10 0618     Intelsat 704    Atlas IIAS      Canaveral LC36  Comsat      01A
+Jan 15 1345     EXPRESS         Mu-3S-II        Kagoshima       Materials   -
+Jan 24 0354     Tsikada     )   Kosmos-3M       Plesetsk LC132  Navsat      02A
+                ASTRID      )                                   Science     02B
+                FAISAT      )                                   Comsat      02C
+Jan 25 1926?    Apstar 2        Chang Zheng 2E  Xichang         Comsat      FTO
+Jan 29 0125     UHF F/O F4      Atlas II        Canaveral LC36  Comsat      03A
+Feb  3 0522     Discovery    )  Space Shuttle   Kennedy LC39B   Spaceship   04A
+                Spacehab SH03)
+Feb  4 0457     ODERACS II   )                  Discovery, LEO  Sphere      04
+                ODERACS II   )                                  Sphere
+                ODERACS II   )                                  Sphere
+                ODERACS II   )                                  Wire
+                ODERACS II   )                                  Wire
+                ODERACS II   )                                  Wire
+Feb  7 1226     Spartan 204                     Discovery, LEO  Astronomy   04H?
+
+Reentries
+---------
+
+Jan 15          EXPRESS         Reentered
+Feb 11          Discovery       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       KSC RW15      STS-63  
+OV-104 Atlantis        OPF Bay 3     STS-71  Jun
+OV-105 Endeavour       VAB Bay 1     STS-67  Mar 2
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       LC39B     STS-63
+ML2/RSRM-43/ET-69          VAB Bay 1 STS-67
+ML3/                       Refurb    STS-71         
+
+Occasional Shuttle Processing Status Explanation (or,  what are all these
+acronyms anyway?):
+
+ The Shuttle consists of an Orbiter Vehicle (OV), an expendable External
+Tank (ET), and a reusable pair of Redesigned Solid Rocket Motors (RSRM),
+also known as Solid Rocket Boosters (SRBs).  The OV is prepared for
+flight  at the Kennedy Space Center (KSC) in the Orbiter Processing
+Facility (OPF) which consists of three bays (one of which is actually a
+separate building) after which it is towed to the Vehicle Assembly
+Building (VAB) and `mated to the stack' or joined to the ET and RSRM.
+First, the segments of the RSRM are stacked up on a Mobile Launch
+Platform (ML) and then the ET is connected to it. After the OV is mated,
+a Crawler-Transporter is moved underneath the ML and carries the
+ML/RSRM/ET/OV stack to one of the two pads (A or B) at launch complex 39
+(LC39) where it is eventually launched on a Space Transportation System
+(STS) mission. The ML is then moved to the Refurb site before it goes
+back to the VAB to become the base for another stack. The Orbiter
+usually lands at either Edwards Air Force Base (EAFB) or KSC. 
+Occasionally an OV is returned to the Rockwell International plant in
+Palmdale, California for refit - an Orbiter Maintenance Down Period or
+OMDP. When the OV is moved from site to site it is carried aboard a
+modified Boeing 747 called the Shuttle Carrier Aircraft - there are two
+of these, SCA 905 and SCA 911.
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

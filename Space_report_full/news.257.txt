@@ -1,0 +1,139 @@
+Jonathan's Space Report
+No. 257                 1995 Sep 19                         Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The STS-69 mission was successfully completed on Sep 18.
+
+The Wake Shield Facility carried out its free flight from Endeavour from
+Sep 11 to Sep 14. The WSF satellite overheated and was placed in
+safemode at 1200 UTC on Sep 12 but was reactivated at 0800 UT on Sep 13.
+Four of the thin film high-vacuum manufacturing experiments were
+completed during the flight.
+
+By 1230 UTC on Sep 14 Endeavour completed its rendezvous with WSF and
+began a series of experiments to study the contaminating effect of
+thruster firings on the satellite. At around 1330 UTC the Orbiter began
+the approach to WSF. It was grappled by the RMS arm at 1359 UTC on Sep
+14 and was then reberthed on the carrier at 1518 UTC. The orbit was
+lowered later that day to 338 x 346 km. WSF was unberthed again from
+around 0700 to 1200 UTC and maneuvered around the cargo bay to measure
+the electric field in the vicinity of the Orbiter.
+
+On Sep 16 at around 0820 UTC Voss and Gernhardt began a 6h 46m spacewalk
+to evaluate procedures and hardware for Space Station assembly. The
+astronauts worked at the task board on the starboard side of Bay 3,
+testing out foot restraints and assembling connectors; and flew at the
+end of the robot arm in cold conditions to check modifications to the
+spacesuit for cold weather conditions. The airlock was repressurized at
+1502 UTC.
+
+Endeavour returned to Earth on Sep 18 with a deorbit burn at 1035 UTC.
+Main gear touchdown was at 1137:56 UTC on runway 33 at Kennedy Space
+Center; wheels stop was at 1138:52. Mission duration from launch to main
+gear touchdown was 10 days 20 hr 28 min 56 s. Total flight time for
+OV-105 Endeavour over 9 flights is 2255h 21m.
+
+
+The external tank for STS-74 was connected to the solid rocket
+boosters on Sep 11. Examination of the STS-69 solid rocket boosters
+confirms that the joint repair was successful; no erosion was seen.
+The next Shuttle launch is mission STS-73 with orbiter Columbia,
+due on Sep 28.
+
+Mir
+----
+
+The EO-20/Euromir-95 crew of Gidzenko, Avdeev and Reiter remain
+aboard the Mir complex. Next major events are the launch of the Progress
+M-29 supply ship and a spacewalk on Oct 20.
+
+Recent Launches
+--------------
+
+Kosmos-2319 is now in geostationary orbit at 80 deg E. The slot has been
+used by both military communications and early warning satellites;
+Kosmos-2319 may be a Geizer communications satellite.
+
+ Longitudes of Kosmos satellites operating in GEO:
+
+  Al'tair data relay:
+   Kosmos-1897  52.6E
+   Kosmos-2054  15.9W
+  Geizer military communications:
+   Kosmos-1961  79.3E
+   Kosmos-2085  70.8E
+   Kosmos-2172  13.5W
+   Kosmos-2291  79.9E
+  Probable missile early warning satellites:
+   Kosmos-1894  25.6W
+   Kosmos-2133  79.9E
+   Kosmos-2209  24.2W
+   Kosmos-2224  11.5E
+   Kosmos-2282  24.1W
+
+JCSAT 3 has lowered its orbit to geostationary. On Sep 10 it was in a
+35718 x 42951 km x 0.25 deg orbit; by Sep 14 it was in a 35704 x 35921
+km x 0.1 deg orbit at 128.2 E drifting 0.4 deg W per day. On Sep 11,
+N-Star a was at 132.0E; the Mugunghwa-ho (Koreasat) satellite is on
+station at 116.0E.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug  2 2359   Prognoz-M2  )   Molniya-M       Plesetsk LC43/3 Science     39A
+              Magion 4    )                                   Science     39F
+Aug  3 2358   PAS 4           Ariane 4        Kourou ELA2     Comsat      40A
+Aug  5 1110   Mugunghwa-ho    Delta 7925      Canaveral LC17B Comsat      41A
+Aug  9 0121   Molniya-3       Molniya-M       Plesetsk LC43   Comsat      42A
+Aug 15 2230   Gemstar 1       LLV-1           Vandenberg SLC6 Comsat      FTO
+Aug 29 0053   JCSAT 3         Atlas IIAS      Canaveral LC36B Comsat      43A
+Aug 29 0641   N-STAR a        Ariane 44P      Kourou ELA2     Comsat      44A
+Aug 30 1933?  Kosmos-2319     Proton-K/DM2    Baykonur        Comsat?     45A
+Aug 31 0650   Sich-1          Tsiklon-3       Plesetsk LC32   Rem.sensing 46A
+              FASat-Alfa                                      Comsat      46A
+Sep  3 0900   Soyuz TM-22     Soyuz-U2        Baykonur LC1    Spaceship   47A
+Sep  7 1509   Endeavour       Shuttle         Kennedy LC39A   Spaceship   48A
+Sep  8 1643   Spartan-201                     OV-105, LEO     Astronomy   48B
+Sep 11 1125   WSF 2                           OV-105, LEO     Micrograv.  48C
+                                                                                  
+Reentries
+---------
+
+Sep  4        Progress M-28   Deorbited
+Sep  6        Kosmos-2314     Deorbited
+Sep 11        Soyuz TM-21     Landed in Kazakhstan
+Sep 18        Endeavour       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-73  Sep 28
+OV-103 Discovery       OPF Bay 1     OMDP
+OV-104 Atlantis        OPF Bay 2     STS-74  Nov  2
+OV-105 Endeavour       OPF Bay 3     STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-51/ET-74          VAB Bay 1  STS-74
+ML3/RSRM-50/ET-73/OV-102   LC39B      STS-73                       
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

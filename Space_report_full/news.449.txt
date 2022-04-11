@@ -1,0 +1,189 @@
+Jonathan's Space Report
+No. 449                                         2001 Mar 23, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Mir reentry
+-----------
+
+On Mar 19 Mir was in a 224 x 230 km x 51.6 deg orbit. On Mar 23 at 0033
+UTC Progress M1-5 carried out the first small DPO burn to lower Mir's
+orbit from 212 x 218 km to 190 x 219 km.  A second small burn began at
+0201 UTC and put Mir in a 150 x 215 km orbit. The main deorbit burn
+began at 0507 UTC, lowering perigee to less than 80 km. At 0550 UTC
+observers in Fiji reported seeing multiple bright reentry bodies passing
+overhead, confirming that the station had broken up by that time. The
+impact zone is around 160W 40S.
+
+DOS 7 (Long-duration Orbital Station 7), named Mir after launch in Feb
+1986, was the 10th Soviet space station to leave the pad. It was visited
+by 111 spacecraft. Astronauts occupied it for 4591 days and made 79
+spacewalks from it. The longest continuous occupation (neglecting brief
+absences during Soyuz redockings where the crew remained within a few
+hundred meters of the station) was 11 days short of a decade. The
+duration record of 437 days for a single flight was set by Valeriy
+Polyakov onboard Mir in 1994-1995.
+
+The components of Mir at the time of reentry were:
+
+  Designations         Name            Launch date
+
+ DOS 7  17KS No 127-1  "Mir"           Feb 1986
+ TsM-E  37KE No 010    "Kvant"         Mar 1987
+ TsM-D  77KS No 171-1  "Kvant-2"       Nov 1989
+ TsM-T  77KS No 172-1  "Kristall"      May 1990
+ TsM-O  77KS No 173-1  "Spektr"        May 1995
+ SO     316GK No. 1     Stikovochniy Otsek  Nov 1995
+ TsM-I  77KS No 174-1  "Priroda"       Apr 1996
+        7K-TGM No. 254 "Progress M1-5" Jan 2001
+
+
+Shuttle and Stations
+--------------------
+
+Discovery was launched on mission STS-102 (Space Station flight 5A.1)
+on Mar 8 at 1142:09 UTC. At 1150 UTC the main engines cut off and
+the external tank separated; orbiter and external tank were
+at this point in a 60 x 222 km x 51.6 deg orbit. The orbiter
+fired its OMS engines at 1221 UTC to raise the orbit to 185 x 219 km,
+while ET-107 fell back towards the Pacific. Launch mass of
+Discovery was probably around 114000 kg; the value in the NASA
+press kit is clearly incorrect.
+
+Discovery  docked with the PMA-2 port on the Station at 0639 UTC on Mar
+10. According to the spaceflightnow.com story by Bill Harwood, Usachyov
+became a member of the ISS crew at 1034 UTC.
+
+On Mar 11 Jim Voss and Susan Helms made a spacewalk from Discovery's
+airlock. A PAD device used to attach equipment to the RMS arm floated
+free and Voss retrieved a spare one from Unity, putting the walk behind
+schedule. The PAD has been cataloged by Space Command as satellite 26723,
+international designation 2001-010B.
+The astronauts installed the Lab Cradle Assembly and the Rigid
+Umbilical on Destiny and disconnected the umbilicals connecting the
+PMA-3 docking port to Unity. The astronauts then spent two-and-a-half
+hours back in the depressurized airlock in case their help was needed
+during the move of PMA-3. Thomas used the RMS arm to unberth PMA-3 from
+the nadir port on Unity and relocated it to the port port location,
+freeing up the nadir for the MPLM. The airlock was depressurized at 0508
+UTC and repressurized at 1408 UTC. Duration was 9h00m (depress/repress),
+about 6h16m (ingress/egress), 8h54m (hatch open/close), and 8h56m (NASA
+rule).
+
+The Leonardo module was unberthed from the payload bay at 0410 UTC
+on Mar 12 and berthed at Unity's nadir port at 0606 UTC.
+
+Mar 13 saw the second spacewalk, by Andy Thomas and Paul Richards. The
+airlock was depressurized at 0518 UTC and the hatch opened at 0520 UTC.
+The astronauts took the External Stowage Platform from the ICC carrier
+to the port side of the Destiny module, and then installed the spare
+Pump Flow Control System on it. The ESP is used to store on-orbit-spare
+equipment. Next they hooked up cables on the robot arm's umbilical, and
+travelled up to the top of the P6 tower to fix a solar array latch - it
+just needed a good thump - and inspect the FPP experiment.  The
+astronauts returned to the airlock at 1132 UTC and began repressurizing
+at 1144 UTC. Duration was 6h26m (depress/repress), 5h58m (egress/ingress),
+6h 13m (hatch open/close), or 6h21m (NASA rules).
+
+A minute into airlock repressurization, Shannon Lucid in Houston
+called up to tell the crew to halt the repress. At 1149 the
+airlock began depressurizing again and at 1155 it was again at
+zero. A detailed test objective, DTO 257, was testing the effects
+of firing Shuttle RCS jets while docked to the ISS, and controllers
+wanted data with the airlock at vacuum, since that changes the dynamics.
+The airlock was finally repressurized again at 1209 UTC.
+Since the initial repressurization brought the airlock up to
+120 mbar (1.8 psi) and I arbitrarily set 100 mbar as my boundary
+for delimiting a 'depressurized operation', I count the
+20-minute period from 1150 to 1209 as a separate depress op.
+NASA did not count the new depressurization as an EVA. The hatch
+remained closed and the astronauts remained inside the airlock.
+
+Leonardo was removed from Unity at 1042 UTC on Mar 1 and reberthed
+around 1204 UTC. At 0232 UTC on Mar 19 command of ISS was transferred
+to Expedition 2 and the hatches were closed. Discovery undocked
+at 0432 UTC and flew once around the station before departing at 0548 UTC.
+ISS mass after undocking was 115527 kg.
+The OMS engines fired for the deorbit burn at 0625 UTC on Mar 21,
+and Discovery touched down on runway 15 at Kennedy Space Center
+at 0731 UTC.
+
+Recent Launches
+---------------
+
+The first Ariane 5 launch of the year took place on Mar 8. 
+The cryogenic main stage entered a marginal orbit with
+apogee around 1000 km and reentered over the Pacific
+on its first orbit. The EPS upper stage placed the two
+payloads in geostationary transfer orbit.
+
+Payloads were EUTELSAT's Eurobird and the Japanese BSAT-2a. Eurobird is
+a Spacebus 3000B3 built by Alcatel (Cannes). Dry mass is probably around
+1300 kg. The satellite has an Astrium S400 bipropellant engine.
+
+BSAT-2a is the second Orbital STAR-class television broadcasting
+satellite. Its launch mass is 1317 kg; dry mass is 535 kg. The satellite
+has a Thiokol Star 30CBP solid apogee motor. Joe Hopkins reports that
+the new BSTAR STAR-class satellites are a new design replacing the
+earlier Starbus type satellite of which only one (Cakrawarta 1) was
+launched. BSAT Corp. (Broadcasting Satellite System Corp.) earlier
+launched HS-376 satellites BSAT 1a and 1b, replacing the government's BS
+series which began Japanese direct broadcast services in 1978.
+
+The XM-2 "Rock" satellite was launched on Mar 18. XM Radio's second
+satellite, XM-1 "Roll" will be launched later this year. The XM Radio
+satellites will provide digital radio entertainment broadcast to the US.
+The satellites are Boeing 702 models. A Boeing Sea Launch Zenit-3SL took
+off from the Odyssey floating launch platform at 154W 0N in the Pacific.
+The two-stage Zenit put the Blok DM in a suborbital trajectory with a
+190 km apogee; the DM first burn went to a 180 x 990 km x 1.3 deg orbit,
+with the second burn delivering Rock to geostationary transfer orbit.
+
+A more accurate time for NEAR's landing on (433) Eros is 1944:17 UTC
+on Feb 12, with signal receipt on Earth at 2001:52 UTC.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Feb  7 2306   Sicral    )       Ariane 44L     Kourou ELA2      Commsat    05A
+              Skynet 4F )                                       Commsat    05B
+Feb  7 2313   Atlantis (STS-98))Space Shuttle  Kennedy LC39A    Spaceship  06A
+              Destiny          )                                Module     06B
+Feb 20 0848   Odin              Start-1        Svobodniy        Astronomy  07A
+Feb 26 0809   Progress M-44     Soyuz-U        Baykonur LC1     Cargo      08A
+Feb 27 2120   Milstar DFS 4     Titan Centaur  Canaveral SLC40  Commsat    09A
+Mar  8 1142   Discovery (STS-102) Shuttle      Kennedy LC39B    Spaceship  10A
+              Leonardo                                          Module
+Mar  8 2251   Eurobird  )       Ariane 5G      Kourou ELA3      Commsat    11A
+              BSAT-2a   )                                       Commsat    11B
+Mar 18 2233   XM-2 Rock         Zenit-3SL      Odyssey,Pacific  Commsat    12A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 1     STS-109 2001 Nov 19  HST SM-3B
+OV-103 Discovery       OPF Bay 2     STS-105 2001 Jul 12  ISS 7A.1
+OV-104 Atlantis        OPF Bay 3     STS-104 2001 Jun  7  ISS 7A
+OV-105 Endeavour       LC39A         STS-100 2001 Apr 19  ISS 6A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+
+

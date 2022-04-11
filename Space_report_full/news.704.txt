@@ -1,0 +1,312 @@
+Jonathan's Space Report 
+No. 704                                                     2014 Oct 30 Somerville, MA
+---------------------------------------------------------------------------------------------
+Note: originally published with date "Oct 17" in error.
+
+International Space Station
+---------------------------
+
+Expedition 41 is underway with commander Max Suraev and flight engineers 
+FE-1 Aleksandr Samokutyaev, FE-2 Elena Serova,
+FE-3 Barry 'Butch' Wilmore. FE-5 Reid Wiseman and FE-6 Alex Gerst.
+
+The Dragon CRS-4 cargo ship was unberthed at about 1202 UTC Oct 25 and released by
+the SSRMS at 1357 UTC. It made its deorbit burn at 1843 UTC and splashed down
+in the Pacific at 1938 UTC off Baja California (near 34N 123.5W according to 
+Bob Christy's zarya.info, 30.7N 121.3W according to estimates by user Avron
+on nasaspaceflight.com based on maritime traffic; SpaceX have not revealed
+an accurate splashdown location).
+
+Progress M-24M undocked from Pirs at 0538 UTC Oct 27. Progress M-25M was
+launched at 0709 UTC on Oct 29 and docked with Pirs at 1308 UTC the same
+day.
+
+The Orbital Cygnus Orb-3 cargo ship was destroyed during launch from the
+Mid Atlantic Regional Spaceport (MARS) Pad 0A at Wallops Island,
+Virginia on Oct 28. The lower end of the Antares 130 vehicle exploded 14
+seconds after launch at an altitude of about 100 metres, and the vehicle
+and payloads fell back to the pad, resulting in a large explosion. As
+well as ISS cargo, the Orb-3 mission was carrying 26 PlanetLabs Flock-1d
+3U cubesats, the JPL/U-Texas RACE 3U cubesat, the Arkyd-3 3U cubesat
+from Planetary Resources, and also the GOMX-2 ship tracking
+2U cubesat from GOMX of Aalborg, Denmark. All of the payloads were
+destroyed. The first stage of Antares 130 is built by Yuzhnoe (Ukraine)
+and derived from the Zenit tankage; the engines are Aerojet AJ-26
+models, which are refurbished/modernized Kuznetsov NK-33s left over from
+the Soviet N-1 human lunar landing program. It is not yet clear what the
+cause of the failure was, although I note the rocket appeared to be
+flying normally until a large flash was seen near the base of the
+rocket, suggesting some kind of problem in the first stage propulsion
+system as a likely suspect (although a first stage tank structural or plumbing
+failure is also a possibility).
+
+Since there seems to be some confusion on this point, I recall to
+readers  that although commercial space station cargo ships (the thing
+on top of the rocket) are something new, commercial space launch
+vehicles (the rocket itself) are not, and indeed have been the norm in
+the US civilian space program since the early 1990s when NASA
+transferred Atlas and Delta launches to the private sector and retired
+the Scout in favor of buying small satellite launches from Orbital's
+Pegasus. There have been no orbital NASA launches since then with the
+exception of the Shuttle.
+
+
+US and W European rocket reliability
+------------------------------------
+
+Satellite launch vehicles from US manufacturers and from Arianespace, 
+currently in service, stats for orbital attempts since Jan 2000 until the Antares 
+failure: (see JSR 669 for details of the scoring system)
+
+  Vehicle                      Attempts Score    1st launch  Score for 1st 10 launches
+                               -- since 2000 --
+  ESA/Arianespace Ariane 5     72        97.9       1996     78
+  ESA/Arianespace Vega          3       100.0       2012      -
+
+  ULA/Boeing      Delta 2      65       100.0       1989    100
+  ULA/Boeing      Delta 4      27        97.6       2002     96
+  ULA/Lockheed M. Atlas 5      49        99.5       2002     93
+
+  SpaceX          Falcon 9     13        98.8       2010     98
+
+  Orbital         Pegasus      14       100.0       1990     74
+  Orbital  Minotaur C/Taurus    5        40.0       1994      -
+  Orbital         Minotaur 1   11       100.0       2000    100
+  Orbital         Minotaur 4    4       100.0       2010      -
+  Orbital         Antares       5        80.0       2013      -
+
+  --------------------------------------------------------------------
+  All vehicles                268        97.6                91
+
+
+Ekspress AM-6
+--------------
+
+The Russian Satellite Communication Company (Kosmicheskiya Svyaz)'s
+Ekspress AM-6 satellite was launched from Baykonur on Oct 21. US
+tracking confirms earlier  rumours on the Novosti Kosmonavtiki forum
+that the final Briz-M burn was incomplete, leaving the satellite in an
+orbit with a 1373 min period - significantly below the planned orbit,
+but probably close enough for Ekspress AM-6 to reach its GEO destination
+using extra xenon propellant from its own electric propulsion system at
+the cost of operational lifetime.
+
+Ekspress AM-6 orbit is 1373.2 min, 31307 x 37784 km x 0.7 deg; the
+Briz-M's auxiliary SOZ thrusters disposed of the stage into a 1512.4
+min, 34984 x 39549 km x 1.0 deg orbit.
+
+
+Chinese lunar mission
+----------------------
+
+On Oct 23 a Chang Zheng 3C/G2 launch vehicle took off from Xichang and placed
+a spacecraft in a 209 x 413000 km lunar transfer orbit. The spacecraft
+is called 'Chang'e wu hao feixing shiyan qi', or CE-5 Flight Test Device.
+The vehicle is a precursor to the planned Chang'e-5 mission and consists
+of a satellite bus similar to the Chang'e-2 lunar orbiter, topped with
+a reentry vehicle which appears to be a miniature Shenzhou landing module.
+The craft will make an 8-day flight to loop around the Moon and return to Earth.
+Calculations by user 'satwatcher' on the nasaspaceflight.com forum indicate
+that lunar closest approach was Oct 27 1903 UTC at a height of 11300 km.
+The vehicle is expected to land in China around 2230 UTC Oct 31.
+
+LuxSpace's 4M (Manfred Memorial Moon Mission) amateur radio payload
+is attached to the third stage of the CZ-3C. Following lunar flyby
+on Oct 27, the stage is in a 141090 x 416326 km x 54.2 deg orbit.
+
+SJ11-08
+-------
+
+The 8th and final satellite in the somewhat mysterious Shi Jian 11 series
+was launched by Chang Zheng 2C on Oct 27 as China's October launch surge continues.
+The satellite entered a 688 x 703 km SSO with 1315 local time descending node.
+It is believed to be a military surveillance satellite of some kind.
+
+Meridian
+--------
+
+The Meridian No. 17L communications satellite (7th in the series) for the Russian
+Ministry of Defense was launched on a Soyuz-2-1a/Fregat from Plesetsk on Oct 30
+into a 968 x 39750 km x 62.8 deg 'Molniya'-type orbit.
+
+
+GPS
+---
+
+GPS satellite vehicle SVN 69, flight IIF-8, nicknamed Spica, was launched
+on Atlas V serial AV-050 from Cape Canaveral on Oct 29. It reached a 167 x 20281 km
+transfer orbit 17 minutes after launch; the Centaur restarted at 2040 UTC to
+place the GPS IIF-8 mission in a 20456 x 20464 km x 55.0 deg orbit.
+
+
+X-37B
+-----
+
+X-37B flight vehicle 1 completed its second flight on Oct 17, landing at
+Vandenberg AFB at 1624 UTC after 674.9 days in space.
+
+ Satellite Retrievals
+ --------------------
+
+In the last JSR I gave a list of spacecraft which landed back on Earth
+after spending long times in space. Here I give a table of spacecraft or
+parts of spacecraft which were brought back to Earth aboard other
+spacecraft - so, not needing reentry systems of their own. All the
+entries in this list were Shuttle retrievals, except for a few low-mass
+recovered experiments on Soyuz missions (only the longest-duration two
+are noted) and the leading entries are all parts of the Hubble Space
+Telescope. 
+
+(As usual, I solicit corrections and additions to this list).
+
+   Spacecraft                               Mass/kg  Duration   In space
+
+   HST SICDH and battery units BMU1, BMU2   498      19.08 yr   1990-2009
+   HST WFPC-2 and COSTAR                    571      15.48 yr   1993-2009
+   HST FOC, PCU, DBA1/2                     380      11.88 yr   1990-2002
+   HST FGS-2, RSU-1, DF-2224                281       9.68 yr   1990-1999
+   ISS P6 Battery ORU 7-12                 1020       9.48 yr   2000-2010
+   HST FGS-2R, RSU-1R/2R/3R                 253       9.43 yr   1999-2009
+   ISS Pump Module S/N 02                   354       8.78 yr   2002-2011
+   ISS P6 Battery ORU 1-6                  1020       8.66 yr   2000-2009
+   HST SA-II array                          308       8.27 yr   1993-2002
+   ISS RGA S0-1                              20       8.03 yr   2002-2010
+   ISS S1 ATA                               500?      7.53 yr   2002-2010
+   ISS S0 RGA S0-2/RPCM S0-1A-D              25?      7.43 yr   2002-2009
+   ISS Z1 CMG-3                             281       7.36 yr   2000-2008
+   HST FOS,GHRS,RWA-1                       671       6.83 yr   1990-1997
+   ISS ROKVISS                                7       6.22 yr   2004-2011 (Soyuz TMA-1M)
+   HST RSU-2R,3R, CoProc                     84       6.07 yr   1993-1999
+  LDEF Satellite                           9705       5.79 yr   1984-1990
+   ISS P1 NTA                               484       5.24 yr   2002-2008
+   ISS Z1 SASA-3                            103       5.08 yr   2002-2007
+   HST RWA-1R                                45       5.08 yr   1997-2002
+   ISS Z1 CMG-1                             281       4.83 yr   2000-2005
+   ISS TUS-RA ORU                           153       4.27 yr   2002-2006
+   Solar Max MACS box                       194       4.16 yr   1980-1984
+   ISS JAXA MPAC/SEED C3                      9?      4.14 yr   2001-2005 (Soyuz TMA-6)
+   EMU 3013 spacesuit                       130       4.11 yr   2002-2006
+   ISS MISSE 1/2                            100?      4.00 yr   2001-2005
+   Orlan DMA-18 spacesuit                    77       3.91 yr   1992-1996
+   HST HSP,WFPC,SA I/-V2,RSU 2/3            785       3.64 yr   1990-1993
+   EMU 3011 spacesuit                       130       3.18 yr   2002-2005
+   EMU 3015 spacesuit                       130       2.86 yr   2011-2014
+   EMU 3005 spacesuit                       130       2.71 yr   2002-2005
+   Surveyor 3 SMSS scoop                      5?      2.61 yr   1967-1969 (Apollo 12)
+   EMU 3018 spacesuit                       130      722 days   2006-2008
+   EMU 3009 spacesuit                       130      691 days   2009-2011
+   EMU 3006 spacesuit                       130      631 days   2006-2008
+   EMU 3008 spacesuit                       130      631 days   2006-2008
+   ISS EuTeF                                297      582 days   2008-2009
+   ISS SSRMS WRJ                            167      426 days   2001-2002
+   EMU 3004 spacesuit                       130      382 days   2008-2009
+   EMU 3011 spacesuit                       130      377 days   2008-2009
+   EMU 3009 spacesuit                       130      367 days   2001-2002
+   EMU 3009 spacesuit                       130      356 days   2005-2006
+   EMU 3010 spacesuit                       130      356 days   2005-2006
+  EURECA 1 Satellite                       3741      335 days   1992-1993
+   EMU 3005 spacesuit                       130      301 days   2008-2009
+  SFU Satellite                            2736      308 days   1995-1996
+  Westar 6 Satellite                       1202      287 days   1984
+  Palapa B2 Satellite                      1202      287 days   1984
+
+For convenience, the list of spacecraft that landed by themselves after long periods
+in space (from JSR 703) is repeated here with updated data:
+
+     Hayabusa               7.1 years
+     Stardust               6.9 years
+     Genesis                3.1 years (crashed) 
+     X-37B FLT-3            675 d
+     X-37B FLT-2            469 d
+     HEXAGON 1218-4         270 d
+     USERS                  261 d
+     HEXAGON 1216-4         260 d
+     Salyut 5 KSI           249 d
+     X-37B FLT-1            224 d
+     Soyuz TMA-9            215 d
+     Kosmos-2290 SpK-22   ca. 210 d?
+     Soyuz TM-27            207 d
+
+UN Registration
+---------------
+
+Congratulations to Norway which has registered its remaining satellites with the
+UN (except for the recently launched AISSat-2).  Norway's registered satellites are the
+Thor 2,3, 5 and 6 communications satellites and the NCUBE-2 and AISSat-1 satellites in
+polar orbit. I plan to update the on-line table of registrations once the UN Office
+of Outer Space Affairs have made public recent outstanding filings by Russia and the USA.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+
+Sep  4 0015   Chuangxin 1-04 )                     Jiuquan           Comms        51B
+              Ling Qiao      )                                       Comms        51A
+Sep  5 0929   Flock 1b-17 )                        ISS, LEO          Imaging     98-67FF
+              Flock 1b-18 )                                          Imaging     98-67FE
+Sep  7 0500   Asiasat 6          Falcon 9 v1.1     Canaveral SLC40   Comms        52A
+Sep  8 0322   Yaogan 21  )       Chang Zheng 4B    Taiyuan           Imaging      53A
+              Tiantuo 2  )                                           Imaging      53B
+Sep 11 2205   Measat 3b )        Ariane 5ECA       Kourou ELA3       Comms        54A
+              Optus 10  )                                            Comms        54B
+Sep 17 0010   CLIO               Atlas V 401       Canaveral SLC41   Sigint?      55A
+Sep 21 0552   Dragon CRS-4       Falcon 9 v1.1     Canaveral SLC40   Cargo        56A
+Sep 25 2025   Soyuz TMA-14M      Soyuz-FG          Baykonur LC1      Spaceship    57A
+Sep 27 2028   Luch               Proton-M/Briz-M   Baykonur LC81/24  Data relay   58A
+Sep 28 0513   SJ-11 07           Chang Zheng 2C    Jiuquan         Surveillance?  59A
+Oct  7 0516   Himawari-8         H-IIA             Tanegashima       Weather      60A
+Oct 15 2002   IRNSS-1C           PSLV-XL           Sriharikota FLP   Navigation   61A
+Oct 16 2144   Intelsat IS-30 )   Ariane 5ECA       Kourou ELA3       Comms        62A
+              ARSAT-1        )                                       Comms        62B
+Oct 20 0631   Yaogan 21          Chang Zheng 4C    Taiyuan           Imaging?     63A
+Oct 21 1509   Ekspress AM-6      Proton-M/Briz-M   Baykonur LC81/24  Comms        64A
+Oct 23 1800   CE-5 FTD )         Chang Zheng 3C/G2 Xichang           Lunar probe  65A
+              4M       )                                            Amateur radio 65B
+Oct 27 0659   SJ-11 08           Chang Zheng 2C    Jiuquan         Surveillance?  66A
+Oct 28 2220   Cygnus ORB-3     ) Antares 130       Wallops MARS 0A   Cargo        F02
+              RACE             )                                     Science      F02
+              Arkyd-3          )                                     Tech         F02
+              GOMX-2           )                                     Comms AIS    F02
+              Flock-1d 1 to 26 )                                     Imaging      F02
+Oct 29 0709   Progress M-25M     Soyuz-2-1a        Baykonur LC31     Cargo        67A
+Oct 29 1721   GPS SVN 69         Atlas V 401       Canaveral SLC41   Navigation   68A
+Oct 30 0143   Meridian No. 17L   Soyuz-2-1a/Fregat Plesetsk LC43/3   Comms        69A
+
+Suborbital missions
+-------------------
+
+A solid propellant target missile was launched from Kauai on Oct 17 for the Missile Defense Agency.
+Based on an available launch image, Gunter Krebs suggests it is the MRBM-T3, with SR19 and SR73 solid motors.
+
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Sep  2 0202   EPL-ME           VS-30/EPL           Alcantara        Test          130?
+Sep  9        Sparrow Target   Blue Sparrow?       F-15D, Med.Sea   Target        100?
+Sep 10        RV               Bulava              K-551,White Sea  Test         1000?
+Sep 11 0541   Agni RV          Agni I              Chandipur        Op. Test      500?
+Sep 12 1300   USN RV           Trident D-5         Sub, Pacific O.  Test         1000?
+Sep 12 1300   USN RV           Trident D-5         Sub, Pacific O.  Test         1000?
+Sep 12 1300   USN RV           Trident D-5         Sub, Pacific O.  Test         1000?
+Sep 23 1445   Mk 12/21 RV?     Minuteman III       Vandenberg LF09  Op. Test     1300?
+Sep 30        VAULT 2.0        Black Brant IX      White Sands      Solar UV      290?
+Oct  7 1310   SR-10            Sounding Rocket     Jiupeng          Ionosphere    286
+Oct 12 0427   MDA Target?      Terrier Lynx        Wallops I        Target?       150?
+Oct 17 0708   FTX-20           MRBM-T3?            Kauai            Target        300?
+Oct 23 1333   SL-9             SpaceLoft XL        Spaceport America Micrograv    124
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

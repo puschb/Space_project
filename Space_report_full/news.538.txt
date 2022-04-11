@@ -1,0 +1,158 @@
+Jonathan's Space Report
+No. 538                                         2004 Nov 18, Socorro, NM
+-------------------------------------------------------------------------------
+
+* Soyuz-2-1A
+
+The first launch of the improved Soyuz-2-1A rocket was carried out on
+Nov 8 from Russia's Plesetsk spaceport. The standard Soyuz-U or Soyuz-FG
+rocket, made by TsSKB-Progress in Samara, consists of the 11S59 `packet'
+made up of a central core (Blok A) surrounded by four almost-as-large
+strapon boosters (Blok B, V, G, D), together with the 11S510 upper stage
+also known as Blok I. The `packet' is the direct descendant of the 
+8K71 rocket used to launch Sputnik in 1957. The Soyuz-2-1A is very similar,
+but carries improved digital avionics and uses 14D21 and 14D22 engines.
+
+This launch carried a leftover Oblik spy satellite, carrying
+launch vehicle monitoring equipment to record accelerations, vibrations
+and temperatures, and presumably stripped of the normal camera
+equipment. The Oblik was a derivative of the original Vostok/Zenit spy satellite
+and was last launched on a civilian mapping mission ten years ago.
+
+Prelaunch reports indicated that the rocket would reach orbit, but it
+now appears that it only reached a suborbital path; no apogee and
+perigee and no orbital inclination have been quoted for the mission,
+which makes it hard for outside observers to judge independently 
+whether or not the launch was in fact successful.
+
+According to a Roskosmos press release, "the launcher rocket 
+successfully delivered to orbit a mass-size mockup of a spacecraft,
+which at 2138 [Moscow time] was sunk in the waters of the Pacific
+Ocean". The phrasing suggests to me that the 11S510 final stage should
+be in orbit, with the payload deorbited immediately after separation
+using its own retrorocket engine. But it appears this was misleading;
+another statement from the Progress rocket manufacturers in Samara
+implied that the rocket only reached a suborbital trajectory, i.e.
+reached an orbit with a negative perigee, with both 11S510 stage and
+payload falling in the Pacific. This interpretation is supported by the
+failure of US Space Command to catalog the launch.  In my own system I
+(provisionally) have designated the launch 2004-U01 (U for
+'uncataloged') on the assumption that it was in orbit or near-orbit for
+a brief time.
+
+The 1838 UTC 'sinking' time must refer to the time of 11S510 engine
+cutoff; actual impact would have been closer to 1900 UTC.
+
+* Ekspress AM-1
+
+The Ekspress AM-1 Russian domestic communications satellite, built by
+Reshetnev (NPO PM) for Kosmicheskaya Svyaz, was launched on Oct 29 on a
+Krunichev Proton-K with an Energiya DM-2M (11S861-01) upper stage. The
+DM-2M delivered the satellite to geostationary orbit. The satellite's
+comms payload was built by the Japanese companies NEC and Toshiba.
+
+The Ekspress series has had three generations: Ekspress, Ekspress A,
+Ekspress AM. (The satellites are often called Express in English; I use
+the odd spelling to reflect a direct transliteration from the Russian.)
+The Ekspress-AM uses an improved Ekspress-M or 727M bus, first used
+on the Sesat satellite, while the earlier models use the KAUR-4 MSO-2500
+bus.
+
+Satellite          Orbital slot    Launched     Status/Longitude
+
+Ekspress No. 11    Ekspress-2      1994 Oct 13  Retired 2001 Nov
+Ekspress No. 12    Ekspress-6      1996 Sep 26  Retired 2002 May
+
+Ekspress A1        -               1999 Oct 27  Launch failure
+Ekspress A2        Ekspress-6A     2000 Mar 12  80.1E
+Ekspress A3        Ekspress-3A     2002 Jun 10  11.0W
+Ekspress A1R       Ekspress-A1R    2000 Jun 24  40.0E
+
+Ekspress AM-22     Ekspress AM-22  2003 Dec 29  53.1E
+Ekspress AM-11     Ekspress AM-11  2004 Apr 26  96.5E
+Ekspress AM-1      Ekspress AM-1   2004 Oct 29  Drifting west from 90E
+
+
+* Navstar SVN 61
+
+Global Positioning Satellite SVN 61, or flight IIR-13, was launched on
+Nov 6. The Delta II rocket entered a 174 x 393 km x 36.9 de g parking
+orbit and then a 191 x 1270 km x 37.2 deg intermediate orbit, at which
+point the solid PAM-D third stage separated and fired to put the GPS
+payload in a 173 x 20371 km x 39.1 deg transfer orbit. The satellite's
+apogee motor will fire to circularize the orbit. The GPS Block IIR
+satellites are built by Lockheed Martin/Sunnyvale.
+
+* ZY-2C
+
+The third ZY-2 satellite was launched on Nov 6. The satellite is
+a low orbit digital imaging spacecraft used by the Chinese government,
+probably for both civilian and military reconnaissance purposes.
+Initial orbit is 472 x 483 km x 97.3 deg.
+
+* SMART-1
+
+The European SMART-1 probe made its third lunar resonance gravity assist
+on Oct 12 and on Oct 26 was in a 173339 x 298835 km x 20.6 deg deep
+Earth orbit. The continued gravitational effect of the Moon raised the
+orbit until lunar capture on Nov 15. On Nov 11 the spacecraft finally
+passed through the weak stability boundary region at the Earth-Moon L1
+point, where small changes to the probe's path result in large
+alterations to its final orbit, and where the orbit becomes better
+described as Moon-centered rather than Earth-centered. The probe reached
+perilune on Nov 15 at 1748 UTC and entered a 4962 x 51477 km orbit
+around the Moon inclined at 81 degrees to the lunar equator. This is the
+most loosely bound lunar orbit ever achieved, with its highest point
+close to the Earth-Moon gravitational boundary - the US record-holder
+Explorer 35 in 1967 had an apolune of only 7800 km, while the 1990s
+Japanese probes Hagoromo and Hiten had apolunes of 22000 and 49400 km
+respectively; the Apollo missions  went directly to low orbits with
+apolunes of only 300 km. SMART-1's ion engine was restarted at orbit
+insertion to lower the orbital altitude and bind it more tightly the
+Moon; final orbit will be reached in January.
+
+* Helios 1B
+
+The French spy satellite Helios 1B has been taken out of service. In
+mid-October the orbit of the satellite was lowered from 679 x 681 km x
+98.2 deg to 637 x 640 km x 98.2 deg, taking it out of the path of 
+Helios 1A and future successors.
+
+* MicroLabSat
+
+The two tiny RITE Target subsatellites released by the Japanese
+MicroLabSat on 2003 Mar 14  (see JSR 509) have now been cataloged by
+Space Command.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+  
+Sep  6 1053   'Ofeq-6           Shaviyt         Palmachim         Imaging    F01
+Sep  8 2314   SJ-6A )           CZ-4B           Taiyuan           Science    35A
+              SJ-6B )                                             Science    35B
+Sep 20 1031   EDUSAT            GSLV            SDSC              Comms      36A
+Sep 23 1507   Kosmos-2408 )     Kosmos-3M       Plesetsk          Comms      37A
+              Kosmos-2409 )                                       Comms      37B
+Sep 24 1650   Kosmos-2410       Soyuz-U         Plesetsk LC16     Imaging    38A
+Sep 27 0800   FSW 20            CZ-2D           Jiuquan           Imaging?   39A
+Oct 14 0306   Soyuz TMA-5       Soyuz-FG        Baykonur LC1/5    Spaceship  40A
+Oct 14 2123   AMC 15            Proton-M/Briz-M Baykonur LC200/39 Comms      41A
+Oct 19 0120   FY-2C             CZ-3A           Xichang           Weather    42A
+Oct 29 2211   Ekspress AM-1     Proton-K/DM-2M  Baykonur LC200/39 Comms      43A
+Nov  6 0310   ZY-2C             CZ-4B           Taiyuan           Imaging    44A
+Nov  6 0539   GPS SVN 61        Delta 7925      Canaveral SLC17B  Navigation 45A
+Nov  8 1830   Oblik             Soyuz-2-1A      Plesetsk LC43/4   Test       U01
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

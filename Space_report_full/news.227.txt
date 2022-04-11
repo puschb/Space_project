@@ -1,0 +1,145 @@
+Jonathan's Space Report 
+No. 227               1995 Jan 18          Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+--------
+
+OV-103 Discovery, attached to the STS-63 stack on Mobile Launcher 1, was
+moved to Pad 39B on Jan 10. It was transferred to the Vehicle Assembly
+Building on Jan 5 (not Feb 5 as I said last week!). Launch of mission
+STS-63 remains scheduled for Feb 2.
+
+Mir
+---
+
+The Mir crew of Viktorenko, Kondakova and Polyakov boarded
+the Soyuz TM-20 ferry craft on Jan 11, and undocked from Mir's
+front port at 0900 UTC. The craft withdrew to about two hundred
+metres from Mir and then redocked in a test of the automatic
+Kurs system, which had failed in Progress M-24's attempted
+docking last year. Redocking came at 0925 UTC.
+
+On Jan 8 Valeriy Polyakov passed the one year mark in orbit.
+His flight is now the longest ever, beating the 365 day
+record of Vladimir Titov and Musa Manarov set in 1988.
+
+New Launches
+------------
+
+The German space agency's Experiment Reentry Space System (EXPRESS)
+payload was launched on Jan 15 by Mu-3S-II from Kagoshima. The payload
+uses a Russian-built reentry vehicle and the launch was carried out by
+the Japanese ISAS space agency. It was due to land in the Australian
+desert after a five day flight, but a guidance failure on the M-23
+second stage of the Mu launch vehicle apparently left the spacecraft and
+its final stage in an incorrect orbit; EXPRESS reentered the atmosphere
+over the Pacific within a few orbits. This was the 8th Mu-3S-II launch
+and the first to have a significant failure. These details are all
+provisional, I don't have full information yet. In particular, Yoshiro
+Yamada reports that the Mu-3S-II-8 was a four-stage version instead of
+the basic three-stage one. The standard Mu-3S-II has a  M-13 first
+stage, an M-23 second stage, and an M-3B third stage. Four flights have
+used extra solid propellant KM-P, KM-M or KM-D kick motors as fourth
+stages.
+
+  Mu launch history:
+Mu-4S vehicle:  M-10/M-20/M-30/M-40 configuration.
+ First launch 1966 with M-10 live only; 1969 with first three stages live;
+ 3 of 4 orbital attempts successful 1970-1972.
+Mu-3C vehicle : M-10/M-22/M-3A configuration with thrust vector control
+ second stage. 
+ 3 of 4 launches successful, 1974-1979.
+Mu-3H vehicle:  M-13/M-22/M-3A configuration.
+ 3 of 3 successful, 1977-1978, all flown with unidentified fourth stage
+ kick motor? (any details welcome)
+Mu-3S vehicle:  As Mu-3H but with thrust vector control added to M-13 stage.
+ 4 of 4 successful, 1980-1984.
+Mu-3S-II vehicle: M-13/M-23/M-3B configuration.
+ 1985 Jan  7  Mu-3S-II/KM-P MS-T5    (Sakigake)
+ 1985 Aug 18  Mu-3S-II/KM-P Planet-A (Suisei)
+ 1987 Feb  5  Mu-3S-II      Astro-C  (Ginga)
+ 1989 Feb 21  Mu-3S-II/KM-D EXOS-D   (Akebono)
+ 1990 Jan 24  Mu-3S-II/KM-M MUSES-A  (Hiten) + Hagoromo
+ 1991 Aug 23  Mu-3S-II      Solar-A  (Yohkoh)
+ 1993 Feb 20  Mu-3S-II      Astro-D  (Asuka)
+ 1995 Jan 15  Mu-3S-II/?    EXPRESS
+
+An Intelsat 7 satellite was launched by a Martin Marietta Atlas IIAS on
+Jan 10. The Atlas first stage (serial no. 8203) and its Castor IV solid
+strapons took off from Pad 36 at Cape Canaveral; the Centaur II AC-113
+second stage then ignited to enter a 306 x 41000 km x 26.4 deg transfer
+orbit. The Space Systems/Loral Intelsat 7 satellite first fired its apogee
+engine on Jan 11 and over several days reached geostationary orbit;
+the profile is pretty typical for recent comsats with bipropellant engines,
+and I include each orbit reached below:
+ Jan 10   306 x 41000 km x 26.4 deg
+ Jan 11  1353 x 42238 km x 23.4 deg
+ Jan 12  4033 x 41128 km x 15.7 deg
+ Jan 12 16563 x 41116 km x  4.7 deg
+ Jan 14 35787 x 36974 km x  0.2 deg
+ Jan 16 35793 x 35809 km x  0.0 deg, 56 deg E drifting 0.2 deg/day
+Intelsat satellites are operated by the International Telecommunications
+Satellite Organization, an intergovernmental consortium with over
+a hundred member nations (the US participation is via Comsat Corporation). 
+The first Intelsat satellite was Early Bird, launched in 1965.
+
+--------------------------------------------------------------------------------
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Dec  1 2255     Panamsat K2     Ariane 42P      Kourou ELA2     Comsat      FTO
+Dec 14 1421     Molniya-1T      Molniya-M       Plesetsk LC43   Comsat      81A
+Dec 16 1200     Luch            Proton-K/DM-2   Baykonur LC81   Comsat      82A
+Dec 20 0511     Kosmos-2298     Kosmos-3M       Plesetsk LC132  Comsat      83A
+Dec 22 2219     DSP F17         Titan 4/IUS     Canaveral LC40  Early Warn  84A
+Dec 26 0301     Radio-ROSTO     Rokot           Baykonur LC175  Comsat      85A
+Dec 26 2227     Kosmos-2299 )   Tsiklon-3       Plesetsk LC32   Comsat      86A
+                Kosmos-2300 )                                   Comsat      86B
+                Kosmos-2301 )                                   Comsat      86C
+                Kosmos-2302 )                                   Comsat      86D
+                Kosmos-2303 )                                   Comsat      86E
+                Kosmos-2304 )                                   Comsat      86F
+Dec 28 1131     Raduga          Proton-K/DM-2   Baykonur LC81   Comsat      87A
+Dec 29 1130     Kosmos-2305     Soyuz-U         Baykonur LC31   Recon       88A
+Dec 30 1002     NOAA-14         Atlas E         Vandenberg SLC3 Weather     89A
+Jan 10 0618     Intelsat 704    Atlas IIAS      Canaveral LC36  Comsat      01A
+Jan 15 1345     EXPRESS         Mu-3S-II        Kagoshima       Materials   
+
+Reentries
+---------
+
+Dec  5          Molniya-3 (85-04A) Reentered
+Dec  9          Kosmos-2238     Reentered
+Jan 15          EXPRESS         Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       LC39B         STS-63  Feb 2
+OV-104 Atlantis        OPF Bay 3     STS-71  Jun
+OV-105 Endeavour       OPF Bay 1     STS-67  Mar 2
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-42/ET-68/OV-103   LC39B     STS-63                       
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/                      
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

@@ -1,0 +1,217 @@
+Jonathan's Space Report 
+No. 725                                                       2016 May 18 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 47 continues with  commander Tim Kopra and flight engineers
+Yuriy Malenchenko, Tim Peake, Alexey Ovchinin, Oleg Skripochka and Jeff Williams.
+
+Progress M-29M was deorbited on Apr 8, reentered around 1416 UTC over the S Pacific.
+
+Dragon CRS-8 arrived at the capture point 10m from the Harmony module at
+1115 UTC Apr 10. The Canadarm-2 grappled it at 1123 UTC and berthed it
+on Harmony's nadir CBM port at 1357 UTC. At about 0600 UTC on Apr 16 the
+BEAM module was extracted from Dragon's trunk; BEAM was installed on the
+Tranquility module's aft port at 0937 UTC Apr 16.
+
+On Apr 27 the 50 kg Diwata-1 satellite, launched on Cygnus OA-6, was removed from the Kibo
+airlock by the JRMS arm and released into orbit. Diwata-1 is an Earth observation
+satellite developed by the Phillipines.
+
+CRS-8 was unberthed at 1102 UTC May 11 and released into space at 1319 UTC.
+After a deorbit burn at 1801 UTC it splashed down around 120.1W 31.4N, off
+the coast of California, at 1851 UTC.
+
+A series of Cubesat deploys from the Kibo module began on May 16
+with MinXSS (U of Colorado), CADRE (U Michigan), STMSat-1 (St. Thomas More School),
+and Nodes 1 and 2 (NASA-Ames). MinXSS carries a miniature X-ray solar spectrometer
+to study the hard X-ray spectra of solar flares. On May 17 deployment began
+of the PlanetLabs Flock-2e series (launched on OA-4) and Flock-2e-Prime (launched
+on OA-6).
+
+Sentinel-1B
+-----------
+
+On Apr 25 Arianespace flight VS14 launched a Soyuz ST-A from the ELS pad
+at CSG Sinnamary. The Fregat stage first burn reached an initial orbit
+of 695 x 700 km and deployed the Sentinel-1B radar imaging satellite for
+ESA. It then made a burn to 442 x 690 km and deployed three 1U cubesats:
+OUFTI-1 for the University of Liege, AAUSAT-4 for Aalborg University in
+Denmark, and E-St@r-II for the Politecnico di Torino. The ASAP-S adapter
+was ejected into the same orbit. Next, the Fregat stage made two more
+burns to reach 711 x 714 km and released the Microscope satellite.
+Operated by the French space agency CNES, Microscope uses the Myriade
+bus and contains drag-free test masses to test the Equivalence
+Principle. Finally, at 0118 UTC, Fregat made a deorbit burn and reentered over
+the S Atlantic.
+
+Signals from all three cubesats were being recieved as of May 4.
+
+
+Lomonosov
+---------
+
+The Lomonosov (Mikhailo-Lomonosov-300) science satellite was orbited on Apr 28
+from the new Vostochniy spaceport.  The old GIK-2 (2nd State Test Cosmodrome)
+at Svobodniy was shut down in 2007; its reopening as Vostochniy marks a planned shift
+away from the Kazakhstan launch site of Baikonur.
+
+Lomonosov's main experiment, TUS, is an ultraviolet camera to observe the flashes
+from cosmic rays hitting the Earth's upper atmosphere.
+The Samara State Aerospace University's AIST-2D imaging satellite and its Kontakt-Nanosputnik
+(Samsat-218/D) cubesat were also deployed. However, the student-built Samsat-218/D
+failed to transmit properly.
+
+IRNSS-1G
+--------
+
+Launch of the IRNSS-1G completes India's 7-satellite navigation constellation and marks
+the third Indian launch this year.
+
+SJ-10
+-----
+
+The Shi Jian-10 microgravity satellite's reentry vehicle separated from
+the service module on Apr 18 at 0815 UTC and landed in China at 0830 UTC.
+The service module remains in a 253 x 269 km orbit, recataloged as a new object.
+It adjusted its orbit on Apr 22 but as of May 18 had not made further maneuvers.
+
+JCSAT-14
+--------
+
+Sky Perfect JSAT's JCSAT 14 satellite, an SSL-1300 comms platform built by SSL-MDA,
+was launched by Falcon 9 on May 6 into geotransfer orbit. The Falcon 9
+first stage landed downrange on the SpaceX droneship Of Course I Still Love You.
+
+  Each of the JCSAT series satellites has two names - essentially, a name that
+identifies the physical satellite and a name that marks the service it is providing
+at a specific orbital slot. Here is the JCSAT series:
+
+   Satellite name  Service name  Launch       Retired      Location
+
+   JCSAT  1        JCSAT 1      1989 Mar  6  1998 Aug 17  150E
+   JCSAT  2        JCSAT 2      1990 Jan  1  2002 Aug     154E
+   JCSAT  3        JCSAT 3      1995 Aug 29  2007 Feb     128E
+   JCSAT  4        JCSAT R      1997 Feb 17  2009 Aug     150E, 124E, 150E, Now Intelsat IS-26
+   JCSAT  5        JCSAT 1B     1997 Dec  2  -            150E  
+   JCSAT  6        JCSAT 4A     1999 Feb 16  -             82E
+   JCSAT  7        JCSAT-110    2000 Oct  6  -            110E (Also called Superbird 5)
+   JCSAT  8        JCSAT 2A     2002 Mar 29  -            154E
+   JCSAT  9        JCSAT 5A     2006 Apr 12  -            132E
+   JCSAT 10        JCSAT 3A     2006 Aug 11  -            128E
+   JCSAT 11        -            2007 Sep  5  2007 Sep  5  Failed to orbit
+   JCSAT 12        JCSAT RA     2009 Aug 21  -            128E
+   JCSAT 13        JCSAT 4B     2012 May 15  -            124E
+   JCSAT 14        JCSAT 2B     2016 May  6  -            En route 154E
+
+Cassini
+-------
+
+On May 6 the Cassini probe carried out the T-119 flyby of Titan, passing
+971 km from that world at 1656 UTC. The flyby changed Cassini's orbit
+around Saturn from 442000 x 3310000 km x 28.8 deg for orbit 235 to
+545000 x 3210000 km x 36.0 deg on orbit 236. The next Titan flyby is
+T-120, at 1407 UTC Jun 7 following orbit 236 periapsis.
+
+
+Simorgh
+-------
+
+The Washington Free Beacon, a conservative media outlet with sources in
+the US defense establishment, reports that Iran's new Simorgh launch
+vehicle failed in its initial launch attempt on Apr 19. However, Russian
+sources quoted in the Kommersant newspaper suggest that it was a
+successful suborbital test flight of the rocket.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Mar  4 2335   SES-9               Falcon 9 FT        Canaveral SLC40   Comms          13A   S41380  35785 x 35788 x   0.1 GEO 113.5E
+Mar  9 0520   Eutelsat 65 West A  Ariane 5 ECA       Kourou ELA3       Comms          14A   S41382  35778 x 35796 x   0.1 GEO 65W
+Mar 10 1031   IRNSS-1F            PSLV-XL            Satish Dhawan SLP Navigation     15A   S41384  35693 x 35876 x   5.0 GEO 32E
+Mar 13 1856   Resurs-P No. 3      Soyuz-2-1B         Baykonur LC31     Imaging        16A   S41386    279 x   452 x  97.3 1150LT SSO
+Mar 14 0931   ExoMars TGO   )     Proton-M/Briz-M    Baykonur LC200/39 Mars orbiter   17A   S41388    750 x-71368 x  51.5
+              Schiaparelli  )                                          Mars lander    17    A08532    750 x-71368 x  51.5
+Mar 18 2126   Soyuz TMA-20M       Soyuz-FG           Baykonur LC1      Spaceship      18A   S41391    193 x   230 x  51.6 Docked ISS
+Mar 23 0305   SS Rick Husband     Atlas V 401        Canaveral SLC41   Cargo          19A   S41393    240 x   250 x  51.6 Docked ISS
+Mar 24 0942   Bars-M No. 2        Soyuz-2-1A         Plesetsk          Mapping        20A   S41394    332 x   540 x  97.6 1325LT SSO
+Mar 29 2011   Beidou DW 22        Chang Zheng 3A     Xichang LC2       Navigation     21A   S41434  35681 x 35887 x  55.0
+Mar 31 1623   Progress MS-02      Soyuz-2-1A         Baykonur LC31     Cargo          22A   S41436    261 x   267 x  51.6
+Apr  5 1738   Shi Jian 10         Chang Zheng 2D     Jiuquan           Microgravity   23E   S41455    233 x   267 x  42.9
+Apr  8 2043   Dragon CRS-8        Falcon 9 FT        Canaveral SLC40   Cargo          24A   S41452    209 x   353 x  51.7 Docked ISS
+Apr 25 2102   Sentinel-1B  )      Soyuz ST-A         CSG ELS           Radar imaging  25A   S41456    695 x   700 x  98.2 1800LT SSO
+              Microscope   )                                           Physics        25B   S41457    711 x   714 x  98.2 1800LT SSO
+              OUFTI-1      )                                           Tech           25C?  S41458    442 x   686 x  98.2
+              AAUSAT-4     )                                           AIS            25D?  S41459    442 x   686 x  98.2
+              ESt@r-II     )                                           Tech           25E?  S41460    442 x   686 x  98.2
+Apr 27 1145   Diwata-1            -                  ISS Kibo, LEO     Imaging      9867HT  S41463    401 x   404 x  51.6
+Apr 28 0201   Lomonosov  )        Soyuz-2-1A/Volga   Vostochniy PU1S   Astronomy      26A   S41464    471 x   486 x  97.3 2314LT SSO 
+              AIST-2D    )                                             Imaging        26B   S41465    471 x   485 x  97.3 2314LT SSO 
+              Kontakt-NS )                                             Tech           26C   S41466    471 x   485 x  97.3 2314LT SSO 
+Apr 28 0720   IRNSS-1G            PSLV-XL            Satish Dhawan FLP Navigation     27A   S41469  35741 x 35821 x   5.1 GEO 129E
+May  6 0521   JCSAT 14            Falcon 9 FT        Canaveral SLC40   Comms          28A   S41471  35758 x 35864 x   0.0 GEO 176E
+May 15 0243   Yaogan 30           Chang Zheng 2D     Jiuquan           Imaging        29A   S41473    628 x   656 x  98.1 0900LT SSO
+May 16 1005   MinXSS )                               ISS, LEO          Astronomy   9867HU?  S41474?
+              CADRE  )                                                 Science     9867HV?  S41475?
+May 16 1440   STMSat-1 )                             ISS, LEO          Tech        9867HW?
+              Nodes 1  )                                               Tech        9867HX?
+              Nodes 2  )                                               Tech        9867HY?
+May 17 0845   Flock 2e'-1 )                          ISS, LEO          Imaging     9867HZ?
+              Flock 2e'-2 )                                            Imaging     9867JA?
+May 17 1200   Flock 2e-1 )                           ISS, LEO          Imaging     9867JB?
+              Flock 2e-2 )                                             Imaging     9867JC?
+May 18 0218   Flock 2e'-3?)                          ISS, LEO          Imaging     9867JD?
+              Flock 2e'-4?)                                            Imaging     9867JE?
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+On Apr 26 the Chinese Academy of Sciences launched a suborbital science
+payload, Kunpeng-1B, from its Hainan sounding rocket station. This is a
+small facility at 109 07E 19 31 N, on the other side of Hainan from the
+new Wenchang Space Center. The TY-3F sounding rocket has a booster stage
+added to the earlier single-stage Tianying design, to increase its
+apogee (similar to the Terrier booster used to increase apogee of the
+Black Brant in its Black Brant 9 configuration).
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Mar  1 1450   MUSIC            Terrier Imp.Mal.    Wallops Island        Tech          185       Atlantic Ocean
+Mar  7 1205   NASA 41.114NP    Terrier Imp.Orion   Wallops Island        Tech          160?      Atlantic Ocean
+Mar  8        Shahab RV        Shahab-1            Qom Desert, Iran      Test          100?      Qom Desert, Iran
+Mar  8        Shahab RV        Shahab-2            Qom Desert, Iran      Test          120?      Qom Desert, Iran
+Mar  8        Qiam RV          Qiam                Qom Desert, Iran      Test          125?      Qom Desert, Iran
+Mar  9        Ghadr RV         Ghadr-F             Semnan?, Iran         Test          150?      Makran, S Iran
+Mar  9        Ghadr RV         Ghadr-H             Semnan?, Iran         Test          150?      Makran, S Iran
+Mar  9 2020   Hwasong RV       Hwasong 6?          Chiha?, N Korea       Test          150?      Sea of Japan
+Mar  9 2020   Hwasong RV       Hwasong 6?          Chiha?, N Korea       Test          150?      Sea of Japan
+Mar 14        Trident RVs x ?  Trident D-5       SSBN off Cape Canaveral Test         1000?      S Atlantic
+Mar 15        Trident RVs x ?  Trident D-5       SSBN off Cape Canaveral Test         1000?      S Atlantic
+Mar 16        Trident RVs x ?  Trident D-5       SSBN off Cape Canaveral Test         1000?      S Atlantic
+Mar 17 2055   Nodong RV        Nodong              Sukcheon, N Korea     Test          150?      Sea of Japan
+Mar 31        K-4 RV           K-4            INS Arirant, Visakhapatnam Test          500?      Bay of Bengal?
+Apr  2 1518   New Shepard M4   New Shepard         West Texas            Test          103       West Texas
+Apr 12        DF-41 RVs?       DF-41?              Taiyuan?              Test         1000?      ?
+Apr 19 0641   Yu-71 No. 3      UR-100NU            Yasniy                Test         1000?      Kura?
+Apr 19 0933   Test payload     Simorgh             Semnan                Test          200?      S Iran
+Apr 26 1700   Kunpeng-1B       Tianying-3F         Hainan                Ionosphere    316       S China Sea
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+	 
+
+
+

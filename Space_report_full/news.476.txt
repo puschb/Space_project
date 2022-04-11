@@ -1,0 +1,114 @@
+
+Jonathan's Space Report
+No. 476                                              2002 Apr 9 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Space Shuttle Atlantis was launched at 2044 UTC on Apr 8. It entered an
+orbit of approximately 59 x 229 km x 51.6 deg at 2052 UTC, and separated
+from the External Tank, ET-114. ET-114 reached apogee around 2122 UTC
+and reentered over the Pacific about 2150 UTC at the end of its first
+orbit. Atlantis fired its OMS engines at apogee to raise its perigee to
+155 km. Further orbit changes will lead to a rendezvous with the Space
+Station.
+
+Atlantis (orbiter OV-104) is flying Shuttle mission STS-110, Station
+mission 8A, which will deliver the S0 truss to Station. S0 will be
+attached to the Destiny lab module.
+
+Recent Launches
+---------------
+
+China's Shenzhou 3 descent module returned to Earth on Apr 1 at 0851
+UTC, landing in Nei Monggol Zizhiqu (Inner Mongolia). The orbital module
+separated earlier on Apr 1 and remains in orbit carrying out
+experiments; the propulsion module carried out the deorbit burn and then
+separated to burn up in reentry.
+
+An Arianespace Ariane 44L rocketed into space from Kourou on Mar 29,
+launching JCSAT 8 and Astra 3A. The Ariane high energy third stage
+reached geostationary transfer orbit. JCSAT 8 separated, followed by the
+Mini-Spelda adapter, followed by Astra 3A. JCSAT 8 is a Boeing BSS-601
+with a launch mass of 2600 kg and a dry mass around 1200 kg. It's one of
+the lowest mass BSS-601 satelites in recent years, and will be used by
+Japan Satellite to replace JCSAT 2. Astra 3A is a Boeing BSS-376HP, a
+smaller satellite wih a mass of 1495 kg full and about 750 kg empty. It
+will join Luxembourg-based SES Astra's fleet. The 376 model has been in
+use since 1980 and only one other, also in the Astra series, has been
+launched in the past three years.
+
+International Launch Services carried out the launch of a Krunichev
+Proton-K with an Energiya Blok DM3 upper stage on Mar 30 at 1725 UTC.
+The three stage Proton put the DM3 and payload on a suborbital
+trajectory. The first DM3 burn reached a circular 160 km orbit at 1742
+UTC. The second burn at 1838 UTC raised apogee to about 35800 km, and a
+third burn near apogee at 2339 UTC raised perigee to about 3500 km and
+lowered inclination to 25 deg. Blok DM3 separated from the Intelsat 903
+payload at 0008 UTC on Mar 31. By Apr 5, Intelsat 903 was in a 31653 x
+35817 km x 0.7 deg near-synchronous orbit.
+
+Intelsat 903 has a launch mass of 4726 kg and a dry mass around 2350 kg,
+and carries C and Ku band antennas. It was built by SS/Loral using
+a derivative of the FS-1300 platform.
+
+Kosmos-2388 was launched on Apr 1 by Molniya-M from area 16, pad 2 at
+Plesetsk (thanks to Alex Zheleznyakov for pad info). It is a US-KS (Oko)
+elliptical orbit early warning satellite built by Lavochkin. The launch
+was reported as successful, but GSFC had still not posted any Space
+Command element sets by Apr 8 for the elliptical orbit (although the
+Blok-I rocket and BOZ ullage system left in low orbit have now been
+cataloged.) It's very unusual for this kind of satellite not to be
+tracked immediately, and it has probably gone into a non-standard orbit.
+The usual initial orbit for Oko satellites is about 500 x 39000 km x
+62.9 deg; the Blok-I is in a standard 231 x 490 km x 62.8 deg
+low parking orbit.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  1 0108   Envisat           Ariane 5G      Kourou ELA3      Rem.Sensing  09A
+Mar  1 1122   Columbia STS-109  Space Shuttle  Kennedy LC39A    Spaceship    10A  
+Mar  8 2259   TDRS I            Atlas 2A       Canaveral SLC36A Data relay   11A
+Mar 17 0921   GRACE 1 )         Rokot          Plesetsk LC133   Science      12A
+              GRACE 2 )                                                      12B
+Mar 19 2228   Kolibri           -              Progress, LEO    Education  01-51C
+Mar 21 2013   Progress M1-8     Soyuz-FG       Baykonur LC1     Cargo        13A
+Mar 25 1415   Shenzhou 3  )     CZ-2F          Jiuquan          Spaceship    14A
+              SZ-3 module )                                                  14C
+Mar 29 0129   Astra 3A)         Ariane 44L     Kourou ELA3      Comms        15A
+              JCSAT 8 )                                         Comms        15B
+Mar 30 1725   Intelsat 903      Proton-K/DM3   Baykonur LC81/23 Comms        16A
+Apr  1 2207   Kosmos-2388       Molniya-M      Plesetsk LC16/2  Early Warn   17A
+Apr  8 2019   Atlantis STS-110) Space Shuttle  Kennedy LC39B    Spaceship    18A
+              S0              )                                 Station piece
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107 2002 Jul 11  Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        LEO           STS-110 2002 Apr  8  ISS 8A
+OV-105 Endeavour       OPF Bay 1?    STS-111 2002 Jun     ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

@@ -1,0 +1,241 @@
+Jonathan's Space Report
+No. 663                                       2012 Jul 25    Somerville, MA USA
+--------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+On the ISS, Expedition 32 continues with astronauts Gennadiy Padalka, Sergey
+Revin, Joseph Acaba, Yuriy Malenchenko, Sunita Willams and Akihiko Hoshide.
+Soyuz TMA-05M docked with the Rassvet module on Jul 17 at 0451 UTC.
+
+Japan's HTV 3 (Kounotori 3) cargo ship was launched on Jul 21 and is
+scheduled to dock with the ISS on Jul 27. HTV-3's unpressurized Exposed
+Pallet carries two packages, JAXA's MCE (Multi-mission consolidated
+equipment / poto kyoju jikken sochi), and NASA-Glenn's SCAN Testbed. MCE
+includes a ionosphere experiment (IMAP), a lightning study sensor
+(GLIMS), an inflatable membrane experiment (SIMPLE) and REXJ, a robotics
+experiment. SCAN Testbed has S-band, Ka-band and L-band antennas to test
+out sofware-defined-radio technologies. 
+
+The HTV-3 pressurized module contains 8 HTV Resupply Racks with station
+supplies and equipment, including two J-SSOD picosat deployers and the
+MPEP adapter. Later this year, astronauts will attach the J-SSOD
+packages to the MPEP and then put the MPEP in the Kibo module's small
+science airlock. When the airlock is opened to space, JAXA's JEM-RMS
+robot arm will grab the MPEP and stick it pointing in the desired
+direction. The J-SSODs will then shoot out their contents, five small
+satellites. The first J-SSOD carries RAIKO, a 2 kg double cubesat from
+Wakayama University carrying an imager and a deployable 'drag-membrane'
+to make the satellite reenter more quickly, and WE WISH, an 1 kg IR
+imaging satellite from Meisei Electric's amateur radio club. The second
+J-SSOD carries three 1 kg single-cubes, F-1 from FPT University in
+Hanoi, TechEdSat from San Jose State University, and the Niwaka cubesat
+from Fukuoka Institute of Technology, Kyushu.
+
+
+
+On Jul 22 at 2026 UTC the Progress M-15M cargo vehicle undocked from Pirs;
+it was to return to ISS on Jul 24 in a test of the new Kurs-NA rendezvous system.
+At 0123 UTC on Jul 24 the Kurs-NA failed to start up correctly and the rendezvous
+was postponed, with Progress M-15M flying past the station at a distance of 3 km.
+
+Shenzhou 9
+----------
+
+Bob Christy and Ted Molczan have tracked down the mystery of the extra
+object, 38465/2012-032E. It seems to be one of the four second stage motor separation
+covers, which for some reason was jettisoned late.
+
+Kanopus launch
+---------------
+
+On Jul 22, Roskosmos launched a Soyuz-FG/Fregat into polar orbit
+with a cluster of small satellites.
+
+Kanopus-Vulkan-1 and BelKA-2 are Earth imaging satellites built by VNII
+Elektromekhaniki, the former for Roskosmos and the latter for the
+Belorussian Academy of Sciences. The satellites carry 2-meter-resolution
+cameras.
+
+ExactView-1 (formerly ADS-1B) is a Surrey satellite for the Canadian company
+ComDev, carrying an AIS (ship tracking) transponder. The Automatic Identifcation
+System picks up VHF 162 MHz transmitters on marine vessels.
+
+MKA-PN1 is a Russian magnetospheric research mission led by IKI (Inst. for Space Research)
+using the Karat bus and the Zond-PP L-band microwave radiometer to study soil moisture
+and ocean salinity.
+
+TET-1 (TechnologieErprobungs-Trager) is a German technology satellite
+built by Kayser-Threde and TUB,  carrying experimental solar cells,
+electronics, a test picosat propulsion system, and an infrared camera.
+
+The Soyuz-FG third stage was tracked in a 160 x 171 km x 95.5 deg
+parking orbit; Kanopus, BelKA and TET-1 are in 505 x 510 km x 97.5 deg
+orbits; ExactView and MKA are in 805 x 821 km x 99.0 deg orbits, and the
+Fregat stage (S/N 1019) entered a 40 x 810 km orbit before its reentry.
+
+Tianlian
+----------
+
+China's third tracking and data relay satellite was launched on Jul 25.
+Tianlian yihao 03 xing  (Tianlian-1 Satellite 03) flew to a 199 x 42513
+km x 18.1 deg geostationary transfer orbit on a CZ-3C rocket.
+
+
+Landsat Anniversary
+-------------------
+
+In late July we had a number of well-known astronautical anniversaries -
+Jul 20 saw the 43rd  anniversary of the Apollo 11 lunar landing and the
+36th anniversary of the Viking 1 Mars landing. GSFC's Michelle Thaller
+reminds me that a less well-known date came on Jul 23 with the 40th
+anniversary  of the first Landsat launch, marking the beginning of
+civilian high(ish) resolution Earth imaging.
+
+US civilian Earth imaging programs were developed by NASA's Goddard
+Space Flight Center in Greenbelt, Maryland (with the exception of some
+hand-held camera imaging on human spaceflight missions). The Vanguard 2
+photocells in 1959 were followed by the Tiros weather satellites in
+1960, returning weather imaging with a few km spatial resolution. Tiros
+was the operational weather satellite system; NASA-Goddard's Nimbus
+satellites, built by General Electric/Valley Forge, were the
+research-and-development system testing out advanced sensors (Nimbus 3
+had 1.6km visible resolution and multiple infrared channels). 
+Meanwhile, secret NRO satellites were returing imagery with sub-meter
+resolution.  
+
+A drive in the late 1960s towards practical applications of space
+technology and an increased awareness of ecological issues led to the
+first moderately-high resolution civilian imaging program, the Earth
+Resources Technology Satellite. ERTS was based on GE's Nimbus satellite
+bus. ERTS 1's three-channel vidicon camera and 4-channel visible/near-IR
+multispectral scanner had a resolution of 80 meters. It was the first
+civilian imaging satellite to be targeted on ground features - crop
+monitoring, geological surveys, mapping - rather than meteorology.
+Following the launch of ERTS 2 in 1975, ERTS was renamed Landsat.
+Landsat 4 and 5 switched to the multi-mission bus also used for Solar
+Max and EUVE; Landsat 6 and 7 used a derivative of the Tiros-N bus used
+for NOAA and USAF polar weather satellites. 
+
+Unsuccessful attempts to commercialize Landsat in the 1990s led first to
+the system's transfer to the NOAA weather bureau (in 1983) and then to
+the formation of EOSAT (later Space Imaging), which took over operations
+of Landsat 4 and Landsat 5 in 1985 (ownership remained with NOAA until
+1998, when the US Geological Survey took over). In 2001 these satellites
+were returned to USGS while Landsat 7, with 15-meter resolution,  was
+developed by GSFC and turned over to USGS for operations. The Landsat
+Data Continuity Mission is scheduled for launch in early 2013.
+
+   ERTS/Landsat satellites
+   -----------------------
+
+Prelaunch    Postlaunch    Type      Mass/kg  Launch date        End of life date
+  Name          Name
+ ERTS A       ERTS 1       Nimbus      891    1972 Jul 23        1978 Jan 26
+ ERTS B       Landsat 2    Nimbus      953    1975 Jan 22        1983 Jul 27
+ Landsat C    Landsat 3    Nimbus      900    1978 Mar  5        1983 Sep  7
+ Landsat D    Landsat 4    MMS        1938    1982 Jul 16        2001 Jun 15
+ Landsat D'   Landsat 5    MMS        1938    1984 Mar  1        -
+ Landsat 6    Landsat 6    Tiros-N    1866    1993 Oct  5        1993 Oct  5  (launch failure)
+ Landsat 7    Landsat 7    Tiros-N    2101    1999 Apr 15        -
+ LDCM         -            Leostar-3  3085    2013 (planned)
+
+
+2012 Orbital launch summary to date
+-----------------------------------
+
+40 launches: 
+Russia China USA  Europe Japan India Iran N Korea
+  12    10   9     4      2     1     1    1(fail)
+
+Suborbital launches
+--------------------
+
+Some of the subarcsecond solar images from the Hi-C rocket have
+been released at http://www.nasa.gov/topics/solarsystem/features/hic.html
+
+NASA-Langley's IRVE-3 mission (NASA flight 39.011NR) tested an
+inflatable reentry vehicle on a suborbital flight from Wallops.
+Inflatable reentry technology was attempted by the Russian Lavochkin
+company as early as 2000, with mixed results. The 426 kg IRVE-3 payload
+deployed a 3-meter conical inflatable heat shield and successfully
+reentered, but attempts to locate the payload after splashdown in the
+Atlantic were not successful. The IRVE reentry conditions are less
+extreme than the IRDT flights (and they always quote Mach number at some
+unspecified altitude so I'm not sure of the velocity numbers I quote
+here).
+
+ Inflatable reentry missions:
+ Mission       Launcher       Date          Location                 Velocity   Result
+
+ IRDT          Soyuz-Fregat   2000 Feb 9    LEO to Kazakhstan         5.6 km/s  Success
+ Fregat-IRDT   Soyuz-Fregat   2000 Feb 9    LEO to Kazakhstan         5.6 km/s  Vehicle lost
+ IRDT-2        Volna          2002 Jul 12   Barents Sea to Kamchatka  7.3 km/s  Vehicle lost
+ IRDT-2R       Volna          2005 Oct  6   Barents Sea to Kamchatka  6.9 km/s  Vehicle lost
+ IRVE-1        Terrier Orion  2007 Sep  6   Wallops to Atlantic       1.3 km/s? No payload sep
+ IRVE-2        Black Brant 9  2009 Aug 17   Wallops to Atlantic       1.7 km/s? Success (recovery not attempted)
+ IRVE-3        Black Brant11  2012 Jul 23   Wallops to Atlantic       2.7 km/s? Success (no recovery)
+
+
+The Degradation Free Spectrometers mission, NASA 36.263US, flew new
+extreme ultraviolet spectrometers to study the solar output. The DFS
+instruments, intended for future solar satellites, will be able to
+return accurate absolute measurements over many years. The flight also
+carried a copy of the SOHO SEM instrument, which has been in space since
+1995, to see how much the original instrument on SOHO has degraded. The
+mission is led  by Darrell Judge of the University of Southern
+California.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun  1 0523   Intelsat IS-19     Zenit-3SL         Odyssey, Pacific  Comms     30A
+Jun 13 1600   NuStar             Pegasus XL        L-1011,Kwajalein  Astronomy 31A
+Jun 16 1037   Shenzhou 9         Chang Zheng 2F    Jiuquan           Spaceship 32A
+Jun 20 1228   USA 236 (NROL-38)  Atlas 5 401       Canaveral SLC41   Comms?    33A
+Jun 29 1315   USA 237 (NROL-15)  Delta 4H          Canaveral SLC37B  Sigint?   34A
+Jul  5 2136   Echostar 17  )     Ariane 5ECA       Kourou ELA3       Comms     35A
+              Meteosat 10  )                                         Weather   35B
+Jul  9 1838   SES-5              Proton-M/Briz-M   Baykonur LC81/24  Comms     36A
+Jul 15 0240   Soyuz TMA-05M      Soyuz-FG          Baykonur LC1/5    Spaceship 37A
+Jul 21 0206   Kounotori 3        H-IIB             Tanegashima LP2   Cargo     38A
+Jul 22 0641   Kanopus-V )                                            Imaging   39
+              BelKA-2   )        Soyuz-FG/Fregat   Baykonur LC31/6   Imaging   39
+              TET-1     )                                            Tech      39
+              exactView-1)                                           Comms/AIS 39
+              MKA-PN1    )                                           Science   39
+Jul 25 1543   Tianlian-1 (03)    Chang Zheng 3C    Xichang           Comms     40A
+           
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Jun  7 1739   RV               Topol'             Kapustin Yar        Op Test     1000?
+Jun 21 1040   NASA 41.101UO    Terrier Orion      Wallops I.          Education    117
+Jun 22 1918   SHEFEX II        VS-40              Andoya              Hypersonic   177
+Jun 23 1930   NASA 36.286UE    Black Brant 9      White Sands         Solar        300?
+Jun 27 0915   FTM-18 Target    Castor 4B?         Kauai               Target       100?
+Jun 27 0920?  FTM-18 KV        SM-3 Block IB      USS Lake Erie       Intercept    100?
+Jul  3        Shahab RV        Shahab 1           ?, Iran             Exercise     100?
+Jul  3        Shahab RV        Shahab 2           ?, Iran             Exercise     100?
+Jul  3        Shahab RV        Shahab 3           ?, Iran             Exercise     150?
+Jul  5 1850   NASA 36.284NS    Black Brant 9      White Sands         Solar        275?
+Jul 11 1850   NASA 36.272NS    Black Brant 9      White Sands         Solar        268
+Jul 23 1101   NASA 39.011NR    Black Brant 11     Wallops             Reentry test 458
+Jul 24 1917   NASA 36.263US    Black Brant 9      White Sands         Solar        324
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

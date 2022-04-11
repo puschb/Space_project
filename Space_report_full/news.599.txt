@@ -1,0 +1,140 @@
+Jonathan's Space Report
+No. 599                                           2008 Sep 4, Somerville, MA
+-------------------------------------------------------------------------------
+
+Test launch of Iranian satellite launch vehicle
+-------------------------------------------------
+
+On Aug 17 the Fars news agency reported the launch of the Omid ('Hope')
+satellite from Iran. The BBC reports the name as 'Safir-e Omid' ('Envoy
+of hope'). However, other reports indicate that this was either a
+suborbital test or a launch of a dummy satellite, and that the Omid
+satellite was not aboard. According to an article by Jim Oberg, launch
+was at 1932 UTC Aug 16 and the second stage failed catastrophically at 152 km.
+Launch was from the site south of Semnan in the northern part of the
+Dasht-e-Kavir desert.
+
+Previous reports of Iranian space activity have been mangled by poor
+translation. I am not sure whether this was only a suborbital test
+launch of a prototype satellite launch vehicle, or was a failed orbital
+attempt. It is also unclear whether the orbital version has two or three
+stages; a Feb 2008 AP report suggests 3 stages and I find this more
+plausible. In any case, it does now seem clear that no satellite reached
+orbit on this try.
+
+The launch vehicle is probably derived from the Shahab-3 missile, which
+in turn is descended from the North Korean Nodong. A mockup of the
+vehicle shown earlier this year had the words 'SAFIR IRILV' on the side
+in the Roman alphabet. 'Safir' means 'envoy' or 'emissary', and IRILV
+presumably stands for Islamic Republic of Iran Launch Vehicle. The Al
+Alam (Tehran) news channel's web site alalam.ir reports that 'Safir
+Omid' is 22m long and 1.25m in diameter with a (launch) mass of 26t.
+Most analysts seem to have concluded that 'Safir' is the name of the
+rocket and 'Omid' of the proposed payload, and I think that is probably
+correct.
+
+Fermi
+------
+
+GLAST (the Gamma-ray Large Area Space Telescope) has been renamed
+FGST (Fermi Gamma-ray Space Telescope). Both the LAT and GBM instruments
+are returning good data.
+
+Ariane
+-------
+
+Ariane vehicle L542 launched two communications satellites on Aug 14.
+Superbird 7 (which will be called Superbird C2 in service) is a Ku-band
+Mitsubishi Electric (MELCO)  DS2000 class satellite for Japanese
+television broadcasting, and AMC 21 is a Ku-band satellite for SES
+Americom's North American services. AMC 21 uses an Orbital Star 2 bus
+with a Thales Alenia comms payload.
+
+Inmarsat
+--------
+
+The Inmarsat 4F3 maritime communications satellite was launched by a
+Khrunichev Proton on Aug 18. The Inmarsat satellite was deployed in a
+4310 x 35812 km x 22.8 deg orbit with the Briz-M stage after
+intermediate orbits of 172 x 173 km x 48 deg, 254 x 5000 km, and 408 x
+35876 km x 46 deg. The Briz-M drop tank is in a 312 x 13603 km x 46.2
+deg orbit; the Proton third stage fell back to Earth from a -919 x 164
+km x 47.9 deg orbit.
+
+Inmarsat 4F3 is an Astrium/Toulouse Eurostar 3000 satellite with a
+launch mass of 5960 kg and a solar panel span of 45m, with a large 10-m
+diameter L-band mobile comms antenna. It is owned by INMARSAT Ltd. of
+London, the now-privatized International Maritime Satellite
+Organization.
+
+ATK Launch Vehicle
+------------------
+
+Alliant TechSystem's suborbital ATK Launch Vehicle (ALV) had its first 
+launch on Aug 22 at 0910 UTC from pad 0B at the Mid-Atlantic Regional
+Spaceport at Wallops Island, Virginia. Intended to reach around 370 km,
+it went off course and was destroyed at an altitude of around 3.5 km, 27
+seconds after launch. The rocket used an Orion 50S first stage and Star
+37FMV second stage, and carried the HyBOLT and SOAREX-VI hypersonic
+research experiments.
+
+RapidEye
+--------
+
+Kosmotras has launched a Dnepr rocket carrying five commercial imaging
+satellites for RapidEye AG of Brandenberg. The satellites have a moderate
+resolution imager (around 6 meter resolution) to provide rapid response
+data products for agricultural applications like storm damage assessment.
+They were built by Surrey Satellite in Guildford.
+
+Dnepr launches result in two objects cataloged in orbit together with
+the payloads, one in the payload delivery orbit and one in a much more
+elliptical orbit. One object is the launch vehicle upper stage, which unusually
+is mounted above the payloads, reflecting its heritage as a missile MIRV bus;
+the second object is a 'gas dynamic shield'
+below and covering the payloads, which is ejected once orbit is reached.
+The upper stage separates in a posigrade (forward) direction, with thrust
+continuing after payload separation. Therefore, we can assume that
+the eccentric orbit object is the rocket stage and the low orbit object
+is the plume shield. In STRATCOM's satellite catalog, names assigned
+to the objects agree with this assessment for most Dnepr launches,
+but 2006-029 and 2007-028 have the objects swapped. I suspect this is an
+error, and assume that for the RapidEye launch object 2008-40H is the
+rocket stage, in a 617 x 1350 km orbit, while 2008-040G is probably the
+plume shield, in a 598 x 631 km orbit similar to the RapidEye payloads.
+
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  7 2147   Protostar 1  )    Ariane 5ECA      Kourou ELA3       Comms     34
+              Badr 6       )                                       Comms     34
+Jul 16 0520   Echostar 11       Zenit-3SL        SL Odyssey, POR   Comms     35A
+Jul 22 0240   SAR-Lupe 5        Kosmos-3M        Plesetsk          Radar     36A
+Jul 26 1831   Kosmos-2441       Soyuz-2-1B       Plesetsk LC43/4   Imaging   37A
+Aug  3 0334   Trailblazer )     Falcon 1         Omelek            Tech      F01
+              PreSat      )                                        Tech      F01
+              Nanosail-D  )                                        Tech      F01
+              Celestis    )                                        Burial    F01
+Aug 14 2044   Superbird 7 )     Ariane 5ECA      Kourou ELA3       Comms     38A
+              AMC 21      )                                        Comms     38D
+Aug 16 1932   Test payload?     Safir            Semnan            Test      F02?
+Aug 18 2243   Inmarsat 4 F3     Proton-M/Briz-M  Baykonur LC200/39 Comms     39A
+Aug 29 0716   RapidEye-1 )      Dnepr            Baykonur LC109    Imaging   40A
+              RapidEye-2 )                                         Imaging   40B
+              RapidEye-3 )                                         Imaging   40C
+              RapidEye-4 )                                         Imaging   40D
+              RapidEye-5 )                                         Imaging   40E
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

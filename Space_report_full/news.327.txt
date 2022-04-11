@@ -1,0 +1,145 @@
+Jonathan's Space Report
+No. 327                                   1997 Jul 13 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Columbia is on orbit for mission STS-94 (Microgravity Science Lab 1R).
+Experiments continue with controlled investigations of fires
+in microgravity. On Jul 13 the spacecraft was in a 296 x 301 km x 28.5 deg
+orbit. Meanwhile, Discovery is scheduled to be rolled out to pad 39A
+on Jul 14 in preparation for launch of STS-85.
+
+Progress M-35 was launched on Jul 5 at 0411:54 UTC toward the Mir
+station. It docked with the rear of the 37KE (Kvant) module at 0559:24
+UTC on Jul 7 using the automatic Kurs system. (The Progress M-34 also
+docked successfully using this system; it was only when they tried
+testing the new manual system that things went wrong).
+
+Carl Sagan Memorial Station
+----------------------------
+
+The Mars Pathfinder (MPF) space probe landed on Mars at 1656 UTC on Jul
+4. It now appears that the lander made about 15 bounces before coming
+to rest and rolled about 1 km.
+On Jul 5, the lander was renamed the Carl Sagan Memorial Station.
+Early on Jul 6, the Sagan Station deployed the rover ramps. A few hours
+later the Sojourner rover rolled down the ramps and it is now on the
+Martian surface.
+
+The new estimate of the landing site coordinates is 33.55 deg West,
+19.33 deg N. I haven't seen this mentioned elsewhere and had forgotten
+it myself, but the Sagan Station site is actually within the ellipse of
+Viking Site A-1, where Viking Lander 1 (since renamed Mutch Memorial
+Station) was originally meant to land on July 4, 1976. When Viking 1
+reached Mars orbit in Jun 1976 and started imaging site A-1, JPL decided
+that the terrain was too rough, and delayed the landing while they
+searched for a smoother site, eventually settling on the Chryse Planitia
+site where Viking landed on 1976 Jul 20. Mars Pathfinder was able to
+land on the rougher A-1 site because of its robust airbag landing
+system, and indeed the rocky images from Sagan Memorial Station suggest
+that it was a really good thing Viking didn't try landing there.
+
+Oh, and Russell Eberst points out that I can't spell Margaritifer Sinus.
+(see last week).
+
+Recent Launches
+---------------
+
+Five more Iridium satellites were launched from Vandenberg on Jul 9. The
+Delta launch vehicle placed the five Motorola-built communications
+satellites in polar orbits. Their on-board propulsion systems will be
+used to raise their orbits later from 640 km to 780 km. The satellites
+from the previous two launches have now reached their operating orbits.
+The three Iridium launches have places their satellites into orbital
+planes 30 degrees apart.
+
+  Iridium satellites in orbit:
+
+ Satellite  Launch date   Orbit                RA of plane (Jul 12)
+ SV004      May  5     771 x 783 km x 86.4 deg 120
+ SV005      May  5     771 x 783 km x 86.4 deg 120
+ SV006      May  5     774 x 780 km x 86.4 deg 120
+ SV007      May  5     773 x 781 km x 86.4 deg 120
+ SV008      May  5     776 x 779 km x 86.4 deg 120
+ SV009      Jun 18     774 x 778 km x 86.4 deg 150
+ SV010      Jun 18     773 x 780 km x 86.4 deg 150
+ SV011      Jun 18     776 x 778 km x 86.4 deg 150
+ SV012      Jun 18     772 x 781 km x 86.4 deg 150
+ SV013      Jun 18     774 x 780 km x 86.4 deg 150
+ SV014      Jun 18     775 x 778 km x 86.4 deg 150
+ SV015      Jul  9     621 x 641 km x 86.4 deg 184
+ SV016      Jun 18     775 x 779 km x 86.4 deg 150
+ SV017      Jul  9     618 x 649 km x 86.4 deg 184
+ SV018      Jul  9     627 x 642 km x 86.4 deg 184
+ SV020      Jul  9     632 x 653 km x 86.4 deg 184
+ SV021      Jul  9     626 x 643 km x 86.4 deg 184
+
+The FY-2 (FengYun 2) weather satellite, launched by a CZ-3 rocket from
+Xichang on Jun 10, is now on station at 104.1 deg E. (Some Western
+publications call this satellite FY-2 1R to denote that it is a
+replacement flight article for the first FY-2 which was destroyed in a
+ground test, but I haven't seen that name used by Chinese news 
+releases).
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  3 2321   Inmarsat 3 F4)   Ariane 44L     Kourou ELA2      Comsat     27A
+              Insat 2D     )                                   Comsat     27B
+Jun  6 1757   Kosmos-2344      Proton-K/DM-2M Baykonur LC200   Recon?     28A
+Jun 10 1201   FY-2             Chang Zheng 3  Xichang          Weather    29A
+Jun 18 1402   Iridium SV009 )  Proton-K/DM-5  Baykonur         Comsat     30D
+              Iridium SV010 )                                  Comsat     30C
+              Iridium SV011 )                                  Comsat     30G
+              Iridium SV012 )                                  Comsat     30B
+              Iridium SV013 )                                  Comsat     30E
+              Iridium SV014 )                                  Comsat     30A
+              Iridium SV016 )                                  Comsat     30F
+Jun 25 2344   Intelsat 802     Ariane 44P     Kourou ELA2      Comsat     31A
+Jul  1 1802   Columbia        ) Shuttle       Kennedy LC39A    Spaceship  32A
+              Spacelab MSL-1R )
+Jul  5 0411   Progress M-35     Soyuz-U       Baykonur LC1     Cargo      33A
+Jul  6 0600   Sojourner         -         Sagan Station, Mars  Rover
+Jul  9 1304   Iridium SV015 )   Delta 7920    Vandenberg SLC2W Comsat     34A
+              Iridium SV017 )                                  Comsat     34B
+              Iridium SV018 )                                  Comsat     34C
+              Iridium SV020 )                                  Comsat     34D
+              Iridium SV021 )                                  Comsat     34E
+
+ 
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-94  Jul  1
+OV-103 Discovery       VAB Bay 3     STS-85  Aug  7
+OV-104 Atlantis        OPF Bay 3     STS-86  Sep 18
+OV-105 Endeavour       OPF Bay 1     STS-89  Jan 15
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                       
+MLP2/RSRM-61                VAB Bay 1?     STS-86
+MLP3/RSRM-57/ET-87/OV-103   VAB Bay 3?     STS-85                       
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

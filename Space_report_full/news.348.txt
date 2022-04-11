@@ -1,0 +1,110 @@
+Jonathan's Space Report
+No. 348                                              1998 Jan 24 Cambridge, MA
+-------------------------------------------------------------------------------
+The annual launch log (JSR 347) is on the web at
+http://hea-www.harvard.edu/~jcm/space/jsr/log.1997
+and an updated geostationary log is at 
+http://hea-www.harvard.edu/~jcm/space/jsr/geo.html
+
+
+Shuttle and Mir
+---------------
+
+The Kvant-2 airlock hatch, partially repaired in a spacewalk on Jan 9,
+is still leaking slightly. Solov'yov and Wolf made a 3-hour EVA on Jan
+14 to inspect the station exterior.
+
+Space Shuttle Endeavour took off on Jan 22 on mission STS-89.  Launch
+was at 0248 UTC; Endeavour flew up the eastern seabord of the US into a
+51 degree orbit, and I was easily able to see it, in the seconds prior
+to main engine cutoff, from the street in downtown Cambridge. Crew is
+Terrence Wilcutt, Joe Edwards, James Reilly, Michael Anderson, Andy
+Thomas and Bonnie Dunbar (all of NASA) and Salizhan Sharipov (Russian
+Air Force). Thomas will replace David Wolf aboard Mir, and will be the
+final NASA long-stay visitor to Mir. Endeavour docked with the SO module
+on Mir at 2014 UTC on Jan 24.
+
+Endeavour's cargo bay contains:
+ Bay 1    Tunnel Adapter
+ Bay 3    Orbiter Docking System/External Airlock
+ Bay 4-7  Transfer Tunnel
+ Bay 8-12 Spacehab Double Module
+ Bay 13P  GABA carrier with G-141, G-145
+ Bay 13S  GABA carrier with G-093, G-432
+
+The four Getaway Special cans are G-141 and G-145, a pair of German 
+materials processing experiments, G-093, a University of Michigan fluid
+dynamics experiment, and G-432, a Chinese materials processing payload.
+The orbiter middeck carries CEBAS, a German/US biological module for
+aquatic organisms including fish and snails, and a locker containing a
+dinosaur skull carried as part of a museum educational program. (As far
+as I know, this is not the start of a regular `dinosaurs in space'
+project, and so is unrelated to the forthcoming flights of Glenn and
+Ryumin). The Spacehab carries supplies for Mir, and a test of an X-ray
+crystallography detector for the Space Station.
+
+Recent Launches
+---------------
+
+Israel launched a three-stage Shaviyt vehicle from Palamchim Air Force
+Base on Jan 22, attempting to place the 'Ofeq-4 imaging satellite into
+orbit. The failure seems to have occurred during second stage burn. The
+Shaviyt vehicle launches west from Israel over the Mediterranean.
+
+The NEAR asteroid rendezvous spacecraft flew past Earth on Jan 23
+at 0723 UTC on Jan 23, 530 km above Iran. Sun glint from the
+solar panels briefly made NEAR a naked eye object from the Western
+hemisphere.
+
+Lunar Prospector has now reached its final mapping orbit. After trim
+burns it was in a 99 x 100 km circular orbit, but the uneven lunar
+gravity field soon perturbed this to 80 x 120 km.
+
+Errata
+------
+
+Maxim Tarasenko spotted two goofs in JSR347 - first, the launch on Dec
+20 was Progress M-37 not Progress M-36; secondly, the Parus-class
+satellite Kosmos-2346 (1997-52A) was made by AO Polyot, not NPO PM.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan  7 0228   Lunar Prospector  Athena-2      SP Florida LC46  Probe      01A
+Jan 10 0032   Skynet 4D         Delta 7925    Canaveral LC17B  Comsat     02A
+Jan 22 1300   'Ofeq-4           Shaviyt       Palamchim        Imaging    F01
+Jan 23 0248   Endeavour         Shuttle       Kennedy LC39A    Spaceship  03A
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 3     STS-90  Apr  2
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LEO           STS-89  Jan 22
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                                             
+MLP2/RSRM65              VAB Bay 3     STS-90
+MLP3/                    LC39A         STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

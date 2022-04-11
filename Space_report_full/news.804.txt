@@ -1,0 +1,296 @@
+Jonathan's Space Report
+No. 804                                                     2022 Mar 18       Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 66 continues.
+
+Soyuz MS-21 (spacecraft No. 750, named 'S.P. Korolev') was launched from Baykonur on Mar 18 with a crew of three
+Russian astronauts: Oleg Artem'ev, Denis Matveev and Sergey Korsakov (crew callsign: Don). The ship docked with
+the new Prichal module about 3h 16m 46s after launch, at 1912:04 UTC.
+
+
+Starlink
+---------
+
+Group 4-11, with 50 satellites, was launched from Vandenberg on Feb 25 using a two-burn profile.
+The Falcon 9 first stage landed on the OCISLY drone ship.
+
+Group 4-9, with 49 satellites, was launched from Kennedy on Mar 3 using the two-burn profile,
+with stage 1 landing on JRTI.
+
+Group 4-10, with 48 satellites, was launched from Canaveral on Mar 9. Stage 1 landed on ASOG.
+
+LT-01B
+------
+
+The second SAST/Shanghai LSAR radar satellite, Ludi Tance 01B, was launched on
+Feb 26. It will work in tandem with the first satellite launched on Jan
+25.
+
+GOES T
+------
+
+ULA launched Atlas V AV-095 from Canaveral on Mar 1 with NOAA's GOES T geostationary
+weather satellite, which it deployed into a 8896 x 35276 km  x 9.4 deg transfer
+orbit. By Mar 18 it was in a 35579 x 35712 km x 0.1 deg geosync drift orbit and NOAA
+renamed the satellite GOES 18. 
+
+CZ-8
+----
+
+The second Chang Zheng 8 mission was launched on Feb 27. This launch, unlike the first one,
+used a variant omitting the side boosters. It placed a cluster of small satellites in orbit:
+
+  Hainan 1-01 and 1-02 are satellites with imaging and AIS (ship tracking) payloads for
+    the Sanyi Research Institute (part of CAS RADI), built by Shenzhen DFH. They will carry out maritime
+    surveillance. Satellite 1-01 has a wide field imager and 1-02 has a 1.5m resolution video camera.
+
+  Wenchang-1 01 and 02 are also for the Sanyi Research Institute, They were built by MinoSpace and
+  have wide format multispectral imagers to be used for oceanography, resource and agriculture monitoring.
+
+  Taijing-3 01 is a Minospace MN-200 class imaging satellite with a 0.5m resolution visible-light camera.
+  Taijing-4 01 is also a Minospace MN-200 class satellite, with a 1 m resolution X-band SAR radar.
+
+  Xidian-1 (XD-1) is a smaller Minospace satellite with a hyperspectral sensor for Shaanxi Silu Tiantu 
+  Weixing Keji. 
+
+  Chaohu-1 is a radar satellite for the Tiandi Information Network, and is a followon to the Hisea-1
+  radar test satellite. It was built by Tianyi Research (Spacety).
+
+  Chuangxing Leishen is a research satellite from Tianyi in collaboration with the  Beijing Univ. 
+   of Posts and Telecoms Research Institute.  It carries a distributed software processing experiment.
+  Additional science payloads include the Jiguang-2 X-ray polarimeter, and three GRID gamma ray burst detectors.
+  
+  Tianqi-19 is an IoT data relay satellite for Guodian Gaokeji.
+
+  Xingshidai-17 is a remote sensing satellite for Guoxing Yuhang Keji (ADA Space). It is also named
+   Dayun, in honor of the Universiade sports event to be held in Chengdu and called Dayunhui in Chinese.
+
+  Qimingxing-1 is a 19 kg imaging satellite from Wuhan University with visible and IR imagers and a 
+   hyperspectral sensor.
+
+  Xiamen Keji 1 (Jilin-1 Mofang 02A 01) is a 30 kg imaging satellite built by Changguang Satellite Tech for
+    Xiamen Tianwei Keji with a 1m resolution imager.
+
+  Jilin-1 Gaofen 03D 10 to 18 are 9 high resolution imaging satellites from Changguang Satellite Tech,
+    probably with a mass of 42 kg each. Satellite 15 is sponsored by the city of Shaoguan; satellites 16 and 17,
+    also called Wenchang Chaosuan 2 and 3, are sponsored by Wenchang Supercomputing Centre; satellite 18
+    is also called Anxi Teiguanyin 1, apparently named after a famous variety of oolong tea from Fujian.
+
+
+Strix-Beta
+-----------
+
+RocketLab inaugurated the Mahia launch site's second pad, pad 1B, on Feb 28 with the launch of the Strix Beta
+radar satellite for Japan's Synspective.
+
+
+Yinhe
+-----
+ 
+   Six Yinhe internet satellites were launched on Mar 5 for Yinghe Hantian (Galaxy Aerospace). The satellites,
+each with a mass of about 190 kg, strongly resemble the OneWeb series. A small Xuanming remote sensing
+cubesat was also deployed.
+
+Noor 2
+------
+
+ The Iranian Revolutionary Guard Corps launched its second satellite on Mar 8 using the Qased launch vehicle
+from Shahroud. Noor 2 is an imaging satellite reported to be an improved version of Noor 1, which is still
+said to be operating.
+
+Astra LV0009
+------------
+
+Astra had its second orbital success on Mar 15 in a launch from Kodiak. A number of
+commercial satellites were deployed into sun-synch orbit. At first the only acknowledged deployment was ORESAT0,
+a 1U cubesat from Portland State Aerospace Society. The NearSpaceLaunch S4-CROSSOVER payload remained
+attached to the upper stage; it carries an EyeStar-S4 package for satellite-to-satellite communications.
+Twenty 0.25U SpaceBees for Swarm were also deployed; their presence on the flight was not announced until Mar 17.
+
+Yaogan 34-02
+--------------
+
+On Mar 17 China launched the second Yaogan 34 military imaging satellite into a 1000 km orbit.
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name			     Launch Vehicle	 Site		 Mission  INTL.  Catalog  Perigee Apogee  Incl	 Notes
+Feb  2 2027   USA 326                         Falcon 9               Vandenberg SLC4E Imaging      09A  S51445  492 x 524 x 97.4
+Feb  3 0855?  Light-1                                               ISS, LEO         Tech       9867TG? S51509  407 x 422 x 51.6
+Feb  3 1030?  GT-1                                                  ISS, LEO         Tech       9867TH? S51510  410 x 421 x 51.6
+Feb  3        STORK-2                                               ION SCV004, LEO  Imaging      02?   -
+Feb  3 1813   Starlink 3152                   Falcon 9               Kennedy LC39A   Comms         10A- S51456-  209 x 336 x 53.2
+              Starlink 3163-3167                                                                        S51504
+              Starlink 3169-3170
+              Starlink 3174
+              Starlink 3178
+              Starlink 3181-3182
+              Starlink 3186-3189
+              Starlink 3220-3224
+              Starlink 3367
+              Starlink 3376-3377
+              Starlink 3384
+              Starlink 3401-3420
+              Starlink 3422-3423
+              Starlink 3426-3427
+Feb  4        SW1FT                                                 ION SCV004, LEO  Tech         02?   -
+Feb  5 0700   Kosmos-2553                     Soyuz-2-1a/Fregat      Plesetsk LC43/4  Radar?      11A  S51511  1987 x 1994 x 67.1
+Feb 10 1809   OneWeb SL0410-0411              Soyuz-ST-B/Fregat      CSG ELS          Comms       12A- S51622  468 x 487 x 87.4                                                                                       
+              OneWeb SL0415-0416                                                                      -S51655
+              OneWeb SL0422-0423
+              OneWeb SL0425
+              OneWeb SL0428
+              OneWeb SL0431
+              OneWeb SL0434-0436
+              OneWeb SL0438-0439
+              OneWeb SL0442-0446
+              OneWeb SL0448-0449
+              OneWeb SL0451-0452
+              OneWeb SL0455-0458
+              OneWeb SL0461
+              OneWeb SL0463-0464
+              OneWeb SL0468
+              OneWeb SL0473-0475
+Feb 10 2000   BAMA-1  )                       Rocket 3.3              Canaveral SLC46    Tech     F01 F01620  -5150?x 278? x 41
+              INCA    )                                                                  Sci      F01 F01621
+              QubeSat )                                                                  Tech     F01 F01622
+              R5-S1   )                                                                  Tech     F01 F01623
+Feb 14 0029   EOS-04      )                   PSLV-XL                 Satish Dhawan FLP  Radar    13A S51656  516 x 534 x 97.5
+              INS-2TD     )                                                              Tech     13B S51567? 516 x 534 x 97.5
+              InspireSat-1)                                                              Sci      13C S51568? 516 x 534 x 97.5
+Feb 15 0424   Progress MS-19                  Soyuz-2-1a              Baykonur LC31      Cargo    14A S51570? 195 x 226 x 51.6
+Feb 19 1740   S.S. Piers Sellers              Antares 230+            Wallops MARS LA0A  Cargo    15A S51712  185 x 307 x 51.6
+Feb 21 1440   Starlink 3446-3452              Falcon 9                Canaveral SLC40    Comms    16A         325 x 336 x 53.2
+              Starlink 3456-3460
+              Starlink 3500-3502
+              Starlink 3505-3507
+              Starlink 3509
+              Starlink 3511-3518
+              Starlink 3520-3533
+              Starlink 3535
+              Starlink 3540
+              Starlink 3543
+              Starlink 3545-3546
+Feb 25 1712   Starlink 3544                   Falcon 9                Vandenberg SLC4E  Comms   17A        304 x 313 x 53.2
+              Starlink 3552
+              Starlink 3557
+              Starlink 3569
+              Starlink 3573
+              Starlink 3580-3581
+              Starlink 3586
+              Starlink 3592
+              Starlink 3596
+              Starlink 3599-3617
+              Starlink 3619-3634
+              Starlink 3637-3639
+              Starlink 3641
+              Starlink 3646
+Feb 26 2344   Ludi Tance 01B                   Chang Zheng 4C           Jiuquan         Radar  18A  S51822  602 x 604 x 97.8
+Feb 27 0306   Taijing-3 01                     Chang Zheng 8            Wenchang        Imaging 19  S51824  527 x 548 x 97.5
+              Taijing-4 01                                                              Radar   
+              Hainan-1 01                                                               Imaging/AIS
+              Hainan-1 02                                                               Imaging/AIS
+              Wenchang-1 01                                                             Imaging/AIS
+              Wenchang-1 02                                                             Imaging/AIS
+              Xidian-1                                                                  Imaging
+              Xiamen Keji 1 (JL1FM02A01)                                                Imaging
+              Jilin-1 GF03D-10                                                          Imaging
+              Jilin-1 GF03D-11                                                          Imaging
+              Jilin-1 GF03D-12                                                          Imaging
+              Jilin-1 GF03D-13                                                          Imaging
+              Jilin-1 GF03D-14                                                          Imaging
+              Shaoguan 1 (JL1GF03D-15)                                                  Imaging
+              Wenchang Chaosuan 2 (JL1GF03D-16)                                         Imaging
+              Wenchang Chaosuan 3 (JL1GF03D-17)                                         Imaging
+              Anxi Tieguanyin 1 (JL1GF03D-18)                                           Imaging
+              Tianqi-19                                                                 Comms
+              Chaohu 1                                                                  Radar
+              Chuangxing Leishen                                                        Science
+              Xingshidai-17                                                             Imaging
+              Qimingxing 1                                                              Imaging
+Feb 28 2037   Strix-Beta                        Electron                 Mahia LC1B     Radar     20A   555 x   573 x 97.8
+Mar  1 1438   GOES T                            Atlas V 541              Canaveral SLC41 Weather  21A  8896 x 35276 x  9.4
+Mar  3 1425   Starlink 3503-3504                Falcon 9                 Kennedy LC39A   Comms    22A   304 x   315 x 53.2
+              Starlink 3508
+              Starlink 3519
+              Starlink 3536
+              Starlink 3539
+              Starlink 3541-3542
+              Starlink 3545
+              Starlink 3547-3549
+              Starlink 3551
+              Starlink 3553-3556
+              Starlink 3559-3560
+              Starlink 3562-3568
+              Starlink 3570-3572
+              Starlink 3574-3579
+              Starlink 3582-3585
+              Starlink 3587-3588
+              Starlink 3590-3591
+              Starlink 3593-3595
+              Starlink 3597-3598
+Mar  5 0601   Yinhe 2-01                         Chang Zheng 2C            Xichang        Comms  23A S51946 480 x 502 x 63.4
+              Yinhe 2-02                                                                  Comms  23B S51947 480 x 502 x 63.4
+              Yinhe 2-03                                                                  Comms  23C S51948 480 x 502 x 63.4
+              Yinhe 2-04                                                                  Comms  23D S51949 480 x 502 x 63.4
+              Yinhe 2-05                                                                  Comms  23E S51950 480 x 502 x 63.4
+              Yinhe 2-06                                                                  Comms  23F S51951 480 x 502 x 63.4
+              Xuanming                                                                   Imaging 23G S51952 480 x 502 x 63.4
+Mar  8 0506?  Noor 2                             Qased                     Shahroud      Imaging 24A S51954 495 x 513 x 58.3
+Mar  9 1345   Starlink 3538                      Falcon 9                  Canaveral LC40 Comms  25A        301 x 315 x 53.2
+              Starlink 3589
+              Starlink 3618
+              Starlink 3635-3636
+              Starlink 3640
+              Starlink 3642-3645
+              Starlink 3647-3657
+              Starlink 3659-3660
+              Starlink 3660
+              Starlink 3663-3664
+              Starlink 3666-3669
+              Starlink 3671-3672
+              Starlink 3674-3675
+              Starlink 3677
+              Starlink 3679-3681
+              Starlink 3689-3692
+              Starlink 3694-3697
+              Starlink 3699-3700
+              Starlink 3704
+Mar 15 1622   S4-CROSSOVER               )      Astra                      Kodiak LP3B    Comms  26A  470 x 537 x 97.5
+              ORESAT0                    )                                                Tech 
+              SpaceBees x20              )                                                Comms
+Mar 17 0709   Yaogan 34-02                      Chang Zheng 4C             Jiuquan        Imaging   27A 1092 x 1097 x 63.4
+Mar 18 1555   Soyuz MS-21                       Soyuz-2-1a                 Baykonur LC31  Spaceship 28A  200 x 224 x 51.7
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jan 24 0015?  Warhead           Zulfiqar (YE)      Al Jawf?              Weapon        100?      Abu Dhabi
+Jan 24 0015?  Warhead           Zulfiqar (YE)      Al Jawf?              Weapon        100?      Abu Dhabi
+Jan 24 0015?  Warhead           Zulfiqar (YE)      Al Jawf?              Weapon        100?      Dharan
+Jan 29 0700   MAPHEUS 9         IM/IM              Kiruna                Micrograv     254       ESRANGE
+Jan 29 2252   RV                Hwasong-12?        Mupyong               Test         2000       Sea of Japan
+Feb 19        Yars RV           Yars               Plesetsk              Test         1000?      Kura
+Feb 19        4 x RV?           Sineva             K-18, Barents Sea     Test         1000?      Kura
+Feb 26 2252   Recon test        Hwasong-8 LV?      Sunan                 Test          620       Sea of Japan
+Mar  4 2348   Recon test?       Hwasong-8 LV?      Sunan                 Test          550       Sea of Japan
+Mar  5 1127   LAMP              Black Brant IX     Poker Flat            Auroral       429       Alaska
+Mar  9 1825   HERSCHEL          Black Brant IX     White Sands           Solar UV      302       White Sands
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'

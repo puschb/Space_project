@@ -1,0 +1,239 @@
+Jonathan's Space Report
+No. 636                                             2010 Dec 30 Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Expedition 26 is now underway with crew commander Scott Kelly,  flight
+engineer-2 Aleksandr Kaleri, flight engineer-3 Oleg Skripochka, flight
+engineer-4 Dmitri Kondratev, flight engineer-5 Paolo Nespoli and flight
+engineer-6 Cady Coleman aboard the Station. Soyuz TMA-01M is docked at
+Poisk, Progress M-07M at Zvezda, and Progress M-08M at Pirs, and Soyuz
+TMA-20 at Rassvet.
+
+Soyuz TMA-20 was launched on Dec 15, carrying Kondratev, Nespoli and Coleman.
+It docked with the Rassvet module at 2011 UTC on Dec 17.
+
+On Dec 22-23, the SPDM robot hand was used to relocate a cargo container (CTC-3)
+between two locations on the ELC-2 storage pallet.
+
+
+Proton failure
+--------------
+
+A Proton-M was launched on Dec 6 carrying three Uragan-M satellites for
+the Glonass system. The third stage went off course because an extra
+1500 kg of propellant was loaded in the fourth stage by mistake; the
+extra mass caused the final velocity to be around 100 m/s too low,
+leading to an orbit which I estimate to have been around -150 x 165 km x
+64.8 deg. (For what it's worth, an anonymous post on nasaspaceflight.com
+citing unidentified Russian  sources reported an orbit of -154 x 189 km
+x 64.8 deg). The third stage and, separately, the upper composite
+consisting of the satellites mounted on the Blok DM-3 stage reentered
+over the Pacific on their first revolution.
+
+Federal Space Agency news releases reported the satellite names as
+"Glonass-M". (Successful Glonass satellites have all been given Kosmos
+cover names).
+
+Proton launch
+--------------
+
+Another Proton-M was launched on Dec 26, carrying the commercial KA-SAT
+payload for Eutelsat. This time Proton-M was successful and the Briz-M
+stage made 5 burns from a -496 x 171 km injection orbit to a
+deployment orbit of 3704 x 35763 km x 24.6 deg.
+
+KA-SAT is an Astrium Eurostar 3000 satellite with a launch mass of 6150 kg
+and a dry mass of 3200 kg, providing broadband services in the Ka-band
+with 80 spot beams.
+
+
+
+Akatsuki at Venus
+-----------------
+
+Japan's Akatsuki Venus Climate Orbiter probe reached Venus on Dec 6
+but a malfunction at the time of the insertion burn at 2349 UTC prevented
+the probe from entering Venus orbit. The probe remains in solar orbit.
+The Ikaros solar sail craft flew past Venus at 80000 km at 0739 UTC on Dec 8.
+
+Dragon
+-------
+
+SpaceX launched its second Falcon 9 rocket at 1543 UTC on Dec 8, successfully
+putting the first Dragon spacecraft into a 279 x 308 km x 34.5 deg orbit
+for a test flight. The capsule was recovered in the Pacific a few hours
+later, splashing down 800 km W of Mexico at 1903 UTC.
+
+The actual splashdown location and the mass of the Dragon spacecraft
+have not been reported.
+
+The Dragon C1's Trunk Module remained attached to the Falcon 9 second
+stage after orbit insertion; the capsule separated from the trunk
+module. About 45 min after launch six small
+satellites were also ejected from the trunk.
+
+The small satellites used the 1U (0.1 x 0.1m) and 3U (0.1 x 0.3m)
+cubesat buses, some with deployable solar panels. SMDC-ONE is an
+Operational Nanosatellite Experiment for the US Army Space and Missile
+Defense Center (Huntsville, Alabama), possibly carrying a communications
+payload. QbX-1 and QbX-2 are Cubesat Experiments built by Pumpkin Inc.
+of San Francisco for the National Reconaissance Office's Colony-1
+technology development project. They also carry communications payloads,
+developed by the Naval Research Laboratory. These first three payloads
+are 3U cubesats. Caerus/Mayflower is an experiment for Northrop Grumman
+NovaWorks and the University of Southern California, a 3U cubesat made
+up of the 2U (double cube) Mayflower Next Generation Technology Nanosat
+from Northrop Grumman and a 1U (single cube) from USC's engineering
+schools in Los Angeles and Marina del Rey, with deployable solar panels.
+Not much information is available about four 1U-size Los Alamos National
+Laboratory `Perseus' cubesats; they may be monitoring the ionosphere.
+
+
+
+Nanosail-D2
+------------
+
+An attempt to eject the Nanosail-D2 experiment from Fastsat was made at
+0631 UTC on Dec 6, but the satellite has not been tracked and it seems
+possible that the ejection may have failed.
+
+X-37B
+-----
+
+The X-37B spaceplane landed successfully at Vandenberg Air Force Base
+at 0916 UTC on Dec 3. Launched on Apr 23 by an Atlas V, the X-37B
+completed its mission with the second ever automated runway landing
+following orbital re-entry; the first was the USSR's Buran in 1988.
+
+
+Suborbital launches
+--------------------
+
+Russia launched a Topol' missile from Kapustin Yar to Sary Shagan on Dec 5.
+India launched an Agni I missile on Nov 25; an Agni 2P launch on Dec 10
+failed to leave the atmosphere. On Dec 15 a modified Trident I missile
+was launched as a target from Kwajalein Atoll's Meck Island in the Pacific,
+and a Pegasus-derived Ground Based Interceptor launched from Vandenberg
+failed to intercept it.
+
+A Terrier Orion from White Sands carried a JPL technology experiment
+to 120 km on Dec 6; it will be used to refine methods for planetary
+lander terrain recognition (thanks to the nasaspaceflight.com forum for
+details).
+
+The Brazilian Space Agency completed Operation Maracati 2 with the launch
+of VSB-30 V07 carrying the MICROG 1A payload, following a test
+launch using Improved Orion V03 to check out operations at Alcantara.
+
+Beidou
+------
+
+China launched the 7th Beidou Navigation Satellite (di qi ke beidou
+daohang weixing) on Dec 17 from the Xichang Satellite Launch Center
+(xichang weixing fashe zhongxin). The launch vehicle was the "Changzheng
+sanhao jia" (Long March 3A). Beidou Daohang Weixing 7 will be the second
+in inclined geosynchronous orbit, following BDW5 launched in July, and
+is also referred to as Compass I2. It reached synchronous orbit on Dec
+22 and as of Dec 29 was in a 35716 x 35857 km x 55.2 deg orbit.
+
+GSLV
+----
+
+India's GSLV Mk I rocket flight F06 was destroyed one minute after
+launch on Dec 25 after the steering system on its strapon boosters
+failed to receive commands from the rocket's computer. The vehicle
+reached an altitude of 15 km. The rocket carried the GSAT-5P
+communications satellite, and was to feature the first use of a
+stretched version of the Russian-developed third stage.
+
+Ariane 5
+--------
+
+Ariane 5ECA vehicle 557, flight V199, placed two satellites in orbit on 
+Dec 29. The upper passenger was Hispasat 1E for Spain's Hispasat, a 5320
+kg full/2175 kg dry Loral 1300 satellite; the lower was  Koreasat 6 for
+Korea Telecom, an Orbital Star-2 with 2850 kg mass at launch, 1150 kg
+dry. Transfer orbit was 273 x 35876 km x 3.1 deg. Both satellites carry
+Ku-band broadcasting/comms payloads.
+
+
+
+Erratum
+-------
+
+The first SJ-12 rendezvous was with SJ-6/3A (2008-53B) on 2010 Aug 19.
+Thanks to Igor Lissov for pointing out the error in the last JSR.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Nov  2 0059   Meridan             Soyuz-2-1a/Fregat Plesetsk LC43/3 Comms      58A
+Nov  5 1837   Fengyun 3 (01)B     Chang Zheng 4C    Taiyuan         Weather    59A
+Nov  6 0220   COSMO-SkyMed 4      Delta 7420-10     Vandenberg SLC2W Radar     60A
+Nov 14 1729   SkyTerra 1          Proton-M/Briz-M   Baykonur         Comms     61A
+Nov 20 0125   STPSat-2    )       Minotaur IV       Kodiak          Tech       62A
+              Falconsat-5 )                                         Tech       62E
+              Fastsat-HSV )                                         Tech       62D
+              Fastrac 1   )                                         Tech       62F
+              Fastrac 2   )                                         Tech       62
+              O/OREOS     )                                         Science    62C
+              RAX         )                                         Science    62B
+              S26 Ballast A)                                        Dummy      62J
+              S26 Ballast B)                                        Dummy      62K
+Nov 21 2258   USA 223           Delta IVH          Canaveral SLC37B Sigint?    63A
+Nov 24 1609   Zhongxing 20A     Chang Zheng 3A     Xichang          Comms      64A
+Nov 26 1839   Intelsat IS-17  ) Ariane 5ECA        Kourou ELA3      Comms      65A
+              Hylas 1         )                                     Comms      65B
+Dec  6 0631   Nanosail-D2                          Fastsat,LEO      Tech       62L?
+Dec  6 1025   Glonass-M )       Proton-M/DM-3      Baykonur         Navigation F03
+              Glonass-M )                                           Navigation F03
+              Glonass-M )                                           Navigation F03
+Dec  8 1543   Dragon C1       ) Falcon 9           Canaveral SLC40  Spaceship  66A
+              SMDC-One        )                                     Comms?     66C
+              QbX-1           )                                     Secret     66F
+              QbX-2           )                                     Secret     66B
+              Perseus 000     )                                     Tech?      66H
+              Perseus 001     )                                     Tech?      66E
+              Perseus 002     )                                     Tech?      66G
+              Perseus 003     )                                     Tech?      66D
+              Caerus/Mayflower)                                     Tech       66J
+Dec 15 1909   Soyuz TMA-20      Soyuz-FG           Baykonur LC1     Spaceship  67A
+Dec 17 2020   Beidou DW7        Chang Zheng 3A     Xichang          Navigation 68A
+Dec 25 1034   GSAT-5P           GSLV               Sriharikota SLP  Comms      F04
+Dec 26 2151   KA-SAT            Proton-M/Briz-M    Baykonur LC200/39 Comms     69A
+Dec 29 2127   Hispasat 1E  )    Ariane 5ECA        Kourou            Comms     70A
+              Koreasat 6   )                                         Comms     70B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Nov 25 0440   Agni I RV        Agni 1             Wheeler Island      Test         300?
+Dec  4 0421   ECOMA 7          Nike Orion         Andoya              Meteor dust  135
+Dec  5 1911   Topol' RV        Topol'             Kapustin Yar        Test        1000?
+Dec  6 1719   Maracati 2       Orion              Alcantara           Range Test   103
+Dec  6 1730?  NASA 41.087NT    Terrier Orion      White Sands         Tech         120
+Dec 12 0638   NASA 40.026UE    Black Brant XII    Andoya              Aurora       500?
+Dec 12 1535   MICROG 1A        VSB-30             Alcantara           Micrograv    242
+Dec 13 0324   ECOMA 8          Nike Orion         Andoya              Meteor dust  138
+Dec 15 1957?  FTG-06A Target   LV-2               Meck Island         Target      1000?
+Dec 15 2003   FTG-06A KV       GBI                Vandenberg LF23     Interceptor 1000?
+Dec 19 0236   ECOMA 9          Nike Orion         Andoya              Meteor dust  135?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@www.planet4589.org    |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+
+

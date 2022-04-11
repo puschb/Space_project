@@ -1,0 +1,171 @@
+Jonathan's Space Report
+No. 625                                            2010 Apr 6  Somerville, MA
+----------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Soyuz TMA-16 ferry spaceship landed in Kazakhstan at 1124 UTC on Mar
+18. Maksim Suraev and Jeff Williams returned to Earth aboard the
+spacecraft, completing Expedition 22. With the undocking of TMA-16, the
+remaining station crew of Oleg Kotov, TJ Creamer and Soichi Noguchi 
+were deemed to become Expedition 23.
+
+Soyuz TMA-18 was launched at 0404 UTC on Apr 2 with additional
+Expedition 23 members commander Aleksandr Skvortsov, flight engineer 1
+Mikhail Kornienko and flight engineer 2 Tracy Caldwell Dyson.
+The flight is ISS mission 22S; the spacecraft is production article
+11F732A17 No. 228. TMA-18 docked with the Poisk module at 0525 on Apr 4.
+Soyuz TMA-17 remains docked to the Station at the Zarya nadir port, with
+the complex in a 342 x 350 km x 51.6 deg orbit following a Mar 24-25 reboost
+by the Progress M-04M tanker ship docked at the Zvezda port. Progress M-03M
+is docked to the Pirs module. With the forthcoming docking of Discovery
+there will be a full house at the Station with all active docking ports
+in use (not counting the reserve PMA-3).
+
+Space Shuttle OV-103 Discovery was launched at 1021 UTC on Apr 5 on
+flight STS-131, ISS mission 19A. Discovery reached a 57 x 227 km orbit
+at 1030 UTC and with the OMS-2 burn at 1100 UTC raised the perigee out
+of the atmosphere to 227 x 259 km x 51.6 deg. After a further burn (NC1)
+at 1307 UTC Discovery was in a 252 x 337 km orbit. Mission STS-131 will
+carry the Leonardo MPLM logistics module and the Lightweight MPESS
+carrier, to deliver cargo and supplies to the Station. A malfunction of
+Discovery's Ku-band antenna system means that there will be less live
+video than usual, but the problem will not prevent the Shuttle from
+completing its mission.
+
+The crew of Discovery are Commander Alan Poindexter, Pilot James Dutton,
+and Mission Specialists Richard Mastracchio, Dorothy
+Metcalf-Lindenburger, Stephanie Wilson, Naoko Yamazaki, and Clayton
+Anderson. The thirteen astronauts of STS-131 and Expedition 23  equal
+the record for humans in space at one time with Caldwell-Dyson,
+Metcalf-Lindenburger, Wilson and Yamazaki breaking the record for the
+number of women in space at once, and Yamazaki and Noguchi marking the
+first time two Japanese astronauts have flown simultaneously.
+
+ STS-131 cargo manifest
+ ----------------------
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3008, 3017 suits                       260?
+  APC/SPDU                         4 port           18?
+  ROEU 751A umbilical              7 stbd          127
+  MPLM Leonardo                    7-12          12371
+  Lightweight MPESS Carrier        13             1764
+  RMS                              Sill            410
+  OBSS                             Sill            382
+  -----------------------------------------------------
+                                           Total 15332 kg
+
+Echostar XIV
+------------
+
+The Echostar XIV satellite took off from Baykonur on Mar 20. The
+Proton-M rocket put the upper stage package in a -490 x 170 km x 51.5
+deg suborbital path. The first Briz-M burn reached a 173 x 173 km x 51.5
+deg orbit. Later burns went to 270 x 4999 km x 50.3 deg, 430 x 35805 km
+x 49.1 deg,  and 3121 x 35785 km x 26.7 deg. Echostar separated from the
+Briz-M at 0336 UTC on Mar 21. By Apr 4 it was on station at 138.6W in a
+35784 x 35788 km x 0.1 deg geostationary orbit.
+
+Echostar XIV is a Loral LS-1300 satellite with a dry mass of
+3223 kg, and 6379 kg fully fuelled. Solar panels are probably
+around 31.0 m span.
+
+
+Yaogan Weixing 9
+----------------
+
+It is now clear that YW-9 is accompanied by two manueverable
+subsatellites, and is indeed presumably in some way analogous to the
+US ocean surveillance satellite triplets which used similar orbits.
+The three satellites are in a 1080 x 1100 km x 63.4 deg orbit.
+
+SDO
+---
+
+SDO reached geosynchronous orbit at 102.9W on Mar 18. Orbit
+is now 35781 x 35790 km x 28.1 deg, and SDO's telescope doors
+are open to the Sun with all instruments undergoing checkout
+and so far looking healthy.
+
+Robert White
+-------------
+
+Gen. Robert White died on 17 Mar at the age of 85. White was the first
+of the X-15 pilots to reach the 80 km level which I count as the
+boundary of space. On 1962 Jul 17 he flew X-15-3 from Delamar Dry Lake,
+Nevada to Edwards Air Force Base on a 10-minute suborbital flight
+reaching 96 km altitude.
+
+Cassini
+-------
+
+The Cassini spacecraft made a 7461 km flyby of Titan at 1550 UTC on Apr
+5, and is on course to pass Dione at an altitude of 500 km at 0516 UTC
+on Apr 7. The Titan flyby raised the height of Cassini's orbit
+from 114700 x 2383000 km x 0.37 deg to 152400 x 2646000 km x 0.37 deg.
+
+Suborbital flights
+-------------------
+
+MAXUS 8 was launched from ESRANGE, Kiruna, Sweden on Mar 26 lofting an
+807 kg European Space Agency microgravity payload to 700 km. The rocket
+was launched by Rymbdbolaget (the Swedish Space Corp.) and Astrium.
+
+NASA 12.067GT was launched from Wallops Island on Mar 27 to test the new
+Terrier/Improved Malemute sounding rocket. Two student cubesats,
+Frontier I and CP-1U, were carried on the suborbital flight. Launch was
+from the 50K launcher at Launch Area 1 and the flight reached 270 km.
+
+The Indian Prithvi missile and its Dhanush naval variant were tested
+within a few minutes of each other at India's Integrated Test Range in
+Orissa on Mar 27. Later the same day the larger Agni I ballistic
+missile, derived from the first stage of India's original Satellite
+Launch Vehicle-3, was also tested from ITR into the Bay of Bengal.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar  1 2119   Kosmos-2459 )       Proton-M/DM-2    Baykonur         Navigation 07A
+              Kosmos-2460 )                                         Navigation 07C
+              Kosmos-2461 )                                         Navigation 07B
+Mar  4 2357   GOES 15             Delta 4M+(4,2)   Canaveral SLC37B Weather    08A
+Mar  5 0455   Yaogan Weixing 9)   Chang Zheng 4C   Jiuquan          Sigint?    09A
+              YW-9 subsat 1   )                                     Sigint?    09B
+              YW-9 subsat 2   )                                     Sigint?    09C
+Mar 20 1826   Echostar XIV        Proton-M/Briz-M  Baykonur LC200/39 Comms     10A
+Apr  2 0404   Soyuz TMA-18        Soyuz-FG         Baykonur LC1     Spaceship  11A
+Apr  5 1021   Discovery (STS-131) Space Shuttle    Kennedy LC39A    Spaceship  12A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Mar  2 0725   SSC REXUS 7     Improved Orion  Esrange         Aeron/Tech    83
+Mar  4 0450   Sineva RV-1)    Sineva          K-114, Barents  Op. Test    1000?
+              Sineva RV-2)
+              Sineva RV-3)
+              Sineva RV-4)
+Mar  4 1015   SSC REXUS 8     Improved Orion  Esrange         Tech          88
+Mar 26 1343   SSC MAXUS 8     Castor 4B       Esrange         Micrograv    700
+Mar 27 0014   RV              Dhanush      INS-P51, Chandipur Test         100?
+Mar 27 0018   RV              Prithvi         Chandipur       Test         100?
+Mar 27 1409   NASA 12.067GT   Terrier Malemute Wallops LA1    Test         270
+Mar 27 1937   Agni RV         Agni I           Chandipur      Test         300
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

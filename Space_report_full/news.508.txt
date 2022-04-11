@@ -1,0 +1,117 @@
+Jonathan's Space Report
+No. 508                                   2003 Sep 2, Victoria, British Columbia
+ -------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 7 crew, Yuriy Malenchenko and Edward Lu, remain on board
+the Space Station. The Progress 247 cargo ship undocked from Zvezda on
+Aug 27 and deorbited later the same day. Progress 248 (M-48) was
+launched on Aug 28 and docked with Zvezda on Aug 31. The Progress
+ferries are automated versions of the Soyuz spaceship and are used to
+bring supplies to the Station.
+
+The Columbia Accident Investigation Board has released its report. It's
+going to take a long time to get the Shuttle ready for flight again,
+particularly since the CAIB requires NASA to develop an on-orbit method
+to repair RCC leading edge panels. It will take even longer for NASA to
+develop a healthy human spaceflight program management structure. There
+are of course a lot of dedicated and talented people in the Shuttle and
+Station programs, but I'm afraid there is rampant bureaucracy, a large
+number of people who  do not impress, and as an outsider I see only mild
+overall improvement since the loss of Challenger. In contrast, my
+impression is that NASA's space science program is in incomparably
+better health compared to its sorry state in the 1980s, with a diverse
+mix of small and large missions and, despite some funding problems and
+occasional failures, a remarkable rate of spectacular  discoveries. That
+gives me hope that similar change is possible on the human spaceflight
+side of the house.
+
+Recent Launches
+---------------
+
+Boeing launched another Delta IVM from Cape Canaveral on Aug 29,
+carrying the final DSCS III military communications satellite to
+geostationary transfer orbit. The Delta 4 second stage entered a 186 x
+401 km x 29.2 deg parking orbit and then a 235 x 35551 km x 25.5 deg
+transfer orbit. The DSCS III, built by Lockheed Martin, is attached to
+the IABS-7 upper stage with two R-4D bipropellant engines, which was
+expected to be fired around Sep 1 to put the satellite in geostationary
+orbit.  DSCS III B-6 was originally built by GE/Valley Forge for launch
+by Shuttle, and was extensively  modified after the Challenger accident
+and the acquisition of GE's space division by Lockheed Martin. The
+satellite has been assigned the cover designator USA-170. This was the
+third launch of a Delta IV rocket; all have been successful.
+
+According to data received from Boeing and other sources, the Delta 300
+final stage used to launch SIRTF entered heliocentric orbit. When a
+vehicle reaches escape velocity, its path around the Earth is a
+hyperbola, in this case with an eccentricity of e=1.104. Now e=0 is a
+circle, e=0.999 is a very long ellipse, so this is just a little bit
+hyperbolic, but more so than SIRTF which had only e=1.006. As the
+spacecraft rises out of the Earth's gravitational field it slows down,
+and approaches a fixed speed as it gets very far away. This 'speed at
+infinity' was 2.5 km/s for Delta 300, compared to 0.6 km/s for SIRTF.
+The craft also tends towards a particular point on the sky, the
+'departure asymptote' which in the case of Delta 300  was 19 39 34 +30
+50.5 (J2000) in Cygnus. After the craft reaches a million km or so from
+the Earth, it mostly feels the Sun's gravity and we can then better
+describe its orbit as an ellipse around the Sun instead of a hyperbola
+around the Earth. I did an approximate calculation and derived an orbit
+of 0.86 x 1.01 AU x 8.2 deg, where 1 AU is the radius of the Earth's
+orbit and the inclination is with respect to the ecliptic plane in which
+the planets move. Delta 300 will reach perihelion around 2004 Mar 13
+about 20 million km outside the orbit of Venus. This is believed to be
+the first Delta second stage to enter orbit around the Sun - usually
+Delta space probe launches use a third stage solid motor for solar orbit
+injection. Delta 247, which launched ACE to L1 in 1997 and achieved
+close to escape velocity, made a retrograde depletion burn and is
+believed to have reentered the Earth's atmosphere.
+
+The SIRTF dust cover was ejected on Aug 30, probably around 0300 UTC.
+The aperture door was opened about a day later. The instruments are now
+seeing the sky, although the telescope is not cool enough yet to do
+astronomy.
+
+
+The earlier reports of injuries in addition to the fatalities from the
+VLS explosion in Brazil were incorrect. 21 people were killed, but there
+were no other casualties.
+
+Note
+----
+
+Apologies for the glitch which caused some subscribers to get a second
+copy of JSR 507!
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jul  8 0318   MER-B Opportunity Delta 7925H     Canaveral SLC17B  Mars probe 32A
+Jul 17 2345   Rainbow 1         Atlas V 521     Canaveral SLC41   Comms      33A
+Aug  8 0331   Echostar 9        Zenit-3SL       Odyssey, POR      Comms      34A
+Aug 12 1420   Kosmos-2399       Soyuz-U         Baykonur LC31/6   Imaging    35A
+Aug 13 0209   Scisat-1          Pegasus XL      Vandenberg RW30/12 Science   36A
+Aug 19 1050   Kosmos-2400 )     Kosmos-3M       Plesetsk LC132/1  Comms      37A
+              Kosmos-2401 )                                                  37B
+Aug 25 0535   SIRTF             Delta 7920H     Canaveral SLC17B  Astronomy  38A
+Aug 28 0148   Progress M-48     Soyuz-U         Baykonur          Cargo      39A
+Aug 29 2313   DSCS III B-6      Delta IVM       Canaveral SLC37B  Comms      40A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  c/o Harvard-Smithsonian Center for|                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

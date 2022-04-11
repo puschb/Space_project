@@ -1,0 +1,191 @@
+Jonathan's Space Report
+No. 317                                    1997 Apr 4 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Shuttle mission STS-83 was launched from Kennedy Space Center at
+approximately 1920:36 UTC on Apr 4. The orbiter is OV-102 Columbia;
+solid rocket motors RSRM-59 separated two minutes after launch and the
+external tank ET-84 was jettisoned at 1929 UTC, leaving Columbia in an
+elliptical transfer orbit with an apogee near 300 km. The OMS 2 orbit
+circularization burn was scheduled for 2000 UTC. Launch was delayed
+for 20 minutes due to minor technical problems.
+
+The Microgravity Science Lab 1 (MSL-1) mission carries the
+following payloads in its cargo bay:
+ Bay 1-2: Airlock Tunnel Adapter
+ Bay 3-5: Spacelab Long Tunnel
+ Bay 4 Starboard: CRYOFD
+ Bay 6-10: Spacelab Long Module, Flight Unit 1
+ Bay 11 keel: OARE
+ Bay 12:  EDO Kit (Extended Duration Orbiter pallet)
+
+The Long Module laboratory is a reusable space vehicle which has flown
+in space seven times previously, almost always aboard orbiter OV-102
+Columbia:
+
+ Long Module 1 flights
+ 1983 Spacelab 1                        (Columbia)
+ 1985 Spacelab 3                        (Challenger)
+ 1991 Spacelab Life Sciences 1          (Columbia)
+ 1992 US Microgravity Lab 1             (Columbia)
+ 1993 Spacelab D-2                      (Columbia)
+ 1994 International Microgravity Lab 2  (Columbia)
+ 1995 US Microgravity Lab 2             (Columbia)
+ 1997 Microgravity Science Lab 1        (Columbia)
+
+There is a second Long Module which has flown six times, on
+every single orbiter in NASA's fleet:
+
+ Long Module 2 flights
+ 1985 Spacelab D-1                       (Challenger)
+ 1992 International Microgravity Lab 1   (Discovery)
+ 1992 Spacelab J                         (Endeavour)
+ 1993 Spacelab Life Sciences 2           (Columbia)
+ 1995 Spacelab-Mir                       (Atlantis)
+ 1996 Life Science/Microgravity Spacelab (Columbia)
+ 1998, planned: Neurolab                 (Columbia)
+
+On this MSL-1 mission, Long Module 1 carries a number of experiment
+racks including a test flight of the International Standard Payload Rack
+which is to be used on Space Station. On this mission the ISPR is called
+EXPRESS, is installed in module Rack 7, and carries a plant growth
+experiment and a fluid physics experiment. Rack 3 contains the TEMPUS
+electromagnetic levitation facility and two acceleration monitoring
+systems. Another set of racks comprises the Combustion Module (Rack 6,
+Rack 8) which will be used for experiments in microgravity combustion
+(setting fire to things in space). The Large Isothermal Furnace (Rack 9)
+will conduct experiments with metallic liquids. The Drop Combustion
+Experiment (Rack 10) has another fire experiment. Rack 12 is the
+misleadingly named Middeck Glovebox, which used to fly on the orbiter
+mid-deck but now is in the Long Module, and carries more materials
+experiments.
+
+The OARE Orbiter Acceleration Research Experiment is an instrument
+attached to the bottom of the cargo bay, which has flown on many
+previous Columbia missions. It measures the acceleration environment
+of the Shuttle, which is particularly important on a microgravity
+experiment mission.
+
+The CRYOFD (Cryogenic Flexible Diode) payload is mounted on an adapter
+beam on the payload bay wall. It consists of the Hitchhiker avionics box
+and a Getaway Special type canister containing two experimental heat
+pipes. Heat pipes are devices used to passively remove heat from
+electronics on spacecraft.
+
+Technical problems with the life support systems and thermal control
+systems continue on board Mir. The carbon dioxide removal system failed
+on  Apr 3. Launch of a supply craft, Progress M-34, with repair
+equipment for the oxygen systems, is scheduled for Apr 6.
+
+Recent Launches
+---------------
+
+A Defense Meteorological Satellite Program weather satellite for the US
+Air Force was launched on Apr 4 from Vandenberg. The payload is probably
+satellite 5D S-14 (Satellite no. 14) and will become 5D F-14 (Flight no.
+14) now it is up. Earlier Block 5D satellites were launched on
+refurbished Thor and Atlas ICBMs; this time was DMSP's first use of a  a
+two-stage refurbished Titan II ICBM. The  Titan 23G-6 rocket separated
+from the payload six minutes after launch and delivered the DMSP and its
+integral Star 37 solid motor upper stage into a suborbital trajectory
+over the Pacific. The Star 37 was due to fire at apogee to place DMSP in
+an 800 km sun-synchronous orbit.
+
+The Block 5D program is a classic example of the disease of designation
+asymptotia. The Block 5A satellites introduced in 1970 were
+significantly larger than their Block 4B precursors but were the same
+basic shape. Block 5B and 5C were minor upgrades to the 5A design. Block
+5D, however, was a completely and utterly different spacecraft and
+should really have been called Block 6. Since then the design has been
+upgraded to a 5D-2 variant (should have been at least Block 6B if not
+Block 7) and the next launch will be a 5D-3. Thank goodness, a Block 6
+is finally on the drawing boards, although at this point I wouldn't be
+surprised if they decided to rename it 5D-3-B. By the way, for some
+incomprehensible reason the Block 1 to Block 3 series weather satellites
+of 1962-1965 are still classified.
+
+  List of DMSP Block 5D launches
+  ------------------------------
+
+Flight  Satellite  Operational  Launch    Launch vehicle
+                   Designation  Date
+--------------------------------------------------------------
+ F-1    S-1        12535          1976 Sep 11    Thor 172
+ F-2    S-2        13536          1977 Jun  5    Thor 183
+ F-3    S-3        14537          1978 May  1    Thor 143
+ F-4    S-5        15539          1979 Jun  6    Thor 264
+ F-5    S-4        16538          1980 Jul 14 *  Thor 304 
+
+ F-6    S-6        17540          1982 Dec 21    Atlas 60E
+ F-7    S-7        18541          1983 Nov 18    Atlas 58E
+ F-8    S-9        19543/USA 26   1987 Jun 20    Atlas 59E
+ F-9    S-8        20542/USA 29   1987 Jun 20    Atlas 54E
+ F-10   S-10       21544/USA 68   1990 Dec  1    Atlas 61E
+ F-11   S-12       22546/USA 73   1991 Nov 28    Atlas 53E
+ F-12   S-11       23545/USA 106  1994 Aug 29    Atlas 20E
+ F-13   S-13       24547/USA 109  1995 Mar 24    Atlas 45E
+ F-14   S-14?      25548?/USA     1997 Apr  4    Titan 23G-6
+--------------------------------------------------------------
+ * Launch failure; last DMSP Block 5D-1
+
+The Zeya satellite is an 87 kg small satellite possibly based on the
+Strela-1M military comsat bus launched in octuplets during the 1970s and
+1980s. It carries 20 laser reflectors for geodesy and GLONASS and GPS
+navigation receivers (*not* transmitters) presumably for orbital
+determination to support its geodesy mission. Zeya also carries the
+RS-16 amateur radio payload with 29.4 MHz, 435 MHz and 145.8 MHz
+antennae. Thanks to Eric Rosenberg and Vladimir Agapov for the info.
+Peter Klanowski reports that Itar-Tass (Jan 23) says Zeya was "
+developed by the Krasnoyarsk-26 applied mechanics research and
+production association [i.e. NPO-PM - ed.] jointly with the  Mozhaisky
+military space engineering academy on order from the military  space
+forces in the interests of the Russian Defence Ministry."
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Mar  1 0107   Intelsat 801     Ariane 44P     Kourou ELA2     Comsat      09A
+Mar  4 0200   Zeya             Start-1        Svobodniy LC5   Comsat      10A
+Mar  8 0601   Tempo 2          Atlas IIA      Canaveral LC36A Comsat      11A
+Apr  4 1647   DMSP 5D-2 S-14   Titan 23G      Vandenberg SLC4W Weather    
+Apr  4 1920   Columbia/STS-83) Shuttle        Kennedy LC39A   Spaceship
+              MSL-1 Spacelab )
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-83  Apr  3
+OV-103 Discovery       OPF Bay 2     STS-85  Jul 17
+OV-104 Atlantis        OPF Bay 3     STS-84  May 15
+OV-105 Endeavour       OPF Bay 1     STS-86  Sep 18
+
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/
+ML2/RSRM-60/ET-85           VAB Bay 3      STS-84
+ML3/                        LC39A          STS-83
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+
+

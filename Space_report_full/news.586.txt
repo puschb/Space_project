@@ -1,0 +1,159 @@
+Jonathan's Space Report
+No. 586                                        2007 Oct 14, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+-------------------
+
+Soyuz TMA-11 was launched at 1322 UTC on Oct 10. The spaceship is
+production number 221, and flies the ISS 15S mission carrying both the
+Expedition 16 long stay crew and the EP-13 visiting crew to the Space
+Station. The Soyuz crew is commanded by Yuriy Malenchenko and includes
+NASA's Peggy Whitson and Malaysia's Sheikh Muszaphar Shukor Al Masrie.
+They docked with the Station's Zarya module at 1450 UTC on Oct 12.
+Aboard the station, Whitson takes command as Expedition 16 commander,
+with Malenchenko as flight engineer, together with second flight engineer
+Clay Anderson who has been aboard since August. Expedition 15 crew
+Fyodor Yurchikin and Oleg Kotov will return to Earth on Soyuz TMA-10
+together with EP-13 crewmember Shukor Al Masrie.
+
+Orbiter OV-103 Discovery is now on pad 39A at Kennedy Space Center awaiting
+launch on mission STS-120.
+
+The Progress M-60 cargo ship undocked from Zvezda at 0037 UTC on Sep 19
+and was used for plasma depletion experiments before being deorbited
+over the Pacific at 1901 UTC on Sep 25. Progress M-61 remains docked at
+Pirs. Soyuz TMA-10 undocked from Zarya at 1920 UTC on Sep 27 and docked
+with Zvezda at 1947 UTC.
+
+Dawn
+----
+
+The Dawn space probe was launched towards the asteroid belt on Sep 27.
+Congratulations to loyal reader and Dawn project engineer Marc Rayman;
+I recommend his journal at http://dawn.jpl.nasa.gov/mission/journal.asp
+
+Dawn is the 9th NASA Discovery mission and will orbit the dwarf planet
+Ceres and the large asteroid Vesta; it follows on from the successful
+Deep Space 1 technology mission in using ion drive for NASA planetary 
+exploration. It has 3 NSTAR xenon ion thrusters, with 425 kg of xenon
+propellant for interplanetary travel, and 12 0.9-Newton MR-103G
+hydrazine thrusters with 46 kg of propellant for asteroid orbit
+insertion. The spacecraft was built by Orbital/Dulles using a
+Star-2-derived bus with a dry mass of 747 kg, and is 1.8 x 1.3m in size
+with two large 19.7-meter-span solar arrays to provide power for the ion
+drive. Dawn has three main instruments: the Framing Cameras, the VIR
+visible/IR mapping spectrometer, and the GRaND gamma ray and neutron
+spectrometer. The mission is managed by JPL and principal investigator
+is Chris Russell of UCLA.
+
+United Launch Alliance carried out the launch on a Boeing Delta 7925H at
+1134 UTC on Sep 27. At 1142 UTC the Delta second stage reached a 185 x
+186 km Earth parking orbit; the second burn was at 1225 UTC. After a
+third, depletion, burn the second stage was in a 170 x 6776 km x 26.7
+deg orbit, but I don't have the post-second-burn orbit - it was probably
+about 185 x 6835 km with a velocity at perigee of 9.01 km/s.  The PAM-D
+solid third stage fired at 1229 UTC to accelerate the probe to an escape
+velocity of 11.50 km/s; at 1236 UTC the stage separated after releasing
+two small despin weights on cables.  Dawn's hyperbolic escape orbit of
+209 x -83420 km x 28.9 deg had an asymptotic velocity of 3.36 km/s
+(specific energy C3 = 11.319 km**2/s**2). Dawn passed lunar orbit at
+about 1430 UTC on Sep 28 and left the Earth's sphere of influence on Sep
+30. Dawn is now in a 1.00 x 1.62 AU solar orbit inclined 0.5 deg to the
+ecliptic; after a Mars flyby in Feb 2009 it will reach Vesta in 2011 and
+Ceres in 2015. The first test burn of the ion engine on Oct 6 was
+successful.
+
+
+Kaguya
+------
+
+Japan's Kaguya moon probe was in a 2243 x 378132 km cislunar transfer orbit
+by Sep 30; on Oct 3 at 2100 UTC it entered a 101 x 11741 km x 95 deg
+lunar orbit. The probe is now lowering its orbit to 100 km circular;
+the Okina (R-Star) subsatellite was ejected into a 115 x 2399 km
+orbit at 0036 UTC on Oct 9, and the Ouna (VRAD) subsatellite
+was ejected at 0428 UTC on Oct 12 into a 127 x 795 km orbit.
+
+
+Ariane L526
+-----------
+
+Intelsat IS-11 and Optus D2 were launched by Ariane 5GS vehicle L526.
+Both are Orbital Star-2 communications satellites; IS-11 provides
+Atlantic region C and Ku-band comms for Intelsat, and Optus D2 
+is a Ku-band satellite for Australia/New Zealand region TV, internet,
+telecom and data. By Oct 12 both had reached geosynchronous altitude.
+
+WGS SV-1
+--------
+
+The USAF's first Wideband Global Satcom satellite was launched by United
+Launch Alliance Atlas V model 421, serial AV-011 on Oct 11 into
+a 477 x 66847 km x 20.1 deg transfer orbit. The satellite replaces the
+DSCS military communications satellites and carries X-band and Ka-band
+communications payloads. WGS uses a Boeing 702 bus.
+
+
+Foton M-3
+---------
+
+The Foton M-3 microgravity satellite was deorbited at 0723 UTC on Sep 26
+and landed at 0758 UTC in Kazakhstan, returing its Russian/European
+microgravity payload to Earth. 
+
+One day earlier, on Sep 25 at 0447 UTC, the ESA YES-2 tether was
+deployed from the battery pack on the front end of Foton. The tether was
+then severed at the battery pack end at about 0720 UTC, after it had
+reached only 8.5 km of its planned 30 km length. The tiny 5 kg Fotino
+reentry capsule separated from  the attached MASS data support system
+shortly afterwards. The idea was that the dynamics of space tethers let
+you send a capsule back to Earth without using a heavy retro-rocket; as
+the tether swings beneath the parent satellite, if you wait until the
+velocity of the capsule is too low for orbit at that height and then
+release it, it will reenter for free. It is not yet known what actually
+happened  to the capsule; my best guess is that both MASS/tether and
+Fotino did reenter sometime on Sep 25 either on their first orbit or
+shortly afterwards. The next day at Foton deorbit, the battery pack and
+its attached YES2 deployer was ejected into a 257 x 275 km orbit and two
+retrorocket covers were ejected into higher 265 x 500 km orbits. 
+
+CBERS-2B
+--------
+
+On Sep 21, the China-Brazil CBERS-2B remote sensing satellite raised its
+orbit to an operational altitude of 773 km.
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep  2 1250   Insat 4CR         GSLV             SDSC             Comms      37A
+Sep  5 2243   JCSAT 11          Proton-M/Briz-M  Baykonur         Comms      F03
+Sep 11 1305   Kosmos-2429       Kosmos-3M        Plesetsk LC132/1 Navigation 38A
+Sep 14 0131   Kaguya            H-IIA 2022       Tanegashima      Moon probe 39A
+Sep 14 1100   Foton M-3  )      Soyuz-U          Baykonur         Micrograv  40A
+              YES-2      )                                        Tech       40C
+              Fotino     )                                        Tech       40
+              MASS       )                                        Tech       40
+Sep 18 1835   WorldView 1       Delta 7920       Vandenberg SLC2W Imaging    41A
+Sep 19 0326   CBERS-2B          Chang Zheng 4B   Taiyuan          Imaging    42A
+Sep 27 1134   Dawn              Delta 7925H      Canaveral SLC17B Probe      43A
+Oct  5 2202   Intelsat IS-11 )  Ariane 5GS       Kourou ELA3      Comms      44A
+              Optus D-2      )                                    Comms      44B
+Oct 10 1322   Soyuz TMA-11      Soyuz-FG         Baykonur LC1     Spaceship  45A
+Oct 11 0022   WGS SV-1          Atlas V 421      Canaveral SLC41  Comms      46A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+

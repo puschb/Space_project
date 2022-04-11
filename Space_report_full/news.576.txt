@@ -1,0 +1,194 @@
+
+Jonathan's Space Report
+No. 576                                         2007 Feb  2, Somerville, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Discovery undocked at 2210 UTC on Dec 19. Remaining aboard the station
+are Mike Lopez-Alegria, Mikhail Tyurin, and Sunita Williams. The Progress M-59
+robotic cargo vehicle was launched at 0212 UTC on Jan 18 and docked
+with the Pirs module on Jan 20. Progress M-57 undocked from Pirs
+and was deorbited over the Pacific; M-58 remains docked to Zvezda with
+its antenna all tangled up with the rear of the module.
+
+Lopez-Alegria and Williams made a spacewalk on Jan 31 to reconfigure the
+ammonia cooling system. The Quest airlock was depressurized at 1510 UTC
+with hatch open at 1513 UTC; the hatch was closed again at 2250 UTC and
+after a pause to check for ammonia contamination the airlock was
+repressurized at 2309 UTC.
+
+Chinese Antisatellite Test
+--------------------------
+
+According to US government sources, China has carried out a test of an
+kinetic-energy antisatellite weapon. The intercept  occurred at 2226 
+UTC on Jan 11, destroying China's own elderly Feng Yun 1C weather
+satellite which was launched in 1999. The weapon was launched on a
+suborbital medium range ballistic missile, reportedly from the Xichang
+space center. The FY-1C was in an 843 x 862 km x 98.7 deg orbit; the
+initial debris cataloged ranges from 165 x 850 km to 850 x 3500 km, a
+wide range of heights indicating an energetic fragmentation with
+delta-Vs along the direction of motion of -190 to +550 m/s. Of course,
+we are missing the tail of dV significantly less than -190 since those
+objects would reenter immediately. As of Jan 27, over 500 objects had
+been cataloged by the US, mostly with velocities of order 500m/s or less
+relative to the original orbit.
+
+Xichang's a bit of a surprise - I would have expected a launch from
+Taiyuan space center which is where most recent Chinese military
+ballistic missiles have been tested. Xichang is normally used for
+CZ-3-class liquid-propellant geostationary launch vehicles.
+
+The type of missile used has not been identified; the most likely
+candidate is probably the solid-fuel DF-21 missile. CNN quoted US
+sources as indicating that this is the fourth launch in the program
+following three previous failures; another source suggests to me that
+there was only one previous failure, and yet other reports give
+other numbers - the best we can say right now is that the situation
+remains confused.
+
+This is the first known antisatellite intercept since the USA's Delta 180
+flight in 1986 (not counting the accidental events of Progress/Spektr
+and DART/MUBLCOM, which were due to lousy driving and not deliberate
+weapons tests).
+
+COROT
+-----
+
+The French astronomy satellite COROT was launched on Dec 27 by the first
+Soyuz-2-1b rocket. The launch was carried out under the auspices of
+Starsem, the French launch services provider which markets Soyuz
+commercially. Soyuz-2-1a has modern avionics compared to the old
+Soyuz-U, while the 14A14 Soyuz-2-1b introduces a new third stage engine,
+the  Khimavtomatiki RD-0124 (14D23), replacing the RD-0110 (11D55)
+series in service since the 1960s. The 605 kg COROT carries a 0.30m
+optical telescope  with two off-axis parabolic mirrors, used to search
+for extrasolar planets by detecting the subtle dimming in brightness as
+they pass in front of their parent stars. COROT is operated by the French
+space agency CNES and was built by Alcatel Alenia Space (Cannes) using
+the Proteus small satellite bus.
+
+The Soyuz-2-1b third stage entered a 215 x 227 km x 90.0 deg orbit
+(unlike Soyuz-2-1a launches in which the third stage has been
+suborbital). The Fregat stage then made two burns to a 895 x 906 km x 90.0
+deg orbit to deploy COROT, and a third burn to remove itself from
+orbit and reenter.
+
+GLONASS
+-------
+
+The three GLONASS-M satellites launched in December are now being
+referred to as Kosmos-2424, 2425, 2426 by the GLONASS control center
+web site. They are Uragan-M satellites no. 715, 716 and 717.
+They are in Plane 2 of the system; all the other operating satellites
+are in Planes 1 and 3.
+
+NSS 8
+-----
+
+Boeing Sea Launch suffered a dramatic failure on Jan 30 when the
+Ukrainian/Russian Zenit-3SL launch vehicle failed just after ignition
+and fell back onto its floating launch platform. The New Skies NSS 8
+communications satellite payload was destroyed. Video showed the launch
+platform enveloped in a spectacular explosion, but a statement on
+the RKK Energiya web site claims that the damage is not critical.
+
+Intelsat
+--------
+
+Following Intelsat's acquisition of Panamsat satellites, the names of a
+number of satellites are being changed. For example, PAS 7 will now be
+"Intelsat 7" or "IS-7". Of course, there is also a type of satellite
+called "Intelsat VII". Similarly, "Intelsat 10" is the former PAS 10,
+but there is also an "Intelsat 10-02" from the 10th generation of the
+old Intelsat fleet; "Intelsat 10" and "Intelsat 10-02" are unrelated and
+"Intelsat 10" is not an Intelsat 10 class satellite. I guarantee this
+will cause endless confusion. Although I am generally strict about using
+the satellite names assigned by the satellite owner, in this case I
+recommend using the slightly incorrect "Intelsat IS-7" and "Intelsat
+IS-10" to remove the ambiguity.
+
+
+PSLV-C7
+-------
+
+The first orbital launch of 2007 was made by the Indian Space Research
+Organization (ISRO). The main payloads of Polar Satellite Launch Vehicle C7
+were Cartosat-2 and the SRE recovery experiment. Two picosatellites
+were also deployed: Pehuensat for Argentina and LAPAN-TUBsat for Indonesia.
+
+Cartosat-2 is a land imager with meter-class resolution and a mass of 680 kg.
+The Space Recovery Experiment vehicle will carry out microgravity
+experiments and then use a liquid engine for a deorbit burn. It carries
+a rounded conical heat shield and will parachute down to the Bay of Bengal
+for recovery.
+
+The 6 kg Pehuensat remained attached to the Dual Launch Adapter which
+was used to carry Cartosat-2 above SRE. It is a project of
+Universidad Nacional del Comahue and AMSAT-LU.
+
+LAPAN-Tubsat carries a 5-meter imaging camera. It was developed with
+help from TUB (Berlin Technical University) whose previous TUBSAT satellites
+included one for Morocco. Mass is 56 kg.
+
+India's SRE-1 was deorbited and landed successfully in the Bay of Bengal
+near 13.3N 81.4E on Jan 22. The satellite was launched into a 620 x 640 km
+polar orbit on Jan 10; the orbit was lowered to 485 x 643 km on Jan 20.
+The 10-minute deorbit burn began at 0330 UTC Jan 22, with entry at 0407 and
+splashdown at 0416 UTC.
+
+The US, Russia, China, Japan and the European Space Agency have also recovered
+spacecraft from orbit.
+
+
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Dec  8 0053   Fengyun 2D        Chang Zheng 3A  Xichang          Weather     53B
+Dec  8 2208   WildBlue 1 )      Ariane 5ECA     Kourou ELA3      Comms       54A
+              AMC 18     )                                       Comms       54B
+Dec 10 0147   Discovery STS-116 Shuttle         Kennedy LC39B    Spaceship   55A
+Dec 11 2328   Measat 3          Proton-M/Briz-M Baykonur LC200/39 Comms      56A
+Dec 14 2100   USA-193 (NROL-21) Delta 7920      Vandenberg SLC2W Unknown     57A
+Dec 16 1200   Tacsat 2  )       Minotaur        Wallops LA0B    Imaging/Tech 58A
+              Genesat-1 )
+Dec 18 0632   ETS-8             H2A 204         Tanegashima      Comms       59A
+Dec 19 1400   SAR-Lupe 1        Kosmos-3M       Plesetsk LC132/1 Radar       60A
+Dec 21 0019   MEPSI-2A/2B       -               Discovery, LEO   Tech        55B
+Dec 21 0156   RAFT     )                        Discovery, LEO   Calibration 55C
+              NMARS    )                                         Comms       55D
+Dec 21 1822   ANDE-MAA )                        Discovery, LEO   Science     55J
+              FCAL     )                                         Calibration 55F
+Dec 24 0834   Meridian No. 1    Soyuz-2-1A      Plesetsk LC43/4  Comms       61A
+Dec 25 2018   Glonass-M )       Proton-K/DM-2   Baykonur LC81/24 Navigation  62A
+              Glonass-M )                                        Navigation  62B
+              Glonass-M )                                        Navigation  62C
+Dec 27 1423   COROT             Soyuz-2-1B      Baykonur LC31/6  Astronomy   63A
+Jan 10 0416   Cartosat-2  )     PSLV            Sriharikota LP1  Imaging     01B
+              SRE-1       )                                      Tech        01C
+              LAPAN Tubsat)                                      Imaging     01A
+              Pehuensat   )                                      Comms       01D
+Jan 18 0212   Progress M-59     Soyuz-U         Baykonur LC1     Cargo       02A
+Jan 30 2322   NSS 8             Zenit-3SL       SL Odyssey, POR  Comms       F01
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+
+
+
+

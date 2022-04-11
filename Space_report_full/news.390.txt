@@ -1,0 +1,118 @@
+Jonathan's Space Report
+No. 390                                        1999 Mar  1  Cambridge, MA
+-------------------------------------------------------------------------------
+Note: I've updated the launch log files at hea-www.harvard.edu/~jcm/space/log
+
+Shuttle and Station
+------------------------
+
+Soyuz TM-29 was launched at 0418 UTC on Feb 20. The Soyuz-U (11A511U)
+launch vehicle placed  spacecraft 7K-STM No. 78 (Soyuz TM-29) in orbit
+nine minutes later. Crew commander is Viktor Afanas'ev of the Russian
+Air Force, flight engineer is Jean-Pierre Haignere of the French space
+agency CNES, and researcher-cosmonaut is Ivan Bella of Slovakia. Soyuz
+TM-29 docked with Mir on Feb 22 at 0536 UTC. On Feb 27 EO-26 crew
+commander Gennady Padalka and Ivan Bella entered Soyuz TM-28 and
+undocked from the Kvant rear docking port at 2252 UTC, landing  in
+Kazakstan at 0214 UTC on Feb 28. The new Mir crew, EO-27, is Viktor
+Afanas'ev (Komandir), Sergey Avdeev (who was formerly on the EO-26
+crew), (Bortinzhener) and Jean-Pierre Haignere (Bortinzhener-2). The
+crew call sign is 'Derbent'.
+
+The next Shuttle mission is STS-96, to the Space Station. STS-101,
+scheduled for October, may be delayed if a new STS-103 Hubble servicing
+mission is added to repair HST's flaky gyros.
+
+Recent Launches
+---------------
+
+The much-delayed USAF Space Test Program P91-1 satellite, ARGOS, finally
+got off the pad on Feb 23 on the 11th launch attempt. The Delta 7920
+launch vehicle also placed two small subsatellites in orbit: Orsted for
+Denmark and Sunsat for Stellenbosch University, South Africa. Orbit is
+831 x 847 km x 98.7 deg. ARGOS carries an electric propulsion
+experiment, ionospheric instruments, and a space dust experiment, as
+well as NRL's USA hard X-ray astronomy detectors for X-ray binary star
+timing observations. ARGOS was built by Boeing/Seal Beach (formerly
+Rockwell). Orsted will map the Earth's magnetic field, and is managed
+and operated by the Danmarks Meteorologiske Institut (Danish
+Meteorological Institute) in Kobenhavn. The satellite's prime contractor
+was CRI of Kobenhavn; mass is 62 kg. Sunsat was built by students at
+Stellenbosch and carries a small imager and a message relay payload.
+
+Arianespace completed its first 1999 launch with flight V116, delivering
+Arabsat 3A and Skynet 4E to orbit on an Ariane 44L. Arabsat 3A is a
+Spacebus 3000 built by Alcatel/Cannes for the Arab League. Launch mass
+is 2708 kg and dry mass is 1200 kg; the satellite has 20 Ku-band
+transponders and will be stationed at 26. It uses a DASA S400 liquid
+apogee engine. Skynet 4E is a SHF/UHF military comsat for the UK
+Ministry of Defense. It was built by Matra Marconi Space/Stevenage using
+the old ECS bus. Launch mass is 1490 kg and dry mass is 759 kg; Skynet
+4E has a Thiokol Star 30 solid apogee motor.
+
+Russia launched a Krunichev Proton-K rocket from Baykonur on Feb 28,
+carrying the Globus No. 14 (Raduga-1) Russian Defense Ministry comsat to
+geostationary orbit.  The Globus series is an improved version of the
+old Gran' (Raduga) satellite first launched in 1975; the satellites are
+build by NPO Prikladnoi Mekhaniki in Zheleznogorsk, near Krasnoyarsk.
+The upper stage, which made two burns to place the Raduga-1 in
+geosynchronous orbit, is probably an Energiya Blok DM-2 (11S861); the
+first test flight of Krunichev's Briz-M upper stage is due soon, but I
+don't think it was this flight.
+
+The WIRE infrared astronomy satellite is due for launch on Mar 1.
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jan  3 2021   Mars Polar Lander) Delta 7425    Canaveral SLC17B Mars probe 01A
+              MPL Cruise Stage )
+              DS2 Microprobe 1 )
+              DS2 Microprobe 2 )
+Jan 27 0034   ROCSAT-1          Athena-1       Canaveral SLC46  Science    02A
+Feb  7 2104   Stardust          Delta 7426     Canaveral SLC17A Probe      03A
+Feb  9 0354   Globalstar FM23 ) Soyuz-U/Ikar   Baykonur         Comsat     04B
+              Globalstar FM36 )                                 Comsat     04A
+              Globalstar FM38 )                                 Comsat     04C
+              Globalstar FM40 )                                 Comsat     04D
+Feb 15 0512   Telstar 6         Proton-K/DM3   Baykonur LC81    Comsat     05A
+Feb 16 0145   JCSAT-6           Atlas 2AS      Canaveral SLC36A Comsat     06A
+Feb 20 0418   Soyuz TM-29       Soyuz-U        Baykonur LC1     Spaceship  07A
+Feb 23 1030   ARGOS    )        Delta 7920     Vandenberg SLC2W Technol.   08A
+              Orsted   )                                        Space Sci  08B
+              Sunsat   )                                        Technol.   08C
+Feb 26 2244   Arabsat 3A )      Ariane 44L     Kourou ELA2      Comsat     09A
+              Skynet 4E  )                                      Comsat     09B
+Feb 28 0400?  Raduga-1          Proton-K/DM-2? Baykonur         Comsat     10A
+
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        VAB Bay 2     STS-93  Jul  9
+OV-103 Discovery       OPF Bay 1     STS-96  May 20
+OV-104 Atlantis        OPF Bay 3     STS-101 Oct 14?
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 18
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/RSRM-70                   VAB Bay 3 STS-96
+MLP3/
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

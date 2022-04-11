@@ -1,0 +1,224 @@
+Jonathan's Space Report
+No. 579                                     2007 Apr 23, Somerville, MA
+-------------------------------------------------------------------------------
+
+ERRATUM: The upper stage for the Skynet/Insat Ariane 5ECA launch was
+of course an ESC-A, not the old EPS stage. 
+
+Station
+-------
+
+Soyuz TMA-10 was launched on Apr 7.
+
+Progress M-58 undocked from the Zvezda module on Mar 27 at 1811 UTC and
+was deorbited at 2244 UTC. The Expedition 14 crew boarded Soyuz TMA-9 on
+Mar 29,  undocking from Zarya at 2230 UTC and redocking with Zvezda at
+2254, leaving the Zarya port free for the planned Soyuz TMA-10 launch.
+TMA-10 took off at 1731 UTC Apr 7 and reached orbit at 1740 UTC.  The
+Soyuz TMA-10 spacecraft is Soyuz TMA factory article 11732 No. 220 and 
+is flying ISS mission 14S. Aboard Soyuz TMA-10 are Expedition 15
+astronauts Fyodor Yurchikin of RKK Energiya (a Russian citizen born in
+Gruziya - 'Georgia') and Oleg Kotov (a Russian Air Force pilot), as well
+as EP-12 (Visting Mission 12) tourist crewmember Charles Simonyi.
+Simonyi (born in Hungary as Simonyi Karoly) is a former Microsoft 
+executive and (for the coders among my readers) inventor of the
+Hungarian notational convention for naming variables in software.  For
+the Soyuz flight, Kotov is commander and Yurchikin is flight engineer;
+as Station crewmembers their roles switch. The Expedition 15 and EP-12
+crewmembers joined the Expedition 14 crew of Mike Lopez-Alegria, Mikhail
+Tyurin and Sunita Williams when Soyuz TMA-10 docked with the Zarya
+module at 1910 UTC on Apr 9. On Apr 21, Lopez-Alegria, Tyurin and
+Simonyi returned to Earth in the Soyuz TMA-9 ship, landing at 1231 UTC.
+The Expedition 15 crew now consists of Yurchikin, Kotov and Williams.
+
+
+Falcon 1
+--------
+
+The Falcon flight reached an orbit of around -4200 x 289 km x 9 deg.
+SpaceX reported that the test payload instrument ring was successfully
+deployed; the payload and the second stage fell in the Pacific.
+
+Anik F3
+--------
+
+A Proton-M rocket launched on Apr 9 placed a Briz-M upper stage (S/N
+88519) in orbit with the Canadian Anik F3 communications satellite
+aboard. Anik F3 was delivered to geostationary transfer orbit of 5514 x
+35771 km x 11.0 deg. The Briz-M stage is in a similar orbit; the Briz-M
+DTB tank is in a 316 x 17659 km x 49.5 deg orbit, and the Proton third
+stage reentered from a -932 x 163 km x 51.5 deg orbit. Anik F3 is an
+EADS Astrium Eurostar 3000 model satellite with C, Ku and Ka band
+payloads. On Apr 23 it was in a 35781 x 35791 km x 0.1 deg GEO at 119 deg W.
+
+HY-1B
+-----
+
+The Haiyang-1B oceanographic satellite was launched on Apr 11
+from Taiyuan Space Center in China into a 783 x 813 km x 98.6
+deg orbit.
+It carries a 10-band ocean color scanner, a 4-band CCD imager
+with 250-meter resolution, and an infrared water profile radiometer.
+
+HY-1A was launched in 2002 as a secondary payload on a CZ-4B launch,
+while HY-1B was the primary payload on its lighter CZ-2C rocket.
+
+Beidou 5
+--------
+
+The 5th Beidou satellite was launched on Apr 13; it is the first
+to be targeted for a GPS-like 12-hour, 55 deg inclination, 21000 km
+altitude orbit. The 4th Beidou, launched in January, finally
+reached geostationary orbit in early April following deployment
+problems with its solar panels and reports of US detection of a debris cloud
+at the time of the original expected apogee firing.
+
+(US reports talk about the new launch as part of the 'Compass' system;
+this appears to be a name used by China only in English language
+documents to refer to the system. Some reports talk about 'Compass M1';
+since there is no alphabet in Chinese, it's unclear what the 'M'
+would represent in that language).
+
+
+Dnepr 
+-----
+
+Kosmotras launched a Dnepr rocket (converted R-36M missile)
+on Apr 17. The rocket carried six small Saudi Arabian satellites,
+the Egyptsat (Misr) 1 payload, and three picosat deployers carrying
+six 1-kg Cubesats and the MAST tether satellite experiment.
+The satellites are in 650 x 660-792 km x 98.1 deg orbits:
+
+12D  Plume shield   97.836 649 x 660 x 98.1  
+12A  Egyptsat       97.970 657 x 665 x 98.1
+12B  Saudisat 3     98.094 656 x 678 x 98.1
+12J  SaudiComsat-3  98.465 653 x 717 x 98.1
+12H  SaudiComsat-5  98.570 652 x 728 x 98.1
+12C  SaudiComsat-7  98.677 651 x 739 x 98.1
+12L  SaudiComsat-4? 98.777 650 x 750 x 98.1
+12E  SaudiComsat-6  98.888 649 x 761 x 98.1
+12F  Cubesat?       98.969 648 x 770 x 98.1
+12K  Cubesat?       99.083 647 x 782 x 98.1
+12N  Cubesat?       99.180 646 x 792 x 98.1
+12P  Cubesat?       99.184 646 x 792 x 98.1
+12M  Cubesat?       99.186 646 x 792 x 98.1
+12Q  Cubesat?       No orbit data yet
+12R  Cubesat?       No orbit data yet
+12G  Dnepr stage   101.988 624 x1079 x 98.1
+
+
+Egyptsat (MisrSat) is a 100-kg class imaging payload built
+by the Ukranian company Yuzhnoe for Egypt's National
+Authority for Remote Sensing and Space Sciences.
+
+Saudisat-3 carries an imaging payload and a data collection
+relay payload; it has a mass around 200 kg (?) and is the
+largest satellite to date for the King Abdulaziz City for Science
+and Tech. (KACST) space research center in Riyadh. The flight
+also carried a group of five 12-kg SaudiComsat messaging payloads,
+SaudiComsat 3 to 7.
+
+Three PPOD picosatellite launchers were used:
+
+PPOD-A carried Aerocube 2 for the Aerospace Corp (El Segundo, Calif.);
+CSTB 1, the CubeSat TestBed for Boeing IDS/Advanced Systems
+(Huntington Beach, Calif.); and the Cal Poly CP4 cubesat, which
+is a backup for the CP2 lost in last year's Dnepr failure.
+
+PPOD-B carried MAST 1, the Multi Application Survivable Tether
+experiment, for Tethers Unlimited Inc and Stanford U.. MAST 1
+consists of the TED (Tether Deployer) satellite, with a 1 km deployable
+multi-strand Hoytether; RALPH, the small end mass satellite; and between
+them, GADGET, an Inspector satellite which can crawl up and down the
+tether. Before deployment the MAST vehicle is 0.3m x 0.1m, fitting inside
+a triple cubesat envelope.
+
+PPOD-C carried the Cajun Advanced Picosatellite Experiment (CAPE 1)
+for the University of Louisiana at Lafayette; Libertad 1
+for Universidad Sergio Arboleda, Bogota, Colombia; and the
+Cal Poly CP3 cubesat.
+
+
+Space surveillance catalog
+---------------------------
+
+I note that Space Command seems to still be leaving catalog number
+29676 blank, even though the catalog numbers are now up to 31134.
+
+AGILE
+------
+
+The Italian gamma-ray observatory AGILE (Astrorivelatore Gamma ad
+Imagini Leggero, Light Gamma-Ray Imaging Astronomical Detector) was
+launched on Apr 23 aboard an Indian PSLV rocket into a 523 x 552 km x
+2.5 deg orbit. AGILE carries the GRID 0.3-200 MeV wide-field gamma ray
+imager, which will try and scoop some of the science from NASA's much
+more powerful GLAST mission to be launched at the end of the year. It
+also carries the Super-AGILE 15-45 keV detector which will give the
+best look yet at the hard X-ray sky.
+
+
+PSLV-C8 flew for the first time in a light configuration with
+no strap-on motors. It used a Dual Launch Adapter; the secondary
+payload was an Advanced Avionics Module for future use on Indian
+launch vehicles; the AAM presumably did not separate from the PS4
+fourth stage.
+
+
+Dorrit Hoffleit
+----------------
+
+I report with sadness the death of Dorrit Hoffleit at the age of 100.
+Dorrit was the author of the Yale Bright Star Catalog, first published
+in 1930 and reaching its fifth edition in the 1990s. In her almost
+80-year-long active career in astronomy beginning here at Harvard in the
+1920s and continuing at Yale since the 1950s she was a mentor to many
+young astronomers, notably including many of the senior women in the
+field; she was one of the last living links to Annie Cannon and her
+colleagues in the pioneering era of Harvard astrophysics.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar  9 0310   STPSat-1   )      Atlas V 401     Canaveral SLC41  Tech        06D
+              Astro      )                                       Tech        06A
+              NextSat    )                                       Tech        06C
+              Midstar 1  )                                       Tech        06B
+              Falconsat-3)                                       Tech/Sci    06E
+              CFESat     )                                       Science     06F
+              MEPSI Picosat)                                     Tech        06
+              MEPSI Picosat)                                     Tech        06
+Mar 11 2203   Skynet 5A )       Ariane 5ECA     Kourou ELA3      Comms       07B
+              Insat 4B  )                                        Comms       07A
+Mar 21 0110   DemoFlight 2      Falcon 1        Kwaj/Omelek      Test        F02
+Apr  7 1731   Soyuz TMA-10      Soyuz-FG        Baykonur LC1     Spaceship   08A
+Apr  9 2254   Anik F3           Proton-M/Briz   Baykonur         Comms       09A
+Apr 11 0327   Haiyang 1B        Chang Zheng 2C  Taiyuan          Imaging     10A
+Apr 12 2011   Beidou 5          Chang Zheng 3A  Xichang          Navigation  11A
+Apr 17 0646   MAST          )   Dnepr           Baykonur         Tech        12
+              Misr 1        )                                    Imaging     12A
+              Saudisat 3    )                                    Imaging     12B
+              SaudiComsat-3 )                                    Comms       12J
+              SaudiComsat-4 )                                    Comms       12L?
+              SaudiComsat-5 )                                    Comms       12H
+              SaudiComsat-6 )                                    Comms       12E
+              SaudiComsat-7 )                                    Comms       12C
+              CAPE 1        )                                    Tech        12
+              Aerocube 2    )                                    Tech        12
+              CSTB 1        )                                    Tech        12
+              CP 3          )                                    Tech        12
+              CP 4          )                                    Tech        12
+              Libertad      )                                    Tech        12
+Apr 23 1000   AGILE             PSLV              Sriharikota    Astronomy   13A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+---------------------------------------------------------------------------

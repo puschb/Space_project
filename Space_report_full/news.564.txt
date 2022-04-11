@@ -1,0 +1,97 @@
+Jonathan's Space Report
+No. 564                                            2006 May 4, Victoria, BC
+-------------------------------------------------------------------------------
+
+Station
+-------
+
+The cargo ship Progress M-56 docked with Zvezda on Apr 26 at 1741 UTC,
+joining Progress M-55 and the Soyuz TMA-8 ferry ship at the Station.
+Meanwhile, Discovery has been moved to the VAB in preparation 
+for launch from Kennedy Space Center on July 1.
+
+
+Yaogan
+------
+
+The Yaogan 1 remote sensing satellite was launched by CZ-4B rocket from
+China's Taiyuan space center on Apr 26. The satellite was built by the
+Shanghai SAST group, which also builds the Feng Yun weather satellites.
+Yaogan 1 entered a 601 x 621 km x 97.8 deg initial orbit; from Apr 29
+to May 1 it raised its orbit to 628 x 629 km x 97.8 deg.
+The CZ-4B third stage ended up in a 451 x 624 km orbit
+after a depletion burn.
+
+Kosmos-2420
+-----------
+
+Russia launched an imaging reconnaissance satellite on May 3 under the
+code name Kosmos-2420. Kosmos-2420 was placed in a 168 x 338 km x 67
+degree orbit after launch from Plesetsk. It is probably the second
+Kobal't-M satellite, built by the Arsenal factory. Kobal't-M carries
+small film recovery capsules and one large reentry vehicle with the
+camera and more film.
+
+Cassini
+-------
+
+Cassini made another flyby of Titan at 2058 UTC on Apr 30,
+at an altitude of 1855 km and an inertial velocity of 5.84 km/s.
+
+Cloudsat/Calipso
+----------------
+
+The NASA Cloudsat satellite and the Calipso satellite, a  joint CNES
+(France) and NASA project, were launched on a Delta rocket on Apr 28.
+The Delta stage entered a 173 x 684 km x 98.1 deg transfer orbit and
+then a 687 x 689 km x 98.2 deg deployment orbit. After deploying the two
+payloads, Delta depleted its remaining fuel and ended up in a 206 x 624
+km x 102.8 deg disposal orbit.
+
+Calipso carries a 1-meter lidar telescope to study clouds and aerosols,
+and an imaging IR radiometer. The NASA part of the project is considered
+to be an ESSP (Earth System System Pathfinder) mission.
+Cloudsat is another ESSP mission, and carries a 94 GHz cloud profiling
+radar. Both satellites are in the A-train polar constellation, in
+the same orbit as the large Aqua and Aura satellites.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar 11 2233   Hotbird 7A )      Ariane 5 ECA    Kourou ELA3      Comms       07A
+              Spainsat   )
+Mar 22 1403   ST5-FWD )         Pegasus XL      L1011,WTR        Tech        08A
+              ST5-MID )                                                      08B
+              ST5-AFT )                                                      08C
+Mar 24 2230   Falconsat-2       Falcon 1        Omelek           Tech        F01
+Mar 30 0230   Soyuz TMA-8       Soyuz-FG        Baykonur LC1     Spaceship   09A
+Apr 12 2330   JCSAT-9           Zenit-3SL       Odyssey, POR     Comms       10A
+Apr 15 0140   Formosat-3 FM1 )  Minotaur        Vandenberg SLC8  Science     11A
+              Formosat-3 FM2 )                                   Science     11B
+              Formosat-3 FM3 )                                   Science     11C
+              Formosat-3 FM4 )                                   Science     11D
+              Formosat-3 FM5 )                                   Science     11E
+              Formosat-3 FM6 )                                   Science     11F
+Apr 20 2027   Astra 1KR         Atlas V 411     Canaveral SLC41  Comms       12A
+Apr 24 1603   Progress M-56     Soyuz-U         Baykonur LC1     Cargo       13A
+Apr 25 1647   EROS B            Start-1         Svobodniy        Imaging     14A
+Apr 26 2248   Yaogan 1          CZ-4B           Taiyuan          Imaging?    15A
+Apr 28 1002   Cloudsat )        Delta 7420      Vandenberg SLC2W Rem.Sensing 16
+              Calipso  )                                         Rem.Sensing 16
+May  3 1738   Kosmos-2420       Soyuz-U         Plesetsk LC16    Imaging     17A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+
+
+

@@ -1,0 +1,98 @@
+Jonathan's Space Report 
+No. 220               1994 Nov 26                New York, NY
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The Shuttle Carrier Aircraft (I don't know whether it was 905 or 911)
+carrying Atlantis  left Edwards on Nov 21 and flew to Eglin AFB in
+Florida after a refuelling stop at Kelly AFB, San Antonio. It left Eglin
+AFB on Nov 22 and landed at KSC's Shuttle Landing Facility at 1521 on
+Nov 22, to be towed to Orbiter Processing Facility Bay 3.
+
+
+Recent Launches
+---------------
+
+Three Uragan ("Hurricane") navigation satellites were launched on Nov 20
+at 0039 UT aboard a single Proton-K launch vehicle. The third stage of
+the Proton vehicle entered a low circular orbit with an inclination of
+64.8 deg; by 1200 its orbit was only 122 x 137 km x 64.8 deg and it
+probably reentered the same day. Meanwhile, the Blok-DM2 upper stage
+separated and made its first burn to enter an elliptical transfer orbit.
+Two small ullage motors fired to force the DM2's propellant to the rear
+of the stage and separated, remaining in transfer orbit. The DM2 then
+reignited to enter a 19064 x 19127 km x 64.0 deg circular orbit in which
+it dispensed the three Uragan satellites, which received the names
+Kosmos-2294, Kosmos-2295, and Kosmos-2296. The satellites have small
+on-board propulsion units to maintain precise positions in their 11hr,
+15 min circular 19100 km high orbits. They form part of the GLONASS
+(Global Navigation Satellite System) network operated by the Russian
+Defense Ministry.
+
+Kosmos-2297 was launched by the Ukranian Zenit-2 rocket from Baykonur
+on Nov 24 into an 851 x 879 km x 71.0 deg orbit. The satellite carries
+an array of electronic intelligence detectors to monitor radio emissions.
+
+--------------------------------------------------------------------------------
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Oct 11 1430     Okean-O1 No. 7  Tsiklon-3       Plesetsk LC32   Rem.sensing 66A
+Oct 13 1619     Ekspress        Proton-K/DM-2-1 Baykonur LC200  Comsat      67A
+Oct 15 0505     IRS-P2          PSLV            Sriharikota     Rem.sensing 68A
+Oct 31 1430     Elektro         Proton-K/DM-2-1 Baykonur LC81     Weather     69A
+Nov  1 0037     Astra 1D        Ariane 42P      Kourou ELA2     Comsat      70A
+Nov  1 0931     Wind            Delta 7925      Canaveral LC17B Science     71A
+Nov  2 0104     Kosmos-2293     Tsiklon-2       Baykonur LC90   EORSAT      72A
+Nov  3 1700     Atlantis        Space Shuttle   Kennedy LC39B   Spaceship   73A
+Nov  4 0547     Resurs-O1 No. 3 Zenit-2         Baykonur LC45   Rem.sensing 74A
+Nov  4 1250     CRISTA-SPAS     -               Atlantis, LEO   Science     73B
+Nov 11 0722     Progress M-25   Soyuz-U         Baykonur LC1    Cargo       75A
+Nov 20 0039     Kosmos-2294  )  Proton-K/DM-2   Baykonur LC200  Navsat      76A
+                Kosmos-2295  )                                  Navsat      76B
+                Kosmos-2296  )                                  Navsat      76C
+Nov 24 0916     Kosmos-2297     Zenit-2         Baykonur LC45   SIGINT      77A
+
+
+Reentries
+---------
+
+Oct 11          Endeavour       Landed at Edwards AFB
+Oct 12          Magellan        Entered Venus atmosphere
+Nov  4          Molniya-1       Reentered (1984-29A)
+Nov  4          Soyuz TM-19     Landed in Kazakhstan
+Nov 14          Atlantis        Landed at Edwards AFB
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-63  Feb 2
+OV-104 Atlantis        OPF Bay 3     STS-71  
+OV-105 Endeavour       OPF Bay 1     STS-67  Feb 23
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM/ET                VAB Bay 3 STS-63                       
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/                      
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                        |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                 |
+'-------------------------------------------------------------------------'
+
+

@@ -1,0 +1,225 @@
+Jonathan's Space Report
+No. 781                                                         2020 Jul 27   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 63 continues.
+
+The EP-9 pallet was temporarily restowed on the MBS on Jul 6. It was presumably
+unberthed again with the SSRMS on around Jul 15 prior to EVA-67, and it was restowed
+again on Jul 22.
+
+On Jul 7 the Dextre robot arm was used to exchange a failed RPCM electronics box
+on the P3 truss (in the P32B/A slot) with a replacement one in the CTC-5 supply
+box on the ELC-3 pallet.
+
+On Jul 13 the Kibo RMS removed the Nanoracks NRCSD-18 deployer from the Kibo airlock.
+NRCSD-18 ejected the DemMi cubesat at 13:40:25 UTC and the TechEdSat cubesat at 16:55:25 UTC.
+DeMi (the Deformable Mirror experiment) is a 6U cubesat for DARPA and Aurora Flight Sciences.
+TechEdSat-10 is a 1x6U cubesat for NASA/Ames and San Jose State U to test controlled reentry
+technology.
+
+On Jul 16 astronauts Behnken and Cassidy carried out spacewalk EVA-67.
+The airlock was depressurized at 1107 UTC and the hatch open at 1109; the hatch was closed
+at 1707 UTC and the airlock repressurized at 1710 UTC.
+ The astronauts moved batteries between the JAXA EP9 external pallet and the 3B side of the
+IEA on the S6 truss segment. 
+  At 1222 UTC, NiH battery 0086 was removed from S6/3B slot 1 and installed in EP9 slot Z at 1234 UTC.
+  At 1243 UTC, Li-ion battery 0027 was removed from EP9 slot F and installed in S6/3B slot 1 at 1254 UTC.
+  At 1308 UTC, NiH battery 0088 was removed from S6/3B slot 2 and installed in EP9 slot F at 1323 UTC.
+  At 1320 UTC, Adapter plate (unknown serial) was removed from EP9 slot F and installed in S6/3B slot 2 at 1327 UTC.
+  At 1343 UTC, NiH battery 0084 was removed from S6/3B slot 3 and installed on the adapter plane in S6/3B slot 2 at 1345 UTC.
+  At 1355 UTC, Li-ion battery (unknown serial, but probably 0028 - unfortunately NASA PAO talked over the astronauts'
+   readout of the serial number) was removed from EP9 slot E and installed in S6/3B slot 3 at 1405 UTC.
+  At 1415 UTC, NiH battery 0085 was removed from S6/3B slot 4 and installed in EP9 slot E at 1432 UTC.
+  At 1429 UTC, Adapter plate (unknown serial) was removed from EP9 slot E and installed in S6/3B slot 4 at 1439 UTC.
+  At 1500 UTC, NiH battery 0094 was removed from S6/3B slot 6 and installed on the adapter plate in S6/3B slot 4 at 1509 UTC.
+  At 1517 UTC, Li-ion battery 0029 was removed from EP9 slot C and installed in S6/3B slot 6 at 1528 UTC.
+  At 1542 UTC, NiH battery 0095 was removed from S6/3B slot 5 and installed in EP9 slot C at 1601 UTC.
+  At 1558 UTC, Adapter plate (unknown serial) was removed fron EP9 slot C and installed in S6/3B slot 5 at 1606 UTC.
+
+There remains one further Li-ion battery to be installed: Li-ion battery
+0016 (?) failed on 2019 Mar 22, only 3 days after being installed in
+P4/4A slot 5. The failed battery was removed on 2019 Apr 3 and discarded
+on the EP7 aboard the departing HTV-8. Retired NiH batteries 0072 and
+0069 were pulled from storage on adapter plate P4/4A slot 6 and from EP7
+disposal slot Y and put back in service at the P4/4A slot 5 and 6
+locations on 2019 Apr 5-11. These batteries are to be replaced at P4/4A
+slot 5/6 with a new Li-ion battery  (unknown serial) and adapter plate
+launched on Dragon SpX-19 and  stored on ESP-3 on 2019 Dec 5.
+
+On Jul 21 Behnken and Cassidy carried out spacewalk US EVA-68. During
+this spacewalk, the astronauts installed the RiTS (Robotic Tool Stowage)
+unit on the Mobile Base System. RiTS is a protective housing for the two
+RELL leak locator units RELL 2 and 3, which were installed in it on Jul
+19. It was launched to ISS on Dragon SpX-19 last year. The crew also
+went to the Tranquility module and worked on its axial CBM  (Common
+Berthing Mechanism) port where the Nanoracks Bishop Airlock will
+eventually be installed. They removed the PMA-3 fabric cover from it and
+returned the cover to the airlock. They also removed three debris
+shields (ACBM Shield 2, 3, and 4) and tied them down on the module near
+the CBM. The shields were installed on the ACBM during a Mar 2017
+spacewalk; at that time ACBM Shield 1 came loose and floated away, to
+reenter on 2017 Oct 23. The PMA-3 thermal cover was launched on STS-135
+in 2011; it was installed on the PMA-3 docking unit in Jul 2011 during
+STS-135 EVA-1 and moved from PMA-3 to the ACBM during a Mar 2017 spacewalk
+(US EVA-41).
+
+The Progress MS-15 cargo ship was launched from Baykonur at 1426 UTC on
+Jul 23 and docked with the ISS Pirs module at 1745 UTC, 3hr 19min later.
+
+
+Apstar 6D
+----------
+
+China's CALT launched the Apstar 6D communication satellite on Jul 9 into geotransfer orbit.
+Apstar 6D is a 5500 kg DFH-4E model built by CAST/Beijing. Earlier Apstar satellites were
+owned by Asia Pacific Satellite/Hong Kong, but this one is owned by the affiliate Asia
+Pacific Satellite/Shenzhen.
+
+By Jul 20 Apstar 6D was on station at 134.5 deg East in GEO. Catalog number 45864 was originally
+apparently reserved for the CZ-3B third stage, but ultimately the stage was not cataloged.
+It may have reentered at first perigee.
+
+
+KZ-11
+-----
+
+EXPACE launched the first Kuaizhou 11 vehicle from Jiuquan on Jul 10,
+but it failed to reach orbit. The failure came sometime after the start
+of second stage burn and is rumoured to be an explosion during third
+stage burn. The rocket carried imaging payloads for two Chinese
+companies. KZ-11 is a 2.2-metre diameter light launch vehicle possibly
+based on the DF-31/DF-41 missile. 
+
+NROL-129
+---------
+
+A Northrop Grumman Minotaur IV was launched from Launch Area 0B at the Mid-Atlantic Regional Spaceport (MARS)
+on Wallops Island on Jul 15. It placed four secret National Reconnaissance Office satellites in orbit.
+
+UAE Mars probe
+---------------
+
+Mitsubishi Heavy Industries (MHI) Launch Services launched H2A No. F42,
+an H2A 202 model, from Tanegashima on Jul 19. After a coast in a 255 x
+255 km x 30 deg parking orbit the second stage boosted itself to an
+escape hyperbola with energy C3 = 13.3 km2/s2 and released Misabar
+Al'amal (Hope Probe), the UAE Mars probe. The Al'amal probe is owned by
+the Mohammed bin Rashid Space Center (MBRSC) in Dubai and was bult by
+Colorado University's Lab for Atmospheric and Space Physics (CU-LASP). 
+
+Al'amal carries a camera as well as IR and UV spectrometers, developed
+in collaboration with CU-LASP and Arizona State U. The probe left the Earth's
+Hill sphere and entered a 1.02 x 1.63AU x 2.2 deg heliocentric orbit on Jul 24.
+
+The probe has a dry mass of 550 kg and carries 800 kg of hydrazine. Its
+six 120N main thrusters are scheduled to perform a Mars orbit insertion
+burn in Feb 2021.
+
+ANASIS II
+---------
+
+On Jul 20 SpaceX launched a communications satellite, ANASIS II, for the
+Korean defence agency ADD. The satellite is an Airbus Defense and Space
+Eurostar 3000.  ANASIS I was Koreasat 5, launched in 2006. The Falcon 9
+first stage landed safely on the JRTI droneship. By Jul 24 ANASIS II was
+in a 25382 x 43312 km x 3.1 deg transfer orbit.
+
+Tianwen 1
+---------
+
+China's first Mars probe was launched on Jul 23 from Wenchang in Hainan
+at 0441 UTC Jul 23. The CZ-5 rocket entered a 30 degree inclination
+parking orbit and then made a second burn from 0508 to 0517 UTC to reach
+escape velocity with C3 = 12.05 km2/s2. The probe and the second stage
+left Earth's gravitational sphere on Jul 27 and entered a 1.02 x
+1.60 AU x 1.1 deg solar orbit.
+
+The Tianwen 1 orbiter is about 4.0m high with estimated dry mass 1645 kg
+plus 1530 kg of propellant. Attached to it is a 1745 kg entry vehicle,
+containing a 1285 kg lander with a 7.5 kN throttlable engine, on top of
+which is a 240 kg, 0.8 x 2.0m rover. The orbiter will enter Mars orbit
+attached to the entry vehicle and will perform its deorbit burn. The
+lander will descend on aeroshell, parachuts and then its rocket engine.
+
+
+ZY3-03
+------
+
+On Jul 25 China's SAST launched a CZ-4B from Taiyuan carrying the 2650
+kg Zi Yuan 3 03 xing imaging satellite. Two 50 kg-class secondary
+payloads were also aboard: Tianqi-10 for IOT data relay and an X-ray
+astronomy satellite. The Longxia yan X shexian tance weixing (Lobster
+Eye 1, Lobster Eye X-ray Exploration Satellite) was developed by Nanjing
+University and Hong Kong University. Its `lobster-eye' X-ray optics use
+microchannel plates as a sort of X-ray equivalent of optical fibers to
+make a very wide field image of the X-ray sky. The lobster-eye optics
+concept was developed by Roger Angel and Paul Gorenstein in the 1970s
+but has only recently seen use in flight, notably on one of the Bepi-Colombo
+detectors.
+
+Kosmos-2543 and object 45915
+----------------------------
+
+Russia's Kosmos-2543 satellite continues close approaches to Kosmos-2535
+in a 603 x 618 km x 97.9 deg orbit. The US government issued a statement
+implying that it considered the ejection of object 45915 (possibly to be
+designated Kosmos-2547) from Kosmos-2543 to constitute an antisatellite
+test. The new object seems to have been ejected at 0749 UTC on Jul 15
+into a 504 x 784 km orbit with a relative velocity in the 140-186 m/s
+range. I've added a review of the satellites in this series and their
+orbital shenanigans at https://planet4589.org/space/plots/niv/index.html
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+Jul  3 0310   GaoFen Duomo )               Chang Zheng 4B     Taiuyan   LC9    Imaging    42A S45856   631 x  649 x 98.0
+              Baiyu-02     )                                                   Comms      42B S45857   631 x  649 x 98.0
+Jul  4 2119   CE-SAT-1B  )                 Electron           Mahia LC1A       Imaging    F05 F01558 -5500 x  194 x 97.0
+              Faraday 1  )                                                     Tech       F05 F01559 -5500 x  194 x 97.0
+              Flock 4e-1 )                                                     Imaging    F05 F01560 -5500 x  194 x 97.0
+              Flock 4e-2 )                                                     Imaging    F05 F01561 -5500 x  194 x 97.0
+              Flock 4e-3 )                                                     Imaging    F05 F01562 -5500 x  194 x 97.0
+              Flock 4e-4 )                                                     Imaging    F05 F01563 -5500 x  194 x 97.0
+              Flock 4e-5 )                                                     Imaging    F05 F01564 -5500 x  194 x 97.0
+Jul  4 2344   Shiyan 6-02                  Chang Zheng 2D      Jiuquan         Tech       43A S45859   685 x  707 x 98.2
+Jul  6 0100   Ofeq'-16                     Shavit 2            Palmachim       Imaging    44A S45860   331 x  604 x140.9
+Jul  9 1211   Apstar 6D                    Chang Zheng 3B      Xichang         Comms      45A S45863   217 x 35790x 28.4
+Jul 10 0417   Jilin-1 Gaofen 02E )         Kuaizhou 11         Jiuquan         Imaging    F06 F01566 -4000?x  500?x 97?
+              Centispace-1-2S    )                                             Imaging    F06 F01567 -4000?x  500?x 97?
+Jul 13 1340   DeMi                                             ISS, LEO        Tech   9867RP  S45916   415 x  418 x 51.6
+Jul 13 1655   TechEdSat 10                                     ISS, LEO        Tech   9867RQ  S45917   413 x  419 x 51.6
+Jul 15 0749?  Kosmos-2547?                                 Kosmos-2543, LEO    Weapon? 19079E S45915   504 x  784 x 97.9
+Jul 15 1346   USA 305 )                    Minotaur IV         MARS LA0B       Sigint?    46A S45873   600? x 600?x 50?
+              USA 306 )                                                        Sigint?    46B S45874   600? x 600?x 50?
+              USA 307 )                                                        Sigint?    46C S45875   600? x 600?x 50?
+              USA 308 )                                                        Sigint?    46D S45876   600? x 600?x 50?
+Jul 19 2158   Misabar Al'amal              H-2A 202            Tanegashima     Mars probe 47A S45918   242 x -72755 x 30.3
+Jul 20 2130   ANASIS II                    Falcon 9            Canaveral SLC40 Comms      48A S45920   211 x  45454 x 27.4
+Jul 23 0441   Tianwen-1                    Chang Zheng 5       Wenchang LC101  Mars probe 49A S45935   664 x -79065 x 30.5
+Jul 23 1426   Progress M-15                Soyuz-2-1A          Baykonur LC31   Cargo      50A S45937   199 x    228 x 51.7
+Jul 25 0313   Zi Yuan 3-03         )       Chang Zheng 4B      Taiyuan         Imaging    51A S45939   485 x    499 x 97.5
+              Tianqi 10            )                                           Comms      51  S45940?  485 x    499 x 97.5
+              Longxia yan 1        )                                          X-ray Astro 51  S45941?  485 x    499 x 97.5
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Jun 12        M51 RV            M51             S617, Baie d'Audierne    Test         1200?      Atlantic Ocean
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'
+

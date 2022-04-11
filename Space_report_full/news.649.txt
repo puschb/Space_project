@@ -1,0 +1,200 @@
+Jonathan's Space Report
+No. 649                                       2011 Oct  25 Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+ROSAT reentry 
+--------------
+
+ROSAT reentered between 0143 and 0157 UTC on Oct 23 according
+to data from USSTRATCOM. Including the final orbital data released later
+on Oct 23, the uncertainty range covers the Indian Ocean, the Andaman Sea,
+Myanmar, Laos and China. There have been no confirmed sightings of the reentry.
+
+Germany's ROSAT satellite (Rongtensatellit) was the third X-ray mission to
+image the extrasolar X-ray sky, following Einstein and Exosat. It made
+the first imaging all-sky survey; its telescope observed at lower energy
+(`softer', longer wavelengths) than Chandra and XMM and so it was
+particularly sensitive to the (relatively) lower temperature nearby
+interstellar gas. It discovered X-rays from comets interacting with the
+solar wind, cataloged high redshift X-ray galaxy clusters and measured
+their dark matter, and identified many new quasars.
+
+The ROSAT X-ray telescope (XRT) and its main cameras, the two PSPC
+(Position Sensitive Proportional Counter), PSPC-B and PSPC-C, were
+developed under the leadership of the Max-Planck-Institut fur
+extraterrestriche Physik (MPE) in Garching bei Munchen. The XRT could
+also image onto the HRI microchannel-plate camera developed at 
+Smithsonian Astrophysical Observatory (SAO) in Cambridge, Massachusetts,
+while Leicester University's EUV Wide Field Camera was a separate
+telescope bolted on the side. The spacecraft was controlled from GSOC
+(Oberpfaffenhofen/Weilheim) while US participation included the GSFC
+guest observer facility and the SAO science data center.
+
+Launched to a 564 x 584 km x 53.0 deg orbit on 1990 Jun 1, ROSAT was in
+a 244 x 250 km orbit as of 2011 Oct 10. The PSPC-C carried out the X-ray
+all-sky survey between launch and an accident on 1991 Jan 25, when
+PSPC-C was destroyed by accidentally observing the Sun during a system
+failure. The PSPC-B took over for the pointed-target phase of science
+observations, together with the HRI. PSPC-B was retired in 1994 when its gas
+supply was near empty and the HRI was the sole instrument between 1994
+and 1998. It had higher spatial resolution than PSPC, but didn't
+have the energy resolution that enabled PSPC to distinguish different
+X-ray spectra.
+
+ROSAT was damaged after an attitude control problem on 1998 Sep 20. When
+performing a slew (change of pointing direction), the reaction wheels
+that manage the satellite's angular momentum were unable to keep up and
+the satellite's aperture followed the wrong track across the sky,
+crossing the Sun and resulting in destruction of the ultraviolet filter
+on the HRI. This makes it the only astronomy satellite I know of
+to have attempted suicide-by-solar-observing on two separate occasions.
+
+The science program was declared abandoned on 1998 Oct 28; however, the
+last dribble of PSPC-B detector gas was used for test observations between
+1998 Dec 6 and 18. The spacecraft was abandoned on 1999 Feb 12.
+
+Debunking a tall tale
+---------------------
+
+The Wikipedia page for ROSAT includes a story which says that a 1999 NASA
+internal report raised the possibility that ROSAT's demise was instead
+due to some kind of hacker attack. In 1998 there was an intrusion of
+some kind into the NASA-Goddard network which contained the source code
+for the flight software of several NASA satellites. According to the
+author of the report, `exploitation of the comm link could not be ruled
+out' - presumably the fear was that someone could use knowledge of the 
+code to use their own ground station to command a satellite, or separately
+hack in to the NASA ground station.
+
+ But despite the report, this just can't have happened with ROSAT. As
+I've confirmed with Rob Petre who ran the Goddard part of ROSAT, all we had
+were copies of the downlinked science data. All commanding, scheduling
+and operations of ROSAT were done from Germany at GSOC - NASA had no
+role in the spacecraft commanding. 
+
+ROSAT was an elderly satellite in 1999, its main mission long completed.
+Its failure is not surprising and is fairly well understood. I've talked
+with several scientists involved in senior roles with the ROSAT mission 
+and the unanimous opinion is that the story is ludicrous.
+
+To summarize: Someone did gain inappropriate access to an internal NASA
+network in 1998. As far as I know there's no evidence that restricted
+satellite flight software was actually downloaded. But whatever
+happened, it was definitely nothing to do with the malfunction of ROSAT
+that damaged the HRI.
+
+
+PSLV launch
+-----------
+
+India launched PSLV-C18, a PSLV-CA core-alone variant, from Sriharikota
+on Oct 12. The main payload of PSLV-C18 is the Megha-Tropiques
+satellite, a joint Indian-French remote sensing satellite with a mass of
+around 1000 kg and based on the IRS bus. It carries the MADRAS microwave
+imager, the Saphir water vapor profile instrument, and the ScaRaB
+radiation budget sanner.
+
+Also carried were three small satellites: SRMSAT, from SRM University in
+Chennai, is a 10 kg satellite for greenhouse gas monitoring. Jugnu, from
+the Indian Inst. of Technology in Kanpur is a 3U cubesat-class
+technology satellite. VesselSat is a 29 kg small satellite built by
+OHB LuxSpace of Luxembourg to provide AIS (ship tracking) services for
+Orbcomm.
+
+The five objects are in orbits with an apogee of 867 km and perigees
+ranging from 780 to 850 km; the low perigee object is probably the rocket
+stage.
+
+GALILEO
+-------
+
+Europe's first two Galileo navigation satellites were launched on Oct 21.
+This was also the first Soyuz launch from the Centre Spatial Guyanais.
+The new Ensemble de Lancement Soyuz pad is a copy of the pads at Baykonur.
+The Soyuz ST-B launch vehicle is the Soyuz-2-1B variant; an uprated Fregat-MT
+upper stage was used for the first time.
+
+The two satellites have been given the nicknames Thijs and Natalia
+after competition winners Thijs Paerlman (b. 2000) and Natalia Nikolaeva
+(b. 2002). 
+
+Two earlier test satellites, GIOVE A and GIOVE B, were launched in
+2005 and 2008.
+
+ViaSat-1
+--------
+
+ViaSat-1 is a Ka-band broadband data satellite launched by a Proton
+from Baykonur. It will provide capacity over North
+America. The heavy (6740 kg launch) Loral-1300 satellite
+is owned by ViaSat, a California-based company; the payload includes
+9 Canadian spot beams owned by Telesat in addition to the 63
+US beams owned by ViaSat. As of Oct 25, ViaSat-1 was in a 
+12291 x 35781 km x 9.5 deg orbit on its way to a geostationary
+location at 115W.
+
+Suborbital flights
+-------------------
+
+The PICTURE payload, NASA 36.225UG, was launched from White Sands in
+an attempt to image an exoplanet. The CHAMPS flights, one nighttime and
+one daytime, were launched from Andoya to study meteoritic dust
+in the upper atmosphere.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Sep 10 1308   GRAIL-A   )       Delta 7920H        Canaveral SLC17B  Lunar     46A    
+              GRAIL-B   )                                            Lunar     46B
+Sep 18 1633   Zhongxing 1A      Chang Zheng 3B(E?) Xichang           Comms     47A
+Sep 20 2247   Kosmos-2473       Proton-M/Briz-M    Baykonur          Comms     48A
+Sep 21 2138   Arabsat 5C  )     Ariane 5ECA        Kourou ELA3       Comms     49A
+              SES 2       )                                          Comms     49B
+Sep 23 0436   IGS O-4           H-2A 202           Tanegashima       Imaging   50A
+Sep 24 2018   Atlantic Bird 7   Zenit-3SL         SL Odyssey, Pacific Comms    51A?
+Sep 27 1549   Tacsat-4          Minotaur 4+        Kodiak            Comms     52A
+Sep 29 1316   Tiangong-1        Chang Zheng 2FT1   Jiuquan           Module    53A 
+Sep 29 1832   Quetzsat-1        Proton-M/Briz-M    Baykonur LC200/39 Comms     54A
+Oct  2 2015   Glonass-M No. 42  Soyuz-2-1B         Plesetsk          Navsat    55A
+Oct  5 2100   Intelsat IS-18    Zenit-3SLB         Baykonur LC45     Comms     56A
+Oct  7 0821   Eutelsat W3C      Chang Zheng 3B(E)  Xichang           Comms     57A
+Oct 12 0531   Megha-Tropiques ) PSLV-CA            Sriharikota       EarthObs  58A
+              SRMSat          )                                      Tech      58
+              VesselSat-1     )                                      Comms/AIS 58
+              Jugnu           )                                      Tech      58
+Oct 19 1848   ViaSat-1          Proton-M/Briz-M    Baykonur          Comms     59C
+Oct 21 1030   Galileo IOV PFM ) Soyuz-2-1B         Kourou ELS        Navsat    60A
+              Galileo IOV FM2 )                                      Navsat    60B
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+Sep 1  1353   ARAV?            Terrier Oriole?    Kauai               Target       150?
+Sep 1  1354   Aegis KV         SM-3 Block 1B      CG-70, Kauai        Interceptor  150?
+Sep 3  0946   RV               Topol'             Plesetsk            Test        1000?
+Sep 26 0320   Prithvi RV       Prithvi-2          Chandipur IC3       Test         100?
+Sep 29        10 RVs?          Layner             K-114, Barents Sea  R&D         1000?
+Sep 30 0400?  Agni RV          Agni 2             Chandipur IC4       Test         220
+Oct  5 0556?  FTT-12 Target    SRALT?             C-17, Kauai         Target       100?
+Oct  5 0556?  FTT-12 Target    ? Target SRBM      MLP, Kauai          Target       100?
+Oct  5 0600?  THAAD KV         THAAD              Kauai               Intercept    100?
+Oct  5 0600?  THAAD KV         THAAD              Kauai               Intercept    100?
+Oct  8        NASA 36.225UG    Black Brant 9      White Sands         Astronomy    200?
+Oct 11        NASA 41.094UE    Terrier Orion      Andoya              Atm. Sci     130?
+Oct 13        NASA 41.093UE    Terrier Orion      Andoya              Atm. Sci     130?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

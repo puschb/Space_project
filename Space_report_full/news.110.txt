@@ -1,0 +1,84 @@
+Jonathan's Space Report
+
+No. 110		1992 Apr 13
+------------------------------------------------------------------------------
+
+Apr 12 marked the 31st anniversary of the first human space flight
+by Yuriy A. Gagarin.
+
+The replenishment of the Commonwealth spy satellite system continues
+with the launch of Kosmos-2183 by Soyuz from Baykonur in Kazakhstan on
+Apr 8 around 1230 UTC. Kosmos-2183 is one of the SNG's most advanced
+class of spy satellite, parallel to the US KH-11, and should remain
+operational for over 6 months. The initial orbit of Kosmos-2183 was
+probably 180x270 km;  on Apr 9 it moved to its operational 240x293 km
+orbit inclined 65 deg to the equator.
+
+List of Kosmos-2183 type satellites launched to date:
+
+[Advanced Recon C]
+
+Code	Name		   Launch	Reentry		Life	Initial orbit	Op'l orbit
+
+ARC1	Kosmos-1426	   1982 Dec 28-1983 Mar 4	66	202x356x50.5	200x340x50.5
+ARC2	Kosmos-1552	   1984 May 14-1984 Nov 3	173	184x315x64.9	236x327x64.9
+ARC3	Kosmos-1643	   1985 Mar 25-1985 Oct 18	207	184x278x64.9	222x295x64.8
+ARC4	Kosmos-1731	   1986 Feb  7-1986 Oct  3	238	180x264x64.8	230x260x64.8
+ARC5	Kosmos-1770		Aug  6-1987 Feb 2	180	181x281x64.8	239x283x64.8
+ARC6	Kosmos-1810		Dec 26-1987 Sep 11	259	187x275x64.8	247x265x64.8
+ARC7	Kosmos-1836	   1987 Apr 16-1987 Dec 2	230	180x291x64.8	241x293x64.8
+ARC8	Kosmos-1881		Sep 11-1988 Mar 30	201	180x290x64.8	232x276x64.8
+ARC9	Kosmos-1936	   1988 Mar 30-1988 May 18	 49	183x269x64.8	230x298x64.8
+ARC10	Kosmos-2007	   1989 Mar 23-1989 Aug 25	155	182x278x64.8	230x285x64.8
+ARC11	Kosmos-2049	    	Nov 17-1990 Jun 19	214			231x282x64.8
+ARC12	Kosmos-2072	   1990 Apr 13-1990 Nov 21	222	183x252x64.8	240x287x64.8
+ARC13	Kosmos-2113		Dec 21-1991 Jun 11	172	180x283x64.8	240x282x64.8
+ARC14	Kosmos-2153	   1991 Jul 10-1992 Mar 13	247	182x251x64.9	241x281x64.9
+ARC15	Kosmos-2183	   1992 Apr  8-						240x293x64.9
+
+The Commonwealth also launched a Gorizont C-band communications
+satellite into geostationary orbit on Apr 2. The payload is probably
+owned by the RKA (Russian Space Agency). The launch occurred at  about
+0200 UTC and the payload and Blok-DM fourth stage were placed in a 150
+km orbit inclined 51.6 degrees to the equator. The Blok-DM ignited to
+place the combination in a transfer orbit of  250 x 35600 km at 47
+degrees, and then re-ignited at apogee to  enter a 1425 minute circular
+equatorial orbit, following which the payload separated. Insertion
+occurred around 90 deg E longitude and Gorizont drifted east at 2
+deg/day until Apr 8 when it braked; late on Apr 8 it was at 103 deg E
+drifting W at 0.4 deg/day, suggesting that it is a backup to the 23rd
+Gorizont satellite, launched in Jul 1991 and currently on station at
+103.2 deg E.
+
+Space Shuttle mission STS-49, the maiden flight of orbiter Endeavour, is
+still planned for early May.
+
+____________________________________________
+|Current STS status:                       |
+|Orbiters               Location   Mission |
+|                                          |
+|OV-102 Columbia        OPF Bay 3  STS-50  |
+|OV-103 Discovery       OPF Bay 2  Mod     |
+|OV-104 Atlantis        OPF Bay 1  STS-46  |
+|OV-105 Endeavour       LC39B      STS-49  |
+|                                          |
+|ML/SRB/ET/OV stacks                       |
+|                                          |
+|ML1/                                      |
+|ML2/STS-49/ET/OV-105   LC39B              |
+|ML3/STS-50/ET          VAB Bay 3          |
+--------------------------------------------
+
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+
+

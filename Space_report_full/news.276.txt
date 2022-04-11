@@ -1,0 +1,128 @@
+Jonathan's Space Report
+No. 276                      1996 Feb 17                  Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-75/Columbia, due on Feb 22.
+
+
+Mir
+---
+
+Correction: The spacewalk on Feb 8 was cut short because
+the astronauts didn't have powerful enough tools to release
+a bolt on an antenna they were doing maintenance on. The
+rumour about problems with Gidzenko's spacesuit is apparently
+false, and I apologize for propagating it. (Source: C vd Berg).
+
+Launch of the EO-21 crew, Yuriy Ivanovich Onufrienko and Yuriy
+Vladimirovich Usachyov (callsign Skif-1 and Skif-2) will take place on
+Feb 21 aboard Soyuz TM-23.
+
+Recent Launches
+--------------
+
+The Intelsat 708 satellite was launched by the first CZ-3B
+(Chang Zheng/Long March 3B) on Feb 14. The launch vehicle
+went off course shortly after leaving the pad and was destroyed
+about 20s after liftoff.
+This is the third failure in recent years for the Long March
+rocket (the other failures used the older CZ-2E variant). Two
+successful launches late last year had restored its reputation, but
+after the latest failure insurers are likely to be wary.
+Launch time was quoted as 03:01 local time.
+AP reported that two soldiers were slightly injured in the blast.
+
+The CZ-3B uses the stretched first stage from the CZ-3A, which
+flew once in 1994, the strap-on motors from the CZ-2E, the usual
+second stage common to the CZ-2/3 series, and the hydrogen/oxygen
+high energy third stage from the CZ-3A. 
+
+The NEAR space probe was launched on Feb 17 at 2043 UTC. The first of
+NASA's Discovery planetary series, NEAR (Near Earth Asteroid Rendezvous)
+is built by the Applied Physics Lab (APL) of Johns Hopkins University.
+The Delta 7925-8 launches NEAR into solar orbit with perihelion of about
+1.0 AU and aphelion of about 2.5 AU (anyone with accurate orbital
+data, please send me the details). In Jun 1997 NEAR flies past minor
+planet (253) Mathilde, and in Jul 1997 it makes a course correction for
+an Earth flyby in Jan 1998. The Earth flyby, at an altitude of about 480
+km, lowers aphelion to around 1.7 AU. In Jan 1999, NEAR makes rendezvous
+with minor planet (433) Eros and enters orbit around it. The 805 kg
+spacecraft carries a liquid propellant engine with a 100-lb thruster, a
+multispectral imaging camera, an X/gamma-ray spectrometer to study
+asteroid composition, a near infrared spectrograph, a magnetometer, a
+laser rangefinder, and an X-band communications transponder used for
+tracking. The Delta second stage placed NEAR in a 185 km parking orbit
+at 2052 UTC; it ignited again at 2105 and burned for 3 minutes. At 2109
+the PAM-D third stage solid motor ignited; at around 2111 the PAM-D
+separated and NEAR began to deploy its solar panels. The Canberra tracking
+station confirmed successful launch at around 2200 UTC.
+
+Obituary
+--------
+
+Spaceflight journalist and analyst Joel Runes died of a heart attack on
+Jan 11.  Joel was a frequent contributor of information to this
+newsletter, and a nice guy whose friendship, analytical skills and
+common sense were greatly valued. A former Goddard Space Flight Center
+engineer, Joel lived in Florida and reported in detail on every launch
+from the Cape.
+
+Mikhail Reshetnev died on Jan 26, not Jan 29 (thanks, Maxim).
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jan 11 0941   Endeavour        Shuttle        Kennedy LC39    Spaceship   01A
+Jan 12 2310   Panamsat 3R  )   Ariane 44L     Kourou ELA2     Comsat      02A
+              Measat 1     )                                  Comsat      02B
+Jan 14 1111   Koreasat 2       Delta 7925     Canaveral LC17B Comsat      03A
+Jan 14 1132   OAST-Flyer                      OV105, LEO      Science     01B 
+Jan 16 1533   Kosmos-2327      Kosmos-3M      Plesetsk LC132  Navsat      04A
+Jan 25 0956   Gorizont         Proton-K/DM2   Baykonur LC200  Comsat      05A
+Feb  1 0115   Palapa C-1       Atlas IIAS     Canaveral LC36B Comsat      06A
+Feb  5 0719   N-STAR b         Ariane 44P     Kourou ELA2     Comsat      07A
+Feb 14 1901   Intelsat 708     Chang Zheng 3B Xichang         Comsat      FTO
+Feb 17 2043   NEAR             Delta 7925-8   Canaveral LC17B Space probe
+
+Payloads no longer in orbit
+--------------------------
+
+Dec  7        Galileo Probe   Entered Jovian atmosphere
+Dec 11        Kosmos-398      Reentered over Pacific
+Dec 18        Kosmos-2305     Deorbited
+Jan 20        Endeavour       Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       KSC RW15      STS-77  May 16
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                       
+ML2/RSRM-46/ET-77        VAB Bay 3      STS-76                       
+ML3/RSRM-53/ET-76/OV-102 LC39B          STS-75                                     
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

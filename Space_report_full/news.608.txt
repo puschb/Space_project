@@ -1,0 +1,181 @@
+Jonathan's Space Report
+No. 608                                            2009 Mar 18  Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 18 crew of Michael Fincke, Yuriy Lonchakov and Sandra Magnus
+continue work on board ISS.  Progress M-66 is docked to the Pirs module.
+
+On Mar 10, Fincke and Lonchakov made a spacewalk from Pirs in Orlan-M suits
+No. 27 and 26. Pirs was depressurized at 1553 UTC, the hatch was opened at 1622,
+hatch closed at 2111, and Pirs repressurized at 2114 UTC.
+The astronauts installed the Expose-R experiment and took photos to document
+the condition of the Zvezda module.
+
+On Mar 12, the crew had a close shave when a piece of space debris passed
+near the ISS, and the astronauts were ordered to retreat to the Soyuz craft
+to enable a quick getaway in the event of a collision. They remained there
+for only 10 minutes, from 1635 to 1645.
+
+The debris was 25090/1993-32D, which is probably a yo weight from the
+PAM-D stage that launched GPS 37 (IIA-20) in 1993 May. The PAM-D is
+spinning while it burns, to keep it stably pointing in the desired
+direction. After the payload separates, there is a risk that residual
+propellant will make the PAM-D accelerate again and collide with the
+payload. To prevent this, a weight on the end of a cable - a 'yo weight'
+- is unwound from one side of the PAM-D, changing the angular momentum
+asymmetrically and putting the stage in a tumble. The yo weight cable is
+usually about a meter long. 
+
+The PAM-D was inserted into a 188 x 20375 km x 34.9 deg orbit in 1993 Mar;
+25090 was first cataloged in 1997 Nov by which time it had decayed to
+a 214 x 18202 km x 34.8 deg orbit. The PAM-D itself reentered in 2001 Jan,
+but the yo weight was in a 142 x 4269 km x 34.7 deg orbit on Mar 7, losing
+about 8 km/day of apogee height as it passes through the upper atmosphere every
+2 hours and 10 minutes. This rapid change makes predictions of its future
+position difficult, which is why there was not enough warning to give time
+to change the ISS orbit.
+
+Ted Molczan reports that the closest approach was at 1639:41 UTC, over
+the Atlantic at 1.2W 25.5S. Closest approach distance was probably less
+than 2 km, but we don't know for sure.
+
+Discovery was launched on Mar 15 on mission STS-119, with solid rocket
+motor set RSRM-103 and external tank ET-127. The OMS-2 burn at 0022 UTC
+on Mar 16 raised the orbit from 57 x 223 km to 156 x 223 km. Discovery
+docked with the ISS at 2120 UTC on Mar 17.
+
+ The STS-119 payload bay contains the large S6 truss element with a set
+of solar arrays. My estimate of the full payload bay contents is:
+
+  STS-119 cargo manifest
+  ----------------------
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3017, 3006 suits                       260?
+  APC/SPDU                         3 port           17?
+  S6                               3-13          14088  
+  RMS 202                          Sill            410
+  OBSS                             Sill            382?
+ ------------------------------------------------------
+                                   Cargo total  16957 kg
+
+
+Kepler
+------
+
+The Kepler space telescope was launched on Mar 7 into a hyperbolic
+Earth escape trajectory. Kepler is a Schmidt-type telescope with a 1.4-meter
+primary mirror, and will stare at one field in Cygnus, between
+Deneb and Vega, monitoring stars to search for transiting planets.
+
+The Delta 7925-10L rocket put Kepler in a 185 x 185 km x 28.5 deg
+parking orbit at 0359 UTC; at 0443 second stage restart put it in a 174
+x 2815 km x 28.5 deg intermediate orbit, quickly followed at 0445 by
+third stage burn to escape trajectory. The second stage depletion burn
+then put the empty stage in a 2246 x 7360 km x 28.55 deg disposal orbit.
+
+Kepler will leave the Earth-Moon system quite slowly on a 
+185 x -1372000 km x 28.5 deg hyperbola, passing lunar orbit
+at 0420 UTC on Mar 9, and leaving the sphere of influence at 2130 UTC on
+Mar 13. By Apr 20 range will be 4.5 million km and Kepler will be
+in a 0.967 x 1.041 AU x 0.5 deg heliocentric ecliptic orbit.
+
+(technical note: the negative apogee I quote above is a formal, unphysical,
+representation that preserves the usual equations for semi-major axis
+and eccentricity; it corresponds to a C3 of 0.60 km^2/s^2).
+
+Joining Kepler in orbit around the sun are the PAM-D (Star 48) third
+stage motor, two despin weights, and the telescope dust cover which will
+be ejected around Mar 27.
+
+SpaceTrack has issued element sets for Kepler and the PAM-D (34380 and 34381)
+showing the Delta disposal orbit - these are spurious, since the Delta (34382)
+only moved to this orbit after separating from 34380 and 34381.
+
+GOCE
+----
+
+ESA's Gravity-Field and steady-state Ocean Circulation Explorer, GOCE,
+was launched from Plesetsk on Mar 17. The 1200 kg satellite carries
+a gravity gradiometer and flies in a low orbit of 272 x 290 km x 96.7 deg.
+
+GOCE's orbit is low by modern standards, but in the past many satellites
+were designed to fly for short periods at lower heights. The OGCh (FOBS)
+missile tests used 125 x 160 km orbits but were up for only one circuit
+of the Earth.  The Vostok spaceships flew at around 160-200 km, and many
+Soviet and US spy satellites operated in the 150-200 km range, Before
+GOCE, the KH-9 HEXAGON and some models of the Yantar' spy satellite were
+the only vehicles to fly at such a low altitude for many months. Of
+course, many satellites have lower perigees, but much higher apogees.
+
+
+OCO
+---
+
+The OCO satellite reached an approximately -129 x 614 km orbit on Feb 24
+- just 0.2 km/s short of orbital velocity, thanks to the extra mass of
+the fairing which failed to separate. (Thanks to the Orbital folks for info).
+
+Collision
+----------
+
+As of Mar 10, there were 454 Kosmos-2251 debris objects and 216 Iridium-33
+debris objects in the catalog.
+
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Feb  2 1836   Omid              Safir            (Iran)            Test      04A  
+Feb  6 1022   NOAA 19           Delta 7320-10C   Vandenberg SLC2W  Weather   05A
+Feb 10 0549   Progress M-66     Soyuz-U          Baykonur LC31     Cargo     06A
+Feb 11 0003   Ekspress AM-44 )  Proton-M/Briz-M  Baykonur LC200/39 Comms     07A
+              Ekspress MD-1  )                                     Comms     07B
+Feb 12 2209   Hot Bird 10 )     Ariane 5ECA      Kourou ELA3       Comms     08B
+              NSS 9       )                                        Comms     08A
+              Spirale A   )                                       Early Warn 08C
+              Spirale B   )                                       Early Warn 08D
+Feb 24 0955   OCO               Taurus           Vandenberg 576E   Sci       F01
+Feb 26 1830   Telstar 11N       Zenit-3SLB       Baykonur LC45     Comms     09A
+Feb 28 0410   Raduga-1          Proton-K/DM-2    Baykonur LC81/24  Comms     10A
+Mar  7 0350   Kepler            Delta 7920-10L   Canaveral SLC17B  Astronomy 11A
+Mar 15 2343   Discovery STS-119 Space Shuttle    Kennedy LC39A     Spaceship 12A
+              ITS S6                                               Module    12
+Mar 17 1421   GOCE              Rokot            Plesetsk LC133/3  Science   13A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Dec 23 0300   RV x 3?         Bulava          TK-208, Barents R&D          100?
+Jan 10 2317   NASA 30.073UO   Imp. Orion      Poker Flat      Ionosphere    98
+Jan 26 0015   S-310-39        S-310           Andoya          Atmosphere   140?
+Jan 29 0949   NASA 36.242UE   Black Brant IX  Poker Flat      Aurora       364
+Jan 29 0951   NASA 21.139UE   Black Brant VC  Poker Flat      Aurora       133
+Feb 18 0952   NASA 41.076     Terrier Orion   Poker Flat      Atmosphere   130?
+Feb 18 1029   NASA 41.078     Terrier Orion   Poker Flat      Atmosphere   130?
+Feb 18 1059   NASA 41.079     Terrier Orion   Poker Flat      Atmosphere   130?
+Feb 18 1147   NASA 41.077     Terrier Orion   Poker Flat      Atmosphere   130?
+Feb?          USN Mk 5 RV x 8? Trident D-5    SSBN, WTR       Test        1000?
+Feb 13        USN Mk 5 RV x 8? Trident D-5    SSBN 731, WTR   Test        1000?
+Feb 25 1045   NASA 36.226UG   Black Brant IX  White Sands     IR Astron.   300?
+Mar 12 1008   SSC REXUS 6     Imp. Orion      Esrange         Ionos./Tech   88
+Mar 13 0600   SSC REXUS 5     Imp. Orion      Esrange         Atmos./Tech   87
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
+

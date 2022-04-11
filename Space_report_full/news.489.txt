@@ -1,0 +1,220 @@
+
+Jonathan's Space Report
+No. 489                                           2002 Oct 31, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Space Shuttle mission STS-112 was launched on Oct 7. Atlantis took off
+from Kennedy Space Center to a 58 x 227 km x 51.6 deg orbit. The OMS-2
+burn at 2028 UTC raised the perigee to 158 km. Atlantis docked with the
+Station on Oct 9 at 1517 UTC, with hatch opening at 1650 UTC.
+
+On Oct 10 the Station SSRMS grappled the S1 truss in Atlantis' payload
+bay, unberthing it at 1047 UTC and connecting it to the end of the S0
+truss at 1336 UTC. Dave Wolf and Piers Sellers made a spacewalk from the
+Quest module, with depressurization at 1514 UTC and hatch open around
+1518 UTC. They connected fluid lines and installed equpment on the S1.
+The hatch was closed at about 2218 UTC with repressurization at 2222 UTC
+for a duration of 7h08m (7h01m by NASA rules). A second spacewalk on Oct
+12 began with depressurization at 1425 UTC, with hatch opening 4 min
+later; the hatch was closed at 2030 UTC with repressurization at 2035
+UTC for a duration of 6h10m (6h4m by NASA rules). Wolf and Sellers made
+their third spacewalk on Oct 14, with depressurization at about 1404 UTC
+and hatch open at about 1408 UTC (I don't have full data on this EVA).
+They carried out repairs to the Mobile Transporter on S0, connected
+fluid lines, and removed the keel pins on S1. Hatch close was probably
+around 2042 UTC, with repressurization at 2047 UTC. This gives a depress
+duration of about 6h43m (6h36m by NASA rules).
+
+The current configuration of the Station is with the S1 and S0 truss
+elements atop the Destiny lab, and the P6 truss in its temporary
+location above Z1/Unity. The next mission will add P1 on the other side
+of S0; like S1, P1 carries ammonia cooling systems and deployable
+radiators.
+
+Atlantis undocked on Oct 16 at 1313 UTC. It flew around the station and
+departed at 1501UTC. An orbit lowering burn at around 2030 UTC on Oct 17
+changed its orbit from 373 x 404 km to 273 x 404 km. On Oct 18 at 1436
+UTC the deorbit burn further lowered the orbit to 18 x 401 km, and
+Atlantis reentered the atmosphere at 1512 UTC, successfully completing
+its mission with a landing on runway 33 at Kennedy Space Center at 1543
+UTC.
+
+Soyuz No. 211 (Soyuz TMA-1) was launched on Oct 30 aboard a Soyuz-FG
+rocket. It carries the EP-4 crew (Visiting crew no. 4) of Sergey
+Zalyotin (commander), Frank De Winne (flight engineer 1), and Yuriy
+Lonchakov (flight engineer 2) on ISS mission 5S. The Soyuz TMA is a
+minor modification of the Soyuz TM, with the descent module improved to
+provide space for taller crew members and with enhanced soft-landing
+systems. The Soyuz-FG (11A511U-FG) is a minor modification of the Soyuz-U,
+with improved fuel injectors on the engines.
+
+Launch was at 0311 UTC; the four strapons (Blok B,V,G,D) were jettisoned
+successfully. The Blok A core (`second') stage burned until 0315 UTC and
+then separated; the Blok I third stage then fired, placing itself in
+orbit at 0320 UTC. Blok I then separated from Soyuz TMA-1, and
+Soyuz TMA-1 deployed its solar panels.
+
+The next Shuttle mission is STS-113. Orbiter OV-105 Endeavour will carry
+the P1 truss to the Station and attach it to the S0 truss. Endeavour
+also will deploy the MEPSI satellite for the US Air Force and DARPA.
+MEPSI (Micro-Electromechanical-based Picosat Satellite Inspection
+Experiment) consists of two 1 kg boxes attached to each other by a 15-m
+tether. The boxes include an imaging camera and a MEM transceiver. They
+will be ejected from the PLA (Picosat Launch Assembly), a 6 kg box
+attached to an Adaptive Payload Carrier (APC) on the payload bay side
+wall.
+
+Jonathan's Cargo Bay Manifest estimate for STS-113:
+
+                                                        Mass/kg
+Bay 1-2    Orbiter Docking System                        1800
+           2 EMU spacesuits?                              240?
+Bay 3S     MEPSI                                            8
+Bay 3-13   P1 Integrated Truss Segment                  12193?
+           CETA Cart B                                    283?
+Sill       RMS                                            410
+---------------------------------------------------------------
+Total                                                   14934?
+
+
+
+Nobel Prize for Riccardo Giacconi
+---------------------------------
+
+Addendum: The detailed information from www.nobel.se makes it clear the
+prize was given to Riccardo not just for the Aerobee flight but also for
+the Uhuru satellite (the first X-ray sky survey), the Einstein
+Observatory (the first imaging X-ray observatory) and the early work on
+Chandra. It is worth noting that the actual Aerobee flight AB3.352 was
+carried out at White Sands by Herb Gursky, Riccardo's main collaborator
+at the time. 
+
+
+Recent Launches
+---------------
+
+A Soyuz-U exploded seconds after launch from Plesetsk on Oct 15. The
+payload was the Foton-M materials processing satellite. A few seconds
+after launch, foreign material in a fuel line caused drastic problems in
+the Blok-D strapon's engine; it appears that the Blok-D tore away from
+the stack, the other parts of the stack automatically shut down their
+engines, and the rocket fell back on the pad area, killing one person.
+Note: Do not confuse the Soyuz Blok D stage with the Blok D stage used
+on N-1/L3 and Proton, the only connection is that both are the 4th stage
+in an alphabetical sequence specific to their original launchers. In the
+case of Soyuz-U, the core stage is Blok A, and the four strapons are B,
+V, G and D (following Cyrillic alphabetical order). Blok E was the
+original Vostok upper stage; Blok I is the current Soyuz upper stage,
+and Blok L is a fourth stage used on the Molniya variant (the
+intervening letters Zh, Z, and K were not used on stages that
+actually flew).
+
+Foton-M No. 1 (Foton-13) was an improved version of the Foton materials
+processing satellite, itself a derivative of the venerable Vostok/Zenit
+satellite that has been flying since 1960. The 6425 kg satellite carried
+a variety of microgravity experiments including a set from the European
+Space Agency. The satellite was destroyed in the accident.
+
+The European Space Agency's Integral astrophysics satellite was launched on
+Oct 17 on a Russian Proton-K/DM2 launch vehicle. The three-stage
+Krunichev Proton-K put the DM2 and Integral in a 198 x 656 km x 51.6 deg
+ parking orbit 9 min after launch. The Energiya DM2 stage, the
+commercial version of the 17S40 variant, made a single burn to a 688 x
+152681 km x 51.5 deg transfer orbit and then separated.  Integral's
+first perigee raising burn was successful on Oct 24, and was followed by
+two more burns on about Oct 26, putting it in a 7231 x 152890 km orbit.
+Target perigee is 10000 km.
+
+Integral (the International Gamma Ray Laboratory) is a 3951 kg
+satellite built by Alenia Spazio and based on the XMM-Newton service
+module design. It carries the following telescopes:
+ - IBIS, a 1.1m square coded mask telescope with two detectors,
+    the ISGRI imager covering the 20 -1000 keV energy range and
+    the PICsIT imager covering the 160 - 10000 keV energy range.
+ - SPI, a 0.7m coded mask telescope with a germanium spectrometer
+     to obtain spectra in the 20-8000 keV range.
+ - JEM-X, two 0.5m coded mask telescopes covering the 3-35 keV range.
+ - OMC, the optical monitor camera, a 0.05m aperture optical telescope.
+Integral covers the hard X-ray and soft gamma ray range; IBIS has 12
+arcminute spatial resolution which is better than previous missions.
+Previous missions covering the same energy range include SIGMA/Granat,
+the BATSE, OSSE and COMPTEL instruments on Compton, and the high
+energy detectors on BeppoSAX. 
+
+The COS-B and the Compton/EGRET telescopes observed higher energy gamma
+rays (above 10 MeV), and the Chandra and XMM-Newton telescopes study
+lower energy X-rays (below 10 keV); Integral covers three decades of
+photon frequency space between these two regimes.
+
+
+China launched its second ZY-2 imaging satellite on Oct 27.  The ZY-2
+(Zi Yuan 2) satellites are low-orbit non-recoverable imaging satellites
+probably of a similar design to the ZY-1 series which are a
+collaborative effort with Brazil under the CBERS (China-Brazil
+Enviromental Research Satellite) program. Some Western observers have
+speculated that ZY-2 satellites are military in nature.
+
+The CZ-4B launch vehicle took off from Taiyuan space center at 0317 UTC.
+The third stage began its burn about 4 min after launch and shut down
+about 11 min after launch in a 470 x 483 km x 97.4 deg orbit, separating
+from the ZY-2 payload.
+
+ ZY launches so far:
+   ZY-1   1999 Oct 14  (CBERS 1)
+   ZY-2   2000 Sep  1
+   ZY-2   2002 Oct 27
+
+A second ZY-1/CBERS is planned.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  6 0644   Intelsat 906      Ariane 44L     Kourou ELA2      Comms        41A
+Sep 10 0820   Kodama)           H2A 2024       Tanegashima      Comms        42B
+              USERS)                                            Micrograv    42A
+Sep 12 1025   METSAT            PSLV           Sriharikota      Weather      43A
+Sep 15 1030   HTSTL-1?          KT-1           Taiyuan          Technology   F01
+Sep 18 2204   Hispasat 1D       Atlas IIAS     Canaveral SLC36A Comms        44A
+Sep 25 1658   Progress M1-9     Soyuz-FG       Baykonur         Cargo        45A
+Sep 26 1427   Nadezhda-M        Kosmos-3M      Plesetsk         Navigation   46A
+Oct  7 1946   Atlantis )        Shuttle        Kennedy LC39B    Spaceship    47A
+              S1       )                                        Station module
+Oct 15 1820   Foton-M           Soyuz-U        Plesetsk         Micrograv    F02
+Oct 17 0441   Integral          Proton         Baykonur         Astronomy    48A
+Oct 27 0317   ZY-2              CZ-4B          Taiyuan          Imaging      49A
+Oct 30 0311   Soyuz TMA-1       Soyuz-FG       Baykonur         Spaceship    50A
+
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107  2003 Jan 16 Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        OPF           STS-114  2003 Mar  1 ISS ULF1
+OV-105 Endeavour       LC39A         STS-113  2002 Nov 10 ISS 11A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

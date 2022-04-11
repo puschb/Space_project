@@ -1,0 +1,260 @@
+Jonathan's Space Report 
+No. 709                                                  2015 Mar  5     Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 42 continues with commander Barry Wilmore, FE-1 Aleksandr
+Samokutyaev, FE-2 Elena Serova, FE-3 Anton Shkaplerov, FE-4 Samantha
+Cristoforetti, and FE-5 Terry Virts. Soyuz TMA-14M is docked at Poisk;
+Soyuz TMA-15M is docked at Rassvet; Progress M-25M is docked at Pirs and
+Progress M-26M at Zvezda.
+
+ISS cubesat deploys resumed on Feb 5 after a five-month hiatus following
+deployer problems. Brazil's AESP-14 cubesat was ejected at 1250 UTC Feb
+5, but appears not to be transmitting.
+
+The Dragon CRS-5 cargo vehicle was unberthed form Harmony at about 1700
+UTC Feb 10 by the SSRMS arm, which released it at 1910 UTC. The Dragon
+made its deorbit burn at 2349 UTC, with trunk separation at 0005 UTC Feb
+11 and splashdown at about 0044 UTC. Six of the PlanetLabs Flock-1b
+cubesats (Nos. 3, 4, 13, 14, 19, 20) were returned to Earth aboard CRS-5
+without having been deployed, after 212 days in space. (Thanks to H.
+Hallam of PlanetLabs for data).
+
+The European cargo ship ATV-5 "Georges Lemaître" undocked from the ISS
+Zvezda module at 1342 UTC Feb 14 and was deorbited over the Pacific on Feb 15.
+The Russian cargo ship Progress M-26M was launched on Feb 17 at 1100 UTC
+and docked with Zvezda at 1657 UTC the same day.
+
+On Feb 21 astronauts Wilmore and Virts made spacewalk US EVA-29 from the
+Quest module. The crew lock was depressurized by 1240 UTC and the hatch
+opened at 1242 UTC. The astronauts took the two IDA Cable Bags, A and B,
+and installed them on the end of the Harmony module. I believe the bags
+were launched aboard Dragon CRS-5.
+
+Each bag contained four IPIM (IDA Preparation ISS Mod) cables which will
+route power and data to the IDA-1 and IDA-2 international docking
+adapters. The IDAs will be installed on the PMA-2 and PMA-3 Shuttle
+docking ports later this year to allow direct docking of Dragon and
+CST-100 ships to the Station. Cables W2254, W2256, W2258, and W2262 from
+Bag A and W2252, W2272 from Bag B were installed and routed between
+PMA-2, Harmony and Destiny. Bag A was returned to the airlock at the end
+of the spacewalk. Cables W2264 and W2253 remain in Bag B and would be
+installed on the next EVA. The astronauts closed the Quest hatch at
+around 1918 UTC and began airlock repressurization at 1926 UTC.
+
+On Feb 25, Wilmore and Virts headed out again on US EVA-30. The
+remaining two cables were installed, and the soft thermal cover was
+removed from the PMA-2 docking port. The cover was launched on HTV-3 in
+Jul 2012 and installed on PMA-2 during spacewalk US EVA-22 on 2013 Jul
+9. The cover and IDA Bag B  were returned to the airlock, after which
+Virts performed several hours of lubrication work on the Canadarm-2's
+LEE-A (Latching End Effector, the part that actually grabs things) and
+Wilmore installed wire ties on the P1 and S1 truss segments to prepare
+for communications cabling on the next EVA. The spacewalk begain with
+airlock depressurization around 1142 UTC and hatch opening around 1148
+UTC, with the astronauts on battery power at 1151 UTC. The hatch was
+closed at 1829 UTC and repressurization was at 1834 UTC.
+
+The third and last in the current set of spacewalks, EVA-31 on Mar 1,
+saw the installation of the C2V2 antennae and associated cabling on
+the P3 and S3 truss segments. The C2V2 system will provide communications links
+to the Dragon 2 and CST-100 visting commercial crew spaceships.
+
+On Feb 27 deployments of PlanetLabs cubesats resumed with the ejection
+of Flock 1b-27, 28. These satellites were launched on Cygnus ORB-2 last
+July. Between Feb 27 and Mar 5, in addition to further Flock 1b
+satellites and the two Flock-1d' that went up on CRS-5, NanoRacks
+commanded deployment of the TechEdSat-4, GEARRS, MicroMAS and LambdaSat
+cubesats. 
+
+
+IXV
+---
+
+The Arianespace/ESA Vega rocket made its fourth flight from Kourou on Feb 11.
+The Vega VV04 took off at 1340 UTC, with the AVUM 4th stage entering a 76 x 416 km x 5.4 deg
+orbit at 1353 UTC. The payload was ESA's Intermediate Experimental Vehicle, the IXV,
+an 1845 kg reentry vehicle to study hypersonic aerothermodynamics. The IXV reentered
+over the Pacific at 1444 UTC, with parachute deployment at 1509 UTC and
+splashdown at 123W 3N at about 1518 UTC.
+
+The AVUM stage made a second burn at apogee at 1411 UTC.  Although
+details have not been officially revealed, according to user SCE on the
+Novosti Kosmonavtiki forum, it entered a 220 x 430 km x 5 deg orbit. A
+third burn followed at 1529 UTC as the AVUM passed over Kourou again, to
+deorbit the stage after one trip around Earth; the AVUM reentered over
+the Indian Ocean around 1600 to 1615 UTC.
+
+By traditional NORAD rules, the AVUM stage should have received a launch
+number of 2015-007 and a catalog number, but this appears not to have
+happened. I have therefore added it to my supplementary catalog of
+unnumbered objects, and given the launch a designation in my 'U' series,
+2015-U01.   The last such case was 1995-U01, the Japanese launch of
+Germany's EXPRESS, which made several orbits but was not cataloged. 
+
+I am also interested in launches  which had orbital energy even if they
+did not complete one orbit; these do not deserve launch numbers by the
+old NORAD rules, but I assign U codes to them too. Recent examples are
+2001-U01 (Taurus 6 launch failure); 2003-U01 (Chinese KT-1 launch
+failure); 2004-U01 (Soyuz-2-1A suborbital test); 2013-U01 (Chinese
+Kunpeng-7 high altitude probe). Reports that ASTRO E made it to a
+postive-perigee orbit of 80 x 410 km led me to give it designation
+2000-U01, but more recent information makes it more likely that the
+perigee was negative,  perhaps -1200 km.
+
+
+Fajr
+----
+
+Iran's Fajr satellite does not seem to have made any orbital maneuvers.
+The orbit decayed from an initial 223 x 470 km to 196 x 293 km by Feb 22, and then 
+after falling to 134 x 155 km early on Feb 26 it reentered. The Safir rocket stage
+orbit decayed a bit more slowly, and was 203 x 325 km on Feb 26.
+
+ABS/Eutelsat
+------------
+
+SpaceX launched the 16th Falcon 9 on Mar 2 carrying a dual
+communications satellite payload to supersynchronous transfer orbit.
+Falcon 9 reached a 174 x 953 km parking orbit 9 min after launch, and
+then made a second burn over the equator to reach about 391 x 63452 km x 
+24.8 deg. This orbit appears to be about 500 km lower in apogee
+(corresponding to only 10 meters per second shortfall in velocity) than planned.
+
+The two payloads were 2000 kg Boeing BSS-702SP models with
+XIPS-25 ion thrusters as their main propulsion system. ABS-3A, for Asia
+Broadcast Satellite of Hong Kong, was launched directly attached to the
+lower satellite, Eutelsat 115 West B, until it separated from the stack
+following stage 2 second cutoff. Eutelsat 115 West B is owned by
+Eutelsat Americas (Mexico City), and was called Satmex 7. Satmex was
+taken over by Europe's Eutelsat and renamed Eutelsat Americas in Mar
+2014.
+
+TigriSat
+--------
+
+Italy has registered the TigriSat satellite (see JSR 699) with the UN, noting that it is owned
+by the Univ. Roma La Sapienza, despite the fact that earlier Iraqi media reports suggested
+that the satellite was Iraqi-funded and -owned. The satellite was built by Iraqi students
+studying at the Italian university.
+
+
+
+DMSP F-13
+---------
+
+46 new debris objects have been cataloged associated with the DMSP F-13 satellite,
+a US Air Force weather satellite which was launched in 1995 and has been semi-retired
+since 2009. According to calculations by T.S. Kelso, the debris was released on Feb 3.
+According to USAF sources quoted in the media the event was preceded by a temperature
+spike and it seems likely that the spacecraft battery exploded.
+
+
+UN Registration
+----------------
+
+I have updated my analysis of registration of satellites with the United
+Nations at http://planet4589.org/space/un/un_paper1.html. For the period
+1957-2013, 95 percent of satellite payloads have been registered with
+the UN. That leaves 340 unregistered payloads.
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+                                                                                                      km      km   deg
+
+Jan 10 0947   Dragon CRS-5       Falcon 9 v1.1      Canaveral SLC40  Cargo           01A   S40370    400 x    408 x  51.7 ISS
+Jan 21 0104   MUOS 3             Atlas V 551        Canaveral SLC41  Comms           02A   S40374   5592 x  35788 x  16.7
+Jan 31 1422   SMAP         )     Delta 7320-10C     Vandenberg SLC2W Atm.Science     03A   S40376    660 x    686 x  98.1 0600LT
+              FIREBIRD IIA )                                         Space sci.      03B   S40377    438 x    669 x  99.1 0600LT
+              FIREBIRD IIB )                                         Space sci.      03C   S40378    438 x    669 x  99.1 0600LT
+              GRIFEX       )                                         Tech            03D   S40379    438 x    669 x  99.1 0600LT
+              ExoCube CP10 )                                         Atm.Science     03E   S40380    437 x    670 x  99.1 0600LT
+Feb  1 0121   IGS Radar Spare    H-IIA 202          Tanegashima      Radar Imager    04A   S40381    490 x    511 x  97.5
+Feb  1 1231   Inmarsat 5F2       Proton-M/Briz-M    Baykonur LC200/39 Comms          05A   S40384   4366 x  64968 x  26.8
+Feb  2 0850?  Fajr               Safir              Semnan           Imaging         06A   S40387    224 x    469 x  55.5
+Feb  5 1250?  AESP-14            -                  Kibo RMS, ISS    Tech          98-67FM S40389    397 x    405 x  51.6
+Feb 11 1340   IXV       )        Vega               Kourou ZLV       Reentry Test    U01   A08334     76 x    416 x   5.4
+              AVUM VV04 )                                            Tech            U01   A08335    220 x    430 x   5.4
+Feb 11 2303   DSCOVR             Falcon 9 v1.1      Canaveral SLC40  Space sci       07A   S40390    187 x1371156 x  33.1
+Feb 17 1100   Progress M-26M     Soyuz-U            Baykonur LC1/5   Cargo           08A   S40392    186 x    237 x  51.6 Docked ISS
+Feb 27 1101   Kosmos-2503        Soyuz-2-1A         Plesetsk LC43/4  Imaging         09A   S40420    327 x    539 x  97.6 0245LT
+Feb 27 1430   Flock 1b-27  )                        ISS Kibo, LEO    Imaging       98-67FN S40422    396 x    404 x  51.7 
+              Flock 1b-28  )                                         Imaging       98-67FP S40423    396 x    404 x  51.7 
+Mar  2 0125   Flock 1b-21  )                        ISS Kibo, LEO    Imaging       98-67FQ S40427    395 x    402 x  51.7
+              Flock 1b-22  )                                         Imaging       98-67FR S40428    395 x    402 x  51.7
+Mar  2 0350   ABS-3A           ) Falcon 9 v1.1      Canaveral SLC40  Comms           10A   S40424    358 x  63319 x  24.8
+              Eutel.115 West B )                                     Comms           10B   S40425    360 x  63379 x  24.8
+Mar  2 0845   Flock 1b-9   )                        ISS Kibo, LEO    Imaging       98-67FS S40429    392 x    407 x  51.6
+              Flock 1b-10  )                                         Imaging       98-67FT S40430    398 x    413 x  51.6
+Mar  3 0300   Flock 1d'-1  )                        ISS Kibo, LEO    Imaging       98-67FU S40451    393 x    405 x  51.6
+              Flock 1d'-2  )                                         Imaging       98-67FV S40452    393 x    406 x  51.6
+Mar  3 1050   Flock 1b-5   )                        ISS Kibo, LEO    Imaging       98-67FW S40453    394 x    407 x  51.6
+              Flock 1b-6   )                                         Imaging       98-67FX S40454    392 x    407 x  51.6
+Mar  4 0120   TechEdSat-4  )                        ISS Kibo, LEO    Tech          98-67FY S40455?   393 x    402 x  51.6
+              GEARRSat     )                                         Comms         98-67FZ S40456?   395 x    404 x  51.6
+Mar  4 0830   MicroMAS     )                        ISS Kibo, LEO    Sci           98-67GA S40457?   393 x    406 x  51.6
+              LambdaSat    )                                         Tech/Comms    98-67GB S40458?   393 x    405 x  51.6
+Mar  5 0145   Flock 1b-11  )                        ISS Kibo, LEO    Imaging       98-67GC S40459?   395?x    405?x  51.6
+              Flock 1b-12  )                                         Imaging       98-67GD S40460?   395?x    405?x  51.6
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Bill Gertz (Washington Free Beacon) reports launch on Jan 23 of a new
+North Korean missile, called KN-11 by the US government, from a submerged test pad.
+
+Three rockets were launched from Wallops over a 30 second period on Feb
+24 for the FTX-19 experiment in which several US Navy Aegis missile
+defense ships tracked the rocket payloads. This was basically a software
+test and no Aegis interceptor missiles were launched.
+
+The MOSC 2 (Metal Oxide Space Cloud) experiment from the US Air Force Research Lab
+was launched on Feb 25 on a NASA sounding rocket, flight 36.299DR.
+
+The US Navy test-launched two Trident missiles on Feb 22 off the coast of California,
+probably sending its reentry vehicles (RVs) towards Kwajalein.
+The Pacific Ocean launches of Trident are treated with more secrecy than East Coast ones,
+and it is not known which Ohio-class sub performed the launches.
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jan 23        RV               JL-2               Sub, Yellow Sea?  Test         1000?
+Jan 23        RV               KN-11               Sinpo, N Korea?  Test             ?
+Jan 26 0913   NASA 46.009UE    Terrier Imp. Mal.   Poker Flat       Atmosphere    160?
+Jan 26 0914   NASA 41.111UE    Terrier Orion       Poker Flat       Atmosphere    130?
+Jan 26 0946   NASA 46.010UE    Terrier Imp. Mal.   Poker Flat       Atmosphere    160?
+Jan 26 0947   NASA 41.112UE    Terrier Orion       Poker Flat       Atmosphere    130?
+Jan 28 1041   NASA 49.002UE    Oriole IV           Poker Flat       Aurora        590?
+Jan 31 0236   RV               Agni V              Chandipur        Test          800
+Feb 19 2206   ICI-4            VS-30/Imp. Orion    Andoya           Aurora        365
+Feb 22 0752   Cryofenix        VSB-30              Kiruna           Tech          265
+Feb 22        USN RV )         Trident II D-5      SSBN, Pacific    Test         1000?
+              USN RV )
+              USN RV )
+              USN RV )
+Feb 22        USN RV )         Trident II D-5      SSBN, Pacific    Test         1000?
+              USN RV )
+              USN RV )
+              USN RV )
+Feb 24 0730   FTX-19 Target    Terrier Oriole      Wallops I        Target        150?
+Feb 24 0730   FTX-19 Target    Terrier Oriole      Wallops I        Target        150?
+Feb 24 0730   FTX-19 Target    Terrier Oriole      Wallops I        Target        150?
+Feb 25 1226   NASA 36.299DR    Black Brant IX      White Sands      Ionosphere    300?
+Mar  1 2133   RV               Hwasong 6?          Nampo, N Korea   Test          134
+Mar  1 2141   RV               Hwasong 6?          Nampo, N Korea   Test          134
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

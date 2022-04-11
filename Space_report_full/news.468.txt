@@ -1,0 +1,120 @@
+Jonathan's Space Report
+No. 468                                          2001 Nov 28 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The sojourn of Expedition 3 - Culbertson, Dezhurov, and Tyurin - is
+drawing to a close aboard the International Space Station. The
+Expedition 4 crew of Yuriy Onufrikeno (Commander) and Daniel Bursch and
+Carl Walz (Flight Engineers) is preparing to ride to Station aboard
+Endeavour to replace them. The crew of mission STS-108 consists of Dom
+Gorie (Commander), Mark E. Kelley (Pilot), Linda Godwin and Dan Tani
+(Mission Specialists). STS-108 will fly the UF-1 Utilization Flight
+mission, distinguished from earlier Station flights which were
+considered assembly flights. In addition to the crew swap, UF-1 will
+bring supplies to the Station, and Godwin and Tani will do a spacewalk
+to add thermal blankets to the gimbals on the Station's solar arrays.
+
+In the cargo bay is the Raffaello (MPLM-2) logistics module with 4 RSP
+and 8 RSR resupply racks. Earlier, the MELFI freezer had been scheduled
+for this flight, but it isn't mentioned in the press kit. Also in the
+cargo bay are the MACH-1 and LMC experiment trusses flown under the
+Goddard small payloads program. MACH-1 is an MPESS-type Hitchhiker
+bridge carrying the CAPL-3 capillary thermal control experiment on top.
+On its forward side is the Starshine-2 launch canister, the CAPL-3
+avionics plate, the Hitchhiker avionics plate, and the SEM-15 canister.
+On the aft side is the G-761 canister containing experiments from
+Argentina, the PSRD synchrotron detector (a prototype for the AMS
+antimatter experiment which will fly on Station later), the COLLIDE-2
+and SEM-11 canisters. The SEM (Space Experiment Modules) are collections
+of high school experiments.
+
+LMC, the Lightweight MPESS Carrier (a nested acronym in the grand NASA
+tradition) is a new cargo bay bridge - it is actually LMC S/N 2,
+presumably S/N 1 was a ground test article - and carries four canisters
+with materials science and technology experiments: SEM-12, G-785, G-064
+and G-730. In addition, an adapter beam on the starboard sidewall carries
+G-221 and G-775, with materials science and biology experiments.
+
+Jonathan's cargo manifest estimate:
+(Masses are wild guesses this time around)
+                                                            Mass/kg
+Bay 1-2   Orbiter Docking System/External Airlock            1800
+          3 EMU spacesuits?                                   360?
+Bay 3S    Adapter beam with G-775/G-221                       200?
+Bay  5    MACH-1 MPESS                                       2500?
+          Starshine-2                                          39
+Bay 7-12  MPLM FM2 (Raffaello) module                        9000?
+Bay 13    LMC S/N 2                                          1000?
+Sill      RMS arm No 303                                      410
+-------------------------------------------------------------------------
+Total                                                       15309?
+
+
+A Progress robot cargo supply ship was launched on Nov 26. The vehicle
+is Progress M1-7 (vehicle No. 256). Launch was by the uprated Soyuz-FG
+rocket (a Soyuz-U with improved core packet engines). The Progress M-45
+undocked from Zvezda's rear port on Nov 22 and was deorbited over the
+Pacific later the same day.
+
+Progress M1-7 docked with Zvezda on Nov 28. However, following `soft
+dock' (initial capture), it appears that `hard dock' (firm latching) was
+not completed, raising fears that  torques associated with next week's
+planned Shuttle docking could break the vehicle loose. The Russian Space
+Agency is continuing to evaluate the situation.
+
+Recent Launches
+---------------
+
+The DirecTV-4S television broadcasting satellite was launched on Nov 27.
+The Arianespace Ariane 44LP put the Boeing 601HP satellite in
+geostationary transfer orbit. The satellite has a dry mass of 2100 kg
+and a launch mass of 4300 kg.
+DirecTV Inc. is currently owned by Hughes Electronics,
+but a takeover by Echostar is in the works.
+
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+Oct  5 2120   USA 161           Titan 4B       Vandenberg SLC4E Imaging      44A
+Oct  6 1645   Raduga-1          Proton-K/DM2?  Baykonur         C telecom    45A
+Oct 11 0232   USA 162           Atlas IIAS     Canaveral SLC36B Data relay?  46A
+Oct 18 1851   QuickBird         Delta 7320     Vandenberg SLC2W Imaging      47A
+Oct 21 0859   Soyuz TM-33       Soyuz-U        Baykonur LC1     Spaceship    48A
+Oct 22 0453   TES      )        PSLV           Sriharikota      Imaging?     49A
+              BIRD     )                                        Imaging      49C
+              PROBA    )                                        Imaging/tech 49B
+Oct 25 1134   Molniya-3         Molniya-M      Plesetsk LC43/3  Comms        50A
+Nov 26 1824   Progress M1-7     Soyuz-FG       Baykonur LC1     Cargo        51A
+Nov 27 0035   DirecTV 4S        Ariane 44LP    Kourou ELA2      TV broadcast 52A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF Bay 3     STS-109 2002 Feb 14  HST SM-3B
+OV-103 Discovery       OPF Bay 1?    Maintenance
+OV-104 Atlantis        OPF Bay 2?    STS-110 2002 Mar 21  ISS 8A
+OV-105 Endeavour       LC39B         STS-108 2001 Nov 29  ISS UF-1
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

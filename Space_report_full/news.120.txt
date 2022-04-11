@@ -1,0 +1,160 @@
+Jonathan's Space Report
+
+No. 120		1992 Jul 2
+------------------------------------------------------------------------------
+
+Shuttle Mission STS-50
+------------------------
+
+The STS-50 mission continues with astronauts Richards, Bowersox, Dunbar,
+Meade, Baker, DeLucas and Trinh carrying out experiments for the United
+States Microgravity Lab 1 Spacelab mission. The spaceship is in a 300 km
+orbit at 28 degrees inclination.
+
+Meanwhile, Aleksandr Viktorenko and Aleksandr Kaleri continue in orbit
+aboard the Mir complex. They are due to be relieved by Anatoli Solov'yov
+and Sergey Avdeev on Jul 27.
+
+Launches
+--------
+
+Progress M-13 was launched from Baykonur in Kazakhstan on Jun 30.
+The NPO Energiya robot resupply ship is scheduled to dock with the
+Mir station on Jun 2 to replace the Progress M-12 cargo craft.
+
+A Resurs-F  spacecraft was launched on Jun 23 from Plesetsk into an 82
+degree orbit. The spacecraft, built by KB Foton of Russia, is based on
+the old Vostok design and carries mapping cameras which will be returned
+to Earth next month with their film. 
+
+Reentries
+---------
+
+The Indian Space Research Organization's SROSS 3 satellite reentered
+on Jun 24 after a month in orbit. SROSS 3 was the first launch
+of ISRO's ASLV rocket to reach orbit, but the perigee was lower than
+intended.
+
+The Strategic Defense Initiative Organization's Delta Star satellite,
+launched in March 1989 to observe the infrared, optical and ultraviolet
+emissions from rocket launches, reentered on Jun 23. It was switched off
+in Dec 1989.
+
+Quarterly Summary
+-----------------
+
+Here is a review of launches for the second quarter of 1992, giving
+launch vehicle, payload, organization responsible for the launch and the
+payload, and manufacturer of the payload.  The summary comparison with
+last year shows that launches from Plesetsk are down by a factor of 2
+over last year. Navigation satellites and remote sensing satellites have
+been going up from Plesetsk at about the same rate, but the spy
+satellite and military communications  satellite programs have been
+sharply cut. Small number statistics make it difficult to be sure, but
+it also seems that the Ukranian-built satellite programs (minor
+military, oceanography, electronic intelligence) have been cut or
+cancelled, and it has been reported that funding for the weather
+satellite program  is in trouble.
+
+    Date	Vehicle  Payload			V/Agency PL/Agency      PL/Manufacturer
+ 
+16  Apr  1	Soyuz	 Kosmos-2182			VS SNG	GRU		KB Foton
+17  Apr  2	Proton	 Gorizont			VS SNG  RKA		NPO-PM
+18  Apr  8	Soyuz	 Kosmos-2183			VS SNG  GRU		KB Foton
+19  Apr 10	Delta 2	 GPS 28  			MDSSC	USAFSC		Rockwell
+20  Apr 15	Kosmos	 Kosmos-2184			VS SNG	VMF		NPO-PM
+21  Apr 15	Ariane	 Telecom 2B			AE	CNES		Matra Marconi Space	
+			 Inmarsat II F-4			INMARSAT	Matra Marconi Space	
+22  Apr 19	Soyuz	 Progress M-12			VS SNG	NPOE		NPOE
+23  Apr 25	Titan 2	 USA-81				USAF	NSA		?
+24  Apr 29	Soyuz	 Resurs-F			VS SNG	RKA		KB Foton
+25  Apr 29	Soyuz	 Kosmos-2185			VS SNG	GRU		KB Foton
+26  May  7	STS	 Endeavour			NASA	NASA		Rockwell
+27  May 14	Delta 2	 Palapa B4			MDSSC	TELCOM		Hughes
+28  May 20	ASLV	 SROSS 3			ISRO	ISRO		ISRO
+29  May 28	Soyuz	 Kosmos-2186			VS SNG	GRU		KB Foton
+30  Jun  2	Kosmos   Kosmos-2187 to Kosmos-2194	VS SNG	VMF		NPO-PM
+31  Jun  7	Delta 2	 EUVE				MDSSC	NASA		Fairchild
+32  Jun  9	Atlas 2A Intelsat K			GDCLS	INTELSAT	GE
+33  Jun 23	Soyuz	 Resurs-F			VS SNG	RKA		KB Foton
+34  Jun 25	STS	 Columbia/Spacelab USML-1	NASA	NASA		Rockwell/MBB-Alenia
+35  Jun 30	Soyuz	 Progress M-13			VS SNG	NPOE		NPOE
+
+Summary of launches:
+
+Jan - Jun 1992				Jan - Jun 1991 (for comparison)
+
+Total 35; 				Total 45;
+SNG 19, USA 12, Others 4		SSSR 32, USA 10, Others 3
+
+By nation of launch site:
+Rossiya (Russia)	11		SSSR/Rossiya	22
+Kazahstan		 8		SSSR/Kazakh SSR 10
+USA 			12 		USA		10
+France 			 2 		France		 3
+Nippon (Japan)		 1
+India 			 1
+
+
+Abbreviations for organizations
+
+AE	Arianespace SA, Paris
+CNES	Centre National d'Etudes Spatiales, Paris
+GDCLS   General Dynamics Commercial Launch Services
+GRU     Glavnoye Razvedivatel'noye Upravileniye (Soviet Military Intelligence), Moskva
+INMARSAT International Maritime Satellite Organization, London
+INTELSAT International Telecommunications Satellite Organization
+ISRO	Indian Space Research Organization
+MDSSC	McDonnell Douglas Space Systems Corp
+NPOE    NPO Energiya (Energiya Scientific/Production Organization)
+NPO-PM	NPO Prikladnoi Mekhaniki (Applied Mechanics Co.), Krasnoyarsk
+RKA 	Rossiskoye Kosmicheskoye Agentsvo  (Russian Space Agency), Moskva
+SNG  	Sodruzhestva Nezabisimikh Gosudarst' (Commonwealth of Independent States)
+USAF	United States Air Force 
+USAFSC	USAF Space Command, Colorado Springs
+VMF     Voenno-Morskoy Flot (SNG Navy)
+VS SNG  Vooruzhennikh Sil SNG  (Combined Forces of the Commonwealth of Independent States)
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LEO           STS-50  
+OV-103 Discovery       OPF Bay 2     OMDP
+OV-104 Atlantis        LC39B         STS-46  
+OV-105 Endeavour       OPF Bay 3     STS-47
+                                          
+ML/SRB/ET/OV stacks                       
+                                          
+ML1/STS-46/ET/OV-104   LC39B
+ML2/STS-47             VAB Bay 3
+ML3/		       LC39A
+
+Acronyms:
+ET	External Tank
+LC	Launch Complex
+LEO	Low Earth Orbit
+ML	Mobile Launcher
+OMDP	Orbiter Maintenance Down Period
+OPF	Orbiter Processing Facility
+OV	Orbiter Vehicle
+VAB	Vehicle Assembly Building
+SRB	Solid Rocket Booster
+STS	Space Transportation System (I also use
+	the STS flight number to label the SRB stacks
+	instead of the BI number).
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (617) 495-7176                |
+ |  Harvard-Smithsonian Center for    |                                        |
+ |   Astrophysics                     |                                        |
+ |  60 Garden St, MS4                 |                                        |
+ |  Cambridge MA 02138                |  inter : mcdowell@cfa.harvard.edu      |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+
+

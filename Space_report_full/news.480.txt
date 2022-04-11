@@ -1,0 +1,135 @@
+Jonathan's Space Report
+No. 480                                            2002 Jun 6 Cambridge, MA
+-------------------------------------------------------------------------------
+
+Readers in the vicinity of Garching bei Munchen are invited to 
+contact me at the Virtual Observatories meeting on Jun 11-14.
+
+Major new online resource: Launch Vehicle Database
+----------------------------------------------------
+
+After several years of preparation, the initial release of the 
+
+<A HREF="http://hea-www.harvard.edu/~jcm/space/lvdb">JSR Launch Vehicle Database</A>
+
+is now online (please excuse the raw HTML if you see it on the line above!)
+
+The database (it's just a set of text files, not a database in the
+modern sense) contains basic details of about 30000 rocket launches and
+aims to contain all known orbital and suborbital space launches (apogees
+more than 80 km) as well as a number of lower apogee rocket launches
+deemed to be of interest. Corrections and additions are, as always,
+welcome; I expect to update the files every few months.
+
+I strongly refute the suggestion by one early visitor to this resource
+that I have `way too much time on my hands'. Nevertheless, I believe
+this to be the first reasonably comprehensive compilation of suborbital
+space launches either online or in print, although Joe King, Keith
+Scala, Gunter Krebs (www.skyrocket.de), Jean-Jacques Serra
+(http://www.univ-perp.fr/fuseurop), Joel Powell, Carl Rigg and Pete
+Alway (http://members.aol.com/satrnpress/saturn.htm), among others, also
+have extensive lists and made important contributions.
+
+
+Shuttle and Station
+--------------------
+
+Orbiter OV-105 Endeavour was launched at 2122:49 UTC on 2002 Jun 5.
+At 2131 UTC it reached a 58 x 224 km x 51.6 deg orbit (as quoted
+by the NASA PAO) and separated from the External Tank. It coasted
+to apogee at 2201 UTC and carried out the OMS-2 burn to raise the 
+orbit to 158 x 235 km.
+
+Endeavour is flying Shuttle mission STS-111, Station mission UF-2, to
+deliver the Expedition 5 crew to the Station and return the  Ex-4 crew.
+
+Erratum
+-------
+
+In earlier JSRs I reported the Mar 21 launch of Progress M1-8 as being
+with the new Soyuz-FG launch vehicle, based on Russian reports. The
+latest issue of Novosti Kosmonavtiki magazine makes it clear that M1-8
+actually used the older Soyuz-U, 11A511U No. 678. Thus, the only
+Soyuz-FG launches to date have been Progress M1-6 and M1-7.
+The -FG is very similar to the -U, with some uprated engines.
+
+Recent Launches
+---------------
+
+Kosmos-2389 was launched from Plesetsk on May 28 at roughly its
+scheduled time of 1815 UTC. It is a Parus-class navigation satellite.
+The Kosmos-3M rocket entered a transfer orbit of about 150 x 1000 km x
+83 deg at about 1823 UTC; a second burn at apogee around 1905 UTC
+circularized the orbit at 950 x 1016 km. The satellite is in Plane 4,
+probably replacing Kosmos-2336; it is between the planes of Kosmos-2366
+and Kosmos-2361.
+
+I was a little confused earlier by the objects in the recent Chinese
+launch. Mike McCants reports that 2002-24B, in the 851 x 873 km orbit,
+is the FY-1D weather satellite, and the object that maneuvered to the
+lower 792 km orbit is the HY-1 oceanography research satellite which is
+confirmed to have orbit adjust capability by Chinese sources.
+
+I am informed that 
+ FY-1D = Feng Yun Yi Ding
+ HY-1  = Hai Yang Yi
+(Yi is 1, Ding is used as an equivalent of D, with A = Jia, B = Yi, C = Beng -
+recall that there's no alphabet per se in Chinese!).
+Feng Yun means 'Wind and Cloud', Hai Yang means 'Ocean'.
+
+Intelsat 905 was launched on Jun 5 into geostationary transfer orbit by
+an Arianespace Ariane 44L. The satellite has a mass of 1984 kg with 2739
+kg of propellant and was built by Loral for the recently privatized
+Intelsat company. It will be stationed over the Atlantic.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  1 2207   Kosmos-2388       Molniya-M      Plesetsk LC16/2  Early Warn   17A
+Apr  8 2044   Atlantis STS-110) Space Shuttle  Kennedy LC39B    Spaceship    18A
+              S0              )                                 Station piece
+Apr 16 2302   NSS 7             Ariane 44L     Kourou ELA2      Comms        19A
+Apr 25 0626   Soyuz TM-34       Soyuz-U        Baykonur LC1     Spaceship    20A
+May  4 0131   SPOT 5    )       Ariane 42P     Kourou ELA2      Imaging      21A
+              Idefix    )                                      Amateur radio 21B
+May  4 0954   Aqua              Delta 7920-10L Vandenberg SLC2W Rem.sensing  22A
+May  7 1700   DirecTV-5         Proton-K/DM3   Baykonur LC81    Comms        23A
+May 15 0150   Feng Yun 1D )     Chang Zheng 4B Taiyuan          Weather      24B
+              Hai Yang 1  )                                     Rem.sensing  24A
+May 28 1525   'Ofeq-5           Shaviyt        Palmachim        Imaging      25A
+May 28 1815?  Kosmos-2389       Kosmos-3M      Plesetsk         Navigation   26A
+Jun  5 0644   Intelsat 905      Ariane 44L     Kourou ELA2      Comms.       27A
+Jun  5 2122   Endeavour )       Shuttle        Kennedy LC39A    Spaceship    28A
+              Leonardo  )                                       Module
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107 2002 Jul 19  Spacehab
+OV-103 Discovery       OPF           Maintenance
+OV-104 Atlantis        OPF           STS-112 2002 Aug 22  ISS 9A
+OV-105 Endeavour       LEO           STS-111 2002 Jun  5  ISS UF-2
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+
+

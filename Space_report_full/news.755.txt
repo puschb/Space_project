@@ -1,0 +1,266 @@
+Jonathan's Space Report 
+No. 755                                                          2018 Oct 18 Somerville, MA
+---------------------------------------------------------------------------------------------
+
+Soyuz MS-10 launch abort
+---------------------------
+
+Soyuz MS-10 (spacecraft 11F732A48 No. 740) was launched on Oct 11 at
+0840:15 UTC from the Gagarin pad at Baykonur aboard a Soyuz-FG rocket
+(model 11A511U-FG S/N U15000-062), carrying astronauts Aleksey
+Nikolaevich Ovchinin (Roskosmos; Col. VVS, ret.) and Col. Tyler Nicklaus
+'Nick' Hague (USAF, NASA). The solid escape motor tower (DU SAS) was
+jettisoned on schedule at T+1min 54s. The DU SAS is only part of the
+complex Soyuz escape system, though, as we'll see below. At T+1:58 the
+side boosters comprising stage 1, called Blok B, V, G and D, shut down
+and were ejected from stage 2, the Blok A core stage. At this point, 50
+km up at the base of the mesosphere, one of the side boosters
+(specifically, Blok D) failed to rotate away from the core correctly and
+smashed into it, causing an emergency abort at T+2:03. A leading theory
+is that a propellant vent that normally pushes the Blok D away failed to
+operate.
+
+The Soyuz-FG rocket's core stage engines shut down, as is standard for a
+Russian rocket abort, and the remaining part of the SAS (sistema
+avariynovo spaseniya, System of Emergency Rescue) came into play. The
+RDG engines on the side of the fairing fired as the upper part of Soyuz
+(BO, Bitovoy Otsek, orbital module; SA, Spuskaemiy Apparat, descent
+craft; and GO, golovnoy obektatel', payload fairing) separated from the
+lower part (lower fairing and the PAO, priborno-agregatniy-otsek,
+instrument-service-module) which remained attached to the rocket stack
+(Blok A stage 2 plus Blok I stage 3).  The RDG motors pulled the
+bisected Soyuz away from the disintegrating rocket. The rocket stack
+fell back towards Earth and its parts have been recovered for analysis. 
+
+At T+2:40, according to a timeline reported by Anatoliy Zak at
+russianspaceweb.com, the SA descent craft was ejected out of the rear of
+the BO/GO assembly. The BO/GO and the SA  then continued on a ballistic
+trajectory, reaching an apogee of 93 km (according to A. Krasil'nikov on
+the Novosti Kosmonavitiki forum) and falling back toward Kazakhstan. The
+SA, with the two astronauts aboard, deployed its parachutes and floated
+to a landing 20 km east of the city of Dzezhkazgan at 0859:56 UTC after
+a flight lasting 19 min 41s. Astronauts Ovchinin and Hague were
+retrieved safely.
+
+(At a postflight press conference NASA astronaut Reid Wiesman reported
+that the time from anomaly to landing was 34 minutes, which was obviously
+too long even taking the slow parachute descent into account. It's not
+clear what caused this incorrect report.)
+
+Earlier this year I published a paper (McDowell 2018, Acta Astronautica
+151, p 668, 'The edge of space: Revisiting the Karman Line',
+http://planet4589.org/space/papers/Edge.pdf ) in which I showed that the
+Karman Line should really be at around 80 km, not 100 km. I therefore
+count a flight as a spaceflight if its apogee is above 80 km - and given
+the apogee of 93 km, Soyuz MS-10 meets this test and is the 332nd
+spaceflight in history and the 20th suborbital one. This makes Nick Hague the 565th astronaut
+(person above 80 km). Aleksey Ovchinin first flew in space on Soyuz
+TMA-20M and was the 553rd human to fly above 80 km. (Of course, if
+you prefer the 100 km boundary, then for you it's not a spaceflight and Hague
+didn't make it into space.)
+
+The Soyuz spaceship was introduced in 1966. There have been three previous
+accidents during the launch phase.
+
+ - The second launch, Soyuz 7K-OK No. 1, suffered an accident
+  on 1966 Dec 14 after a launch scrub. The DU SAS escape tower fired accidentally,
+  destroying the launch vehicle and killing a pad worker. However,
+  the escape tower worked in the sense that the
+  Soyuz descent module was recovered safely 1.5 km away. This mission did not
+  have a crew.
+
+ - Soyuz 7K-T No. 39 was launched on 1975 Apr 5. Five minutes
+  into flight the second stage (Blok-A) failed to separate 
+  cleanly from the third stage (Blok-I). The SAS system separated
+  the BO/SA/GO from the stack, just as in the MS-10 failure.
+  Soyuz reached an apogee of 192 km and the descent module landed
+  in the Altai mountains after a 21 min flight; 
+  astronauts Lazarev and Makarov suffered minor injuries.
+
+  - Soyuz 7K-ST No. 16L was counting down to launch on 1983 Sep 26
+  when at T-20s a fire broke out in the first stage. The DU SAS fired
+  and pulled the BO/SA/GO to a height of 1.4 km, as the Soyuz-U rocket
+  toppled over and exploded. After a 5 minute flight
+  astronauts Titov and Strekalov landed safely 2.5 km from the pad.
+  This is the only time that the DU SAS tower itself was used.
+
+The common thread in all four accidents is that the escape systems
+returned the descent module to Earth safely in all cases. So, (valid)
+concerns about quality control in the Russian space program should be
+tempered by a certain degree of confidence in the safety of the Soyuz
+launch phase even in adverse circumstances.
+
+Mesonauts
+---------
+
+At one point I guessed that the Soyuz MS-10 apogee was below 80 km, in which case
+I would not have counted Soyuz MS-10 as a spaceflight, and Nick Hague would
+*not* have qualified as an astronaut. He would them have
+become a `mesonaut' - a
+human who has flown in the mesosphere but not outside it. There have
+been 13 mesonauts, but 10 subsequently became astronauts. Here is the
+table:
+
+M  Mesonaut          Flight          km   Date           Spaceflight
+
+1  Joe Walker        X-15 2-14-28    52   1961 Mar 30    X-15 3-14-24   1963 Jan 17
+2  Robert White      X-15 2-20-36    66   1961 Oct 11    X-15 3-7-14    1962 Jul 10
+3  Neil Armstrong    X-15 3-3-7      55   1962 Apr  5    Gemini 8       1966 Mar   
+4  Robert Rushworth  X-15 3-19-30    68   1963 Jun 18    X-15 3-20-31   1963 Jun 27
+5  Joe Engle         X-15 1-46-73    53   1964 Apr  8    X-15 3-44-67   1965 Jun 29
+6  Milton Thompson   X-15 1-54-88    54   1965 May 25    === None ===
+7  Jack McKay        X-15 2-40-72    65   1965 Jul  8    X-15 3-49-73   1965 Sep 28
+8  Pete Knight       X-15 2-46-83    58   1966 Jul 21    X-15 3-64-95   1967 Oct 17
+9  William Dana      X-15 3-54-80    54   1966 Aug 19    X-15 3-56-83   1966 Nov  1
+10 Mike Adams        X-15 1-71-121   51   1967 Apr 28    X-15 3-65-97   1967 Nov 15
+11 Mike Melvill      SS1 56L/14P     64   2004 May 13    SS1-60L/15P    2004 Jun 21
+12 David Mackay      SS2 PF2-14      52   2018 Jul 26    === None yet ===
+13 Mike Masucci      SS2 PF2-14      52   2018 Jul 26    === None yet ===
+
+Suborbital Spaceflights
+-----------------------
+
+Here is a list of flights above 80 km by humans that did not achieve orbit. For air-drop
+flights the drop point and drop time are used for reporting launch site and duration.
+
+    Date          Spaceship         Flight        Crew            Launch Site    Apogee/km   Duration/min:s
+
+1.  1961 May  5   Mercury SC7       MR-3          A. Shepard      Canaveral LC5     186         15:22
+2.  1961 Jul 21   Mercury SC11      MR-4          V. Grissom      Canaveral LC5     190         15:37
+3.  1962 Jul 10   X-15-3            3-7-14        R. White        Delamar Dry Lake   95.9       10:21
+4.  1963 Jan 17   X-15-3            3-14-24       J. Walker       Delamar Dry Lake   82.2        9:24
+5.  1963 Jun 27   X-15-3            3-20-31       R. Rushworth    Delamar Dry Lake   86.9       10:28
+6.  1963 Jul 19   X-15-3            3-21-32       J. Walker       Smith Ranch Lake  106.1       11:25
+7.  1963 Aug 22   X-15-3            3-22-36       J. Walker       Smith Ranch Lake  108.0       11:09
+8.  1965 Jun 29   X-15-3            3-44-67       J. Engle        Delamar Dry Lake   85.6       10:32
+9.  1965 Aug 10   X-15-3            3-46-70       J. Engle        Delamar Dry Lake   82.7        9:52
+10. 1965 Sep 28   X-15-3            3-49-73       J. McKay        Delamar Dry Lake   90.1       11:57
+11. 1965 Oct 14   X-15-1            1-61-101      J. Engle        Delamar Dry Lake   81.3        9:18
+12. 1966 Nov  1   X-15-3            3-56-83       W. Dana         Smith Ranch Lake   93.6       10:44
+13. 1967 Oct 17   X-15-3            3-64-95       W. Knight       Smith Ranch Lake   85.6       10:06
+14. 1967 Nov 15   X-15-3            3-65-07       M. Adams        Delamar Dry Lake   81.1        4:51 (Broke up)
+15. 1968 Aug 21   X-15-1            1-79-139      W. Dana         Railroad Valley    81.6        9:23
+16. 1975 Apr  5   7K-T No. 39       Soyuz         V. Lazarev      Baykonur LC1      192         21:27
+                                                  O. Makarov
+17. 2004 Jun 21   Spaceship One     60L/15P       M. Melvill      Mojave            100.1       24:05
+18. 2004 Sep 29   Spaceship One     65L/16P       M. Melvill      Mojave            102.9       24:11
+19. 2004 Oct  4   Spaceship One     66L/17P       B. Binnie       Mojave            112.1       23:46
+20. 2018 Oct 11   11F732A48 No. 740 Soyuz MS-10   A. Ovchinin     Baykonur LC1       93         19:41
+                                                  N. Hague 
+
+
+
+International Space Station
+---------------------------
+
+Expedition 57 continues aboard the ISS with astronauts Gerst, 
+Prokop'ev, and Aunon-Chancellor. They have plenty of supplies.
+I expect that the Soyuz-FG will be cleared for return to flight before
+they have to return to Earth, but NASA reports ISS can remain uncrewed
+if needed. As of Oct 12 RIA Novosti reported that Soyuz MS-11
+could fly as early as Dec 5. The Ovchinin-Hague crew may be recycled
+for Soyuz MS-12 early next year.
+
+The October spacewalks for battery replacements will have
+to be replanned. They were meant to be done with Gerst and Hague;
+probably Gerst and Aunon-Chancellor will perform them.
+
+
+Yaogan 32
+---------
+
+On Oct 9 China's CALT launched a CZ-2C with the first YZ-1S simplified
+Yuanzheng-1 upper stage, placing two Yaogan 32 hao 01 zu  (Yaogan 32
+Group 1) payloads in a 0900 local time sun-synch orbit. It appears the
+second stage was suborbital, with the YZ-1S making a single orbit insertion burn at
+apogee. A dual-payload adapter was also left in orbit; the YS-1S then
+made a deorbit burn and reentered around 82E 35S in the southern Indian Ocean.
+
+Beidou
+------
+
+Two more Beidou-3 medium orbit navigation satellites were launched on Oct 15.
+They were Beidou-3 M15 and M16, also known as Beidou Daohang Weixing 39 and 40.
+
+AEHF
+----
+
+United Launch Alliance fired an Atlas V 551 from Cape Canaveral on Oct
+17 carrying the AEHF 4 satellite. AV-073 took off at 0415 UTC, reached a
+176 x 485 km x 28.1 deg parking orbit at 0426 UTC, a 202 x 22578 km x
+25.9 deg transfer orbit at 0443 UTC, and after a third burn completed at
+0745 UTC delivered AEHF 4 to a 8914 x 35300 km x 12.8 deg orbit at 0747
+UTC.  AEHF 4 was built by Lockheed Martin (using the A2100 bus) for the
+US Air Force. It carries a 20/44 GHz strategic secure communications payload.
+
+
+Hubble and Chandra gyro glitches
+--------------------------------
+
+The Hubble Space Telescope is in safemode following failure of one of its
+gyros on Oct 5. A backup gyro failed to come online; the team are working the problem.
+If they can't get it working HST will spend the rest of its career observing
+in `one-gyro' mode; this adds some operational difficulties and will make
+some special kinds of observation (especially solar system objects) problematic,
+but won't impact most of its science program.
+
+On Oct 10, the Chandra X-ray Observatory also entered safemode due to
+three seconds of bad data from one of the gyroscopes. Chandra has had
+very few incidents during its so-far-19-year-long mission;  it has now
+returned to normal pointing mode and is expected to resume science observations
+in the coming week or two following some ground-commanded onboard reconfiguration
+and tests.
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Sep 16 2306   DebrisSat-1                               RemDeb, LEO      Tech        9867PM S43621   400 x   404 x 51.7
+Sep 16 2308?  RemDeb Net                                RemDeb, LEO      Tech        9867PM A09713   Now attached to DebrisSat-1
+Sep 19 1407   Beidou DW 37 )          Chang Zheng 3B/YZ-1 Xichang LC2    Navigation   72A   S43622 21533 x 22193 x 55.0
+              Beidou DW 38 )                                             Navigation   72B   S43623 21545 x 22197 x 55.0
+Sep 22 1752   Kounotori 7             H-IIB              Tanegashima     Cargo        73A   S43630   187 x   301 x 51.6
+Sep 25 2238   Horizons 3e       )     Ariane 5ECA        Kourou ELA3     Comms        74B   S43633   280 x 35741 x  5.9
+              Azerspace-2/IS-38 )                                        Comms        74A   S43632   246 x 35712 x  6.0
+Sep 29 0413   Xiangrikui 1            Kuaizhou-1A        Jiuquan         Tech         75A   S43636   696 x   710 x 98.2 1030LT SSO
+Oct  6 0800   STARS-Me )                                ISS, LEO         Tech        9867PN S43638?  403 x   408 x 51.6
+              RSP-00   )                                                 Tech        9867PP S43639?  403 x   408 x 51.6
+              SPATIUM-I)                                                 Tech        9867PQ S43640?  403 x   408 x 51.6
+Oct  8 0221   SAOCOM-1A               Falcon 9          Vandenberg SLC4E Radar        76A   S43641   607 x   634 x 97.9 1800LT SSO
+Oct  9 0234   Yaogan 32 01 zu )       Chang Zheng 2C/YZ-1S Jiuquan       Sigint       77A   S43642   689 x   705 x 98.3 2100LT SSO
+              Yaogan 32 02 zu )                                          Sigint       77B   S43643   689 x   704 x 98.3 2100LT SSO
+Oct 11 0840   Soyuz MS-10             Soyuz-FG          Baykonur LC1     Spaceship    F01   F01526 -6180?x    93 x 51.6
+Oct 15 0423   Beidou DW 39 )          Chang Zheng 3B/YZ-1  Xichang       Navigation   78A   S43647 21537 x 22193 x 55.0
+              Beidou DW 40 )                                             Navigation   78B   S43648 21530 x 22193 x 55.0
+Oct 17 0415   AEHF 4                  Atlas V 551       Canaveral SLC41  Comms        79A   S43651  8194?x 35300 x 12.8
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The suborbital launches table includes known flights above 80 km.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Sep 17 1409   FOP-5?/Celestis   SpaceLoft XL       Spaceport America     Tech          114       Spaceport America, NM
+Sep 27 1215   NAMMO Nucleus     Nucleus            Andoya U3             Test          107       Norwegian Sea
+Oct  1 0000?  Warhead           Zulfiqar           Kermanshah?,Iran      Weapon        200?      Syria
+Oct  1 0000?  Warhead           Zulfiqar           Kermanshah?,Iran      Weapon        200?      Syria
+Oct  1 0000?  Warhead           Qiam-1             Kermanshah?,Iran      Weapon        200?      Syria
+Oct  1 0000?  Warhead           Qiam-1             Kermanshah?,Iran      Weapon        200?      Syria
+Oct  8        Ghauri RV         Ghauri             Somniani?             Training      400?      Arabian Sea?
+Oct 11 1100?  RV                DF-11?             Jiuquan               Test          500?      Urumqi?
+Oct 11        RV x 4?           Sineva?           Sub, Barents Sea       Exercise      1000?     Kura
+Oct 11        RV x 4?           Sineva?           Sub, Barents Sea       Exercise      1000?     Kura
+Oct 11        RV x 4?           Volna?            Sub, Sea of Okhotsk    Exercise      1000?     Chiza
+Oct 11        RV x 4?           Volna?            Sub, Sea of Okhotsk    Exercise      1000?     Chiza
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   

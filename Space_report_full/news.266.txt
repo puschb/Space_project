@@ -1,0 +1,139 @@
+Jonathan's Space Report
+No. 266                         1995 Dec 3                    Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+The next Shuttle mission is STS-72, scheduled for January. Endeavour
+was moved to the Vehicle Assembly Building on Nov 30.
+
+Interestingly, Space Command has not allocated a catalog number for the
+putative 1995-61B, the Stikovochnoy Modul' (Russian Docking Module)
+launched by Atlantis. This is a tricky issue - they continue to issue
+separate orbital elements for rest of the various different modules
+docked to Mir. But the SM never  flew independently, it was always
+connected either to Atlantis or to Kristall. So should it get a
+designation or not? 
+
+Mir
+---
+
+Launch of the Progress M-30 cargo ferry is expected on December 15.
+
+Recent Launches
+--------------
+
+Asiasat 2 was successfully launched by a Chang Zheng 2E rocket from the
+Chinese spaceport at Xichang on Nov 28. The satellite will provide
+communications services for the Hong Kong based company Asia Satellite
+Telecommunications Co Ltd. It is a Lockheed Martin Astro Space Series
+7000 comsat with 9 Ku-band and 24 C-band transponders. The CZ-2E second
+stage entered a 187 x 292 km x 28.0 deg parking orbit, and separated
+from the Asiasat and its  kick motor. The Chinese EPKM (FG-46) kick
+motor, never flown before, fired to place Asiasat in a standard 220 x
+35039 km x 25.6 deg transfer orbit.  Previous CZ-2E launches used
+American-built Thiokol perigee motors. The liquid apogee motor (anyone
+know what type?) will be fired later to station Asiasat 2 at 100 deg E.
+
+The SOHO satellite was launched at 0808 UTC on Dec 2 by Atlas Centaur
+AC-121. SOHO, the Solar and Heliospheric Observatory, is a European
+Space Agency science spacecraft developed in collaboration with NASA.
+The Lockheed Martin Atlas IIAS took off from Pad 36 at Cape Canaveral;
+the Centaur second stage made an initial burn to enter low parking
+orbit of 175 x 183 km x 28.8 deg and then a second burn at 0935 UTC to
+insert SOHO onto an interplanetary trajectory towards the Earth-Sun L1
+Lagrange point, 1.5 million km from Earth in the direction of the
+Sun. The Centaur separated from SOHO at 1009 UTC; around 1045 UTC
+diffuse emission (reported as a possible new comet!) was seen by
+observers in the Northeastern US which may be associated with Centaur
+venting. The Centaur was inserted in an orbit with an apogee of 1.15
+million km, and is likely to end up in solar orbit after a couple of
+revolutions because of perturbations.  (Thanks to Joel Runes for some
+details in this report).
+
+SOHO carries telescopes, spectrometers and coronagraphs to study the
+atmosphere of the Sun, and particle detectors to study the composition
+and state of the solar wind. Unlike earlier solar observatories,
+however, SOHO also carries instruments to precisely measure
+oscillations of the Sun, which can be used to study the interior
+structure of the Sun - a technique called helioseismology. The 1850 kg
+spacecraft was built by Matra Marconi Space.
+
+ISO lowered its apogee on Nov 24 and is now in a 1437.16 min, 1036 x
+70578 km x 5.2 deg orbit. The perigee burn was at 1310 UTC on Nov 19 and
+the apogee burn was at 0245 on Nov 24. The cryostat cover was ejected at
+1027 UTC on Nov 27 and the first light image (of the galaxy M51) was
+taken on Nov 28. The LWS spectrometer has now detected its first spectral
+lines.
+
+The Meteosat 3 and Meteosat 4 weather satellites have now both been
+removed from geostationary orbit.  Meteosat 4's orbit was raised
+starting  at 2030 UTC on Nov 6. Meteosat 3's orbit  was raised in a
+series of burns from Nov 21 at 2115 UTC to Nov 22 at 2135 UTC. (Thanks
+to C. Groen-Nielsen, ESA). Thanks to several readers for confirming
+that Galaxy 3 has been retired.
+
+The Galileo Probe and Galileo Orbiter are approaching the planet
+Jupiter - arrival day is Dec 7. The Orbiter entered
+the Jovian magnetosphere on Nov 26.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Oct  6 0323   Kosmos-2321     Kosmos-3M       Plesetsk LC132  Navsat      52A
+Oct  8 1851   Progress M-29   Soyuz-U         Baykonur LC1    Cargo       53A
+Oct 11 1626   Luch-1          Proton-K/DM2M   Baykonur        Data Relay  54A
+Oct 19 0038   Astra 1E        Ariane 42L      Kourou ELA2     Comsat      55A
+Oct 20 1353   Columbia       ) Shuttle        Kennedy LC39B   Spaceship   56A
+              Spacelab USML-2)
+Oct 22 0800   UHF F6           Atlas II       Canaveral LC36  Comsat      57A
+Oct 23 2203   Meteor           Conestoga 1620 Wallops LA0     Micrograv   FTO
+Oct 31 2019   Kosmos-2322      Zenit-2        Baykonur LC45L  Sigint      58A
+Nov  4 1422   Radarsat )       Delta 7920     Vandenberg SLC2 Rem sensing 59A
+              SURFSAT  )                                                  59B
+Nov  6 0515   Milstar DFS 2   Titan 4 Centaur Canaveral LC40  Comsat      60A
+Nov 12 1230   Atlantis       ) Shuttle        Kennedy   LC39A Spaceship   61A
+              Docking Module )
+Nov 17 0120   ISO              Ariane 44P     Kourou ELA2     Astronomy   62A
+Nov 17 1430?  Gals-2           Proton-K/DM2M  Baykonur        Comsat      63A
+Nov 28 1130   Asiasat 2        Chang Zheng 2E Xichang         Comsat      64A
+Dec  2 0808   SOHO             Atlas IIAS     Canaveral LC36  Astronomy   
+
+Reentries
+---------
+
+Oct 26        Resurs-F2       Landed in Russia
+Nov  5        Columbia        Landed at KSC
+Nov 18        Molniya-1 (80-92A) Reentered
+Nov 20        Atlantis        Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 2     STS-75  Feb 22
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-76  Mar 21
+OV-105 Endeavour       VAB           STS-72  Jan 11
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-52/ET-75          VAB        STS-72                       
+ML2/                       
+ML3/                                      
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'

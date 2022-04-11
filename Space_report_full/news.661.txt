@@ -1,0 +1,195 @@
+Jonathan's Space Report
+No. 661                                       2012 Jul 1    Somerville, MA USA
+--------------------------------------------------------------------------------
+
+International Space Station
+----------------------------
+
+On the ISS, Expedition 31, with commander Oleg Kononeko, and
+astronauts FE-1 Gennadiy Padalka, FE-2 Sergey Revin, FE-3 Joe Acaba,
+FE-5 Andre Kuipers and  FE-6 Don Pettit, continued until Jun 30.
+On Jul 1 at 0448 UTC Soyuz TMA-03M undocked from Rassvet under the command
+of Kononenko, with Expedition 32 beginning on ISS under the command of Padalka.
+
+Kononenko, Kuipers and Pettit returned to Earth aboard TMA-03M on Jul 1.
+The deorbit burn at 0719 UTC lowered the Soyuz's perigee into the
+atmosphere The orbital module and service module (BO and PAO) separated
+from the descent module (SA) at 0747 UTC. All three objects reentered
+beginning at around 0751 UTC, with the BO and PAO burning up and the
+heat-shielded SA carrying the crew touching down in Kazakhstan at 0814:48 UTC.
+
+Padalka, Revin and Acaba are expected to be joined by Sunita Williams,
+Yuriy Malenchenko and Akido Hoshide aboard Soyuz TMA-05M later this month.
+
+Shenzhou and Tiangong
+----------------------
+
+The Shenzhou-9 crew undocked from Tiangong 1 at 0309 UTC on Jun 24 and
+backed off to 300 m, then reapproached first to 140m and then to a
+manually controlled redocking carried out by Liu Wang at 0449 UTC.
+(These times are based on the live TV reports; the post-landing press
+conference gave slightly later times.) On Jun 28 at 0122 UTC Shenhzhou 9
+undocked again for the last time; a brief manual re-rendezvous to 140m
+was carried out, possibly around 0300 UTC? Return to Earth came on Jun
+29 with orbital module sep at about 0116 UTC, retrofire at 0117 UTC,
+service module sep at 0138 UTC and landing at 0202 UTC in Siziwangqi,
+a district in Ulanqab prefecture in Inner Mongolia. Bob Christy has a nice summary of the
+reentry at http://www.zarya.info/Diaries/China/Shenzhou/9/Shenzhou9Landing.php
+
+The Shenzhou 9 orbital module ('guidao cang') was jettisoned into a 333 x 354 km
+orbit, but has not yet been tracked by the US.
+
+NuSTAR
+------
+
+The NuSTAR hard X-ray observatory extended its ten-meter mast on Jun 21
+from 1743 to 1809 UTC,  a critical mission event which places its twin
+optics modules at the correct distance from the focal plane detectors.
+It was reported on Jun 28 that the first light observation of Cyg X-1 
+was successful and shows a good image.
+
+NROL-38
+-------
+
+On Jun 20 a Lockheed Martin Atlas V 401, serial AV-023, was launched
+from Cape Canaveral on the NROL-38 mission for the National
+Reconnaissance Office. Analysts expect that the payload is a Satellite
+Data System communications and data relay satellite to be placed in
+geostationary orbit. The payload will probably be given the cover name
+USA 236. The Centaur stage is believed to have been deorbited after completing
+one elliptical revolution.
+
+NROL-15
+-------
+
+On Jun 29 the NROL-15 mission was launched on a Delta 4 Heavy, the first to use
+uprated RS-68A engines instead of the usual RS-68. The new engines were developed
+especially for the NROL-15 payload, which is therefore assumed to be unusually
+heavy. Evidence suggests a launch to geostationary orbit; the mission is likely to
+be a geostationary signals intelligence satellite. It is unclear whether the extra
+performance needed reflects an evolutionary (`block') change in the existing series
+of payloads (referred to as Advanced ORION by outside observers) or indicates
+an entirely new system of some kind, either as a successor or as a parallel system
+with a different mission. In my satellite tables I will assume for the sake
+of definiteness that it is a block change, and denote it `Heavy ORION' for the time being. 
+The Delta 4's 5-meter second stage is also believed to be in near-geosynchronous orbit.
+
+ Following on from the list in JSR 605:
+
+Probable satellites in the RHYOLITE lineage
+  --------------------------------------------
+For the satellites launched after 1990, no codename has been leaked. (The codename, of
+course, changes each time it is leaked).
+The 'Block' is a name made up by me to indicate suspected changes in satellite design.
+
+RH  Desig.    Unclass. Name           Launch date  Launch vehicle flight    Codename  Block
+ 1  1970-46A  OPS 5346 (Program 720)  1970 Jun 19  Atlas Agena S/N 5201A    RHYOLITE  RHYOLITE
+ 2  1973-13A  OPS 6063 (Program 720)  1973 Mar  6  Atlas Agena S/N 5202A    RHYOLITE  RHYOLITE
+ 3  1977-114A OPS 4258 (Program 472)  1977 Dec 11  Atlas Agena S/N 5504A    AQUACADE  RHYOLITE
+ 4  1978-38A  OPS 8790 (Program 472)  1978 Apr  7  Atlas Agena S/N 5505A    AQUACADE  RHYOLITE
+ 5  1985-10B  USA 8                   1985 Jan 24  Shuttle Mission 51-C     MAGNUM    MAGNUM
+ 6  1985-90B  USA 48                  1989 Nov 23  Shuttle Mission STS-33   ORION     MAGNUM
+ 7  1995-22A  USA 110                 1995 May 14  Titan-Centaur 17                   Advanced ORION
+ 8  1998-29A  USA 139                 1998 May  9  Titan-Centaur 18                   Advanced ORION
+ 9  2003-41A  USA 171                 2003 Sep  9  Titan-Centaur 20                   Advanced ORION
+10  2009-01A  USA 202                 2009 Jan 18  Delta 337  (4H/RS68)               Advanced ORION
+11  2010-63A  USA 223                 2010 Nov 21  Delta 351  (4H/RS68)               Advanced ORION
+12  2012-34A  USA 237                 2012 Jun 29  Delta 360  (4H/RS68A)              Heavy ORION
+
+X-37B
+-----
+
+The US Air Force's X-37B flight vehicle 2, which had been in orbit since
+March 2011, landed on the runway at Vandenberg Air Force Base at 1248
+UTC on June 16. The spacecraft had been in a 330 x 340 km x 42.8 deg
+orbit until a series of burns lowered it to 280 km during late May;
+hobbyist observers last saw it on May 31. The circa-5000-kg robot
+spaceplane, launched on an Atlas V, carried a secret payload. Flight
+vehicle 1, which flew in orbit from Apr-Dec 2010, is being prepared for
+its second spaceflight. The X-37B project is managed by the USAF's Rapid
+Capabilities Office in Washington; the vehicle was developed by Air
+Force Research Laboratory offices AFRL/RV at Kirtland AFB, New Mexico
+and AFRL/RB (Air Vehicles) at Wright-Patterson AFB, Ohio, with Boeing
+Phantom Works. This sets it apart from other USAF space projects which
+are mostly managed out of Los Angeles, and indicates a closer connection
+with the `air' side of the Air Force.
+
+
+2012 Orbital launch summary to date
+-----------------------------------
+
+35 launches: 
+China  Russia USA  Europe  India Japan Iran N Korea
+ 10       9    9     3       1      1   1    1(fail)
+
+
+Suborbital launches
+--------------------
+
+Sounding rocket NASA 36.286 was launched from White Sands on Jun 23
+carrying a payload to calibrate the SDO-EVE experiment on the Solar
+Dynamics Observatory satellite. Principal investigator is Tom Woods of
+U. Colorado. The rocket measured the spectrum and brightness of the Sun
+in the EUV and soft X-ray bands. Meanwhile, Jonathan Cirtain of
+NASA-Marshall is preparing two more solar rockets, NASA 36.284NS (SUMI)
+and NASA 36.272NS (Hi-C), for launch at White Sands in the coming weeks.
+Smithsonian Astrophysical Observatory was also involved in building the
+Hi-C payload and SAO scientist Kelly Korreck is in New Mexico for the
+launch. Good luck Jonathan and Kelly!
+
+Germany's SHEFEX-II hypersonics experiment was launched on Jun 22
+from Andoya in Norway. The two-stage Brazilian VS-40 rocket, with
+S-40 and S-44 motors, launched the reentry vehicle northwards into
+the Arctic.
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+May  4 1842   AEHF 2             Atlas V 531       Canaveral SLC41   Comms     19A
+May  6 0710   Tianhui 1-02       Chang Zheng 2D    Jiuquan SLS2      Imaging   20A
+May 10 0706   Yaogan Weixing 14) Chang Zheng 4B    Taiyuan           Imaging   21A
+              Tiantuo 1        )                                     Tech/Sci  21B
+May 15 0301   Soyuz TMA-04M      Soyuz-FG          Baykonur LC1/5    Spaceship 22A
+May 15 2213   JCSAT 13   )       Ariane 5ECA       Kourou ELA3       Comms     23A?
+              Vinasat 2  )                                           Comms     23B?
+May 17 1405   Kosmos-2480        Soyuz-U           Plesetsk LC16     Imaging   24A
+May 17 1639   Shizuku    )       H-2A              Tanegashima Y1    Climate   25A
+              Arirang-3  )                                           Imaging   25B
+              SDS-4      )                                           Tech      25C?
+              Horyu-2    )                                           Tech      25D
+May 17 1912   Nimiq 6            Proton-M/Briz-M   Baykonur LC81/24  Comms     26A
+May 22 0744   Dragon C2  )       Falcon 9          Canaveral LC40    Cargo     27A
+              Celestis 11)                                           Burial    27B
+May 26 1556   Zhongxing 2A       Chang Zheng 3B/E  Xichang           Comms     28A
+May 29 0731   Yaogan Weixing 15  Chang Zheng 4C    Taiyuan           Radar?    29A
+Jun  1 0523   Intelsat IS-19     Zenit-3SL         Odyssey, Pacific  Comms     30A
+Jun 13 1600   NuStar             Pegasus XL        L-1011,Kwajalein  Astronomy 31A
+Jun 16 1037   Shenzhou 9         Chang Zheng 2F    Jiuquan           Spaceship 32A
+Jun 20 1228   USA 236 (NROL-38)  Atlas 5 401       Canaveral SLC41   Comms?    33A
+Jun 29 1315   USA 237 (NROL-15)  Delta 4H          Canaveral SLC37B  Sigint?   34A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+
+May 10 0618   FTM-16/2A Target Terrier Orion      Kauai               Target       100?
+May 10 0620?  FTM-16/2A KV     SM-3 Block IB      USS Lake Erie       Intercept    100?
+May 23 0615   RV               Topol'-M2?         Plesetsk            R&D         1000?
+Jun  7 1739   RV               Topol'             Kapustin Yar        Op Test     1000?
+Jun 21 1040   NASA 41.101UO    Terrier Orion      Wallops I.          Education    117
+Jun 22 1918   SHEFEX II        VS-40              Andoya              Hypersonic   177
+Jun 23 1930   NASA 36.286UE    Black Brant 9      White Sands         Solar        300?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

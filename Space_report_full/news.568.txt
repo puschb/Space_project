@@ -1,0 +1,110 @@
+Jonathan's Space Report
+No. 568                                           2006 Jul 21, Beijing
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The STS-121 mission has concluded successfully, putting the Shuttle
+program back on track for further Station assembly missions.
+
+Discovery completed its rendezvous with the International Space Station
+on Jul 6 and docked with the PMA-2 adapter on the Destiny module at 1452
+UTC.
+
+On Jul 7 the Leonardo Multipurpose Logistics Module, MPLM-1, was grappled
+by the Station robot arm at 0942 UTC, unberthed from the Shuttle payload
+bay at 1012 UTC and connected to the Unity (Node-1) module at around 1150 UTC.
+The MPLM contains supplies which will be transferred to the station via
+the large diameter hatch between it and Unity.
+
+On Jul 8, astronauts Piers Sellers and Mike Fossum made a spacewalk from
+the Station's Quest airlock using US spacesuits EMU 3006 and 3015. The
+airlock pressure reached 50 mbar at 1311 UTC. Hatch open was at 1316
+UTC, with Sellers and Fossum emerging at 1325 and 1335 UTC.  The
+astronauts tested the dynamic response of the OBSS robot arm extension
+to check it out for possible use on future missions to send an astronaut
+underneath the Shuttle for tile repairs. The spacewalkers reentered the
+airlock at 2025 (Fossum) and 2033 (Sellers), closing the hatch at 2042
+UTC. The airlock was repressurized at 2048 UTC.
+
+EVA-2 began on Jul 10 at 1209 UTC with depressurization of the airlock
+below 50 mbar, with hatch open at 1213 UTC. The astronauts helped with
+installation of a spare pump module on the ESP-2 platform used as a
+place to stash spare parts for ISS; they also replaced an umbilical
+cable assembly for the Mobile Transporter, making the MT ready to
+support installation of new Station solar panels on later Shuttle
+missions. The hatch was closed at 1852 UTC and the airlock was
+repressurized at 1901 UTC.
+
+EVA-3 on Jul 12 saw airlock depressurization at 1115 UTC and hatch open
+at 1119 UTC. Fossum and Sellers worked at the rear of Discovery's
+payload bay, playing with repairing heat shield samples in a test box
+on the LMC (Lightweight MPESS Carrier) in the bay. The hatch was closed
+at around 1821 UTC with repressurization at 1831 UTC.
+
+On Jul 14, the station SSRMS arm was used to disconnect the Leonardo
+logistics module from Unity at around 1308 UTC and stick it back in
+Discovery's payload bay around 1450 UTC.
+
+On Jul 17 at 1207 UTC Discovery fired its engines for a 92 m/s deorbit
+burn, with landing on runway 15 at Kennedy Space Center at 1314 UTC.
+
+The ISS Expedition 13 crew on board the station now consists of Pavel
+Vingradov, Jeffrey Williams, and ESA's Thomas Reiter.
+ 
+
+GSLV
+----
+
+India's GSLV-F02 rocket failed seconds after launch on Jul 10
+and crashed into the sea. It was to have launched the Insat-4C satellite
+into geostationary orbit.
+
+One of the strapon motors failed to develop thrust, sending GSLV off
+course; by 40s after launch it was outside the planned corridor and it
+broke up at 60s; following a command destruct, the debris fell in the
+Bay of Bengal not far from the Satish Dhawan Space Center launch site.
+This was the second launch from the SDSC's second launch pad.
+
+Genesis 1
+---------
+
+Russia has made its first orbital launch from the Dombarovskiy
+launch site, previously just an intercontinental missile base.
+The Dnepr converted ICBM orbited a US commercial satellite, Bigelow
+Aerospace's Genesis 1 inflatable spacecraft. Genesis 1 is a pathfinder
+for future human-occupied space station modules. It was launched
+to a 555 x 561 km x 64.5 deg orbit. The module inflated from 1.9
+to 3.8 meters diameter once on orbit and deployed a pair of solar arrays.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jun 15 0800   Resurs-DK No. 1   Soyuz-U         Baykonur LC1     Imaging     21A
+Jun 17 2244   KazSat            Proton-K/DM3    Baykonur LC200/39 Comms      22A
+Jun 18 0750   Galaxy 16         Zenit-3SL       Odyssey, POR     Comms       23A
+Jun 21 2215   USA 187 )         Delta 7925      Canaveral SLC17A Tech        24A
+              USA 188 )                                          Tech        24B
+              USA 189 )                                          Tech        24B
+Jun 24 1508   Progress M-57     Soyuz-U         Baykonur LC1     Cargo       25A
+Jun 25 0400   Kosmos-2421       Tsiklon-2       Baykonur LC90?   Sigint      26A
+Jun 28 0333   USA 184 (NROL-22) Delta 4M+(4,2)  Vandenberg SLC-6 Sigint?     27A
+Jul  4 1838   Discovery (STS-121) Shuttle       Kennedy LC39B    Spaceship   28A
+              Leonardo (MPLM-1)                                  Module      28
+Jul 10 1208   Insat 4C          GSLV            Sriharikota SLP  Comms       F02
+Jul 12 1453   Genesis 1         Dnepr           Dombarovskiy     Tech        29A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

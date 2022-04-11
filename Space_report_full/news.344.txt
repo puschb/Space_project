@@ -1,0 +1,144 @@
+
+Jonathan's Space Report
+No. 344                                       1997 Dec  21  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+The last Shuttle mission of the year, STS-87, has been completed.
+Columbia landed on Dec 5, with a deorbit burn at 1121 UTC, returning to
+Earth the Spartan satellite and the USMP-4 microgravity science payload.
+Touchdown was at 1220 UTC on KSC's runway 33. Launch of STS-89 has been
+delayed a few days to Jan 22; Endeavour was rolled out to pad 39A on Dec
+19. STS-89 will dock with the Mir station.
+
+Progress M-36 undocked from Mir on Dec 17 at 0602 UTC and flew out to a
+range of 700m. The Inspector satellite was deployed at 0735 to take
+pictures of Mir, but its navigation system failed and it drifted away
+from the station. X-Mir Inspector was built by Daimler-Benz
+Aerospace/Bremen, Germany. Progress M-36 was deorbited at 1620 UTC on
+Dec 19. Progress M-37 was launched from Baykonur the following day, and
+will bring new supplies to the Mir station.
+
+Erratum
+-------
+
+The Cyclade adapter system, Stefan Barensky tells me, was also used on the
+first Ariane 4 launch in 1988.
+
+
+Recent Launches
+---------------
+
+Two Iridium satellites were launched on Dec 8 from Taiyuan in China.
+Iridium 42 and 44 were launched by a Chang Zheng 2C-3-SD rocket with a
+'Smart Dispenser' upper stage. This rocket was test flown with two dummy
+satellites earlier in the year. Five more Iridium satellites, built by
+Motorola and Lockheed, were launched on a Boeing Delta 2 from Vandenberg
+on Dec 20; I don't have their serial numbers yet.
+
+The Galaxy 8I comsat was launched from Cape Canaveral by Lockheed
+Martin's AC-149 Atlas 2AS. The Centaur stage entered a supersynchronous
+transfer orbit of 280 x 50607 km with inclination of 26.8 deg.
+Galaxy 8I is a Hughes HS-601HP satellite owned by Panamsat and
+will be used by Galaxy Latin America broadcasting.
+
+Kosmos-2347 was launched on Dec 9 by Tsiklon-2 from 5-GIK Baykonur. 
+(SPACEWARN initially called this satellite Kosmos-2348 in error). The
+satellite, developed by KB Arsenal, is a US-P class naval electronic
+intelligence satellite and was launched into a 110 x 400 km transfer
+orbit by the two-stage 11K69 Tsiklon-2 (built by the Ukranian Yuzhnoe
+enterprise with Russian engines). Its own engine then fired to
+circularize at 401 x 419 km x 65.0 deg.
+
+Kosmos-2348 was launched Dec 15 by Soyuz-U from Plesetsk. It is a
+Yantar'-class reconnaissance satellite (probably a Kobalt class vehicle)
+in a 165 x 343 km x 67.1 deg orbit. The Kobalt satellites are believed
+to be similar to the earlier Oktan (Yantar'-4K1) satellites, which
+carried a Zhemchug camera system in a large recoverable OSA (Special
+Apparatus Module) reentry vehicle, attached during the mission to a
+service module with solar panels and a maneuvring engine. The Oktan
+satellites also carried two small SpK film return capsules which were
+recovered while the mission was still in progress. The Yantar' series
+are built by the TsSKB-Progress enterprise in Samara, Russia.
+
+
+JCSAT-5 is now in geosynchronous orbit. Jun Takei from JCSAT reports
+that the five liquid apogee motor burns were carried out from Dec 4 to
+Dec 8, and the solar panels and antenna have been deployed.
+
+Av Week now has changed its mind and says that the TRUMPET satellite was
+a Boeing/Kent Valley product, in agreement with my sources.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov  2 1225   SCD-2A            VLS           Alcantara        Rem.sens.  FTO
+Nov  3 0405   Sputnik-40                      Mir,LEO          Demo       58C
+Nov  6 0030   GPS 38            Delta 7925    Canaveral LC17A  Navsat     67A
+Nov  8 0205   TRUMPET 3?        Titan Centaur Canaveral LC41   Signal int 68A
+Nov  9 0134   Iridium 38 )      Delta 7920    Vandenberg SLC2W Comsat     69E
+              Iridium 39 )                                     Comsat     69D
+              Iridium 40 )                                     Comsat     69C
+              Iridium 41 )                                     Comsat     69B
+              Iridium 43 )                                     Comsat     69A
+Nov 12 1700   Kupon             Proton        Baykonur LC200   Comsat     70A
+Nov 12 2148   Sirius 2     )    Ariane 44L    Kourou ELA2      Comsat     71A
+              Cakrawarta 1 )                                   Comsat     71B
+Nov 18 1115   Resurs-F1M        Soyuz-U       Plesetk          Rem.sens.  72A
+Nov 19 1946   Columbia          Shuttle       Kennedy LC39B    Spaceship  73A
+Nov 21 2105   Spartan 201                     OV-102, LEO      Astronomy  73B
+Nov 27 2127   TRMM    )         H-2           Tanegashima      Rem.sens.  74A
+              Hikoboshi  )                                     Technology 74B
+              Orihime    )        
+Dec  2 2252   JCSAT-5    )      Ariane 44P    Kourou ELA2      Comsat     75A
+              Equator-S  )                                     Space sci  75B
+Dec  2 2310   Astra 1G          Proton        Baykonur         Comsat     76A
+Dec  3 1215   AERCam/Sprint                   OV-102, LEO      Technology 
+Dec  8 0716   Iridium 42 )      CZ-2C/SD      Taiyuan          Comsat     77A
+              Iridium 44 )                                     Comsat     77B
+Dec  8 2352   Galaxy 8I         Atlas 2AS     Canaveral LC36B  Comsat     78A
+Dec  9 0717   Kosmos-2347       Tsiklon-2     Baykonur LC90    Recon      79A
+Dec 15 1540?  Kosmos-2348       Soyuz-U       Plesetsk         Recon      80A
+Dec 17 0737   X-Mir Inspector                 Progress,LEO     Technology 58D
+Dec 20 0845   Progress M-37     Soyuz-U       Baykonur         Cargo      81A
+Dec 20 1316   Iridium  )        Delta 7920    Vandenberg SLC2  Comsat     82
+              Iridium  )                                       Comsat     82
+              Iridium  )                                       Comsat     82
+              Iridium  )                                       Comsat     82
+              Iridium  )                                       Comsat     82
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-87  
+OV-103 Discovery       OPF Bay 2     STS-91  May 28
+OV-104 Atlantis        Palmdale      OMDP
+OV-105 Endeavour       LC39A         STS-89  Jan 22
+
+                                          
+MLP/SRB/ET/OV stacks                       
+                  
+MLP1/                                             
+MLP2/RSRM65              VAB Bay 3     STS-90
+MLP3/RSRM64/ET-90/OV-105 LC39A         STS-89
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*       |
+'-------------------------------------------------------------------------'
+

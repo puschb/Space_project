@@ -1,0 +1,201 @@
+Jonathan's Space Report
+No. 640                                      2011 Apr 27  Somerville, MA, USA
+--------------------------------------------------------------------------------
+
+Note: Thanks to Luigi Morielli and Bohdan Zograf for the Italian and Belorussian
+translations of JSR, see http://planet4589.org/space/jsr/trans.html
+
+Shuttle and Station
+-------------------
+
+Kounotori-2 was unberthed from Harmony at 1343 UTC on Mar 28 and released
+at 1546 UTC. It was deorbited at 0244 UTC on Mar 30 and reentered the
+atmosphere over the South Pacific at 0309 UTC.
+
+Soyuz TMA-21 (spacecraft No. 231) was launched on Apr 4, carrying
+astronauts Aleksandr Samokutyaev (Roskosmos, commander), Andrey
+Borisenko (Roskosmos, flight engineer 1),  and Ron Garan (NASA, flight
+engineer 2). Samokutyaev is a Russian air force pilot, and Borisenko is
+a former RKK Energiya engineer; both are making their first flight.
+Garan previously flew on STS-124. Borisenko will become the Expedition
+28 commander later in the mission. Soyuz TMA-21 docked at the Poisk
+module at 2309 UTC on Apr 6. 
+
+The Progress M-09M cargo ship undocked from the Pirs module on Apr 22 at
+1141 UTC and was deorbited over the Pacific on Apr 26. The Johannes
+Kepler ATV is docked at the Zvezda module, and Soyuz TMA-20 at Rassvet.
+
+Progress M-10 (spacecraft No. 410) was launched on Apr 27 to deliver
+cargo to the Station.
+
+
+Messenger
+---------
+
+The Messenger probe is now in orbit around the planet Mercury. The orbit
+insertion burn began at 0045 UTC Mar 18 and was completed at 0100 UTC.
+The planned orbit is 200 x 15193 km with perigee over 60 deg N.
+According to SpaceflightNow, actual orbit is 207 x 15261 km, inclined
+82.5 deg to Mercury's equator (I note that the data in JPL's Horizons
+database appears to need an update).
+
+Stardust
+---------
+
+The Stardust probe, launched in 1999, was switched off on Mar 24,
+following its recent flyby of comet 9P/Tempel 1.
+
+
+FASTRAC
+-------
+
+The FASTRAC 1 and 2 satellites ("Sara Lily" and "Emma") were separated
+on Mar 22. The second satellite has been cataloged as 2010-62M, USA 228/FAST 2.
+
+Beidou
+------
+
+A Beidou navigation satellite was launched on Apr 9.
+The Chinese defense ministry referred to it as 'di ba ke beidou daohang weixing'
+(Beidou Navigation Satellite 8) while the CALT launch organization
+called it 'beidou er hai weixing'  (Beidou 2 satellite). I will refer
+to it as BDW 8 (Beidou Daohang Weixing 8), a satellite in the Beidou-2
+series (i.e. 2nd generation). The satellite was injected into
+a 192 x 34892 km x 55.1 deg transfer orbit and then
+entered an inclined geosynchronous orbit of 35694 x 35870 km x 55.3 deg
+at 2048 UTC on Apr 13.
+
+NROL-34
+-------
+
+United Launch Alliance's Atlas V flight AV-027, an Atlas V 411 model,
+was launched from Vandenberg on Apr 15 with the NRO Launch 34 payload.
+Analyst Ted Molczan suggested that the payload is likely to be
+a naval ocean surveillance satellite cluster; these clusters operate
+in 1100 km circular orbits with 63 deg inclination and carry
+equipment to track ships and aircraft via their radio transmissions.
+Two payloads of similar size are placed in orbit and both maneuver to
+stationkeep relative to one another; however one of the two is
+cataloged by the US as `debris', apparently in a feeble attempt at
+misdirection. Both payloads from the Apr 15 launch were observed
+by hobbyists on Apr 18 in a 1015 x 1207 km x 63.4 deg orbit.
+
+The Centaur AV-027 second stage was deorbited during the first Earth
+revolution after deploying the USA 229 main payload and its companion.
+
+PSLV
+----
+
+India's PSLV-C16 placed the 1200 kg Resourcesat-2 imaging satellite
+in polar orbit on Apr 20. Two small satellites were also deployed: ISRO's
+IMS-1A Youthsat with experiments to study solar-terrestrial relationships,
+and the X-Sat from Nanyang Technological University in Singapore, carrying
+a 10-meter-resolution multispectral imager.
+
+The satellites are in 800 x 820 km x 98.8 deg orbits.
+Resourcesat-2 carries the LISS-4 camera, a
+6-meter-resolution imager, which will be used for both military
+reconnaissance and civilian remote sensing. It also carries the lower
+resolution LISS-3 (23m resolution) and  AWIFS (56m resolution), and an
+AIS payload for Comdev of Canada. (AIS is the Automatic Identification
+System for tracking ships at sea).
+
+Arianespace
+-----------
+
+An Ariane 5ECA placed two communications satellites in geostationary
+transfer orbit on Apr 22. Yahsat 1A is an Astrium Eurostar 3000
+with a C- and Ku-band payload for Al Yah Satellite Communications Co.
+of Abu Dhabi, United Arab Emirates. It will be stationed at 52.5E
+over the Indian Ocean. Intelsat New Dawn is an Orbital Star 2,
+also with a C/Ku hybrid payload, and will be stationed at 32.8E for
+coverage of Africa. It is owned by New Dawn Satellite Co. Ltd., a joint
+venture of Intelsat S.A. (UK) and Convergence Partners (Johannesburg,
+South Africa); New Dawn Satellite Co. Ltd. is registered in Port Louis,
+Mauritius (as is RASCOMStar QAF, another regional African satellite operator).
+
+
+Suborbital launches
+-------------------
+
+Iran launched a Kavoshgar sounding rocket on Mar 15, and a TEXUS
+microgravity payload was flown from the ESRANGE in Kiruna, Sweden on Mar
+29. The University of Colorado's second calibration flight for SDO's EVE
+instrument was flown on Mar 23; this was the 14th flight of the LASP/CU
+solar EUV payload. The Russian Navy flew reentry vehicles (probably four
+of them) aboard a Sineva missile from the Ekaterinburg submarine in the
+Barents Sea to the Kura target area in Kamchatka on Apr 27. On Apr 15
+an LV-2 rocket, based on the Trident I missile, was flown from
+Kwajalein atoll towards Hawaii carrying a target for the Aegis SM-3 
+interceptor system.
+
+Errata
+-------
+       (1) Thanks to Markus Dolensky for pointing out the correct URL
+  for the UN registry site, www.oosa.unvienna.org
+
+        (2) Thanks to Phillip Clark for pointing out that in JSR 539 in Nov 2004,
+I suggested a clearly bogus orbital inclination of 51.8 deg for
+the suborbital Soyuz-2-1a test flight. I suspect the true orbit was
+was probably (-200 to -100) x (150 to 250) km x 82.5 deg, but 
+(40 to 60) x (150 to 250) km x 62.8 deg is also plausible. (Actual data
+from my Russian friends would be welcome.)
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Feb  1 1400   Geo-IK-2 No. 11   Rokot              Plesetsk LC133/3 Geodetic   05A
+Feb  6 1226   USA 225 (RPP 1)   Minotaur I         Vandenberg SLC8  Tech       06A
+Feb 16 2151   Johannes Kepler   Ariane 5ES         Kourou ELA3      Cargo      07A
+Feb 24 2153   Discovery STS-133 Space Shuttle      Kennedy LC39A    Spaceship  08A
+Feb 26 0307   Glonass-K No. 11  Soyuz-2-1B         Plesetsk LC43/4  Navigation 09A
+Mar  4 1009   Glory  )          Taurus XL 3110     Vandenberg 576E  Climate    F01
+              E1P    )                                              Sci        F01
+              Hermes )                                              Tech       F01
+              KySat-1)                                              Tech       F01
+Mar  5 2246   OTV-2 F1          Atlas V 501        Canaveral SLC41  Spaceplane 10A
+Mar 11 2338   USA 227           Delta 4M+(4,2)     Canaveral SLC37  Comms?     11A
+Mar 22 1135   Fastrac 2                            Fastrac 1, LEO   Tech       62M
+Apr  4 2218   Soyuz TMA-21      Soyuz-FG           Baykonur LC1     Spaceship  12A
+Apr  9 2047   Beidou DW8        Chang Zheng 3A     Xichang          Nav        13A
+Apr 15 0424   USA 229 P/L 1 )   Atlas V 411        Vandenberg SLC3E Sigint     14A
+              USA 229 P/L 2 )                                       Sigint     14B
+Apr 20 0442   Resourcesat 2 )   PSLV               Sriharikota FLP  Imaging    15A
+              Youthsat      )                                       Science    15B
+              X-Sat         )                                       Imaging    15C
+Apr 22 2137   Yahsat 1         ) Ariane 5 ECA      Kourou ELA3      Comms      16A
+              Intelsat New Dawn)                                    Comms      16B
+Apr 27 1305   Progress M-10M    Soyuz-U            Baykonur LC1     Cargo      17A
+ 
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+
+Mar  1 2100   8 x Mk 5 RV      Trident D-5        USS Nevada, Pacific Test        1000?
+Mar  2 1340   Patriot Target   Juno               Fort Wingate        Target       100?
+Mar 15        Kavoshgar-4      Kavoshgar          Iran                R&D          120
+Mar 16        ARAV-B Target    Terrier Oriole     Kauai               Target       150?
+Mar 23 1750   NASA 36.275UE    Black Brant IX     White Sands         Solar EUV    250?
+Mar 29 0501   TEXUS 49         VSB-30             Kiruna              Micrograv    268
+Apr 15 0652   FTM-15 Target    LV-2               Meck Island         Target      1000?
+Apr 15 0703   FTM-15 KV        SM-3               USS O'Kane, Kauai?  Interceptor  150?
+Apr 27        4 x RV           Sineva             K-84, Barents Sea   Op. Test    1000?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+     
+
+
+
+
+
+

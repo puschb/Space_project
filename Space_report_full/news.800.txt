@@ -1,0 +1,335 @@
+
+Jonathan's Space Report
+No. 800                                                     2021 Nov 28        Somerville, MA
+-----------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 66 continues.
+
+On Nov 17 Dextre moved the STP-H6 experiment from Express Logistics Carrier 3 and attached
+it to the exterior of the Cygnus NG-16 cargo ship for disposal.
+
+On Nov 20 at 1340 UTC Canadarm-2 unberthed the Cygnus, S.S. Ellison
+Onizuka, from the Unity nadir port and released it into orbit at 1601
+UTC. As of Nov 26 the Onizuka remained in a 456 x 464 km x 51.6 deg
+orbit.
+
+On Nov 24 Russia launched the Uzlovoy Modul' (UM No. 1L, the `node
+module'), named `Prichal'. Prichal has a mass of 4650 kg including about
+580 kg of cargo. It is attached to a modified Progress,  Progress M-UM
+No. 303, which has the normal Progress/Soyuz propulsion section and an
+adapter docked to Prichal.    The UM/Progress vehicle docked with Nauka
+SSVP-M port at 1519 UTC on Nov 26. The Progress will undock later to
+expose the UM's main docking port.
+
+Progress MS-17 undocked again from Nauka at 1122 UTC Nov 25, this time
+taking the SSVP adapter with it, exposing the SSVP-M docking adapter
+designed for module dockings. The cargo ship was deorbited over the
+Pacific with debris impact on the ocean at 1517 UTC.
+
+
+Russian ASAT test
+------------------
+
+On Nov 15 at about 0245 UTC Russia launched a Nudol' suborbital
+antisatellite missile from Plesetsk. The missile intercepted the defunct
+Soviet satellite Ikar No. 39L (codename Kosmos-1408) a few minutes
+later, possibly at 0250 UTC over about 60E 75N.  Kosmos-1408 was in a
+465 x 490 km x 82.6 deg orbit at the time. The intercept occurred at a
+height of 468 km above the Earth ellipsoid (486 km above the fictive
+6378 km spherical Earth used for orbit parameters). The International
+Space Station passes through resulting debris cloud every 93 minutes,
+and the crew were instructed to take safety preparations including
+closing hatches and being ready for evacuation if needed. As of this
+writing, however, there is no evidence of any debris hits from the cloud
+on ISS.
+
+CERES
+-----
+
+On Nov 16 Arianespace launched Vega VV20 from the Centre Spatial
+Guyanais. The AVUM upper stage deployed three CERES electronic
+intelligence satellites operated by the French space agency CNES on
+behalf of the French defense agency DGA.
+
+Electron
+---------
+
+Electron flight 22 placed two BlackSky Global imaging satellites in orbit. The first stage
+was lowered to the ocean by parachute; the third stage made a perigee lowering burn to reduce
+its orbital lifetime.
+
+GF11-03
+-------
+
+On Nov 20 SAST launched a CZ-4B with the Gao Fen 11 hao 03 xing imaging satellite into an elliptical
+orbit. GF-11 satellites (thought to really be the Jianbing-16 spy sat series) spend several months
+in such an elliptical orbit before changing to a second mission phase with a circular orbit.
+
+ Mission   Launch        Initial Orbit    SSO       Circ Date            Post-Circ Orbit  SSO
+ GF11-01   2018 Jul 31   247 x 694 x 97.4 1009 LT   2019 Apr 11 (254 d)  483 x 507 x 97.4  1050 LT
+ GF11-02   2020 Sep  7   247 x 694 x 97.3 1306 LT   2021 Mar 17 (176 d)  494 x 496 x 97.3  1326 LT
+ GF11-03   2021 Nov 20   243 x 695 x 97.5 0900 LT   -                    -                 -
+
+Astra
+-----
+
+Astra Space launched its Rocket 3.3 vehicle (serial LV0007) from
+Kodiak's Pacific Spaceport Alaska on Nov 20, placing a small
+non-separating test payload in polar orbit. This was Astra's first
+successful orbital launch. The mission, STP S27AD2, was sponsored by the
+USSF Space Test Program.
+
+GF3-02
+------
+
+Gao Fen 3-02, the second GF3 radar satellite from CAST/Beijing, was launched on Nov 22.
+
+Shiyan 11
+---------
+
+Shiyan 11, a remote sensing satellite built by DFH Shenzhen, was launched by
+EXPACE on a KZ-1A on Nov 24.
+
+Kosmos-2552
+-----------
+
+An EKS (Kupol/Tundra) infrared missile early warning satellite was launched to elliptical
+Molniya orbit on Nov 25. The satellite will probably get the cover name Kosmos-2552.
+
+
+SJ-21
+-----
+
+Shi Jian 21 and its subsatellite continue to operate in geosynchronous drift orbit, 
+On Nov 15 SJ-21 completed a re-rendezvous with the subsatellite (ejected on Nov 1),
+approaching and remaining within 5 km of it.
+
+
+Point Arguello - a little history of PALC2-4
+--------------------------------------------
+
+There are two separate but physically adjacent spaceports in the Cape
+Canaveral vicinity: Cape Canaveral Space Force Station and the NASA John
+F. Kennedy Space Center. Although they are often conflated, they are
+owned and operated separately (by Space Force and NASA).
+
+Similarly, from 1959 to 1964 there were two separate, adjacent
+spaceports on the California coast north of Santa Barbara near Lompoc:
+Vandenberg Air Force Base and the Naval Missile Facility Point Arguello
+(NMFPA).
+
+The first space launch from Point Arguello was a Nike-Asp sounding rocket in Jul 1959
+from Launch Complex A; the first orbital attempt was the 1960 Oct 11 launch
+of SAMOS 1 on an Atlas Agena A from Launch Complex 1, Pad 1.
+
+Point Arguello's Launch Complex 2, Pad 4 was not used for a launch
+until August 1964, by which time NMFPA had been transferred to the Air Force
+and become the South Base section of Vandenberg AFB - the pad was then called
+Vandenberg AFB PALC2-4 (Point Arguello Launch Complex 2, Pad 4).
+
+Because NMFPA was once a separate spaceport, I still track its pads
+separately as `South Vandenberg' with site code VS in my launch database
+(versus site code V for pads on the North Base).
+
+In 1966 the Vandenberg and Point Arguello orbital pads were renamed
+and PALC2-4 became Space Launch Complex 4-East (SLC-4E). It continued
+launching Atlas Agena rockets with GAMBIT spysats until 1967; from 1971
+to 2005 it was the home for Titan IIID and later Titan 34D and Titan 4.
+
+After lying silent for eight years, in 2013 SLC-4E became the
+West Coast launch site for SpaceX's Falcon 9. So far there have
+been 17 Falcon 9 launches from the pad.
+
+DART
+-----
+
+At 0621:02 UTC Nov 24, a Falcon 9 launched from SLC-4E at Vandenberg
+Space Force Base with the DART (Double Asteroid Redirection Test)
+spacecraft, sending it to solar orbit. Deep space launches are rare from
+Vandenberg; the first was the Clementine probe, launched on a Titan II
+from SLC-4W in 1994. 
+
+Four Atlas V launches from SLC-3E in the 2009-2014 period deployed primary
+payloads in Earth orbit but then boosted their Centaur upper
+stages to solar orbit for disposal. Most recently, another
+Atlas V took off from SLC-3E in 2018 carrying the Mars Insight probe.
+
+The launch was the first deep space launch from
+Space Launch Complex 4-East. The Falcon 9 headed south
+from Vandenberg to a 230 x 300 km x 64.7 deg parking orbit.
+After a short coast, the second stage reignited
+over the Antarctic and boosted DART to a 263 x -135000 km x 64.7 deg
+escape hyperbola. DART and the second stage will
+depart the Earth-Sun Hill Sphere on Nov 30 at about 0700 UTC,
+entering a 0.938 x 1.069 AU x 3.8 deg heliocentric orbit
+on course for the (65803) Didymos system.
+
+(65803) Didymos is a 780-metre-diameter asteroid orbiting
+the Sun in a 1.01 x 1.64 AU x 3.4 deg orbit.
+The half-gigatonne asteroid has a moon, the 163-metre-diameter Dimorphos
+which has a mass of around a million tonnes and orbits Didymos at a 
+center-to-center distance of only 1.2 km.
+
+Didymos then shuttles between the orbit of Mars and the orbit of
+Earth every 2.1 years. But usually when it comes close to Earth orbit,
+Earth itself is at some other part of that orbit. Not this time:
+Didymos is currently heading inward from aphelion and in Oct 2022
+it will reach perihelion passing only about 11 million kilometers
+from Earth!  OK, I know that sounds like a lot, but right now
+it's 113 million km away.
+
+Taking advantage of this close pass, NASA's DART
+mission will go round the Sun in an orbit just a little bit different
+from Earth's and reach Didymos just as it passes by Earth.
+DART will reach the Didymos system in Oct 2022 and smash into Dimorphos.
+The impact is expected to change the orbital period of Dimorphos around
+Didymos by of order ten minutes, something that can be accurately
+measured, allowing scientists to determine how efficiently the collision
+imparts momentum to the target rock. This information will be crucial in
+designing missions that could divert a possible future Earth-impacting
+asteroid.
+
+The DART mission is led by JHU's Applied Physics Laboratory (APL)
+and is managed by NASA MSFC and the
+NASA Planetary Defense Coordination Office. 
+DART has a mass of 500 kg dry. It has two propulsion systems:
+a set of twelve Aerojet Rockedtyne MR-103G thrusters
+with a thrust of 1N each, fed by 50 kg of hydrazine; and the
+7.4 kW NEXT-C ion engine with a thrust of 25 to 235 mN, fed
+by 60 kg of Xe and powered by two ROSA roll-out solar arrays.
+The main DART spacecraft, built by APL, is 1.2 x 1.3m in size
+and the deployed ROSA arrays span 19 metres.
+DART has one main instrument, the DRACO (Didymos Reconnaissance &
+Asteroid Camera for OpNav) imaging camera. 10 days before the Didymos
+encounter it will eject a 6U cubesat, LICIACube. The 14 kg LICIACube is
+built by Argotec for the Italian space agency ASI; it carries two
+cameras to image the impact.
+
+OneWeb
+------
+
+It has been announced that OneWeb satellite SL0041 (catalog 45148) has
+failed; based on analysis of the orbit uncontrolled decay seems to have
+set in on about 2021 Feb 24. The remaining 357 OneWeb satellites
+continue to operate.
+
+Epsilon 5
+---------
+
+On Nov 9 JAXA/ISAS launched the fifth Epsilon rocket from Uchinoura with a cluster 
+of small satellites. The Epsilon third stage entered a 221 x 568 km orbit; the PBS
+fourth stage then separated and went to a 543 x 572 km orbit. Attached to the PBS
+was the ESMS (Epsilon Satellite Mounting Structure), a large multisatellite dispenser.
+The payloads released from the ESMS were:
+
+  RAISE-2, for JAXA, a 110 kg satellite with a series of technology experiments.
+  Hibari, for Tokyo Inst. of Technology, a 55 kg satellite with an experiment to test attitude
+    control while varying the shape of the craft by deploying a boom.
+  Oruri (TeikyoSat-4), a 52 kg satellite bus test for Teikyo U.
+  Z-Sat, a 46 kg multispectral infrared imaging satellite for Mitsubishi Heavy Industries. 
+  DRUMS (Debris Removal Unprecedented Micro Satellite), 46 kg, for Kawasaki Heavy Industries, which will
+   release two 0.13m dia 0.25m long cylindrical targets and attempt to recapture them.
+  Asutarisuku (ASTERISC), a 3U cubesat for Chiba Inst. Tech. with a cosmic dust detector.
+  NanoDragon, a 3U cubesat for the Vietnam National Space Centre in collaboration with Meisei Electric Co.
+   with an AIS payload and a test of a high performance computer.
+  KOSEN-1, a 2U cubesat to observe Jovian radio emission  from Kochi Koygo Kosen college.
+  ARICA, a 1U cubesat to test a gamma ray burst detector and a rapid alert system, from Aoyama Gakuin U.
+
+
+ZX-1D
+-----
+
+China launched a communications satellite to geotransfer orbit on Nov
+26. The satellite is codenamed Zhongxing-1D (Chinasat-1D) but is
+probably a Fenghuo-2 military communications satellite.
+
+Solar Orbiter
+-------------
+
+The ESA Solar Orbiter  (SOLO) spacecraft  re-entered the Earth's
+gravitational sphere 1345 UTC Nov 25 and will fly 455 km over the
+Atlantic at closest approach 0432 UTC Nov 27. SOLO will leave Earth's
+sphere at 1918 UTC Nov 28. The encounter lowers SOLO's perhihelion to
+0.32 AU.
+
+
+Errata
+-------
+
+ SDGSAT was launched Nov 5 (as in the table), not Nov 3 (as I incorrectly said in the text).
+
+ I made some spelling mistakes last issue: the Crew-3 astronauts are
+ Raja Chari (Cdr), Tom Marshburn (Pilot), Matthias Maurer (Mission
+ Specialist 1) and Kayla Barron (Mission Specialist 2). 
+
+
+Table of Recent Orbital Launches
+ ----------------------------------
+
+Date UT       Name			     Launch Vehicle	 Site		 Mission  INTL.  Catalog  Perigee Apogee  Incl	 Notes
+Nov  3 0743   Yaogan 32 hao 02 zu 01 xing )    Chang Zheng 2C/YZ1S   Jiuquan          Sigint    99A  S49383   689 x 703 x 98.3
+              Yaogan 32 hao 02 zu 02 xing )                                           Sigint    99B  S49384   689 x 703 x 98.3
+Nov  5 0219   SDGSAT-1 (Guangmu)               Chang Zheng 6         Taiyuan          Imaging  100A  S49388   502 x 514 x 97.5
+Nov  6 0300   Yaogan 35A )                     Chang Zheng 2D        Xichang          Tech?    101A  S49390   493 x 499 x 35.0
+              Yaogan 35B )                                                            Tech?    101B  S49391   493 x 499 x 35.0
+              Yaogan 35C )                                                            Tech?    101C  S49392   493 x 499 x 35.0
+Nov  9 0055   RAISE-2     )                    Epsilon               Uchinoura        Tech     102A  S49395   561 x 573 x 97.6
+              Oruri       )                                                           Tech     102B? S49396   543 x 572 x 97.6
+              Asutarisuku )                                                           Sci      102C? S49397   543 x 572 x 97.6
+              Z-SAT       )                                                           Imaging  102E? S49399   543 x 572 x 97.6
+              DRUMS       )                                                           Tech     102D? S49398   543 x 572 x 97.6
+              Hibari      )                                                           Tech     102F? S49400   543 x 572 x 97.6
+              KOSEN-1     )                                                           Astron   102H? S49402   543 x 572 x 97.6
+              ARICA       )                                                           Astron   102J? S49403   543 x 572 x 97.6
+              NanoDragon  )                                                           Com      102G? S49401   543 x 572 x 97.6
+Nov 11 0203   Endurance (Crew-3)               Falcon 9              Kennedy LC39A    Spaceship 103A S49407   190 x 212 x 51.6
+Nov 13 1219   Starlink 3044                    Falcon 9              Canaveral LC40   Comms    104A-BE        212 x 333 x 53.2
+              Starlink 3049                                                                    S49408-S49460
+              Starlink 3075
+              Starlink 3097-3099
+              Starlink 3105
+              Starlink 3108
+              Starlink 3110-3112
+              Starlink 3114-3115
+              Starlink 3117
+              Starlink 3120-3141
+              Starlink 3144-3147
+              Starlink 3149-3151
+              Starlink 3153-3162
+Nov 16 0928   CERES 1 )                       Vega                  CSG  ELV          Sigint   105A S49464  669 x 672 x 75.0
+              CERES 2 )                                                               Sigint   105B S49465  671 x 672 x 74.9
+              CERES 3 )                                                               Sigint   105C S49466  670 x 673 x 75.0
+Nov 18 0138   BlackSky Global 14 )            Electron              Mahia LC1A        Imaging  106A S49469  428 x 439 x 42.0
+              BlackSky Global 15 )                                                    Imaging  106B S49470  428 x 439 x 42.0
+Nov 20 0152   Gao Fen 11-03                   Chang Zheng 4B        Taiyuan           Imaging  107A S49492  243 x 695 x 97.5
+Nov 20 0616   STP-S27AD2                      Astra Rocket 3.3      Kodiak LP3B       Tech     108A S49494  438 x 507 x 86.0
+Nov 22 2345   Gao Fen 3-02                    Chang Zheng 4C        Jiuquan           Radar    109A S49495  737 x 746 x 98.4
+Nov 24 0621   DART      )                     Falcon 9              Vandenberg SLC4E  Probe    110A S49497  263 x -135267 x 64.7
+              LICIACube )                                                             Probe    110C T00005  263 x -135267 x 64.7
+Nov 24 1306   Prichal/Progress M-UM           Soyuz-2-1B            Baykonur LC31     Module   111A S49499  323 x 351 x 51.6
+Nov 24 2341   Shiyan 11                       Kuaizhou-1A           Jiuquan           Imaging  112A S49501  489 x 502 x 97.5
+Nov 25 0109   Kosmos-2552                     Soyuz-2-1B/Fregat     Plesetsk LC43/4 Early Warn 113A S49503 1643 x 35838 x 63.8
+Nov 26 1640   Zhongxing 1D                    Chang Zheng 3B        Xichang           Comms    114A S49505  186 x 35832 x 27.1
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Nov  4 0209   SS-520-3          SS-520             Svalbard              Ionosphere    956       Arctic
+Nov  8 0925   SISTINE 2         Black Brant IX     White Sands           UV Astron     257       White Sands
+Nov 15 0245?  Nudol KV          Nudol'             Plesetsk              Antisatellite 500?      Kosmos-1408
+Nov 25        RV                Shaheen 1A         Somniani?             Op. Test      100?      Arabian Sea?
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: https://www.planet4589.org/jsr.html                                 |
+| Back issues:  https://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: https://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'

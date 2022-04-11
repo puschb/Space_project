@@ -1,0 +1,75 @@
+
+Jonathan's Space Report
+
+26 Sep 1991 (no.88)
+----------------------------------------------------
+
+Discovery landed at Edwards on Sep 18 at 0739 UTC.
+Discovery is now the orbiter with the most missions and flight time.
+ - Discovery 13 missions, flight hours 1812:08
+   Columbia  11 missions, flight hours 1804:23
+   Atlantis   9 missions, flight hours 1161:36
+Next mission is STS-44 which will put an early warning satellite
+in orbit.
+
+The Upper Atmosphere Research Satellite (UARS) is being
+checked out in orbit.
+
+Anatoliy Artsebarksiy and Sergey Krikalyov continue in orbit aboard the
+Mir/Kvant/Sofora/Kvant-2/Kristall/Soyuz TM-12/Progress M-9 complex.  
+Launch of Soyuz TM-13 is due on October 2.
+
+A geostationary comsat, Kosmos-2155, was launched by Proton from
+Baykonur on Sep 13.  An elliptical orbit C-band comsat, the 41st
+Molniya-3 satellite, was launched by Molniya from Plesetsk on Sep 17. 
+Both satellites are made by NPO Prikladnoi Mechaniki (Applied Mechanics
+Corp) in Krasnoyarsk.  The older Molniya satellite is in a 12 hour
+period elliptical orbit, and has a KDU-414 engine for stationkeeping
+with its apogee kept over the former USSR.  The more modern Kosmos-2155
+is inserted into geostationary orbit by the Blok-DM fourth stage of the
+Proton launcher.  The Proton inserts the Kosmos/Blok-DM into low earth
+orbit at an inclination of 51.6 degrees, the Blok-DM ignites to put the
+combination in GTO (Geostationary Transfer Orbit) at an inclination of
+46 degrees, and then six hours later reignites over the equator at
+apogee for a second burn into synchronous orbit, after which the Blok-DM
+separates and the Kosmos satellite's small stationkeeping engines
+control the drift to the desired longitude.  This technique is similar
+to that used by the old Titan 3C/Transtage, but the initial parking
+orbit inclinations are much higher since Baykonur is far to the north of
+Cape Canaveral.  The spacecraft are used by the MSvyazi (Soviet Ministry
+of Communications), which I believe still exists for now. 
+
+A failed GLONASS navigation satellite, Kosmos-1840, reentered
+on Sep 14. Together with two other GLONASS satellites which
+reentered in May, it was stranded in transfer orbit in 1987
+when the Proton launch vehicle fourth stage failed.
+
+___________________________________
+|Current STS status:              |
+|Orbiters                         |
+|                                 |
+|OV-102 Columbia        Palmdale  |
+|OV-103 Discovery       EAFB      |
+|OV-104 Atlantis        OPF Bay 2 |
+|OV-105 Endeavour       OPF Bay 1 |
+|                                 |
+|ML/ET/SRB stacks                 |
+|                                 |
+|ML1/STS-44             VAB Bay 3 |
+|ML2                              |
+|ML3                              |
+-----------------------------------
+
+N.B.  Information in this report is obtained from public sources and
+does not reflect the official views of NASA. 
+
+ .-----------------------------------------------------------------------------.
+ |  Jonathan McDowell                 |  phone : (205)544-7724                 |
+ |  Space Science Lab ES65            | uucp:                                  |
+ |  NASA Marshall Space Flight Center | bitnet :                               |
+ |  Huntsville AL 35812               |  inter : mcdowell@xanth.msfc.nasa.gov  |
+ |  USA                               |                                        |
+ '-----------------------------------------------------------------------------'
+
+
+

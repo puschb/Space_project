@@ -1,0 +1,180 @@
+
+Jonathan's Space Report
+No. 485                                           2002 Aug 27, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+The Expedition 5 crew remain aboard the Station.  On Aug 16 Valeriy
+Korzun and Peggy Whitson carried out  two depressurized operations in
+spacesuits Orlan-M No. 14 and Orlan-M No. 23. The first operation began
+at 0730 UTC (by my criterion of pressure reaching the 50 mbar mark) and
+concluded at 0753 UTC for a duration of 23 minutes. In this depress op,
+Korzun and Whitson remained inside the Pirs airlock. The actual EVA was
+postponed at the last moment because of a misconfigured oxygen valve in
+their spacesuits, forcing the astronauts to repressurize Pirs to 730
+mbar to correct the problem. The second operation began at 0906 when the
+pressure in Pirs again fell below 50 mbar and the hatch was opened
+shortly afterwards. This time all went well as the astronauts emerged
+from Pirs and attached six debris protection shields to the outside of
+the the Zvezda module. Korzun and Whitson returned to Pirs, postponing
+some planned tasks, and closed the hatch at 1348 UTC. Pirs was
+repressurized at 1352 UTC for a depress duration of 4h46min.
+
+Another spacewalk was carried out on Aug 26 by Korzun and Treshchev in
+Orlan-M suits nos. 14 and 12.  Depressurization of the Pirs airlock 
+past the 50 mbar point was at 0507 UTC, with hatch open at 0527. They
+installed a storage locker on Zarya, changed out some sample trays for
+exposure experiments, and mounted two amateur radio antennas on the
+station. The hatch was closed at 1048 UTC and the Pirs was repressurized
+at about 1050 UTC for  a duration (depress to repress) of 5hr 43min.
+Kudos to Eddie Lyons for helping me with some of the times again; some
+are a bit approximate because NASA PAO has a habit of talking over the
+most critical moments of the space-ground communications.
+
+Three debris objects were cataloged by Space Command after the Aug 26
+spacewalk; two of them may be decontamination towels jettisoned by
+the astronauts at about 1019 UTC.
+
+Meanwhile, the Shuttle launch schedule has been revised as the Orbiter
+hydrogen flow liners undergo welding repairs.
+
+ Forthcoming Station launches:
+  Mission   Launch estimate    Spacecraft               Payload
+  9P/M1-9    2002 Sep 20       Progress M1 No. 258      
+  9A/STS-112 2002 Oct  2       Atlantis                 S1
+  5S/TMA-1   2002 Oct 28       Soyuz TMA No. 211 
+ 11A/STS-113 2002 Nov ?        Endeavour                P1
+ 10P/M-47    2002 Jan 30       Progress M No. 247
+
+
+Recent Launches
+---------------
+
+The Contour probe fired its ATK/Thiokol Star 30BP solid motor at 0849
+UTC on Aug 15. The burn was meant to insert the probe into solar orbit.
+No signals have been received from the probe since the motor firing, and
+the Spacewatch telescopes imaged three objects along the trajectory, so
+it looks like Contour has broken up. The Thiokol Star 30 motor has been
+launched 90 times and fired 86 times (4 no tests due to launch
+failures); the 30BP model has had 28 flights. This is a very sad loss
+for solar system exploration.
+
+The first Lockheed Martin Astronautics Atlas V was successfully launched
+on Aug 21. The Atlas V is a new family of launch vehicles merging the
+Atlas and Titan lines, using the Atlas CCB (Common Core Booster) first
+stage. The CCB is a 3.80-meter diameter, 32-m long stage, much larger
+than and quite different from the 3.05-meter diameter, 21 to 29-m long
+Atlas stage used from 1957 to the present on other Atlas vehicles. The
+old Atlas stage used a thin tank wall and needed to be kept pressurized
+by gas or propellant inside or it would crumple (there is a great video
+of a mid-1960's pad accident where the Atlas stage folds in half). The
+new stage, like the Titan core which it also replaces, uses a standard
+structurally stable tank. It does have components in common with recent
+Atlas vehicles, and the distinctive external avionics pod near the base
+gives the stage some visual commonality with the old Atlas. The CCB
+diameter is the same as the Ariane 1-4 vehicle and marginally smaller
+than the Zenit. CCB uses the Russian RD-180 LOX/kerosene engine.
+
+The Atlas V 401 model uses a CCB first stage with a single-engine
+Centaur (Centaur SEC). The stage on orbit is a cylinder about 11.7m
+long, 3.1m diameter and has a mass of around 2020 kg when residual fuels
+are depleted. This Centaur version uses an RL-10A-4-2 liquid hydrogen
+fuelled engine.
+
+Atlas V flight AV-001 placed the Hot Bird 6 satellite in geostationary
+transfer orbit. Hot Bird 6 was built by Alcatel (Cannes) for Eutelsat
+and will provide IP, digital TV and radio to Europe, N Africa and the
+Middle East. The satellite has 28 Ku-band and 4 Ka-band transponders; it
+is an Alcatel Spacebus 3000B3 class satellite with a launch mass of 3905
+kg.
+
+Another communications satellite, Echostar VIII, was launched on Aug 22
+by a Krunichev Proton-K with an Energiya DM3 upper stage. The Proton
+third stage placed the heavy payload on a suborbital trajectory and the
+DM3 make the parking orbit insertion burn, followed by two more burns to
+deliver Echostar to its intermediate transfer orbit. Echostar VIII,
+owned by Echostar Communications Corp., is a Loral SS-L/1300 class
+satellite with a launch mass of 4660 kg - comparable to the similar
+Intelsat 9 but larger than other previous SS-L/1300 satellites. Note
+that only the payload and the DM3 stage reached orbit.
+
+According to Space Command data, Kosmos-2392 (see JSR 484) launched  to
+a roughly 190 x 190 km x 64.9 deg parking orbit; the Proton third stage
+(2002-37B) and DM adapter (2002-37C) rapidly decayed from this orbit.
+The first DM burn put the vehicle in a 199 x 2889 km x 63.8 deg transfer
+orbit; the two SOZ ullage motors (2002-37E and 37F) were left in this
+orbit. The second DM burn put Kosmos-2392 (2002-37A) and the DM stage
+itself (2002-37D) in a 1512 x 1840 km x 63.46 deg orbit.
+
+Boeing is slowly moving the TDRS-I spacecraft towards geostationary
+orbit. TDRS-I has a malfunctioning propulsion system; it was launched on
+Mar 8. Burns on Jun 12, Jun 16 and Jul 13 have raised the orbit to 11286
+x 35824 km x 15.7 deg, and another burn since then put TDRS-I in a 13324
+x 35815 km x 14.8 deg orbit. Meanwhile, ESA's Artemis is now at 33188 x
+33310 km x 1.3 deg, using its ion engines to climb slowly to
+geostationary altitude.
+
+Japan's National Aerospace Lab (NAL) launched a small NAL-735 rocket
+booster with a model supersonic airplane from Woomera on Jul 14; the
+rocket exploded shortly after launch. I wouldn't normally report such a
+small rocket launch, which wasn't even planned to leave the atmosphere,
+but  Aviation Week (Aug 12, p 29) is reporting that it was a Mu-3S2
+rocket. This is entirely incorrect - the NAL-735 rocket is much smaller;
+it is derived from the SB-735 which is used as a strap-on booster on the
+Mu-3S2, but it is much smaller than the Mu-3S2 itself: NAL-735 is about
+5m long, 0.74m dia, and perhaps 5-7 tonne, compared with 28m long, 1.4m
+dia and 62 tonne for the Mu-3S2. I belabor this now because I know from
+experience that this error will propagate into lots of reference works.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Jun  5 0644   Intelsat 905      Ariane 44L     Kourou ELA2      Comms.       27A
+Jun  5 2122   Endeavour )       Shuttle        Kennedy LC39A    Spaceship    28A
+              Leonardo  )
+Jun 10 0114   Ekspress A1R      Proton-K/DM2M? Baykonur         Comms        29A
+Jun 15 2239   Galaxy 3C         Zenit-3SL      Odyssey, POR     Comms        30A
+Jun 20 0933   Iridium SV97 )    Rokot/Briz-KM  Plesetsk         Comms        31A
+              Iridium SV98 )                                    Comms        31B
+Jun 24 1823   NOAA 17           Titan 23G      Vandenberg SLC4W Weather      32A
+Jun 26 0536   Progress M-46     Soyuz-U        Baykonur LC1/5   Cargo        33A
+Jul  3 0647   CONTOUR           Delta 7425-9.5 Canaveral SLC17A Space probe  34A
+Jul  5 2322   Stellat 5 )       Ariane 5G      Kourou ELA3      Comms        35A
+              NStar c   )                                                    35B
+Jul  8 0636   Kosmos-2390 )     Kosmos-3M      Plesetsk         Comms        36A
+              Kosmos-2391 )                                     Comms        36B
+Jul 25 1513   Kosmos-2392       Proton-K/DM5?  Baykonur LC81/24 Imaging      37A
+Aug 21 2205   Hot Bird 6        Atlas V 401    Canaveral SLC41  Comms        38A
+Aug 22 0515   Echostar VIII     Proton-K/DM3   Baykonur LC81/23 Comms        39A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        OPF           STS-107  2003 Jan 16 Spacehab
+OV-103 Discovery       VAB           Maintenance
+OV-104 Atlantis        OPF           STS-112  2002 Oct  2 ISS 9A
+OV-105 Endeavour       OPF           STS-113  2002 Nov    ISS 11A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+

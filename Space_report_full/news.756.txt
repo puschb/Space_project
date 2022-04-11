@@ -1,0 +1,390 @@
+Jonathan's Space Report 
+No. 756 draft                                                 2018 Nov  6   Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 57 continues aboard the ISS with astronauts Gerst, 
+Prokop'ev, and Aunon-Chancellor. The Kounotori 7 cargo ship remains at
+the ISS. It is scheduled to depart without its EP pallet, and the
+battery replacement spacewalks will occur no earlier than December.
+
+The Surrey RemDeb  (RemoveDebris) spacecraft ejected its second cubesat
+subsatellite, DebrisSat-2, at 0615 UTC on Oct 28. RemDeb then observed
+DebrisSat-2 with its laser ranging instrument, a test of so-called
+Vision-Based Navigation (VBN) that could be used by an active debris
+removal mission to approach its target.
+
+The next Soyuz crew is scheduled for launch on Dec 3.
+
+BepiColombo
+-----------
+
+The BepiColombo space probe was launched on Oct 20 from Kourou directly
+into Earth hyperbolic escape orbit. 
+
+BepiColombo consists of two payloads, the ESA Mercury Planetary Orbiter
+(MPO) and the JAXA 'Mio' Mercury Magnetospheric Orbiter (MMO), together
+with two other modules, the MTM (Mercury Transfer Module, with electric
+propulsion) and the MOSIF (MMO Sunshield and Interface).
+
+MTM has 560 kg of xenon for its ion engine; it will be jettisoned just
+before Mercury orbit capture, in Dec 2025. The remaining three pieces
+will separate once they are in Mercury orbit. MTM will make a Mercury
+flyby and end up in solar orbit; by 2025 my orbit code may be good
+enough to figure out what the post-encounter orbit for it will be.
+
+MPO carries camers, spectrometers, a laser altimeter and an
+accelerometer among its experiments. MMO has particles, fields and dust
+instruments as well as an imager to map exospheric sodium atoms.
+
+Here are some summary details of BC's voyage based on the prelaunch
+trajectory; of course, actual details will change a little.
+
+  Date UTC
+  2018 Oct 20 0145  Launch to 170 x -78605 km x 5.5 deg Earth escape hyperbola
+  2018 Oct 24 1640  Depart Earth Hill sphere, 0.887 x 1.166 AU x 0.7 deg solar orbit
+  2019 Feb          In solar orbit,           0.889 x 1.196 AU x 0.8 deg
+  2020 Apr 10 2112  Earth flyby                                  12563 x  -76447 km x 159.6 deg hyperbola
+  2020 Apr 15 0040  In solar orbit            0.626 x 1.012 AU x 1.7 deg
+  2020 Oct 15 0603  Venus flyby                                  10746 x  -33207 km x 152.4 deg hyperbola  
+  2020 Oct 16 1644  In solar orbit            0.520 x 0.832 AU x 3.1 deg
+  2020 Aug 10 2013  Venus flyby                                    746 x  -23004 km x 12.6 deg hyperbola
+  2020 Aug 12 0629  In solar orbit            0.335 x 0.731 AU x 6.5 deg
+  2021 Oct  2 0537  Mercury-1 flyby                                200 x -6101 km x 25.3 deg hyperbola
+  2021 Oct  2 1500? In solar orbit            0.322 x 0.696 AU x 6.7 deg
+  2022 Jun 23 1250  Mercury-2 flyby                                200 x -6191 km x 18.6 deg hyperbola
+  2022 Jun 23 2230? In solar orbit            0.304 x 0.631 AU x 7.0 deg
+  2023 Jun 20 0219  Mercury-3 flyby                                200 x -8425 km x 21.8 deg hyperbola
+  2023 Jun 20 1600? In solar orbit            0.309 x 0.596 AU x 5.9 deg
+  2024 Sep  5 0752  Mercury-4 flyby                                200 x -10801 km x 79.7 deg hyperbola
+  2024 Sep  6 0100? In solar orbit            0.306 x 0.468 AU x 4.3 deg
+  2024 Dec  2 0109  Mercury-5 flyby                              40000 x -51105 km x 89.5 deg hyperbola
+  2024 Dec  2 1830? In solar orbit            0.307 x 0.466 AU x 4.4 deg
+  2025 Jan  9 0356  Mercury-6 flyby                                340 x -18193 km x 91.9 deg hyperbola
+  2025 Jan 10 1600? In solar orbit            0.312 x 0.459 AU x 7.0 deg
+  2025 Oct?         Mercury Transfer Module jettison
+  2025 Oct 26       Enter Mercury Hill sphere, WSB orbit capture
+  2025 Oct 27       Mercury orbit                                178000 x 434000 x 6.4 deg ellipse
+  2025?             Lower orbit                                  400 x 11820 km ellipse?
+  2025?             Eject Mio-MMO from MPO/MOSIF
+  2025?             Eject MOSIF from MPO
+  2025-2026?        MPO lower orbit                              400 x 1500 km ellipse?
+
+Parker Solar Probe
+------------------
+
+As of Oct 23 Parker Solar Probe became closer to the Sun than Mercury
+and had picked up speed to 50.3 km/s (heliocentric; 181,000 km/hr). 
+On Oct 30 it broke the speed record of 68.6 km/s set by Helios 2 in
+1976 and at perihelion Nov 6 at 0330 TDB (0328 UTC) it set a new speed record of
+95.33 km/s and closeness-to-Sun record of 0.165 AU (24.8 million km).
+
+Relative to Earth (which you should not care about, but I know some of
+you do) Parker broke the Helios 2 record of 98.9 km/s early on Nov
+5 and set a new record of 109.9 km/s on Nov 7 around 1900 UTC.
+
+
+Hayabusa-2
+----------
+
+On Oct 15 Hayabusa-2 made a descent to only 22 metres above Ryugu
+in a touchdown rehearsal named TD1-R1-A.
+
+The next touchdown rehearsal is TD1-R3, was on Oct 25.
+Target Marker B, a 0.1m, 0.3 kg ball (one of five carried) was
+ejected from a height of 20 metres at 0237 UTC and landed on the surface.
+
+Operations will be suspended for a couple of months in Nov-Dec while
+Ryugu is behind the Sun as seen from Earth.
+
+OSIRIS-REX
+----------
+
+NASA's OSIRIS-REX asteroid probe continues its approach to asteroid
+Bennu. On Oct 15 the AAM-2 burn changed the probe's speed by 141 m/s and
+reduced  its Bennu-relative velocity to 5.2 m/s. On Oct 17 the 1.1 kg,
+0.4 x 0.4m TAGSAM sampler head cover plate was ejected into solar orbit.
+Current heliocentric orbit is 0.896 x 1.355 AU x 6.0 deg. On Oct 18 the
+probe was 5500 km from Bennu, but by Nov 6 it was only 170 km out. It
+was expected to arrive in Bennu's circa-35-km gravitational sphere of
+influence on Nov 30.
+
+New Horizons
+------------
+
+New Horizons, which flew past Pluto in 2015, is now 42.8AU from the Sun
+and 70 million km from the Kuiper Belt object (486958) 2014 MU69 "Ultima
+Thule", which it will fly past on 2019 Jan 1. The object's Hill sphere
+is probably about 79000 km in radius and the probe will take 3 hours
+to fly through it.
+
+ZU1CE58
+--------
+
+5-metre asteroidlet ZU1CE58 passed through perigee 2018 Oct 19 at 1446 UTC,
+only 7274 km above the Earth, on a hyperbolic 7274 x -25650 km x 20.6
+deg orbit.
+
+HY-2-02
+-------
+
+China's Haiyang er hao 02 xing (HY-2B) oceanographic satellite was launched
+on Oct 24.
+
+A small secondary satellite was launched along with HY-2B, called 'Tangguo Guan'
+(`Candy can'). It is owned by the online retailer AliBaba and will apparently send
+promotional messages to shoppers' mobile phones. Mass of Tangguo Guan has
+variously been reported as 20 and 29 kg. It apparently remains attached to
+the CZ-4B third stage, which lowered its orbit immediately after deploying HY-2B.
+
+Another secondary payload is China Aerospace's SPP (Space Proving Platform),
+one of whose experiments is ManWei Tech's DSB-01 which carries the DNA
+of eight Chinese people, described as the beginning of a program to explore technologies
+for interstellar migration. One of the Chinese news reports
+on this project shows an artist's impression of a 1U cubesat, but it's not yet
+entirely clear if SPP is really a cubesat or just another payload attached to the third
+stage.
+
+Soyuz return to flight
+----------------------
+
+A Soyuz-2-1B rocket was launched from Plesetsk on Oct 25, marking the Soyuz family's
+return to flight after the Soyuz MS-10 failure.
+
+The payload was Lotos-S No. 804, a signals intelligence payload (probably
+to be given the cover name Kosmos-2528). It was launched to a 245 x 900 km x 67.1
+deg orbit, which it circularized at 2027 UTC Oct 26 to 900 x 910 km.
+
+Zhuque-1 launch failure
+-----------------------
+
+The first orbital launch attempt by the private Chinese company
+Landspace failed to reach orbit. The three stage solid rocket Zhuque-1
+was launched from Jiuquan on Oct 27. The first two stages, believed to
+be based on the DF-26 missile, operated correctly. The third stage
+ignited but at 37 s into its burn, 6m 42s after launch, it lost attitude
+control, and so provided little net velocity increase. As a result, the
+third stage and payload reached a suborbital apogee of 337 km and fell
+back to Earth, impacting west of Sumatra about 15 min after
+launch. 
+
+CFOSat
+------
+
+On Oct 29 CALT/Beijing launched CZ-2C flight Y22 from Jiuquan carrying
+the China-France Oceanography Satellite. The satellite carries Chinese
+SCAT wind scatterometer and the CNES (France) SWIM radar altimeter
+instrument. Data processing and  much of the instrument operations are
+under the aegis of CNES, but the satellite itself is controlled by China
+so I'll call it by its Chinese name, Zhongfa Haiying Weixing. The 700 kg
+satellite is a CAST-2000 bus built at the DFH factory.
+
+The CZ-2C also deployed a series of cubesats. Four of them were
+built by the Tiangyi Research Institute (whose marketing brand is SpaceTy):
+
+ TY1-02 is  Xiaoxiang yi hao 02 xing (XX-1 S/N 02). It carries a laser
+communications payload for Hangxing Guangwang Kongjian Jishu YG
+(LaserFleet) of Shenzhen. It is probably a 6U cubesat.
+
+ TY1-03 is Xinghe ('Galaxy'), also called Tianfu Guoxing 1. The payload
+is a remote sensing satellite for Guoxing Yuhang Keji YG (ADA Space) of
+Tianfu New Area in Chengdu. It is probably a 6U cubesat.
+
+ TY4-01 is Changsha Gaoxing , named after the Changsha High Tech Zone
+city.  It is a 50 kg test satellite for Tianyi/SpaceTy's new '0805' bus;
+it reportedly carries an amateur radio payload.
+
+ TY4-02 is Zhaojin-1, also called Tongchuan-1. It is a 6U cubesat for
+Tsinghua University with a gamma ray astronomy detector. It will also be
+used by Tongchuan City to test its commercial ground station (Zhaojin
+is a suburb of Tongchuan).
+
+In addition to the Tianyi satellites:
+
+ Tianqi 1 is the first  satellite in the 38-craft Tianqi constellation
+by Beijing Guodian HiTech Technology Co. Ltd. (Beijing Guodian Gaokeji YG).
+It will relay data from IoT devices. Its size is unknown.
+
+ CubeBel-1 is a 2U cubesat from Belarus National University with
+a digipeater amateur radio payload and student experiments.
+  
+ A final cubesat reported to have been deployed on this mission is a
+mystery. Some reports suggested it was Hongyan-1, a China Academy of
+Space Technology LEO communications platform, but this has not been
+confirmed.
+
+
+Ibuki-2
+-------
+
+On Oct 29 JAXA launched H-IIA flight F40 from Tanegashima. The main payload
+was GOSAT-2, the second Greenhouse Gases Observating Satellite, also called
+Ibuki-2. The 1750 kg satellite - built by Mitsubishi Electric (MELCO) -
+carries the FTS-2 Fourier transform spectrometer and the CAI-2 Cloud
+and Aerosol Imager instruments which observe from the ultraviolet out to
+16 microns in the infrared.
+
+The H2A second stage made a single burn to a 590 x 595 km orbit and deployed
+Ibuki-2, then ejected the Ibuki-2 payload adapter and the two-piece lower fairing.
+This exposed the lower payload deck, whose satellites were deployed into the
+same orbit. 
+
+The largest secondary payload was the 330 kg Khalifasat, an imaging
+satellite built by the Emirates' Rashid Space Centre in Dubai. It is a
+followon to the Dubaisat 1 and 2 satellites launched in 2009 and 2013,
+which were developed with South Korean help.
+
+Diwata 2 is an imaging satellite developed by the Phillippines Dept of Science
+and Technology with a mass of 56 kg.
+
+Ten-Koh, from Kyushu Institute of Technology, is the LEO Environments Observation
+Satellite, a 22 kg polyhedron design based on their earlier Shi'nen-2 probe.
+
+Aoi, or STARS-AO, is a 1U cubesat from Shizuoka University. The STARS series
+normally involves tether experiments but this mission features a 1-cm aperture
+low light camera for imaging star fields.
+
+
+AUTCube-2 is a 1U cubesat from the Aichi University of Technology. It
+has a bright LED which is intended to make the satellite visible to
+ground observers. This has the potential to annoy astronomers, since the orbit
+is roughly a noon-midnight SSO and thus will be seen on the ground
+during the middle of the night local time. However, it remains to be
+seen how bright the satellite will actually be.
+
+The H-2A second stage made a final depletion burn which changed its
+inclination from 97.8 deg to 98.9 deg.
+
+PROITERES 2, from the Osaka Institute of Technology, a 45 kg ion propulsion
+test satellite, was not part of the launch although it was initially expected to be
+and was included in the prelaunch press kit.
+
+Beidou 41
+---------
+
+Beidou Daohang Weixing 41  (Beidou Navigation Satellite 41) launched at
+1557 UTC Nov 1 from Xichang on a Chang Zheng 3B to 197 x 35815 km  x
+28.5 deg geotransfer orbit. The CAST-built sat, first of its subtype,
+will enter GEO and become satellite G1Q of the Beidou-3 system.
+
+GLONASS-M 57
+------------
+
+Another GLONASS navigation satellite was launched from Plesetsk on Nov 3
+by Soyuz-2-1B/Fregat. This was the second successful Soyuz launch since
+the MS-10 failure. This satellite was expected to be code-named
+Kosmos-2529 after launch.
+
+
+Kepler and Dawn
+---------------
+
+On Oct 30 NASA announced that the Kepler space telescope, out of
+propellant, is being retired. Kepler was launched in 2009 and has
+revolutionized our knowledge of exoplanets, showing that Earth-sized
+objects  orbit most of the stars in the sky. Kepler is in an
+Earth-trailing solar orbit, currently about 68 degrees behind us in the
+vicinity of Earth-Sun L5.
+
+The same day, NASA's Dawn space probe, orbiting the dwarf planet (1) Ceres, 
+fell silent as it too ran out of propellant. Dawn was launched in 2007
+and was the first mission to use ion propulsion to visit multiple worlds.
+The probe orbited Vesta from Jul 2011 to Sep 2012, and Ceres from Mar 2015
+onwards.
+
+
+Erratum
+--------
+
+The intermediate transfer orbit apogee for AEHF 4 was 32578 km, not 22578 km.
+Apologies for the typo.
+
+
+Table of Recent Orbital Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission       INTL.   Catalog  Perigee Apogee  Incl   Notes
+
+Sep 16 2306   DebrisSat-1                               RemDeb, LEO      Tech        9867PM S43621   400 x   404 x 51.7
+Sep 16 2308?  RemDeb Net                                RemDeb, LEO      Tech        9867PM A09713   Now attached to DebrisSat-1
+Sep 19 1407   Beidou DW 37 )          Chang Zheng 3B/YZ-1 Xichang LC2    Navigation   72A   S43622 21533 x 22193 x 55.0
+              Beidou DW 38 )                                             Navigation   72B   S43623 21545 x 22197 x 55.0
+Sep 22 1752   Kounotori 7             H-IIB              Tanegashima     Cargo        73A   S43630   187 x   301 x 51.6
+Sep 25 2238   Horizons 3e       )     Ariane 5ECA        Kourou ELA3     Comms        74B   S43633   280 x 35741 x  5.9
+              Azerspace-2/IS-38 )                                        Comms        74A   S43632   246 x 35712 x  6.0
+Sep 29 0413   Xiangrikui 1            Kuaizhou-1A        Jiuquan         Tech         75A   S43636   696 x   710 x 98.2 1030LT SSO
+Oct  6 0800   STARS-Me )                                ISS, LEO         Tech        9867PN S43638?  403 x   408 x 51.6
+              RSP-00   )                                                 Tech        9867PP S43639?  403 x   408 x 51.6
+              SPATIUM-I)                                                 Tech        9867PQ S43640?  403 x   408 x 51.6
+Oct  8 0221   SAOCOM-1A               Falcon 9          Vandenberg SLC4E Radar        76A   S43641   607 x   634 x 97.9 1800LT SSO
+Oct  9 0234   Yaogan 32 01 zu )       Chang Zheng 2C/YZ-1S Jiuquan       Sigint       77A   S43642   689 x   705 x 98.3 2100LT SSO
+              Yaogan 32 02 zu )                                          Sigint       77B   S43643   689 x   704 x 98.3 2100LT SSO
+Oct 11 0840   Soyuz MS-10             Soyuz-FG          Baykonur LC1     Spaceship    F01   F01526 -6180?x    93 x 51.6
+Oct 15 0423   Beidou DW 39 )          Chang Zheng 3B/YZ-1  Xichang       Navigation   78A   S43647 21537 x 22193 x 55.0
+              Beidou DW 40 )                                             Navigation   78B   S43648 21530 x 22193 x 55.0
+Oct 17 0415   AEHF 4                  Atlas V 551       Canaveral SLC41  Comms        79A   S43651  8194?x 35300 x 12.8
+Oct 20 0145   BepiColombo )           Ariane 5ECA         Kourou ELA3    Probe        80A   S43653   170 x-78605 x  5.5 
+              Mio         )                                              Probe        80A   A09204   170 x-78605 x  5.5 
+Oct 24 2257   Hai Yang 2 02)          Chang Zheng 4B    Taiyuan          Rem.Sensing  81A   S43655   950 x   965 x 99.4 0600LT SSO
+              Tangguo Guan )                                             Comms        81B   S43656   641 x   940 x 99.5
+              SPP          )                                             Tech         81?  
+Oct 25 0015   Kosmos-2528             Soyuz-2-1B        Plesetsk LC43/4  Sigint       82A   S43657   900 x   910 x 67.1
+Oct 27 0800   Weilai                  Zhuque-1          Jiuquan          Tech         F02   F01530 -3090?x   334 x 97.6
+Oct 29 0043   Zhongfa Haiyang W.)                                        Rem.Sensing  83A   S43662   510 x   523 x 97.5 0700LT SSO
+              Xiaoxiang-1 02  TY1-02 )                                   Tech         83             510?x   520?x 97.5
+              Xinghe          TY1-03 )                                   Imaging      83             510?x   520?x 97.5
+              Changsha gaoxin TY4-01 ) Chang Zheng 2C   Jiuquan          Tech/Com     83             510?x   520?x 97.5
+              Zhaojin-1       TY4-02 )                                   Astronomy    83             510?x   520?x 97.5
+              Tianqi-1          )                                        Comms        83             510?x   520?x 97.5
+              UNKNOWN           )                                        Tech         83             510?x   520?x 97.5
+              CubeBel-1         )                                        Comms        83             510?x   520?x 97.5
+Oct 29 0408   Ibuki 2       )                                            Climate      84B   S43672   597 x   617 x 97.9 1300LT SSO
+              KhalifaSat    )          H2A 202          Tanegashima      Imaging      84F   S43676   592 x   612 x 97.8
+              Diwata 2      )                                            Imaging      84H   S43678   587 x   599 x 97.8
+              Ten-Koh       )                                            Tech         84A   S43671   600 x   619 x 97.8
+              Aoi           )                                            Astronomy    84K?  S43681?  587 x   599 x 97.8
+              AUTCube-2     )                                            Tech         84J?  S43679?  585 x   598 x 97.8
+Oct 28 0615   DebrisSat-2                               RemDeb, LEO      Tech        9867PR S43680   399 x   404 x 51.6
+Nov  1 1557   Beidou DW 41            Chang Zheng 3B    Xichang          Navigation   85A   S43683   197 x 35815 x 28.5
+Nov  3 2017   Kosmos-2529             Soyuz-2-1B/Fregat Plesetsk LC43/4  Navigation   86A   S43687 19123 x 19163 x 64.8
+
+Table of Recent Suborbital Launches
+-----------------------------------
+
+The suborbital launches table includes known flights above 80 km.
+
+Sandia Labs recently announced that they have begun a new sounding rocket program 
+for technology tests called HOT SHOT. HOT SHOT 1 was launched on a Terrier Malemute
+from Kauai on May 23 and reached an apogee of 360 km.
+
+
+Date UT       Payload/Flt Name Launch Vehicle      Site                  Mission    Apogee/km    Target
+
+Sep 17 1409   FOP-5?/Celestis   SpaceLoft XL       Spaceport America     Tech          114       Spaceport America, NM
+Sep 27 1215   NAMMO Nucleus     Nucleus            Andoya U3             Test          107       Norwegian Sea
+Oct  1 0000?  Warhead           Zulfiqar           Kermanshah?,Iran      Weapon        200?      Syria
+Oct  1 0000?  Warhead           Zulfiqar           Kermanshah?,Iran      Weapon        200?      Syria
+Oct  1 0000?  Warhead           Qiam-1             Kermanshah?,Iran      Weapon        200?      Syria
+Oct  1 0000?  Warhead           Qiam-1             Kermanshah?,Iran      Weapon        200?      Syria
+Oct  8        Ghauri RV         Ghauri             Somniani?             Training      400?      Arabian Sea?
+Oct 11 1100?  RV                DF-11?             Jiuquan               Test          500?      Urumqi?
+Oct 11        RV x 4?           Sineva?           Sub, Barents Sea       Exercise      1000?     Kura
+Oct 11        RV x 4?           Sineva?           Sub, Barents Sea       Exercise      1000?     Kura
+Oct 11        RV x 4?           Volna?            Sub, Sea of Okhotsk    Exercise      1000?     Chiza
+Oct 11        RV x 4?           Volna?            Sub, Sea of Okhotsk    Exercise      1000?     Chiza
+Oct 26        FTM-45 Target     UNKNOWN            Kauai                 Target        150?      Pacific
+Oct 26        FTM-45 KV         Aegis SM-3-IIA    DDG-113, Kauai         Interceptor   150?      FTM-45 intercept
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+
+

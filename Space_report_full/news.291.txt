@@ -1,0 +1,164 @@
+Jonathan's Space Report
+No. 291                      1996 Jul   2                Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Orbiter OV-102 Columbia was launched on 1996 Jun 20 at 1449:20 UTC on
+mission STS-78, carrying the Life and Microgravity Science Spacelab
+(LMS-1). Launch was from Mobile Launch Platform 3 at Complex 39B. The
+solid rocket boosters, serial RSRM-55, separated at about 1451:24, with
+main engine cutoff (MECO) at 1457 UTC. External tank ET-79 separated
+from the Orbiter a few seconds later. The OMS engines were fired for
+the OMS-2 burn to circularize the orbit about half an hour later,
+and the payload bay doors were opened at around 1615 UTC.
+Inital orbit was 272 x 285 km x 39.0 deg; by Jul 2 the orbit was
+259 x 268 km x 39.0 deg. The medical and materials processing
+experiments on Spacelab are proceeding well, and the mission
+is scheduled to last a record 17 days.
+
+Does anyone know which Spacelab Long Module flight unit is being used on
+this flight? There are two. My guess is that it is Unit 2 (FOP), which was
+first flown on Spacelab D-1 in 1985 and was probably last used on the
+Spacelab Mir mission (STS-71).
+
+Orbiter 104 Atlantis was moved to the VAB on Jun 24, and attached to the
+external tank and solid rocket boosters. The stack was rolled out to pad
+39A on Jul 1 in preparation for a Jul 31 launch on mission STS-79 to
+Mir.
+
+Discovery has returned to the Cape from its refurbishment in California.
+It left Palmdale aboard the SCA (Boeing 747) on Jun 28. The SCA
+refuelled at Altus AFB, Oklahoma and spent the night at Robins AFB, GA.
+On Jun 29 it flew from Robins to KSC, and on Jun 30 it was towed to
+Orbiter Processing Facility Bay 2. Its next mission is STS-82, to
+refurbish the Hubble Space Telescope.
+
+Errata
+-------
+
+Apologies to Lt. Col. Helms (pilot, STS-78) for not having noted her
+promotion in the last issue.
+
+Recent Launches
+---------------
+
+Igor Lissov reports that another Soyuz-U launch vehicle failed to reach
+orbit on Jun 20 after 50 seconds of flight. This is the second Soyuz-U
+failure in a row, following the loss of a recon satellite on May 14.
+Rumour has it that the payload shroud failed in both cases.
+
+Orbital Sciences Corp. successfully launched the fourth Pegasus XL on
+Jul 2. It placed into orbit NASA-Goddard's TOMS/Earth Probe ozone
+monitoring satellite. The L-1011 Stargazer carrier airplane took off
+from Vandenberg AFB and released the three stage Pegasus XL rocket over
+the drop zone in the Pacific. Florida Today reports the launch as 0742
+UTC; the TOMS web page reports 0748 UTC. Orbit is 345 x 954 km  x 97.4
+deg, to be raised later to a circular 500 km. TOMS/EP was built by TRW
+and is based on the STEP/Eagle small satellite bus. It carries a single
+instrument, the Total Ozone Mapping Spectrometer. The 188 kg satellite
+carries 73 kg of fuel for the orbit raising system. Earlier TOMS
+instruments flew on Nimbus 7 (1978) and Meteor-3 No. 5 (1991), and
+another will fly on the Japanese ADEOS mission. Pegasus XL launch delays
+resulted in a two year gap in TOMS coverage following the failure of the
+Meteor instrument in 1994.
+
+Aviation Week reports that the May 12 Titan launch carried as a
+secondary payload the Naval Research Laboratory's TiPS Tether Physics
+and Survivability satellite. The 53 kg satellite consists of 2 end
+masses connected by a 4 km tether. NRO (the National Reconnaissance
+Office) provided funding for the TiPS project. Observers have seen the
+TiPS payload in an 1019 x 1024 km x 63.4 deg orbit.
+
+(The following paragraph is for satellite catalog fans only!) The status
+of the different objects from the May 12 Titan launch is confused. As
+best I can tell, the current official unclassified catalog states:
+  Desig.    Name       SATCAT
+  1996-29A  USA 119    23893
+  1996-29B  USA 120    23907
+  1996-29C  USA 121    23908
+  1996-29D  USA 122    23862
+  1996-29E  
+  1996-29F
+  1996-29G  Debris     23863
+Possibly USA 122 is TiPS and USA 119 to 121 are the triplet satellites.
+29E and 29F are then likely debris like 29G, each being a cover for one
+of the triplets. However this leaves no object to be the dispenser/upper
+stage. An alternative possibility is that USA 122 (or USA 119) is a
+primary payload in a different orbit, 1996-29E is the dispenser/upper
+stage (to get the name USA 123) and TiPS is 1996-29F and will get the
+name USA 124. This is suggested by the use in the Satellite Situation
+report of the name 'USA 119-124 debris' for 29G; however the weekly OIG
+summary uses 'USA 119-122 debris', so '119-124' may just be a typo.
+
+
+The Galileo probe successfully completed its flyby of Ganymede
+on Jun 27.
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+May  5 0704   Progress M-31    Soyuz-U        Baykonur LC1    Cargo       28A
+May 12 2132   USA-119 )        Titan 403?     Vandenberg SLC4E Recon?     29A
+              USA-120 )                                                   29B
+              USA-121 )                                                   29C
+              USA-122 )                                                   29D
+              TiPS    )                                                   29?
+May 14 0855   Kometa           Soyuz-U        Baykonur LC31   Recon       FTO
+May 16 0156   Palapa C2   )    Ariane 44L     Kourou ELA2     Comsat      30A
+              AMOS        )                                   Comsat      30B
+May 17 0244   MSTI-3           Pegasus        L-1011,Pacific  Technology  31A
+May 19 1030   Endeavour        Shuttle        Kennedy LC39B   Spaceship   32A
+May 20 1129   Spartan 207                                     Technology  32B
+              IAE                                             Technology  32C
+May 22 0918   PAMS STU                                        Technology  32D
+May 24 0110   Galaxy 9         Delta 7925     Canaveral LC17B Comsat      33A
+May 25 0210?  Gorizont         Proton-K/DM2   Baykonur        Comsat      34A
+Jun  4 1234   Cluster F1  )    Ariane 5       Kourou ELA3     Science     FTO
+              Cluster F2  )
+              Cluster F3  )
+              Cluster F4  )
+Jun 15 0655   Intelsat 709     Ariane 44P     Kourou ELA2     Comsat      35A
+Jun 20 1449   Columbia      )  Shuttle        Kennedy LC39B   Spaceship   36A
+              Spacelab LMS 1)
+Jun 20 1845   Kosmos           Soyuz-U        Plesetsk        Recon       FTO
+Jul  2 0748   TOMS             Pegasus XL     Vandenberg      Rem.sens.  
+
+Payloads no longer in orbit
+--------------------------
+
+May 13        Kosmos-2293          Reentered
+May 22        IAE                  Reentered
+May 29        Endeavour/Spartan    Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LEO           STS-78  
+OV-103 Discovery       OPF Bay 2     STS-82  Feb 13
+OV-104 Atlantis        LC39A         STS-79  Jul 31
+OV-105 Endeavour       OPF Bay 3     STS-77  
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                    
+ML2/RSRM-54/ET-80/OV-104   LC39A          STS-79    
+ML3/                       LC39B          STS-78
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+

@@ -1,0 +1,115 @@
+Jonathan's Space Report 
+No. 231               1995 Feb 26                  Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+--------
+
+Endeavour is now on complex 39 at Kennedy Space Center awaiting its
+March 2 launch on the Astro 2 flight (STS-67). Astro 2 is a Spacelab
+mission, using two Spacelab Pallets with the Spacelab Igloo avionics
+container and the IPS instrument pointing system. 
+Mounted on the IPS are three ultraviolet telescopes. The
+0.9-m Hopkins Ultraviolet Telescope (HUT) takes spectra in the 900 to
+1900 Angstrom short wavelength UV range and the 500 to 900 A extreme
+ultraviolet range. The 0.5m Wisconsin Ultraviolet Photo-Polarimeter
+Experiment (WUPPE) telescope studies spectra in the longer wavelength
+1400-3200A ultraviolet range. The 0.38m Ultraviolet Imaging Telescope
+(UIT) is a wide-field (0.6 degree) imaging telescope which uses
+ultraviolet-sensitive film.
+ Also in the cargo bay are the Extended Duration Orbiter (EDO) pallet
+and two Getaway Special (GAS) cans (G-387/G-388) which constitute the 
+Endeavour Telescope, a project of the Australian Space Office.
+The 0.1m telescope takes a narrow-band, 2-degree wide-field ultraviolet
+image. Unlike UIT, it uses CCDs rather than film. The Australian
+Endeavour telescope first flew (as G-609/G-610) aboard Discovery in Jan 1992,
+but failed to work correctly. On that mission it was attached to
+a cross-bay GAS Bridge Assembly (GBA) with other GAS cans; this time the cans
+are mounted on a GAS Beam Adapter (GABA) on the side of the payload bay wall.
+(Note that the name of the telescope is nothing to do with the name of the
+Shuttle except that both are named after Cook's ship.)
+
+
+Mir
+---
+
+The Mir station raised its orbit on Feb 10; on Feb 10 its orbit was 390
+x 391 km x 51.6 deg, 92.38 min; on Feb 20 it was in a 391 x 397 km x
+51.6 deg, 92.45 min orbit. Progress vehicle no. 226 was launched on Feb
+15,  and given the name Progress M-26 once reaching orbit. Progress M-25
+undocked on Feb 16 (due at 1303 UT) and was deorbited. Progress M-26
+then docked at the vacant Kvant docking port on Feb 17 (due at 1821 UT).
+It carries experiments for the visit of US astronaut Norman Thagard
+to Mir, due next month.
+
+Recent Launches
+--------------------------------------------------------------------------------
+
+
+Foton No. 10 was launched from Plesetk on Feb 16 into a
+219 x 368 km x 62.8 deg, 90.39 min orbit. The Foton recoverable
+materials processing satellite, built by the Central Specialized Design
+Bureau in Samara, is based on the Vostok/Zenit spy satellite bus.
+This mission carries materials processing experiments from Germany and
+France.
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Jan 10 0618     Intelsat 704    Atlas IIAS      Canaveral LC36  Comsat      01A
+Jan 15 1345     EXPRESS         Mu-3S-II        Kagoshima       Materials   -
+Jan 24 0354     Tsikada     )   Kosmos-3M       Plesetsk LC132  Navsat      02A
+                ASTRID      )                                   Science     02B
+                FAISAT      )                                   Comsat      02C
+Jan 25 1926?    Apstar 2        Chang Zheng 2E  Xichang         Comsat      FTO
+Jan 29 0125     UHF F/O F4      Atlas II        Canaveral LC36  Comsat      03A
+Feb  3 0522     Discovery    )  Space Shuttle   Kennedy LC39B   Spaceship   04A
+                Spacehab SH03)
+Feb  4 0457     ODERACS II A )                  Discovery, LEO  Calibration 04C
+                ODERACS II B )                                  Calibration 04D
+                ODERACS II C )                                  Calibration 04E
+                ODERACS II D )                                  Calibration 04F
+                ODERACS II E )                                  Calibration 04G
+                ODERACS II F )                                  Calibration 04H
+Feb  7 1226     Spartan 204                     Discovery, LEO  Astronomy   04B
+Feb 15 1648     Progress M-26   Soyuz-U         Baykonur LC1    Cargo       05A
+Feb 16 1615?    Foton No. 10    Soyuz-U         Plesetsk        Materials   06A
+
+
+Reentries
+---------
+
+Jan 15          EXPRESS         Reentered
+Feb 11          Discovery       Landed at KSC
+Feb 12          BREMSAT         Reentered
+Feb 16          Progress M-25   Deorbited
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-70  Jun 22  
+OV-104 Atlantis        OPF Bay 3     STS-71  Jun
+OV-105 Endeavour       LC39A         STS-67  Mar 2
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                                 STS-70
+ML2/RSRM-43/ET-69/OV-105   LC39A     STS-67
+ML3/RSRM-45                VAB Bay 1 STS-71
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

@@ -1,0 +1,242 @@
+Jonathan's Space Report
+
+No. 437                                        2000 Oct 30, Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+The STS-92 crew closed the hatches to the Space Station at around 1330
+UTC on Oct 20.  Discovery undocked from PMA-2 at 1508 UTC the same day
+and separated from the vicinity of ISS at around 1550 UTC. Deorbit
+attempts were waved off on Oct 22 and Oct 23; the deorbit burn finally
+came at 1951:55 UTC on Oct 24, lowering the orbit from 378 x 389 km x
+51.6 deg to 40 x 387 km x 51.6 deg. Discovery landed on Runway 22 at
+Edwards AFB, California, at 2059 UTC on Oct 24 - the first Edwards
+landing for a Space Shuttle since 1996.
+
+The PMA-2/Unity/PMA-3/Z1/PMA-3/Zarya/Zvezda/Progress M1-3 complex 
+remains in orbit in automatic mode. The Expedition 1 crew of
+Shepherd, Gidzenko and Krikalyov will be launched from Baykonur
+next week to begin occupation of the station. 
+
+Current mass of the station is at least 71000 kg: my estimate,
+based on somewhat uncertain figures, is:
+
+         Unity          9800 kg
+         3 PMAs         3900 kg
+         Truss (Z1)     8800 kg
+         Zarya         21000 kg
+         Zvezda        21600 kg
+         Progress M1-3  5400 kg
+                      +  500 kg fuel?
+         -------------------------------
+                       71000 kg
+
+Status of the docking ports: There are three types of docking ports. The
+CBM (Common Berthing Mechanism) is used on the US side for permanent
+attachments. The APAS system is used on the US side for Shuttle dockings
+(each PMA Pressurized Mating Adapter has an APAS). The Russian SSVP
+type ports are the old-style probe/drogue used for Soyuz, Progress and
+other Russian modules.
+
+    Port            Current status
+
+    Unity +Y CBM    PMA-2, available for STS
+    Unity -Y CBM    PMA-1, docked to Zarya
+    Unity +Z CBM    Z1 Truss
+    Unity -Z CBM    PMA-3, available for STS
+    Unity +X CBM    empty (for Airlock)
+    Unity -X CBM    empty (for Cupola)
+    Zarya +Y APAS   Docked to PMA-1
+    Zarya -Y SSVP   Docked to Zvezda
+    Zarya +Z SSVP   empty, in reserve
+    Zarya -Z SSVP   empty, available for Soyuz/Progress
+    Zvezda +Y SSVP  Docked to Zarya
+    Zvezda -Y SSVP  Docked to Progress M1-3; to be used for Soyuz
+    Zvezda +Z SSVP  empty
+    Zvezda -Z SSVP  empty, available for Soyuz/Progress
+    
+ ISS Configuration schematic:
+
+  
+            Z1                                               ^ Z
+             |             |       |                         | 
+ - PMA-2 - UNITY - PMA-1 - ZARYA - ZVEZDA - PM1-3       Y <--| 
+             |             |       |
+           PMA-3
+             |
+
+ Mir Configuration schematic:
+
+                  Spektr Priroda                              ^ Z
+                        \|                                    |
+   PM43 - Kvant - Mir core -                            X <---|
+                         |\                                    \
+                  Kristall Kvant-2                              _| Y
+                         |
+                         SO
+                         |
+
+
+     Mir -X SSVP:      empty, available for Soyuz
+     Mir +X SSVP:      Kvant
+     Mir +Z SSVP:      Priroda
+     Mir -Z SSVP:      Kristall
+     Mir +Y SSVP:      Kvant-2
+     Mir -Y SSVP:      Spektr
+     Kristall -Z SSVP: SO
+     SO -Z APAS:       empty, available for STS (in principle)
+     Kvant -X SSVP:    Mir
+     Kvant +X SSVP:    Progress M-43
+
+
+
+Progress M-43 docked with Mir at 2116 UTC on Oct 20, presumably at the
+Kvant docking port. To save fuel, a long 4-day rendezvous profile was
+used instead of the usual 2-day one.  Progress M1-2 undocked from Mir on
+Oct 15 and was deorbited over the Pacific later the same day.
+On Oct 29 Mir was in a 329 x 356 km x 51.6 deg orbit, after an apogee
+raising burn by Progress M-43.
+
+Current Launches
+----------------
+
+A US Air Force Defense Satellite Communications System (DSCS) payload,
+DSCS III B-11, was launched on Oct 20 by a Lockheed Martin Atlas IIA
+from Cape Canaveral Air Force Station. The DSCS III satellites were
+built by Lockheed Martin/Valley Forge.  Centaur AC-140 entered a 148 x
+898 km x 29.3 deg parking orbit and then a 218 x 35232 km x 26.0 deg
+transfer orbit. DSCS III B-11 separated with its attached IABS-8 apogee
+stage. The IABS-8 stage, with two Primex R4D liquid apogee engines,
+circularized the orbit at geostationary altitude on Oct 21 and separated
+from the DSCS.
+
+The first Boeing GEM satellite, Thuraya 1, was launched on Oct 21. Built
+by Boeing/El Segundo (formerly Hughes), it is based on the HS-702 design
+but features a large 12-m diameter truss antenna for L-band mobile
+telephone service. Launch mass of Thuraya is 5108 kg; dry mass is
+probably around 3000 kg. The satellite will be delivered after on orbit
+testing to Etisalat, the Emirates Telecom Corp of Abu Dhabi, and its
+Thuraya Satellite subsidiary.
+
+Thuraya was launched at 0552 UTC on Oct 21 by a Boeing Sea Launch
+Zenit-3SL from the Odyssey platform in the Pacific Ocean at 154W 0N. The
+two-stage Yuzhnoe Zenit core delivered Thuraya and its Energiya Blok
+DM-SL upper stage to a -2212 x 182 km suborbital trajectory. The first
+DM-SL burn placed the stack in a 180 x 200 km x 6.3 deg parking orbit at
+0604 UTC; a second burn at 0733 UTC  put Thuraya in a 210 x 35891 km x
+6.3 deg geostationary transfer orbit. A later depletion burn lowered the
+DM-SL stage perigee to 180 km, as burns by Thuraya's liquid engine raised
+it towards GEO.
+
+Another International Launch Services Proton-K/Blok DM3 launch from
+Baykonur orbited GE Americom's GE 6 satellite. The  Lockheed Martin
+A2100 series satellite has a mass of 3552 kg at launch and 1900 kg dry. 
+It will provied broadcast and data services in North America from 72W.
+The DM3 upper stage made two burns and placed the GE 6 in a 5850 x 35726
+km x 18.7 deg intermediate transfer orbit at 0441 UTC on Oct 22.
+
+Arianespace launched flight V134, an Ariane 44LP model, on Oct 29.
+The vehicle placed Europe*Star FM1 in geostationary transfer orbit.
+The satellite is a Loral FS-1300 model with a launch mass of 4167 kg
+and a dry mass of 1717 kg; the satellite has two cruciform solar
+arrays.
+
+13 small objects have recently been cataloged associated with the
+Kosmos-2306 calibration satellite, launched in 1995. The objects may be
+calibration target subsatellites used to test Russian radars and study
+atmospheric density. The first six targets were released in Apr 1997; it
+is thought that five more targets remain to be released. Kosmos-2306 is
+in a 198 x 208 km x 65.8 deg orbit, with reentry expected soon.
+
+NASA's Wind probe made its 32nd lunar flyby on Aug 19,  with a closest
+approach of 7600 km to the surface.  This placed it on a 2 million km
+apogee orbit, adjusted on Aug 26 to an approximately 567000 x 1620000 km
+ x 21.8 deg `Distant Prograde Orbit', reaching apogee on Sep 29.
+
+
+Erratum
+-------
+
+Phil Clark points out that strictly, Kosmos-2373 is the 20th
+Yantar'-1KFT mission, but that the Yantar'-1KFT was only called Kometa
+starting with the 7th flight, so I should have said "the 20th in the
+Siluet/Kometa series".
+
+A Russian source informs me that the Dnepr rocket  launched on Sep 26
+was the 15A18 model. Both the 15A18 (R-36MUTTKh) and 15A18M (R-36M2)
+ICBMs are thought to be being refurbished for use as Dnepr vehicles.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Sep  1 0325   ZY-2              Chang Zheng 4B Taiyuan          Imaging    50A
+Sep  5 0943   Sirius 2          Proton-K/DM3   Baykonur LC81L   Commsat    51A
+Sep  6 2233   Eutelsat W1       Ariane 44P     Kourou ELA2      Commsat    52A
+Sep  8 1245   Atlantis          Space Shuttle  Kennedy LC39B    Spaceship  53A
+Sep 14 2254   Astra 2B )        Ariane 5       Kourou ELA3      Commsat    54A
+              GE 7     )                                        Commsat    54B
+Sep 21 1022   NOAA 16           Titan 23G      Vandenberg SLC4W Weather    55A
+Sep 25 1010   Kosmos-2372       Zenit-2        Baykonur LC45    Imaging    56A
+Sep 26 1005   Tiungsat-1  )     Dnepr          Baykonur LC109   Imaging    57A
+              MegSat-1    )                                     Science    57B
+              UniSat      )                                     Science    57C
+              SaudiSat 1A )                                     Commsat    57D
+              SaudiSat 1B )                                     Commsat    57E
+Sep 29 0930   Kosmos-2373       Soyuz-U        Baykonur LC31    Imaging    58A
+Oct  1 2200   GE-1A             Proton-K/DM3   Baykonur LC81L   Commsat    59A
+Oct  6 2300   N-SAT-110         Ariane 42L     Kourou ELA2      Commsat    60A
+Oct  9 0538   HETE-2            Pegasus        Kwajalein RW06/24 Astronomy 61A
+Oct 11 2317   Discovery         Space Shuttle  Kennedy LC39A    Spaceship  62A
+Oct 13 1412   Kosmos-2374 )     Proton-K/DM-2  Baykonur         Navsat     63A
+              Kosmos-2375 )                                     Navsat     63B
+              Kosmos-2376 )                                     Navsat     63C
+Oct 16 2127   Progress M-43     Soyuz-U        Baykonur LC1     Cargo      64A
+Oct 20 0039   DSCS III B11      Atlas IIA      Canaveral SLC36A Commsat    65A
+Oct 20?       K-2306 subsat 7 )                Kosmos-2306, LEO Calib   95-08N
+              K-2306 subsat 8 )                                 Calib   95-08P
+              K-2306 subsat 9 )                                 Calib   95-08Q
+              K-2306 subsat 10)                                 Calib   95-08R
+              K-2306 subsat 11)                                 Calib   95-08S
+              K-2306 subsat 12)                                 Calib   95-08T
+              K-2306 subsat 13)                                 Calib   95-08U
+              K-2306 subsat 14)                                 Calib   95-08V
+              K-2306 subsat 15)                                 Calib   95-08W
+              K-2306 subsat 16)                                 Calib   95-08X
+              K-2306 subsat 17)                                 Calib   95-08Y
+              K-2306 subsat 18)                                 Calib   95-08Z
+              K-2306 subsat 19)                                 Calib   95-08AA
+Oct 21 0552   Thuraya 1         Zenit-3SL      Odyssey, POR     Commsat    66A
+Oct 21 2200   GE 6              Proton-K/DM-3  Baykonur         Commsat    67A
+Oct 29 0559   Europe*Star FM1   Ariane 44LP    Kourou ELA2      Commsat    68A
+
+Current Shuttle Processing Status
+_________________________________
+ 
+Orbiters               Location   Mission    Launch Due   
+ 
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       Edwards       STS-92  2000 Oct     ISS 3A
+OV-104 Atlantis        OPF Bay 3     STS-98  2001 Feb?    ISS 5A
+OV-105 Endeavour       VAB Bay 1     STS-97  2000 Nov?    ISS 4A
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |   
+'-------------------------------------------------------------------------'   
+
+
+

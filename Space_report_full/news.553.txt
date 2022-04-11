@@ -1,0 +1,152 @@
+Jonathan's Space Report
+No. 553                                        2005 Sep 4, Washington, D.C.
+-------------------------------------------------------------------------------
+
+OICETS
+------
+
+The Japanese OICETS and INDEX satellites were launched by the Russian
+Kosmotras company on a Dnepr rocket from Baykonur on Aug 23.
+
+OICETS, the Optical Inter-Orbit Communications Engineering Test
+Satellite, carries a laser communications experiment that will
+be used in conjunction with ESA's Artemis geostationary satellite.
+The satellite was renamed Kirari after launch. Kirari means
+something like 'glitter' or 'twinkle', in an obvious reference
+to the laser (Japanese speakers help me out with the translation here?).
+
+INDEX, renamed Reimei ("Dawn") after launch, is a 70 kg ISAS/JAXA
+in-house test satellite with  new lightweight satellite components, and
+a demonstration auroral imager payload.
+
+Kosmotras reported (and I reproduce here without comment):
+ "Along with the satellites, the launch vehicle delivered into orbit a
+ special container that hosted the state symbols of Turkmenistan - the
+ National Flag and the Book of Rukhnama - historical and philosophical
+ work of Saparmurat Niyazov, the President of Turkmenistan, devoted to
+ the past, present and the future of the Turkmen state."
+
+I'm guessing the container remained attached to the insertion stage.
+
+Four objects were initially cataloged associated with the launch. My best
+guess at identifying the objects suggests that Kirari is in a 602 x 603
+km x 97.8 deg orbit; Reimei is in a 601 x 621 km orbit; and the Dnepr
+gas-dynamic shield is in a 572 x 607 km orbit. The fourth object, in a
+higher apogee 595 x 1197 km orbit, is the insertion stage, which
+continues thrusting after it has dispensed its payloads.
+
+It's unusual for Japanese government satellites to launch on non-Japanese
+rockets. OICETS was originally intended for the now-abandoned J-1
+light launch vehicle.
+
+Hayabusa
+---------
+
+On Aug 24, Japan's Hayabusa was 8880 km from asteroid Itokawa; by Sep 2
+it was at only 1550 km. Hayabusa will rendezvous with Itokawa and
+return a sample of it to Earth.
+
+
+Monitor-E
+---------
+
+The Russian Krunichev company, best known for the Proton rocket,
+launched the first Monitor Earth observing platform on Aug 26 on one of
+its Rokot/Briz-KM rockets. Monitor-E No. 1 is a prototype carrying
+8-meter and 20-meter resolution cameras. The satellte's Yachta bus is
+1.2m high at launch (I don't know the solar panel span, probably about
+4m). A mockup was launched on an earlier Rokot flight in 2003.
+
+Kosmos-2415
+-----------
+
+A Russian Defense Ministry satellite, with the cover name Kosmos-2415,
+was launched on Sep 2 from Baykonur into a 197 x 284 km x 64.8 deg
+orbit. It is believed to be an 11F660 Kometa mapping satellite, and the
+initial orbit is consistent with this. I expect it will raise its orbit
+to about 210 x 270 km within one day. The last Kometa mission was in
+2000. Kometa is built by TsSKB-Progress of Samara, who also build
+the Soyuz-U rocket.
+
+FSW satellites
+--------------
+
+China's FSW 21 recoverable satellite returned to Earth on Aug 29,
+the same day that FSW 22 was launched on a CZ-2D rocket from China's
+Jiuquan Space Center. Neither the FSW 21 landing time nor the
+FSW 22 launch time were announced; from analysis of orbital data
+I estimate an FSW 22 launch time of 0845 UTC, and an FSW 21 landing
+time of 2335 UTC on Aug 28 (which is Aug 29 Chinese local time).
+
+The FSW (Fanhui Shi Weixing, Experimental Recoverable Satellite) program
+began in 1974; the program went through several versions until launches
+stopped in 1996, performing both military imaging and commercial
+microgravity missions. 
+
+In 2003, a new series of FSW satellites (some sources believe their
+military code-name is Jian Bing 4) came into service, starting with FSW
+18. With FSW 22, there are five launches in this series and we can now
+see two subgroups. The low perigee subgroup uses the older Long March 2C
+rocket and flies for 26 days in 168 x 550 km orbits - presumably for
+high resolution imaging. The high perigee subgroup uses the Long March
+2D launch vehicle and its satellites operate in 200 x 320 km orbits,
+with recovery after 18 days. Their orbits are similar to the
+8-day-duration FSW-1 series of 1987-1993. They are launched in pairs: a
+low-perigee mission followed soon after by a high perigee mission. It's
+not clear whether the vehicles are two different spacecraft designs or
+just different mission profiles for the same spacecraft, but the longer
+life for the lower-perigee (and therefore higher fuel use) mission
+suggests that it's probably two different designs.
+
+                         Orbit ( km x km x deg)   Life (days)  Rocket
+  Group 1 - Low perigee 
+
+  FSW 19   2004 Aug 29   167 x 552 x 63.0         26.7         CZ-2C
+  FSW 21   2005 Aug  3   166 x 552 x 63.0         26.7         CZ-2C
+
+  Group 2 - High Perigee
+  FSW 18   2003 Nov  3   193 x 324 x 63.0         17.8         CZ-2D
+  FSW 20   2004 Sep 27   205 x 319 x 63.0         17.8         CZ-2D
+  FSW 22   2005 Aug 29   204 x 323 x 63.0         ?            CZ-2D
+
+
+Mars Reconnaissance Orbiter
+---------------------------
+
+Aerojet provided me with more details on the MRO propulsion system:
+Mars orbit insertion is provided by six MR-107N engines with 270N thrust
+each (not 170N as I said in JSR552), salvaged from the backup Mars Polar
+Lander. The system also has six MR-106E engines with 22N thrust and
+eight small MR-103D engines with 1N thrust.
+
+The propulsion system made a 7.8m/s course correction on Aug 27.
+
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Jul  5 2240   SJ-7              CZ-2D           Jiuquan          Sci         24A
+Jul 10 0330   Suzaku            M-V             Uchinoura        XR Astron.  25A
+Jul 26 1439   Discovery         Shuttle         Kennedy LC39B    Spaceship   26A
+Aug  2 0730   FSW 21            CZ-2C           Jiuquan          Imaging     27A 
+Aug 11 0820   Thaicom 4         Ariane 5GS      Kourou           Comms       28A
+Aug 12 1143   MRO               Atlas V 401     Canaveral SLC41  Mars probe  29A
+Aug 13 2328   Galaxy 14         Soyuz-FG/Fregat Baykonur LC31    Comms       30A
+Aug 23 2110   Kirari (OICETS) ) Dnepr           Baykonur LC109   Tech        31A
+              Reimei (INDEX)  )                                  Tech        31B
+Aug 26 1834   Monitor-E         Rokot           Plesetsk         Imaging     32A
+Aug 29 0845   FSW 22            CZ-2D           Jiuquan          Imaging     33A
+Sep  2 0950   Kosmos-2415       Soyuz-U         Baykonir LC31    Imaging     34A
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

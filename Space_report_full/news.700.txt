@@ -1,0 +1,210 @@
+Jonathan's Space Report 
+No. 700                                                  2014 Aug 12  Somerville, MA
+---------------------------------------------------------------------------------------------
+
+International Space Station
+---------------------------
+
+Expedition 40 is continuing with ISS in a 410 x 419 km x 51.7 deg orbit.
+ISS Commander is Steve Swanson (NASA); flight engineers are FE-1 Aleksandr
+Skvortsov (Roskosmos), FE-2 Oleg Artemev (Roskosmos), FE-4 Max Suraev (Roskosmos),
+FE-5 Reid Wiseman (NASA), FE-6 Alexander Gerst (ESA).
+The past month has seen extensive activity with cargo ships:
+ - The SS Janice Voss cargo freighter, on flight Orb-2, has arrived at the
+ISS. The SSRMS arm grappled it at 1036 UTC on Jul 16 and berthed it on
+the Harmony module at 1253 UTC. 
+
+ - Progress M-23M undocked from the Pirs module at 2144 UTC on Jul 21
+and carried out 10 days of independent operations as part of the Radar-Progress
+experiment program. It was deorbited on Jul 31, with an engine burn over
+Russia at 2151 UTC lowering the orbit from 351 x 417 km to 58 x 413 km,
+leading to reentry at 2230 UTC and debris impact at 2243 UTC in the South Pacific.
+
+ - Progress M-24M (vehicle 423) was launched on Jul 23 on flight 56P into a
+189 x 204 km orbit;  it docked with the Pirs module at 0331 UTC Jul 24.
+
+ - ESA's Automated Transfer Vehicle 5 'Georges Lemaitre' was launched on Jul 29
+and arrived at the ISS on Aug 12, docking with Zvezda at 1330 UTC. Launch mass
+of ATV 5 was 19926 kg.
+
+Orbcomm
+-------
+
+A SpaceX Falcon 9 flew to a 614 x 749 km x 47.0 deg orbit on Jul 14 to deploy
+a set of six VHF messaging relay satellites for Orbcomm. The second stage
+carried two ESPA rings (developed for EELV auxilary payloads) each carrying
+four slots for the 172 kg satellites; the two extra slots were filled with
+mass dummies which remained attached.
+
+The Falcon 9 first stage made a flyback maneuver and deployed landing legs
+as part of engineering tests for future recovery; the stage was destroyed
+as it landed on the ocean.
+
+Foton-M
+--------
+
+Foton-M No. 4 was launched from Baykonur on Jul 18 by a Soyuz-2-1A into
+a 252 x 552 km x 64.9 deg orbit. This Foton-M, while retaining the
+Vostok spherical cabin, uses the new extended length service module
+(probably derived from the Yantar' series?). Microgravity and life
+sciences experiments are on board; life science speciments include geckos and tardigrades;
+I don't know the specific species of gecko used. The return capsule
+includes samples exposed on the exterior for reentry studies.
+
+On Jul 24 it was revealed that the satellite was not responding to ground
+commands, although it continued to send back telemetry. Control was later
+reported to have been regained, but a scheduled orbit raise burn was cancelled
+and on Aug 12 the orbit was still 250 x 542 km.
+
+Nicolas Pillet points out that this mission is the first 34KSM Foton-M spacecraft;
+the previous three missions, although named Foton-M, were spacecraft number 13 to 15
+in the original 34KS Foton series.
+
+Cassini
+-------
+
+Cassini completed the T-103 flyby of Titan at 1042 UTC Jul 20. Closest
+approach was 5103 km above that world. Cassini is now in a 909900 x 2852000 km x 48.0 deg
+orbit around Saturn, and reached apoapsis (apochronon) 208 on Aug 3.
+
+ISEE-3
+------
+
+ISEE-3 continues to approach its lunar flyby as the Reboot Project begins science operations
+with it. The probe's propulsion system is not working and attempts to recapture the satellite in the
+Earth-Moon system have been abandoned.
+
+ISEE-3 was in a 0.927 x 1.035 AU x 0.1 deg orbit around the Sun before its Earth approach; the
+burn in early July did not significantly affect this. It entered the Earth's sphere of influence
+on Aug 3 on a 42.5 deg inclination trajectory and will pass through a 178400 km perigee on Aug 9
+before entering the lunar sphere of influence at about 1015 UTC Aug 10. Perilune is 15938 km
+at 1927 UTC Aug 10; ISEE-3 will leave the Earth-Moon system on Aug 14, passing the L1 radius on
+Aug 17 and entering a 1.012 x 1.190 AU x 1.17 deg solar orbit, having increased its solar
+orbital period by 66.9 days to 422 days. (Data calculated from the ephemeris on JPL HORIZONS).
+
+
+AFSPC-4
+-------
+
+United Launch Alliance launched a Delta 4 rocket on Jul 28 with three
+payloads. GSSAP 1 and 2, built by Orbital for US Air Force Space
+Command, will catalog satellites and space debris in geostationary 
+orbit. ANGELS is a smaller satellite, around 70 kg, for the Air Force
+Research Lab  and will make observations of the Delta rocket's second stage
+at ranges from 50 km down to a few km, for further development of satellite
+inspection technology. The exact orbit of the satellites is not known
+but is probably a few hundred km below GEO.
+
+
+GPS 68
+------
+
+Global Positioning System space vehicle 68 was launched from Cape Canaveral on Aug
+2 aboard an Atlas V 401 (serial AV-048). The mission, flight GPS IIF-7 'Capella',
+reached a 167 x 20260 km x 55 deg transfer orbit at 0340 UTC. A second Centaur
+burn at 0640 UTC circularized the orbit, which on Aug 12 was 20450 x 20478 km x 55.0 deg.
+
+Asiasat 8
+---------
+
+SpaceX launched a Falcon 9 on Aug 5 carrying the Asiasat 8 satellite for
+Asiasat of Hong Kong. The Loral LS-1300LL satellite has a 4535 kg mass
+at separation (thanks to Asiasat for this data)  and uses an R-4D 
+bipropellant thruster to reach GEO. The first R-4D burn on Aug 6 raised
+the orbit from 180 x 35762 km x 24.3 deg to 7137 x 35751 km x 10.7 deg.
+By Aug 11 the satellite was in a 35725 x 35732 km x 0.1  deg orbit
+drifting east over 104E.
+
+Yaogan 20
+---------
+
+China launched a CZ-4C rocket from Jiuquan on Aug 9 and deployed a
+cluster of three Yaogan satellites into a 1086 x 1103 km x 63.4 deg
+orbit. This triplet is the fourth in a series; previous triplet clusters
+were Yaogan 9, 16 and 17. They are thought to be analogous to the old US
+NOSS/PARCAE ocean surveillance system.
+
+
+Erratum
+--------
+
+Canopus Systems is an independent affiliate of Dauria Aerospace, not a subsidiary.
+Thanks to Tomas Svitek for the clarification.
+
+
+
+
+Table of Recent (orbital) Launches 
+ ----------------------------------
+Date UT       Name            Launch Vehicle        Site            Mission    INTL.  
+
+
+Jul  2 0956   OCO-2              Delta 7320       Vandenberg SLC2W   Science      35A
+Jul  3 1243   Gonets-M No. 18 )  Rokot            Plesetsk LC133/4   Comms        36A            
+              Gonets-M No. 19 )                                      Comms        36B
+              Gonets-M No. 20 )                                      Comms        36C
+Jul  8 1558   Meteor-M No. 2 )   Soyuz-2-1B/Fregat Baykonur LC31     Weather      37A
+              Relek          )                                       Space sci    37B
+              TDS-1          )                                       Tech         37H
+              SkySat-2       )                                       Imaging      37D
+              DX-1           )                                       Tech         37C
+              AISSAT-2       )                                       Comms AIS    37G
+              UKube-1        )                                       Tech         37F
+Jul 10 1855   O3b No. 3    )     Soyuz ST-B/Fregat CSG ELS           Comms        38D
+              O3b No. 6    )                                         Comms        38C
+              O3b No. 7    )                                         Comms        38B
+              O3b No. 8    )                                         Comms        38A
+Jul 13 1652   SS Janice Voss     Antares 120       Wallops MARS LA0  Cargo        39A
+Jul 14 1515   Orbcomm OG2-3   )  Falcon 9 v1.1     Canaveral SLC40   Comms        40F
+              Orbcomm OG2-4   )                                      Comms        40E
+              Orbcomm OG2-6   )                                      Comms        40C
+              Orbcomm OG2-7   )                                      Comms        40B
+              Orbcomm OG2-9   )                                      Comms        40A
+              Orbcomm OG2-11  )                                      Comms        40D
+Jul 18 2050   Foton-M No. 4      Soyuz-2-1A        Baykonur LC31     Micrograv    41A
+Jul 23 2144   Progress M-24M     Soyuz-U           Baykonur LC1      Cargo        42A
+Jul 28 2328   GSSAP-1  )         Delta 4M+(4,2)    Canaveral SLC37B  Tracking     43A
+              GSSAP-2  )                                             Tracking     43B
+              ANGELS   )                                             Tracking     43C
+Jul 29 2347   Georges Lemaitre   Ariane 5ES        Kourou ELA3       Cargo        44A
+Aug  2 0323   GPS 68             Atlas V 401       Canaveral SLC41   Navigation   45A
+Aug  5 0800   Asiasat 8          Falcon 9 v1.1     Canaveral SLC40   Comms        46A
+Aug  9 0545   Yaogan 20 Sat 1 )  Chang Zheng 4C    Jiuquan           Sigint       47A
+              Yaogan 20 Sat 2 )                                      Sigint       47B
+              Yaogan 20 Sat 3 )                                      Sigint       47C
+	      
+Suborbital missions
+-------------------
+
+Reports from northern China suggest a missile test of some kind occured on Jul 10 but this
+has not been confirmed. However China did carry out a missile defense test on Jul 23.
+
+Japan's JAXA agency launched an S-310 rocket on Aug 4 to carry out an engineering study
+of cryogenic fluid flow for future rocket stages.
+
+A solar EUV spectrometer package, the Degradation Free Spectrometers payload,
+flew on NASA 36.289 from White Sands on Jul 22.
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site                   Mission    Apogee/km
+
+Jul  9 1200   Dummy satellite  Angara-1.2PP        Plesetsk LC35/1  Test          188
+Jul 12 1620   Hwasong 6 RV?    Hwasong 6?          Chiha?           Test          100?
+Jul 12 1620   Hwasong 6 RV?    Hwasong 6?          Chiha?           Test          100?
+Jul 22 1910   NASA 36.289US    Black Brant IX      White Sands      Solar EUV     320
+Jul 23        Target           Unknown             Jiuquan?         Test?         100?
+Jul 23        Interceptor      Unknown             Korla?           Test?         100?
+Aug  4 1400   S-310-43         S-310               Uchinoura        Technology    117
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |                                    |
+|  Somerville MA 02143               |  inter : planet4589 at gmail       |
+|  USA                               |  twitter: @planet4589              |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: http://www.planet4589.org/mailman/listinfo/jsr         |
+'-------------------------------------------------------------------------'   
+

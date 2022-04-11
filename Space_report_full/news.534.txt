@@ -1,0 +1,155 @@
+Jonathan's Space Report
+No. 534                                        2004 Sep 8, Somerville, MA
+-------------------------------------------------------------------------------
+
+* Fred Whipple
+
+Fred Whipple died on August 30 at the age of 97. Fred was a pioneer of
+the Space Age. He discovered his first comet in 1932; invented radar
+chaff countermeasures in World War II; suggested the `Whipple Shield'
+meteoroid bumpers now used on spacecraft in 1946; and developed the
+now-accepted 'dirty snowball' theory of comets in 1950. He was director
+of the Smithsonian Observatory (SAO) from 1955-1973 and led American
+optical tracking of Sputnik and the other early satellites. The
+Moonwatch program made SAO known worldwide as a source of information on
+satellites. Fred was scientifically active well into his 90s. Although
+after a bicycle accident when he was 89 he had stopped cycling into
+work, we often saw the car with the 'COMETS' licence plate parked
+outside. In recent years he was a member of the Contour comet mission
+science team. Fred arrived at Harvard (where SAO is now located) in
+1931; he cleared out his office only a few weeks ago and was still
+mentally sharp although physically frail. Fred was also well known for
+his sense of humour and approachability; we will miss him.
+
+* Nemesis for Genesis
+
+On Sep 8 the Genesis space probe became the first artifact to return
+from beyond lunar orbit to the Earth's surface. Unfortunately, the
+parachute system failed to deploy and the capsule hit the Utah desert at
+high speed. The capsule is embedded in the desert floor and is split
+open; it is not yet clear to what extent the solar wind samples have
+been ruined.
+
+After targeting maneuvers on Aug 9, Aug 29, and Sep 6,  the Genesis
+Sample Return Capsule (SRC) separated from the Genesis spacecraft at
+around 1153 UTC on Sep 8, 66000 km above the Earth. At 1215 UTC the
+spacecraft made a small separation burn, burning up over the Pacific at
+around 1550 UTC. At 1555 UTC the SRC entered the atmosphere over Oregon
+at about 11 km/s (Earth-relative) and an angle of 8.25 degrees below the
+horizontal, giving an orbital perigee close to zero and an apogee around
+1.5 million km. The SRC's heat shield protected it through atmospheric
+entry. A mortar which was intended to release the drogue parachute at 33
+km high failed to fire and at 1558 UTC the tumbling SRC impacted the
+Dugway Proving Ground at the Utah Test and Training Range at 40 07 40N
+113 30 29W. Impact velocity was around 40 to 90 m/s, over 200 times
+slower than it was travelling a few minutes earlier but  still more than
+enough to wreck the vehicle.
+
+* Space Station
+
+Astronauts Padalka and Fincke made a spacewalk on Sep 3 from the Pirs
+airlock module using Orlan suits M-25 and M-26. The Pirs was
+depressurized by 1621 UTC; hatch open was at 1643 UTC and hatch close at
+2204 UTC with repressurization beginning at 2206 UTC for a total of 5hr
+46min of depressurization time. They installed equipment on the Zarya
+and Zvezda modules. (Thanks once again to Andrey Krasil'nikov for timing
+data). The old 70 kg Zarya PIG container with the RRZh1 flow regular
+valve  panel, removed at 1729 UTC, was jettisoned during the EVA at 2151
+UTC. Three more antennas were installed on Zvezda for rendezvous
+operations with the European ATV cargo ship; five antenna covers were
+ejected at around 2100 UTC, and at least two cleaning towels were
+jettisoned at 2110 UTC. A total of five objects have been cataloged
+by Space Command, at least one of which is probably the container.
+
+* Chinese satellite
+
+A new Chinese recoverable satellite was launched on Aug 29 by a CZ-2C
+rocket from the Jiuquan Space Center into a 165 x 490 km x 63.0 deg
+orbit. The satellite is one of the FSW series, and is expected to return
+a capsule to Earth after 27 days in space. I'm a bit surprised that it
+used the CZ-2C rather than the beefed-up CZ-2D which was used for the
+last three FSW launches. The CZ-2C was used for the older FSW-1 model,
+rather than the more modern FSW-2 and JB-4 models. However, Chen Lan has
+suggested that this CZ-2C is one of the stretched ones left over from
+the Iridium program, and may have a larger payload capacity. The new
+launch has the highest apogee of any FSW series flight; the satellite
+has not yet been given an official name by China.
+
+* Israeli launch failure
+
+The 'Ofeq-6 spy satellite failed to reach orbit on Sep 6.
+According to the Jerusalem Post, the third stage of the Shavit
+launch vehicle failed to operate and the payload fell in the
+Mediterranean. The launch time was reported as 1:53pm local,
+which I believe corresponds to 1053 UTC. The lower two stages
+separated and at 1102 UTC and 260 km high the AUS-51 third stage
+was meant to fire for 92s to put the satellite in a retrograde
+260 x 770 km x 143.5 deg orbit. (Most countries launch east to
+gain energy from the Earth's rotation; Israel launches west
+over the Med to avoid misunderstandings with its eastern neighbours.)
+Without the third stage burn, the vehicle was probably in
+a roughly -5700 x 260 km orbit and would have impacted around 1106 UTC,
+probably somewhere south of Crete.
+
+
+* Atlas Centaur IIAS AC-167
+
+AC-167, the final Lockheed Martin Atlas IIAS, was launched on Aug 31 at
+2317 UTC, placing a classified National Reconnaissance Office payload in
+an elliptical orbit of around 400 x 40000 km x 63 deg at 0030 UTC on Sep 1.
+The payload is probably a communications satellite used to relay data
+from imaging spy satellites. The Centaur upper stage dumped its
+remaining fuel around 0100 UTC, creating a cloud which was spotted by
+amateur observers. The launch was given the codename NROL-1, and the
+USA 179 satellite is the second elliptical orbit NRO Atlas launch, following USA
+137 in Jan 1998. Two geostationary NRO Atlas launches, in Dec 2000 and
+Oct 2001,  might be part of the same data relay satellite series.
+
+There were two unusual things about the Atlas missile, first launched in
+1957, at which time it was a product of Convair/San Diego (later
+GD/Astronautics, later Martin Marietta, finally LockMart; production was
+moved to the old Martin Titan plant in Denver during the 1990s). One was
+the stage-and-a-half construction of the MA-1 propulsion system (whose
+more recent versions were designated MA-2, MA-3 and finally today's
+MA-5), in which  common propellant tanks were used to feed three
+engines, two of which were in a 'booster package' jettisoned two minutes
+into flight (this was actually only a dummy system in the 1957 Atlas A
+launches, and was first used for real on Atlas B in 1958). This gave
+high initial thrust, and let you get rid of some heavy machinery early
+on; the Atlas main 'sustainer' stage could reach orbit with a
+significant payload, as it did on Mercury missions like John Glenn's.
+The second unusual thing was the `balloon tank' of the sustainer stage.
+The stage has a very thin wall and must be kept pressurized at all times
+- using nitrogen when the stage isn't fuelled - or else it will crumple
+under its own weight, folding in half with spectacularly unwanted
+results (and indeed this was demonstrated on a couple of occasions.)
+Today was the last flight of the MA-5 stage-and-a-half propulsion
+system. There is one more flight scheduled for the balloon tank, AC-206
+in January - this Atlas 3 uses a Russian RD-180 engine instead of the
+MA-5, but still has  many elements of the traditional Atlas. The Atlas 5
+now coming into service is really a completely different vehicle, with
+neither booster package nor balloon tank.
+
+Table of Recent Launches
+-----------------------
+
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+
+Aug  3 0616   MESSENGER         Delta 7925H     Canaveral SLC17B  Probe      30A
+Aug  4 2232   Amazonas          Proton-M/Briz-M Baykonur LC200/39 Comms      31A
+Aug 11 0503   Progress M-50     Soyuz-U         Baykonur LC1      Cargo      32A
+Aug 29 0750   FSW               CZ-2C           Jiuquan           Imaging    33A
+Aug 31 2317   USA 179 (NROL-1)  Atlas IIAS      Canaveral LC36A   Comms?     34A
+Sep  6 1053   'Ofeq-6           Shaviyt         Palmachim         Imaging    F01
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+

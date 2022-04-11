@@ -1,0 +1,130 @@
+Jonathan's Space Report 
+No. 222               1994 Dec  9           Cambridge, MA
+--------------------------------------------------------------------------------
+
+Clarifications
+--------------
+
+The loss of the H-10-III stage on Ariane V70 was due to
+a gas generator failing to reach full thrust. The component
+is reportedly the same as the one on the usual H-10+ stage.
+(Space News, Aviation Week).
+
+The Orion Systems' Orion 1 satellite was built by a part of
+British Aerospace that now belongs to Matra Marconi Space -
+I apologize for the error, it's tough work keeping up
+with all these corporate realignments. By Dec 4, Orion 1 was
+in a 35500 x 122584 km x 1.3 deg orbit.
+
+
+Mir
+---
+
+On Dec 4 the Mir complex was in a 391 x 395 km x 51.6 deg orbit. As of
+Dec 9, Commander Aleksandr Viktorenko and Flight Engineer Yelena
+Kondakova have been in orbit for 66 days as part of the 17th main
+expedition (EO-17 crew). The station doctor, Valeriy Polyakov, came
+aboard in January as part of the EO-15 crew and has been in orbit for
+335 days, longer than any other spaceflight except one (the
+Titov/Manarov flight in 1987/88). His cumulative time in space over 2
+missions is 576 days, a world record. At present, the Mir complex
+consists of:
+ The Mir core module
+ The Kvant astrophysics module, docked to the Mir rear port
+ The Kvant-2 airlock module, docked to a side port at Mir's transfer (front)
+             compartment
+ The Kristall technological module, docked to a side port of the transfer compt.
+ The Soyuz TM-20 transport spaceship, docked to the front port of the 
+             transfer compartment.
+ The Progress M-25 robot cargo freighter, docked to the Kvant module's rear port.
+ The Raduga 10 reentry capsule, carried in the Progress cargo compartment.
+
+Shuttle
+-------
+
+Discovery is being prepared for its 20th flight into space. Crew of
+Mission STS-63 will be James Wetherbee (commander), Eileen Collins
+(pilot), Michael Foale, Janice Voss, and Bernard Harris (mission
+specialists), and Vladimir Titov (Russian Space Agency).  In the payload
+bay will be the RMS robot arm, the pressurized Spacehab 3 module,
+together with the Spacelab Tunnel Adapter and the Spacehab
+transition/flex section which connects the tunnel to the module, an
+MPESS (Multi purpose Experiment Support Structure) truss in its Spartan
+Flight Support Structure (SFSS) variant, and a second MPESS truss. The
+first MPESS will carry the Spartan-204 free flyer satellite, which will
+be deployed and retrieved during the mission using the RMS arm.
+Spartan-204 carries detectors to study the solar wind. The second MPESS
+(probably the Hitchhiker-M variety) will carry a modified Getaway
+Special (GAS) canister which will eject six ODERACS-2 radar calibration
+satellites, as well as the Cyro Systems and GLO-II payloads. The TCS/DTO
+700-5 laser rendezvous experiment package will be attached to the
+payload bay wall (with a GABA adapter plate?) Discovery will carry out a
+rendezvous with the Mir complex (experiment DTO-835). Two crew members
+will carry out a spacewalk, one of a series used to train astronauts and
+test out new spacewalking techniques (DTO-1210, 671, 672, 833).  Launch
+of STS-63 is due on Feb 2.
+
+
+Recent Launches
+---------------
+
+No new launches this week.
+Does anyone have the launch time for the DFH-3?
+--------------------------------------------------------------------------------
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Nov  1 0037     Astra 1D        Ariane 42P      Kourou ELA2     Comsat      70A
+Nov  1 0931     Wind            Delta 7925      Canaveral LC17B Science     71A
+Nov  2 0104     Kosmos-2293     Tsiklon-2       Baykonur LC90   EORSAT      72A
+Nov  3 1700     Atlantis        Space Shuttle   Kennedy LC39B   Spaceship   73A
+Nov  4 0547     Resurs-O1 No. 3 Zenit-2         Baykonur LC45   Rem.sensing 74A
+Nov  4 1250     CRISTA-SPAS     -               Atlantis, LEO   Science     73B
+Nov 11 0722     Progress M-25   Soyuz-U         Baykonur LC1    Cargo       75A
+Nov 20 0039     Kosmos-2294  )  Proton-K/DM-2   Baykonur LC200  Navsat      76A
+                Kosmos-2295  )                                  Navsat      76B
+                Kosmos-2296  )                                  Navsat      76C
+Nov 24 0916     Kosmos-2297     Zenit-2         Baykonur LC45   SIGINT      77A
+Nov 29 0254     Geo-IK          Tsiklon-3       Plesetsk LC32   Geodetic    78A
+Nov 29 1021     Orion 1         Atlas IIA       Canaveral LC36A Comsat      79A
+Nov 29          DFH-3           Chang Zheng 3A  Xichang         Comsat      80A
+Dec  1 2255     Panamsat K2     Ariane 42P      Kourou ELA2     Comsat      FTO
+
+Reentries
+---------
+
+Nov  4          Molniya-1       Reentered (1984-29A)
+Nov  4          Soyuz TM-19     Landed in Kazakhstan
+Nov 14          Atlantis        Landed at Edwards AFB
+
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        Palmdale      OMDP    -
+OV-103 Discovery       OPF Bay 2     STS-63  Feb 2
+OV-104 Atlantis        OPF Bay 3     STS-71  May
+OV-105 Endeavour       OPF Bay 1     STS-67  Mar
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-42/ET-68          VAB Bay 3 STS-63                       
+ML2/RSRM-43                VAB Bay 1 STS-67
+ML3/                      
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/jsr.html                       |
+!      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

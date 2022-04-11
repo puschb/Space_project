@@ -1,0 +1,86 @@
+Jonathan's Space Report 
+No. 211               1994 Sep 20                 Cambridge, MA
+--------------------------------------------------------------------------------
+
+Shuttle
+-------
+
+Discovery's STS-64 mission was successful, with the LITE lidar
+and the SPIFEX experiment working well.
+The Spartan 201 satellite was deployed on Sep 13 at 2136
+and retrieved on Sep 15 at 2101. The EVA to test the SAFER backpack
+was successfully carried out on Sep 16 at 1442 and lasted 6 h 51 min.
+Both Mark Lee and Carl Meade tried out the SAFER backpack.
+Discovery landed on Runway 04 at Edwards AFB in California
+at approximately 2112:53 UTC on Sep 20 (main gear touchdown),
+giving a flight time of 10 days 22h 50 min 0 sec.
+
+Endeavour was rolled out to pad 39A on Sep 13 for another try
+at the STS-68 mission. Launch is due on Sep 30.
+
+Mir
+---
+
+The Mir commander and flight engineer made another EVA on Sep 14
+to install solar array mounts on the Kvant module.
+
+Launches
+--------
+
+No new launches this week.
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Aug 10 2305     Brasilsat B1  ) Ariane 44LP     Kourou ELA2     Comsat      49A
+                Turksat 1B    )                                 Comsat      49B
+Aug 11 1527     Kosmos-2287   ) Proton-K/DM2    Baykonur LC81   Navsat      50A
+                Kosmos-2288   )                                 Navsat      50B
+                Kosmos-2289   )                                 Navsat      50C
+Aug 23 1431     Molniya-3       Molniya         Plesetsk LC43   Comsat      51A
+Aug 25 1425     Progress M-24   Soyuz-U         Baykonur LC1    Cargo       52A
+Aug 26 1200     Kosmos-2290     Zenit-2         Baykonur LC45   Recon       53A
+Aug 27 0858     USA-105         Titan Centaur   Canaveral LC41  SIGINT      54A
+Aug 27 2310     Optus B3        CZ-2E           Xichang         Comsat      55A
+Aug 28 0750     Kiku 6          H-II            Tanegashima     Comsat      56A
+Aug 29 1738     DMSP 23545      Atlas 20E       Vandenberg      Weather     57A
+Sep  9 0029     Telstar 402     Ariane 42L      Kourou ELA2     Comsat      58A
+Sep  9 2222     Discovery       Space Shuttle   Kennedy LC39B   Spaceship   59A
+Sep 13 2130     Spartan 201     -               Discovery, LEO  Astronomy   59B
+Sep 16          SAFER/M. Lee    -               Discovery, LEO
+Sep 16          SAFER/C. Meade  -               Discovery, LEO
+
+Reentries
+---------
+
+Sep 20          Discovery       Landed at Edwards AFB
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        OPF Bay 1     OMDP    -
+OV-103 Discovery       Edwards RW04  STS-64  
+OV-104 Atlantis        OPF Bay 3     STS-66  Oct 27
+OV-105 Endeavour       LC39A         STS-68  Sep 30
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65/OV-105   LC39A     STS-68
+ML2/                       LC39B     
+ML3/RSRM-42/ET             VAB Bay 3 STS-66   
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+

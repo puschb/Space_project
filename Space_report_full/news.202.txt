@@ -1,0 +1,139 @@
+Jonathan's Space Report 
+No. 202 (revised)      1994 Jul  5           Cambridge, MA
+--------------------------------------------------------------------------------
+
+A serious goof in the first version of this report, so I'm
+trying again. Please delete the previous version!
+
+Shuttle
+-------
+
+Launch of STS-65 is still due on July 8.
+
+LAUNCHES
+--------
+
+NPO Energiya's Soyuz spacecraft 11F732 no. 68 was launched at 12:24:50
+UTC on Jul 1 from Baykonur, becoming Soyuz TM-19 on reaching orbit.
+Soyuz TM-19 carried the Mir EO-16 crew (callsign: "Agat") to the orbital
+complex, and docked at the rear port of the Kvant module (vacated by
+Progress M-23 on Jul 2) at 13:55:01 UTC on Jul 3. The EO-16 crew
+commander is Lt-Col.  Yuriy Ivanovich Malenchenko of the Russian Air
+Force. The flight engineer is Lt-Col. Talgat Bigeldinovich Musabaev,
+also of the Russian Air Force. Both men are currently members of the
+Russian Air Force cosmonaut detachment, although Musabaev is a Kazakh
+and was originally selected as backup for the Kazakh mission to Mir
+flown by Tokhtar Aubakirov in 1991. The EO-16 crew will replace two of
+the EO-15 crewmembers currently aboard Mir,  Viktor Afanas'ev and Yuriy
+Usachyov, who will land back on Earth on Jul 9. Physician-cosmonaut
+Valeriy Polyakov will remain aboard Mir with the EO-16 crew.
+
+Orbital Sciences' revolutionary Pegasus winged launch vehicle suffered
+its first complete launch failure on Jun 27. The modified Lockheed
+L-1011 carrier plane took off from Vandenberg AFB, California and
+released the first Pegasus XL over the Point Arguello Warning Area at
+2115 UTC. The rocket malfunctioned during the first stage burn and was
+destroyed. Payload on this sixth Pegasus launch was the US Air Force
+Space Test Program's STEP Mission 1 satellite. STEP 1 was a DSI/TRW
+Eagle class light satellite carrying radio propagation experiments, a
+plasma environment analyser, the CHAMPION ionosphere-magnetosphere
+coupling experiment, and an accelerometer and mass spectrometer to study
+the upper atmosphere.
+
+In last week's report, I should have noted that Martin Marietta have
+bought the old General Dynamics launch vehicle group. Therefore, the
+recent Atlas I  AC-76 flight was a Martin Marietta launch, not a General
+Dynamics one. Apologies to Martin Marietta and its Atlas Centaur team
+for the misattribution.
+
+The UHF F/O F-3 satellite launched by AC-76 carries 39 UHF
+communications channels (21 narrow band, 17 relay, and 1 Fleet
+Broadcast). This HS-601 class satellite is owned by Hughes Space and
+Communications, and will be delivered to the US Navy's Space Command
+once it has been checked out in geostationary orbit. Launch of AC-76
+occurred at 1350:02 UTC; the booster engines were jettisoned within
+three minutes and the Atlas main stage fell away at  1354. The first
+Centaur burn ended at 1400, placing the Centaur/HS-601 in parking orbit
+a few hundred km above the Earth. Centaur reignited at 1414 for a 70
+second burn, and separated at 1418 UTC leaving the HS-601 in a 221 x
+15600 km x 27 deg transfer orbit. The HS-601 later began burns
+of its ARC 490N liquid apogee engine to raise the satellite's orbit
+towards its operational geostationary height of 35780 x 35780 km x 0 deg.
+However orbital details for the satellite have not been released; this
+is unusual as earlier UHF F/O mission trajectories have been unclassified.
+
+The satellite launched into a 63 degree orbit on Jul 3 is a Chinese FSW
+(Fanhui Shi Weixing)  recoverable satellite launched from Jiuquan, and
+not a Russian Kosmos from Plesetsk, as I suggested in the first version
+of this report. Orbit of the FSW satellite is 173 x 342 km x 63.0 deg.
+This is very similar to the orbits used by Russian's Yantar' satellites,
+and the ground track of the satellite passes close to the Plesetsk
+launch site on the first orbit before the actual launch, hence my
+initial confusion.
+
+The McDonnell Douglas DC-X reusable rocket has made two more test
+flights, on Jun 20 and Jun 27. The second flight was aborted 
+because of an explosion in the aft compartment at launch time; the
+rocket made a successful emergency landing and the damage is reportedly
+not severe.
+
+Recent Launches
+---------------
+
+Date UT         Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Apr 23 0802     Kosmos-2278     Zenit-2         Baykonur LC45   SIGINT      23A
+Apr 26 0214     Kosmos-2279     Kosmos-3M       Plesetsk LC133  Navsat      24A
+Apr 28 1714     Kosmos-2280     Soyuz-U         Baykonur LC31   Recon       25A
+May  3 1555     USA-103         Titan Centaur   Canaveral LC41  SIGINT      26A
+May  4 0000     SROSS C2        ASLV            Sriharikota     Science     27A
+May  9 0247     MSTI-2          Scout G-1       Vandenberg SLC5 Technology  28A
+May 19 1703     P91-A (STEP 2)  Pegasus/HAPS    Point Arguello WA  Science  29A
+May 20 0201     Gorizont 42     Proton/DM2      Baykonur LC81   Comsat      30A
+May 22 0430     Progress M-23   Soyuz-U         Baykonur LC1?   Cargo       31A
+May 25 1015     Kosmos          Tsiklon-3       Plesetsk LC32   SIGINT?     FTO
+Jun  7 0720     Kosmos-2281     Soyuz-U         Plesetsk LC16   Recon       32A
+Jun 14 1605     Foton No. 9     Soyuz-U         Plesetsk LC43   Materials   33A
+Jun 17 0707     Intelsat 702 )  Ariane 44LP     Kourou ELA2     Comsat      34A
+                STRV 1       )                                  Technology  34B
+                STRV 2       )                                  Technology  34C
+Jun 24 1350     UHF F/O F3      Atlas I Centaur Canaveral LC36B Comsat      35A
+Jun 27 2115     STEP 1          Pegasus XL      Point Arguello WA Science   FTO
+Jul  1 1224     Soyuz TM-19     Soyuz-U2        Baykonur LC1    Spaceship   36A
+Jul  3 0804?     FSW             Chang Zheng 2   Jiuquan         Remote sens 37A
+
+Reentries
+---------
+
+May 23          Progress M-22   Deorbited
+Jun  3          Tiros VII       Reentered
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission 
+                                          
+OV-102 Columbia        LC39A         STS-65
+OV-103 Discovery       OPF Bay 2     STS-64
+OV-104 Atlantis        OPF Bay 3     STS-66
+OV-105 Endeavour       OPF Bay 1     STS-68
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/RSRM-40/ET-65          VAB Bay 3 STS-68
+ML2/RSRM-41                VAB Bay 1 STS-64 
+ML3/RSRM-39/ET-64/OV-102   LC39A     STS-65
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS4                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |                                    |
+'-------------------------------------------------------------------------'
+
+
+

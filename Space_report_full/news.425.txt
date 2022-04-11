@@ -1,0 +1,165 @@
+Jonathan's Space Report
+No. 425                                           2000 May 15  Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Stations
+--------------------
+
+Zalyotin and Kaleri continue their Mir mission with the Soyuz TM-30
+transport and the Progress M1-2 cargo ship. On May 12 they left the
+station for a spacewalk. The Kvant-2 airlock hatch was opened at 1044
+UTC and closed at 1536 UTC. The astronauts inspected the station and
+discovered burnt wiring on the Kvant solar array.
+
+Launch of STS-101 is scheduled for May 18.
+
+
+ Compton Observatory
+-------------------
+
+The Compton Gamma Ray Observatory is to be deorbited on June 3. NASA
+decided to end the mission because they were worried that if another
+gyroscope is lost, the heavy 14 tonne spacecraft might eventually
+reenter out of control. Although engineers came up with a way to control
+the descent without gyroscopes, NASA felt the risk was still too large.
+However, a number of scientists find the decision perverse and are
+urging NASA to keep the vehicle operating for now in view of the loss to
+science if one of the Great Observatories is abandoned. In my opinion,
+the decision to deorbit Compton is wrong (or at the very least, NASA has
+not presented Compton's users with a convincingly argued rationale), and
+the risks of keeping it in orbit are small, but it is unlikely that the
+NASA administrator will override Goddard Space Flight Center's director
+Al Diaz and Office of Space Science chief Ed Weiler,  who made the
+decision. 
+
+The following is extracted from a letter passed on to me by a gamma-ray
+astronomer - I agree with most of the points it makes, so I quote it here.
+
+"Safety is clearly and correctly a very high priority in everything that
+ NASA does.  However, it is important to have a realistic safety policy
+ that is applied uniformly to all missions.  The question is: Does
+ continuing operation of CGRO present unacceptable risk?  The risk of
+ continuing to fly CGRO was inconsistently described at the press
+ conference on March 24, 2000.   According to the NASA officials at the
+ press conference the decision was based upon a casualty risk of 1/1000
+ if another gyroscope failed, yet in response to a reporter's question
+ those same officials confirmed a risk estimate of 1 in 4 million for a
+ controlled reentry using zero gyroscopes."
+
+ "The scientific case for continuation of the mission is beyond question.
+ The NASA Senior Review made a strong case for continuing the CGRO
+ Mission.  The end of CGRO operations would affect virtually every
+ sub-discipline of astrophysics. The study of gamma-ray bursts and
+ high-energy emission from solar flares during the solar maximum period
+ will be particularly hard-hit.  With the damage suffered by the HESSI
+ satellite during tests, loss of CGRO leaves the US with no capability
+ for observing high-energy radiation from solar flares during the maximum
+ of solar activity.   The loss of CGRO will also be detrimental for many
+ of the scientific objectives of presently operating and upcoming
+ high-energy astrophysics missions, because it provides
+ targets-of-opportunity, all-sky monitoring and coordinated observations
+ over a very broad high-energy range.  These missions include: ASCA,
+ BeppoSAX, Chandra, INTEGRAL, HETE-2, Rossi XTE, SWIFT, and XMM-Newton. There is no
+ spacecraft planned for the next several years that can accomplish these
+ objectives. "
+
+On May 14, Compton was in a 482 x 487 km x 28.5 deg orbit. The
+observatory was launched in April 1991 on mission STS-37. Launch mass
+was 15622 kg (Shuttle Operational Data Book; the press kit gives 15713
+kg); different sources give the hydrazine load as 1822 kg or 1920 kg, so
+the dry mass is at most 13800 kg. 
+
+Current Launches
+----------------
+
+GOES L was launched on May 3 by Atlas Centaur AC-137. The satellite is a
+US civilian geostationary weather satellite in the Geostationary
+Operational Environmental Satellite series. It is the first GOES launch
+on the Atlas 2 class vehicle (the old Atlas 1 has now been phased out).
+GOES L will be renamed GOES 11 after it reaches geostationary orbit.
+GOES L was built by SS/Loral and is based on the FS-1300 bus. It has one
+solar panel array and  a counter-boom with a solar sail. As well as an
+imaging radiometer, the satellite carries an X-ray detector to monitor
+solar activity.
+
+Kosmos-2370 was launched on May 3. It is a 17F117 Neman-class
+advanced imaging reconnaissance satellite derived from the
+TsSKB-Progress Yantar'-4KS2 design. The Neman relays digital imagery to
+earth via geostationary comsats and is the Russian equivalent of the
+KH-11. Neman was first launched in Feb 1986 (Kosmos-1731). The last
+Neman satellite, Kosmos-2359, reentered in Jul 1999 after 1 year in
+orbit. The Soyuz-U launcher placed it in a 183 x 277 km x 64.8 deg
+initial orbit; it raised altitude to 240 x 300 km about 24
+hr after launch.
+
+Titan 4 B-29 was launched from Canaveral on May 8. The Titan 4B placed
+the TRW-built DSP 20 satellite in orbit with a Boeing Inertial Upper
+Stage, serial IUS-22. DSP 20 is an early warning satellite for the US
+Air Force; the two-stage IUS-22 solid rocket delivered DSP 20 to
+geostationary orbit. DSP 19 launched last year but was put in the wrong
+orbit when its IUS stage failed. This is the first fully successful
+Titan 4 mission from Cape Canaveral in four tries, a relief for Lockheed
+Martin Astronautics.
+
+  Recent Titan 4 Launches
+  
+  Date           Titan          Upper Stage              Payload
+  1997 Feb 23    4B-24          IUS-4                    DSP 18
+  1997 Oct 15    4B-33          Centaur TC-21            Cassini/Huygens
+  1997 Oct 24    4A-18          None                     USA 133
+  1997 Nov  8    4A-17          Centaur TC-16            USA 136
+  1998 May  9    4B-25          Centaur TC-18            USA 139
+  1998 Aug 12    4A-20 (failed) Centaur TC-9             MERCURY ?
+  1999 Apr  9    4B-27          IUS-21        (failed)   DSP 19
+  1999 Apr 30    4B-32          Centaur TC-14 (failed)   Milstar
+  1999 May 22    4B-12          None                     USA 144
+  2000 May  8    4B-29          IUS-22                   DSP 20
+
+
+Another Navstar Block IIR GPS navigation satellite, GPS IIR-4 or SVN 51,
+was launched  on May 11. The Boeing Delta II rocket placed GPS space
+vehicle number 51 in an elliptical transfer orbit. The GPS Block IIR
+satellites are built by Lockheed Martin/Sunnyvale and based on the
+Series 4000  comsat bus. The Thiokol Star 37 apogee motor will be used
+to circularize the orbit at 20000 km.
+
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Apr  4 0501   Soyuz TM-30       Soyuz-U        Baykonur LC1     Spaceship  18A
+Apr 17 2106   Sesat             Proton         Baykonur LC200L  Comsat     19A
+Apr 19 0029   Galaxy IVR        Ariane 42L     Kourou ELA2      Comsat     20A
+Apr 25 2008   Progress M1-2     Soyuz-U        Baykonur LC1     Cargo      21A
+May  3 0707   GOES 11           Atlas 2A       Canaveral SLC36A Weather    22A
+May  3 1325   Kosmos-2370       Soyuz-U        Baykonur LC1     Imaging    23A
+May  8 1601   DSP 20            Titan 4B       Canaveral LC40   Early Warn 24A
+May 11 0148   GPS SVN 51        Delta 7925     Canaveral SLC17A Navsat     25A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        Palmdale      OMDP
+OV-103 Discovery       OPF Bay 1     STS-92  2000 Sep?    ISS 3A
+OV-104 Atlantis        LC39A         STS-101 2000 May 18  ISS 2A.2a
+OV-105 Endeavour       OPF Bay 2     STS-97  2000 Nov?    ISS 4A
+
+
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+

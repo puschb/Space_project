@@ -1,0 +1,253 @@
+Jonathan's Space Report
+No. 289                     1996 Jun 5               Cambridge, MA
+-------------------------------------------------------------------------------
+
+Shuttle and Mir
+---------------
+
+Endeavour landed on runway 33 at Kennedy Space Center at 11:09:38 UTC
+on May 29 (with wheels stop at 11:10:32), completing mission STS-77.
+It has been returned to the Orbiter Processing Facility and is being
+prepared for transfer to Palmdale in California for its first
+Orbiter Maintenance Down Period (OMDP).
+
+Erratum: the PAMS STU deploy was at 0918 UTC on May 22.
+
+On May 30, Columbia was moved to the launch pad in preparation
+for mission STS-78.
+
+Mir EO-21 commander and flight engineer-1 Onufrienko and Usachyov made
+their 4th spacewalk from 1820 UTC to 2240 UTC on May 30 (C v.d. Berg's
+MirNews). They installed the European MOMS-2 earth resources camera on
+the Priroda module's science platform. Flight engineer-2 Shannon Lucid
+remained inside the complex.
+
+Recent Launches
+---------------
+
+The first launch of the new Ariane 5 rocket, mission V501, ended with
+destruction of the rocket after 40 seconds of flight, at an altitude of
+4000 m. The vehicle pitched over and then was destroyed by the range
+safety officer. It is not yet known whether the problem was in the main
+stage or the solid boosters.
+
+Ariane 5 consists of two P230 Aerospatiale EAP (Etage Acceleration a
+Poudre) solid strapon boosters, the Aerospatiale/SEP EPC (Etage
+Principal Cryotechnique)  cryogenic main stage, and the Daimler-Benz EPS
+(Etage 'a Propergols Stockables) storable liquid propellant upper stage
+with an L9.7 Aestus engine. The design is completely different from the
+Ariane 1 through 4 family which shared a common core stage with
+evolutionary modifications. First flights of large launch vehicles
+are very rare - Ariane 1 in 1979, Shuttle in 1981, Energiya in 1987,
+H-2 in 1994. This is the only failure of a large core stage on initial
+flight apart from the Russian N-1 moon rocket in 1969 and the first
+launch failure of a major space science payload since Mariner 8 in 1971.
+My best wishes and condolences to those of my friends working on the
+Cluster project. For comparison, I list below the history of initial
+launch attempts of new orbital rocket designs.
+
+--------------------------------------------------------------------------------
+   Orbital Launch Vehicle Core Stage First Flights
+   -----------------------------------------------
+   Stage Name   Vehicle       First         Notes    First orbital
+                              suborbital             attempt
+                              attempt
+Large and Medium
+----------------
+
+   Thor         Thor, Delta   1957 Jan 25   F        1958 Aug 17   F
+   R-7          Soyuz         1957 May 15   F        1957 Oct  4   S
+   Atlas        Atlas         1957 Jun 11   F        1958 Dec 18   S
+   Titan        Titan         1959 Feb  6            1964 Apr  8   S
+   Saturn S-I   Saturn I      1961 Oct 27   S        1964 Jan 29   S
+   R-36         Tsiklon       1963 Sep      ?        1965 Dec 16   S      
+   Blue Streak  Europa        1964 Jun  5   S        1968 Nov 29   F
+   UR-500       Proton                               1965 Jul 16   S
+  (Titan/SRM    Titan 3C                             1965 Dec 21   S)
+  (Saturn S-IB  Saturn IB     1966 Feb 26   S        1966 Jul  5   S)
+  (LT Thor      Thor, Delta                          1966 Aug  9   S)
+   Saturn S-IC  Saturn V                             1967 Nov  9   S	
+   N-1 Blok-A   N-1                                  1969 Feb 21   F
+   DF-5         Chang Zheng   1971 Sep?     ?        1973 Sep 18   F
+   Ariane L144  Ariane                               1979 Dec 24   S
+   OV/ET/SRB    Shuttle                              1981 Apr 12   S
+   Zenit 11S771 Zenit-2                              1985 Apr 13   F
+   Energiya     Energiya                             1987 May 15   S
+  (Ariane L220  Ariane 4                             1988 Jun 15   S)
+  (EELT Thor    Delta II                             1989 Feb 14   S)
+  (Titan 4      Titan 4                              1989 Jun 14   S)
+  (Atlas II     Atlas II                             1991 Dec  7   S)
+   H-II         H-II                                 1994 Feb  3   S
+   Ariane EPC   Ariane 5                             1996 Jun  4   F
+   
+Small
+----
+
+   Redstone     Juno I        1953 Aug 20   S        1958 Feb  1   S
+   Jupiter      Juno II       1957 Mar  1   F        1958 Dec  6   S
+   R-12         Kosmos 11K63  1957 Jun 22   S?       1961 Oct 27   F
+   Vanguard     Vanguard      1957 Oct 23   S        1957 Dec  6   F
+   Algol        Scout         1960 Apr 18   S        1960 Dec  4   F
+   R-14         Kosmos-3M     1960 Jun  6   ?        1964 Aug 18   S
+   L735         Lambda        1963 Aug 24   S        1966 Sep 26   F
+   Emeraude     Diamant       1964 Jun 15   S        1965 Nov 26   S
+   Black Arrow  Black Arrow   1969 Jun 28   F        1970 Sep  2   S
+   M-10         Mu            1969 Aug 17   S        1970 Sep 25   F
+   DF-3         Chang Zheng 1 1970 Jan 10?           1970 Apr 24   S
+   SLV-3        SLV-3                                1979 Aug 10   F
+   Jericho      Shaviyt       ?                      1988 Sep 19   S
+   Topol'       Start         1982 Oct 27   S        1993 Mar 25   S
+   TU-904       MX/Taurus     1983 Jun 17   S        1994 Mar 13   S
+   Pegasus S1   Pegasus                              1990 Apr  5   S 
+   PS1          PSLV                                 1993 Sep 20   S
+   UR-100N      Rokot         1972?                  1994 Dec 26   S   
+
+Notes: Suborbital attempt listed if prior to first orbital attempt. 
+First orbital attempt is that of stage, may not be that of listed
+vehicle (e.g. 11A511 Soyuz did not fly until 1966, but used R-7 core
+stage which had Sputnik orbital flight in 1957).
+F = Failed, S = Successful first stage.
+Major upgrades to previously flown core designs in parentheses.
+Castor 120 is considered a minor upgrade to TU-904; Amethyste a minor
+upgrade to Emeraude, etc.
+Energiya core stage worked OK but payload engine failed to place
+payload in orbit. Relationship between UR-100N and 1960's UR-100 is unclear.
+Have I missed anything?
+--------------------------------------------------------------------------------
+
+
+
+ The payload of mission 501 was a set of 4 identical space science
+satellites called Cluster. The satellites would have been delivered to
+geostationary transfer orbit of 280 x 36000 km x 10 deg to demonstrate
+Ariane 5's suitability for commercial comsat missions. 
+
+Cluster F1 and Cluster F2 were carried in a pair on top of a Speltra
+support structure. They would separate from Speltra and then later from
+each other; the Speltra would then  separate from the EPS stage
+revealing the Cluster F3 and F4 pair it had encapsulated. F3 and F4
+would then separate from EPS and finally from each other.
+
+The four satellites would then have used their own propulsion to
+maneuver to entirely different highly elliptical orbits to study the
+magnetosphere. The Cluster satellites, built by Daimler-Benz Aerospace's
+Dornier unit, have a dry mass of 600 kg and carry 600 kg of N2O2/MMH
+fuel for their DASA S400 liquid propulsion system. The 400N engine would
+have made five burns to enter a final orbit of 25000 x 140000 km and a
+polar inclination. The satellites had four 50-m long booms to study
+electric fields and plasma, and included ion spectrometers,
+magnetometers, and particle imaging detectors.
+
+Cluster, together with the successful SOHO satellite, was ESA's
+first Cornerstone (CS1) mission under the Horizon 2000 program. Its
+loss puts a big dent in the European space science program.
+
+
+TSS-1R Investigation
+--------------------
+
+NASA's Tethered Satellite failure review board has reported its
+findings. According to the board and to scientists familiar with the
+project, the proximate cause of the TSS-1R tether snapping was because
+of arcing from the tether to the deployer, burning through the Kevlar
+which provided tether strength. This happened when there was a high
+voltage (3500V) between the tether and the deployer. It is believed that
+the arcing occurred because of  contamination in the system, and extreme
+vulnerability of the system to a single small defect in the tether
+insulation. Metal and  plastic debris was present in the deployer system
+built by Martin-Marietta, and inside the tether (built by Cortland Cable
+Co.) underneath the insulation. The latter must have arisen during the
+manufacturing process; the former may have arisen at any time prior to
+the TSS-1R launch since the deployer lower tether control mechanism was
+not opened up following the first unsuccessful flight. One possibility
+is that a piece of debris made a small hole in the insulation of the
+tether as it unreeled while it was at a high voltage with no current
+path to the science instruments (since the switch was in the open
+position). The circuit was completed through gas in the deployer system
+to the metal in the deployer, arcing and causing scorching on several of
+the pulley systems as the bad spot on the tether moved through the
+deployer. The arcing continued until the bad spot was travelling up the
+deployer boom, at which point the tether broke. A spark test to verify
+tether integrity was performed at the time of manufacture, but no repeat
+test was performed after years of storage prior to the TSS-1R flight. Of
+course NASA studiously avoids assigning any specific blame either to
+managers at NASA-Marshall or to Martin Marietta and its subcontractors;
+but it looks like an important issue is checking quality control after
+long storage times, the same thing that fried the Galileo HGA (no
+relubrication of the antenna pins) and a host of less serious setbacks
+that ensued after the long launch delays of the 1980s. Another issue as
+far as I can see is that it looks like the design could have been made
+more likely to survive such an electrical failure by providing alternate
+current paths to shut the system down when a short is detected.
+
+
+Table of Recent Launches
+------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                           DES.
+
+Apr  3 2301   Inmarsat III F1  Atlas IIA      Canaveral LC36  Comsat      20A
+Apr  8 2309   Astra 1F         Proton-K/DM3   Baykonur LC81   Comsat      21A
+Apr 20 2236   M-SAT 1          Ariane 42P     Kourou ELA2     Comsat      22A
+Apr 23 1148   Priroda          Proton-K       Baykonur LC81   Spaceship   23A
+Apr 24 1227   MSX              Delta 7920     Vandenberg SLC2W Mil.tech.  24A 
+Apr 24 1303   Kosmos-2332      Kosmos-3M      Plesetsk        Radar cal   25A
+Apr 24 2337   USA-118          Titan 401      Canaveral LC41  Sigint      26A
+Apr 30 0431   BeppoSAX         Atlas I        Canaveral LC36B Astronomy   27A
+May  5 0704   Progress M-31    Soyuz-U        Baykonur LC1    Cargo       28A
+May 12 2132   USA-119          Titan 403?     Vandenberg SLC4E Recon?     29A
+              USA-120?                                                    29B?
+              USA-121?                                                    29C?
+              USA-122                                                     29D
+May 14        Kometa?          Soyuz-U        Baykonur LC31   Recon       FTO
+May 16 0156   Palapa C2   )    Ariane 44L     Kourou ELA2     Comsat      30A
+              AMOS        )                                   Comsat      30B
+May 17 0244   MSTI-3           Pegasus        L-1011,Pacific  Technology  31A
+May 19 1030   Endeavour        Shuttle        Kennedy LC39B   Spaceship   32A
+May 20 1129   Spartan 207                                     Technology  32B
+              IAE                                             Technology  32C
+May 22 0918   PAMS STU                                        Technology  32D
+May 23 2310   Galaxy 9         Delta 7925     Canaveral LC17B Comsat      33A
+May 25        Gorizont         Proton-K/DM2   Baykonur        Comsat      34A
+Jun  4 1234   Cluster F1  )    Ariane 5       Kourou ELA3     Science     FTO
+              Cluster F2  )
+              Cluster F3  )
+              Cluster F4  )
+
+
+Payloads no longer in orbit
+--------------------------
+
+May 13        Kosmos-2293          Reentered
+May 22        IAE                  Reentered
+May 29        Endeavour/Spartan    Landed at KSC
+
+Current Shuttle Processing Status
+____________________________________________
+
+Orbiters               Location   Mission    Launch Due
+                                           
+OV-102 Columbia        LC39B         STS-78  Jun 20
+OV-103 Discovery       Palmdale      OMDP
+OV-104 Atlantis        OPF Bay 1     STS-79  Jul 31
+OV-105 Endeavour       OPF Bay 3     OMDP
+                                          
+ML/SRB/ET/OV stacks                       
+                  
+ML1/                    
+ML2/RSRM-54             VAB Bay 1      STS-79
+ML3/RSRM-55/ET-79/OV102 LC39B          STS-78
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@urania.harvard.edu    |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/QEDT/jcm/space/jsr/jsr.html             |
+|      ftp://sao-ftp.harvard.edu/pub/jcm/space/news/news.*                |
+'-------------------------------------------------------------------------'
+
+

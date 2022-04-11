@@ -1,0 +1,352 @@
+Jonathan's Space Report
+No. 383                                       1998 Dec 24 Cambridge, MA
+-------------------------------------------------------------------------------
+Travel followed by email problems caused me to get behind, so here's
+a bumper winter solstice issue to catch up. Next week I expect to
+publish the usual annual launch list.
+
+Shuttle and Station
+------------------------
+
+On Dec 6 Endeavour was docked to the International Space Station,
+consisting of PMA-2, Unity, PMA-1  and Zarya. The vehicles are in a 386
+x 401 km x 51.6 deg orbit.
+
+Ross and Newman made the first spacewalk to connect up cables with
+Zarya. Hatch open on the Tunnel Adapter was at 2210 UTC on Dec 7, and
+the airlock was repressurized at 0532 UTC on Dec 8. The second EVA, to
+install antennas, was from Dec 9 at 2033 UTC to Dec 10 at 0335 UTC. A
+third EVA began at 2033 UTC on Dec 12 and lasted 6h 59min, during which
+a canvas tool bag was attached to the exterior of Unity to provide
+tools for future spacewalkers. They also disconnected some docking cables,
+so that Unity and Zarya can no longer undock.
+
+Endeavour undocked from the ISS at 2030 UTC on Dec 13; the Unity module
+has been cataloged by Space Command and given the international
+designation 1998-67F. The SAC-A and Mightysat satellites were ejected
+from the payload bay on Dec 14 and Dec 15. Deorbit burn was Dec 18 at
+0248 UTC, and  Endeavour landed on Dec 18 at 0353:29 UTC, on runway 15
+at Kennedy Space Center.
+
+Errata:
+ - Third stage for the Mars Climate Orbiter launch was the
+usual Star 48, not the alternate Star 37FM as I claimed last
+week. Apologies for the error.
+
+ - I keep misspelling the location of the organization
+formerly known as McDonnell Douglas. It is Huntington Beach,
+not Huntingdon Beach. The Huntington Beach unit built the
+PMA-1 and PMA-2 docking adapters used on the Station.
+
+AXAF/Chandra
+------------
+
+The Advanced X-ray Astrophysics Facility (AXAF) has been renamed the
+Chandra X-ray Observatory. Launch will be in April 1999. The CXO
+name honors physicist Subrahmanyan Chandrasekhar; see my short bio page
+for him at 
+ http://hea-www.harvard.edu/QEDT/jcm/space/axaf/chandra.html
+The spacecraft will be operated from the Chandra X-ray Center (CXC)
+in Cambridge, Massachusetts. CXO is currently at TRW's plant in
+Los Angeles, and will be flown to Florida in January.
+
+Recent Launches
+---------------
+
+Arianespace launched the PAS 6B satellite on Dec 22. The Ariane 42L
+rocket took off from the ELA2 pad at Kourou's Centre Spatial Guyanais
+and its hydrogen-oxygen H-10-3 third stage placed the satellite in
+transfer orbit after a 20 minute flight. Transfer orbit is 228 x 35717
+km x 7.0 deg. PAS 6B is a Hughes HS-601HP satellite which will provide
+direct TV broadcasting to South America. Mass is 3475 kg at launch. PAS
+6B will replace PAS 6, a Loral satellite which had problems with its
+solar arrays. The new satellite has 32 Ku-band transponders.
+
+Two replacement Motorola Iridium satellites were launched by a Chinese
+CZ-2 rocket on Dec 19. Their parking orbit is 623 x 656 km x 86.4 deg.
+The satellites have been given operating numbers 11 and 20; I don't know
+their production numbers.
+
+A Parus navigation satellite was launched from GIK-1 Plesetsk on Dec 24
+and given the name Kosmos-2361. Polyot's 11K65M Kosmos-3M launch vehicle
+placed the craft and the Kosmos-3M second stage in transfer orbit; a
+second burn of the S3M stage left Kosmos-2361 in a circular 969 x 1013
+km x 82.9 deg orbit. Kosmos-2361 is in the same orbital plane as Kosmos-2233.
+Recent Parus satellites include:
+
+   Satellite       Plane (relative deg)
+
+   Kosmos-2266     0
+   Kosmos-2327     0
+   Kosmos-2334     0
+   Kosmos-2341     0
+   Kosmos-2310     30
+   Kosmos-2339     30
+   Kosmos-2218     60
+   Kosmos-2239     90
+   Kosmos-2336     90
+   Kosmos-2233     120
+   Kosmos-2361     120
+   Kosmos-2279     150
+
+Japan's Nozomi Mars probe made a lunar flyby at an altitude of 2809 km
+on Dec 18 at 0734 UTC followed by a 1003 km Earth flyby on Dec 20 at
+0810 UTC. The perigee burn resulted in an escape orbit with too little
+velocity, and a correction burn on Dec 21 had to use much more fuel than
+planned to adjust the trajectory (a AP wire report of a `second swingby'
+on Dec 21 is simply incorrect). Nozomi was launched in July; it made six
+orbits in a 700 x 480000 km parking orbit before a lunar flyby on Sep 24
+placed it in a large loop orbit with an apogee of  at least 1.6 million
+km, which it reached on about Nov 10 before falling back to its second
+lunar encounter on Dec 18. Meanwhile, NASA's Mars Climate Orbiter made
+its first orbit correction at 2133 UTC on Dec 21 and is now on course
+for Mars.
+
+The NEAR space probe ran into trouble on Dec 20 at 2200 UTC when
+controllers lost contact during an engine burn. A signal was picked up
+early on Dec 22, and it appears that  a main engine malfunction was
+followed by a software error putting the  craft into a tumble. NEAR made
+a flyby of minor planet (433) Eros at 4100 km at 1843 UTC on Dec 23. The
+Eros rendezvous may be delayed to May 2000. NEAR is a NASA Discovery
+mission operated by APL. 
+
+Lunar Prospector lowered its polar lunar orbit on Dec 19 from 77 x 122 km 
+to 25 x 55 km. In October its orbital inclination was 85 deg, but
+status reports haven't given this value recently.
+
+Hammaguir Query
+---------------
+
+I'm trying to research the former French launch site CIEES-Hammaguir,
+in Algeria. Does anyone have a map showing the locations of the
+four pads at Hammaguir? If so, please contact me.
+
+LEO Constellations
+------------------
+
+Here is an update on the Iridium, Globalstar and Orbcomm constellations.
+ For Iridium, mappings of NORAD catalog numbers to satellites have been
+confirmed by a Motorola source. Note that satellite 1997-43C (Iridium
+SV024) is being tracked as catalog 25105, while satellite 1997-82B
+(Iridium SV46) is being tracked as catalog 24905, although they were
+initially cataloged the other way around. Orbital plane info is given as
+longtiude of ascending node on about Dec 16, followed by plane number.
+Tail ID is a telephony routing node identifier that is reused - thus
+there is a new Iridium 11 to replace the one that failed earlier. SV
+serial number is the production serial of the satellite and is the one
+unique identifier for the satellite.
+ For Globalstar and Orbcomm, I don't know which of the satellites
+are currently in service.
+ The Iridium satellites are made by Motorola/Chandler with a Lockheed
+Martin/Sunnyvale spacecraft bus. The Globalstars are made by Loral/Palo
+Alto and Alenia/Torino using an LS-400 bus. The Orbcomms are made by
+Orbital/Germantown using the Microstar bus.
+
+NORAD INTL.     Tail ID    Serial P/min   Height/km   Inc/deg Plane   Notes
+--------------------------------------------------------------------------------
+Iridium satellites
+
+24796 1997-020E Iridium 4  SV004  100.40 775 x 780 x  86.40  262.5 4
+24795 1997-020D Iridium 5  SV005  100.40 775 x 779 x  86.40  262.5 4
+24794 1997-020C Iridium 6  SV006  100.40 774 x 780 x  86.40  262.5 4
+24793 1997-020B Iridium 7  SV007  100.40 774 x 781 x  86.40  262.4 4
+24792 1997-020A Iridium 8  SV008  100.40 775 x 780 x  86.40  262.5 4
+24838 1997-030C Iridium 9  SV009  100.40 775 x 779 x  86.40  294.2 5
+24839 1997-030D Iridium 10 SV010  100.40 775 x 779 x  86.40  294.0 5
+24842 1997-030G Iridium 11 SV011  100.07 749 x 774 x  86.44  294.6 5 [Not in service]
+24837 1997-030B Iridium 12 SV012  100.40 775 x 780 x  86.40  294.2 5
+24840 1997-030E Iridium 13 SV013  100.40 775 x 779 x  86.40  294.2 5 
+24836 1997-030A Iridium 14 SV014  100.40 776 x 778 x  86.39  294.2 5 [Not in service]
+24841 1997-030F Iridium 16 SV016  100.40 776 x 779 x  86.40  294.2 5
+24869 1997-034A Iridium 15 SV015  100.40 776 x 778 x  86.40  325.8 6
+24870 1997-034B Iridium 17 SV017  100.40 776 x 778 x  86.39  325.8 6
+24872 1997-034D Iridium 18 SV018  100.40 776 x 778 x  86.39  325.8 6
+24871 1997-034C Iridium 20 SV020  100.37 768 x 784 x  86.40  325.7 6 [Failed]
+24873 1997-034E Iridium 21 SV021   97.38 626 x 640 x  86.39  310.4 6 [Failed in low orbit]
+24907 1997-043E Iridium 22 SV022  100.40 776 x 779 x  86.40  199.3 2
+25105 1997-043D Iridium 23 SV023  100.40 776 x 779 x  86.40  199.4 2 
+24905 1997-043C Iridium 24 SV024  100.40 769 x 785 x  86.40  199.3 2 [Should be 24905, failed]
+24904 1997-043B Iridium 25 SV025  100.40 775 x 779 x  86.40  199.4 2
+24903 1997-043A Iridium 26 SV026  100.40 776 x 779 x  86.40  199.4 2
+24925 1997-048A Iridium    MFS 1   97.25 620 x 633 x  86.34  271.9 5 [Dummy satellite]
+24926 1997-048B Iridium    MFS 2   97.26 620 x 634 x  86.34  272.0 5 [Dummy satellite]
+24947 1997-051D Iridium 27 SV027   95.61 542 x 553 x  86.65  223.2 3 [Failed in low orbit]
+24948 1997-051E Iridium 28 SV028  100.40 776 x 779 x  86.40  230.9 3
+24944 1997-051A Iridium 29 SV029  100.40 776 x 779 x  86.40  230.9 3
+24949 1997-051F Iridium 30 SV030  100.40 775 x 779 x  86.40  230.8 3
+24950 1997-051G Iridium 31 SV031  100.40 776 x 779 x  86.40  230.9 3
+24945 1997-051B Iridium 32 SV032  100.40 776 x 779 x  86.40  230.9 3
+24946 1997-051C Iridium 33 SV033  100.40 776 x 778 x  86.40  230.9 3
+24965 1997-056A Iridium 19 SV019  100.40 775 x 779 x  86.40  262.4 4
+24969 1997-056E Iridium 34 SV034  100.40 775 x 779 x  86.40  262.5 4
+24968 1997-056D Iridium 35 SV035  100.40 775 x 779 x  86.40  262.5 4 
+24967 1997-056C Iridium 36 SV036  100.40 775 x 779 x  86.40  262.4 4
+24966 1997-056B Iridium 37 SV037  100.40 775 x 780 x  86.40  262.6 4
+25043 1997-069E Iridium 38 SV038  100.40 775 x 779 x  86.39  325.6 6
+25042 1997-069D Iridium 39 SV039  100.40 775 x 779 x  86.39  325.8 6
+25041 1997-069C Iridium 40 SV040  100.40 776 x 779 x  86.39  325.8 6
+25040 1997-069B Iridium 41 SV041  100.40 775 x 779 x  86.39  325.8 6
+25039 1997-069A Iridium 43 SV043  100.40 776 x 779 x  86.39  325.8 6
+25077 1997-077A Iridium 42 SV042  100.40 775 x 779 x  86.40  325.8 6
+25078 1997-077B Iridium 44 SV044  100.40 774 x 780 x  86.39  325.8 6 [Not in service]
+25104 1997-082A Iridium 45 SV045  100.40 776 x 779 x  86.40  199.4 2
+24905 1997-082B Iridium 46 SV046  100.40 776 x 779 x  86.41  199.4 2 [Should be 25105]
+25106 1997-082C Iridium 47 SV047  100.40 776 x 779 x  86.40  199.4 2
+25107 1997-082D Iridium 48 SV048  100.40 775 x 780 x  86.40  199.4 2
+25108 1997-082E Iridium 49 SV049  100.40 775 x 779 x  86.40  199.4 2
+25172 1998-010D Iridium 50 SV050  100.40 775 x 779 x  86.40  294.2 5
+25169 1998-010A Iridium 52 SV052  100.40 775 x 779 x  86.40  294.1 5
+25173 1998-010E Iridium 53 SV053  100.40 775 x 779 x  86.40  294.2 5
+25171 1998-010C Iridium 54 SV054  100.40 775 x 779 x  86.40  294.2 5
+25170 1998-010B Iridium 56 SV056  100.40 774 x 780 x  86.39  294.0 5
+25262 1998-018A Iridium 51 SV051   99.90 751 x 756 x  86.45  262.5 4 [Not in service]
+25263 1998-018B Iridium 61 SV061  100.40 774 x 780 x  86.40  262.5 4
+25272 1998-019A Iridium 55 SV055  100.40 775 x 780 x  86.40  230.9 3
+25273 1998-019B Iridium 57 SV057  100.40 775 x 779 x  86.40  230.9 3
+25274 1998-019C Iridium 58 SV058  100.40 775 x 779 x  86.40  230.9 3
+25275 1998-019D Iridium 59 SV059  100.40 775 x 779 x  86.40  230.9 3
+25276 1998-019E Iridium 60 SV060  100.40 775 x 779 x  86.40  230.9 3  
+25285 1998-021A Iridium 62 SV062  100.40 776 x 778 x  86.40  167.9 1
+25286 1998-021B Iridium 63 SV063  100.40 775 x 779 x  86.40  167.8 1
+25287 1998-021C Iridium 64 SV064  100.40 776 x 779 x  86.40  167.6 1
+25288 1998-021D Iridium 65 SV065  100.40 776 x 778 x  86.40  167.9 1
+25289 1998-021E Iridium 66 SV066  100.40 773 x 782 x  86.40  167.8 1
+25290 1998-021F Iridium 67 SV067  100.40 774 x 780 x  86.40  167.8 1
+25291 1998-021G Iridium 68 SV068  100.40 775 x 779 x  86.40  167.8 1
+25319 1998-026A Iridium 69 SV069  100.46 777 x 783 x  86.40  199.4 2 [Not in service]
+25320 1998-026B Iridium 71 SV071  100.40 775 x 778 x  86.40  199.3 2 [Not in service]
+25342 1998-032A Iridium 70 SV070  100.40 775 x 780 x  86.40  167.8 1
+25343 1998-032B Iridium 72 SV072  100.40 776 x 779 x  86.40  167.8 1
+25344 1998-032C Iridium 73 SV073  100.40 776 x 778 x  86.40  167.8 1
+25345 1998-032D Iridium 74 SV074  100.40 775 x 779 x  86.40  167.8 1
+25346 1998-032E Iridium 75 SV075   98.63 691 x 694 x  86.55  167.7 1 [Not in service]
+25432 1998-048B Iridium 76 SV076  100.40 775 x 779 x  86.40  199.4 2
+25431 1998-048A Iridium 3  SV078  100.40 776 x 779 x  86.40  199.4 2
+25471 1998-051E Iridium 77 SV077   98.96 707 x 709 x  86.52  325.4 6 [Not in service]
+25470 1998-051D Iridium 79 SV079   95.01 494 x 544 x  86.01  316.3 6 [Failed in low orbit]
+25469 1998-051C Iridium 80 SV080  100.40 774 x 781 x  86.40  325.7 6
+25468 1998-051B Iridium 81 SV081  100.40 775 x 779 x  86.40  325.7 6
+25467 1998-051A Iridium 82 SV082   98.96 706 x 711 x  86.52  325.6 6 [Not in service]
+25531 1998-066E Iridium 83 SV083  100.40 775 x 779 x  86.40  294.2 5
+25530 1998-066D Iridium 84 SV084   98.85 701 x 705 x  86.52  294.1 5 [Raising orbit]
+25529 1998-066C Iridium 85 SV085   95.12 512 x 536 x  86.02  291.1 5 [Parking orbit]
+25528 1998-066B Iridium 86 SV086   98.86 701 x 706 x  86.52  293.9 5 [Raising orbit]
+25527 1998-066A Iridium 2  SV087   95.14 512 x 538 x  85.40  289.1 5 [Parking orbit]
+25577 1998-074A Iridium 11 SV088?  97.52 623 x 656 x  86.35  197.0 2 [Parking orbit]
+25578 1998-074B Iridium 20 SV089?  97.50 623 x 654 x  86.35  197.2 2 [Parking orbit]
+--------------------------------------------------------------------------------
+Globalstar satellites
+
+25162 1998-008A Globalstar FM1   114.08   1411 x   1415 x  52.03   43.9 1
+25163 1998-008B Globalstar FM2   114.08   1412 x   1414 x  52.01   43.8 1
+25164 1998-008C Globalstar FM3   114.08   1404 x   1422 x  52.01   42.4 1
+25165 1998-008D Globalstar FM4   114.10   1391 x   1437 x  52.00   43.6 1
+25306 1998-023A Globalstar FM6   114.08   1411 x   1415 x  51.99   90.4 2
+25307 1998-023B Globalstar FM8   114.03   1407 x   1415 x  52.00   88.9 2
+25308 1998-023C Globalstar FM14  114.08   1411 x   1415 x  52.00   90.2 2
+25309 1998-023D Globalstar FM15  114.08   1404 x   1423 x  52.03   88.0 2
+-     1998-F05  Globalstar FM5   -        Failed to orbit
+-     1998-F05  Globalstar FM7   -        Failed to orbit
+-     1998-F05  Globalstar FM9   -        Failed to orbit
+-     1998-F05  Globalstar FM10  -        Failed to orbit
+-     1998-F05  Globalstar FM11  -        Failed to orbit
+-     1998-F05  Globalstar FM12  -        Failed to orbit
+-     1998-F05  Globalstar FM13  -        Failed to orbit
+-     1998-F05  Globalstar FM16  -        Failed to orbit
+-     1998-F05  Globalstar FM17  -        Failed to orbit
+-     1998-F05  Globalstar FM18  -        Failed to orbit
+-     1998-F05  Globalstar FM20  -        Failed to orbit
+-     1998-F05  Globalstar FM21  -        Failed to orbit
+
+--------------------------------------------------------------------------------
+Orbcomm satellites
+
+23545 1995-017A Orbcomm F1   FM1    99.56    728 x    747 x  69.98  199.1  F
+23546 1995-017B Orbcomm F2   FM2    99.56    728 x    747 x  69.98  198.5  F
+25112 1997-084A Orbcomm A1   FM5   101.26    812 x    823 x  45.03  297.7  A
+25113 1997-084B Orbcomm A2   FM6   101.26    813 x    822 x  45.03  300.7  A
+25114 1997-084C Orbcomm A3   FM7   101.26    813 x    822 x  45.03  301.0  A
+25115 1997-084D Orbcomm A4   FM8   101.26    813 x    823 x  45.02  300.5  A
+25116 1997-084E Orbcomm A5   FM9   101.26    814 x    822 x  45.02  301.0  A
+25117 1997-084F Orbcomm A6   FM10  101.26    812 x    823 x  45.02  301.2  A
+25118 1997-084G Orbcomm A7   FM11  101.26    813 x    823 x  45.02  301.2  A
+25119 1997-084H Orbcomm A8   FM12  101.26    812 x    823 x  45.02  301.2  A
+25158 1998-007B Orbcomm G1   FM3   101.46    781 x    874 x 107.99  297.9  G
+25159 1998-007C Orbcomm G2   FM4   101.45    783 x    871 x 107.99  298.1  G
+25413 1998-046A Orbcomm B5   FM17  101.28    813 x    824 x  45.00   61.0  B
+25414 1998-046B Orbcomm B6   FM18  101.28    810 x    827 x  45.00   59.7  B
+25415 1998-046C Orbcomm B7   FM19  101.28    809 x    828 x  45.00   61.1  B
+25416 1998-046D Orbcomm B8   FM20  101.28    811 x    826 x  45.00   61.2  B
+25417 1998-046E Orbcomm B4   FM16  101.28    812 x    825 x  45.00   59.9  B
+25418 1998-046F Orbcomm B3   FM15  101.28    812 x    825 x  45.01   60.0  B
+25419 1998-046G Orbcomm B2   FM14  101.28    811 x    826 x  45.00   60.4  B
+25420 1998-046H Orbcomm B1   FM13  101.27    813 x    824 x  45.00   60.4  B
+25475 1998-053A Orbcomm C1   FM21  101.27    811 x    825 x  45.01  181.6  C
+25476 1998-053B Orbcomm C2   FM22  101.27    814 x    823 x  45.02  178.0  C
+25477 1998-053C Orbcomm C3   FM23  101.27    813 x    823 x  45.02  181.8  C
+25478 1998-053D Orbcomm C4   FM24  101.27    814 x    822 x  45.01  181.7  C
+25479 1998-053E Orbcomm C5   FM25  101.27    813 x    824 x  45.01  181.5  C
+25480 1998-053F Orbcomm C6   FM26  101.27    811 x    825 x  45.01  181.5  C
+25481 1998-053G Orbcomm C7   FM27  101.27    813 x    823 x  45.02  181.6  C
+25482 1998-053H Orbcomm C8   FM28  101.27    813 x    824 x  45.03  181.7  C
+--------------------------------------------------------------------------------
+
+Table of Recent Launches
+-----------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.
+                                                                          DES.
+
+Nov  1 1703   Spartan 201       -              Discovery, LEO   Astronomy  64C
+Nov  4 0512   PAS 8             Proton-K/DM3   Baykonur         Comsat     65A
+Nov  6 1337   Iridium 87)       Delta 7920-10C Vandenberg SLC2W Comsat     66A
+              Iridium 83)                                       Comsat     66E
+              Iridium 84)                                       Comsat     66D
+              Iridium 85)                                       Comsat     66C
+              Iridium 86)                                       Comsat     66B
+Nov 10 1930?  Spoutnik-41       -              Mir, LEO         Amateur    62C
+Nov 20 0640   Zarya             Proton-K       Baykonur LC81L   Station    67A
+Nov 22 2354   BONUM-1           Delta 7925     Canaveral SLC17B Comsat     68A
+Dec  4 0835   Endeavour  )      Shuttle        Kennedy LC39A    Spaceship  69A
+              Unity      )                                      Station    69F
+              PMA-1      )
+              PMA-2      )
+Dec  6 0043   Satmex 5          Ariane 42L     Kourou ELA2      Comsat     70A
+Dec  6 0057   SWAS              Pegasus XL     Vandenberg       Astronomy  71A
+Dec 10 1157   Nadezhda  )       Kosmos-3M      Plesetsk         Navsat     72A
+              Astrid-2  )	                                Science    72B
+Dec 11 1845   Mars Climate Orb. Delta 7425     Canaveral SLC17A Mars probe 73A
+Dec 14 0431   SAC-A                            Endeavour,LEO    Science    69B
+Dec 15 0209   Mightysat                        Endeavour,LEO    Technol.   69C
+Dec 19 1130   Iridium 88?)      CZ-2C/SD       Taiyuan          Comsat     74A
+              Iridium 89?)                                      Comsat     74B
+Dec 22 0108   PAS 6B            Ariane 42L     Kourou ELA2      Comsat     75A
+Dec 24 2003   Kosmos-2361       Kosmos-3M      Plesetsk         Navsat     76A
+
+Current Shuttle Processing Status
+_________________________________
+
+Orbiters               Location   Mission    Launch Due
+
+OV-102 Columbia        OPF Bay 3     STS-93  Apr 1999
+OV-103 Discovery       OPF Bay 1     STS-96  May 1999
+OV-104 Atlantis        VAB Bay 2     STS-101 Aug 1999
+OV-105 Endeavour       OPF Bay 2     STS-99  Sep 1999
+
+MLP1/RSRM-69/ET-99             VAB Bay 1 STS-93
+MLP2/
+MLP3/                          
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Harvard-Smithsonian Center for    |                                    |
+|   Astrophysics                     |                                    |
+|  60 Garden St, MS6                 |                                    |
+|  Cambridge MA 02138                |  inter : jcm@cfa.harvard.edu       |
+|  USA                               |          jmcdowell@cfa.harvard.edu |
+|                                                                         |
+| JSR: http://hea-www.harvard.edu/~jcm/space/jsr/jsr.html                 |
+| Back issues:  http://hea-www.harvard.edu/~jcm/space/jsr/back            |
+| Subscribe/unsub: mail majordomo@head-cfa.harvard.edu, (un)subscribe jsr |
+'-------------------------------------------------------------------------'
+
+

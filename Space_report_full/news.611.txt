@@ -1,0 +1,240 @@
+Jonathan's Space Report
+No. 611                                             2009 May 27  Somerville, MA
+--------------------------------------------------------------------------------
+
+Shuttle and Station
+--------------------
+
+Space Shuttle OV-104 Atlantis was launched from pad 39A on May 11 at
+Kennedy Space Center on mission STS-125, Hubble Servicing Mission SM-4.
+Beginning its rendezvous with the Hubble Space Telescope, Atlantis was
+initially placed in a 53 x 537 km x 28.5 deg orbit and then, after an
+OMS burn at 1845 UTC, into a 201 x 550 km orbit. HST is in a 562 x 568
+km x 28.5 deg orbit and was grappled by the RMS arm on  Atlantis at 1714
+UTC on May 13. The RMS berthed HST in the payload bay at 1812 UTC. 
+
+The airlock was depressurized at 1248 UTC on May 14 and Grunsfeld and
+Feustel opened the hatch at 1251 UTC for the first spacewalk.
+The astronauts swapped WFPC2 for the new Wide Field Camera 3 and
+replaced the broken science data handling unit.
+
+The second spacewalk, by Massimino and Good on May 15, lasted from 1247
+UTC (depress) to 2045 UTC (repress). Three Rate Sensing Units, each with
+two gyros, were installed, replacing older ones. Problems with one unit
+forced the astronauts to install a backup and caused the spacewalk to
+overrun, lasting almost 8 hours. On May 16's EVA-3, Grunsfeld and Feustel
+replaced COSTAR with the COS spectrograph and fixed the ACS camera.
+Depress to 0.7 psi was at 1331 UTC, hatch open at 1334, closed at 2005,
+and repress at 2011 UTC.
+
+During EVA-4 on May 17 Massimino and Good repaired the STIS instrument,
+with no time left over for other tasks. Hatch open was 1344 UTC about
+two minutes after depressurization; hatch closed at 2139 UTC followed by
+repressurization at 2147 UTC. EVA-5 on May 18 featured Grunsfeld and
+Feustel again; it began with airlock depressurization at 1217 UTC and
+hatch open at 1220 UTC. After a battery replacement and replacement of
+one of the Fine Guidance Sensors, the astronauts buttoned up the
+telescope and cleaned up the payload bay. Grunsfeld became probably the
+last person to touch the telescope, after accidentally knocking into the
+spacecraft's low gain antenna.
+
+[Note: NASA measures its Shuttle and Quest spacewalks from the
+switch-to-battery event until repressurization; for consistency across
+countries, vehicles, and decades, I measure all kinds of spacewalks
+using estimates of the 50 mbar (0.7 psi) pressure level, and I also
+record hatch open/close times.]
+
+HST was released at 1257 UTC on May 19 after the servicing was complete.
+Atlantis fired its OMS engines for deorbit at 1424 UTC on May 24, and
+landed at 1539 UTC on Runway 22 at Edwards Air Force Base.
+
+STS-125 cargo manifest
+  ----------------------
+
+  Name                             Bay location   Mass (kg,guess)
+
+  Orbiter Docking System           1-2            1800
+   with EMU 3006, 3004, 3015, 3017 suits           480?                  
+  APC/SPDU                         3 port           17?
+  SLIC /COPE with                  4-5            2990
+    Wide Field Camera 3
+  ORUC COS/RSU/FGS                 7-8            3339
+    Cosmic Origins Spectrograph
+    Fine Guidance Sensor, gyros
+  GABA/MFR                         10P              50?
+  GABA/PFR                         10S              50?
+  HST-FSS/BAPS/SCM                 11             2177         
+    Berthing and Positioning Sys
+    Soft Capture Mechanism
+  MULE                             12             1409
+    RNS, NOBL blankets
+  RMS 301                          Sill            410  
+  OBSS                             Sill            382? 
+ ------------------------------------------------------ 
+                                   Cargo total   13104 kg
+
+
+
+Gennadiy Padalka (Russian Space Agency), Mike Barratt (NASA), and Koichi
+Wakata (Japan-JAXA) are aboard the Station with Soyuz TMA-14 docked to
+it. Progress M-66 undocked from the station on May 6 at 1518 UTC;
+Progress M-02M was launched on May 7 at 1837 UTC and docked with Pirs at
+1924 UTC on May 12. On May 27, Roman Romanenko (Russian Space Agency),
+Frank DeWinne (European Space Agency) and Bob Thirsk (Canadian Space
+Agency) were launched in Soyuz TMA-15. They will dock with the Station
+and increase the crew size to its operational level of six.
+
+Following a lead from Igor Lissov, I now consider that  the Dzhezkazgan,
+Kazakhstan landing site I mentioned in the last issue should really be
+written Zhezqazghan, Qazaqstan, following the CESR standard for the
+transcription of the Qazaq alphabet.
+
+
+Herschel-Planck
+---------------
+
+Arianespace launched an Ariane 5ECA from Kourou on May 14. The rocket is
+carrying the Herschel and Planck observatories. After the EPC core stage
+separated into a mildly suborbital -588 x 267 km x 5.70 orbit, the ESC-A
+stage ignited for a long injection burn, sending Planck and Herschel
+into a 270 x 1193622 km x 6 deg transfer orbit on the way to the
+Earth-Sun L2 Lagrange point.
+
+Observers have detected six objects associated with the H/P launch with
+apogees from 1 to 2 million km; only four were expected (Herschel,
+Planck, ESC-A and Sylda).
+
+
+Kosmos-2450
+------------
+
+Kosmos-2450 was launched on a Soyuz-U from Plesetsk on Apr 29 into a 67
+degree inclination orbit. It is probably a Kobal't-M class imaging
+reconnaissance satellite. On May 26 it was in a 178 x 324 km
+x 67.1 deg orbit.
+
+STSS-ATRR
+---------
+
+The US Missile Defense Agency's STSS ATRR satellite was launched on May
+5. Also given the codename USA 205, the Advanced Technology Risk
+Reduction satellite is the first launch in the STSS (Space Tracking and
+Surveillance System) series. The secret satellite may be using a General
+Dynamics (former Spectrum Astro) SA-200 bus, with Northrop Grumman Space
+Technology acting as overall system prime contractor; a satellite of
+around 2000 kg is a reasonable guess given the launch vehicle and orbit,
+although some MDA statements may imply a smaller payload.
+
+The satellite has been found by indepedent observers in a 867 x 878 km x
+98.9 deg orbit. The Delta 7920-10C took off at 2024 UTC and reached a
+transfer orbit of around 165 x 871 km at 2034 UTC. The second stage
+restarted at 2117 UTC over around 44E 26S to enter the 867 x 878 km
+target orbit, and then separated from the payload at 2122 UTC. Following
+an evasive burn at 2154 UTC and a depletion burn at 2207 UTC over 148W
+30N, the empty stage was left in a retrograde orbit of about 250 x 900
+km x 112.8 deg, decaying to 232 x 802 km x 112.6 deg by May 10.
+
+
+Protostar 2
+------------
+
+International Launch Services and Khrunichev launched a Proton-M/Briz-M
+on May 16 carrying the Protostar 2 satellite. Protostar 2, also known
+as Indostar II, will replace Indostar I (Cakrawarta) providing comms
+to Indonesia. The satellte is owned by Protostar Ltd., which is
+officially based in Bermuda but with offices in the San Francisco area.
+The ILS launch annoucments talk of Protostar as a Bermuda
+based company; this implies that Protostar I and II should be
+registered with the United Nations OOSA by the UK rather than by the US.
+
+Indostar-II/Protostar 2 is a  Boeing 601HP class satellite with a launch
+mass of 3905 kg; it is 4.1 x 10 x 26m in size when deployed.
+
+Tacsat 3
+--------
+
+Tacsat 3 was launched to a 432 x 467 km x 40.5 deg orbit on May 19. The
+USAF experimental imaging satellite used a Minotaur I rocket and was
+launched from Wallops Island. Along with the main payload, NASA's
+Pharmasat and three small 10-cm cubesats were deployed. The cubesats
+were CP6 for Cal Poly, HawkSat-1 for the Hawk Institute for Space
+Sciences, and Aerocube 3 for the Aerospace Corp.
+
+Meridian 2
+----------
+
+Russia's second Meridian military communications satellite was launched
+by Soyuz-Fregat from Plesetsk on May 21 into a 290 x 36460 km x 62.8 deg
+orbit. This is lower than the expected 1000 x 39800 km orbit. and
+suggests that the second Fregat burn was cut short and the third one did
+not occur.  According to a report on the Novosti Kosmonavtiki forum, the
+third stage cut off 5s early; the Fregat tried to make up the difference
+but ran dry during the second burn at around 2247 UTC. Meridian separated
+at 0013 UTC on May 22; the third burn would have been at about 0500 UTC
+during first apogee.
+
+TASS indicates that this launch will be given a Kosmos cover name, - it
+would be Kosmos-2451 - but Vesti and Interfaks give the Meridian name
+explicitly.
+
+Table of Recent (orbital) Launches
+----------------------------------
+Date UT       Name            Launch Vehicle  Site            Mission    INTL.  
+                                                                          DES.
+Mar  7 0350   Kepler            Delta 7920-10L   Canaveral SLC17B  Astronomy 11A
+Mar 15 2343   Discovery STS-119 Space Shuttle    Kennedy LC39A     Spaceship 12A
+Mar 17 1421   GOCE              Rokot            Plesetsk LC133/3  Science   13A
+Mar 24 0834   GPS 49            Delta 7925       Canaveral SLC17A  Nav       14A
+Mar 26 1149   Soyuz TMA-14      Soyuz-FG         Baykonur LC1      Spaceship 15A
+Apr  3 1624   Eutelsat W2A      Proton-M/Briz-M  Baykonur LC200/39 Comms     16A
+Apr  4 0031   WGS SV2 (USA 204) Atlas V 421      Canaveral SLC41   Comms     17A
+Apr  5 0230   Kwangmyongsong 2  Unha-2           Tonghae           Test      F02
+Apr 14 1616   2 Beidou Dao.Wei. Chang Zheng 3C   Xichang           Nav       18A
+Apr 20 0115   RISAT-2  )        PSLV-CA          Sriharikota SLP   Radar     19A
+              Anusat   )                                           Imaging   19B
+Apr 20 0816   SICRAL 1B         Zenit-3SL        SL Odyssey        Comms     20A
+Apr 22 0255   China Yaogan 6    Chang Zheng 2C   Taiyuan           Imaging?  21A
+Apr 29 1658   Kosmos-2450       Soyuz-U          Plesetsk          Imaging   22A
+May  5 2024   STSS-ATRR         Delta 7920-10C   Vandenberg SLC2W  Tech      23A
+May  7 1837   Progress M-02M    Soyuz-U          Baykonur LC1      Cargo     24A
+May 11 1802   Atlantis STS-125  Space Shuttle    Kennedy LC39A     Spaceship 25A 
+May 14 1312   Herschel )        Ariane 5ECA      Kourou ELA3       Astronomy 26A
+              Planck   )                                           Astronomy 26B
+May 16 0057   Protostar-2       Proton-M/Briz-M  Baykonur          Comms     27A
+May 19 2355   Tacsat 3    )     Minotaur I       Wallops LA0B      Imaging   28A
+              Pharmasat   )                                        Bio       28
+              Aerocube 3  )                                        Tech      28C
+              CP6         )                                        Tech      28
+              HawkSat-1   )                                        Tech      28
+May 21 2153   Meridian 2        Soyuz-2-1a/Fregat Plesetsk LC43/4  Comms     29A
+May 27 1034   Soyuz TMA-15      Soyuz-FG         Baykonur LC1      Spaceship 30A
+
+Table of Recent (suborbital) Launches
+----------------------------------
+
+Date UT     Payload/Flt Name  Launch Vehicle  Site            Mission    Apogee/km
+Mar  6 1054   Target          Dhanush         Ship, Chandipur Target       120
+Mar  6 1100?  Interceptor     Prithvi         Chandipur IC4   ABM Test      75?
+Mar 12 1008   SSC REXUS 6     Imp. Orion      Esrange         Ionos./Tech   88
+Mar 13 0600   SSC REXUS 5     Imp. Orion      Esrange         Atmos./Tech   87
+Mar 18 0025?  THAAD Target    Unknown         Kauai           Target       100?
+Mar 18 0030   THAAD KV        THAAD           Kauai           ABM Test     100?
+Mar 18 0030   THAAD KV        THAAD           Kauai           ABM Test     100?
+Mar 20 1104   NASA 40.023UE   Black Brant XII Poker Flat      Aurora       560?
+              + 4 subpayloads
+Mar 25 1325   PAC-3 Target    Hera            Fort Wingate    Target       100?
+Apr 10 0810   RV              Topol'          Plesetsk        Op Test     1000?
+May  7        HIFIRE-0        Terrier Orion?  Woomera         Hypersonic   200?
+May 20        RV              Sejjil-2        Semnan          Test         800
+May 22 1032   MAPHEUS         Nike Orion      Esrange         Micrograv    140
+
+.-------------------------------------------------------------------------.
+|  Jonathan McDowell                 |  phone : (617) 495-7176            |
+|  Somerville MA 02143               |  inter : jcm@host.planet4589.org   |
+|  USA                               |          jcm@cfa.harvard.edu       |
+|                                                                         |
+| JSR: http://www.planet4589.org/jsr.html                                 |
+| Back issues:  http://www.planet4589.org/space/jsr/back                  |
+| Subscribe/unsub: mail majordomo@host.planet4589.org, (un)subscribe jsr  |   
+'-------------------------------------------------------------------------'   
+
